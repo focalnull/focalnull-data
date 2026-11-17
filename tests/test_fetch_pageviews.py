@@ -18,12 +18,11 @@ class PageviewTests(unittest.TestCase):
         with self.assertRaises(p.ShapeError):
             p.page_total({"title": "A", "pageviews": [1, 2]})
 
-    def test_redirects_and_normalised_titles_map_back(self):
+    def test_normalised_titles_map_back_and_redirect_pages_keep_their_own_count(self):
         replies = [
             {"continue": {"pvipcontinue": "B", "continue": "||"},
              "query": {"normalized": [{"from": "a_game", "to": "A game"}],
-                       "redirects": [{"from": "A game", "to": "A Game (video game)"}],
-                       "pages": [{"title": "A Game (video game)", "pageviews": {"d1": 5, "d2": 7}},
+                       "pages": [{"title": "A game", "redirect": True, "pageviews": {"d1": 5, "d2": 7}},
                                  {"title": "Gone", "missing": True, "pageviews": {"d1": None}}]}},
             {"batchcomplete": True,
              "query": {"pages": [{"title": "B", "pageviews": {"d1": 3}}]}},
