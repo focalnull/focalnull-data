@@ -17,7 +17,7 @@ Keeping it public felt right. The data came from open communities, so the matche
 | Path | What it holds |
 |---|---|
 | `matched/` | One record per game, spread over 1,000 small JSON files by the last three digits of its Wikidata number (for example, Q15727 lives in `727.json`). Each record has the game's English name, its English Wikipedia article and the IDs other sites use for it |
-| `sources/<name>/` | One folder per extra source: a `LICENSE-DATA.md` saying what we take, its licence and its credit, plus that source's data file (for example `sources/protondb/summary.json`) |
+| `sources/<name>/` | One folder per extra source: a `LICENSE-DATA.md` saying what we take, its licence and its credit, plus that source's data file (for example `sources/protondb/summary.json`, or `sources/commons/files.json` for image licences and credits) |
 | `scripts/` | The small scripts that fetch each source (Python, no extra packages) |
 | `tests/` | Checks that run on every change |
 | `.github/workflows/` | The jobs that refresh the data |
@@ -45,6 +45,19 @@ Nothing here is copied from store pages, press kits or sites that don't offer an
 4. **Feed DropSlate.** Once a day, [DropSlate](https://dropslate.focalnull.com) reads these files and adds new or changed games to its calendar and catalogue, well-known games first. The app itself (calendar, game pages, design) lives elsewhere; this repository only holds open data and the small scripts that collect it.
 
 Every Sunday the jobs run in order: game IDs, then game details, then Wikipedia page views, then Commons metadata. ProtonDB is refreshed by hand about once a month, when a new export appears.
+
+## Using the images
+
+`sources/commons/files.json` lists every Wikimedia Commons image and logo our games point to, with what you need to reuse it fairly: the licence, the author, a ready-made credit line ("Author, Licence, via Wikimedia Commons") and links to the file and its page. The images themselves stay on Commons. Each file also gets a `reuse` value, our quick reading of its licence:
+
+| `reuse` | Licences | What it asks of you |
+|---|---|---|
+| `public-domain` | Public domain, CC0 | Nothing. Credit is still a kind thing to do |
+| `attribution` | CC BY, MIT, BSD, zlib, Apache, "Copyrighted free use" | Show the credit line and a link to the licence |
+| `share-alike` | CC BY-SA, GFDL, GPL family, CPL, Free Art License | The same, and a changed version (even a crop) keeps the same licence |
+| `check` | Anything unusual, or a licence that needs credit while the page names no author | Read the file's page before using it |
+
+Two more things worth knowing. Many game logos are public domain because they are only text, but they are still trade marks (`"restrictions": ["trademarked"]`), so use them to name the game, not to suggest a partnership. And a file marked `{"missing": true}` was deleted from Commons; the game's Wikidata entry still points to it and can be tidied up. The `reuse` value is a quick guide, not legal advice: the licence on the file's own page is what counts.
 
 ## Spotted a mistake?
 
