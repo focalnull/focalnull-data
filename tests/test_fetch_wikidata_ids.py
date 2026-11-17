@@ -38,5 +38,38 @@ class RecordTests(unittest.TestCase):
         self.assertNotIn("ids", f.record_from_entity({"id": "Q2", "claims": {}}))
 
 
+class FakeResponse:
+    def __init__(self, payload, headers=None):
+        self.payload, self.headers = payload, headers or {}
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *args):
+        return False
+
+    def read(self, *args):
+        import json
+        return json.dumps(self.payload).encode()
+
+
+class MaxlagTests(unittest.TestCase):
+    def test_waits_on_maxlag_then_succeeds(self):
+        from unittest import mock
+        replies = [FakeResponse({"error": {"code": "maxlag", "lag": 7}}), FakeResponse({"entities": {}})]
+        with mock.patch.object(f.urllib.request, "urlopen", side_effect=replies), \
+                mock.patch.object(f.time, "sleep") as sleep:
+            self.assertEqual(f.request_json("https://example.org", {}), {"entities": {}})
+        sleep.assert_called_once_with(7.0)
+
+    def test_gives_up_after_the_last_try(self):
+        from unittest import mock
+        reply = FakeResponse({"error": {"code": "maxlag", "lag": 1}})
+        with mock.patch.object(f.urllib.request, "urlopen", return_value=reply), \
+                mock.patch.object(f.time, "sleep"):
+            with self.assertRaises(RuntimeError):
+                f.request_json("https://example.org", {}, tries=3)
+
+
 if __name__ == "__main__":
     unittest.main()
