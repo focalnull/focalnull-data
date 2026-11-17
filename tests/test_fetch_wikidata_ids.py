@@ -31,6 +31,10 @@ class RecordTests(unittest.TestCase):
         self.assertEqual(record["enwiki"], "Example Game")
         self.assertEqual(record["ids"], {"steam": "620", "pcgamingwiki": "Example_Game"})
 
+    def test_label_falls_back_to_the_default_for_all_languages(self):
+        record = f.record_from_entity({"id": "Q3", "labels": {"mul": {"value": "Tetris"}}})
+        self.assertEqual(record["label_en"], "Tetris")
+
     def test_missing_entities_are_skipped(self):
         self.assertIsNone(f.record_from_entity({"id": "Q1", "missing": ""}))
 
