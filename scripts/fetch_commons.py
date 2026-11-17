@@ -36,6 +36,7 @@ from fetch_wikidata_ids import request_json  # noqa: E402  (User-Agent with our 
 ROOT = Path(__file__).resolve().parent.parent
 DETAILS = ROOT / "sources" / "wikidata-details" / "games"
 OUT = ROOT / "sources" / "commons" / "files.json"
+CREDITS = ROOT / "sources" / "commons" / "credits.json"  # hand-checked authors for pages that name none
 API_URL = "https://commons.wikimedia.org/w/api.php"
 BATCH = 50
 FORMAT = 1
@@ -145,7 +146,7 @@ def without_tracking(url: str) -> str:
     return urllib.parse.urlunsplit(parts._replace(query=urllib.parse.urlencode(query)))
 
 
-def file_record(page: dict) -> dict:
+def file_record(page: dict, credit: dict | None = None) -> dict:
     """One entry for files.json from one page of the API answer."""
     title = page.get("title")
     if not isinstance(title, str) or not title.startswith("File:"):
@@ -167,12 +168,18 @@ def file_record(page: dict) -> dict:
     code = meta(extmetadata, "License").strip()
     restrictions = sorted({r for r in meta(extmetadata, "Restrictions").split("|") if r.strip()})
     author = plain_text(meta(extmetadata, "Attribution")) or plain_text(meta(extmetadata, "Artist"))
+    author_from = None
+    if not author and credit and credit.get("author"):
+        # Commons names no author: use the name we checked by hand on the file page (credits.json).
+        author, author_from = credit["author"], "credits.json"
     reuse = reuse_class(code, licence, meta(extmetadata, "NonFree"))
     required = meta(extmetadata, "AttributionRequired").strip().lower()
     # Some pages don't say; then the licence decides (CC BY, GPL... always need credit).
     needs_credit = required == "true" or (required != "false" and reuse in (ATTRIBUTION, SHARE_ALIKE))
     if needs_credit and not author:
         reuse = CHECK  # credit is required but Commons names no author: a person reads the page first
+    if credit and credit.get("check"):
+        reuse = CHECK  # we read the page and found a reason to hold the file back (see "note")
     record = {
         "page": info["descriptionurl"],
         "url": without_tracking(info["url"]),
@@ -186,6 +193,8 @@ def file_record(page: dict) -> dict:
         "reuse": reuse,
         "attribution_required": needs_credit,
         "author": author or None,
+        "author_from": author_from,
+        "note": (credit or {}).get("note") if (credit and (author_from or credit.get("check"))) else None,
         "source": plain_text(meta(extmetadata, "Credit")) or None,
         "restrictions": restrictions,
     }
@@ -197,7 +206,7 @@ def file_record(page: dict) -> dict:
     return {k: v for k, v in record.items() if v is not None and v != [] and v != ""}
 
 
-def fetch_batch(names: list[str]) -> dict[str, dict]:
+def fetch_batch(names: list[str], credits: dict | None = None) -> dict[str, dict]:
     """Entries for up to 50 file names (as Wikidata writes them, without "File:")."""
     params = {
         "action": "query", "format": "json", "formatversion": "2", "redirects": "1",
@@ -233,7 +242,7 @@ def fetch_batch(names: list[str]) -> dict[str, dict]:
         page = by_title.get(title)
         if page is None:
             raise ShapeError(f"Commons did not answer for {name!r}")
-        found[name] = file_record(dict(page, _requested=name))
+        found[name] = file_record(dict(page, _requested=name), (credits or {}).get(name))
     return found
 
 
@@ -255,6 +264,19 @@ def wanted_files() -> dict[str, set[str]]:
                     if isinstance(name, str) and name.strip() and "|" not in name:
                         wanted.setdefault(name.strip(), set()).add(use)
     return dict(sorted(wanted.items()))
+
+
+def read_credits(path: Path | None = None) -> dict:
+    """Hand-checked authors: {"format": 1, "files": {name: {"author", "note", "checked"} or {"check": true, "note"}}}."""
+    path = path or CREDITS
+    if not path.exists():
+        return {}
+    files = json.loads(path.read_text(encoding="utf-8")).get("files")
+    if not isinstance(files, dict) or not all(
+            isinstance(v, dict) and isinstance(v.get("note"), str) and (v.get("author") or v.get("check"))
+            for v in files.values()):
+        raise ShapeError(f"{path.name}: every entry needs a note and an author (or \"check\": true)")
+    return files
 
 
 def read_files(path: Path | None = None) -> dict:
@@ -308,12 +330,13 @@ def main() -> int:
     names = list(wanted)[: args.limit] if args.limit else list(wanted)
     print(f"Checking {len(names)} of {len(wanted)} Commons files", flush=True)
     previous = read_files()
+    credits = read_credits()
     fetched: dict[str, dict] = {}
     failure = None
     started = time.monotonic()
     for start in range(0, len(names), BATCH):
         try:
-            fetched.update(fetch_batch(names[start:start + BATCH]))
+            fetched.update(fetch_batch(names[start:start + BATCH], credits))
         except (SystemExit, Exception) as err:  # save what we have, then report the problem
             failure = err
             break

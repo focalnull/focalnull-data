@@ -57,6 +57,8 @@ Every Sunday the jobs run in order: game IDs, then game details, then Wikipedia 
 | `share-alike` | CC BY-SA, GFDL, GPL family, CPL, Free Art License | The same, and a changed version (even a crop) keeps the same licence |
 | `check` | Anything unusual, or a licence that needs credit while the page names no author | Read the file's page before using it |
 
+Some older Commons pages never say who made the image. For those we checked the page by hand and wrote the name into `sources/commons/credits.json`, each with a note on where it comes from; entries that use it show `"author_from": "credits.json"`.
+
 Two more things worth knowing. Many game logos are public domain because they are only text, but they are still trade marks (`"restrictions": ["trademarked"]`), so use them to name the game, not to suggest a partnership. And a file marked `{"missing": true}` was deleted from Commons; the game's Wikidata entry still points to it and can be tidied up. The `reuse` value is a quick guide, not legal advice: the licence on the file's own page is what counts.
 
 ## Spotted a mistake?

@@ -14,9 +14,11 @@
     - `attribution` — CC BY, MIT, BSD, zlib, Apache, "Copyrighted free use" and similar: free to reuse with the credit line and a link to the licence (for "Copyrighted free use" Commons doesn't ask for credit, but we give it anyway);
     - `share-alike` — CC BY-SA, GFDL, GPL, LGPL, AGPL, CPL, Free Art License and similar: free to reuse with the credit line and a link to the licence; a changed version (for example a crop) must be shared under the same licence;
     - `check` — unusual or missing licence information, or a licence that needs credit while the page names no author: a person reads the file page before the file is used;
+  - `author_from: "credits.json"` and `note`, when the Commons page names no author and we added the name by hand from what the page itself says (see below);
   - `used_as`: `image`, `logo` or both;
   - `title`, only when Commons knows the file under another name (a rename with a redirect);
   - `{"missing": true}` instead of all this when the file no longer exists on Commons (deleted, or renamed without a redirect) — worth fixing on Wikidata.
+- **`credits.json` (hand-checked):** some older Commons pages, mostly screenshots and icons of free games, never filled in the author field, so Commons can't tell us who to credit. For those we read the page and wrote down the right name, with a note saying where it comes from (for example "the page says: moral author Pumpkin Studios…", or "<game> developers" for a free game's own icon). We only use it when Commons names no author, never to replace one. A file can also be held back on purpose (`"check": true`) when its licence looks doubtful. The best fix is still on Commons itself: once a page gets a proper author, its entry here can go.
 - **Between runs:** a file we could not check in a run keeps its last entry; files no game uses any more are removed only after a complete run.
 - **Not legal advice.** The `reuse` value is a quick guide; the licence on the file's Commons page is what counts.
 - **Script:** `scripts/fetch_commons.py` · **Workflow:** *Refresh Commons metadata* (Sundays, after game details)

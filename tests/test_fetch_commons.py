@@ -154,6 +154,24 @@ class FetchTests(unittest.TestCase):
         self.assertNotIn("author", entry)
 
 
+    def test_hand_checked_credit_fills_a_missing_author(self):
+        credits = {"ZX Laser Squad.png": {"author": "Julian Gollop", "note": "named on the page"},
+                   "MegaMek.png": {"check": True, "note": "doubtful licence"}}
+        with mock.patch.object(c, "request_json", return_value=json.loads(json.dumps(REPLY))):
+            found = c.fetch_batch(ASKED, credits)
+        zx = found["ZX Laser Squad.png"]
+        self.assertEqual((zx["author"], zx["author_from"], zx["reuse"]), ("Julian Gollop", "credits.json", "attribution"))
+        self.assertEqual(zx["credit_line"], "Julian Gollop, Attribution, via Wikimedia Commons")
+        self.assertEqual(zx["note"], "named on the page")
+        self.assertEqual(found["MegaMek.png"]["reuse"], "check")  # held back on purpose
+        self.assertEqual(found["MegaMek.png"]["author"], "MegaMek team")  # Commons' own author is kept
+        # A credit never replaces an author Commons already names.
+        with mock.patch.object(c, "request_json", return_value=json.loads(json.dumps(REPLY))):
+            arcade = c.fetch_batch(ASKED, {"Arcade game.jpg": {"author": "Someone else", "note": "x"}})["Arcade game.jpg"]
+        self.assertEqual(arcade["author"], "Tiia Monto")
+        self.assertNotIn("author_from", arcade)
+
+
 class ShapeTests(unittest.TestCase):
     def run_with(self, reply, names=("A.png",)):
         with mock.patch.object(c, "request_json", return_value=reply):
@@ -220,6 +238,16 @@ class FileTests(unittest.TestCase):
             self.assertEqual(json.loads(text), {"format": 1, "as_of": "2026-11-22", "files": files})
             self.assertEqual(len(text.splitlines()), 4)  # one file per line, small diffs between runs
             self.assertEqual(c.read_files(path), files)
+
+    def test_credits_file(self):
+        self.assertTrue(c.read_credits())  # the committed file is valid
+        for credit in c.read_credits().values():
+            self.assertTrue(credit["note"])
+        with tempfile.TemporaryDirectory() as folder:
+            bad = Path(folder) / "credits.json"
+            bad.write_text(json.dumps({"format": 1, "files": {"A.png": {"author": "X"}}}), encoding="utf-8")
+            with self.assertRaises(c.ShapeError):
+                c.read_credits(bad)  # no note: where did the name come from?
 
     def test_wanted_files_reads_images_and_logos(self):
         with tempfile.TemporaryDirectory() as folder:
