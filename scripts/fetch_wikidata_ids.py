@@ -40,9 +40,23 @@ LIST_QUERY = """SELECT DISTINCT ?game WHERE {
 }"""
 
 
-def request_json(url: str, data: dict | None = None, tries: int = 6) -> dict:
+class Lagged(Exception):
+    """Wikidata asked us to wait (maxlag): its replicas are behind."""
+
+    def __init__(self, wait: float):
+        super().__init__(f"Wikidata is lagging; asked to wait {wait:.0f} s")
+        self.wait = wait
+
+
+def request_json(url: str, data: dict | None = None, tries: int = 40) -> dict:
+    """Fetch JSON, waiting politely when Wikidata is busy.
+
+    maxlag replies are normal when Wikidata is under load: we wait as long as it
+    asks (at least 5 s, at most 120 s) and try again, up to `tries` times
+    (~20+ minutes in the worst case) before giving up.
+    """
     body = urllib.parse.urlencode(data).encode() if data is not None else None
-    for attempt in range(tries):
+    for attempt in range(1, tries + 1):
         req = urllib.request.Request(url, data=body, headers={
             "User-Agent": USER_AGENT,
             "Accept": "application/sparql-results+json, application/json",
@@ -50,18 +64,26 @@ def request_json(url: str, data: dict | None = None, tries: int = 6) -> dict:
         try:
             with urllib.request.urlopen(req, timeout=120) as resp:
                 payload = json.load(resp)
-            if isinstance(payload, dict) and payload.get("error", {}).get("code") == "maxlag":
-                raise urllib.error.HTTPError(url, 503, "maxlag", {}, None)
+                retry_after = resp.headers.get("Retry-After")
+            error = payload.get("error", {}) if isinstance(payload, dict) else {}
+            if error.get("code") == "maxlag":
+                raise Lagged(float(retry_after or error.get("lag") or 5))
             return payload
+        except Lagged as lagged:
+            if attempt == tries:
+                raise RuntimeError(f"Gave up after {tries} tries: {lagged}") from None
+            wait = min(max(lagged.wait, 5.0), 120.0)
         except urllib.error.HTTPError as err:
-            if err.code not in (429, 500, 502, 503, 504) or attempt == tries - 1:
+            if err.code not in (429, 500, 502, 503, 504) or attempt == tries:
                 raise
-            wait = int(err.headers.get("Retry-After", 0) or 0) if err.headers else 0
-            time.sleep(max(wait, 5 * (attempt + 1)))
+            header = err.headers.get("Retry-After") if err.headers else None
+            wait = min(max(float(header) if header and header.isdigit() else 0, 5.0 * attempt), 120.0)
         except urllib.error.URLError:
-            if attempt == tries - 1:
+            if attempt == tries:
                 raise
-            time.sleep(5 * (attempt + 1))
+            wait = min(5.0 * attempt, 120.0)
+        print(f"  waiting {wait:.0f} s before retry {attempt + 1}/{tries}", flush=True)
+        time.sleep(wait)
     raise RuntimeError("unreachable")
 
 
