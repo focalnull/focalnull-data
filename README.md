@@ -16,8 +16,9 @@ Keeping it public felt right. The data came from open communities, so the matche
 
 | Folder | What it holds |
 |---|---|
-| `sources/<name>/` | One folder per source: a small script that fetches it, and a `LICENSE-DATA.md` with that source's licence and credit |
-| `matched/` | One small JSON file per game, named after its Wikidata ID (for example `Q15727.json`), combining everything we're allowed to combine |
+| `sources/<name>/` | One folder per source, with a `LICENSE-DATA.md` describing what we take, its licence and its credit |
+| `scripts/` | The small scripts that fetch each source |
+| `matched/` | The combined records, spread over 1,000 small JSON files by the last three digits of each game's Wikidata number (for example, Q15727 lives in `727.json`) |
 | `.github/workflows/` | The scheduled job that refreshes the data |
 
 Every game is keyed by its **Wikidata ID**. Wikidata already links most games to their Steam, GOG, IGDB, MobyGames and PCGamingWiki pages, so that ID is what lets the sources line up.
