@@ -8,5 +8,1212 @@
   },
   "label_en": "Bio Miracle Bokutte Upa",
   "wikidata": "Q27296"
+ },
+ {
+  "enwiki": "Spider-Man (2000 video game)",
+  "ids": {
+   "igdb": "spider-man--5",
+   "mobygames": "4333",
+   "pcgamingwiki": "Spider-Man_(2001)"
+  },
+  "label_en": "Spider-Man",
+  "wikidata": "Q288296"
+ },
+ {
+  "enwiki": "Special Force (2004 video game)",
+  "ids": {
+   "igdb": "soldier-front"
+  },
+  "label_en": "Special Force",
+  "wikidata": "Q497296"
+ },
+ {
+  "enwiki": "Ninja Reflex",
+  "ids": {
+   "howlongtobeat": "6635",
+   "igdb": "ninja-reflex",
+   "mobygames": "34677",
+   "pcgamingwiki": "Ninja_Reflex",
+   "steam": "13000"
+  },
+  "label_en": "Ninja Reflex",
+  "wikidata": "Q846296"
+ },
+ {
+  "enwiki": "Prototype 2",
+  "ids": {
+   "howlongtobeat": "7366",
+   "igdb": "prototype-2",
+   "mobygames": "55782",
+   "pcgamingwiki": "Prototype_2",
+   "steam": "115320"
+  },
+  "label_en": "Prototype 2",
+  "wikidata": "Q2075296"
+ },
+ {
+  "enwiki": "War of the Worlds (video game)",
+  "ids": {
+   "igdb": "war-of-the-worlds--1"
+  },
+  "label_en": "War of the Worlds",
+  "wikidata": "Q2284296"
+ },
+ {
+  "enwiki": "Axelay",
+  "ids": {
+   "howlongtobeat": "759",
+   "igdb": "axelay",
+   "mobygames": "6637"
+  },
+  "label_en": "Axelay",
+  "wikidata": "Q2414296"
+ },
+ {
+  "enwiki": "Spelunky",
+  "ids": {
+   "gog": "game/spelunky",
+   "howlongtobeat": "8932",
+   "igdb": "spelunky",
+   "mobygames": "43992",
+   "pcgamingwiki": "Spelunky",
+   "steam": "239350"
+  },
+  "label_en": "Spelunky",
+  "wikidata": "Q2700296"
+ },
+ {
+  "enwiki": "Bass Masters Classic: Pro Edition",
+  "ids": {
+   "howlongtobeat": "47724",
+   "igdb": "bass-masters-classic-pro-edition",
+   "mobygames": "36601"
+  },
+  "label_en": "Bass Masters Classic: Pro Edition",
+  "wikidata": "Q2887296"
+ },
+ {
+  "ids": {
+   "mobygames": "139024"
+  },
+  "label_en": "Samurai Shodown!",
+  "wikidata": "Q3471296"
+ },
+ {
+  "ids": {
+   "igdb": "super-street-fighter-ii-the-tournament-battle"
+  },
+  "label_en": "Super Street Fighter II: The Tournament Battle",
+  "wikidata": "Q3504296"
+ },
+ {
+  "label_en": "Bucket Filling Game",
+  "wikidata": "Q3646296"
+ },
+ {
+  "label_en": "Shin Megami Tensei: Devil Children – Book of Fire and Book of Ice",
+  "wikidata": "Q3706296"
+ },
+ {
+  "enwiki": "RoboWarrior",
+  "ids": {
+   "igdb": "robowarrior",
+   "mobygames": "15084"
+  },
+  "label_en": "RoboWarrior",
+  "wikidata": "Q3939296"
+ },
+ {
+  "enwiki": "Power Blade 2",
+  "ids": {
+   "igdb": "power-blade-2",
+   "mobygames": "12334"
+  },
+  "label_en": "Power Blade 2",
+  "wikidata": "Q4047296"
+ },
+ {
+  "enwiki": "Vangers",
+  "ids": {
+   "gog": "game/vangers",
+   "howlongtobeat": "19581",
+   "igdb": "vangers",
+   "mobygames": "6934",
+   "pcgamingwiki": "Vangers",
+   "steam": "264080"
+  },
+  "label_en": "Vangers",
+  "wikidata": "Q4103296"
+ },
+ {
+  "enwiki": "Dark Legions",
+  "ids": {
+   "gog": "game/dark_legions",
+   "igdb": "dark-legions",
+   "mobygames": "1350",
+   "pcgamingwiki": "Dark_Legions",
+   "steam": "2414360"
+  },
+  "label_en": "Dark Legions",
+  "wikidata": "Q5223296"
+ },
+ {
+  "enwiki": "Dominant Species (video game)",
+  "ids": {
+   "igdb": "dominant-species",
+   "mobygames": "2771"
+  },
+  "label_en": "Dominant Species",
+  "wikidata": "Q5290296"
+ },
+ {
+  "enwiki": "Fatal Hearts",
+  "ids": {
+   "howlongtobeat": "3407",
+   "igdb": "fatal-hearts"
+  },
+  "label_en": "Fatal Hearts",
+  "wikidata": "Q5437296"
+ },
+ {
+  "enwiki": "Gekido",
+  "ids": {
+   "igdb": "gekido",
+   "mobygames": "22527"
+  },
+  "label_en": "Gekido",
+  "wikidata": "Q5530296"
+ },
+ {
+  "enwiki": "Little Britain: The Video Game",
+  "ids": {
+   "igdb": "little-britain-the-video-game",
+   "mobygames": "41712",
+   "pcgamingwiki": "Little_Britain:_The_Video_Game"
+  },
+  "label_en": "Little Britain: The Video Game",
+  "wikidata": "Q6649296"
+ },
+ {
+  "enwiki": "Robopon",
+  "ids": {
+   "igdb": "robopon-sun-version",
+   "mobygames": "77117"
+  },
+  "label_en": "Robopon Sun, Star, and Moon Versions",
+  "wikidata": "Q7353296"
+ },
+ {
+  "enwiki": "Wurm: Journey to the Center of the Earth",
+  "ids": {
+   "igdb": "wurm-journey-to-the-center-of-the-earth",
+   "mobygames": "26487"
+  },
+  "label_en": "Wurm: Journey to the Center of the Earth",
+  "wikidata": "Q8039296"
+ },
+ {
+  "label_en": "Fantastic Fortune",
+  "wikidata": "Q10933296"
+ },
+ {
+  "label_en": "Emmy",
+  "wikidata": "Q11198296"
+ },
+ {
+  "enwiki": "Strife (2015 video game)",
+  "ids": {
+   "howlongtobeat": "49541",
+   "igdb": "strife",
+   "mobygames": "108884",
+   "pcgamingwiki": "Strife_(MOBA)",
+   "steam": "339280"
+  },
+  "label_en": "Strife",
+  "wikidata": "Q16259296"
+ },
+ {
+  "enwiki": "Moomin's Tale",
+  "ids": {
+   "igdb": "moomins-tale",
+   "mobygames": "177988"
+  },
+  "label_en": "Moomin's Tale",
+  "wikidata": "Q19707296"
+ },
+ {
+  "ids": {
+   "mobygames": "25347"
+  },
+  "label_en": "Unreal Anthology",
+  "wikidata": "Q19915296"
+ },
+ {
+  "enwiki": "Dog Star Adventure",
+  "ids": {
+   "igdb": "dog-star-adventure",
+   "mobygames": "50026"
+  },
+  "label_en": "Dog Star Adventure",
+  "wikidata": "Q26207296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "12614",
+   "igdb": "bientot-lete",
+   "mobygames": "59682",
+   "pcgamingwiki": "Bientôt_l'été",
+   "steam": "229600"
+  },
+  "label_en": "Bientôt l'été",
+  "wikidata": "Q29998296"
+ },
+ {
+  "ids": {
+   "gog": "game/memorys_dogma_code01",
+   "howlongtobeat": "43286",
+   "igdb": "memorys-dogma-code-01",
+   "mobygames": "96918",
+   "pcgamingwiki": "Memory's_Dogma_CODE:01",
+   "steam": "386970"
+  },
+  "label_en": "Memory's Dogma CODE:01",
+  "wikidata": "Q32917296"
+ },
+ {
+  "ids": {
+   "gog": "game/heroes_of_hammerwatch",
+   "howlongtobeat": "53749",
+   "igdb": "heroes-of-hammerwatch",
+   "mobygames": "104413",
+   "pcgamingwiki": "Heroes_of_Hammerwatch",
+   "steam": "677120"
+  },
+  "label_en": "Heroes of Hammerwatch",
+  "wikidata": "Q61479296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "21698",
+   "igdb": "knight-squad",
+   "mobygames": "75820",
+   "pcgamingwiki": "Knight_Squad",
+   "steam": "294000"
+  },
+  "label_en": "Knight Squad",
+  "wikidata": "Q89408296"
+ },
+ {
+  "enwiki": "Devil May Cry 4: Special Edition",
+  "ids": {
+   "howlongtobeat": "27006",
+   "igdb": "devil-may-cry-4-special-edition",
+   "mobygames": "84500",
+   "pcgamingwiki": "Devil_May_Cry_4:_Special_Edition",
+   "steam": "329050"
+  },
+  "label_en": "Devil May Cry 4: Special Edition",
+  "wikidata": "Q96376296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "85761",
+   "igdb": "tramsim-vienna",
+   "mobygames": "152205",
+   "steam": "1314140"
+  },
+  "label_en": "TramSim",
+  "wikidata": "Q105954296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "67684",
+   "igdb": "vectronom",
+   "mobygames": "127659",
+   "pcgamingwiki": "Vectronom",
+   "steam": "925460"
+  },
+  "label_en": "Vectronom",
+  "wikidata": "Q106295296"
+ },
+ {
+  "ids": {
+   "epic": "aztech-forgotten-gods",
+   "gog": "game/aztech_forgotten_gods",
+   "howlongtobeat": "91092",
+   "igdb": "aztech-forgotten-gods",
+   "mobygames": "181051",
+   "pcgamingwiki": "Aztech:_Forgotten_Gods",
+   "steam": "1592320"
+  },
+  "label_en": "Aztech Forgotten Gods",
+  "wikidata": "Q106513296"
+ },
+ {
+  "enwiki": "World of Demons",
+  "ids": {
+   "igdb": "world-of-demons",
+   "mobygames": "162023",
+   "pcgamingwiki": "World_of_Demons"
+  },
+  "label_en": "World of Demons",
+  "wikidata": "Q106538296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "99073",
+   "igdb": "age-of-darkness-final-stand",
+   "mobygames": "173645",
+   "pcgamingwiki": "Age_of_Darkness",
+   "steam": "1426450"
+  },
+  "label_en": "Age of Darkness: Final Stand",
+  "wikidata": "Q109610296"
+ },
+ {
+  "ids": {
+   "igdb": "paintings-jigsaw-puzzles",
+   "mobygames": "188445",
+   "steam": "1543620"
+  },
+  "label_en": "Paintings Jigsaw Puzzles",
+  "wikidata": "Q111598296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "52828",
+   "igdb": "uptasia",
+   "mobygames": "151421",
+   "pcgamingwiki": "Uptasia",
+   "steam": "719730"
+  },
+  "label_en": "Uptasia",
+  "wikidata": "Q111665296"
+ },
+ {
+  "label_en": "@CameliaGirls: Cewek Cewek Camelia",
+  "wikidata": "Q111792296"
+ },
+ {
+  "ids": {
+   "igdb": "7swordsman",
+   "steam": "1814050"
+  },
+  "label_en": "7Swordsman",
+  "wikidata": "Q112147296"
+ },
+ {
+  "enwiki": "Deceive Inc.",
+  "ids": {
+   "epic": "deceive-inc",
+   "howlongtobeat": "109371",
+   "igdb": "deceive-inc",
+   "mobygames": "200819",
+   "pcgamingwiki": "Deceive_Inc.",
+   "steam": "820520"
+  },
+  "label_en": "Deceive Inc.",
+  "wikidata": "Q112434296"
+ },
+ {
+  "ids": {
+   "gog": "game/retro_classix_gate_of_doom",
+   "igdb": "johnny-turbos-arcade-gate-of-doom",
+   "mobygames": "46394",
+   "pcgamingwiki": "Gate_of_Doom",
+   "steam": "1540430"
+  },
+  "label_en": "Retro Classix: Gate of Doom",
+  "wikidata": "Q113031296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "97147",
+   "igdb": "buddy-and-lucky-solitaire",
+   "mobygames": "186998",
+   "pcgamingwiki": "Buddy_and_Lucky_Solitaire",
+   "steam": "1596750"
+  },
+  "label_en": "Buddy and Lucky Solitaire",
+  "wikidata": "Q113288296"
+ },
+ {
+  "enwiki": "Yume Nikki: Dream Diary",
+  "ids": {
+   "howlongtobeat": "53468",
+   "igdb": "yume-nikki-dream-diary",
+   "mobygames": "101917",
+   "pcgamingwiki": "Yumenikki:_Dream_Diary",
+   "steam": "774811"
+  },
+  "label_en": "Yume Nikki: Dream Diary",
+  "wikidata": "Q113624296"
+ },
+ {
+  "ids": {
+   "igdb": "home-designer-makeover-blast",
+   "mobygames": "186516",
+   "steam": "1736260"
+  },
+  "label_en": "Home Designer - Makeover Blast",
+  "wikidata": "Q113629296"
+ },
+ {
+  "enwiki": "EA Sports FC 24",
+  "ids": {
+   "howlongtobeat": "131658",
+   "igdb": "ea-sports-fc-24",
+   "pcgamingwiki": "EA_Sports_FC_24",
+   "steam": "2195250"
+  },
+  "label_en": "EA SPORTS FC™ 24",
+  "wikidata": "Q113835296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "18925",
+   "igdb": "unhack",
+   "mobygames": "107659",
+   "pcgamingwiki": "Unhack",
+   "steam": "340800"
+  },
+  "label_en": "Unhack",
+  "wikidata": "Q114735296"
+ },
+ {
+  "ids": {
+   "igdb": "molten-armor",
+   "pcgamingwiki": "Molten_Armor",
+   "steam": "693670"
+  },
+  "label_en": "Molten Armor",
+  "wikidata": "Q115207296"
+ },
+ {
+  "ids": {
+   "igdb": "choco-pixel-6",
+   "mobygames": "186151",
+   "pcgamingwiki": "Choco_Pixel_6",
+   "steam": "1339450"
+  },
+  "label_en": "Choco Pixel 6",
+  "wikidata": "Q116041296"
+ },
+ {
+  "label_en": "Connect Bricks",
+  "wikidata": "Q116315296"
+ },
+ {
+  "ids": {
+   "mobygames": "166711"
+  },
+  "label_en": "Blupimania",
+  "wikidata": "Q117842296"
+ },
+ {
+  "ids": {
+   "igdb": "fragments-note-plus-afterstory",
+   "steam": "2852400"
+  },
+  "label_en": "Fragment's Note+ AfterStory",
+  "wikidata": "Q119851296"
+ },
+ {
+  "enwiki": "Super Catboy",
+  "ids": {
+   "gog": "game/super_catboy",
+   "howlongtobeat": "132088",
+   "igdb": "super-catboy",
+   "mobygames": "206347",
+   "pcgamingwiki": "Super_Catboy",
+   "steam": "1376910"
+  },
+  "label_en": "Super Catboy",
+  "wikidata": "Q120670296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "48924",
+   "igdb": "crazy-ball-adventures",
+   "mobygames": "96289",
+   "pcgamingwiki": "Crazy_Ball_Adventures",
+   "steam": "655080"
+  },
+  "label_en": "Crazy Ball Adventures",
+  "wikidata": "Q121009296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "45256",
+   "igdb": "animal-lover",
+   "mobygames": "95471",
+   "pcgamingwiki": "Animal_Lover",
+   "steam": "542200"
+  },
+  "label_en": "Animal Lover",
+  "wikidata": "Q121125296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "144794",
+   "igdb": "unlock-the-block",
+   "steam": "1606760"
+  },
+  "label_en": "Unlock the Block",
+  "wikidata": "Q122236296"
+ },
+ {
+  "ids": {
+   "igdb": "catch-the-kids",
+   "pcgamingwiki": "Catch_The_Kids:_Priest_Simulator_Game",
+   "steam": "915730"
+  },
+  "label_en": "Catch The Kids: Priest Simulator Game",
+  "wikidata": "Q122271296"
+ },
+ {
+  "ids": {
+   "igdb": "invasion--9",
+   "steam": "2262070"
+  },
+  "label_en": "INVASION",
+  "wikidata": "Q122304296"
+ },
+ {
+  "ids": {
+   "igdb": "forbidden-place",
+   "steam": "1741220"
+  },
+  "label_en": "Forbidden place",
+  "wikidata": "Q122308296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "80435",
+   "igdb": "bone-appetit",
+   "mobygames": "152489",
+   "steam": "1256520"
+  },
+  "label_en": "Bone Appetit",
+  "wikidata": "Q122312296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "92611",
+   "igdb": "space-scavenger",
+   "mobygames": "169650",
+   "pcgamingwiki": "Space_Scavenger",
+   "steam": "1040460"
+  },
+  "label_en": "Space Scavenger",
+  "wikidata": "Q122314296"
+ },
+ {
+  "ids": {
+   "igdb": "art-of-destruction",
+   "mobygames": "182282",
+   "steam": "1645270"
+  },
+  "label_en": "Art of Destruction",
+  "wikidata": "Q122341296"
+ },
+ {
+  "ids": {
+   "igdb": "skeleton-troubles",
+   "steam": "1730030"
+  },
+  "label_en": "Skeleton Troubles",
+  "wikidata": "Q122342296"
+ },
+ {
+  "ids": {
+   "igdb": "cpt-balloney-painful-days-at-home",
+   "steam": "1563380"
+  },
+  "label_en": "Cpt.Balloney - painful days at home",
+  "wikidata": "Q122347296"
+ },
+ {
+  "ids": {
+   "igdb": "not-an-angels-erotic-puzzle",
+   "mobygames": "157149",
+   "pcgamingwiki": "Not_An_Angels:_Erotic_Puzzle",
+   "steam": "1148770"
+  },
+  "label_en": "Not An Angels: Erotic Puzzle",
+  "wikidata": "Q122373296"
+ },
+ {
+  "ids": {
+   "igdb": "dato-of-srivijaya",
+   "steam": "1454410"
+  },
+  "label_en": "Dato of Srivijaya",
+  "wikidata": "Q122374296"
+ },
+ {
+  "ids": {
+   "igdb": "piping-hot",
+   "pcgamingwiki": "Piping_Hot",
+   "steam": "1168160"
+  },
+  "label_en": "Piping Hot",
+  "wikidata": "Q122376296"
+ },
+ {
+  "ids": {
+   "igdb": "hero-defender",
+   "pcgamingwiki": "Statue_Defender",
+   "steam": "994170"
+  },
+  "label_en": "Statue Defender",
+  "wikidata": "Q122377296"
+ },
+ {
+  "ids": {
+   "gog": "game/unholy",
+   "howlongtobeat": "88819",
+   "igdb": "unholy",
+   "mobygames": "206202",
+   "pcgamingwiki": "Unholy",
+   "steam": "817020"
+  },
+  "label_en": "Unholy",
+  "wikidata": "Q122378296"
+ },
+ {
+  "ids": {
+   "igdb": "inexplicable-deaths-in-damipolis-inner-thoughts",
+   "mobygames": "155507",
+   "steam": "1341430"
+  },
+  "label_en": "Inexplicable Deaths In Damipolis: Inner Thoughts",
+  "wikidata": "Q122379296"
+ },
+ {
+  "ids": {
+   "igdb": "boxthetop",
+   "pcgamingwiki": "BoxTheTop",
+   "steam": "946950"
+  },
+  "label_en": "BoxTheTop",
+  "wikidata": "Q122383296"
+ },
+ {
+  "ids": {
+   "igdb": "laser-cup",
+   "steam": "1496220"
+  },
+  "label_en": "Laser Cup",
+  "wikidata": "Q122384296"
+ },
+ {
+  "ids": {
+   "igdb": "scary-new-year",
+   "mobygames": "109422",
+   "pcgamingwiki": "Scary_New_Year",
+   "steam": "776970"
+  },
+  "label_en": "Scary new year",
+  "wikidata": "Q122385296"
+ },
+ {
+  "ids": {
+   "igdb": "escape-from-the-depth",
+   "steam": "2308770"
+  },
+  "label_en": "Escape From The Depth",
+  "wikidata": "Q122386296"
+ },
+ {
+  "ids": {
+   "igdb": "king-of-the-dead",
+   "pcgamingwiki": "King_of_the_Dead",
+   "steam": "897950"
+  },
+  "label_en": "King of the Dead",
+  "wikidata": "Q122821296"
+ },
+ {
+  "ids": {
+   "igdb": "glitch-pets",
+   "pcgamingwiki": "Glitch_Pets",
+   "steam": "886630"
+  },
+  "label_en": "GlitchPets",
+  "wikidata": "Q122822296"
+ },
+ {
+  "ids": {
+   "igdb": "the-duduk-master",
+   "steam": "2279270"
+  },
+  "label_en": "The Duduk Master",
+  "wikidata": "Q122823296"
+ },
+ {
+  "ids": {
+   "igdb": "solar-fighters",
+   "pcgamingwiki": "Solar_Fighters",
+   "steam": "897770"
+  },
+  "label_en": "Solar Fighters",
+  "wikidata": "Q122824296"
+ },
+ {
+  "ids": {
+   "igdb": "circle-of-football",
+   "steam": "1245570"
+  },
+  "label_en": "Circle of Football (Soccer or Whatever)",
+  "wikidata": "Q122825296"
+ },
+ {
+  "ids": {
+   "igdb": "survival-rpg-2-the-temple-ruins",
+   "steam": "1491180"
+  },
+  "label_en": "Survival RPG 2: The Temple Ruins",
+  "wikidata": "Q123404296"
+ },
+ {
+  "ids": {
+   "igdb": "recca-no-honoo-flame-of-recca-final-burning"
+  },
+  "label_en": "Flame of Recca: Final Burning",
+  "wikidata": "Q123579296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "41534",
+   "igdb": "containment-initiative",
+   "pcgamingwiki": "Containment_Initiative",
+   "steam": "527700"
+  },
+  "label_en": "Containment Initiative",
+  "wikidata": "Q124064296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "73495",
+   "igdb": "el-ministerio-del-tiempo-vr-salva-el-tiempo",
+   "pcgamingwiki": "El_Ministerio_del_Tiempo_VR:_Salva_el_tiempo",
+   "steam": "716900"
+  },
+  "label_en": "El Ministerio del Tiempo VR: Salva el tiempo",
+  "wikidata": "Q124065296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "53792",
+   "igdb": "government-simulator",
+   "mobygames": "101690",
+   "pcgamingwiki": "Government_Simulator",
+   "steam": "731920"
+  },
+  "label_en": "Government Simulator",
+  "wikidata": "Q124066296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "48917",
+   "igdb": "kitten-adventures-in-city-park",
+   "mobygames": "218980",
+   "pcgamingwiki": "Kitten_Adventures_in_City_Park",
+   "steam": "643870"
+  },
+  "label_en": "Kitten Adventures in City Park",
+  "wikidata": "Q124067296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "51453",
+   "igdb": "neoboom2",
+   "mobygames": "98965",
+   "pcgamingwiki": "NeoBoom2",
+   "steam": "718220"
+  },
+  "label_en": "NeoBoom2",
+  "wikidata": "Q124068296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "64686",
+   "igdb": "overclocked",
+   "mobygames": "120434",
+   "pcgamingwiki": "Overclocked",
+   "steam": "745560"
+  },
+  "label_en": "Overclocked",
+  "wikidata": "Q124070296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "44810",
+   "igdb": "school-of-talent-suzu-route",
+   "mobygames": "107920",
+   "pcgamingwiki": "School_of_Talent:_Suzu-Route",
+   "steam": "573040"
+  },
+  "label_en": "School of Talent: SUZU-ROUTE",
+  "wikidata": "Q124073296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "90538",
+   "igdb": "starry-nights-helix",
+   "mobygames": "83867",
+   "pcgamingwiki": "Starry_Nights:_Helix",
+   "steam": "546180"
+  },
+  "label_en": "Starry Nights : Helix",
+  "wikidata": "Q124074296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "21101",
+   "igdb": "vlad-the-impaler",
+   "mobygames": "109647",
+   "pcgamingwiki": "Vlad_the_Impaler",
+   "steam": "295850"
+  },
+  "label_en": "Vlad the Impaler",
+  "wikidata": "Q124075296"
+ },
+ {
+  "label_en": "100 Great Educational Games V4",
+  "wikidata": "Q125956296"
+ },
+ {
+  "ids": {
+   "igdb": "botmobile",
+   "steam": "2805630"
+  },
+  "label_en": "BotMobile",
+  "wikidata": "Q126693296"
+ },
+ {
+  "ids": {
+   "epic": "silent-breath-902571",
+   "howlongtobeat": "148724",
+   "igdb": "silent-breath",
+   "steam": "2796180"
+  },
+  "label_en": "SILENT BREATH",
+  "wikidata": "Q126696296"
+ },
+ {
+  "ids": {
+   "igdb": "raiden-nova"
+  },
+  "label_en": "Raiden Nova",
+  "wikidata": "Q127386296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "17812",
+   "igdb": "rescue-everyday-heroes",
+   "mobygames": "85919",
+   "pcgamingwiki": "Rescue:_Everyday_Heroes"
+  },
+  "label_en": "Rescue: Everyday Heroes",
+  "wikidata": "Q133239296"
+ },
+ {
+  "enwiki": "Fossilized Wonders",
+  "ids": {
+   "igdb": "touhou-kinjoukyou-fossilized-wonders"
+  },
+  "label_en": "Touhou Kinjoukyou ~ Fossilized Wonders",
+  "wikidata": "Q133858296"
+ },
+ {
+  "ids": {
+   "steam": "2882660"
+  },
+  "label_en": "Untethered Playtest",
+  "wikidata": "Q134965296"
+ },
+ {
+  "ids": {
+   "igdb": "food-chain--1",
+   "mobygames": "160550",
+   "steam": "1247370"
+  },
+  "label_en": "Food Chain",
+  "wikidata": "Q134968296"
+ },
+ {
+  "ids": {
+   "igdb": "messier111",
+   "mobygames": "207884",
+   "steam": "1375420"
+  },
+  "label_en": "Messier111",
+  "wikidata": "Q134981296"
+ },
+ {
+  "enwiki": "Crash Nitro Kart (GBA video game)",
+  "ids": {
+   "igdb": "crash-nitro-kart--1",
+   "mobygames": "142084"
+  },
+  "label_en": "Crash Nitro Kart",
+  "wikidata": "Q134993296"
+ },
+ {
+  "ids": {
+   "igdb": "raptors-of-southedge",
+   "steam": "1550050"
+  },
+  "label_en": "Raptors of SouthEdge",
+  "wikidata": "Q134995296"
+ },
+ {
+  "ids": {
+   "igdb": "unknown-pyramid",
+   "steam": "2188790"
+  },
+  "label_en": "Unknown Pyramid",
+  "wikidata": "Q135015296"
+ },
+ {
+  "ids": {
+   "igdb": "neogeo-pocket-color-selection-vol-dot-2",
+   "mobygames": "195098",
+   "pcgamingwiki": "NeoGeo_Pocket_Color_Selection_Vol._2",
+   "steam": "1983850"
+  },
+  "label_en": "NEOGEO POCKET COLOR SELECTION Vol.2",
+  "wikidata": "Q135017296"
+ },
+ {
+  "ids": {
+   "igdb": "cosmic-strike-the-last-sub-sector",
+   "steam": "2060470"
+  },
+  "label_en": "COSMIC STRIKE - The last Sub Sector",
+  "wikidata": "Q135018296"
+ },
+ {
+  "ids": {
+   "igdb": "monster-mystery",
+   "steam": "2097160"
+  },
+  "label_en": "Monster Mystery",
+  "wikidata": "Q135019296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "160754",
+   "igdb": "crossover-roll-for-initiative",
+   "mobygames": "229452",
+   "steam": "1713080"
+  },
+  "label_en": "CrossOver: Roll For Initiative",
+  "wikidata": "Q135023296"
+ },
+ {
+  "ids": {
+   "igdb": "project-proxima",
+   "steam": "2425500"
+  },
+  "label_en": "Project Proxima",
+  "wikidata": "Q135031296"
+ },
+ {
+  "ids": {
+   "igdb": "save-the-sheep",
+   "steam": "2599070"
+  },
+  "label_en": "Save the sheep",
+  "wikidata": "Q135043296"
+ },
+ {
+  "ids": {
+   "igdb": "fantasy-senate-simulator",
+   "steam": "2640570"
+  },
+  "label_en": "Fantasy Senate Simulator",
+  "wikidata": "Q135044296"
+ },
+ {
+  "ids": {
+   "igdb": "delivery-mayhem",
+   "steam": "2745550"
+  },
+  "label_en": "Delivery Mayhem",
+  "wikidata": "Q135047296"
+ },
+ {
+  "ids": {
+   "igdb": "endless-faith",
+   "steam": "2782910"
+  },
+  "label_en": "Endless Faith",
+  "wikidata": "Q135048296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "154864",
+   "igdb": "d-day-invasions",
+   "steam": "2818600"
+  },
+  "label_en": "D-Day Invasions",
+  "wikidata": "Q135049296"
+ },
+ {
+  "ids": {
+   "igdb": "fearless",
+   "steam": "2883020"
+  },
+  "label_en": "Fearless",
+  "wikidata": "Q135051296"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "154796",
+   "igdb": "nine-treasures-of-liuyin",
+   "steam": "2949580"
+  },
+  "label_en": "Nine Treasures of Liuyin",
+  "wikidata": "Q135053296"
+ },
+ {
+  "ids": {
+   "igdb": "golf-in-wonderland",
+   "steam": "2981300"
+  },
+  "label_en": "Golf In Wonderland",
+  "wikidata": "Q135054296"
+ },
+ {
+  "ids": {
+   "igdb": "slenderman-shadow-of-the-forest",
+   "steam": "3035850"
+  },
+  "label_en": "Slenderman: Shadow of the Forest",
+  "wikidata": "Q135056296"
+ },
+ {
+  "ids": {
+   "mobygames": "230707",
+   "steam": "3069690"
+  },
+  "label_en": "Seas of Hydra",
+  "wikidata": "Q135057296"
+ },
+ {
+  "ids": {
+   "igdb": "i-hate-orcs-in-my-garden",
+   "steam": "3098880"
+  },
+  "label_en": "I Hate Orcs: In My Garden",
+  "wikidata": "Q135058296"
+ },
+ {
+  "ids": {
+   "igdb": "dodgeball-circuit",
+   "steam": "3157540"
+  },
+  "label_en": "Dodgeball Circuit",
+  "wikidata": "Q135060296"
+ },
+ {
+  "ids": {
+   "igdb": "mini-mini-golf-golf",
+   "mobygames": "252153",
+   "steam": "3188050"
+  },
+  "label_en": "Mini Mini Golf Golf",
+  "wikidata": "Q135061296"
+ },
+ {
+  "ids": {
+   "igdb": "consumables",
+   "steam": "3407310"
+  },
+  "label_en": "Consumables",
+  "wikidata": "Q135072296"
+ },
+ {
+  "ids": {
+   "igdb": "marriage-contract-with-billionaire-ceo",
+   "steam": "3439150"
+  },
+  "label_en": "Marriage Contract With Billionaire CEO",
+  "wikidata": "Q135073296"
+ },
+ {
+  "ids": {
+   "igdb": "this-is-the-last-time",
+   "steam": "3554430"
+  },
+  "label_en": "This is the last time",
+  "wikidata": "Q135076296"
+ },
+ {
+  "ids": {
+   "igdb": "nippon-dojo",
+   "steam": "3736130"
+  },
+  "label_en": "Nippon Dojo",
+  "wikidata": "Q135080296"
+ },
+ {
+  "ids": {
+   "igdb": "masterq",
+   "steam": "1967400"
+  },
+  "label_en": "MasterQ",
+  "wikidata": "Q135081296"
+ },
+ {
+  "ids": {
+   "igdb": "airraid",
+   "steam": "2067140"
+  },
+  "label_en": "AirRaid",
+  "wikidata": "Q135452296"
+ },
+ {
+  "ids": {
+   "igdb": "pyromania",
+   "steam": "2926880"
+  },
+  "label_en": "Pyromania",
+  "wikidata": "Q135453296"
+ },
+ {
+  "ids": {
+   "gog": "game/hypnos",
+   "igdb": "hypnos",
+   "steam": "2861210"
+  },
+  "label_en": "Hypnos",
+  "wikidata": "Q137833296"
+ },
+ {
+  "ids": {
+   "steam": "3839300"
+  },
+  "label_en": "Dogpile",
+  "wikidata": "Q140172296"
+ },
+ {
+  "ids": {
+   "igdb": "a-little-age",
+   "steam": "1530850"
+  },
+  "label_en": "A Little Age",
+  "wikidata": "Q141112296"
+ },
+ {
+  "ids": {
+   "igdb": "car-mechanic-simulator-2015-mercedes-benz",
+   "steam": "434910"
+  },
+  "label_en": "Car Mechanic Simulator 2015: Mercedes-Benz",
+  "wikidata": "Q141479296"
  }
 ]
