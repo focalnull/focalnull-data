@@ -91,9 +91,9 @@ def page_total(page: dict) -> int | None:
 
 
 def resolve(query: dict) -> dict[str, str]:
-    """Map each title we asked for to the final page title (after normalising and redirects)."""
+    """Map each title we asked for to the title the API answered with (normalised spelling only)."""
     mapping: dict[str, str] = {}
-    for key in ("normalized", "redirects"):
+    for key in ("normalized",):
         for item in query.get(key, []) or []:
             if not isinstance(item, dict) or not isinstance(item.get("from"), str) or not isinstance(item.get("to"), str):
                 raise ShapeError(f"Unexpected {key} entry: {item!r}")
@@ -112,7 +112,10 @@ def final_title(title: str, mapping: dict[str, str]) -> str:
 def views_for_batch(titles: list[str], pause: float) -> dict[str, int]:
     """Views per requested title for one batch, following the API's continuation."""
     params = {
-        "action": "query", "prop": "pageviews", "pvipdays": str(DAYS), "redirects": "1",
+        # No "redirects": a game whose article is only a redirect (e.g. "Globle (game)" -> "Wordle",
+        # "Minecraft: Java Edition" -> "Minecraft") gets the redirect page's own small count,
+        # not the views of the page it points to.
+        "action": "query", "prop": "pageviews", "pvipdays": str(DAYS),
         "format": "json", "formatversion": "2", "titles": "|".join(titles),
     }
     totals: dict[str, int] = {}
