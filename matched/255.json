@@ -1,0 +1,45 @@
+[
+ {
+  "enwiki": "Call of Duty 4: Modern Warfare",
+  "ids": {
+   "howlongtobeat": "1468",
+   "igdb": "call-of-duty-4-modern-warfare",
+   "mobygames": "31074",
+   "pcgamingwiki": "Call_of_Duty_4:_Modern_Warfare",
+   "steam": "7940"
+  },
+  "label_en": "Call of Duty 4: Modern Warfare",
+  "wikidata": "Q76255"
+ },
+ {
+  "enwiki": "750cc Grand Prix",
+  "ids": {
+   "igdb": "750cc-grand-prix",
+   "mobygames": "16256"
+  },
+  "label_en": "750cc Grand Prix",
+  "wikidata": "Q88255"
+ },
+ {
+  "enwiki": "Street Fighter II Turbo",
+  "ids": {
+   "igdb": "street-fighter-ii-turbo-hyper-fighting",
+   "mobygames": "23379"
+  },
+  "label_en": "Street Fighter II Turbo",
+  "wikidata": "Q196255"
+ },
+ {
+  "enwiki": "IRacing",
+  "ids": {
+   "epic": "iracing",
+   "howlongtobeat": "20194",
+   "igdb": "iracing",
+   "mobygames": "46135",
+   "pcgamingwiki": "IRacing",
+   "steam": "266410"
+  },
+  "label_en": "iRacing",
+  "wikidata": "Q254255"
+ }
+]

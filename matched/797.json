@@ -1,0 +1,26 @@
+[
+ {
+  "enwiki": "Grand Theft Auto IV",
+  "ids": {
+   "howlongtobeat": "4062",
+   "igdb": "grand-theft-auto-iv",
+   "mobygames": "33867",
+   "pcgamingwiki": "Grand_Theft_Auto_IV",
+   "steam": "12210"
+  },
+  "label_en": "Grand Theft Auto IV",
+  "wikidata": "Q94797"
+ },
+ {
+  "enwiki": "Call of Duty: World at War",
+  "ids": {
+   "howlongtobeat": "1483",
+   "igdb": "call-of-duty-world-at-war",
+   "mobygames": "37817",
+   "pcgamingwiki": "Call_of_Duty:_World_at_War",
+   "steam": "10090"
+  },
+  "label_en": "Call of Duty: World at War",
+  "wikidata": "Q207797"
+ }
+]

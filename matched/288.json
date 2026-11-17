@@ -1,0 +1,22 @@
+[
+ {
+  "enwiki": "Dragon Quest III",
+  "ids": {
+   "howlongtobeat": "2838",
+   "igdb": "dragon-warrior-iii",
+   "mobygames": "4608"
+  },
+  "label_en": "Dragon Quest III",
+  "wikidata": "Q81288"
+ },
+ {
+  "enwiki": "StarCraft II: Wings of Liberty",
+  "ids": {
+   "howlongtobeat": "9155",
+   "igdb": "starcraft-ii-wings-of-liberty",
+   "mobygames": "47486",
+   "pcgamingwiki": "StarCraft_II"
+  },
+  "wikidata": "Q239288"
+ }
+]

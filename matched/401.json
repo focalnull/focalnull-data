@@ -1,0 +1,24 @@
+[
+ {
+  "enwiki": "Indiana Jones and the Fate of Atlantis",
+  "ids": {
+   "gog": "game/indiana_jones_and_the_fate_of_atlantis",
+   "howlongtobeat": "4664",
+   "igdb": "indiana-jones-and-the-fate-of-atlantis--1",
+   "mobygames": "316",
+   "pcgamingwiki": "Indiana_Jones_and_the_Fate_of_Atlantis",
+   "steam": "6010"
+  },
+  "label_en": "Indiana Jones and the Fate of Atlantis",
+  "wikidata": "Q74401"
+ },
+ {
+  "enwiki": "Digimon Story Lost Evolution",
+  "ids": {
+   "igdb": "digimon-story-lost-evolution",
+   "mobygames": "154169"
+  },
+  "label_en": "Digimon Story Lost Evolution",
+  "wikidata": "Q129401"
+ }
+]

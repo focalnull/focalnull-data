@@ -1,0 +1,25 @@
+[
+ {
+  "enwiki": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+  "ids": {
+   "gog": "game/stalker_shadow_of_chernobyl",
+   "howlongtobeat": "8038",
+   "igdb": "s-t-a-l-k-e-r-shadow-of-chernobyl",
+   "mobygames": "27172",
+   "pcgamingwiki": "S.T.A.L.K.E.R.:_Shadow_of_Chernobyl",
+   "steam": "4500"
+  },
+  "label_en": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+  "wikidata": "Q215861"
+ },
+ {
+  "enwiki": "Professor Layton and the Unwound Future",
+  "ids": {
+   "howlongtobeat": "7341",
+   "igdb": "professor-layton-and-the-unwound-future",
+   "mobygames": "47849"
+  },
+  "label_en": "Professor Layton and the Unwound Future",
+  "wikidata": "Q225861"
+ }
+]

@@ -1,0 +1,40 @@
+[
+ {
+  "enwiki": "The Elder Scrolls IV: Oblivion",
+  "ids": {
+   "epic": "oblivion-f77be8",
+   "gog": "game/elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the",
+   "howlongtobeat": "9854",
+   "igdb": "the-elder-scrolls-iv-oblivion",
+   "mobygames": "21735",
+   "pcgamingwiki": "The_Elder_Scrolls_IV:_Oblivion",
+   "steam": "22330"
+  },
+  "label_en": "The Elder Scrolls IV: Oblivion",
+  "wikidata": "Q49607"
+ },
+ {
+  "enwiki": "Bonanza Bros.",
+  "ids": {
+   "howlongtobeat": "1255",
+   "igdb": "bonanza-bros",
+   "mobygames": "12370",
+   "pcgamingwiki": "Bonanza_Bros.",
+   "steam": "34284"
+  },
+  "label_en": "Bonanza Bros.",
+  "wikidata": "Q55607"
+ },
+ {
+  "enwiki": "Clannad (video game)",
+  "ids": {
+   "howlongtobeat": "1736",
+   "igdb": "clannad",
+   "mobygames": "52365",
+   "pcgamingwiki": "Clannad",
+   "steam": "324160"
+  },
+  "label_en": "Clannad",
+  "wikidata": "Q110607"
+ }
+]

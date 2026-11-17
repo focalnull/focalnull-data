@@ -1,0 +1,24 @@
+[
+ {
+  "enwiki": "Tron (video game)",
+  "ids": {
+   "igdb": "tron",
+   "mobygames": "33983"
+  },
+  "label_en": "Tron",
+  "wikidata": "Q149612"
+ },
+ {
+  "enwiki": "Fate: Undiscovered Realms",
+  "ids": {
+   "gog": "game/fate_undiscovered_realms",
+   "howlongtobeat": "3419",
+   "igdb": "fate-undiscovered-realms",
+   "mobygames": "37145",
+   "pcgamingwiki": "FATE:_Undiscovered_Realms",
+   "steam": "276890"
+  },
+  "label_en": "Fate: Undiscovered Realms",
+  "wikidata": "Q227612"
+ }
+]

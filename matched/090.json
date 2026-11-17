@@ -1,0 +1,27 @@
+[
+ {
+  "enwiki": "The Temple of Elemental Evil (video game)",
+  "ids": {
+   "gog": "game/the_temple_of_elemental_evil",
+   "howlongtobeat": "10225",
+   "igdb": "the-temple-of-elemental-evil",
+   "mobygames": "10490",
+   "pcgamingwiki": "The_Temple_of_Elemental_Evil",
+   "steam": "3843520"
+  },
+  "label_en": "The Temple of Elemental Evil",
+  "wikidata": "Q154090"
+ },
+ {
+  "enwiki": "F1 2011 (video game)",
+  "ids": {
+   "howlongtobeat": "3306",
+   "igdb": "f1-2011",
+   "mobygames": "53686",
+   "pcgamingwiki": "F1_2011",
+   "steam": "44360"
+  },
+  "label_en": "F1 2011",
+  "wikidata": "Q254090"
+ }
+]

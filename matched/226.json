@@ -1,0 +1,38 @@
+[
+ {
+  "enwiki": "Army Men: RTS",
+  "ids": {
+   "gog": "game/army_men_rts",
+   "howlongtobeat": "15643",
+   "igdb": "army-men-rts",
+   "mobygames": "6420",
+   "pcgamingwiki": "Army_Men:_RTS",
+   "steam": "694500"
+  },
+  "label_en": "Army Men: RTS",
+  "wikidata": "Q28226"
+ },
+ {
+  "enwiki": "4x4 Off-Road Racing",
+  "ids": {
+   "igdb": "4x4-off-road-racing",
+   "mobygames": "545"
+  },
+  "label_en": "4x4 Off-Road Racing",
+  "wikidata": "Q88226"
+ },
+ {
+  "enwiki": "Beyond: Two Souls",
+  "ids": {
+   "epic": "beyond-two-souls",
+   "gog": "game/beyond_two_souls",
+   "howlongtobeat": "1023",
+   "igdb": "beyond-two-souls",
+   "mobygames": "62235",
+   "pcgamingwiki": "Beyond:_Two_Souls",
+   "steam": "960990"
+  },
+  "label_en": "Beyond: Two Souls",
+  "wikidata": "Q166226"
+ }
+]

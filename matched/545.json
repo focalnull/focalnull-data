@@ -1,0 +1,23 @@
+[
+ {
+  "enwiki": "Lego Batman: The Videogame",
+  "ids": {
+   "epic": "lego-batman",
+   "gog": "game/lego_batman_the_videogame",
+   "howlongtobeat": "5245",
+   "igdb": "lego-batman-the-videogame",
+   "mobygames": "36449",
+   "pcgamingwiki": "Lego_Batman:_The_Videogame",
+   "steam": "21000"
+  },
+  "label_en": "Lego Batman: The Videogame",
+  "wikidata": "Q74545"
+ },
+ {
+  "ids": {
+   "mobygames": "15358"
+  },
+  "label_en": "Abyss",
+  "wikidata": "Q88545"
+ }
+]

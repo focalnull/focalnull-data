@@ -1,0 +1,28 @@
+[
+ {
+  "enwiki": "Star Wars: Battlefront II (2005 video game)",
+  "ids": {
+   "gog": "game/star_wars_battlefront_ii",
+   "howlongtobeat": "9098",
+   "igdb": "star-wars-battlefront-ii",
+   "mobygames": "21218",
+   "pcgamingwiki": "Star_Wars:_Battlefront_II",
+   "steam": "6060"
+  },
+  "label_en": "Star Wars: Battlefront II",
+  "wikidata": "Q54865"
+ },
+ {
+  "enwiki": "Fate (video game)",
+  "ids": {
+   "gog": "game/fate",
+   "howlongtobeat": "3413",
+   "igdb": "fate",
+   "mobygames": "22176",
+   "pcgamingwiki": "FATE",
+   "steam": "246840"
+  },
+  "label_en": "Fate",
+  "wikidata": "Q226865"
+ }
+]

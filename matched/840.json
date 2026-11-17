@@ -1,0 +1,23 @@
+[
+ {
+  "enwiki": "Star Wars Episode I: Battle for Naboo",
+  "ids": {
+   "howlongtobeat": "9105",
+   "igdb": "star-wars-episode-i-battle-for-naboo",
+   "mobygames": "3416",
+   "pcgamingwiki": "Star_Wars:_Episode_I_-_Battle_for_Naboo"
+  },
+  "label_en": "Star Wars Episode I: Battle for Naboo",
+  "wikidata": "Q54840"
+ },
+ {
+  "enwiki": "Buck Rogers: Matrix Cubed",
+  "ids": {
+   "igdb": "buck-rogers-matrix-cubed",
+   "mobygames": "483",
+   "pcgamingwiki": "Buck_Rogers:_Matrix_Cubed"
+  },
+  "label_en": "Buck Rogers: Matrix Cubed",
+  "wikidata": "Q253840"
+ }
+]

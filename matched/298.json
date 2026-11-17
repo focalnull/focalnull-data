@@ -1,0 +1,27 @@
+[
+ {
+  "enwiki": "Star Wars Jedi Knight II: Jedi Outcast",
+  "ids": {
+   "gog": "game/star_wars_jedi_knight_ii_jedi_outcast",
+   "howlongtobeat": "9085",
+   "igdb": "star-wars-jedi-knight-ii-jedi-outcast",
+   "mobygames": "6073",
+   "pcgamingwiki": "Star_Wars:_Jedi_Knight_II_-_Jedi_Outcast",
+   "steam": "6030"
+  },
+  "label_en": "Star Wars Jedi Knight II: Jedi Outcast",
+  "wikidata": "Q55298"
+ },
+ {
+  "enwiki": "Call of Duty 2",
+  "ids": {
+   "howlongtobeat": "1465",
+   "igdb": "call-of-duty-2",
+   "mobygames": "20150",
+   "pcgamingwiki": "Call_of_Duty_2",
+   "steam": "2630"
+  },
+  "label_en": "Call of Duty 2",
+  "wikidata": "Q210298"
+ }
+]

@@ -1,0 +1,25 @@
+[
+ {
+  "enwiki": "Star Wars Battlefront: Renegade Squadron",
+  "ids": {
+   "igdb": "star-wars-battlefront-renegade-squadron",
+   "mobygames": "36799"
+  },
+  "label_en": "Star Wars Battlefront: Renegade Squadron",
+  "wikidata": "Q54864"
+ },
+ {
+  "enwiki": "Assassin's Creed (video game)",
+  "ids": {
+   "epic": "assassins-creed-1",
+   "gog": "game/assassins_creed_directors_cut",
+   "howlongtobeat": "649",
+   "igdb": "assassin-s-creed",
+   "mobygames": "31218",
+   "pcgamingwiki": "Assassin's_Creed",
+   "steam": "15100"
+  },
+  "label_en": "Assassin's Creed",
+  "wikidata": "Q200864"
+ }
+]

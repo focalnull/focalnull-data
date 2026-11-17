@@ -1,0 +1,44 @@
+[
+ {
+  "enwiki": "Call of Duty Online",
+  "ids": {
+   "howlongtobeat": "46208",
+   "igdb": "call-of-duty-online",
+   "pcgamingwiki": "Call_of_Duty:_Online"
+  },
+  "label_en": "Call of Duty Online",
+  "wikidata": "Q130530"
+ },
+ {
+  "enwiki": "Yager",
+  "ids": {
+   "howlongtobeat": "11420",
+   "igdb": "yager",
+   "mobygames": "9311"
+  },
+  "label_en": "Yager",
+  "wikidata": "Q253530"
+ },
+ {
+  "enwiki": "Knights of Honor (video game)",
+  "ids": {
+   "gog": "game/knights_of_honor",
+   "howlongtobeat": "5102",
+   "igdb": "knights-of-honor",
+   "mobygames": "15440",
+   "pcgamingwiki": "Knights_of_Honor",
+   "steam": "25830"
+  },
+  "label_en": "Knights of Honor",
+  "wikidata": "Q258530"
+ },
+ {
+  "enwiki": "Spasim",
+  "ids": {
+   "igdb": "spasim",
+   "mobygames": "100356"
+  },
+  "label_en": "Spasim",
+  "wikidata": "Q264530"
+ }
+]

@@ -1,0 +1,25 @@
+[
+ {
+  "enwiki": "DC Universe Online",
+  "ids": {
+   "howlongtobeat": "2292",
+   "igdb": "dc-universe-online",
+   "mobygames": "50386",
+   "pcgamingwiki": "DC_Universe_Online",
+   "steam": "24200"
+  },
+  "label_en": "DC Universe Online",
+  "wikidata": "Q27107"
+ },
+ {
+  "enwiki": "Zoo Tycoon 2",
+  "ids": {
+   "howlongtobeat": "15315",
+   "igdb": "zoo-tycoon-2",
+   "mobygames": "15606",
+   "pcgamingwiki": "Zoo_Tycoon_2"
+  },
+  "label_en": "Zoo Tycoon 2",
+  "wikidata": "Q220107"
+ }
+]

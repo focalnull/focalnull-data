@@ -1,0 +1,27 @@
+[
+ {
+  "enwiki": "Star Wars Episode I: Racer",
+  "ids": {
+   "gog": "game/star_wars_episode_i_racer",
+   "howlongtobeat": "9080",
+   "igdb": "star-wars-episode-i-racer",
+   "mobygames": "276",
+   "pcgamingwiki": "Star_Wars:_Episode_I_-_Racer",
+   "steam": "808910"
+  },
+  "label_en": "Star Wars Episode I: Racer",
+  "wikidata": "Q55217"
+ },
+ {
+  "enwiki": "Mafia (video game)",
+  "ids": {
+   "gog": "game/mafia",
+   "howlongtobeat": "5517",
+   "igdb": "mafia",
+   "mobygames": "7190",
+   "pcgamingwiki": "Mafia",
+   "steam": "40990"
+  },
+  "wikidata": "Q213217"
+ }
+]

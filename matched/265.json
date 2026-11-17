@@ -1,0 +1,25 @@
+[
+ {
+  "enwiki": "Star Wars: Yoda Stories",
+  "ids": {
+   "howlongtobeat": "50648",
+   "igdb": "star-wars-yoda-stories",
+   "mobygames": "1354",
+   "pcgamingwiki": "Star_Wars:_Yoda_Stories"
+  },
+  "label_en": "Star Wars: Yoda Stories",
+  "wikidata": "Q55265"
+ },
+ {
+  "enwiki": "Grand Theft Auto: San Andreas",
+  "ids": {
+   "howlongtobeat": "4073",
+   "igdb": "grand-theft-auto-san-andreas",
+   "mobygames": "15393",
+   "pcgamingwiki": "Grand_Theft_Auto:_San_Andreas",
+   "steam": "12120"
+  },
+  "label_en": "Grand Theft Auto: San Andreas",
+  "wikidata": "Q83265"
+ }
+]

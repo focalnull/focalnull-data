@@ -1,0 +1,25 @@
+[
+ {
+  "enwiki": "The Sims (video game)",
+  "ids": {
+   "howlongtobeat": "10185",
+   "igdb": "the-sims",
+   "mobygames": "860",
+   "pcgamingwiki": "The_Sims",
+   "steam": "3314060"
+  },
+  "label_en": "The Sims",
+  "wikidata": "Q184816"
+ },
+ {
+  "enwiki": "The Sims Medieval",
+  "ids": {
+   "howlongtobeat": "10199",
+   "igdb": "the-sims-medieval",
+   "mobygames": "52045",
+   "pcgamingwiki": "The_Sims_Medieval"
+  },
+  "label_en": "The Sims Medieval",
+  "wikidata": "Q257816"
+ }
+]

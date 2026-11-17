@@ -1,0 +1,25 @@
+[
+ {
+  "enwiki": "Guitar Hero (video game)",
+  "ids": {
+   "howlongtobeat": "4173",
+   "igdb": "guitar-hero",
+   "mobygames": "19812"
+  },
+  "label_en": "Guitar Hero",
+  "wikidata": "Q116578"
+ },
+ {
+  "enwiki": "Divinity II",
+  "ids": {
+   "gog": "game/divinity_2_developers_cut",
+   "howlongtobeat": "2633",
+   "igdb": "divinity-ii-developers-cut",
+   "mobygames": "41727",
+   "pcgamingwiki": "Divinity_II:_Developer's_Cut",
+   "steam": "219780"
+  },
+  "label_en": "Divinity II",
+  "wikidata": "Q130578"
+ }
+]

@@ -1,0 +1,28 @@
+[
+ {
+  "enwiki": "Star Wars Jedi Knight: Dark Forces II",
+  "ids": {
+   "gog": "game/star_wars_jedi_knight_dark_forces_ii",
+   "howlongtobeat": "9086",
+   "igdb": "star-wars-jedi-knight-dark-forces-ii",
+   "mobygames": "372",
+   "pcgamingwiki": "Star_Wars:_Jedi_Knight_-_Dark_Forces_II",
+   "steam": "32380"
+  },
+  "label_en": "Star Wars Jedi Knight: Dark Forces II",
+  "wikidata": "Q55291"
+ },
+ {
+  "enwiki": "Anno 2070",
+  "ids": {
+   "epic": "anno-2070",
+   "howlongtobeat": "491",
+   "igdb": "anno-2070",
+   "mobygames": "55366",
+   "pcgamingwiki": "Anno_2070",
+   "steam": "48240"
+  },
+  "label_en": "Anno 2070",
+  "wikidata": "Q128291"
+ }
+]

@@ -1,0 +1,33 @@
+[
+ {
+  "enwiki": "Zombies Ate My Neighbors",
+  "ids": {
+   "howlongtobeat": "11581",
+   "igdb": "zombies-ate-my-neighbors",
+   "mobygames": "6966"
+  },
+  "label_en": "Zombies Ate My Neighbors",
+  "wikidata": "Q219804"
+ },
+ {
+  "enwiki": "Halo 2",
+  "ids": {
+   "howlongtobeat": "4262",
+   "igdb": "halo-2",
+   "mobygames": "15499",
+   "pcgamingwiki": "Halo_2"
+  },
+  "wikidata": "Q252804"
+ },
+ {
+  "enwiki": "Ghost in the Shell (video game)",
+  "ids": {
+   "howlongtobeat": "3908",
+   "igdb": "ghost-in-the-shell",
+   "mobygames": "4903",
+   "steam": "589880"
+  },
+  "label_en": "Ghost in the Shell",
+  "wikidata": "Q259804"
+ }
+]

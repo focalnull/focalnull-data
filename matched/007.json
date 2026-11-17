@@ -1,0 +1,30 @@
+[
+ {
+  "enwiki": "World of Warcraft",
+  "ids": {
+   "howlongtobeat": "11286",
+   "igdb": "world-of-warcraft",
+   "mobygames": "15620",
+   "pcgamingwiki": "World_of_Warcraft"
+  },
+  "wikidata": "Q131007"
+ },
+ {
+  "enwiki": "Last Bullet",
+  "ids": {
+   "igdb": "last-bullet",
+   "mobygames": "65741"
+  },
+  "label_en": "Last Bullet",
+  "wikidata": "Q211007"
+ },
+ {
+  "enwiki": "Check Man",
+  "ids": {
+   "igdb": "check-man",
+   "mobygames": "82326"
+  },
+  "label_en": "Check Man",
+  "wikidata": "Q260007"
+ }
+]

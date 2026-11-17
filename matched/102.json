@@ -1,0 +1,26 @@
+[
+ {
+  "enwiki": "Fallout (video game)",
+  "ids": {
+   "epic": "fallout",
+   "gog": "game/fallout",
+   "howlongtobeat": "3338",
+   "igdb": "fallout-a-post-nuclear-role-playing-game",
+   "mobygames": "223",
+   "pcgamingwiki": "Fallout",
+   "steam": "38400"
+  },
+  "wikidata": "Q60102"
+ },
+ {
+  "enwiki": "Zoo Tycoon (2001 video game)",
+  "ids": {
+   "howlongtobeat": "14293",
+   "igdb": "zoo-tycoon",
+   "mobygames": "5524",
+   "pcgamingwiki": "Zoo_Tycoon"
+  },
+  "label_en": "Zoo Tycoon",
+  "wikidata": "Q220102"
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "enwiki": "Civilization IV",
+  "ids": {
+   "gog": "game/sid_meiers_civilization_iv_the_complete_edition",
+   "howlongtobeat": "8505",
+   "igdb": "sid-meier-s-civilization-iv",
+   "mobygames": "19710",
+   "pcgamingwiki": "Civilization_IV",
+   "steam": "3900"
+  },
+  "wikidata": "Q2377"
+ },
+ {
+  "enwiki": "ArchLord",
+  "ids": {
+   "igdb": "archlord",
+   "mobygames": "29316"
+  },
+  "label_en": "Archlord",
+  "wikidata": "Q241377"
+ }
+]

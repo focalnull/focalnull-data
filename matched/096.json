@@ -1,0 +1,34 @@
+[
+ {
+  "enwiki": "Mega Man X2",
+  "ids": {
+   "howlongtobeat": "5845",
+   "igdb": "mega-man-x2",
+   "mobygames": "6580"
+  },
+  "label_en": "Mega Man X2",
+  "wikidata": "Q100096"
+ },
+ {
+  "enwiki": "The King of Fighters '98",
+  "ids": {
+   "howlongtobeat": "9974",
+   "igdb": "the-king-of-fighters-98",
+   "mobygames": "5030",
+   "pcgamingwiki": "ACA_NeoGeo_The_King_of_Fighters_'98"
+  },
+  "label_en": "The King of Fighters '98",
+  "wikidata": "Q198096"
+ },
+ {
+  "enwiki": "Call of Duty (video game)",
+  "ids": {
+   "howlongtobeat": "1464",
+   "igdb": "call-of-duty",
+   "mobygames": "10826",
+   "pcgamingwiki": "Call_of_Duty",
+   "steam": "2620"
+  },
+  "wikidata": "Q211096"
+ }
+]

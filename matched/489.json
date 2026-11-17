@@ -1,0 +1,24 @@
+[
+ {
+  "enwiki": "Super Mario Galaxy",
+  "ids": {
+   "howlongtobeat": "9377",
+   "igdb": "super-mario-galaxy",
+   "mobygames": "31282"
+  },
+  "label_en": "Super Mario Galaxy",
+  "wikidata": "Q170489"
+ },
+ {
+  "enwiki": "Panzer Elite",
+  "ids": {
+   "howlongtobeat": "34310",
+   "igdb": "panzer-elite",
+   "mobygames": "5010",
+   "pcgamingwiki": "Panzer_Elite_Action:_Fields_of_Glory",
+   "steam": "292420"
+  },
+  "label_en": "Panzer Elite",
+  "wikidata": "Q174489"
+ }
+]

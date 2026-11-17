@@ -1,0 +1,27 @@
+[
+ {
+  "enwiki": "Amnesia: The Dark Descent",
+  "ids": {
+   "epic": "amnesia-the-dark-descent",
+   "gog": "game/amnesia_the_dark_descent",
+   "howlongtobeat": "440",
+   "igdb": "amnesia-the-dark-descent",
+   "mobygames": "48288",
+   "pcgamingwiki": "Amnesia:_The_Dark_Descent",
+   "steam": "57300"
+  },
+  "label_en": "Amnesia: The Dark Descent",
+  "wikidata": "Q22986"
+ },
+ {
+  "enwiki": "Call of Duty: Black Ops",
+  "ids": {
+   "howlongtobeat": "1471",
+   "igdb": "call-of-duty-black-ops",
+   "mobygames": "49001",
+   "pcgamingwiki": "Call_of_Duty:_Black_Ops",
+   "steam": "42700"
+  },
+  "wikidata": "Q207986"
+ }
+]

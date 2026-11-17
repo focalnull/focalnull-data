@@ -1,0 +1,25 @@
+[
+ {
+  "enwiki": "Da Capo III",
+  "ids": {
+   "gog": "game/da_capo_3_r",
+   "howlongtobeat": "43624",
+   "igdb": "da-capo-3-r",
+   "mobygames": "91855",
+   "pcgamingwiki": "Da_Capo_III",
+   "steam": "542290"
+  },
+  "label_en": "Da Capo III",
+  "wikidata": "Q182507"
+ },
+ {
+  "enwiki": "Too Human",
+  "ids": {
+   "howlongtobeat": "10507",
+   "igdb": "too-human",
+   "mobygames": "36330"
+  },
+  "label_en": "Too Human",
+  "wikidata": "Q257507"
+ }
+]

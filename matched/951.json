@@ -1,0 +1,28 @@
+[
+ {
+  "enwiki": "Half-Life 2: Episode One",
+  "ids": {
+   "howlongtobeat": "4250",
+   "igdb": "half-life-2-episode-one",
+   "mobygames": "22688",
+   "pcgamingwiki": "Half-Life_2:_Episode_One",
+   "steam": "380"
+  },
+  "label_en": "Half-Life 2: Episode One",
+  "wikidata": "Q18951"
+ },
+ {
+  "enwiki": "Little Inferno",
+  "ids": {
+   "epic": "little-inferno",
+   "gog": "game/little_inferno",
+   "howlongtobeat": "5322",
+   "igdb": "little-inferno",
+   "mobygames": "58896",
+   "pcgamingwiki": "Little_Inferno",
+   "steam": "221260"
+  },
+  "label_en": "Little Inferno",
+  "wikidata": "Q93951"
+ }
+]

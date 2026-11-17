@@ -1,0 +1,23 @@
+[
+ {
+  "enwiki": "Star Wars: Episode II – Attack of the Clones (video game)",
+  "ids": {
+   "igdb": "star-wars-episode-ii-attack-of-the-clones",
+   "mobygames": "6560"
+  },
+  "label_en": "Star Wars: Episode II – Attack of the Clones",
+  "wikidata": "Q54844"
+ },
+ {
+  "enwiki": "Spore (2008 video game)",
+  "ids": {
+   "howlongtobeat": "8985",
+   "igdb": "spore",
+   "mobygames": "36030",
+   "pcgamingwiki": "Spore",
+   "steam": "17390"
+  },
+  "label_en": "Spore",
+  "wikidata": "Q210844"
+ }
+]

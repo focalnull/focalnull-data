@@ -1,0 +1,26 @@
+[
+ {
+  "enwiki": "Zero Wing",
+  "ids": {
+   "gog": "game/zero_wing",
+   "igdb": "zero-wing",
+   "mobygames": "6605",
+   "pcgamingwiki": "Zero_Wing",
+   "steam": "2011900"
+  },
+  "label_en": "Zero Wing",
+  "wikidata": "Q191965"
+ },
+ {
+  "enwiki": "Heroes of Might and Magic III",
+  "ids": {
+   "gog": "game/heroes_of_might_and_magic_3_complete_edition",
+   "howlongtobeat": "4425",
+   "igdb": "heroes-of-might-and-magic-iii-complete",
+   "mobygames": "1494",
+   "pcgamingwiki": "Heroes_of_Might_and_Magic_III",
+   "steam": "4921760"
+  },
+  "wikidata": "Q220965"
+ }
+]

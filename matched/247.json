@@ -1,0 +1,23 @@
+[
+ {
+  "enwiki": "Zaxxon",
+  "ids": {
+   "igdb": "zaxxon",
+   "mobygames": "411",
+   "pcgamingwiki": "Zaxxon"
+  },
+  "label_en": "Zaxxon",
+  "wikidata": "Q91247"
+ },
+ {
+  "enwiki": "The Secret of Monkey Island",
+  "ids": {
+   "howlongtobeat": "10162",
+   "igdb": "the-secret-of-monkey-island",
+   "mobygames": "616",
+   "pcgamingwiki": "The_Secret_of_Monkey_Island"
+  },
+  "label_en": "The Secret of Monkey Island",
+  "wikidata": "Q179247"
+ }
+]

@@ -1,0 +1,24 @@
+[
+ {
+  "enwiki": "Hitman: Blood Money",
+  "ids": {
+   "gog": "game/hitman_blood_money",
+   "howlongtobeat": "4477",
+   "igdb": "hitman-blood-money",
+   "mobygames": "22576",
+   "pcgamingwiki": "Hitman:_Blood_Money",
+   "steam": "6860"
+  },
+  "label_en": "Hitman: Blood Money",
+  "wikidata": "Q239889"
+ },
+ {
+  "enwiki": "The House of the Dead: Overkill",
+  "ids": {
+   "igdb": "the-house-of-the-dead-overkill",
+   "mobygames": "40939"
+  },
+  "label_en": "The House of the Dead: Overkill",
+  "wikidata": "Q265889"
+ }
+]

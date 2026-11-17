@@ -1,0 +1,25 @@
+[
+ {
+  "enwiki": "The Incredible Hulk: Ultimate Destruction",
+  "ids": {
+   "igdb": "the-incredible-hulk-ultimate-destruction",
+   "mobygames": "19359"
+  },
+  "label_en": "The Incredible Hulk: Ultimate Destruction",
+  "wikidata": "Q153423"
+ },
+ {
+  "enwiki": "Quake (video game)",
+  "ids": {
+   "epic": "quake",
+   "gog": "game/quake_the_offering",
+   "howlongtobeat": "7452",
+   "igdb": "quake",
+   "mobygames": "374",
+   "pcgamingwiki": "Quake",
+   "steam": "2310"
+  },
+  "label_en": "Quake",
+  "wikidata": "Q217423"
+ }
+]

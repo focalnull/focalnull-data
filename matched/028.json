@@ -1,0 +1,24 @@
+[
+ {
+  "enwiki": "Halo 4",
+  "ids": {
+   "howlongtobeat": "4265",
+   "igdb": "halo-4",
+   "mobygames": "58779",
+   "pcgamingwiki": "Halo_4",
+   "steam": "1064273"
+  },
+  "wikidata": "Q45028"
+ },
+ {
+  "enwiki": "FreeCol",
+  "ids": {
+   "howlongtobeat": "14974",
+   "igdb": "freecol",
+   "mobygames": "39902",
+   "pcgamingwiki": "FreeCol"
+  },
+  "label_en": "FreeCol",
+  "wikidata": "Q162028"
+ }
+]

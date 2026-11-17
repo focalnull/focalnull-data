@@ -1,0 +1,25 @@
+[
+ {
+  "enwiki": "Warlock: Master of the Arcane",
+  "ids": {
+   "howlongtobeat": "11081",
+   "igdb": "warlock-master-of-the-arcane",
+   "mobygames": "57405",
+   "pcgamingwiki": "Warlock:_Master_of_the_Arcane",
+   "steam": "203630"
+  },
+  "label_en": "Warlock: Master of the Arcane",
+  "wikidata": "Q83995"
+ },
+ {
+  "enwiki": "Super Mario 64",
+  "ids": {
+   "howlongtobeat": "9364",
+   "igdb": "super-mario-64",
+   "mobygames": "3533",
+   "pcgamingwiki": "Super_Mario_64"
+  },
+  "label_en": "Super Mario 64",
+  "wikidata": "Q216995"
+ }
+]

@@ -1,0 +1,28 @@
+[
+ {
+  "enwiki": "Star Wars: Battlefront (2004 video game)",
+  "ids": {
+   "gog": "game/star_wars_battlefront",
+   "howlongtobeat": "9097",
+   "igdb": "star-wars-battlefront",
+   "mobygames": "15220",
+   "pcgamingwiki": "Star_Wars:_Battlefront",
+   "steam": "1058020"
+  },
+  "wikidata": "Q54859"
+ },
+ {
+  "enwiki": "Trine (video game)",
+  "ids": {
+   "epic": "trine-enchanted-edition-d1d59d",
+   "gog": "game/trine_enchanted_edition",
+   "howlongtobeat": "10651",
+   "igdb": "trine",
+   "mobygames": "41466",
+   "pcgamingwiki": "Trine",
+   "steam": "35700"
+  },
+  "label_en": "Trine",
+  "wikidata": "Q117859"
+ }
+]

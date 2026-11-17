@@ -1,0 +1,23 @@
+[
+ {
+  "enwiki": "Star Wars: The Clone Wars (video game)",
+  "ids": {
+   "igdb": "star-wars-the-clone-wars",
+   "mobygames": "7607"
+  },
+  "wikidata": "Q55232"
+ },
+ {
+  "enwiki": "Final Fantasy VII",
+  "ids": {
+   "gog": "game/final_fantasy_vii",
+   "howlongtobeat": "3521",
+   "igdb": "final-fantasy-vii",
+   "mobygames": "858",
+   "pcgamingwiki": "Final_Fantasy_VII",
+   "steam": "39140"
+  },
+  "label_en": "Final Fantasy VII",
+  "wikidata": "Q214232"
+ }
+]

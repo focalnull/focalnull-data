@@ -1,0 +1,24 @@
+[
+ {
+  "enwiki": "Sonic the Hedgehog 2",
+  "ids": {
+   "howlongtobeat": "8788",
+   "igdb": "sonic-the-hedgehog-2",
+   "mobygames": "6611",
+   "pcgamingwiki": "Sonic_the_Hedgehog_2",
+   "steam": "71163"
+  },
+  "label_en": "Sonic the Hedgehog 2",
+  "wikidata": "Q35627"
+ },
+ {
+  "enwiki": "Sly Cooper and the Thievius Raccoonus",
+  "ids": {
+   "howlongtobeat": "8650",
+   "igdb": "sly-cooper-and-the-thievius-raccoonus",
+   "mobygames": "7647"
+  },
+  "label_en": "Sly Cooper and the Thievius Raccoonus",
+  "wikidata": "Q40627"
+ }
+]
