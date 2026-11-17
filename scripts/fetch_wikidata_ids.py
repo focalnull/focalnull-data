@@ -34,7 +34,7 @@ EXTERNAL_IDS = {
     "P11688": "mobygames",
     "P6337": "pcgamingwiki",
     "P2816": "howlongtobeat",
-    "P1712": "metacritic",
+    "P12054": "metacritic",  # Metacritic game ID (P1712 is the older general Metacritic ID, used by ~50 games)
 }
 
 LIST_QUERY = """SELECT DISTINCT ?game WHERE {

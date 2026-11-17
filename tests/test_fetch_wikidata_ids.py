@@ -75,5 +75,17 @@ class MaxlagTests(unittest.TestCase):
                 f.request_json("https://example.org", {}, tries=3)
 
 
+
+
+class MetacriticTests(unittest.TestCase):
+    def test_metacritic_comes_from_the_game_id_property(self):
+        def ext(prop, value):
+            return {"rank": "normal", "mainsnak": {"datavalue": {"value": value}}}
+        entity = {"id": "Q64441774", "labels": {"en": {"value": "Baldur's Gate 3"}},
+                  "claims": {"P12054": [ext("P12054", "baldurs-gate-3")], "P1712": [ext("P1712", "old-value")]}}
+        record = f.record_from_entity(entity)
+        self.assertEqual(record["ids"]["metacritic"], "baldurs-gate-3")
+
+
 if __name__ == "__main__":
     unittest.main()
