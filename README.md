@@ -31,7 +31,7 @@ Every game is keyed by its **Wikidata ID**. Wikidata already links most games to
 | [Wikidata](https://www.wikidata.org) | Every video game with a platform and a release date (about 135,000), its English name, its English Wikipedia article and the IDs other sites use for it | CC0 | Live |
 | [ProtonDB](https://www.protondb.com) | How many players report that a Steam game works on Linux and Steam Deck, overall and in the last 12 months (counts only, joined by Steam ID) | ODbL — this data stays under ODbL | Live |
 | [PCGamingWiki](https://www.pcgamingwiki.com) | A link to each game's PCGamingWiki page (the page name comes from Wikidata). Their data API is not open to anonymous use, so no PCGamingWiki content is copied here | — (links only) | Live |
-| [Wikipedia page views](https://wikimedia.org/api/rest_v1/) | How often a game's article is read, so well-known games are added first | Public statistics | Coming |
+| [Wikipedia page views](https://www.mediawiki.org/wiki/Extension:PageViewInfo) | How often each game's English Wikipedia article was read in the last 60 days, so well-known games are added first (`sources/wikipedia-pageviews/pageviews.json`) | CC0 | Live |
 | [Wikimedia Commons](https://commons.wikimedia.org) | Which freely licensed images exist for a game, with their author and licence (links only, no image files here) | Per file, as stated on each file | Coming |
 
 Nothing here is copied from store pages, press kits or sites that don't offer an open licence. Other sites' IDs are just facts that point to their pages. Logos, box art and trademarks belong to their owners and are not stored in this repository.
