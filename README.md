@@ -30,8 +30,8 @@ Every game is keyed by its **Wikidata ID**. Wikidata already links most games to
 | [Wikidata](https://www.wikidata.org) | Games, release dates, platforms, release types (early access, betas…), developers, series, links to other sites | CC0 |
 | [Wikipedia page views](https://wikimedia.org/api/rest_v1/) | How often a game's article is read, to fetch well-known games first | Public statistics |
 | [Wikimedia Commons](https://commons.wikimedia.org) | Which freely licensed images exist for a game, with their author and licence (links only, no image files here) | Per file, as stated on each file |
-| [ProtonDB](https://www.protondb.com) *(coming)* | Linux and Steam Deck compatibility | ODbL — the ProtonDB data stays under ODbL |
-| [PCGamingWiki](https://www.pcgamingwiki.com) *(coming)* | PC details such as engine and controller support | CC BY-NC-SA — credit kept, non-commercial |
+| [ProtonDB](https://www.protondb.com) | How many players report that a Steam game works on Linux and Steam Deck (counts only, linked by Steam ID) | ODbL — the ProtonDB data stays under ODbL |
+| [PCGamingWiki](https://www.pcgamingwiki.com) | A link to each game's PCGamingWiki page (the page name comes from Wikidata). Their data API is not open to anonymous use, so no PCGamingWiki content is copied here | — (links only) |
 
 Nothing here is copied from store pages, press kits or sites that don't offer an open licence. Logos, box art and trademarks belong to their owners and are not stored in this repository.
 
