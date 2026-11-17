@@ -33,7 +33,7 @@ Every game is keyed by its **Wikidata ID**. Wikidata already links most games to
 | [ProtonDB](https://www.protondb.com) | How many players report that a Steam game works on Linux and Steam Deck, overall and in the last 12 months (counts only, joined by Steam ID) | ODbL — this data stays under ODbL | Live |
 | [PCGamingWiki](https://www.pcgamingwiki.com) | A link to each game's PCGamingWiki page (the page name comes from Wikidata). Their data API is not open to anonymous use, so no PCGamingWiki content is copied here | — (links only) | Live |
 | [Wikipedia page views](https://www.mediawiki.org/wiki/Extension:PageViewInfo) | How often each game's English Wikipedia article was read in the last 60 days, so well-known games are added first (`sources/wikipedia-pageviews/pageviews.json`) | CC0 | Live |
-| [Wikimedia Commons](https://commons.wikimedia.org) | Which freely licensed images exist for a game, with their author and licence (links only, no image files here) | Per file, as stated on each file | Coming |
+| [Wikimedia Commons](https://commons.wikimedia.org) | For each image and logo a game points to on Wikidata: its licence, author, credit line and links (`sources/commons/files.json`; metadata only, no image files here) | Images: per file, as stated on each file. Our metadata file: CC BY-SA 4.0 | Live |
 
 Nothing here is copied from store pages, press kits or sites that don't offer an open licence. Other sites' IDs are just facts that point to their pages. Logos, box art and trademarks belong to their owners and are not stored in this repository.
 
@@ -44,7 +44,7 @@ Nothing here is copied from store pages, press kits or sites that don't offer an
 3. **Compare** *(coming)*. Where sources disagree, for example on a release year, the difference goes into a report. The fix is then made at the source, usually on Wikidata, with a proper reference, so every project that uses it benefits.
 4. **Feed DropSlate.** Once a day, [DropSlate](https://dropslate.focalnull.com) reads these files and adds new or changed games to its calendar and catalogue, well-known games first. The app itself (calendar, game pages, design) lives elsewhere; this repository only holds open data and the small scripts that collect it.
 
-Every Sunday the jobs run in order: game IDs, then game details, then Wikipedia page views. ProtonDB is refreshed by hand about once a month, when a new export appears.
+Every Sunday the jobs run in order: game IDs, then game details, then Wikipedia page views, then Commons metadata. ProtonDB is refreshed by hand about once a month, when a new export appears.
 
 ## Spotted a mistake?
 
@@ -52,7 +52,7 @@ The best place to fix a game's facts is at the source: edit it on [Wikidata](htt
 
 ## Licence
 
-- **Data** keeps the licence of the source it came from (see each `sources/<name>/LICENSE-DATA.md`). Wikidata-derived files are CC0.
+- **Data** keeps the licence of the source it came from (see each `sources/<name>/LICENSE-DATA.md`). Wikidata-derived files are CC0; the Commons metadata file is CC BY-SA 4.0, and every image it describes keeps its own licence.
 - **Scripts** in this repository are MIT-licensed.
 
 DropSlate and FocalNull are not affiliated with any game publisher, platform holder or the sources listed above.

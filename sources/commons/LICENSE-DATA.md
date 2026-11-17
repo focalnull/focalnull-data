@@ -1,0 +1,22 @@
+# Wikimedia Commons file metadata
+
+- **What we take:** for every Wikimedia Commons file a game points to on Wikidata — its image (P18) or its logo (P154), as listed in `sources/wikidata-details/` — the facts you need to reuse that file fairly: its licence (name, code and link), whether credit is required, the author as Commons names them, where the file came from, any extra restrictions (such as "trademarked"), its size, its file type and links to the file and its page. Read with the Commons API (`prop=imageinfo`, `iiprop=extmetadata|url|size|mime`), 50 files per request, one request at a time.
+- **Not included:** no image files, no thumbnails, no file descriptions and no categories. Author and source lines longer than 300 characters are cut.
+- **Licence of the images:** every image keeps its own licence, as stated on its Commons page and repeated in its entry here. Wikimedia Commons only accepts freely licensed or public-domain files, so no "non-commercial" or "no derivatives" licences appear.
+- **Licence of this file:** the metadata comes from the files' description pages on [Wikimedia Commons](https://commons.wikimedia.org), whose text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). To stay on the safe side, `files.json` is shared under the **same CC BY-SA 4.0 licence**, with this credit: thank you to the photographers, artists and volunteers of Wikimedia Commons.
+- **Format:** `files.json` holds `{"format": 1, "as_of": "<date>", "files": {"<file name>": {...}}}`, one file per line, keyed by the file name as Wikidata writes it. Each entry has:
+  - `page` (the file's Commons page) and `url` (the original file), `mime`, `width`, `height`, `bytes`;
+  - `licence` (e.g. "CC BY-SA 4.0", "Public domain"), `licence_code` (e.g. `cc-by-sa-4.0`, `pd`, when Commons gives one), `licence_url`;
+  - `attribution_required` (true / false), `author`, `source`, `credit_line` (Commons' suggested form: "Author, Licence, via Wikimedia Commons");
+  - `restrictions` (e.g. `["trademarked"]`; a public-domain logo can still be a trade mark);
+  - `reuse`, our own reading of the licence:
+    - `public-domain` — public domain or CC0: free to reuse; credit is kind but not required;
+    - `attribution` — CC BY, MIT, BSD and similar: free to reuse with the credit line and a link to the licence;
+    - `share-alike` — CC BY-SA, GFDL, GPL, Free Art License and similar: free to reuse with the credit line and a link to the licence; a changed version (for example a crop) must be shared under the same licence;
+    - `check` — unusual or missing licence information: a person reads the file page before the file is used;
+  - `used_as`: `image`, `logo` or both;
+  - `title`, only when Commons knows the file under another name (a rename with a redirect);
+  - `{"missing": true}` instead of all this when the file no longer exists on Commons (deleted, or renamed without a redirect) — worth fixing on Wikidata.
+- **Between runs:** a file we could not check in a run keeps its last entry; files no game uses any more are removed only after a complete run.
+- **Not legal advice.** The `reuse` value is a quick guide; the licence on the file's Commons page is what counts.
+- **Script:** `scripts/fetch_commons.py` · **Workflow:** *Refresh Commons metadata* (Sundays, after game details)

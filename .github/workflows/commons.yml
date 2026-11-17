@@ -1,0 +1,55 @@
+name: Refresh Commons metadata
+
+# Every Sunday at 08:17 UTC, after game IDs (01:17), game details (02:47) and page views (06:17),
+# and by hand when needed. Reads the Commons file names in sources/wikidata-details and stores
+# each file's licence, author and credit line (metadata only, no images). About 3,000 files,
+# 50 per request: a few minutes. Public repository, so these minutes are free.
+# Why 08:17: the details job may run up to 5 hours, which can push page views to 07:47 at the
+# latest; by 08:17 page views has started, so this run never replaces a pending one in the
+# shared "refresh" group (GitHub keeps only one pending run per group).
+on:
+  schedule:
+    - cron: "17 8 * * 0"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Only check the first N file names (0 = all, about 3,000 files, a few minutes)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  commons:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+      - name: Fetch file metadata from Wikimedia Commons
+        env:
+          LIMIT: ${{ inputs.limit || '0' }}
+        run: python scripts/fetch_commons.py --limit "$LIMIT"
+      - name: Save changed files
+        # Also after a failed fetch: the file then holds what was fetched, merged with last week's entries.
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sources/commons
+          if git diff --cached --quiet; then
+            echo "No changes." >> "$GITHUB_STEP_SUMMARY"
+          else
+            git commit -m "Refresh Commons metadata"
+            git pull --rebase
+            git push
+          fi
