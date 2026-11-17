@@ -29,6 +29,7 @@ Every game is keyed by its **Wikidata ID**. Wikidata already links most games to
 | Source | What we use | Licence | Status |
 |---|---|---|---|
 | [Wikidata](https://www.wikidata.org) | Every video game with a platform and a release date (about 135,000), its English name, its English Wikipedia article and the IDs other sites use for it | CC0 | Live |
+| [Wikidata](https://www.wikidata.org) game details | For each game: release dates with their precision, platform, region and release type (early access, full release…), developers, publishers, series, genres, trailer, official website and names (`sources/wikidata-details/`) | CC0 | Live |
 | [ProtonDB](https://www.protondb.com) | How many players report that a Steam game works on Linux and Steam Deck, overall and in the last 12 months (counts only, joined by Steam ID) | ODbL — this data stays under ODbL | Live |
 | [PCGamingWiki](https://www.pcgamingwiki.com) | A link to each game's PCGamingWiki page (the page name comes from Wikidata). Their data API is not open to anonymous use, so no PCGamingWiki content is copied here | — (links only) | Live |
 | [Wikipedia page views](https://www.mediawiki.org/wiki/Extension:PageViewInfo) | How often each game's English Wikipedia article was read in the last 60 days, so well-known games are added first (`sources/wikipedia-pageviews/pageviews.json`) | CC0 | Live |
@@ -38,12 +39,12 @@ Nothing here is copied from store pages, press kits or sites that don't offer an
 
 ## How it works
 
-1. **Find the games.** *Refresh game IDs* asks Wikidata for every video game with a platform and a release date and writes `matched/`. One request at a time, with a short pause between them, so we stay a polite guest.
+1. **Find the games.** *Refresh game IDs* asks Wikidata for every video game with a platform and a release date and writes `matched/`. *Refresh game details* then stores each game's facts (release dates, platforms, companies, series and more) in `sources/wikidata-details/`, 50 games per request. One request at a time, with a short pause between them, so we stay a polite guest.
 2. **Add the other sources.** Each source has its own job (for example *Refresh ProtonDB summary*, about once a month) that joins its data to our games by ID and keeps its own licence and credit.
 3. **Compare** *(coming)*. Where sources disagree, for example on a release year, the difference goes into a report. The fix is then made at the source, usually on Wikidata, with a proper reference, so every project that uses it benefits.
 4. **Feed DropSlate.** Once a day, [DropSlate](https://dropslate.focalnull.com) reads these files and adds new or changed games to its calendar and catalogue, well-known games first. The app itself (calendar, game pages, design) lives elsewhere; this repository only holds open data and the small scripts that collect it.
 
-For now the jobs are started by hand while we check the results. They will run on a schedule once DropSlate's daily import is in place.
+Every Sunday the jobs run in order: game IDs, then game details, then Wikipedia page views. ProtonDB is refreshed by hand about once a month, when a new export appears.
 
 ## Spotted a mistake?
 
