@@ -3,7 +3,9 @@
 with the IDs other sites use for it, and write them to matched/<bucket>.json.
 
 Standard library only. Polite to Wikimedia: one request at a time, a clear
-User-Agent, maxlag, and back-off on 429/503.
+User-Agent, a pause between calls, and back-off on 429/503 (and on maxlag
+replies, should Wikidata ever send one). Reads only, so no maxlag parameter:
+maxlag is meant for bots that edit, and runners were refused on every call.
 """
 from __future__ import annotations
 
@@ -130,7 +132,6 @@ def fetch_entities(qids: list[str]) -> list[dict]:
     payload = request_json(API_URL, {
         "action": "wbgetentities", "ids": "|".join(qids), "format": "json",
         "props": "labels|claims|sitelinks", "languages": "en", "sitefilter": "enwiki",
-        "maxlag": "5",
     })
     return [rec for e in payload.get("entities", {}).values() if (rec := record_from_entity(e))]
 
@@ -150,7 +151,7 @@ def write_buckets(records: list[dict]) -> int:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--limit", type=int, default=0, help="only fetch the first N games (0 = all)")
-    parser.add_argument("--pause", type=float, default=0.2, help="seconds between API calls")
+    parser.add_argument("--pause", type=float, default=0.5, help="seconds between API calls")
     args = parser.parse_args()
 
     qids = list_game_ids()
