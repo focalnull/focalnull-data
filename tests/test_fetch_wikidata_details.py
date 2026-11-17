@@ -58,6 +58,7 @@ BG3 = {
         "P179": [item("P179", "Q2640148", quals={"P1545": [{"snaktype": "value", "datavalue": {
             "type": "string", "value": "3"}}]})],
         "P155": [item("P155", "Q804859")],
+        "P18": [string("P18", "Baldur's Gate 3 logo.png")],
         "P1651": [string("P1651", "old"), string("P1651", "new", rank="preferred")],
         "P856": [string("P856", "https://old.example", quals={"P582": [{"snaktype": "value", "datavalue": {
                      "type": "time", "value": {"time": "+2020-00-00T00:00:00Z"}}}]}),
@@ -108,6 +109,7 @@ class DetailTests(unittest.TestCase):
         self.assertEqual(r["relations"], {"P179": [{"id": "Q2640148", "ordinal": "3"}],
                                           "P155": [{"id": "Q804859"}]})
         self.assertEqual(r["enwiki"], "Baldur's Gate 3")
+        self.assertEqual(r["commons_images"], ["Baldur's Gate 3 logo.png"])
         self.assertEqual(r["labels"], {"mul": "Baldur's Gate 3", "ru": "Baldur's Gate III"})
         self.assertEqual(r["aliases"], {"en": ["BG3"]})
         self.assertTrue(r["is_game"])

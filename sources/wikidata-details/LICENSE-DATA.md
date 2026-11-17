@@ -5,6 +5,7 @@
   - release dates (P577) with their precision (9 = year, 10 = month, 11 = day), rank and qualifiers, including platform (P400), region (P291) and release type (P3831, e.g. early access);
   - platforms (P400), developers (P178), publishers (P123), genres (P136), series (P179), game modes (P404), engines (P408), PEGI (P908) and ESRB (P852) ratings;
   - YouTube trailer ID (P1651), Steam (P1733), IGDB (P5794), GOG (P2725) and Nintendo eShop (P8084) IDs, and current official websites (P856 without an end date);
+  - Wikimedia Commons file names of the game's image (P18) and logo (P154) — names only, no files;
   - links to other games: series with its number (P179 + P1545), follows (P155), followed by (P156), based on (P144), edition of (P747/P629) and the like (P4969);
   - `is_game`: whether the item is a video game and not an expansion pack or mod;
   - `lastrevid` and `modified`, so DropSlate can tell which games changed.

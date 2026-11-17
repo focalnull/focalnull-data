@@ -64,6 +64,8 @@ TRUTHY = {
     "P5794": "igdb",
     "P2725": "gog",
     "P8084": "eshop",
+    "P18": "commons_images",   # file names on Wikimedia Commons, for the Commons step (no image files here)
+    "P154": "commons_logos",
 }
 # Links between games: every statement that isn't deprecated, with its series ordinal (P1545).
 RELATIONS = ("P179", "P155", "P156", "P144", "P747", "P629", "P4969")
