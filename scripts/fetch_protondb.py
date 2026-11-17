@@ -20,6 +20,7 @@ import os
 import re
 import sys
 import tarfile
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -30,19 +31,21 @@ RAW_URL = "https://raw.githubusercontent.com/bdefore/protondb-data/master/report
 USER_AGENT = "focalnull-data/0.1 (https://github.com/focalnull/focalnull-data)"
 MONTHS = {m: i for i, m in enumerate(
     ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
-NAME = re.compile(r"reports_([a-z]{3})(\d{1,2})_(\d{4})\.tar\.gz$")
+NAME = re.compile(r"reports_([a-z]{3})(\d{1,2})_(\d{4})\.tar\.gz")
 
 
 def get(url: str) -> bytes:
     headers = {"User-Agent": USER_AGENT}
-    if url.startswith("https://api.github.com") and os.environ.get("GITHUB_TOKEN"):
+    parts = urllib.parse.urlsplit(url)
+    # Send the token only to GitHub's API host itself (exact match, not a prefix).
+    if parts.scheme == "https" and parts.hostname == "api.github.com" and os.environ.get("GITHUB_TOKEN"):
         headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
     with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=600) as resp:
         return resp.read()
 
 
 def export_date(name: str) -> dt.date | None:
-    match = NAME.search(name)
+    match = NAME.fullmatch(name)  # whole name only: nothing before or after it
     if not match or match.group(1) not in MONTHS:
         return None
     return dt.date(int(match.group(3)), MONTHS[match.group(1)], int(match.group(2)))
