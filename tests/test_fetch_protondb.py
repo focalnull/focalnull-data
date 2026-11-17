@@ -35,3 +35,28 @@ class ProtonDBTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class SafetyTests(unittest.TestCase):
+    def test_export_names_must_match_exactly(self):
+        import fetch_protondb as f
+        self.assertIsNone(f.export_date("../x/reports_nov1_2026.tar.gz"))
+        self.assertIsNone(f.export_date("reports_nov1_2026.tar.gz.exe"))
+        self.assertIsNotNone(f.export_date("reports_nov1_2026.tar.gz"))
+
+    def test_token_only_sent_to_the_github_api_host(self):
+        import fetch_protondb as f
+        from unittest import mock
+        seen = []
+        class Resp:
+            def __enter__(self): return self
+            def __exit__(self, *a): return False
+            def read(self): return b"{}"
+        def fake_open(req, timeout):
+            seen.append(req.get_header("Authorization"))
+            return Resp()
+        with mock.patch.dict(f.os.environ, {"GITHUB_TOKEN": "t"}), mock.patch.object(f.urllib.request, "urlopen", fake_open):
+            f.get("https://api.github.com/repos/x")
+            f.get("https://api.github.com.example.org/x")
+            f.get("https://raw.githubusercontent.com/x")
+        self.assertEqual(seen, ["Bearer t", None, None])
