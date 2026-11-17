@@ -14,32 +14,36 @@ Keeping it public felt right. The data came from open communities, so the matche
 
 ## What's in here
 
-| Folder | What it holds |
+| Path | What it holds |
 |---|---|
-| `sources/<name>/` | One folder per source, with a `LICENSE-DATA.md` describing what we take, its licence and its credit |
-| `scripts/` | The small scripts that fetch each source |
-| `matched/` | The combined records, spread over 1,000 small JSON files by the last three digits of each game's Wikidata number (for example, Q15727 lives in `727.json`) |
-| `.github/workflows/` | The scheduled job that refreshes the data |
+| `matched/` | One record per game, spread over 1,000 small JSON files by the last three digits of its Wikidata number (for example, Q15727 lives in `727.json`). Each record has the game's English name, its English Wikipedia article and the IDs other sites use for it |
+| `sources/<name>/` | One folder per extra source: a `LICENSE-DATA.md` saying what we take, its licence and its credit, plus that source's data file (for example `sources/protondb/summary.json`) |
+| `scripts/` | The small scripts that fetch each source (Python, no extra packages) |
+| `tests/` | Checks that run on every change |
+| `.github/workflows/` | The jobs that refresh the data |
 
-Every game is keyed by its **Wikidata ID**. Wikidata already links most games to their Steam, GOG, IGDB, MobyGames and PCGamingWiki pages, so that ID is what lets the sources line up.
+Every game is keyed by its **Wikidata ID**. Wikidata already links most games to their Steam, GOG, Epic, IGDB, MobyGames, PCGamingWiki, HowLongToBeat and Metacritic pages, so that ID is what lets every source line up with the same game.
 
 ## Sources and credits
 
-| Source | What we use | Licence |
-|---|---|---|
-| [Wikidata](https://www.wikidata.org) | Games, release dates, platforms, release types (early access, betas…), developers, series, links to other sites | CC0 |
-| [Wikipedia page views](https://wikimedia.org/api/rest_v1/) | How often a game's article is read, to fetch well-known games first | Public statistics |
-| [Wikimedia Commons](https://commons.wikimedia.org) | Which freely licensed images exist for a game, with their author and licence (links only, no image files here) | Per file, as stated on each file |
-| [ProtonDB](https://www.protondb.com) | How many players report that a Steam game works on Linux and Steam Deck (counts only, linked by Steam ID) | ODbL — the ProtonDB data stays under ODbL |
-| [PCGamingWiki](https://www.pcgamingwiki.com) | A link to each game's PCGamingWiki page (the page name comes from Wikidata). Their data API is not open to anonymous use, so no PCGamingWiki content is copied here | — (links only) |
+| Source | What we use | Licence | Status |
+|---|---|---|---|
+| [Wikidata](https://www.wikidata.org) | Every video game with a platform and a release date (about 135,000), its English name, its English Wikipedia article and the IDs other sites use for it | CC0 | Live |
+| [ProtonDB](https://www.protondb.com) | How many players report that a Steam game works on Linux and Steam Deck, overall and in the last 12 months (counts only, joined by Steam ID) | ODbL — this data stays under ODbL | Live |
+| [PCGamingWiki](https://www.pcgamingwiki.com) | A link to each game's PCGamingWiki page (the page name comes from Wikidata). Their data API is not open to anonymous use, so no PCGamingWiki content is copied here | — (links only) | Live |
+| [Wikipedia page views](https://wikimedia.org/api/rest_v1/) | How often a game's article is read, so well-known games are added first | Public statistics | Coming |
+| [Wikimedia Commons](https://commons.wikimedia.org) | Which freely licensed images exist for a game, with their author and licence (links only, no image files here) | Per file, as stated on each file | Coming |
 
-Nothing here is copied from store pages, press kits or sites that don't offer an open licence. Logos, box art and trademarks belong to their owners and are not stored in this repository.
+Nothing here is copied from store pages, press kits or sites that don't offer an open licence. Other sites' IDs are just facts that point to their pages. Logos, box art and trademarks belong to their owners and are not stored in this repository.
 
-## How it connects to DropSlate
+## How it works
 
-1. The workflow in this repository fetches the open sources on a schedule and updates `matched/`.
-2. Once a day, DropSlate reads `matched/` and adds new or changed games to its catalogue.
-3. The app itself (calendar, game pages, design) lives elsewhere. This repository only holds the data and the small scripts that collect it.
+1. **Find the games.** *Refresh game IDs* asks Wikidata for every video game with a platform and a release date and writes `matched/`. One request at a time, with a short pause between them, so we stay a polite guest.
+2. **Add the other sources.** Each source has its own job (for example *Refresh ProtonDB summary*, about once a month) that joins its data to our games by ID and keeps its own licence and credit.
+3. **Compare** *(coming)*. Where sources disagree, for example on a release year, the difference goes into a report. The fix is then made at the source, usually on Wikidata, with a proper reference, so every project that uses it benefits.
+4. **Feed DropSlate.** Once a day, [DropSlate](https://dropslate.focalnull.com) reads these files and adds new or changed games to its calendar and catalogue, well-known games first. The app itself (calendar, game pages, design) lives elsewhere; this repository only holds open data and the small scripts that collect it.
+
+For now the jobs are started by hand while we check the results. They will run on a schedule once DropSlate's daily import is in place.
 
 ## Spotted a mistake?
 
