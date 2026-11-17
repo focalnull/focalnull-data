@@ -116,7 +116,8 @@ def record_from_entity(entity: dict) -> dict | None:
         return None
     claims = entity.get("claims", {})
     record = {"wikidata": qid}
-    label = entity.get("labels", {}).get("en", {}).get("value")
+    labels = entity.get("labels", {})
+    label = (labels.get("en") or labels.get("mul") or {}).get("value")
     if label:
         record["label_en"] = label
     enwiki = entity.get("sitelinks", {}).get("enwiki", {}).get("title")
@@ -131,7 +132,7 @@ def record_from_entity(entity: dict) -> dict | None:
 def fetch_entities(qids: list[str]) -> list[dict]:
     payload = request_json(API_URL, {
         "action": "wbgetentities", "ids": "|".join(qids), "format": "json",
-        "props": "labels|claims|sitelinks", "languages": "en", "sitefilter": "enwiki",
+        "props": "labels|claims|sitelinks", "languages": "en|mul", "sitefilter": "enwiki",
     })
     return [rec for e in payload.get("entities", {}).values() if (rec := record_from_entity(e))]
 
