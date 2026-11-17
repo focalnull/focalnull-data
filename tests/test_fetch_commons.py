@@ -136,6 +136,16 @@ class FetchTests(unittest.TestCase):
         self.assertEqual(self.found["Old name.png"]["reuse"], "public-domain")
 
 
+    def test_licences_seen_in_the_first_full_run(self):
+        # Shapes from run #1 (17 Nov 2026): "Copyrighted free use" and CPL pages with an author.
+        for licence, required, expected in (("Copyrighted free use", "false", "attribution"),
+                                            ("CPL", "true", "share-alike")):
+            reply = {"query": {"pages": [page("X.png", licence, "", "Messhof", required=required)]}}
+            with self.subTest(licence=licence), mock.patch.object(c, "request_json", return_value=reply):
+                entry = c.fetch_batch(["X.png"])["X.png"]
+                self.assertEqual(entry["reuse"], expected)
+                self.assertEqual(entry["credit_line"], f"Messhof, {licence}, via Wikimedia Commons")
+
     def test_credit_needed_but_no_author_is_checked_by_hand(self):
         entry = self.found["ZX Laser Squad.png"]
         self.assertTrue(entry["attribution_required"])  # the licence decides when the page doesn't say
@@ -171,6 +181,9 @@ class LicenceTests(unittest.TestCase):
             ("cc-by-sa-4.0", "CC BY-SA 4.0"): "share-alike", ("cc-by-sa-3.0-de", "CC BY-SA 3.0 de"): "share-alike",
             ("", "GPLv3"): "share-alike", ("", "AGPL"): "share-alike", ("", "LGPL"): "share-alike",
             ("", "GFDL 1.2"): "share-alike", ("", "FAL"): "share-alike",
+            ("", "Copyrighted free use"): "attribution", ("", "CPL"): "share-alike",
+            ("", "ZLIB"): "attribution", ("", "Apache License 2.0"): "attribution", ("", "GPLv2"): "share-alike",
+            ("", "NetHack GPL"): "share-alike", ("cc-by-sa-2.5-nl", "CC BY-SA 2.5 nl"): "share-alike",
             ("", "Fair use"): "check", ("", ""): "check",
         }
         for (code, name), expected in cases.items():

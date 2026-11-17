@@ -11,9 +11,9 @@
   - `restrictions` (e.g. `["trademarked"]`; a public-domain logo can still be a trade mark);
   - `reuse`, our own reading of the licence:
     - `public-domain` — public domain or CC0: free to reuse; credit is kind but not required;
-    - `attribution` — CC BY, MIT, BSD and similar: free to reuse with the credit line and a link to the licence;
-    - `share-alike` — CC BY-SA, GFDL, GPL, Free Art License and similar: free to reuse with the credit line and a link to the licence; a changed version (for example a crop) must be shared under the same licence;
-    - `check` — unusual or missing licence information: a person reads the file page before the file is used;
+    - `attribution` — CC BY, MIT, BSD, zlib, Apache, "Copyrighted free use" and similar: free to reuse with the credit line and a link to the licence (for "Copyrighted free use" Commons doesn't ask for credit, but we give it anyway);
+    - `share-alike` — CC BY-SA, GFDL, GPL, LGPL, AGPL, CPL, Free Art License and similar: free to reuse with the credit line and a link to the licence; a changed version (for example a crop) must be shared under the same licence;
+    - `check` — unusual or missing licence information, or a licence that needs credit while the page names no author: a person reads the file page before the file is used;
   - `used_as`: `image`, `logo` or both;
   - `title`, only when Commons knows the file under another name (a rename with a redirect);
   - `{"missing": true}` instead of all this when the file no longer exists on Commons (deleted, or renamed without a redirect) — worth fixing on Wikidata.

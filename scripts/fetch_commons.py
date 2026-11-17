@@ -52,8 +52,11 @@ PUBLIC_DOMAIN = "public-domain"   # free to reuse; credit is kind but not requir
 ATTRIBUTION = "attribution"       # free to reuse with credit (author, licence, link)
 SHARE_ALIKE = "share-alike"       # free to reuse with credit; changed versions keep the same licence
 CHECK = "check"                   # unknown or unusual licence: a person reads the file page first
-SHARE_ALIKE_NAMES = re.compile(r"by-sa|gfdl|\bfal\b|free art|\b[al]?gpl")
-ATTRIBUTION_NAMES = re.compile(r"cc[- ]by|^attribution|\bmit\b|\bbsd\b|apache|artistic|\bisc\b|zlib|wtfpl|\bogl")
+# "Copyrighted free use": the owner allows any use; Commons doesn't ask for credit, we still give it.
+# CPL (Common Public License): changed versions stay under the CPL, like the GPL.
+SHARE_ALIKE_NAMES = re.compile(r"by-sa|gfdl|\bfal\b|free art|\b[al]?gpl|\bcpl\b")
+ATTRIBUTION_NAMES = re.compile(r"cc[- ]by|^attribution|\bmit\b|\bbsd\b|apache|artistic|\bisc\b|zlib|wtfpl|\bogl"
+                               r"|copyrighted free use")
 
 
 class ShapeError(SystemExit):
