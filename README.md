@@ -18,7 +18,8 @@ Keeping it public felt right. The data came from open communities, so the matche
 |---|---|
 | `matched/` | One record per game, spread over 1,000 small JSON files by the last three digits of its Wikidata number (for example, Q15727 lives in `727.json`). Each record has the game's English name, its English Wikipedia article and the IDs other sites use for it |
 | `sources/<name>/` | One folder per extra source: a `LICENSE-DATA.md` saying what we take, its licence and its credit, plus that source's data file (for example `sources/protondb/summary.json`, or `sources/commons/files.json` for image licences and credits) |
-| `scripts/` | The small scripts that fetch each source (Python, no extra packages) |
+| `reports/differences.csv` | Places where our sources disagree with Wikidata, or Wikidata disagrees with itself, best-known games first: hints for a person to check and fix on Wikidata with a proper source (rules in `reports/README.md`) |
+| `scripts/` | The small scripts that fetch each source and build the report (Python, no extra packages) |
 | `tests/` | Checks that run on every change |
 | `.github/workflows/` | The jobs that refresh the data |
 
@@ -63,7 +64,7 @@ Two more things worth knowing. Many game logos are public domain because they ar
 
 ## Spotted a mistake?
 
-The best place to fix a game's facts is at the source: edit it on [Wikidata](https://www.wikidata.org), ideally with a reference. The fix reaches this repository on the next run and DropSlate the day after, and everyone else who uses Wikidata benefits too. If something looks wrong in how the data is matched here, please open an issue.
+The best place to fix a game's facts is at the source: edit it on [Wikidata](https://www.wikidata.org), ideally with a reference. The fix reaches this repository on the next run and DropSlate the day after, and everyone else who uses Wikidata benefits too. If something looks wrong in how the data is matched here, please open an issue. Looking for something to fix? `reports/differences.csv` lists likely gaps every week; each row is a hint, so please check it against a real source before editing.
 
 ## Licence
 
