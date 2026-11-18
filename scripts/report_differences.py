@@ -53,6 +53,7 @@ NOT_PLATFORMS = {
     "Q337535": "Steam is a store; the platform is the operating system (e.g. Microsoft Windows)",
     "Q1052025": "PlayStation Store is a store; the platform is the console (e.g. PlayStation 4)",
     "Q22905933": "itch.io is a store; the platform is the operating system",
+    "Q1486288": "GOG.com is a store; the platform is the operating system",
     "Q170073": "Xbox Network is an online service; the platform is the console",
     "Q3814081": "\"app marketplace\" is a kind of store, not a platform",
     "Q7344765": "a Wikipedia category item, not a platform",
