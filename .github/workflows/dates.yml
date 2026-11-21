@@ -1,0 +1,64 @@
+name: Dates to update
+
+# Sundays 10:37 UTC (after the differences report at 10:17): month/year release dates that English
+# Wikipedia already gives to the day, plus a recheck of every date DropSlate's owner entered by hand.
+# Monday to Saturday 05:37 UTC: only hand-entered dates within 30 days of their day (does nothing
+# while there are none). Public repository, so these minutes are free. Articles that haven't changed
+# since the last run are not read again, so after the first run (~2,300 articles, ~30 minutes) a
+# weekly run reads only the edited ones.
+on:
+  schedule:
+    - cron: "37 10 * * 0"
+    - cron: "37 5 * * 1-6"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "weekly (all candidates) or daily (hand-entered dates near their day)"
+        required: false
+        default: "weekly"
+      limit:
+        description: "Read at most N changed articles (0 = all)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+jobs:
+  dates:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    # The weekly run shares the "refresh" group with the other Sunday jobs; the daily one has its own,
+    # so it can never replace a pending Sunday job.
+    concurrency:
+      group: ${{ (github.event.schedule == '37 5 * * 1-6' || inputs.mode == 'daily') && 'hand-dates' || 'refresh' }}
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+      - name: Check the dates
+        env:
+          DAILY: ${{ (github.event.schedule == '37 5 * * 1-6' || inputs.mode == 'daily') && '1' || '0' }}
+          LIMIT: ${{ inputs.limit || '0' }}
+        run: |
+          if [ "$DAILY" = "1" ]; then
+            python scripts/dates_to_update.py --daily
+          else
+            python scripts/dates_to_update.py --limit "$LIMIT"
+          fi
+      - name: Save changed files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports sources/wikipedia-release-dates
+          if git diff --cached --quiet; then
+            echo "No changes." >> "$GITHUB_STEP_SUMMARY"
+          else
+            git commit -m "Refresh dates to update"
+            git pull --rebase
+            git push
+          fi
