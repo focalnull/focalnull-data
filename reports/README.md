@@ -41,3 +41,26 @@ This report is a derived database. Each row's `licence` column says which licenc
 - rows from Wikidata facts: **CC0**;
 - rows with `hint_from` = `protondb`: **ODbL 1.0** — derived from the [ProtonDB reports export](https://github.com/bdefore/protondb-data) by ProtonDB, shared under the same licence with this credit (see `sources/protondb/LICENSE-DATA.md`);
 - rows with `hint_from` = `commons`: **CC BY-SA 4.0**, like `sources/commons/files.json`.
+
+# Dates to update
+
+`dates-to-update.csv` is rebuilt every Sunday by the *Dates to update* workflow (`scripts/dates_to_update.py`). It has two parts, hand-entered dates first:
+
+**1. Month/year dates that Wikipedia gives to the day.** For well-known games (at least 1,000 English Wikipedia views in 60 days) whose Wikidata release date is only a month or a year, with no day date in that year, the script reads the "released" line of the English Wikipedia article (upcoming games first). Same rules as the differences report: **the row is a hint** — find the real announcement (publisher, store page, press coverage cited in the article), then add the day on Wikidata with that source as the reference. Wikipedia is never the reference.
+
+| Check | What it means |
+|---|---|
+| `day-on-wikipedia` | Wikipedia gives a day inside Wikidata's month or year (e.g. Wikidata "2027", Wikipedia "23 February 2027"). Early-access days are shown with a note. |
+| `later-on-wikipedia` | Wikipedia gives only later days than Wikidata's period — often a delay, or another platform's release. |
+
+**2. Hand-entered dates.** DropSlate's owner can enter an exact date by hand with its source (DropSlate's Studio). DropSlate publishes those dates at `https://dropslate.focalnull.com/catalogue/hand-dates.json`; while that file doesn't exist, there are none to recheck. Every Sunday each one is compared with Wikidata and Wikipedia, and its source link is opened; from Monday to Saturday the same check runs for dates within 30 days of their day (written to `hand-dates-daily.csv`). Nothing is changed automatically: the owner chooses Keep, Use Wikidata or Edit.
+
+| Check | What it means |
+|---|---|
+| `hand-date-differs-from-wikidata` | Wikidata now has a different day in the same year, or a later day (a delay or a correction). |
+| `hand-date-differs-from-wikipedia` | Wikipedia's day differs. |
+| `hand-date-matches-wikidata` | Wikidata now has the same day: the hand-entered date can be removed. |
+| `hand-date-passed` | The day passed more than 7 days ago and Wikidata has no matching day: check it really came out. |
+| `hand-date-source-dead` | The source link answers 404/410 or can't be reached. |
+
+Columns: `check`, `wikidata`, `title`, `pageviews_60d`, `wikidata_date`, `wikipedia_date`, `wikipedia_platforms`, `your_date`, `your_source`, `detail`, `suggested_fix`, `fix_source`, `wikidata_url`, `enwiki_url`, `licence`. Rows built from Wikipedia dates carry its CC BY-SA 4.0 credit (see `sources/wikipedia-release-dates/LICENSE-DATA.md`).
