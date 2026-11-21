@@ -115,6 +115,21 @@ class DetailTests(unittest.TestCase):
         self.assertTrue(r["is_game"])
         self.assertEqual(r["lastrevid"], 2570088067)
 
+    def test_based_on_keeps_its_role(self):
+        # Ocarina of Time 3D: based on Ocarina of Time, role "video game remake" (Q65963104).
+        entity = json.loads(json.dumps(BG3))
+        entity["claims"]["P144"] = [
+            item("P144", "Q213911", quals={"P2868": [qual("P2868", "Q65963104")]}),
+            item("P144", "Q5"),
+        ]
+        # A role on another link is not copied (only "based on" carries one).
+        entity["claims"]["P155"] = [item("P155", "Q804859", quals={"P2868": [qual("P2868", "Q1")]})]
+        record = d.game_record(entity, {"Q7889"}, set())
+        self.assertEqual(record["relations"]["P144"], [{"id": "Q213911", "role": ["Q65963104"]}, {"id": "Q5"}])
+        self.assertEqual(record["relations"]["P155"], [{"id": "Q804859"}])
+        items, _ = d.referenced_items(record)
+        self.assertIn("Q65963104", items)  # its label goes into labels.json
+
     def test_expansions_are_not_games(self):
         entity = json.loads(json.dumps(BG3))
         entity["claims"]["P31"].append(item("P31", "Q1066707"))

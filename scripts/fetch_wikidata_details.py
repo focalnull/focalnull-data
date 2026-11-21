@@ -199,6 +199,11 @@ def relations(claims: dict) -> dict:
             ordinal = (qualifiers(s).get("P1545") or [None])[0]
             if ordinal:
                 entry["ordinal"] = ordinal
+            # "Based on" carries its role (P2868: video game remake / remaster / port …), so
+            # DropSlate can tell a remake from a new version without reading titles.
+            roles = [v for v in qualifiers(s).get("P2868", []) if isinstance(v, str) and QID.match(v)]
+            if prop == "P144" and roles:
+                entry["role"] = roles
             if s.get("rank") == "preferred":
                 entry["rank"] = "preferred"
             items.append(entry)
@@ -341,6 +346,7 @@ def referenced_items(record: dict) -> tuple[set[str], set[str]]:
                     companies.add(value)
     for entries in record.get("relations", {}).values():
         items.update(e["id"] for e in entries)
+        items.update(r for e in entries for r in e.get("role", []) if isinstance(r, str) and QID.match(r))
     for date in record.get("release_dates", []):
         for values in date.get("qualifiers", {}).values():
             items.update(v for v in values if isinstance(v, str) and QID.match(v))
