@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9603",
    "igdb": "tales-of-symphonia",
+   "metacritic": "tales-of-symphonia",
    "mobygames": "14730",
    "pcgamingwiki": "Tales_of_Symphonia",
    "steam": "372360"
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "10036",
    "igdb": "the-legend-of-zelda-ocarina-of-time-3d",
+   "metacritic": "the-legend-of-zelda-ocarina-of-time-3d",
    "mobygames": "51904"
   },
   "label_en": "The Legend of Zelda: Ocarina of Time 3D",
@@ -69,6 +71,7 @@
   "ids": {
    "howlongtobeat": "6536",
    "igdb": "new-super-mario-bros-u",
+   "metacritic": "new-super-mario-bros-u",
    "mobygames": "59276"
   },
   "label_en": "New Super Mario Bros. U",
@@ -79,6 +82,7 @@
   "ids": {
    "howlongtobeat": "8009",
    "igdb": "rule-of-rose",
+   "metacritic": "rule-of-rose",
    "mobygames": "24722"
   },
   "label_en": "Rule of Rose",
@@ -130,6 +134,7 @@
   "ids": {
    "howlongtobeat": "5497",
    "igdb": "madden-nfl-09",
+   "metacritic": "madden-nfl-09",
    "mobygames": "35614"
   },
   "label_en": "Madden NFL 09",
@@ -151,6 +156,7 @@
   "ids": {
    "howlongtobeat": "32180",
    "igdb": "harry-potter-for-kinect",
+   "metacritic": "harry-potter-for-kinect",
    "mobygames": "155572"
   },
   "label_en": "Harry Potter for Kinect",
@@ -192,6 +198,7 @@
    "gog": "game/kingdom_under_fire_the_crusaders",
    "howlongtobeat": "5054",
    "igdb": "kingdom-under-fire-the-crusaders",
+   "metacritic": "kingdom-under-fire-the-crusaders",
    "mobygames": "16603",
    "pcgamingwiki": "Kingdom_Under_Fire:_The_Crusaders",
    "steam": "1121420"
@@ -222,6 +229,7 @@
   "ids": {
    "howlongtobeat": "11588",
    "igdb": "zone-of-the-enders-the-fist-of-mars",
+   "metacritic": "zone-of-the-enders-the-fist-of-mars",
    "mobygames": "30231"
   },
   "label_en": "Zone of the Enders: The Fist of Mars",
@@ -267,6 +275,7 @@
   "ids": {
    "howlongtobeat": "44570",
    "igdb": "flatout-4-total-insanity",
+   "metacritic": "flatout-4-total-insanity",
    "mobygames": "86512",
    "pcgamingwiki": "FlatOut_4:_Total_Insanity",
    "steam": "402130"
@@ -287,6 +296,7 @@
   "ids": {
    "howlongtobeat": "16807",
    "igdb": "our-darker-purpose",
+   "metacritic": "our-darker-purpose",
    "mobygames": "65160",
    "pcgamingwiki": "Our_Darker_Purpose",
    "steam": "262790"
@@ -308,6 +318,7 @@
   "ids": {
    "howlongtobeat": "72810",
    "igdb": "onee-chanbara-origin",
+   "metacritic": "onee-chanbara-origin",
    "mobygames": "151562",
    "pcgamingwiki": "Onee_Chanbara_Origin",
    "steam": "1232460"
@@ -342,6 +353,7 @@
    "epic": "godfall",
    "howlongtobeat": "73081",
    "igdb": "godfall",
+   "metacritic": "godfall",
    "mobygames": "153448",
    "pcgamingwiki": "Godfall"
   },
@@ -353,6 +365,7 @@
   "ids": {
    "howlongtobeat": "77737",
    "igdb": "motogp-20",
+   "metacritic": "motogp-20",
    "mobygames": "144504",
    "pcgamingwiki": "MotoGP_20",
    "steam": "1161490"
@@ -378,6 +391,7 @@
    "gog": "game/spongebob_squarepants_the_cosmic_shake",
    "howlongtobeat": "98115",
    "igdb": "spongebob-squarepants-the-cosmic-shake",
+   "metacritic": "spongebob-squarepants-the-cosmic-shake",
    "mobygames": "198801",
    "pcgamingwiki": "SpongeBob_SquarePants:_The_Cosmic_Shake",
    "steam": "1282150"
@@ -399,7 +413,8 @@
   "enwiki": "Ghostbusters: Spirits Unleashed",
   "ids": {
    "epic": "ghostbusters-spirits-unleashed",
-   "igdb": "ghostbusters-spirits-unleashed"
+   "igdb": "ghostbusters-spirits-unleashed",
+   "metacritic": "ghostbusters-spirits-unleashed"
   },
   "label_en": "Ghostbusters: Spirits Unleashed",
   "wikidata": "Q111507526"
@@ -467,6 +482,7 @@
   "ids": {
    "howlongtobeat": "129958",
    "igdb": "clockwork-revolution",
+   "metacritic": "clockwork-revolution",
    "mobygames": "244563",
    "pcgamingwiki": "Clockwork_Revolution",
    "steam": "2439280"
@@ -813,6 +829,9 @@
   "wikidata": "Q124075526"
  },
  {
+  "ids": {
+   "metacritic": "harukanaru-toki-no-naka-de-maihitoyo"
+  },
   "label_en": "Harukanaru Toki no Naka de: Maihitoyo",
   "wikidata": "Q124655526"
  },

@@ -6,6 +6,7 @@
    "gog": "game/dishonored_definitive_edition",
    "howlongtobeat": "2602",
    "igdb": "dishonored",
+   "metacritic": "dishonored-definitive-edition",
    "mobygames": "58218",
    "pcgamingwiki": "Dishonored",
    "steam": "205100"
@@ -54,6 +55,7 @@
   "ids": {
    "howlongtobeat": "4002",
    "igdb": "golden-sun-the-lost-age",
+   "metacritic": "golden-sun-the-lost-age",
    "mobygames": "8962"
   },
   "label_en": "Golden Sun: The Lost Age",
@@ -132,6 +134,7 @@
   "enwiki": "Police Quest: In Pursuit of the Death Angel",
   "ids": {
    "igdb": "police-quest-in-pursuit-of-the-death-angel",
+   "metacritic": "police-quest-in-pursuit-of-the-death-angel",
    "mobygames": "146",
    "pcgamingwiki": "Police_Quest:_In_Pursuit_of_the_Death_Angel"
   },
@@ -160,6 +163,7 @@
   "ids": {
    "howlongtobeat": "1707",
    "igdb": "chronovolt",
+   "metacritic": "chronovolt",
    "mobygames": "59687"
   },
   "label_en": "Chronovolt",
@@ -237,6 +241,7 @@
   "ids": {
    "howlongtobeat": "9767",
    "igdb": "the-baconing",
+   "metacritic": "the-baconing",
    "mobygames": "54608",
    "pcgamingwiki": "The_Baconing",
    "steam": "18070"
@@ -296,6 +301,7 @@
    "gog": "game/kholat",
    "howlongtobeat": "26679",
    "igdb": "kholat",
+   "metacritic": "kholat",
    "mobygames": "79493",
    "pcgamingwiki": "Kholat",
    "steam": "343710"
@@ -319,6 +325,7 @@
   "ids": {
    "howlongtobeat": "48517",
    "igdb": "uppers",
+   "metacritic": "uppers",
    "mobygames": "151851",
    "pcgamingwiki": "Uppers",
    "steam": "795760"
@@ -331,6 +338,7 @@
   "ids": {
    "howlongtobeat": "21058",
    "igdb": "motorsport-manager",
+   "metacritic": "motorsport-manager",
    "mobygames": "83359",
    "pcgamingwiki": "Motorsport_Manager",
    "steam": "415200"
@@ -367,6 +375,7 @@
    "gog": "game/fictorum",
    "howlongtobeat": "51809",
    "igdb": "fictorum",
+   "metacritic": "fictorum",
    "mobygames": "94137",
    "pcgamingwiki": "Fictorum",
    "steam": "503620"
@@ -391,6 +400,7 @@
    "epic": "nba-2k21",
    "howlongtobeat": "82997",
    "igdb": "nba-2k21",
+   "metacritic": "nba-2k21",
    "mobygames": "150152",
    "pcgamingwiki": "NBA_2K21",
    "steam": "1225330"
@@ -403,6 +413,7 @@
    "gog": "game/rogue_trooper_redux",
    "howlongtobeat": "50690",
    "igdb": "rogue-trooper-redux",
+   "metacritic": "rogue-trooper-redux",
    "mobygames": "97197",
    "pcgamingwiki": "Rogue_Trooper_Redux",
    "steam": "529490"
@@ -1251,6 +1262,7 @@
   "ids": {
    "igdb": "cliche-critical-change",
    "mobygames": "152989",
+   "pcgamingwiki": "Cliché_-_Critical_Change",
    "steam": "945590"
   },
   "label_en": "Cliché - Critical Change",

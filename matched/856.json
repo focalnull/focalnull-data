@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9095",
    "igdb": "star-wars-trilogy-apprentice-of-the-force",
+   "metacritic": "star-wars-trilogy-apprentice-of-the-force",
    "mobygames": "15041"
   },
   "label_en": "Star Wars Trilogy: Apprentice of the Force",
@@ -15,6 +16,7 @@
    "gog": "game/hitman_codename_47",
    "howlongtobeat": "4478",
    "igdb": "hitman-codename-47",
+   "metacritic": "hitman-codename-47",
    "mobygames": "2797",
    "pcgamingwiki": "Hitman:_Codename_47",
    "steam": "6900"
@@ -28,6 +30,7 @@
    "gog": "game/evil_genius",
    "howlongtobeat": "3242",
    "igdb": "evil-genius",
+   "metacritic": "evil-genius",
    "mobygames": "16192",
    "pcgamingwiki": "Evil_Genius",
    "steam": "3720"
@@ -70,6 +73,7 @@
   "ids": {
    "gog": "game/venom_codename_outbreak",
    "igdb": "codename-outbreak",
+   "metacritic": "codename-outbreak",
    "mobygames": "5533",
    "pcgamingwiki": "Codename:_Outbreak"
   },
@@ -81,6 +85,7 @@
   "ids": {
    "howlongtobeat": "111",
    "igdb": "nine-hours-nine-persons-nine-doors",
+   "metacritic": "nine-hours-nine-persons-nine-doors",
    "mobygames": "49690"
   },
   "label_en": "Nine Hours, Nine Persons, Nine Doors",
@@ -103,6 +108,7 @@
   "ids": {
    "howlongtobeat": "5856",
    "igdb": "mega-man-zero-2",
+   "metacritic": "mega-man-zero-2",
    "mobygames": "10659"
   },
   "label_en": "Mega Man Zero 2",
@@ -126,6 +132,7 @@
   "ids": {
    "howlongtobeat": "8148",
    "igdb": "sanctum-2",
+   "metacritic": "sanctum-2",
    "mobygames": "65417",
    "pcgamingwiki": "Sanctum_2",
    "steam": "210770"
@@ -160,6 +167,7 @@
   "ids": {
    "howlongtobeat": "15293",
    "igdb": "kings-bounty-legions",
+   "metacritic": "kings-bounty-legions",
    "mobygames": "62220",
    "pcgamingwiki": "King's_Bounty:_Legions",
    "steam": "235400"
@@ -172,6 +180,7 @@
   "ids": {
    "howlongtobeat": "11490",
    "igdb": "yu-gi-oh-gx-duel-academy",
+   "metacritic": "yu-gi-oh-gx-duel-academy",
    "mobygames": "184774"
   },
   "label_en": "Yu-Gi-Oh! GX Duel Academy",
@@ -181,6 +190,7 @@
   "enwiki": "Reel Fishing: Angler's Dream",
   "ids": {
    "igdb": "reel-fishing-angler-s-dream",
+   "metacritic": "reel-fishing-anglers-dream",
    "mobygames": "85512"
   },
   "label_en": "Reel Fishing: Angler's Dream",
@@ -190,6 +200,7 @@
   "enwiki": "Super Swing Golf: Season 2",
   "ids": {
    "igdb": "super-swing-golf-season-2",
+   "metacritic": "super-swing-golf-season-2",
    "mobygames": "34270"
   },
   "label_en": "Super Swing Golf: Season 2",
@@ -225,6 +236,7 @@
   "ids": {
    "howlongtobeat": "14333",
    "igdb": "mario-party-island-tour",
+   "metacritic": "mario-party-island-tour",
    "mobygames": "82213"
   },
   "label_en": "Mario Party: Island Tour",
@@ -234,6 +246,7 @@
   "enwiki": "Midway Arcade Origins",
   "ids": {
    "igdb": "midway-arcade-origins",
+   "metacritic": "midway-arcade-origins",
    "mobygames": "80222"
   },
   "label_en": "Midway Arcade Origins",
@@ -262,6 +275,7 @@
   "ids": {
    "howlongtobeat": "19381",
    "igdb": "the-perils-of-man",
+   "metacritic": "the-perils-of-man",
    "mobygames": "94403",
    "pcgamingwiki": "Perils_of_Man",
    "steam": "347710"
@@ -272,6 +286,7 @@
  {
   "ids": {
    "igdb": "shin-megami-tensei-devil-survivor-2-record-breaker",
+   "metacritic": "shin-megami-tensei-devil-survivor-2-record-breaker",
    "mobygames": "85935"
   },
   "label_en": "Shin Megami Tensei: Devil Survivor 2 Record Breaker",
@@ -291,6 +306,7 @@
   "ids": {
    "howlongtobeat": "47101",
    "igdb": "momonga-pinball-adventures",
+   "metacritic": "momonga-pinball-adventures",
    "mobygames": "82547",
    "pcgamingwiki": "Momonga_Pinball_Adventures",
    "steam": "491560"
@@ -328,6 +344,7 @@
    "gog": "game/return_to_monkey_island",
    "howlongtobeat": "109863",
    "igdb": "return-to-monkey-island",
+   "metacritic": "return-to-monkey-island",
    "mobygames": "191783",
    "pcgamingwiki": "Return_to_Monkey_Island",
    "steam": "2060130"
@@ -358,6 +375,7 @@
   "ids": {
    "howlongtobeat": "73895",
    "igdb": "owl-simulator",
+   "metacritic": "owl-simulator",
    "mobygames": "141150",
    "pcgamingwiki": "Owl_Simulator"
   },
@@ -704,6 +722,7 @@
    "gog": "game/world_of_goo_2",
    "howlongtobeat": "141874",
    "igdb": "world-of-goo-2",
+   "metacritic": "world-of-goo-2",
    "pcgamingwiki": "World_of_Goo_2",
    "steam": "3385670"
   },
@@ -836,6 +855,7 @@
  {
   "ids": {
    "igdb": "xavier",
+   "metacritic": "xavier",
    "mobygames": "100357"
   },
   "label_en": "Xavier",
@@ -1159,6 +1179,7 @@
   "ids": {
    "howlongtobeat": "1383",
    "igdb": "bulletstorm-full-clip-edition",
+   "metacritic": "bulletstorm-full-clip-edition",
    "mobygames": "86572",
    "pcgamingwiki": "Bulletstorm:_Full_Clip_Edition",
    "steam": "501590"
@@ -1193,6 +1214,7 @@
  {
   "ids": {
    "igdb": "the-lift--1",
+   "pcgamingwiki": "The_Lift:_Supernatural_Handyman_Simulator",
    "steam": "3283240"
   },
   "label_en": "The Lift",

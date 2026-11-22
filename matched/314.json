@@ -18,6 +18,7 @@
    "gog": "game/darksiders_ii",
    "howlongtobeat": "2245",
    "igdb": "darksiders-ii",
+   "metacritic": "darksiders-ii-death-rides-pack",
    "mobygames": "59122",
    "pcgamingwiki": "Darksiders_II",
    "steam": "50650"
@@ -30,6 +31,7 @@
   "ids": {
    "epic": "flatout-ultimate-carnage-a735b8",
    "igdb": "flatout-ultimate-carnage",
+   "metacritic": "flatout-ultimate-carnage",
    "mobygames": "29762",
    "pcgamingwiki": "FlatOut:_Ultimate_Carnage",
    "steam": "12360"
@@ -89,6 +91,7 @@
   "ids": {
    "howlongtobeat": "125992",
    "igdb": "ricochet-xtreme",
+   "metacritic": "ricochet-xtreme",
    "mobygames": "5154",
    "pcgamingwiki": "Ricochet_Xtreme"
   },
@@ -99,6 +102,7 @@
   "enwiki": "Soccer Mania",
   "ids": {
    "igdb": "soccer-mania",
+   "metacritic": "soccer-mania",
    "mobygames": "54236"
   },
   "label_en": "Soccer Mania",
@@ -109,6 +113,7 @@
   "ids": {
    "howlongtobeat": "14321",
    "igdb": "sentinel-descendants-in-time",
+   "metacritic": "sentinel-descendants-in-time",
    "mobygames": "15908",
    "pcgamingwiki": "Sentinel:_Descendants_in_Time"
   },
@@ -129,6 +134,7 @@
   "ids": {
    "howlongtobeat": "18635",
    "igdb": "fairy-fencer-f",
+   "metacritic": "fairy-fencer-f",
    "mobygames": "74308",
    "pcgamingwiki": "Fairy_Fencer_F",
    "steam": "347830"
@@ -146,6 +152,7 @@
   "ids": {
    "howlongtobeat": "20811",
    "igdb": "five-nights-at-freddys",
+   "metacritic": "five-nights-at-freddys",
    "mobygames": "68564",
    "pcgamingwiki": "Five_Nights_at_Freddy's",
    "steam": "319510"
@@ -168,6 +175,7 @@
    "gog": "game/breach_and_clear",
    "howlongtobeat": "18931",
    "igdb": "breach-and-clear",
+   "metacritic": "breach-clear",
    "mobygames": "69311",
    "pcgamingwiki": "Breach_&_Clear",
    "steam": "266130"
@@ -240,6 +248,7 @@
   "ids": {
    "howlongtobeat": "86270",
    "igdb": "total-tank-simulator",
+   "metacritic": "total-tank-simulator",
    "mobygames": "145782",
    "pcgamingwiki": "Total_Tank_Simulator",
    "steam": "674500"
@@ -281,6 +290,7 @@
   "ids": {
    "howlongtobeat": "144321",
    "igdb": "pride-run",
+   "metacritic": "pride-run",
    "mobygames": "137999",
    "pcgamingwiki": "Pride_Run",
    "steam": "848330"
@@ -330,6 +340,7 @@
   "ids": {
    "howlongtobeat": "89148",
    "igdb": "get-a-grip-chip",
+   "metacritic": "get-a-grip-chip",
    "mobygames": "155380",
    "steam": "1269590"
   },
@@ -351,7 +362,8 @@
  },
  {
   "ids": {
-   "epic": "3-out-of-10-ep-5"
+   "epic": "3-out-of-10-ep-5",
+   "metacritic": "3-out-of-10-episode-5-the-rig-is-up"
   },
   "label_en": "3 out of 10, EP 5: \"The Rig Is Up!\"",
   "wikidata": "Q113467314"
@@ -616,6 +628,7 @@
   "ids": {
    "howlongtobeat": "92419",
    "igdb": "chrono-ark",
+   "metacritic": "chrono-ark",
    "mobygames": "139111",
    "pcgamingwiki": "Chrono_Ark",
    "steam": "1188930"
@@ -726,6 +739,7 @@
  {
   "ids": {
    "igdb": "aska",
+   "metacritic": "aska",
    "mobygames": "227438",
    "pcgamingwiki": "ASKA",
    "steam": "1898300"
@@ -1116,6 +1130,7 @@
  {
   "enwiki": "New Classic ~ The Embodiment of Scarlet Devil",
   "ids": {
+   "pcgamingwiki": "Touhou_Koumakyou:_New_Classic_-_the_Embodiment_of_Scarlet_Devil",
    "steam": "4659620"
   },
   "label_en": "New Classic ~ The Embodiment of Scarlet Devil",

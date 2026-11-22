@@ -5,6 +5,7 @@
    "gog": "game/back_to_the_future_the_game",
    "howlongtobeat": "778",
    "igdb": "back-to-the-future-the-game",
+   "metacritic": "back-to-the-future-the-game",
    "mobygames": "49986",
    "pcgamingwiki": "Back_to_the_Future:_The_Game",
    "steam": "31290"
@@ -30,6 +31,7 @@
   "ids": {
    "howlongtobeat": "5707",
    "igdb": "mass-effect-3",
+   "metacritic": "mass-effect-3",
    "mobygames": "55078",
    "pcgamingwiki": "Mass_Effect_3",
    "steam": "1238020"
@@ -42,6 +44,7 @@
   "ids": {
    "howlongtobeat": "1975",
    "igdb": "crash-bandicoot-the-wrath-of-cortex",
+   "metacritic": "crash-bandicoot-the-wrath-of-cortex",
    "mobygames": "5531"
   },
   "label_en": "Crash Bandicoot: The Wrath of Cortex",
@@ -72,6 +75,7 @@
   "ids": {
    "howlongtobeat": "9666",
    "igdb": "tekken-4",
+   "metacritic": "tekken-4",
    "mobygames": "7366"
   },
   "label_en": "Tekken 4",
@@ -109,6 +113,7 @@
    "gog": "game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned",
    "howlongtobeat": "3783",
    "igdb": "gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned",
+   "metacritic": "gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned",
    "mobygames": "484",
    "pcgamingwiki": "Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned",
    "steam": "497360"
@@ -129,6 +134,7 @@
   "enwiki": "Digimon Racing",
   "ids": {
    "igdb": "digimon-racing",
+   "metacritic": "digimon-racing",
    "mobygames": "15712"
   },
   "label_en": "Digimon Racing",
@@ -191,6 +197,7 @@
   "ids": {
    "howlongtobeat": "10334",
    "igdb": "tiger-woods-pga-tour-13",
+   "metacritic": "tiger-woods-pga-tour-13",
    "mobygames": "177505"
   },
   "label_en": "Tiger Woods PGA Tour 13",
@@ -201,6 +208,7 @@
   "ids": {
    "howlongtobeat": "10795",
    "igdb": "unchained-blades",
+   "metacritic": "unchained-blades",
    "mobygames": "100197"
   },
   "label_en": "Unchained Blades",
@@ -280,6 +288,7 @@
   "ids": {
    "howlongtobeat": "47992",
    "igdb": "the-shrouded-isle",
+   "metacritic": "the-shrouded-isle",
    "mobygames": "93934",
    "pcgamingwiki": "The_Shrouded_Isle",
    "steam": "501320"
@@ -321,6 +330,7 @@
   "ids": {
    "howlongtobeat": "82422",
    "igdb": "evergate",
+   "metacritic": "evergate",
    "pcgamingwiki": "Evergate",
    "steam": "845030"
   },
@@ -395,6 +405,7 @@
   "enwiki": "R.B.I. Baseball 14",
   "ids": {
    "igdb": "rbi-baseball-14",
+   "metacritic": "rbi-baseball-14",
    "mobygames": "84727"
   },
   "label_en": "R.B.I. Baseball 14",
@@ -455,6 +466,7 @@
   "ids": {
    "howlongtobeat": "56216",
    "igdb": "venture-kid",
+   "metacritic": "venture-kid",
    "mobygames": "110895",
    "pcgamingwiki": "Venture_Kid",
    "steam": "437690"
@@ -1154,6 +1166,7 @@
  {
   "ids": {
    "igdb": "classicube",
+   "metacritic": "classicube",
    "pcgamingwiki": "ClassiCube",
    "steam": "1065710"
   },

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4401",
    "igdb": "hellgate-london",
+   "metacritic": "hellgate-london",
    "mobygames": "30909",
    "pcgamingwiki": "Hellgate:_London",
    "steam": "939520"
@@ -35,6 +36,7 @@
   "enwiki": "Dragon Ball Z: Budokai 2",
   "ids": {
    "igdb": "dragon-ball-z-budokai-2",
+   "metacritic": "dragon-ball-z-budokai-2",
    "mobygames": "12633"
   },
   "label_en": "Dragon Ball Z: Budokai 2",
@@ -56,6 +58,7 @@
    "gog": "game/necrovision",
    "howlongtobeat": "6467",
    "igdb": "necrovision",
+   "metacritic": "necrovision",
    "mobygames": "39592",
    "pcgamingwiki": "NecroVisioN",
    "steam": "7860"
@@ -90,6 +93,7 @@
   "enwiki": "CellFactor: Psychokinetic Wars",
   "ids": {
    "igdb": "cellfactor-psychokinetic-wars",
+   "metacritic": "cellfactor-psychokinetic-wars",
    "mobygames": "46021"
   },
   "label_en": "CellFactor: Psychokinetic Wars",
@@ -107,6 +111,9 @@
   "wikidata": "Q5070132"
  },
  {
+  "ids": {
+   "metacritic": "call-of-duty-classic"
+  },
   "label_en": "Call of Duty Classic",
   "wikidata": "Q5140132"
  },
@@ -130,6 +137,7 @@
   "enwiki": "Major League Baseball 2K8 Fantasy All-Stars",
   "ids": {
    "igdb": "major-league-baseball-2k8-fantasy-all-stars",
+   "metacritic": "major-league-baseball-2k8-fantasy-all-stars",
    "mobygames": "34688"
   },
   "label_en": "Major League Baseball 2K8 Fantasy All-Stars",
@@ -159,6 +167,7 @@
   "ids": {
    "howlongtobeat": "31890",
    "igdb": "laserlife",
+   "metacritic": "laserlife",
    "mobygames": "86874",
    "pcgamingwiki": "Laserlife",
    "steam": "323040"
@@ -198,6 +207,7 @@
   "enwiki": "Pokémon SoulSilver",
   "ids": {
    "igdb": "pokemon-soulsilver-version",
+   "metacritic": "pokemon-soulsilver-version",
    "mobygames": "44546"
   },
   "label_en": "Pokémon SoulSilver",
@@ -208,6 +218,7 @@
   "ids": {
    "howlongtobeat": "53038",
    "igdb": "unforgiving-a-northern-hymn",
+   "metacritic": "unforgiving-a-northern-hymn",
    "mobygames": "98735",
    "pcgamingwiki": "Unforgiving_-_A_Northern_Hymn",
    "steam": "747340"
@@ -263,6 +274,7 @@
    "gog": "game/slipways",
    "howlongtobeat": "94131",
    "igdb": "slipways",
+   "metacritic": "slipways",
    "mobygames": "165894",
    "pcgamingwiki": "Slipways",
    "steam": "1264280"
@@ -688,6 +700,7 @@
  {
   "ids": {
    "igdb": "arcana-alchemia",
+   "metacritic": "arcana-alchemia",
    "steam": "2527460"
   },
   "label_en": "Arcana Alchemia",
@@ -746,6 +759,7 @@
  {
   "enwiki": "Heroes of Might and Magic: Olden Era",
   "ids": {
+   "howlongtobeat": "155772",
    "igdb": "heroes-of-might-and-magic-olden-era",
    "mobygames": "242985",
    "pcgamingwiki": "Heroes_of_Might_&_Magic:_Olden_Era",
@@ -1059,6 +1073,7 @@
  {
   "ids": {
    "igdb": "mahjong--1",
+   "pcgamingwiki": "Mahjong",
    "steam": "539270"
   },
   "label_en": "Mahjong",

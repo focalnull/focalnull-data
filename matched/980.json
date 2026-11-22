@@ -5,6 +5,7 @@
    "epic": "alice-madness-returns-3f8717",
    "howlongtobeat": "340",
    "igdb": "alice-madness-returns",
+   "metacritic": "alice-madness-returns",
    "mobygames": "51996",
    "pcgamingwiki": "Alice:_Madness_Returns",
    "steam": "19680"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "10833",
    "igdb": "unreal-tournament-iii",
+   "metacritic": "unreal-tournament-iii",
    "mobygames": "31411",
    "pcgamingwiki": "Unreal_Tournament_3",
    "steam": "13210"
@@ -29,6 +31,7 @@
   "ids": {
    "gog": "game/sam_max_save_the_world",
    "igdb": "sam-max-save-the-world",
+   "metacritic": "sam-max-season-one",
    "mobygames": "28144",
    "pcgamingwiki": "Sam_&_Max_Save_the_World",
    "steam": "901660"
@@ -40,6 +43,7 @@
   "enwiki": "Ultimate Mortal Kombat 3",
   "ids": {
    "igdb": "ultimate-mortal-kombat-3",
+   "metacritic": "ultimate-mortal-kombat-3",
    "mobygames": "6593"
   },
   "label_en": "Ultimate Mortal Kombat 3",
@@ -49,6 +53,7 @@
   "enwiki": "Kirby 64: The Crystal Shards",
   "ids": {
    "igdb": "kirby-64-the-crystal-shards",
+   "metacritic": "kirby-64-the-crystal-shards",
    "mobygames": "20578"
   },
   "label_en": "Kirby 64: The Crystal Shards",
@@ -101,6 +106,7 @@
   "enwiki": "Super Dragon Ball Z",
   "ids": {
    "igdb": "super-dragon-ball-z",
+   "metacritic": "super-dragon-ball-z",
    "mobygames": "60170"
   },
   "label_en": "Super Dragon Ball Z",
@@ -140,6 +146,7 @@
   "ids": {
    "howlongtobeat": "1734",
    "igdb": "cladun-this-is-an-rpg",
+   "metacritic": "cladun-this-is-an-rpg",
    "mobygames": "48909"
   },
   "label_en": "Cladun: This is an RPG",
@@ -149,6 +156,7 @@
   "enwiki": "Ninjatown",
   "ids": {
    "igdb": "ninjatown",
+   "metacritic": "ninjatown",
    "mobygames": "39727"
   },
   "label_en": "Ninjatown",
@@ -193,6 +201,7 @@
   "ids": {
    "howlongtobeat": "17852",
    "igdb": "half-minute-hero-the-second-coming",
+   "metacritic": "half-minute-hero-the-second-coming",
    "mobygames": "103834",
    "pcgamingwiki": "Half-Minute_Hero:_The_Second_Coming",
    "steam": "240970"
@@ -225,6 +234,7 @@
   "ids": {
    "howlongtobeat": "29284",
    "igdb": "stranger-of-sword-city",
+   "metacritic": "stranger-of-sword-city",
    "mobygames": "84429",
    "pcgamingwiki": "Stranger_of_Sword_City",
    "steam": "409890"
@@ -240,6 +250,7 @@
  {
   "ids": {
    "igdb": "dr-seuss-green-eggs-and-ham",
+   "metacritic": "dr-seuss-green-eggs-and-ham",
    "mobygames": "177945"
   },
   "label_en": "Dr. Seuss: Green Eggs and Ham",
@@ -291,6 +302,7 @@
   "ids": {
    "howlongtobeat": "37545",
    "igdb": "crush-crush",
+   "metacritic": "crush-crush",
    "mobygames": "86189",
    "pcgamingwiki": "Crush_Crush",
    "steam": "459820"
@@ -307,6 +319,7 @@
   "ids": {
    "howlongtobeat": "41968",
    "igdb": "super-mario-maker-for-nintendo-3ds",
+   "metacritic": "super-mario-maker-for-nintendo-3ds",
    "mobygames": "82756"
   },
   "label_en": "Super Mario Maker for Nintendo 3DS",
@@ -318,6 +331,7 @@
    "gog": "game/batman_the_enemy_within_the_telltale_series",
    "howlongtobeat": "47529",
    "igdb": "batman-the-enemy-within",
+   "metacritic": "batman-the-enemy-within-the-telltale-series",
    "mobygames": "94087",
    "pcgamingwiki": "Batman:_The_Enemy_Within_-_The_Telltale_Series",
    "steam": "675260"
@@ -330,6 +344,7 @@
   "ids": {
    "howlongtobeat": "50617",
    "igdb": "football-manager-2018",
+   "metacritic": "football-manager-2018",
    "mobygames": "98085",
    "pcgamingwiki": "Football_Manager_2018",
    "steam": "624090"
@@ -342,6 +357,7 @@
   "ids": {
    "howlongtobeat": "49684",
    "igdb": "earth-atlantis",
+   "metacritic": "earth-atlantis",
    "mobygames": "96539",
    "pcgamingwiki": "Earth_Atlantis",
    "steam": "997030"
@@ -356,6 +372,7 @@
    "gog": "game/guacamelee_2",
    "howlongtobeat": "59509",
    "igdb": "guacamelee-2",
+   "metacritic": "guacamelee-2",
    "mobygames": "112560",
    "pcgamingwiki": "Guacamelee!_2",
    "steam": "534550"
@@ -375,6 +392,7 @@
    "gog": "game/ohsir_the_insult_simulator",
    "howlongtobeat": "40943",
    "igdb": "oh-dot-dot-dot-sir-the-insult-simulator",
+   "metacritic": "ohsir-the-insult-simulator",
    "mobygames": "83373",
    "pcgamingwiki": "Oh...Sir!_The_Insult_Simulator",
    "steam": "512250"
@@ -474,6 +492,7 @@
   "ids": {
    "howlongtobeat": "90611",
    "igdb": "shelter-3",
+   "metacritic": "shelter-3",
    "mobygames": "161327",
    "pcgamingwiki": "Shelter_3",
    "steam": "977630"
@@ -644,6 +663,7 @@
   "ids": {
    "howlongtobeat": "70861",
    "igdb": "worbital",
+   "metacritic": "worbital",
    "mobygames": "136010",
    "pcgamingwiki": "Worbital",
    "steam": "761910"
@@ -685,6 +705,7 @@
    "gog": "game/the_dragoness_command_of_the_flame",
    "howlongtobeat": "113311",
    "igdb": "the-dragoness-command-of-the-flame",
+   "metacritic": "the-dragoness-command-of-the-flame",
    "mobygames": "190681",
    "steam": "1413580"
   },
@@ -891,6 +912,7 @@
   "ids": {
    "howlongtobeat": "144700",
    "igdb": "kemono-teatime",
+   "metacritic": "kemono-teatime",
    "steam": "2698470"
   },
   "label_en": "Kemono Teatime",

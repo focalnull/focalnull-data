@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "11832",
    "igdb": "nba-live-06",
+   "metacritic": "nba-live-06",
    "mobygames": "22340"
   },
   "label_en": "NBA Live 06",
@@ -40,6 +41,7 @@
   "enwiki": "Aliens Versus Predator: Extinction",
   "ids": {
    "igdb": "aliens-versus-predator-extinction",
+   "metacritic": "aliens-versus-predator-extinction",
    "mobygames": "10020"
   },
   "label_en": "Aliens vs. Predator: Extinction",
@@ -78,6 +80,7 @@
    "gog": "game/i_g_i_2_covert_strike",
    "howlongtobeat": "4586",
    "igdb": "i-dot-g-i-dot-2-covert-strike",
+   "metacritic": "igi-2-covert-strike",
    "mobygames": "9210",
    "pcgamingwiki": "I.G.I.-2:_Covert_Strike"
   },
@@ -88,6 +91,7 @@
   "enwiki": "Rayman: Hoodlums' Revenge",
   "ids": {
    "igdb": "rayman-hoodlums-revenge",
+   "metacritic": "rayman-hoodlums-revenge",
    "mobygames": "31722"
   },
   "label_en": "Rayman: Hoodlums' Revenge",
@@ -98,6 +102,7 @@
   "ids": {
    "howlongtobeat": "6441",
    "igdb": "nba-live-08",
+   "metacritic": "nba-live-08",
    "mobygames": "33875",
    "pcgamingwiki": "NBA_Live_08"
   },
@@ -128,6 +133,7 @@
   "enwiki": "Mission: Impossible (1998 video game)",
   "ids": {
    "igdb": "mission-impossible",
+   "metacritic": "mission-impossible-1998",
    "mobygames": "5288"
   },
   "label_en": "Mission: Impossible",
@@ -184,6 +190,7 @@
   "enwiki": "Wacky Races (2000 video game)",
   "ids": {
    "igdb": "wacky-races--2",
+   "metacritic": "wacky-races",
    "mobygames": "3488",
    "pcgamingwiki": "Wacky_Races"
   },
@@ -207,6 +214,7 @@
    "gog": "game/tom_clancys_ghost_recon",
    "howlongtobeat": "10425",
    "igdb": "tom-clancy-s-ghost-recon",
+   "metacritic": "tom-clancys-ghost-recon",
    "mobygames": "5557",
    "pcgamingwiki": "Tom_Clancy's_Ghost_Recon",
    "steam": "15300"
@@ -250,6 +258,7 @@
   "ids": {
    "howlongtobeat": "38054",
    "igdb": "dead-rising-4",
+   "metacritic": "dead-rising-4",
    "mobygames": "81900",
    "pcgamingwiki": "Dead_Rising_4",
    "steam": "543460"
@@ -273,6 +282,7 @@
    "gog": "game/dwarves_the",
    "howlongtobeat": "38786",
    "igdb": "the-dwarves",
+   "metacritic": "the-dwarves",
    "mobygames": "84188",
    "pcgamingwiki": "The_Dwarves",
    "steam": "403970"
@@ -315,6 +325,7 @@
   "ids": {
    "howlongtobeat": "22622",
    "igdb": "halo-2-anniversary",
+   "metacritic": "halo-2-anniversary",
    "mobygames": "145475",
    "pcgamingwiki": "Halo_2:_Anniversary",
    "steam": "1064270"
@@ -345,6 +356,7 @@
   "ids": {
    "howlongtobeat": "39636",
    "igdb": "a-long-way-home",
+   "metacritic": "a-long-way-home",
    "mobygames": "82106",
    "pcgamingwiki": "A_Long_Way_Home",
    "steam": "461030"
@@ -363,6 +375,7 @@
   "ids": {
    "howlongtobeat": "43631",
    "igdb": "john-wick-chronicles",
+   "metacritic": "john-wick-chronicles",
    "mobygames": "83678",
    "pcgamingwiki": "John_Wick_Chronicles",
    "steam": "382360"
@@ -376,6 +389,7 @@
    "gog": "game/midnight_fight_express",
    "howlongtobeat": "82543",
    "igdb": "midnight-fight-express",
+   "metacritic": "midnight-fight-express",
    "mobygames": "190023",
    "pcgamingwiki": "Midnight_Fight_Express",
    "steam": "1390410"
@@ -427,6 +441,7 @@
    "gog": "game/chained_echoes",
    "howlongtobeat": "82601",
    "igdb": "chained-echoes",
+   "metacritic": "chained-echoes",
    "mobygames": "195765",
    "pcgamingwiki": "Chained_Echoes",
    "steam": "1229240"
@@ -457,6 +472,7 @@
   "ids": {
    "howlongtobeat": "67670",
    "igdb": "railroad-corporation",
+   "metacritic": "railroad-corporation",
    "mobygames": "127686",
    "pcgamingwiki": "Railroad_Corporation",
    "steam": "797400"
@@ -519,6 +535,7 @@
    "gog": "game/sucker_for_love_first_date",
    "howlongtobeat": "103020",
    "igdb": "sucker-for-love-first-date",
+   "metacritic": "sucker-for-love-first-date",
    "mobygames": "178428",
    "pcgamingwiki": "Sucker_for_Love:_First_Date",
    "steam": "1574270"
@@ -860,6 +877,7 @@
   "ids": {
    "howlongtobeat": "141826",
    "igdb": "windblown",
+   "metacritic": "windblown",
    "mobygames": "236671",
    "pcgamingwiki": "Windblown",
    "steam": "1911610"
@@ -1348,6 +1366,7 @@
  {
   "ids": {
    "igdb": "river-city-saga-journey-to-the-west",
+   "pcgamingwiki": "River_City_Saga:_Journey_to_the_West",
    "steam": "4164020"
   },
   "label_en": "River City Saga: Journey to the West",

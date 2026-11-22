@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "33294",
    "igdb": "wildlife-park",
+   "metacritic": "wildlife-park",
    "mobygames": "42614",
    "pcgamingwiki": "Wildlife_Park",
    "steam": "311840"
@@ -15,6 +16,7 @@
   "enwiki": "Shadow of Memories",
   "ids": {
    "igdb": "shadow-of-destiny",
+   "metacritic": "shadow-of-destiny",
    "mobygames": "3919",
    "pcgamingwiki": "Shadow_of_Destiny"
   },
@@ -77,6 +79,7 @@
   "ids": {
    "howlongtobeat": "7801",
    "igdb": "ricochet-infinity",
+   "metacritic": "ricochet-infinity",
    "mobygames": "35344",
    "pcgamingwiki": "Ricochet_Infinity",
    "steam": "7450"
@@ -115,6 +118,7 @@
   "enwiki": "Dragon Quest Monsters: Joker 2",
   "ids": {
    "igdb": "dragon-quest-monsters-joker-2",
+   "metacritic": "dragon-quest-monsters-joker-2",
    "mobygames": "53248"
   },
   "label_en": "Dragon Quest Monsters: Joker 2",
@@ -124,6 +128,7 @@
   "enwiki": "Mars Matrix",
   "ids": {
    "igdb": "mars-matrix",
+   "metacritic": "mars-matrix",
    "mobygames": "22293"
   },
   "label_en": "Mars Matrix",
@@ -155,6 +160,7 @@
   "ids": {
    "howlongtobeat": "1828",
    "igdb": "comic-jumper-the-adventures-of-captain-smiley",
+   "metacritic": "comic-jumper-the-adventures-of-captain-smiley",
    "mobygames": "51408"
   },
   "label_en": "Comic Jumper: The Adventures of Captain Smiley",
@@ -232,6 +238,7 @@
   "ids": {
    "howlongtobeat": "1165",
    "igdb": "bleed",
+   "metacritic": "bleed",
    "mobygames": "68655",
    "pcgamingwiki": "Bleed",
    "steam": "239800"
@@ -253,6 +260,7 @@
    "epic": "watch-dogs-2",
    "howlongtobeat": "37861",
    "igdb": "watch-dogs-2",
+   "metacritic": "watch-dogs-2",
    "mobygames": "81972",
    "pcgamingwiki": "Watch_Dogs_2",
    "steam": "447040"
@@ -265,6 +273,7 @@
   "ids": {
    "howlongtobeat": "43274",
    "igdb": "dirt-4",
+   "metacritic": "dirt-4",
    "mobygames": "89985",
    "pcgamingwiki": "DiRT_4",
    "steam": "421020"
@@ -292,6 +301,7 @@
    "gog": "game/heroland",
    "howlongtobeat": "68362",
    "igdb": "heroland",
+   "metacritic": "heroland",
    "mobygames": "137902",
    "pcgamingwiki": "Heroland",
    "steam": "1066030"
@@ -350,6 +360,7 @@
   "ids": {
    "howlongtobeat": "97197",
    "igdb": "fracked",
+   "metacritic": "fracked",
    "mobygames": "169662",
    "steam": "1873920"
   },
@@ -369,6 +380,7 @@
   "ids": {
    "howlongtobeat": "103028",
    "igdb": "alina-of-the-arena",
+   "metacritic": "alina-of-the-arena",
    "mobygames": "178278",
    "pcgamingwiki": "Alina_of_the_Arena",
    "steam": "1668690"
@@ -799,6 +811,7 @@
   "ids": {
    "howlongtobeat": "139729",
    "igdb": "lethal-company",
+   "metacritic": "lethal-company",
    "mobygames": "211474",
    "pcgamingwiki": "Lethal_Company",
    "steam": "1966720"
@@ -927,6 +940,7 @@
    "gog": "game/eternal_strands",
    "howlongtobeat": "148004",
    "igdb": "eternal-strands",
+   "metacritic": "eternal-strands",
    "mobygames": "236585",
    "pcgamingwiki": "Eternal_Strands",
    "steam": "1491410"
@@ -985,6 +999,7 @@
    "epic": "the-mound-c7a7dc",
    "howlongtobeat": "164939",
    "igdb": "the-mound-omen-of-cthulhu",
+   "metacritic": "the-mound-omen-of-cthulhu",
    "pcgamingwiki": "The_Mound:_Omen_of_Cthulhu",
    "steam": "2569760"
   },
@@ -1285,6 +1300,7 @@
   "ids": {
    "epic": "marsupilami-2-salsa-palombia-93afbe",
    "igdb": "marsupilami-2-salsa-palombia",
+   "metacritic": "marsupilami-2-salsa-palombia",
    "pcgamingwiki": "Marsupilami_2:_Salsa_Palombia",
    "steam": "3650170"
   },

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8788",
    "igdb": "sonic-the-hedgehog-2",
+   "metacritic": "3d-sonic-the-hedgehog-2",
    "mobygames": "6611",
    "pcgamingwiki": "Sonic_the_Hedgehog_2",
    "steam": "71163"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "8650",
    "igdb": "sly-cooper-and-the-thievius-raccoonus",
+   "metacritic": "sly-cooper-and-the-thievius-raccoonus",
    "mobygames": "7647"
   },
   "label_en": "Sly Cooper and the Thievius Raccoonus",
@@ -57,6 +59,7 @@
    "gog": "game/metal_slug_2",
    "howlongtobeat": "5930",
    "igdb": "metal-slug-2",
+   "metacritic": "metal-slug-2",
    "mobygames": "16852",
    "pcgamingwiki": "Metal_Slug_2",
    "steam": "366260"
@@ -80,6 +83,7 @@
   "enwiki": "Mario & Sonic at the Olympic Games",
   "ids": {
    "igdb": "sonic-at-the-olympic-games",
+   "metacritic": "mario-sonic-at-the-olympic-games",
    "mobygames": "30948"
   },
   "label_en": "Mario & Sonic at the Olympic Games",
@@ -89,6 +93,7 @@
   "enwiki": "Metal Slug Anthology",
   "ids": {
    "igdb": "metal-slug-anthology",
+   "metacritic": "metal-slug-anthology",
    "mobygames": "25634"
   },
   "label_en": "Metal Slug Anthology",
@@ -99,6 +104,7 @@
   "ids": {
    "howlongtobeat": "10882",
    "igdb": "valkyrie-profile-covenant-of-the-plume",
+   "metacritic": "valkyrie-profile-covenant-of-the-plume",
    "mobygames": "45338"
   },
   "label_en": "Valkyrie Profile: Covenant of the Plume",
@@ -118,6 +124,7 @@
   "ids": {
    "howlongtobeat": "3462",
    "igdb": "fight-night-2004",
+   "metacritic": "fight-night-2004",
    "mobygames": "12912"
   },
   "label_en": "Fight Night 2004",
@@ -130,6 +137,7 @@
   "ids": {
    "howlongtobeat": "6118",
    "igdb": "mobile-suit-gundam-seed-battle-assault",
+   "metacritic": "mobile-suit-gundam-seed-battle-assault",
    "mobygames": "47340"
   },
   "label_en": "Mobile Suit Gundam Seed: Battle Assault",
@@ -185,6 +193,7 @@
   "ids": {
    "howlongtobeat": "4522",
    "igdb": "hot-wheels-velocity-x",
+   "metacritic": "hot-wheels-velocity-x",
    "mobygames": "7790",
    "pcgamingwiki": "Hot_Wheels_Velocity_X"
   },
@@ -199,6 +208,7 @@
   "enwiki": "Magic: The Gathering – Battlegrounds",
   "ids": {
    "igdb": "magic-the-gathering-battlegrounds",
+   "metacritic": "magic-the-gathering-battlegrounds",
    "mobygames": "11514",
    "pcgamingwiki": "Magic:_The_Gathering_-_Battlegrounds"
   },
@@ -242,6 +252,7 @@
   "ids": {
    "igdb": "heaven-and-earth",
    "mobygames": "1974",
+   "pcgamingwiki": "Heaven_And_Earth",
    "steam": "673630"
   },
   "label_en": "Heaven & Earth",
@@ -251,6 +262,7 @@
   "enwiki": "Gallop & Ride",
   "ids": {
    "igdb": "gallop-and-ride",
+   "metacritic": "gallop-and-ride",
    "mobygames": "36045"
   },
   "label_en": "Gallop & Ride",
@@ -261,7 +273,9 @@
   "ids": {
    "howlongtobeat": "4280",
    "igdb": "hamsterball",
-   "mobygames": "29110"
+   "metacritic": "hamsterball",
+   "mobygames": "29110",
+   "pcgamingwiki": "Hamsterball"
   },
   "label_en": "Hamsterball",
   "wikidata": "Q19878627"
@@ -294,6 +308,7 @@
   "ids": {
    "howlongtobeat": "45370",
    "igdb": "throne-of-lies-medieval-politics",
+   "metacritic": "throne-of-lies-the-online-game-of-deceit",
    "mobygames": "150935",
    "pcgamingwiki": "Throne_of_Lies_The_Online_Game_of_Deceit",
    "steam": "595280"
@@ -305,6 +320,7 @@
   "enwiki": "Alphabear 2",
   "ids": {
    "igdb": "alphabear-2",
+   "metacritic": "alphabear-2",
    "mobygames": "113429"
   },
   "label_en": "Alphabear 2",
@@ -314,6 +330,7 @@
   "ids": {
    "howlongtobeat": "11103",
    "igdb": "watchmen-the-end-is-nigh-part-2",
+   "metacritic": "watchmen-the-end-is-nigh-part-2",
    "mobygames": "46049",
    "pcgamingwiki": "Watchmen:_The_End_is_Nigh_Part_2",
    "steam": "21030"
@@ -344,6 +361,7 @@
  {
   "ids": {
    "igdb": "badblood",
+   "pcgamingwiki": "Badblood",
    "steam": "404400"
   },
   "label_en": "Bad Blood",
@@ -354,6 +372,7 @@
   "ids": {
    "howlongtobeat": "84604",
    "igdb": "the-dark-pictures-anthology-house-of-ashes",
+   "metacritic": "the-dark-pictures-anthology-house-of-ashes",
    "mobygames": "174147",
    "pcgamingwiki": "House_of_Ashes",
    "steam": "1281590"
@@ -407,6 +426,7 @@
    "gog": "game/stray_blade",
    "howlongtobeat": "97245",
    "igdb": "stray-blade",
+   "metacritic": "stray-blade",
    "mobygames": "201983",
    "pcgamingwiki": "Stray_Blade",
    "steam": "1621990"
@@ -447,6 +467,7 @@
   "ids": {
    "howlongtobeat": "54496",
    "igdb": "youropa",
+   "metacritic": "youropa",
    "mobygames": "140292",
    "pcgamingwiki": "Youropa",
    "steam": "640120"
@@ -506,6 +527,7 @@
   "ids": {
    "epic": "concord",
    "igdb": "concord--1",
+   "metacritic": "concord",
    "mobygames": "229488",
    "pcgamingwiki": "Concord",
    "steam": "2443720"
@@ -519,6 +541,7 @@
    "gog": "game/railway_empire_2",
    "howlongtobeat": "115649",
    "igdb": "railway-empire-2",
+   "metacritic": "railway-empire-2",
    "mobygames": "203667",
    "pcgamingwiki": "Railway_Empire_2",
    "steam": "1644320"
@@ -1312,6 +1335,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Drova_II:_Torn_Lands",
    "steam": "4193180"
   },
   "label_en": "Drova II: Torn Lands",

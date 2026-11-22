@@ -5,6 +5,7 @@
    "gog": "game/anno_1503_ad",
    "howlongtobeat": "48976",
    "igdb": "anno-1503",
+   "metacritic": "1503-a-d-the-new-world",
    "mobygames": "7613",
    "pcgamingwiki": "Anno_1503"
   },
@@ -25,6 +26,7 @@
   "enwiki": "Metroid Prime Hunters",
   "ids": {
    "igdb": "metroid-prime-hunters",
+   "metacritic": "metroid-prime-hunters",
    "mobygames": "21787"
   },
   "label_en": "Metroid Prime Hunters",
@@ -34,6 +36,7 @@
   "enwiki": "Ancient Wars: Sparta",
   "ids": {
    "igdb": "ancient-wars-sparta",
+   "metacritic": "ancient-wars-sparta",
    "mobygames": "33349",
    "pcgamingwiki": "Ancient_Wars:_Sparta",
    "steam": "8010"
@@ -61,6 +64,7 @@
    "gog": "game/sea_dogs_caribbean_tales",
    "howlongtobeat": "17678",
    "igdb": "age-of-pirates-caribbean-tales",
+   "metacritic": "age-of-pirates-caribbean-tales",
    "mobygames": "24199",
    "pcgamingwiki": "Age_of_Pirates:_Caribbean_Tales",
    "steam": "817460"
@@ -129,6 +133,7 @@
   "enwiki": "Ice Age: Dawn of the Dinosaurs (video game)",
   "ids": {
    "igdb": "ice-age-dawn-of-the-dinosaurs",
+   "metacritic": "ice-age-dawn-of-the-dinosaurs",
    "mobygames": "46602",
    "pcgamingwiki": "Ice_Age:_Dawn_of_the_Dinosaurs"
   },
@@ -149,6 +154,7 @@
   "ids": {
    "howlongtobeat": "16672",
    "igdb": "art-of-murder-cards-of-destiny",
+   "metacritic": "art-of-murder-cards-of-destiny",
    "mobygames": "45620",
    "pcgamingwiki": "Art_of_Murder_-_Cards_of_Destiny",
    "steam": "836770"
@@ -251,6 +257,7 @@
    "gog": "game/night_in_the_woods",
    "howlongtobeat": "20078",
    "igdb": "night-in-the-woods",
+   "metacritic": "night-in-the-woods",
    "mobygames": "83818",
    "pcgamingwiki": "Night_in_the_Woods",
    "steam": "481510"
@@ -264,6 +271,7 @@
    "epic": "dauntless",
    "howlongtobeat": "54640",
    "igdb": "dauntless",
+   "metacritic": "dauntless",
    "mobygames": "127333",
    "pcgamingwiki": "Dauntless",
    "steam": "331370"
@@ -275,6 +283,7 @@
   "enwiki": "World of Warcraft: Battle for Azeroth",
   "ids": {
    "igdb": "world-of-warcraft-battle-for-azeroth",
+   "metacritic": "world-of-warcraft-battle-for-azeroth",
    "mobygames": "114571"
   },
   "label_en": "World of Warcraft: Battle for Azeroth",
@@ -310,6 +319,7 @@
    "gog": "game/heavens_vault",
    "howlongtobeat": "64421",
    "igdb": "heavens-vault",
+   "metacritic": "heavens-vault",
    "mobygames": "125202",
    "pcgamingwiki": "Heaven's_Vault",
    "steam": "774201"
@@ -324,6 +334,7 @@
    "gog": "game/blasphemous",
    "howlongtobeat": "62047",
    "igdb": "blasphemous",
+   "metacritic": "blasphemous",
    "mobygames": "134455",
    "pcgamingwiki": "Blasphemous",
    "steam": "774361"
@@ -335,6 +346,7 @@
   "ids": {
    "howlongtobeat": "2454",
    "igdb": "derrick-the-deathfin",
+   "metacritic": "derrick-the-deathfin",
    "mobygames": "69538",
    "pcgamingwiki": "Derrick_the_Deathfin",
    "steam": "287780"
@@ -409,6 +421,7 @@
    "gog": "game/blade_runner_enhanced_edition",
    "howlongtobeat": "1121",
    "igdb": "blade-runner-enhanced-edition",
+   "metacritic": "blade-runner-enhanced-edition",
    "mobygames": "186919",
    "pcgamingwiki": "Blade_Runner:_Enhanced_Edition",
    "steam": "1678420"
@@ -477,6 +490,7 @@
   "ids": {
    "howlongtobeat": "125157",
    "igdb": "tempest-rising",
+   "metacritic": "tempest-rising",
    "mobygames": "240427",
    "pcgamingwiki": "Tempest_Rising",
    "steam": "1486920"
@@ -686,6 +700,7 @@
    "gog": "game/new_arc_line",
    "howlongtobeat": "135956",
    "igdb": "new-arc-line",
+   "pcgamingwiki": "New_Arc_Line",
    "steam": "2458310"
   },
   "label_en": "New Arc Line",

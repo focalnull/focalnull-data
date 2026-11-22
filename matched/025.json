@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "382",
    "igdb": "aliens-colonial-marines",
+   "metacritic": "aliens-colonial-marines",
    "mobygames": "59738",
    "pcgamingwiki": "Aliens:_Colonial_Marines",
    "steam": "49540"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "963",
    "igdb": "battlezone",
+   "metacritic": "battlezone",
    "mobygames": "355",
    "pcgamingwiki": "Battlezone"
   },
@@ -38,6 +40,7 @@
    "gog": "game/chaser",
    "howlongtobeat": "1656",
    "igdb": "chaser",
+   "metacritic": "chaser-2003",
    "mobygames": "9632",
    "pcgamingwiki": "Chaser",
    "steam": "39670"
@@ -89,6 +92,7 @@
   "ids": {
    "howlongtobeat": "6444",
    "igdb": "nba-live-2004",
+   "metacritic": "nba-live-2004",
    "mobygames": "10665"
   },
   "label_en": "NBA Live 2004",
@@ -133,6 +137,7 @@
   "ids": {
    "howlongtobeat": "5748",
    "igdb": "mcdroid--1",
+   "metacritic": "mcdroid",
    "mobygames": "86961",
    "pcgamingwiki": "McDROID",
    "steam": "252970"
@@ -202,6 +207,7 @@
    "gog": "game/the_hong_kong_massacre",
    "howlongtobeat": "64412",
    "igdb": "the-hong-kong-massacre",
+   "metacritic": "the-hong-kong-massacre",
    "mobygames": "120599",
    "pcgamingwiki": "The_Hong_Kong_Massacre",
    "steam": "741510"
@@ -214,6 +220,7 @@
   "ids": {
    "howlongtobeat": "70753",
    "igdb": "later-alligator",
+   "metacritic": "later-alligator",
    "mobygames": "134924",
    "pcgamingwiki": "Later_Alligator",
    "steam": "966320"
@@ -232,6 +239,7 @@
    "epic": "century-age-of-ashes",
    "howlongtobeat": "85958",
    "igdb": "century-age-of-ashes",
+   "metacritic": "century-age-of-ashes",
    "mobygames": "176294",
    "pcgamingwiki": "Century:_Age_of_Ashes",
    "steam": "918570"
@@ -240,6 +248,9 @@
   "wikidata": "Q106308025"
  },
  {
+  "ids": {
+   "metacritic": "onii-chan-daisuki"
+  },
   "label_en": "Onii-chan Daisuki!",
   "wikidata": "Q108676025"
  },
@@ -250,6 +261,7 @@
    "gog": "game/hextech_mayhem_a_league_of_legends_story",
    "howlongtobeat": "100426",
    "igdb": "hextech-mayhem-a-league-of-legends-story",
+   "metacritic": "hextech-mayhem-a-league-of-legends-story",
    "mobygames": "175552",
    "pcgamingwiki": "Hextech_Mayhem:_A_League_of_Legends_Story",
    "steam": "1651960"
@@ -271,6 +283,7 @@
    "howlongtobeat": "127782",
    "igdb": "mokoko-x",
    "mobygames": "182595",
+   "pcgamingwiki": "Mokoko_X",
    "steam": "1785000"
   },
   "label_en": "Mokoko X",
@@ -584,6 +597,7 @@
    "epic": "super-crazy-rhythm-castle-e3b464",
    "howlongtobeat": "131602",
    "igdb": "super-crazy-rhythm-castle",
+   "metacritic": "super-crazy-rhythm-castle",
    "mobygames": "212227",
    "pcgamingwiki": "Super_Crazy_Rhythm_Castle",
    "steam": "1812560"
@@ -719,6 +733,7 @@
    "gog": "game/zoria_age_of_shattering",
    "howlongtobeat": "123599",
    "igdb": "zoria-age-of-shattering",
+   "metacritic": "zoria-age-of-shattering",
    "mobygames": "218967",
    "pcgamingwiki": "Zoria:_Age_of_Shattering",
    "steam": "1159090"
@@ -755,7 +770,8 @@
  {
   "enwiki": "Beyond Good & Evil HD",
   "ids": {
-   "igdb": "beyond-good-and-evil-hd"
+   "igdb": "beyond-good-and-evil-hd",
+   "metacritic": "beyond-good-and-evil-hd"
   },
   "label_en": "Beyond Good & Evil HD",
   "wikidata": "Q127165025"
@@ -763,6 +779,7 @@
  {
   "ids": {
    "igdb": "hentai-girls-nature",
+   "metacritic": "hentai-girls-nature",
    "mobygames": "228667",
    "steam": "3085230"
   },
@@ -789,6 +806,7 @@
   "ids": {
    "howlongtobeat": "14041",
    "igdb": "vector-td",
+   "metacritic": "vectortd",
    "mobygames": "96838"
   },
   "label_en": "Vector TD",
@@ -1138,6 +1156,7 @@
   "ids": {
    "epic": "football-manager-27-391032",
    "igdb": "football-manager-27",
+   "pcgamingwiki": "Football_Manager_27",
    "steam": "4530370"
   },
   "label_en": "Football Manager 27",

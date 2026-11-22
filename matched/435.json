@@ -3,6 +3,7 @@
   "enwiki": "Boom Blox",
   "ids": {
    "igdb": "boom-blox",
+   "metacritic": "boom-blox",
    "mobygames": "34414"
   },
   "label_en": "Boom Blox",
@@ -12,6 +13,7 @@
   "enwiki": "Oni (video game)",
   "ids": {
    "igdb": "oni",
+   "metacritic": "oni",
    "mobygames": "3242",
    "pcgamingwiki": "Oni"
   },
@@ -59,6 +61,7 @@
    "gog": "game/sam_max_the_devils_playhouse",
    "howlongtobeat": "8114",
    "igdb": "sam-and-max-the-devils-playhouse",
+   "metacritic": "sam-max-the-devils-playhouse",
    "mobygames": "47207",
    "pcgamingwiki": "Sam_&_Max:_The_Devil's_Playhouse",
    "steam": "901399"
@@ -71,6 +74,7 @@
   "ids": {
    "howlongtobeat": "3609",
    "igdb": "flower-sun-and-rain",
+   "metacritic": "flower-sun-and-rain",
    "mobygames": "37907"
   },
   "label_en": "Flower, Sun, and Rain",
@@ -92,6 +96,7 @@
   "enwiki": "NHL Hitz 2003",
   "ids": {
    "igdb": "nhl-hitz-2003",
+   "metacritic": "nhl-hitz-20-03",
    "mobygames": "9670"
   },
   "label_en": "NHL Hitz 2003",
@@ -117,6 +122,7 @@
   "ids": {
    "howlongtobeat": "12687",
    "igdb": "dot-detuned",
+   "metacritic": "-detuned",
    "mobygames": "85820"
   },
   "label_en": ".detuned",
@@ -144,6 +150,7 @@
   "ids": {
    "howlongtobeat": "2228",
    "igdb": "dark-summit",
+   "metacritic": "dark-summit",
    "mobygames": "5372"
   },
   "label_en": "Dark Summit",
@@ -175,7 +182,8 @@
  },
  {
   "ids": {
-   "igdb": "yu-gi-oh-5ds-duel-transer"
+   "igdb": "yu-gi-oh-5ds-duel-transer",
+   "metacritic": "yu-gi-oh-5ds-duel-transer"
   },
   "label_en": "Yu-Gi-Oh! 5D's Duel Transer",
   "wikidata": "Q6170435"
@@ -260,6 +268,7 @@
   "enwiki": "Missing on Lost Island",
   "ids": {
    "igdb": "missing-on-lost-island",
+   "metacritic": "missing-on-lost-island",
    "mobygames": "22052"
   },
   "label_en": "Missing on Lost Island",
@@ -269,6 +278,7 @@
   "ids": {
    "howlongtobeat": "38479",
    "igdb": "unforgiving-trials-the-darkest-crusade",
+   "metacritic": "unforgiving-trials-the-darkest-crusade",
    "mobygames": "83443",
    "pcgamingwiki": "Unforgiving_Trials:_The_Darkest_Crusade",
    "steam": "489220"
@@ -287,6 +297,7 @@
   "ids": {
    "howlongtobeat": "54033",
    "igdb": "tavern-tycoon",
+   "metacritic": "tavern-tycoon-dragons-hangover",
    "mobygames": "83126",
    "pcgamingwiki": "Tavern_Tycoon_-_Dragon's_Hangover",
    "steam": "439340"
@@ -298,6 +309,7 @@
   "enwiki": "NBA ShootOut 2004",
   "ids": {
    "igdb": "nba-shootout-2004",
+   "metacritic": "nba-shootout-2004",
    "mobygames": "24185"
   },
   "label_en": "NBA ShootOut 2004",
@@ -331,6 +343,7 @@
   "ids": {
    "howlongtobeat": "99746",
    "igdb": "wraith-the-oblivion-afterlife",
+   "metacritic": "wraith-the-oblivion-afterlife",
    "mobygames": "165537",
    "pcgamingwiki": "Wraith:_The_Oblivion_-_Afterlife",
    "steam": "1386870"
@@ -423,6 +436,7 @@
   "ids": {
    "howlongtobeat": "104088",
    "igdb": "pokemon-trading-card-game-live",
+   "metacritic": "pokemon-trading-card-game-live",
    "mobygames": "210701",
    "pcgamingwiki": "Pokémon_Trading_Card_Game_Live"
   },
@@ -1210,6 +1224,7 @@
  {
   "ids": {
    "igdb": "hentai-like-a-boss",
+   "pcgamingwiki": "Hentai_Like_a_Boss",
    "steam": "997050"
   },
   "label_en": "Hentai Like a Boss",

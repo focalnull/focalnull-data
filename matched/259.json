@@ -23,6 +23,7 @@
   "enwiki": "FIFA 08",
   "ids": {
    "igdb": "fifa-soccer-08",
+   "metacritic": "fifa-08-soccer",
    "mobygames": "30415",
    "pcgamingwiki": "FIFA_08"
   },
@@ -33,6 +34,7 @@
   "enwiki": "Pokémon Ranger: Guardian Signs",
   "ids": {
    "igdb": "pokemon-ranger-guardian-signs",
+   "metacritic": "pokemon-ranger-guardian-signs",
    "mobygames": "48934"
   },
   "label_en": "Pokémon Ranger: Guardian Signs",
@@ -84,6 +86,7 @@
   "enwiki": "Dawn of Magic",
   "ids": {
    "igdb": "dawn-of-magic",
+   "metacritic": "dawn-of-magic",
    "mobygames": "23370",
    "pcgamingwiki": "Dawn_of_Magic"
   },
@@ -139,6 +142,7 @@
   "enwiki": "Dark Horizon",
   "ids": {
    "igdb": "dark-horizon",
+   "metacritic": "dark-horizon",
    "mobygames": "39879"
   },
   "label_en": "Dark Horizon",
@@ -156,6 +160,7 @@
   "enwiki": "ESPN NHL 2K5",
   "ids": {
    "igdb": "espn-nhl-2k5",
+   "metacritic": "espn-nhl-2k5",
    "mobygames": "14672"
   },
   "label_en": "ESPN NHL 2K5",
@@ -208,6 +213,7 @@
   "ids": {
    "howlongtobeat": "14514",
    "igdb": "ben-10-omniverse-2",
+   "metacritic": "ben-10-omniverse-2",
    "mobygames": "121080"
   },
   "label_en": "Ben 10: Omniverse 2",
@@ -245,7 +251,8 @@
  {
   "enwiki": "Animal Crossing Plaza",
   "ids": {
-   "igdb": "animal-crossing-plaza"
+   "igdb": "animal-crossing-plaza",
+   "metacritic": "animal-crossing-plaza"
   },
   "label_en": "Animal Crossing Plaza",
   "wikidata": "Q30922259"
@@ -254,6 +261,7 @@
   "ids": {
    "howlongtobeat": "31419",
    "igdb": "morphine",
+   "metacritic": "morphine",
    "mobygames": "82469",
    "pcgamingwiki": "Morphine",
    "steam": "410430"
@@ -278,6 +286,7 @@
    "gog": "game/anomaly_2",
    "howlongtobeat": "12233",
    "igdb": "anomaly-2",
+   "metacritic": "anomaly-2",
    "mobygames": "60769",
    "pcgamingwiki": "Anomaly_2",
    "steam": "236730"
@@ -301,6 +310,7 @@
    "gog": "game/paper_sorcerer",
    "howlongtobeat": "16338",
    "igdb": "paper-sorcerer",
+   "metacritic": "paper-sorcerer",
    "mobygames": "63949",
    "pcgamingwiki": "Paper_Sorcerer",
    "steam": "263560"
@@ -769,6 +779,7 @@
    "epic": "revenge-of-the-savage-planet-9dc14c",
    "howlongtobeat": "155651",
    "igdb": "revenge-of-the-savage-planet",
+   "metacritic": "revenge-of-the-savage-planet",
    "pcgamingwiki": "Revenge_of_the_Savage_Planet",
    "steam": "2787320"
   },
@@ -776,6 +787,9 @@
   "wikidata": "Q129438259"
  },
  {
+  "ids": {
+   "metacritic": "dungeon-hearts-blitz"
+  },
   "label_en": "Dungeon Hearts Blitz",
   "wikidata": "Q130528259"
  },
@@ -798,6 +812,7 @@
   "ids": {
    "howlongtobeat": "151747",
    "igdb": "eldegarde",
+   "metacritic": "eldegarde",
    "pcgamingwiki": "Legacy:_Steel_&_Sorcery",
    "steam": "2344320"
   },

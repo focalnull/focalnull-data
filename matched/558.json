@@ -5,6 +5,7 @@
    "gog": "game/stalker_clear_sky",
    "howlongtobeat": "8037",
    "igdb": "s-dot-t-a-dot-l-k-dot-e-r-dot-clear-sky",
+   "metacritic": "stalker-clear-sky",
    "mobygames": "35954",
    "pcgamingwiki": "S.T.A.L.K.E.R.:_Clear_Sky",
    "steam": "20510"
@@ -39,6 +40,7 @@
   "ids": {
    "howlongtobeat": "10362",
    "igdb": "timesplitters",
+   "metacritic": "timesplitters",
    "mobygames": "3630"
   },
   "label_en": "TimeSplitters",
@@ -58,6 +60,7 @@
   "enwiki": "Tom Clancy's Ghost Recon Phantoms",
   "ids": {
    "igdb": "tom-clancy-s-ghost-recon-phantoms",
+   "metacritic": "tom-clancys-ghost-recon-online",
    "mobygames": "65880",
    "pcgamingwiki": "Tom_Clancy's_Ghost_Recon_Phantoms",
    "steam": "272350"
@@ -70,6 +73,7 @@
   "ids": {
    "howlongtobeat": "5228",
    "igdb": "the-legend-of-kage",
+   "metacritic": "the-legend-of-kage",
    "mobygames": "8694"
   },
   "label_en": "The Legend of Kage",
@@ -80,6 +84,7 @@
   "ids": {
    "howlongtobeat": "3010",
    "igdb": "dynasty-warriors-gundam",
+   "metacritic": "dynasty-warriors-gundam",
    "mobygames": "37354"
   },
   "label_en": "Dynasty Warriors: Gundam",
@@ -91,6 +96,7 @@
    "gog": "game/spacechem",
    "howlongtobeat": "8881",
    "igdb": "spacechem",
+   "metacritic": "spacechem",
    "mobygames": "50963",
    "pcgamingwiki": "SpaceChem",
    "steam": "92800"
@@ -112,6 +118,7 @@
   "ids": {
    "howlongtobeat": "923",
    "igdb": "battle-of-britain-ii-wings-of-victory",
+   "metacritic": "battle-of-britain-ii-wings-of-victory",
    "mobygames": "55116"
   },
   "label_en": "Battle of Britain II: Wings of Victory",
@@ -173,6 +180,7 @@
   "ids": {
    "howlongtobeat": "8313",
    "igdb": "serious-sam-hd-the-second-encounter",
+   "metacritic": "serious-sam-hd-the-second-encounter",
    "mobygames": "47081",
    "pcgamingwiki": "Serious_Sam_HD:_The_Second_Encounter",
    "steam": "41014"
@@ -190,6 +198,7 @@
    "gog": "game/b_17_flying_fortress_the_mighty_8th",
    "howlongtobeat": "769",
    "igdb": "b-17-flying-fortress-the-mighty-8th",
+   "metacritic": "b-17-flying-fortress-the-mighty-8th",
    "mobygames": "3901",
    "pcgamingwiki": "B-17_Flying_Fortress:_The_Mighty_8th",
    "steam": "328900"
@@ -203,6 +212,7 @@
    "gog": "game/neo_scavenger",
    "howlongtobeat": "6497",
    "igdb": "neo-scavenger",
+   "metacritic": "neo-scavenger",
    "mobygames": "77021",
    "pcgamingwiki": "NEO_Scavenger",
    "steam": "248860"
@@ -226,6 +236,7 @@
   "ids": {
    "howlongtobeat": "8591",
    "igdb": "sins-of-a-solar-empire-rebellion",
+   "metacritic": "sins-of-a-solar-empire-rebellion",
    "mobygames": "57739",
    "pcgamingwiki": "Sins_of_a_Solar_Empire:_Rebellion",
    "steam": "204880"
@@ -239,6 +250,7 @@
    "gog": "game/pillars_of_eternity_2_game",
    "howlongtobeat": "44045",
    "igdb": "pillars-of-eternity-ii-deadfire",
+   "metacritic": "pillars-of-eternity-2-deadfire",
    "mobygames": "108391",
    "pcgamingwiki": "Pillars_of_Eternity_II:_Deadfire",
    "steam": "560130"
@@ -262,6 +274,7 @@
   "ids": {
    "howlongtobeat": "59624",
    "igdb": "madden-nfl-19",
+   "metacritic": "madden-nfl-19",
    "mobygames": "112075",
    "pcgamingwiki": "Madden_NFL_19"
   },
@@ -276,6 +289,7 @@
  {
   "ids": {
    "igdb": "steel-eagle",
+   "metacritic": "steel-eagle",
    "pcgamingwiki": "Steel_Eagle",
    "steam": "733750"
   },
@@ -308,6 +322,7 @@
  {
   "ids": {
    "igdb": "dead-island-definitive-collection",
+   "metacritic": "dead-island-definitive-collection",
    "mobygames": "87568",
    "pcgamingwiki": "Dead_Island:_Definitive_Edition",
    "steam": "383150"
@@ -365,6 +380,7 @@
   "ids": {
    "howlongtobeat": "59839",
    "igdb": "jimmy-and-the-pulsating-mass",
+   "metacritic": "jimmy-and-the-pulsating-mass",
    "mobygames": "139580",
    "pcgamingwiki": "Jimmy_and_the_Pulsating_Mass",
    "steam": "706560"
@@ -463,6 +479,7 @@
    "gog": "game/corpse_factory",
    "howlongtobeat": "108932",
    "igdb": "corpse-factory",
+   "metacritic": "corpse-factory",
    "mobygames": "185304",
    "pcgamingwiki": "Corpse_Factory",
    "steam": "1414250"
@@ -759,6 +776,7 @@
   "ids": {
    "howlongtobeat": "10787",
    "igdb": "umihara-kawase",
+   "metacritic": "umihara-kawase",
    "mobygames": "19777",
    "pcgamingwiki": "Umihara_Kawase",
    "steam": "384690"
@@ -820,6 +838,7 @@
  {
   "ids": {
    "igdb": "railroad-corporation-2",
+   "metacritic": "railroad-corporation-2",
    "pcgamingwiki": "Railroad_Corporation_2",
    "steam": "1677970"
   },
@@ -1184,6 +1203,7 @@
  {
   "ids": {
    "igdb": "eba-and-egg-a-hatch-trip",
+   "metacritic": "eba-and-egg-a-hatch-trip",
    "mobygames": "93015"
   },
   "label_en": "Eba & Egg: A Hatch Trip",

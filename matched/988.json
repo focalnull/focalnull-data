@@ -79,6 +79,7 @@
   "ids": {
    "howlongtobeat": "1929",
    "igdb": "cooking-mama-cook-off",
+   "metacritic": "cooking-mama-cook-off",
    "mobygames": "27206"
   },
   "label_en": "Cooking Mama: Cook Off",
@@ -88,6 +89,7 @@
   "enwiki": "Spider-Man: Web of Shadows",
   "ids": {
    "igdb": "spider-man-web-of-shadows",
+   "metacritic": "spider-man-web-of-shadows",
    "mobygames": "37156",
    "pcgamingwiki": "Spider-Man:_Web_of_Shadows"
   },
@@ -135,6 +137,7 @@
    "epic": "doodle-god-f6a7b6",
    "howlongtobeat": "16901",
    "igdb": "doodle-god",
+   "metacritic": "doodle-god",
    "mobygames": "86456",
    "pcgamingwiki": "Doodle_God",
    "steam": "348360"
@@ -181,6 +184,7 @@
   "enwiki": "SpongeBob SquigglePants",
   "ids": {
    "igdb": "spongebob-squigglepants",
+   "metacritic": "spongebob-squigglepants",
    "mobygames": "92890"
   },
   "label_en": "SpongeBob SquigglePants",
@@ -227,6 +231,7 @@
   "ids": {
    "howlongtobeat": "6608",
    "igdb": "nihilumbra",
+   "metacritic": "nihilumbra",
    "mobygames": "57342",
    "pcgamingwiki": "Nihilumbra",
    "steam": "252670"
@@ -237,7 +242,8 @@
  {
   "enwiki": "Saints Row 2 (mobile)",
   "ids": {
-   "igdb": "saints-row-2--1"
+   "igdb": "saints-row-2--1",
+   "metacritic": "saints-row-2"
   },
   "label_en": "Saints Row 2",
   "wikidata": "Q17016988"
@@ -255,6 +261,7 @@
   "ids": {
    "howlongtobeat": "26865",
    "igdb": "overture",
+   "metacritic": "overture",
    "mobygames": "108075",
    "pcgamingwiki": "Overture",
    "steam": "343100"
@@ -295,6 +302,7 @@
    "epic": "hypercharge-unboxed",
    "howlongtobeat": "62577",
    "igdb": "hypercharge-unboxed",
+   "metacritic": "hypercharge-unboxed",
    "mobygames": "128858",
    "pcgamingwiki": "Hypercharge:_Unboxed",
    "steam": "523660"
@@ -306,6 +314,7 @@
   "ids": {
    "howlongtobeat": "83048",
    "igdb": "himeko-sutori",
+   "metacritic": "himeko-sutori",
    "mobygames": "151603",
    "pcgamingwiki": "Himeko_Sutori",
    "steam": "669500"
@@ -374,6 +383,7 @@
   "ids": {
    "howlongtobeat": "47450",
    "igdb": "oafmatch",
+   "metacritic": "oafmatch",
    "mobygames": "89062",
    "pcgamingwiki": "Oafmatch",
    "steam": "554220"
@@ -384,6 +394,7 @@
  {
   "ids": {
    "igdb": "ghone-is-gone",
+   "metacritic": "ghone-is-gone",
    "pcgamingwiki": "Ghone_is_gone",
    "steam": "1220890"
   },
@@ -913,7 +924,8 @@
  {
   "ids": {
    "howlongtobeat": "69739",
-   "igdb": "grandia-hd-collection"
+   "igdb": "grandia-hd-collection",
+   "metacritic": "grandia-hd-collection"
   },
   "label_en": "Grandia HD Collection",
   "wikidata": "Q126097988"

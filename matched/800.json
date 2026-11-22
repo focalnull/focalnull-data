@@ -52,6 +52,7 @@
   "enwiki": "Samurai Warriors: Katana",
   "ids": {
    "igdb": "samurai-warriors-katana",
+   "metacritic": "samurai-warriors-katana",
    "mobygames": "33611"
   },
   "label_en": "Samurai Warriors: Katana",
@@ -63,6 +64,7 @@
    "gog": "game/carmageddon_tdr_2000",
    "howlongtobeat": "1536",
    "igdb": "carmageddon-tdr-2000",
+   "metacritic": "carmageddon-3-tdr-2000",
    "mobygames": "2322",
    "pcgamingwiki": "Carmageddon_TDR_2000",
    "steam": "331650"
@@ -146,6 +148,7 @@
   "enwiki": "Superman: The Man of Steel (2002 video game)",
   "ids": {
    "igdb": "superman-the-man-of-steel",
+   "metacritic": "superman-the-man-of-steel",
    "mobygames": "9238"
   },
   "label_en": "Superman: The Man of Steel",
@@ -271,6 +274,7 @@
   "ids": {
    "howlongtobeat": "33953",
    "igdb": "plantera",
+   "metacritic": "plantera-deluxe",
    "mobygames": "81181",
    "pcgamingwiki": "Plantera",
    "steam": "421040"
@@ -283,6 +287,7 @@
   "ids": {
    "howlongtobeat": "41616",
    "igdb": "just-dance-2017",
+   "metacritic": "just-dance-2017",
    "mobygames": "81767",
    "pcgamingwiki": "Just_Dance_2017",
    "steam": "446560"
@@ -317,6 +322,7 @@
  },
  {
   "ids": {
+   "metacritic": "top-gun-2006",
    "mobygames": "78928"
   },
   "label_en": "Top Gun",
@@ -357,6 +363,7 @@
   "ids": {
    "howlongtobeat": "39263",
    "igdb": "riptide-gp-renegade",
+   "metacritic": "riptide-gp-renegade",
    "mobygames": "80122",
    "pcgamingwiki": "Riptide_GP:_Renegade",
    "steam": "443860"
@@ -368,6 +375,7 @@
   "ids": {
    "howlongtobeat": "72007",
    "igdb": "spin-rhythm-xd",
+   "metacritic": "spin-rhythm-xd",
    "mobygames": "136375",
    "pcgamingwiki": "Spin_Rhythm_XD",
    "steam": "1058830"
@@ -506,6 +514,7 @@
    "gog": "game/hunt_the_night",
    "howlongtobeat": "85706",
    "igdb": "hunt-the-night",
+   "metacritic": "hunt-the-night",
    "mobygames": "201813",
    "pcgamingwiki": "Hunt_the_Night",
    "steam": "1649740"
@@ -628,6 +637,7 @@
   "ids": {
    "howlongtobeat": "70234",
    "igdb": "tiny-metal-full-metal-rumble",
+   "metacritic": "tiny-metal-full-metal-rumble",
    "mobygames": "129439",
    "pcgamingwiki": "Tiny_Metal:_Full_Metal_Rumble",
    "steam": "1102100"
@@ -1277,6 +1287,8 @@
  {
   "ids": {
    "igdb": "rayz-arcade-chronology",
+   "metacritic": "rayz-arcade-chronology",
+   "pcgamingwiki": "Ray'z_Arcade_Chronology",
    "steam": "2478020"
   },
   "label_en": "Ray’z Arcade Chronology",
@@ -1285,6 +1297,7 @@
  {
   "ids": {
    "igdb": "star-rangers",
+   "pcgamingwiki": "Star_Rangers_(2017)",
    "steam": "333340"
   },
   "label_en": "Star Rangers™ XE",

@@ -12,6 +12,7 @@
   "enwiki": "Star Fox 64 3D",
   "ids": {
    "igdb": "star-fox-64-3d",
+   "metacritic": "star-fox-64-3d",
    "mobygames": "53281"
   },
   "label_en": "Star Fox 64 3D",
@@ -92,6 +93,7 @@
   "ids": {
    "howlongtobeat": "76854",
    "igdb": "mr-driller-drill-land",
+   "metacritic": "mr-driller-drill-land",
    "mobygames": "33049"
   },
   "label_en": "Mr. Driller Drill Land",
@@ -108,7 +110,8 @@
  },
  {
   "ids": {
-   "igdb": "happy-princess"
+   "igdb": "happy-princess",
+   "metacritic": "happy-princess"
   },
   "label_en": "Happy Princess",
   "wikidata": "Q11275603"
@@ -118,6 +121,7 @@
   "ids": {
    "howlongtobeat": "175",
    "igdb": "ace-combat-assault-horizon-legacy",
+   "metacritic": "ace-combat-assault-horizon-legacy",
    "mobygames": "53794"
   },
   "label_en": "Ace Combat: Assault Horizon Legacy",
@@ -129,6 +133,7 @@
    "gog": "game/armikrog",
    "howlongtobeat": "30364",
    "igdb": "armikrog",
+   "metacritic": "armikrog",
    "mobygames": "75470",
    "pcgamingwiki": "Armikrog",
    "steam": "334120"
@@ -141,6 +146,7 @@
   "ids": {
    "howlongtobeat": "14235",
    "igdb": "hometown-story",
+   "metacritic": "hometown-story",
    "mobygames": "95940"
   },
   "label_en": "Hometown Story",
@@ -150,6 +156,7 @@
   "enwiki": "River City: Tokyo Rumble",
   "ids": {
    "igdb": "river-city-tokyo-rumble",
+   "metacritic": "river-city-tokyo-rumble",
    "mobygames": "86149"
   },
   "label_en": "River City: Tokyo Rumble",
@@ -160,6 +167,7 @@
   "ids": {
    "howlongtobeat": "26764",
    "igdb": "transformers-devastation",
+   "metacritic": "transformers-devastation",
    "mobygames": "75226",
    "pcgamingwiki": "Transformers:_Devastation",
    "steam": "338930"
@@ -180,6 +188,7 @@
    "gog": "game/perception",
    "howlongtobeat": "46122",
    "igdb": "perception",
+   "metacritic": "perception",
    "mobygames": "89667",
    "pcgamingwiki": "Perception",
    "steam": "426310"
@@ -203,6 +212,7 @@
    "gog": "game/scorn",
    "howlongtobeat": "77760",
    "igdb": "scorn",
+   "metacritic": "scorn",
    "mobygames": "193526",
    "pcgamingwiki": "Scorn",
    "steam": "698670"
@@ -252,6 +262,7 @@
    "gog": "game/no_place_for_bravery",
    "howlongtobeat": "81280",
    "igdb": "no-place-for-bravery",
+   "metacritic": "no-place-for-bravery",
    "mobygames": "191458",
    "pcgamingwiki": "No_Place_for_Bravery",
    "steam": "1039100"
@@ -340,6 +351,7 @@
    "howlongtobeat": "125417",
    "igdb": "24-killers",
    "mobygames": "200319",
+   "pcgamingwiki": "24_Killers",
    "steam": "1668310"
   },
   "label_en": "24 Killers",
@@ -597,6 +609,7 @@
    "epic": "wildmender-29ca3c",
    "howlongtobeat": "109369",
    "igdb": "wildmender",
+   "metacritic": "wildmender",
    "mobygames": "209511",
    "pcgamingwiki": "Wildmender",
    "steam": "1599330"
@@ -1063,6 +1076,7 @@
  {
   "ids": {
    "igdb": "robocraft-royale",
+   "pcgamingwiki": "Robocraft_Royale",
    "steam": "804810"
   },
   "label_en": "Robocraft Royale",
@@ -1070,6 +1084,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "InfinityVR",
    "steam": "1055020"
   },
   "label_en": "InfinityVR",

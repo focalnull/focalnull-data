@@ -11,6 +11,7 @@
   "ids": {
    "howlongtobeat": "11285",
    "igdb": "world-of-tanks",
+   "metacritic": "world-of-tanks",
    "mobygames": "52092",
    "pcgamingwiki": "World_of_Tanks",
    "steam": "1407200"
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "408",
    "igdb": "alter-ego--1",
+   "metacritic": "alter-ego",
    "mobygames": "46284",
    "pcgamingwiki": "Alter_Ego_(2010)",
    "steam": "63110"
@@ -50,6 +52,7 @@
  },
  {
   "ids": {
+   "metacritic": "spyro-orange-the-cortex-conspiracy",
    "mobygames": "15742"
   },
   "label_en": "Spyro Orange: The Cortex Conspiracy",
@@ -96,6 +99,7 @@
   "ids": {
    "howlongtobeat": "11108",
    "igdb": "waveform",
+   "metacritic": "waveform",
    "mobygames": "55264",
    "pcgamingwiki": "Waveform",
    "steam": "204180"
@@ -110,6 +114,7 @@
   "ids": {
    "howlongtobeat": "36956",
    "igdb": "tokyo-babel",
+   "metacritic": "tokyo-babel",
    "mobygames": "101578",
    "pcgamingwiki": "Tokyo_Babel",
    "steam": "443380"
@@ -142,6 +147,7 @@
   "ids": {
    "howlongtobeat": "27127",
    "igdb": "call-of-duty-black-ops-iii",
+   "metacritic": "call-of-duty-black-ops-iii",
    "mobygames": "75621",
    "pcgamingwiki": "Call_of_Duty:_Black_Ops_III",
    "steam": "311210"
@@ -177,6 +183,7 @@
   "ids": {
    "howlongtobeat": "45673",
    "igdb": "rakuen",
+   "metacritic": "rakuen",
    "mobygames": "88374",
    "pcgamingwiki": "Rakuen",
    "steam": "559210"
@@ -225,6 +232,7 @@
   "ids": {
    "howlongtobeat": "65833",
    "igdb": "roguemance",
+   "metacritic": "roguemance",
    "pcgamingwiki": "Roguemance",
    "steam": "742530"
   },
@@ -252,6 +260,7 @@
    "gog": "game/cloudpunk",
    "howlongtobeat": "62579",
    "igdb": "cloudpunk",
+   "metacritic": "cloudpunk",
    "mobygames": "144814",
    "pcgamingwiki": "Cloudpunk",
    "steam": "746850"
@@ -284,6 +293,7 @@
    "gog": "game/jet_kave_adventure",
    "howlongtobeat": "76968",
    "igdb": "jet-kave-adventure",
+   "metacritic": "jet-kave-adventure",
    "mobygames": "134368",
    "pcgamingwiki": "Jet_Kave_Adventure",
    "steam": "1383700"
@@ -323,6 +333,7 @@
    "epic": "arknightsendfield-f0f167",
    "howlongtobeat": "138074",
    "igdb": "arknights-endfield",
+   "metacritic": "arknights-endfield",
    "pcgamingwiki": "Arknights:_Endfield",
    "steam": "4732690"
   },
@@ -407,7 +418,8 @@
  {
   "ids": {
    "howlongtobeat": "10031",
-   "igdb": "the-legend-of-zelda-four-swords-anniversary-edition"
+   "igdb": "the-legend-of-zelda-four-swords-anniversary-edition",
+   "metacritic": "the-legend-of-zelda-four-swords-anniversary-editi"
   },
   "label_en": "The Legend of Zelda: Four Swords Anniversary Edition",
   "wikidata": "Q121037342"
@@ -526,6 +538,7 @@
    "epic": "testament-the-order-of-high-human-f5b552",
    "howlongtobeat": "130898",
    "igdb": "testament-the-order-of-high-human",
+   "metacritic": "testament-the-order-of-high-human",
    "mobygames": "205653",
    "steam": "2176430"
   },
@@ -628,6 +641,7 @@
   "ids": {
    "howlongtobeat": "130950",
    "igdb": "make-way--1",
+   "metacritic": "make-way",
    "mobygames": "218010",
    "pcgamingwiki": "Make_Way",
    "steam": "1445790"
@@ -940,6 +954,7 @@
  },
  {
   "ids": {
+   "metacritic": "nova-hearts-the-spark",
    "steam": "2747740"
   },
   "label_en": "Nova Hearts: The Spark",
@@ -1123,6 +1138,7 @@
  {
   "ids": {
    "igdb": "hentai-the-shell-game",
+   "pcgamingwiki": "Hentai:_The_Shell_Game",
    "steam": "938250"
   },
   "label_en": "Hentai: The Shell Game",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10799",
    "igdb": "uncharted-drake-s-fortune",
+   "metacritic": "uncharted-drakes-fortune",
    "mobygames": "31220"
   },
   "label_en": "Uncharted: Drake's Fortune",
@@ -22,6 +23,7 @@
   "enwiki": "Shrek 2 (video game)",
   "ids": {
    "igdb": "shrek-2",
+   "metacritic": "shrek-2",
    "mobygames": "13512",
    "pcgamingwiki": "Shrek_2:_The_Game"
   },
@@ -52,6 +54,7 @@
   "ids": {
    "howlongtobeat": "36967",
    "igdb": "valkyria-chronicles",
+   "metacritic": "valkyria-chronicles-remastered",
    "mobygames": "39091",
    "pcgamingwiki": "Valkyria_Chronicles",
    "steam": "294860"
@@ -63,6 +66,7 @@
   "enwiki": "Super Smash Bros. for Nintendo 3DS and Wii U",
   "ids": {
    "igdb": "super-smash-bros-for-wii-u",
+   "metacritic": "super-smash-bros-for-nintendo-3ds-wii-u",
    "mobygames": "73359"
   },
   "label_en": "Super Smash Bros. for Nintendo 3DS and Wii U",
@@ -83,6 +87,7 @@
   "ids": {
    "howlongtobeat": "5300",
    "igdb": "lightning-returns-final-fantasy-xiii",
+   "metacritic": "lightning-returns-final-fantasy-xiii",
    "mobygames": "62780",
    "pcgamingwiki": "Lightning_Returns:_Final_Fantasy_XIII",
    "steam": "345350"
@@ -94,6 +99,7 @@
   "enwiki": "Terminator Salvation (video game)",
   "ids": {
    "igdb": "terminator-salvation",
+   "metacritic": "terminator-salvation",
    "mobygames": "40852",
    "pcgamingwiki": "Terminator:_Salvation",
    "steam": "21080"
@@ -105,6 +111,7 @@
   "enwiki": "Rhythm Thief & the Emperor's Treasure",
   "ids": {
    "igdb": "rhythm-thief-and-the-emperors-treasure",
+   "metacritic": "rhythm-thief-and-the-emperors-treasure",
    "mobygames": "63408"
   },
   "label_en": "Rhythm Thief & the Emperor’s Treasure",
@@ -114,6 +121,7 @@
   "enwiki": "Yoshi's Universal Gravitation",
   "ids": {
    "igdb": "yoshi-topsy-turvy",
+   "metacritic": "yoshi-topsy-turvy",
    "mobygames": "18292"
   },
   "label_en": "Yoshi Topsy-Turvy",
@@ -124,6 +132,7 @@
   "ids": {
    "howlongtobeat": "3262",
    "igdb": "excitebike-64",
+   "metacritic": "excitebike-64",
    "mobygames": "6213"
   },
   "label_en": "Excitebike 64",
@@ -191,6 +200,7 @@
   "enwiki": "Buku Sudoku",
   "ids": {
    "igdb": "buku-sudoku",
+   "metacritic": "buku-sudoku",
    "mobygames": "28102"
   },
   "label_en": "Buku Sudoku",
@@ -202,6 +212,7 @@
    "gog": "game/eschalon_book_i",
    "howlongtobeat": "3159",
    "igdb": "eschalon-book-i",
+   "metacritic": "eschalon-book-i",
    "mobygames": "36120",
    "pcgamingwiki": "Eschalon:_Book_I",
    "steam": "25600"
@@ -221,6 +232,7 @@
   "enwiki": "Mahjong Tales: Ancient Wisdom",
   "ids": {
    "igdb": "mahjong-tales-ancient-wisdom",
+   "metacritic": "mahjong-tales-ancient-wisdom",
    "pcgamingwiki": "Mahjong_Tales:_Ancient_Wisdom"
   },
   "label_en": "Mahjong Tales: Ancient Wisdom",
@@ -229,7 +241,8 @@
  {
   "enwiki": "McFarlane's Evil Prophecy",
   "ids": {
-   "igdb": "mcfarlanes-evil-prophecy--1"
+   "igdb": "mcfarlanes-evil-prophecy--1",
+   "metacritic": "mcfarlanes-evil-prophecy"
   },
   "label_en": "McFarlane's Evil Prophecy",
   "wikidata": "Q6801150"
@@ -255,6 +268,7 @@
   "enwiki": "Hyperdimension Neptunia: Producing Perfection",
   "ids": {
    "igdb": "hyperdimension-neptunia-producing-perfection",
+   "metacritic": "hyperdimension-neptunia-pp",
    "mobygames": "83518"
   },
   "label_en": "Hyperdimension Neptunia: Producing Perfection",
@@ -266,6 +280,7 @@
    "gog": "game/brigador_deluxe_edition",
    "howlongtobeat": "25234",
    "igdb": "brigador",
+   "metacritic": "brigador",
    "mobygames": "91689",
    "pcgamingwiki": "Brigador:_Up-Armored_Edition",
    "steam": "274500"
@@ -296,6 +311,7 @@
   "ids": {
    "howlongtobeat": "23913",
    "igdb": "scooby-doo-whos-watching-who",
+   "metacritic": "scooby-doo-whos-watching-who",
    "mobygames": "90137"
   },
   "label_en": "Scooby-Doo! Who's Watching Who?",
@@ -308,6 +324,7 @@
    "gog": "game/xcom_2",
    "howlongtobeat": "28279",
    "igdb": "xcom-2-digital-deluxe-edition",
+   "metacritic": "xcom-2",
    "mobygames": "76819",
    "pcgamingwiki": "XCOM_2",
    "steam": "268500"
@@ -320,6 +337,7 @@
    "gog": "game/sabbat_of_the_witch",
    "howlongtobeat": "62223",
    "igdb": "sabbat-of-the-witch",
+   "metacritic": "sabbat-of-the-witch",
    "mobygames": "164947",
    "pcgamingwiki": "Sabbat_of_the_Witch",
    "steam": "888790"
@@ -377,6 +395,7 @@
  {
   "ids": {
    "igdb": "supermarket-mania",
+   "metacritic": "supermarket-mania",
    "mobygames": "49242"
   },
   "label_en": "Supermarket Mania",
@@ -397,6 +416,7 @@
   "ids": {
    "howlongtobeat": "74935",
    "igdb": "moe-era",
+   "metacritic": "moe-era",
    "mobygames": "142096",
    "pcgamingwiki": "Moe_Era",
    "steam": "1159660"
@@ -471,6 +491,7 @@
    "epic": "dakar-desert-rally",
    "howlongtobeat": "116194",
    "igdb": "dakar-desert-rally",
+   "metacritic": "dakar-desert-rally",
    "mobygames": "192246",
    "pcgamingwiki": "Dakar_Desert_Rally",
    "steam": "1839940"
@@ -761,6 +782,7 @@
   "ids": {
    "howlongtobeat": "12420",
    "igdb": "mud-fim-motocross-world-championship",
+   "metacritic": "mud-fim-motocross-world-championship",
    "mobygames": "65179",
    "pcgamingwiki": "MUD_Motocross_World_Championship",
    "steam": "226780"
@@ -838,6 +860,7 @@
   "ids": {
    "howlongtobeat": "158803",
    "igdb": "prison-princess-trapped-allure",
+   "metacritic": "prison-princess-trapped-allure",
    "mobygames": "233548",
    "steam": "3090100"
   },
@@ -1140,6 +1163,7 @@
  {
   "ids": {
    "igdb": "ballistic",
+   "pcgamingwiki": "Ballistic_(2017)",
    "steam": "580870"
   },
   "label_en": "Ballistic",

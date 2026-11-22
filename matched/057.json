@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "5699",
    "igdb": "mass-effect-2",
+   "metacritic": "mass-effect-2",
    "mobygames": "44900",
    "pcgamingwiki": "Mass_Effect_2",
    "steam": "24980"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "5095",
    "igdb": "klonoa-empire-of-dreams",
+   "metacritic": "klonoa-empire-of-dreams",
    "mobygames": "20569"
   },
   "label_en": "Klonoa: Empire of Dreams",
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "6779",
    "igdb": "operation-flashpoint-dragon-rising",
+   "metacritic": "operation-flashpoint-dragon-rising",
    "mobygames": "42861",
    "pcgamingwiki": "Operation_Flashpoint:_Dragon_Rising",
    "steam": "12830"
@@ -57,6 +60,7 @@
   "ids": {
    "howlongtobeat": "11374",
    "igdb": "x-men-origins-wolverine",
+   "metacritic": "x-men-origins-wolverine-2009",
    "mobygames": "40541",
    "pcgamingwiki": "X-Men_Origins:_Wolverine"
   },
@@ -77,6 +81,7 @@
   "enwiki": "Yoshi Touch & Go",
   "ids": {
    "igdb": "yoshi-touch-and-go",
+   "metacritic": "yoshi-touch-and-go",
    "mobygames": "17303"
   },
   "label_en": "Yoshi Touch & Go",
@@ -115,6 +120,7 @@
   "ids": {
    "howlongtobeat": "11314",
    "igdb": "worms-reloaded",
+   "metacritic": "worms-reloaded",
    "mobygames": "47958",
    "pcgamingwiki": "Worms_Reloaded",
    "steam": "22600"
@@ -126,6 +132,7 @@
   "enwiki": "Full Auto 2: Battlelines",
   "ids": {
    "igdb": "full-auto-2-battlelines",
+   "metacritic": "full-auto-2-battlelines",
    "mobygames": "27343"
   },
   "label_en": "Full Auto 2: Battlelines",
@@ -161,6 +168,7 @@
   "enwiki": "MC Groovz Dance Craze",
   "ids": {
    "igdb": "mc-groovz-dance-craze",
+   "metacritic": "mc-groovz-dance-craze",
    "mobygames": "75690"
   },
   "label_en": "MC Groovz Dance Craze",
@@ -227,6 +235,7 @@
   "ids": {
    "howlongtobeat": "30432",
    "igdb": "concrete-jungle",
+   "metacritic": "concrete-jungle",
    "mobygames": "111056",
    "pcgamingwiki": "Concrete_Jungle",
    "steam": "400160"
@@ -244,6 +253,7 @@
    "gog": "game/those_who_remain",
    "howlongtobeat": "74287",
    "igdb": "those-who-remain",
+   "metacritic": "those-who-remain",
    "mobygames": "145923",
    "pcgamingwiki": "Those_Who_Remain",
    "steam": "715380"
@@ -255,6 +265,7 @@
   "ids": {
    "howlongtobeat": "11876",
    "igdb": "rotastic",
+   "metacritic": "rotastic",
    "mobygames": "95760",
    "pcgamingwiki": "Rotastic",
    "steam": "204580"
@@ -267,6 +278,7 @@
   "ids": {
    "howlongtobeat": "39272",
    "igdb": "tadpole-treble",
+   "metacritic": "tadpole-treble",
    "mobygames": "101446",
    "pcgamingwiki": "Tadpole_Treble",
    "steam": "354400"
@@ -278,6 +290,7 @@
   "ids": {
    "howlongtobeat": "69908",
    "igdb": "winds-of-change",
+   "metacritic": "winds-of-change",
    "mobygames": "107633",
    "pcgamingwiki": "Winds_of_Change",
    "steam": "594130"
@@ -380,7 +393,9 @@
   "ids": {
    "howlongtobeat": "112181",
    "igdb": "the-last-hero-of-nostalgaia",
+   "metacritic": "the-last-hero-of-nostalgaia",
    "mobygames": "193640",
+   "pcgamingwiki": "The_Last_Hero_of_Nostalgaia",
    "steam": "1766100"
   },
   "label_en": "The Last Hero of Nostalgaia",
@@ -394,6 +409,7 @@
   "ids": {
    "howlongtobeat": "99388",
    "igdb": "league-of-enthusiastic-losers",
+   "metacritic": "league-of-enthusiastic-losers",
    "mobygames": "191422",
    "steam": "1388650"
   },
@@ -405,6 +421,7 @@
   "ids": {
    "howlongtobeat": "118236",
    "igdb": "pizza-tower",
+   "metacritic": "pizza-tower",
    "mobygames": "198390",
    "pcgamingwiki": "Pizza_Tower",
    "steam": "2231450"
@@ -421,6 +438,7 @@
   "ids": {
    "howlongtobeat": "131359",
    "igdb": "nba-2k24",
+   "metacritic": "nba-2k24",
    "mobygames": "208648",
    "pcgamingwiki": "NBA_2K24",
    "steam": "2338770"
@@ -774,6 +792,7 @@
  {
   "ids": {
    "igdb": "cactus",
+   "metacritic": "cactus",
    "steam": "2067890"
   },
   "label_en": "Cactus",

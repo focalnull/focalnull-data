@@ -42,6 +42,7 @@
   "enwiki": "Pokémon Snap",
   "ids": {
    "igdb": "pokemon-snap",
+   "metacritic": "pokemon-snap",
    "mobygames": "4681"
   },
   "label_en": "Pokémon Snap",
@@ -51,6 +52,7 @@
   "enwiki": "Gangsters 2",
   "ids": {
    "igdb": "gangsters-2-vendetta",
+   "metacritic": "gangsters-2-vendetta",
    "mobygames": "4296",
    "pcgamingwiki": "Gangsters_2:_Vendetta"
   },
@@ -80,6 +82,7 @@
   "ids": {
    "howlongtobeat": "2506",
    "igdb": "dewy-s-adventure",
+   "metacritic": "dewys-adventure",
    "mobygames": "29815"
   },
   "label_en": "Dewy's Adventure",
@@ -119,6 +122,7 @@
   "ids": {
    "howlongtobeat": "3913",
    "igdb": "ghost-pirates-of-vooju-island",
+   "metacritic": "ghost-pirates-of-vooju-island",
    "mobygames": "46048",
    "pcgamingwiki": "Ghost_Pirates_of_Vooju_Island",
    "steam": "344030"
@@ -147,6 +151,7 @@
   "ids": {
    "howlongtobeat": "2377",
    "igdb": "deathspank",
+   "metacritic": "deathspank",
    "mobygames": "47237",
    "pcgamingwiki": "DeathSpank",
    "steam": "18040"
@@ -167,6 +172,7 @@
   "ids": {
    "gog": "game/moto_racer_3",
    "igdb": "moto-racer-3-gold-edition",
+   "metacritic": "moto-racer-3",
    "mobygames": "5497",
    "pcgamingwiki": "Moto_Racer_3"
   },
@@ -219,6 +225,7 @@
   "ids": {
    "howlongtobeat": "10551",
    "igdb": "totemball",
+   "metacritic": "totemball",
    "mobygames": "24871"
   },
   "label_en": "TotemBall",
@@ -246,6 +253,7 @@
    "epic": "monopoly-plus",
    "howlongtobeat": "22781",
    "igdb": "monopoly-plus",
+   "metacritic": "monopoly-for-nintendo-switch",
    "mobygames": "867",
    "pcgamingwiki": "Monopoly_Plus",
    "steam": "562810"
@@ -257,6 +265,7 @@
   "enwiki": "PlayStation Vita Pets",
   "ids": {
    "igdb": "playstation-vita-pets",
+   "metacritic": "playstation-vita-pets",
    "mobygames": "91570"
   },
   "label_en": "PlayStation Vita Pets",
@@ -266,6 +275,7 @@
   "enwiki": "Gran Turismo Sport",
   "ids": {
    "igdb": "gran-turismo-sport",
+   "metacritic": "gran-turismo-sport",
    "mobygames": "96722"
   },
   "label_en": "Gran Turismo Sport",
@@ -275,6 +285,7 @@
   "enwiki": "Return to PopoloCrois",
   "ids": {
    "igdb": "return-to-popolocrois-a-story-of-seasons-fairytale",
+   "metacritic": "return-to-popolocrois-a-story-of-seasons-fairytale",
    "mobygames": "84820"
   },
   "label_en": "Return to PopoloCrois: A Story of Seasons Fairytale",
@@ -293,7 +304,8 @@
  {
   "enwiki": "Seven Knights",
   "ids": {
-   "igdb": "seven-knights"
+   "igdb": "seven-knights",
+   "metacritic": "seven-knights"
   },
   "label_en": "Seven Knights",
   "wikidata": "Q25470294"
@@ -346,6 +358,7 @@
    "gog": "game/qube_2",
    "howlongtobeat": "53060",
    "igdb": "qube-2",
+   "metacritic": "qube-2",
    "mobygames": "105202",
    "pcgamingwiki": "Q.U.B.E._2",
    "steam": "359100"
@@ -388,6 +401,7 @@
   "ids": {
    "howlongtobeat": "92382",
    "igdb": "getsufumaden-undying-moon",
+   "metacritic": "getsufumaden-undying-moon",
    "mobygames": "164404",
    "pcgamingwiki": "GetsuFumaDen:_Undying_Moon",
    "steam": "1323470"
@@ -419,6 +433,7 @@
   "ids": {
    "howlongtobeat": "304",
    "igdb": "airline-tycoon-2",
+   "metacritic": "airline-tycoon-2",
    "mobygames": "53812",
    "pcgamingwiki": "Airline_Tycoon_2",
    "steam": "201490"
@@ -557,7 +572,9 @@
    "gog": "game/doomblade",
    "howlongtobeat": "101201",
    "igdb": "doomblade",
+   "metacritic": "doomblade",
    "mobygames": "204136",
+   "pcgamingwiki": "Doomblade",
    "steam": "922050"
   },
   "label_en": "DOOMBLADE",

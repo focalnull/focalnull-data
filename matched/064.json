@@ -41,6 +41,7 @@
   "ids": {
    "howlongtobeat": "2003",
    "igdb": "crazy-taxi-2",
+   "metacritic": "crazy-taxi-2",
    "mobygames": "4603"
   },
   "label_en": "Crazy Taxi 2",
@@ -67,6 +68,7 @@
   "enwiki": "Radiata Stories",
   "ids": {
    "igdb": "radiata-stories",
+   "metacritic": "radiata-stories",
    "mobygames": "20559"
   },
   "label_en": "Radiata Stories",
@@ -197,6 +199,7 @@
   "ids": {
    "howlongtobeat": "18220",
    "igdb": "call-of-duty-advanced-warfare",
+   "metacritic": "call-of-duty-advanced-warfare",
    "mobygames": "70133",
    "pcgamingwiki": "Call_of_Duty:_Advanced_Warfare",
    "steam": "209650"
@@ -207,6 +210,7 @@
  {
   "enwiki": "Carmen Sandiego Returns",
   "ids": {
+   "metacritic": "carmen-sandiego-returns",
    "pcgamingwiki": "Carmen_Sandiego_Returns"
   },
   "label_en": "Carmen Sandiego Returns",
@@ -253,6 +257,7 @@
    "gog": "game/omensight",
    "howlongtobeat": "56487",
    "igdb": "omensight",
+   "metacritic": "omensight-definitive-edition",
    "mobygames": "108630",
    "pcgamingwiki": "Omensight",
    "steam": "455820"
@@ -264,6 +269,7 @@
   "ids": {
    "howlongtobeat": "29856",
    "igdb": "in-between",
+   "metacritic": "in-between",
    "mobygames": "88593",
    "pcgamingwiki": "In_Between",
    "steam": "388420"
@@ -289,6 +295,7 @@
    "gog": "game/murder_by_numbers",
    "howlongtobeat": "72783",
    "igdb": "murder-by-numbers",
+   "metacritic": "murder-by-numbers",
    "mobygames": "142637",
    "pcgamingwiki": "Murder_by_Numbers",
    "steam": "1140290"
@@ -375,6 +382,7 @@
    "gog": "game/warhammer_40000_shootas_blood_teef",
    "howlongtobeat": "114929",
    "igdb": "warhammer-40000-shootas-blood-and-teef",
+   "metacritic": "warhammer-40000-shootas-blood-teef",
    "mobygames": "193610",
    "pcgamingwiki": "Warhammer_40,000:_Shootas,_Blood_&_Teef",
    "steam": "1324530"
@@ -387,6 +395,7 @@
    "gog": "game/bonkies",
    "howlongtobeat": "86666",
    "igdb": "bonkies",
+   "metacritic": "bonkies",
    "mobygames": "157902",
    "pcgamingwiki": "Bonkies",
    "steam": "889260"
@@ -398,6 +407,7 @@
   "ids": {
    "howlongtobeat": "38352",
    "igdb": "dark-fear",
+   "metacritic": "dark-fear",
    "mobygames": "83062",
    "pcgamingwiki": "Dark_Fear",
    "steam": "454160"
@@ -419,6 +429,8 @@
   "ids": {
    "howlongtobeat": "134634",
    "igdb": "maximum-football--1",
+   "metacritic": "maximum-football-2",
+   "pcgamingwiki": "Maximum_Football",
    "steam": "1691280"
   },
   "label_en": "Maximum Football",
@@ -429,6 +441,7 @@
    "gog": "game/beyond_the_edge_of_owlsgard",
    "howlongtobeat": "106224",
    "igdb": "beyond-the-edge-of-owlsgard",
+   "metacritic": "beyond-the-edge-of-owlsgard",
    "mobygames": "197871",
    "pcgamingwiki": "Beyond_the_Edge_of_Owlsgard",
    "steam": "1709730"
@@ -837,14 +850,16 @@
  },
  {
   "ids": {
-   "igdb": "clawberta"
+   "igdb": "clawberta",
+   "metacritic": "clawberta"
   },
   "label_en": "Clawberta",
   "wikidata": "Q126943064"
  },
  {
   "ids": {
-   "igdb": "gold-digger-the-simulator"
+   "igdb": "gold-digger-the-simulator",
+   "metacritic": "gold-digger-the-simulator"
   },
   "label_en": "Gold Digger: The Simulator",
   "wikidata": "Q131405064"

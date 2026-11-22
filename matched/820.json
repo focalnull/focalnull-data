@@ -5,6 +5,7 @@
    "gog": "game/diggles_the_myth_of_fenris",
    "howlongtobeat": "69368",
    "igdb": "diggles-the-myth-of-fenris",
+   "metacritic": "diggles",
    "mobygames": "5104",
    "pcgamingwiki": "Diggles:_The_Myth_of_Fenris",
    "steam": "1478650"
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "1955",
    "igdb": "counter-strike-condition-zero",
+   "metacritic": "counter-strike-condition-zero",
    "mobygames": "13487",
    "pcgamingwiki": "Counter-Strike:_Condition_Zero",
    "steam": "80"
@@ -53,6 +55,7 @@
   "enwiki": "Illbleed",
   "ids": {
    "igdb": "illbleed",
+   "metacritic": "illbleed",
    "mobygames": "4368"
   },
   "label_en": "Illbleed",
@@ -64,6 +67,7 @@
    "gog": "game/metal_slug_x",
    "howlongtobeat": "5940",
    "igdb": "metal-slug-x",
+   "metacritic": "metal-slug-x",
    "mobygames": "4048",
    "pcgamingwiki": "Metal_Slug_X",
    "steam": "312610"
@@ -184,6 +188,7 @@
   "enwiki": "Wacky Races: Crash and Dash",
   "ids": {
    "igdb": "wacky-races-crash-and-dash",
+   "metacritic": "wacky-races-crash-dash",
    "mobygames": "85690"
   },
   "label_en": "Wacky Races: Crash and Dash",
@@ -192,6 +197,7 @@
  {
   "ids": {
    "igdb": "yu-gi-oh-capsule-monster-coliseum",
+   "metacritic": "yu-gi-oh-capsule-monster-coliseum",
    "mobygames": "18803"
   },
   "label_en": "Yu-Gi-Oh! Capsule Monster Coliseum",
@@ -211,6 +217,7 @@
   "ids": {
    "howlongtobeat": "17238",
    "igdb": "nascar-14",
+   "metacritic": "nascar-14",
    "mobygames": "64037",
    "pcgamingwiki": "NASCAR_'14",
    "steam": "254130"
@@ -222,6 +229,7 @@
   "enwiki": "Animal Crossing: Amiibo Festival",
   "ids": {
    "igdb": "animal-crossing-amiibo-festival",
+   "metacritic": "animal-crossing-amiibo-festival",
    "mobygames": "84608"
   },
   "label_en": "Animal Crossing: Amiibo Festival",
@@ -232,6 +240,7 @@
   "ids": {
    "howlongtobeat": "50151",
    "igdb": "steins-gate-linear-bounded-phenogram",
+   "metacritic": "steinsgate-linear-bounded-phenogram",
    "mobygames": "99388",
    "pcgamingwiki": "Steins;Gate:_Linear_Bounded_Phenogram",
    "steam": "930910"
@@ -242,7 +251,8 @@
  {
   "enwiki": "Wilson's Heart (video game)",
   "ids": {
-   "igdb": "wilsons-heart"
+   "igdb": "wilsons-heart",
+   "metacritic": "wilsons-heart"
   },
   "label_en": "Wilson's Heart",
   "wikidata": "Q37163820"
@@ -269,6 +279,7 @@
    "gog": "game/transport_fever_2",
    "howlongtobeat": "73052",
    "igdb": "transport-fever-2",
+   "metacritic": "transport-fever-2",
    "mobygames": "138354",
    "pcgamingwiki": "Transport_Fever_2",
    "steam": "1066780"
@@ -310,6 +321,7 @@
    "gog": "game/outcast_a_new_beginning",
    "howlongtobeat": "98249",
    "igdb": "outcast-a-new-beginning",
+   "metacritic": "outcast-a-new-beginning",
    "mobygames": "219568",
    "pcgamingwiki": "Outcast:_A_New_Beginning",
    "steam": "1013140"
@@ -410,6 +422,7 @@
   "ids": {
    "howlongtobeat": "127274",
    "igdb": "teslagrad-remastered",
+   "metacritic": "teslagrad-remastered",
    "mobygames": "206152",
    "pcgamingwiki": "Teslagrad_Remastered",
    "steam": "2168150"
@@ -1204,6 +1217,7 @@
   "ids": {
    "howlongtobeat": "187007",
    "igdb": "the-wolf-among-us-remastered",
+   "metacritic": "the-wolf-among-us-remastered",
    "pcgamingwiki": "The_Wolf_Among_Us_Remastered",
    "steam": "3884860"
   },

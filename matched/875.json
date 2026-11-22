@@ -102,6 +102,7 @@
   "enwiki": "Criticom",
   "ids": {
    "igdb": "criticom",
+   "metacritic": "criticom",
    "mobygames": "26065"
   },
   "label_en": "Criticom",
@@ -175,6 +176,7 @@
    "gog": "game/final_fantasy_iii_3d_remake",
    "howlongtobeat": "3497",
    "igdb": "final-fantasy-iii",
+   "metacritic": "final-fantasy-iii",
    "mobygames": "25469",
    "pcgamingwiki": "Final_Fantasy_III_(3D_Remake)",
    "steam": "239120"
@@ -201,6 +203,7 @@
    "gog": "game/rime",
    "howlongtobeat": "20064",
    "igdb": "rime",
+   "metacritic": "rime",
    "mobygames": "89307",
    "pcgamingwiki": "Rime",
    "steam": "493200"
@@ -223,6 +226,7 @@
    "gog": "game/ember",
    "howlongtobeat": "39902",
    "igdb": "ember",
+   "metacritic": "ember",
    "mobygames": "102287",
    "pcgamingwiki": "Ember",
    "steam": "339580"
@@ -254,6 +258,7 @@
  {
   "ids": {
    "igdb": "my-aquarium-seven-oceans",
+   "metacritic": "my-aquarium-seven-oceans",
    "mobygames": "89270"
   },
   "label_en": "MY AQUARIUM: SEVEN OCEANS",
@@ -277,7 +282,8 @@
  {
   "ids": {
    "howlongtobeat": "52500",
-   "igdb": "penny-punching-princess"
+   "igdb": "penny-punching-princess",
+   "metacritic": "penny-punching-princess"
   },
   "label_en": "Penny-Punching Princess",
   "wikidata": "Q106974875"
@@ -294,6 +300,7 @@
   "ids": {
    "howlongtobeat": "104135",
    "igdb": "voice-of-cards-the-forsaken-maiden",
+   "metacritic": "voice-of-cards-the-forsaken-maiden",
    "mobygames": "179713",
    "pcgamingwiki": "Voice_of_Cards:_The_Forsaken_Maiden",
    "steam": "1748660"
@@ -313,6 +320,7 @@
  {
   "ids": {
    "igdb": "monkey-hit",
+   "metacritic": "monkey-hit",
    "mobygames": "189384",
    "steam": "1618000"
   },
@@ -393,6 +401,7 @@
    "gog": "game/foretales",
    "howlongtobeat": "113315",
    "igdb": "foretales",
+   "metacritic": "foretales",
    "mobygames": "191027",
    "pcgamingwiki": "Foretales",
    "steam": "1170080"
@@ -412,6 +421,7 @@
   "ids": {
    "howlongtobeat": "44750",
    "igdb": "monster-slayers",
+   "metacritic": "monster-slayers",
    "mobygames": "87021",
    "pcgamingwiki": "Monster_Slayers",
    "steam": "496620"
@@ -471,6 +481,7 @@
    "gog": "game/deus_ex_human_revolution_directors_cut",
    "howlongtobeat": "14286",
    "igdb": "deus-ex-human-revolution-directors-cut",
+   "metacritic": "deus-ex-human-revolution-directors-cut",
    "mobygames": "62588",
    "pcgamingwiki": "Deus_Ex:_Human_Revolution_-_Director's_Cut",
    "steam": "238010"
@@ -1188,6 +1199,7 @@
  {
   "ids": {
    "igdb": "netherworld--1",
+   "pcgamingwiki": "NetherWorld",
    "steam": "672420"
   },
   "label_en": "NetherWorld",

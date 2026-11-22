@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9079",
    "igdb": "star-wars-episode-i-jedi-power-battles",
+   "metacritic": "star-wars-episode-i-jedi-power-battles",
    "mobygames": "3938"
   },
   "label_en": "Star Wars Episode I: Jedi Power Battles",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "1066",
    "igdb": "bioshock-2",
+   "metacritic": "bioshock-2",
    "mobygames": "45089",
    "pcgamingwiki": "BioShock_2",
    "steam": "8850"
@@ -25,6 +27,7 @@
   "enwiki": "Midnight Club 3: Dub Edition",
   "ids": {
    "igdb": "midnight-club-3-dub-edition",
+   "metacritic": "midnight-club-3-dub-edition",
    "mobygames": "17342"
   },
   "label_en": "Midnight Club 3: DUB Edition",
@@ -43,6 +46,7 @@
   "enwiki": "Love, Election and Chocolate",
   "ids": {
    "igdb": "love-elections-and-chocolate",
+   "pcgamingwiki": "Love,_Elections,_and_Chocolate",
    "steam": "3027600"
   },
   "label_en": "Love, Election and Chocolate",
@@ -76,6 +80,7 @@
   "ids": {
    "howlongtobeat": "20478",
    "igdb": "salammbo-battle-for-carthage--1",
+   "metacritic": "salammbo-battle-of-carthage",
    "mobygames": "9754",
    "pcgamingwiki": "Salammbô:_Battle_for_Carthage",
    "steam": "301670"
@@ -122,6 +127,7 @@
   "enwiki": "Silent Hill: The Escape",
   "ids": {
    "igdb": "silent-hill-the-escape",
+   "metacritic": "silent-hill-the-escape",
    "mobygames": "38915"
   },
   "label_en": "Silent Hill: The Escape",
@@ -130,6 +136,7 @@
  {
   "ids": {
    "mobygames": "48219",
+   "pcgamingwiki": "Partisan",
    "steam": "3499000"
   },
   "label_en": "Partisan",
@@ -204,6 +211,7 @@
   "enwiki": "Atelier Shallie: Alchemists of the Dusk Sea",
   "ids": {
    "igdb": "atelier-shallie-alchemists-of-the-dusk-sea",
+   "metacritic": "atelier-shallie-alchemists-of-the-dusk-sea",
    "mobygames": "71938"
   },
   "label_en": "Atelier Shallie: Alchemists of the Dusk Sea",
@@ -245,6 +253,7 @@
   "ids": {
    "howlongtobeat": "30359",
    "igdb": "pro-evolution-soccer-2016",
+   "metacritic": "pro-evolution-soccer-2016",
    "mobygames": "79164",
    "pcgamingwiki": "Pro_Evolution_Soccer_2016",
    "steam": "375960"
@@ -274,6 +283,7 @@
   "ids": {
    "howlongtobeat": "38052",
    "igdb": "forza-horizon-3",
+   "metacritic": "forza-horizon-3",
    "mobygames": "81684",
    "pcgamingwiki": "Forza_Horizon_3"
   },
@@ -294,6 +304,7 @@
   "ids": {
    "howlongtobeat": "45966",
    "igdb": "skylar-and-plux-adventure-on-clover-island",
+   "metacritic": "skylar-plux-adventure-on-clover-island",
    "mobygames": "88920",
    "pcgamingwiki": "Skylar_&_Plux:_Adventure_On_Clover_Island",
    "steam": "452540"
@@ -305,6 +316,7 @@
   "ids": {
    "howlongtobeat": "20904",
    "igdb": "the-journey-down-chapter-two",
+   "metacritic": "the-journey-down-chapter-two",
    "mobygames": "69365",
    "pcgamingwiki": "The_Journey_Down:_Chapter_Two",
    "steam": "262850"
@@ -334,6 +346,7 @@
   "ids": {
    "gog": "game/final_fantasy_viii_remastered",
    "igdb": "final-fantasy-viii-remastered",
+   "metacritic": "final-fantasy-viii-remastered",
    "mobygames": "133568",
    "pcgamingwiki": "Final_Fantasy_VIII_Remastered",
    "steam": "1026680"
@@ -357,7 +370,8 @@
   "enwiki": "Global Touring Challenge: Africa",
   "ids": {
    "howlongtobeat": "31613",
-   "igdb": "global-touring-challenge-africa"
+   "igdb": "global-touring-challenge-africa",
+   "metacritic": "global-touring-challenge-africa"
   },
   "label_en": "Global Touring Challenge: Africa",
   "wikidata": "Q96742839"
@@ -391,6 +405,7 @@
   "enwiki": "Virtua Fighter 5 Ultimate Showdown",
   "ids": {
    "igdb": "virtua-fighter-5-ultimate-showdown",
+   "metacritic": "virtua-fighter-5-ultimate-showdown",
    "mobygames": "167621"
   },
   "label_en": "Virtua Fighter 5 Ultimate Showdown",
@@ -473,6 +488,7 @@
  {
   "ids": {
    "igdb": "zombie-catchers",
+   "metacritic": "zombie-catchers",
    "mobygames": "179858"
   },
   "label_en": "Zombie Catchers",
@@ -489,6 +505,7 @@
  {
   "ids": {
    "igdb": "meccha-zombies",
+   "metacritic": "meccha-zombies",
    "pcgamingwiki": "MECCHA_ZOMBIES",
    "steam": "603910"
   },
@@ -972,6 +989,7 @@
   "ids": {
    "howlongtobeat": "79798",
    "igdb": "explody-bomb",
+   "metacritic": "explody-bomb",
    "mobygames": "101088"
   },
   "label_en": "Explody Bomb",

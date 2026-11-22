@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7980",
    "igdb": "rome-total-war",
+   "metacritic": "rome-total-war",
    "mobygames": "15182",
    "pcgamingwiki": "Rome:_Total_War",
    "steam": "4760"
@@ -83,6 +84,7 @@
   "enwiki": "Street Fighter Alpha Anthology",
   "ids": {
    "igdb": "street-fighter-alpha-anthology",
+   "metacritic": "street-fighter-alpha-anthology",
    "mobygames": "23161"
   },
   "label_en": "Street Fighter Alpha Anthology",
@@ -100,6 +102,7 @@
   "enwiki": "Shrek SuperSlam",
   "ids": {
    "igdb": "shrek-superslam",
+   "metacritic": "shrek-superslam",
    "mobygames": "20442",
    "pcgamingwiki": "Shrek_SuperSlam"
   },
@@ -110,6 +113,7 @@
   "enwiki": "Space Quest I",
   "ids": {
    "igdb": "space-quest-the-sarien-encounter",
+   "metacritic": "space-quest-chapter-i-the-sarien-encounter",
    "mobygames": "114",
    "pcgamingwiki": "Space_Quest_I:_Roger_Wilco_in_The_Sarien_Encounter"
   },
@@ -132,6 +136,7 @@
   "enwiki": "Chaos Wars",
   "ids": {
    "igdb": "chaos-wars",
+   "metacritic": "chaos-wars",
    "mobygames": "41382"
   },
   "label_en": "Chaos Wars",
@@ -161,6 +166,7 @@
   "ids": {
    "howlongtobeat": "4981",
    "igdb": "killer-is-dead",
+   "metacritic": "killer-is-dead",
    "mobygames": "61785",
    "pcgamingwiki": "Killer_Is_Dead",
    "steam": "261110"
@@ -212,6 +218,7 @@
    "gog": "game/teleglitch_die_more_edition",
    "howlongtobeat": "9675",
    "igdb": "teleglitch",
+   "metacritic": "teleglitch-die-more-edition",
    "mobygames": "62522",
    "pcgamingwiki": "Teleglitch:_Die_More_Edition",
    "steam": "234390"
@@ -225,6 +232,7 @@
    "epic": "beamngdrive-7f5f3a",
    "howlongtobeat": "22845",
    "igdb": "beamng-dot-drive",
+   "metacritic": "beamngdrive",
    "mobygames": "84551",
    "pcgamingwiki": "BeamNG_Drive",
    "steam": "284160"
@@ -241,6 +249,7 @@
   "ids": {
    "howlongtobeat": "24086",
    "igdb": "lucius-ii",
+   "metacritic": "lucius-ii",
    "mobygames": "95871",
    "pcgamingwiki": "Lucius_II",
    "steam": "296830"
@@ -254,6 +263,7 @@
    "gog": "game/mother_russia_bleeds",
    "howlongtobeat": "22543",
    "igdb": "mother-russia-bleeds",
+   "metacritic": "mother-russia-bleeds",
    "mobygames": "80540",
    "pcgamingwiki": "Mother_Russia_Bleeds",
    "steam": "361300"
@@ -286,6 +296,7 @@
    "gog": "game/rusty_lake_hotel",
    "howlongtobeat": "33954",
    "igdb": "rusty-lake-hotel",
+   "metacritic": "rusty-lake-hotel",
    "mobygames": "101078",
    "pcgamingwiki": "Rusty_Lake_Hotel",
    "steam": "435120"
@@ -296,6 +307,7 @@
  {
   "ids": {
    "igdb": "fuse-balls",
+   "metacritic": "fuse-balls",
    "pcgamingwiki": "Fuse_Balls",
    "steam": "807840"
   },
@@ -306,6 +318,7 @@
   "ids": {
    "howlongtobeat": "57657",
    "igdb": "shenmue-i-and-ii",
+   "metacritic": "shenmue-i-and-ii",
    "mobygames": "112557",
    "pcgamingwiki": "Shenmue_I_&_II",
    "steam": "758330"
@@ -340,6 +353,7 @@
  {
   "ids": {
    "igdb": "sky-tale",
+   "metacritic": "sky-tale",
    "mobygames": "208080",
    "steam": "1722100"
   },
@@ -352,6 +366,7 @@
    "gog": "game/synergia",
    "howlongtobeat": "81236",
    "igdb": "synergia",
+   "metacritic": "synergia",
    "mobygames": "148617",
    "pcgamingwiki": "Synergia",
    "steam": "1047010"
@@ -374,6 +389,7 @@
   "enwiki": "Crossfire: Legion",
   "ids": {
    "igdb": "crossfire-legion",
+   "metacritic": "crossfire-legion",
    "mobygames": "184809",
    "pcgamingwiki": "Crossfire:_Legion",
    "steam": "1072190"
@@ -501,6 +517,7 @@
   "ids": {
    "howlongtobeat": "57306",
    "igdb": "tactical-ops-assault-on-terror",
+   "metacritic": "tactical-ops",
    "mobygames": "153683",
    "pcgamingwiki": "Tactical_Operations",
    "steam": "744550"
@@ -539,6 +556,7 @@
   "ids": {
    "howlongtobeat": "75275",
    "igdb": "perky-little-things",
+   "metacritic": "perky-little-things",
    "mobygames": "150920",
    "pcgamingwiki": "Perky_Little_Things",
    "steam": "811890"
@@ -928,6 +946,7 @@
   "ids": {
    "howlongtobeat": "155408",
    "igdb": "contractville",
+   "metacritic": "contractville",
    "pcgamingwiki": "ContractVille",
    "steam": "2698780"
   },
@@ -1208,6 +1227,7 @@
  {
   "ids": {
    "igdb": "anomalith",
+   "pcgamingwiki": "Anomalith",
    "steam": "4017880"
   },
   "label_en": "Anomalith",

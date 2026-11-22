@@ -3,6 +3,7 @@
   "enwiki": "Soldier of Fortune II: Double Helix",
   "ids": {
    "igdb": "soldier-of-fortune-ii-double-helix",
+   "metacritic": "soldier-of-fortune-ii-double-helix",
    "mobygames": "6428",
    "pcgamingwiki": "Soldier_of_Fortune_II:_Double_Helix"
   },
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "17333",
    "igdb": "batman-dark-tomorrow",
+   "metacritic": "batman-dark-tomorrow",
    "mobygames": "15589"
   },
   "label_en": "Batman: Dark Tomorrow",
@@ -23,6 +25,7 @@
   "enwiki": "Sonic Heroes",
   "ids": {
    "igdb": "sonic-heroes",
+   "metacritic": "sonic-heroes",
    "mobygames": "11564",
    "pcgamingwiki": "Sonic_Heroes"
   },
@@ -48,6 +51,7 @@
   "ids": {
    "igdb": "kid-chaos",
    "mobygames": "8099",
+   "pcgamingwiki": "Kid_Chaos",
    "steam": "2394190"
   },
   "label_en": "Kid Chaos",
@@ -75,6 +79,7 @@
   "enwiki": "Beaterator",
   "ids": {
    "igdb": "beaterator",
+   "metacritic": "beaterator",
    "mobygames": "105745"
   },
   "label_en": "Beaterator",
@@ -94,6 +99,7 @@
   "enwiki": "Invizimals: The Lost Tribes",
   "ids": {
    "igdb": "invizimals-the-lost-tribes",
+   "metacritic": "invizimals-the-lost-tribes",
    "mobygames": "86227"
   },
   "label_en": "Invizimals: The Lost Tribes",
@@ -118,6 +124,7 @@
   "enwiki": "Warlords IV: Heroes of Etheria",
   "ids": {
    "igdb": "warlords-iv-heroes-of-etheria",
+   "metacritic": "warlords-iv-heroes-of-etheria",
    "mobygames": "12253",
    "pcgamingwiki": "Warlords_IV:_Heroes_of_Etheria"
   },
@@ -172,7 +179,8 @@
   "enwiki": "Time Crisis: Razing Storm",
   "ids": {
    "howlongtobeat": "10346",
-   "igdb": "time-crisis-razing-storm"
+   "igdb": "time-crisis-razing-storm",
+   "metacritic": "time-crisis-razing-storm"
   },
   "label_en": "Time Crisis: Razing Storm",
   "wikidata": "Q7804962"
@@ -214,6 +222,7 @@
   "ids": {
    "howlongtobeat": "60116",
    "igdb": "chessaria-the-tactical-adventure",
+   "metacritic": "chessaria-the-tactical-adventure",
    "mobygames": "104947",
    "pcgamingwiki": "Chessaria:_The_Tactical_Adventure",
    "steam": "575340"
@@ -224,7 +233,8 @@
  {
   "ids": {
    "howlongtobeat": "32485",
-   "igdb": "cube-escape-arles"
+   "igdb": "cube-escape-arles",
+   "metacritic": "cube-escape-arles"
   },
   "label_en": "Cube Escape: Arles",
   "wikidata": "Q61449962"
@@ -233,6 +243,7 @@
   "ids": {
    "howlongtobeat": "26605",
    "igdb": "deadly-profits",
+   "metacritic": "deadly-profits",
    "pcgamingwiki": "Deadly_Profits",
    "steam": "344750"
   },
@@ -244,6 +255,7 @@
    "gog": "game/anomaly_defenders",
    "howlongtobeat": "20626",
    "igdb": "anomaly-defenders",
+   "metacritic": "anomaly-defenders",
    "mobygames": "75289",
    "pcgamingwiki": "Anomaly_Defenders",
    "steam": "294750"
@@ -270,6 +282,7 @@
    "gog": "game/pine",
    "howlongtobeat": "71432",
    "igdb": "pine",
+   "metacritic": "pine",
    "mobygames": "124803",
    "pcgamingwiki": "Pine",
    "steam": "1042780"
@@ -281,6 +294,7 @@
   "enwiki": "Bubble Bobble 4 Friends",
   "ids": {
    "igdb": "bubble-bobble-4-friends",
+   "metacritic": "bubble-bobble-4-friends",
    "mobygames": "141799",
    "pcgamingwiki": "Bubble_Bobble_4_Friends:_The_Baron's_Workshop"
   },
@@ -297,6 +311,7 @@
   "ids": {
    "howlongtobeat": "88749",
    "igdb": "mario-golf-super-rush",
+   "metacritic": "mario-golf-super-rush",
    "mobygames": "165935"
   },
   "label_en": "Mario Golf: Super Rush",
@@ -397,6 +412,7 @@
    "epic": "new-tales-from-the-borderlands",
    "howlongtobeat": "112461",
    "igdb": "new-tales-from-the-borderlands",
+   "metacritic": "new-tales-from-the-borderlands",
    "mobygames": "194014",
    "pcgamingwiki": "New_Tales_from_the_Borderlands",
    "steam": "1454970"
@@ -427,6 +443,7 @@
   "ids": {
    "howlongtobeat": "129970",
    "igdb": "islands-of-insight--1",
+   "metacritic": "islands-of-insight",
    "mobygames": "217558",
    "pcgamingwiki": "Islands_of_Insight",
    "steam": "2071500"

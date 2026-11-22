@@ -5,6 +5,7 @@
    "gog": "game/star_wars_rogue_squadron_3d",
    "howlongtobeat": "9122",
    "igdb": "star-wars-rogue-squadron",
+   "metacritic": "star-wars-rogue-squadron-3d",
    "mobygames": "345",
    "pcgamingwiki": "Star_Wars:_Rogue_Squadron_3D",
    "steam": "455910"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "9713",
    "igdb": "test-drive-unlimited-2",
+   "metacritic": "test-drive-unlimited-2",
    "mobygames": "51167",
    "pcgamingwiki": "Test_Drive_Unlimited_2"
   },
@@ -37,6 +39,7 @@
    "gog": "game/supreme_commander_2",
    "howlongtobeat": "9484",
    "igdb": "supreme-commander-2",
+   "metacritic": "supreme-commander-2",
    "mobygames": "45497",
    "pcgamingwiki": "Supreme_Commander_2",
    "steam": "40100"
@@ -75,6 +78,7 @@
   "ids": {
    "howlongtobeat": "21542",
    "igdb": "railroad-pioneer",
+   "metacritic": "railroad-pioneer",
    "mobygames": "13209",
    "pcgamingwiki": "Railroad_Pioneer",
    "steam": "306490"
@@ -159,6 +163,7 @@
   "enwiki": "Funky Lab Rat",
   "ids": {
    "igdb": "funky-lab-rat",
+   "metacritic": "funky-lab-rat",
    "mobygames": "69982"
   },
   "label_en": "Funky Lab Rat",
@@ -172,6 +177,7 @@
   "enwiki": "The King of Fighters EX2: Howling Blood",
   "ids": {
    "igdb": "the-king-of-fighters-ex2-howling-blood",
+   "metacritic": "the-king-of-fighters-ex2-howling-blood",
    "mobygames": "20355"
   },
   "label_en": "The King of Fighters EX 2 Howling Blood",
@@ -190,6 +196,7 @@
   "enwiki": "Under the Skin (video game)",
   "ids": {
    "igdb": "under-the-skin",
+   "metacritic": "under-the-skin",
    "mobygames": "16196"
   },
   "label_en": "Under the Skin",
@@ -249,6 +256,7 @@
   "ids": {
    "howlongtobeat": "41493",
    "igdb": "arizona-sunshine",
+   "metacritic": "arizona-sunshine",
    "mobygames": "91524",
    "pcgamingwiki": "Arizona_Sunshine",
    "steam": "342180"
@@ -262,6 +270,7 @@
    "epic": "ready-or-not-d82a11",
    "howlongtobeat": "85975",
    "igdb": "ready-or-not",
+   "metacritic": "ready-or-not",
    "mobygames": "177053",
    "pcgamingwiki": "Ready_or_Not",
    "steam": "1144200"
@@ -312,6 +321,7 @@
   "ids": {
    "howlongtobeat": "66340",
    "igdb": "deck-of-ashes",
+   "metacritic": "deck-of-ashes",
    "mobygames": "124858",
    "pcgamingwiki": "Deck_of_Ashes",
    "steam": "1016730"
@@ -330,6 +340,7 @@
  {
   "ids": {
    "igdb": "polda-5",
+   "pcgamingwiki": "Polda_5",
    "steam": "2927550"
   },
   "label_en": "Polda 5",
@@ -340,6 +351,7 @@
   "ids": {
    "howlongtobeat": "6064",
    "igdb": "minecraft-java-edition",
+   "metacritic": "minecraft",
    "mobygames": "48604",
    "pcgamingwiki": "Minecraft:_Java_Edition"
   },
@@ -359,6 +371,9 @@
   "wikidata": "Q106923297"
  },
  {
+  "ids": {
+   "metacritic": "shoujo-ramune"
+  },
   "label_en": "Shoujo Ramune",
   "wikidata": "Q107296297"
  },
@@ -376,7 +391,8 @@
  {
   "ids": {
    "howlongtobeat": "89443",
-   "igdb": "dairoku-agents-of-sakuratani"
+   "igdb": "dairoku-agents-of-sakuratani",
+   "metacritic": "dairoku-agents-of-sakuratani"
   },
   "label_en": "Dairoku: Agents of Sakuratani",
   "wikidata": "Q110093297"
@@ -386,6 +402,7 @@
   "ids": {
    "howlongtobeat": "102928",
    "igdb": "yu-gi-oh-master-duel",
+   "metacritic": "yu-gi-oh-master-duel",
    "mobygames": "178523",
    "pcgamingwiki": "Yu-Gi-Oh!_Master_Duel",
    "steam": "1449850"
@@ -455,6 +472,7 @@
    "gog": "game/symphony_of_war_the_nephilim_saga",
    "howlongtobeat": "109174",
    "igdb": "symphony-of-war-the-nephilim-saga",
+   "metacritic": "symphony-of-war-the-nephilim-saga",
    "mobygames": "185851",
    "pcgamingwiki": "Symphony_of_War:_The_Nephilim_Saga",
    "steam": "1488200"
@@ -890,6 +908,7 @@
   "ids": {
    "howlongtobeat": "157301",
    "igdb": "ghost-of-yotei",
+   "metacritic": "ghost-of-yotei",
    "mobygames": "248541"
   },
   "label_en": "Ghost of Yōtei",
@@ -906,6 +925,7 @@
  {
   "ids": {
    "igdb": "u-host",
+   "metacritic": "u-host",
    "mobygames": "101302"
   },
   "label_en": "U Host",

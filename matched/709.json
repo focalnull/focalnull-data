@@ -3,6 +3,7 @@
   "enwiki": "2002 FIFA World Cup (video game)",
   "ids": {
    "igdb": "2002-fifa-world-cup",
+   "metacritic": "2002-fifa-world-cup",
    "mobygames": "6498",
    "pcgamingwiki": "2002_FIFA_World_Cup"
   },
@@ -13,6 +14,7 @@
   "enwiki": "EarthBound Beginnings",
   "ids": {
    "igdb": "earthbound-beginnings",
+   "metacritic": "earthbound-beginnings",
    "mobygames": "13529"
   },
   "label_en": "Mother",
@@ -22,6 +24,7 @@
   "enwiki": "Dragon Ball Z: Taiketsu",
   "ids": {
    "igdb": "dragon-ball-z-taiketsu",
+   "metacritic": "dragon-ball-z-taiketsu",
    "mobygames": "33521"
   },
   "label_en": "Dragon Ball Z: Taiketsu",
@@ -39,6 +42,7 @@
   "enwiki": "Sheep (video game)",
   "ids": {
    "igdb": "sheep",
+   "metacritic": "sheep",
    "mobygames": "2883",
    "pcgamingwiki": "Sheep",
    "steam": "1644750"
@@ -50,6 +54,7 @@
   "enwiki": "Zombie Driver",
   "ids": {
    "igdb": "zombie-driver",
+   "metacritic": "zombie-driver",
    "pcgamingwiki": "Zombie_Driver",
    "steam": "31410"
   },
@@ -60,6 +65,7 @@
   "enwiki": "Patrician II: Quest for Power",
   "ids": {
    "igdb": "patrician-ii-quest-for-power",
+   "metacritic": "patrician-ii-quest-for-power",
    "mobygames": "3817",
    "pcgamingwiki": "Patrician_II:_Quest_for_Power"
   },
@@ -82,6 +88,7 @@
    "gog": "game/dustforce_dx",
    "howlongtobeat": "2982",
    "igdb": "dustforce",
+   "metacritic": "dustforce",
    "mobygames": "54791",
    "pcgamingwiki": "Dustforce",
    "steam": "65300"
@@ -158,6 +165,7 @@
   "ids": {
    "howlongtobeat": "11143",
    "igdb": "whiplash",
+   "metacritic": "whiplash",
    "mobygames": "12630"
   },
   "label_en": "Whiplash",
@@ -190,6 +198,7 @@
    "gog": "game/reassembly",
    "howlongtobeat": "26830",
    "igdb": "reassembly",
+   "metacritic": "reassembly",
    "mobygames": "85362",
    "pcgamingwiki": "Reassembly",
    "steam": "329130"
@@ -217,6 +226,7 @@
    "gog": "game/evoland_2",
    "howlongtobeat": "29680",
    "igdb": "evoland-2",
+   "metacritic": "evoland-2-a-slight-case-of-spacetime-continuum",
    "mobygames": "84610",
    "pcgamingwiki": "Evoland_2",
    "steam": "359310"
@@ -228,6 +238,7 @@
   "enwiki": "Story of Seasons: Trio of Towns",
   "ids": {
    "igdb": "story-of-seasons-trio-of-towns",
+   "metacritic": "story-of-seasons-trio-of-towns",
    "mobygames": "84949"
   },
   "label_en": "Story of Seasons: Trio of Towns",
@@ -246,6 +257,7 @@
  {
   "ids": {
    "igdb": "the-denpa-men-2-beyond-the-waves",
+   "metacritic": "the-denpa-men-2-beyond-the-waves",
    "mobygames": "98895"
   },
   "label_en": "The Denpa Men 2: Beyond the Waves",
@@ -256,6 +268,7 @@
    "gog": "game/escape_goat_2",
    "howlongtobeat": "17502",
    "igdb": "escape-goat-2",
+   "metacritic": "escape-goat-2",
    "mobygames": "67762",
    "pcgamingwiki": "Escape_Goat_2",
    "steam": "255340"
@@ -267,6 +280,7 @@
   "ids": {
    "howlongtobeat": "51928",
    "igdb": "blackscreen-simulator",
+   "metacritic": "blackscreen-simulator",
    "pcgamingwiki": "Blackscreen_Simulator",
    "steam": "741460"
   },
@@ -276,6 +290,7 @@
  {
   "ids": {
    "igdb": "furious-karting",
+   "metacritic": "furious-karting",
    "mobygames": "83721"
   },
   "label_en": "Furious Karting",
@@ -334,7 +349,8 @@
   "enwiki": "Horizon Call of the Mountain",
   "ids": {
    "howlongtobeat": "102430",
-   "igdb": "horizon-call-of-the-mountain"
+   "igdb": "horizon-call-of-the-mountain",
+   "metacritic": "horizon-call-of-the-mountain"
   },
   "label_en": "Horizon Call of the Mountain",
   "wikidata": "Q110422709"
@@ -403,6 +419,7 @@
    "howlongtobeat": "106249",
    "igdb": "ikai",
    "mobygames": "182475",
+   "pcgamingwiki": "Ikai",
    "steam": "1315210"
   },
   "label_en": "Ikai",
@@ -466,6 +483,7 @@
   "ids": {
    "howlongtobeat": "118225",
    "igdb": "death-stranding-2-on-the-beach",
+   "metacritic": "death-stranding-2-on-the-beach",
    "mobygames": "244242",
    "pcgamingwiki": "Death_Stranding_2:_On_the_Beach",
    "steam": "3280350"
@@ -475,6 +493,7 @@
  },
  {
   "ids": {
+   "metacritic": "jupiter-and-mars",
    "mobygames": "126027"
   },
   "label_en": "Jupiter & Mars",

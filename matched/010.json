@@ -2,7 +2,8 @@
  {
   "enwiki": "Mu Online",
   "ids": {
-   "igdb": "mu-online"
+   "igdb": "mu-online",
+   "metacritic": "mu-online"
   },
   "label_en": "Mu Online",
   "wikidata": "Q494010"
@@ -11,6 +12,7 @@
   "enwiki": "Dominions: Priests, Prophets and Pretenders",
   "ids": {
    "igdb": "dominions-priests-prophets-and-pretenders",
+   "metacritic": "dominions-priests-prophets-and-pretenders",
    "mobygames": "193141",
    "pcgamingwiki": "Dominions:_Priests,_Prophets_&_Pretenders",
    "steam": "3520220"
@@ -39,6 +41,7 @@
   "enwiki": "Ben 10: Alien Force (video game)",
   "ids": {
    "igdb": "ben-10-alien-force",
+   "metacritic": "ben-10-alien-force",
    "mobygames": "54948"
   },
   "label_en": "Ben 10: Alien Force",
@@ -49,6 +52,7 @@
   "ids": {
    "howlongtobeat": "4327",
    "igdb": "harvest-moon-ds-sunshine-islands",
+   "metacritic": "harvest-moon-ds-sunshine-islands",
    "mobygames": "84952"
   },
   "label_en": "Harvest Moon DS: Sunshine Islands",
@@ -59,6 +63,7 @@
   "ids": {
    "howlongtobeat": "4146",
    "igdb": "guardian-heroes",
+   "metacritic": "guardian-heroes",
    "mobygames": "9738"
   },
   "label_en": "Guardian Heroes",
@@ -80,6 +85,7 @@
   "enwiki": "Heroes of Might and Magic: Quest for the Dragon Bone Staff",
   "ids": {
    "igdb": "heroes-of-might-and-magic-quest-for-the-dragon-bone-staff",
+   "metacritic": "heroes-of-might-and-magic-quest-for-the-dragon-bo",
    "mobygames": "19562"
   },
   "label_en": "Heroes of Might and Magic: Quest for the Dragon Bone Staff",
@@ -129,6 +135,7 @@
   "ids": {
    "howlongtobeat": "14669",
    "igdb": "nancy-drew-danger-by-design",
+   "metacritic": "nancy-drew-danger-by-design",
    "mobygames": "23291",
    "pcgamingwiki": "Nancy_Drew:_Danger_by_Design",
    "steam": "31800"
@@ -141,6 +148,7 @@
   "ids": {
    "howlongtobeat": "8871",
    "igdb": "space-rangers-2-dominators",
+   "metacritic": "space-rangers-2-rise-of-the-dominators",
    "mobygames": "19891",
    "pcgamingwiki": "Space_Rangers_2:_Dominators",
    "steam": "46330"
@@ -153,6 +161,7 @@
   "ids": {
    "howlongtobeat": "12463",
    "igdb": "champion-jockey-g1-jockey-and-gallop-racer",
+   "metacritic": "champion-jockey-g1-jockey-gallop-racer",
    "mobygames": "83099"
   },
   "label_en": "Champion Jockey: G1 Jockey & Gallop Racer",
@@ -164,6 +173,7 @@
    "gog": "game/elven_legacy_collection",
    "howlongtobeat": "3091",
    "igdb": "elven-legacy",
+   "metacritic": "elven-legacy",
    "mobygames": "40167",
    "pcgamingwiki": "Elven_Legacy",
    "steam": "25850"
@@ -209,6 +219,7 @@
    "gog": "game/the_bridge",
    "howlongtobeat": "9793",
    "igdb": "the-bridge",
+   "metacritic": "the-bridge",
    "mobygames": "69197",
    "pcgamingwiki": "The_Bridge",
    "steam": "204240"
@@ -221,6 +232,7 @@
   "ids": {
    "howlongtobeat": "21232",
    "igdb": "fifa-15-ultimate-team-edition",
+   "metacritic": "fifa-15",
    "mobygames": "68659",
    "pcgamingwiki": "FIFA_15"
   },
@@ -231,6 +243,7 @@
   "enwiki": "Fossil Fighters: Frontier",
   "ids": {
    "igdb": "fossil-fighters-frontier",
+   "metacritic": "fossil-fighters-frontier",
    "mobygames": "85731"
   },
   "label_en": "Fossil Fighters: Frontier",
@@ -244,6 +257,7 @@
   "ids": {
    "howlongtobeat": "45351",
    "igdb": "flinthook",
+   "metacritic": "flinthook",
    "mobygames": "87090",
    "pcgamingwiki": "Flinthook",
    "steam": "401710"
@@ -255,6 +269,7 @@
   "enwiki": "Skylanders: Imaginators",
   "ids": {
    "igdb": "skylanders-imaginators",
+   "metacritic": "skylanders-imaginators",
    "mobygames": "83868"
   },
   "label_en": "Skylanders: Imaginators",
@@ -272,6 +287,7 @@
   "ids": {
    "howlongtobeat": "37757",
    "igdb": "wasted",
+   "metacritic": "wasted",
    "mobygames": "149617",
    "pcgamingwiki": "Wasted",
    "steam": "327510"
@@ -284,6 +300,7 @@
   "ids": {
    "epic": "corruption-2029",
    "igdb": "corruption-2029",
+   "metacritic": "corruption-2029",
    "mobygames": "142769",
    "pcgamingwiki": "Corruption_2029",
    "steam": "2660410"
@@ -295,6 +312,7 @@
   "ids": {
    "howlongtobeat": "19935",
    "igdb": "magic-the-gathering-duels-of-the-planeswalkers-2015",
+   "metacritic": "magic-duels-of-the-planeswalkers-2015",
    "pcgamingwiki": "Magic_2015_-_Duels_of_the_Planeswalkers",
    "steam": "255420"
   },
@@ -307,6 +325,7 @@
    "gog": "game/el_hijo_a_wild_west_tale",
    "howlongtobeat": "68274",
    "igdb": "el-hijo-a-wild-west-tale",
+   "metacritic": "el-hijo-a-wild-west-tale",
    "mobygames": "155060",
    "pcgamingwiki": "El_Hijo_-_A_Wild_West_Tale",
    "steam": "853050"
@@ -333,6 +352,7 @@
   "ids": {
    "howlongtobeat": "43319",
    "igdb": "klang",
+   "metacritic": "klang",
    "mobygames": "108453",
    "pcgamingwiki": "Klang",
    "steam": "412660"
@@ -344,6 +364,7 @@
   "ids": {
    "howlongtobeat": "62995",
    "igdb": "tech-support-error-unknown",
+   "metacritic": "tech-support-error-unknown",
    "mobygames": "152837",
    "pcgamingwiki": "Tech_Support:_Error_Unknown",
    "steam": "781480"
@@ -355,6 +376,7 @@
   "ids": {
    "howlongtobeat": "40347",
    "igdb": "zup",
+   "metacritic": "zup",
    "mobygames": "103489",
    "pcgamingwiki": "Zup!",
    "steam": "533300"
@@ -366,6 +388,7 @@
   "ids": {
    "howlongtobeat": "94578",
    "igdb": "kharons-crypt-even-death-may-die",
+   "metacritic": "kharons-crypt-even-death-may-die",
    "mobygames": "179127",
    "pcgamingwiki": "Kharon's_Crypt_-_Even_Death_May_Die",
    "steam": "793830"
@@ -385,6 +408,7 @@
   "ids": {
    "howlongtobeat": "18598",
    "igdb": "9-clues-the-secret-of-serpent-creek",
+   "metacritic": "9-clues-the-secret-of-serpent-creek",
    "mobygames": "83531",
    "pcgamingwiki": "9_Clues:_The_Secret_of_Serpent_Creek",
    "steam": "284870"
@@ -753,6 +777,7 @@
   "ids": {
    "howlongtobeat": "51016",
    "igdb": "sparc",
+   "metacritic": "sparc",
    "pcgamingwiki": "Sparc",
    "steam": "601770"
   },
@@ -833,6 +858,7 @@
  {
   "ids": {
    "igdb": "yasg",
+   "metacritic": "yasg",
    "mobygames": "100354"
   },
   "label_en": "Y.A.S.G",

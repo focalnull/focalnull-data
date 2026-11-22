@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6237",
    "igdb": "motorstorm-arctic-edge",
+   "metacritic": "motorstorm-arctic-edge",
    "mobygames": "53637"
   },
   "label_en": "MotorStorm: Arctic Edge",
@@ -97,6 +98,7 @@
   "ids": {
    "howlongtobeat": "10070",
    "igdb": "the-lord-of-the-rings-the-two-towers",
+   "metacritic": "the-lord-of-the-rings-the-two-towers",
    "mobygames": "7716"
   },
   "label_en": "The Lord of the Rings: The Two Towers",
@@ -117,6 +119,7 @@
   "enwiki": "Evil Dead: Regeneration",
   "ids": {
    "igdb": "evil-dead-regeneration",
+   "metacritic": "evil-dead-regeneration",
    "mobygames": "19589",
    "pcgamingwiki": "Evil_Dead:_Regeneration"
   },
@@ -127,6 +130,7 @@
   "enwiki": "Stuntman (video game)",
   "ids": {
    "igdb": "stuntman",
+   "metacritic": "stuntman",
    "mobygames": "6824"
   },
   "label_en": "Stuntman",
@@ -232,6 +236,7 @@
   "enwiki": "Invincible Tiger: The Legend of Han Tao",
   "ids": {
    "igdb": "invincible-tiger-the-legend-of-han-tao",
+   "metacritic": "invincible-tiger-the-legend-of-han-tao",
    "mobygames": "47695"
   },
   "label_en": "Invincible Tiger: The Legend of Han Tao",
@@ -299,6 +304,7 @@
    "gog": "game/tsioque",
    "howlongtobeat": "34468",
    "igdb": "tsioque",
+   "metacritic": "tsioque",
    "mobygames": "116662",
    "pcgamingwiki": "Tsioque",
    "steam": "393190"
@@ -329,6 +335,7 @@
  {
   "ids": {
    "igdb": "tales-of-monkey-island-chapter-2-the-siege-of-spinner-cay",
+   "metacritic": "tales-of-monkey-island-chapter-2-the-siege-of-spinner-cay",
    "mobygames": "42172",
    "steam": "31180"
   },
@@ -360,6 +367,9 @@
   "wikidata": "Q107317071"
  },
  {
+  "ids": {
+   "metacritic": "jam-sessions-2"
+  },
   "label_en": "Jam Sessions 2",
   "wikidata": "Q108611071"
  },
@@ -369,6 +379,7 @@
    "epic": "river-city-girls-2-77af3a",
    "howlongtobeat": "94082",
    "igdb": "river-city-girls-2",
+   "metacritic": "river-city-girls-2",
    "mobygames": "196030",
    "pcgamingwiki": "River_City_Girls_2",
    "steam": "1920480"
@@ -401,6 +412,7 @@
   "ids": {
    "howlongtobeat": "94267",
    "igdb": "witchy-life-story",
+   "metacritic": "witchy-life-story",
    "mobygames": "192244",
    "steam": "1427340"
   },
@@ -1093,6 +1105,7 @@
  {
   "ids": {
    "igdb": "dinertown-detective-agency",
+   "pcgamingwiki": "DinerTown_Detective_Agency",
    "steam": "37310"
   },
   "label_en": "DinerTown Detective Agency™",

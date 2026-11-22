@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "6534",
    "igdb": "new-super-mario-bros",
+   "metacritic": "new-super-mario-bros",
    "mobygames": "22341"
   },
   "label_en": "New Super Mario Bros.",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "446",
    "igdb": "amy",
+   "metacritic": "amy",
    "mobygames": "55165"
   },
   "label_en": "AMY",
@@ -68,6 +70,7 @@
   "ids": {
    "howlongtobeat": "7694",
    "igdb": "red-steel",
+   "metacritic": "red-steel",
    "mobygames": "25102"
   },
   "label_en": "Red Steel",
@@ -78,6 +81,7 @@
   "ids": {
    "howlongtobeat": "4000",
    "igdb": "golden-sun",
+   "metacritic": "golden-sun",
    "mobygames": "5413"
   },
   "label_en": "Golden Sun",
@@ -88,6 +92,7 @@
   "ids": {
    "howlongtobeat": "7156",
    "igdb": "pokemon-mystery-dungeon-explorers-of-sky",
+   "metacritic": "pokemon-mystery-dungeon-explorers-of-sky",
    "mobygames": "45482"
   },
   "label_en": "Pokémon Mystery Dungeon: Explorers of Sky",
@@ -153,6 +158,7 @@
   "ids": {
    "howlongtobeat": "8520",
    "igdb": "sigma-star-saga",
+   "metacritic": "sigma-star-saga",
    "mobygames": "21117"
   },
   "label_en": "Sigma Star Saga",
@@ -180,6 +186,7 @@
   "enwiki": "Arctic Tale (video game)",
   "ids": {
    "igdb": "arctic-tale",
+   "metacritic": "arctic-tale",
    "mobygames": "31437"
   },
   "label_en": "Arctic Tale",
@@ -189,6 +196,7 @@
   "enwiki": "Gem Smashers",
   "ids": {
    "igdb": "gem-smashers",
+   "metacritic": "gem-smashers",
    "mobygames": "68354"
   },
   "label_en": "Gem Smashers",
@@ -227,6 +235,7 @@
   "enwiki": "MLB Power Pros 2008",
   "ids": {
    "igdb": "mlb-power-pros-2008",
+   "metacritic": "mlb-power-pros-2008",
    "mobygames": "35504"
   },
   "label_en": "MLB Power Pros 2008",
@@ -248,6 +257,7 @@
    "gog": "game/oddworld_new_n_tasty",
    "howlongtobeat": "20113",
    "igdb": "oddworld-new-n-tasty",
+   "metacritic": "oddworld-abes-oddysee-new-n-tasty",
    "mobygames": "67597",
    "pcgamingwiki": "Oddworld:_New_'n'_Tasty!",
    "steam": "314660"
@@ -296,6 +306,7 @@
   "ids": {
    "howlongtobeat": "9688",
    "igdb": "tenchu-dark-secret",
+   "metacritic": "tenchu-dark-secret",
    "mobygames": "27044"
   },
   "label_en": "Tenchu: Dark Secret",
@@ -315,6 +326,7 @@
    "gog": "game/etherlords_2",
    "howlongtobeat": "3191",
    "igdb": "etherlords-ii",
+   "metacritic": "etherlords-ii",
    "mobygames": "11118",
    "pcgamingwiki": "Etherlords_II",
    "steam": "270790"
@@ -346,6 +358,7 @@
    "howlongtobeat": "161895",
    "igdb": "dokapon-sword-of-fury",
    "mobygames": "236216",
+   "pcgamingwiki": "Dokapon!_Sword_of_Fury",
    "steam": "3077020"
   },
   "label_en": "Dokapon! Sword of Fury",
@@ -374,6 +387,7 @@
   "ids": {
    "howlongtobeat": "55661",
    "igdb": "forza-horizon-4",
+   "metacritic": "forza-horizon-4",
    "mobygames": "115156",
    "pcgamingwiki": "Forza_Horizon_4",
    "steam": "1293830"
@@ -384,7 +398,9 @@
  {
   "ids": {
    "igdb": "knocky-balls",
-   "mobygames": "110150"
+   "metacritic": "knocky-balls",
+   "mobygames": "110150",
+   "pcgamingwiki": "Knocky_Balls"
   },
   "label_en": "Knocky Balls",
   "wikidata": "Q55091555"
@@ -418,6 +434,7 @@
   "ids": {
    "howlongtobeat": "70765",
    "igdb": "headspun",
+   "metacritic": "headspun",
    "mobygames": "133961",
    "pcgamingwiki": "Headspun",
    "steam": "808770"
@@ -439,7 +456,8 @@
  {
   "enwiki": "Dragon Quest XII",
   "ids": {
-   "igdb": "dragon-quest-xii-beyond-dreams--1"
+   "igdb": "dragon-quest-xii-beyond-dreams--1",
+   "metacritic": "dragon-quest-xii-beyond-dreams"
   },
   "label_en": "Dragon Quest XII: Beyond Dreams",
   "wikidata": "Q106994555"
@@ -448,6 +466,7 @@
   "ids": {
    "howlongtobeat": "104452",
    "igdb": "super-dungeon-maker",
+   "metacritic": "super-dungeon-maker",
    "mobygames": "202583",
    "steam": "1622800"
   },
@@ -790,6 +809,7 @@
   "ids": {
    "howlongtobeat": "77739",
    "igdb": "self",
+   "metacritic": "self",
    "mobygames": "140637",
    "pcgamingwiki": "SELF",
    "steam": "1074170"
@@ -943,6 +963,7 @@
   "ids": {
    "howlongtobeat": "6773",
    "igdb": "oozi-earth-adventure",
+   "metacritic": "oozi-earth-adventure",
    "mobygames": "59474",
    "pcgamingwiki": "Oozi:_Earth_Adventure",
    "steam": "257990"
@@ -954,6 +975,7 @@
   "ids": {
    "howlongtobeat": "52902",
    "igdb": "pixel-shinobi-nine-demons-of-mamoru",
+   "metacritic": "within-the-blade",
    "mobygames": "133038",
    "pcgamingwiki": "Pixel_Shinobi_Nine_demons_of_Mamoru",
    "steam": "622870"
@@ -997,6 +1019,7 @@
   "ids": {
    "howlongtobeat": "26937",
    "igdb": "spikey-walls",
+   "metacritic": "spikey-walls",
    "mobygames": "100246"
   },
   "label_en": "Spikey Walls",

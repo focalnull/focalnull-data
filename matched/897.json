@@ -3,6 +3,7 @@
   "enwiki": "One Piece: Unlimited Adventure",
   "ids": {
    "igdb": "one-piece-unlimited-adventure",
+   "metacritic": "one-piece-unlimited-adventure",
    "mobygames": "48250"
   },
   "label_en": "One Piece: Unlimited Adventure",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "7230",
    "igdb": "portal",
+   "metacritic": "portal",
    "mobygames": "30616",
    "pcgamingwiki": "Portal",
    "steam": "400"
@@ -33,6 +35,7 @@
   "enwiki": "Rocky (2002 video game)",
   "ids": {
    "igdb": "rocky",
+   "metacritic": "rocky-2002",
    "mobygames": "7741"
   },
   "label_en": "Rocky",
@@ -58,7 +61,8 @@
   "enwiki": "Ghost in the Shell: Stand Alone Complex (2005 video game)",
   "ids": {
    "howlongtobeat": "20571",
-   "igdb": "ghost-in-the-shell-stand-alone-complex--2"
+   "igdb": "ghost-in-the-shell-stand-alone-complex--2",
+   "metacritic": "ghost-in-the-shell-stand-alone-complex-2005"
   },
   "label_en": "Ghost in the Shell: Stand Alone Complex",
   "wikidata": "Q2256897"
@@ -68,6 +72,7 @@
   "ids": {
    "howlongtobeat": "8778",
    "igdb": "sonic-rush-adventure",
+   "metacritic": "sonic-rush-adventure",
    "mobygames": "31711"
   },
   "label_en": "Sonic Rush Adventure",
@@ -219,6 +224,7 @@
   "ids": {
    "howlongtobeat": "20221",
    "igdb": "the-last-of-us-remastered",
+   "metacritic": "the-last-of-us-remastered",
    "mobygames": "67674"
   },
   "label_en": "The Last of Us Remastered",
@@ -238,6 +244,7 @@
   "ids": {
    "howlongtobeat": "39860",
    "igdb": "breached",
+   "metacritic": "breached",
    "mobygames": "80112",
    "pcgamingwiki": "Breached",
    "steam": "460640"
@@ -258,6 +265,7 @@
   "ids": {
    "howlongtobeat": "56495",
    "igdb": "little-witch-academia-chamber-of-time",
+   "metacritic": "little-witch-academia-chamber-of-time",
    "mobygames": "108048",
    "pcgamingwiki": "Little_Witch_Academia:_Chamber_of_Time",
    "steam": "710470"
@@ -284,6 +292,7 @@
   "ids": {
    "howlongtobeat": "64185",
    "igdb": "world-war-3",
+   "metacritic": "world-war-3",
    "mobygames": "115451",
    "pcgamingwiki": "World_War_3",
    "steam": "674020"
@@ -296,6 +305,7 @@
   "ids": {
    "howlongtobeat": "59515",
    "igdb": "we-are-chicago",
+   "metacritic": "we-are-chicago",
    "mobygames": "217126",
    "pcgamingwiki": "We_Are_Chicago",
    "steam": "414330"
@@ -366,6 +376,7 @@
   "ids": {
    "howlongtobeat": "54127",
    "igdb": "rise-of-insanity",
+   "metacritic": "rise-of-insanity",
    "mobygames": "93885",
    "pcgamingwiki": "Rise_of_Insanity",
    "steam": "629220"
@@ -379,6 +390,7 @@
    "gog": "game/steelrising",
    "howlongtobeat": "93894",
    "igdb": "steelrising",
+   "metacritic": "steelrising",
    "mobygames": "184659",
    "pcgamingwiki": "Steelrising",
    "steam": "1283400"
@@ -392,6 +404,7 @@
    "epic": "football-manager-2022",
    "howlongtobeat": "98851",
    "igdb": "football-manager-2022",
+   "metacritic": "football-manager-2022",
    "mobygames": "175123",
    "pcgamingwiki": "Football_Manager_2022",
    "steam": "1569040"
@@ -426,6 +439,7 @@
  {
   "ids": {
    "igdb": "hot-roads",
+   "metacritic": "hot-roads",
    "mobygames": "189415",
    "steam": "1819280"
   },
@@ -457,6 +471,7 @@
    "epic": "blanc-703b40",
    "howlongtobeat": "109844",
    "igdb": "blanc",
+   "metacritic": "blanc",
    "mobygames": "199481",
    "pcgamingwiki": "Blanc",
    "steam": "1982340"
@@ -775,6 +790,7 @@
    "epic": "undying",
    "howlongtobeat": "68379",
    "igdb": "undying",
+   "metacritic": "undying",
    "mobygames": "174849",
    "pcgamingwiki": "Undying",
    "steam": "638990"
@@ -979,6 +995,7 @@
    "epic": "double-dragon-revive-ea9565",
    "howlongtobeat": "153433",
    "igdb": "double-dragon-revive",
+   "metacritic": "double-dragon-revive",
    "pcgamingwiki": "Double_Dragon_Revive",
    "steam": "3012220"
   },

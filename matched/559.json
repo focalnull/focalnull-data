@@ -26,6 +26,7 @@
   "ids": {
    "howlongtobeat": "94537",
    "igdb": "final-fantasy-iii--1",
+   "metacritic": "final-fantasy-iii",
    "mobygames": "7322",
    "pcgamingwiki": "Final_Fantasy_III"
   },
@@ -47,6 +48,7 @@
   "ids": {
    "howlongtobeat": "6716",
    "igdb": "ogre-battle-64-person-of-lordly-caliber",
+   "metacritic": "ogre-battle-64-person-of-lordly-caliber",
    "mobygames": "3646"
   },
   "label_en": "Ogre Battle 64: Person of Lordly Caliber",
@@ -66,6 +68,7 @@
   "ids": {
    "howlongtobeat": "1071",
    "igdb": "birth-of-america",
+   "metacritic": "birth-of-america",
    "mobygames": "29774"
   },
   "label_en": "Birth of America",
@@ -83,6 +86,7 @@
   "ids": {
    "howlongtobeat": "2052",
    "igdb": "cruisn-exotica",
+   "metacritic": "cruisn-exotica",
    "mobygames": "8062"
   },
   "label_en": "Cruis'n Exotica",
@@ -92,6 +96,7 @@
   "enwiki": "Sky Odyssey",
   "ids": {
    "igdb": "sky-odyssey",
+   "metacritic": "sky-odyssey",
    "mobygames": "3619"
   },
   "label_en": "Sky Odyssey",
@@ -104,6 +109,7 @@
    "gog": "game/cyberpunk_2077",
    "howlongtobeat": "2127",
    "igdb": "cyberpunk-2077",
+   "metacritic": "cyberpunk-2077",
    "mobygames": "128136",
    "pcgamingwiki": "Cyberpunk_2077",
    "steam": "1091500"
@@ -236,6 +242,7 @@
   "enwiki": "Frozen: Olaf's Quest",
   "ids": {
    "igdb": "frozen-olafs-quest",
+   "metacritic": "disney-frozen-olafs-quest",
    "mobygames": "80411"
   },
   "label_en": "Frozen: Olaf's Quest",
@@ -249,6 +256,7 @@
   "ids": {
    "howlongtobeat": "37503",
    "igdb": "7th-dragon-iii-code-vfd",
+   "metacritic": "7th-dragon-iii-code-vfd",
    "mobygames": "85326"
   },
   "label_en": "7th Dragon III: Code VFD",
@@ -282,7 +290,8 @@
  {
   "enwiki": "Disney Tsum Tsum Festival",
   "ids": {
-   "igdb": "disney-tsum-tsum-festival"
+   "igdb": "disney-tsum-tsum-festival",
+   "metacritic": "disney-tsum-tsum-festival"
   },
   "label_en": "Disney Tsum Tsum Festival",
   "wikidata": "Q65040559"
@@ -328,6 +337,7 @@
   "ids": {
    "howlongtobeat": "51753",
    "igdb": "castle-invasion-throne-out",
+   "metacritic": "castle-invasion-throne-out",
    "mobygames": "87333",
    "pcgamingwiki": "Castle_Invasion:_Throne_Out",
    "steam": "504850"
@@ -347,6 +357,7 @@
   "ids": {
    "howlongtobeat": "73147",
    "igdb": "to-trust-an-incubus",
+   "metacritic": "to-trust-an-incubus",
    "mobygames": "198754",
    "pcgamingwiki": "To_Trust_an_Incubus",
    "steam": "825300"
@@ -360,6 +371,7 @@
    "epic": "somerville-229529",
    "howlongtobeat": "27394",
    "igdb": "somerville",
+   "metacritic": "somerville",
    "mobygames": "195285",
    "pcgamingwiki": "Somerville",
    "steam": "1671410"
@@ -368,6 +380,9 @@
   "wikidata": "Q107215559"
  },
  {
+  "ids": {
+   "metacritic": "low-spec-ore-to-toshishita-kanojo-to-seikyouiku-"
+  },
   "label_en": "Low Spec!? ~Ore to Toshishita Kanojo to Seikyouiku!~",
   "wikidata": "Q108088559"
  },
@@ -388,6 +403,7 @@
   "ids": {
    "howlongtobeat": "94779",
    "igdb": "icarus--1",
+   "metacritic": "icarus",
    "mobygames": "176343",
    "pcgamingwiki": "Icarus",
    "steam": "1149460"
@@ -404,6 +420,7 @@
    "gog": "game/transient",
    "howlongtobeat": "82524",
    "igdb": "transient",
+   "metacritic": "transient",
    "mobygames": "152132",
    "pcgamingwiki": "Transient",
    "steam": "962630"
@@ -462,6 +479,7 @@
    "gog": "game/mahokenshi",
    "howlongtobeat": "123574",
    "igdb": "mahokenshi-the-samurai-deckbuilder",
+   "metacritic": "mahokenshi",
    "mobygames": "198311",
    "pcgamingwiki": "Mahōkenshi",
    "steam": "1717640"
@@ -474,6 +492,7 @@
   "ids": {
    "howlongtobeat": "109526",
    "igdb": "dragons-dogma-ii",
+   "metacritic": "dragons-dogma-ii",
    "mobygames": "220049",
    "pcgamingwiki": "Dragon's_Dogma_II",
    "steam": "2054970"
@@ -508,6 +527,7 @@
   "ids": {
    "howlongtobeat": "110746",
    "igdb": "paw-patrol-grand-prix",
+   "metacritic": "paw-patrol-grand-prix",
    "mobygames": "192157",
    "pcgamingwiki": "Paw_Patrol:_Grand_Prix",
    "steam": "1770490"
@@ -600,7 +620,9 @@
   "ids": {
    "howlongtobeat": "94773",
    "igdb": "pioner",
+   "metacritic": "pioner",
    "mobygames": "251805",
+   "pcgamingwiki": "Pioner",
    "steam": "3105890"
   },
   "label_en": "Pioner",
@@ -621,6 +643,7 @@
    "gog": "game/strayed_lights",
    "howlongtobeat": "123243",
    "igdb": "strayed-lights",
+   "metacritic": "strayed-lights",
    "mobygames": "202270",
    "pcgamingwiki": "Strayed_Lights",
    "steam": "2162020"
@@ -1324,5 +1347,12 @@
   },
   "label_en": "Sin Slayers: Meat & Greed",
   "wikidata": "Q141480559"
+ },
+ {
+  "ids": {
+   "igdb": "balak-city"
+  },
+  "label_en": "Balak City",
+  "wikidata": "Q142234559"
  }
 ]

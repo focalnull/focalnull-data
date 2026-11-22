@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8976",
    "igdb": "split-second",
+   "metacritic": "splitsecond",
    "mobygames": "46593",
    "pcgamingwiki": "Split_Second",
    "steam": "297860"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "1477",
    "igdb": "call-of-duty-modern-warfare-2",
+   "metacritic": "call-of-duty-modern-warfare-2",
    "mobygames": "43382",
    "pcgamingwiki": "Call_of_Duty:_Modern_Warfare_2",
    "steam": "10180"
@@ -28,6 +30,7 @@
   "ids": {
    "howlongtobeat": "661",
    "igdb": "assassins-creed-brotherhood",
+   "metacritic": "assassins-creed-brotherhood",
    "mobygames": "49434",
    "pcgamingwiki": "Assassin's_Creed:_Brotherhood",
    "steam": "48190"
@@ -40,6 +43,7 @@
   "ids": {
    "howlongtobeat": "1842",
    "igdb": "command-conquer-red-alert-3",
+   "metacritic": "command-conquer-red-alert-3",
    "mobygames": "37216",
    "pcgamingwiki": "Command_&_Conquer:_Red_Alert_3",
    "steam": "17480"
@@ -60,6 +64,7 @@
   "ids": {
    "howlongtobeat": "4257",
    "igdb": "half-life-source",
+   "metacritic": "half-life-source",
    "mobygames": "42682",
    "pcgamingwiki": "Half-Life:_Source",
    "steam": "280"
@@ -108,6 +113,7 @@
   "ids": {
    "howlongtobeat": "2957",
    "igdb": "dungeon-siege-ii",
+   "metacritic": "dungeon-siege-ii",
    "mobygames": "19117",
    "pcgamingwiki": "Dungeon_Siege_II",
    "steam": "39200"
@@ -128,6 +134,7 @@
   "enwiki": "Super Mario Advance (video game)",
   "ids": {
    "igdb": "super-mario-advance",
+   "metacritic": "super-mario-advance",
    "mobygames": "4305"
   },
   "label_en": "Super Mario Advance",
@@ -155,6 +162,7 @@
   "ids": {
    "howlongtobeat": "20241",
    "igdb": "prime-world",
+   "metacritic": "prime-world",
    "mobygames": "65344",
    "pcgamingwiki": "Prime_World",
    "steam": "235340"
@@ -195,6 +203,7 @@
    "epic": "saints-row-iv-re-elected",
    "howlongtobeat": "12650",
    "igdb": "saints-row-iv",
+   "metacritic": "saints-row-iv",
    "mobygames": "65392",
    "pcgamingwiki": "Saints_Row_IV",
    "steam": "206420"
@@ -237,6 +246,7 @@
    "gog": "game/technobabylon",
    "howlongtobeat": "25056",
    "igdb": "technobabylon",
+   "metacritic": "technobabylon",
    "mobygames": "84775",
    "pcgamingwiki": "Technobabylon",
    "steam": "307580"
@@ -261,6 +271,7 @@
    "epic": "jackbox-party-pack-4",
    "howlongtobeat": "50275",
    "igdb": "the-jackbox-party-pack-4",
+   "metacritic": "the-jackbox-party-pack-4",
    "mobygames": "97202",
    "pcgamingwiki": "The_Jackbox_Party_Pack_4",
    "steam": "610180"
@@ -281,6 +292,7 @@
   "ids": {
    "howlongtobeat": "34000",
    "igdb": "rabi-ribi",
+   "metacritic": "rabi-ribi",
    "mobygames": "91592",
    "pcgamingwiki": "Rabi-Ribi",
    "steam": "400910"
@@ -328,6 +340,7 @@
   "ids": {
    "howlongtobeat": "60783",
    "igdb": "new-gundam-breaker",
+   "metacritic": "new-gundam-breaker",
    "mobygames": "109921",
    "pcgamingwiki": "New_Gundam_Breaker",
    "steam": "738530"
@@ -340,6 +353,7 @@
   "ids": {
    "howlongtobeat": "57421",
    "igdb": "legendary-eleven",
+   "metacritic": "legendary-eleven",
    "mobygames": "109945",
    "pcgamingwiki": "Legendary_Eleven:_Epic_Football",
    "steam": "839300"
@@ -352,6 +366,7 @@
   "ids": {
    "howlongtobeat": "98594",
    "igdb": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles",
+   "metacritic": "demon-slayer-kimetsu-no-yaiba-the-hinokami",
    "mobygames": "173821",
    "pcgamingwiki": "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles",
    "steam": "1490890"
@@ -392,6 +407,7 @@
   "ids": {
    "howlongtobeat": "90638",
    "igdb": "100-hidden-mushrooms",
+   "metacritic": "100-hidden-mushrooms",
    "mobygames": "161124",
    "steam": "1573750"
   },
@@ -402,6 +418,7 @@
   "ids": {
    "howlongtobeat": "147672",
    "igdb": "vampire-and-monsters-hidden-object-games",
+   "metacritic": "vampire-monsters-hidden-object-games",
    "mobygames": "206991",
    "pcgamingwiki": "Vampire_&_Monsters:_Hidden_Object_Games",
    "steam": "1015080"
@@ -432,6 +449,7 @@
    "gog": "game/mato_anomalies",
    "howlongtobeat": "112575",
    "igdb": "mato-anomalies",
+   "metacritic": "mato-anomalies",
    "mobygames": "200356",
    "steam": "2024390"
   },
@@ -449,6 +467,9 @@
   "wikidata": "Q117451351"
  },
  {
+  "ids": {
+   "metacritic": "meatspace-invasion"
+  },
   "label_en": "Meatspace Invasion",
   "wikidata": "Q120578351"
  },
@@ -598,6 +619,7 @@
   "ids": {
    "howlongtobeat": "82152",
    "igdb": "song-of-iron",
+   "metacritic": "song-of-iron",
    "mobygames": "170915",
    "pcgamingwiki": "Song_of_Iron",
    "steam": "1258220"

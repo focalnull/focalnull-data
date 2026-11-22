@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5264",
    "igdb": "lego-star-wars-the-video-game",
+   "metacritic": "lego-star-wars",
    "mobygames": "17131",
    "pcgamingwiki": "Lego_Star_Wars:_The_Video_Game"
   },
@@ -51,6 +52,7 @@
   "enwiki": "Jumpgate: The Reconstruction Initiative",
   "ids": {
    "igdb": "jumpgate-the-reconstruction-initiative",
+   "metacritic": "jumpgate-the-reconstruction-initiative",
    "mobygames": "7518"
   },
   "label_en": "Jumpgate: The Reconstruction Initiative",
@@ -70,6 +72,7 @@
   "ids": {
    "howlongtobeat": "5499",
    "igdb": "madden-nfl-11",
+   "metacritic": "madden-nfl-11",
    "mobygames": "59862"
   },
   "label_en": "Madden NFL 11",
@@ -105,7 +108,8 @@
  {
   "enwiki": "Shining Force: Resurrection of the Dark Dragon",
   "ids": {
-   "igdb": "shining-force-resurrection-of-the-dark-dragon"
+   "igdb": "shining-force-resurrection-of-the-dark-dragon",
+   "metacritic": "shining-force-resurrection-of-the-dark-dragon"
   },
   "label_en": "Shining Force: Resurrection of the Dark Dragon",
   "wikidata": "Q3482216"
@@ -114,6 +118,7 @@
   "enwiki": "Dead Rising: Chop Till You Drop",
   "ids": {
    "igdb": "dead-rising-chop-till-you-drop",
+   "metacritic": "dead-rising-chop-till-you-drop",
    "mobygames": "42907"
   },
   "label_en": "Dead Rising: Chop Till You Drop",
@@ -123,6 +128,7 @@
   "ids": {
    "howlongtobeat": "4836",
    "igdb": "jet-set-radio",
+   "metacritic": "jet-set-radio",
    "mobygames": "4126",
    "pcgamingwiki": "Jet_Set_Radio",
    "steam": "205950"
@@ -152,6 +158,7 @@
   "ids": {
    "howlongtobeat": "7544",
    "igdb": "raiden-iii-digital-edition",
+   "metacritic": "raiden-iii",
    "mobygames": "24041",
    "pcgamingwiki": "Raiden_III_Digital_Edition",
    "steam": "315670"
@@ -189,6 +196,7 @@
   "enwiki": "Mystery Dungeon: Shiren the Wanderer",
   "ids": {
    "igdb": "bs-fuurai-no-shiren-surara-wo-sukue",
+   "metacritic": "mystery-dungeon-shiren-the-wanderer",
    "mobygames": "13900"
   },
   "label_en": "Mystery Dungeon: Shiren the Wanderer",
@@ -254,6 +262,7 @@
    "epic": "aztez",
    "howlongtobeat": "21674",
    "igdb": "aztez",
+   "metacritic": "aztez",
    "mobygames": "93767",
    "pcgamingwiki": "Aztez",
    "steam": "244750"
@@ -273,6 +282,7 @@
  {
   "ids": {
    "igdb": "petz-nursery",
+   "metacritic": "petz-nursery",
    "mobygames": "89770"
   },
   "label_en": "Petz: Nursery",
@@ -294,6 +304,7 @@
  {
   "ids": {
    "igdb": "lets-sing-2018",
+   "metacritic": "lets-sing-2018",
    "mobygames": "102142"
   },
   "label_en": "Let's Sing 2018",
@@ -304,6 +315,7 @@
    "gog": "game/full_throttle_remastered",
    "howlongtobeat": "44400",
    "igdb": "full-throttle-remastered",
+   "metacritic": "full-throttle-remastered",
    "mobygames": "87082",
    "pcgamingwiki": "Full_Throttle_Remastered",
    "steam": "228360"
@@ -332,6 +344,7 @@
   "ids": {
    "howlongtobeat": "34480",
    "igdb": "damascus-gear-operation-tokyo",
+   "metacritic": "damascus-gear-operation-tokyo",
    "mobygames": "97443",
    "pcgamingwiki": "Damascus_Gear_Operation_Tokyo_HD",
    "steam": "648630"
@@ -355,6 +368,7 @@
    "gog": "game/hyperparasite",
    "howlongtobeat": "66472",
    "igdb": "hyperparasite",
+   "metacritic": "hyperparasite",
    "mobygames": "124445",
    "pcgamingwiki": "HyperParasite",
    "steam": "838110"
@@ -398,6 +412,7 @@
   "ids": {
    "howlongtobeat": "48616",
    "igdb": "we-are-doomed",
+   "metacritic": "we-are-doomed",
    "mobygames": "86806",
    "pcgamingwiki": "We_Are_Doomed",
    "steam": "360530"
@@ -410,6 +425,7 @@
   "ids": {
    "howlongtobeat": "75422",
    "igdb": "giraffe-and-annika",
+   "metacritic": "giraffe-and-annika",
    "mobygames": "123741",
    "pcgamingwiki": "Giraffe_and_Annika",
    "steam": "1122100"
@@ -1214,6 +1230,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "How_Many_Dudes?",
    "steam": "3934270"
   },
   "label_en": "How Many Dudes?",

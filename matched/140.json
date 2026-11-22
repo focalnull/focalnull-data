@@ -37,6 +37,7 @@
   "ids": {
    "howlongtobeat": "6768",
    "igdb": "onimusha-warlords",
+   "metacritic": "onimusha-warlords",
    "mobygames": "3780",
    "pcgamingwiki": "Onimusha:_Warlords"
   },
@@ -58,6 +59,7 @@
   "enwiki": "Dynasty Warriors 7",
   "ids": {
    "igdb": "dynasty-warriors-7",
+   "metacritic": "dynasty-warriors-7",
    "mobygames": "51319"
   },
   "label_en": "Dynasty Warriors 7",
@@ -88,6 +90,7 @@
    "gog": "game/conquest_frontier_wars",
    "howlongtobeat": "22158",
    "igdb": "conquest-frontier-wars",
+   "metacritic": "conquest-frontier-wars",
    "mobygames": "4973",
    "pcgamingwiki": "Conquest:_Frontier_Wars",
    "steam": "578670"
@@ -134,6 +137,7 @@
   "enwiki": "Lazy Raiders",
   "ids": {
    "igdb": "lazy-raiders",
+   "metacritic": "lazy-raiders",
    "mobygames": "49419"
   },
   "label_en": "Lazy Raiders",
@@ -143,6 +147,7 @@
   "enwiki": "Microsoft Flight Simulator 2002",
   "ids": {
    "igdb": "microsoft-flight-simulator-2002",
+   "metacritic": "flight-simulator-2002",
    "mobygames": "5745",
    "pcgamingwiki": "Microsoft_Flight_Simulator_2002"
   },
@@ -181,6 +186,7 @@
   "enwiki": "Stake: Fortune Fighters",
   "ids": {
    "igdb": "stake-fortune-fighters",
+   "metacritic": "stake-fortune-fighters",
    "mobygames": "9276"
   },
   "label_en": "Stake: Fortune Fighters",
@@ -226,6 +232,7 @@
   "ids": {
    "howlongtobeat": "38328",
    "igdb": "hasbro-family-game-night-2",
+   "metacritic": "hasbro-family-game-night-2",
    "mobygames": "87170"
   },
   "label_en": "Hasbro Family Game Night 2",
@@ -252,6 +259,7 @@
   "ids": {
    "howlongtobeat": "39731",
    "igdb": "picross-3d-round-2",
+   "metacritic": "picross-3d-round-2",
    "mobygames": "82220"
   },
   "label_en": "Picross 3D: Round 2",
@@ -273,6 +281,7 @@
    "gog": "game/a_short_hike",
    "howlongtobeat": "66152",
    "igdb": "a-short-hike",
+   "metacritic": "a-short-hike",
    "mobygames": "125707",
    "pcgamingwiki": "A_Short_Hike",
    "steam": "1055540"
@@ -315,6 +324,7 @@
   "ids": {
    "howlongtobeat": "23007",
    "igdb": "brickforce",
+   "metacritic": "brick-force",
    "mobygames": "62976",
    "pcgamingwiki": "Brick-Force",
    "steam": "335330"
@@ -383,6 +393,7 @@
   "ids": {
    "howlongtobeat": "109927",
    "igdb": "bakery-simulator",
+   "metacritic": "bakery-simulator",
    "pcgamingwiki": "Bakery_Simulator",
    "steam": "1031120"
   },
@@ -394,6 +405,7 @@
    "gog": "game/stirring_abyss",
    "howlongtobeat": "87514",
    "igdb": "stirring-abyss",
+   "metacritic": "stirring-abyss",
    "mobygames": "152217",
    "pcgamingwiki": "Stirring_Abyss",
    "steam": "1178210"
@@ -454,7 +466,9 @@
   "ids": {
    "howlongtobeat": "128170",
    "igdb": "what-the-car",
+   "metacritic": "what-the-car",
    "mobygames": "202678",
+   "pcgamingwiki": "What_the_Car?",
    "steam": "2727650"
   },
   "label_en": "What the Car?",
@@ -467,6 +481,7 @@
    "gog": "game/showgunners_deluxe_edition",
    "howlongtobeat": "127831",
    "igdb": "showgunners",
+   "metacritic": "showgunners",
    "mobygames": "202551",
    "pcgamingwiki": "Showgunners",
    "steam": "1155330"
@@ -491,6 +506,7 @@
    "howlongtobeat": "112427",
    "igdb": "canon-legend-of-the-new-gods",
    "mobygames": "18326",
+   "pcgamingwiki": "Canon:_Legend_of_the_New_Gods",
    "steam": "1257920"
   },
   "label_en": "Canon: Legend of the New Gods",
@@ -534,6 +550,7 @@
  {
   "ids": {
    "igdb": "bob-help-them",
+   "metacritic": "bob-help-them",
    "mobygames": "160025",
    "steam": "1471490"
   },
@@ -1096,6 +1113,7 @@
   "wikidata": "Q139640140"
  },
  {
+  "enwiki": "Link! Like! Love Live!",
   "label_en": "Link! Like! Love Live!",
   "wikidata": "Q140006140"
  },

@@ -30,6 +30,7 @@
   "ids": {
    "howlongtobeat": "5599",
    "igdb": "mana-khemia-alchemists-of-al-revis",
+   "metacritic": "mana-khemia-alchemists-of-al-revis",
    "mobygames": "36577"
   },
   "label_en": "Mana Khemia: Alchemists of Al-Revis",
@@ -39,6 +40,7 @@
   "enwiki": "Ratchet & Clank Future: Quest for Booty",
   "ids": {
    "igdb": "ratchet-clank-future-quest-for-booty",
+   "metacritic": "ratchet-clank-future-quest-for-booty",
    "mobygames": "38177"
   },
   "label_en": "Ratchet & Clank Future: Quest for Booty",
@@ -99,6 +101,7 @@
   "ids": {
    "howlongtobeat": "28651",
    "igdb": "microsoft-flight-simulator-2004-a-century-of-flight",
+   "metacritic": "microsoft-flight-simulator-2004-a-century-of-flig",
    "mobygames": "9946",
    "pcgamingwiki": "Microsoft_Flight_Simulator_2004:_A_Century_of_Flight"
   },
@@ -136,6 +139,7 @@
   "enwiki": "Eternal Ring",
   "ids": {
    "igdb": "eternal-ring",
+   "metacritic": "eternal-ring",
    "mobygames": "9824"
   },
   "label_en": "Eternal Ring",
@@ -162,7 +166,8 @@
  {
   "enwiki": "Mutant Storm Empire",
   "ids": {
-   "igdb": "mutant-storm-empire"
+   "igdb": "mutant-storm-empire",
+   "metacritic": "mutant-storm-empire"
   },
   "label_en": "Mutant Storm Empire",
   "wikidata": "Q6943691"
@@ -198,6 +203,7 @@
   "ids": {
    "howlongtobeat": "11221",
    "igdb": "witchs-wish",
+   "metacritic": "witchs-wish",
    "mobygames": "73317"
   },
   "label_en": "Witch's Wish",
@@ -240,6 +246,7 @@
    "gog": "game/the_long_dark",
    "howlongtobeat": "21471",
    "igdb": "the-long-dark",
+   "metacritic": "the-long-dark",
    "mobygames": "82832",
    "pcgamingwiki": "The_Long_Dark",
    "steam": "305620"
@@ -253,6 +260,7 @@
    "gog": "game/hand_of_fate",
    "howlongtobeat": "20740",
    "igdb": "hand-of-fate",
+   "metacritic": "hand-of-fate",
    "mobygames": "83713",
    "pcgamingwiki": "Hand_of_Fate",
    "steam": "266510"
@@ -302,7 +310,8 @@
   "enwiki": "Marvel's Iron Man VR",
   "ids": {
    "howlongtobeat": "65906",
-   "igdb": "marvels-iron-man-vr"
+   "igdb": "marvels-iron-man-vr",
+   "metacritic": "marvels-iron-man-vr"
   },
   "label_en": "Iron Man VR",
   "wikidata": "Q63049691"
@@ -325,6 +334,7 @@
   "ids": {
    "howlongtobeat": "13989",
    "igdb": "psychotoxic",
+   "metacritic": "psychotoxic",
    "mobygames": "20380",
    "pcgamingwiki": "Psychotoxic"
   },
@@ -336,6 +346,7 @@
   "ids": {
    "epic": "hyper-scape",
    "igdb": "hyper-scape",
+   "metacritic": "hyper-scape",
    "mobygames": "149227",
    "pcgamingwiki": "Hyper_Scape"
   },
@@ -347,6 +358,7 @@
   "ids": {
    "howlongtobeat": "74736",
    "igdb": "deadly-premonition-2-a-blessing-in-disguise",
+   "metacritic": "deadly-premonition-2-a-blessing-in-disguise",
    "mobygames": "134331",
    "pcgamingwiki": "Deadly_Premonition_2:_A_Blessing_in_Disguise",
    "steam": "1271100"
@@ -358,6 +370,16 @@
   "enwiki": "Tycoon: The Commodity Market Simulation",
   "label_en": "Tycoon: The Commodity Market Simulation",
   "wikidata": "Q104848691"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "72",
+   "igdb": "3d-ultra-minigolf-adventures-2",
+   "metacritic": "3d-ultra-minigolf-adventures-2",
+   "mobygames": "53716"
+  },
+  "label_en": "3D Ultra Minigolf Adventures 2",
+  "wikidata": "Q106620691"
  },
  {
   "ids": {
@@ -472,6 +494,7 @@
   "ids": {
    "howlongtobeat": "36829",
    "igdb": "dinocide",
+   "metacritic": "dinocide",
    "mobygames": "101728",
    "pcgamingwiki": "Dinocide",
    "steam": "423900"
@@ -488,6 +511,7 @@
   "ids": {
    "howlongtobeat": "111989",
    "igdb": "validate-struggling-singles-in-your-area",
+   "metacritic": "validate-struggling-singles-in-your-area",
    "mobygames": "193472",
    "steam": "1319850"
   },

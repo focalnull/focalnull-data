@@ -36,6 +36,7 @@
   "ids": {
    "howlongtobeat": "10800",
    "igdb": "uncharted-golden-abyss",
+   "metacritic": "uncharted-golden-abyss",
    "mobygames": "55429"
   },
   "label_en": "Uncharted: Golden Abyss",
@@ -72,6 +73,7 @@
   "ids": {
    "howlongtobeat": "10062",
    "igdb": "the-lord-of-the-rings-tactics",
+   "metacritic": "the-lord-of-the-rings-tactics",
    "mobygames": "21942"
   },
   "label_en": "The Lord of the Rings: Tactics",
@@ -81,6 +83,7 @@
   "enwiki": "Iron Aces",
   "ids": {
    "igdb": "iron-aces",
+   "metacritic": "iron-aces",
    "mobygames": "11366"
   },
   "label_en": "Iron Aces",
@@ -107,6 +110,7 @@
    "gog": "game/f19_stealth_fighter",
    "howlongtobeat": "26992",
    "igdb": "f-19-stealth-fighter",
+   "metacritic": "f-19-stealth-fighter",
    "mobygames": "512",
    "pcgamingwiki": "F-19_Stealth_Fighter",
    "steam": "347250"
@@ -202,6 +206,7 @@
   "enwiki": "Spyborgs",
   "ids": {
    "igdb": "spyborgs",
+   "metacritic": "spyborgs",
    "mobygames": "70201"
   },
   "label_en": "Spyborgs",
@@ -211,6 +216,7 @@
   "enwiki": "Test Drive: Off-Road Wide Open",
   "ids": {
    "igdb": "test-drive-off-road-wide-open",
+   "metacritic": "test-drive-off-road-wide-open",
    "mobygames": "11820"
   },
   "label_en": "Test Drive Off-Road Wide Open",
@@ -244,6 +250,7 @@
   "enwiki": "Murasaki Baby",
   "ids": {
    "igdb": "murasaki-baby",
+   "metacritic": "murasaki-baby",
    "mobygames": "68648"
   },
   "label_en": "Murasaki Baby",
@@ -262,6 +269,7 @@
   "ids": {
    "howlongtobeat": "38053",
    "igdb": "sea-of-thieves",
+   "metacritic": "sea-of-thieves",
    "mobygames": "106024",
    "pcgamingwiki": "Sea_of_Thieves",
    "steam": "1172620"
@@ -276,6 +284,7 @@
    "gog": "game/outlast_2",
    "howlongtobeat": "32537",
    "igdb": "outlast-ii",
+   "metacritic": "outlast-2",
    "mobygames": "87458",
    "pcgamingwiki": "Outlast_2",
    "steam": "414700"
@@ -287,6 +296,7 @@
   "ids": {
    "howlongtobeat": "44692",
    "igdb": "period-cube-shackles-of-amadeus",
+   "metacritic": "period-cube-shackles-of-amadeus",
    "mobygames": "87553"
   },
   "label_en": "Period: Cube - Shackles of Amadeus",
@@ -320,6 +330,7 @@
   "ids": {
    "howlongtobeat": "67832",
    "igdb": "new-world-aeternum--1",
+   "metacritic": "new-world",
    "mobygames": "172875",
    "pcgamingwiki": "New_World",
    "steam": "1063730"
@@ -354,6 +365,7 @@
   "ids": {
    "howlongtobeat": "75794",
    "igdb": "romance-of-the-three-kingdoms-xiv",
+   "metacritic": "romance-of-the-three-kingdoms-xiv",
    "mobygames": "139982",
    "pcgamingwiki": "Romance_of_the_Three_Kingdoms_XIV",
    "steam": "872410"
@@ -367,6 +379,7 @@
    "gog": "game/exit_the_gungeon",
    "howlongtobeat": "70703",
    "igdb": "exit-the-gungeon",
+   "metacritic": "exit-the-gungeon",
    "mobygames": "135324",
    "pcgamingwiki": "Exit_the_Gungeon",
    "steam": "1209490"
@@ -389,6 +402,7 @@
   "ids": {
    "howlongtobeat": "60596",
    "igdb": "exorder",
+   "metacritic": "exorder",
    "mobygames": "105579",
    "pcgamingwiki": "Exorder",
    "steam": "716770"
@@ -494,6 +508,7 @@
   "ids": {
    "howlongtobeat": "57225",
    "igdb": "freaky-awesome",
+   "metacritic": "freaky-awesome",
    "mobygames": "97277",
    "pcgamingwiki": "Freaky_Awesome",
    "steam": "622370"
@@ -507,6 +522,7 @@
    "epic": "immortals-of-aveum",
    "howlongtobeat": "118227",
    "igdb": "immortals-of-aveum",
+   "metacritic": "immortals-of-aveum",
    "mobygames": "207602",
    "pcgamingwiki": "Immortals_of_Aveum",
    "steam": "2009100"
@@ -520,6 +536,7 @@
    "gog": "game/peglin",
    "howlongtobeat": "106985",
    "igdb": "peglin",
+   "metacritic": "peglin",
    "mobygames": "186077",
    "pcgamingwiki": "Peglin",
    "steam": "1296610"
@@ -529,6 +546,7 @@
  },
  {
   "ids": {
+   "metacritic": "beach-fun-summer-challenge",
    "mobygames": "42332"
   },
   "label_en": "Beach Fun: Summer Challenge",
@@ -958,6 +976,7 @@
   "ids": {
    "howlongtobeat": "156982",
    "igdb": "starlight-re-volver",
+   "metacritic": "starlight-revolver",
    "steam": "3201010"
   },
   "label_en": "Starlight Re:Volver",
@@ -966,6 +985,7 @@
  {
   "ids": {
    "igdb": "grimmwood",
+   "metacritic": "grimmwood-they-come-at-night",
    "mobygames": "112015",
    "pcgamingwiki": "Grimmwood_-_They_Come_at_Night",
    "steam": "809280"
@@ -1296,6 +1316,7 @@
  {
   "ids": {
    "igdb": "brothel-master",
+   "pcgamingwiki": "Brothel_Master",
    "steam": "3892630"
   },
   "label_en": "Brothel Master",

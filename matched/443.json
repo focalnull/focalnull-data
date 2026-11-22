@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "8898",
    "igdb": "spec-ops-the-line",
+   "metacritic": "spec-ops-the-line",
    "mobygames": "56710",
    "pcgamingwiki": "Spec_Ops:_The_Line",
    "steam": "50300"
@@ -55,6 +56,7 @@
   "enwiki": "Kirby & the Amazing Mirror",
   "ids": {
    "igdb": "kirby-and-the-amazing-mirror",
+   "metacritic": "kirby-and-the-amazing-mirror",
    "mobygames": "20570"
   },
   "label_en": "Kirby & the Amazing Mirror",
@@ -244,6 +246,7 @@
    "gog": "game/aegis_defenders",
    "howlongtobeat": "20851",
    "igdb": "aegis-defenders",
+   "metacritic": "aegis-defenders",
    "mobygames": "101403",
    "pcgamingwiki": "Aegis_Defenders",
    "steam": "371140"
@@ -286,6 +289,7 @@
   "ids": {
    "howlongtobeat": "79775",
    "igdb": "horizon-forbidden-west",
+   "metacritic": "horizon-forbidden-west",
    "mobygames": "178917",
    "pcgamingwiki": "Horizon_Forbidden_West",
    "steam": "2420110"
@@ -404,6 +408,7 @@
    "gog": "game/roboquest",
    "howlongtobeat": "82817",
    "igdb": "roboquest",
+   "metacritic": "roboquest",
    "mobygames": "152539",
    "pcgamingwiki": "Roboquest",
    "steam": "692890"
@@ -427,6 +432,7 @@
   "ids": {
    "howlongtobeat": "124355",
    "igdb": "birth",
+   "metacritic": "birth",
    "mobygames": "200200",
    "steam": "1889040"
   },
@@ -721,6 +727,7 @@
   "ids": {
    "howlongtobeat": "62299",
    "igdb": "guts",
+   "metacritic": "guts",
    "mobygames": "98459",
    "pcgamingwiki": "GUTS",
    "steam": "682810"
@@ -773,6 +780,7 @@
  {
   "ids": {
    "igdb": "tour-de-france-2024",
+   "metacritic": "tour-de-france-2024",
    "mobygames": "225341",
    "steam": "2494340"
   },
@@ -783,6 +791,7 @@
   "ids": {
    "howlongtobeat": "151688",
    "igdb": "splodey",
+   "metacritic": "splodey",
    "pcgamingwiki": "Splodey",
    "steam": "2204170"
   },
@@ -837,6 +846,7 @@
    "epic": "lego-voyagers-9b1851",
    "howlongtobeat": "169261",
    "igdb": "lego-voyagers",
+   "metacritic": "lego-voyagers",
    "pcgamingwiki": "Lego_Voyagers",
    "steam": "1538550"
   },

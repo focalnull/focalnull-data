@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "24130",
    "igdb": "fifa-manager-11",
+   "metacritic": "fifa-manager-11",
    "mobygames": "51966",
    "pcgamingwiki": "FIFA_Manager_11"
   },
@@ -32,6 +33,7 @@
   "enwiki": "Batman: The Brave and the Bold – The Videogame",
   "ids": {
    "igdb": "batman-the-brave-and-the-bold-the-videogame",
+   "metacritic": "batman-the-brave-and-the-bold-the-videogame",
    "mobygames": "48328"
   },
   "label_en": "Batman: The Brave and the Bold – The Videogame",
@@ -64,6 +66,7 @@
   "enwiki": "The Lord of the Rings: War of the Ring",
   "ids": {
    "igdb": "the-lord-of-the-rings-war-of-the-ring",
+   "metacritic": "the-lord-of-the-rings-war-of-the-ring",
    "mobygames": "13011",
    "pcgamingwiki": "The_Lord_of_the_Rings:_War_of_the_Ring"
   },
@@ -105,6 +108,7 @@
   "enwiki": "Thunder Blade",
   "ids": {
    "igdb": "thunder-blade",
+   "metacritic": "thunder-blade",
    "mobygames": "15169",
    "pcgamingwiki": "Thunder_Blade"
   },
@@ -156,6 +160,7 @@
   "ids": {
    "howlongtobeat": "23976",
    "igdb": "dance-dance-revolution-hottest-party-3",
+   "metacritic": "dance-dance-revolution-hottest-party-3",
    "mobygames": "90700"
   },
   "label_en": "Dance Dance Revolution Hottest Party 3",
@@ -189,6 +194,7 @@
   "ids": {
    "howlongtobeat": "9218",
    "igdb": "storm-frontline-nation",
+   "metacritic": "storm-frontline-nation",
    "mobygames": "53019",
    "pcgamingwiki": "Storm:_Frontline_Nation",
    "steam": "98510"
@@ -200,6 +206,7 @@
   "enwiki": "The Secret Saturdays: Beasts of the 5th Sun",
   "ids": {
    "igdb": "the-secret-saturdays-beasts-of-the-5th-sun",
+   "metacritic": "the-secret-saturdays-beasts-of-the-5th-sun",
    "mobygames": "90442"
   },
   "label_en": "The Secret Saturdays: Beasts of the 5th Sun",
@@ -243,6 +250,7 @@
    "gog": "game/transistor",
    "howlongtobeat": "17617",
    "igdb": "transistor",
+   "metacritic": "transistor",
    "mobygames": "65869",
    "pcgamingwiki": "Transistor",
    "steam": "237930"
@@ -254,6 +262,7 @@
   "enwiki": "Puzzlegeddon",
   "ids": {
    "igdb": "puzzlegeddon",
+   "metacritic": "puzzlegeddon",
    "mobygames": "39215"
   },
   "label_en": "Puzzlegeddon",
@@ -282,6 +291,7 @@
   "enwiki": "Survivor: The Interactive Game",
   "ids": {
    "igdb": "survivor-the-interactive-game",
+   "metacritic": "survivor-2001",
    "mobygames": "5696",
    "pcgamingwiki": "Survivor:_The_Interactive_Game"
   },
@@ -293,6 +303,7 @@
   "ids": {
    "howlongtobeat": "38731",
    "igdb": "push-me-pull-you",
+   "metacritic": "push-me-pull-you",
    "mobygames": "87000",
    "pcgamingwiki": "Push_Me_Pull_You",
    "steam": "362380"
@@ -332,6 +343,7 @@
   "ids": {
    "howlongtobeat": "6363",
    "igdb": "nancy-drew-secrets-can-kill-remastered",
+   "metacritic": "nancy-drew-secrets-can-kill-remastered",
    "mobygames": "49293",
    "pcgamingwiki": "Nancy_Drew:_Secrets_Can_Kill_Remastered",
    "steam": "42210"
@@ -343,6 +355,7 @@
   "ids": {
    "howlongtobeat": "18127",
    "igdb": "platformines",
+   "metacritic": "platformines",
    "mobygames": "84341",
    "pcgamingwiki": "Platformines",
    "steam": "264540"
@@ -356,6 +369,7 @@
    "epic": "tony-hawks-pro-skater-1-and-2",
    "howlongtobeat": "78213",
    "igdb": "tony-hawks-pro-skater-1-plus-2",
+   "metacritic": "tony-hawks-pro-skater-1-plus-2",
    "mobygames": "150140",
    "pcgamingwiki": "Tony_Hawk's_Pro_Skater_1_+_2",
    "steam": "2395210"
@@ -367,6 +381,7 @@
   "ids": {
    "howlongtobeat": "71587",
    "igdb": "super-monkey-ball-banana-blitz-hd",
+   "metacritic": "super-monkey-ball-banana-blitz-hd",
    "mobygames": "136642",
    "pcgamingwiki": "Super_Monkey_Ball:_Banana_Blitz_HD",
    "steam": "1061730"
@@ -393,6 +408,7 @@
   "ids": {
    "howlongtobeat": "74293",
    "igdb": "lightmatter",
+   "metacritic": "lightmatter",
    "mobygames": "140565",
    "pcgamingwiki": "Lightmatter",
    "steam": "994140"
@@ -404,6 +420,7 @@
   "ids": {
    "howlongtobeat": "52275",
    "igdb": "fields-of-battle",
+   "metacritic": "fields-of-battle",
    "pcgamingwiki": "Fields_of_Battle",
    "steam": "370800"
   },
@@ -422,6 +439,7 @@
   "ids": {
    "howlongtobeat": "65302",
    "igdb": "dead-or-school",
+   "metacritic": "dead-or-school",
    "mobygames": "111416",
    "pcgamingwiki": "Dead_or_School",
    "steam": "789760"
@@ -433,6 +451,7 @@
   "ids": {
    "howlongtobeat": "44913",
    "igdb": "zup-zero",
+   "metacritic": "zup-zero",
    "mobygames": "86558",
    "pcgamingwiki": "Zup!_Zero",
    "steam": "610360"
@@ -483,6 +502,7 @@
    "gog": "game/source_of_madness",
    "howlongtobeat": "88779",
    "igdb": "source-of-madness",
+   "metacritic": "source-of-madness",
    "mobygames": "172558",
    "pcgamingwiki": "Source_of_Madness",
    "steam": "1315610"
@@ -516,6 +536,7 @@
    "gog": "game/atlas_fallen",
    "howlongtobeat": "112665",
    "igdb": "atlas-fallen",
+   "metacritic": "atlas-fallen",
    "mobygames": "207078",
    "pcgamingwiki": "Atlas_Fallen",
    "steam": "1230530"
@@ -547,7 +568,8 @@
  {
   "ids": {
    "howlongtobeat": "98583",
-   "igdb": "toy-stunt-bike"
+   "igdb": "toy-stunt-bike",
+   "metacritic": "toy-stunt-bike"
   },
   "label_en": "Toy Stunt Bike",
   "wikidata": "Q116785084"
@@ -566,6 +588,7 @@
   "ids": {
    "howlongtobeat": "23544",
    "igdb": "ghost-blade-hd",
+   "metacritic": "ghost-blade-hd",
    "mobygames": "84427",
    "pcgamingwiki": "Ghost_Blade_HD",
    "steam": "577910"
@@ -725,6 +748,7 @@
   "ids": {
    "howlongtobeat": "69388",
    "igdb": "songbird-symphony",
+   "metacritic": "songbird-symphony",
    "mobygames": "130494",
    "pcgamingwiki": "Songbird_Symphony",
    "steam": "909820"
@@ -975,6 +999,7 @@
   "ids": {
    "howlongtobeat": "64930",
    "igdb": "petite-zombies",
+   "metacritic": "petite-zombies",
    "mobygames": "114903"
   },
   "label_en": "Petite Zombies",
@@ -1324,6 +1349,7 @@
  {
   "ids": {
    "igdb": "journey-to-the-center-of-the-earth",
+   "pcgamingwiki": "Journey_to_the_Center_of_the_Earth_(2015)",
    "steam": "382120"
   },
   "label_en": "Journey To The Center Of The Earth",

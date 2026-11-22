@@ -31,6 +31,7 @@
   "ids": {
    "howlongtobeat": "3630",
    "igdb": "football-manager-2012",
+   "metacritic": "football-manager-2012",
    "mobygames": "57355",
    "pcgamingwiki": "Football_Manager_2012",
    "steam": "71270"
@@ -68,6 +69,7 @@
   "enwiki": "Rainbow Cotton",
   "ids": {
    "igdb": "rainbow-cotton",
+   "metacritic": "rainbow-cotton-remaster",
    "mobygames": "24558",
    "pcgamingwiki": "Rainbow_Cotton",
    "steam": "2729600"
@@ -80,6 +82,7 @@
   "ids": {
    "howlongtobeat": "7921",
    "igdb": "rocket-knight",
+   "metacritic": "rocket-knight",
    "mobygames": "46520",
    "pcgamingwiki": "Rocket_Knight",
    "steam": "19030"
@@ -128,7 +131,8 @@
  {
   "enwiki": "PDC World Championship Darts 2009",
   "ids": {
-   "igdb": "pdc-world-championship-darts-2009"
+   "igdb": "pdc-world-championship-darts-2009",
+   "metacritic": "pdc-world-championship-darts-2009"
   },
   "label_en": "PDC World Championship Darts 2009",
   "wikidata": "Q7118772"
@@ -147,6 +151,7 @@
   "ids": {
    "gog": "game/strategic_command_european_theater",
    "igdb": "strategic-command-european-theater",
+   "metacritic": "strategic-command-european-theater",
    "mobygames": "16357",
    "pcgamingwiki": "Strategic_Command:_European_Theater"
   },
@@ -168,6 +173,7 @@
    "gog": "game/wizards_warriors",
    "howlongtobeat": "11242",
    "igdb": "wizards-and-warriors--1",
+   "metacritic": "wizards-and-warriors",
    "mobygames": "2828",
    "pcgamingwiki": "Wizards_&_Warriors"
   },
@@ -177,7 +183,8 @@
  {
   "enwiki": "Zombie Wranglers",
   "ids": {
-   "igdb": "zombie-wranglers"
+   "igdb": "zombie-wranglers",
+   "metacritic": "zombie-wranglers"
   },
   "label_en": "Zombie Wranglers",
   "wikidata": "Q8073772"
@@ -255,6 +262,7 @@
   "ids": {
    "howlongtobeat": "24074",
    "igdb": "the-next-penelope",
+   "metacritic": "the-next-penelope",
    "mobygames": "72095",
    "pcgamingwiki": "The_Next_Penelope",
    "steam": "332250"
@@ -294,6 +302,7 @@
   "ids": {
    "howlongtobeat": "60897",
    "igdb": "fruit-couple",
+   "metacritic": "fruit-couple",
    "pcgamingwiki": "Fruit_couple",
    "steam": "891640"
   },
@@ -326,6 +335,7 @@
   "ids": {
    "howlongtobeat": "97310",
    "igdb": "call-of-duty-vanguard",
+   "metacritic": "call-of-duty-vanguard",
    "mobygames": "174847",
    "pcgamingwiki": "Call_of_Duty:_Vanguard",
    "steam": "1985820"
@@ -410,6 +420,7 @@
   "ids": {
    "howlongtobeat": "72799",
    "igdb": "rekt",
+   "metacritic": "rekt-high-octane-stunts",
    "pcgamingwiki": "REKT!",
    "steam": "1065320"
   },

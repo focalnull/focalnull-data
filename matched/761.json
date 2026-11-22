@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "871",
    "igdb": "baten-kaitos-eternal-wings-and-the-lost-ocean",
+   "metacritic": "baten-kaitos-eternal-wings-and-the-lost-ocean",
    "mobygames": "15685"
   },
   "label_en": "Baten Kaitos: Eternal Wings and the Lost Ocean",
@@ -53,6 +54,7 @@
   "enwiki": "WarioWare, Inc.: Mega Party Games!",
   "ids": {
    "igdb": "warioware-inc-dot-mega-party-games",
+   "metacritic": "warioware-inc-mega-party-game",
    "mobygames": "12246"
   },
   "label_en": "WarioWare, Inc.: Mega Party Games!",
@@ -63,6 +65,7 @@
   "ids": {
    "howlongtobeat": "10623",
    "igdb": "trauma-center-under-the-knife",
+   "metacritic": "trauma-center-under-the-knife",
    "mobygames": "20582"
   },
   "label_en": "Trauma Center: Under the Knife",
@@ -127,6 +130,7 @@
    "gog": "game/wizardry_labyrinth_of_lost_souls",
    "howlongtobeat": "11238",
    "igdb": "wizardry-labyrinth-of-lost-souls",
+   "metacritic": "wizardry-labyrinth-of-lost-souls",
    "mobygames": "54719",
    "pcgamingwiki": "Wizardry:_Labyrinth_of_Lost_Souls",
    "steam": "948640"
@@ -155,6 +159,7 @@
   "ids": {
    "howlongtobeat": "24166",
    "igdb": "borderlands-the-handsome-collection",
+   "metacritic": "borderlands-the-handsome-collection",
    "mobygames": "73324"
   },
   "label_en": "Borderlands: The Handsome Collection",
@@ -164,6 +169,7 @@
   "enwiki": "BoxBoy! (video game)",
   "ids": {
    "igdb": "boxboy",
+   "metacritic": "boxboy",
    "mobygames": "86335"
   },
   "label_en": "BoxBoy!",
@@ -173,6 +179,7 @@
   "ids": {
    "howlongtobeat": "38103",
    "igdb": "n-dot-e-r-dot-o-nothing-ever-remains-obscure--1",
+   "metacritic": "nero-nothing-ever-remains-obscure",
    "mobygames": "81107",
    "pcgamingwiki": "N.E.R.O.:_Nothing_Ever_Remains_Obscure",
    "steam": "377480"
@@ -184,6 +191,7 @@
   "enwiki": "Wayward Sky",
   "ids": {
    "igdb": "wayward-sky",
+   "metacritic": "wayward-sky",
    "mobygames": "84920"
   },
   "label_en": "Wayward Sky",
@@ -239,6 +247,7 @@
    "gog": "game/warhammer_40000_mechanicus",
    "howlongtobeat": "62616",
    "igdb": "warhammer-40000-mechanicus",
+   "metacritic": "warhammer-40000-mechanicus",
    "mobygames": "116994",
    "pcgamingwiki": "Warhammer_40,000:_Mechanicus",
    "steam": "673880"
@@ -296,6 +305,7 @@
   "ids": {
    "howlongtobeat": "109489",
    "igdb": "mxgp-2021",
+   "metacritic": "mxgp-2021-the-official-motocross-videogame",
    "mobygames": "176187",
    "steam": "1610470"
   },
@@ -364,6 +374,7 @@
   "ids": {
    "howlongtobeat": "66306",
    "igdb": "mars-or-die",
+   "metacritic": "mars-or-die",
    "mobygames": "120354",
    "pcgamingwiki": "Mars_or_Die!",
    "steam": "859440"
@@ -377,7 +388,9 @@
    "gog": "game/anger_foot",
    "howlongtobeat": "91722",
    "igdb": "anger-foot",
+   "metacritic": "anger-foot",
    "mobygames": "160263",
+   "pcgamingwiki": "Anger_Foot",
    "steam": "1978590"
   },
   "label_en": "Anger Foot",
@@ -403,6 +416,7 @@
    "gog": "game/bo_path_of_the_teal_lotus",
    "howlongtobeat": "111259",
    "igdb": "bo-path-of-the-teal-lotus",
+   "metacritic": "bo-path-of-the-teal-lotus",
    "mobygames": "227793",
    "pcgamingwiki": "Bō:_Path_of_the_Teal_Lotus",
    "steam": "1614440"
@@ -529,6 +543,7 @@
    "howlongtobeat": "90227",
    "igdb": "pureya",
    "mobygames": "169701",
+   "pcgamingwiki": "Pureya",
    "steam": "1268960"
   },
   "label_en": "pureya",
@@ -1195,6 +1210,7 @@
   "ids": {
    "igdb": "hentai-waifu-ii",
    "mobygames": "221565",
+   "pcgamingwiki": "Hentai_Waifu_II",
    "steam": "1085640"
   },
   "label_en": "Hentai Waifu II",

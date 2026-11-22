@@ -54,6 +54,7 @@
    "gog": "game/the_next_big_thing",
    "howlongtobeat": "10113",
    "igdb": "the-next-big-thing",
+   "metacritic": "the-next-big-thing",
    "mobygames": "50293",
    "pcgamingwiki": "The_Next_Big_Thing",
    "steam": "58570"
@@ -65,6 +66,7 @@
   "enwiki": "Nights: Journey of Dreams",
   "ids": {
    "igdb": "nights-journey-of-dreams",
+   "metacritic": "nights-journey-of-dreams",
    "mobygames": "31744"
   },
   "label_en": "Nights: Journey of Dreams",
@@ -76,6 +78,7 @@
    "gog": "game/testament_of_sherlock_holmes_the",
    "howlongtobeat": "10227",
    "igdb": "the-testament-of-sherlock-holmes",
+   "metacritic": "the-testament-of-sherlock-holmes",
    "mobygames": "57921",
    "pcgamingwiki": "The_Testament_of_Sherlock_Holmes",
    "steam": "205650"
@@ -87,6 +90,7 @@
   "enwiki": "Baten Kaitos Origins",
   "ids": {
    "igdb": "baten-kaitos-origins",
+   "metacritic": "baten-kaitos-origins",
    "mobygames": "24608"
   },
   "label_en": "Baten Kaitos Origins",
@@ -132,6 +136,7 @@
   "ids": {
    "howlongtobeat": "5503",
    "igdb": "madden-nfl-2002",
+   "metacritic": "madden-nfl-2002",
    "mobygames": "5163"
   },
   "label_en": "Madden NFL 2002",
@@ -140,7 +145,8 @@
  {
   "enwiki": "Gary Grigsby's World at War",
   "ids": {
-   "igdb": "gary-grigsbys-world-at-war"
+   "igdb": "gary-grigsbys-world-at-war",
+   "metacritic": "gary-grigsbys-world-at-war"
   },
   "label_en": "Gary Grigsby's World at War",
   "wikidata": "Q3758499"
@@ -149,6 +155,7 @@
   "ids": {
    "howlongtobeat": "65601",
    "igdb": "heaven-and-hell",
+   "metacritic": "heaven-and-hell-2003",
    "mobygames": "32493",
    "pcgamingwiki": "Heaven_and_Hell"
   },
@@ -161,6 +168,7 @@
    "gog": "game/nosferatu_wrath_of_malachi",
    "howlongtobeat": "12439",
    "igdb": "nosferatu-the-wrath-of-malachi",
+   "metacritic": "nosferatu-the-wrath-of-malachi",
    "mobygames": "12130",
    "pcgamingwiki": "Nosferatu:_The_Wrath_of_Malachi",
    "steam": "283290"
@@ -208,6 +216,7 @@
   "ids": {
    "howlongtobeat": "3234",
    "igdb": "every-extend-extra-extreme",
+   "metacritic": "every-extend-extra-extreme",
    "mobygames": "32340"
   },
   "label_en": "Every Extend Extra Extreme",
@@ -227,6 +236,7 @@
   "ids": {
    "howlongtobeat": "41033",
    "igdb": "cursed-castilla-ex",
+   "metacritic": "maldita-castilla-ex-cursed-castilla",
    "mobygames": "60388",
    "pcgamingwiki": "Cursed_Castilla_(Maldita_Castilla_EX)",
    "steam": "534290"
@@ -293,6 +303,7 @@
    "gog": "game/tokyo_42",
    "howlongtobeat": "40853",
    "igdb": "tokyo-42",
+   "metacritic": "tokyo-42",
    "mobygames": "89688",
    "pcgamingwiki": "Tokyo_42",
    "steam": "490450"
@@ -305,6 +316,7 @@
   "ids": {
    "howlongtobeat": "45957",
    "igdb": "old-mans-journey",
+   "metacritic": "old-mans-journey",
    "mobygames": "88823",
    "pcgamingwiki": "Old_Man's_Journey",
    "steam": "581270"
@@ -317,6 +329,7 @@
   "ids": {
    "howlongtobeat": "46912",
    "igdb": "futurama-worlds-of-tomorrow",
+   "metacritic": "futurama-worlds-of-tomorrow",
    "mobygames": "91756"
   },
   "label_en": "Futurama: Worlds of Tomorrow",
@@ -333,6 +346,7 @@
   "enwiki": "The Real Neverending Story Part 1: Auryn Quest",
   "ids": {
    "igdb": "auryn-quest",
+   "metacritic": "the-neverending-story-auryn-quest",
    "mobygames": "6345"
   },
   "label_en": "The Real Neverending Story Part 1: Auryn Quest",
@@ -372,6 +386,9 @@
   "wikidata": "Q65113499"
  },
  {
+  "ids": {
+   "metacritic": "animal-boyfriend"
+  },
   "label_en": "Animal Boyfriend",
   "wikidata": "Q69403499"
  },
@@ -424,6 +441,7 @@
    "gog": "game/broken_roads",
    "howlongtobeat": "72262",
    "igdb": "broken-roads",
+   "metacritic": "broken-roads",
    "mobygames": "221626",
    "pcgamingwiki": "Broken_Roads",
    "steam": "1403440"
@@ -484,6 +502,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-7",
+   "metacritic": "vacation-adventures-park-ranger-7",
    "steam": "1674510"
   },
   "label_en": "Vacation Adventures: Park Ranger 7",
@@ -527,6 +546,7 @@
    "howlongtobeat": "125092",
    "igdb": "norega",
    "mobygames": "167512",
+   "pcgamingwiki": "Norega",
    "steam": "1596380"
   },
   "label_en": "Norega",
@@ -608,6 +628,7 @@
   "ids": {
    "howlongtobeat": "32076",
    "igdb": "rbi-baseball-15",
+   "metacritic": "rbi-baseball-15",
    "mobygames": "86798",
    "pcgamingwiki": "R.B.I._Baseball_15",
    "steam": "329610"
@@ -791,6 +812,7 @@
   "ids": {
    "howlongtobeat": "95404",
    "igdb": "monster-energy-supercross-the-official-videogame-4",
+   "metacritic": "monster-energy-supercross-the-official-videogame-4",
    "mobygames": "160000",
    "pcgamingwiki": "Monster_Energy_Supercross_4",
    "steam": "1304340"
@@ -906,6 +928,7 @@
   "ids": {
    "howlongtobeat": "25992",
    "igdb": "harold",
+   "metacritic": "harold",
    "mobygames": "136264",
    "pcgamingwiki": "Harold",
    "steam": "338890"
@@ -1040,6 +1063,7 @@
    "epic": "jurassic-world-evolution-3-5017ec",
    "howlongtobeat": "169282",
    "igdb": "jurassic-world-evolution-3",
+   "metacritic": "jurassic-world-evolution-3",
    "mobygames": "249304",
    "pcgamingwiki": "Jurassic_World_Evolution_3",
    "steam": "2958130"

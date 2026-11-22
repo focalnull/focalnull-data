@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "4943",
    "igdb": "katawa-shoujo",
+   "metacritic": "katawa-shoujo",
    "mobygames": "60029",
    "pcgamingwiki": "Katawa_Shoujo",
    "steam": "3068300"
@@ -54,6 +55,7 @@
   "ids": {
    "howlongtobeat": "5639",
    "igdb": "mario-kart-super-circuit",
+   "metacritic": "mario-kart-super-circuit",
    "mobygames": "4941"
   },
   "label_en": "Mario Kart: Super Circuit",
@@ -112,6 +114,7 @@
   "ids": {
    "howlongtobeat": "125",
    "igdb": "a-farewell-to-dragons",
+   "metacritic": "a-farewell-to-dragons",
    "mobygames": "95542",
    "pcgamingwiki": "A_Farewell_to_Dragons"
   },
@@ -124,6 +127,7 @@
    "gog": "game/bittrip_void",
    "howlongtobeat": "1087",
    "igdb": "bit-dot-trip-void",
+   "metacritic": "bit-trip-void",
    "mobygames": "53032",
    "pcgamingwiki": "Bit.Trip_Void",
    "steam": "205070"
@@ -145,6 +149,7 @@
   "ids": {
    "howlongtobeat": "4996",
    "igdb": "kinect-party",
+   "metacritic": "kinect-party",
    "mobygames": "71125"
   },
   "label_en": "Kinect Party",
@@ -163,7 +168,8 @@
  {
   "enwiki": "Pimp My Ride (video game)",
   "ids": {
-   "igdb": "pimp-my-ride"
+   "igdb": "pimp-my-ride",
+   "metacritic": "pimp-my-ride"
   },
   "label_en": "Pimp My Ride",
   "wikidata": "Q7194675"
@@ -194,6 +200,7 @@
   "ids": {
    "howlongtobeat": "11744",
    "igdb": "tekken-revolution",
+   "metacritic": "tekken-revolution",
    "mobygames": "167890"
   },
   "label_en": "Tekken Revolution",
@@ -216,6 +223,7 @@
    "gog": "game/reus",
    "howlongtobeat": "7771",
    "igdb": "reus",
+   "metacritic": "reus",
    "mobygames": "60906",
    "pcgamingwiki": "Reus",
    "steam": "222730"
@@ -227,6 +235,7 @@
   "enwiki": "Rare Replay",
   "ids": {
    "igdb": "rare-replay",
+   "metacritic": "rare-replay",
    "mobygames": "74319"
   },
   "label_en": "Rare Replay",
@@ -346,6 +355,7 @@
   "ids": {
    "howlongtobeat": "53926",
    "igdb": "trivia-vault-mixed-trivia-2",
+   "metacritic": "trivia-vault-mixed-trivia-2",
    "mobygames": "221418",
    "pcgamingwiki": "Trivia_Vault:_Mixed_Trivia_2",
    "steam": "796900"
@@ -445,6 +455,7 @@
    "epic": "expeditions-a-mudrunner-game-e6bda2",
    "howlongtobeat": "134564",
    "igdb": "expeditions-a-mudrunner-game",
+   "metacritic": "expeditions-a-mudrunner-game",
    "mobygames": "218856",
    "pcgamingwiki": "Expeditions:_A_MudRunner_Game",
    "steam": "2477340"
@@ -510,6 +521,7 @@
    "gog": "game/the_making_of_karateka",
    "howlongtobeat": "131579",
    "igdb": "the-making-of-karateka",
+   "metacritic": "the-making-of-karateka",
    "mobygames": "208114",
    "pcgamingwiki": "The_Making_of_Karateka",
    "steam": "1163060"
@@ -1151,6 +1163,7 @@
  {
   "ids": {
    "igdb": "deep-in-the-forest",
+   "pcgamingwiki": "Deep,_In_the_Forest",
    "steam": "1188430"
   },
   "label_en": "Deep, In the  Forest",
@@ -1166,6 +1179,7 @@
  {
   "ids": {
    "igdb": "imprinted",
+   "pcgamingwiki": "Imprinted",
    "steam": "3980340"
   },
   "label_en": "Imprinted",

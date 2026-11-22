@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "9996",
    "igdb": "the-last-guy",
+   "metacritic": "the-last-guy",
    "mobygames": "38331"
   },
   "label_en": "The Last Guy",
@@ -22,6 +23,7 @@
   "enwiki": "Konami Krazy Racers",
   "ids": {
    "igdb": "konami-krazy-racers",
+   "metacritic": "konami-krazy-racers",
    "mobygames": "8093"
   },
   "label_en": "Konami Krazy Racers",
@@ -42,6 +44,7 @@
   "ids": {
    "howlongtobeat": "10076",
    "igdb": "the-lost-vikings",
+   "metacritic": "the-lost-vikings",
    "mobygames": "1547",
    "pcgamingwiki": "The_Lost_Vikings"
   },
@@ -63,6 +66,7 @@
   "ids": {
    "howlongtobeat": "262",
    "igdb": "agatha-christie-murder-on-the-orient-express",
+   "metacritic": "agatha-christie-murder-on-the-orient-express",
    "mobygames": "25472",
    "pcgamingwiki": "Agatha_Christie:_Murder_on_the_Orient_Express",
    "steam": "39620"
@@ -86,6 +90,7 @@
   "enwiki": "Super Mario Advance 2: Super Mario World",
   "ids": {
    "igdb": "super-mario-world-super-mario-advance-2",
+   "metacritic": "super-mario-world-super-mario-advance-2",
    "mobygames": "5899"
   },
   "label_en": "Super Mario World: Super Mario Advance 2",
@@ -103,6 +108,7 @@
   "enwiki": "Crosswords DS",
   "ids": {
    "igdb": "crosswords--1",
+   "metacritic": "crosswords",
    "mobygames": "34974"
   },
   "label_en": "Crosswords DS",
@@ -136,6 +142,7 @@
   "ids": {
    "howlongtobeat": "11831",
    "igdb": "mlb-06-the-show",
+   "metacritic": "mlb-06-the-show",
    "mobygames": "31287"
   },
   "label_en": "MLB 06: The Show",
@@ -266,6 +273,7 @@
   "ids": {
    "howlongtobeat": "22975",
    "igdb": "joe-devers-lone-wolf",
+   "metacritic": "joe-devers-lone-wolf-hd-remastered",
    "mobygames": "65059",
    "pcgamingwiki": "Joe_Dever's_Lone_Wolf_HD_Remastered",
    "steam": "279440"
@@ -301,6 +309,7 @@
    "gog": "game/pathfinder_kingmaker_explorer_edition",
    "howlongtobeat": "60050",
    "igdb": "pathfinder-kingmaker",
+   "metacritic": "pathfinder-kingmaker",
    "mobygames": "114198",
    "pcgamingwiki": "Pathfinder:_Kingmaker",
    "steam": "640820"
@@ -313,6 +322,7 @@
   "ids": {
    "howlongtobeat": "50789",
    "igdb": "valkyria-chronicles-4",
+   "metacritic": "valkyria-chronicles-4",
    "mobygames": "135690",
    "pcgamingwiki": "Valkyria_Chronicles_4",
    "steam": "790820"
@@ -334,6 +344,7 @@
    "gog": "game/double_kick_heroes",
    "howlongtobeat": "53061",
    "igdb": "double-kick-heroes",
+   "metacritic": "double-kick-heroes",
    "mobygames": "108498",
    "pcgamingwiki": "Double_Kick_Heroes",
    "steam": "589670"
@@ -347,6 +358,7 @@
    "gog": "game/dragon_star_varnir",
    "howlongtobeat": "68348",
    "igdb": "dragon-star-varnir",
+   "metacritic": "dragon-star-varnir",
    "mobygames": "128266",
    "pcgamingwiki": "Dragon_Star_Varnir",
    "steam": "1062040"
@@ -359,6 +371,7 @@
   "ids": {
    "howlongtobeat": "78887",
    "igdb": "cannibal-cuisine",
+   "metacritic": "cannibal-cuisine",
    "mobygames": "145597",
    "pcgamingwiki": "Cannibal_Cuisine",
    "steam": "1136020"
@@ -382,6 +395,7 @@
    "epic": "black-myth-wukong-87a72b",
    "howlongtobeat": "82089",
    "igdb": "black-myth-wukong",
+   "metacritic": "black-myth-wukong",
    "mobygames": "229348",
    "pcgamingwiki": "Black_Myth:_Wukong",
    "steam": "2358720"
@@ -396,6 +410,7 @@
    "gog": "game/partisans_1941",
    "howlongtobeat": "77676",
    "igdb": "partisans-1941",
+   "metacritic": "partisans-1941",
    "mobygames": "151097",
    "pcgamingwiki": "Partisans_1941",
    "steam": "1227530"
@@ -555,6 +570,7 @@
   "enwiki": "VeggieTales: LarryBoy and the Bad Apple (video game)",
   "ids": {
    "igdb": "veggietales-larryboy-and-the-bad-apple",
+   "metacritic": "larryboy-and-the-bad-apple",
    "mobygames": "28397"
   },
   "label_en": "VeggieTales: LarryBoy and the Bad Apple",
@@ -861,6 +877,7 @@
  {
   "ids": {
    "howlongtobeat": "59921",
+   "metacritic": "emergency-fighters-for-life",
    "mobygames": "107593",
    "steam": "757210"
   },
@@ -985,7 +1002,8 @@
  },
  {
   "ids": {
-   "igdb": "zombie-brigade-no-brain-no-gain"
+   "igdb": "zombie-brigade-no-brain-no-gain",
+   "metacritic": "zombie-brigade-no-brain-no-gain"
   },
   "label_en": "Zombie Brigade: No Brain No Gain",
   "wikidata": "Q128809386"

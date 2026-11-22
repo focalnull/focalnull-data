@@ -3,6 +3,7 @@
   "enwiki": "Star Wars: Episode II – Attack of the Clones (video game)",
   "ids": {
    "igdb": "star-wars-episode-ii-attack-of-the-clones",
+   "metacritic": "star-wars-episode-ii-attack-of-the-clones",
    "mobygames": "6560"
   },
   "label_en": "Star Wars: Episode II – Attack of the Clones",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "8985",
    "igdb": "spore",
+   "metacritic": "spore",
    "mobygames": "36030",
    "pcgamingwiki": "Spore",
    "steam": "17390"
@@ -67,6 +69,7 @@
   "enwiki": "Resistance 3",
   "ids": {
    "igdb": "resistance-3",
+   "metacritic": "resistance-3",
    "mobygames": "57365"
   },
   "label_en": "Resistance 3",
@@ -84,6 +87,7 @@
   "ids": {
    "howlongtobeat": "5388",
    "igdb": "lost-in-blue-2",
+   "metacritic": "lost-in-blue-2",
    "mobygames": "32836"
   },
   "label_en": "Lost in Blue 2",
@@ -122,6 +126,7 @@
   "enwiki": "Battle of the Bands (video game)",
   "ids": {
    "igdb": "battle-of-the-bands",
+   "metacritic": "battle-of-the-bands",
    "mobygames": "35871"
   },
   "label_en": "Battle of the Bands",
@@ -192,6 +197,7 @@
   "ids": {
    "howlongtobeat": "6570",
    "igdb": "nhl-2k8",
+   "metacritic": "nhl-2k8",
    "mobygames": "41395"
   },
   "label_en": "NHL 2K8",
@@ -223,6 +229,7 @@
    "gog": "game/conglomerate_451",
    "howlongtobeat": "70088",
    "igdb": "conglomerate-451",
+   "metacritic": "conglomerate-451",
    "mobygames": "142772",
    "pcgamingwiki": "Conglomerate_451",
    "steam": "1022710"
@@ -234,6 +241,7 @@
   "ids": {
    "howlongtobeat": "35876",
    "igdb": "kelvin-and-the-infamous-machine",
+   "metacritic": "kelvin-and-the-infamous-machine",
    "mobygames": "100734",
    "pcgamingwiki": "Kelvin_and_the_Infamous_Machine",
    "steam": "376520"
@@ -257,6 +265,7 @@
   "ids": {
    "howlongtobeat": "41543",
    "igdb": "unfortunate-spacemen",
+   "metacritic": "unfortunate-spacemen",
    "mobygames": "117364",
    "pcgamingwiki": "Unfortunate_Spacemen",
    "steam": "408900"
@@ -323,7 +332,9 @@
   "ids": {
    "howlongtobeat": "113537",
    "igdb": "meet-your-maker",
+   "metacritic": "meet-your-maker",
    "mobygames": "201351",
+   "pcgamingwiki": "Meet_Your_Maker",
    "steam": "1194810"
   },
   "label_en": "Meet Your Maker",
@@ -505,6 +516,7 @@
   "ids": {
    "howlongtobeat": "131366",
    "igdb": "unlife",
+   "metacritic": "unlife",
    "mobygames": "187888",
    "steam": "1464100"
   },
@@ -642,6 +654,7 @@
   "ids": {
    "howlongtobeat": "38078",
    "igdb": "aipd",
+   "metacritic": "aipd-artificial-intelligence-police-department",
    "pcgamingwiki": "AIPD_-_Artificial_Intelligence_Police_Department",
    "steam": "390930"
   },
@@ -731,6 +744,7 @@
   "ids": {
    "howlongtobeat": "15837",
    "igdb": "you-dont-know-jack-vol-3",
+   "metacritic": "you-dont-know-jack-volume-3",
    "mobygames": "1405",
    "pcgamingwiki": "You_Don't_Know_Jack:_Volume_3",
    "steam": "259960"
@@ -1147,7 +1161,8 @@
  },
  {
   "ids": {
-   "igdb": "picross-s-climax"
+   "igdb": "picross-s-climax",
+   "metacritic": "picross-s-climax"
   },
   "label_en": "Picross S Climax",
   "wikidata": "Q141493844"

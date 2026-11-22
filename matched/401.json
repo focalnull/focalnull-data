@@ -55,6 +55,7 @@
   "ids": {
    "howlongtobeat": "6708",
    "igdb": "odyssey-the-search-for-ulysses",
+   "metacritic": "odyssey-the-search-for-ulysses",
    "mobygames": "3181"
   },
   "label_en": "Odyssey: The Search for Ulysses",
@@ -79,6 +80,7 @@
    "gog": "game/the_witcher_3_wild_hunt",
    "howlongtobeat": "10270",
    "igdb": "the-witcher-3-wild-hunt",
+   "metacritic": "the-witcher-3-wild-hunt",
    "mobygames": "73001",
    "pcgamingwiki": "The_Witcher_3:_Wild_Hunt",
    "steam": "292030"
@@ -111,7 +113,8 @@
  {
   "enwiki": "Kenka Bancho: Badass Rumble",
   "ids": {
-   "igdb": "kenka-bancho-badass-rumble"
+   "igdb": "kenka-bancho-badass-rumble",
+   "metacritic": "kenka-bancho-badass-rumble"
   },
   "label_en": "Kenka Bancho: Badass Rumble",
   "wikidata": "Q6389401"
@@ -148,6 +151,9 @@
  },
  {
   "enwiki": "Kingdom Hearts Re:coded",
+  "ids": {
+   "metacritic": "kingdom-hearts-re-coded"
+  },
   "label_en": "Kingdom Hearts Re:coded",
   "wikidata": "Q10314401"
  },
@@ -189,7 +195,9 @@
   "enwiki": "Cryptozookeeper",
   "ids": {
    "igdb": "cryptozookeeper",
+   "metacritic": "cryptozookeeper",
    "mobygames": "52380",
+   "pcgamingwiki": "Cryptozookeeper",
    "steam": "868910"
   },
   "label_en": "Cryptozookeeper",
@@ -199,6 +207,7 @@
   "enwiki": "Metroid Prime: Federation Force",
   "ids": {
    "igdb": "metroid-prime-federation-force",
+   "metacritic": "metroid-prime-federation-force",
    "mobygames": "84851"
   },
   "label_en": "Metroid Prime: Federation Force",
@@ -247,7 +256,8 @@
   "enwiki": "Nickelodeon Kart Racers",
   "ids": {
    "howlongtobeat": "66517",
-   "igdb": "nickelodeon-kart-racers"
+   "igdb": "nickelodeon-kart-racers",
+   "metacritic": "nickelodeon-kart-racers"
   },
   "label_en": "Nickelodeon Kart Racers",
   "wikidata": "Q56275401"
@@ -256,6 +266,7 @@
   "ids": {
    "howlongtobeat": "49051",
    "igdb": "chicken-wiggle",
+   "metacritic": "chicken-wiggle",
    "mobygames": "94601"
   },
   "label_en": "Chicken Wiggle",
@@ -267,6 +278,7 @@
    "epic": "gods-and-monsters",
    "howlongtobeat": "68236",
    "igdb": "immortals-fenyx-rising",
+   "metacritic": "immortals-fenyx-rising",
    "pcgamingwiki": "Immortals_Fenyx_Rising",
    "steam": "2221920"
   },
@@ -283,6 +295,7 @@
  {
   "ids": {
    "igdb": "yapp2-yet-another-pushing-puzzler-2",
+   "metacritic": "yet-another-pushing-puzzler",
    "mobygames": "187631",
    "pcgamingwiki": "YAPP2:_Yet_Another_Pushing_Puzzler",
    "steam": "853410"

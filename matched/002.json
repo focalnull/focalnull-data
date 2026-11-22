@@ -21,6 +21,7 @@
    "gog": "game/riven_the_sequel_to_myst",
    "howlongtobeat": "7853",
    "igdb": "riven-the-sequel-to-myst",
+   "metacritic": "riven-the-sequel-to-myst",
    "mobygames": "1262",
    "pcgamingwiki": "Riven",
    "steam": "63610"
@@ -32,6 +33,7 @@
   "enwiki": "Pokémon Colosseum",
   "ids": {
    "igdb": "pokemon-colosseum",
+   "metacritic": "pokemon-colosseum",
    "mobygames": "13261"
   },
   "label_en": "Pokémon Colosseum",
@@ -132,6 +134,7 @@
   "enwiki": "Shaun White Snowboarding: World Stage",
   "ids": {
    "igdb": "shaun-white-snowboarding-world-stage",
+   "metacritic": "shaun-white-snowboarding-world-stage",
    "mobygames": "43350"
   },
   "label_en": "Shaun White Snowboarding: World Stage",
@@ -203,6 +206,7 @@
   "ids": {
    "howlongtobeat": "56984",
    "igdb": "motogp-17",
+   "metacritic": "motogp-17",
    "mobygames": "90803",
    "pcgamingwiki": "MotoGP_17",
    "steam": "561610"
@@ -221,6 +225,7 @@
   "ids": {
    "howlongtobeat": "52497",
    "igdb": "secret-of-mana--1",
+   "metacritic": "secret-of-mana",
    "mobygames": "99334",
    "pcgamingwiki": "Secret_of_Mana",
    "steam": "637670"
@@ -232,6 +237,7 @@
   "ids": {
    "howlongtobeat": "40389",
    "igdb": "fidel-dungeon-rescue",
+   "metacritic": "fidel-dungeon-rescue",
    "mobygames": "93765",
    "pcgamingwiki": "Fidel_Dungeon_Rescue",
    "steam": "573170"
@@ -245,6 +251,7 @@
    "epic": "thecycle",
    "howlongtobeat": "68002",
    "igdb": "the-cycle",
+   "metacritic": "the-cycle",
    "mobygames": "133292",
    "pcgamingwiki": "The_Cycle",
    "steam": "868270"
@@ -257,6 +264,7 @@
   "ids": {
    "howlongtobeat": "64530",
    "igdb": "generation-zero",
+   "metacritic": "generation-zero",
    "mobygames": "124073",
    "pcgamingwiki": "Generation_Zero",
    "steam": "704270"
@@ -269,6 +277,7 @@
    "gog": "game/neurovoider",
    "howlongtobeat": "31267",
    "igdb": "neurovoider",
+   "metacritic": "neurovoider",
    "mobygames": "85317",
    "pcgamingwiki": "NeuroVoider",
    "steam": "400450"
@@ -293,6 +302,7 @@
   "ids": {
    "howlongtobeat": "25229",
    "igdb": "the-deer-god",
+   "metacritic": "the-deer-god",
    "mobygames": "75535",
    "pcgamingwiki": "The_Deer_God",
    "steam": "328940"
@@ -310,7 +320,8 @@
  {
   "ids": {
    "howlongtobeat": "62720",
-   "igdb": "eloh"
+   "igdb": "eloh",
+   "metacritic": "eloh"
   },
   "label_en": "Eloh",
   "wikidata": "Q80124002"
@@ -323,6 +334,7 @@
   "ids": {
    "howlongtobeat": "63208",
    "igdb": "last-encounter",
+   "metacritic": "last-encounter",
    "mobygames": "142312",
    "pcgamingwiki": "Last_Encounter",
    "steam": "719800"
@@ -432,6 +444,7 @@
   "ids": {
    "howlongtobeat": "9992",
    "igdb": "the-last-blade-beyond-the-destiny",
+   "metacritic": "the-last-blade-beyond-the-destiny",
    "mobygames": "25269"
   },
   "label_en": "The Last Blade: Beyond the Destiny",

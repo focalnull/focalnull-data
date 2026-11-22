@@ -43,6 +43,7 @@
   "enwiki": "Neo Contra",
   "ids": {
    "igdb": "neo-contra",
+   "metacritic": "neo-contra",
    "mobygames": "18076"
   },
   "label_en": "Neo Contra",
@@ -71,6 +72,7 @@
    "gog": "game/rage_of_mages",
    "howlongtobeat": "7527",
    "igdb": "rage-of-mages",
+   "metacritic": "rage-of-mages",
    "mobygames": "743",
    "pcgamingwiki": "Rage_of_Mages"
   },
@@ -111,6 +113,7 @@
   "enwiki": "Bad Boys: Miami Takedown",
   "ids": {
    "igdb": "bad-boys-miami-takedown",
+   "metacritic": "bad-boys-miami-takedown",
    "mobygames": "27995",
    "pcgamingwiki": "Bad_Boys:_Miami_Takedown"
   },
@@ -129,6 +132,7 @@
   "enwiki": "Disney Sports Skateboarding",
   "ids": {
    "igdb": "disney-sports-skateboarding",
+   "metacritic": "disney-sports-skateboarding",
    "mobygames": "23609"
   },
   "label_en": "Disney Sports Skateboarding",
@@ -146,6 +150,7 @@
   "enwiki": "NASCAR Heat 2002",
   "ids": {
    "igdb": "nascar-heat-2002",
+   "metacritic": "nascar-heat-2002",
    "mobygames": "13389"
   },
   "label_en": "NASCAR Heat 2002",
@@ -171,6 +176,7 @@
   "enwiki": "Grandia (video game)",
   "ids": {
    "igdb": "grandia",
+   "metacritic": "grandia",
    "mobygames": "5751",
    "pcgamingwiki": "Grandia_HD_Remaster"
   },
@@ -202,6 +208,7 @@
   "ids": {
    "howlongtobeat": "14524",
    "igdb": "type-rider",
+   "metacritic": "typerider",
    "mobygames": "65131",
    "pcgamingwiki": "Type：Rider",
    "steam": "258890"
@@ -214,6 +221,7 @@
   "ids": {
    "howlongtobeat": "20941",
    "igdb": "wrack",
+   "metacritic": "wrack",
    "mobygames": "71002",
    "pcgamingwiki": "Wrack",
    "steam": "253610"
@@ -226,6 +234,7 @@
   "ids": {
    "howlongtobeat": "14370",
    "igdb": "blood-of-the-werewolf",
+   "metacritic": "blood-of-the-werewolf",
    "mobygames": "70751",
    "pcgamingwiki": "Blood_of_the_Werewolf",
    "steam": "260250"
@@ -237,6 +246,7 @@
   "enwiki": "Superbeat: Xonic",
   "ids": {
    "igdb": "superbeat-xonic",
+   "metacritic": "superbeat-xonic",
    "mobygames": "78094"
   },
   "label_en": "Superbeat: Xonic",
@@ -253,6 +263,7 @@
    "gog": "game/ape_out",
    "howlongtobeat": "56938",
    "igdb": "ape-out",
+   "metacritic": "ape-out",
    "mobygames": "119018",
    "pcgamingwiki": "Ape_Out",
    "steam": "447150"
@@ -292,6 +303,7 @@
    "gog": "game/cris_tales",
    "howlongtobeat": "68209",
    "igdb": "cris-tales",
+   "metacritic": "cris-tales",
    "mobygames": "168002",
    "pcgamingwiki": "Cris_Tales",
    "steam": "1079830"
@@ -306,6 +318,7 @@
    "gog": "game/suzerain",
    "howlongtobeat": "83906",
    "igdb": "suzerain",
+   "metacritic": "suzerain",
    "mobygames": "155093",
    "pcgamingwiki": "Suzerain",
    "steam": "1207650"
@@ -367,6 +380,7 @@
    "gog": "game/jay_and_silent_bob_mall_brawl",
    "howlongtobeat": "77919",
    "igdb": "jay-and-silent-bob-mall-brawl",
+   "metacritic": "jay-and-silent-bob-mall-brawl",
    "mobygames": "145287",
    "pcgamingwiki": "Jay_and_Silent_Bob:_Mall_Brawl",
    "steam": "1087440"
@@ -405,6 +419,7 @@
  {
   "ids": {
    "igdb": "nervbox",
+   "metacritic": "nervbox",
    "steam": "2168200"
   },
   "label_en": "NervBox",
@@ -783,6 +798,7 @@
  {
   "ids": {
    "igdb": "double-breakout",
+   "metacritic": "double-breakout",
    "mobygames": "85437"
   },
   "label_en": "Double Breakout",
@@ -791,6 +807,7 @@
  {
   "ids": {
    "igdb": "bonfire-and-tail",
+   "metacritic": "bonfire-and-tail",
    "steam": "2249700"
   },
   "label_en": "Bonfire And Tail",
@@ -800,6 +817,7 @@
   "ids": {
    "howlongtobeat": "154482",
    "igdb": "feather-party",
+   "metacritic": "feather-party",
    "steam": "2300230"
   },
   "label_en": "Feather Party",
@@ -859,6 +877,7 @@
    "gog": "game/iron_meat",
    "howlongtobeat": "129742",
    "igdb": "iron-meat",
+   "metacritic": "iron-meat",
    "mobygames": "230591",
    "pcgamingwiki": "Iron_Meat",
    "steam": "1157740"
@@ -870,6 +889,7 @@
   "enwiki": "Violent Horror Stories: anthology",
   "ids": {
    "igdb": "violent-horror-stories-anthology",
+   "metacritic": "violent-horror-stories-anthology",
    "steam": "3080380"
   },
   "label_en": "Violent Horror Stories: anthology",
@@ -895,6 +915,7 @@
   "ids": {
    "howlongtobeat": "166252",
    "igdb": "donkey-kong-bananza",
+   "metacritic": "donkey-kong-bananza",
    "mobygames": "245083"
   },
   "label_en": "Donkey Kong Bananza",

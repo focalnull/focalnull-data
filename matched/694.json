@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "6411",
    "igdb": "naruto-uzumaki-chronicles",
+   "metacritic": "naruto-uzumaki-chronicles",
    "mobygames": "26601"
   },
   "label_en": "Naruto: Uzumaki Chronicles",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "8599",
    "igdb": "skate-3",
+   "metacritic": "skate-3",
    "mobygames": "78792"
   },
   "label_en": "Skate 3",
@@ -33,6 +35,7 @@
   "ids": {
    "howlongtobeat": "1919",
    "igdb": "contra-shattered-soldier",
+   "metacritic": "contra-shattered-soldier",
    "mobygames": "7627"
   },
   "label_en": "Contra: Shattered Soldier",
@@ -88,6 +91,7 @@
   "enwiki": "Monster Hunter Freedom",
   "ids": {
    "igdb": "monster-hunter-freedom",
+   "metacritic": "monster-hunter-freedom",
    "mobygames": "26279"
   },
   "label_en": "Monster Hunter Freedom",
@@ -132,6 +136,7 @@
   "ids": {
    "howlongtobeat": "21675",
    "igdb": "below",
+   "metacritic": "below",
    "mobygames": "118847",
    "pcgamingwiki": "Below",
    "steam": "250680"
@@ -174,6 +179,7 @@
    "gog": "game/iratus_lord_of_the_dead",
    "howlongtobeat": "69397",
    "igdb": "iratus-lord-of-the-dead",
+   "metacritic": "iratus-lord-of-the-dead",
    "mobygames": "130487",
    "pcgamingwiki": "Iratus:_Lord_of_the_Dead",
    "steam": "807120"
@@ -262,6 +268,7 @@
    "howlongtobeat": "90050",
    "igdb": "barro-racing",
    "mobygames": "186076",
+   "pcgamingwiki": "Barro_Racing",
    "steam": "1307090"
   },
   "label_en": "Barro Racing",
@@ -482,6 +489,7 @@
    "gog": "game/drug_dealer_simulator",
    "howlongtobeat": "77279",
    "igdb": "drug-dealer-simulator",
+   "metacritic": "drug-dealer-simulator",
    "mobygames": "144538",
    "pcgamingwiki": "Drug_Dealer_Simulator",
    "steam": "682990"
@@ -537,6 +545,7 @@
   "ids": {
    "howlongtobeat": "58025",
    "igdb": "distortions",
+   "metacritic": "distortions",
    "mobygames": "154368",
    "pcgamingwiki": "Distortions",
    "steam": "772500"
@@ -560,6 +569,7 @@
   "ids": {
    "howlongtobeat": "138190",
    "igdb": "shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island",
+   "metacritic": "shiren-the-wanderer-the-mystery-dungeon-of",
    "pcgamingwiki": "Shiren_the_Wanderer:_The_Mystery_Dungeon_of_Serpentcoil_Island",
    "steam": "2178480"
   },
@@ -1092,6 +1102,7 @@
  {
   "enwiki": "Daba: Land of Water Scar",
   "ids": {
+   "pcgamingwiki": "Daba_Land_of_Water_Scar",
    "steam": "4810160"
   },
   "label_en": "Daba: Land of Water Scar",

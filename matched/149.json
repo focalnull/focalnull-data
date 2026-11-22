@@ -36,6 +36,7 @@
   "enwiki": "WWE WrestleMania XIX (video game)",
   "ids": {
    "igdb": "wwe-wrestlemania-xix",
+   "metacritic": "wwe-wrestlemania-xix",
    "mobygames": "16893"
   },
   "label_en": "WWE WrestleMania XIX",
@@ -52,7 +53,8 @@
  },
  {
   "ids": {
-   "igdb": "naruto-shippuden-dragon-blade-chronicles"
+   "igdb": "naruto-shippuden-dragon-blade-chronicles",
+   "metacritic": "naruto-shippuden-dragon-blade-chronicles"
   },
   "label_en": "Naruto Shippūden: Dragon Blade Chronicles",
   "wikidata": "Q3336149"
@@ -62,6 +64,7 @@
   "ids": {
    "howlongtobeat": "11898",
    "igdb": "star-trek-d-a-c",
+   "metacritic": "star-trek-d-a-c",
    "mobygames": "43526",
    "pcgamingwiki": "Star_Trek_DAC",
    "steam": "4320"
@@ -85,6 +88,7 @@
    "gog": "game/aim_2_clan_wars",
    "howlongtobeat": "19899",
    "igdb": "a-dot-i-m-dot-2-clan-wars",
+   "metacritic": "aim-2-clan-wars",
    "mobygames": "36203",
    "pcgamingwiki": "A.I.M._2:_Clan_Wars",
    "steam": "289180"
@@ -96,6 +100,7 @@
   "enwiki": "American Bass Challenge",
   "ids": {
    "igdb": "american-bass-challenge",
+   "metacritic": "american-bass-challenge",
    "mobygames": "40628"
   },
   "label_en": "American Bass Challenge",
@@ -125,6 +130,7 @@
   "enwiki": "Mahjong Cub3d",
   "ids": {
    "igdb": "mahjong-cub3d",
+   "metacritic": "mahjong-cub3d",
    "mobygames": "55100"
   },
   "label_en": "Mahjong Cub3d",
@@ -161,6 +167,7 @@
   "enwiki": "Rugby 2005",
   "ids": {
    "igdb": "rugby-2005",
+   "metacritic": "rugby-2005",
    "mobygames": "17022",
    "pcgamingwiki": "Rugby_2005"
   },
@@ -194,6 +201,7 @@
  },
  {
   "ids": {
+   "metacritic": "god-of-war-origins-collection",
    "mobygames": "53203"
   },
   "label_en": "God of War: Origins Collection",
@@ -224,6 +232,7 @@
    "gog": "game/nine_parchments",
    "howlongtobeat": "51393",
    "igdb": "nine-parchments",
+   "metacritic": "nine-parchments",
    "mobygames": "99061",
    "pcgamingwiki": "Nine_Parchments",
    "steam": "471550"
@@ -269,6 +278,7 @@
   "ids": {
    "howlongtobeat": "37730",
    "igdb": "aqua-panic",
+   "metacritic": "aqua-panic",
    "mobygames": "34576",
    "pcgamingwiki": "Aqua_Panic!",
    "steam": "340700"
@@ -292,6 +302,7 @@
   "ids": {
    "howlongtobeat": "58428",
    "igdb": "creativedestruction",
+   "metacritic": "creative-destruction",
    "mobygames": "112090",
    "pcgamingwiki": "Creative_Destruction",
    "steam": "893520"
@@ -304,6 +315,7 @@
    "epic": "adams-venture-origins-d4d541",
    "howlongtobeat": "36461",
    "igdb": "adams-venture-origins",
+   "metacritic": "adams-venture-origins",
    "mobygames": "81386",
    "pcgamingwiki": "Adam's_Venture:_Origins",
    "steam": "400360"
@@ -363,7 +375,8 @@
  {
   "enwiki": "Apex Legends Mobile",
   "ids": {
-   "igdb": "apex-legends-mobile"
+   "igdb": "apex-legends-mobile",
+   "metacritic": "apex-legends-mobile"
   },
   "label_en": "Apex Legends Mobile",
   "wikidata": "Q112671149"
@@ -391,6 +404,7 @@
  {
   "ids": {
    "igdb": "sd-shin-kamen-rider-rumble",
+   "pcgamingwiki": "SD_Shin_Kamen_Rider_Rumble",
    "steam": "1953070"
   },
   "label_en": "SD Shin Kamen Rider Rumble",
@@ -415,6 +429,7 @@
    "gog": "game/nekomiko",
    "howlongtobeat": "64846",
    "igdb": "nekomiko",
+   "metacritic": "nekomiko",
    "mobygames": "137889",
    "pcgamingwiki": "NekoMiko",
    "steam": "969700"

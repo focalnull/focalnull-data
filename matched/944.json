@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "10333",
    "igdb": "tiger-woods-pga-tour-09",
+   "metacritic": "tiger-woods-pga-tour-09",
    "mobygames": "37175"
   },
   "label_en": "Tiger Woods PGA Tour 09",
@@ -43,6 +44,7 @@
   "ids": {
    "howlongtobeat": "400",
    "igdb": "alpha-prime",
+   "metacritic": "alpha-prime",
    "mobygames": "29992",
    "pcgamingwiki": "Alpha_Prime",
    "steam": "2590"
@@ -54,6 +56,7 @@
   "enwiki": "Naruto Shippuden: Ultimate Ninja Storm Generations",
   "ids": {
    "igdb": "naruto-shippuden-ultimate-ninja-storm-generations",
+   "metacritic": "naruto-shippuden-ultimate-ninja-storm-generations",
    "mobygames": "108906"
   },
   "label_en": "Naruto Shippuden: Ultimate Ninja Storm Generations",
@@ -100,6 +103,7 @@
   "enwiki": "Asphalt: Injection",
   "ids": {
    "igdb": "asphalt-injection",
+   "metacritic": "asphalt-injection",
    "mobygames": "69143"
   },
   "label_en": "Asphalt: Injection",
@@ -117,6 +121,7 @@
   "enwiki": "Dirt Track Racing: Sprint Cars",
   "ids": {
    "igdb": "dirt-track-racing-sprint-cars",
+   "metacritic": "dirt-track-racing-sprint-cars",
    "mobygames": "2721",
    "pcgamingwiki": "Dirt_Track_Racing:_Sprint_Cars"
   },
@@ -137,6 +142,7 @@
   "ids": {
    "howlongtobeat": "5414",
    "igdb": "lucidity",
+   "metacritic": "lucidity",
    "mobygames": "42876",
    "pcgamingwiki": "Lucidity",
    "steam": "32410"
@@ -153,6 +159,7 @@
   "ids": {
    "howlongtobeat": "24617",
    "igdb": "subway-surfers-4d6fcdcb-3efb-487f-b301-53027dd10500",
+   "metacritic": "subway-surfers",
    "mobygames": "56518"
   },
   "label_en": "Subway Surfers",
@@ -162,6 +169,7 @@
   "enwiki": "NASCAR Kart Racing",
   "ids": {
    "igdb": "nascar-kart-racing",
+   "metacritic": "nascar-kart-racing",
    "mobygames": "92009"
   },
   "label_en": "NASCAR Kart Racing",
@@ -188,6 +196,7 @@
    "gog": "game/line_of_sight_vietnam",
    "howlongtobeat": "22467",
    "igdb": "line-of-sight-vietnam",
+   "metacritic": "line-of-sight-vietnam",
    "mobygames": "8573",
    "pcgamingwiki": "Line_of_Sight:_Vietnam",
    "steam": "514150"
@@ -217,6 +226,7 @@
   "ids": {
    "howlongtobeat": "31590",
    "igdb": "overwatch",
+   "metacritic": "overwatch",
    "mobygames": "79170",
    "pcgamingwiki": "Overwatch"
   },
@@ -240,6 +250,7 @@
    "gog": "game/warhammer_quest",
    "howlongtobeat": "23072",
    "igdb": "warhammer-quest",
+   "metacritic": "warhammer-quest",
    "mobygames": "84214",
    "pcgamingwiki": "Warhammer_Quest",
    "steam": "326670"
@@ -252,6 +263,7 @@
   "ids": {
    "howlongtobeat": "47169",
    "igdb": "deep-rock-galactic",
+   "metacritic": "deep-rock-galactic",
    "mobygames": "104266",
    "pcgamingwiki": "Deep_Rock_Galactic",
    "steam": "548430"
@@ -264,6 +276,7 @@
   "ids": {
    "howlongtobeat": "65827",
    "igdb": "ai-the-somnium-files",
+   "metacritic": "ai-the-somnium-files",
    "mobygames": "130036",
    "pcgamingwiki": "AI:_The_Somnium_Files",
    "steam": "948740"
@@ -290,6 +303,7 @@
  {
   "ids": {
    "igdb": "handball-21",
+   "metacritic": "handball-21",
    "mobygames": "152626",
    "pcgamingwiki": "Handball_21",
    "steam": "891020"
@@ -298,6 +312,9 @@
   "wikidata": "Q104530944"
  },
  {
+  "ids": {
+   "metacritic": "naisho-no-naisho"
+  },
   "label_en": "Naisho no Naisho!",
   "wikidata": "Q108512944"
  },
@@ -318,6 +335,7 @@
    "gog": "game/warno",
    "howlongtobeat": "109439",
    "igdb": "warno",
+   "metacritic": "warno",
    "mobygames": "178349",
    "pcgamingwiki": "WARNO",
    "steam": "1611600"
@@ -376,6 +394,7 @@
   "ids": {
    "howlongtobeat": "40523",
    "igdb": "straimium-immortaly",
+   "metacritic": "straimium-immortaly",
    "mobygames": "96798",
    "pcgamingwiki": "Straimium_Immortaly",
    "steam": "515650"
@@ -549,6 +568,7 @@
   "ids": {
    "howlongtobeat": "76830",
    "igdb": "superepic-the-entertainment-war",
+   "metacritic": "superepic-the-entertainment-war",
    "mobygames": "138029",
    "pcgamingwiki": "SuperEpic:_The_Entertainment_War",
    "steam": "1163560"
@@ -718,6 +738,7 @@
   "enwiki": "Skull Island: Rise of Kong",
   "ids": {
    "igdb": "skull-island-rise-of-kong",
+   "metacritic": "skull-island-rise-of-kong",
    "mobygames": "210336",
    "pcgamingwiki": "Skull_Island:_Rise_of_Kong",
    "steam": "2097890"
@@ -1277,6 +1298,7 @@
    "epic": "spiral-1b3617",
    "gog": "game/spiral",
    "igdb": "spiral",
+   "pcgamingwiki": "Spiral",
    "steam": "1579390"
   },
   "label_en": "Spiral",
@@ -1301,6 +1323,7 @@
  {
   "ids": {
    "igdb": "spellcasters-chronicles",
+   "pcgamingwiki": "Spellcasters_Chronicles",
    "steam": "2458470"
   },
   "label_en": "Spellcasters Chronicles",
@@ -1319,6 +1342,7 @@
  {
   "ids": {
    "mobygames": "259559",
+   "pcgamingwiki": "Sigma_Star_Saga_DX",
    "steam": "3281520"
   },
   "label_en": "Sigma Star Saga DX",

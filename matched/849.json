@@ -11,6 +11,7 @@
   "ids": {
    "howlongtobeat": "1386",
    "igdb": "bully",
+   "metacritic": "bully-scholarship-edition",
    "mobygames": "25437",
    "pcgamingwiki": "Bully",
    "steam": "12200"
@@ -24,6 +25,7 @@
    "gog": "game/hostile_waters_antaeus_rising",
    "howlongtobeat": "16019",
    "igdb": "hostile-waters-antaeus-rising",
+   "metacritic": "hostile-waters-antaeus-rising",
    "mobygames": "4925",
    "pcgamingwiki": "Hostile_Waters:_Antaeus_Rising",
    "steam": "267980"
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "13489",
    "igdb": "touhou-kaeizuka-phantasmagoria-of-flower-view",
+   "metacritic": "phantasmagoria-of-flower-view",
    "mobygames": "70094",
    "pcgamingwiki": "Phantasmagoria_of_Flower_View",
    "steam": "1420810"
@@ -74,6 +77,7 @@
   "enwiki": "Sly 2: Band of Thieves",
   "ids": {
    "igdb": "sly-2-band-of-thieves",
+   "metacritic": "sly-2-band-of-thieves",
    "mobygames": "16197"
   },
   "label_en": "Sly 2: Band of Thieves",
@@ -104,6 +108,7 @@
  },
  {
   "ids": {
+   "metacritic": "escapevektor",
    "mobygames": "60294"
   },
   "label_en": "EscapeVektor",
@@ -142,6 +147,7 @@
   "enwiki": "Pitstop II",
   "ids": {
    "igdb": "pitstop-ii",
+   "metacritic": "pitstop-ii",
    "mobygames": "578"
   },
   "label_en": "Pitstop II",
@@ -162,6 +168,7 @@
   "ids": {
    "howlongtobeat": "1104",
    "igdb": "black-sigil-blade-of-the-exiled",
+   "metacritic": "black-sigil-blade-of-the-exiled",
    "mobygames": "41259"
   },
   "label_en": "Black Sigil: Blade of the Exiled",
@@ -171,6 +178,7 @@
   "enwiki": "Dive: The Medes Islands Secret",
   "ids": {
    "igdb": "dive-the-medes-islands-secret",
+   "metacritic": "dive-the-medes-islands-secret",
    "mobygames": "90958"
   },
   "label_en": "Dive: The Medes Islands Secret",
@@ -181,6 +189,7 @@
   "ids": {
    "howlongtobeat": "3335",
    "igdb": "fallen-enchantress",
+   "metacritic": "elemental-fallen-enchantress",
    "mobygames": "62251",
    "pcgamingwiki": "Elemental:_Fallen_Enchantress",
    "steam": "216390"
@@ -202,6 +211,7 @@
   "enwiki": "Outpost Kaloki",
   "ids": {
    "igdb": "outpost-kaloki-x",
+   "metacritic": "outpost-kaloki-x",
    "mobygames": "23700"
   },
   "label_en": "Outpost Kaloki X",
@@ -345,6 +355,7 @@
    "epic": "anno-1800",
    "howlongtobeat": "61650",
    "igdb": "anno-1800",
+   "metacritic": "anno-1800",
    "mobygames": "125200",
    "pcgamingwiki": "Anno_1800",
    "steam": "916440"
@@ -358,6 +369,7 @@
    "gog": "game/steel_division_2",
    "howlongtobeat": "67602",
    "igdb": "steel-division-2",
+   "metacritic": "steel-division-2",
    "mobygames": "128730",
    "pcgamingwiki": "Steel_Division_2",
    "steam": "919640"
@@ -384,6 +396,7 @@
   "ids": {
    "howlongtobeat": "34641",
    "igdb": "my-name-is-mayo",
+   "metacritic": "my-name-is-mayo",
    "mobygames": "87370",
    "pcgamingwiki": "My_Name_Is_Mayo",
    "steam": "434260"
@@ -406,6 +419,7 @@
    "epic": "carnival-games",
    "howlongtobeat": "1542",
    "igdb": "carnival-games--1",
+   "metacritic": "carnival-games",
    "mobygames": "125672",
    "pcgamingwiki": "Carnival_Games",
    "steam": "1249740"
@@ -466,6 +480,7 @@
    "epic": "read-only-memories-neurodiver",
    "howlongtobeat": "95203",
    "igdb": "read-only-memories-neurodiver",
+   "metacritic": "read-only-memories-neurodiver",
    "mobygames": "224027",
    "pcgamingwiki": "Read_Only_Memories:_Neurodiver",
    "steam": "1293910"
@@ -478,6 +493,7 @@
   "ids": {
    "howlongtobeat": "63226",
    "igdb": "the-eternal-castle-remastered",
+   "metacritic": "the-eternal-castle-remastered",
    "mobygames": "120077",
    "pcgamingwiki": "The_Eternal_Castle:_Remastered",
    "steam": "963450"
@@ -539,6 +555,7 @@
   "ids": {
    "igdb": "apocalypse-rider",
    "mobygames": "143389",
+   "pcgamingwiki": "Apocalypse_Rider",
    "steam": "832990"
   },
   "label_en": "Apocalypse Rider",
@@ -549,6 +566,7 @@
   "ids": {
    "howlongtobeat": "116632",
    "igdb": "directive-8020",
+   "metacritic": "the-dark-pictures-anthology-directive-8020",
    "mobygames": "255224",
    "pcgamingwiki": "Directive_8020",
    "steam": "2255370"
@@ -776,6 +794,7 @@
   "ids": {
    "howlongtobeat": "78625",
    "igdb": "vr-ping-pong-pro",
+   "metacritic": "vr-ping-pong-pro",
    "mobygames": "138026",
    "pcgamingwiki": "VR_Ping_Pong_Pro",
    "steam": "1029730"
@@ -1034,6 +1053,7 @@
   "ids": {
    "howlongtobeat": "152043",
    "igdb": "unbeatable",
+   "metacritic": "unbeatable",
    "mobygames": "251464",
    "pcgamingwiki": "Unbeatable",
    "steam": "2240620"
@@ -1382,6 +1402,7 @@
  {
   "ids": {
    "igdb": "carnivores-dinosaur-hunt",
+   "pcgamingwiki": "Carnivores:_Dinosaur_Hunt",
    "steam": "1461030"
   },
   "label_en": "Carnivores: Dinosaur Hunt",
@@ -1429,6 +1450,7 @@
   "ids": {
    "howlongtobeat": "185593",
    "igdb": "star-fox--5",
+   "metacritic": "star-fox",
    "mobygames": "263341"
   },
   "label_en": "Star Fox",

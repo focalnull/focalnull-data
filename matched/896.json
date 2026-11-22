@@ -60,6 +60,7 @@
   "ids": {
    "howlongtobeat": "10001",
    "igdb": "the-last-story",
+   "metacritic": "the-last-story",
    "mobygames": "54218"
   },
   "label_en": "The Last Story",
@@ -87,6 +88,7 @@
   "ids": {
    "howlongtobeat": "5784",
    "igdb": "medal-of-honor-heroes",
+   "metacritic": "medal-of-honor-heroes",
    "mobygames": "25588"
   },
   "label_en": "Medal of Honor: Heroes",
@@ -97,6 +99,7 @@
   "ids": {
    "howlongtobeat": "7228",
    "igdb": "port-royale-3-pirates-merchants",
+   "metacritic": "port-royale-3-pirates-and-merchants",
    "mobygames": "57302",
    "pcgamingwiki": "Port_Royale_3:_Pirates_&_Merchants",
    "steam": "205610"
@@ -108,6 +111,7 @@
   "enwiki": "D2 (video game)",
   "ids": {
    "igdb": "d2",
+   "metacritic": "d2",
    "mobygames": "4167"
   },
   "label_en": "D2",
@@ -126,6 +130,7 @@
   "enwiki": "Drakan: The Ancients' Gates",
   "ids": {
    "igdb": "drakan-the-ancients-gates",
+   "metacritic": "drakan-the-ancients-gates",
    "mobygames": "5724"
   },
   "label_en": "Drakan: The Ancients' Gates",
@@ -136,6 +141,7 @@
   "ids": {
    "howlongtobeat": "4218",
    "igdb": "gunstar-super-heroes",
+   "metacritic": "gunstar-super-heroes",
    "mobygames": "21631"
   },
   "label_en": "Gunstar Super Heroes",
@@ -166,6 +172,7 @@
    "gog": "game/overclocked_a_history_of_violence",
    "howlongtobeat": "6847",
    "igdb": "overclocked-a-history-of-violence",
+   "metacritic": "overclocked-a-history-of-violence",
    "mobygames": "30900",
    "pcgamingwiki": "Overclocked:_A_History_of_Violence",
    "steam": "339850"
@@ -248,6 +255,7 @@
    "epic": "the-sims-4",
    "howlongtobeat": "20992",
    "igdb": "the-sims-4",
+   "metacritic": "the-sims-4",
    "mobygames": "69077",
    "pcgamingwiki": "The_Sims_4",
    "steam": "1222670"
@@ -289,6 +297,7 @@
   "ids": {
    "howlongtobeat": "21236",
    "igdb": "the-keep",
+   "metacritic": "the-keep",
    "mobygames": "68859",
    "pcgamingwiki": "The_Keep",
    "steam": "317370"
@@ -301,6 +310,7 @@
   "ids": {
    "howlongtobeat": "22764",
    "igdb": "geometry-wars-3-dimensions",
+   "metacritic": "geometry-wars-3-dimensions",
    "mobygames": "70369",
    "pcgamingwiki": "Geometry_Wars_3:_Dimensions_Evolved",
    "steam": "310790"
@@ -314,6 +324,7 @@
    "gog": "game/gremlins_inc",
    "howlongtobeat": "35149",
    "igdb": "gremlins-inc",
+   "metacritic": "gremlins-inc",
    "mobygames": "88926",
    "pcgamingwiki": "Gremlins,_Inc.",
    "steam": "369990"
@@ -329,6 +340,7 @@
   "ids": {
    "howlongtobeat": "27886",
    "igdb": "quiplash",
+   "metacritic": "quiplash",
    "mobygames": "74164",
    "pcgamingwiki": "Quiplash",
    "steam": "351510"
@@ -350,6 +362,7 @@
  {
   "ids": {
    "igdb": "barbie-jet-set-and-style",
+   "metacritic": "barbie-jet-set-and-style",
    "mobygames": "87284"
   },
   "label_en": "Barbie Jet, Set & Style",
@@ -369,6 +382,7 @@
    "gog": "game/operencia_the_stolen_sun",
    "howlongtobeat": "66023",
    "igdb": "operencia-the-stolen-sun",
+   "metacritic": "operencia-the-stolen-sun",
    "mobygames": "124741",
    "pcgamingwiki": "Operencia:_The_Stolen_Sun",
    "steam": "985950"
@@ -393,6 +407,7 @@
    "gog": "game/troubledays",
    "howlongtobeat": "75620",
    "igdb": "troubledays",
+   "metacritic": "troubledays",
    "mobygames": "147662",
    "steam": "1171270"
   },
@@ -428,6 +443,7 @@
    "gog": "game/behind_the_frame_the_finest_scenery",
    "howlongtobeat": "93531",
    "igdb": "behind-the-frame-the-finest-scenery",
+   "metacritic": "behind-the-frame-the-finest-scenery",
    "mobygames": "170280",
    "pcgamingwiki": "Behind_the_Frame:_The_Finest_Scenery",
    "steam": "1634150"
@@ -448,6 +464,7 @@
    "gog": "game/midnight_protocol",
    "howlongtobeat": "98964",
    "igdb": "midnight-protocol",
+   "metacritic": "midnight-protocol",
    "mobygames": "173600",
    "pcgamingwiki": "Midnight_Protocol",
    "steam": "1162700"
@@ -460,6 +477,7 @@
   "ids": {
    "howlongtobeat": "1704",
    "igdb": "chrono-cross-the-radical-dreamers-edition",
+   "metacritic": "chrono-cross-the-radical-dreamers-edition",
    "mobygames": "184237",
    "pcgamingwiki": "Chrono_Cross:_The_Radical_Dreamers_Edition",
    "steam": "1133760"
@@ -546,6 +564,7 @@
   "ids": {
    "howlongtobeat": "20848",
    "igdb": "letter-quest-grimms-journey",
+   "metacritic": "letter-quest-grimms-journey",
    "mobygames": "73159",
    "pcgamingwiki": "Letter_Quest:_Grimm's_Journey",
    "steam": "328730"
@@ -577,6 +596,7 @@
   "ids": {
    "howlongtobeat": "132131",
    "igdb": "nickelodeon-all-star-brawl-2",
+   "metacritic": "nickelodeon-all-star-brawl-2",
    "mobygames": "211411",
    "pcgamingwiki": "Nickelodeon_All-Star_Brawl_2",
    "steam": "2017080"
@@ -1314,6 +1334,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "FixForce",
    "steam": "3933150"
   },
   "label_en": "FixForce",

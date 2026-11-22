@@ -48,6 +48,7 @@
   "ids": {
    "howlongtobeat": "4200",
    "igdb": "gundam-battle-assault-2",
+   "metacritic": "gundam-battle-assault-2",
    "mobygames": "8747"
   },
   "label_en": "Gundam: Battle Assault 2",
@@ -65,6 +66,7 @@
   "enwiki": "WRC: Rally Evolved",
   "ids": {
    "igdb": "wrc-rally-evolved",
+   "metacritic": "wrc-rally-evolved",
    "mobygames": "48905"
   },
   "label_en": "WRC: Rally Evolved",
@@ -95,6 +97,7 @@
   "enwiki": "Mystery Case Files: The Malgrave Incident",
   "ids": {
    "igdb": "mystery-case-files-the-malgrave-incident",
+   "metacritic": "mystery-case-files-the-malgrave-incident",
    "mobygames": "68032"
   },
   "label_en": "Mystery Case Files: The Malgrave Incident",
@@ -161,6 +164,7 @@
   "ids": {
    "howlongtobeat": "82931",
    "igdb": "ultimate-card-games",
+   "metacritic": "ultimate-card-games",
    "mobygames": "90473"
   },
   "label_en": "Ultimate Card Games",
@@ -170,6 +174,7 @@
   "enwiki": "Death Jr. and the Science Fair of Doom",
   "ids": {
    "igdb": "death-jr-and-the-science-fair-of-doom",
+   "metacritic": "death-jr-and-the-science-fair-of-doom",
    "mobygames": "36851"
   },
   "label_en": "Death Jr. and the Science Fair of Doom",
@@ -207,6 +212,7 @@
    "gog": "game/apotheon",
    "howlongtobeat": "20065",
    "igdb": "apotheon",
+   "metacritic": "apotheon",
    "mobygames": "72114",
    "pcgamingwiki": "Apotheon",
    "steam": "208750"
@@ -220,6 +226,7 @@
    "gog": "game/stardew_valley",
    "howlongtobeat": "34716",
    "igdb": "stardew-valley",
+   "metacritic": "stardew-valley",
    "mobygames": "80992",
    "pcgamingwiki": "Stardew_Valley",
    "steam": "413150"
@@ -231,6 +238,7 @@
   "ids": {
    "howlongtobeat": "38990",
    "igdb": "gunjack",
+   "metacritic": "eve-gunjack",
    "pcgamingwiki": "EVE:_Gunjack",
    "steam": "410570"
   },
@@ -247,6 +255,7 @@
    "gog": "game/the_friends_of_ringo_ishikawa",
    "howlongtobeat": "56806",
    "igdb": "the-friends-of-ringo-ishikawa",
+   "metacritic": "the-friends-of-ringo-ishikawa",
    "mobygames": "109141",
    "pcgamingwiki": "The_Friends_of_Ringo_Ishikawa",
    "steam": "846110"
@@ -271,6 +280,7 @@
    "epic": "second-extinction",
    "howlongtobeat": "77927",
    "igdb": "second-extinction",
+   "metacritic": "second-extinction",
    "mobygames": "150934",
    "pcgamingwiki": "Second_Extinction",
    "steam": "1024380"
@@ -289,6 +299,7 @@
    "epic": "two-point-campus",
    "howlongtobeat": "94194",
    "igdb": "two-point-campus",
+   "metacritic": "two-point-campus",
    "mobygames": "189088",
    "pcgamingwiki": "Two_Point_Campus",
    "steam": "1649080"
@@ -910,6 +921,7 @@
   "ids": {
    "howlongtobeat": "150049",
    "igdb": "planetiles",
+   "metacritic": "planetiles",
    "mobygames": "223425",
    "steam": "2447030"
   },
@@ -919,6 +931,7 @@
  {
   "ids": {
    "igdb": "vladik-brutal",
+   "metacritic": "vladik-brutal",
    "mobygames": "228965",
    "pcgamingwiki": "Vladik_Brutal",
    "steam": "1316680"
@@ -1225,6 +1238,7 @@
   "ids": {
    "epic": "lucid-falls-4d045f",
    "igdb": "lucid-falls",
+   "pcgamingwiki": "Lucid_Falls",
    "steam": "4026510"
   },
   "label_en": "Lucid Falls",

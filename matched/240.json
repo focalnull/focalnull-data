@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "2081",
    "igdb": "csi-crime-scene-investigation-3-dimensions-of-murder",
+   "metacritic": "csi-crime-scene-investigation-3-dimensions-of-mu",
    "mobygames": "21981",
    "pcgamingwiki": "CSI:_3_Dimensions_of_Murder"
   },
@@ -33,6 +34,7 @@
    "gog": "game/la_mulana",
    "howlongtobeat": "13713",
    "igdb": "la-mulana--1",
+   "metacritic": "la-mulana-remake",
    "mobygames": "34828",
    "pcgamingwiki": "La-Mulana",
    "steam": "230700"
@@ -44,6 +46,7 @@
   "enwiki": "Super Monkey Ball 2",
   "ids": {
    "igdb": "super-monkey-ball-2",
+   "metacritic": "super-monkey-ball-2",
    "mobygames": "7252"
   },
   "label_en": "Super Monkey Ball 2",
@@ -53,6 +56,7 @@
   "enwiki": "Atlantis: The Lost Empire – Trial by Fire",
   "ids": {
    "igdb": "disneys-atlantis-the-lost-empire-trial-by-fire",
+   "metacritic": "disneys-atlantis-the-lost-empire-trial-by-fire",
    "mobygames": "7201"
   },
   "label_en": "Atlantis The Lost Empire: Trial by Fire",
@@ -63,6 +67,7 @@
   "ids": {
    "howlongtobeat": "20129",
    "igdb": "lego-stunt-rally",
+   "metacritic": "lego-stunt-rally",
    "mobygames": "4969",
    "pcgamingwiki": "Lego_Stunt_Rally"
   },
@@ -81,6 +86,7 @@
   "enwiki": "Nancy Drew: Secrets Can Kill",
   "ids": {
    "igdb": "nancy-drew-secrets-can-kill",
+   "metacritic": "nancy-drew-secrets-can-kill",
    "mobygames": "4907",
    "pcgamingwiki": "Nancy_Drew:_Secrets_Can_Kill"
   },
@@ -91,6 +97,7 @@
   "ids": {
    "howlongtobeat": "12830",
    "igdb": "silent-storm-sentinels",
+   "metacritic": "silent-storm",
    "mobygames": "16505",
    "steam": "254980"
   },
@@ -185,6 +192,7 @@
    "epic": "the-stanley-parable",
    "howlongtobeat": "14083",
    "igdb": "the-stanley-parable",
+   "metacritic": "the-stanley-parable",
    "mobygames": "62249",
    "pcgamingwiki": "The_Stanley_Parable",
    "steam": "221910"
@@ -228,6 +236,7 @@
   "ids": {
    "howlongtobeat": "29893",
    "igdb": "nba-2k16-michael-jordan-edition",
+   "metacritic": "nba-2k16",
    "mobygames": "76999",
    "pcgamingwiki": "NBA_2K16",
    "steam": "370240"
@@ -284,6 +293,7 @@
    "gog": "game/albedo_eyes_from_outer_space",
    "howlongtobeat": "21449",
    "igdb": "albedo-eyes-from-outer-space",
+   "metacritic": "albedo-eyes-from-outer-space",
    "mobygames": "86930",
    "pcgamingwiki": "Albedo:_Eyes_from_Outer_Space",
    "steam": "277520"
@@ -305,6 +315,7 @@
   "ids": {
    "howlongtobeat": "39432",
    "igdb": "unexplored",
+   "metacritic": "unexplored",
    "mobygames": "94096",
    "pcgamingwiki": "Unexplored",
    "steam": "506870"
@@ -318,6 +329,7 @@
    "epic": "rainbow-six-quarantine",
    "howlongtobeat": "68213",
    "igdb": "tom-clancys-rainbow-six-extraction",
+   "metacritic": "tom-clancys-rainbow-six-extraction",
    "mobygames": "178422",
    "pcgamingwiki": "Tom_Clancy's_Rainbow_Six_Extraction",
    "steam": "2379390"
@@ -330,6 +342,7 @@
   "ids": {
    "howlongtobeat": "14296",
    "igdb": "sparkle-2-evo",
+   "metacritic": "sparkle-2-evo",
    "mobygames": "63629",
    "pcgamingwiki": "Sparkle_2_Evo",
    "steam": "253650"
@@ -343,6 +356,7 @@
    "gog": "game/stronghold_warlords",
    "howlongtobeat": "68377",
    "igdb": "stronghold-warlords",
+   "metacritic": "stronghold-warlords",
    "mobygames": "160227",
    "pcgamingwiki": "Stronghold:_Warlords",
    "steam": "907650"
@@ -354,6 +368,7 @@
   "ids": {
    "howlongtobeat": "20137",
    "igdb": "touchmaster-3",
+   "metacritic": "touchmaster-3",
    "mobygames": "90459"
   },
   "label_en": "TouchMaster 3",
@@ -381,6 +396,7 @@
  {
   "ids": {
    "igdb": "total-war-rome-remastered",
+   "metacritic": "total-war-rome-remastered",
    "mobygames": "161833",
    "pcgamingwiki": "Total_War:_Rome_Remastered",
    "steam": "885970"
@@ -417,6 +433,7 @@
   "ids": {
    "howlongtobeat": "38365",
    "igdb": "super-duper-party-pooper",
+   "metacritic": "super-duper-party-pooper",
    "mobygames": "108302",
    "pcgamingwiki": "Super_Duper_Party_Pooper",
    "steam": "485870"
@@ -692,6 +709,7 @@
  {
   "ids": {
    "igdb": "barton-lynch-pro-surfing-2022",
+   "metacritic": "barton-lynch-pro-surfing",
    "mobygames": "213495",
    "steam": "1776170"
   },
@@ -723,6 +741,7 @@
   "ids": {
    "howlongtobeat": "33167",
    "igdb": "color-guardians",
+   "metacritic": "color-guardians",
    "mobygames": "86830",
    "pcgamingwiki": "Color_Guardians",
    "steam": "336840"
@@ -734,6 +753,7 @@
   "ids": {
    "howlongtobeat": "44433",
    "igdb": "dynasty-feud",
+   "metacritic": "dynasty-feud",
    "mobygames": "99358",
    "pcgamingwiki": "Dynasty_Feud",
    "steam": "493180"
@@ -805,7 +825,8 @@
  },
  {
   "ids": {
-   "igdb": "duckers"
+   "igdb": "duckers",
+   "metacritic": "duckers"
   },
   "label_en": "Duckers",
   "wikidata": "Q124354240"
@@ -1145,6 +1166,7 @@
  {
   "ids": {
    "igdb": "around-the-world-in-80-days--5",
+   "pcgamingwiki": "Around_the_World_in_80_Days",
    "steam": "837790"
   },
   "label_en": "Around the World in 80 Days",

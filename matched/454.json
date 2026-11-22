@@ -5,6 +5,7 @@
    "gog": "game/anachronox",
    "howlongtobeat": "450",
    "igdb": "anachronox",
+   "metacritic": "anachronox",
    "mobygames": "4499",
    "pcgamingwiki": "Anachronox",
    "steam": "242940"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "941",
    "igdb": "battlefield-3",
+   "metacritic": "battlefield-3",
    "mobygames": "53433",
    "pcgamingwiki": "Battlefield_3",
    "steam": "1238820"
@@ -49,6 +51,7 @@
   "enwiki": "The Thing (video game)",
   "ids": {
    "igdb": "the-thing",
+   "metacritic": "the-thing",
    "mobygames": "7168",
    "pcgamingwiki": "The_Thing"
   },
@@ -65,6 +68,7 @@
   "ids": {
    "howlongtobeat": "5659",
    "igdb": "mario-tennis-power-tour",
+   "metacritic": "mario-tennis-power-tour",
    "mobygames": "21283"
   },
   "label_en": "Mario Tennis: Power Tour",
@@ -103,6 +107,7 @@
   "ids": {
    "howlongtobeat": "1382",
    "igdb": "bullet-witch",
+   "metacritic": "bullet-witch",
    "mobygames": "28268",
    "pcgamingwiki": "Bullet_Witch",
    "steam": "696180"
@@ -126,6 +131,7 @@
   "ids": {
    "howlongtobeat": "2657",
    "igdb": "doctor-who-the-eternity-clock",
+   "metacritic": "doctor-who-the-eternity-clock",
    "mobygames": "80118",
    "pcgamingwiki": "Doctor_Who:_The_Eternity_Clock",
    "steam": "217080"
@@ -252,6 +258,7 @@
    "gog": "game/akibas_trip_undead_undressed",
    "howlongtobeat": "20589",
    "igdb": "akiba-s-trip-undead-undressed",
+   "metacritic": "akibas-trip-undead-undressed",
    "mobygames": "72896",
    "pcgamingwiki": "Akiba's_Trip:_Undead_&_Undressed",
    "steam": "333980"
@@ -265,6 +272,7 @@
    "gog": "game/dex",
    "howlongtobeat": "21172",
    "igdb": "dex",
+   "metacritic": "dex",
    "mobygames": "75272",
    "pcgamingwiki": "Dex",
    "steam": "269650"
@@ -289,6 +297,7 @@
    "gog": "game/ziggurat",
    "howlongtobeat": "21840",
    "igdb": "ziggurat",
+   "metacritic": "ziggurat",
    "mobygames": "73024",
    "pcgamingwiki": "Ziggurat",
    "steam": "308420"
@@ -303,6 +312,7 @@
    "gog": "game/styx_shards_of_darkness",
    "howlongtobeat": "38317",
    "igdb": "styx-shards-of-darkness",
+   "metacritic": "styx-shards-of-darkness",
    "mobygames": "85316",
    "pcgamingwiki": "Styx:_Shards_of_Darkness",
    "steam": "355790"
@@ -315,6 +325,7 @@
   "ids": {
    "howlongtobeat": "42834",
    "igdb": "arms",
+   "metacritic": "arms",
    "mobygames": "90128"
   },
   "label_en": "Arms",
@@ -378,6 +389,7 @@
   "ids": {
    "howlongtobeat": "66373",
    "igdb": "lightfield",
+   "metacritic": "lightfield",
    "mobygames": "96442"
   },
   "label_en": "Lightfield",
@@ -388,6 +400,7 @@
   "ids": {
    "howlongtobeat": "75458",
    "igdb": "shovel-knight-pocket-dungeon",
+   "metacritic": "shovel-knight-pocket-dungeon",
    "mobygames": "176500",
    "pcgamingwiki": "Shovel_Knight_Pocket_Dungeon",
    "steam": "1184760"
@@ -462,6 +475,7 @@
    "gog": "game/filament",
    "howlongtobeat": "77629",
    "igdb": "filament",
+   "metacritic": "filament",
    "mobygames": "144803",
    "pcgamingwiki": "Filament",
    "steam": "1137350"
@@ -1183,6 +1197,7 @@
    "gog": "game/legions",
    "igdb": "legions",
    "mobygames": "1701",
+   "pcgamingwiki": "Legions",
    "steam": "3035080"
   },
   "label_en": "Legions",

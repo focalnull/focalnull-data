@@ -23,6 +23,7 @@
   "enwiki": "Cities XL",
   "ids": {
    "igdb": "cities-xl",
+   "metacritic": "cities-xl",
    "mobygames": "42873",
    "pcgamingwiki": "Cities_XL",
    "steam": "35510"
@@ -42,6 +43,7 @@
   "ids": {
    "howlongtobeat": "6120",
    "igdb": "mobile-suit-gundam-federation-vs-zeon-dx",
+   "metacritic": "mobile-suit-gundam-federation-vs-zeon",
    "mobygames": "46776"
   },
   "label_en": "Mobile Suit Gundam: Federation vs. Zeon",
@@ -86,6 +88,7 @@
   "enwiki": "Star Ocean: Till the End of Time",
   "ids": {
    "igdb": "star-ocean-till-the-end-of-time",
+   "metacritic": "star-ocean-till-the-end-of-time",
    "mobygames": "40149"
   },
   "label_en": "Star Ocean: Till the End of Time",
@@ -107,6 +110,7 @@
   "enwiki": "Pilotwings Resort",
   "ids": {
    "igdb": "pilotwings-resort",
+   "metacritic": "pilotwings-resort",
    "mobygames": "50998"
   },
   "label_en": "Pilotwings Resort",
@@ -174,6 +178,7 @@
   "ids": {
    "howlongtobeat": "27973",
    "igdb": "brian-lara-international-cricket-2007",
+   "metacritic": "brian-lara-international-cricket-2007",
    "mobygames": "28674",
    "pcgamingwiki": "Brian_Lara_International_Cricket_2007",
    "steam": "11520"
@@ -212,6 +217,7 @@
   "ids": {
    "howlongtobeat": "108957",
    "igdb": "romance-of-the-three-kingdoms-x-with-power-up-kit",
+   "metacritic": "romance-of-the-three-kingdoms-x",
    "mobygames": "35062",
    "pcgamingwiki": "Romance_of_the_Three_Kingdoms_X",
    "steam": "628060"
@@ -245,6 +251,7 @@
    "epic": "mirrors-edge-catalyst-aa7791",
    "howlongtobeat": "19181",
    "igdb": "mirrors-edge-catalyst",
+   "metacritic": "mirrors-edge-catalyst",
    "mobygames": "79248",
    "pcgamingwiki": "Mirror's_Edge_Catalyst",
    "steam": "1233570"
@@ -282,6 +289,7 @@
  {
   "ids": {
    "igdb": "drive-girls",
+   "metacritic": "drive-girls",
    "mobygames": "95724"
   },
   "label_en": "Drive Girls",
@@ -298,6 +306,7 @@
   "ids": {
    "howlongtobeat": "29370",
    "igdb": "fair-strike",
+   "metacritic": "fair-strike",
    "mobygames": "21982",
    "pcgamingwiki": "Fair_Strike",
    "steam": "352120"
@@ -334,6 +343,7 @@
   "ids": {
    "howlongtobeat": "141746",
    "igdb": "cursed-mansion",
+   "metacritic": "cursed-mansion",
    "mobygames": "201157",
    "pcgamingwiki": "Cursed_Mansion",
    "steam": "967120"
@@ -354,6 +364,7 @@
   "ids": {
    "howlongtobeat": "88842",
    "igdb": "the-academy-the-first-riddle",
+   "metacritic": "the-academy-the-first-riddle",
    "mobygames": "147056",
    "pcgamingwiki": "The_Academy:_The_First_Riddle",
    "steam": "1155460"
@@ -373,6 +384,7 @@
   "ids": {
    "howlongtobeat": "93952",
    "igdb": "shredders",
+   "metacritic": "shredders",
    "mobygames": "181437",
    "pcgamingwiki": "Shredders",
    "steam": "1874170"
@@ -419,6 +431,7 @@
    "epic": "riverbond-782aa4",
    "howlongtobeat": "67076",
    "igdb": "riverbond",
+   "metacritic": "riverbond",
    "mobygames": "128091",
    "pcgamingwiki": "Riverbond",
    "steam": "459370"
@@ -458,6 +471,7 @@
   "ids": {
    "howlongtobeat": "87045",
    "igdb": "blaston",
+   "metacritic": "blaston",
    "mobygames": "171654",
    "steam": "1427890"
   },
@@ -916,6 +930,7 @@
    "epic": "taxi-life-a-city-driving-simulator",
    "howlongtobeat": "146915",
    "igdb": "taxi-life-a-city-driving-simulator",
+   "metacritic": "taxi-life-a-city-driving-simulator",
    "mobygames": "219342",
    "steam": "1351240"
   },
@@ -950,6 +965,7 @@
  {
   "ids": {
    "igdb": "azure-snake",
+   "metacritic": "azure-snake",
    "mobygames": "120905"
   },
   "label_en": "Azure Snake",
@@ -975,6 +991,7 @@
   "ids": {
    "howlongtobeat": "168459",
    "igdb": "my-bullied-bride",
+   "metacritic": "my-bullied-bride",
    "mobygames": "190826"
   },
   "label_en": "Bullied Bride",

@@ -5,6 +5,7 @@
    "gog": "game/sid_meiers_civilization_iv_the_complete_edition",
    "howlongtobeat": "8505",
    "igdb": "sid-meier-s-civilization-iv",
+   "metacritic": "sid-meiers-civilization-iv",
    "mobygames": "19710",
    "pcgamingwiki": "Civilization_IV",
    "steam": "3900"
@@ -16,6 +17,7 @@
   "enwiki": "ArchLord",
   "ids": {
    "igdb": "archlord",
+   "metacritic": "archlord",
    "mobygames": "29316"
   },
   "label_en": "Archlord",
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "1610",
    "igdb": "catherine",
+   "metacritic": "catherine",
    "mobygames": "55323",
    "pcgamingwiki": "Catherine_Classic",
    "steam": "893180"
@@ -45,6 +48,7 @@
   "enwiki": "Unit 13",
   "ids": {
    "igdb": "unit-13",
+   "metacritic": "unit-13",
    "mobygames": "68569"
   },
   "label_en": "Unit 13",
@@ -54,6 +58,7 @@
   "enwiki": "Splatterhouse (2010 video game)",
   "ids": {
    "igdb": "splatterhouse",
+   "metacritic": "splatterhouse",
    "mobygames": "49251"
   },
   "label_en": "Splatterhouse",
@@ -63,6 +68,7 @@
   "enwiki": "Spyro: Enter the Dragonfly",
   "ids": {
    "igdb": "spyro-enter-the-dragonfly",
+   "metacritic": "spyro-enter-the-dragonfly",
    "mobygames": "8578"
   },
   "label_en": "Spyro: Enter the Dragonfly",
@@ -74,6 +80,7 @@
    "gog": "game/art_of_fighting_2",
    "howlongtobeat": "630",
    "igdb": "art-of-fighting-2--1",
+   "metacritic": "art-of-fighting-2",
    "mobygames": "18081",
    "pcgamingwiki": "Art_of_Fighting_2"
   },
@@ -115,6 +122,7 @@
    "gog": "game/sherlock_holmes_secret_of_the_silver_earring",
    "howlongtobeat": "8410",
    "igdb": "sherlock-holmes-the-silver-earring",
+   "metacritic": "sherlock-holmes-the-silver-earring",
    "mobygames": "14655",
    "pcgamingwiki": "Sherlock_Holmes:_Secret_of_the_Silver_Earring",
    "steam": "11150"
@@ -192,6 +200,7 @@
    "gog": "game/kentucky_route_zero",
    "howlongtobeat": "4956",
    "igdb": "kentucky-route-zero",
+   "metacritic": "kentucky-route-zero-tv-edition",
    "mobygames": "61122",
    "pcgamingwiki": "Kentucky_Route_Zero",
    "steam": "231200"
@@ -235,6 +244,7 @@
   "ids": {
    "howlongtobeat": "1928",
    "igdb": "cooking-mama-4-kitchen-magic",
+   "metacritic": "cooking-mama-4-kitchen-magic",
    "mobygames": "74483"
   },
   "label_en": "Cooking Mama 4: Kitchen Magic",
@@ -262,6 +272,7 @@
    "gog": "game/metro_last_light_redux",
    "howlongtobeat": "20722",
    "igdb": "metro-redux",
+   "metacritic": "metro-redux",
    "mobygames": "68060",
    "pcgamingwiki": "Metro:_Last_Light_Redux"
   },
@@ -308,6 +319,7 @@
   "ids": {
    "howlongtobeat": "49634",
    "igdb": "vostok-inc",
+   "metacritic": "vostok-inc",
    "mobygames": "96280",
    "pcgamingwiki": "Vostok_Inc.",
    "steam": "656460"
@@ -318,6 +330,7 @@
  {
   "ids": {
    "igdb": "quadrant",
+   "metacritic": "quadrant-2015",
    "mobygames": "112507",
    "pcgamingwiki": "Quadrant_(undef)",
    "steam": "365500"
@@ -352,6 +365,7 @@
   "ids": {
    "howlongtobeat": "4729",
    "igdb": "ipanzer-44",
+   "metacritic": "ipanzer-44",
    "mobygames": "10219"
   },
   "label_en": "iPanzer '44",
@@ -384,6 +398,7 @@
    "gog": "game/trek_to_yomi",
    "howlongtobeat": "93913",
    "igdb": "trek-to-yomi",
+   "metacritic": "trek-to-yomi",
    "mobygames": "183843",
    "pcgamingwiki": "Trek_to_Yomi",
    "steam": "1370050"
@@ -852,6 +867,7 @@
   "ids": {
    "howlongtobeat": "160496",
    "igdb": "toem-2",
+   "metacritic": "toem-2",
    "pcgamingwiki": "TOEM_2",
    "steam": "2900640"
   },

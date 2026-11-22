@@ -93,6 +93,7 @@
    "gog": "game/street_racing_syndicate",
    "howlongtobeat": "9251",
    "igdb": "street-racing-syndicate",
+   "metacritic": "street-racing-syndicate",
    "mobygames": "25100",
    "pcgamingwiki": "Street_Racing_Syndicate",
    "steam": "292410"
@@ -105,6 +106,7 @@
   "ids": {
    "howlongtobeat": "10306",
    "igdb": "thomas-was-alone",
+   "metacritic": "thomas-was-alone",
    "mobygames": "56772",
    "pcgamingwiki": "Thomas_Was_Alone",
    "steam": "220780"
@@ -173,7 +175,8 @@
  {
   "ids": {
    "howlongtobeat": "82942",
-   "igdb": "mawaza"
+   "igdb": "mawaza",
+   "metacritic": "mawaza"
   },
   "label_en": "Mawaza",
   "wikidata": "Q70090906"
@@ -194,6 +197,7 @@
    "epic": "melvor-idle-b6a9b3",
    "howlongtobeat": "86147",
    "igdb": "melvor-idle",
+   "metacritic": "melvor-idle",
    "mobygames": "154151",
    "pcgamingwiki": "Melvor_Idle",
    "steam": "1267910"
@@ -228,6 +232,7 @@
   "ids": {
    "howlongtobeat": "15181",
    "igdb": "tiny-brains",
+   "metacritic": "tiny-brains",
    "mobygames": "76554",
    "pcgamingwiki": "Tiny_Brains",
    "steam": "253690"
@@ -240,6 +245,7 @@
    "epic": "warstone-td-8fe138",
    "howlongtobeat": "54060",
    "igdb": "warstone-td",
+   "metacritic": "warstone-td",
    "mobygames": "109107",
    "pcgamingwiki": "Warstone_TD",
    "steam": "562500"
@@ -286,6 +292,7 @@
  {
   "ids": {
    "igdb": "shape-boxed",
+   "metacritic": "shape-boxed",
    "mobygames": "189421",
    "steam": "1845780"
   },
@@ -382,7 +389,8 @@
  },
  {
   "ids": {
-   "igdb": "flanker-2-5"
+   "igdb": "flanker-2-5",
+   "metacritic": "flanker-25"
   },
   "label_en": "Flanker 2.5",
   "wikidata": "Q118247906"
@@ -795,6 +803,9 @@
   "wikidata": "Q124075906"
  },
  {
+  "ids": {
+   "metacritic": "ondeh-ondeh"
+  },
   "label_en": "Ondeh Ondeh Kaya's Tasty Tale",
   "wikidata": "Q124499906"
  },

@@ -58,6 +58,7 @@
   "enwiki": "Justice League Heroes",
   "ids": {
    "igdb": "justice-league-heroes",
+   "metacritic": "justice-league-heroes",
    "mobygames": "25465"
   },
   "label_en": "Justice League Heroes",
@@ -94,6 +95,7 @@
   "ids": {
    "igdb": "dragons-lair-ii-time-warp",
    "mobygames": "54807",
+   "pcgamingwiki": "Dragon's_Lair_II:_Time_Warp",
    "steam": "240360"
   },
   "label_en": "Dragon's Lair II: Time Warp",
@@ -167,6 +169,7 @@
    "gog": "game/the_guild_2_pirates_of_the_european_seas",
    "howlongtobeat": "19247",
    "igdb": "the-guild-2-pirates-of-the-european-seas",
+   "metacritic": "the-guild-2-pirates-of-the-high-seas",
    "mobygames": "29997",
    "pcgamingwiki": "The_Guild_II:_Pirates_of_the_European_Seas",
    "steam": "39660"
@@ -218,6 +221,7 @@
   "ids": {
    "howlongtobeat": "52673",
    "igdb": "ok-k-dot-o-lets-play-heroes",
+   "metacritic": "ok-ko-lets-play-heroes",
    "mobygames": "101735",
    "pcgamingwiki": "OK_K.O.!_Let's_Play_Heroes",
    "steam": "680700"
@@ -238,6 +242,7 @@
   "ids": {
    "howlongtobeat": "61567",
    "igdb": "wwe-2k19",
+   "metacritic": "wwe-2k19",
    "mobygames": "114789",
    "pcgamingwiki": "WWE_2K19",
    "steam": "817130"
@@ -250,6 +255,7 @@
   "ids": {
    "howlongtobeat": "70963",
    "igdb": "mindustry",
+   "metacritic": "mindustry",
    "mobygames": "156179",
    "pcgamingwiki": "Mindustry",
    "steam": "1127400"
@@ -282,6 +288,7 @@
    "gog": "game/shaqfu_a_legend_reborn",
    "howlongtobeat": "57182",
    "igdb": "shaq-fu-a-legend-reborn",
+   "metacritic": "shaq-fu-a-legend-reborn",
    "mobygames": "109796",
    "pcgamingwiki": "Shaq_Fu:_A_Legend_Reborn",
    "steam": "496040"
@@ -301,6 +308,7 @@
   "ids": {
    "howlongtobeat": "15441",
    "igdb": "assassins-creed-freedom-cry",
+   "metacritic": "assassins-creed-iv-black-flag-freedom-cry",
    "mobygames": "65377",
    "pcgamingwiki": "Assassin's_Creed:_Freedom_Cry",
    "steam": "277590"
@@ -312,6 +320,7 @@
   "ids": {
    "howlongtobeat": "60891",
    "igdb": "12-labours-of-hercules-vii-fleecing-the-fleece",
+   "metacritic": "12-labours-of-hercules-vii-fleecing-the-fleece",
    "mobygames": "136659",
    "pcgamingwiki": "12_Labours_of_Hercules_VII:_Fleecing_the_Fleece",
    "steam": "663210"
@@ -326,6 +335,7 @@
    "gog": "game/through_the_darkest_of_times",
    "howlongtobeat": "68637",
    "igdb": "through-the-darkest-of-times",
+   "metacritic": "through-the-darkest-of-times",
    "mobygames": "141651",
    "pcgamingwiki": "Through_the_Darkest_of_Times",
    "steam": "1003090"
@@ -337,6 +347,7 @@
   "ids": {
    "epic": "crysis-2-remastered",
    "igdb": "crysis-2-remastered",
+   "metacritic": "crysis-2-remastered",
    "mobygames": "173872",
    "pcgamingwiki": "Crysis_2_Remastered",
    "steam": "2096600"
@@ -408,6 +419,7 @@
    "gog": "game/under_the_waves",
    "howlongtobeat": "112643",
    "igdb": "under-the-waves",
+   "metacritic": "under-the-waves",
    "mobygames": "207920",
    "pcgamingwiki": "Under_The_Waves",
    "steam": "1975440"
@@ -873,6 +885,7 @@
   "ids": {
    "howlongtobeat": "49065",
    "igdb": "arktika-dot-1",
+   "metacritic": "arktika1",
    "pcgamingwiki": "Arktika.1"
   },
   "label_en": "Arktika.1",
@@ -1241,6 +1254,8 @@
   "ids": {
    "howlongtobeat": "187051",
    "igdb": "pronoun-palace",
+   "metacritic": "pronoun-palace",
+   "pcgamingwiki": "Pronoun_Palace",
    "steam": "3618850"
   },
   "label_en": "Pronoun Palace",

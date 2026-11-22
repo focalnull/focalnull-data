@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2514",
    "igdb": "diablo-iii",
+   "metacritic": "diablo-iii",
    "mobygames": "56120",
    "pcgamingwiki": "Diablo_III"
   },
@@ -36,6 +37,7 @@
    "gog": "game/limbo",
    "howlongtobeat": "5304",
    "igdb": "limbo",
+   "metacritic": "limbo",
    "mobygames": "47457",
    "pcgamingwiki": "Limbo",
    "steam": "48000"
@@ -47,6 +49,7 @@
   "enwiki": "The Getaway (video game)",
   "ids": {
    "igdb": "the-getaway",
+   "metacritic": "the-getaway",
    "mobygames": "8241"
   },
   "label_en": "The Getaway",
@@ -63,6 +66,7 @@
   "enwiki": "Mega Man ZX",
   "ids": {
    "igdb": "mega-man-zx",
+   "metacritic": "mega-man-zx",
    "mobygames": "24204"
   },
   "label_en": "Mega Man ZX",
@@ -74,6 +78,7 @@
    "gog": "game/warhammer_40000_space_marine",
    "howlongtobeat": "11050",
    "igdb": "warhammer-40-000-space-marine",
+   "metacritic": "warhammer-40000-space-marine",
    "mobygames": "53652",
    "pcgamingwiki": "Warhammer_40,000:_Space_Marine",
    "steam": "55150"
@@ -86,6 +91,7 @@
   "ids": {
    "howlongtobeat": "9258",
    "igdb": "streets-of-rage-2",
+   "metacritic": "streets-of-rage-2",
    "mobygames": "6633",
    "pcgamingwiki": "Streets_of_Rage_2",
    "steam": "71165"
@@ -98,6 +104,7 @@
   "ids": {
    "howlongtobeat": "1503",
    "igdb": "capcom-fighting-evolution",
+   "metacritic": "capcom-fighting-evolution",
    "mobygames": "15706"
   },
   "label_en": "Capcom Fighting Evolution",
@@ -217,6 +224,7 @@
   "enwiki": "Tokyo Xtreme Racer 2",
   "ids": {
    "igdb": "tokyo-xtreme-racer-2",
+   "metacritic": "tokyo-xtreme-racer-2",
    "mobygames": "15296"
   },
   "label_en": "Tokyo Xtreme Racer 2",
@@ -234,6 +242,7 @@
   "enwiki": "ZooCube",
   "ids": {
    "igdb": "zoocube",
+   "metacritic": "zoocube",
    "mobygames": "8274"
   },
   "label_en": "ZooCube",
@@ -252,7 +261,7 @@
    "pcgamingwiki": "Geometry_Dash",
    "steam": "322170"
   },
-  "label_en": "Geometry Dash",
+  "label_en": "Elias top 1 free level",
   "wikidata": "Q16190030"
  },
  {
@@ -270,6 +279,7 @@
    "gog": "game/batman_a_telltale_game_series",
    "howlongtobeat": "38801",
    "igdb": "batman-the-telltale-series",
+   "metacritic": "batman-the-telltale-series",
    "mobygames": "80164",
    "pcgamingwiki": "Batman:_The_Telltale_Series",
    "steam": "498240"
@@ -295,6 +305,7 @@
    "gog": "game/two_point_hospital",
    "howlongtobeat": "60043",
    "igdb": "two-point-hospital",
+   "metacritic": "two-point-hospital",
    "mobygames": "112928",
    "pcgamingwiki": "Two_Point_Hospital",
    "steam": "535930"
@@ -311,6 +322,7 @@
   "ids": {
    "howlongtobeat": "74683",
    "igdb": "arknights",
+   "metacritic": "arknights",
    "mobygames": "140571"
   },
   "label_en": "Arknights",
@@ -339,6 +351,7 @@
   "ids": {
    "howlongtobeat": "61608",
    "igdb": "neptune-flux",
+   "metacritic": "neptune-flux",
    "mobygames": "94107",
    "pcgamingwiki": "Neptune_Flux",
    "steam": "378700"
@@ -355,6 +368,7 @@
   "ids": {
    "howlongtobeat": "57339",
    "igdb": "red-matter",
+   "metacritic": "red-matter",
    "mobygames": "121244",
    "pcgamingwiki": "Red_Matter",
    "steam": "966680"
@@ -367,6 +381,7 @@
    "gog": "game/bangon_balls_chronicles",
    "howlongtobeat": "94794",
    "igdb": "bang-on-balls-chronicles",
+   "metacritic": "bang-on-balls-chronicles",
    "mobygames": "206670",
    "pcgamingwiki": "Bang-On_Balls:_Chronicles",
    "steam": "1227650"
@@ -379,6 +394,7 @@
   "ids": {
    "howlongtobeat": "105293",
    "igdb": "the-diofield-chronicle",
+   "metacritic": "the-diofield-chronicle",
    "mobygames": "191409",
    "pcgamingwiki": "The_DioField_Chronicle",
    "steam": "1399080"
@@ -441,6 +457,7 @@
  {
   "ids": {
    "igdb": "itrp-volatile-vertex",
+   "metacritic": "itrp-volatile-vertex",
    "steam": "1899710"
   },
   "label_en": "ITRP _ Volatile Vertex",
@@ -471,6 +488,7 @@
   "enwiki": "Metroid Prime Remastered",
   "ids": {
    "igdb": "metroid-prime-remastered",
+   "metacritic": "metroid-prime-remastered",
    "mobygames": "199460"
   },
   "label_en": "Metroid Prime Remastered",
@@ -879,6 +897,7 @@
  {
   "ids": {
    "igdb": "sam-and-max-save-the-world",
+   "metacritic": "sam-and-max-save-the-world-remastered",
    "mobygames": "154883",
    "steam": "1440440"
   },
@@ -902,6 +921,7 @@
   "ids": {
    "howlongtobeat": "26941",
    "igdb": "frenchy-bird",
+   "metacritic": "frenchy-bird",
    "mobygames": "92898"
   },
   "label_en": "Frenchy Bird",
@@ -1209,6 +1229,7 @@
  {
   "ids": {
    "igdb": "ping-1-dot-5-plus",
+   "pcgamingwiki": "PING_1.5+",
    "steam": "363580"
   },
   "label_en": "PING 1.5+™",

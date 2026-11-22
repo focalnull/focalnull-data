@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "9539",
    "igdb": "syphon-filter",
+   "metacritic": "syphon-filter",
    "mobygames": "3729"
   },
   "label_en": "Syphon Filter",
@@ -82,6 +83,7 @@
   "ids": {
    "howlongtobeat": "4551",
    "igdb": "hunter-the-reckoning-wayward",
+   "metacritic": "hunter-the-reckoning-wayward",
    "mobygames": "12148"
   },
   "label_en": "Hunter: The Reckoning – Wayward",
@@ -101,6 +103,7 @@
   "ids": {
    "howlongtobeat": "32217",
    "igdb": "casino-inc",
+   "metacritic": "casino-inc",
    "mobygames": "10365",
    "pcgamingwiki": "Casino_Inc.",
    "steam": "361320"
@@ -188,6 +191,7 @@
   "ids": {
    "howlongtobeat": "23624",
    "igdb": "elegy-for-a-dead-world",
+   "metacritic": "elegy-for-a-dead-world",
    "mobygames": "83623",
    "pcgamingwiki": "Elegy_for_a_Dead_World",
    "steam": "252290"
@@ -202,6 +206,7 @@
    "gog": "game/kings_bounty_warriors_of_the_north",
    "howlongtobeat": "5021",
    "igdb": "kings-bounty-warriors-of-the-north",
+   "metacritic": "kings-bounty-warriors-of-the-north",
    "mobygames": "61220",
    "pcgamingwiki": "King's_Bounty:_Warriors_of_the_North",
    "steam": "203350"
@@ -254,6 +259,7 @@
   "ids": {
    "howlongtobeat": "84754",
    "igdb": "empires-in-ruins",
+   "metacritic": "empires-in-ruins",
    "mobygames": "142117",
    "pcgamingwiki": "Empires_in_Ruins",
    "steam": "604510"
@@ -265,6 +271,7 @@
   "ids": {
    "howlongtobeat": "43346",
    "igdb": "ragdoll-runners",
+   "metacritic": "ragdoll-runners",
    "pcgamingwiki": "Ragdoll_Runners",
    "steam": "404820"
   },
@@ -298,6 +305,7 @@
    "gog": "game/divinity_original_sin_2",
    "howlongtobeat": "64410",
    "igdb": "divinity-original-sin-ii-definitive-edition",
+   "metacritic": "divinity-original-sin-ii-definitive-edition",
    "mobygames": "95966",
    "pcgamingwiki": "Divinity:_Original_Sin_II_-_Definitive_Edition",
    "steam": "435150"
@@ -310,6 +318,7 @@
   "ids": {
    "howlongtobeat": "80386",
    "igdb": "atri-my-dear-moments",
+   "metacritic": "atri-my-dear-moments-",
    "mobygames": "177054",
    "pcgamingwiki": "ATRI_-My_Dear_Moments-",
    "steam": "1230140"
@@ -321,6 +330,7 @@
   "enwiki": "Hyrule Warriors: Age of Calamity",
   "ids": {
    "igdb": "hyrule-warriors-age-of-calamity",
+   "metacritic": "hyrule-warriors-age-of-calamity",
    "mobygames": "150320"
   },
   "label_en": "Hyrule Warriors: Age of Calamity",
@@ -366,6 +376,7 @@
    "gog": "game/kitaria_fables",
    "howlongtobeat": "86021",
    "igdb": "kitaria-fables",
+   "metacritic": "kitaria-fables",
    "mobygames": "171124",
    "pcgamingwiki": "Kitaria_Fables",
    "steam": "1356280"
@@ -413,6 +424,7 @@
   "ids": {
    "howlongtobeat": "29424",
    "igdb": "discstorm",
+   "metacritic": "discstorm",
    "pcgamingwiki": "DiscStorm",
    "steam": "330670"
   },

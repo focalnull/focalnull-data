@@ -13,6 +13,7 @@
   "enwiki": "Spider-Man (2000 video game)",
   "ids": {
    "igdb": "spider-man--5",
+   "metacritic": "spider-man",
    "mobygames": "4333",
    "pcgamingwiki": "Spider-Man_(2001)"
   },
@@ -32,6 +33,7 @@
   "ids": {
    "howlongtobeat": "6635",
    "igdb": "ninja-reflex",
+   "metacritic": "ninja-reflex-steamworks-edition",
    "mobygames": "34677",
    "pcgamingwiki": "Ninja_Reflex",
    "steam": "13000"
@@ -44,6 +46,7 @@
   "ids": {
    "howlongtobeat": "7366",
    "igdb": "prototype-2",
+   "metacritic": "prototype-2",
    "mobygames": "55782",
    "pcgamingwiki": "Prototype_2",
    "steam": "115320"
@@ -75,6 +78,7 @@
    "gog": "game/spelunky",
    "howlongtobeat": "8932",
    "igdb": "spelunky",
+   "metacritic": "spelunky",
    "mobygames": "43992",
    "pcgamingwiki": "Spelunky",
    "steam": "239350"
@@ -138,6 +142,7 @@
    "gog": "game/vangers",
    "howlongtobeat": "19581",
    "igdb": "vangers",
+   "metacritic": "vangers-one-for-the-road",
    "mobygames": "6934",
    "pcgamingwiki": "Vangers",
    "steam": "264080"
@@ -261,6 +266,7 @@
   "ids": {
    "howlongtobeat": "12614",
    "igdb": "bientot-lete",
+   "metacritic": "bientot-lete",
    "mobygames": "59682",
    "pcgamingwiki": "Bientôt_l'été",
    "steam": "229600"
@@ -296,6 +302,7 @@
   "ids": {
    "howlongtobeat": "21698",
    "igdb": "knight-squad",
+   "metacritic": "knight-squad",
    "mobygames": "75820",
    "pcgamingwiki": "Knight_Squad",
    "steam": "294000"
@@ -308,6 +315,7 @@
   "ids": {
    "howlongtobeat": "27006",
    "igdb": "devil-may-cry-4-special-edition",
+   "metacritic": "devil-may-cry-4-special-edition",
    "mobygames": "84500",
    "pcgamingwiki": "Devil_May_Cry_4:_Special_Edition",
    "steam": "329050"
@@ -329,6 +337,7 @@
   "ids": {
    "howlongtobeat": "67684",
    "igdb": "vectronom",
+   "metacritic": "vectronom",
    "mobygames": "127659",
    "pcgamingwiki": "Vectronom",
    "steam": "925460"
@@ -342,6 +351,7 @@
    "gog": "game/aztech_forgotten_gods",
    "howlongtobeat": "91092",
    "igdb": "aztech-forgotten-gods",
+   "metacritic": "aztech-forgotten-gods",
    "mobygames": "181051",
    "pcgamingwiki": "Aztech:_Forgotten_Gods",
    "steam": "1592320"
@@ -353,6 +363,7 @@
   "enwiki": "World of Demons",
   "ids": {
    "igdb": "world-of-demons",
+   "metacritic": "world-of-demons",
    "mobygames": "162023",
    "pcgamingwiki": "World_of_Demons"
   },
@@ -408,6 +419,7 @@
    "epic": "deceive-inc",
    "howlongtobeat": "109371",
    "igdb": "deceive-inc",
+   "metacritic": "deceive-inc",
    "mobygames": "200819",
    "pcgamingwiki": "Deceive_Inc.",
    "steam": "820520"
@@ -442,6 +454,7 @@
   "ids": {
    "howlongtobeat": "53468",
    "igdb": "yume-nikki-dream-diary",
+   "metacritic": "yume-nikki-dream-diary",
    "mobygames": "101917",
    "pcgamingwiki": "Yumenikki:_Dream_Diary",
    "steam": "774811"
@@ -463,6 +476,7 @@
   "ids": {
    "howlongtobeat": "131658",
    "igdb": "ea-sports-fc-24",
+   "metacritic": "ea-sports-fc-24",
    "pcgamingwiki": "EA_Sports_FC_24",
    "steam": "2195250"
   },
@@ -513,6 +527,7 @@
  {
   "ids": {
    "igdb": "fragments-note-plus-afterstory",
+   "metacritic": "fragments-note-plus-afterstory",
    "steam": "2852400"
   },
   "label_en": "Fragment's Note+ AfterStory",
@@ -524,6 +539,7 @@
    "gog": "game/super_catboy",
    "howlongtobeat": "132088",
    "igdb": "super-catboy",
+   "metacritic": "super-catboy",
    "mobygames": "206347",
    "pcgamingwiki": "Super_Catboy",
    "steam": "1376910"
@@ -674,6 +690,7 @@
    "gog": "game/unholy",
    "howlongtobeat": "88819",
    "igdb": "unholy",
+   "metacritic": "unholy",
    "mobygames": "206202",
    "pcgamingwiki": "Unholy",
    "steam": "817020"
@@ -881,6 +898,9 @@
   "wikidata": "Q124075296"
  },
  {
+  "ids": {
+   "metacritic": "100-great-education-games-volume-4"
+  },
   "label_en": "100 Great Educational Games V4",
   "wikidata": "Q125956296"
  },
@@ -980,6 +1000,7 @@
  {
   "ids": {
    "igdb": "neogeo-pocket-color-selection-vol-dot-2",
+   "metacritic": "neogeo-pocket-color-selection-vol-2",
    "mobygames": "195098",
    "pcgamingwiki": "NeoGeo_Pocket_Color_Selection_Vol._2",
    "steam": "1983850"
@@ -1188,6 +1209,7 @@
   "ids": {
    "gog": "game/hypnos",
    "igdb": "hypnos",
+   "pcgamingwiki": "Hypnos",
    "steam": "2861210"
   },
   "label_en": "Hypnos",

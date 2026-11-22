@@ -3,6 +3,7 @@
   "enwiki": "Star Wars: Obi-Wan",
   "ids": {
    "igdb": "star-wars-obi-wan",
+   "metacritic": "star-wars-obi-wan",
    "mobygames": "5704"
   },
   "label_en": "Star Wars: Obi-Wan",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "3661",
    "igdb": "forza-horizon",
+   "metacritic": "forza-horizon",
    "mobygames": "58675"
   },
   "label_en": "Forza Horizon",
@@ -23,6 +25,7 @@
   "ids": {
    "howlongtobeat": "9578",
    "igdb": "take-on-helicopters",
+   "metacritic": "take-on-helicopters",
    "mobygames": "57455",
    "pcgamingwiki": "Take_On_Helicopters",
    "steam": "65730"
@@ -44,6 +47,7 @@
   "ids": {
    "howlongtobeat": "354",
    "igdb": "alien-hominid",
+   "metacritic": "alien-hominid",
    "mobygames": "15825"
   },
   "label_en": "Alien Hominid",
@@ -69,6 +73,7 @@
    "gog": "game/battle_engine_aquila",
    "howlongtobeat": "910",
    "igdb": "battle-engine-aquila",
+   "metacritic": "battle-engine-aquila",
    "mobygames": "11291",
    "pcgamingwiki": "Battle_Engine_Aquila",
    "steam": "1346400"
@@ -81,6 +86,7 @@
   "ids": {
    "howlongtobeat": "2964",
    "igdb": "dungeonland",
+   "metacritic": "dungeonland",
    "mobygames": "63670",
    "pcgamingwiki": "Dungeonland",
    "steam": "218130"
@@ -94,6 +100,7 @@
    "epic": "elite-dangerous",
    "howlongtobeat": "3088",
    "igdb": "elite-dangerous",
+   "metacritic": "elite-dangerous",
    "mobygames": "81239",
    "pcgamingwiki": "Elite:_Dangerous",
    "steam": "359320"
@@ -126,6 +133,7 @@
   "ids": {
    "howlongtobeat": "18910",
    "igdb": "eurofighter-typhoon",
+   "metacritic": "eurofighter-typhoon",
    "mobygames": "5758",
    "pcgamingwiki": "Eurofighter_Typhoon",
    "steam": "283350"
@@ -146,6 +154,7 @@
   "ids": {
    "howlongtobeat": "10617",
    "igdb": "trapped-dead",
+   "metacritic": "trapped-dead",
    "mobygames": "49716",
    "pcgamingwiki": "Trapped_Dead",
    "steam": "46540"
@@ -205,6 +214,7 @@
   "enwiki": "Call of Duty: Strike Team",
   "ids": {
    "igdb": "call-of-duty-strike-team",
+   "metacritic": "call-of-duty-strike-team",
    "mobygames": "79828"
   },
   "label_en": "Call of Duty: Strike Team",
@@ -215,6 +225,7 @@
   "ids": {
    "howlongtobeat": "20077",
    "igdb": "uncharted-4-a-thief-s-end",
+   "metacritic": "uncharted-4-a-thiefs-end",
    "mobygames": "78748"
   },
   "label_en": "Uncharted 4: A Thief's End",
@@ -304,6 +315,7 @@
   "ids": {
    "howlongtobeat": "57203",
    "igdb": "numantia",
+   "metacritic": "numantia",
    "mobygames": "97533",
    "pcgamingwiki": "Numantia",
    "steam": "588080"
@@ -316,6 +328,7 @@
    "gog": "game/megadimension_neptunia_viir",
    "howlongtobeat": "62655",
    "igdb": "megadimension-neptunia-viir",
+   "metacritic": "megadimension-neptunia-viir",
    "mobygames": "108378",
    "pcgamingwiki": "Megadimension_Neptunia_VIIR",
    "steam": "774511"
@@ -327,6 +340,7 @@
   "ids": {
    "howlongtobeat": "84383",
    "igdb": "tears-of-avia",
+   "metacritic": "tears-of-avia",
    "mobygames": "151637",
    "pcgamingwiki": "Tears_of_Avia",
    "steam": "461510"
@@ -432,7 +446,8 @@
  {
   "enwiki": "RAD Soldiers",
   "ids": {
-   "igdb": "rad-soldiers"
+   "igdb": "rad-soldiers",
+   "metacritic": "rad-soldiers"
   },
   "label_en": "RAD Soldiers",
   "wikidata": "Q116728843"
@@ -951,6 +966,7 @@
    "epic": "shadow-tactics-aikos-choice-5678c1",
    "howlongtobeat": "101222",
    "igdb": "shadow-tactics-blades-of-the-shogun-aikos-choice",
+   "metacritic": "shadow-tactics-blades-of-the-shogun-aikos-choice",
    "mobygames": "176382",
    "steam": "1579380"
   },
@@ -1288,6 +1304,7 @@
  {
   "ids": {
    "igdb": "catch-flex--1",
+   "pcgamingwiki": "Catch_Flex",
    "steam": "3670810"
   },
   "label_en": "Catch Flex",

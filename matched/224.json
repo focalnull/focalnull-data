@@ -3,6 +3,7 @@
   "enwiki": "Free Realms",
   "ids": {
    "igdb": "free-realms",
+   "metacritic": "free-realms",
    "mobygames": "45990"
   },
   "label_en": "Free Realms",
@@ -22,6 +23,7 @@
   "enwiki": "Michael Jackson: The Experience",
   "ids": {
    "igdb": "michael-jackson-the-experience",
+   "metacritic": "michael-jackson-the-experience",
    "mobygames": "49385"
   },
   "label_en": "Michael Jackson: The Experience",
@@ -32,6 +34,7 @@
   "ids": {
    "howlongtobeat": "6119",
    "igdb": "mobile-suit-gundam-crossfire",
+   "metacritic": "mobile-suit-gundam-crossfire",
    "mobygames": "46485"
   },
   "label_en": "Mobile Suit Gundam: Crossfire",
@@ -41,6 +44,7 @@
   "enwiki": "Aero the Acro-Bat",
   "ids": {
    "igdb": "aero-the-acro-bat",
+   "metacritic": "aero-the-acro-bat",
    "mobygames": "6990"
   },
   "label_en": "Aero the Acro-Bat",
@@ -85,6 +89,7 @@
   "enwiki": "DreamWorks Madagascar 3: The Video Game",
   "ids": {
    "igdb": "madagascar-3-the-video-game",
+   "metacritic": "madagascar-3-the-video-game",
    "mobygames": "91576"
   },
   "label_en": "Madagascar 3: The Video Game",
@@ -123,6 +128,7 @@
   "enwiki": "Catwoman (video game)",
   "ids": {
    "igdb": "catwoman",
+   "metacritic": "catwoman-2004",
    "mobygames": "14721",
    "pcgamingwiki": "Catwoman"
   },
@@ -134,6 +140,7 @@
   "ids": {
    "howlongtobeat": "17225",
    "igdb": "columns-crown",
+   "metacritic": "columns-crown",
    "mobygames": "8691"
   },
   "label_en": "Columns Crown",
@@ -184,6 +191,7 @@
   "enwiki": "Ultimate Muscle: Legends vs. New Generation",
   "ids": {
    "igdb": "ultimate-muscle-legends-vs-new-generation",
+   "metacritic": "ultimate-muscle-legends-vs-new-generation",
    "mobygames": "38999"
   },
   "label_en": "Ultimate Muscle: Legends vs. New Generation",
@@ -204,6 +212,7 @@
   "enwiki": "Godzilla (2014 video game)",
   "ids": {
    "igdb": "godzilla-the-game--1",
+   "metacritic": "godzilla",
    "mobygames": "86440"
   },
   "label_en": "Godzilla: The Game",
@@ -227,6 +236,7 @@
   "ids": {
    "howlongtobeat": "25179",
    "igdb": "solarix",
+   "metacritic": "solarix",
    "mobygames": "108468",
    "pcgamingwiki": "Solarix",
    "steam": "284990"
@@ -239,6 +249,7 @@
   "ids": {
    "howlongtobeat": "21743",
    "igdb": "kick-ass-2",
+   "metacritic": "kick-ass-2",
    "mobygames": "71516",
    "pcgamingwiki": "Kick-Ass_2",
    "steam": "304170"
@@ -251,6 +262,7 @@
   "ids": {
    "howlongtobeat": "39833",
    "igdb": "livelock",
+   "metacritic": "livelock",
    "mobygames": "87236",
    "pcgamingwiki": "Livelock",
    "steam": "251230"
@@ -263,6 +275,7 @@
   "ids": {
    "howlongtobeat": "49677",
    "igdb": "cyberdimension-neptunia-4-goddesses-online",
+   "metacritic": "cyberdimension-neptunia-4-goddesses-online",
    "mobygames": "97034",
    "pcgamingwiki": "Cyberdimension_Neptunia:_4_Goddesses_Online",
    "steam": "632350"
@@ -275,6 +288,7 @@
   "ids": {
    "howlongtobeat": "47549",
    "igdb": "aporia-beyond-the-valley",
+   "metacritic": "aporia-beyond-the-valley",
    "mobygames": "92857",
    "pcgamingwiki": "Aporia:_Beyond_The_Valley",
    "steam": "573130"
@@ -286,6 +300,7 @@
   "enwiki": "Hey! Pikmin",
   "ids": {
    "igdb": "hey-pikmin",
+   "metacritic": "hey-pikmin",
    "mobygames": "91234"
   },
   "label_en": "Hey! Pikmin",
@@ -295,6 +310,7 @@
   "ids": {
    "howlongtobeat": "21099",
    "igdb": "forsaken-uprising",
+   "metacritic": "forsaken-uprising",
    "pcgamingwiki": "Forsaken_Uprising",
    "steam": "314700"
   },
@@ -323,6 +339,7 @@
   "ids": {
    "howlongtobeat": "71656",
    "igdb": "monkey-king-hero-is-back",
+   "metacritic": "monkey-king-hero-is-back",
    "mobygames": "135685",
    "pcgamingwiki": "Monkey_King:_Hero_Is_Back",
    "steam": "967240"
@@ -336,6 +353,7 @@
    "epic": "warhammer-40000-chaos-gate-daemonhunters",
    "howlongtobeat": "94918",
    "igdb": "warhammer-40000-chaos-gate-daemonhunters",
+   "metacritic": "warhammer-40000-chaos-gate-daemonhunters",
    "mobygames": "183884",
    "pcgamingwiki": "Warhammer_40,000:_Chaos_Gate_-_Daemonhunters",
    "steam": "1611910"
@@ -382,6 +400,7 @@
   "ids": {
    "howlongtobeat": "8624",
    "igdb": "skyward-collapse",
+   "metacritic": "skyward-collapse",
    "mobygames": "67772",
    "pcgamingwiki": "Skyward_Collapse",
    "steam": "238890"

@@ -22,6 +22,7 @@
   "enwiki": "Hulk (video game)",
   "ids": {
    "igdb": "hulk",
+   "metacritic": "hulk",
    "mobygames": "9403",
    "pcgamingwiki": "Hulk"
   },
@@ -32,6 +33,7 @@
   "enwiki": "Summon Night: Twin Age",
   "ids": {
    "igdb": "summon-night-twin-age",
+   "metacritic": "summon-night-twin-age",
    "mobygames": "34696"
   },
   "label_en": "Summon Night: Twin Age",
@@ -71,7 +73,8 @@
  {
   "ids": {
    "howlongtobeat": "19605",
-   "igdb": "bust-a-move-deluxe"
+   "igdb": "bust-a-move-deluxe",
+   "metacritic": "bust-a-move-deluxe"
   },
   "label_en": "Bust-a-Move Ghost",
   "wikidata": "Q2928774"
@@ -104,7 +107,8 @@
  {
   "enwiki": "Mobile Suit Gundam: Journey to Jaburo",
   "ids": {
-   "igdb": "mobile-suit-gundam-journey-to-jaburo"
+   "igdb": "mobile-suit-gundam-journey-to-jaburo",
+   "metacritic": "mobile-suit-gundam-journey-to-jaburo"
   },
   "label_en": "Mobile Suit Gundam: Journey to Jaburo",
   "wikidata": "Q3546774"
@@ -178,6 +182,7 @@
   "enwiki": "PDC World Championship Darts 2008",
   "ids": {
    "igdb": "pdc-world-championship-darts-2008",
+   "metacritic": "pdc-world-championship-darts-2008",
    "mobygames": "44173"
   },
   "label_en": "PDC World Championship Darts 2008",
@@ -242,6 +247,7 @@
   "ids": {
    "howlongtobeat": "25178",
    "igdb": "shroud-of-the-avatar-forsaken-virtues",
+   "metacritic": "shroud-of-the-avatar-forsaken-virtues",
    "mobygames": "106126",
    "pcgamingwiki": "Shroud_of_the_Avatar:_Forsaken_Virtues",
    "steam": "326160"
@@ -253,6 +259,7 @@
   "enwiki": "The Revenge of Shinobi (2002 video game)",
   "ids": {
    "igdb": "the-revenge-of-shinobi--1",
+   "metacritic": "the-revenge-of-shinobi",
    "mobygames": "14538"
   },
   "label_en": "The Revenge of Shinobi",
@@ -262,6 +269,7 @@
   "enwiki": "RollerCoaster Tycoon 4 Mobile",
   "ids": {
    "igdb": "rollercoaster-tycoon-4-mobile",
+   "metacritic": "rollercoaster-tycoon-4-mobile",
    "mobygames": "65400"
   },
   "label_en": "RollerCoaster Tycoon 4 Mobile",
@@ -302,7 +310,8 @@
  {
   "enwiki": "That's You!",
   "ids": {
-   "igdb": "thats-you"
+   "igdb": "thats-you",
+   "metacritic": "thats-you"
   },
   "label_en": "That's You!",
   "wikidata": "Q42266774"
@@ -324,6 +333,9 @@
   "wikidata": "Q51554774"
  },
  {
+  "ids": {
+   "metacritic": "sports-island-3d"
+  },
   "label_en": "Sports Island 3D",
   "wikidata": "Q57577774"
  },
@@ -345,6 +357,7 @@
    "gog": "game/baldurs_gate_iii",
    "howlongtobeat": "68033",
    "igdb": "baldurs-gate-iii",
+   "metacritic": "baldurs-gate-3",
    "mobygames": "150689",
    "pcgamingwiki": "Baldur's_Gate_3",
    "steam": "1086940"
@@ -356,6 +369,7 @@
   "ids": {
    "howlongtobeat": "39661",
    "igdb": "tachyon-project",
+   "metacritic": "tachyon-project",
    "mobygames": "77499",
    "pcgamingwiki": "Tachyon_Project",
    "steam": "385860"
@@ -368,6 +382,7 @@
   "ids": {
    "howlongtobeat": "91991",
    "igdb": "touhou-kouryuudou-unconnected-marketeers",
+   "metacritic": "touhou-kouryudou-unconnected-marketeers",
    "mobygames": "163590",
    "pcgamingwiki": "Unconnected_Marketeers",
    "steam": "1566410"
@@ -940,6 +955,7 @@
    "epic": "oneeyed-likho-7abe59",
    "howlongtobeat": "170074",
    "igdb": "one-eyed-likho",
+   "metacritic": "one-eyed-likho",
    "mobygames": "246362",
    "pcgamingwiki": "One-Eyed_Likho",
    "steam": "2346840"
@@ -995,6 +1011,7 @@
    "epic": "farming-simulator-25-917e48",
    "howlongtobeat": "152766",
    "igdb": "farming-simulator-25",
+   "metacritic": "farming-simulator-25",
    "mobygames": "233203",
    "pcgamingwiki": "Farming_Simulator_25",
    "steam": "2300320"

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "24129",
    "igdb": "fifa-manager-09",
+   "metacritic": "fifa-manager-09",
    "mobygames": "44846",
    "pcgamingwiki": "FIFA_Manager_09"
   },
@@ -55,6 +56,7 @@
   "enwiki": "NBA Live 07",
   "ids": {
    "igdb": "nba-live-07",
+   "metacritic": "nba-live-07",
    "mobygames": "25664",
    "pcgamingwiki": "NBA_Live_07"
   },
@@ -65,6 +67,7 @@
   "enwiki": "Disney's Aladdin in Nasira's Revenge",
   "ids": {
    "igdb": "disneys-aladdin-in-nasiras-revenge",
+   "metacritic": "disneys-aladdin-in-nasiras-revenge",
    "mobygames": "3905",
    "pcgamingwiki": "Aladdin_in_Nasira's_Revenge"
   },
@@ -153,6 +156,7 @@
   "ids": {
    "howlongtobeat": "10133",
    "igdb": "the-political-machine-2012",
+   "metacritic": "the-political-machine-2012",
    "mobygames": "65243",
    "pcgamingwiki": "The_Political_Machine_2012",
    "steam": "211120"
@@ -180,6 +184,7 @@
   "ids": {
    "howlongtobeat": "13776",
    "igdb": "flashback",
+   "metacritic": "flashback",
    "mobygames": "63018",
    "pcgamingwiki": "Flashback_(2013)",
    "steam": "245730"
@@ -204,6 +209,7 @@
    "epic": "outerwilds",
    "howlongtobeat": "57527",
    "igdb": "outer-wilds",
+   "metacritic": "outer-wilds",
    "mobygames": "127776",
    "pcgamingwiki": "Outer_Wilds",
    "steam": "753640"
@@ -216,6 +222,7 @@
   "ids": {
    "howlongtobeat": "53763",
    "igdb": "ace-combat-7-skies-unknown",
+   "metacritic": "ace-combat-7-skies-unknown",
    "mobygames": "113893",
    "pcgamingwiki": "Ace_Combat_7:_Skies_Unknown",
    "steam": "502500"
@@ -247,6 +254,7 @@
   "ids": {
    "epic": "the-settlers",
    "igdb": "the-settlers-new-allies",
+   "metacritic": "the-settlers-new-allies",
    "mobygames": "199621",
    "pcgamingwiki": "The_Settlers_(2020)",
    "steam": "2750080"
@@ -273,6 +281,7 @@
  {
   "ids": {
    "igdb": "lilulu",
+   "metacritic": "lilulu",
    "steam": "1459340"
   },
   "label_en": "Lilulu",
@@ -283,6 +292,7 @@
   "ids": {
    "howlongtobeat": "155658",
    "igdb": "mafia-the-old-country",
+   "metacritic": "mafia-the-old-country",
    "mobygames": "242997",
    "pcgamingwiki": "Mafia:_The_Old_Country",
    "steam": "1941540"
@@ -340,6 +350,7 @@
    "gog": "game/the_plucky_squire",
    "howlongtobeat": "109109",
    "igdb": "the-plucky-squire",
+   "metacritic": "the-plucky-squire",
    "mobygames": "230691",
    "pcgamingwiki": "The_Plucky_Squire",
    "steam": "1627570"
@@ -351,6 +362,7 @@
   "ids": {
    "howlongtobeat": "64425",
    "igdb": "trivia-vault-golf-trivia",
+   "metacritic": "trivia-vault-golf-trivia",
    "pcgamingwiki": "Trivia_Vault:_Golf_Trivia",
    "steam": "822900"
   },
@@ -393,6 +405,7 @@
    "gog": "game/railbound",
    "howlongtobeat": "109179",
    "igdb": "railbound",
+   "metacritic": "railbound",
    "mobygames": "190752",
    "pcgamingwiki": "Railbound",
    "steam": "1967510"
@@ -403,7 +416,8 @@
  {
   "enwiki": "Angry Birds Journey",
   "ids": {
-   "igdb": "angry-birds-journey"
+   "igdb": "angry-birds-journey",
+   "metacritic": "angry-birds-journey"
   },
   "label_en": "Angry Birds Journey",
   "wikidata": "Q117788660"
@@ -560,6 +574,7 @@
    "gog": "game/lempo",
    "howlongtobeat": "136056",
    "igdb": "lempo",
+   "metacritic": "lempo",
    "mobygames": "210312",
    "pcgamingwiki": "Lempo",
    "steam": "1891620"
@@ -1054,6 +1069,7 @@
   "ids": {
    "igdb": "daenerys-doesnt-want-hentai",
    "mobygames": "153373",
+   "pcgamingwiki": "Daenerys_doesn't_want_Hentai",
    "steam": "1163460"
   },
   "label_en": "Daenerys doesn’t want Hentai",
@@ -1088,6 +1104,7 @@
  {
   "ids": {
    "igdb": "orc-incremental",
+   "pcgamingwiki": "Orc_Incremental",
    "steam": "4047270"
   },
   "label_en": "Orc Incremental",

@@ -25,6 +25,7 @@
    "gog": "game/call_of_juarez",
    "howlongtobeat": "1485",
    "igdb": "call-of-juarez",
+   "metacritic": "call-of-juarez",
    "mobygames": "23915",
    "pcgamingwiki": "Call_of_Juarez",
    "steam": "3020"
@@ -36,6 +37,7 @@
   "enwiki": "Capcom vs. SNK 2",
   "ids": {
    "igdb": "capcom-vs-snk-2-mark-of-the-millennium-2001",
+   "metacritic": "capcom-vs-snk-2",
    "mobygames": "5003"
   },
   "label_en": "Capcom vs. SNK 2: Mark of the Millennium 2001",
@@ -46,6 +48,7 @@
   "ids": {
    "howlongtobeat": "7815",
    "igdb": "rift",
+   "metacritic": "rift",
    "mobygames": "50822",
    "pcgamingwiki": "Rift",
    "steam": "39120"
@@ -90,6 +93,7 @@
   "ids": {
    "howlongtobeat": "10180",
    "igdb": "the-simpsons-skateboarding",
+   "metacritic": "the-simpsons-skateboarding",
    "mobygames": "23552"
   },
   "label_en": "The Simpsons Skateboarding",
@@ -144,6 +148,13 @@
   "wikidata": "Q8034271"
  },
  {
+  "ids": {
+   "igdb": "popolocrois-monogatari"
+  },
+  "label_en": "PoPoLoCrois Monogatari",
+  "wikidata": "Q11339271"
+ },
+ {
   "label_en": "Sekai no Subete",
   "wikidata": "Q11362271"
  },
@@ -194,6 +205,7 @@
   "ids": {
    "howlongtobeat": "57690",
    "igdb": "surf-world-series",
+   "metacritic": "surf-world-series",
    "mobygames": "95334",
    "pcgamingwiki": "Surf_World_Series",
    "steam": "462640"
@@ -216,12 +228,16 @@
   "ids": {
    "howlongtobeat": "4212",
    "igdb": "gunpey-ds",
+   "metacritic": "gunpey",
    "mobygames": "47508"
   },
   "label_en": "Gunpey",
   "wikidata": "Q55387271"
  },
  {
+  "ids": {
+   "metacritic": "nra-practice-range"
+  },
   "label_en": "NRA: Practice Range",
   "wikidata": "Q62095271"
  },
@@ -514,6 +530,7 @@
   "ids": {
    "howlongtobeat": "62086",
    "igdb": "seeking-dawn",
+   "metacritic": "seeking-dawn",
    "mobygames": "111195",
    "pcgamingwiki": "Seeking_Dawn",
    "steam": "859340"
@@ -757,7 +774,8 @@
  },
  {
   "ids": {
-   "igdb": "mighty-aphid-2"
+   "igdb": "mighty-aphid-2",
+   "metacritic": "mighty-aphid-2"
   },
   "label_en": "Mighty Aphid 2",
   "wikidata": "Q130638271"
@@ -770,7 +788,8 @@
   "enwiki": "Jonny Quest: Curse of the Mayan Warriors",
   "ids": {
    "igdb": "jonny-quest-curse-of-the-mayan-warriors",
-   "mobygames": "2469"
+   "mobygames": "2469",
+   "pcgamingwiki": "Jonny_Quest:_Curse_of_the_Mayan_Warriors"
   },
   "label_en": "Jonny Quest: Curse of the Mayan Warriors",
   "wikidata": "Q131258271"
@@ -1041,6 +1060,7 @@
  {
   "ids": {
    "igdb": "flower-design-ii",
+   "pcgamingwiki": "Flower_Design_II",
    "steam": "960140"
   },
   "label_en": "Flower Design Ⅱ",
@@ -1060,6 +1080,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Really_Illegal_Golf",
    "steam": "4115520"
   },
   "label_en": "Really Illegal Golf",

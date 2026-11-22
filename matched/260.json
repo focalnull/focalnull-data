@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5452",
    "igdb": "luxor-3",
+   "metacritic": "luxor-3",
    "mobygames": "37717",
    "pcgamingwiki": "Luxor_3",
    "steam": "15930"
@@ -15,6 +16,7 @@
   "enwiki": "Resistance: Retribution",
   "ids": {
    "igdb": "resistance-retribution",
+   "metacritic": "resistance-retribution",
    "mobygames": "41386"
   },
   "label_en": "Resistance: Retribution",
@@ -25,6 +27,7 @@
   "ids": {
    "howlongtobeat": "1799",
    "igdb": "colin-mcrae-rally-04",
+   "metacritic": "colin-mcrae-rally-04",
    "mobygames": "10434",
    "pcgamingwiki": "Colin_McRae_Rally_04"
   },
@@ -43,6 +46,7 @@
   "ids": {
    "howlongtobeat": "6376",
    "igdb": "napoleon-total-war",
+   "metacritic": "napoleon-total-war",
    "mobygames": "45432",
    "pcgamingwiki": "Napoleon:_Total_War",
    "steam": "34030"
@@ -55,6 +59,7 @@
   "ids": {
    "howlongtobeat": "1063",
    "igdb": "bionicle-heroes",
+   "metacritic": "bionicle-heroes",
    "mobygames": "28262",
    "pcgamingwiki": "Bionicle_Heroes"
   },
@@ -66,6 +71,7 @@
   "ids": {
    "howlongtobeat": "473",
    "igdb": "animal-crossing-city-folk",
+   "metacritic": "animal-crossing-city-folk",
    "mobygames": "38141"
   },
   "label_en": "Animal Crossing: City Folk",
@@ -114,6 +120,7 @@
   "ids": {
    "howlongtobeat": "10510",
    "igdb": "toontown-online",
+   "metacritic": "disneys-toontown-online",
    "mobygames": "16308",
    "pcgamingwiki": "Toontown_Online"
   },
@@ -179,6 +186,7 @@
   "ids": {
    "howlongtobeat": "29675",
    "igdb": "highland-warriors",
+   "metacritic": "highland-warriors",
    "mobygames": "8412",
    "pcgamingwiki": "Highland_Warriors",
    "steam": "446460"
@@ -198,6 +206,7 @@
   "enwiki": "RoadKill (video game)",
   "ids": {
    "igdb": "roadkill",
+   "metacritic": "roadkill-2003",
    "mobygames": "10701"
   },
   "label_en": "RoadKill",
@@ -209,6 +218,7 @@
    "gog": "game/tales_from_space_mutant_blobs_attack",
    "howlongtobeat": "9580",
    "igdb": "tales-from-space-mutant-blobs-attack",
+   "metacritic": "tales-from-space-mutant-blobs-attack",
    "mobygames": "70293",
    "pcgamingwiki": "Tales_from_Space:_Mutant_Blobs_Attack",
    "steam": "206370"
@@ -220,6 +230,7 @@
   "enwiki": "The Bee Game",
   "ids": {
    "igdb": "the-bee-game",
+   "metacritic": "the-bee-game",
    "mobygames": "45548"
   },
   "label_en": "The Bee Game",
@@ -239,7 +250,8 @@
  },
  {
   "ids": {
-   "igdb": "quest-braintainment"
+   "igdb": "quest-braintainment",
+   "metacritic": "quest-braintainment"
   },
   "wikidata": "Q14249260"
  },
@@ -303,6 +315,7 @@
   "ids": {
    "howlongtobeat": "38204",
    "igdb": "wand-wars",
+   "metacritic": "wand-wars",
    "mobygames": "84925",
    "pcgamingwiki": "Wand_Wars",
    "steam": "422110"
@@ -316,6 +329,7 @@
    "gog": "game/virtuaverse",
    "howlongtobeat": "65655",
    "igdb": "virtuaverse",
+   "metacritic": "virtuaverse",
    "mobygames": "145459",
    "pcgamingwiki": "VirtuaVerse",
    "steam": "1019310"
@@ -385,6 +399,7 @@
    "epic": "dollhouse-de0de7",
    "howlongtobeat": "67357",
    "igdb": "dollhouse",
+   "metacritic": "dollhouse",
    "mobygames": "94563",
    "pcgamingwiki": "Dollhouse",
    "steam": "280850"
@@ -418,6 +433,7 @@
    "gog": "game/picklock",
    "howlongtobeat": "81197",
    "igdb": "picklock",
+   "metacritic": "picklock",
    "mobygames": "154595",
    "pcgamingwiki": "Picklock",
    "steam": "1243220"
@@ -1112,6 +1128,7 @@
  {
   "ids": {
    "igdb": "the-tactics-of-war",
+   "pcgamingwiki": "The_Tactics_of_War",
    "steam": "937780"
   },
   "label_en": "♞ The Tactics of War ♞",

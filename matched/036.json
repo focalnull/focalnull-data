@@ -56,6 +56,7 @@
   "ids": {
    "howlongtobeat": "10738",
    "igdb": "ty-the-tasmanian-tiger-2-bush-rescue",
+   "metacritic": "ty-the-tasmanian-tiger-2-bush-rescue",
    "mobygames": "86175",
    "pcgamingwiki": "TY_the_Tasmanian_Tiger_2",
    "steam": "411970"
@@ -76,6 +77,7 @@
   "enwiki": "George of the Jungle and the Search for the Secret",
   "ids": {
    "igdb": "george-of-the-jungle-and-the-search-for-the-secret",
+   "metacritic": "george-of-the-jungle-and-the-search-for-the-secret",
    "mobygames": "45347"
   },
   "label_en": "George of the Jungle and the Search for the Secret",
@@ -85,6 +87,7 @@
   "enwiki": "Knockout Kings 2001",
   "ids": {
    "igdb": "knockout-kings-2001",
+   "metacritic": "knockout-kings-2001",
    "mobygames": "3934"
   },
   "label_en": "Knockout Kings 2001",
@@ -162,6 +165,7 @@
    "epic": "kao-the-kangaroo-round-2-5d4d25",
    "howlongtobeat": "68242",
    "igdb": "kao-the-kangaroo-round-2",
+   "metacritic": "kao-the-kangaroo-round-2",
    "mobygames": "16023",
    "pcgamingwiki": "Kao_the_Kangaroo:_Round_2",
    "steam": "1048540"
@@ -173,6 +177,7 @@
   "enwiki": "NHL 2K10",
   "ids": {
    "igdb": "nhl-2k10",
+   "metacritic": "nhl-2k10",
    "mobygames": "42494"
   },
   "label_en": "NHL 2K10",
@@ -306,6 +311,7 @@
  {
   "ids": {
    "igdb": "taishou-x-alice-all-in-one",
+   "metacritic": "taishou-x-alice-all-in-one",
    "mobygames": "137897"
   },
   "label_en": "Taisho x Alice: All in One",
@@ -327,6 +333,7 @@
    "epic": "kombinara-e5baa8",
    "howlongtobeat": "120496",
    "igdb": "kombinera",
+   "metacritic": "kombinera",
    "mobygames": "185735",
    "pcgamingwiki": "Kombinera",
    "steam": "1827740"
@@ -391,6 +398,7 @@
    "gog": "game/homeworld_remastered_collection",
    "howlongtobeat": "24517",
    "igdb": "homeworld-remastered-collection",
+   "metacritic": "homeworld-remastered-collection",
    "mobygames": "72831",
    "pcgamingwiki": "Homeworld_Remastered_Collection",
    "steam": "244160"
@@ -412,6 +420,7 @@
   "ids": {
    "howlongtobeat": "109511",
    "igdb": "astlibra-revision",
+   "metacritic": "astlibra-revision",
    "mobygames": "193052",
    "pcgamingwiki": "Astlibra_Revision",
    "steam": "1718570"
@@ -423,6 +432,7 @@
   "ids": {
    "howlongtobeat": "116248",
    "igdb": "squad-51-vs-the-flying-saucers--1",
+   "metacritic": "squad-51-vs-the-flying-saucers",
    "mobygames": "191756",
    "pcgamingwiki": "Squadron_51",
    "steam": "1378800"
@@ -444,6 +454,7 @@
   "ids": {
    "howlongtobeat": "123919",
    "igdb": "the-kings-dilemma-chronicles",
+   "metacritic": "the-kings-dilemma-chronicles",
    "mobygames": "198795",
    "steam": "2069180"
   },
@@ -456,6 +467,7 @@
    "gog": "game/the_tartarus_key",
    "howlongtobeat": "128395",
    "igdb": "the-tartarus-key",
+   "metacritic": "the-tartarus-key",
    "mobygames": "204495",
    "steam": "1431850"
   },
@@ -485,6 +497,7 @@
   "ids": {
    "howlongtobeat": "86446",
    "igdb": "monster-truck-championship",
+   "metacritic": "monster-truck-championship",
    "mobygames": "151792",
    "pcgamingwiki": "Monster_Truck_Championship",
    "steam": "1209360"
@@ -843,6 +856,7 @@
  {
   "ids": {
    "igdb": "pokemon-masters-arena",
+   "metacritic": "pokemon-masters-arena",
    "mobygames": "46120"
   },
   "label_en": "Pokémon: Masters Arena",

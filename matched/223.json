@@ -22,6 +22,7 @@
   "ids": {
    "howlongtobeat": "11025",
    "igdb": "wars-of-the-roses",
+   "metacritic": "war-of-the-roses",
    "mobygames": "60765",
    "pcgamingwiki": "War_of_the_Roses",
    "steam": "42160"
@@ -93,6 +94,7 @@
   "enwiki": "Classic British Motor Racing",
   "ids": {
    "igdb": "classic-british-motor-racing",
+   "metacritic": "classic-british-motor-racing",
    "mobygames": "34732",
    "pcgamingwiki": "Classic_British_Motor_Racing"
   },
@@ -105,6 +107,7 @@
    "gog": "game/kingdom_under_fire_heroes",
    "howlongtobeat": "5053",
    "igdb": "kingdom-under-fire-heroes",
+   "metacritic": "kingdom-under-fire-heroes",
    "mobygames": "34441",
    "pcgamingwiki": "Kingdom_Under_Fire:_Heroes",
    "steam": "1315200"
@@ -126,6 +129,7 @@
   "enwiki": "Shining Force EXA",
   "ids": {
    "igdb": "shining-force-exa",
+   "metacritic": "shining-force-exa",
    "mobygames": "34598"
   },
   "label_en": "Shining Force EXA",
@@ -145,6 +149,7 @@
   "ids": {
    "howlongtobeat": "91044",
    "igdb": "battleship-slash-connect-four-slash-sorry-slash-trouble",
+   "metacritic": "battleship-connect-four-sorry-trouble",
    "mobygames": "31522"
   },
   "label_en": "Battleship/Connect Four/Sorry!/Trouble",
@@ -186,6 +191,7 @@
   "enwiki": "Puchi Puchi Virus",
   "ids": {
    "igdb": "puchi-puchi-virus",
+   "metacritic": "puchi-puchi-virus",
    "mobygames": "157923"
   },
   "label_en": "Puchi Puchi Virus",
@@ -256,6 +262,7 @@
   "ids": {
    "howlongtobeat": "14642",
    "igdb": "wrc-4-fia-world-rally-championship",
+   "metacritic": "wrc-4-fia-world-rally-championship",
    "mobygames": "63569",
    "pcgamingwiki": "WRC_4:_FIA_World_Rally_Championship",
    "steam": "256330"
@@ -276,6 +283,7 @@
   "ids": {
    "howlongtobeat": "37244",
    "igdb": "umbrella-corps",
+   "metacritic": "umbrella-corps",
    "mobygames": "84929",
    "pcgamingwiki": "Umbrella_Corps",
    "steam": "390340"
@@ -336,6 +344,7 @@
    "gog": "game/chronos_before_the_ashes",
    "howlongtobeat": "85570",
    "igdb": "chronos-before-the-ashes",
+   "metacritic": "chronos",
    "mobygames": "154885",
    "pcgamingwiki": "Chronos:_Before_the_Ashes",
    "steam": "967390"

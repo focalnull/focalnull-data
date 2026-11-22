@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "20729",
    "igdb": "rfactor",
+   "metacritic": "rfactor",
    "mobygames": "39380",
    "pcgamingwiki": "RFactor",
    "steam": "339790"
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "3011",
    "igdb": "dynasty-warriors-gundam-2",
+   "metacritic": "dynasty-warriors-gundam-2",
    "mobygames": "50340"
   },
   "label_en": "Dynasty Warriors: Gundam 2",
@@ -35,6 +37,7 @@
    "epic": "borderlands-2",
    "howlongtobeat": "1274",
    "igdb": "borderlands-2",
+   "metacritic": "borderlands-2",
    "mobygames": "57909",
    "pcgamingwiki": "Borderlands_2",
    "steam": "49520"
@@ -66,6 +69,7 @@
   "ids": {
    "howlongtobeat": "49885",
    "igdb": "mysims-party",
+   "metacritic": "mysims-party",
    "mobygames": "80333"
   },
   "label_en": "MySims Party",
@@ -87,6 +91,7 @@
   "ids": {
    "howlongtobeat": "4103",
    "igdb": "green-day-rock-band",
+   "metacritic": "green-day-rock-band",
    "mobygames": "77126"
   },
   "label_en": "Green Day: Rock Band",
@@ -135,6 +140,7 @@
   "ids": {
    "howlongtobeat": "13454",
    "igdb": "cars-mater-national-championship",
+   "metacritic": "cars-mater-national-championship",
    "mobygames": "31974",
    "pcgamingwiki": "Cars_Mater-National_Championship",
    "steam": "332260"
@@ -184,6 +190,7 @@
   "enwiki": "Spectrobes: Origins",
   "ids": {
    "igdb": "spectrobes-origins",
+   "metacritic": "spectrobes-origins",
    "mobygames": "81680"
   },
   "label_en": "Spectrobes: Origins",
@@ -228,6 +235,7 @@
   "ids": {
    "howlongtobeat": "7971",
    "igdb": "romance-of-the-three-kingdoms-ix-with-power-up-kit",
+   "metacritic": "romance-of-the-three-kingdoms-ix",
    "mobygames": "24804",
    "pcgamingwiki": "Romance_of_the_Three_Kingdoms_IX",
    "steam": "628050"
@@ -285,6 +293,7 @@
    "gog": "game/surgeon_simulator",
    "howlongtobeat": "9489",
    "igdb": "surgeon-simulator-2013",
+   "metacritic": "surgeon-simulator-2013",
    "mobygames": "60384",
    "pcgamingwiki": "Surgeon_Simulator",
    "steam": "233720"
@@ -297,6 +306,7 @@
   "ids": {
    "howlongtobeat": "21464",
    "igdb": "fenix-rage",
+   "metacritic": "fenix-rage",
    "mobygames": "87045",
    "pcgamingwiki": "Fenix_Rage",
    "steam": "294460"
@@ -336,6 +346,7 @@
    "gog": "game/dv_rings_of_saturn",
    "howlongtobeat": "67853",
    "igdb": "rings-of-saturn--1",
+   "metacritic": "rings-of-saturn",
    "mobygames": "169704",
    "pcgamingwiki": "ΔV:_Rings_of_Saturn",
    "steam": "846030"
@@ -354,6 +365,7 @@
   "ids": {
    "howlongtobeat": "82771",
    "igdb": "super-mario-3d-world-plus-bowsers-fury",
+   "metacritic": "super-mario-3d-world-plus-bowsers-fury",
    "mobygames": "158999"
   },
   "label_en": "Super Mario 3D World + Bowser's Fury",
@@ -376,6 +388,7 @@
    "gog": "game/crossroads_inn",
    "howlongtobeat": "67673",
    "igdb": "crossroads-inn",
+   "metacritic": "crossroads-inn",
    "mobygames": "136443",
    "pcgamingwiki": "Crossroads_Inn",
    "steam": "867290"
@@ -491,7 +504,9 @@
   "ids": {
    "howlongtobeat": "97140",
    "igdb": "intrepid-izzy",
+   "metacritic": "intrepid-izzy",
    "mobygames": "148597",
+   "pcgamingwiki": "Intrepid_Izzy",
    "steam": "908560"
   },
   "label_en": "Intrepid Izzy",
@@ -502,6 +517,7 @@
   "ids": {
    "howlongtobeat": "132689",
    "igdb": "call-of-duty-modern-warfare-iii",
+   "metacritic": "call-of-duty-modern-warfare-iii",
    "mobygames": "211657",
    "pcgamingwiki": "Call_of_Duty:_Modern_Warfare_III",
    "steam": "2519060"

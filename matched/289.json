@@ -2,6 +2,7 @@
  {
   "ids": {
    "igdb": "himawari-no-kyoukai-to-nagai-natsuyasumi",
+   "metacritic": "himawari-no-kouykai-to-nagai-natsuyasumi",
    "mobygames": "268482",
    "steam": "4838460"
   },
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "1683",
    "igdb": "chivalry-medieval-warfare",
+   "metacritic": "chivalry-medieval-warfare",
    "mobygames": "58791",
    "pcgamingwiki": "Chivalry:_Medieval_Warfare",
    "steam": "219640"
@@ -89,6 +91,7 @@
   "enwiki": "Drakan: Order of the Flame",
   "ids": {
    "igdb": "drakan-order-of-the-flame",
+   "metacritic": "drakan-order-of-the-flame",
    "mobygames": "337",
    "pcgamingwiki": "Drakan:_Order_of_the_Flame"
   },
@@ -122,6 +125,7 @@
    "gog": "game/multiwinia",
    "howlongtobeat": "6259",
    "igdb": "multiwinia-survival-of-the-flattest",
+   "metacritic": "multiwinia-survival-of-the-flattest",
    "mobygames": "36306",
    "pcgamingwiki": "Multiwinia",
    "steam": "1530"
@@ -133,6 +137,7 @@
   "enwiki": "Monsters, Inc. Scream Team",
   "ids": {
    "igdb": "monsters-inc-scream-team",
+   "metacritic": "monsters-inc-scream-team",
    "mobygames": "5735",
    "pcgamingwiki": "Monsters,_Inc._Scream_Team_(Scare_Island)"
   },
@@ -155,6 +160,7 @@
    "gog": "game/chicago_1930_the_prohibition",
    "howlongtobeat": "39470",
    "igdb": "chicago-1930",
+   "metacritic": "chicago-1930",
    "mobygames": "11674",
    "pcgamingwiki": "Chicago_1930:_The_Prohibition",
    "steam": "623920"
@@ -258,6 +264,7 @@
   "ids": {
    "howlongtobeat": "11501",
    "igdb": "yu-gi-oh-the-eternal-duelist-soul",
+   "metacritic": "yu-gi-oh-the-eternal-duelist-soul",
    "mobygames": "8940"
   },
   "label_en": "Yu-Gi-Oh! The Eternal Duelist Soul",
@@ -268,6 +275,7 @@
   "ids": {
    "howlongtobeat": "6101",
    "igdb": "mlb-09-the-show",
+   "metacritic": "mlb-09-the-show",
    "mobygames": "39831"
   },
   "label_en": "MLB 09: The Show",
@@ -333,6 +341,7 @@
    "gog": "game/thief_simulator",
    "howlongtobeat": "62315",
    "igdb": "thief-simulator",
+   "metacritic": "thief-simulator",
    "mobygames": "116549",
    "pcgamingwiki": "Thief_Simulator",
    "steam": "704850"
@@ -348,6 +357,7 @@
   "enwiki": "Diplomacy (2005 video game)",
   "ids": {
    "igdb": "diplomacy",
+   "metacritic": "diplomacy",
    "mobygames": "36400"
   },
   "label_en": "Diplomacy",
@@ -357,6 +367,7 @@
   "ids": {
    "howlongtobeat": "40915",
    "igdb": "what-the-box",
+   "metacritic": "what-the-box",
    "mobygames": "103466",
    "pcgamingwiki": "What_The_Box?",
    "steam": "527340"
@@ -381,6 +392,7 @@
    "gog": "game/ad_infinitum",
    "howlongtobeat": "69831",
    "igdb": "ad-infinitum--1",
+   "metacritic": "ad-infinitum",
    "mobygames": "208571",
    "pcgamingwiki": "Ad_Infinitum",
    "steam": "1234430"
@@ -411,6 +423,7 @@
   "ids": {
    "howlongtobeat": "80713",
    "igdb": "pba-pro-bowling",
+   "metacritic": "pba-pro-bowling",
    "mobygames": "136187",
    "pcgamingwiki": "PBA_Pro_Bowling",
    "steam": "1126990"
@@ -1309,6 +1322,7 @@
  {
   "ids": {
    "igdb": "blue-screen-adventures",
+   "pcgamingwiki": "Blue_Screen_Adventures",
    "steam": "521250"
   },
   "label_en": "Blue Screen Adventures",

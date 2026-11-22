@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4263",
    "igdb": "halo-3",
+   "metacritic": "halo-3",
    "mobygames": "30479",
    "pcgamingwiki": "Halo_3",
    "steam": "1064271"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "5043",
    "igdb": "kingdom-hearts-ii",
+   "metacritic": "kingdom-hearts-ii",
    "mobygames": "21912"
   },
   "label_en": "Kingdom Hearts II",
@@ -67,6 +69,7 @@
   "enwiki": "Magic: The Gathering Online",
   "ids": {
    "igdb": "magic-the-gathering-online",
+   "metacritic": "magic-the-gathering-online",
    "mobygames": "9555",
    "pcgamingwiki": "Magic:_The_Gathering_Online"
   },
@@ -86,6 +89,7 @@
   "ids": {
    "howlongtobeat": "5384",
    "igdb": "lost-chronicles-of-zerzura",
+   "metacritic": "the-lost-chronicles-of-zerzura",
    "mobygames": "55827",
    "pcgamingwiki": "Lost_Chronicles_of_Zerzura",
    "steam": "308330"
@@ -98,6 +102,7 @@
   "ids": {
    "howlongtobeat": "911",
    "igdb": "battle-fantasia",
+   "metacritic": "battle-fantasia",
    "mobygames": "37353",
    "pcgamingwiki": "Battle_Fantasia_-Revised_Edition-",
    "steam": "356910"
@@ -118,6 +123,7 @@
   "ids": {
    "howlongtobeat": "8490",
    "igdb": "shrek-extra-large",
+   "metacritic": "shrek-extra-large",
    "mobygames": "9345"
   },
   "label_en": "Shrek Extra Large",
@@ -135,6 +141,7 @@
   "enwiki": "Brain Voyage",
   "ids": {
    "igdb": "brain-voyage",
+   "metacritic": "brain-voyage",
    "mobygames": "35194"
   },
   "label_en": "Brain Voyage",
@@ -164,6 +171,7 @@
    "gog": "game/torment_tides_of_numenera",
    "howlongtobeat": "10533",
    "igdb": "torment-tides-of-numenera",
+   "metacritic": "torment-tides-of-numenera",
    "mobygames": "84411",
    "pcgamingwiki": "Torment:_Tides_of_Numenera",
    "steam": "272270"
@@ -175,6 +183,7 @@
   "enwiki": "Ring of Red",
   "ids": {
    "igdb": "ring-of-red",
+   "metacritic": "ring-of-red",
    "mobygames": "12467"
   },
   "label_en": "Ring of Red",
@@ -253,6 +262,7 @@
   "ids": {
    "howlongtobeat": "64919",
    "igdb": "ogre--1",
+   "metacritic": "ogre",
    "mobygames": "96828",
    "pcgamingwiki": "Ogre",
    "steam": "517780"
@@ -264,6 +274,7 @@
   "ids": {
    "howlongtobeat": "14528",
    "igdb": "full-bore",
+   "metacritic": "full-bore",
    "mobygames": "98032",
    "pcgamingwiki": "Full_Bore",
    "steam": "264060"
@@ -322,6 +333,7 @@
  {
   "ids": {
    "igdb": "anarea-battle-royale",
+   "metacritic": "anarea-battle-royale",
    "mobygames": "149335",
    "pcgamingwiki": "ANAREA_Battle_Royale",
    "steam": "1103950"
@@ -343,6 +355,7 @@
    "gog": "game/zombie_rollerz_pinball_heroes",
    "howlongtobeat": "106266",
    "igdb": "zombie-rollerz-pinball-heroes",
+   "metacritic": "zombie-rollerz-pinball-heroes",
    "mobygames": "156006",
    "pcgamingwiki": "Zombie_Rollerz:_Pinball_Heroes",
    "steam": "915230"
@@ -915,6 +928,7 @@
  {
   "ids": {
    "igdb": "hard-time-iii",
+   "metacritic": "hard-time-iii",
    "mobygames": "230327",
    "steam": "3009850"
   },
@@ -933,6 +947,7 @@
   "ids": {
    "howlongtobeat": "68690",
    "igdb": "anniversary-collection-arcade-classics",
+   "metacritic": "arcade-classics-anniversary-collection",
    "mobygames": "125346",
    "pcgamingwiki": "Arcade_Classics_Anniversary_Collection",
    "steam": "1018000"

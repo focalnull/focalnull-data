@@ -5,6 +5,7 @@
    "gog": "game/deus_ex",
    "howlongtobeat": "2486",
    "igdb": "deus-ex",
+   "metacritic": "deus-ex",
    "mobygames": "1749",
    "pcgamingwiki": "Deus_Ex",
    "steam": "6910"
@@ -38,6 +39,7 @@
    "gog": "game/slender_the_arrival",
    "howlongtobeat": "13981",
    "igdb": "slender-the-arrival",
+   "metacritic": "slender-the-arrival",
    "mobygames": "78270",
    "pcgamingwiki": "Slender:_The_Arrival",
    "steam": "252330"
@@ -59,6 +61,7 @@
    "gog": "game/railroad_tycoon_3",
    "howlongtobeat": "7549",
    "igdb": "railroad-tycoon-3",
+   "metacritic": "railroad-tycoon-3",
    "mobygames": "10844",
    "pcgamingwiki": "Railroad_Tycoon_3",
    "steam": "7610"
@@ -88,6 +91,7 @@
   "ids": {
    "howlongtobeat": "26998",
    "igdb": "math-rescue",
+   "metacritic": "math-rescue",
    "mobygames": "3100",
    "pcgamingwiki": "Math_Rescue",
    "steam": "358200"
@@ -147,7 +151,8 @@
  {
   "enwiki": "Leedmees",
   "ids": {
-   "igdb": "leedmees"
+   "igdb": "leedmees",
+   "metacritic": "leedmees"
   },
   "label_en": "Leedmees",
   "wikidata": "Q6515793"
@@ -162,6 +167,7 @@
    "gog": "game/strike_suit_zero_directors_cut",
    "howlongtobeat": "9268",
    "igdb": "strike-suit-zero",
+   "metacritic": "strike-suit-zero",
    "mobygames": "65838",
    "pcgamingwiki": "Strike_Suit_Zero",
    "steam": "209540"
@@ -206,6 +212,7 @@
   "enwiki": "Motor Mayhem",
   "ids": {
    "igdb": "motor-mayhem",
+   "metacritic": "motor-mayhem-vehicular-combat-league",
    "mobygames": "10197"
   },
   "label_en": "Motor Mayhem",
@@ -239,6 +246,7 @@
   "ids": {
    "howlongtobeat": "36250",
    "igdb": "cars-toon-maters-tall-tales",
+   "metacritic": "cars-toon-maters-tall-tales",
    "mobygames": "81546",
    "pcgamingwiki": "Cars_Toon:_Mater's_Tall_Tales",
    "steam": "316320"
@@ -300,6 +308,7 @@
  },
  {
   "ids": {
+   "metacritic": "north-south-the-game",
    "mobygames": "61059"
   },
   "label_en": "North and South: The Game",
@@ -364,6 +373,7 @@
  {
   "ids": {
    "igdb": "nargul-humans-are-among-us",
+   "pcgamingwiki": "Nargül:_Humans_Are_Among_Us",
    "steam": "1646810"
   },
   "label_en": "NARGUL - Humans are among us",

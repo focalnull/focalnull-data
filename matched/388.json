@@ -5,6 +5,7 @@
    "gog": "game/zwei_the_arges_adventure",
    "howlongtobeat": "52617",
    "igdb": "zwei-the-arges-adventure",
+   "metacritic": "zwei-the-arges-adventure",
    "mobygames": "41686",
    "pcgamingwiki": "Zwei:_The_Arges_Adventure",
    "steam": "427680"
@@ -20,6 +21,7 @@
   "ids": {
    "howlongtobeat": "2538",
    "igdb": "digimon-rumble-arena-2",
+   "metacritic": "digimon-rumble-arena-2",
    "mobygames": "14266"
   },
   "label_en": "Digimon Rumble Arena 2",
@@ -39,7 +41,8 @@
   "enwiki": "Call of Duty: Modern Warfare 3 – Defiance",
   "ids": {
    "howlongtobeat": "1479",
-   "igdb": "call-of-duty-modern-warfare-3-defiance"
+   "igdb": "call-of-duty-modern-warfare-3-defiance",
+   "metacritic": "call-of-duty-modern-warfare-3-defiance"
   },
   "label_en": "Call of Duty: Modern Warfare 3 – Defiance",
   "wikidata": "Q3284388"
@@ -81,6 +84,7 @@
   "ids": {
    "howlongtobeat": "83",
    "igdb": "4x4-hummer",
+   "metacritic": "4x4-hummer",
    "mobygames": "46575",
    "pcgamingwiki": "4x4_Hummer"
   },
@@ -139,6 +143,7 @@
   "enwiki": "Robotron 64",
   "ids": {
    "igdb": "robotron-64",
+   "metacritic": "robotron-64",
    "mobygames": "9148"
   },
   "label_en": "Robotron 64",
@@ -166,6 +171,7 @@
   "enwiki": "Dead or Alive 5 Plus",
   "ids": {
    "igdb": "dead-or-alive-5-plus",
+   "metacritic": "dead-or-alive-5-plus",
    "mobygames": "85972"
   },
   "label_en": "Dead or Alive 5 Plus",
@@ -175,6 +181,7 @@
   "ids": {
    "howlongtobeat": "23173",
    "igdb": "dont-die-dateless-dummy",
+   "metacritic": "don-t-die-dateless-dummy",
    "mobygames": "185842",
    "pcgamingwiki": "Don't_Die_Dateless,_Dummy!",
    "steam": "455490"
@@ -186,6 +193,7 @@
   "ids": {
    "howlongtobeat": "47851",
    "igdb": "frisky-business",
+   "metacritic": "frisky-business",
    "mobygames": "93709",
    "pcgamingwiki": "Frisky_Business",
    "steam": "588240"
@@ -205,6 +213,7 @@
   "ids": {
    "igdb": "villagerhapsody",
    "mobygames": "202262",
+   "pcgamingwiki": "Village_Rhapsody",
    "steam": "2109460"
   },
   "label_en": "VillageRhapsody",
@@ -254,6 +263,7 @@
   "ids": {
    "howlongtobeat": "50858",
    "igdb": "far-from-noise",
+   "metacritic": "far-from-noise",
    "mobygames": "98203",
    "pcgamingwiki": "Far_from_Noise",
    "steam": "706130"
@@ -284,6 +294,7 @@
   "enwiki": "The Witcher IV",
   "ids": {
    "igdb": "the-witcher-iv",
+   "metacritic": "the-witcher-4",
    "pcgamingwiki": "The_Witcher_IV"
   },
   "label_en": "The Witcher IV",
@@ -451,6 +462,7 @@
    "howlongtobeat": "132707",
    "igdb": "fall-in-labyrinth",
    "mobygames": "162723",
+   "pcgamingwiki": "Fall_in_Labyrinth",
    "steam": "1441840"
   },
   "label_en": "FALL IN LABYRINTH",
@@ -1125,6 +1137,7 @@
   "enwiki": "Rugby League 26",
   "ids": {
    "igdb": "rugby-league-26",
+   "metacritic": "rugby-league-26",
    "steam": "3468660"
   },
   "label_en": "Rugby League 26",
@@ -1141,6 +1154,7 @@
  {
   "ids": {
    "igdb": "habitat",
+   "pcgamingwiki": "Habitat",
    "steam": "299340"
   },
   "label_en": "Habitat",

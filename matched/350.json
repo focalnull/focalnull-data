@@ -16,6 +16,7 @@
    "gog": "game/mirrors_edge",
    "howlongtobeat": "6085",
    "igdb": "mirror-s-edge",
+   "metacritic": "mirrors-edge-2008",
    "mobygames": "37650",
    "pcgamingwiki": "Mirror's_Edge",
    "steam": "17410"
@@ -28,6 +29,7 @@
   "ids": {
    "howlongtobeat": "9529",
    "igdb": "symphonic-rain",
+   "metacritic": "symphonic-rain",
    "mobygames": "57085",
    "pcgamingwiki": "Symphonic_Rain",
    "steam": "629650"
@@ -41,6 +43,7 @@
    "gog": "game/oddworld_abes_oddysee",
    "howlongtobeat": "6701",
    "igdb": "oddworld-abe-s-oddysee",
+   "metacritic": "oddworld-abes-oddysee",
    "mobygames": "1058",
    "pcgamingwiki": "Oddworld:_Abe's_Oddysee",
    "steam": "15700"
@@ -76,6 +79,7 @@
   "enwiki": "Pinobee: Wings of Adventure",
   "ids": {
    "igdb": "pinobee-wings-of-adventure",
+   "metacritic": "pinobee-wings-of-adventure",
    "mobygames": "6490"
   },
   "label_en": "Pinobee: Wings of Adventure",
@@ -108,6 +112,7 @@
   "ids": {
    "howlongtobeat": "6923",
    "igdb": "parappa-the-rapper-2",
+   "metacritic": "parappa-the-rapper-2",
    "mobygames": "9051"
   },
   "label_en": "PaRappa the Rapper 2",
@@ -165,6 +170,7 @@
   "ids": {
    "howlongtobeat": "2851",
    "igdb": "dragoneers-aria",
+   "metacritic": "dragoneers-aria",
    "mobygames": "41494"
   },
   "label_en": "Dragoneer's Aria",
@@ -180,6 +186,7 @@
  {
   "ids": {
    "igdb": "gadget-racers",
+   "metacritic": "gadget-racers",
    "mobygames": "78682"
   },
   "label_en": "Gadget Racers",
@@ -231,7 +238,8 @@
  {
   "enwiki": "Fantasia: Music Evolved",
   "ids": {
-   "igdb": "fantasia-music-evolved"
+   "igdb": "fantasia-music-evolved",
+   "metacritic": "fantasia-music-evolved"
   },
   "label_en": "Fantasia: Music Evolved",
   "wikidata": "Q16201350"
@@ -283,6 +291,7 @@
   "ids": {
    "howlongtobeat": "42224",
    "igdb": "werewolves-within",
+   "metacritic": "werewolves-within",
    "mobygames": "98888",
    "pcgamingwiki": "Werewolves_Within",
    "steam": "488950"
@@ -295,6 +304,7 @@
    "epic": "jackbox-party-pack-3",
    "howlongtobeat": "40718",
    "igdb": "the-jackbox-party-pack-3",
+   "metacritic": "the-jackbox-party-pack-3",
    "mobygames": "86518",
    "pcgamingwiki": "The_Jackbox_Party_Pack_3",
    "steam": "434170"
@@ -309,6 +319,7 @@
    "gog": "game/bad_north",
    "howlongtobeat": "55056",
    "igdb": "bad-north",
+   "metacritic": "bad-north",
    "mobygames": "109789",
    "pcgamingwiki": "Bad_North",
    "steam": "688420"
@@ -320,6 +331,7 @@
   "ids": {
    "howlongtobeat": "51359",
    "igdb": "galaxy-girls",
+   "metacritic": "galaxy-girls",
    "mobygames": "96814",
    "pcgamingwiki": "Galaxy_Girls",
    "steam": "560250"
@@ -350,6 +362,7 @@
   "ids": {
    "howlongtobeat": "101233",
    "igdb": "have-a-nice-death",
+   "metacritic": "have-a-nice-death",
    "mobygames": "180993",
    "pcgamingwiki": "Have_a_Nice_Death",
    "steam": "1740720"
@@ -371,6 +384,7 @@
   "ids": {
    "howlongtobeat": "90639",
    "igdb": "100-hidden-snails-2",
+   "metacritic": "100-hidden-snails-2",
    "mobygames": "161125",
    "steam": "1549030"
   },
@@ -625,6 +639,7 @@
    "gog": "game/stranded_sails_explorers_of_the_cursed_islands",
    "howlongtobeat": "72569",
    "igdb": "stranded-sails",
+   "metacritic": "stranded-sails-explorers-of-the-cursed-islands",
    "mobygames": "135544",
    "pcgamingwiki": "Stranded_Sails_-_Explorers_of_the_Cursed_Islands",
    "steam": "943260"
@@ -856,6 +871,7 @@
   "ids": {
    "howlongtobeat": "25490",
    "igdb": "scram-kitty-dx",
+   "metacritic": "scram-kitty-and-his-buddy-on-rails",
    "mobygames": "86787"
   },
   "label_en": "Scram Kitty DX",

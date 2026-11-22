@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "1409",
    "igdb": "burnout-paradise",
+   "metacritic": "burnout-paradise",
    "mobygames": "32402",
    "pcgamingwiki": "Burnout_Paradise"
   },
@@ -52,6 +53,7 @@
   "enwiki": "Karaoke Revolution (2003 video game)",
   "ids": {
    "igdb": "karaoke-revolution--1",
+   "metacritic": "karaoke-revolution",
    "mobygames": "10908"
   },
   "label_en": "Karaoke Revolution",
@@ -88,6 +90,7 @@
   "enwiki": "Army Men: Sarge's War",
   "ids": {
    "igdb": "army-men-sarge-s-war",
+   "metacritic": "army-men-sarges-war",
    "mobygames": "15226",
    "pcgamingwiki": "Army_Men:_Sarge's_War"
   },
@@ -180,6 +183,7 @@
   "ids": {
    "howlongtobeat": "22016",
    "igdb": "hidden-invasion",
+   "metacritic": "hidden-invasion",
    "mobygames": "7904"
   },
   "label_en": "Hidden Invasion",
@@ -197,6 +201,7 @@
   "ids": {
    "howlongtobeat": "14175",
    "igdb": "iron-sky-invasion",
+   "metacritic": "iron-sky-invasion",
    "mobygames": "63035",
    "pcgamingwiki": "Iron_Sky:_Invasion",
    "steam": "224900"
@@ -218,6 +223,7 @@
   "enwiki": "Populous DS",
   "ids": {
    "igdb": "populous-ds",
+   "metacritic": "populous-ds",
    "mobygames": "54622"
   },
   "label_en": "Populous DS",
@@ -248,6 +254,7 @@
   "enwiki": "Destiny of Spirits",
   "ids": {
    "igdb": "destiny-of-spirits",
+   "metacritic": "destiny-of-spirits",
    "mobygames": "103354"
   },
   "label_en": "Destiny of Spirits",
@@ -281,7 +288,8 @@
  {
   "enwiki": "MotionSports Adrenaline",
   "ids": {
-   "igdb": "motionsports-adrenaline"
+   "igdb": "motionsports-adrenaline",
+   "metacritic": "motionsports-adrenaline"
   },
   "label_en": "MotionSports Adrenaline",
   "wikidata": "Q18414838"
@@ -298,6 +306,7 @@
   "ids": {
    "howlongtobeat": "9961",
    "igdb": "the-journey-down-chapter-one",
+   "metacritic": "the-journey-down-chapter-1",
    "mobygames": "56266",
    "pcgamingwiki": "The_Journey_Down:_Chapter_One",
    "steam": "220090"
@@ -310,6 +319,7 @@
   "ids": {
    "howlongtobeat": "64365",
    "igdb": "dragon-quest-builders-2",
+   "metacritic": "dragon-quest-builders-2",
    "mobygames": "119627",
    "pcgamingwiki": "Dragon_Quest_Builders_2",
    "steam": "1072420"
@@ -331,6 +341,7 @@
    "gog": "game/vambrace_cold_soul",
    "howlongtobeat": "67877",
    "igdb": "vambrace-cold-soul",
+   "metacritic": "vambrace-cold-soul",
    "mobygames": "133870",
    "pcgamingwiki": "Vambrace:_Cold_Soul",
    "steam": "904380"
@@ -353,6 +364,7 @@
   "ids": {
    "howlongtobeat": "62271",
    "igdb": "cheeky-chooks",
+   "metacritic": "cheeky-chooks",
    "mobygames": "116422",
    "pcgamingwiki": "Cheeky_Chooks",
    "steam": "922460"
@@ -370,6 +382,7 @@
    "gog": "game/one_step_from_eden",
    "howlongtobeat": "64665",
    "igdb": "one-step-from-eden",
+   "metacritic": "one-step-from-eden",
    "mobygames": "143690",
    "pcgamingwiki": "One_Step_from_Eden",
    "steam": "960690"
@@ -391,6 +404,7 @@
    "gog": "game/atom_rpg_trudograd",
    "howlongtobeat": "78978",
    "igdb": "atom-rpg-trudograd",
+   "metacritic": "atom-rpg-trudograd",
    "mobygames": "150129",
    "pcgamingwiki": "ATOM_RPG_Trudograd",
    "steam": "1139940"
@@ -939,6 +953,7 @@
  {
   "ids": {
    "igdb": "surfin-sam-attack-of-the-aqualites",
+   "metacritic": "surfin-sam-attack-of-the-aqualites",
    "mobygames": "101490"
   },
   "label_en": "Surfin' Sam: Attack of the Aqualites",
@@ -1261,6 +1276,7 @@
  {
   "ids": {
    "igdb": "fear-the-night",
+   "pcgamingwiki": "Fear_the_Night",
    "steam": "764920"
   },
   "label_en": "Fear the Night",

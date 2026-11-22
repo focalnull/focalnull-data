@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1867",
    "igdb": "commandos-2-men-of-courage",
+   "metacritic": "commandos-2-men-of-courage",
    "mobygames": "5181",
    "pcgamingwiki": "Commandos_2:_Men_of_Courage",
    "steam": "6830"
@@ -56,6 +57,7 @@
   "enwiki": "Dead Space: Extraction",
   "ids": {
    "igdb": "dead-space-extraction",
+   "metacritic": "dead-space-extraction",
    "mobygames": "44054"
   },
   "label_en": "Dead Space: Extraction",
@@ -83,6 +85,7 @@
   "enwiki": "NBA Live 2001",
   "ids": {
    "igdb": "nba-live-2001",
+   "metacritic": "nba-live-2001",
    "mobygames": "3253"
   },
   "label_en": "NBA Live 2001",
@@ -109,6 +112,7 @@
    "gog": "game/sphinx_and_the_cursed_mummy",
    "howlongtobeat": "8935",
    "igdb": "sphinx-and-the-cursed-mummy",
+   "metacritic": "sphinx-and-the-cursed-mummy",
    "mobygames": "12541",
    "pcgamingwiki": "Sphinx_and_the_Cursed_Mummy",
    "steam": "606710"
@@ -137,6 +141,7 @@
   "enwiki": "Boing! Docomodake DS",
   "ids": {
    "igdb": "boing-docomodake-ds",
+   "metacritic": "boing-docomodake-ds",
    "mobygames": "71616"
   },
   "label_en": "Boing! Docomodake DS",
@@ -254,6 +259,7 @@
    "gog": "game/lichdom_battlemage",
    "howlongtobeat": "20804",
    "igdb": "lichdom-battlemage",
+   "metacritic": "lichdom-battlemage",
    "mobygames": "81934",
    "pcgamingwiki": "Lichdom:_Battlemage",
    "steam": "261760"
@@ -275,6 +281,7 @@
   "ids": {
    "howlongtobeat": "107444",
    "igdb": "anonymous-code",
+   "metacritic": "anonymouscode",
    "mobygames": "208366",
    "pcgamingwiki": "Anonymous;Code",
    "steam": "2291020"
@@ -314,6 +321,7 @@
  {
   "ids": {
    "igdb": "clans-to-kingdoms",
+   "pcgamingwiki": "Clans_to_Kingdoms",
    "steam": "1120580"
   },
   "label_en": "Clans to Kingdoms",
@@ -324,6 +332,7 @@
    "gog": "game/worms_world_party_remastered",
    "howlongtobeat": "11309",
    "igdb": "worms-world-party-remastered",
+   "metacritic": "worms-world-party-remastered",
    "mobygames": "76744",
    "pcgamingwiki": "Worms_World_Party_Remastered",
    "steam": "270910"
@@ -350,6 +359,7 @@
   "ids": {
    "howlongtobeat": "71960",
    "igdb": "diablo-iv",
+   "metacritic": "diablo-iv",
    "mobygames": "204085",
    "pcgamingwiki": "Diablo_IV",
    "steam": "2344520"
@@ -362,6 +372,7 @@
   "ids": {
    "howlongtobeat": "68572",
    "igdb": "killsquad",
+   "metacritic": "killsquad",
    "mobygames": "130001",
    "pcgamingwiki": "Killsquad",
    "steam": "910490"
@@ -371,7 +382,8 @@
  },
  {
   "ids": {
-   "igdb": "nekojishi"
+   "igdb": "nekojishi",
+   "metacritic": "nekojishi-lin-partners"
   },
   "label_en": "Nekojishi: Lin & Partners",
   "wikidata": "Q88561387"
@@ -380,6 +392,7 @@
   "ids": {
    "howlongtobeat": "27791",
    "igdb": "windward",
+   "metacritic": "windward",
    "mobygames": "85703",
    "pcgamingwiki": "Windward",
    "steam": "326410"
@@ -412,7 +425,8 @@
  {
   "ids": {
    "howlongtobeat": "66697",
-   "igdb": "cytus-alpha"
+   "igdb": "cytus-alpha",
+   "metacritic": "cytus-alpha"
   },
   "label_en": "Cytus α",
   "wikidata": "Q98355387"
@@ -431,6 +445,7 @@
    "gog": "game/the_textorcist_the_story_of_ray_bibbia_demo",
    "howlongtobeat": "65034",
    "igdb": "the-textorcist-the-story-of-ray-bibbia",
+   "metacritic": "the-textorcist-the-story-of-ray-bibbia",
    "mobygames": "123151",
    "pcgamingwiki": "The_Textorcist:_The_Story_of_Ray_Bibbia",
    "steam": "940680"
@@ -439,6 +454,9 @@
   "wikidata": "Q104537387"
  },
  {
+  "ids": {
+   "metacritic": "famicom-detective-club-the-missing-heir"
+  },
   "label_en": "Famicom Detective Club: The Missing Heir",
   "wikidata": "Q105601387"
  },
@@ -576,6 +594,7 @@
   "ids": {
    "howlongtobeat": "61426",
    "igdb": "jake-hunter-detective-story-ghost-of-the-dusk",
+   "metacritic": "jake-hunter-detective-story-ghost-of-the-dusk",
    "mobygames": "113842"
   },
   "label_en": "Jake Hunter Detective Story: Ghost of the Dusk",
@@ -821,6 +840,7 @@
    "epic": "battle-of-europe-00b917",
    "howlongtobeat": "21479",
    "igdb": "battle-of-europe",
+   "metacritic": "battle-of-europe",
    "mobygames": "38546",
    "pcgamingwiki": "Battle_of_Europe",
    "steam": "321710"
@@ -928,6 +948,7 @@
    "gog": "game/destroyer_the_uboat_hunter",
    "howlongtobeat": "136401",
    "igdb": "destroyer-the-u-boat-hunter",
+   "metacritic": "destroyer-the-u-boat-hunter",
    "mobygames": "202881",
    "pcgamingwiki": "Destroyer:_The_U-Boat_Hunter",
    "steam": "1272010"
@@ -1007,6 +1028,7 @@
   "ids": {
    "howlongtobeat": "169258",
    "igdb": "killer-inn",
+   "metacritic": "killer-inn",
    "pcgamingwiki": "Killer_Inn",
    "steam": "1598230"
   },
@@ -1356,6 +1378,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "GRAVHOUNDS",
    "steam": "2440760"
   },
   "label_en": "Gravhounds",

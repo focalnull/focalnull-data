@@ -36,6 +36,7 @@
   "ids": {
    "howlongtobeat": "600",
    "igdb": "armored-core-for-answer",
+   "metacritic": "armored-core-for-answer",
    "mobygames": "38529"
   },
   "label_en": "Armored Core: For Answer",
@@ -45,6 +46,7 @@
   "enwiki": "Shin Megami Tensei III: Nocturne",
   "ids": {
    "igdb": "shin-megami-tensei-nocturne",
+   "metacritic": "shin-megami-tensei-nocturne",
    "mobygames": "10874"
   },
   "label_en": "Shin Megami Tensei III: Nocturne",
@@ -103,6 +105,7 @@
   "enwiki": "What Did I Do to Deserve This, My Lord?",
   "ids": {
    "igdb": "what-did-i-do-to-deserve-this-my-lord",
+   "metacritic": "what-did-i-do-to-deserve-this-my-lord",
    "mobygames": "43739"
   },
   "label_en": "What Did I Do to Deserve This, My Lord?",
@@ -112,6 +115,7 @@
   "enwiki": "Darkstalkers Chronicle: The Chaos Tower",
   "ids": {
    "igdb": "darkstalkers-chronicle-the-chaos-tower",
+   "metacritic": "darkstalkers-chronicle-the-chaos-tower",
    "mobygames": "21420"
   },
   "label_en": "Darkstalkers Chronicle: The Chaos Tower",
@@ -130,6 +134,7 @@
   "enwiki": "GT Advance 3: Pro Concept Racing",
   "ids": {
    "igdb": "gt-advance-3-pro-concept-racing",
+   "metacritic": "gt-advance-3-pro-concept-racing",
    "mobygames": "9054"
   },
   "label_en": "GT Advance 3: Pro Concept Racing",
@@ -139,6 +144,7 @@
   "enwiki": "Honeycomb Beat",
   "ids": {
    "igdb": "honeycomb-beat",
+   "metacritic": "honeycomb-beat",
    "mobygames": "84893"
   },
   "label_en": "Honeycomb Beat",
@@ -170,6 +176,7 @@
   "enwiki": "Pokémon Rumble U",
   "ids": {
    "igdb": "pokemon-rumble-u",
+   "metacritic": "pokemon-rumble-u",
    "mobygames": "69470"
   },
   "label_en": "Pokémon Rumble U",
@@ -179,6 +186,7 @@
   "enwiki": "Rowan's Battle of Britain",
   "ids": {
    "igdb": "rowans-battle-of-britain",
+   "metacritic": "rowans-battle-of-britain",
    "mobygames": "3252"
   },
   "label_en": "Rowan's Battle of Britain",
@@ -237,6 +245,7 @@
    "gog": "game/starpoint_gemini_2",
    "howlongtobeat": "15654",
    "igdb": "starpoint-gemini-2",
+   "metacritic": "starpoint-gemini-2",
    "mobygames": "84426",
    "pcgamingwiki": "Starpoint_Gemini_2",
    "steam": "236150"
@@ -257,6 +266,7 @@
   "ids": {
    "howlongtobeat": "26166",
    "igdb": "mxgp-the-official-motocross-videogame",
+   "metacritic": "mxgp-the-official-motocross-videogame",
    "mobygames": "87451",
    "pcgamingwiki": "MXGP_-_The_Official_Motocross_Videogame",
    "steam": "256370"
@@ -315,6 +325,7 @@
    "epic": "borderlands-3",
    "howlongtobeat": "65882",
    "igdb": "borderlands-3",
+   "metacritic": "borderlands-3",
    "mobygames": "134555",
    "pcgamingwiki": "Borderlands_3",
    "steam": "397540"
@@ -327,6 +338,7 @@
    "gog": "game/carmageddon_max_damage",
    "howlongtobeat": "38435",
    "igdb": "carmageddon-max-damage",
+   "metacritic": "carmageddon-max-damage",
    "mobygames": "81608",
    "pcgamingwiki": "Carmageddon:_Max_Damage",
    "steam": "505170"
@@ -348,6 +360,7 @@
   "ids": {
    "howlongtobeat": "89107",
    "igdb": "pokemon-legends-arceus",
+   "metacritic": "pokemon-legends-arceus",
    "mobygames": "178684"
   },
   "label_en": "Pokémon Legends: Arceus",
@@ -448,6 +461,7 @@
    "howlongtobeat": "102952",
    "igdb": "warm-snow",
    "mobygames": "178390",
+   "pcgamingwiki": "Warm_Snow",
    "steam": "1296830"
   },
   "label_en": "Warm Snow",
@@ -1108,6 +1122,7 @@
   "ids": {
    "howlongtobeat": "123903",
    "igdb": "wandering-sword",
+   "metacritic": "wandering-sword",
    "mobygames": "208630",
    "pcgamingwiki": "Wandering_Sword",
    "steam": "1876890"

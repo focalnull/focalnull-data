@@ -19,6 +19,7 @@
   "ids": {
    "howlongtobeat": "490",
    "igdb": "anno-1701-dawn-of-discovery",
+   "metacritic": "anno-1701-dawn-of-discovery",
    "mobygames": "28631"
   },
   "label_en": "Anno 1701: Dawn of Discovery",
@@ -38,6 +39,7 @@
   "enwiki": "Harvest Moon DS",
   "ids": {
    "igdb": "harvest-moon-ds",
+   "metacritic": "harvest-moon-ds",
    "mobygames": "24444"
   },
   "label_en": "Harvest Moon DS",
@@ -117,6 +119,7 @@
   "ids": {
    "howlongtobeat": "6813",
    "igdb": "orphen-scion-of-sorcery",
+   "metacritic": "orphen-scion-of-sorcery",
    "mobygames": "25643"
   },
   "label_en": "Orphen: Scion of Sorcery",
@@ -147,6 +150,7 @@
   "enwiki": "You, Me, and the Cubes",
   "ids": {
    "igdb": "you-me-and-the-cubes",
+   "metacritic": "you-me-and-the-cubes",
    "mobygames": "85505"
   },
   "label_en": "You, Me, and the Cubes",
@@ -180,6 +184,7 @@
   "enwiki": "Dr. Luigi",
   "ids": {
    "igdb": "dr-luigi",
+   "metacritic": "dr-luigi",
    "mobygames": "62615"
   },
   "label_en": "Dr. Luigi",
@@ -198,6 +203,7 @@
   "enwiki": "Family Guy: The Quest for Stuff",
   "ids": {
    "igdb": "family-guy-the-quest-for-stuff",
+   "metacritic": "family-guy-the-quest-for-stuff",
    "mobygames": "65110"
   },
   "label_en": "Family Guy: The Quest for Stuff",
@@ -208,6 +214,7 @@
   "ids": {
    "howlongtobeat": "20070",
    "igdb": "road-not-taken",
+   "metacritic": "road-not-taken",
    "mobygames": "83605",
    "pcgamingwiki": "Road_Not_Taken",
    "steam": "293740"
@@ -220,6 +227,7 @@
   "ids": {
    "howlongtobeat": "39386",
    "igdb": "dragon-quest-builders",
+   "metacritic": "dragon-quest-builders",
    "mobygames": "83602",
    "pcgamingwiki": "Dragon_Quest_Builders",
    "steam": "2436570"
@@ -232,6 +240,7 @@
   "ids": {
    "howlongtobeat": "21712",
    "igdb": "pneuma-breath-of-life",
+   "metacritic": "pneuma-breath-of-life",
    "mobygames": "83715",
    "pcgamingwiki": "Pneuma:_Breath_of_Life",
    "steam": "347440"
@@ -262,7 +271,8 @@
  {
   "enwiki": "Mercenaries Saga Chronicles",
   "ids": {
-   "igdb": "mercenaries-saga-chronicles"
+   "igdb": "mercenaries-saga-chronicles",
+   "metacritic": "mercenaries-saga-chronicles"
   },
   "label_en": "Mercenaries Saga Chronicles",
   "wikidata": "Q48964959"
@@ -271,6 +281,7 @@
   "ids": {
    "howlongtobeat": "42092",
    "igdb": "8days",
+   "metacritic": "8days",
    "mobygames": "84574",
    "pcgamingwiki": "8_Days",
    "steam": "409530"
@@ -290,7 +301,8 @@
   "enwiki": "MLB The Show 19",
   "ids": {
    "howlongtobeat": "65562",
-   "igdb": "mlb-the-show-19"
+   "igdb": "mlb-the-show-19",
+   "metacritic": "mlb-the-show-19"
   },
   "label_en": "MLB: The Show 19",
   "wikidata": "Q60753959"
@@ -320,6 +332,7 @@
   "ids": {
    "howlongtobeat": "69931",
    "igdb": "motogp-19",
+   "metacritic": "motogp-19",
    "mobygames": "127496",
    "pcgamingwiki": "MotoGP_19",
    "steam": "984780"
@@ -349,6 +362,7 @@
   "ids": {
    "howlongtobeat": "29432",
    "igdb": "kyn",
+   "metacritic": "kyn",
    "mobygames": "79051",
    "pcgamingwiki": "Kyn",
    "steam": "314560"
@@ -361,6 +375,7 @@
   "ids": {
    "howlongtobeat": "70788",
    "igdb": "mini-motorways",
+   "metacritic": "mini-motorways",
    "mobygames": "135365",
    "pcgamingwiki": "Mini_Motorways",
    "steam": "1127500"
@@ -373,6 +388,7 @@
    "gog": "game/solo",
    "howlongtobeat": "56040",
    "igdb": "solo",
+   "metacritic": "solo",
    "mobygames": "210259",
    "pcgamingwiki": "Solo",
    "steam": "591750"
@@ -384,6 +400,7 @@
   "ids": {
    "howlongtobeat": "51499",
    "igdb": "vignettes",
+   "metacritic": "vignettes",
    "pcgamingwiki": "Vignettes",
    "steam": "944340"
   },
@@ -885,6 +902,7 @@
   "enwiki": "Tomodachi Life: Living the Dream",
   "ids": {
    "igdb": "tomodachi-life-living-the-dream",
+   "metacritic": "tomodachi-life-living-the-dream",
    "mobygames": "259393"
   },
   "label_en": "Tomodachi Life: Living the Dream",

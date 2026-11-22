@@ -9,6 +9,7 @@
   "ids": {
    "howlongtobeat": "11332",
    "igdb": "wwe-all-stars",
+   "metacritic": "wwe-all-stars",
    "mobygames": "51303"
   },
   "label_en": "WWE All Stars",
@@ -28,6 +29,7 @@
   "ids": {
    "howlongtobeat": "10648",
    "igdb": "triggerheart-exelica",
+   "metacritic": "triggerheart-exelica",
    "mobygames": "26777"
   },
   "label_en": "Triggerheart Exelica",
@@ -40,7 +42,8 @@
  {
   "enwiki": "8-Bit Rebellion!",
   "ids": {
-   "igdb": "8-bit-rebellion"
+   "igdb": "8-bit-rebellion",
+   "metacritic": "linkin-park-8-bit-rebellion"
   },
   "label_en": "8-Bit Rebellion!",
   "wikidata": "Q2713739"
@@ -63,6 +66,7 @@
   "ids": {
    "howlongtobeat": "3386",
    "igdb": "far-gate",
+   "metacritic": "far-gate",
    "mobygames": "4995",
    "pcgamingwiki": "Far_Gate"
   },
@@ -122,6 +126,7 @@
   "enwiki": "Cyber Troopers Virtual-On Marz",
   "ids": {
    "igdb": "cyber-troopers-virtual-on-marz",
+   "metacritic": "cyber-troopers-virtual-on-marz",
    "mobygames": "21665"
   },
   "label_en": "Cyber Troopers Virtual-On Marz",
@@ -132,6 +137,7 @@
   "ids": {
    "howlongtobeat": "4347",
    "igdb": "hatoful-boyfriend",
+   "metacritic": "hatoful-boyfriend",
    "mobygames": "60762",
    "pcgamingwiki": "Hatoful_Boyfriend",
    "steam": "310080"
@@ -173,7 +179,8 @@
  },
  {
   "ids": {
-   "igdb": "rummel-and-rabalder-jakten-pa-kapten-hanssons-guld"
+   "igdb": "rummel-and-rabalder-jakten-pa-kapten-hanssons-guld",
+   "metacritic": "rummel-and-rabalder-jakten-paa-kapten-hanssons"
   },
   "label_en": "Rummel & Rabalder: Jakten på Kapten Hanssons guld",
   "wikidata": "Q10657739"
@@ -197,6 +204,7 @@
   "enwiki": "Lips: Party Classics",
   "ids": {
    "igdb": "lips-party-classics",
+   "metacritic": "lips-party-classics",
    "mobygames": "47510"
   },
   "label_en": "Lips: Party Classics",
@@ -250,6 +258,7 @@
  {
   "ids": {
    "igdb": "family-party-30-great-games",
+   "metacritic": "family-party-30-great-games",
    "mobygames": "86114"
   },
   "label_en": "Family Party: 30 Great Games",
@@ -268,6 +277,7 @@
    "gog": "game/shantae_and_the_seven_sirens",
    "howlongtobeat": "69699",
    "igdb": "shantae-and-the-seven-sirens",
+   "metacritic": "shantae-and-the-seven-sirens",
    "mobygames": "135431",
    "pcgamingwiki": "Shantae_and_the_Seven_Sirens",
    "steam": "1191630"
@@ -318,6 +328,7 @@
   "ids": {
    "howlongtobeat": "99075",
    "igdb": "the-good-life--1",
+   "metacritic": "the-good-life",
    "mobygames": "173710",
    "pcgamingwiki": "The_Good_Life_(2021)",
    "steam": "1452500"
@@ -395,6 +406,7 @@
  {
   "ids": {
    "igdb": "360-breakout",
+   "metacritic": "360-breakout",
    "mobygames": "94162"
   },
   "label_en": "360 Breakout",
@@ -557,6 +569,7 @@
    "howlongtobeat": "70484",
    "igdb": "fate-of-the-pharaoh",
    "mobygames": "143020",
+   "pcgamingwiki": "Fate_of_the_Pharaoh",
    "steam": "1754790"
   },
   "label_en": "Fate of the Pharaoh",
@@ -668,6 +681,7 @@
   "ids": {
    "howlongtobeat": "55462",
    "igdb": "emergency",
+   "metacritic": "emergency",
    "mobygames": "222300",
    "pcgamingwiki": "Emergency",
    "steam": "850170"
@@ -734,6 +748,7 @@
  {
   "ids": {
    "igdb": "coreupt",
+   "metacritic": "coreupt",
    "steam": "2360770"
   },
   "label_en": "Coreupt",

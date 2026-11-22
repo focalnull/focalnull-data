@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4629",
    "igdb": "imagine-babyz",
+   "metacritic": "imagine-babyz",
    "mobygames": "33172"
   },
   "label_en": "Imagine Babyz",
@@ -13,6 +14,7 @@
   "enwiki": "Zendoku",
   "ids": {
    "igdb": "zendoku",
+   "metacritic": "zendoku",
    "mobygames": "35147"
   },
   "label_en": "Zendoku",
@@ -46,6 +48,7 @@
   "ids": {
    "howlongtobeat": "176",
    "igdb": "ace-combat-joint-assault",
+   "metacritic": "ace-combat-joint-assault",
    "mobygames": "68256"
   },
   "label_en": "Ace Combat: Joint Assault",
@@ -55,6 +58,7 @@
   "enwiki": "Need for Speed II",
   "ids": {
    "igdb": "need-for-speed-ii",
+   "metacritic": "need-for-speed-ii",
    "mobygames": "2045",
    "pcgamingwiki": "Need_for_Speed_II"
   },
@@ -67,6 +71,7 @@
    "gog": "game/ufo_afterlight",
    "howlongtobeat": "10751",
    "igdb": "ufo-afterlight",
+   "metacritic": "ufo-afterlight",
    "mobygames": "26896",
    "pcgamingwiki": "UFO:_Afterlight",
    "steam": "237950"
@@ -79,6 +84,7 @@
   "ids": {
    "howlongtobeat": "5954",
    "igdb": "metroid-prime-2-echoes",
+   "metacritic": "metroid-prime-2-echoes",
    "mobygames": "15574"
   },
   "label_en": "Metroid Prime 2: Echoes",
@@ -128,6 +134,7 @@
   "ids": {
    "howlongtobeat": "5988",
    "igdb": "micro-machines-v4",
+   "metacritic": "micro-machines-v4",
    "mobygames": "89152",
    "pcgamingwiki": "Micro_Machines_V4"
   },
@@ -185,6 +192,7 @@
   "enwiki": "NHL 2K3",
   "ids": {
    "igdb": "nhl-2k3",
+   "metacritic": "nhl-2k3",
    "mobygames": "7811"
   },
   "label_en": "NHL 2K3",
@@ -234,6 +242,7 @@
   "enwiki": "Tokyo Xtreme Racer 3",
   "ids": {
    "igdb": "tokyo-xtreme-racer-3",
+   "metacritic": "tokyo-xtreme-racer-3",
    "mobygames": "14022"
   },
   "label_en": "Tokyo Xtreme Racer 3",
@@ -298,6 +307,7 @@
   "ids": {
    "howlongtobeat": "107453",
    "igdb": "royal-revolt-ii",
+   "metacritic": "royal-revolt-2",
    "mobygames": "85150",
    "steam": "1571190"
   },
@@ -309,6 +319,7 @@
   "ids": {
    "howlongtobeat": "62458",
    "igdb": "underworld-ascendant",
+   "metacritic": "underworld-ascendant",
    "mobygames": "116731",
    "pcgamingwiki": "Underworld_Ascendant",
    "steam": "692840"
@@ -367,6 +378,7 @@
   "ids": {
    "howlongtobeat": "56377",
    "igdb": "beat-saber",
+   "metacritic": "beat-saber",
    "mobygames": "108036",
    "pcgamingwiki": "Beat_Saber",
    "steam": "620980"
@@ -380,6 +392,7 @@
    "gog": "game/not_tonight",
    "howlongtobeat": "60120",
    "igdb": "not-tonight",
+   "metacritic": "not-tonight",
    "mobygames": "112487",
    "pcgamingwiki": "Not_Tonight",
    "steam": "733790"
@@ -391,6 +404,7 @@
   "ids": {
    "howlongtobeat": "51438",
    "igdb": "tales-from-candlekeep-tomb-of-annihilation",
+   "metacritic": "tales-from-candlekeep-tomb-of-annihilation",
    "mobygames": "97040",
    "pcgamingwiki": "Tales_from_Candlekeep:_Tomb_of_Annihilation",
    "steam": "663380"
@@ -403,6 +417,7 @@
    "gog": "game/mulaka",
    "howlongtobeat": "53722",
    "igdb": "mulaka",
+   "metacritic": "mulaka",
    "mobygames": "103370",
    "pcgamingwiki": "Mulaka",
    "steam": "623640"
@@ -415,6 +430,7 @@
   "ids": {
    "howlongtobeat": "33686",
    "igdb": "cut-the-rope-2",
+   "metacritic": "cut-the-rope-2",
    "mobygames": "62701"
   },
   "label_en": "Cut the Rope 2",
@@ -425,6 +441,7 @@
   "ids": {
    "howlongtobeat": "83156",
    "igdb": "goodbye-volcano-high",
+   "metacritic": "goodbye-volcano-high",
    "mobygames": "207915",
    "pcgamingwiki": "Goodbye_Volcano_High",
    "steam": "1310330"
@@ -473,7 +490,8 @@
   "ids": {
    "epic": "3-out-of-10-ep-1",
    "howlongtobeat": "81609",
-   "igdb": "3-out-of-10-ep-1-welcome-to-shovelworks"
+   "igdb": "3-out-of-10-ep-1-welcome-to-shovelworks",
+   "metacritic": "3-out-of-10-episode-1-welcome-to-shovelworks"
   },
   "label_en": "3 out of 10, EP 1: \"Welcome To Shovelworks\"",
   "wikidata": "Q113467035"
@@ -514,6 +532,8 @@
   "ids": {
    "howlongtobeat": "106306",
    "igdb": "hyper-light-breaker",
+   "metacritic": "hyper-light-breaker",
+   "pcgamingwiki": "Hyper_Light_Breaker",
    "steam": "1534840"
   },
   "label_en": "Hyper Light Breaker",
@@ -800,6 +820,7 @@
   "ids": {
    "howlongtobeat": "121843",
    "igdb": "cobalt-core",
+   "metacritic": "cobalt-core",
    "mobygames": "211535",
    "pcgamingwiki": "Cobalt_Core",
    "steam": "2179850"

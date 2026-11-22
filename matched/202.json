@@ -14,6 +14,7 @@
    "gog": "game/syberia",
    "howlongtobeat": "9521",
    "igdb": "syberia",
+   "metacritic": "syberia",
    "mobygames": "6828",
    "pcgamingwiki": "Syberia",
    "steam": "46500"
@@ -78,6 +79,7 @@
   "enwiki": "Inuyasha: The Secret of the Cursed Mask",
   "ids": {
    "igdb": "inuyasha-the-secret-of-the-cursed-mask",
+   "metacritic": "inuyasha-the-secret-of-the-cursed-mask",
    "mobygames": "15698"
   },
   "label_en": "Inuyasha: The Secret of the Cursed Mask",
@@ -88,6 +90,7 @@
   "ids": {
    "howlongtobeat": "7809",
    "igdb": "ridge-racer-7",
+   "metacritic": "ridge-racer-7",
    "mobygames": "26785"
   },
   "label_en": "Ridge Racer 7",
@@ -127,6 +130,7 @@
   "enwiki": "NHL 06",
   "ids": {
    "igdb": "nhl-06",
+   "metacritic": "nhl-06",
    "mobygames": "19251",
    "pcgamingwiki": "NHL_06"
   },
@@ -206,6 +210,7 @@
    "gog": "game/rc_cars",
    "howlongtobeat": "8658",
    "igdb": "rc-cars",
+   "metacritic": "smash-cars",
    "mobygames": "107971",
    "pcgamingwiki": "Smash_Cars",
    "steam": "289460"
@@ -284,6 +289,7 @@
   "enwiki": "Skylanders: Trap Team",
   "ids": {
    "igdb": "skylanders-trap-team",
+   "metacritic": "skylanders-trap-team",
    "mobygames": "68797"
   },
   "label_en": "Skylanders: Trap Team",
@@ -331,6 +337,7 @@
   "ids": {
    "howlongtobeat": "42579",
    "igdb": "her-majestys-spiffing",
+   "metacritic": "her-majestys-spiffing",
    "mobygames": "87340",
    "pcgamingwiki": "Her_Majesty's_SPIFFING",
    "steam": "488770"
@@ -344,6 +351,7 @@
    "gog": "game/everspace",
    "howlongtobeat": "39367",
    "igdb": "everspace",
+   "metacritic": "everspace",
    "mobygames": "89311",
    "pcgamingwiki": "Everspace",
    "steam": "396750"
@@ -390,6 +398,7 @@
   "ids": {
    "howlongtobeat": "40349",
    "igdb": "viking-squad",
+   "metacritic": "viking-squad",
    "mobygames": "84926",
    "pcgamingwiki": "Viking_Squad",
    "steam": "325930"
@@ -444,6 +453,7 @@
    "gog": "game/wolfstride",
    "howlongtobeat": "94474",
    "igdb": "wolfstride",
+   "metacritic": "wolfstride",
    "mobygames": "176384",
    "pcgamingwiki": "Wolfstride",
    "steam": "1331210"
@@ -484,6 +494,7 @@
   "ids": {
    "howlongtobeat": "78304",
    "igdb": "super-mega-baseball-3",
+   "metacritic": "super-mega-baseball-3",
    "mobygames": "145378",
    "pcgamingwiki": "Super_Mega_Baseball_3",
    "steam": "988910"
@@ -497,6 +508,7 @@
    "epic": "assassins-creed-shadows",
    "howlongtobeat": "145003",
    "igdb": "assassins-creed-shadows",
+   "metacritic": "assassins-creed-shadows",
    "mobygames": "239204",
    "pcgamingwiki": "Assassin's_Creed_Shadows",
    "steam": "3159330"
@@ -832,6 +844,7 @@
   "ids": {
    "howlongtobeat": "146390",
    "igdb": "dragonkin-the-banished",
+   "metacritic": "dragonkin-the-banished",
    "steam": "1863430"
   },
   "label_en": "Dragonkin: The Banished",

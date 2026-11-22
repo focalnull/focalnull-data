@@ -112,6 +112,7 @@
   "enwiki": "Major League Baseball 2K11",
   "ids": {
    "igdb": "major-league-baseball-2k11",
+   "metacritic": "major-league-baseball-2k11",
    "mobygames": "91582"
   },
   "label_en": "Major League Baseball 2K11",
@@ -154,6 +155,7 @@
   "enwiki": "Major League Eating: The Game",
   "ids": {
    "igdb": "major-league-eating-the-game",
+   "metacritic": "major-league-eating-the-game",
    "mobygames": "91583"
   },
   "label_en": "Major League Eating: The Game",
@@ -172,6 +174,7 @@
   "ids": {
    "howlongtobeat": "19387",
    "igdb": "attractio",
+   "metacritic": "attractio",
    "mobygames": "86906",
    "pcgamingwiki": "Attractio",
    "steam": "317060"
@@ -240,6 +243,7 @@
   "ids": {
    "howlongtobeat": "90149",
    "igdb": "last-year",
+   "metacritic": "last-year-the-nightmare",
    "pcgamingwiki": "Last_Year:_The_Nightmare",
    "steam": "511440"
   },
@@ -250,6 +254,7 @@
   "ids": {
    "howlongtobeat": "47382",
    "igdb": "blue-collar-astronaut",
+   "metacritic": "blue-collar-astronaut",
    "mobygames": "85307",
    "pcgamingwiki": "Blue-Collar_Astronaut",
    "steam": "414760"
@@ -261,6 +266,7 @@
   "ids": {
    "howlongtobeat": "51079",
    "igdb": "filthy-lucre",
+   "metacritic": "filthy-lucre",
    "mobygames": "83984",
    "pcgamingwiki": "Filthy_Lucre",
    "steam": "533010"
@@ -279,6 +285,7 @@
   "ids": {
    "howlongtobeat": "26193",
    "igdb": "it-came-from-space-and-ate-our-brains",
+   "metacritic": "it-came-from-space-and-ate-our-brains",
    "mobygames": "73071",
    "pcgamingwiki": "It_Came_from_Space_and_Ate_Our_Brains",
    "steam": "342620"
@@ -326,6 +333,7 @@
   "ids": {
    "howlongtobeat": "3480",
    "igdb": "final-fantasy--3",
+   "metacritic": "final-fantasy-pixel-remaster",
    "mobygames": "168687",
    "pcgamingwiki": "Final_Fantasy",
    "steam": "1173770"
@@ -392,6 +400,7 @@
    "gog": "game/buzz_aldrins_space_program_manager",
    "howlongtobeat": "23189",
    "igdb": "buzz-aldrins-space-program-manager",
+   "metacritic": "buzz-aldrins-space-program-manager",
    "mobygames": "83722",
    "pcgamingwiki": "Buzz_Aldrin's_Space_Program_Manager",
    "steam": "308270"
@@ -429,6 +438,7 @@
    "gog": "game/paper_cut_mansion",
    "howlongtobeat": "112952",
    "igdb": "paper-cut-mansion",
+   "metacritic": "paper-cut-mansion",
    "mobygames": "194123",
    "steam": "1004370"
   },
@@ -454,6 +464,7 @@
   "ids": {
    "howlongtobeat": "83195",
    "igdb": "journey-of-the-broken-circle",
+   "metacritic": "journey-of-the-broken-circle",
    "mobygames": "150615",
    "steam": "1179620"
   },
@@ -1138,7 +1149,8 @@
  {
   "enwiki": "Magical Craft: My Enchanted Dress Shop",
   "ids": {
-   "igdb": "magical-craft-neko-to-mahou-no-dress"
+   "igdb": "magical-craft-neko-to-mahou-no-dress",
+   "metacritic": "magical-craft-my-enchanted-dress-shop"
   },
   "label_en": "Magical Craft: My Enchanted Dress Shop",
   "wikidata": "Q135525126"

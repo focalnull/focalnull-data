@@ -54,6 +54,7 @@
   "enwiki": "Cruis'n (video game)",
   "ids": {
    "igdb": "cruis-n",
+   "metacritic": "cruisn",
    "mobygames": "90697"
   },
   "label_en": "Cruis'n",
@@ -61,7 +62,8 @@
  },
  {
   "ids": {
-   "igdb": "theme-park--1"
+   "igdb": "theme-park--1",
+   "metacritic": "theme-park"
   },
   "label_en": "Theme Park",
   "wikidata": "Q3523622"
@@ -87,6 +89,7 @@
   "ids": {
    "howlongtobeat": "3953",
    "igdb": "glory-of-heracles",
+   "metacritic": "glory-of-heracles",
    "mobygames": "49916"
   },
   "label_en": "Glory of Heracles",
@@ -166,6 +169,7 @@
   "ids": {
    "howlongtobeat": "22710",
    "igdb": "the-slaughtering-grounds",
+   "metacritic": "the-slaughtering-grounds",
    "mobygames": "75414",
    "pcgamingwiki": "The_Slaughtering_Grounds",
    "steam": "329950"
@@ -178,6 +182,7 @@
   "ids": {
    "howlongtobeat": "31850",
    "igdb": "wwe-2k16",
+   "metacritic": "wwe-2k16",
    "mobygames": "83220",
    "pcgamingwiki": "WWE_2K16",
    "steam": "385730"
@@ -202,6 +207,7 @@
   "ids": {
    "howlongtobeat": "64194",
    "igdb": "steins-gate-elite",
+   "metacritic": "steinsgate-elite",
    "mobygames": "103424",
    "pcgamingwiki": "Steins;Gate_Elite",
    "steam": "819030"
@@ -246,6 +252,7 @@
   "ids": {
    "howlongtobeat": "45731",
    "igdb": "feral-fury",
+   "metacritic": "feral-fury",
    "mobygames": "99741",
    "pcgamingwiki": "Feral_Fury",
    "steam": "542660"
@@ -259,6 +266,7 @@
    "epic": "nickelodeon-allstar-brawl-a852ad",
    "howlongtobeat": "98586",
    "igdb": "nickelodeon-all-star-brawl",
+   "metacritic": "nickelodeon-all-star-brawl",
    "mobygames": "171008",
    "pcgamingwiki": "Nickelodeon_All-Star_Brawl",
    "steam": "1414850"
@@ -278,6 +286,7 @@
  {
   "ids": {
    "igdb": "upptack-rymden-med-mulle-meck",
+   "metacritic": "upptack-rymden-med-mulle-meck",
    "mobygames": "53363"
   },
   "label_en": "Gary Gadget: Building Rockets",
@@ -342,6 +351,7 @@
    "howlongtobeat": "111825",
    "igdb": "lord-winklebottom-investigates",
    "mobygames": "188935",
+   "pcgamingwiki": "Lord_Winklebottom_Investigates",
    "steam": "1024160"
   },
   "label_en": "Lord Winklebottom Investigates",
@@ -381,6 +391,7 @@
   "ids": {
    "howlongtobeat": "129237",
    "igdb": "marathon--2",
+   "metacritic": "marathon",
    "pcgamingwiki": "Marathon_(2026)",
    "steam": "3065800"
   },
@@ -805,6 +816,7 @@
   "ids": {
    "howlongtobeat": "133565",
    "igdb": "vpet-simulator",
+   "metacritic": "vpet",
    "pcgamingwiki": "Vpet",
    "steam": "1920960"
   },
@@ -814,6 +826,7 @@
  {
   "ids": {
    "igdb": "elf-of-era-idols-project",
+   "metacritic": "elf-of-era-idols-project",
    "steam": "2414730"
   },
   "label_en": "Elf of Era! Idols Project",
@@ -1160,6 +1173,7 @@
  {
   "ids": {
    "igdb": "mortadelo-y-filemon-operacion-moscu",
+   "pcgamingwiki": "Mortadelo_y_Filemón:_Operación_Moscú",
    "steam": "1114340"
   },
   "label_en": "Mortadelo y Filemón: Operación Moscú",

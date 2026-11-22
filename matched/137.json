@@ -3,6 +3,7 @@
   "enwiki": "Sports Champions",
   "ids": {
    "igdb": "sports-champions",
+   "metacritic": "sports-champions",
    "mobygames": "48315"
   },
   "label_en": "Sports Champions",
@@ -73,6 +74,7 @@
   "ids": {
    "howlongtobeat": "6307",
    "igdb": "mysims-skyheroes",
+   "metacritic": "mysims-skyheroes",
    "mobygames": "80426"
   },
   "label_en": "MySims SkyHeroes",
@@ -191,6 +193,7 @@
   "ids": {
    "howlongtobeat": "19903",
    "igdb": "don-bradman-cricket-14",
+   "metacritic": "don-bradman-cricket-14",
    "mobygames": "72553",
    "pcgamingwiki": "Don_Bradman_Cricket_14",
    "steam": "216260"
@@ -210,7 +213,8 @@
   "enwiki": "Blade Arcus from Shining",
   "ids": {
    "howlongtobeat": "43292",
-   "igdb": "blade-arcus-from-shining"
+   "igdb": "blade-arcus-from-shining",
+   "metacritic": "blade-arcus-from-shining"
   },
   "label_en": "Blade Arcus from Shining",
   "wikidata": "Q21120137"
@@ -220,6 +224,7 @@
   "ids": {
    "howlongtobeat": "46121",
    "igdb": "call-of-duty-wwii",
+   "metacritic": "call-of-duty-wwii",
    "mobygames": "97870",
    "pcgamingwiki": "Call_of_Duty:_WWII",
    "steam": "476600"
@@ -243,6 +248,7 @@
   "ids": {
    "howlongtobeat": "46116",
    "igdb": "letter-quest-remastered-grimms-journey",
+   "metacritic": "letter-quest-grimms-journey-remastered",
    "mobygames": "85853",
    "pcgamingwiki": "Letter_Quest:_Grimm's_Journey_Remastered",
    "steam": "373970"
@@ -254,6 +260,7 @@
   "ids": {
    "howlongtobeat": "84066",
    "igdb": "biomass",
+   "metacritic": "biomass",
    "mobygames": "154705",
    "pcgamingwiki": "Biomass",
    "steam": "1138960"
@@ -715,6 +722,7 @@
    "epic": "die-by-the-blade-0d29ad",
    "howlongtobeat": "136496",
    "igdb": "die-by-the-blade",
+   "metacritic": "die-by-the-blade",
    "mobygames": "225936",
    "pcgamingwiki": "Die_by_the_Blade",
    "steam": "1154670"
@@ -1065,6 +1073,7 @@
   "ids": {
    "epic": "rudolph-the-rednosed-reindeer-f2883e",
    "igdb": "rudolph-the-red-nosed-reindeer--2",
+   "pcgamingwiki": "Rudolph_the_Red-Nosed_Reindeer",
    "steam": "3527810"
   },
   "label_en": "Rudolph the Red-Nosed Reindeer",
@@ -1089,6 +1098,7 @@
  {
   "ids": {
    "igdb": "druid--1",
+   "pcgamingwiki": "Druid",
    "steam": "552390"
   },
   "label_en": "Druid",
@@ -1117,6 +1127,9 @@
  },
  {
   "enwiki": "Hatsune Miku – The Planet of Wonder and Fragments of Wishes",
+  "ids": {
+   "metacritic": "hatsune-miku-the-planet-of-wonder-and-fragments-of"
+  },
   "label_en": "Hatsune Miku - The Planet of Wonder and Fragments of Wishes",
   "wikidata": "Q139991137"
  },

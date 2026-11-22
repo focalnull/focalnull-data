@@ -34,6 +34,7 @@
   "ids": {
    "howlongtobeat": "2195",
    "igdb": "dantes-inferno",
+   "metacritic": "dantes-inferno",
    "mobygames": "45837"
   },
   "label_en": "Dante's Inferno",
@@ -88,6 +89,7 @@
   "ids": {
    "howlongtobeat": "3939",
    "igdb": "gitaroo-man",
+   "metacritic": "gitaroo-man",
    "mobygames": "7498"
   },
   "label_en": "Gitaroo Man",
@@ -97,6 +99,7 @@
   "enwiki": "Kessen III",
   "ids": {
    "igdb": "kessen-iii",
+   "metacritic": "kessen-iii",
    "mobygames": "26894"
   },
   "label_en": "Kessen III",
@@ -118,6 +121,7 @@
   "ids": {
    "howlongtobeat": "20359",
    "igdb": "dcs-black-shark",
+   "metacritic": "dcs-black-shark",
    "mobygames": "39723",
    "steam": "61000"
   },
@@ -139,6 +143,7 @@
    "gog": "game/starbound",
    "howlongtobeat": "9149",
    "igdb": "starbound",
+   "metacritic": "starbound",
    "mobygames": "62382",
    "pcgamingwiki": "Starbound",
    "steam": "211820"
@@ -168,6 +173,7 @@
   "enwiki": "Pirates: The Key of Dreams",
   "ids": {
    "igdb": "pirates-the-key-of-dreams",
+   "metacritic": "pirates-the-key-of-dreams",
    "mobygames": "38593"
   },
   "label_en": "Pirates: The Key of Dreams",
@@ -177,6 +183,7 @@
   "enwiki": "Reel Fishing Challenge",
   "ids": {
    "igdb": "reel-fishing-challenge",
+   "metacritic": "reel-fishing-challenge",
    "mobygames": "92177"
   },
   "label_en": "Reel Fishing Challenge",
@@ -206,6 +213,7 @@
   "ids": {
    "howlongtobeat": "27808",
    "igdb": "nancy-drew-the-ghost-of-thornton-hall",
+   "metacritic": "nancy-drew-ghost-of-thornton-hall",
    "mobygames": "111901",
    "pcgamingwiki": "Nancy_Drew:_Ghost_of_Thornton_Hall",
    "steam": "226820"
@@ -221,6 +229,7 @@
   "enwiki": "Blade II (video game)",
   "ids": {
    "igdb": "blade-ii",
+   "metacritic": "blade-ii",
    "mobygames": "9646"
   },
   "label_en": "Blade II",
@@ -251,6 +260,7 @@
   "ids": {
    "howlongtobeat": "31098",
    "igdb": "master-spy",
+   "metacritic": "master-spy",
    "mobygames": "82788",
    "pcgamingwiki": "Master_Spy",
    "steam": "331190"
@@ -273,6 +283,7 @@
   "ids": {
    "howlongtobeat": "67906",
    "igdb": "ravva-and-the-cyclops-curse",
+   "metacritic": "ravva-and-the-cyclops-curse",
    "mobygames": "122337",
    "pcgamingwiki": "Ravva_and_the_Cyclops_Curse",
    "steam": "945340"
@@ -284,6 +295,7 @@
   "ids": {
    "howlongtobeat": "52487",
    "igdb": "make-sail",
+   "metacritic": "make-sail",
    "mobygames": "106448",
    "pcgamingwiki": "Make_Sail",
    "steam": "417200"
@@ -295,6 +307,7 @@
   "ids": {
    "howlongtobeat": "48537",
    "igdb": "citadel-forged-with-fire",
+   "metacritic": "citadel-forged-with-fire",
    "mobygames": "93235",
    "pcgamingwiki": "Citadel:_Forged_with_Fire",
    "steam": "487120"
@@ -340,6 +353,7 @@
   "ids": {
    "howlongtobeat": "71406",
    "igdb": "lonely-mountains-downhill",
+   "metacritic": "lonely-mountains-downhill",
    "mobygames": "136424",
    "pcgamingwiki": "Lonely_Mountains:_Downhill",
    "steam": "711540"
@@ -362,6 +376,7 @@
   "ids": {
    "howlongtobeat": "72615",
    "igdb": "everreach-project-eden",
+   "metacritic": "everreach-project-eden",
    "mobygames": "138162",
    "pcgamingwiki": "Everreach:_Project_Eden",
    "steam": "915670"
@@ -829,6 +844,7 @@
   "ids": {
    "howlongtobeat": "32625",
    "igdb": "mayan-death-robots",
+   "metacritic": "mayan-death-robots",
    "pcgamingwiki": "Mayan_Death_Robots",
    "steam": "347470"
   },
@@ -935,7 +951,8 @@
  {
   "ids": {
    "howlongtobeat": "2492",
-   "igdb": "deus-ex-the-conspiracy"
+   "igdb": "deus-ex-the-conspiracy",
+   "metacritic": "deus-ex-the-conspiracy"
   },
   "label_en": "Deus Ex: The Conspiracy",
   "wikidata": "Q134576857"
@@ -1296,7 +1313,8 @@
  {
   "enwiki": "Hatsune Miku: Starry Party",
   "ids": {
-   "igdb": "hatsune-miku-starry-party"
+   "igdb": "hatsune-miku-starry-party",
+   "metacritic": "hatsune-miku-starry-party"
   },
   "label_en": "Hatsune Miku: Starry Party",
   "wikidata": "Q140561857"

@@ -8,6 +8,7 @@
   "ids": {
    "howlongtobeat": "4256",
    "igdb": "half-life-opposing-force",
+   "metacritic": "half-life-opposing-force",
    "mobygames": "1157",
    "pcgamingwiki": "Half-Life:_Opposing_Force",
    "steam": "50"
@@ -29,6 +30,7 @@
   "ids": {
    "howlongtobeat": "6853",
    "igdb": "p-dot-n-03",
+   "metacritic": "p-n-03",
    "mobygames": "10347"
   },
   "label_en": "P.N.03",
@@ -40,6 +42,7 @@
    "gog": "game/men_of_valor",
    "howlongtobeat": "15413",
    "igdb": "men-of-valor",
+   "metacritic": "men-of-valor",
    "mobygames": "15524",
    "pcgamingwiki": "Men_of_Valor",
    "steam": "411330"
@@ -74,6 +77,7 @@
   "ids": {
    "howlongtobeat": "5855",
    "igdb": "mega-man-zero-4",
+   "metacritic": "mega-man-zero-4",
    "mobygames": "20190"
   },
   "label_en": "Mega Man Zero 4",
@@ -101,6 +105,7 @@
   "ids": {
    "howlongtobeat": "6764",
    "igdb": "onimusha-3-demon-siege",
+   "metacritic": "onimusha-3-demon-siege",
    "mobygames": "18016",
    "pcgamingwiki": "Onimusha_3:_Demon_Siege",
    "steam": "6570"
@@ -186,7 +191,8 @@
  {
   "enwiki": "Sea Life Safari",
   "ids": {
-   "igdb": "sea-life-safari"
+   "igdb": "sea-life-safari",
+   "metacritic": "sea-life-safari"
   },
   "label_en": "Sea Life Safari",
   "wikidata": "Q7439937"
@@ -195,6 +201,7 @@
   "enwiki": "Tak 2: The Staff of Dreams",
   "ids": {
    "igdb": "tak-2-the-staff-of-dreams",
+   "metacritic": "tak-2-the-staff-of-dreams",
    "mobygames": "19052"
   },
   "label_en": "Tak 2: The Staff of Dreams",
@@ -222,6 +229,7 @@
   "enwiki": "Gungnir (video game)",
   "ids": {
    "igdb": "gungnir",
+   "metacritic": "gungnir",
    "mobygames": "106520"
   },
   "label_en": "Gungnir",
@@ -252,6 +260,7 @@
   "ids": {
    "howlongtobeat": "44114",
    "igdb": "marvel-vs-capcom-infinite",
+   "metacritic": "marvel-vs-capcom-infinite",
    "mobygames": "96115",
    "pcgamingwiki": "Marvel_vs._Capcom:_Infinite",
    "steam": "493840"
@@ -265,6 +274,7 @@
    "epic": "snake-pass-52e630",
    "howlongtobeat": "44371",
    "igdb": "snake-pass",
+   "metacritic": "snake-pass",
    "mobygames": "86129",
    "pcgamingwiki": "Snake_Pass",
    "steam": "544330"
@@ -305,6 +315,7 @@
    "gog": "game/sea_of_stars",
    "howlongtobeat": "76454",
    "igdb": "sea-of-stars",
+   "metacritic": "sea-of-stars",
    "mobygames": "207900",
    "pcgamingwiki": "Sea_of_Stars",
    "steam": "1244090"
@@ -318,6 +329,7 @@
    "epic": "jackbox-party-pack-7",
    "howlongtobeat": "84086",
    "igdb": "the-jackbox-party-pack-7",
+   "metacritic": "the-jackbox-party-pack-7",
    "mobygames": "151227",
    "pcgamingwiki": "The_Jackbox_Party_Pack_7",
    "steam": "1211630"
@@ -349,6 +361,7 @@
    "gog": "game/lamentum",
    "howlongtobeat": "95451",
    "igdb": "lamentum",
+   "metacritic": "lamentum",
    "mobygames": "170672",
    "pcgamingwiki": "Lamentum",
    "steam": "1033950"

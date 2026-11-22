@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11156",
    "igdb": "wii-music",
+   "metacritic": "wii-music",
    "mobygames": "84935"
   },
   "label_en": "Wii Music",
@@ -39,6 +40,7 @@
   "ids": {
    "howlongtobeat": "3556",
    "igdb": "fire-emblem-awakening",
+   "metacritic": "fire-emblem-awakening",
    "mobygames": "61666"
   },
   "label_en": "Fire Emblem Awakening",
@@ -106,6 +108,7 @@
   "ids": {
    "howlongtobeat": "1607",
    "igdb": "cate-west-the-vanishing-files",
+   "metacritic": "cate-west-the-vanishing-files",
    "mobygames": "32621"
   },
   "label_en": "Cate West: The Vanishing Files",
@@ -116,6 +119,7 @@
   "ids": {
    "howlongtobeat": "36614",
    "igdb": "vainglory",
+   "metacritic": "vainglory",
    "mobygames": "73709",
    "pcgamingwiki": "Vainglory",
    "steam": "1025580"
@@ -151,6 +155,7 @@
   "ids": {
    "howlongtobeat": "46716",
    "igdb": "cars-3-driven-to-win",
+   "metacritic": "cars-3-driven-to-win",
    "mobygames": "90357"
   },
   "label_en": "Cars 3: Driven to Win",
@@ -209,6 +214,7 @@
   "ids": {
    "howlongtobeat": "85400",
    "igdb": "bless-unleashed",
+   "metacritic": "bless-unleashed",
    "mobygames": "143576",
    "pcgamingwiki": "Bless_Unleashed",
    "steam": "1254120"
@@ -233,6 +239,7 @@
   "ids": {
    "howlongtobeat": "98454",
    "igdb": "efootball",
+   "metacritic": "efootball",
    "mobygames": "172860",
    "pcgamingwiki": "EFootball",
    "steam": "1665460"
@@ -245,6 +252,7 @@
   "ids": {
    "howlongtobeat": "84017",
    "igdb": "party-animals",
+   "metacritic": "party-animals",
    "mobygames": "208913",
    "pcgamingwiki": "Party_Animals",
    "steam": "1260320"
@@ -256,6 +264,7 @@
   "ids": {
    "howlongtobeat": "92519",
    "igdb": "snkrx",
+   "metacritic": "snkrx",
    "mobygames": "206346",
    "steam": "915310"
   },
@@ -267,6 +276,7 @@
   "ids": {
    "howlongtobeat": "25254",
    "igdb": "the-vagrant",
+   "metacritic": "sword-of-the-vagrant",
    "mobygames": "105435",
    "pcgamingwiki": "The_Vagrant",
    "steam": "598700"
@@ -786,6 +796,7 @@
    "epic": "mortal-online-2-d7bb78",
    "howlongtobeat": "100047",
    "igdb": "mortal-online-2",
+   "metacritic": "mortal-online-2",
    "pcgamingwiki": "Mortal_Online_2",
    "steam": "1170950"
   },
@@ -860,6 +871,7 @@
    "gog": "game/styx_blades_of_greed",
    "howlongtobeat": "164924",
    "igdb": "styx-blades-of-greed",
+   "metacritic": "styx-blades-of-greed",
    "mobygames": "255458",
    "pcgamingwiki": "Styx:_Blades_of_Greed",
    "steam": "3290690"

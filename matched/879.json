@@ -46,6 +46,7 @@
   "ids": {
    "howlongtobeat": "5601",
    "igdb": "manhunt-2",
+   "metacritic": "manhunt-2",
    "mobygames": "34341",
    "pcgamingwiki": "Manhunt_2"
   },
@@ -56,6 +57,7 @@
   "enwiki": "Auto Modellista",
   "ids": {
    "igdb": "auto-modellista",
+   "metacritic": "auto-modellista",
    "mobygames": "9950"
   },
   "label_en": "Auto Modellista",
@@ -65,6 +67,7 @@
   "enwiki": "Onimusha Blade Warriors",
   "ids": {
    "igdb": "onimusha-blade-warriors",
+   "metacritic": "onimusha-blade-warriors",
    "mobygames": "24329"
   },
   "label_en": "Onimusha Blade Warriors",
@@ -75,6 +78,7 @@
    "gog": "game/american_conquest",
    "howlongtobeat": "430",
    "igdb": "american-conquest-fight-back",
+   "metacritic": "american-conquest-fight-back",
    "mobygames": "13960",
    "pcgamingwiki": "American_Conquest:_Fight_Back",
    "steam": "115220"
@@ -109,6 +113,7 @@
   "ids": {
    "howlongtobeat": "7987",
    "igdb": "rooms-the-main-building",
+   "metacritic": "rooms-the-main-building",
    "mobygames": "35644",
    "pcgamingwiki": "Rooms:_The_Main_Building",
    "steam": "304500"
@@ -227,6 +232,7 @@
   "ids": {
    "howlongtobeat": "34545",
    "igdb": "spellweaver",
+   "metacritic": "spellweaver",
    "mobygames": "81353",
    "pcgamingwiki": "Spellweaver",
    "steam": "429680"
@@ -282,6 +288,7 @@
    "epic": "henchman-story-327af4",
    "howlongtobeat": "99731",
    "igdb": "henchman-story",
+   "metacritic": "henchman-story",
    "mobygames": "173831",
    "pcgamingwiki": "Henchman_Story",
    "steam": "1449510"
@@ -303,6 +310,7 @@
  {
   "ids": {
    "igdb": "hexes",
+   "metacritic": "hexes",
    "mobygames": "189387",
    "steam": "1623550"
   },
@@ -324,6 +332,7 @@
    "epic": "nexomon-extinction",
    "howlongtobeat": "82098",
    "igdb": "nexomon-extinction",
+   "metacritic": "nexomon-extinction",
    "mobygames": "149863",
    "pcgamingwiki": "Nexomon:_Extinction",
    "steam": "1196630"
@@ -423,6 +432,7 @@
    "epic": "palia-0d428e",
    "howlongtobeat": "93064",
    "igdb": "palia",
+   "metacritic": "palia",
    "mobygames": "214970",
    "pcgamingwiki": "Palia",
    "steam": "2707930"

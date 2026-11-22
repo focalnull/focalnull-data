@@ -5,6 +5,7 @@
    "gog": "game/crysis",
    "howlongtobeat": "2068",
    "igdb": "crysis",
+   "metacritic": "crysis",
    "mobygames": "31042",
    "pcgamingwiki": "Crysis",
    "steam": "17300"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "7042",
    "igdb": "pikmin",
+   "metacritic": "pikmin",
    "mobygames": "5674",
    "pcgamingwiki": "Pikmin"
   },
@@ -38,6 +40,7 @@
    "gog": "game/gun",
    "howlongtobeat": "4190",
    "igdb": "gun",
+   "metacritic": "gun",
    "mobygames": "20193",
    "pcgamingwiki": "Gun",
    "steam": "2610"
@@ -60,6 +63,7 @@
   "ids": {
    "howlongtobeat": "26623",
    "igdb": "neocron",
+   "metacritic": "neocron",
    "mobygames": "7909"
   },
   "label_en": "Neocron",
@@ -125,6 +129,7 @@
   "ids": {
    "howlongtobeat": "3073",
    "igdb": "elebits-the-adventures-of-kai-and-zero",
+   "metacritic": "elebits-the-adventures-of-kai-and-zero",
    "mobygames": "85455"
   },
   "label_en": "Elebits: The Adventures of Kai and Zero",
@@ -190,6 +195,7 @@
   "ids": {
    "howlongtobeat": "15864",
    "igdb": "samurai-gunn",
+   "metacritic": "samurai-gunn",
    "mobygames": "80429",
    "pcgamingwiki": "Samurai_Gunn",
    "steam": "239090"
@@ -202,6 +208,7 @@
   "ids": {
    "howlongtobeat": "33742",
    "igdb": "the-westport-independent",
+   "metacritic": "the-westport-independent",
    "mobygames": "86099",
    "pcgamingwiki": "The_Westport_Independent",
    "steam": "352240"
@@ -263,6 +270,7 @@
   "ids": {
    "howlongtobeat": "68780",
    "igdb": "un-pas-fragile",
+   "metacritic": "un-pas-fragile",
    "mobygames": "129525",
    "pcgamingwiki": "Un_Pas_Fragile",
    "steam": "1093520"
@@ -275,6 +283,7 @@
    "gog": "game/meridian_new_world",
    "howlongtobeat": "18817",
    "igdb": "meridian-new-world",
+   "metacritic": "meridian-new-world",
    "mobygames": "74695",
    "pcgamingwiki": "Meridian:_New_World",
    "steam": "265120"
@@ -320,6 +329,7 @@
   "ids": {
    "howlongtobeat": "39497",
    "igdb": "alteric",
+   "metacritic": "alteric",
    "mobygames": "97049",
    "pcgamingwiki": "Alteric",
    "steam": "492430"
@@ -331,6 +341,7 @@
   "ids": {
    "howlongtobeat": "15452",
    "igdb": "bonds-of-the-skies",
+   "metacritic": "bonds-of-the-skies",
    "mobygames": "98042",
    "pcgamingwiki": "Bonds_of_the_Skies",
    "steam": "1015530"
@@ -342,6 +353,7 @@
   "ids": {
    "howlongtobeat": "103565",
    "igdb": "wanderer--1",
+   "metacritic": "wanderer",
    "mobygames": "178958",
    "steam": "1599560"
   },
@@ -352,6 +364,7 @@
   "ids": {
    "howlongtobeat": "107722",
    "igdb": "the-last-cube",
+   "metacritic": "the-last-cube",
    "mobygames": "181835",
    "pcgamingwiki": "The_Last_Cube",
    "steam": "903630"
@@ -389,6 +402,7 @@
   "ids": {
    "howlongtobeat": "72285",
    "igdb": "no-place-like-home",
+   "metacritic": "no-place-like-home",
    "mobygames": "156089",
    "pcgamingwiki": "No_Place_Like_Home",
    "steam": "1472660"
@@ -465,6 +479,7 @@
    "gog": "game/alwas_awakening",
    "howlongtobeat": "43500",
    "igdb": "alwas-awakening",
+   "metacritic": "alwas-awakening",
    "mobygames": "83171",
    "pcgamingwiki": "Alwa's_Awakening",
    "steam": "549260"
@@ -860,6 +875,7 @@
   "ids": {
    "howlongtobeat": "151890",
    "igdb": "bodycam",
+   "metacritic": "bodycam",
    "mobygames": "225378",
    "pcgamingwiki": "Bodycam",
    "steam": "2406770"
@@ -1247,18 +1263,23 @@
  {
   "ids": {
    "igdb": "infinite-scuba",
+   "pcgamingwiki": "Infinite_Scuba",
    "steam": "305700"
   },
   "label_en": "Infinite Scuba®",
   "wikidata": "Q135453484"
  },
  {
+  "ids": {
+   "metacritic": "lands-of-jail"
+  },
   "label_en": "Lands of Jail",
   "wikidata": "Q137944484"
  },
  {
   "ids": {
    "igdb": "burger-bot",
+   "metacritic": "burger-bot",
    "mobygames": "142973"
   },
   "label_en": "Burger Bot",

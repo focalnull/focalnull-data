@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "153",
    "igdb": "aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity",
+   "metacritic": "aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for",
    "mobygames": "44003",
    "pcgamingwiki": "AaaaaAAaaaAAAaaAAAAaAAAAA!!!_-_A_Reckless_Disregard_for_Gravity",
    "steam": "15520"
@@ -19,6 +20,7 @@
   "enwiki": "Dragon Ball: Raging Blast",
   "ids": {
    "igdb": "dragon-ball-raging-blast",
+   "metacritic": "dragon-ball-raging-blast",
    "mobygames": "47931"
   },
   "label_en": "Dragon Ball: Raging Blast",
@@ -34,6 +36,7 @@
  {
   "ids": {
    "igdb": "barbie-and-the-three-musketeers",
+   "metacritic": "barbie-and-the-three-musketeers",
    "mobygames": "101351",
    "pcgamingwiki": "Barbie_and_the_Three_Musketeers"
   },
@@ -139,6 +142,7 @@
    "gog": "game/avadon_2_the_corruption",
    "howlongtobeat": "15760",
    "igdb": "avadon-2-the-corruption",
+   "metacritic": "avadon-2-the-corruption",
    "mobygames": "78186",
    "pcgamingwiki": "Avadon_2:_The_Corruption",
    "steam": "233310"
@@ -151,6 +155,7 @@
   "ids": {
    "howlongtobeat": "10837",
    "igdb": "unstoppable-gorg",
+   "metacritic": "unstoppable-gorg",
    "mobygames": "55941",
    "pcgamingwiki": "Unstoppable_Gorg",
    "steam": "18120"
@@ -163,6 +168,7 @@
   "ids": {
    "howlongtobeat": "37884",
    "igdb": "atelier-sophie-the-alchemist-of-the-mysterious-book",
+   "metacritic": "atelier-sophie-the-alchemist-of-the-mysterious-book",
    "mobygames": "79274",
    "pcgamingwiki": "Atelier_Sophie:_The_Alchemist_of_the_Mysterious_Book",
    "steam": "527270"
@@ -176,6 +182,7 @@
    "epic": "sonic-mania",
    "howlongtobeat": "38916",
    "igdb": "sonic-mania",
+   "metacritic": "sonic-mania",
    "mobygames": "93759",
    "pcgamingwiki": "Sonic_Mania",
    "steam": "584400"
@@ -188,6 +195,7 @@
   "ids": {
    "howlongtobeat": "45542",
    "igdb": "de-formers",
+   "metacritic": "de-formers",
    "mobygames": "87300",
    "pcgamingwiki": "Deformers",
    "steam": "491770"
@@ -198,7 +206,8 @@
  {
   "enwiki": "Downforce (video game)",
   "ids": {
-   "igdb": "downforce--1"
+   "igdb": "downforce--1",
+   "metacritic": "downforce-2002"
   },
   "label_en": "Downforce",
   "wikidata": "Q48348770"
@@ -263,6 +272,7 @@
    "gog": "game/the_signifier",
    "howlongtobeat": "82659",
    "igdb": "the-signifier",
+   "metacritic": "the-signifier",
    "mobygames": "151503",
    "pcgamingwiki": "The_Signifier",
    "steam": "1082930"
@@ -274,6 +284,7 @@
   "ids": {
    "howlongtobeat": "90547",
    "igdb": "earth-defense-force-world-brothers",
+   "metacritic": "earth-defense-force-world-brothers",
    "mobygames": "165503",
    "pcgamingwiki": "Earth_Defense_Force:_World_Brothers",
    "steam": "1497950"
@@ -294,6 +305,7 @@
    "gog": "game/train_station_renovation",
    "howlongtobeat": "77787",
    "igdb": "train-station-renovation",
+   "metacritic": "train-station-renovation",
    "mobygames": "147958",
    "pcgamingwiki": "Train_Station_Renovation",
    "steam": "914010"
@@ -719,6 +731,7 @@
   "ids": {
    "howlongtobeat": "137627",
    "igdb": "ea-sports-ufc-5",
+   "metacritic": "ea-sports-ufc-5",
    "mobygames": "227053"
   },
   "label_en": "EA Sports UFC 5",
@@ -797,6 +810,7 @@
   "ids": {
    "howlongtobeat": "47418",
    "igdb": "plasma-puncher",
+   "metacritic": "plasma-puncher",
    "pcgamingwiki": "Plasma_Puncher",
    "steam": "602070"
   },
@@ -847,6 +861,7 @@
   "ids": {
    "howlongtobeat": "145046",
    "igdb": "yolk-heroes-a-long-tamago",
+   "metacritic": "yolk-hero-a-long-tamago",
    "mobygames": "224778",
    "steam": "2417850"
   },
@@ -857,6 +872,7 @@
   "ids": {
    "howlongtobeat": "147953",
    "igdb": "duckside",
+   "metacritic": "duckside",
    "pcgamingwiki": "DUCKSIDE",
    "steam": "2682580"
   },

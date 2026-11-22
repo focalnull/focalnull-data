@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7337",
    "igdb": "professor-layton-and-the-curious-village",
+   "metacritic": "professor-layton-and-the-curious-village",
    "mobygames": "32910"
   },
   "label_en": "Professor Layton and the Curious Village",
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "11421",
    "igdb": "yakuza",
+   "metacritic": "yakuza",
    "mobygames": "24425"
   },
   "label_en": "Yakuza",
@@ -93,6 +95,7 @@
   "ids": {
    "howlongtobeat": "5759",
    "igdb": "mechassault",
+   "metacritic": "mechassault",
    "mobygames": "7767"
   },
   "label_en": "MechAssault",
@@ -103,6 +106,7 @@
   "ids": {
    "howlongtobeat": "685",
    "igdb": "astropop",
+   "metacritic": "astropop",
    "mobygames": "16122",
    "pcgamingwiki": "AstroPop",
    "steam": "3340"
@@ -166,6 +170,7 @@
  },
  {
   "ids": {
+   "metacritic": "mario-tennis",
    "mobygames": "15945"
   },
   "label_en": "Mario Tennis",
@@ -174,7 +179,8 @@
  {
   "enwiki": "Naval Assault: The Killing Tide",
   "ids": {
-   "igdb": "naval-assault-the-killing-tide"
+   "igdb": "naval-assault-the-killing-tide",
+   "metacritic": "naval-assault-the-killing-tide"
   },
   "label_en": "Naval Assault: The Killing Tide",
   "wikidata": "Q19758476"
@@ -203,6 +209,7 @@
   "ids": {
    "howlongtobeat": "37770",
    "igdb": "clash-royale",
+   "metacritic": "clash-royale",
    "mobygames": "83151"
   },
   "label_en": "Clash Royale",
@@ -213,6 +220,7 @@
   "ids": {
    "howlongtobeat": "36084",
    "igdb": "the-legend-of-zelda-twilight-princess-hd",
+   "metacritic": "the-legend-of-zelda-twilight-princess-hd",
    "mobygames": "25103"
   },
   "label_en": "The Legend of Zelda: Twilight Princess HD",
@@ -236,6 +244,7 @@
    "gog": "game/dusk",
    "howlongtobeat": "50829",
    "igdb": "dusk",
+   "metacritic": "dusk",
    "mobygames": "101077",
    "pcgamingwiki": "Dusk",
    "steam": "519860"
@@ -302,6 +311,7 @@
    "gog": "game/goetia",
    "howlongtobeat": "36774",
    "igdb": "goetia",
+   "metacritic": "goetia",
    "mobygames": "92637",
    "pcgamingwiki": "Goetia",
    "steam": "421740"
@@ -313,6 +323,7 @@
   "ids": {
    "howlongtobeat": "69927",
    "igdb": "a-sceptics-guide-to-magic",
+   "metacritic": "a-sceptics-guide-to-magic",
    "mobygames": "201897",
    "pcgamingwiki": "A_Sceptic's_Guide_to_Magic",
    "steam": "1074520"
@@ -337,6 +348,7 @@
    "epic": "chess-ultra-91bba3",
    "howlongtobeat": "50294",
    "igdb": "chess-ultra",
+   "metacritic": "chess-ultra",
    "mobygames": "90999",
    "pcgamingwiki": "Chess_Ultra",
    "steam": "518060"
@@ -402,6 +414,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-cruise-director-5",
+   "metacritic": "vacation-adventures-cruise-director-5",
    "steam": "1783770"
   },
   "label_en": "Vacation Adventures: Cruise Director 5",
@@ -837,6 +850,7 @@
   "ids": {
    "howlongtobeat": "161867",
    "igdb": "wwe-2k25",
+   "metacritic": "wwe-2k25",
    "pcgamingwiki": "WWE_2K25",
    "steam": "2878960"
   },

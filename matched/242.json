@@ -6,6 +6,7 @@
    "gog": "game/splinter_cell",
    "howlongtobeat": "10457",
    "igdb": "tom-clancy-s-splinter-cell",
+   "metacritic": "tom-clancys-splinter-cell",
    "mobygames": "7780",
    "pcgamingwiki": "Tom_Clancy's_Splinter_Cell",
    "steam": "13560"
@@ -17,6 +18,7 @@
   "enwiki": "Dragon Ball: Raging Blast 2",
   "ids": {
    "igdb": "dragon-ball-raging-blast-2",
+   "metacritic": "dragon-ball-raging-blast-2",
    "mobygames": "74707"
   },
   "label_en": "Dragon Ball: Raging Blast 2",
@@ -27,6 +29,7 @@
   "ids": {
    "howlongtobeat": "10090",
    "igdb": "the-matrix-path-of-neo",
+   "metacritic": "the-matrix-path-of-neo",
    "mobygames": "20274",
    "pcgamingwiki": "The_Matrix:_Path_of_Neo"
   },
@@ -60,6 +63,7 @@
    "epic": "dead-space-3-5a3755",
    "howlongtobeat": "2337",
    "igdb": "dead-space-3",
+   "metacritic": "dead-space-3",
    "mobygames": "59679",
    "pcgamingwiki": "Dead_Space_3",
    "steam": "1238060"
@@ -72,6 +76,7 @@
   "ids": {
    "howlongtobeat": "2085",
    "igdb": "csi-crime-scene-investigation-fatal-conspiracy",
+   "metacritic": "csi-crime-scene-investigation-fatal-conspiracy",
    "mobygames": "48899"
   },
   "label_en": "CSI: Fatal Conspiracy",
@@ -82,6 +87,7 @@
   "ids": {
    "howlongtobeat": "2075",
    "igdb": "crystal-defenders",
+   "metacritic": "crystal-defenders",
    "mobygames": "38514"
   },
   "label_en": "Crystal Defenders",
@@ -92,6 +98,7 @@
   "ids": {
    "howlongtobeat": "7171",
    "igdb": "pokemon-rumble",
+   "metacritic": "pokemon-rumble",
    "mobygames": "47301"
   },
   "label_en": "Pokémon Rumble",
@@ -102,6 +109,7 @@
   "ids": {
    "howlongtobeat": "6389",
    "igdb": "naruto-shippuden-ultimate-ninja-storm-2",
+   "metacritic": "naruto-shippuden-ultimate-ninja-storm-2",
    "mobygames": "63333",
    "pcgamingwiki": "Naruto_Shippuden:_Ultimate_Ninja_Storm_2",
    "steam": "543870"
@@ -139,6 +147,7 @@
   "enwiki": "NBA Live 2003",
   "ids": {
    "igdb": "nba-live-2003",
+   "metacritic": "nba-live-2003",
    "mobygames": "9182"
   },
   "label_en": "NBA Live 2003",
@@ -184,6 +193,7 @@
    "gog": "game/x_rebirth",
    "howlongtobeat": "11360",
    "igdb": "x-rebirth",
+   "metacritic": "x-rebirth",
    "mobygames": "66167",
    "pcgamingwiki": "X_Rebirth",
    "steam": "2870"
@@ -208,6 +218,7 @@
   "ids": {
    "howlongtobeat": "18254",
    "igdb": "world-racing-2",
+   "metacritic": "world-racing-2",
    "mobygames": "22600",
    "pcgamingwiki": "World_Racing_2"
   },
@@ -223,6 +234,7 @@
   "enwiki": "David Beckham Soccer",
   "ids": {
    "igdb": "david-beckham-soccer",
+   "metacritic": "david-beckham-soccer",
    "mobygames": "9027"
   },
   "label_en": "David Beckham Soccer",
@@ -242,6 +254,7 @@
   "enwiki": "Hot Potato (video game)",
   "ids": {
    "igdb": "hot-potato",
+   "metacritic": "hot-potato-2001",
    "mobygames": "12755"
   },
   "label_en": "Hot Potato",
@@ -326,6 +339,7 @@
   "ids": {
    "howlongtobeat": "21845",
    "igdb": "f1-2014",
+   "metacritic": "f1-2014",
    "mobygames": "80199",
    "pcgamingwiki": "F1_2014",
    "steam": "226580"
@@ -343,6 +357,7 @@
    "epic": "dragon-quest-xi-s-echoes-of-an-elusive-age",
    "howlongtobeat": "39508",
    "igdb": "dragon-quest-xi-echoes-of-an-elusive-age",
+   "metacritic": "dragon-quest-xi-echoes-of-an-elusive-age",
    "mobygames": "98424",
    "pcgamingwiki": "Dragon_Quest_XI",
    "steam": "742120"
@@ -355,6 +370,7 @@
   "ids": {
    "howlongtobeat": "40715",
    "igdb": "sniper-elite-4",
+   "metacritic": "sniper-elite-4",
    "mobygames": "83671",
    "pcgamingwiki": "Sniper_Elite_4",
    "steam": "312660"
@@ -394,6 +410,7 @@
   "ids": {
    "howlongtobeat": "29431",
    "igdb": "knee-deep",
+   "metacritic": "knee-deep",
    "mobygames": "87592",
    "pcgamingwiki": "Knee_Deep",
    "steam": "371300"
@@ -418,6 +435,7 @@
    "gog": "game/mages_of_mystralia",
    "howlongtobeat": "45399",
    "igdb": "mages-of-mystralia",
+   "metacritic": "mages-of-mystralia",
    "mobygames": "89045",
    "pcgamingwiki": "Mages_of_Mystralia",
    "steam": "529660"
@@ -457,6 +475,7 @@
  {
   "ids": {
    "igdb": "toro-and-friends-onsen-town",
+   "metacritic": "toro-to-puzzle-doko-demo-issyo",
    "mobygames": "161411"
   },
   "label_en": "Toro and Friends: Onsen Town",
@@ -496,6 +515,7 @@
   "ids": {
    "howlongtobeat": "25225",
    "igdb": "pixel-heroes-byte-and-magic",
+   "metacritic": "pixel-heroes-byte-and-magic",
    "mobygames": "78117",
    "pcgamingwiki": "Pixel_Heroes:_Byte_&_Magic",
    "steam": "338320"
@@ -507,6 +527,7 @@
   "ids": {
    "howlongtobeat": "102291",
    "igdb": "a-equals-b",
+   "metacritic": "ab",
    "mobygames": "187630",
    "steam": "1720850"
   },
@@ -564,6 +585,7 @@
    "gog": "game/lost_ruins",
    "howlongtobeat": "88780",
    "igdb": "lost-ruins",
+   "metacritic": "lost-ruins",
    "mobygames": "164403",
    "pcgamingwiki": "Lost_Ruins",
    "steam": "1306630"
@@ -627,6 +649,7 @@
   "enwiki": "Hot Wheels: Race Off+",
   "ids": {
    "igdb": "hot-wheels-race-off",
+   "metacritic": "hot-wheels-race-off",
    "mobygames": "93270"
   },
   "label_en": "Hot Wheels: Race Off+",
@@ -706,6 +729,7 @@
   "ids": {
    "howlongtobeat": "80450",
    "igdb": "the-innsmouth-case",
+   "metacritic": "the-innsmouth-case",
    "mobygames": "147310",
    "steam": "1231950"
   },
@@ -932,6 +956,7 @@
    "gog": "game/ninnindays_2",
    "howlongtobeat": "101072",
    "igdb": "ninnindays-2",
+   "metacritic": "ninnindays2",
    "mobygames": "175683",
    "steam": "1698030"
   },
@@ -942,6 +967,7 @@
   "enwiki": "Batman: Arkham Shadow",
   "ids": {
    "igdb": "batman-arkham-shadow",
+   "metacritic": "batman-arkham-shadow",
    "mobygames": "232545"
   },
   "label_en": "Batman: Arkham Shadow",
@@ -1307,6 +1333,7 @@
   "ids": {
    "howlongtobeat": "89623",
    "igdb": "black-souls--7",
+   "metacritic": "black-souls",
    "mobygames": "220017",
    "pcgamingwiki": "Black_Souls",
    "steam": "3755860"

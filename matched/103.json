@@ -6,6 +6,7 @@
    "gog": "game/quake_ii_quad_damage",
    "howlongtobeat": "7455",
    "igdb": "quake-ii",
+   "metacritic": "quake-ii",
    "mobygames": "405",
    "pcgamingwiki": "Quake_II",
    "steam": "2320"
@@ -19,6 +20,7 @@
    "gog": "game/europa_universalis_ii",
    "howlongtobeat": "13029",
    "igdb": "europa-universalis-ii",
+   "metacritic": "europa-universalis-ii",
    "mobygames": "5567",
    "pcgamingwiki": "Europa_Universalis_II"
   },
@@ -30,6 +32,7 @@
   "ids": {
    "howlongtobeat": "5655",
    "igdb": "mario-super-sluggers",
+   "metacritic": "mario-super-sluggers",
    "mobygames": "36180"
   },
   "label_en": "Mario Super Sluggers",
@@ -49,6 +52,7 @@
   "ids": {
    "howlongtobeat": "4800",
    "igdb": "jak-and-daxter-the-precursor-legacy",
+   "metacritic": "jak-and-daxter-the-precursor-legacy",
    "mobygames": "6792",
    "pcgamingwiki": "Jak_and_Daxter:_The_Precursor_Legacy_(OpenGOAL)"
   },
@@ -61,6 +65,7 @@
    "gog": "game/return_to_mysterious_island",
    "howlongtobeat": "7768",
    "igdb": "return-to-mysterious-island",
+   "metacritic": "return-to-mysterious-island",
    "mobygames": "15592",
    "pcgamingwiki": "Return_to_Mysterious_Island",
    "steam": "277110"
@@ -73,6 +78,7 @@
   "ids": {
    "howlongtobeat": "3622",
    "igdb": "folklore",
+   "metacritic": "folklore",
    "mobygames": "30599"
   },
   "label_en": "Folklore",
@@ -131,6 +137,7 @@
   "enwiki": "Hexyz Force",
   "ids": {
    "igdb": "hexyz-force",
+   "metacritic": "hexyz-force",
    "mobygames": "50330"
   },
   "label_en": "Hexyz Force",
@@ -217,6 +224,7 @@
   "enwiki": "Puzzle & Dragons Z + Super Mario Bros. Edition",
   "ids": {
    "igdb": "puzzle-and-dragons-z-plus-puzzle-and-dragons-super-mario-bros-edition",
+   "metacritic": "puzzle-and-dragons-z-plus-puzzle-and-dragons-super",
    "mobygames": "79839"
   },
   "label_en": "Puzzle & Dragons Z + Super Mario Bros. Edition",
@@ -227,6 +235,7 @@
   "ids": {
    "howlongtobeat": "25196",
    "igdb": "farming-simulator-15",
+   "metacritic": "farming-simulator-15",
    "mobygames": "73052",
    "pcgamingwiki": "Farming_Simulator_15",
    "steam": "313160"
@@ -238,6 +247,7 @@
   "enwiki": "Disney Sports Snowboarding",
   "ids": {
    "igdb": "disney-sports-snowboarding",
+   "metacritic": "disney-sports-snowboarding",
    "mobygames": "23611"
   },
   "label_en": "Disney Sports Snowboarding",
@@ -248,6 +258,7 @@
   "ids": {
    "howlongtobeat": "18988",
    "igdb": "stairs",
+   "metacritic": "stairs",
    "mobygames": "75231",
    "pcgamingwiki": "Stairs",
    "steam": "374060"
@@ -259,6 +270,7 @@
   "enwiki": "Akiba's Beat",
   "ids": {
    "igdb": "akibas-beat",
+   "metacritic": "akibas-beat",
    "mobygames": "88709"
   },
   "label_en": "Akiba's Beat",
@@ -271,6 +283,7 @@
    "gog": "game/tiny_troopers_joint_ops_xl",
    "howlongtobeat": "22499",
    "igdb": "tiny-troopers-joint-ops",
+   "metacritic": "tiny-troopers-joint-ops",
    "mobygames": "85296",
    "pcgamingwiki": "Tiny_Troopers:_Joint_Ops",
    "steam": "2225750"
@@ -288,6 +301,7 @@
  {
   "ids": {
    "igdb": "my-fun-facts-coach",
+   "metacritic": "my-fun-facts-coach",
    "mobygames": "89285"
   },
   "label_en": "My Fun Facts Coach",
@@ -299,6 +313,7 @@
    "epic": "apex-legends-006cde",
    "howlongtobeat": "64753",
    "igdb": "apex-legends",
+   "metacritic": "apex-legends",
    "mobygames": "121713",
    "pcgamingwiki": "Apex_Legends",
    "steam": "1172470"
@@ -311,6 +326,7 @@
    "gog": "game/raiden_legacy",
    "howlongtobeat": "7546",
    "igdb": "raiden-legacy",
+   "metacritic": "raiden-legacy",
    "mobygames": "63330",
    "pcgamingwiki": "Raiden_Legacy",
    "steam": "407600"
@@ -350,6 +366,7 @@
   "ids": {
    "howlongtobeat": "87579",
    "igdb": "mxgp-2020-the-official-motocross-videogame",
+   "metacritic": "mxgp-2020-the-official-motocross-videogame",
    "mobygames": "155730",
    "pcgamingwiki": "MXGP_2020",
    "steam": "1259800"
@@ -384,6 +401,7 @@
   "ids": {
    "howlongtobeat": "103353",
    "igdb": "pocky-and-rocky-reshrined",
+   "metacritic": "pocky-and-rocky-reshrined",
    "mobygames": "189042",
    "pcgamingwiki": "Pocky_&_Rocky_Reshrined",
    "steam": "2200580"
@@ -427,6 +445,7 @@
    "gog": "game/the_chant",
    "howlongtobeat": "94014",
    "igdb": "the-chant",
+   "metacritic": "the-chant",
    "mobygames": "193159",
    "pcgamingwiki": "The_Chant",
    "steam": "1577250"
@@ -443,6 +462,7 @@
   "ids": {
    "howlongtobeat": "113584",
    "igdb": "like-a-dragon-gaiden-the-man-who-erased-his-name",
+   "metacritic": "like-a-dragon-gaiden-the-man-who-erased-his-name",
    "mobygames": "211533",
    "pcgamingwiki": "Like_a_Dragon_Gaiden:_The_Man_Who_Erased_His_Name",
    "steam": "2375550"
@@ -460,6 +480,7 @@
    "gog": "game/trepang2",
    "howlongtobeat": "75163",
    "igdb": "trepang2",
+   "metacritic": "trepang2",
    "mobygames": "204683",
    "pcgamingwiki": "Trepang2",
    "steam": "1164940"
@@ -855,6 +876,7 @@
    "epic": "roadcraft-b65690",
    "howlongtobeat": "155645",
    "igdb": "roadcraft",
+   "metacritic": "roadcraft",
    "pcgamingwiki": "RoadCraft",
    "steam": "2104890"
   },
@@ -882,6 +904,7 @@
   "ids": {
    "howlongtobeat": "105500",
    "igdb": "morbid-metal",
+   "metacritic": "morbid-metal",
    "mobygames": "258865",
    "pcgamingwiki": "Morbid_Metal",
    "steam": "1866130"
@@ -1231,6 +1254,7 @@
  {
   "ids": {
    "igdb": "hentai-memory-leak",
+   "pcgamingwiki": "Hentai:_Memory_leak",
    "steam": "1158320"
   },
   "label_en": "Hentai: Memory Leak",

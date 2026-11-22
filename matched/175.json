@@ -47,6 +47,7 @@
   "enwiki": "Circus Maximus: Chariot Wars",
   "ids": {
    "igdb": "circus-maximus-chariot-wars",
+   "metacritic": "circus-maximus-chariot-wars",
    "mobygames": "8546"
   },
   "label_en": "Circus Maximus: Chariot Wars",
@@ -57,6 +58,7 @@
   "ids": {
    "howlongtobeat": "10331",
    "igdb": "tidalis",
+   "metacritic": "tidalis",
    "mobygames": "47399",
    "pcgamingwiki": "Tidalis",
    "steam": "40420"
@@ -68,6 +70,7 @@
   "enwiki": "Disgaea D2: A Brighter Darkness",
   "ids": {
    "igdb": "disgaea-d2-a-brighter-darkness",
+   "metacritic": "disgaea-d2-a-brighter-darkness",
    "mobygames": "66243"
   },
   "label_en": "Disgaea D2: A Brighter Darkness",
@@ -86,6 +89,7 @@
   "enwiki": "Kick-Ass: The Game",
   "ids": {
    "igdb": "kick-ass-the-game",
+   "metacritic": "kick-ass",
    "mobygames": "95746"
   },
   "label_en": "Kick-Ass: The Game",
@@ -104,6 +108,7 @@
   "enwiki": "Spectral Souls: Resurrection of the Ethereal Empires",
   "ids": {
    "igdb": "spectral-souls-resurrection-of-the-ethereal-empires",
+   "metacritic": "spectral-souls-resurrection-of-the-ethereal-empir",
    "mobygames": "18460"
   },
   "label_en": "Spectral Souls: Resurrection of the Ethereal Empires",
@@ -191,6 +196,7 @@
    "gog": "game/frostpunk",
    "howlongtobeat": "41585",
    "igdb": "frostpunk",
+   "metacritic": "frostpunk",
    "mobygames": "107578",
    "pcgamingwiki": "Frostpunk",
    "steam": "323190"
@@ -251,6 +257,7 @@
   "ids": {
    "howlongtobeat": "88985",
    "igdb": "taxi-chaos",
+   "metacritic": "taxi-chaos",
    "mobygames": "158924",
    "pcgamingwiki": "Taxi_Chaos",
    "steam": "1457570"
@@ -292,6 +299,7 @@
   "ids": {
    "howlongtobeat": "62956",
    "igdb": "iris-dot-fall",
+   "metacritic": "irisfall",
    "mobygames": "118325",
    "pcgamingwiki": "Iris.Fall",
    "steam": "907470"
@@ -350,6 +358,7 @@
   "ids": {
    "howlongtobeat": "125953",
    "igdb": "disgaea-7-vows-of-the-virtueless",
+   "metacritic": "disgaea-7-vows-of-the-virtueless",
    "mobygames": "209731",
    "pcgamingwiki": "Disgaea_7:_Vows_of_the_Virtueless",
    "steam": "2250600"
@@ -1103,6 +1112,7 @@
  {
   "ids": {
    "epic": "letters-of-war-c9a93e",
+   "metacritic": "letters-of-war",
    "steam": "3777000"
   },
   "wikidata": "Q139604175"

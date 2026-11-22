@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6472",
    "igdb": "need-for-speed-carbon",
+   "metacritic": "need-for-speed-carbon",
    "mobygames": "24726",
    "pcgamingwiki": "Need_for_Speed:_Carbon"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "5738",
    "igdb": "max-payne-2-the-fall-of-max-payne",
+   "metacritic": "max-payne-2-the-fall-of-max-payne",
    "mobygames": "10708",
    "pcgamingwiki": "Max_Payne_2:_The_Fall_of_Max_Payne",
    "steam": "12150"
@@ -27,6 +29,7 @@
   "ids": {
    "howlongtobeat": "2966",
    "igdb": "dungeons-and-dragons-online",
+   "metacritic": "dungeons-and-dragons-online-stormreach",
    "mobygames": "24526",
    "pcgamingwiki": "Dungeons_&_Dragons_Online",
    "steam": "206480"
@@ -71,6 +74,7 @@
   "ids": {
    "howlongtobeat": "2540",
    "igdb": "digimon-world-2",
+   "metacritic": "digimon-world-2",
    "mobygames": "17802"
   },
   "label_en": "Digimon World 2",
@@ -87,6 +91,7 @@
   "enwiki": "Shrek (video game)",
   "ids": {
    "igdb": "shrek",
+   "metacritic": "shrek-2001",
    "mobygames": "9345"
   },
   "label_en": "Shrek",
@@ -181,6 +186,7 @@
   "ids": {
    "howlongtobeat": "19096",
    "igdb": "ace-combat-infinity",
+   "metacritic": "ace-combat-infinity",
    "mobygames": "82544"
   },
   "label_en": "Ace Combat Infinity",
@@ -211,6 +217,7 @@
    "epic": "might-and-magic-heroes-7",
    "howlongtobeat": "33027",
    "igdb": "might-magic-heroes-vii",
+   "metacritic": "might-and-magic-heroes-vii",
    "mobygames": "79270",
    "pcgamingwiki": "Might_&_Magic_Heroes_VII",
    "steam": "321960"
@@ -222,6 +229,7 @@
   "enwiki": "The Peanuts Movie: Snoopy's Grand Adventure",
   "ids": {
    "igdb": "the-peanuts-movie-snoopys-grand-adventure",
+   "metacritic": "snoopys-grand-adventure",
    "mobygames": "85933"
   },
   "label_en": "The Peanuts Movie: Snoopy's Grand Adventure",
@@ -277,6 +285,7 @@
   "ids": {
    "howlongtobeat": "46880",
    "igdb": "magi-trials",
+   "metacritic": "highschool-romance-magi-trials",
    "mobygames": "89171",
    "pcgamingwiki": "Highschool_Romance:_Magi_Trials",
    "steam": "446600"
@@ -785,7 +794,8 @@
  },
  {
   "ids": {
-   "igdb": "educational-pack-of-kids-games"
+   "igdb": "educational-pack-of-kids-games",
+   "metacritic": "educational-pack-of-kids-games"
   },
   "label_en": "Educational Pack Of Kids Games",
   "wikidata": "Q125371795"
@@ -833,6 +843,7 @@
  {
   "ids": {
    "igdb": "junxions",
+   "metacritic": "junxions",
    "steam": "1447250"
   },
   "label_en": "Junxions",
@@ -851,6 +862,7 @@
   "ids": {
    "howlongtobeat": "157710",
    "igdb": "aaero2",
+   "metacritic": "aaero2",
    "mobygames": "233557",
    "steam": "3010090"
   },

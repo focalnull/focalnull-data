@@ -44,6 +44,7 @@
    "gog": "game/industry_giant",
    "howlongtobeat": "16609",
    "igdb": "industry-giant",
+   "metacritic": "industry-giant",
    "mobygames": "2291",
    "pcgamingwiki": "Industry_Giant",
    "steam": "521090"
@@ -56,6 +57,7 @@
   "ids": {
    "howlongtobeat": "56850",
    "igdb": "lode-runner",
+   "metacritic": "lode-runner",
    "mobygames": "243",
    "pcgamingwiki": "Lode_Runner"
   },
@@ -67,6 +69,7 @@
   "ids": {
    "howlongtobeat": "2861",
    "igdb": "drakengard",
+   "metacritic": "drakengard",
    "mobygames": "12409"
   },
   "label_en": "Drakengard",
@@ -76,6 +79,7 @@
   "enwiki": "Shin Megami Tensei: Digital Devil Saga",
   "ids": {
    "igdb": "shin-megami-tensei-digital-devil-saga",
+   "metacritic": "shin-megami-tensei-digital-devil-saga",
    "mobygames": "15095"
   },
   "label_en": "Shin Megami Tensei: Digital Devil Saga",
@@ -86,6 +90,7 @@
   "ids": {
    "howlongtobeat": "721",
    "igdb": "atv-quad-power-racing-2",
+   "metacritic": "atv-quad-power-racing-2",
    "mobygames": "12681"
   },
   "label_en": "ATV Quad Power Racing 2",
@@ -189,6 +194,7 @@
   "enwiki": "Tony Hawk's Underground 2: Remix",
   "ids": {
    "igdb": "tony-hawks-underground-2-remix",
+   "metacritic": "tony-hawks-underground-2",
    "mobygames": "17330"
   },
   "label_en": "Tony Hawk's Underground 2: Remix",
@@ -198,6 +204,7 @@
   "enwiki": "Hatsune Miku: Project Diva X",
   "ids": {
    "igdb": "hatsune-miku-project-diva-x",
+   "metacritic": "hatsune-miku-project-diva-x",
    "mobygames": "83079"
   },
   "label_en": "Hatsune Miku: Project DIVA X",
@@ -218,6 +225,7 @@
    "gog": "game/dear_esther_landmark_edition",
    "howlongtobeat": "43743",
    "igdb": "dear-esther-landmark-edition",
+   "metacritic": "dear-esther-landmark-edition",
    "mobygames": "80714",
    "pcgamingwiki": "Dear_Esther:_Landmark_Edition",
    "steam": "520720"
@@ -260,6 +268,7 @@
    "epic": "assassins-creed-odyssey",
    "howlongtobeat": "57503",
    "igdb": "assassins-creed-odyssey",
+   "metacritic": "assassins-creed-odyssey",
    "mobygames": "114743",
    "pcgamingwiki": "Assassin's_Creed_Odyssey",
    "steam": "812140"
@@ -270,6 +279,7 @@
  {
   "ids": {
    "igdb": "ohno-odyssey",
+   "metacritic": "ohno-odyssey",
    "mobygames": "96821"
   },
   "label_en": "Ohno Odyssey",
@@ -286,6 +296,7 @@
   "enwiki": "NCAA Football 2002",
   "ids": {
    "igdb": "ncaa-football-2002",
+   "metacritic": "ncaa-football-2002",
    "mobygames": "5690"
   },
   "label_en": "NCAA Football 2002",
@@ -295,6 +306,7 @@
   "ids": {
    "howlongtobeat": "21504",
    "igdb": "velocibox",
+   "metacritic": "velocibox",
    "mobygames": "86840",
    "pcgamingwiki": "Velocibox",
    "steam": "317710"
@@ -312,6 +324,7 @@
    "gog": "game/cult_of_the_lamb",
    "howlongtobeat": "97313",
    "igdb": "cult-of-the-lamb",
+   "metacritic": "cult-of-the-lamb",
    "mobygames": "188798",
    "pcgamingwiki": "Cult_of_the_Lamb",
    "steam": "1313140"
@@ -343,6 +356,7 @@
   "enwiki": "The Starship Damrey",
   "ids": {
    "igdb": "the-starship-damrey",
+   "metacritic": "the-starship-damrey",
    "mobygames": "60684"
   },
   "label_en": "The Starship Damrey",
@@ -374,6 +388,7 @@
    "gog": "game/lost_eidolons",
    "howlongtobeat": "94270",
    "igdb": "lost-eidolons",
+   "metacritic": "lost-eidolons",
    "mobygames": "193053",
    "pcgamingwiki": "Lost_Eidolons",
    "steam": "1580520"
@@ -697,7 +712,8 @@
  {
   "ids": {
    "howlongtobeat": "18391",
-   "igdb": "dokapon-the-world"
+   "igdb": "dokapon-the-world",
+   "metacritic": "dokapon-the-world"
   },
   "label_en": "Dokapon the World",
   "wikidata": "Q123989566"
@@ -777,6 +793,7 @@
   "ids": {
    "howlongtobeat": "128511",
    "igdb": "anomaly-agent",
+   "metacritic": "anomaly-agent",
    "mobygames": "216467",
    "pcgamingwiki": "Anomaly_Agent",
    "steam": "2378620"
@@ -787,7 +804,8 @@
  {
   "ids": {
    "howlongtobeat": "128386",
-   "igdb": "laid-back-camp-have-a-nice-day"
+   "igdb": "laid-back-camp-have-a-nice-day",
+   "metacritic": "laid-back-camp-have-a-nice-day"
   },
   "label_en": "Laid-Back Camp: Have a nice day!",
   "wikidata": "Q124790566"
@@ -936,6 +954,7 @@
    "gog": "game/escape_from_ever_after",
    "howlongtobeat": "148675",
    "igdb": "escape-from-ever-after",
+   "metacritic": "escape-from-ever-after",
    "steam": "1996390"
   },
   "label_en": "Escape from Ever After",

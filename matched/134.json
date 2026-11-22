@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "5688",
    "igdb": "marvel-vs-capcom-3-fate-of-two-worlds",
+   "metacritic": "marvel-vs-capcom-3-fate-of-two-worlds",
    "mobygames": "53752"
   },
   "label_en": "Marvel vs. Capcom 3: Fate of Two Worlds",
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "8417",
    "igdb": "need-for-speed-shift-2-unleashed",
+   "metacritic": "shift-2-unleashed",
    "mobygames": "51321",
    "pcgamingwiki": "Shift_2_Unleashed",
    "steam": "47920"
@@ -36,6 +38,7 @@
   "enwiki": "Guitar Hero: Warriors of Rock",
   "ids": {
    "igdb": "guitar-hero-warriors-of-rock",
+   "metacritic": "guitar-hero-warriors-of-rock",
    "mobygames": "54000"
   },
   "label_en": "Guitar Hero: Warriors of Rock",
@@ -45,6 +48,7 @@
   "enwiki": "Prince of Persia 3D",
   "ids": {
    "igdb": "prince-of-persia-3d",
+   "metacritic": "prince-of-persia-arabian-nights",
    "mobygames": "876",
    "pcgamingwiki": "Prince_of_Persia_3D"
   },
@@ -74,6 +78,7 @@
   "ids": {
    "howlongtobeat": "50118",
    "igdb": "allegiance",
+   "metacritic": "allegiance",
    "mobygames": "2843",
    "pcgamingwiki": "Allegiance",
    "steam": "700480"
@@ -86,6 +91,7 @@
   "ids": {
    "howlongtobeat": "15321",
    "igdb": "allods-online",
+   "metacritic": "allods-online",
    "mobygames": "52099",
    "pcgamingwiki": "Allods_Online",
    "steam": "459160"
@@ -107,6 +113,7 @@
   "enwiki": "Mad Maestro!",
   "ids": {
    "igdb": "mad-maestro--1",
+   "metacritic": "mad-maestro",
    "mobygames": "6043"
   },
   "label_en": "Mad Maestro!",
@@ -116,6 +123,7 @@
   "enwiki": "MTX Mototrax",
   "ids": {
    "igdb": "mtx-mototrax",
+   "metacritic": "mtx-mototrax",
    "mobygames": "38204"
   },
   "label_en": "MTX Mototrax",
@@ -202,6 +210,7 @@
   "ids": {
    "howlongtobeat": "6831",
    "igdb": "outlaw-volleyball",
+   "metacritic": "outlaw-volleyball",
    "mobygames": "9699"
   },
   "label_en": "Outlaw Volleyball",
@@ -287,6 +296,7 @@
   "ids": {
    "howlongtobeat": "67961",
    "igdb": "marvels-avengers",
+   "metacritic": "marvels-avengers",
    "mobygames": "150080",
    "pcgamingwiki": "Marvel's_Avengers",
    "steam": "997070"
@@ -330,6 +340,7 @@
   "ids": {
    "howlongtobeat": "5156",
    "igdb": "labyrinth",
+   "metacritic": "labyrinth",
    "mobygames": "196049",
    "pcgamingwiki": "Labyrinth",
    "steam": "412310"
@@ -340,7 +351,8 @@
  {
   "ids": {
    "epic": "a-knights-quest",
-   "igdb": "a-knights-quest"
+   "igdb": "a-knights-quest",
+   "metacritic": "a-knights-quest-2019"
   },
   "label_en": "A Knights Quest",
   "wikidata": "Q69891134"
@@ -349,6 +361,7 @@
   "ids": {
    "howlongtobeat": "29286",
    "igdb": "12-labours-of-hercules-iii-girl-power",
+   "metacritic": "12-labours-of-hercules-iii-girl-power",
    "mobygames": "86919",
    "pcgamingwiki": "12_Labours_of_Hercules_III:_Girl_Power",
    "steam": "360650"
@@ -373,6 +386,7 @@
    "gog": "game/sword_of_the_necromancer",
    "howlongtobeat": "82602",
    "igdb": "sword-of-the-necromancer",
+   "metacritic": "sword-of-the-necromancer",
    "mobygames": "157767",
    "pcgamingwiki": "Sword_of_the_Necromancer",
    "steam": "1243890"
@@ -400,6 +414,7 @@
    "howlongtobeat": "115594",
    "igdb": "witchtastic",
    "mobygames": "215046",
+   "pcgamingwiki": "Witchtastic",
    "steam": "1080010"
   },
   "label_en": "Witchtastic",
@@ -415,6 +430,9 @@
   "wikidata": "Q109334134"
  },
  {
+  "ids": {
+   "metacritic": "halloween-maze-world"
+  },
   "label_en": "Halloween Maze World",
   "wikidata": "Q109418134"
  },
@@ -504,6 +522,7 @@
    "epic": "mythforce-d2710b",
    "howlongtobeat": "106963",
    "igdb": "mythforce",
+   "metacritic": "mythforce",
    "mobygames": "183609",
    "pcgamingwiki": "MythForce",
    "steam": "363860"
@@ -775,7 +794,8 @@
  {
   "enwiki": "Tax Heaven 3000",
   "ids": {
-   "igdb": "tax-heaven-3000"
+   "igdb": "tax-heaven-3000",
+   "metacritic": "tax-heaven-3000"
   },
   "label_en": "Tax Heaven 3000",
   "wikidata": "Q123407134"
@@ -907,6 +927,7 @@
   "ids": {
    "howlongtobeat": "163819",
    "igdb": "digimon-story-time-stranger",
+   "metacritic": "digimon-story-time-stranger",
    "pcgamingwiki": "Digimon_Story:_Time_Stranger",
    "steam": "1984270"
   },
@@ -1201,6 +1222,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Dive_or_Die:_Children_of_Rain",
    "steam": "3590290"
   },
   "label_en": "Dive or Die: Children of Rain",

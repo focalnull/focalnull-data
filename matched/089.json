@@ -3,6 +3,7 @@
   "enwiki": "Ilomilo",
   "ids": {
    "igdb": "ilomilo",
+   "metacritic": "ilomilo",
    "mobygames": "50835",
    "pcgamingwiki": "Ilomilo"
   },
@@ -13,6 +14,7 @@
   "enwiki": "MadWorld",
   "ids": {
    "igdb": "madworld",
+   "metacritic": "madworld",
    "mobygames": "41080"
   },
   "label_en": "MadWorld",
@@ -54,6 +56,7 @@
   "ids": {
    "howlongtobeat": "10637",
    "igdb": "iron-brigade",
+   "metacritic": "iron-brigade",
    "mobygames": "63979",
    "pcgamingwiki": "Iron_Brigade",
    "steam": "115120"
@@ -92,6 +95,7 @@
   "enwiki": "Cosmic Osmo's Hex Isle",
   "ids": {
    "igdb": "cosmic-osmos-hex-isle",
+   "metacritic": "cosmic-osmos-hex-isle",
    "mobygames": "57587"
   },
   "label_en": "Cosmic Osmo's Hex Isle",
@@ -101,6 +105,7 @@
   "enwiki": "Dance Dance Revolution Konamix",
   "ids": {
    "igdb": "dance-dance-revolution-konamix",
+   "metacritic": "dance-dance-revolution-konamix",
    "mobygames": "18432"
   },
   "label_en": "Dance Dance Revolution Konamix",
@@ -110,6 +115,7 @@
   "enwiki": "Death By Cube",
   "ids": {
    "igdb": "death-by-cube",
+   "metacritic": "death-by-cube",
    "mobygames": "47428"
   },
   "label_en": "Death By Cube",
@@ -189,6 +195,7 @@
   "enwiki": "Pyst",
   "ids": {
    "igdb": "pyst",
+   "metacritic": "pyst",
    "mobygames": "14523",
    "pcgamingwiki": "Pyst"
   },
@@ -212,6 +219,7 @@
   "enwiki": "Shanghai II: Dragon's Eye",
   "ids": {
    "igdb": "shanghai-ii-dragon-s-eye",
+   "metacritic": "shanghai-ii-dragons-eye",
    "mobygames": "2055"
   },
   "label_en": "Shanghai II: Dragon's Eye",
@@ -221,6 +229,7 @@
   "enwiki": "Nano Assault",
   "ids": {
    "igdb": "nano-assault",
+   "metacritic": "nano-assault",
    "mobygames": "53923"
   },
   "label_en": "Nano Assault",
@@ -231,6 +240,7 @@
   "ids": {
    "howlongtobeat": "44138",
    "igdb": "fast-rmx",
+   "metacritic": "fast-rmx",
    "mobygames": "84546"
   },
   "label_en": "Fast RMX",
@@ -253,6 +263,7 @@
   "ids": {
    "howlongtobeat": "22395",
    "igdb": "playing-history-2-slave-trade",
+   "metacritic": "playing-history-slave-trade",
    "mobygames": "212186",
    "pcgamingwiki": "Playing_History:_Slave_Trade",
    "steam": "386870"
@@ -264,6 +275,7 @@
   "ids": {
    "howlongtobeat": "64098",
    "igdb": "what-never-was",
+   "metacritic": "what-never-was",
    "mobygames": "120364",
    "pcgamingwiki": "What_Never_Was",
    "steam": "866440"
@@ -277,6 +289,7 @@
    "gog": "game/age_of_wonders_planetfall",
    "howlongtobeat": "59880",
    "igdb": "age-of-wonders-planetfall",
+   "metacritic": "age-of-wonders-planetfall",
    "mobygames": "131865",
    "pcgamingwiki": "Age_of_Wonders:_Planetfall",
    "steam": "718850"
@@ -296,6 +309,7 @@
   "ids": {
    "howlongtobeat": "76204",
    "igdb": "one-piece-pirate-warriors-4",
+   "metacritic": "one-piece-pirate-warriors-4",
    "mobygames": "143540",
    "pcgamingwiki": "One_Piece:_Pirate_Warriors_4",
    "steam": "1089090"
@@ -341,6 +355,7 @@
   "ids": {
    "howlongtobeat": "103822",
    "igdb": "mario-strikers-battle-league",
+   "metacritic": "mario-strikers-battle-league",
    "mobygames": "185234"
   },
   "label_en": "Mario Strikers: Battle League",
@@ -687,6 +702,7 @@
   "ids": {
    "howlongtobeat": "150579",
    "igdb": "tiny-terrys-turbo-trip--1",
+   "metacritic": "tiny-terrys-turbo-trip",
    "mobygames": "224866",
    "pcgamingwiki": "Tiny_Terry's_Turbo_Trip",
    "steam": "2238040"
@@ -812,6 +828,7 @@
   "enwiki": "Tiny Glade",
   "ids": {
    "igdb": "tiny-glade",
+   "metacritic": "tiny-glade",
    "mobygames": "233078",
    "pcgamingwiki": "Tiny_Glade",
    "steam": "2198150"

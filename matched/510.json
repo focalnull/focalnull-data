@@ -20,6 +20,7 @@
   "enwiki": "Arena Wars",
   "ids": {
    "igdb": "arena-wars",
+   "metacritic": "arena-wars",
    "mobygames": "15899",
    "pcgamingwiki": "Arena_Wars"
   },
@@ -32,6 +33,7 @@
    "gog": "game/breath_of_fire_iv",
    "howlongtobeat": "1321",
    "igdb": "breath-of-fire-iv",
+   "metacritic": "breath-of-fire-iv",
    "mobygames": "4521",
    "pcgamingwiki": "Breath_of_Fire_IV",
    "steam": "4249150"
@@ -53,6 +55,7 @@
   "ids": {
    "howlongtobeat": "8745",
    "igdb": "sonic-advance",
+   "metacritic": "sonic-advance",
    "mobygames": "5900"
   },
   "label_en": "Sonic Advance",
@@ -72,6 +75,7 @@
   "enwiki": "300: March to Glory",
   "ids": {
    "igdb": "300-march-to-glory",
+   "metacritic": "300-march-to-glory",
    "mobygames": "26853"
   },
   "label_en": "300: March to Glory",
@@ -86,6 +90,7 @@
   "ids": {
    "howlongtobeat": "1912",
    "igdb": "contra-4",
+   "metacritic": "contra-4",
    "mobygames": "31210"
   },
   "label_en": "Contra 4",
@@ -122,6 +127,7 @@
    "gog": "game/restaurant_empire_ii",
    "howlongtobeat": "15487",
    "igdb": "restaurant-empire-ii",
+   "metacritic": "restaurant-empire-ii",
    "mobygames": "44281",
    "pcgamingwiki": "Restaurant_Empire_II",
    "steam": "32900"
@@ -183,6 +189,7 @@
   "ids": {
    "howlongtobeat": "13931",
    "igdb": "tiger-woods-pga-tour-2004",
+   "metacritic": "tiger-woods-pga-tour-2004",
    "mobygames": "10424",
    "pcgamingwiki": "Tiger_Woods_PGA_Tour_2004"
   },
@@ -228,6 +235,7 @@
    "gog": "game/the_raven_legacy_of_a_master_thief",
    "howlongtobeat": "21041",
    "igdb": "the-raven-legacy-of-a-master-thief",
+   "metacritic": "the-raven-legacy-of-a-master-thief",
    "mobygames": "64462",
    "pcgamingwiki": "The_Raven:_Legacy_of_a_Master_Thief",
    "steam": "233370"
@@ -242,6 +250,7 @@
    "gog": "game/deus_ex_mankind_divided",
    "howlongtobeat": "25434",
    "igdb": "deus-ex-mankind-divided",
+   "metacritic": "deus-ex-mankind-divided",
    "mobygames": "80361",
    "pcgamingwiki": "Deus_Ex:_Mankind_Divided",
    "steam": "337000"
@@ -275,6 +284,7 @@
    "gog": "game/realpolitiks",
    "howlongtobeat": "44049",
    "igdb": "realpolitiks",
+   "metacritic": "realpolitiks",
    "mobygames": "83831",
    "pcgamingwiki": "Realpolitiks",
    "steam": "553260"
@@ -294,6 +304,7 @@
   "ids": {
    "howlongtobeat": "56155",
    "igdb": "zanki-zero-last-beginning",
+   "metacritic": "zanki-zero-last-beginning",
    "mobygames": "108059",
    "pcgamingwiki": "Zanki_Zero:_Last_Beginning",
    "steam": "819020"
@@ -305,6 +316,7 @@
   "enwiki": "Ford Racing (video game)",
   "ids": {
    "igdb": "ford-racing",
+   "metacritic": "ford-racing",
    "mobygames": "1576",
    "pcgamingwiki": "Ford_Racing"
   },
@@ -340,6 +352,7 @@
    "epic": "trover-saves-the-universe",
    "howlongtobeat": "59372",
    "igdb": "trover-saves-the-universe",
+   "metacritic": "trover-saves-the-universe",
    "mobygames": "127553",
    "pcgamingwiki": "Trover_Saves_the_Universe",
    "steam": "1051200"
@@ -366,6 +379,7 @@
    "gog": "game/the_legend_of_heroes_trails_into_reverie",
    "howlongtobeat": "82480",
    "igdb": "the-legend-of-heroes-trails-into-reverie",
+   "metacritic": "the-legend-of-heroes-trails-into-reverie",
    "mobygames": "170323",
    "pcgamingwiki": "The_Legend_of_Heroes:_Trails_into_Reverie",
    "steam": "1668540"
@@ -397,6 +411,7 @@
    "gog": "game/archvale",
    "howlongtobeat": "95199",
    "igdb": "archvale",
+   "metacritic": "archvale",
    "mobygames": "176297",
    "pcgamingwiki": "Archvale",
    "steam": "1296360"
@@ -516,6 +531,7 @@
    "epic": "robobeat-5f084b",
    "howlongtobeat": "110134",
    "igdb": "robobeat",
+   "metacritic": "robobeat",
    "mobygames": "224093",
    "steam": "1456760"
   },
@@ -584,6 +600,7 @@
    "howlongtobeat": "84792",
    "igdb": "torii",
    "mobygames": "195577",
+   "pcgamingwiki": "Torii",
    "steam": "1589680"
   },
   "label_en": "Torii",
@@ -610,6 +627,7 @@
   "ids": {
    "howlongtobeat": "77466",
    "igdb": "the-princess-the-stray-cat-and-matters-of-the-heart-2",
+   "metacritic": "the-princess-the-stray-cat-and-matters-of-the",
    "mobygames": "140697",
    "pcgamingwiki": "The_Princess,_the_Stray_Cat,_and_Matters_of_the_Heart_2",
    "steam": "1128260"

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11547",
    "igdb": "zeno-clash-ii",
+   "metacritic": "zeno-clash-ii",
    "mobygames": "66202",
    "pcgamingwiki": "Zeno_Clash_II",
    "steam": "215690"
@@ -24,6 +25,7 @@
   "enwiki": "Spider-Man (2002 video game)",
   "ids": {
    "igdb": "spider-man--1",
+   "metacritic": "spider-man",
    "mobygames": "6217",
    "pcgamingwiki": "Spider-Man:_The_Movie"
   },
@@ -34,6 +36,7 @@
   "enwiki": "Predator: Concrete Jungle",
   "ids": {
    "igdb": "predator-concrete-jungle",
+   "metacritic": "predator-concrete-jungle",
    "mobygames": "18760"
   },
   "label_en": "Predator: Concrete Jungle",
@@ -43,6 +46,7 @@
   "enwiki": "Freakyforms: Your Creations, Alive!",
   "ids": {
    "igdb": "freakyforms-your-creations-alive",
+   "metacritic": "freakyforms-your-creations-alive",
    "mobygames": "99653"
   },
   "label_en": "Freakyforms: Your Creations, Alive!",
@@ -62,6 +66,7 @@
   "ids": {
    "howlongtobeat": "3040",
    "igdb": "east-india-company",
+   "metacritic": "east-india-company",
    "mobygames": "41476",
    "pcgamingwiki": "East_India_Company",
    "steam": "25930"
@@ -98,6 +103,7 @@
   "enwiki": "Active Life: Extreme Challenge",
   "ids": {
    "igdb": "active-life-extreme-challenge",
+   "metacritic": "active-life-extreme-challenge",
    "mobygames": "86115"
   },
   "label_en": "Active Life: Extreme Challenge",
@@ -127,6 +133,7 @@
   "ids": {
    "howlongtobeat": "5334",
    "igdb": "littlebigplanet",
+   "metacritic": "littlebigplanet",
    "mobygames": "37535"
   },
   "label_en": "LittleBigPlanet",
@@ -145,6 +152,7 @@
   "enwiki": "Neves (video game)",
   "ids": {
    "igdb": "neves",
+   "metacritic": "neves",
    "mobygames": "89460"
   },
   "label_en": "Neves",
@@ -154,6 +162,7 @@
   "enwiki": "Obsidian (1997 video game)",
   "ids": {
    "igdb": "obsidian",
+   "metacritic": "obsidian",
    "mobygames": "1564",
    "pcgamingwiki": "Obsidian",
    "steam": "2471130"
@@ -173,6 +182,7 @@
   "enwiki": "The Adventures of Cookie & Cream",
   "ids": {
    "igdb": "the-adventures-of-cookie-and-cream",
+   "metacritic": "the-adventures-of-cookie-cream",
    "mobygames": "4706"
   },
   "label_en": "The Adventures of Cookie & Cream",
@@ -216,6 +226,7 @@
   "ids": {
    "howlongtobeat": "42409",
    "igdb": "champions-of-anteria",
+   "metacritic": "champions-of-anteria",
    "mobygames": "85999",
    "pcgamingwiki": "Champions_of_Anteria",
    "steam": "374520"
@@ -236,6 +247,7 @@
   "ids": {
    "howlongtobeat": "49620",
    "igdb": "yakuza-kiwami-2",
+   "metacritic": "yakuza-kiwami-2",
    "mobygames": "112809",
    "pcgamingwiki": "Yakuza_Kiwami_2",
    "steam": "927380"
@@ -248,6 +260,7 @@
   "ids": {
    "howlongtobeat": "60106",
    "igdb": "soulcalibur-vi",
+   "metacritic": "soulcalibur-vi",
    "mobygames": "110874",
    "pcgamingwiki": "Soulcalibur_VI",
    "steam": "544750"
@@ -287,6 +300,7 @@
    "gog": "game/haimrik",
    "howlongtobeat": "57678",
    "igdb": "haimrik",
+   "metacritic": "haimrik",
    "mobygames": "110372",
    "pcgamingwiki": "Haimrik",
    "steam": "492180"
@@ -298,6 +312,7 @@
   "ids": {
    "howlongtobeat": "42480",
    "igdb": "earths-dawn",
+   "metacritic": "earths-dawn",
    "mobygames": "87952",
    "pcgamingwiki": "Earth’s_Dawn",
    "steam": "494600"
@@ -344,6 +359,7 @@
   "enwiki": "B-17 Gunner: Air War Over Germany",
   "ids": {
    "igdb": "b-17-gunner-air-war-over-germany",
+   "metacritic": "b-17-gunner-air-war-over-germany",
    "mobygames": "42306"
   },
   "label_en": "B-17 Gunner: Air War Over Germany",
@@ -403,6 +419,7 @@
   "ids": {
    "howlongtobeat": "129265",
    "igdb": "foamstars",
+   "metacritic": "foamstars",
    "mobygames": "217170"
   },
   "label_en": "Foamstars",
@@ -620,6 +637,7 @@
    "epic": "the-isle-tide-hotel-adf588",
    "howlongtobeat": "137668",
    "igdb": "the-isle-tide-hotel",
+   "metacritic": "the-isle-tide-hotel",
    "mobygames": "208536",
    "steam": "2000090"
   },
@@ -633,6 +651,7 @@
    "gog": "game/achilles_legends_untold",
    "howlongtobeat": "105501",
    "igdb": "achilles-legends-untold",
+   "metacritic": "achilles-legends-untold",
    "mobygames": "185427",
    "pcgamingwiki": "Achilles:_Legends_Untold",
    "steam": "1314000"
@@ -719,6 +738,7 @@
    "gog": "game/star_wars_dark_forces_remaster",
    "howlongtobeat": "9100",
    "igdb": "star-wars-dark-forces-remaster",
+   "metacritic": "star-wars-dark-forces-remaster",
    "mobygames": "218485",
    "pcgamingwiki": "Star_Wars:_Dark_Forces_Remaster",
    "steam": "2292260"
@@ -768,6 +788,7 @@
   "ids": {
    "howlongtobeat": "151920",
    "igdb": "max-mustard",
+   "metacritic": "max-mustard",
    "pcgamingwiki": "Max_Mustard",
    "steam": "922490"
   },
@@ -783,6 +804,7 @@
   "ids": {
    "gog": "game/aphelion",
    "igdb": "aphelion--1",
+   "metacritic": "aphelion",
    "mobygames": "251833",
    "pcgamingwiki": "Aphelion",
    "steam": "1966410"
@@ -1100,6 +1122,7 @@
  {
   "ids": {
    "igdb": "happy-anime-puzzle",
+   "pcgamingwiki": "Happy_Anime_Puzzle",
    "steam": "1013130"
   },
   "label_en": "Happy Anime Puzzle",

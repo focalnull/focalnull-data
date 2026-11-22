@@ -50,6 +50,7 @@
   "enwiki": "High School Musical 3: Senior Year (video game)",
   "ids": {
    "igdb": "high-school-musical-3-senior-year",
+   "metacritic": "disney-high-school-musical-3-senior-year",
    "mobygames": "37154"
   },
   "label_en": "High School Musical 3: Senior Year",
@@ -79,6 +80,7 @@
   "ids": {
    "howlongtobeat": "1188",
    "igdb": "bloodforge",
+   "metacritic": "bloodforge",
    "mobygames": "58075"
   },
   "label_en": "Bloodforge",
@@ -97,6 +99,7 @@
   "ids": {
    "howlongtobeat": "1702",
    "igdb": "chronicles-of-mystery-the-scorpio-ritual",
+   "metacritic": "chronicles-of-mystery-the-scorpio-ritual",
    "mobygames": "37909",
    "pcgamingwiki": "Chronicles_of_Mystery:_The_Scorpio_Ritual",
    "steam": "34800"
@@ -204,6 +207,7 @@
   "enwiki": "Wade Hixton's Counter Punch",
   "ids": {
    "igdb": "wade-hixton-s-counter-punch",
+   "metacritic": "wade-hixtons-counter-punch",
    "mobygames": "16491"
   },
   "label_en": "Wade Hixton's Counter Punch",
@@ -217,6 +221,7 @@
   "ids": {
    "howlongtobeat": "37288",
    "igdb": "race-dot-a-bit",
+   "metacritic": "raceabit",
    "mobygames": "135935",
    "pcgamingwiki": "Race.a.bit",
    "steam": "336030"
@@ -230,6 +235,7 @@
    "epic": "for-the-king",
    "howlongtobeat": "45024",
    "igdb": "for-the-king",
+   "metacritic": "for-the-king",
    "mobygames": "101518",
    "pcgamingwiki": "For_the_King",
    "steam": "527230"
@@ -242,6 +248,7 @@
   "ids": {
    "howlongtobeat": "54138",
    "igdb": "warioware-gold",
+   "metacritic": "warioware-gold",
    "mobygames": "107263"
   },
   "label_en": "WarioWare Gold",
@@ -252,6 +259,7 @@
   "ids": {
    "howlongtobeat": "69321",
    "igdb": "diablo-immortal",
+   "metacritic": "diablo-immortal",
    "mobygames": "185307",
    "pcgamingwiki": "Diablo_Immortal"
   },
@@ -286,6 +294,7 @@
   "ids": {
    "howlongtobeat": "81717",
    "igdb": "library-of-ruina",
+   "metacritic": "library-of-ruina",
    "mobygames": "169221",
    "pcgamingwiki": "Library_of_Ruina",
    "steam": "1256670"
@@ -296,7 +305,8 @@
  {
   "ids": {
    "howlongtobeat": "52182",
-   "igdb": "disney-stitch-jam"
+   "igdb": "disney-stitch-jam",
+   "metacritic": "disney-stitch-jam"
   },
   "label_en": "Stitch Jam",
   "wikidata": "Q99967063"
@@ -394,6 +404,7 @@
    "gog": "game/tandem_a_tale_of_shadows",
    "howlongtobeat": "94776",
    "igdb": "tandem-a-tale-of-shadows",
+   "metacritic": "tandem-a-tale-of-shadows",
    "mobygames": "174109",
    "pcgamingwiki": "Tandem:_A_Tale_of_Shadows",
    "steam": "1436920"
@@ -445,6 +456,7 @@
    "epic": "f1-manager-2023",
    "howlongtobeat": "129160",
    "igdb": "f1-manager-2023",
+   "metacritic": "f1-manager-2023",
    "mobygames": "206732",
    "pcgamingwiki": "F1_Manager_2023",
    "steam": "2287220"
@@ -868,6 +880,7 @@
  {
   "ids": {
    "igdb": "a-knight-never-yields",
+   "metacritic": "a-knight-never-yields",
    "steam": "1404010"
   },
   "label_en": "A Knight Never Yields",
@@ -876,7 +889,8 @@
  {
   "enwiki": "Nintendo World Championships: NES Edition",
   "ids": {
-   "igdb": "nintendo-world-championships-nes-edition"
+   "igdb": "nintendo-world-championships-nes-edition",
+   "metacritic": "nintendo-world-championships-nes-edition"
   },
   "label_en": "Nintendo World Championships: NES Edition",
   "wikidata": "Q125849063"
@@ -884,6 +898,7 @@
  {
   "ids": {
    "igdb": "aenigma-os",
+   "metacritic": "aenigma-os",
    "mobygames": "94228"
   },
   "label_en": "Aenigma Os",

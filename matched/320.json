@@ -26,6 +26,7 @@
   "ids": {
    "howlongtobeat": "7837",
    "igdb": "rise-of-the-argonauts",
+   "metacritic": "rise-of-the-argonauts",
    "mobygames": "38106",
    "pcgamingwiki": "Rise_of_the_Argonauts",
    "steam": "12770"
@@ -38,6 +39,7 @@
   "ids": {
    "howlongtobeat": "9541",
    "igdb": "syphon-filter-3",
+   "metacritic": "syphon-filter-3",
    "mobygames": "5380"
   },
   "label_en": "Syphon Filter 3",
@@ -61,6 +63,7 @@
   "ids": {
    "howlongtobeat": "5154",
    "igdb": "la-pucelle-ragnarok--1",
+   "metacritic": "la-pucelle-tactics",
    "mobygames": "15860",
    "pcgamingwiki": "La_Pucelle:_Ragnarok",
    "steam": "1866420"
@@ -73,6 +76,7 @@
   "ids": {
    "howlongtobeat": "4044",
    "igdb": "gran-turismo",
+   "metacritic": "gran-turismo",
    "mobygames": "3909"
   },
   "label_en": "Gran Turismo",
@@ -122,6 +126,7 @@
   "ids": {
    "howlongtobeat": "5833",
    "igdb": "mega-man-legends-2",
+   "metacritic": "mega-man-legends-2",
    "mobygames": "4066",
    "pcgamingwiki": "Rockman_Dash_2"
   },
@@ -133,6 +138,7 @@
   "ids": {
    "howlongtobeat": "6450",
    "igdb": "nba-street-vol-2",
+   "metacritic": "nba-street-vol-2",
    "mobygames": "9208"
   },
   "label_en": "NBA Street Vol. 2",
@@ -181,6 +187,7 @@
    "gog": "game/massive_assault_phantom_renaissance",
    "howlongtobeat": "29713",
    "igdb": "massive-assault-phantom-renaissance",
+   "metacritic": "massive-assault-phantom-renaissance",
    "mobygames": "18870",
    "pcgamingwiki": "Massive_Assault:_Phantom_Renaissance",
    "steam": "34640"
@@ -196,6 +203,7 @@
   "enwiki": "Power Gig: Rise of the SixString",
   "ids": {
    "igdb": "power-gig-rise-of-the-sixstring",
+   "metacritic": "power-gig-rise-of-the-sixstring",
    "mobygames": "207185"
   },
   "label_en": "Power Gig: Rise of the SixString",
@@ -245,6 +253,7 @@
    "gog": "game/hello_neighbor",
    "howlongtobeat": "40794",
    "igdb": "hello-neighbor",
+   "metacritic": "hello-neighbor",
    "mobygames": "88131",
    "pcgamingwiki": "Hello_Neighbor",
    "steam": "521890"
@@ -267,6 +276,7 @@
   "ids": {
    "howlongtobeat": "56710",
    "igdb": "tennis-world-tour",
+   "metacritic": "tennis-world-tour",
    "mobygames": "107449",
    "pcgamingwiki": "Tennis_World_Tour",
    "steam": "692030"
@@ -288,6 +298,7 @@
   "ids": {
    "howlongtobeat": "59832",
    "igdb": "f1-2018",
+   "metacritic": "f1-2018",
    "mobygames": "111509",
    "pcgamingwiki": "F1_2018",
    "steam": "737800"
@@ -296,6 +307,9 @@
   "wikidata": "Q53594320"
  },
  {
+  "ids": {
+   "metacritic": "asobi-ni-iku-yo-chikyuu-pinchi-no-konyaku-sengen"
+  },
   "label_en": "Asobi ni Iku yo! Chikyū Pinch no Kon'yaku Sengen",
   "wikidata": "Q63190320"
  },
@@ -304,6 +318,7 @@
    "gog": "game/spacecom",
    "howlongtobeat": "20830",
    "igdb": "spacecom",
+   "metacritic": "spacecom",
    "mobygames": "132741",
    "pcgamingwiki": "Spacecom",
    "steam": "263860"
@@ -330,6 +345,7 @@
   "ids": {
    "howlongtobeat": "78651",
    "igdb": "dr-kawashimas-brain-training-for-nintendo-switch",
+   "metacritic": "dr-kawashimas-brain-training-for-nintendo-switch",
    "mobygames": "138585"
   },
   "label_en": "Dr Kawashima's Brain Training for Nintendo Switch",
@@ -348,6 +364,7 @@
    "gog": "game/superpower_3",
    "howlongtobeat": "118010",
    "igdb": "superpower-3",
+   "metacritic": "superpower-3",
    "mobygames": "192830",
    "pcgamingwiki": "SuperPower_3",
    "steam": "1563130"
@@ -404,6 +421,7 @@
   "ids": {
    "howlongtobeat": "33608",
    "igdb": "zheros",
+   "metacritic": "zheros",
    "mobygames": "83720",
    "pcgamingwiki": "ZHEROS",
    "steam": "423270"
@@ -692,6 +710,7 @@
   "ids": {
    "howlongtobeat": "19637",
    "igdb": "cosmic-dj",
+   "metacritic": "cosmic-dj",
    "mobygames": "87323",
    "pcgamingwiki": "Cosmic_DJ",
    "steam": "297110"
@@ -793,6 +812,7 @@
   "ids": {
    "howlongtobeat": "87872",
    "igdb": "akibas-trip-hellbound-and-debriefed",
+   "metacritic": "akibas-trip-hellbound-and-debriefed",
    "mobygames": "168032",
    "pcgamingwiki": "Akiba's_Trip:_Hellbound_&_Debriefed",
    "steam": "1236780"
@@ -806,6 +826,7 @@
    "gog": "game/stygian_outer_gods",
    "howlongtobeat": "150026",
    "igdb": "stygian-outer-gods",
+   "metacritic": "stygian-outer-gods",
    "mobygames": "240502",
    "pcgamingwiki": "Stygian:_Outer_Gods",
    "steam": "2581410"
@@ -858,6 +879,7 @@
   "enwiki": "La Quimera",
   "ids": {
    "igdb": "la-quimera",
+   "metacritic": "la-quimera",
    "pcgamingwiki": "La_Quimera",
    "steam": "2282350"
   },

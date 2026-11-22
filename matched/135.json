@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2573",
    "igdb": "dirge-of-cerberus-final-fantasy-vii",
+   "metacritic": "dirge-of-cerberus-final-fantasy-vii",
    "mobygames": "24037"
   },
   "label_en": "Dirge of Cerberus: Final Fantasy VII",
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "7187",
    "igdb": "poker-night-at-the-inventory",
+   "metacritic": "poker-night-at-the-inventory",
    "mobygames": "49458",
    "pcgamingwiki": "Poker_Night_at_the_Inventory",
    "steam": "31280"
@@ -47,6 +49,7 @@
   "ids": {
    "howlongtobeat": "10588",
    "igdb": "toy-story-2-buzz-lightyear-to-the-rescue",
+   "metacritic": "toy-story-2-buzz-lightyear-to-the-rescue",
    "mobygames": "8916",
    "pcgamingwiki": "Toy_Story_2:_Buzz_Lightyear_to_the_Rescue"
   },
@@ -58,6 +61,7 @@
   "ids": {
    "howlongtobeat": "6863",
    "igdb": "pac-man-world-2",
+   "metacritic": "pac-man-world-2",
    "mobygames": "6049",
    "pcgamingwiki": "Pac-Man_World_2"
   },
@@ -81,6 +85,7 @@
   "ids": {
    "howlongtobeat": "5676",
    "igdb": "martian-gothic-unification",
+   "metacritic": "martian-gothic-unification",
    "mobygames": "1679",
    "pcgamingwiki": "Martian_Gothic:_Unification"
   },
@@ -99,6 +104,7 @@
   "enwiki": "Stella Deus: The Gate of Eternity",
   "ids": {
    "igdb": "stella-deus-the-gate-of-eternity",
+   "metacritic": "stella-deus-the-gate-of-eternity",
    "mobygames": "17864"
   },
   "label_en": "Stella Deus: The Gate of Eternity",
@@ -108,6 +114,7 @@
   "enwiki": "Wild Wild Racing",
   "ids": {
    "igdb": "wild-wild-racing",
+   "metacritic": "wild-wild-racing",
    "mobygames": "26432"
   },
   "label_en": "Wild Wild Racing",
@@ -171,6 +178,7 @@
   "ids": {
    "howlongtobeat": "18061",
    "igdb": "puyo-puyo-tetris",
+   "metacritic": "puyo-puyo-tetris",
    "mobygames": "64418",
    "pcgamingwiki": "Puyo_Puyo_Tetris",
    "steam": "546050"
@@ -183,6 +191,7 @@
   "ids": {
    "howlongtobeat": "25689",
    "igdb": "omega-quintet",
+   "metacritic": "omega-quintet",
    "mobygames": "73306",
    "pcgamingwiki": "Omega_Quintet",
    "steam": "683280"
@@ -196,6 +205,7 @@
    "epic": "sea-of-solitude-68aef2",
    "howlongtobeat": "25029",
    "igdb": "sea-of-solitude",
+   "metacritic": "sea-of-solitude",
    "mobygames": "129280",
    "pcgamingwiki": "Sea_of_Solitude",
    "steam": "1225590"
@@ -222,6 +232,7 @@
    "gog": "game/tropico_6",
    "howlongtobeat": "64849",
    "igdb": "tropico-6",
+   "metacritic": "tropico-6",
    "mobygames": "124318",
    "pcgamingwiki": "Tropico_6",
    "steam": "492720"
@@ -328,6 +339,7 @@
   "ids": {
    "howlongtobeat": "22799",
    "igdb": "robotex",
+   "metacritic": "robotex",
    "mobygames": "207324",
    "pcgamingwiki": "Robotex",
    "steam": "330350"
@@ -363,6 +375,7 @@
    "gog": "game/moon_mystery",
    "howlongtobeat": "107655",
    "igdb": "moon-mystery",
+   "pcgamingwiki": "Moon_Mystery",
    "steam": "1933840"
   },
   "label_en": "Moon Mystery",
@@ -428,6 +441,7 @@
   "ids": {
    "howlongtobeat": "128846",
    "igdb": "doctor-who-the-runaway",
+   "metacritic": "doctor-who-the-runaway",
    "mobygames": "206115",
    "pcgamingwiki": "Doctor_Who:_The_Runaway",
    "steam": "1066400"
@@ -558,6 +572,9 @@
   "wikidata": "Q122387135"
  },
  {
+  "ids": {
+   "metacritic": "mario-vs-donkey-kong-2024"
+  },
   "label_en": "Mario vs. Donkey Kong",
   "wikidata": "Q122616135"
  },
@@ -718,6 +735,7 @@
   "enwiki": "Wallace & Gromit in The Grand Getaway",
   "ids": {
    "igdb": "wallace-and-gromit-the-grand-getaway",
+   "metacritic": "wallace-and-gromit-in-the-grand-getaway",
    "steam": "3411260"
   },
   "label_en": "Wallace & Gromit in The Grand Getaway",
@@ -1063,6 +1081,7 @@
   "ids": {
    "howlongtobeat": "43765",
    "igdb": "pinball-fx2-vr",
+   "metacritic": "pinball-fx2-vr",
    "mobygames": "87543",
    "pcgamingwiki": "Pinball_FX2_VR",
    "steam": "547590"

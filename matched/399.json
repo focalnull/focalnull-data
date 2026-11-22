@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "38560",
    "igdb": "ryzom",
+   "metacritic": "the-saga-of-ryzom",
    "mobygames": "17136",
    "pcgamingwiki": "Ryzom",
    "steam": "373720"
@@ -87,6 +88,7 @@
    "epic": "thief-5bb95f",
    "howlongtobeat": "16232",
    "igdb": "thief",
+   "metacritic": "thief",
    "mobygames": "63996",
    "pcgamingwiki": "Thief",
    "steam": "239160"
@@ -107,6 +109,7 @@
   "enwiki": "Robotech: Invasion",
   "ids": {
    "igdb": "robotech-invasion",
+   "metacritic": "robotech-invasion",
    "mobygames": "16119"
   },
   "label_en": "Robotech: Invasion",
@@ -163,6 +166,7 @@
   "enwiki": "MotoGP (2006 video game)",
   "ids": {
    "igdb": "motogp--1",
+   "metacritic": "motogp-2006",
    "mobygames": "39498"
   },
   "label_en": "MotoGP",
@@ -173,6 +177,7 @@
   "ids": {
    "howlongtobeat": "19501",
    "igdb": "theatrhythm-final-fantasy-curtain-call",
+   "metacritic": "theatrhythm-final-fantasy-curtain-call",
    "mobygames": "68617"
   },
   "label_en": "Theatrhythm Final Fantasy: Curtain Call",
@@ -183,6 +188,7 @@
   "ids": {
    "howlongtobeat": "35313",
    "igdb": "portal-knights",
+   "metacritic": "portal-knights",
    "mobygames": "84303",
    "pcgamingwiki": "Portal_Knights",
    "steam": "374040"
@@ -195,6 +201,7 @@
   "ids": {
    "howlongtobeat": "38724",
    "igdb": "fifa-17",
+   "metacritic": "fifa-17",
    "mobygames": "84046",
    "pcgamingwiki": "FIFA_17"
   },
@@ -207,6 +214,7 @@
    "epic": "pubg-59c1d9",
    "howlongtobeat": "44704",
    "igdb": "pubg-battlegrounds",
+   "metacritic": "playerunknowns-battlegrounds",
    "mobygames": "87379",
    "pcgamingwiki": "PUBG:_Battlegrounds",
    "steam": "578080"
@@ -220,6 +228,7 @@
    "gog": "game/battle_brothers",
    "howlongtobeat": "26823",
    "igdb": "battle-brothers",
+   "metacritic": "battle-brothers",
    "mobygames": "86012",
    "pcgamingwiki": "Battle_Brothers",
    "steam": "365360"
@@ -231,6 +240,7 @@
   "ids": {
    "howlongtobeat": "21141",
    "igdb": "ancient-space--1",
+   "metacritic": "ancient-space",
    "mobygames": "80670",
    "pcgamingwiki": "Ancient_Space",
    "steam": "249190"
@@ -263,6 +273,7 @@
   "enwiki": "Just Dance 2021",
   "ids": {
    "igdb": "just-dance-2021",
+   "metacritic": "just-dance-2021",
    "mobygames": "153347"
   },
   "label_en": "Just Dance 2021",
@@ -284,6 +295,7 @@
   "ids": {
    "howlongtobeat": "99641",
    "igdb": "demon-skin",
+   "metacritic": "demon-skin",
    "mobygames": "162962",
    "steam": "1522140"
   },
@@ -299,6 +311,7 @@
    "howlongtobeat": "146700",
    "igdb": "azur-beam",
    "mobygames": "201127",
+   "pcgamingwiki": "AZUR_BEAM",
    "steam": "1891640"
   },
   "label_en": "AZUR BEAM",
@@ -732,6 +745,7 @@
    "gog": "game/indiana_jones_and_the_great_circle",
    "howlongtobeat": "144234",
    "igdb": "indiana-jones-and-the-great-circle",
+   "metacritic": "indiana-jones-and-the-great-circle",
    "mobygames": "234173",
    "pcgamingwiki": "Indiana_Jones_and_the_Great_Circle",
    "steam": "2677660"
@@ -749,6 +763,9 @@
   "wikidata": "Q125001399"
  },
  {
+  "ids": {
+   "metacritic": "heroes-of-crown-legends"
+  },
   "label_en": "Heroes of Crown: Legends",
   "wikidata": "Q125916399"
  },
@@ -767,6 +784,7 @@
   "ids": {
    "howlongtobeat": "152224",
    "igdb": "banana--3",
+   "metacritic": "banana-aaladin66",
    "mobygames": "225429",
    "pcgamingwiki": "Banana",
    "steam": "2923300"
@@ -1129,6 +1147,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Prospice:_Anomalous_Logistics",
    "steam": "4067370"
   },
   "label_en": "Prospice: Anomalous Logistics",

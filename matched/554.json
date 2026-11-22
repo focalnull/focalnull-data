@@ -21,6 +21,7 @@
   "enwiki": "Age of Empires: The Age of Kings",
   "ids": {
    "igdb": "age-of-empires-the-age-of-kings",
+   "metacritic": "age-of-empires-the-age-of-kings",
    "mobygames": "21473"
   },
   "label_en": "Age of Empires: The Age of Kings",
@@ -61,6 +62,7 @@
   "ids": {
    "howlongtobeat": "10343",
    "igdb": "time-crisis-4",
+   "metacritic": "time-crisis-4",
    "mobygames": "40851"
   },
   "label_en": "Time Crisis 4",
@@ -70,6 +72,7 @@
   "enwiki": "Flipnote Studio",
   "ids": {
    "igdb": "flipnote-studio",
+   "metacritic": "flipnote-studio",
    "mobygames": "48212"
   },
   "label_en": "Flipnote Studio",
@@ -126,6 +129,7 @@
   "enwiki": "Moscow to Berlin: Red Siege",
   "ids": {
    "igdb": "moscow-to-berlin-red-siege",
+   "metacritic": "moscow-to-berlin-red-siege",
    "mobygames": "39090"
   },
   "label_en": "Moscow to Berlin: Red Siege",
@@ -136,6 +140,7 @@
   "ids": {
    "howlongtobeat": "7090",
    "igdb": "plague-inc",
+   "metacritic": "plague-inc",
    "mobygames": "59580"
   },
   "label_en": "Plague Inc.",
@@ -168,6 +173,7 @@
   "ids": {
    "howlongtobeat": "21262",
    "igdb": "bloodborne",
+   "metacritic": "bloodborne",
    "mobygames": "72089"
   },
   "label_en": "Bloodborne",
@@ -177,6 +183,7 @@
   "enwiki": "Just Dance Now",
   "ids": {
    "igdb": "just-dance-now",
+   "metacritic": "just-dance-now",
    "mobygames": "74852",
    "pcgamingwiki": "Just_Dance_Now"
   },
@@ -198,6 +205,7 @@
    "gog": "game/screencheat",
    "howlongtobeat": "26318",
    "igdb": "screencheat",
+   "metacritic": "screencheat",
    "mobygames": "83631",
    "pcgamingwiki": "Screencheat",
    "steam": "301970"
@@ -209,6 +217,7 @@
   "ids": {
    "howlongtobeat": "48459",
    "igdb": "dot-hack-slash-slash-g-dot-u-last-recode",
+   "metacritic": "hackgu-last-recode",
    "mobygames": "97916",
    "pcgamingwiki": ".hack//G.U._Last_Recode",
    "steam": "525480"
@@ -238,6 +247,7 @@
   "ids": {
    "howlongtobeat": "45476",
    "igdb": "let-them-come",
+   "metacritic": "let-them-come",
    "mobygames": "96746",
    "pcgamingwiki": "Let_Them_Come",
    "steam": "505630"
@@ -279,6 +289,7 @@
   "ids": {
    "howlongtobeat": "99223",
    "igdb": "escape-simulator",
+   "metacritic": "escape-simulator",
    "mobygames": "173971",
    "pcgamingwiki": "Escape_Simulator",
    "steam": "1435790"
@@ -292,6 +303,7 @@
    "gog": "game/elechead",
    "howlongtobeat": "99077",
    "igdb": "elechead",
+   "metacritic": "elechead",
    "mobygames": "210722",
    "pcgamingwiki": "ElecHead",
    "steam": "1456880"
@@ -462,6 +474,7 @@
   "ids": {
    "howlongtobeat": "83383",
    "igdb": "metallic-child",
+   "metacritic": "metallic-child",
    "mobygames": "172363",
    "steam": "1490610"
   },
@@ -553,6 +566,7 @@
   "ids": {
    "howlongtobeat": "100650",
    "igdb": "the-kids-we-were",
+   "metacritic": "the-kids-we-were",
    "steam": "1767220"
   },
   "label_en": "The Kids We Were",
@@ -707,7 +721,8 @@
  },
  {
   "ids": {
-   "igdb": "ballad-of-antara"
+   "igdb": "ballad-of-antara",
+   "metacritic": "ballad-of-antara"
   },
   "label_en": "Ballad of Antara",
   "wikidata": "Q126199554"
@@ -915,6 +930,7 @@
  {
   "ids": {
    "igdb": "divide-by-sheep-2",
+   "metacritic": "divide-by-sheep-2",
    "mobygames": "231941",
    "steam": "2678960"
   },
@@ -1106,5 +1122,9 @@
   },
   "label_en": "Academy34",
   "wikidata": "Q141479554"
+ },
+ {
+  "label_en": "Shock Wave 2: Beyond the Gate",
+  "wikidata": "Q142200554"
  }
 ]

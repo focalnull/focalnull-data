@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8784",
    "igdb": "sonic-the-hedgehog",
+   "metacritic": "sonic-the-hedgehog",
    "mobygames": "6579",
    "pcgamingwiki": "Sonic_the_Hedgehog",
    "steam": "71113"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "22811",
    "igdb": "archeage",
+   "metacritic": "archeage",
    "mobygames": "138004",
    "pcgamingwiki": "ArcheAge",
    "steam": "304030"
@@ -28,6 +30,7 @@
   "ids": {
    "howlongtobeat": "578",
    "igdb": "arma-3",
+   "metacritic": "arma-iii",
    "mobygames": "62516",
    "pcgamingwiki": "Arma_3",
    "steam": "107410"
@@ -91,7 +94,8 @@
  {
   "enwiki": "Sherlock Holmes and the Mystery of Osborne House",
   "ids": {
-   "igdb": "sherlock-holmes-and-the-mystery-of-osborne-house"
+   "igdb": "sherlock-holmes-and-the-mystery-of-osborne-house",
+   "metacritic": "sherlock-holmes-and-the-mystery-of-osborne-house"
   },
   "label_en": "Sherlock Holmes and the Mystery of Osborne House",
   "wikidata": "Q2944123"
@@ -102,6 +106,7 @@
    "gog": "game/project_eden",
    "howlongtobeat": "7346",
    "igdb": "project-eden",
+   "metacritic": "project-eden",
    "mobygames": "5149",
    "pcgamingwiki": "Project_Eden"
   },
@@ -159,6 +164,7 @@
   "enwiki": "Nerf N-Strike Elite",
   "ids": {
    "igdb": "nerf-n-strike-elite",
+   "metacritic": "nerf-n-strike-elite",
    "mobygames": "56461"
   },
   "label_en": "Nerf N-Strike Elite",
@@ -191,6 +197,7 @@
   "enwiki": "Ultimate Band",
   "ids": {
    "igdb": "ultimate-band",
+   "metacritic": "ultimate-band",
    "mobygames": "44996"
   },
   "label_en": "Ultimate Band",
@@ -245,6 +252,7 @@
   "ids": {
    "howlongtobeat": "5941",
    "igdb": "metal-slug-xx",
+   "metacritic": "metal-slug-xx",
    "mobygames": "109519",
    "pcgamingwiki": "Metal_Slug_XX",
    "steam": "975680"
@@ -266,6 +274,7 @@
  {
   "ids": {
    "igdb": "avariavs",
+   "metacritic": "avariavs",
    "mobygames": "127335",
    "pcgamingwiki": "AVARIAvs",
    "steam": "816560"
@@ -277,6 +286,7 @@
   "ids": {
    "howlongtobeat": "20339",
    "igdb": "so-many-me",
+   "metacritic": "so-many-me",
    "mobygames": "83718",
    "pcgamingwiki": "So_Many_Me",
    "steam": "260530"
@@ -317,6 +327,7 @@
   "ids": {
    "howlongtobeat": "82561",
    "igdb": "the-survivalists",
+   "metacritic": "the-survivalists",
    "mobygames": "144503",
    "pcgamingwiki": "The_Survivalists",
    "steam": "897450"
@@ -328,6 +339,7 @@
   "ids": {
    "howlongtobeat": "59815",
    "igdb": "puss",
+   "metacritic": "puss",
    "mobygames": "150848",
    "pcgamingwiki": "Puss!",
    "steam": "719750"
@@ -424,6 +436,7 @@
  },
  {
   "ids": {
+   "metacritic": "speed-racing-ultimate",
    "mobygames": "104634"
   },
   "label_en": "Speed Racing Ultimate",
@@ -433,6 +446,7 @@
   "enwiki": "Paper Wars: Cannon Fodder",
   "ids": {
    "igdb": "paper-wars-cannon-fodder",
+   "metacritic": "paper-wars-cannon-fodder",
    "mobygames": "92088"
   },
   "label_en": "Paper Wars: Cannon Fodder",
@@ -452,6 +466,7 @@
  {
   "ids": {
    "igdb": "showtime-championship-boxing",
+   "metacritic": "showtime-championship-boxing",
    "mobygames": "31644"
   },
   "label_en": "Showtime Championship Boxing",
@@ -469,6 +484,7 @@
   "ids": {
    "igdb": "montgomery-fox-and-the-revenge-of-victor-draven",
    "mobygames": "195122",
+   "pcgamingwiki": "Detective_Montgomery_Fox:_The_Revenge_of_Victor_Draven",
    "steam": "2499970"
   },
   "label_en": "Detective Montgomery Fox: The Revenge of Victor Draven",
@@ -862,6 +878,7 @@
   "enwiki": "Dreams of Another",
   "ids": {
    "igdb": "dreams-of-another",
+   "metacritic": "dreams-of-another",
    "steam": "3561230"
   },
   "label_en": "Dreams of Another",
@@ -1162,6 +1179,7 @@
  {
   "ids": {
    "igdb": "curse--1",
+   "pcgamingwiki": "Curse",
    "steam": "510570"
   },
   "label_en": "Curse",
@@ -1185,6 +1203,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "One_Piece:_Grand_Gourmet",
    "steam": "3905010"
   },
   "label_en": "One Piece: Grand Gourmet",

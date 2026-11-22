@@ -18,6 +18,7 @@
    "gog": "game/time_gentlemen_please_ben_there_dan_that",
    "howlongtobeat": "10349",
    "igdb": "time-gentlemen-please",
+   "metacritic": "time-gentlemen-please",
    "mobygames": "42060",
    "pcgamingwiki": "Time_Gentlemen,_Please!",
    "steam": "37400"
@@ -71,6 +72,7 @@
   "enwiki": "Coffee Tycoon",
   "ids": {
    "igdb": "coffee-tycoon",
+   "metacritic": "coffee-tycoon",
    "mobygames": "31635",
    "pcgamingwiki": "Coffee_Tycoon"
   },
@@ -82,6 +84,7 @@
   "ids": {
    "howlongtobeat": "2040",
    "igdb": "critter-crunch",
+   "metacritic": "critter-crunch",
    "mobygames": "44931",
    "pcgamingwiki": "Critter_Crunch",
    "steam": "61730"
@@ -127,6 +130,7 @@
    "gog": "game/guacamelee_super_turbo_championship_edition",
    "howlongtobeat": "4145",
    "igdb": "guacamelee-super-turbo-championship-edition",
+   "metacritic": "guacamelee-super-turbo-championship-edition",
    "mobygames": "64167",
    "pcgamingwiki": "Guacamelee!_Super_Turbo_Championship_Edition",
    "steam": "275390"
@@ -162,6 +166,7 @@
   "enwiki": "MotoGP 2",
   "ids": {
    "igdb": "motogp-2--2",
+   "metacritic": "motogp-2-2001",
    "mobygames": "39503"
   },
   "label_en": "MotoGP 2",
@@ -200,6 +205,7 @@
    "gog": "game/the_deadly_tower_of_monsters",
    "howlongtobeat": "33154",
    "igdb": "the-deadly-tower-of-monsters",
+   "metacritic": "the-deadly-tower-of-monsters",
    "mobygames": "84462",
    "pcgamingwiki": "The_Deadly_Tower_of_Monsters",
    "steam": "353700"
@@ -212,6 +218,7 @@
    "gog": "game/another_world_20th_anniversary_edition",
    "howlongtobeat": "20897",
    "igdb": "another-world-20th-anniversary-edition",
+   "metacritic": "another-world-20th-anniversary-edition",
    "mobygames": "66778",
    "pcgamingwiki": "Another_World:_20th_Anniversary_Edition",
    "steam": "233550"
@@ -226,6 +233,7 @@
    "gog": "game/mechwarrior_5_mercenaries",
    "howlongtobeat": "67949",
    "igdb": "mechwarrior-5-mercenaries",
+   "metacritic": "mechwarrior-5-mercenaries",
    "mobygames": "138679",
    "pcgamingwiki": "MechWarrior_5:_Mercenaries",
    "steam": "784080"
@@ -249,6 +257,7 @@
   "ids": {
    "howlongtobeat": "69426",
    "igdb": "rebel-inc",
+   "metacritic": "rebel-inc",
    "mobygames": "129903",
    "pcgamingwiki": "Rebel_Inc:_Escalation",
    "steam": "1088790"
@@ -261,6 +270,7 @@
   "ids": {
    "howlongtobeat": "31730",
    "igdb": "sakura-beach-2",
+   "metacritic": "sakura-beach-2",
    "mobygames": "82770",
    "pcgamingwiki": "Sakura_Beach_2",
    "steam": "407980"
@@ -271,6 +281,7 @@
  {
   "ids": {
    "igdb": "save-our-souls-episode-i-the-absurd-hopes-of-blessed-children",
+   "metacritic": "save-our-souls-episode-i-the-absurd-hopes-of",
    "mobygames": "103708",
    "pcgamingwiki": "Save_Our_Souls:_Episode_I_-_The_Absurd_Hopes_of_Blessed_Children",
    "steam": "600550"
@@ -427,6 +438,7 @@
    "gog": "game/loretta",
    "howlongtobeat": "115358",
    "igdb": "loretta",
+   "metacritic": "loretta",
    "mobygames": "200164",
    "pcgamingwiki": "Loretta",
    "steam": "1592540"
@@ -447,14 +459,16 @@
  {
   "enwiki": "Super Mario RPG (2023 video game)",
   "ids": {
-   "igdb": "super-mario-rpg"
+   "igdb": "super-mario-rpg",
+   "metacritic": "super-mario-rpg"
   },
   "label_en": "Super Mario RPG",
   "wikidata": "Q119822934"
  },
  {
   "ids": {
-   "igdb": "gundam-versus"
+   "igdb": "gundam-versus",
+   "metacritic": "gundam-versus"
   },
   "label_en": "Gundam Versus",
   "wikidata": "Q120838934"
@@ -865,7 +879,8 @@
  },
  {
   "ids": {
-   "igdb": "hentai-anime-girls-succubus"
+   "igdb": "hentai-anime-girls-succubus",
+   "metacritic": "hentai-anime-girls-succubus"
   },
   "label_en": "Hentai Anime Girls Succubus",
   "wikidata": "Q125950934"

@@ -18,6 +18,7 @@
    "gog": "game/heavy_rain",
    "howlongtobeat": "4377",
    "igdb": "heavy-rain",
+   "metacritic": "heavy-rain",
    "mobygames": "45449",
    "pcgamingwiki": "Heavy_Rain",
    "steam": "960910"
@@ -30,6 +31,7 @@
   "ids": {
    "howlongtobeat": "8218",
    "igdb": "secret-weapons-over-normandy",
+   "metacritic": "secret-weapons-over-normandy",
    "mobygames": "12520",
    "pcgamingwiki": "Secret_Weapons_over_Normandy"
   },
@@ -51,6 +53,7 @@
   "ids": {
    "howlongtobeat": "2399",
    "igdb": "def-jam-vendetta",
+   "metacritic": "def-jam-vendetta",
    "mobygames": "9307"
   },
   "label_en": "Def Jam Vendetta",
@@ -101,6 +104,7 @@
   "enwiki": "Armadillo Run",
   "ids": {
    "igdb": "armadillo-run",
+   "metacritic": "armadillo-run",
    "mobygames": "31020"
   },
   "label_en": "Armadillo Run",
@@ -111,6 +115,7 @@
   "ids": {
    "howlongtobeat": "383",
    "igdb": "aliens-infestation",
+   "metacritic": "aliens-infestation",
    "mobygames": "53230"
   },
   "label_en": "Aliens Infestation",
@@ -121,6 +126,7 @@
   "ids": {
    "howlongtobeat": "1421",
    "igdb": "bust-a-move-universe",
+   "metacritic": "bust-a-move-universe",
    "mobygames": "52925"
   },
   "label_en": "Bust-a-Move Universe",
@@ -148,6 +154,7 @@
  {
   "ids": {
    "howlongtobeat": "15879",
+   "metacritic": "the-expendables-2-videogame",
    "mobygames": "72851"
   },
   "label_en": "The Expendables 2 Videogame",
@@ -166,6 +173,7 @@
   "enwiki": "Hoyle Casino Empire",
   "ids": {
    "igdb": "hoyle-casino-empire",
+   "metacritic": "casino-empire",
    "mobygames": "8033",
    "pcgamingwiki": "Hoyle_Casino_(2000)"
   },
@@ -212,6 +220,7 @@
   "enwiki": "Rock of the Dead",
   "ids": {
    "igdb": "rock-of-the-dead",
+   "metacritic": "rock-of-the-dead",
    "mobygames": "48941"
   },
   "label_en": "Rock of the Dead",
@@ -265,6 +274,7 @@
   "enwiki": "Jungle Rumble",
   "ids": {
    "igdb": "jungle-rumble",
+   "metacritic": "jungle-rumble-freedom-happiness-and-bananas",
    "mobygames": "65453"
   },
   "label_en": "Jungle Rumble",
@@ -275,6 +285,7 @@
   "ids": {
    "howlongtobeat": "16754",
    "igdb": "the-immortals-of-terra-a-perry-rhodan-adventure",
+   "metacritic": "the-immortals-of-terra-a-perry-rhodan-adventure",
    "mobygames": "33159",
    "pcgamingwiki": "The_Immortals_of_Terra:_A_Perry_Rhodan_Adventure"
   },
@@ -298,6 +309,7 @@
   "ids": {
    "howlongtobeat": "23900",
    "igdb": "kick-and-fennick",
+   "metacritic": "kick-fennick",
    "mobygames": "87037"
   },
   "label_en": "Kick & Fennick",
@@ -324,6 +336,7 @@
   "enwiki": "Putter Golf",
   "ids": {
    "igdb": "putter-golf--1",
+   "metacritic": "putter-golf",
    "mobygames": "27471"
   },
   "label_en": "Putter Golf",
@@ -334,6 +347,7 @@
   "ids": {
    "howlongtobeat": "67361",
    "igdb": "the-dark-pictures-anthology-man-of-medan",
+   "metacritic": "the-dark-pictures-anthology-man-of-medan",
    "mobygames": "133569",
    "pcgamingwiki": "Man_of_Medan",
    "steam": "939850"
@@ -344,6 +358,7 @@
  {
   "ids": {
    "igdb": "i-was-an-atomic-mutant",
+   "metacritic": "i-was-an-atomic-mutant",
    "mobygames": "10148",
    "pcgamingwiki": "I_Was_an_Atomic_Mutant!"
   },
@@ -374,6 +389,7 @@
   "ids": {
    "howlongtobeat": "5521",
    "igdb": "mage-knight-apocalypse",
+   "metacritic": "mage-knight-apocalypse",
    "mobygames": "24258",
    "pcgamingwiki": "Mage_Knight:_Apocalypse"
   },
@@ -401,6 +417,7 @@
    "gog": "game/fort_solis",
    "howlongtobeat": "109103",
    "igdb": "fort-solis",
+   "metacritic": "fort-solis",
    "mobygames": "207614",
    "pcgamingwiki": "Fort_Solis",
    "steam": "1931730"
@@ -913,6 +930,7 @@
   "ids": {
    "howlongtobeat": "143918",
    "igdb": "abscission",
+   "metacritic": "abscission",
    "mobygames": "217036",
    "steam": "2392160"
   },
@@ -965,6 +983,7 @@
   "enwiki": "Dale & Dawson Stationery Supplies",
   "ids": {
    "igdb": "dale-and-dawson-stationery-supplies",
+   "metacritic": "dale-and-dawson-stationery-supplies",
    "mobygames": "231497",
    "pcgamingwiki": "Dale_&_Dawson_Stationery_Supplies",
    "steam": "2920570"

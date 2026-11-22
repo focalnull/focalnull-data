@@ -3,6 +3,7 @@
   "enwiki": "Star Wars: The New Droid Army",
   "ids": {
    "igdb": "star-wars-the-new-droid-army",
+   "metacritic": "star-wars-the-new-droid-army",
    "mobygames": "7719"
   },
   "label_en": "Star Wars: The New Droid Army",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "3220",
    "igdb": "everquest",
+   "metacritic": "everquest",
    "mobygames": "275",
    "pcgamingwiki": "EverQuest",
    "steam": "205710"
@@ -26,6 +28,7 @@
    "gog": "game/sacred_gold",
    "howlongtobeat": "8053",
    "igdb": "sacred-gold",
+   "metacritic": "sacred",
    "mobygames": "12394",
    "pcgamingwiki": "Sacred",
    "steam": "12320"
@@ -55,6 +58,7 @@
   "enwiki": "WWE WrestleMania 21 (video game)",
   "ids": {
    "igdb": "wwe-wrestlemania-21",
+   "metacritic": "wwe-wrestlemania-21",
    "mobygames": "29749"
   },
   "label_en": "WWE WrestleMania 21",
@@ -103,6 +107,7 @@
   "enwiki": "Boogie Bunnies",
   "ids": {
    "igdb": "boogie-bunnies",
+   "metacritic": "boogie-bunnies",
    "mobygames": "36877"
   },
   "label_en": "Boogie Bunnies",
@@ -150,6 +155,7 @@
   "ids": {
    "howlongtobeat": "6860",
    "igdb": "pac-man-championship-edition-dx",
+   "metacritic": "pac-man-championship-edition-dx",
    "mobygames": "49779",
    "pcgamingwiki": "Pac-Man_Championship_Edition_DX+",
    "steam": "236450"
@@ -171,6 +177,7 @@
   "ids": {
    "howlongtobeat": "15401",
    "igdb": "star-raiders--1",
+   "metacritic": "star-raiders-2011",
    "mobygames": "193031",
    "pcgamingwiki": "Star_Raiders",
    "steam": "9970"
@@ -293,6 +300,7 @@
   "enwiki": "Ghostbusters (2013 video game)",
   "ids": {
    "igdb": "ghostbusters--3",
+   "metacritic": "ghostbusters-2013",
    "mobygames": "130014"
   },
   "label_en": "Ghostbusters",
@@ -367,6 +375,7 @@
    "gog": "game/otxo",
    "howlongtobeat": "127211",
    "igdb": "otxo",
+   "metacritic": "otxo",
    "mobygames": "201989",
    "pcgamingwiki": "OTXO",
    "steam": "1608640"
@@ -470,6 +479,7 @@
   "ids": {
    "howlongtobeat": "78665",
    "igdb": "pixel-ripped-1995",
+   "metacritic": "pixel-ripped-1995",
    "mobygames": "143388",
    "pcgamingwiki": "Pixel_Ripped_1995",
    "steam": "1178140"
@@ -698,6 +708,9 @@
   "wikidata": "Q123404845"
  },
  {
+  "ids": {
+   "pcgamingwiki": "Touch_Type_Tale"
+  },
   "label_en": "Touch Type Tale",
   "wikidata": "Q123755845"
  },
@@ -781,6 +794,7 @@
   "ids": {
    "howlongtobeat": "21182",
    "igdb": "you-dont-know-jack-vol-4-the-ride",
+   "metacritic": "you-dont-know-jack-volume-4-the-ride",
    "mobygames": "3262",
    "pcgamingwiki": "You_Don't_Know_Jack:_Volume_4_-_The_Ride",
    "steam": "259980"
@@ -800,6 +814,7 @@
   "ids": {
    "howlongtobeat": "149459",
    "igdb": "stories-from-sol-the-gun-dog",
+   "metacritic": "stories-from-sol-the-gun-dog",
    "steam": "2118420"
   },
   "label_en": "Stories from Sol: The Gun-Dog",
@@ -841,6 +856,7 @@
   "ids": {
    "howlongtobeat": "129750",
    "igdb": "crashlands-2",
+   "metacritic": "crashlands-2",
    "mobygames": "240343",
    "pcgamingwiki": "Crashlands_2",
    "steam": "1401730"

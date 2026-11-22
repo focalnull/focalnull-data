@@ -22,6 +22,7 @@
   "ids": {
    "howlongtobeat": "33676",
    "igdb": "resident-evil-zero",
+   "metacritic": "resident-evil-0-hd-remaster",
    "mobygames": "7746",
    "pcgamingwiki": "Resident_Evil_Zero_HD_Remaster",
    "steam": "339340"
@@ -150,7 +151,8 @@
  {
   "enwiki": "Marvel Pinball",
   "ids": {
-   "igdb": "marvel-pinball"
+   "igdb": "marvel-pinball",
+   "metacritic": "marvel-pinball"
   },
   "label_en": "Marvel Pinball",
   "wikidata": "Q6584069"
@@ -189,6 +191,7 @@
   "enwiki": "Angry Birds 2",
   "ids": {
    "igdb": "angry-birds-2",
+   "metacritic": "angry-birds-2",
    "mobygames": "74029",
    "pcgamingwiki": "Angry_Birds_2"
   },
@@ -199,6 +202,7 @@
   "enwiki": "Adventures of Mana",
   "ids": {
    "igdb": "adventures-of-mana",
+   "metacritic": "adventures-of-mana",
    "mobygames": "82865"
   },
   "label_en": "Adventures of Mana",
@@ -218,6 +222,7 @@
   "ids": {
    "howlongtobeat": "41504",
    "igdb": "syndrome",
+   "metacritic": "syndrome",
    "mobygames": "81579",
    "pcgamingwiki": "Syndrome",
    "steam": "409320"
@@ -364,6 +369,7 @@
    "howlongtobeat": "142053",
    "igdb": "new-star-gp",
    "mobygames": "213581",
+   "pcgamingwiki": "New_Star_GP",
    "steam": "2217580"
   },
   "label_en": "New Star GP",
@@ -1071,6 +1077,7 @@
  {
   "ids": {
    "igdb": "wandering-willows",
+   "pcgamingwiki": "Wandering_Willows",
    "steam": "37270"
   },
   "label_en": "Wandering Willows™",

@@ -33,6 +33,7 @@
   "ids": {
    "howlongtobeat": "14948",
    "igdb": "runes-of-magic",
+   "metacritic": "runes-of-magic",
    "mobygames": "40384",
    "pcgamingwiki": "Runes_of_Magic",
    "steam": "808290"
@@ -54,6 +55,7 @@
   "ids": {
    "howlongtobeat": "3067",
    "igdb": "el-shaddai-ascension-of-the-metatron",
+   "metacritic": "el-shaddai-ascension-of-the-metatron",
    "mobygames": "55220",
    "pcgamingwiki": "El_Shaddai:_Ascension_of_the_Metatron_HD_Remaster",
    "steam": "1581040"
@@ -84,6 +86,7 @@
   "enwiki": "Samurai Champloo: Sidetracked",
   "ids": {
    "igdb": "samurai-champloo-sidetracked",
+   "metacritic": "samurai-champloo-sidetracked",
    "mobygames": "36006"
   },
   "label_en": "Samurai Champloo: Sidetracked",
@@ -210,6 +213,7 @@
  {
   "enwiki": "XXX (video game)",
   "ids": {
+   "metacritic": "xxx",
    "mobygames": "10524"
   },
   "label_en": "XXX",
@@ -229,6 +233,7 @@
    "gog": "game/paradigm",
    "howlongtobeat": "44871",
    "igdb": "paradigm",
+   "metacritic": "paradigm",
    "mobygames": "86515",
    "pcgamingwiki": "Paradigm",
    "steam": "600370"
@@ -242,6 +247,7 @@
    "gog": "game/nex_machina",
    "howlongtobeat": "45931",
    "igdb": "nex-machina",
+   "metacritic": "nex-machina-death-machine",
    "mobygames": "90892",
    "pcgamingwiki": "Nex_Machina",
    "steam": "404540"
@@ -278,6 +284,7 @@
   "ids": {
    "howlongtobeat": "14508",
    "igdb": "master-reboot",
+   "metacritic": "master-reboot",
    "mobygames": "73624",
    "pcgamingwiki": "Master_Reboot",
    "steam": "251850"
@@ -318,6 +325,7 @@
    "epic": "no-straight-roads",
    "howlongtobeat": "104624",
    "igdb": "no-straight-roads",
+   "metacritic": "no-straight-roads",
    "mobygames": "149701",
    "pcgamingwiki": "No_Straight_Roads",
    "steam": "1726190"
@@ -338,6 +346,7 @@
   "ids": {
    "howlongtobeat": "68122",
    "igdb": "cooking-simulator",
+   "metacritic": "cooking-simulator",
    "mobygames": "127921",
    "pcgamingwiki": "Cooking_Simulator",
    "steam": "641320"
@@ -349,6 +358,7 @@
   "ids": {
    "howlongtobeat": "26959",
    "igdb": "12-labours-of-hercules-ii-the-cretan-bull",
+   "metacritic": "12-labours-of-hercules-ii-the-cretan-bull",
    "mobygames": "86917",
    "pcgamingwiki": "12_Labours_of_Hercules_II:_The_Cretan_Bull",
    "steam": "360640"
@@ -370,6 +380,7 @@
    "epic": "ender-lilies-quietus-of-the-knights-9cea76",
    "howlongtobeat": "87524",
    "igdb": "ender-lilies-quietus-of-the-knights",
+   "metacritic": "ender-lilies-quietus-of-the-knights",
    "mobygames": "157880",
    "pcgamingwiki": "Ender_Lilies:_Quietus_of_the_Knights",
    "steam": "1369630"
@@ -394,6 +405,7 @@
    "gog": "game/essays_on_empathy",
    "howlongtobeat": "92411",
    "igdb": "essays-on-empathy",
+   "metacritic": "essays-on-empathy",
    "mobygames": "164554",
    "pcgamingwiki": "Essays_on_Empathy",
    "steam": "1586880"
@@ -408,6 +420,7 @@
    "gog": "game/rainbow_billy",
    "howlongtobeat": "94592",
    "igdb": "rainbow-billy-the-curse-of-the-leviathan",
+   "metacritic": "rainbow-billy-the-curse-of-the-leviathan",
    "mobygames": "173295",
    "pcgamingwiki": "Rainbow_Billy:_The_Curse_of_the_Leviathan",
    "steam": "1106830"
@@ -421,6 +434,7 @@
    "gog": "game/wavetale",
    "howlongtobeat": "100074",
    "igdb": "wavetale",
+   "metacritic": "wavetale",
    "mobygames": "179403",
    "pcgamingwiki": "Wavetale",
    "steam": "1823930"
@@ -433,6 +447,7 @@
   "ids": {
    "howlongtobeat": "105294",
    "igdb": "valkyrie-elysium",
+   "metacritic": "valkyrie-elysium",
    "mobygames": "192720",
    "pcgamingwiki": "Valkyrie_Elysium",
    "steam": "1963210"
@@ -446,6 +461,7 @@
    "gog": "game/way_of_the_hunter",
    "howlongtobeat": "106992",
    "igdb": "way-of-the-hunter",
+   "metacritic": "way-of-the-hunter",
    "mobygames": "189659",
    "pcgamingwiki": "Way_of_the_Hunter",
    "steam": "1288320"
@@ -469,6 +485,7 @@
   "ids": {
    "howlongtobeat": "36824",
    "igdb": "ares-omega",
+   "metacritic": "ares-omega",
    "pcgamingwiki": "Ares_Omega",
    "steam": "405440"
   },
@@ -539,6 +556,7 @@
   "ids": {
    "igdb": "naive-riri",
    "mobygames": "201142",
+   "pcgamingwiki": "Naive_Riri",
    "steam": "2211460"
   },
   "label_en": "Naive Riri",
@@ -694,6 +712,7 @@
  {
   "ids": {
    "igdb": "space-rangers-legacy",
+   "metacritic": "space-rangers-legacy",
    "mobygames": "106997"
   },
   "label_en": "Space Rangers: Legacy",

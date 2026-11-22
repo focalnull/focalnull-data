@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10363",
    "igdb": "timesplitters-2",
+   "metacritic": "timesplitters-2",
    "mobygames": "7574"
   },
   "label_en": "TimeSplitters 2",
@@ -15,6 +16,7 @@
    "gog": "game/caesar_3",
    "howlongtobeat": "1454",
    "igdb": "caesar-iii",
+   "metacritic": "caesar-iii",
    "mobygames": "1567",
    "pcgamingwiki": "Caesar_III",
    "steam": "517790"
@@ -27,6 +29,7 @@
   "ids": {
    "gog": "game/republic_the_revolution",
    "igdb": "republic-the-revolution",
+   "metacritic": "republic-the-revolution",
    "mobygames": "10168",
    "pcgamingwiki": "Republic:_The_Revolution"
   },
@@ -45,6 +48,7 @@
   "enwiki": "Diner Dash 2: Restaurant Rescue",
   "ids": {
    "igdb": "diner-dash-2-restaurant-rescue",
+   "metacritic": "diner-dash-2-restaurant-rescue",
    "mobygames": "22396",
    "pcgamingwiki": "Diner_Dash_2:_Restaurant_Rescue"
   },
@@ -95,6 +99,7 @@
   "enwiki": "Fantastic Four: Rise of the Silver Surfer (video game)",
   "ids": {
    "igdb": "fantastic-four-rise-of-the-silver-surfer",
+   "metacritic": "fantastic-four-rise-of-the-silver-surfer",
    "mobygames": "29703"
   },
   "label_en": "Fantastic Four: Rise of the Silver Surfer",
@@ -122,6 +127,7 @@
    "gog": "game/hyperdimension_neptunia_rebirth3_v_generation",
    "howlongtobeat": "28434",
    "igdb": "hyperdimension-neptunia-re-birth3-v-generation",
+   "metacritic": "hyperdimension-neptunia-victory",
    "mobygames": "83516",
    "pcgamingwiki": "Hyperdimension_Neptunia_Re;Birth_3:_V_Generation",
    "steam": "353270"
@@ -134,6 +140,7 @@
   "ids": {
    "howlongtobeat": "1195",
    "igdb": "bloody-roar-3",
+   "metacritic": "bloody-roar-3",
    "mobygames": "6016"
   },
   "label_en": "Bloody Roar 3",
@@ -143,6 +150,7 @@
   "enwiki": "El Chavo (video game)",
   "ids": {
    "igdb": "el-chavo",
+   "metacritic": "el-chavo",
    "mobygames": "134160"
   },
   "label_en": "El Chavo",
@@ -161,6 +169,7 @@
   "enwiki": "I Spy Spooky Mansion Deluxe",
   "ids": {
    "igdb": "i-spy-spooky-mansion-deluxe",
+   "metacritic": "i-spy-spooky-mansion-deluxe",
    "mobygames": "28306"
   },
   "label_en": "I Spy Spooky Mansion Deluxe",
@@ -205,6 +214,7 @@
    "gog": "game/factorio",
    "howlongtobeat": "17455",
    "igdb": "factorio",
+   "metacritic": "factorio",
    "mobygames": "84918",
    "pcgamingwiki": "Factorio",
    "steam": "427520"
@@ -226,6 +236,7 @@
   "ids": {
    "howlongtobeat": "24007",
    "igdb": "depth",
+   "metacritic": "depth",
    "mobygames": "73742",
    "pcgamingwiki": "Depth",
    "steam": "274940"
@@ -236,6 +247,7 @@
  {
   "ids": {
    "igdb": "nes-remix-2",
+   "metacritic": "nes-remix-2",
    "mobygames": "73496"
   },
   "label_en": "NES Remix 2",
@@ -265,6 +277,7 @@
    "gog": "game/opus_magnum",
    "howlongtobeat": "50026",
    "igdb": "opus-magnum",
+   "metacritic": "opus-magnum",
    "mobygames": "97502",
    "pcgamingwiki": "Opus_Magnum",
    "steam": "558990"
@@ -285,6 +298,7 @@
   "ids": {
    "howlongtobeat": "131173",
    "igdb": "ash-asylum",
+   "metacritic": "ash-asylum",
    "mobygames": "146994",
    "pcgamingwiki": "Ash_Asylum",
    "steam": "1102680"
@@ -325,6 +339,7 @@
   "ids": {
    "howlongtobeat": "12272",
    "igdb": "high-heat-major-league-baseball-2004",
+   "metacritic": "high-heat-major-league-baseball-2004",
    "mobygames": "12930"
   },
   "label_en": "High Heat Major League Baseball 2004",
@@ -360,6 +375,7 @@
    "epic": "multiversus",
    "howlongtobeat": "100706",
    "igdb": "multiversus",
+   "metacritic": "multiversus",
    "mobygames": "188344",
    "pcgamingwiki": "MultiVersus",
    "steam": "1818750"
@@ -398,6 +414,7 @@
    "gog": "game/kosmokrats",
    "howlongtobeat": "96227",
    "igdb": "kosmokrats",
+   "metacritic": "kosmokrats",
    "mobygames": "152629",
    "pcgamingwiki": "Kosmokrats",
    "steam": "1204410"
@@ -431,6 +448,7 @@
    "epic": "assassins-creed-mirage",
    "howlongtobeat": "112983",
    "igdb": "assassins-creed-mirage",
+   "metacritic": "assassins-creed-mirage",
    "mobygames": "209869",
    "pcgamingwiki": "Assassin's_Creed_Mirage",
    "steam": "3035570"
@@ -444,6 +462,7 @@
    "epic": "oddballers",
    "howlongtobeat": "113838",
    "igdb": "oddballers",
+   "metacritic": "oddballers",
    "pcgamingwiki": "OddBallers",
    "steam": "1064070"
   },
@@ -463,6 +482,7 @@
   "ids": {
    "howlongtobeat": "121928",
    "igdb": "labyrinth-of-galleria-the-moon-society",
+   "metacritic": "labyrinth-of-galleria-the-moon-society",
    "mobygames": "190679",
    "pcgamingwiki": "Labyrinth_of_Galleria:_The_Moon_Society",
    "steam": "1998340"
@@ -476,6 +496,7 @@
    "epic": "sonic-superstars",
    "howlongtobeat": "129786",
    "igdb": "sonic-superstars",
+   "metacritic": "sonic-superstars",
    "mobygames": "210305",
    "pcgamingwiki": "Sonic_Superstars",
    "steam": "2022670"
@@ -863,6 +884,7 @@
    "gog": "game/laysara_summit_kingdom",
    "howlongtobeat": "101442",
    "igdb": "laysara-summit-kingdom",
+   "metacritic": "laysara-summit-kingdom",
    "mobygames": "221646",
    "pcgamingwiki": "Laysara:_Summit_Kingdom",
    "steam": "1823950"
@@ -1065,6 +1087,7 @@
   "ids": {
    "howlongtobeat": "152269",
    "igdb": "tormenture",
+   "metacritic": "tormenture",
    "mobygames": "232856",
    "steam": "2545220"
   },

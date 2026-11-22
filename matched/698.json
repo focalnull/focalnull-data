@@ -5,6 +5,7 @@
    "gog": "game/stranglehold",
    "howlongtobeat": "9220",
    "igdb": "stranglehold",
+   "metacritic": "stranglehold",
    "mobygames": "30533",
    "pcgamingwiki": "Stranglehold"
   },
@@ -46,6 +47,7 @@
    "gog": "game/legend_of_heroes_trails_of_cold_steel_the",
    "howlongtobeat": "14320",
    "igdb": "the-legend-of-heroes-trails-of-cold-steel",
+   "metacritic": "the-legend-of-heroes-trails-of-cold-steel",
    "mobygames": "80910",
    "pcgamingwiki": "The_Legend_of_Heroes:_Trails_of_Cold_Steel",
    "steam": "538680"
@@ -58,6 +60,7 @@
   "ids": {
    "howlongtobeat": "12987",
    "igdb": "romance-of-the-three-kingdoms-xi",
+   "metacritic": "romance-of-the-three-kingdoms-xi",
    "mobygames": "39918",
    "pcgamingwiki": "Romance_of_the_Three_Kingdoms_XI",
    "steam": "628070"
@@ -70,6 +73,7 @@
   "ids": {
    "howlongtobeat": "49843",
    "igdb": "wwii-online",
+   "metacritic": "battleground-europe-world-war-ii-online",
    "mobygames": "4297",
    "pcgamingwiki": "World_War_II_Online",
    "steam": "251950"
@@ -115,6 +119,7 @@
   "enwiki": "Persona 4 Arena",
   "ids": {
    "igdb": "persona-4-arena",
+   "metacritic": "persona-4-arena",
    "mobygames": "61685"
   },
   "label_en": "Persona 4 Arena",
@@ -146,6 +151,7 @@
   "ids": {
    "howlongtobeat": "6721",
    "igdb": "oil-rush",
+   "metacritic": "oil-rush-3d-naval-strategy",
    "mobygames": "55277",
    "pcgamingwiki": "Oil_Rush",
    "steam": "200390"
@@ -157,6 +163,7 @@
   "enwiki": "Double D Dodgeball",
   "ids": {
    "igdb": "double-d-dodgeball",
+   "metacritic": "double-d-dodgeball",
    "mobygames": "45802"
   },
   "label_en": "Double D Dodgeball",
@@ -166,6 +173,7 @@
   "enwiki": "Metal Saga",
   "ids": {
    "igdb": "metal-saga",
+   "metacritic": "metal-saga",
    "mobygames": "18425"
   },
   "label_en": "Metal Saga",
@@ -210,6 +218,7 @@
   "enwiki": "Jelly Splash",
   "ids": {
    "howlongtobeat": "47923",
+   "metacritic": "jelly-splash",
    "mobygames": "64328"
   },
   "label_en": "Jelly Splash",
@@ -283,6 +292,7 @@
   "ids": {
    "howlongtobeat": "54144",
    "igdb": "claybook",
+   "metacritic": "claybook",
    "mobygames": "99408",
    "pcgamingwiki": "Claybook",
    "steam": "661920"
@@ -324,6 +334,7 @@
    "gog": "game/children_of_zodiarcs",
    "howlongtobeat": "39705",
    "igdb": "children-of-zodiarcs",
+   "metacritic": "children-of-zodiarcs",
    "mobygames": "92816",
    "pcgamingwiki": "Children_of_Zodiarcs",
    "steam": "436290"
@@ -428,6 +439,7 @@
   "ids": {
    "howlongtobeat": "64426",
    "igdb": "trivia-vault-hockey-trivia",
+   "metacritic": "trivia-vault-hockey-trivia",
    "pcgamingwiki": "Trivia_Vault:_Hockey_Trivia",
    "steam": "828550"
   },
@@ -624,6 +636,7 @@
    "gog": "game/arcrunner",
    "howlongtobeat": "127690",
    "igdb": "arcrunner",
+   "metacritic": "arcrunner",
    "mobygames": "202395",
    "steam": "1575830"
   },
@@ -863,6 +876,7 @@
    "gog": "game/terminator_dark_fate_defiance",
    "howlongtobeat": "105555",
    "igdb": "terminator-dark-fate-defiance",
+   "metacritic": "terminator-dark-fate-defiance",
    "mobygames": "218097",
    "pcgamingwiki": "Terminator:_Dark_Fate_-_Defiance",
    "steam": "1839950"

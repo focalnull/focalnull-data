@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "3445",
    "igdb": "fifa-09",
+   "metacritic": "fifa-soccer-09",
    "mobygames": "42298",
    "pcgamingwiki": "FIFA_09"
   },
@@ -48,6 +49,7 @@
  {
   "ids": {
    "igdb": "pokedex-3d",
+   "metacritic": "pokedex-3d",
    "mobygames": "55773"
   },
   "label_en": "Pokédex 3D",
@@ -68,6 +70,7 @@
    "gog": "game/fenimore_fillmore_the_westerner",
    "howlongtobeat": "60534",
    "igdb": "fenimore-fillmore-the-westerner",
+   "metacritic": "wanted-a-wild-western-adventure",
    "mobygames": "11729",
    "pcgamingwiki": "Fenimore_Fillmore:_The_Westerner",
    "steam": "503650"
@@ -80,6 +83,7 @@
   "ids": {
    "howlongtobeat": "4302",
    "igdb": "hard-truck-apocalypse--1",
+   "metacritic": "hard-truck-apocalypse",
    "mobygames": "35139",
    "pcgamingwiki": "Hard_Truck_Apocalypse",
    "steam": "285500"
@@ -130,7 +134,8 @@
   "enwiki": "Dragon Ball Z: The Legacy of Goku II",
   "ids": {
    "howlongtobeat": "2799",
-   "igdb": "dragon-ball-z-the-legacy-of-goku-ii"
+   "igdb": "dragon-ball-z-the-legacy-of-goku-ii",
+   "metacritic": "dragon-ball-z-the-legacy-of-goku-ii"
   },
   "label_en": "Dragon Ball Z: The Legacy of Goku II",
   "wikidata": "Q3038740"
@@ -158,6 +163,7 @@
   "ids": {
    "howlongtobeat": "2225",
    "igdb": "dark-souls-ii",
+   "metacritic": "dark-souls-ii",
    "mobygames": "65380",
    "pcgamingwiki": "Dark_Souls_II",
    "steam": "236430"
@@ -258,7 +264,8 @@
   "enwiki": "Angry Birds Stella",
   "ids": {
    "howlongtobeat": "23779",
-   "igdb": "angry-birds-stella"
+   "igdb": "angry-birds-stella",
+   "metacritic": "angry-birds-stella"
   },
   "label_en": "Angry Birds Stella",
   "wikidata": "Q15731740"
@@ -276,6 +283,7 @@
   "ids": {
    "howlongtobeat": "16187",
    "igdb": "kickbeat",
+   "metacritic": "kickbeat-steam-edition",
    "mobygames": "70058",
    "pcgamingwiki": "KickBeat",
    "steam": "255370"
@@ -288,6 +296,7 @@
   "ids": {
    "howlongtobeat": "18237",
    "igdb": "hack-n-slash",
+   "metacritic": "hack-n-slash",
    "mobygames": "71129",
    "pcgamingwiki": "Hack_'n'_Slash",
    "steam": "246070"
@@ -321,6 +330,7 @@
   "ids": {
    "howlongtobeat": "21409",
    "igdb": "shadow-puppeteer",
+   "metacritic": "shadow-puppeteer",
    "mobygames": "84008",
    "pcgamingwiki": "Shadow_Puppeteer",
    "steam": "316480"
@@ -333,6 +343,7 @@
   "ids": {
    "howlongtobeat": "29130",
    "igdb": "reader-rabbit-1st-grade",
+   "metacritic": "reader-rabbit-1st-grade",
    "mobygames": "60543",
    "pcgamingwiki": "Reader_Rabbit:_1st_Grade"
   },
@@ -374,6 +385,7 @@
   "ids": {
    "howlongtobeat": "19188",
    "igdb": "ionball-2-ionstorm",
+   "metacritic": "ionball-2-ionstorm",
    "mobygames": "108396",
    "pcgamingwiki": "Ionball_2:_Ionstorm",
    "steam": "287120"
@@ -398,6 +410,7 @@
   "ids": {
    "howlongtobeat": "77338",
    "igdb": "a-fold-apart",
+   "metacritic": "a-fold-apart",
    "mobygames": "144381",
    "pcgamingwiki": "A_Fold_Apart",
    "steam": "451310"
@@ -601,6 +614,7 @@
  {
   "ids": {
    "igdb": "flow-weaver",
+   "metacritic": "flow-weaver",
    "steam": "1024850"
   },
   "label_en": "Flow Weaver",
@@ -951,6 +965,7 @@
   "enwiki": "Sonic Rumble Party",
   "ids": {
    "igdb": "sonic-rumble-party",
+   "metacritic": "sonic-rumble",
    "pcgamingwiki": "Sonic_Rumble_Party",
    "steam": "2951690"
   },
@@ -1292,6 +1307,7 @@
  },
  {
   "ids": {
+   "metacritic": "shark-dentist",
    "pcgamingwiki": "Shark_Dentist",
    "steam": "3423280"
   },

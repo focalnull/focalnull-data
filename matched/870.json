@@ -3,6 +3,7 @@
   "enwiki": "Star Wars Battlefront: Elite Squadron",
   "ids": {
    "igdb": "star-wars-battlefront-elite-squadron",
+   "metacritic": "star-wars-battlefront-elite-squadron",
    "mobygames": "50343"
   },
   "label_en": "Star Wars Battlefront: Elite Squadron",
@@ -65,6 +66,7 @@
   "ids": {
    "howlongtobeat": "11585",
    "igdb": "zone-of-the-enders",
+   "metacritic": "zone-of-the-enders",
    "mobygames": "3615"
   },
   "label_en": "Zone of the Enders",
@@ -108,6 +110,7 @@
   "ids": {
    "howlongtobeat": "3375",
    "igdb": "fantavision",
+   "metacritic": "fantavision",
    "mobygames": "3827"
   },
   "label_en": "Fantavision",
@@ -204,6 +207,7 @@
   "ids": {
    "howlongtobeat": "10048",
    "igdb": "the-legendary-starfy",
+   "metacritic": "the-legendary-starfy",
    "mobygames": "46025"
   },
   "label_en": "The Legendary Starfy",
@@ -248,6 +252,7 @@
   "ids": {
    "howlongtobeat": "40852",
    "igdb": "berserk-and-the-band-of-the-hawk",
+   "metacritic": "berserk-and-the-band-of-the-hawk",
    "mobygames": "83852",
    "pcgamingwiki": "Berserk_and_the_Band_of_the_Hawk",
    "steam": "502280"
@@ -307,6 +312,7 @@
   "ids": {
    "howlongtobeat": "20082",
    "igdb": "realms-of-arkania-blade-of-destiny--1",
+   "metacritic": "realms-of-arkania-blade-of-destiny",
    "mobygames": "63524",
    "pcgamingwiki": "Realms_of_Arkania:_Blade_of_Destiny_(2013)",
    "steam": "237550"
@@ -342,6 +348,7 @@
  {
   "ids": {
    "igdb": "memorize-cards",
+   "metacritic": "memorize-cards",
    "mobygames": "189379",
    "steam": "1589420"
   },
@@ -580,6 +587,7 @@
   "ids": {
    "howlongtobeat": "80436",
    "igdb": "pattern",
+   "metacritic": "pattern",
    "pcgamingwiki": "Pattern",
    "steam": "969540"
   },
@@ -682,6 +690,7 @@
    "gog": "game/agatha_christie_hercule_poirot_the_london_case",
    "howlongtobeat": "129091",
    "igdb": "agatha-christie-hercule-poirot-the-london-case",
+   "metacritic": "agatha-christie-hercule-poirot-the-london-case",
    "mobygames": "209579",
    "pcgamingwiki": "Agatha_Christie_-_Hercule_Poirot:_The_London_Case",
    "steam": "2223740"
@@ -764,6 +773,7 @@
   "ids": {
    "howlongtobeat": "34076",
    "igdb": "calendula",
+   "metacritic": "calendula",
    "pcgamingwiki": "Calendula",
    "steam": "427810"
   },
@@ -795,6 +805,7 @@
   "ids": {
    "howlongtobeat": "39835",
    "igdb": "ians-eyes",
+   "metacritic": "ians-eyes",
    "mobygames": "94432",
    "pcgamingwiki": "Ian's_Eyes",
    "steam": "452340"
@@ -834,6 +845,7 @@
   "ids": {
    "howlongtobeat": "10286",
    "igdb": "theatre-of-war-2-africa-1943",
+   "metacritic": "theatre-of-war-2-africa-1943",
    "mobygames": "46206",
    "pcgamingwiki": "Theatre_of_War_2:_Africa_1943",
    "steam": "46340"

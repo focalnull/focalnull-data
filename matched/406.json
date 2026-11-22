@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5181",
    "igdb": "lara-croft-and-the-guardian-of-light",
+   "metacritic": "lara-croft-and-the-guardian-of-light",
    "mobygames": "48523",
    "pcgamingwiki": "Lara_Croft_and_the_Guardian_of_Light",
    "steam": "35130"
@@ -33,6 +34,7 @@
   "enwiki": "WWE SmackDown vs. Raw 2009",
   "ids": {
    "igdb": "wwe-smackdown-vs-raw-2009",
+   "metacritic": "wwe-smackdown-vs-raw-2009",
    "mobygames": "37524"
   },
   "label_en": "WWE SmackDown vs. Raw 2009",
@@ -84,6 +86,7 @@
   "enwiki": "Super Monkey Ball Jr.",
   "ids": {
    "igdb": "super-monkey-ball-jr",
+   "metacritic": "super-monkey-ball-jr",
    "mobygames": "7839"
   },
   "label_en": "Super Monkey Ball Jr.",
@@ -101,7 +104,8 @@
  },
  {
   "ids": {
-   "igdb": "blokus-world-tour"
+   "igdb": "blokus-world-tour",
+   "metacritic": "blokus-world-tour"
   },
   "label_en": "Blokus World Tour",
   "wikidata": "Q5679406"
@@ -110,6 +114,7 @@
   "ids": {
    "howlongtobeat": "11072",
    "igdb": "warioware-diy-showcase",
+   "metacritic": "warioware-diy-showcase",
    "mobygames": "57822"
   },
   "label_en": "WarioWare: D.I.Y. Showcase",
@@ -147,6 +152,7 @@
   "ids": {
    "howlongtobeat": "8372",
    "igdb": "shaman-king-legacy-of-the-spirits-soaring-hawk",
+   "metacritic": "shaman-king-legacy-of-the-spirits-soaring-hawk",
    "mobygames": "43643"
   },
   "label_en": "Shaman King: Legacy of the Spirits, Soaring Hawk",
@@ -184,6 +190,7 @@
    "gog": "game/moero_chronicle",
    "howlongtobeat": "18830",
    "igdb": "moero-chronicle",
+   "metacritic": "moero-chronicle",
    "mobygames": "94568",
    "pcgamingwiki": "Moero_Chronicle",
    "steam": "638160"
@@ -201,6 +208,7 @@
    "gog": "game/wolfenstein_the_old_blood",
    "howlongtobeat": "24484",
    "igdb": "wolfenstein-the-old-blood",
+   "metacritic": "wolfenstein-the-old-blood",
    "mobygames": "72602",
    "pcgamingwiki": "Wolfenstein:_The_Old_Blood",
    "steam": "350080"
@@ -212,7 +220,8 @@
   "enwiki": "Egg, Inc.",
   "ids": {
    "howlongtobeat": "56342",
-   "igdb": "egg-inc"
+   "igdb": "egg-inc",
+   "metacritic": "egg-inc"
   },
   "label_en": "Egg, Inc.",
   "wikidata": "Q27926406"
@@ -220,6 +229,7 @@
  {
   "ids": {
    "igdb": "airace-speed",
+   "metacritic": "air-race-speed",
    "mobygames": "62058"
   },
   "label_en": "AiRace Speed",
@@ -251,6 +261,9 @@
   "wikidata": "Q82235406"
  },
  {
+  "ids": {
+   "metacritic": "the-sims-3-pets-2011"
+  },
   "label_en": "The Sims 3: Pets",
   "wikidata": "Q97369406"
  },
@@ -259,7 +272,9 @@
   "ids": {
    "howlongtobeat": "84657",
    "igdb": "clan-oconall-and-the-crown-of-the-stag",
+   "metacritic": "clan-oconall-and-the-crown-of-the-stag",
    "mobygames": "164560",
+   "pcgamingwiki": "Clan_O'Conall_and_the_Crown_of_the_Stag",
    "steam": "843180"
   },
   "label_en": "Clan O'Conall and the Crown of the Stag",
@@ -270,6 +285,7 @@
   "ids": {
    "epic": "star-trek-resurgence",
    "igdb": "star-trek-resurgence",
+   "metacritic": "star-trek-resurgence",
    "pcgamingwiki": "Star_Trek:_Resurgence",
    "steam": "2653940"
   },
@@ -798,6 +814,7 @@
    "gog": "game/sons_of_valhalla",
    "howlongtobeat": "105498",
    "igdb": "sons-of-valhalla",
+   "metacritic": "sons-of-valhalla",
    "mobygames": "221325",
    "pcgamingwiki": "Sons_of_Valhalla",
    "steam": "1409830"
@@ -1121,6 +1138,7 @@
   "ids": {
    "howlongtobeat": "171926",
    "igdb": "darksiders-4",
+   "metacritic": "darksiders-4",
    "pcgamingwiki": "Darksiders_IV",
    "steam": "1203170"
   },

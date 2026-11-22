@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "3316",
    "igdb": "fable-iii",
+   "metacritic": "fable-iii",
    "mobygames": "48869",
    "pcgamingwiki": "Fable_III",
    "steam": "105400"
@@ -34,6 +35,7 @@
   "enwiki": "Mercenaries 2: World in Flames",
   "ids": {
    "igdb": "mercenaries-2-world-in-flames",
+   "metacritic": "mercenaries-2-world-in-flames",
    "mobygames": "36323",
    "pcgamingwiki": "Mercenaries_2:_World_in_Flames"
   },
@@ -46,6 +48,7 @@
    "gog": "game/port_royale",
    "howlongtobeat": "7229",
    "igdb": "port-royale-gold-power-and-pirates",
+   "metacritic": "port-royale",
    "mobygames": "8077",
    "pcgamingwiki": "Port_Royale:_Gold,_Power_and_Pirates"
   },
@@ -57,6 +60,7 @@
   "ids": {
    "howlongtobeat": "659",
    "igdb": "assassins-creed-altairs-chronicles",
+   "metacritic": "assassins-creed-altairs-chronicles",
    "mobygames": "32661"
   },
   "label_en": "Assassin's Creed: Altaïr's Chronicles",
@@ -175,6 +179,7 @@
    "gog": "game/valdis_story_abyssal_city",
    "howlongtobeat": "13558",
    "igdb": "valdis-story-abyssal-city",
+   "metacritic": "valdis-story-abyssal-city",
    "mobygames": "62594",
    "pcgamingwiki": "Valdis_Story:_Abyssal_City",
    "steam": "252030"
@@ -187,6 +192,7 @@
   "ids": {
    "howlongtobeat": "48203",
    "igdb": "touhou-tenkuushou-hidden-star-in-four-seasons",
+   "metacritic": "hidden-star-in-four-seasons",
    "mobygames": "98322",
    "pcgamingwiki": "Hidden_Star_in_Four_Seasons",
    "steam": "745880"
@@ -199,6 +205,7 @@
   "ids": {
    "howlongtobeat": "61692",
    "igdb": "walden-a-game",
+   "metacritic": "walden-a-game",
    "mobygames": "99426",
    "pcgamingwiki": "Walden,_a_game",
    "steam": "1011700"
@@ -211,6 +218,7 @@
   "ids": {
    "howlongtobeat": "51900",
    "igdb": "soldam-drop-connect-erase",
+   "metacritic": "soldam-drop-connect-erase",
    "mobygames": "96152"
   },
   "label_en": "Soldam: Drop, Connect, Erase",
@@ -220,6 +228,7 @@
   "ids": {
    "howlongtobeat": "100419",
    "igdb": "the-pizza-delivery-boy-who-saved-the-world",
+   "metacritic": "the-pizza-delivery-boy-who-saved-the-world",
    "mobygames": "108780",
    "pcgamingwiki": "The_Pizza_Delivery_Boy_Who_Saved_the_World",
    "steam": "853300"
@@ -258,6 +267,7 @@
   "enwiki": "Off-Road Redneck Racing",
   "ids": {
    "igdb": "off-road-redneck-racing",
+   "metacritic": "off-road-redneck-racing",
    "mobygames": "16134",
    "pcgamingwiki": "OffRoad",
    "steam": "2742010"
@@ -294,6 +304,7 @@
    "gog": "game/space_rangers_hd_a_war_apart",
    "howlongtobeat": "17459",
    "igdb": "space-rangers-hd-a-war-apart",
+   "metacritic": "space-rangers-hd-a-war-apart",
    "mobygames": "94269",
    "pcgamingwiki": "Space_Rangers_HD:_A_War_Apart",
    "steam": "214730"
@@ -332,6 +343,7 @@
    "howlongtobeat": "115087",
    "igdb": "vampire-the-masquerade-sins-of-the-sires",
    "mobygames": "181831",
+   "pcgamingwiki": "Vampire:_The_Masquerade_-_Sins_of_the_Sires",
    "steam": "1523990"
   },
   "label_en": "Vampire: The Masquerade – Sins of the Sires",
@@ -376,6 +388,7 @@
   "ids": {
    "howlongtobeat": "106955",
    "igdb": "motogp-22",
+   "metacritic": "motogp-22",
    "mobygames": "183344",
    "pcgamingwiki": "MotoGP_22",
    "steam": "1710580"
@@ -408,6 +421,7 @@
   "ids": {
    "howlongtobeat": "113538",
    "igdb": "dc-league-of-super-pets-the-adventures-of-krypto-and-ace",
+   "metacritic": "dc-league-of-super-pets-the-adventures-of-krypto",
    "mobygames": "208189",
    "pcgamingwiki": "DC_League_of_Super-Pets:_The_Adventures_of_Krypto_and_Ace",
    "steam": "1697760"
@@ -462,6 +476,8 @@
  {
   "ids": {
    "igdb": "puzzle-bobble-everybubble",
+   "metacritic": "puzzle-bobble-everybubble",
+   "pcgamingwiki": "Puzzle_Bobble_Everybubble!",
    "steam": "3990960"
   },
   "label_en": "Puzzle Bobble Everybubble!",
@@ -731,6 +747,7 @@
   "ids": {
    "howlongtobeat": "14539",
    "igdb": "rain-blood-chronicles-mirage",
+   "metacritic": "rain-blood-chronicles-mirage",
    "mobygames": "83735",
    "pcgamingwiki": "Rain_Blood_Chronicles:_Mirage",
    "steam": "240660"
@@ -1136,6 +1153,7 @@
  {
   "ids": {
    "igdb": "carrier--1",
+   "pcgamingwiki": "Carrier",
    "steam": "614250"
   },
   "label_en": "Carrier",

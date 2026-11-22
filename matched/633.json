@@ -3,6 +3,7 @@
   "enwiki": "WRC 3: FIA World Rally Championship",
   "ids": {
    "igdb": "wrc-3-fia-world-rally-championship",
+   "metacritic": "wrc-3-fia-world-rally-championship",
    "mobygames": "58552",
    "pcgamingwiki": "WRC_3:_FIA_World_Rally_Championship"
   },
@@ -13,6 +14,7 @@
   "enwiki": "Fist of the North Star: Ken's Rage 2",
   "ids": {
    "igdb": "fist-of-the-north-star-ken-s-rage-2",
+   "metacritic": "fist-of-the-north-star-kens-rage-2",
    "mobygames": "60805"
   },
   "label_en": "Fist of the North Star: Ken's Rage 2",
@@ -22,6 +24,7 @@
   "enwiki": "Skullgirls",
   "ids": {
    "igdb": "skullgirls",
+   "metacritic": "skullgirls",
    "mobygames": "62239"
   },
   "label_en": "Skullgirls",
@@ -33,6 +36,7 @@
    "gog": "game/crusader_kings_complete",
    "howlongtobeat": "2057",
    "igdb": "crusader-kings-complete",
+   "metacritic": "crusader-kings",
    "mobygames": "12921",
    "pcgamingwiki": "Crusader_Kings",
    "steam": "204940"
@@ -52,6 +56,7 @@
   "enwiki": "Donkey Kong: Jungle Climber",
   "ids": {
    "igdb": "dk-jungle-climber",
+   "metacritic": "dk-jungle-climber",
    "mobygames": "31149"
   },
   "label_en": "DK Jungle Climber",
@@ -72,6 +77,7 @@
   "ids": {
    "howlongtobeat": "243",
    "igdb": "aero-the-acro-bat-2",
+   "metacritic": "aero-the-acro-bat-2",
    "mobygames": "6992"
   },
   "label_en": "Aero the Acro-Bat 2",
@@ -111,6 +117,7 @@
   "enwiki": "Bandits: Phoenix Rising",
   "ids": {
    "igdb": "bandits-phoenix-rising",
+   "metacritic": "bandits-phoenix-rising",
    "mobygames": "7927"
   },
   "label_en": "Bandits: Phoenix Rising",
@@ -159,6 +166,7 @@
   "ids": {
    "howlongtobeat": "10130",
    "igdb": "the-polar-express",
+   "metacritic": "the-polar-express",
    "mobygames": "18833",
    "pcgamingwiki": "The_Polar_Express"
   },
@@ -183,6 +191,7 @@
   "enwiki": "Forza Motorsport 5",
   "ids": {
    "igdb": "forza-motorsport-5",
+   "metacritic": "forza-motorsport-5",
    "mobygames": "62283"
   },
   "label_en": "Forza Motorsport 5",
@@ -196,6 +205,7 @@
   "ids": {
    "howlongtobeat": "14371",
    "igdb": "forced",
+   "metacritic": "forced",
    "mobygames": "65266",
    "pcgamingwiki": "Forced",
    "steam": "249990"
@@ -207,7 +217,8 @@
   "enwiki": "Frogger's Journey: The Forgotten Relic",
   "ids": {
    "howlongtobeat": "17986",
-   "igdb": "froggers-journey-the-forgotten-relic"
+   "igdb": "froggers-journey-the-forgotten-relic",
+   "metacritic": "froggers-journey-the-forgotten-relic"
   },
   "label_en": "Frogger's Journey: The Forgotten Relic",
   "wikidata": "Q16569633"
@@ -225,6 +236,7 @@
   "ids": {
    "howlongtobeat": "20582",
    "igdb": "pt",
+   "metacritic": "pt",
    "mobygames": "70757"
   },
   "label_en": "P.T.",
@@ -232,6 +244,9 @@
  },
  {
   "enwiki": "Scarface (iOS game)",
+  "ids": {
+   "metacritic": "scarface"
+  },
   "label_en": "Scarface",
   "wikidata": "Q18209633"
  },
@@ -240,6 +255,7 @@
   "ids": {
    "howlongtobeat": "32002",
    "igdb": "nintendo-badge-arcade",
+   "metacritic": "nintendo-badge-arcade",
    "mobygames": "75887"
   },
   "label_en": "Nintendo Badge Arcade",
@@ -276,6 +292,9 @@
  },
  {
   "enwiki": "Yorite Konoha wa Kurenai ni",
+  "ids": {
+   "metacritic": "yorite-konoha-wa-kurenai-ni"
+  },
   "label_en": "Yorite Konoha wa Kurenai ni",
   "wikidata": "Q48761633"
  },
@@ -283,6 +302,7 @@
   "enwiki": "Call of Duty: Black Ops 4",
   "ids": {
    "igdb": "call-of-duty-black-ops-4",
+   "metacritic": "call-of-duty-black-ops-4",
    "mobygames": "115907",
    "pcgamingwiki": "Call_of_Duty:_Black_Ops_IIII"
   },
@@ -293,6 +313,7 @@
   "ids": {
    "howlongtobeat": "64125",
    "igdb": "the-thin-silence",
+   "metacritic": "the-thin-silence",
    "mobygames": "114024",
    "pcgamingwiki": "The_Thin_Silence",
    "steam": "314630"
@@ -307,6 +328,7 @@
    "gog": "game/vampire_the_masquerade_bloodlines_2",
    "howlongtobeat": "65968",
    "igdb": "vampire-the-masquerade-bloodlines-2",
+   "metacritic": "vampire-the-masquerade-bloodlines-2",
    "pcgamingwiki": "Vampire:_The_Masquerade_-_Bloodlines_2",
    "steam": "532790"
   },
@@ -319,6 +341,7 @@
    "gog": "game/lamplight_city",
    "howlongtobeat": "60435",
    "igdb": "lamplight-city",
+   "metacritic": "lamplight-city",
    "mobygames": "113618",
    "pcgamingwiki": "Lamplight_City",
    "steam": "761460"
@@ -339,6 +362,7 @@
   "ids": {
    "howlongtobeat": "33648",
    "igdb": "shift-happens",
+   "metacritic": "shift-happens",
    "mobygames": "84872",
    "pcgamingwiki": "Shift_Happens",
    "steam": "359840"
@@ -352,6 +376,7 @@
    "epic": "rogue-company",
    "howlongtobeat": "70213",
    "igdb": "rogue-company",
+   "metacritic": "rogue-company",
    "mobygames": "148387",
    "pcgamingwiki": "Rogue_Company",
    "steam": "872200"
@@ -371,6 +396,7 @@
   "ids": {
    "howlongtobeat": "40458",
    "igdb": "sakura-shrine-girls",
+   "metacritic": "sakura-shrine-girls",
    "mobygames": "82774",
    "pcgamingwiki": "Sakura_Shrine_Girls",
    "steam": "517000"
@@ -450,6 +476,7 @@
    "epic": "the-alien-cube-789431",
    "howlongtobeat": "90038",
    "igdb": "the-alien-cube",
+   "metacritic": "the-alien-cube",
    "mobygames": "173762",
    "pcgamingwiki": "The_Alien_Cube",
    "steam": "1099220"
@@ -756,6 +783,7 @@
    "gog": "game/worldless",
    "howlongtobeat": "134816",
    "igdb": "worldless",
+   "metacritic": "worldless",
    "mobygames": "212406",
    "pcgamingwiki": "Worldless",
    "steam": "1898500"
@@ -797,6 +825,7 @@
    "gog": "game/excubitor",
    "howlongtobeat": "42772",
    "igdb": "excubitor",
+   "metacritic": "excubitor",
    "mobygames": "105854",
    "pcgamingwiki": "Excubitor",
    "steam": "357030"
@@ -1187,6 +1216,7 @@
  {
   "ids": {
    "igdb": "la-introduccion",
+   "pcgamingwiki": "La_Introducción",
    "steam": "1124690"
   },
   "label_en": "La Introducción",

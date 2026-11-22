@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "2914",
    "igdb": "duke-nukem-3d",
+   "metacritic": "duke-nukem-3d",
    "mobygames": "365",
    "pcgamingwiki": "Duke_Nukem_3D",
    "steam": "225140"
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "3305",
    "igdb": "f1-2010",
+   "metacritic": "f1-2010",
    "mobygames": "51957",
    "pcgamingwiki": "F1_2010",
    "steam": "44310"
@@ -39,6 +41,7 @@
   "ids": {
    "howlongtobeat": "7695",
    "igdb": "red-steel-2",
+   "metacritic": "red-steel-2",
    "mobygames": "59053"
   },
   "label_en": "Red Steel 2",
@@ -74,6 +77,7 @@
   "enwiki": "Gears of War: Judgment",
   "ids": {
    "igdb": "gears-of-war-judgment",
+   "metacritic": "gears-of-war-judgment",
    "mobygames": "60137"
   },
   "label_en": "Gears of War: Judgment",
@@ -84,6 +88,7 @@
   "ids": {
    "howlongtobeat": "8315",
    "igdb": "serious-sam-double-d",
+   "metacritic": "serious-sam-double-d",
    "mobygames": "53856",
    "pcgamingwiki": "Serious_Sam_Double_D",
    "steam": "111600"
@@ -96,6 +101,7 @@
   "ids": {
    "howlongtobeat": "2527",
    "igdb": "die-hard-nakatomi-plaza",
+   "metacritic": "die-hard-nakatomi-plaza",
    "mobygames": "6262",
    "pcgamingwiki": "Die_Hard:_Nakatomi_Plaza"
   },
@@ -143,6 +149,7 @@
    "epic": "big-mutha-truckers-990060",
    "howlongtobeat": "15929",
    "igdb": "big-mutha-truckers-2",
+   "metacritic": "big-mutha-truckers-2",
    "mobygames": "18515",
    "pcgamingwiki": "Big_Mutha_Truckers_2",
    "steam": "1377920"
@@ -155,6 +162,7 @@
   "ids": {
    "howlongtobeat": "2378",
    "igdb": "deathspank-thongs-of-virtue",
+   "metacritic": "deathspank-thongs-of-virtue",
    "mobygames": "48442",
    "pcgamingwiki": "DeathSpank:_Thongs_of_Virtue",
    "steam": "18050"
@@ -166,6 +174,7 @@
   "enwiki": "Dragon's Lair 3D: Return to the Lair",
   "ids": {
    "igdb": "dragon-s-lair-3d-return-to-the-lair",
+   "metacritic": "dragons-lair-3d-return-to-the-lair",
    "mobygames": "7798",
    "pcgamingwiki": "Dragon's_Lair_3D:_Return_to_the_Lair"
   },
@@ -186,6 +195,7 @@
   "enwiki": "NPPL Championship Paintball 2009",
   "ids": {
    "igdb": "nppl-championship-paintball-2009",
+   "metacritic": "nppl-championship-paintball-2009",
    "mobygames": "74429"
   },
   "label_en": "NPPL Championship Paintball 2009",
@@ -227,6 +237,7 @@
   "ids": {
    "howlongtobeat": "42832",
    "igdb": "splatoon-2",
+   "metacritic": "splatoon-2",
    "mobygames": "92433"
   },
   "label_en": "Splatoon 2",
@@ -250,6 +261,7 @@
    "epic": "ooblets",
    "howlongtobeat": "72958",
    "igdb": "ooblets",
+   "metacritic": "ooblets",
    "mobygames": "148201",
    "pcgamingwiki": "Ooblets",
    "steam": "593150"
@@ -261,6 +273,7 @@
   "enwiki": "The Lost Child (video game)",
   "ids": {
    "igdb": "the-lost-child",
+   "metacritic": "the-lost-child",
    "mobygames": "109100"
   },
   "label_en": "The Lost Child",
@@ -272,6 +285,7 @@
    "gog": "game/avicii_invector",
    "howlongtobeat": "72941",
    "igdb": "avicii-invector",
+   "metacritic": "avicii-invector",
    "mobygames": "138145",
    "pcgamingwiki": "Avicii_Invector",
    "steam": "986800"
@@ -293,6 +307,7 @@
    "gog": "game/aquanox_deep_descent",
    "howlongtobeat": "48735",
    "igdb": "aquanox-deep-descent",
+   "metacritic": "aquanox-deep-descent",
    "mobygames": "151509",
    "pcgamingwiki": "Aquanox:_Deep_Descent",
    "steam": "254370"
@@ -303,7 +318,8 @@
  {
   "enwiki": "Naruto Shippuden: Ultimate Ninja Blazing",
   "ids": {
-   "igdb": "naruto-shippuden-ultimate-ninja-blazing"
+   "igdb": "naruto-shippuden-ultimate-ninja-blazing",
+   "metacritic": "naruto-shippuden-ultimate-ninja-blazing"
   },
   "label_en": "Naruto Shippuden: Ultimate Ninja Blazing",
   "wikidata": "Q101616061"
@@ -311,6 +327,7 @@
  {
   "ids": {
    "igdb": "kami-2",
+   "pcgamingwiki": "Kami_2",
    "steam": "3414340"
   },
   "label_en": "Kami 2",
@@ -322,6 +339,7 @@
    "gog": "game/spinch",
    "howlongtobeat": "83373",
    "igdb": "spinch",
+   "metacritic": "spinch",
    "mobygames": "150096",
    "pcgamingwiki": "Spinch",
    "steam": "794240"
@@ -374,6 +392,7 @@
   "enwiki": "2K Drive",
   "ids": {
    "igdb": "2k-drive",
+   "metacritic": "2k-drive",
    "mobygames": "183790"
   },
   "label_en": "2K Drive",
@@ -393,7 +412,8 @@
  {
   "enwiki": "MLB The Show 23",
   "ids": {
-   "igdb": "mlb-the-show-23"
+   "igdb": "mlb-the-show-23",
+   "metacritic": "mlb-the-show-23"
   },
   "label_en": "MLB The Show 23",
   "wikidata": "Q116564061"
@@ -799,6 +819,7 @@
   "ids": {
    "epic": "voidbreaker-bcdd11",
    "igdb": "void-slash-breaker",
+   "metacritic": "void-breaker-2025",
    "pcgamingwiki": "Void/Breaker",
    "steam": "2615540"
   },

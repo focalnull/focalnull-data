@@ -31,6 +31,7 @@
    "gog": "game/arma_cold_war_assault",
    "howlongtobeat": "6778",
    "igdb": "operation-flashpoint-cold-war-crisis",
+   "metacritic": "operation-flashpoint-cold-war-crisis",
    "mobygames": "3559",
    "pcgamingwiki": "Operation_Flashpoint:_Cold_War_Crisis",
    "steam": "65790"
@@ -83,6 +84,7 @@
   "ids": {
    "howlongtobeat": "18519",
    "igdb": "exile-iii-ruined-world",
+   "metacritic": "exile-iii-ruined-world",
    "mobygames": "1654",
    "pcgamingwiki": "Exile_III:_Ruined_World"
   },
@@ -224,6 +226,7 @@
   "enwiki": "Walt Disney World Quest: Magical Racing Tour",
   "ids": {
    "igdb": "walt-disney-world-quest-magical-racing-tour",
+   "metacritic": "walt-disney-world-quest-magical-racing-tour",
    "mobygames": "3857",
    "pcgamingwiki": "Walt_Disney_World_Quest:_Magical_Racing_Tour"
   },
@@ -261,6 +264,7 @@
   "ids": {
    "howlongtobeat": "20789",
    "igdb": "nba-09-the-inside",
+   "metacritic": "nba-09-the-inside",
    "mobygames": "37675"
   },
   "label_en": "NBA 09: The Inside",
@@ -273,6 +277,7 @@
    "gog": "game/lego_batman_3_beyond_gotham",
    "howlongtobeat": "21254",
    "igdb": "lego-batman-3-beyond-gotham",
+   "metacritic": "lego-batman-3-beyond-gotham",
    "mobygames": "84179",
    "pcgamingwiki": "Lego_Batman_3:_Beyond_Gotham",
    "steam": "313690"
@@ -289,6 +294,7 @@
   "ids": {
    "howlongtobeat": "36535",
    "igdb": "the-lab",
+   "metacritic": "the-lab",
    "mobygames": "97360",
    "pcgamingwiki": "The_Lab",
    "steam": "450390"
@@ -315,6 +321,7 @@
    "gog": "game/rise_of_industry",
    "howlongtobeat": "54536",
    "igdb": "rise-of-industry",
+   "metacritic": "rise-of-industry",
    "mobygames": "103168",
    "pcgamingwiki": "Rise_of_Industry",
    "steam": "671440"
@@ -327,6 +334,7 @@
    "epic": "nostalgic-train-32f08a",
    "howlongtobeat": "87738",
    "igdb": "nostalgic-train",
+   "metacritic": "nostalgic-train",
    "pcgamingwiki": "Nostalgic_Train",
    "steam": "801260"
   },
@@ -340,6 +348,7 @@
    "gog": "game/house_party",
    "howlongtobeat": "46996",
    "igdb": "house-party",
+   "metacritic": "house-party",
    "mobygames": "91782",
    "pcgamingwiki": "House_Party",
    "steam": "611790"
@@ -368,6 +377,7 @@
   "ids": {
    "howlongtobeat": "78527",
    "igdb": "brigandine-the-legend-of-runersia",
+   "metacritic": "brigandine-the-legend-of-runersia",
    "mobygames": "147370",
    "pcgamingwiki": "Brigandine:_The_Legend_of_Runersia",
    "steam": "1843940"
@@ -392,6 +402,7 @@
   "ids": {
    "howlongtobeat": "74649",
    "igdb": "alone--3",
+   "metacritic": "alone",
    "mobygames": "172595",
    "steam": "1544540"
   },
@@ -402,6 +413,7 @@
   "ids": {
    "howlongtobeat": "97431",
    "igdb": "cats-in-time",
+   "metacritic": "cats-in-time",
    "mobygames": "168710",
    "pcgamingwiki": "Cats_in_Time",
    "steam": "1599880"
@@ -414,6 +426,7 @@
    "howlongtobeat": "103680",
    "igdb": "yeah-yeah-beebiss-ii",
    "mobygames": "179177",
+   "pcgamingwiki": "Yeah_Yeah_Beebiss_II",
    "steam": "1871700"
   },
   "label_en": "Yeah Yeah Beebiss II",
@@ -472,6 +485,7 @@
    "howlongtobeat": "98602",
    "igdb": "treasure-of-nadia",
    "mobygames": "188020",
+   "pcgamingwiki": "Treasure_of_Nadia",
    "steam": "1737100"
   },
   "label_en": "Treasure of Nadia",
@@ -482,6 +496,7 @@
    "howlongtobeat": "75678",
    "igdb": "the-test",
    "mobygames": "155711",
+   "pcgamingwiki": "The_Test",
    "steam": "1241510"
   },
   "label_en": "The Test",
@@ -512,7 +527,9 @@
   "ids": {
    "howlongtobeat": "129880",
    "igdb": "moving-out-2",
+   "metacritic": "moving-out-2",
    "mobygames": "207334",
+   "pcgamingwiki": "Moving_Out_2",
    "steam": "1641700"
   },
   "label_en": "Moving Out 2",
@@ -524,6 +541,7 @@
    "gog": "game/cloud_gardens",
    "howlongtobeat": "82150",
    "igdb": "cloud-gardens",
+   "metacritic": "cloud-gardens",
    "mobygames": "150327",
    "pcgamingwiki": "Cloud_Gardens",
    "steam": "1372320"
@@ -954,6 +972,7 @@
    "epic": "sid-meiers-civilization-vii--founders-edition",
    "howlongtobeat": "151866",
    "igdb": "sid-meiers-civilization-vii",
+   "metacritic": "sid-meiers-civilization-vii",
    "mobygames": "237152",
    "pcgamingwiki": "Sid_Meier's_Civilization_VII",
    "steam": "1295660"

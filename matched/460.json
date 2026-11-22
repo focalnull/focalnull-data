@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4059",
    "igdb": "grand-theft-auto-2",
+   "metacritic": "grand-theft-auto-2",
    "mobygames": "1097",
    "pcgamingwiki": "Grand_Theft_Auto_2",
    "steam": "12180"
@@ -36,6 +37,7 @@
   "ids": {
    "howlongtobeat": "886",
    "igdb": "batman-rise-of-sin-tzu",
+   "metacritic": "batman-rise-of-sin-tzu",
    "mobygames": "10700"
   },
   "label_en": "Batman: Rise of Sin Tzu",
@@ -97,6 +99,7 @@
   "ids": {
    "howlongtobeat": "34203",
    "igdb": "island-xtreme-stunts",
+   "metacritic": "island-xtreme-stunts",
    "mobygames": "27699",
    "pcgamingwiki": "Island_Xtreme_Stunts"
   },
@@ -108,6 +111,7 @@
   "ids": {
    "howlongtobeat": "5746",
    "igdb": "mazes-of-fate",
+   "metacritic": "mazes-of-fate-ds",
    "mobygames": "27559"
   },
   "label_en": "Mazes of Fate",
@@ -117,6 +121,7 @@
   "enwiki": "My Street",
   "ids": {
    "igdb": "my-street",
+   "metacritic": "my-street",
    "mobygames": "11603"
   },
   "label_en": "My Street",
@@ -127,6 +132,7 @@
   "ids": {
    "howlongtobeat": "23975",
    "igdb": "ravenmark-scourge-of-estellion",
+   "metacritic": "ravenmark-scourge-of-estellion",
    "mobygames": "83875",
    "pcgamingwiki": "Ravenmark:_Scourge_of_Estellion",
    "steam": "365480"
@@ -166,6 +172,7 @@
    "gog": "game/tumblestone",
    "howlongtobeat": "34909",
    "igdb": "tumblestone",
+   "metacritic": "tumblestone",
    "mobygames": "79849",
    "pcgamingwiki": "Tumblestone",
    "steam": "269710"
@@ -188,6 +195,7 @@
   "ids": {
    "howlongtobeat": "26720",
    "igdb": "vagrant-hearts-2",
+   "metacritic": "vagrant-hearts-2",
    "mobygames": "87729",
    "pcgamingwiki": "Vagrant_Hearts_2",
    "steam": "359670"
@@ -214,7 +222,8 @@
   "enwiki": "Duel Masters: Sempai Legends",
   "ids": {
    "howlongtobeat": "20180",
-   "igdb": "duel-masters-sempai-legends"
+   "igdb": "duel-masters-sempai-legends",
+   "metacritic": "duel-masters-sempai-legends"
   },
   "label_en": "Duel Masters: Sempai Legends",
   "wikidata": "Q108607460"
@@ -223,6 +232,7 @@
   "ids": {
    "howlongtobeat": "104787",
    "igdb": "tiny-combat-arena",
+   "metacritic": "tiny-combat-arena",
    "mobygames": "189819",
    "pcgamingwiki": "Tiny_Combat_Arena",
    "steam": "1347550"
@@ -237,6 +247,7 @@
    "gog": "game/in_sound_mind",
    "howlongtobeat": "81044",
    "igdb": "in-sound-mind",
+   "metacritic": "in-sound-mind",
    "mobygames": "172904",
    "pcgamingwiki": "In_Sound_Mind",
    "steam": "1119980"
@@ -269,6 +280,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-10",
+   "metacritic": "vacation-adventures-park-ranger-10",
    "steam": "1309910"
   },
   "label_en": "Vacation Adventures: Park Ranger 10",
@@ -338,6 +350,7 @@
   "ids": {
    "howlongtobeat": "126260",
    "igdb": "mighty-doom",
+   "metacritic": "mighty-doom",
    "mobygames": "168848"
   },
   "label_en": "Mighty Doom",
@@ -610,6 +623,7 @@
    "gog": "game/the_cub",
    "howlongtobeat": "106076",
    "igdb": "the-cub",
+   "metacritic": "the-cub",
    "mobygames": "216020",
    "pcgamingwiki": "The_Cub",
    "steam": "1941410"

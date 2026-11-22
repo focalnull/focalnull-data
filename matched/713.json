@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "13497",
    "igdb": "touhou-shinreibyou-ten-desires",
+   "metacritic": "ten-desires",
    "mobygames": "73113",
    "pcgamingwiki": "Ten_Desires",
    "steam": "1043230"
@@ -110,6 +111,7 @@
   "enwiki": "Pac-Man & Galaga Dimensions",
   "ids": {
    "igdb": "pac-man-galaga-dimensions",
+   "metacritic": "pac-man-galaga-dimensions",
    "mobygames": "52924"
   },
   "label_en": "Pac-Man & Galaga Dimensions",
@@ -271,6 +273,7 @@
   "ids": {
    "howlongtobeat": "91184",
    "igdb": "lil-gator-game",
+   "metacritic": "lil-gator-game",
    "mobygames": "196450",
    "pcgamingwiki": "Lil_Gator_Game",
    "steam": "1586800"
@@ -283,6 +286,7 @@
   "ids": {
    "howlongtobeat": "18087",
    "igdb": "xpand-rally-xtreme",
+   "metacritic": "xpand-rally-xtreme",
    "mobygames": "26281",
    "pcgamingwiki": "Xpand_Rally_Xtreme",
    "steam": "3050"
@@ -295,6 +299,7 @@
   "ids": {
    "howlongtobeat": "93038",
    "igdb": "hokko-life",
+   "metacritic": "hokko-life",
    "mobygames": "165679",
    "pcgamingwiki": "Hokko_Life",
    "steam": "824000"
@@ -401,6 +406,7 @@
   "ids": {
    "howlongtobeat": "109267",
    "igdb": "ereban-shadow-legacy",
+   "metacritic": "ereban-shadow-legacy",
    "mobygames": "221632",
    "pcgamingwiki": "Ereban:_Shadow_Legacy",
    "steam": "1671360"
@@ -425,6 +431,7 @@
    "gog": "game/the_tale_of_bistun",
    "howlongtobeat": "110503",
    "igdb": "the-tale-of-bistun",
+   "metacritic": "the-tale-of-bistun",
    "mobygames": "188720",
    "pcgamingwiki": "The_Tale_of_Bistun",
    "steam": "916140"
@@ -855,6 +862,7 @@
   "ids": {
    "howlongtobeat": "147436",
    "igdb": "deathsprint-66",
+   "metacritic": "deathsprint-66",
    "mobygames": "230433",
    "pcgamingwiki": "DeathSprint_66",
    "steam": "1273560"
@@ -865,6 +873,7 @@
  {
   "ids": {
    "igdb": "uber-urban",
+   "metacritic": "uber-urban",
    "steam": "2723660"
   },
   "label_en": "Uber Urban",

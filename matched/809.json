@@ -1,7 +1,8 @@
 [
  {
   "ids": {
-   "igdb": "kalonline"
+   "igdb": "kalonline",
+   "metacritic": "kal-online"
   },
   "label_en": "Kal Online",
   "wikidata": "Q117809"
@@ -11,6 +12,7 @@
   "ids": {
    "howlongtobeat": "19106",
    "igdb": "microbot",
+   "metacritic": "microbot",
    "mobygames": "109989"
   },
   "label_en": "MicroBot",
@@ -43,6 +45,7 @@
   "ids": {
    "howlongtobeat": "3049",
    "igdb": "echochrome",
+   "metacritic": "echochrome",
    "mobygames": "34242"
   },
   "label_en": "Echochrome",
@@ -70,6 +73,7 @@
   "ids": {
    "howlongtobeat": "4155",
    "igdb": "guild-wars-factions",
+   "metacritic": "guild-wars-factions",
    "mobygames": "22246",
    "pcgamingwiki": "Guild_Wars_Factions",
    "steam": "29610"
@@ -92,6 +96,7 @@
   "ids": {
    "howlongtobeat": "12332",
    "igdb": "spyro-attack-of-the-rhynocs",
+   "metacritic": "spyro-attack-of-the-rhynocs",
    "mobygames": "12096"
   },
   "label_en": "Spyro: Attack of the Rhynocs",
@@ -103,6 +108,7 @@
    "gog": "game/void_the",
    "howlongtobeat": "10248",
    "igdb": "the-void",
+   "metacritic": "the-void",
    "mobygames": "40062",
    "pcgamingwiki": "The_Void",
    "steam": "37000"
@@ -127,6 +133,7 @@
   "enwiki": "Xyanide",
   "ids": {
    "igdb": "xyanide",
+   "metacritic": "xyanide",
    "mobygames": "23863"
   },
   "label_en": "Xyanide",
@@ -177,6 +184,7 @@
   "enwiki": "Rune Factory Frontier",
   "ids": {
    "igdb": "rune-factory-frontier",
+   "metacritic": "rune-factory-frontier",
    "mobygames": "58163"
   },
   "label_en": "Rune Factory Frontier",
@@ -196,6 +204,7 @@
   "enwiki": "FlingSmash",
   "ids": {
    "igdb": "flingsmash",
+   "metacritic": "flingsmash",
    "mobygames": "49067"
   },
   "label_en": "FlingSmash",
@@ -206,6 +215,7 @@
   "ids": {
    "howlongtobeat": "30460",
    "igdb": "total-war-arena",
+   "metacritic": "total-war-arena",
    "mobygames": "112260",
    "pcgamingwiki": "Total_War:_Arena",
    "steam": "227520"
@@ -238,6 +248,7 @@
    "gog": "game/gorogoa",
    "howlongtobeat": "37003",
    "igdb": "gorogoa",
+   "metacritic": "gorogoa",
    "mobygames": "99366",
    "pcgamingwiki": "Gorogoa",
    "steam": "557600"
@@ -250,6 +261,7 @@
   "ids": {
    "howlongtobeat": "22387",
    "igdb": "football-manager-2015",
+   "metacritic": "football-manager-2015",
    "mobygames": "80182",
    "pcgamingwiki": "Football_Manager_2015",
    "steam": "295270"
@@ -261,6 +273,7 @@
   "enwiki": "Zathura (video game)",
   "ids": {
    "igdb": "zathura",
+   "metacritic": "zathura",
    "mobygames": "56942"
   },
   "label_en": "Zathura",
@@ -285,6 +298,7 @@
   "ids": {
    "howlongtobeat": "43272",
    "igdb": "wrc-6-fia-world-rally-championship",
+   "metacritic": "wrc-6-world-rally-championship",
    "mobygames": "84606",
    "pcgamingwiki": "WRC_6:_FIA_World_Rally_Championship",
    "steam": "458770"
@@ -308,6 +322,7 @@
   "ids": {
    "howlongtobeat": "55975",
    "igdb": "putin-boobs-and-trump",
+   "metacritic": "putin-boobs-and-trump",
    "mobygames": "108230",
    "pcgamingwiki": "Putin,_Boobs_and_Trump",
    "steam": "839880"
@@ -330,6 +345,7 @@
   "ids": {
    "howlongtobeat": "39693",
    "igdb": "back-in-1995",
+   "metacritic": "back-in-1995",
    "mobygames": "105433",
    "pcgamingwiki": "Back_in_1995",
    "steam": "433380"
@@ -343,6 +359,7 @@
    "gog": "game/curious_expedition_2",
    "howlongtobeat": "86391",
    "igdb": "curious-expedition-2",
+   "metacritic": "curious-expedition-2",
    "mobygames": "146904",
    "pcgamingwiki": "Curious_Expedition_2",
    "steam": "1040230"
@@ -383,6 +400,7 @@
    "gog": "game/ghostrunner_2",
    "howlongtobeat": "97766",
    "igdb": "ghostrunner-ii",
+   "metacritic": "ghostrunner-2",
    "mobygames": "210895",
    "pcgamingwiki": "Ghostrunner_2",
    "steam": "2144740"
@@ -395,6 +413,7 @@
   "ids": {
    "howlongtobeat": "69919",
    "igdb": "gunvolt-chronicles-luminous-avenger-ix",
+   "metacritic": "gunvolt-chronicles-luminous-avenger-ix",
    "mobygames": "135049",
    "pcgamingwiki": "Gunvolt_Chronicles:_Luminous_Avenger_iX",
    "steam": "1085180"
@@ -532,6 +551,7 @@
    "howlongtobeat": "89409",
    "igdb": "mitoza",
    "mobygames": "160141",
+   "pcgamingwiki": "Mitoza",
    "steam": "1516240"
   },
   "label_en": "Mitoza",
@@ -1253,6 +1273,7 @@
  {
   "ids": {
    "igdb": "fractured-balance",
+   "metacritic": "fractured-balance",
    "mobygames": "244460",
    "steam": "3376920"
   },

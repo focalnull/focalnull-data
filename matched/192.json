@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "27",
    "igdb": "007-legends",
+   "metacritic": "007-legends",
    "mobygames": "62371",
    "pcgamingwiki": "007_Legends"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "4001",
    "igdb": "golden-sun-dark-dawn",
+   "metacritic": "golden-sun-dark-dawn",
    "mobygames": "50278"
   },
   "label_en": "Golden Sun: Dark Dawn",
@@ -42,6 +44,7 @@
   "ids": {
    "howlongtobeat": "2004",
    "igdb": "crazy-taxi-3-high-roller",
+   "metacritic": "crazy-taxi-3-high-roller",
    "mobygames": "7033",
    "pcgamingwiki": "Crazy_Taxi_3:_High_Roller"
   },
@@ -53,6 +56,7 @@
   "ids": {
    "howlongtobeat": "2607",
    "igdb": "disney-universe",
+   "metacritic": "disney-universe",
    "mobygames": "61561",
    "pcgamingwiki": "Disney_Universe",
    "steam": "316260"
@@ -65,6 +69,7 @@
   "ids": {
    "howlongtobeat": "5630",
    "igdb": "mario-golf-toadstool-tour",
+   "metacritic": "mario-golf-toadstool-tour",
    "mobygames": "10019"
   },
   "label_en": "Mario Golf: Toadstool Tour",
@@ -123,6 +128,7 @@
   "enwiki": "Stolen (video game)",
   "ids": {
    "igdb": "stolen",
+   "metacritic": "stolen-2005",
    "mobygames": "17266",
    "pcgamingwiki": "Stolen"
   },
@@ -147,6 +153,7 @@
   "ids": {
    "howlongtobeat": "1351",
    "igdb": "bubble-bobble-double-shot",
+   "metacritic": "bubble-bobble-double-shot",
    "mobygames": "32300"
   },
   "label_en": "Bubble Bobble Double Shot",
@@ -174,6 +181,7 @@
   "enwiki": "Marvel Super Hero Squad: Comic Combat",
   "ids": {
    "igdb": "marvel-super-hero-squad-comic-combat",
+   "metacritic": "marvel-super-hero-squad-comic-combat",
    "mobygames": "91618"
   },
   "label_en": "Marvel Super Hero Squad: Comic Combat",
@@ -193,6 +201,7 @@
   "ids": {
    "howlongtobeat": "35875",
    "igdb": "tokyo-mirage-sessions-number-fe",
+   "metacritic": "tokyo-mirage-sessions-fe",
    "mobygames": "84861"
   },
   "label_en": "Tokyo Mirage Sessions ♯FE",
@@ -256,6 +265,7 @@
   "ids": {
    "howlongtobeat": "22529",
    "igdb": "pro-evolution-soccer-2015",
+   "metacritic": "pro-evolution-soccer-2015",
    "mobygames": "72105",
    "pcgamingwiki": "Pro_Evolution_Soccer_2015",
    "steam": "287680"
@@ -273,6 +283,7 @@
    "gog": "game/shadwen",
    "howlongtobeat": "34888",
    "igdb": "shadwen",
+   "metacritic": "shadwen",
    "mobygames": "87006",
    "pcgamingwiki": "Shadwen",
    "steam": "425210"
@@ -331,6 +342,7 @@
    "gog": "game/panzer_corps_2",
    "howlongtobeat": "67601",
    "igdb": "panzer-corps-2",
+   "metacritic": "panzer-corps-2",
    "mobygames": "143557",
    "pcgamingwiki": "Panzer_Corps_2",
    "steam": "1072040"
@@ -349,6 +361,7 @@
    "gog": "game/hundred_days",
    "howlongtobeat": "92590",
    "igdb": "hundred-days",
+   "metacritic": "hundred-days-winemaking-simulator",
    "mobygames": "164245",
    "pcgamingwiki": "Hundred_Days_-_Winemaking_Simulator",
    "steam": "1042380"
@@ -362,6 +375,7 @@
    "epic": "farming-simulator-22",
    "howlongtobeat": "100591",
    "igdb": "farming-simulator-22",
+   "metacritic": "farming-simulator-22",
    "mobygames": "175746",
    "pcgamingwiki": "Farming_Simulator_22",
    "steam": "1248130"
@@ -419,6 +433,7 @@
   "ids": {
    "howlongtobeat": "84480",
    "igdb": "warplanes-ww2-dogfight",
+   "metacritic": "warplanes-ww2-dogfight",
    "mobygames": "121994",
    "pcgamingwiki": "Warplanes:_WW2_Dogfight",
    "steam": "936780"
@@ -449,6 +464,7 @@
   "ids": {
    "howlongtobeat": "4607",
    "igdb": "ignite",
+   "metacritic": "ignite",
    "mobygames": "76838",
    "pcgamingwiki": "Ignite",
    "steam": "45410"

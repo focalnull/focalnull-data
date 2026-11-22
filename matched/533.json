@@ -47,6 +47,7 @@
    "gog": "game/haegemonia_gold_edition",
    "howlongtobeat": "18293",
    "igdb": "haegemonia-legions-of-iron",
+   "metacritic": "hegemonia-legions-of-iron",
    "mobygames": "7778",
    "pcgamingwiki": "Haegemonia:_Legions_of_Iron",
    "steam": "294770"
@@ -140,6 +141,7 @@
   "ids": {
    "howlongtobeat": "1191",
    "igdb": "bloodrayne-betrayal",
+   "metacritic": "bloodrayne-betrayal",
    "mobygames": "54547",
    "pcgamingwiki": "BloodRayne:_Betrayal",
    "steam": "281220"
@@ -218,6 +220,7 @@
   "enwiki": "Darkstar: The Interactive Movie",
   "ids": {
    "igdb": "darkstar-the-interactive-movie",
+   "metacritic": "darkstar-the-interactive-movie",
    "mobygames": "54954"
   },
   "label_en": "Darkstar: The Interactive Movie",
@@ -248,6 +251,7 @@
    "gog": "game/tempest_4000",
    "howlongtobeat": "59275",
    "igdb": "tempest-4000",
+   "metacritic": "tempest-4000",
    "mobygames": "106216",
    "pcgamingwiki": "Tempest_4000",
    "steam": "688140"
@@ -258,7 +262,8 @@
  {
   "enwiki": "Persona 5: Dancing in Starlight",
   "ids": {
-   "igdb": "persona-5-dancing-in-starlight"
+   "igdb": "persona-5-dancing-in-starlight",
+   "metacritic": "persona-5-dancing-in-starlight"
   },
   "label_en": "Persona 5: Dancing in Starlight",
   "wikidata": "Q41801533"
@@ -268,6 +273,7 @@
    "gog": "game/outcast_second_contact",
    "howlongtobeat": "46465",
    "igdb": "outcast-second-contact",
+   "metacritic": "outcast-second-contact",
    "mobygames": "98196",
    "pcgamingwiki": "Outcast:_Second_Contact",
    "steam": "618970"
@@ -288,6 +294,7 @@
    "gog": "game/shadowhand",
    "howlongtobeat": "52195",
    "igdb": "shadowhand",
+   "metacritic": "shadowhand",
    "mobygames": "99213",
    "pcgamingwiki": "Shadowhand",
    "steam": "427490"
@@ -309,6 +316,7 @@
    "epic": "johnwickhex",
    "howlongtobeat": "67997",
    "igdb": "john-wick-hex",
+   "metacritic": "john-wick-hex",
    "mobygames": "135823",
    "pcgamingwiki": "John_Wick_Hex",
    "steam": "1405790"
@@ -353,6 +361,7 @@
    "epic": "wizards-wand-of-epicosity",
    "howlongtobeat": "84478",
    "igdb": "wizards-wand-of-epicosity",
+   "metacritic": "tobuscus-adventures-wizards",
    "mobygames": "124816",
    "pcgamingwiki": "Tobuscus_Adventures:_Wizards",
    "steam": "772750"
@@ -364,6 +373,7 @@
   "ids": {
    "howlongtobeat": "25842",
    "igdb": "rack-n-ruin",
+   "metacritic": "rack-n-ruin",
    "mobygames": "86796",
    "pcgamingwiki": "Rack_N_Ruin",
    "steam": "378080"
@@ -376,6 +386,7 @@
   "ids": {
    "howlongtobeat": "17212",
    "igdb": "ncaa-march-madness-08",
+   "metacritic": "ncaa-march-madness-08",
    "mobygames": "34274"
   },
   "label_en": "NCAA March Madness '08",
@@ -415,6 +426,7 @@
   "ids": {
    "howlongtobeat": "51135",
    "igdb": "football-manager-2018-touch",
+   "metacritic": "football-manager-touch-2018",
    "mobygames": "107037",
    "pcgamingwiki": "Football_Manager_Touch_2018",
    "steam": "624120"
@@ -457,6 +469,7 @@
   "ids": {
    "howlongtobeat": "109283",
    "igdb": "backfirewall",
+   "metacritic": "backfirewall",
    "mobygames": "198912",
    "pcgamingwiki": "Backfirewall",
    "steam": "1920100"

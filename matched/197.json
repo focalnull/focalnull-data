@@ -3,6 +3,7 @@
   "enwiki": "Rally Trophy",
   "ids": {
    "igdb": "rally-trophy",
+   "metacritic": "rally-trophy",
    "mobygames": "5419",
    "pcgamingwiki": "Rally_Trophy"
   },
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "2495",
    "igdb": "devil-kings",
+   "metacritic": "devil-kings",
    "mobygames": "35705"
   },
   "label_en": "Devil Kings",
@@ -32,6 +34,7 @@
   "ids": {
    "howlongtobeat": "10064",
    "igdb": "the-lord-of-the-rings-the-battle-for-middle-earth-ii",
+   "metacritic": "the-lord-of-the-rings-the-battle-for-middle-earth-2006",
    "mobygames": "23582",
    "pcgamingwiki": "The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II"
   },
@@ -43,6 +46,7 @@
   "ids": {
    "howlongtobeat": "10023",
    "igdb": "the-legend-of-spyro-the-eternal-night",
+   "metacritic": "the-legend-of-spyro-the-eternal-night",
    "mobygames": "33277"
   },
   "label_en": "The Legend of Spyro: The Eternal Night",
@@ -53,6 +57,7 @@
   "ids": {
    "howlongtobeat": "172",
    "igdb": "ace-combat-zero-the-belkan-war",
+   "metacritic": "ace-combat-zero-the-belkan-war",
    "mobygames": "27651",
    "pcgamingwiki": "Ace_Combat_Zero:_The_Belkan_War",
    "steam": "5370600"
@@ -64,6 +69,7 @@
   "enwiki": "Bionic Commando Rearmed 2",
   "ids": {
    "igdb": "bionic-commando-rearmed-2",
+   "metacritic": "bionic-commando-rearmed-2",
    "mobygames": "52965"
   },
   "label_en": "Bionic Commando Rearmed 2",
@@ -74,6 +80,7 @@
   "ids": {
    "howlongtobeat": "13181",
    "igdb": "defend-your-castle",
+   "metacritic": "defend-your-castle",
    "mobygames": "34178",
    "pcgamingwiki": "Defend_Your_Castle",
    "steam": "708710"
@@ -98,6 +105,7 @@
   "ids": {
    "howlongtobeat": "13257",
    "igdb": "nascar-06-total-team-control",
+   "metacritic": "nascar-06-total-team-control",
    "mobygames": "22746"
   },
   "label_en": "NASCAR 06: Total Team Control",
@@ -133,6 +141,7 @@
   "enwiki": "The Mummy (video game)",
   "ids": {
    "igdb": "the-mummy--1",
+   "metacritic": "the-mummy",
    "mobygames": "2989",
    "pcgamingwiki": "The_Mummy"
   },
@@ -143,6 +152,7 @@
   "enwiki": "The Golden Horde (video game)",
   "ids": {
    "igdb": "the-golden-horde",
+   "metacritic": "the-golden-horde",
    "mobygames": "35077"
   },
   "label_en": "The Golden Horde",
@@ -152,6 +162,7 @@
   "enwiki": "Black & Bruised",
   "ids": {
    "igdb": "black-bruised",
+   "metacritic": "black-and-bruised",
    "mobygames": "34760"
   },
   "label_en": "Black & Bruised",
@@ -214,6 +225,7 @@
    "gog": "game/tropico_5",
    "howlongtobeat": "18854",
    "igdb": "tropico-5",
+   "metacritic": "tropico-5",
    "mobygames": "73881",
    "pcgamingwiki": "Tropico_5",
    "steam": "245620"
@@ -226,6 +238,7 @@
   "ids": {
    "howlongtobeat": "34601",
    "igdb": "rememoried",
+   "metacritic": "rememoried",
    "mobygames": "82426",
    "pcgamingwiki": "Rememoried",
    "steam": "368450"
@@ -241,6 +254,7 @@
   "enwiki": "MX Rider",
   "ids": {
    "igdb": "mx-rider",
+   "metacritic": "mx-rider",
    "mobygames": "14073"
   },
   "label_en": "MX Rider",
@@ -263,6 +277,7 @@
   "ids": {
    "howlongtobeat": "40532",
    "igdb": "mantis-burn-racing",
+   "metacritic": "mantis-burn-racing",
    "mobygames": "81122",
    "pcgamingwiki": "Mantis_Burn_Racing",
    "steam": "446100"
@@ -277,6 +292,7 @@
    "gog": "game/curious_expedition_the",
    "howlongtobeat": "25102",
    "igdb": "curious-expedition",
+   "metacritic": "curious-expedition",
    "mobygames": "87897",
    "pcgamingwiki": "Curious_Expedition",
    "steam": "358130"

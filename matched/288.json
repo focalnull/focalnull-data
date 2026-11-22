@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2838",
    "igdb": "dragon-warrior-iii",
+   "metacritic": "dragon-quest-iii-the-seeds-of-salvation",
    "mobygames": "4608"
   },
   "label_en": "Dragon Quest III",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "9155",
    "igdb": "starcraft-ii-wings-of-liberty",
+   "metacritic": "starcraft-ii-wings-of-liberty",
    "mobygames": "47486",
    "pcgamingwiki": "StarCraft_II"
   },
@@ -58,6 +60,7 @@
   "ids": {
    "howlongtobeat": "7651",
    "igdb": "realm-of-the-mad-god",
+   "metacritic": "realm-of-the-mad-god",
    "mobygames": "54846",
    "pcgamingwiki": "Realm_of_the_Mad_God",
    "steam": "200210"
@@ -70,6 +73,7 @@
   "ids": {
    "howlongtobeat": "40",
    "igdb": "disneys-102-dalmatians-puppies-to-the-rescue",
+   "metacritic": "disneys-102-dalmatians-puppies-to-the-rescue",
    "mobygames": "3868",
    "pcgamingwiki": "102_Dalmatians:_Puppies_to_the_Rescue"
   },
@@ -81,6 +85,7 @@
   "ids": {
    "howlongtobeat": "44004",
    "igdb": "virtual-kasparov",
+   "metacritic": "virtual-kasparov",
    "mobygames": "16202"
   },
   "label_en": "Virtual Kasparov",
@@ -105,6 +110,9 @@
   "wikidata": "Q3517288"
  },
  {
+  "ids": {
+   "metacritic": "charazay"
+  },
   "label_en": "Charazay",
   "wikidata": "Q3666288"
  },
@@ -113,6 +121,7 @@
   "ids": {
    "howlongtobeat": "4412",
    "igdb": "hero-academy",
+   "metacritic": "hero-academy",
    "mobygames": "94077",
    "pcgamingwiki": "Hero_Academy",
    "steam": "209270"
@@ -155,6 +164,7 @@
   "ids": {
    "howlongtobeat": "1000",
    "igdb": "bejeweled-2",
+   "metacritic": "bejeweled-2",
    "mobygames": "15808",
    "pcgamingwiki": "Bejeweled_2",
    "steam": "3300"
@@ -181,6 +191,7 @@
   "enwiki": "Fuzion Frenzy",
   "ids": {
    "igdb": "fuzion-frenzy",
+   "metacritic": "fuzion-frenzy",
    "mobygames": "6916",
    "pcgamingwiki": "Fuzion_Frenzy"
   },
@@ -191,6 +202,7 @@
   "enwiki": "Dr. Muto",
   "ids": {
    "igdb": "dr-muto",
+   "metacritic": "dr-muto",
    "mobygames": "10523"
   },
   "label_en": "Dr. Muto",
@@ -252,6 +264,7 @@
   "enwiki": "CounterSpy (video game)",
   "ids": {
    "igdb": "counterspy",
+   "metacritic": "counterspy",
    "mobygames": "75988"
   },
   "label_en": "CounterSpy",
@@ -277,6 +290,7 @@
   "ids": {
    "howlongtobeat": "40780",
    "igdb": "dark-train",
+   "metacritic": "dark-train",
    "mobygames": "114031",
    "pcgamingwiki": "Dark_Train",
    "steam": "532290"
@@ -289,6 +303,7 @@
   "ids": {
    "howlongtobeat": "38030",
    "igdb": "robinson-the-journey",
+   "metacritic": "robinson-the-journey",
    "mobygames": "82511",
    "pcgamingwiki": "Robinson:_The_Journey",
    "steam": "579820"
@@ -301,6 +316,7 @@
   "ids": {
    "howlongtobeat": "47545",
    "igdb": "dream-daddy-a-dad-dating-simulator",
+   "metacritic": "dream-daddy-a-dad-dating-simulator",
    "mobygames": "92982",
    "pcgamingwiki": "Dream_Daddy:_A_Dad_Dating_Simulator",
    "steam": "654880"
@@ -358,6 +374,7 @@
   "ids": {
    "howlongtobeat": "31131",
    "igdb": "garfield-kart",
+   "metacritic": "garfield-kart",
    "mobygames": "82498",
    "pcgamingwiki": "Garfield_Kart",
    "steam": "362930"
@@ -397,6 +414,7 @@
    "gog": "game/hellmut_the_badass_from_hell",
    "howlongtobeat": "54044",
    "igdb": "hellmut-the-badass-from-hell",
+   "metacritic": "hellmut-the-badass-from-hell",
    "mobygames": "126102",
    "pcgamingwiki": "Hellmut:_The_Badass_from_Hell",
    "steam": "705620"
@@ -407,6 +425,7 @@
  {
   "ids": {
    "igdb": "rapala-we-fish",
+   "metacritic": "rapala-we-fish",
    "mobygames": "86070"
   },
   "label_en": "Rapala: We Fish",
@@ -422,6 +441,7 @@
  {
   "ids": {
    "igdb": "maplestory-m",
+   "metacritic": "maplestory-m",
    "mobygames": "119875",
    "steam": "3969080"
   },
@@ -442,6 +462,7 @@
   "ids": {
    "howlongtobeat": "92516",
    "igdb": "hindsight",
+   "metacritic": "hindsight",
    "mobygames": "189097",
    "steam": "1122700"
   },
@@ -515,6 +536,7 @@
    "howlongtobeat": "104063",
    "igdb": "half-dead-3",
    "mobygames": "169562",
+   "pcgamingwiki": "Half_Dead_3",
    "steam": "1520380"
   },
   "label_en": "HALF DEAD 3",
@@ -874,7 +896,8 @@
  },
  {
   "ids": {
-   "igdb": "sleepless-a-midsummer-nights-dream"
+   "igdb": "sleepless-a-midsummer-nights-dream",
+   "metacritic": "sleepless-a-midsummer-nights-dream-"
   },
   "label_en": "SLEEPLESS ~A Midsummer Night's Dream~",
   "wikidata": "Q125925288"
@@ -921,6 +944,7 @@
  {
   "ids": {
    "igdb": "grumpy-reaper",
+   "metacritic": "the-grumpy-reaper",
    "mobygames": "101304"
   },
   "label_en": "Grumpy Reaper",

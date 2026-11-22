@@ -3,6 +3,7 @@
   "enwiki": "Emergency Fire Response",
   "ids": {
    "igdb": "emergency-fire-response",
+   "metacritic": "emergency-fire-response",
    "mobygames": "13258",
    "pcgamingwiki": "Fire_Department"
   },
@@ -65,6 +66,7 @@
   "ids": {
    "howlongtobeat": "623",
    "igdb": "army-of-two-the-40th-day",
+   "metacritic": "army-of-two-the-40th-day",
    "mobygames": "45518"
   },
   "label_en": "Army of Two: The 40th Day",
@@ -130,6 +132,7 @@
   "ids": {
    "howlongtobeat": "668",
    "igdb": "assault-heroes-2",
+   "metacritic": "assault-heroes-2",
    "mobygames": "35136"
   },
   "label_en": "Assault Heroes 2",
@@ -220,6 +223,7 @@
    "gog": "game/mind_path_to_thalamus",
    "howlongtobeat": "20493",
    "igdb": "mind-path-to-thalamus",
+   "metacritic": "mind-path-to-thalamus",
    "mobygames": "70607",
    "pcgamingwiki": "MIND:_Path_to_Thalamus",
    "steam": "296070"
@@ -230,7 +234,8 @@
  {
   "enwiki": "Legend of the Guardians: The Owls of Ga'Hoole (video game)",
   "ids": {
-   "igdb": "legend-of-the-guardians-the-owls-of-ga-hoole"
+   "igdb": "legend-of-the-guardians-the-owls-of-ga-hoole",
+   "metacritic": "legend-of-the-guardians-the-owls-of-gahoole"
   },
   "label_en": "Legend of the Guardians: The Owls of Ga'Hoole",
   "wikidata": "Q26180570"
@@ -251,6 +256,7 @@
   "ids": {
    "howlongtobeat": "58989",
    "igdb": "paladin",
+   "metacritic": "paladin",
    "mobygames": "99186",
    "pcgamingwiki": "Paladin",
    "steam": "548220"
@@ -277,6 +283,7 @@
   "ids": {
    "howlongtobeat": "98233",
    "igdb": "get-in-the-car-loser",
+   "metacritic": "get-in-the-car-loser",
    "mobygames": "172576",
    "pcgamingwiki": "Get_in_the_Car,_Loser!",
    "steam": "938860"
@@ -446,6 +453,7 @@
   "ids": {
    "howlongtobeat": "69508",
    "igdb": "pro-cycling-manager-2019",
+   "metacritic": "pro-cycling-manager-2019",
    "mobygames": "128962",
    "pcgamingwiki": "Pro_Cycling_Manager_2019",
    "steam": "936140"
@@ -554,6 +562,7 @@
   "ids": {
    "howlongtobeat": "74463",
    "igdb": "dawn-of-fear",
+   "metacritic": "dawn-of-fear",
    "mobygames": "141856",
    "steam": "1244860"
   },
@@ -630,7 +639,8 @@
  {
   "ids": {
    "howlongtobeat": "71692",
-   "igdb": "doomsday-racers"
+   "igdb": "doomsday-racers",
+   "pcgamingwiki": "Doomsday_Racers"
   },
   "label_en": "Doomsday Racers",
   "wikidata": "Q123989570"
@@ -648,6 +658,7 @@
   "enwiki": "Planet 51: The Game",
   "ids": {
    "igdb": "planet-51-the-game--1",
+   "metacritic": "planet-51-the-game",
    "mobygames": "43751"
   },
   "label_en": "Planet 51: The Game",
@@ -729,6 +740,7 @@
   "ids": {
    "howlongtobeat": "23478",
    "igdb": "war-the-game",
+   "metacritic": "war-the-game",
    "mobygames": "135904",
    "pcgamingwiki": "War,_the_Game",
    "steam": "322900"
@@ -798,6 +810,7 @@
   "ids": {
    "howlongtobeat": "150875",
    "igdb": "nightmare-kart",
+   "metacritic": "nightmare-kart",
    "mobygames": "225003",
    "pcgamingwiki": "Nightmare_Kart",
    "steam": "2930160"
@@ -829,6 +842,7 @@
   "ids": {
    "howlongtobeat": "140458",
    "igdb": "extra-coin",
+   "metacritic": "extra-coin",
    "steam": "1290980"
   },
   "label_en": "Extra Coin",

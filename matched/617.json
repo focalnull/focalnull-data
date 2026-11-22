@@ -3,6 +3,7 @@
   "enwiki": "Resident Evil Survivor",
   "ids": {
    "igdb": "resident-evil-survivor",
+   "metacritic": "resident-evil-survivor",
    "mobygames": "3710",
    "pcgamingwiki": "Resident_Evil_Survivor"
   },
@@ -15,6 +16,7 @@
    "gog": "game/dust_an_elysian_tail",
    "howlongtobeat": "2981",
    "igdb": "dust-an-elysian-tail",
+   "metacritic": "dust-an-elysian-tail",
    "mobygames": "63733",
    "pcgamingwiki": "Dust:_An_Elysian_Tail",
    "steam": "236090"
@@ -35,6 +37,7 @@
   "enwiki": "Soulcalibur Legends",
   "ids": {
    "igdb": "soulcalibur-legends",
+   "metacritic": "soulcalibur-legends",
    "mobygames": "32576"
   },
   "label_en": "Soulcalibur Legends",
@@ -45,6 +48,7 @@
   "ids": {
    "howlongtobeat": "10101",
    "igdb": "the-movies",
+   "metacritic": "the-movies",
    "mobygames": "20025",
    "pcgamingwiki": "The_Movies",
    "steam": "7900"
@@ -56,6 +60,7 @@
   "enwiki": "Le Mans 24 Hours (video game)",
   "ids": {
    "igdb": "test-drive-le-mans--1",
+   "metacritic": "test-drive-le-mans",
    "mobygames": "37021",
    "pcgamingwiki": "Test_Drive_Le_Mans"
   },
@@ -66,6 +71,7 @@
   "enwiki": "The X-Files: Resist or Serve",
   "ids": {
    "igdb": "x-files-resist-or-serve",
+   "metacritic": "the-x-files-resist-or-serve",
    "mobygames": "13608"
   },
   "label_en": "The X-Files: Resist or Serve",
@@ -130,6 +136,7 @@
   "enwiki": "Laser Squad Nemesis",
   "ids": {
    "igdb": "laser-squad-nemesis",
+   "metacritic": "laser-squad-nemesis",
    "mobygames": "19122",
    "pcgamingwiki": "Laser_Squad:_Nemesis"
   },
@@ -160,7 +167,8 @@
  {
   "enwiki": "Evolution Snowboarding",
   "ids": {
-   "igdb": "evolution-snowboarding"
+   "igdb": "evolution-snowboarding",
+   "metacritic": "evolution-snowboarding"
   },
   "label_en": "Evolution Snowboarding",
   "wikidata": "Q5418617"
@@ -202,6 +210,7 @@
   "ids": {
    "howlongtobeat": "30884",
    "igdb": "boom-beach",
+   "metacritic": "boom-beach",
    "mobygames": "129834"
   },
   "label_en": "Boom Beach",
@@ -257,6 +266,7 @@
    "gog": "game/phantom_doctrine",
    "howlongtobeat": "59773",
    "igdb": "phantom-doctrine--1",
+   "metacritic": "phantom-doctrine",
    "mobygames": "112368",
    "pcgamingwiki": "Phantom_Doctrine",
    "steam": "559100"
@@ -291,6 +301,7 @@
   "ids": {
    "howlongtobeat": "19",
    "igdb": "dot-hack-slash-slash-g-dot-u-vol-1-rebirth",
+   "metacritic": "hackgu-vol-1rebirth",
    "mobygames": "26414"
   },
   "label_en": ".hack//G.U. Vol. 1//Rebirth",
@@ -371,6 +382,7 @@
   "ids": {
    "howlongtobeat": "124019",
    "igdb": "tron-identity",
+   "metacritic": "disney-tron-identity",
    "mobygames": "201691",
    "pcgamingwiki": "Tron:_Identity",
    "steam": "2109430"
@@ -721,6 +733,7 @@
   "ids": {
    "howlongtobeat": "42439",
    "igdb": "smashbox-arena",
+   "metacritic": "smashbox-arena",
    "mobygames": "93220",
    "pcgamingwiki": "Smashbox_Arena",
    "steam": "530350"

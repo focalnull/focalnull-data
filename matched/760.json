@@ -40,6 +40,7 @@
   "enwiki": "Stuntman: Ignition",
   "ids": {
    "igdb": "stuntman-ignition",
+   "metacritic": "stuntman-ignition",
    "mobygames": "30484"
   },
   "label_en": "Stuntman: Ignition",
@@ -50,6 +51,7 @@
   "ids": {
    "howlongtobeat": "7954",
    "igdb": "rollcage",
+   "metacritic": "rollcage",
    "mobygames": "1094",
    "pcgamingwiki": "Rollcage"
   },
@@ -60,6 +62,7 @@
   "enwiki": "LocoRoco Cocoreccho!",
   "ids": {
    "igdb": "locoroco-cocoreccho",
+   "metacritic": "locoroco-cocoreccho",
    "mobygames": "39053"
   },
   "label_en": "LocoRoco Cocoreccho",
@@ -228,6 +231,7 @@
    "gog": "game/risen_3_titan_lords",
    "howlongtobeat": "20633",
    "igdb": "risen-3-titan-lords",
+   "metacritic": "risen-3-titan-lords",
    "mobygames": "67860",
    "pcgamingwiki": "Risen_3:_Titan_Lords",
    "steam": "249230"
@@ -253,6 +257,7 @@
    "gog": "game/dragon_fin_soup",
    "howlongtobeat": "31603",
    "igdb": "dragon-fin-soup",
+   "metacritic": "dragon-fin-soup",
    "mobygames": "82549",
    "pcgamingwiki": "Dragon_Fin_Soup",
    "steam": "299600"
@@ -263,7 +268,8 @@
  {
   "enwiki": "Women's Murder Club: Games of Passion",
   "ids": {
-   "igdb": "james-patterson-womens-murder-club-games-of-passion"
+   "igdb": "james-patterson-womens-murder-club-games-of-passion",
+   "metacritic": "james-patterson-womens-murder-club-games-of-passion"
   },
   "label_en": "Women's Murder Club: Games of Passion",
   "wikidata": "Q17019760"
@@ -272,6 +278,7 @@
   "enwiki": "Pokémon Art Academy",
   "ids": {
    "igdb": "pokemon-art-academy",
+   "metacritic": "pokemon-art-academy",
    "mobygames": "73732"
   },
   "label_en": "Pokémon Art Academy",
@@ -292,6 +299,7 @@
    "gog": "game/the_way",
    "howlongtobeat": "25106",
    "igdb": "the-way",
+   "metacritic": "the-way",
    "mobygames": "79007",
    "pcgamingwiki": "The_Way",
    "steam": "311010"
@@ -332,6 +340,7 @@
   "ids": {
    "howlongtobeat": "65414",
    "igdb": "nfl-gameday-2004",
+   "metacritic": "nfl-gameday-2004",
    "mobygames": "10301"
   },
   "label_en": "NFL GameDay 2004",
@@ -342,6 +351,7 @@
    "gog": "game/guns_gore_cannoli",
    "howlongtobeat": "26160",
    "igdb": "guns-gore-and-cannoli",
+   "metacritic": "guns-gore-cannoli",
    "mobygames": "77005",
    "pcgamingwiki": "Guns,_Gore_&_Cannoli",
    "steam": "322210"
@@ -364,6 +374,7 @@
   "enwiki": "Cut the Rope: Time Travel",
   "ids": {
    "igdb": "cut-the-rope-time-travel",
+   "metacritic": "cut-the-rope-time-travel",
    "mobygames": "72113"
   },
   "label_en": "Cut the Rope: Time Travel",
@@ -464,7 +475,8 @@
   "enwiki": "Just Dance 2024 Edition",
   "ids": {
    "howlongtobeat": "130463",
-   "igdb": "just-dance-2024-edition"
+   "igdb": "just-dance-2024-edition",
+   "metacritic": "just-dance-2024-edition"
   },
   "label_en": "Just Dance 2024 Edition",
   "wikidata": "Q119454760"
@@ -871,7 +883,8 @@
   "enwiki": "Mucha Lucha! Mascaritas of the Lost Code",
   "ids": {
    "howlongtobeat": "74324",
-   "igdb": "mucha-lucha-mascaritas-of-the-lost-code"
+   "igdb": "mucha-lucha-mascaritas-of-the-lost-code",
+   "metacritic": "mucha-lucha-mascaritas-of-the-lost-code"
   },
   "label_en": "Mucha Lucha! Mascaritas of the Lost Code",
   "wikidata": "Q124457760"
@@ -882,6 +895,7 @@
    "epic": "despelote-1cba52",
    "howlongtobeat": "94576",
    "igdb": "despelote",
+   "metacritic": "despelote",
    "mobygames": "240820",
    "pcgamingwiki": "Despelote",
    "steam": "2367820"
@@ -893,6 +907,7 @@
   "ids": {
    "howlongtobeat": "150496",
    "igdb": "deep-beyond",
+   "metacritic": "deep-beyond",
    "mobygames": "224117",
    "steam": "2841720"
   },
@@ -1299,6 +1314,7 @@
   "ids": {
    "epic": "rangers-path-national-park-simulator-b7ea25",
    "igdb": "rangers-path-national-park-simulator",
+   "pcgamingwiki": "Ranger's_Path:_National_Park_Simulator",
    "steam": "2502780"
   },
   "label_en": "Ranger’s Path: National Park Simulator",
@@ -1307,6 +1323,7 @@
  {
   "ids": {
    "igdb": "hentai-nekogirl",
+   "pcgamingwiki": "Hentai_Nekogirl",
    "steam": "1166980"
   },
   "label_en": "Hentai Nekogirl",

@@ -3,6 +3,7 @@
   "enwiki": "SimCity Creator",
   "ids": {
    "igdb": "simcity-creator",
+   "metacritic": "simcity-creator",
    "mobygames": "37699"
   },
   "label_en": "SimCity Creator",
@@ -12,6 +13,7 @@
   "enwiki": "Temple Run",
   "ids": {
    "igdb": "temple-run",
+   "metacritic": "temple-run",
    "mobygames": "54899"
   },
   "label_en": "Temple Run",
@@ -22,6 +24,7 @@
   "ids": {
    "howlongtobeat": "4267",
    "igdb": "halo-wars",
+   "metacritic": "halo-wars",
    "mobygames": "42053",
    "pcgamingwiki": "Halo_Wars:_Definitive_Edition",
    "steam": "459220"
@@ -66,6 +69,7 @@
   "ids": {
    "howlongtobeat": "5610",
    "igdb": "marathon-2-durandal",
+   "metacritic": "marathon-2-durandal",
    "mobygames": "906",
    "pcgamingwiki": "Marathon_2:_Durandal",
    "steam": "2398490"
@@ -77,6 +81,7 @@
   "enwiki": "The House of the Dead 4",
   "ids": {
    "igdb": "the-house-of-the-dead-4",
+   "metacritic": "the-house-of-the-dead-4",
    "mobygames": "68725"
   },
   "label_en": "The House of the Dead 4",
@@ -87,6 +92,7 @@
   "ids": {
    "howlongtobeat": "359",
    "igdb": "alien-resurrection",
+   "metacritic": "alien-resurrection",
    "mobygames": "4119"
   },
   "label_en": "Alien Resurrection",
@@ -97,6 +103,7 @@
   "ids": {
    "howlongtobeat": "615",
    "igdb": "army-men-sarge-s-heroes",
+   "metacritic": "army-men-sarges-heroes",
    "mobygames": "4187",
    "pcgamingwiki": "Army_Men:_Sarge's_Heroes"
   },
@@ -109,6 +116,7 @@
    "gog": "game/hotline_miami",
    "howlongtobeat": "4530",
    "igdb": "hotline-miami",
+   "metacritic": "hotline-miami",
    "mobygames": "58347",
    "pcgamingwiki": "Hotline_Miami",
    "steam": "219150"
@@ -120,6 +128,7 @@
   "enwiki": "Small Arms (video game)",
   "ids": {
    "igdb": "small-arms",
+   "metacritic": "small-arms",
    "mobygames": "25819"
   },
   "label_en": "Small Arms",
@@ -156,6 +165,7 @@
   "ids": {
    "howlongtobeat": "1690",
    "igdb": "choplifter-hd",
+   "metacritic": "choplifter-hd",
    "mobygames": "55931",
    "pcgamingwiki": "Choplifter_HD",
    "steam": "202070"
@@ -172,6 +182,7 @@
   "ids": {
    "howlongtobeat": "15734",
    "igdb": "echoshift",
+   "metacritic": "echoshift",
    "mobygames": "46246"
   },
   "label_en": "Echoshift",
@@ -195,6 +206,7 @@
   "ids": {
    "howlongtobeat": "10414",
    "igdb": "tokyo-beat-down",
+   "metacritic": "tokyo-beat-down",
    "mobygames": "90453"
   },
   "label_en": "Tokyo Beat Down",
@@ -205,6 +217,7 @@
   "ids": {
    "howlongtobeat": "24242",
    "igdb": "worlds-scariest-police-chases",
+   "metacritic": "worlds-scariest-police-chases",
    "mobygames": "4408"
   },
   "label_en": "World's Scariest Police Chases",
@@ -224,6 +237,7 @@
    "epic": "the-crew",
    "howlongtobeat": "19268",
    "igdb": "the-crew",
+   "metacritic": "the-crew",
    "mobygames": "70189",
    "pcgamingwiki": "The_Crew",
    "steam": "241560"
@@ -281,6 +295,7 @@
  {
   "ids": {
    "igdb": "grom-terror-in-tibet",
+   "metacritic": "grom-terror-in-tibet",
    "mobygames": "8956"
   },
   "label_en": "Grom",
@@ -311,6 +326,7 @@
    "gog": "game/warhammer_40000_sanctus_reach",
    "howlongtobeat": "44591",
    "igdb": "warhammer-40000-sanctus-reach",
+   "metacritic": "warhammer-40000-sanctus-reach",
    "mobygames": "82725",
    "pcgamingwiki": "Warhammer_40,000:_Sanctus_Reach",
    "steam": "502370"
@@ -368,6 +384,7 @@
    "epic": "the-vale-shadow-of-the-crown",
    "howlongtobeat": "87891",
    "igdb": "the-vale-shadow-of-the-crown",
+   "metacritic": "the-vale-shadow-of-the-crown",
    "mobygames": "169586",
    "pcgamingwiki": "The_Vale:_Shadow_of_the_Crown",
    "steam": "989790"
@@ -435,6 +452,7 @@
   "ids": {
    "howlongtobeat": "85710",
    "igdb": "swordsman-vr",
+   "metacritic": "swordsman-vr",
    "mobygames": "150908",
    "steam": "1206480"
   },
@@ -443,6 +461,9 @@
  },
  {
   "enwiki": "Calculator (Nintendo Switch)",
+  "ids": {
+   "metacritic": "calculator"
+  },
   "label_en": "Calculator",
   "wikidata": "Q116452836"
  },
@@ -857,6 +878,7 @@
   "ids": {
    "howlongtobeat": "151126",
    "igdb": "yunyun-syndrome-rhythm-psychosis",
+   "metacritic": "yunyun-syndrome-rhythm-psychosis",
    "mobygames": "251176",
    "steam": "2914150"
   },

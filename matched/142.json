@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "912",
    "igdb": "battle-for-wesnoth",
+   "metacritic": "battle-for-wesnoth",
    "mobygames": "21895",
    "pcgamingwiki": "The_Battle_for_Wesnoth",
    "steam": "599390"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "2927",
    "igdb": "duke-nukem-land-of-the-babes",
+   "metacritic": "duke-nukem-land-of-the-babes",
    "mobygames": "3689"
   },
   "label_en": "Duke Nukem: Land of the Babes",
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "1704",
    "igdb": "chrono-cross",
+   "metacritic": "chrono-cross",
    "mobygames": "3810"
   },
   "label_en": "Chrono Cross",
@@ -36,6 +39,7 @@
   "ids": {
    "howlongtobeat": "9543",
    "igdb": "syphon-filter-logans-shadow",
+   "metacritic": "syphon-filter-logans-shadow",
    "mobygames": "32355"
   },
   "label_en": "Syphon Filter: Logan's Shadow",
@@ -111,6 +115,7 @@
  {
   "ids": {
    "igdb": "naruto-clash-of-ninja-revolution-2",
+   "metacritic": "naruto-clash-of-ninja-revolution-2",
    "mobygames": "83040"
   },
   "label_en": "Naruto: Clash of Ninja Revolution 2",
@@ -215,6 +220,7 @@
   "enwiki": "Midway's Greatest Arcade Hits",
   "ids": {
    "igdb": "midways-greatest-arcade-hits-volume-1",
+   "metacritic": "midways-greatest-arcade-hits",
    "mobygames": "13451"
   },
   "label_en": "Midway's Greatest Arcade Hits",
@@ -279,6 +285,7 @@
    "gog": "game/fract_osc",
    "howlongtobeat": "18009",
    "igdb": "fract-osc",
+   "metacritic": "fract-osc",
    "mobygames": "65523",
    "pcgamingwiki": "Fract_OSC",
    "steam": "243220"
@@ -324,6 +331,7 @@
    "epic": "blade-strangers",
    "howlongtobeat": "60268",
    "igdb": "blade-strangers",
+   "metacritic": "blade-strangers",
    "mobygames": "112639",
    "pcgamingwiki": "Blade_Strangers",
    "steam": "565170"
@@ -355,6 +363,7 @@
    "epic": "trackmania",
    "howlongtobeat": "76075",
    "igdb": "trackmania--2",
+   "metacritic": "trackmania",
    "mobygames": "147673",
    "pcgamingwiki": "Trackmania_(2020)",
    "steam": "2225070"
@@ -369,6 +378,7 @@
    "gog": "game/graven",
    "howlongtobeat": "85707",
    "igdb": "graven",
+   "metacritic": "graven",
    "mobygames": "165478",
    "pcgamingwiki": "Graven",
    "steam": "1371690"
@@ -404,6 +414,7 @@
    "gog": "game/coromon",
    "howlongtobeat": "89679",
    "igdb": "coromon",
+   "metacritic": "coromon",
    "mobygames": "182239",
    "pcgamingwiki": "Coromon",
    "steam": "1218210"
@@ -429,6 +440,7 @@
   "ids": {
    "howlongtobeat": "11778",
    "igdb": "bugs-vs-tanks",
+   "metacritic": "bugs-vs-tanks",
    "mobygames": "95042"
   },
   "label_en": "Bugs vs. Tanks!",
@@ -498,6 +510,7 @@
   "enwiki": "Everybody 1-2-Switch!",
   "ids": {
    "igdb": "everybody-1-2-switch",
+   "metacritic": "everybody-1-2-switch",
    "mobygames": "205183"
   },
   "label_en": "Everybody 1-2-Switch!",
@@ -508,6 +521,7 @@
    "gog": "game/hyperdimension_neptunia_rebirth2_sisters_generation",
    "howlongtobeat": "23692",
    "igdb": "hyperdimension-neptunia-re-birth2-sisters-generation",
+   "metacritic": "hyperdimension-neptunia-rebirth2-sisters",
    "mobygames": "83245",
    "pcgamingwiki": "Hyperdimension_Neptunia_Re;Birth_2:_Sisters_Generation",
    "steam": "351710"
@@ -832,6 +846,7 @@
   "ids": {
    "howlongtobeat": "131205",
    "igdb": "death-of-a-wish",
+   "metacritic": "death-of-a-wish",
    "mobygames": "219240",
    "pcgamingwiki": "Death_of_a_Wish",
    "steam": "2302080"
@@ -1049,6 +1064,7 @@
   "ids": {
    "howlongtobeat": "145804",
    "igdb": "supermarket-simulator--3",
+   "metacritic": "supermarket-simulator",
    "mobygames": "219508",
    "pcgamingwiki": "Supermarket_Simulator",
    "steam": "2670630"

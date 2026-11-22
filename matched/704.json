@@ -5,6 +5,7 @@
    "gog": "game/arcanum_of_steamworks_and_magick_obscura",
    "howlongtobeat": "557",
    "igdb": "arcanum-of-steamworks-and-magick-obscura",
+   "metacritic": "arcanum-of-steamworks-and-magick-obscura",
    "mobygames": "4498",
    "pcgamingwiki": "Arcanum:_Of_Steamworks_&_Magick_Obscura",
    "steam": "500810"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "595",
    "igdb": "armored-core-2",
+   "metacritic": "armored-core-2",
    "mobygames": "6996"
   },
   "label_en": "Armored Core 2",
@@ -87,6 +89,7 @@
   "ids": {
    "howlongtobeat": "60047",
    "igdb": "sega-bass-fishing-2",
+   "metacritic": "sega-bass-fishing-2",
    "mobygames": "39753"
   },
   "label_en": "Sega Bass Fishing 2",
@@ -118,6 +121,7 @@
   "ids": {
    "howlongtobeat": "14671",
    "igdb": "nancy-drew-legend-of-the-crystal-skull",
+   "metacritic": "nancy-drew-legend-of-the-crystal-skull",
    "mobygames": "31105",
    "pcgamingwiki": "Nancy_Drew:_Legend_of_the_Crystal_Skull",
    "steam": "31860"
@@ -199,6 +203,7 @@
   "enwiki": "Wreckless: The Yakuza Missions",
   "ids": {
    "igdb": "wreckless-the-yakuza-missions",
+   "metacritic": "wreckless-the-yakuza-missions",
    "mobygames": "5767"
   },
   "label_en": "Wreckless: The Yakuza Missions",
@@ -223,6 +228,7 @@
   "ids": {
    "howlongtobeat": "13288",
    "igdb": "teenage-mutant-ninja-turtles-out-of-the-shadows",
+   "metacritic": "teenage-mutant-ninja-turtles-out-of-the-shadows",
    "mobygames": "61893",
    "pcgamingwiki": "Teenage_Mutant_Ninja_Turtles:_Out_of_the_Shadows",
    "steam": "228560"
@@ -234,6 +240,7 @@
   "enwiki": "MechWarrior: Tactical Command",
   "ids": {
    "igdb": "mechwarrior-tactical-command",
+   "metacritic": "mechwarrior-tactical-command",
    "mobygames": "93745"
   },
   "label_en": "MechWarrior: Tactical Command",
@@ -264,6 +271,7 @@
    "gog": "game/gods_will_be_watching",
    "howlongtobeat": "15207",
    "igdb": "gods-will-be-watching",
+   "metacritic": "gods-will-be-watching",
    "mobygames": "70032",
    "pcgamingwiki": "Gods_Will_Be_Watching",
    "steam": "274290"
@@ -314,6 +322,7 @@
   "ids": {
    "howlongtobeat": "62194",
    "igdb": "senran-kagura-reflexions",
+   "metacritic": "senran-kagura-reflexions",
    "mobygames": "112742",
    "pcgamingwiki": "Senran_Kagura_Reflexions",
    "steam": "981770"
@@ -328,6 +337,7 @@
    "gog": "game/darq",
    "howlongtobeat": "69726",
    "igdb": "darq",
+   "metacritic": "darq",
    "mobygames": "132979",
    "pcgamingwiki": "DARQ",
    "steam": "433550"
@@ -339,6 +349,7 @@
   "ids": {
    "howlongtobeat": "50616",
    "igdb": "serious-sam-3-vr-bfe",
+   "metacritic": "serious-sam-3-vr-bfe",
    "mobygames": "98077",
    "pcgamingwiki": "Serious_Sam_3_VR:_BFE",
    "steam": "567670"
@@ -377,6 +388,7 @@
   "ids": {
    "howlongtobeat": "41977",
    "igdb": "i-want-to-be-human",
+   "metacritic": "i-want-to-be-human",
    "mobygames": "90923",
    "pcgamingwiki": "I_Want_To_Be_Human",
    "steam": "270410"
@@ -424,6 +436,7 @@
   "ids": {
    "howlongtobeat": "18718",
    "igdb": "gods-lands-of-infinity",
+   "metacritic": "gods-lands-of-infinity",
    "mobygames": "29825"
   },
   "label_en": "Gods: Lands of Infinity",
@@ -434,6 +447,7 @@
   "ids": {
    "howlongtobeat": "58136",
    "igdb": "crisis-on-the-planet-of-the-apes-vr",
+   "metacritic": "crisis-on-the-planet-of-the-apes-vr",
    "mobygames": "106475",
    "pcgamingwiki": "Crisis_on_the_Planet_of_the_Apes",
    "steam": "713420"
@@ -490,6 +504,7 @@
   "ids": {
    "howlongtobeat": "49523",
    "igdb": "trivia-vault-mini-mixed-trivia-2",
+   "metacritic": "trivia-vault-mini-mixed-trivia-2",
    "pcgamingwiki": "Trivia_Vault:_Mini_Mixed_Trivia_2",
    "steam": "706330"
   },
@@ -540,6 +555,7 @@
   "ids": {
    "howlongtobeat": "31013",
    "igdb": "pikmin-4",
+   "metacritic": "pikmin-4",
    "mobygames": "206244"
   },
   "label_en": "Pikmin 4",
@@ -825,6 +841,7 @@
    "epic": "doomsday-paradise-e7b25e",
    "howlongtobeat": "131662",
    "igdb": "doomsday-paradise",
+   "metacritic": "doomsday-paradise",
    "mobygames": "211558",
    "steam": "1603420"
   },
@@ -961,6 +978,7 @@
   "ids": {
    "howlongtobeat": "74978",
    "igdb": "princess-and-conquest",
+   "metacritic": "princess-and-conquest",
    "mobygames": "153744",
    "pcgamingwiki": "Princess_&_Conquest",
    "steam": "1083880"
@@ -970,7 +988,8 @@
  },
  {
   "ids": {
-   "epic": "strayshot-2ad9a8"
+   "epic": "strayshot-2ad9a8",
+   "metacritic": "strayshot"
   },
   "label_en": "StrayShot",
   "wikidata": "Q126085704"

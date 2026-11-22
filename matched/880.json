@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "1809",
    "igdb": "colony-wars",
+   "metacritic": "colony-wars",
    "mobygames": "4265"
   },
   "label_en": "Colony Wars",
@@ -53,6 +54,7 @@
   "ids": {
    "howlongtobeat": "11900",
    "igdb": "mortal-kombat",
+   "metacritic": "mortal-kombat-2011",
    "mobygames": "51243"
   },
   "label_en": "Mortal Kombat",
@@ -92,7 +94,8 @@
   "enwiki": "A Good Librarian Like a Good Shepherd",
   "ids": {
    "howlongtobeat": "101654",
-   "igdb": "a-good-librarian-like-a-good-shepherd"
+   "igdb": "a-good-librarian-like-a-good-shepherd",
+   "metacritic": "daito-shokan-no-hitsujikai"
   },
   "label_en": "A Good Librarian Like a Good Shepherd",
   "wikidata": "Q2756880"
@@ -163,6 +166,7 @@
   "enwiki": "Game Party Champions",
   "ids": {
    "igdb": "game-party-champions",
+   "metacritic": "game-party-champions",
    "mobygames": "79798"
   },
   "label_en": "Game Party Champions",
@@ -271,6 +275,7 @@
   "ids": {
    "howlongtobeat": "21285",
    "igdb": "sonic-boom-rise-of-lyric",
+   "metacritic": "sonic-boom-rise-of-lyric",
    "mobygames": "74424"
   },
   "label_en": "Sonic Boom: Rise of Lyric",
@@ -289,6 +294,7 @@
   "ids": {
    "howlongtobeat": "53770",
    "igdb": "soulworker",
+   "metacritic": "soulworker",
    "mobygames": "104256",
    "pcgamingwiki": "SoulWorker",
    "steam": "630100"
@@ -315,6 +321,7 @@
  {
   "ids": {
    "igdb": "pathogen",
+   "metacritic": "pathogen",
    "mobygames": "67977"
   },
   "label_en": "Pathogen",
@@ -324,6 +331,7 @@
   "ids": {
    "howlongtobeat": "8312",
    "igdb": "serious-sam-hd-the-first-encounter",
+   "metacritic": "serious-sam-hd-the-first-encounter",
    "mobygames": "44439",
    "pcgamingwiki": "Serious_Sam_HD:_The_First_Encounter",
    "steam": "41000"
@@ -336,6 +344,7 @@
    "gog": "game/moons_of_madness",
    "howlongtobeat": "51110",
    "igdb": "moons-of-madness",
+   "metacritic": "moons-of-madness",
    "mobygames": "136379",
    "pcgamingwiki": "Moons_of_Madness",
    "steam": "1012840"
@@ -353,6 +362,7 @@
  },
  {
   "ids": {
+   "metacritic": "world-end-economica-complete",
    "mobygames": "129099"
   },
   "label_en": "World End Economica",
@@ -373,6 +383,7 @@
   "ids": {
    "howlongtobeat": "38704",
    "igdb": "the-princess-and-the-frog",
+   "metacritic": "the-princess-and-the-frog",
    "mobygames": "81403",
    "pcgamingwiki": "The_Princess_and_the_Frog",
    "steam": "318740"
@@ -386,6 +397,7 @@
    "gog": "game/the_wild_at_heart",
    "howlongtobeat": "82662",
    "igdb": "the-wild-at-heart",
+   "metacritic": "the-wild-at-heart",
    "mobygames": "165160",
    "pcgamingwiki": "The_Wild_at_Heart",
    "steam": "1093290"
@@ -823,6 +835,7 @@
  {
   "ids": {
    "igdb": "death-from-above",
+   "metacritic": "death-from-above",
    "mobygames": "41121",
    "steam": "2300160"
   },
@@ -842,6 +855,7 @@
    "epic": "bloomtown-a-different-story-9f40bb",
    "howlongtobeat": "129988",
    "igdb": "bloomtown-a-different-story",
+   "metacritic": "bloomtown-a-different-story",
    "mobygames": "231519",
    "steam": "2445990"
   },
@@ -971,6 +985,7 @@
    "epic": "sonic-x-shadow-generations",
    "howlongtobeat": "145004",
    "igdb": "sonic-x-shadow-generations",
+   "metacritic": "sonic-x-shadow-generations",
    "mobygames": "232366",
    "pcgamingwiki": "Sonic_X_Shadow_Generations",
    "steam": "2513280"
@@ -1032,6 +1047,7 @@
   "ids": {
    "howlongtobeat": "24320",
    "igdb": "disney-sports-motocross",
+   "metacritic": "disney-sports-motocross",
    "mobygames": "192055"
   },
   "label_en": "Disney Sports Motocross",

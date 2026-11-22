@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "4048",
    "igdb": "gran-turismo-5",
+   "metacritic": "gran-turismo-5",
    "mobygames": "49338"
   },
   "label_en": "Gran Turismo 5",
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "6434",
    "igdb": "nba-2k9",
+   "metacritic": "nba-2k9",
    "mobygames": "37550",
    "pcgamingwiki": "NBA_2K9",
    "steam": "7740"
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "34008",
    "igdb": "the-last-eichhof",
+   "metacritic": "the-last-eichhof",
    "mobygames": "925"
   },
   "label_en": "The Last Eichhof",
@@ -50,6 +53,7 @@
   "ids": {
    "howlongtobeat": "12981",
    "igdb": "chicken-run",
+   "metacritic": "chicken-run",
    "mobygames": "3108",
    "pcgamingwiki": "Chicken_Run"
   },
@@ -85,6 +89,7 @@
   "enwiki": "NBA 07",
   "ids": {
    "igdb": "nba-07",
+   "metacritic": "nba-07",
    "mobygames": "26467"
   },
   "label_en": "NBA 07",
@@ -94,6 +99,7 @@
   "enwiki": "Dave Mirra BMX Challenge",
   "ids": {
    "igdb": "dave-mirra-bmx-challenge",
+   "metacritic": "dave-mirra-bmx-challenge",
    "mobygames": "85272"
   },
   "label_en": "Dave Mirra BMX Challenge",
@@ -104,6 +110,7 @@
   "ids": {
    "howlongtobeat": "14282",
    "igdb": "destruction-derby-arenas",
+   "metacritic": "destruction-derby-arenas",
    "mobygames": "14260"
   },
   "label_en": "Destruction Derby Arenas",
@@ -122,6 +129,7 @@
   "ids": {
    "howlongtobeat": "5100",
    "igdb": "knights-contract",
+   "metacritic": "knights-contract",
    "mobygames": "58172"
   },
   "label_en": "Knights Contract",
@@ -156,6 +164,7 @@
   "enwiki": "The Grim Adventures of Billy & Mandy (video game)",
   "ids": {
    "igdb": "the-grim-adventures-of-billy-mandy",
+   "metacritic": "the-grim-adventures-of-billy-mandy",
    "mobygames": "81755"
   },
   "label_en": "The Grim Adventures of Billy & Mandy",
@@ -184,6 +193,7 @@
   "ids": {
    "howlongtobeat": "26361",
    "igdb": "super-mega-baseball",
+   "metacritic": "super-mega-baseball",
    "mobygames": "84747",
    "pcgamingwiki": "Super_Mega_Baseball:_Extra_Innings",
    "steam": "314070"
@@ -214,6 +224,7 @@
   "ids": {
    "howlongtobeat": "46764",
    "igdb": "sentience-the-androids-tale",
+   "metacritic": "sentience-the-androids-tale",
    "mobygames": "123360",
    "pcgamingwiki": "Sentience:_The_Android's_Tale",
    "steam": "635850"
@@ -243,6 +254,7 @@
    "gog": "game/gods_will_fall",
    "howlongtobeat": "87797",
    "igdb": "gods-will-fall",
+   "metacritic": "gods-will-fall",
    "mobygames": "157900",
    "pcgamingwiki": "Gods_Will_Fall",
    "steam": "1243690"
@@ -519,6 +531,7 @@
   "ids": {
    "howlongtobeat": "106500",
    "igdb": "dustoff-z",
+   "metacritic": "dustoff-z",
    "mobygames": "151590",
    "steam": "1277840"
   },
@@ -661,6 +674,7 @@
   "ids": {
    "howlongtobeat": "2010",
    "igdb": "creavures",
+   "metacritic": "creavures",
    "mobygames": "50774",
    "pcgamingwiki": "CreaVures",
    "steam": "49810"
@@ -744,6 +758,7 @@
   "ids": {
    "howlongtobeat": "10687",
    "igdb": "tryst",
+   "metacritic": "tryst",
    "pcgamingwiki": "Tryst",
    "steam": "208460"
   },
@@ -818,6 +833,9 @@
   "wikidata": "Q130280395"
  },
  {
+  "ids": {
+   "metacritic": "ticket-to-ride-europe-pocket"
+  },
   "label_en": "Ticket to Ride Europe Pocket",
   "wikidata": "Q131677395"
  },
@@ -1159,6 +1177,7 @@
  {
   "ids": {
    "igdb": "area-51-defence",
+   "pcgamingwiki": "AREA_51_-_DEFENCE",
    "steam": "1138320"
   },
   "label_en": "Area 51: Defence",

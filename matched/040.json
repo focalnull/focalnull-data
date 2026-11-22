@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5739",
    "igdb": "max-payne-3",
+   "metacritic": "max-payne-3",
    "mobygames": "55986",
    "pcgamingwiki": "Max_Payne_3",
    "steam": "204100"
@@ -15,6 +16,7 @@
   "enwiki": "Black (video game)",
   "ids": {
    "igdb": "black",
+   "metacritic": "black",
    "mobygames": "21453"
   },
   "label_en": "Black",
@@ -73,6 +75,7 @@
  {
   "ids": {
    "igdb": "knockout-kings-2003",
+   "metacritic": "knockout-kings-2003",
    "mobygames": "11738"
   },
   "label_en": "Knockout Kings 2003",
@@ -81,6 +84,7 @@
  {
   "ids": {
    "igdb": "imagine-master-chef",
+   "metacritic": "imagine-master-chef",
    "mobygames": "33167"
   },
   "label_en": "Imagine Happy Cooking",
@@ -195,7 +199,8 @@
  {
   "enwiki": "The Three Musketeers: One for All!",
   "ids": {
-   "igdb": "the-three-musketeers-one-for-all"
+   "igdb": "the-three-musketeers-one-for-all",
+   "metacritic": "the-three-musketeers-one-for-all"
   },
   "label_en": "The Three Musketeers: One for all!",
   "wikidata": "Q7769040"
@@ -235,6 +240,7 @@
   "ids": {
    "howlongtobeat": "19848",
    "igdb": "three-fourths-home",
+   "metacritic": "three-fourths-home",
    "mobygames": "85849",
    "pcgamingwiki": "Three_Fourths_Home:_Extended_Edition",
    "steam": "344500"
@@ -259,6 +265,7 @@
    "gog": "game/tormentum_dark_sorrow",
    "howlongtobeat": "24536",
    "igdb": "tormentum-dark-sorrow",
+   "metacritic": "tormentum-dark-sorrow",
    "mobygames": "75064",
    "pcgamingwiki": "Tormentum:_Dark_Sorrow",
    "steam": "335000"
@@ -271,6 +278,7 @@
   "ids": {
    "howlongtobeat": "133013",
    "igdb": "pony-friends-2",
+   "metacritic": "pony-friends-2",
    "mobygames": "60542"
   },
   "label_en": "Pony Friends 2",
@@ -293,6 +301,7 @@
   "enwiki": "Just Dance 2018",
   "ids": {
    "igdb": "just-dance-2018",
+   "metacritic": "just-dance-2018",
    "mobygames": "97459"
   },
   "label_en": "Just Dance 2018",
@@ -311,6 +320,7 @@
   "enwiki": "Eye of the Beholder (2002 video game)",
   "ids": {
    "igdb": "dungeons-and-dragons-eye-of-the-beholder",
+   "metacritic": "dungeons-and-dragons-eye-of-the-beholder",
    "mobygames": "8124"
   },
   "label_en": "Dungeons & Dragons: Eye Of The Beholder",
@@ -345,6 +355,7 @@
    "gog": "game/nukitashi",
    "howlongtobeat": "130628",
    "igdb": "nukitashi",
+   "metacritic": "nukitashi",
    "mobygames": "204799",
    "pcgamingwiki": "Nukitashi",
    "steam": "2399220"
@@ -358,6 +369,7 @@
    "gog": "game/giana_sisters_dream_runners",
    "howlongtobeat": "33242",
    "igdb": "giana-sisters-dream-runners",
+   "metacritic": "giana-sisters-dream-runners",
    "mobygames": "86849",
    "pcgamingwiki": "Giana_Sisters:_Dream_Runners",
    "steam": "352900"
@@ -377,6 +389,7 @@
   "enwiki": "Destruction AllStars",
   "ids": {
    "igdb": "destruction-allstars",
+   "metacritic": "destruction-allstars",
    "mobygames": "158459"
   },
   "label_en": "Destruction AllStars",
@@ -385,6 +398,7 @@
  {
   "ids": {
    "igdb": "pikmin-3-deluxe",
+   "metacritic": "pikmin-3-deluxe",
    "mobygames": "152363"
   },
   "label_en": "Pikmin 3 Deluxe",
@@ -404,6 +418,7 @@
    "gog": "game/elex_ii",
    "howlongtobeat": "97740",
    "igdb": "elex-ii",
+   "metacritic": "elex-ii",
    "mobygames": "180611",
    "pcgamingwiki": "ELEX_II",
    "steam": "900040"
@@ -417,6 +432,7 @@
    "gog": "game/star_ocean_the_divine_force",
    "howlongtobeat": "99491",
    "igdb": "star-ocean-the-divine-force",
+   "metacritic": "star-ocean-the-divine-force",
    "mobygames": "193345",
    "pcgamingwiki": "Star_Ocean:_The_Divine_Force",
    "steam": "1776380"
@@ -428,6 +444,7 @@
   "enwiki": "Nintendo Switch Sports",
   "ids": {
    "igdb": "nintendo-switch-sports",
+   "metacritic": "nintendo-switch-sports",
    "mobygames": "186257"
   },
   "label_en": "Nintendo Switch Sports",
@@ -499,6 +516,7 @@
    "gog": "game/the_last_worker",
    "howlongtobeat": "102970",
    "igdb": "the-last-worker",
+   "metacritic": "the-last-worker",
    "mobygames": "201116",
    "pcgamingwiki": "The_Last_Worker",
    "steam": "1579280"
@@ -510,6 +528,7 @@
   "ids": {
    "howlongtobeat": "82173",
    "igdb": "wonder-boy-asha-in-monster-world",
+   "metacritic": "wonder-boy-asha-in-monster-world",
    "mobygames": "165610",
    "pcgamingwiki": "Wonder_Boy:_Asha_in_Monster_World",
    "steam": "1420080"
@@ -663,6 +682,7 @@
    "epic": "operation-wolf-returns-first-mission-vr-446fba",
    "howlongtobeat": "138765",
    "igdb": "operation-wolf-returns-first-mission",
+   "metacritic": "operation-wolf-returns-first-mission-vr",
    "mobygames": "206899",
    "steam": "1852650"
   },
@@ -899,6 +919,7 @@
    "gog": "game/winter_memories",
    "howlongtobeat": "143592",
    "igdb": "winter-memories--1",
+   "metacritic": "winter-memories",
    "mobygames": "215145",
    "pcgamingwiki": "Winter_Memories",
    "steam": "2495450"
@@ -1393,6 +1414,7 @@
    "epic": "lords-of-the-fallen-ii-58d924",
    "howlongtobeat": "89074",
    "igdb": "lords-of-the-fallen-ii",
+   "metacritic": "lords-of-the-fallen-ii",
    "mobygames": "248470",
    "pcgamingwiki": "Lords_of_the_Fallen_II",
    "steam": "4767480"
@@ -1419,6 +1441,7 @@
  {
   "ids": {
    "igdb": "escape-from-playtime",
+   "pcgamingwiki": "Escape_from_Playtime",
    "steam": "2087540"
   },
   "label_en": "Escape from Playtime",

@@ -24,6 +24,7 @@
   "ids": {
    "howlongtobeat": "1958",
    "igdb": "counter-strike-source",
+   "metacritic": "counter-strike-source",
    "mobygames": "15518",
    "pcgamingwiki": "Counter-Strike:_Source",
    "steam": "240"
@@ -36,6 +37,7 @@
   "ids": {
    "howlongtobeat": "29",
    "igdb": "007-racing",
+   "metacritic": "007-racing",
    "mobygames": "3531"
   },
   "label_en": "007 Racing",
@@ -56,6 +58,7 @@
   "ids": {
    "howlongtobeat": "5761",
    "igdb": "mechcommander",
+   "metacritic": "mechcommander",
    "mobygames": "334",
    "pcgamingwiki": "MechCommander"
   },
@@ -75,6 +78,7 @@
   "enwiki": "Mega Man 10",
   "ids": {
    "igdb": "mega-man-10",
+   "metacritic": "mega-man-10",
    "mobygames": "45523"
   },
   "label_en": "Mega Man 10",
@@ -85,6 +89,7 @@
   "ids": {
    "howlongtobeat": "23977",
    "igdb": "skate-it",
+   "metacritic": "skate-it",
    "mobygames": "38018"
   },
   "label_en": "Skate It",
@@ -127,6 +132,7 @@
  },
  {
   "ids": {
+   "metacritic": "rock-band-track-pack-volume-1",
    "mobygames": "35213"
   },
   "label_en": "Rock Band: Track Pack - Volume 1",
@@ -154,6 +160,7 @@
   "enwiki": "Kinect Nat Geo TV",
   "ids": {
    "igdb": "kinect-nat-geo-tv",
+   "metacritic": "kinect-nat-geo-tv",
    "mobygames": "63545"
   },
   "label_en": "Kinect Nat Geo TV",
@@ -172,6 +179,7 @@
   "enwiki": "NBA Hoopz",
   "ids": {
    "igdb": "nba-hoopz",
+   "metacritic": "nba-hoopz",
    "mobygames": "3795"
   },
   "label_en": "NBA Hoopz",
@@ -183,6 +191,7 @@
    "epic": "steel-fury-kharkov-1942-cdfbd6",
    "howlongtobeat": "106523",
    "igdb": "steel-fury-kharkov-1942",
+   "metacritic": "steel-fury-kharkov-1942",
    "mobygames": "46386",
    "pcgamingwiki": "Steel_Fury:_Kharkov_1942",
    "steam": "1351450"
@@ -249,6 +258,7 @@
   "ids": {
    "howlongtobeat": "19926",
    "igdb": "rise-of-venice",
+   "metacritic": "rise-of-venice",
    "mobygames": "62393",
    "pcgamingwiki": "Rise_of_Venice",
    "steam": "227020"
@@ -290,6 +300,7 @@
   "ids": {
    "howlongtobeat": "46453",
    "igdb": "fire-emblem-three-houses",
+   "metacritic": "fire-emblem-three-houses",
    "mobygames": "111743"
   },
   "label_en": "Fire Emblem: Three Houses",
@@ -299,6 +310,7 @@
   "ids": {
    "howlongtobeat": "19012",
    "igdb": "kill-the-bad-guy",
+   "metacritic": "kill-the-bad-guy",
    "mobygames": "87591",
    "pcgamingwiki": "Kill_the_Bad_Guy",
    "steam": "293940"
@@ -343,6 +355,7 @@
    "gog": "game/imagine_earth",
    "howlongtobeat": "23694",
    "igdb": "imagine-earth",
+   "metacritic": "imagine-earth",
    "mobygames": "84440",
    "pcgamingwiki": "Imagine_Earth",
    "steam": "280720"
@@ -355,6 +368,7 @@
   "ids": {
    "howlongtobeat": "93946",
    "igdb": "the-outer-worlds-2",
+   "metacritic": "the-outer-worlds-2",
    "pcgamingwiki": "The_Outer_Worlds_2",
    "steam": "1449110"
   },
@@ -903,6 +917,7 @@
  {
   "ids": {
    "igdb": "taiko-frenzy",
+   "metacritic": "taiko-frenzy",
    "pcgamingwiki": "Taiko_Frenzy",
    "steam": "2680410"
   },
@@ -934,6 +949,7 @@
  {
   "ids": {
    "igdb": "joe-devers-lone-wolf-hd-remastered",
+   "metacritic": "joe-devers-lone-wolf-hd-remastered",
    "mobygames": "73863",
    "pcgamingwiki": "Joe_Dever's_Lone_Wolf_HD_Remastered",
    "steam": "279440"
@@ -1143,6 +1159,7 @@
   "ids": {
    "howlongtobeat": "185092",
    "igdb": "set-yourself-on-fire",
+   "metacritic": "set-yourself-on-fire",
    "steam": "3048420"
   },
   "label_en": "Set Yourself on Fire",
@@ -1276,5 +1293,9 @@
   },
   "label_en": "Remagotchi",
   "wikidata": "Q141481673"
+ },
+ {
+  "label_en": "Groundmend: Last Bot on Earth",
+  "wikidata": "Q142212673"
  }
 ]

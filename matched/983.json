@@ -5,6 +5,7 @@
    "gog": "game/supreme_commander_gold_edition",
    "howlongtobeat": "9483",
    "igdb": "supreme-commander",
+   "metacritic": "supreme-commander",
    "mobygames": "26709",
    "pcgamingwiki": "Supreme_Commander",
    "steam": "9350"
@@ -83,6 +84,7 @@
   "ids": {
    "gog": "game/in_cold_blood",
    "igdb": "in-cold-blood",
+   "metacritic": "in-cold-blood",
    "mobygames": "3373",
    "pcgamingwiki": "In_Cold_Blood"
   },
@@ -93,6 +95,7 @@
   "enwiki": "Smash Court Tennis Pro Tournament 2",
   "ids": {
    "igdb": "smash-court-tennis-pro-tournament-2",
+   "metacritic": "smash-court-tennis-pro-tournament-2",
    "mobygames": "34917"
   },
   "label_en": "Smash Court Tennis Pro Tournament 2",
@@ -191,6 +194,7 @@
    "gog": "game/dropsy",
    "howlongtobeat": "29901",
    "igdb": "dropsy",
+   "metacritic": "dropsy",
    "mobygames": "86152",
    "pcgamingwiki": "Dropsy",
    "steam": "274350"
@@ -220,6 +224,7 @@
   "ids": {
    "howlongtobeat": "51947",
    "igdb": "nancy-drew-sea-of-darkness",
+   "metacritic": "nancy-drew-sea-of-darkness",
    "mobygames": "116115",
    "pcgamingwiki": "Nancy_Drew:_Sea_of_Darkness",
    "steam": "572700"
@@ -231,6 +236,7 @@
   "enwiki": "NBA Live 16",
   "ids": {
    "igdb": "nba-live-16",
+   "metacritic": "nba-live-16",
    "mobygames": "80198"
   },
   "label_en": "NBA Live 16",
@@ -260,7 +266,8 @@
   "enwiki": "The Sims Mobile",
   "ids": {
    "howlongtobeat": "53534",
-   "igdb": "the-sims-mobile"
+   "igdb": "the-sims-mobile",
+   "metacritic": "the-sims-mobile"
   },
   "label_en": "The Sims Mobile",
   "wikidata": "Q30092983"
@@ -280,6 +287,7 @@
    "gog": "game/steamworld_dig",
    "howlongtobeat": "12740",
    "igdb": "steamworld-dig",
+   "metacritic": "steamworld-dig",
    "mobygames": "65795",
    "pcgamingwiki": "SteamWorld_Dig",
    "steam": "252410"
@@ -299,6 +307,7 @@
   "ids": {
    "howlongtobeat": "56803",
    "igdb": "cubiques",
+   "metacritic": "cubiques",
    "pcgamingwiki": "Cubiques",
    "steam": "788760"
   },
@@ -362,7 +371,8 @@
  {
   "enwiki": "World of Warcraft: Classic",
   "ids": {
-   "igdb": "world-of-warcraft-classic"
+   "igdb": "world-of-warcraft-classic",
+   "metacritic": "world-of-warcraft-classic"
   },
   "label_en": "World of Warcraft Classic",
   "wikidata": "Q65056983"
@@ -383,6 +393,7 @@
   "ids": {
    "howlongtobeat": "39523",
    "igdb": "adventure-communist",
+   "metacritic": "adventure-communist",
    "mobygames": "129038",
    "pcgamingwiki": "AdVenture_Communist",
    "steam": "462930"
@@ -593,6 +604,7 @@
   "ids": {
    "howlongtobeat": "90042",
    "igdb": "in-nightmare",
+   "metacritic": "in-nightmare",
    "mobygames": "202734",
    "steam": "1817290"
   },
@@ -829,6 +841,7 @@
  {
   "ids": {
    "igdb": "bird-mania-party",
+   "metacritic": "bird-mania-party",
    "mobygames": "92899"
   },
   "label_en": "Bird Mania Party",
@@ -897,6 +910,7 @@
   "ids": {
    "howlongtobeat": "2017",
    "igdb": "crime-lab-body-of-evidence",
+   "metacritic": "crime-lab-body-of-evidence",
    "mobygames": "62296"
   },
   "label_en": "Crime Lab: Body of Evidence",

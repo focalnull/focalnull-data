@@ -13,6 +13,7 @@
   "enwiki": "Pro Evolution Soccer 2010",
   "ids": {
    "igdb": "pro-evolution-soccer-2010",
+   "metacritic": "pro-evolution-soccer-2010",
    "mobygames": "43320",
    "pcgamingwiki": "Pro_Evolution_Soccer_2010"
   },
@@ -32,6 +33,7 @@
   "ids": {
    "howlongtobeat": "116323",
    "igdb": "empire-total-war",
+   "metacritic": "empire-total-war",
    "mobygames": "39623",
    "pcgamingwiki": "Empire:_Total_War",
    "steam": "10500"
@@ -57,6 +59,7 @@
   "ids": {
    "howlongtobeat": "2249",
    "igdb": "darkspore",
+   "metacritic": "darkspore",
    "mobygames": "51320",
    "pcgamingwiki": "Darkspore",
    "steam": "99890"
@@ -95,6 +98,7 @@
   "ids": {
    "howlongtobeat": "12228",
    "igdb": "championship-manager-2008",
+   "metacritic": "championship-manager-2008",
    "mobygames": "42466",
    "pcgamingwiki": "Championship_Manager_2008",
    "steam": "8060"
@@ -142,6 +146,7 @@
   "ids": {
    "howlongtobeat": "5392",
    "igdb": "lost-kingdoms-ii",
+   "metacritic": "lost-kingdoms-ii",
    "mobygames": "9246"
   },
   "label_en": "Lost Kingdoms II",
@@ -159,6 +164,7 @@
   "enwiki": "Mojo!",
   "ids": {
    "igdb": "mojo",
+   "metacritic": "mojo",
    "mobygames": "41946",
    "pcgamingwiki": "Mojo",
    "steam": "895600"
@@ -229,6 +235,7 @@
   "ids": {
    "howlongtobeat": "61544",
    "igdb": "nhl-faceoff-2003",
+   "metacritic": "nhl-faceoff-2003",
    "mobygames": "9669"
   },
   "label_en": "NHL FaceOff 2003",
@@ -249,6 +256,7 @@
    "gog": "game/the_escapists",
    "howlongtobeat": "15198",
    "igdb": "the-escapists",
+   "metacritic": "the-escapists",
    "mobygames": "72092",
    "pcgamingwiki": "The_Escapists",
    "steam": "298630"
@@ -283,6 +291,7 @@
   "ids": {
    "howlongtobeat": "10283",
    "igdb": "the-yawhg",
+   "metacritic": "the-yawhg",
    "mobygames": "64978",
    "pcgamingwiki": "The_Yawhg",
    "steam": "269030"
@@ -293,6 +302,7 @@
  {
   "ids": {
    "igdb": "target-of-desire-episode-1",
+   "metacritic": "target-of-desire-episode-1",
    "mobygames": "93454",
    "pcgamingwiki": "Target_of_Desire:_Episode_1"
   },
@@ -309,6 +319,7 @@
  },
  {
   "ids": {
+   "metacritic": "hanayamata-yosakoi-live",
    "mobygames": "78131"
   },
   "label_en": "HaNaYaMaTa: Yosakoi LIVE!",
@@ -328,6 +339,7 @@
   "ids": {
    "howlongtobeat": "78118",
    "igdb": "helltaker",
+   "metacritic": "helltaker",
    "mobygames": "145450",
    "pcgamingwiki": "Helltaker",
    "steam": "1289310"
@@ -348,6 +360,7 @@
   "enwiki": "Kirby Fighters 2",
   "ids": {
    "igdb": "kirby-fighters-2",
+   "metacritic": "kirby-fighters-2",
    "mobygames": "150806"
   },
   "label_en": "Kirby Fighters 2",
@@ -390,6 +403,7 @@
  {
   "ids": {
    "igdb": "itrp-gas-prison",
+   "metacritic": "itrp-gas-prison",
    "steam": "1758200"
   },
   "label_en": "ITRP _ Gas Prison",
@@ -421,6 +435,7 @@
   "ids": {
    "howlongtobeat": "86104",
    "igdb": "wallachia-reign-of-dracula",
+   "metacritic": "wallachia-reign-of-dracula",
    "mobygames": "143100",
    "steam": "1189780"
   },
@@ -442,6 +457,7 @@
   "ids": {
    "howlongtobeat": "109847",
    "igdb": "harvestella",
+   "metacritic": "harvestella",
    "mobygames": "193709",
    "pcgamingwiki": "Harvestella",
    "steam": "1816300"
@@ -465,6 +481,7 @@
   "ids": {
    "howlongtobeat": "118222",
    "igdb": "hellboy-web-of-wyrd",
+   "metacritic": "hellboy-web-of-wyrd",
    "mobygames": "210380",
    "pcgamingwiki": "Hellboy:_Web_of_Wyrd",
    "steam": "2160480"
@@ -857,6 +874,7 @@
  {
   "ids": {
    "igdb": "crystal-breaker",
+   "metacritic": "crystal-breaker",
    "steam": "2772080"
   },
   "label_en": "Crystal Breaker",
@@ -1025,6 +1043,7 @@
   "ids": {
    "howlongtobeat": "160506",
    "igdb": "stars-in-the-trash",
+   "metacritic": "stars-in-the-trash",
    "mobygames": "234341",
    "steam": "1822240"
   },
@@ -1222,6 +1241,7 @@
  {
   "ids": {
    "igdb": "everest-vr",
+   "pcgamingwiki": "Everest_VR",
    "steam": "384750"
   },
   "label_en": "EVEREST VR™",

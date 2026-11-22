@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5513",
    "igdb": "mafia-ii",
+   "metacritic": "mafia-ii",
    "mobygames": "47964",
    "pcgamingwiki": "Mafia_II",
    "steam": "50130"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "4176",
    "igdb": "guitar-hero-ii",
+   "metacritic": "guitar-hero-ii",
    "mobygames": "24865"
   },
   "label_en": "Guitar Hero II",
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "773",
    "igdb": "babel-rising",
+   "metacritic": "babel-rising",
    "mobygames": "57700",
    "pcgamingwiki": "Babel_Rising",
    "steam": "204840"
@@ -83,6 +86,7 @@
   "enwiki": "UEFA Euro 2004 (video game)",
   "ids": {
    "igdb": "uefa-euro-2004-portugal",
+   "metacritic": "uefa-euro-2004-portugal",
    "mobygames": "18812",
    "pcgamingwiki": "UEFA_Euro_2004"
   },
@@ -107,6 +111,7 @@
   "ids": {
    "howlongtobeat": "442",
    "igdb": "amped-2",
+   "metacritic": "amped-2",
    "mobygames": "10881"
   },
   "label_en": "Amped 2",
@@ -131,6 +136,7 @@
   "enwiki": "Crime Life: Gang Wars",
   "ids": {
    "igdb": "crime-life-gang-wars",
+   "metacritic": "crime-life-gang-wars",
    "mobygames": "21937",
    "pcgamingwiki": "Crime_Life:_Gang_Wars"
   },
@@ -149,7 +155,8 @@
  {
   "enwiki": "Yu Yu Hakusho: Dark Tournament",
   "ids": {
-   "igdb": "yu-yu-hakusho-ghost-files-dark-tournament"
+   "igdb": "yu-yu-hakusho-ghost-files-dark-tournament",
+   "metacritic": "yu-yu-hakusho-dark-tournament"
   },
   "label_en": "Yu Yu Hakusho: Dark Tournament",
   "wikidata": "Q4023154"
@@ -217,6 +224,7 @@
   "enwiki": "Persona 4: Dancing All Night",
   "ids": {
    "igdb": "persona-4-dancing-all-night",
+   "metacritic": "persona-4-dancing-all-night",
    "mobygames": "83991"
   },
   "label_en": "Persona 4: Dancing All Night",
@@ -252,6 +260,7 @@
   "ids": {
    "howlongtobeat": "23012",
    "igdb": "flyhunter-origins",
+   "metacritic": "flyhunter-origins",
    "mobygames": "101980",
    "pcgamingwiki": "Flyhunter_Origins",
    "steam": "300620"
@@ -265,6 +274,7 @@
    "gog": "game/downwell",
    "howlongtobeat": "31178",
    "igdb": "downwell",
+   "metacritic": "downwell",
    "mobygames": "76071",
    "pcgamingwiki": "Downwell",
    "steam": "360740"
@@ -311,6 +321,7 @@
  },
  {
   "ids": {
+   "metacritic": "tiny-rogue",
    "mobygames": "97246"
   },
   "label_en": "Tiny Rogue",
@@ -318,7 +329,8 @@
  },
  {
   "ids": {
-   "igdb": "sheep-dreams-are-made-of-this"
+   "igdb": "sheep-dreams-are-made-of-this",
+   "metacritic": "sheep-dreams-are-made-of-this"
   },
   "label_en": "Sheep Dreams Are Made of This",
   "wikidata": "Q59225154"
@@ -327,6 +339,7 @@
   "ids": {
    "howlongtobeat": "54675",
    "igdb": "caveman-warriors",
+   "metacritic": "caveman-warriors",
    "mobygames": "96265",
    "pcgamingwiki": "Caveman_Warriors",
    "steam": "603420"
@@ -351,6 +364,7 @@
    "gog": "game/wolcen_lords_of_mayhem",
    "howlongtobeat": "36540",
    "igdb": "wolcen-lords-of-mayhem",
+   "metacritic": "wolcen-lords-of-mayhem",
    "mobygames": "102385",
    "pcgamingwiki": "Wolcen:_Lords_of_Mayhem",
    "steam": "424370"
@@ -363,6 +377,7 @@
   "ids": {
    "howlongtobeat": "76234",
    "igdb": "taur",
+   "metacritic": "taur",
    "mobygames": "141131",
    "pcgamingwiki": "Taur",
    "steam": "1227780"
@@ -375,6 +390,7 @@
   "ids": {
    "howlongtobeat": "91087",
    "igdb": "last-stop",
+   "metacritic": "last-stop-2021",
    "mobygames": "168083",
    "pcgamingwiki": "Last_Stop",
    "steam": "1122690"
@@ -385,7 +401,8 @@
  {
   "enwiki": "MLB 2006",
   "ids": {
-   "igdb": "mlb-2006"
+   "igdb": "mlb-2006",
+   "metacritic": "mlb-2006"
   },
   "label_en": "MLB 2006",
   "wikidata": "Q102444154"
@@ -394,6 +411,7 @@
   "ids": {
    "howlongtobeat": "5921",
    "igdb": "metal-gear-solid-snake-eater-3d",
+   "metacritic": "metal-gear-solid-snake-eater-3d",
    "mobygames": "55554"
   },
   "label_en": "Metal Gear Solid: Snake Eater 3D",
@@ -765,6 +783,7 @@
   "ids": {
    "howlongtobeat": "37894",
    "igdb": "dededes-drum-dash-deluxe",
+   "metacritic": "dededes-drum-dash-deluxe",
    "mobygames": "100306"
   },
   "label_en": "Dedede's Drum Dash Deluxe",

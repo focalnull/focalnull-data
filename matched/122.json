@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9350",
    "igdb": "super-ghoulsn-ghosts",
+   "metacritic": "super-ghouls-n-ghosts",
    "mobygames": "6730"
   },
   "label_en": "Super Ghouls 'n Ghosts",
@@ -32,6 +33,7 @@
   "enwiki": "Wild Arms 4",
   "ids": {
    "igdb": "wild-arms-4",
+   "metacritic": "wild-arms-4",
    "mobygames": "21500"
   },
   "label_en": "Wild Arms 4",
@@ -46,6 +48,7 @@
   "ids": {
    "howlongtobeat": "11361",
    "igdb": "x-blades",
+   "metacritic": "x-blades",
    "mobygames": "39256",
    "pcgamingwiki": "X-Blades",
    "steam": "7510"
@@ -67,6 +70,7 @@
  {
   "ids": {
    "igdb": "dragon-ball-z-budokai-tenkaichi-3",
+   "metacritic": "dragon-ball-z-budokai-tenkaichi-3",
    "mobygames": "40017"
   },
   "label_en": "Dragon Ball Z: Budokai Tenkaichi 3",
@@ -95,6 +99,7 @@
   "ids": {
    "howlongtobeat": "10721",
    "igdb": "twisted-metal-3bd4555a-3fd8-41bd-a0d7-d47d8c707651",
+   "metacritic": "twisted-metal-2012",
    "mobygames": "59157"
   },
   "label_en": "Twisted Metal",
@@ -163,6 +168,7 @@
   "ids": {
    "howlongtobeat": "17938",
    "igdb": "incoming-forces",
+   "metacritic": "incoming-forces",
    "mobygames": "21410",
    "pcgamingwiki": "Incoming_Forces",
    "steam": "283390"
@@ -191,6 +197,7 @@
  {
   "ids": {
    "igdb": "myth-makers-trixie-in-toyland",
+   "metacritic": "myth-makers-trixie-in-toyland",
    "mobygames": "63221",
    "pcgamingwiki": "Myth_Makers:_Trixie_in_Toyland"
   },
@@ -201,6 +208,7 @@
   "enwiki": "Rocket Power: Beach Bandits",
   "ids": {
    "igdb": "rocket-power-beach-bandits",
+   "metacritic": "rocket-power-beach-bandits",
    "mobygames": "20469"
   },
   "label_en": "Rocket Power: Beach Bandits",
@@ -314,6 +322,7 @@
   "ids": {
    "howlongtobeat": "21158",
    "igdb": "bedlam--1",
+   "metacritic": "bedlam-the-game-by-christopher-brookmyre",
    "mobygames": "82468",
    "pcgamingwiki": "Bedlam_(2015)",
    "steam": "261490"
@@ -325,6 +334,7 @@
   "ids": {
    "howlongtobeat": "26723",
    "igdb": "coffin-dodgers",
+   "metacritic": "coffin-dodgers",
    "mobygames": "78420",
    "pcgamingwiki": "Coffin_Dodgers",
    "steam": "320540"
@@ -346,6 +356,7 @@
    "gog": "game/night_call",
    "howlongtobeat": "69216",
    "igdb": "night-call",
+   "metacritic": "night-call",
    "mobygames": "118801",
    "pcgamingwiki": "Night_Call",
    "steam": "680380"
@@ -370,6 +381,7 @@
    "epic": "snowrunner",
    "howlongtobeat": "77675",
    "igdb": "snowrunner",
+   "metacritic": "snowrunner",
    "mobygames": "145044",
    "pcgamingwiki": "SnowRunner",
    "steam": "1465360"
@@ -381,6 +393,7 @@
   "ids": {
    "howlongtobeat": "49917",
    "igdb": "3on3-freestyle",
+   "metacritic": "3on3-freestyle",
    "mobygames": "82745",
    "pcgamingwiki": "3on3_FreeStyle",
    "steam": "1292630"
@@ -392,6 +405,7 @@
   "ids": {
    "howlongtobeat": "8425",
    "igdb": "shin-megami-tensei-iii-nocturne-hd-remaster",
+   "metacritic": "shin-megami-tensei-iii-nocturne-hd-remaster",
    "mobygames": "152464",
    "pcgamingwiki": "Shin_Megami_Tensei_III_Nocturne_HD_Remaster",
    "steam": "1413480"
@@ -456,6 +470,7 @@
  {
   "enwiki": "Ni no Kuni: Cross Worlds",
   "ids": {
+   "metacritic": "ni-no-kuni-cross-worlds",
    "mobygames": "184904"
   },
   "label_en": "Ni no Kuni: Cross Worlds",
@@ -475,6 +490,7 @@
    "epic": "killer-klowns-from-outer-space-the-game-619daa",
    "howlongtobeat": "113019",
    "igdb": "killer-klowns-from-outer-space-the-game",
+   "metacritic": "killer-klowns-from-outer-space-the-game",
    "mobygames": "225012",
    "pcgamingwiki": "Killer_Klowns_from_Outer_Space:_The_Game",
    "steam": "1556100"
@@ -748,6 +764,7 @@
   "ids": {
    "howlongtobeat": "72405",
    "igdb": "ritual-crown-of-horns",
+   "metacritic": "ritual-crown-of-horns",
    "mobygames": "132281",
    "pcgamingwiki": "Ritual:_Crown_of_Horns",
    "steam": "1059150"
@@ -822,6 +839,7 @@
   "ids": {
    "howlongtobeat": "51663",
    "igdb": "jay-fighter-remastered",
+   "metacritic": "jay-fighter-remastered",
    "mobygames": "209928",
    "pcgamingwiki": "Jay_Fighter:_Remastered",
    "steam": "665890"
@@ -906,6 +924,7 @@
   "ids": {
    "howlongtobeat": "13996",
    "igdb": "terrorist-takedown-3",
+   "metacritic": "terrorist-takedown-3",
    "mobygames": "60926",
    "pcgamingwiki": "Terrorist_Takedown_3"
   },
@@ -972,6 +991,7 @@
   "enwiki": "Perfect Tides: Station to Station",
   "ids": {
    "igdb": "perfect-tides-station-to-station",
+   "metacritic": "perfect-tides-station-to-station",
    "steam": "2088810"
   },
   "label_en": "Perfect Tides: Station to Station",
@@ -1211,6 +1231,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "AnimVR",
    "steam": "508690"
   },
   "label_en": "AnimVR",

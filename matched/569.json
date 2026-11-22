@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "966",
    "igdb": "bayonetta",
+   "metacritic": "bayonetta",
    "mobygames": "43659",
    "pcgamingwiki": "Bayonetta",
    "steam": "460790"
@@ -56,6 +57,7 @@
   "enwiki": "Pro Evolution Soccer 2009",
   "ids": {
    "igdb": "pro-evolution-soccer-2009",
+   "metacritic": "pro-evolution-soccer-2009",
    "mobygames": "39907",
    "pcgamingwiki": "Pro_Evolution_Soccer_2009"
   },
@@ -86,6 +88,7 @@
   "enwiki": "WWE SmackDown! Shut Your Mouth",
   "ids": {
    "igdb": "wwe-smackdown-shut-your-mouth",
+   "metacritic": "wwe-smackdown-shut-your-mouth",
    "mobygames": "9672"
   },
   "label_en": "WWE SmackDown! Shut Your Mouth",
@@ -121,6 +124,7 @@
   "ids": {
    "howlongtobeat": "12876",
    "igdb": "scp-containment-breach",
+   "metacritic": "scp-containment-breach",
    "mobygames": "85458",
    "pcgamingwiki": "SCP_-_Containment_Breach",
    "steam": "2178380"
@@ -162,6 +166,7 @@
   "ids": {
    "howlongtobeat": "34611",
    "igdb": "nancy-drew-tomb-of-the-lost-queen",
+   "metacritic": "nancy-drew-tomb-of-the-lost-queen",
    "mobygames": "56180",
    "pcgamingwiki": "Nancy_Drew:_Tomb_of_the_Lost_Queen",
    "steam": "210230"
@@ -174,6 +179,7 @@
   "ids": {
    "howlongtobeat": "667",
    "igdb": "assault-heroes",
+   "metacritic": "assault-heroes",
    "mobygames": "26292"
   },
   "label_en": "Assault Heroes",
@@ -251,10 +257,16 @@
   "wikidata": "Q22131569"
  },
  {
+  "ids": {
+   "metacritic": "davis-cup-tennis"
+  },
   "label_en": "Davis Cup Tennis",
   "wikidata": "Q48711569"
  },
  {
+  "ids": {
+   "metacritic": "auto-warriors-tactical-car-combat"
+  },
   "label_en": "Auto Warriors - Tactical Car Combat",
   "wikidata": "Q54130569"
  },
@@ -279,6 +291,7 @@
    "epic": "nairi-tower-of-shirin-0e47fe",
    "howlongtobeat": "62806",
    "igdb": "nairi-tower-of-shirin",
+   "metacritic": "nairi-tower-of-shirin",
    "mobygames": "115415",
    "pcgamingwiki": "Nairi:_Tower_of_Shirin",
    "steam": "802450"
@@ -347,7 +360,8 @@
  {
   "enwiki": "The Legend of Zelda: Skyward Sword HD",
   "ids": {
-   "igdb": "the-legend-of-zelda-skyward-sword-hd"
+   "igdb": "the-legend-of-zelda-skyward-sword-hd",
+   "metacritic": "the-legend-of-zelda-skyward-sword-hd"
   },
   "label_en": "The Legend of Zelda: Skyward Sword HD",
   "wikidata": "Q105560569"
@@ -407,6 +421,7 @@
    "epic": "batora-lost-haven-1773c3",
    "howlongtobeat": "88773",
    "igdb": "batora-lost-haven",
+   "metacritic": "batora-lost-haven",
    "mobygames": "193753",
    "pcgamingwiki": "Batora:_Lost_Haven",
    "steam": "1506440"
@@ -436,6 +451,7 @@
    "howlongtobeat": "120015",
    "igdb": "shashingo-learn-japanese-with-photography",
    "mobygames": "218425",
+   "pcgamingwiki": "Shashingo:_Learn_Japanese_With_Photography",
    "steam": "1632490"
   },
   "label_en": "Shashingo: Learn Japanese with Photography",
@@ -821,6 +837,7 @@
   "ids": {
    "howlongtobeat": "151986",
    "igdb": "doom-the-dark-ages",
+   "metacritic": "doom-the-dark-ages",
    "mobygames": "241974",
    "pcgamingwiki": "Doom:_The_Dark_Ages",
    "steam": "3017860"
@@ -1253,6 +1270,7 @@
  {
   "ids": {
    "igdb": "thrifty-business",
+   "pcgamingwiki": "Thrifty_Business",
    "steam": "3693650"
   },
   "label_en": "Thrifty Business",

@@ -36,6 +36,7 @@
   "ids": {
    "howlongtobeat": "7584",
    "igdb": "ratatouille--2",
+   "metacritic": "disney-pixar-ratatouille",
    "mobygames": "153031"
   },
   "label_en": "Ratatouille",
@@ -45,6 +46,7 @@
   "enwiki": "EA Sports MMA",
   "ids": {
    "igdb": "ea-sports-mma",
+   "metacritic": "ea-sports-mma",
    "mobygames": "90130"
   },
   "label_en": "EA Sports MMA",
@@ -100,6 +102,7 @@
   "enwiki": "Cosmos X2",
   "ids": {
    "igdb": "cosmos-x2",
+   "metacritic": "cosmos-x2",
    "mobygames": "87797"
   },
   "label_en": "Cosmos X2",
@@ -140,6 +143,7 @@
    "gog": "game/the_bards_tale",
    "howlongtobeat": "9774",
    "igdb": "the-bard-s-tale-iii-thief-of-fate",
+   "metacritic": "the-bards-tale",
    "mobygames": "2509",
    "pcgamingwiki": "The_Bard's_Tale_III:_Thief_of_Fate",
    "steam": "41900"
@@ -171,6 +175,7 @@
   "ids": {
    "howlongtobeat": "26375",
    "igdb": "just-dance-2015",
+   "metacritic": "just-dance-2015",
    "mobygames": "73519"
   },
   "label_en": "Just Dance 2015",
@@ -180,6 +185,7 @@
   "ids": {
    "howlongtobeat": "26191",
    "igdb": "rooms-the-unsolvable-puzzle",
+   "metacritic": "rooms-the-unsolvable-puzzle",
    "mobygames": "109732",
    "pcgamingwiki": "Rooms:_The_Unsolvable_Puzzle",
    "steam": "331460"
@@ -230,6 +236,7 @@
   "ids": {
    "howlongtobeat": "57677",
    "igdb": "transference",
+   "metacritic": "transference",
    "mobygames": "112552",
    "pcgamingwiki": "Transference",
    "steam": "647570"
@@ -250,6 +257,7 @@
   "ids": {
    "howlongtobeat": "53256",
    "igdb": "4rc4n01d",
+   "metacritic": "4rc4n01d",
    "mobygames": "162822",
    "pcgamingwiki": "!4RC4N01D!",
    "steam": "777010"
@@ -277,7 +285,8 @@
   "enwiki": "Variable Barricade",
   "ids": {
    "howlongtobeat": "87226",
-   "igdb": "variable-barricade"
+   "igdb": "variable-barricade",
+   "metacritic": "variable-barricade"
   },
   "label_en": "Variable Barricade",
   "wikidata": "Q63228624"
@@ -293,6 +302,7 @@
  {
   "ids": {
    "igdb": "number--1",
+   "metacritic": "number",
    "pcgamingwiki": "NUMBER",
    "steam": "1207730"
   },
@@ -303,6 +313,7 @@
   "ids": {
    "howlongtobeat": "60053",
    "igdb": "ding-dong-xl",
+   "metacritic": "ding-dong-xl",
    "mobygames": "125505",
    "pcgamingwiki": "Ding_Dong_XL",
    "steam": "862570"
@@ -343,6 +354,7 @@
   "ids": {
    "howlongtobeat": "47019",
    "igdb": "nightshade--2",
+   "metacritic": "nightshade",
    "mobygames": "86885",
    "pcgamingwiki": "Nightshade",
    "steam": "512180"
@@ -394,6 +406,7 @@
    "epic": "trigon-ce1936",
    "howlongtobeat": "109080",
    "igdb": "trigon-space-story",
+   "metacritic": "trigon-space-story",
    "pcgamingwiki": "Trigon:_Space_Story",
    "steam": "1226510"
   },
@@ -920,6 +933,7 @@
  {
   "ids": {
    "igdb": "kao-the-kangaroo",
+   "metacritic": "kao-the-kangaroo-2000",
    "mobygames": "3486",
    "steam": "2360020"
   },
@@ -1125,6 +1139,7 @@
   "ids": {
    "epic": "cybercorp-b444a3",
    "igdb": "cybercorp",
+   "pcgamingwiki": "CyberCorp",
    "steam": "1116170"
   },
   "label_en": "CyberCorp",

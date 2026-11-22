@@ -3,6 +3,7 @@
   "enwiki": "Star Wars: The Clone Wars (video game)",
   "ids": {
    "igdb": "star-wars-the-clone-wars",
+   "metacritic": "star-wars-the-clone-wars",
    "mobygames": "7607"
   },
   "label_en": "Star Wars: The Clone Wars",
@@ -14,6 +15,7 @@
    "gog": "game/final_fantasy_vii",
    "howlongtobeat": "3521",
    "igdb": "final-fantasy-vii",
+   "metacritic": "final-fantasy-vii",
    "mobygames": "858",
    "pcgamingwiki": "Final_Fantasy_VII",
    "steam": "39140"
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "2306",
    "igdb": "dead-island-riptide",
+   "metacritic": "dead-island-riptide",
    "mobygames": "60705",
    "pcgamingwiki": "Dead_Island:_Riptide",
    "steam": "216250"
@@ -57,6 +60,7 @@
   "ids": {
    "howlongtobeat": "2224",
    "igdb": "dark-souls",
+   "metacritic": "dark-souls-prepare-to-die-edition",
    "mobygames": "53619",
    "pcgamingwiki": "Dark_Souls:_Prepare_to_Die_Edition",
    "steam": "211420"
@@ -68,6 +72,7 @@
   "enwiki": "One Piece: Pirate Warriors (video game)",
   "ids": {
    "igdb": "one-piece-pirate-warriors",
+   "metacritic": "one-piece-pirate-warriors",
    "mobygames": "67488"
   },
   "label_en": "One Piece: Pirate Warriors",
@@ -110,12 +115,16 @@
   "ids": {
    "howlongtobeat": "1441",
    "igdb": "cabela-s-alaskan-adventures",
+   "metacritic": "cabelas-alaskan-adventures",
    "mobygames": "35401"
   },
   "label_en": "Cabela's Alaskan Adventures",
   "wikidata": "Q2450232"
  },
  {
+  "ids": {
+   "metacritic": "capcom-vs-snk-millennium-fight-2000-pro"
+  },
   "label_en": "Capcom vs. SNK: Millennium Fight 2000 Pro",
   "wikidata": "Q2937232"
  },
@@ -151,6 +160,7 @@
  {
   "ids": {
    "igdb": "deadliest-catch-sea-of-chaos",
+   "metacritic": "deadliest-catch-sea-of-chaos",
    "mobygames": "109988"
   },
   "label_en": "Deadliest Catch: Sea of Chaos",
@@ -160,6 +170,7 @@
   "enwiki": "Lego Battles: Ninjago",
   "ids": {
    "igdb": "lego-battles-ninjago",
+   "metacritic": "lego-battles-ninjago",
    "mobygames": "84094"
   },
   "label_en": "Lego Battles: Ninjago",
@@ -231,6 +242,7 @@
   "ids": {
    "howlongtobeat": "753",
    "igdb": "away-shuffle-dungeon",
+   "metacritic": "away-shuffle-dungeon",
    "mobygames": "37457"
   },
   "label_en": "Away: Shuffle Dungeon",
@@ -241,6 +253,7 @@
   "ids": {
    "howlongtobeat": "143",
    "igdb": "a-virus-named-tom",
+   "metacritic": "a-virus-named-tom",
    "mobygames": "60244",
    "pcgamingwiki": "A_Virus_Named_TOM",
    "steam": "207650"
@@ -253,6 +266,7 @@
   "ids": {
    "howlongtobeat": "40446",
    "igdb": "ladykiller-in-a-bind",
+   "metacritic": "ladykiller-in-a-bind",
    "mobygames": "85289",
    "pcgamingwiki": "Ladykiller_in_a_Bind",
    "steam": "560000"
@@ -266,6 +280,7 @@
    "epic": "youtubers-life-062b82",
    "howlongtobeat": "37397",
    "igdb": "youtubers-life",
+   "metacritic": "youtubers-life",
    "mobygames": "82128",
    "pcgamingwiki": "Youtubers_Life",
    "steam": "428690"
@@ -286,6 +301,7 @@
   "ids": {
    "howlongtobeat": "42171",
    "igdb": "super-mario-run",
+   "metacritic": "super-mario-run",
    "mobygames": "81962"
   },
   "label_en": "Super Mario Run",
@@ -313,6 +329,7 @@
    "gog": "game/fort_triumph",
    "howlongtobeat": "63546",
    "igdb": "fort-triumph",
+   "metacritic": "fort-triumph",
    "mobygames": "107800",
    "pcgamingwiki": "Fort_Triumph",
    "steam": "612570"
@@ -333,6 +350,7 @@
   "ids": {
    "howlongtobeat": "71979",
    "igdb": "unity-of-command-ii",
+   "metacritic": "unity-of-command-ii",
    "mobygames": "137217",
    "pcgamingwiki": "Unity_of_Command_II",
    "steam": "809230"
@@ -380,6 +398,7 @@
   "ids": {
    "howlongtobeat": "33672",
    "igdb": "red-game-without-a-great-name",
+   "metacritic": "red-game-without-a-great-name",
    "mobygames": "99122",
    "pcgamingwiki": "Red_Game_Without_A_Great_Name",
    "steam": "419500"
@@ -480,6 +499,7 @@
   "ids": {
    "howlongtobeat": "62994",
    "igdb": "a-place-for-the-unwilling",
+   "metacritic": "a-place-for-the-unwilling",
    "mobygames": "130647",
    "pcgamingwiki": "A_Place_for_the_Unwilling",
    "steam": "1064310"
@@ -491,6 +511,7 @@
   "ids": {
    "howlongtobeat": "98588",
    "igdb": "exekiller",
+   "metacritic": "exekiller",
    "pcgamingwiki": "ExeKiller",
    "steam": "1701840"
   },
@@ -1205,6 +1226,7 @@
  {
   "ids": {
    "igdb": "les-miserables-jean-valjean",
+   "pcgamingwiki": "Les_Misérables:_Jean_Valjean",
    "steam": "827130"
   },
   "label_en": "Les Misérables: Jean Valjean",

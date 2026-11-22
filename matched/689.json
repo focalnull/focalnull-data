@@ -3,6 +3,7 @@
   "enwiki": "Saw II: Flesh & Blood",
   "ids": {
    "igdb": "saw-ii-flesh-blood",
+   "metacritic": "saw-ii-flesh-and-blood",
    "mobygames": "59807"
   },
   "label_en": "Saw II: Flesh & Blood",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "432",
    "igdb": "american-mcgee-s-alice",
+   "metacritic": "american-mcgees-alice",
    "mobygames": "2703",
    "pcgamingwiki": "American_McGee's_Alice"
   },
@@ -39,6 +41,7 @@
   "ids": {
    "howlongtobeat": "3977",
    "igdb": "god-of-war-ii",
+   "metacritic": "god-of-war-ii",
    "mobygames": "27089"
   },
   "label_en": "God of War II",
@@ -49,6 +52,7 @@
   "ids": {
    "howlongtobeat": "5395",
    "igdb": "lost-planet-2",
+   "metacritic": "lost-planet-2",
    "mobygames": "46417",
    "pcgamingwiki": "Lost_Planet_2",
    "steam": "45750"
@@ -61,6 +65,7 @@
   "ids": {
    "howlongtobeat": "10942",
    "igdb": "viking-battle-for-asgard",
+   "metacritic": "viking-battle-for-asgard",
    "mobygames": "34447",
    "pcgamingwiki": "Viking:_Battle_for_Asgard",
    "steam": "211160"
@@ -83,6 +88,7 @@
    "gog": "game/little_kings_story",
    "howlongtobeat": "5323",
    "igdb": "little-king-s-story",
+   "metacritic": "little-kings-story",
    "mobygames": "41113",
    "pcgamingwiki": "Little_King's_Story",
    "steam": "390310"
@@ -96,6 +102,7 @@
    "gog": "game/blood_2_the_chosen_expansion",
    "howlongtobeat": "1181",
    "igdb": "blood-ii-the-chosen",
+   "metacritic": "blood-ii-the-chosen",
    "mobygames": "1150",
    "pcgamingwiki": "Blood_II:_The_Chosen",
    "steam": "299050"
@@ -121,6 +128,7 @@
   "enwiki": "Chili Con Carnage",
   "ids": {
    "igdb": "chili-con-carnage",
+   "metacritic": "chili-con-carnage",
    "mobygames": "26780"
   },
   "label_en": "Chili Con Carnage",
@@ -134,6 +142,7 @@
   "ids": {
    "howlongtobeat": "17253",
    "igdb": "trackmania-sunrise",
+   "metacritic": "trackmania-sunrise",
    "mobygames": "17565",
    "pcgamingwiki": "TrackMania_Sunrise"
   },
@@ -154,6 +163,7 @@
   "enwiki": "Crimson Dragon",
   "ids": {
    "igdb": "crimson-dragon",
+   "metacritic": "crimson-dragon",
    "mobygames": "63162"
   },
   "label_en": "Crimson Dragon",
@@ -163,6 +173,7 @@
   "enwiki": "DDRMAX2 Dance Dance Revolution",
   "ids": {
    "igdb": "ddrmax2-dance-dance-revolution",
+   "metacritic": "ddrmax2-dance-dance-revolution",
    "mobygames": "10453"
   },
   "label_en": "DDRMAX2 Dance Dance Revolution",
@@ -255,6 +266,7 @@
   "ids": {
    "howlongtobeat": "42877",
    "igdb": "suicide-simulator",
+   "metacritic": "suicide-simulator",
    "mobygames": "99476",
    "pcgamingwiki": "Suicide_Simulator",
    "steam": "703810"
@@ -277,6 +289,7 @@
    "gog": "game/kunai",
    "howlongtobeat": "74770",
    "igdb": "kunai",
+   "metacritic": "kunai",
    "mobygames": "141119",
    "pcgamingwiki": "Kunai",
    "steam": "1001800"
@@ -312,6 +325,7 @@
  {
   "ids": {
    "igdb": "brain-storm-tower-bombarde",
+   "pcgamingwiki": "Brain_Storm:_Tower_Bombarde",
    "steam": "669750"
   },
   "label_en": "Brain Storm: Tower Bombarde",
@@ -366,6 +380,7 @@
    "howlongtobeat": "142508",
    "igdb": "barro-gt--1",
    "mobygames": "186073",
+   "pcgamingwiki": "Barro_GT",
    "steam": "1990740"
   },
   "label_en": "Barro GT",
@@ -391,6 +406,7 @@
   "ids": {
    "howlongtobeat": "49522",
    "igdb": "trivia-vault-mini-mixed-trivia",
+   "metacritic": "trivia-vault-mini-mixed-trivia",
    "pcgamingwiki": "Trivia_Vault:_Mini_Mixed_Trivia",
    "steam": "706320"
   },
@@ -448,6 +464,7 @@
    "gog": "game/slay_the_princess",
    "howlongtobeat": "118130",
    "igdb": "slay-the-princess",
+   "metacritic": "slay-the-princess",
    "mobygames": "210676",
    "pcgamingwiki": "Slay_the_Princess",
    "steam": "1989270"
@@ -797,6 +814,7 @@
    "gog": "game/windforge",
    "howlongtobeat": "17511",
    "igdb": "windforge",
+   "metacritic": "windforge",
    "mobygames": "84701",
    "pcgamingwiki": "Windforge",
    "steam": "266170"
@@ -822,6 +840,7 @@
    "gog": "game/empire_of_the_ants",
    "howlongtobeat": "147067",
    "igdb": "empire-of-the-ants--1",
+   "metacritic": "empire-of-the-ants",
    "pcgamingwiki": "Empire_of_the_Ants_(2024)",
    "steam": "2287330"
   },
@@ -882,6 +901,9 @@
   "wikidata": "Q128326689"
  },
  {
+  "ids": {
+   "metacritic": "timo-boll-vr-table-tennis"
+  },
   "label_en": "Timo Boll VR Table Tennis",
   "wikidata": "Q132862689"
  },

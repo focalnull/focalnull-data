@@ -23,6 +23,7 @@
   "enwiki": "Soul Link",
   "ids": {
    "igdb": "soul-link-extension",
+   "metacritic": "soul-link",
    "mobygames": "204482"
   },
   "label_en": "Soul Link",
@@ -32,6 +33,7 @@
   "enwiki": "Pokémon Ranger",
   "ids": {
    "igdb": "pokemon-ranger",
+   "metacritic": "pokemon-ranger",
    "mobygames": "24889"
   },
   "label_en": "Pokémon Ranger",
@@ -62,6 +64,7 @@
   "ids": {
    "howlongtobeat": "4680",
    "igdb": "infernal",
+   "metacritic": "infernal",
    "mobygames": "26739",
    "pcgamingwiki": "Infernal",
    "steam": "7060"
@@ -83,6 +86,7 @@
   "ids": {
    "howlongtobeat": "6215",
    "igdb": "mortal-kombat-tournament-edition",
+   "metacritic": "mortal-kombat-tournament-edition",
    "mobygames": "10662"
   },
   "label_en": "Mortal Kombat: Tournament Edition",
@@ -93,6 +97,7 @@
   "ids": {
    "howlongtobeat": "23102",
    "igdb": "gran-turismo-hd-concept",
+   "metacritic": "gran-turismo-hd-concept",
    "mobygames": "34369"
   },
   "label_en": "Gran Turismo HD Concept",
@@ -108,6 +113,7 @@
    "gog": "game/pixeljunk_shooter",
    "howlongtobeat": "7085",
    "igdb": "pixeljunk-shooter",
+   "metacritic": "pixeljunk-shooter",
    "mobygames": "69395",
    "pcgamingwiki": "PixelJunk_Shooter",
    "steam": "255870"
@@ -119,6 +125,7 @@
   "enwiki": "Shining Soul",
   "ids": {
    "igdb": "shining-soul",
+   "metacritic": "shining-soul",
    "mobygames": "10799"
   },
   "label_en": "Shining Soul",
@@ -140,6 +147,7 @@
   "ids": {
    "howlongtobeat": "11086",
    "igdb": "warp",
+   "metacritic": "warp",
    "mobygames": "55092",
    "pcgamingwiki": "Warp",
    "steam": "102850"
@@ -196,6 +204,7 @@
   "ids": {
    "howlongtobeat": "5152",
    "igdb": "l-a-rush",
+   "metacritic": "l-a-rush",
    "mobygames": "21340",
    "pcgamingwiki": "L.A._Rush"
   },
@@ -260,6 +269,7 @@
    "gog": "game/tower_of_guns",
    "howlongtobeat": "14608",
    "igdb": "tower-of-guns",
+   "metacritic": "tower-of-guns",
    "mobygames": "64197",
    "pcgamingwiki": "Tower_of_Guns",
    "steam": "266110"
@@ -289,6 +299,7 @@
   "ids": {
    "howlongtobeat": "28207",
    "igdb": "kwaan",
+   "metacritic": "kwaan",
    "mobygames": "149256",
    "pcgamingwiki": "KWAAN",
    "steam": "336790"
@@ -322,6 +333,7 @@
   "ids": {
    "howlongtobeat": "39931",
    "igdb": "pac-man-championship-edition-2",
+   "metacritic": "pac-man-championship-edition-2",
    "mobygames": "80673",
    "pcgamingwiki": "Pac-Man_Championship_Edition_2",
    "steam": "441380"
@@ -334,6 +346,7 @@
   "ids": {
    "howlongtobeat": "52670",
    "igdb": "lost-sphear",
+   "metacritic": "lost-sphear",
    "mobygames": "97390",
    "pcgamingwiki": "Lost_Sphear",
    "steam": "525240"
@@ -357,6 +370,7 @@
   "ids": {
    "howlongtobeat": "54844",
    "igdb": "atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings",
+   "metacritic": "atelier-lydie-and-suelle-the-alchemists-and-the",
    "mobygames": "106136",
    "pcgamingwiki": "Atelier_Lydie_&_Suelle:_The_Alchemists_and_the_Mysterious_Paintings",
    "steam": "756590"
@@ -384,6 +398,7 @@
   "ids": {
    "howlongtobeat": "74885",
    "igdb": "train-sim-world",
+   "metacritic": "train-sim-world",
    "mobygames": "85469",
    "pcgamingwiki": "Train_Sim_World",
    "steam": "530070"
@@ -396,6 +411,7 @@
   "ids": {
    "howlongtobeat": "62343",
    "igdb": "crystar",
+   "metacritic": "crystar",
    "mobygames": "130684",
    "pcgamingwiki": "Crystar",
    "steam": "981750"
@@ -426,6 +442,7 @@
    "gog": "game/edge_of_eternity",
    "howlongtobeat": "62960",
    "igdb": "edge-of-eternity",
+   "metacritic": "edge-of-eternity",
    "mobygames": "118456",
    "pcgamingwiki": "Edge_of_Eternity",
    "steam": "269190"
@@ -440,6 +457,7 @@
    "gog": "game/coffee_talk",
    "howlongtobeat": "73219",
    "igdb": "coffee-talk",
+   "metacritic": "coffee-talk",
    "mobygames": "138352",
    "pcgamingwiki": "Coffee_Talk",
    "steam": "914800"
@@ -462,7 +480,8 @@
   "enwiki": "Narco Terror",
   "ids": {
    "howlongtobeat": "12409",
-   "igdb": "narco-terror"
+   "igdb": "narco-terror",
+   "metacritic": "narco-terror"
   },
   "label_en": "Narco Terror",
   "wikidata": "Q107424234"
@@ -472,6 +491,7 @@
    "epic": "lets-build-a-zoo",
    "howlongtobeat": "95925",
    "igdb": "lets-build-a-zoo",
+   "metacritic": "lets-build-a-zoo",
    "mobygames": "174959",
    "pcgamingwiki": "Let's_Build_a_Zoo",
    "steam": "1547890"
@@ -1267,6 +1287,7 @@
  {
   "ids": {
    "igdb": "dante-rpg-construction-tool",
+   "pcgamingwiki": "Croc's_World_Construction_Kit",
    "steam": "831910"
   },
   "label_en": "Croc's World Construction Kit",
@@ -1294,5 +1315,9 @@
   },
   "label_en": "High Lance",
   "wikidata": "Q142178234"
+ },
+ {
+  "label_en": "Kita e: Diamond Dust",
+  "wikidata": "Q142211234"
  }
 ]

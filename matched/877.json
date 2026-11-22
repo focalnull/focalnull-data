@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "10830",
    "igdb": "unreal-tournament",
+   "metacritic": "unreal-tournament-1999",
    "mobygames": "587",
    "pcgamingwiki": "Unreal_Tournament",
    "steam": "13240"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "622",
    "igdb": "army-of-two",
+   "metacritic": "army-of-two",
    "mobygames": "33899"
   },
   "label_en": "Army of Two",
@@ -180,6 +182,7 @@
   "ids": {
    "howlongtobeat": "21398",
    "igdb": "social-justice-warriors",
+   "metacritic": "social-justice-warriors",
    "mobygames": "136987",
    "pcgamingwiki": "Social_Justice_Warriors",
    "steam": "348270"
@@ -192,6 +195,7 @@
    "gog": "game/slimesan_superslime_edition",
    "howlongtobeat": "44018",
    "igdb": "slime-san",
+   "metacritic": "slime-san",
    "mobygames": "88726",
    "pcgamingwiki": "Slime-san",
    "steam": "473530"
@@ -202,6 +206,7 @@
  {
   "ids": {
    "igdb": "discovery-kids-dolphin-discovery",
+   "metacritic": "discovery-kids-dolphin-discovery",
    "mobygames": "87843"
   },
   "label_en": "Discovery Kids: Dolphin Discovery",
@@ -233,6 +238,7 @@
    "gog": "game/the_bluecoats_north_south",
    "howlongtobeat": "24057",
    "igdb": "the-bluecoats-north-vs-south",
+   "metacritic": "the-bluecoats-north-vs-south",
    "mobygames": "77865",
    "pcgamingwiki": "The_Bluecoats:_North_vs_South",
    "steam": "347030"
@@ -244,6 +250,7 @@
   "ids": {
    "howlongtobeat": "9267",
    "igdb": "strike-suit-infinity",
+   "metacritic": "strike-suit-infinity",
    "mobygames": "130239",
    "pcgamingwiki": "Strike_Suit_Infinity",
    "steam": "234160"
@@ -256,6 +263,7 @@
   "ids": {
    "howlongtobeat": "75515",
    "igdb": "one-punch-man-a-hero-nobody-knows",
+   "metacritic": "one-punch-man-a-hero-nobody-knows",
    "mobygames": "141481",
    "pcgamingwiki": "One_Punch_Man:_A_Hero_Nobody_Knows",
    "steam": "991560"
@@ -288,6 +296,7 @@
   "ids": {
    "howlongtobeat": "87808",
    "igdb": "ghosts-n-goblins-resurrection--1",
+   "metacritic": "ghosts-n-goblins-resurrection",
    "mobygames": "158150",
    "pcgamingwiki": "Ghosts_'n_Goblins_Resurrection",
    "steam": "1375400"
@@ -301,6 +310,7 @@
    "epic": "xdefiant",
    "howlongtobeat": "127243",
    "igdb": "xdefiant",
+   "metacritic": "xdefiant",
    "pcgamingwiki": "XDefiant"
   },
   "label_en": "XDefiant",
@@ -365,6 +375,7 @@
   "ids": {
    "howlongtobeat": "57570",
    "igdb": "overwhelm",
+   "metacritic": "overwhelm",
    "mobygames": "110323",
    "pcgamingwiki": "Overwhelm",
    "steam": "785880"
@@ -394,6 +405,7 @@
   "ids": {
    "howlongtobeat": "44480",
    "igdb": "lithium-inmate-39",
+   "metacritic": "lithium-inmate-39",
    "mobygames": "87351",
    "pcgamingwiki": "Lithium:_Inmate_39",
    "steam": "463470"

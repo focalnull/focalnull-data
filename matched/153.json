@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "7911",
    "igdb": "rock-band",
+   "metacritic": "rock-band",
    "mobygames": "32021"
   },
   "label_en": "Rock Band",
@@ -60,6 +61,7 @@
   "enwiki": "ESPN NBA Basketball (video game)",
   "ids": {
    "igdb": "espn-nba-basketball",
+   "metacritic": "espn-nba-basketball",
    "mobygames": "11234"
   },
   "label_en": "ESPN NBA Basketball",
@@ -69,6 +71,7 @@
   "enwiki": "Juiced: Eliminator",
   "ids": {
    "igdb": "juiced-eliminator",
+   "metacritic": "juiced-eliminator",
    "mobygames": "61001"
   },
   "label_en": "Juiced: Eliminator",
@@ -88,6 +91,7 @@
   "ids": {
    "howlongtobeat": "18003",
    "igdb": "mr-driller-2",
+   "metacritic": "mr-driller-2",
    "mobygames": "17952",
    "pcgamingwiki": "Mr._Driller_2"
   },
@@ -115,6 +119,7 @@
   "enwiki": "PokéPark 2: Wonders Beyond",
   "ids": {
    "igdb": "pokepark-2-wonders-beyond",
+   "metacritic": "pokepark-2-wonders-beyond",
    "mobygames": "60674"
   },
   "label_en": "PokéPark 2: Wonders Beyond",
@@ -144,6 +149,7 @@
   "ids": {
    "howlongtobeat": "10129",
    "igdb": "pinball-arcade",
+   "metacritic": "the-pinball-arcade",
    "mobygames": "55689",
    "pcgamingwiki": "The_Pinball_Arcade",
    "steam": "238260"
@@ -155,6 +161,7 @@
   "enwiki": "Yummy Yummy Cooking Jam",
   "ids": {
    "igdb": "yummy-yummy-cooking-jam",
+   "metacritic": "yummy-yummy-cooking-jam",
    "mobygames": "79313"
   },
   "label_en": "Yummy Yummy Cooking Jam",
@@ -172,6 +179,7 @@
   "enwiki": "Svea Rike",
   "ids": {
    "igdb": "svea-rike",
+   "metacritic": "svea-rike",
    "mobygames": "7961"
   },
   "label_en": "Svea Rike",
@@ -188,6 +196,7 @@
   "ids": {
    "howlongtobeat": "14447",
    "igdb": "face-noir",
+   "metacritic": "face-noir",
    "mobygames": "61359",
    "pcgamingwiki": "Face_Noir",
    "steam": "244690"
@@ -202,6 +211,7 @@
    "gog": "game/the_escapists_2",
    "howlongtobeat": "47540",
    "igdb": "the-escapists-2",
+   "metacritic": "the-escapists-2",
    "mobygames": "94806",
    "pcgamingwiki": "The_Escapists_2",
    "steam": "641990"
@@ -226,6 +236,7 @@
   "ids": {
    "howlongtobeat": "52731",
    "igdb": "shadow-of-the-colossus--1",
+   "metacritic": "shadow-of-the-colossus",
    "mobygames": "102905"
   },
   "label_en": "Shadow of the Colossus",
@@ -256,6 +267,7 @@
   "ids": {
    "howlongtobeat": "44110",
    "igdb": "the-beard-in-the-mirror",
+   "metacritic": "the-beard-in-the-mirror",
    "mobygames": "108778",
    "pcgamingwiki": "The_Beard_in_the_Mirror",
    "steam": "385840"
@@ -268,6 +280,7 @@
   "ids": {
    "howlongtobeat": "21729",
    "igdb": "white-night",
+   "metacritic": "white-night",
    "mobygames": "84917",
    "pcgamingwiki": "White_Night",
    "steam": "301560"
@@ -310,6 +323,7 @@
   "ids": {
    "howlongtobeat": "43342",
    "igdb": "she-remembered-caterpillars",
+   "metacritic": "she-remembered-caterpillars",
    "mobygames": "123247",
    "pcgamingwiki": "She_Remembered_Caterpillars",
    "steam": "470780"
@@ -334,6 +348,7 @@
    "gog": "game/neptunia_virtual_stars",
    "howlongtobeat": "86417",
    "igdb": "neptunia-virtual-stars",
+   "metacritic": "neptunia-virtual-stars",
    "mobygames": "161328",
    "pcgamingwiki": "Neptunia_Virtual_Stars",
    "steam": "1399840"
@@ -346,6 +361,7 @@
    "epic": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
    "howlongtobeat": "86938",
    "igdb": "paw-patrol-mighty-pups-save-adventure-bay",
+   "metacritic": "paw-patrol-mighty-pups-save-adventure-bay",
    "mobygames": "152855",
    "pcgamingwiki": "Paw_Patrol:_Mighty_Pups_Save_Adventure_Bay",
    "steam": "1374990"
@@ -399,6 +415,7 @@
   "ids": {
    "howlongtobeat": "94135",
    "igdb": "loot-river",
+   "metacritic": "loot-river",
    "mobygames": "183931",
    "pcgamingwiki": "Loot_River",
    "steam": "1494260"
@@ -477,6 +494,7 @@
   "ids": {
    "howlongtobeat": "129806",
    "igdb": "persona-5-tactica",
+   "metacritic": "persona-5-tactica",
    "mobygames": "212224",
    "pcgamingwiki": "Persona_5_Tactica",
    "steam": "2254740"
@@ -487,6 +505,7 @@
  {
   "ids": {
    "howlongtobeat": "64654",
+   "metacritic": "tricky-truck",
    "mobygames": "47616"
   },
   "label_en": "Tricky Truck",
@@ -631,6 +650,7 @@
   "ids": {
    "howlongtobeat": "91548",
    "igdb": "redneck-ed-astro-monsters-show",
+   "metacritic": "redneck-ed-astro-monsters-show",
    "steam": "1237490"
   },
   "label_en": "Redneck Ed: Astro Monsters Show",
@@ -843,6 +863,7 @@
    "gog": "game/harold_halibut",
    "howlongtobeat": "69307",
    "igdb": "harold-halibut",
+   "metacritic": "harold-halibut",
    "mobygames": "222261",
    "pcgamingwiki": "Harold_Halibut",
    "steam": "924750"
@@ -1228,6 +1249,7 @@
   "ids": {
    "epic": "shuyan-saga-cd1476",
    "igdb": "shuyan-saga",
+   "pcgamingwiki": "Shuyan_Saga",
    "steam": "594680"
   },
   "label_en": "Shuyan Saga™",

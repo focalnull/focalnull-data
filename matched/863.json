@@ -24,6 +24,7 @@
    "gog": "game/clive_barkers_undying",
    "howlongtobeat": "1752",
    "igdb": "clive-barker-s-undying",
+   "metacritic": "clive-barkers-undying",
    "mobygames": "3457",
    "pcgamingwiki": "Clive_Barker's_Undying"
   },
@@ -36,6 +37,7 @@
    "gog": "game/escape_from_monkey_island",
    "howlongtobeat": "3149",
    "igdb": "escape-from-monkey-island",
+   "metacritic": "escape-from-monkey-island",
    "mobygames": "2606",
    "pcgamingwiki": "Escape_from_Monkey_Island",
    "steam": "730830"
@@ -258,6 +260,7 @@
   "ids": {
    "howlongtobeat": "33116",
    "igdb": "albert-and-otto-the-adventure-begins",
+   "metacritic": "albert-and-otto-the-adventure-begins",
    "mobygames": "82472",
    "pcgamingwiki": "Albert_and_Otto:_The_Adventure_Begins",
    "steam": "368590"
@@ -269,7 +272,8 @@
   "enwiki": "The Princess Guide (video game)",
   "ids": {
    "howlongtobeat": "65588",
-   "igdb": "the-princess-guide"
+   "igdb": "the-princess-guide",
+   "metacritic": "the-princess-guide"
   },
   "label_en": "The Princess Guide",
   "wikidata": "Q48757863"
@@ -299,6 +303,7 @@
   "ids": {
    "howlongtobeat": "75861",
    "igdb": "my-hero-ones-justice-2",
+   "metacritic": "my-hero-ones-justice-2",
    "mobygames": "143420",
    "pcgamingwiki": "My_Hero:_One's_Justice_2",
    "steam": "1058450"
@@ -312,6 +317,7 @@
    "epic": "combo-a7e03a",
    "howlongtobeat": "80923",
    "igdb": "orcs-must-die-3",
+   "metacritic": "orcs-must-die-3",
    "mobygames": "148120",
    "pcgamingwiki": "Orcs_Must_Die!_3",
    "steam": "1522820"
@@ -322,7 +328,8 @@
  {
   "enwiki": "EA Sports UFC 4",
   "ids": {
-   "igdb": "ea-sports-ufc-4"
+   "igdb": "ea-sports-ufc-4",
+   "metacritic": "ea-sports-ufc-4"
   },
   "label_en": "UFC 4",
   "wikidata": "Q98392863"
@@ -347,6 +354,7 @@
   "ids": {
    "howlongtobeat": "115623",
    "igdb": "brewmaster",
+   "metacritic": "brewmaster-beer-brewing-simulator",
    "mobygames": "192151",
    "pcgamingwiki": "Brewmaster:_Beer_Brewing_Simulator",
    "steam": "1569200"
@@ -379,6 +387,7 @@
    "gog": "game/against_the_storm",
    "howlongtobeat": "102565",
    "igdb": "against-the-storm",
+   "metacritic": "against-the-storm",
    "mobygames": "194368",
    "pcgamingwiki": "Against_the_Storm",
    "steam": "1336490"
@@ -446,7 +455,8 @@
  {
   "ids": {
    "howlongtobeat": "114375",
-   "igdb": "virtual-villagers-4-the-tree-of-life"
+   "igdb": "virtual-villagers-4-the-tree-of-life",
+   "metacritic": "virtual-villagers-4-the-tree-of-life"
   },
   "label_en": "Virtual Villagers 4: The Tree of Life",
   "wikidata": "Q119332863"
@@ -827,6 +837,7 @@
   "ids": {
    "howlongtobeat": "28592",
    "igdb": "pregnancy",
+   "metacritic": "pregnancy",
    "mobygames": "77001",
    "pcgamingwiki": "Pregnancy"
   },
@@ -1293,6 +1304,7 @@
   "ids": {
    "howlongtobeat": "172961",
    "igdb": "road-kings",
+   "metacritic": "road-kings",
    "pcgamingwiki": "Road_Kings",
    "steam": "2141130"
   },
@@ -1314,5 +1326,13 @@
   },
   "label_en": "No-good Noelle",
   "wikidata": "Q141507863"
+ },
+ {
+  "ids": {
+   "igdb": "berry-busy-tidy-up",
+   "steam": "5426350"
+  },
+  "label_en": "Berry Busy Tidy Up!",
+  "wikidata": "Q142203863"
  }
 ]

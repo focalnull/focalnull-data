@@ -3,6 +3,7 @@
   "enwiki": "Crouching Tiger, Hidden Dragon (video game)",
   "ids": {
    "igdb": "crouching-tiger-hidden-dragon",
+   "metacritic": "crouching-tiger-hidden-dragon",
    "mobygames": "18762"
   },
   "label_en": "Crouching Tiger, Hidden Dragon",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "60",
    "igdb": "2010-fifa-world-cup-south-africa",
+   "metacritic": "2010-fifa-world-cup-south-africa",
    "mobygames": "47085"
   },
   "label_en": "2010 FIFA World Cup South Africa",
@@ -23,6 +25,7 @@
   "ids": {
    "howlongtobeat": "6910",
    "igdb": "paper-mario-sticker-star",
+   "metacritic": "paper-mario-sticker-star",
    "mobygames": "68175"
   },
   "label_en": "Paper Mario: Sticker Star",
@@ -33,6 +36,7 @@
   "ids": {
    "howlongtobeat": "1245",
    "igdb": "bomberman-land-touch",
+   "metacritic": "bomberman-land-touch",
    "mobygames": "32363"
   },
   "label_en": "Bomberman Land Touch!",
@@ -52,6 +56,7 @@
   "ids": {
    "howlongtobeat": "10350",
    "igdb": "time-hollow",
+   "metacritic": "time-hollow",
    "mobygames": "37777"
   },
   "label_en": "Time Hollow",
@@ -62,6 +67,7 @@
   "ids": {
    "howlongtobeat": "29698",
    "igdb": "pirates-of-the-burning-sea",
+   "metacritic": "pirates-of-the-burning-sea",
    "mobygames": "32969",
    "steam": "24140"
   },
@@ -105,6 +111,7 @@
   "ids": {
    "howlongtobeat": "1047",
    "igdb": "binary-domain",
+   "metacritic": "binary-domain",
    "mobygames": "55126",
    "pcgamingwiki": "Binary_Domain",
    "steam": "203750"
@@ -117,6 +124,7 @@
   "ids": {
    "howlongtobeat": "166",
    "igdb": "ace-combat-04-shattered-skies",
+   "metacritic": "ace-combat-04-shattered-skies",
    "mobygames": "6192"
   },
   "label_en": "Ace Combat 04: Shattered Skies",
@@ -145,6 +153,7 @@
   "ids": {
    "howlongtobeat": "6866",
    "igdb": "pac-pix",
+   "metacritic": "pac-pix",
    "mobygames": "18043"
   },
   "label_en": "Pac-Pix",
@@ -157,6 +166,7 @@
   "ids": {
    "howlongtobeat": "433",
    "igdb": "american-mensa-academy",
+   "metacritic": "american-mensa-academy",
    "mobygames": "85085",
    "pcgamingwiki": "American_Mensa_Academy"
   },
@@ -190,6 +200,7 @@
   "enwiki": "Gotcha Force",
   "ids": {
    "igdb": "gotcha-force",
+   "metacritic": "gotcha-force",
    "mobygames": "12915"
   },
   "label_en": "Gotcha Force",
@@ -289,6 +300,7 @@
   "ids": {
    "howlongtobeat": "5481",
    "igdb": "mad-father",
+   "metacritic": "mad-father",
    "mobygames": "61842",
    "pcgamingwiki": "Mad_Father",
    "steam": "483980"
@@ -325,6 +337,7 @@
    "gog": "game/titan_souls",
    "howlongtobeat": "25025",
    "igdb": "titan-souls",
+   "metacritic": "titan-souls",
    "mobygames": "75843",
    "pcgamingwiki": "Titan_Souls",
    "steam": "297130"
@@ -350,6 +363,7 @@
    "gog": "game/randals_monday",
    "howlongtobeat": "22640",
    "igdb": "randals-monday",
+   "metacritic": "randals-monday",
    "mobygames": "70135",
    "pcgamingwiki": "Randal's_Monday",
    "steam": "314810"
@@ -382,6 +396,7 @@
   "ids": {
    "howlongtobeat": "65442",
    "igdb": "coffee-crisis",
+   "metacritic": "coffee-crisis",
    "mobygames": "108639",
    "pcgamingwiki": "Coffee_Crisis",
    "steam": "596380"
@@ -420,6 +435,7 @@
    "gog": "game/railway_empire",
    "howlongtobeat": "52962",
    "igdb": "railway-empire",
+   "metacritic": "railway-empire",
    "mobygames": "102022",
    "pcgamingwiki": "Railway_Empire",
    "steam": "503940"
@@ -482,6 +498,7 @@
    "gog": "game/retro_machina",
    "howlongtobeat": "88138",
    "igdb": "retro-machina",
+   "metacritic": "retro-machina",
    "mobygames": "164244",
    "pcgamingwiki": "Retro_Machina",
    "steam": "1127970"
@@ -1022,6 +1039,7 @@
  {
   "ids": {
    "igdb": "love-exalt-8372",
+   "metacritic": "love-exalt-8372",
    "mobygames": "227313",
    "steam": "2295280"
   },
@@ -1288,6 +1306,7 @@
  {
   "ids": {
    "igdb": "dire-echo",
+   "pcgamingwiki": "Dire_Echo",
    "steam": "3743180"
   },
   "label_en": "Dire Echo",

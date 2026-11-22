@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "11422",
    "igdb": "yakuza-2",
+   "metacritic": "yakuza-2",
    "mobygames": "33076"
   },
   "label_en": "Yakuza 2",
@@ -37,6 +38,7 @@
   "ids": {
    "howlongtobeat": "1344",
    "igdb": "brunswick-pro-bowling",
+   "metacritic": "brunswick-pro-bowling-2007",
    "mobygames": "56579"
   },
   "label_en": "Brunswick Pro Bowling",
@@ -83,6 +85,7 @@
   "ids": {
    "howlongtobeat": "308",
    "igdb": "akai-katana-shin",
+   "metacritic": "akai-katana",
    "mobygames": "57379"
   },
   "label_en": "Akai Katana",
@@ -92,6 +95,7 @@
   "enwiki": "Spy Fiction",
   "ids": {
    "igdb": "spy-fiction",
+   "metacritic": "spy-fiction",
    "mobygames": "34979"
   },
   "label_en": "Spy Fiction",
@@ -141,6 +145,7 @@
   "enwiki": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
   "ids": {
    "igdb": "mario-sonic-at-the-sochi-2014-olympic-winter-games",
+   "metacritic": "mario-sonic-at-the-sochi-2014-olympic-winter-games",
    "mobygames": "62688"
   },
   "label_en": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
@@ -151,6 +156,7 @@
   "ids": {
    "howlongtobeat": "42136",
    "igdb": "geoguessr",
+   "metacritic": "geoguessr",
    "mobygames": "61581",
    "steam": "3478870"
   },
@@ -162,6 +168,7 @@
   "ids": {
    "howlongtobeat": "30283",
    "igdb": "rampage-knights",
+   "metacritic": "rampage-knights",
    "mobygames": "86162",
    "pcgamingwiki": "Rampage_Knights",
    "steam": "314410"
@@ -174,6 +181,7 @@
   "ids": {
    "howlongtobeat": "42013",
    "igdb": "archibalds-adventures",
+   "metacritic": "archibalds-adventures",
    "mobygames": "71969",
    "pcgamingwiki": "Archibald's_Adventures",
    "steam": "461480"
@@ -203,6 +211,7 @@
    "gog": "game/pyre",
    "howlongtobeat": "40340",
    "igdb": "pyre",
+   "metacritic": "pyre",
    "mobygames": "93161",
    "pcgamingwiki": "Pyre",
    "steam": "462770"
@@ -223,6 +232,7 @@
    "gog": "game/human_fall_flat",
    "howlongtobeat": "38887",
    "igdb": "human-fall-flat",
+   "metacritic": "human-fall-flat",
    "mobygames": "84885",
    "pcgamingwiki": "Human:_Fall_Flat",
    "steam": "477160"
@@ -247,6 +257,7 @@
    "epic": "falcon-age",
    "howlongtobeat": "66323",
    "igdb": "falcon-age",
+   "metacritic": "falcon-age",
    "mobygames": "124747",
    "pcgamingwiki": "Falcon_Age",
    "steam": "1075080"
@@ -284,6 +295,7 @@
    "gog": "game/still_there",
    "howlongtobeat": "72427",
    "igdb": "still-there",
+   "metacritic": "still-there",
    "mobygames": "137463",
    "pcgamingwiki": "Still_There",
    "steam": "1063490"
@@ -395,6 +407,7 @@
   "ids": {
    "howlongtobeat": "130457",
    "igdb": "silent-hope",
+   "metacritic": "silent-hope",
    "mobygames": "209543",
    "pcgamingwiki": "Silent_Hope",
    "steam": "1960110"
@@ -650,6 +663,7 @@
  {
   "ids": {
    "igdb": "truxton-extreme",
+   "metacritic": "truxton-extreme",
    "pcgamingwiki": "Truxton_Extreme",
    "steam": "3323490"
   },
@@ -1176,6 +1190,9 @@
   "wikidata": "Q141499160"
  },
  {
+  "ids": {
+   "igdb": "petlings-merge-and-battle"
+  },
   "label_en": "Petlings: Merge & Battle",
   "wikidata": "Q142021160"
  }

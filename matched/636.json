@@ -39,6 +39,7 @@
   "enwiki": "NBA 2K2",
   "ids": {
    "igdb": "nba-2k2",
+   "metacritic": "nba-2k2",
    "mobygames": "23101"
   },
   "label_en": "NBA 2K2",
@@ -68,6 +69,7 @@
   "ids": {
    "howlongtobeat": "11312",
    "igdb": "worms-open-warfare",
+   "metacritic": "worms-open-warfare",
    "mobygames": "21873"
   },
   "label_en": "Worms: Open Warfare",
@@ -112,6 +114,7 @@
    "gog": "game/chantelise_a_tale_of_two_sisters",
    "howlongtobeat": "1640",
    "igdb": "chantelise-a-tale-of-two-sisters",
+   "metacritic": "chantelise-a-tale-of-two-sisters",
    "mobygames": "80407",
    "pcgamingwiki": "Chantelise:_A_Tale_of_Two_Sisters",
    "steam": "70420"
@@ -131,7 +134,8 @@
  {
   "enwiki": "Mercury Meltdown Revolution",
   "ids": {
-   "igdb": "mercury-meltdown-revolution"
+   "igdb": "mercury-meltdown-revolution",
+   "metacritic": "mercury-meltdown-revolution"
   },
   "label_en": "Mercury Meltdown Revolution",
   "wikidata": "Q6818636"
@@ -149,6 +153,7 @@
   "ids": {
    "howlongtobeat": "10104",
    "igdb": "the-munchables",
+   "metacritic": "the-munchables",
    "mobygames": "56508"
   },
   "label_en": "The Munchables",
@@ -196,6 +201,7 @@
   "ids": {
    "howlongtobeat": "52539",
    "igdb": "digimon-story-cyber-sleuth-hackers-memory",
+   "metacritic": "digimon-story-cyber-sleuth-hackers-memory",
    "mobygames": "99040"
   },
   "label_en": "Digimon Story: Cyber Sleuth - Hacker's Memory",
@@ -207,6 +213,7 @@
    "gog": "game/milkmaid_of_the_milky_way",
    "howlongtobeat": "42712",
    "igdb": "milkmaid-of-the-milky-way",
+   "metacritic": "milkmaid-of-the-milky-way",
    "mobygames": "82296",
    "pcgamingwiki": "Milkmaid_of_the_Milky_Way",
    "steam": "544970"
@@ -239,7 +246,9 @@
   "enwiki": "Creed: Rise to Glory",
   "ids": {
    "igdb": "creed-rise-to-glory",
+   "metacritic": "creed-rise-to-glory",
    "mobygames": "114175",
+   "pcgamingwiki": "Creed:_Rise_to_Glory",
    "steam": "804490"
   },
   "label_en": "Creed: Rise to Glory",
@@ -267,6 +276,7 @@
    "gog": "game/blacksad_under_the_skin",
    "howlongtobeat": "65983",
    "igdb": "blacksad-under-the-skin",
+   "metacritic": "blacksad-under-the-skin",
    "mobygames": "136847",
    "pcgamingwiki": "Blacksad:_Under_the_Skin",
    "steam": "1003890"
@@ -280,6 +290,7 @@
    "gog": "game/children_of_morta",
    "howlongtobeat": "22534",
    "igdb": "children-of-morta",
+   "metacritic": "children-of-morta",
    "mobygames": "118800",
    "pcgamingwiki": "Children_of_Morta",
    "steam": "330020"
@@ -303,7 +314,8 @@
  {
   "enwiki": "Five Nights at Freddy's: Special Delivery",
   "ids": {
-   "igdb": "five-nights-at-freddys-ar-special-delivery"
+   "igdb": "five-nights-at-freddys-ar-special-delivery",
+   "metacritic": "five-nights-at-freddys-ar-special-delivery"
   },
   "label_en": "Five Nights at Freddy's: Special Delivery",
   "wikidata": "Q70600636"
@@ -328,6 +340,7 @@
   "ids": {
    "howlongtobeat": "80675",
    "igdb": "bloodstained-curse-of-the-moon-2",
+   "metacritic": "bloodstained-curse-of-the-moon-2",
    "mobygames": "147502",
    "pcgamingwiki": "Bloodstained:_Curse_of_the_Moon_2",
    "steam": "1257360"
@@ -337,7 +350,8 @@
  },
  {
   "ids": {
-   "igdb": "last-voyage"
+   "igdb": "last-voyage",
+   "metacritic": "last-voyage"
   },
   "label_en": "Last Voyage",
   "wikidata": "Q97658636"
@@ -359,6 +373,7 @@
    "gog": "game/the_darkside_detective_a_fumble_in_the_dark",
    "howlongtobeat": "91005",
    "igdb": "the-darkside-detective-a-fumble-in-the-dark",
+   "metacritic": "the-darkside-detective-a-fumble-in-the-dark",
    "mobygames": "162530",
    "pcgamingwiki": "The_Darkside_Detective:_A_Fumble_in_the_Dark",
    "steam": "795420"
@@ -371,6 +386,7 @@
   "ids": {
    "howlongtobeat": "93897",
    "igdb": "phantom-abyss",
+   "metacritic": "phantom-abyss",
    "mobygames": "166791",
    "pcgamingwiki": "Phantom_Abyss",
    "steam": "989440"
@@ -383,6 +399,7 @@
    "gog": "game/real_myst_masterpiece_edition",
    "howlongtobeat": "20980",
    "igdb": "realmyst-masterpiece-edition",
+   "metacritic": "realmyst-masterpiece-edition",
    "mobygames": "65425",
    "pcgamingwiki": "RealMyst:_Masterpiece_Edition",
    "steam": "244430"
@@ -418,6 +435,7 @@
   "ids": {
    "howlongtobeat": "143941",
    "igdb": "well-always-have-paris",
+   "metacritic": "well-always-have-paris",
    "steam": "1520310"
   },
   "label_en": "We'll always have Paris",
@@ -449,6 +467,7 @@
  {
   "ids": {
    "igdb": "star-trek-trexels-ii",
+   "metacritic": "star-trek-trexels-ii",
    "mobygames": "116187"
   },
   "label_en": "Star Trek: Trexels II",
@@ -469,6 +488,7 @@
   "ids": {
    "howlongtobeat": "90289",
    "igdb": "gigantosaurus-the-game",
+   "metacritic": "gigantosaurus-the-game",
    "mobygames": "143821",
    "pcgamingwiki": "Gigantosaurus:_The_Game",
    "steam": "1177020"
@@ -511,6 +531,7 @@
   "enwiki": "Atomic Heart 2",
   "ids": {
    "igdb": "atomic-heart-ii",
+   "metacritic": "atomic-heart-2",
    "mobygames": "243268",
    "pcgamingwiki": "Atomic_Heart_2",
    "steam": "3788800"
@@ -610,6 +631,7 @@
    "epic": "lifeless-moon-9bdb88",
    "howlongtobeat": "106946",
    "igdb": "lifeless-moon",
+   "metacritic": "lifeless-moon",
    "mobygames": "207131",
    "pcgamingwiki": "Lifeless_Moon",
    "steam": "1147330"
@@ -731,7 +753,8 @@
  },
  {
   "ids": {
-   "igdb": "neptunia-reverse"
+   "igdb": "neptunia-reverse",
+   "metacritic": "neptunia-reverse"
   },
   "label_en": "Neptunia ReVerse",
   "wikidata": "Q122980636"
@@ -896,6 +919,7 @@
   "ids": {
    "howlongtobeat": "113383",
    "igdb": "mika-and-the-witchs-mountain",
+   "metacritic": "mika-and-the-witchs-mountain",
    "mobygames": "229395",
    "pcgamingwiki": "Mika_and_The_Witch's_Mountain",
    "steam": "1819460"
@@ -1198,6 +1222,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Dominos!",
    "steam": "1131230"
   },
   "label_en": "Dominos!",
@@ -1239,6 +1264,7 @@
    "epic": "iron-nest-heavy-turret-simulator-f3d497",
    "gog": "game/iron_nest_heavy_turret_simulator",
    "igdb": "iron-nest-heavy-turret-simulator",
+   "metacritic": "iron-nest-heavy-turret-simulator",
    "pcgamingwiki": "Iron_Nest:_Heavy_Turret_Simulator",
    "steam": "2950790"
   },

@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "9407",
    "igdb": "super-paper-mario",
+   "metacritic": "super-paper-mario",
    "mobygames": "27544"
   },
   "label_en": "Super Paper Mario",
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "1172",
    "igdb": "blitzkrieg",
+   "metacritic": "blitzkrieg-2003",
    "mobygames": "11329",
    "pcgamingwiki": "Blitzkrieg",
    "steam": "313480"
@@ -44,6 +46,7 @@
   "enwiki": "Tom Clancy's Splinter Cell: Conviction",
   "ids": {
    "igdb": "tom-clancy-s-splinter-cell-conviction",
+   "metacritic": "tom-clancys-splinter-cell-conviction",
    "mobygames": "46315",
    "pcgamingwiki": "Tom_Clancy's_Splinter_Cell:_Conviction",
    "steam": "33229"
@@ -98,6 +101,7 @@
   "ids": {
    "howlongtobeat": "16224",
    "igdb": "madden-nfl-99",
+   "metacritic": "madden-nfl-99",
    "mobygames": "5434"
   },
   "label_en": "Madden NFL 99",
@@ -117,6 +121,7 @@
   "ids": {
    "howlongtobeat": "6274",
    "igdb": "mushroom-wars",
+   "metacritic": "mushroom-wars",
    "mobygames": "108984",
    "pcgamingwiki": "Mushroom_Wars",
    "steam": "431250"
@@ -147,6 +152,7 @@
   "ids": {
    "howlongtobeat": "839",
    "igdb": "bankshot-billiards-2",
+   "metacritic": "bankshot-billiards-2",
    "mobygames": "46228"
   },
   "label_en": "Bankshot Billiards 2",
@@ -158,6 +164,7 @@
    "gog": "game/blowout",
    "howlongtobeat": "1200",
    "igdb": "blowout",
+   "metacritic": "blowout",
    "mobygames": "26662",
    "pcgamingwiki": "BlowOut",
    "steam": "719070"
@@ -169,6 +176,7 @@
   "enwiki": "Carve (video game)",
   "ids": {
    "igdb": "carve",
+   "metacritic": "carve",
    "mobygames": "12465"
   },
   "label_en": "Carve",
@@ -194,6 +202,7 @@
   "enwiki": "Kung Fu Rabbit",
   "ids": {
    "igdb": "kung-fu-rabbit",
+   "metacritic": "kung-fu-rabbit",
    "mobygames": "92281"
   },
   "label_en": "Kung Fu Rabbit",
@@ -234,6 +243,7 @@
   "enwiki": "Tiger Woods PGA Tour 10",
   "ids": {
    "igdb": "tiger-woods-pga-tour-10",
+   "metacritic": "tiger-woods-pga-tour-10",
    "mobygames": "89843"
   },
   "label_en": "Tiger Woods PGA Tour 10",
@@ -261,6 +271,7 @@
   "ids": {
    "howlongtobeat": "21253",
    "igdb": "escape-dead-island",
+   "metacritic": "escape-dead-island",
    "mobygames": "69973",
    "pcgamingwiki": "Escape_Dead_Island",
    "steam": "226560"
@@ -273,6 +284,7 @@
   "ids": {
    "howlongtobeat": "26803",
    "igdb": "dark-souls-iii",
+   "metacritic": "dark-souls-iii",
    "mobygames": "77737",
    "pcgamingwiki": "Dark_Souls_III",
    "steam": "374320"
@@ -297,6 +309,7 @@
    "gog": "game/downfall_redux",
    "howlongtobeat": "38242",
    "igdb": "downfall",
+   "metacritic": "downfall",
    "mobygames": "40762",
    "pcgamingwiki": "Downfall",
    "steam": "364390"
@@ -311,6 +324,7 @@
    "gog": "game/metro_exodus",
    "howlongtobeat": "46401",
    "igdb": "metro-exodus",
+   "metacritic": "metro-exodus",
    "mobygames": "121470",
    "pcgamingwiki": "Metro_Exodus",
    "steam": "412020"
@@ -327,6 +341,7 @@
    "gog": "game/kingsway",
    "howlongtobeat": "47521",
    "igdb": "kingsway",
+   "metacritic": "kingsway",
    "mobygames": "92852",
    "pcgamingwiki": "Kingsway",
    "steam": "588950"
@@ -356,7 +371,8 @@
  },
  {
   "ids": {
-   "igdb": "saint-seiya-shining-soldiers"
+   "igdb": "saint-seiya-shining-soldiers",
+   "metacritic": "saint-seiya-shining-soldiers"
   },
   "label_en": "Saint Seiya Shining Soldiers",
   "wikidata": "Q92943508"
@@ -375,6 +391,7 @@
  {
   "ids": {
    "howlongtobeat": "68413",
+   "metacritic": "astrology-ds-the-stars-in-your-hands",
    "mobygames": "79004"
   },
   "label_en": "Astrology DS: The Stars in Your Hand",
@@ -409,6 +426,7 @@
    "gog": "game/8bit_adventures_2",
    "howlongtobeat": "80316",
    "igdb": "8-bit-adventures-2",
+   "metacritic": "8-bit-adventures-2",
    "mobygames": "198798",
    "pcgamingwiki": "8-Bit_Adventures_2",
    "steam": "733110"
@@ -904,6 +922,7 @@
   "ids": {
    "howlongtobeat": "24791",
    "igdb": "heroes-of-hellas-2-olympia",
+   "metacritic": "heroes-of-hellas-2-olympia",
    "mobygames": "52855"
   },
   "label_en": "Heroes of Hellas 2: Olympia",
@@ -1205,6 +1224,7 @@
  {
   "ids": {
    "igdb": "hentai-shiri",
+   "pcgamingwiki": "Hentai_Shiri",
    "steam": "1166320"
   },
   "label_en": "Hentai Shiri",

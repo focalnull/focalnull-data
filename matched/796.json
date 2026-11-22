@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4254",
    "igdb": "half-life-blue-shift",
+   "metacritic": "half-life-blue-shift",
    "mobygames": "4376",
    "pcgamingwiki": "Half-Life:_Blue_Shift",
    "steam": "130"
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "2316",
    "igdb": "dead-or-alive-4",
+   "metacritic": "dead-or-alive-4",
    "mobygames": "22299"
   },
   "label_en": "Dead or Alive 4",
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "3916",
    "igdb": "ghost-trick-phantom-detective",
+   "metacritic": "ghost-trick-phantom-detective",
    "mobygames": "50004",
    "pcgamingwiki": "Ghost_Trick:_Phantom_Detective",
    "steam": "1967430"
@@ -121,6 +124,7 @@
   "ids": {
    "howlongtobeat": "7088",
    "igdb": "piyotama",
+   "metacritic": "piyotama",
    "mobygames": "83393"
   },
   "label_en": "Piyotama",
@@ -140,6 +144,7 @@
   "enwiki": "Driveclub",
   "ids": {
    "igdb": "driveclub",
+   "metacritic": "driveclub",
    "mobygames": "68879"
   },
   "label_en": "Driveclub",
@@ -183,6 +188,7 @@
   "ids": {
    "howlongtobeat": "34086",
    "igdb": "american-truck-simulator",
+   "metacritic": "american-truck-simulator",
    "mobygames": "76958",
    "pcgamingwiki": "American_Truck_Simulator",
    "steam": "270880"
@@ -223,6 +229,7 @@
   "ids": {
    "howlongtobeat": "83690",
    "igdb": "action-taimanin--1",
+   "metacritic": "action-taimanin",
    "mobygames": "150932",
    "pcgamingwiki": "Action_Taimanin",
    "steam": "1335200"
@@ -236,6 +243,7 @@
  },
  {
   "ids": {
+   "metacritic": "world-series-baseball",
    "mobygames": "6557"
   },
   "label_en": "World Series Baseball",
@@ -275,6 +283,7 @@
    "gog": "game/blue_fire",
    "howlongtobeat": "80162",
    "igdb": "blue-fire",
+   "metacritic": "blue-fire",
    "mobygames": "157963",
    "pcgamingwiki": "Blue_Fire",
    "steam": "1220150"
@@ -301,6 +310,7 @@
   "ids": {
    "howlongtobeat": "128033",
    "igdb": "the-texas-chain-saw-massacre",
+   "metacritic": "the-texas-chain-saw-massacre",
    "mobygames": "207426",
    "pcgamingwiki": "The_Texas_Chain_Saw_Massacre",
    "steam": "1433140"
@@ -409,6 +419,7 @@
    "gog": "game/the_past_within",
    "howlongtobeat": "101496",
    "igdb": "the-past-within",
+   "metacritic": "the-past-within",
    "mobygames": "194428",
    "pcgamingwiki": "The_Past_Within",
    "steam": "1515210"
@@ -419,6 +430,7 @@
  {
   "ids": {
    "igdb": "a-kings-tale-final-fantasy-xv",
+   "metacritic": "a-kings-tale-final-fantasy-xv",
    "mobygames": "84487"
   },
   "label_en": "A King s Tale: Final Fantasy XV",
@@ -930,6 +942,7 @@
    "epic": "winter-survival-58df2c",
    "howlongtobeat": "121195",
    "igdb": "winter-survival--1",
+   "metacritic": "winter-survival",
    "mobygames": "218966",
    "steam": "1394960"
   },
@@ -1380,6 +1393,7 @@
   "ids": {
    "howlongtobeat": "181987",
    "igdb": "castlevania-belmonts-curse",
+   "metacritic": "castlevania-belmonts-curse",
    "mobygames": "255131",
    "pcgamingwiki": "Castlevania:_Belmont's_Curse",
    "steam": "4231820"
@@ -1390,6 +1404,7 @@
  {
   "enwiki": "Don't Starve Elsewhere",
   "ids": {
+   "pcgamingwiki": "Don't_Starve_Elsewhere",
    "steam": "2239770"
   },
   "label_en": "Don't Starve Elsewhere",

@@ -46,6 +46,7 @@
   "ids": {
    "howlongtobeat": "9611",
    "igdb": "tales-of-xillia-2",
+   "metacritic": "tales-of-xillia-2",
    "mobygames": "83601"
   },
   "label_en": "Tales of Xillia 2",
@@ -85,6 +86,7 @@
   "ids": {
    "howlongtobeat": "831",
    "igdb": "bangai-o",
+   "metacritic": "bangai-o",
    "mobygames": "6485"
   },
   "label_en": "Bangai-O",
@@ -138,6 +140,7 @@
   "enwiki": "It's Mr. Pants",
   "ids": {
    "igdb": "it-s-mr-pants",
+   "metacritic": "its-mr-pants",
    "mobygames": "18003"
   },
   "label_en": "It's Mr. Pants",
@@ -185,6 +188,7 @@
   "enwiki": "The Legend of Legacy",
   "ids": {
    "igdb": "the-legend-of-legacy",
+   "metacritic": "the-legend-of-legacy",
    "mobygames": "85325",
    "pcgamingwiki": "The_Legend_of_Legacy_HD_Remastered"
   },
@@ -207,6 +211,7 @@
   "ids": {
    "howlongtobeat": "15867",
    "igdb": "continue-9876543210",
+   "metacritic": "continue9876543210",
    "mobygames": "66958",
    "pcgamingwiki": "Continue?9876543210",
    "steam": "263340"
@@ -229,6 +234,7 @@
    "gog": "game/agent_a_a_puzzle_in_disguise",
    "howlongtobeat": "39290",
    "igdb": "agent-a-a-puzzle-in-disguise",
+   "metacritic": "agent-a-a-puzzle-in-disguise",
    "mobygames": "93355",
    "pcgamingwiki": "Agent_A:_A_Puzzle_in_Disguise",
    "steam": "801480"
@@ -249,6 +255,7 @@
   "ids": {
    "howlongtobeat": "47601",
    "igdb": "de-mambo",
+   "metacritic": "de-mambo",
    "mobygames": "92476",
    "pcgamingwiki": "De_Mambo",
    "steam": "717540"
@@ -259,6 +266,7 @@
  {
   "ids": {
    "igdb": "the-9th-gate",
+   "metacritic": "the-9th-gate",
    "pcgamingwiki": "The_9th_Gate",
    "steam": "697130"
   },
@@ -268,6 +276,7 @@
  {
   "ids": {
    "igdb": "the-bibleman",
+   "metacritic": "the-bibleman",
    "pcgamingwiki": "The_Bibleman"
   },
   "label_en": "The Bibleman",
@@ -313,6 +322,7 @@
    "howlongtobeat": "97932",
    "igdb": "conquest-of-elysium-5",
    "mobygames": "169486",
+   "pcgamingwiki": "Conquest_of_Elysium_5",
    "steam": "1606340"
   },
   "label_en": "Conquest of Elysium 5",
@@ -363,6 +373,7 @@
   "ids": {
    "epic": "vacation-adventures-cruise-director-2-5bcb27",
    "igdb": "vacation-adventures-cruise-director-2",
+   "metacritic": "vacation-adventures-cruise-director-2",
    "mobygames": "126845",
    "pcgamingwiki": "Vacation_Adventures:_Cruise_Director_2",
    "steam": "1069720"
@@ -798,6 +809,7 @@
   "ids": {
    "howlongtobeat": "49756",
    "igdb": "kung-fu-fight",
+   "metacritic": "kung-fu-fight",
    "mobygames": "86203"
   },
   "label_en": "Kung Fu Fight",
@@ -805,7 +817,8 @@
  },
  {
   "ids": {
-   "igdb": "aikatsu-stars-first-appeal"
+   "igdb": "aikatsu-stars-first-appeal",
+   "metacritic": "aikatsu-stars-first-appeal"
   },
   "label_en": "Aikatsu Stars! First Appeal",
   "wikidata": "Q125917468"
@@ -855,6 +868,7 @@
   "ids": {
    "howlongtobeat": "155679",
    "igdb": "pocket-waifu-desktop-pet",
+   "metacritic": "pocket-waifu-desktop-pet",
    "steam": "2989820"
   },
   "label_en": "Pocket Waifu: Desktop Pet",

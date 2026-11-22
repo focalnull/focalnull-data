@@ -3,6 +3,7 @@
   "enwiki": "Rune: Halls of Valhalla",
   "ids": {
    "igdb": "rune-halls-of-valhalla",
+   "metacritic": "rune-halls-of-valhalla",
    "mobygames": "4662"
   },
   "label_en": "Rune: Halls of Valhalla",
@@ -64,6 +65,7 @@
   "enwiki": "Sega Marine Fishing",
   "ids": {
    "igdb": "sega-marine-fishing",
+   "metacritic": "sega-marine-fishing",
    "mobygames": "25294"
   },
   "label_en": "Sega Marine Fishing",
@@ -165,6 +167,7 @@
   "ids": {
    "howlongtobeat": "46226",
    "igdb": "tekken-7",
+   "metacritic": "tekken-7",
    "mobygames": "89713",
    "pcgamingwiki": "Tekken_7",
    "steam": "389730"
@@ -188,6 +191,7 @@
   "ids": {
    "howlongtobeat": "10973",
    "igdb": "virtual-skipper-3",
+   "metacritic": "virtual-skipper-3",
    "mobygames": "39386"
   },
   "label_en": "Virtual Skipper 3",
@@ -197,6 +201,7 @@
   "enwiki": "The Witch and the Hundred Knight 2",
   "ids": {
    "igdb": "the-witch-and-the-hundred-knight-2",
+   "metacritic": "the-witch-and-the-hundred-knight-2",
    "mobygames": "98511"
   },
   "label_en": "The Witch and the Hundred Knight 2",
@@ -231,6 +236,7 @@
    "gog": "game/spongebob_squarepants_battle_for_bikini_bottom_rehydrated",
    "howlongtobeat": "67967",
    "igdb": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
+   "metacritic": "spongebob-squarepants-battle-for-bikini-bottom-2",
    "mobygames": "147026",
    "pcgamingwiki": "SpongeBob_SquarePants:_Battle_for_Bikini_Bottom_-_Rehydrated",
    "steam": "969990"
@@ -349,6 +355,7 @@
   "ids": {
    "howlongtobeat": "125076",
    "igdb": "cities-skylines-ii",
+   "metacritic": "cities-skylines-ii",
    "mobygames": "210740",
    "pcgamingwiki": "Cities:_Skylines_II",
    "steam": "949230"
@@ -362,6 +369,7 @@
    "gog": "game/children_of_silentown",
    "howlongtobeat": "121054",
    "igdb": "children-of-silentown",
+   "metacritic": "children-of-silentown",
    "mobygames": "197555",
    "pcgamingwiki": "Children_of_Silentown",
    "steam": "1108000"
@@ -1118,6 +1126,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "The_Eventide",
    "steam": "4038610"
   },
   "label_en": "The Eventide",
@@ -1141,6 +1150,7 @@
  {
   "ids": {
    "igdb": "smoke-town",
+   "pcgamingwiki": "Smoke_Town",
    "steam": "4624100"
   },
   "label_en": "Smoke Town",

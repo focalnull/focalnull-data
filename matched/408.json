@@ -19,6 +19,7 @@
   "ids": {
    "howlongtobeat": "1173",
    "igdb": "blitzkrieg-2",
+   "metacritic": "blitzkrieg-2",
    "mobygames": "33081",
    "pcgamingwiki": "Blitzkrieg_2",
    "steam": "313500"
@@ -72,6 +73,7 @@
    "gog": "game/avadon_the_black_fortress",
    "howlongtobeat": "736",
    "igdb": "avadon-the-black-fortress",
+   "metacritic": "avadon-the-black-fortress",
    "mobygames": "63786",
    "pcgamingwiki": "Avadon:_The_Black_Fortress",
    "steam": "112100"
@@ -138,6 +140,7 @@
   "ids": {
    "howlongtobeat": "10794",
    "igdb": "unbound-saga",
+   "metacritic": "unbound-saga",
    "mobygames": "41678"
   },
   "label_en": "Unbound Saga",
@@ -157,6 +160,7 @@
   "ids": {
    "howlongtobeat": "3098",
    "igdb": "emergency-3",
+   "metacritic": "emergency-3",
    "mobygames": "16362",
    "pcgamingwiki": "Emergency_3:_Mission:Life",
    "steam": "757200"
@@ -214,6 +218,7 @@
   "ids": {
    "howlongtobeat": "104609",
    "igdb": "grand-theft-auto-vi",
+   "metacritic": "grand-theft-auto-vi",
    "mobygames": "244405",
    "pcgamingwiki": "Grand_Theft_Auto_VI"
   },
@@ -226,6 +231,7 @@
    "gog": "game/reigns",
    "howlongtobeat": "39382",
    "igdb": "reigns",
+   "metacritic": "reigns",
    "mobygames": "80569",
    "pcgamingwiki": "Reigns",
    "steam": "474750"
@@ -237,6 +243,7 @@
   "enwiki": "Xenoblade Chronicles 2: Torna – The Golden Country",
   "ids": {
    "igdb": "xenoblade-chronicles-2-torna-the-golden-country",
+   "metacritic": "xenoblade-chronicles-2-torna-the-golden-country",
    "mobygames": "110448"
   },
   "label_en": "Xenoblade Chronicles 2: Torna – The Golden Country",
@@ -251,6 +258,7 @@
    "gog": "game/warsaw",
    "howlongtobeat": "65275",
    "igdb": "warsaw-rising-city-of-heroes--1",
+   "metacritic": "warsaw",
    "mobygames": "135525",
    "pcgamingwiki": "Warsaw",
    "steam": "1026420"
@@ -341,6 +349,7 @@
    "gog": "game/real_anime_situation_2",
    "howlongtobeat": "155662",
    "igdb": "real-anime-situation-2",
+   "metacritic": "real-eroge-situation-2",
    "mobygames": "226732",
    "steam": "2361760"
   },
@@ -351,6 +360,7 @@
   "enwiki": "Armored Moon: The Next Eden",
   "ids": {
    "igdb": "armored-moon-the-next-eden",
+   "metacritic": "armored-moon-the-next-eden",
    "mobygames": "49128"
   },
   "label_en": "Armored Moon: The Next Eden",
@@ -362,6 +372,7 @@
    "epic": "total-war-pharaoh",
    "howlongtobeat": "129161",
    "igdb": "total-war-pharaoh",
+   "metacritic": "total-war-pharaoh",
    "mobygames": "210083",
    "pcgamingwiki": "Total_War:_Pharaoh",
    "steam": "1937780"
@@ -383,6 +394,7 @@
   "ids": {
    "howlongtobeat": "120360",
    "igdb": "babbdi",
+   "metacritic": "babbdi",
    "mobygames": "197739",
    "pcgamingwiki": "Babbdi",
    "steam": "2240530"
@@ -589,6 +601,7 @@
  {
   "ids": {
    "igdb": "galaxy-warfighter",
+   "metacritic": "galaxy-warfighter",
    "mobygames": "144380",
    "steam": "1243100"
   },
@@ -1098,6 +1111,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Fears_to_Fathom:_Scratch_Creek",
    "steam": "4121170"
   },
   "label_en": "Fears to Fathom - Scratch Creek",

@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "7043",
    "igdb": "pikmin-2",
+   "metacritic": "pikmin-2",
    "mobygames": "14717"
   },
   "label_en": "Pikmin 2",
@@ -50,6 +51,7 @@
   "ids": {
    "howlongtobeat": "16015",
    "igdb": "battle-mages",
+   "metacritic": "battle-mages",
    "mobygames": "12411",
    "pcgamingwiki": "Battle_Mages",
    "steam": "302470"
@@ -140,6 +142,7 @@
   "enwiki": "Power Rangers Wild Force (video game)",
   "ids": {
    "igdb": "power-rangers-wild-force",
+   "metacritic": "power-rangers-wild-force",
    "mobygames": "206229"
   },
   "label_en": "Power Rangers Wild Force",
@@ -161,6 +164,7 @@
   "ids": {
    "howlongtobeat": "4550",
    "igdb": "hunter-the-reckoning-redeemer",
+   "metacritic": "hunter-the-reckoning-redeemer",
    "mobygames": "11075"
   },
   "label_en": "Hunter: The Reckoning – Redeemer",
@@ -186,6 +190,7 @@
   "enwiki": "Need for Speed: No Limits",
   "ids": {
    "igdb": "need-for-speed-no-limits",
+   "metacritic": "need-for-speed-no-limits",
    "mobygames": "75207"
   },
   "label_en": "Need for Speed: No Limits",
@@ -206,6 +211,7 @@
   "enwiki": "Fire Emblem Echoes: Shadows of Valentia",
   "ids": {
    "igdb": "fire-emblem-echoes-shadows-of-valentia",
+   "metacritic": "fire-emblem-echoes-shadows-of-valentia",
    "mobygames": "87199"
   },
   "label_en": "Fire Emblem Echoes: Shadows of Valentia",
@@ -223,6 +229,7 @@
   "enwiki": "Critical Ops",
   "ids": {
    "igdb": "critical-ops",
+   "metacritic": "critical-ops",
    "mobygames": "133766"
   },
   "label_en": "Critical Ops",
@@ -234,6 +241,7 @@
    "epic": "the-pathless",
    "howlongtobeat": "68191",
    "igdb": "the-pathless",
+   "metacritic": "the-pathless",
    "mobygames": "153320",
    "pcgamingwiki": "The_Pathless",
    "steam": "1492680"
@@ -246,6 +254,7 @@
    "gog": "game/dreambreak",
    "howlongtobeat": "38787",
    "igdb": "dreambreak",
+   "metacritic": "dreambreak",
    "mobygames": "95893",
    "pcgamingwiki": "DreamBreak",
    "steam": "443570"
@@ -443,6 +452,7 @@
    "howlongtobeat": "144268",
    "igdb": "dango",
    "mobygames": "201129",
+   "pcgamingwiki": "DANGO!",
    "steam": "1900930"
   },
   "label_en": "DANGO!",
@@ -842,6 +852,7 @@
   "ids": {
    "howlongtobeat": "202",
    "igdb": "adrenalin-misfits",
+   "metacritic": "adrenalin-misfits",
    "mobygames": "77424"
   },
   "label_en": "Adrenalin Misfits",
@@ -853,6 +864,7 @@
    "gog": "game/crypt_custodian",
    "howlongtobeat": "129758",
    "igdb": "crypt-custodian",
+   "metacritic": "crypt-custodian",
    "mobygames": "231342",
    "pcgamingwiki": "Crypt_Custodian",
    "steam": "2394650"
@@ -898,6 +910,7 @@
    "epic": "borderlands-4",
    "howlongtobeat": "91605",
    "igdb": "borderlands-4",
+   "metacritic": "borderlands-4",
    "pcgamingwiki": "Borderlands_4",
    "steam": "1285190"
   },

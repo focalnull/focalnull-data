@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3748",
    "igdb": "full-throttle",
+   "metacritic": "full-throttle",
    "mobygames": "940",
    "pcgamingwiki": "Full_Throttle"
   },
@@ -14,6 +15,7 @@
   "enwiki": "NHL Eastside Hockey Manager",
   "ids": {
    "igdb": "nhl-eastside-hockey-manager",
+   "metacritic": "nhl-eastside-hockey-manager",
    "mobygames": "21475"
   },
   "label_en": "NHL Eastside Hockey Manager",
@@ -23,6 +25,7 @@
   "enwiki": "FIFA Football 2005",
   "ids": {
    "igdb": "fifa-soccer-2005--1",
+   "metacritic": "fifa-soccer",
    "mobygames": "15428",
    "pcgamingwiki": "FIFA_Football_2005"
   },
@@ -34,6 +37,7 @@
   "ids": {
    "howlongtobeat": "3283",
    "igdb": "eyetoy-antigrav",
+   "metacritic": "eyetoy-antigrav",
    "mobygames": "15529"
   },
   "label_en": "EyeToy: AntiGrav",
@@ -53,6 +57,7 @@
   "enwiki": "Alpha Black Zero: Intrepid Protocol",
   "ids": {
    "igdb": "alpha-black-zero-intrepid-protocol",
+   "metacritic": "alpha-black-zero-intrepid-protocol",
    "mobygames": "21161"
   },
   "label_en": "Alpha Black Zero",
@@ -63,6 +68,7 @@
   "ids": {
    "howlongtobeat": "1268",
    "igdb": "boom-blox-bash-party",
+   "metacritic": "boom-blox-bash-party",
    "mobygames": "45489"
   },
   "label_en": "Boom Blox Bash Party",
@@ -80,6 +86,7 @@
   "enwiki": "Ontamarama",
   "ids": {
    "igdb": "ontamarama",
+   "metacritic": "ontamarama",
    "mobygames": "40462"
   },
   "label_en": "Ontamarama",
@@ -98,6 +105,7 @@
   "ids": {
    "howlongtobeat": "9513",
    "igdb": "sword-of-the-stars-ii-enhanced-edition",
+   "metacritic": "sword-of-the-stars-ii-lords-of-winter-enhanced-edition",
    "mobygames": "53538",
    "pcgamingwiki": "Sword_of_the_Stars_II:_Lords_of_Winter",
    "steam": "42990"
@@ -111,6 +119,7 @@
    "gog": "game/a_new_beginning",
    "howlongtobeat": "134",
    "igdb": "a-new-beginning",
+   "metacritic": "a-new-beginning",
    "mobygames": "48747",
    "pcgamingwiki": "A_New_Beginning",
    "steam": "105000"
@@ -169,6 +178,7 @@
   "enwiki": "Officers (video game)",
   "ids": {
    "igdb": "officers",
+   "metacritic": "officers",
    "mobygames": "43975"
   },
   "label_en": "Officers",
@@ -217,6 +227,7 @@
   "ids": {
    "howlongtobeat": "29437",
    "igdb": "spider-rite-of-the-shrouded-moon",
+   "metacritic": "spider-rite-of-the-shrouded-moon",
    "mobygames": "87352",
    "pcgamingwiki": "Spider:_Rite_of_the_Shrouded_Moon",
    "steam": "278420"
@@ -255,6 +266,7 @@
   "ids": {
    "howlongtobeat": "57336",
    "igdb": "strange-brigade",
+   "metacritic": "strange-brigade",
    "mobygames": "112803",
    "pcgamingwiki": "Strange_Brigade",
    "steam": "312670"
@@ -266,6 +278,7 @@
   "ids": {
    "howlongtobeat": "61474",
    "igdb": "naruto-to-boruto-shinobi-striker",
+   "metacritic": "naruto-to-boruto-shinobi-striker",
    "mobygames": "112983",
    "pcgamingwiki": "Naruto_to_Boruto:_Shinobi_Striker",
    "steam": "633230"
@@ -302,6 +315,7 @@
    "gog": "game/ghostwire_tokyo",
    "howlongtobeat": "68156",
    "igdb": "ghostwire-tokyo",
+   "metacritic": "ghostwire-tokyo",
    "mobygames": "181888",
    "pcgamingwiki": "Ghostwire:_Tokyo",
    "steam": "1475810"
@@ -342,6 +356,7 @@
   "ids": {
    "howlongtobeat": "7420",
    "igdb": "puzzle-dimension",
+   "metacritic": "puzzle-dimension",
    "mobygames": "47002",
    "pcgamingwiki": "Puzzle_Dimension",
    "steam": "57200"
@@ -354,6 +369,7 @@
    "gog": "game/a_kiss_for_the_petals_remembering_how_we_met",
    "howlongtobeat": "30664",
    "igdb": "a-kiss-for-the-petals-remembering-how-we-met",
+   "metacritic": "a-kiss-for-the-petals-remembering-how-we-met",
    "mobygames": "97303",
    "pcgamingwiki": "A_Kiss_for_the_Petals_-_Remembering_How_We_Met",
    "steam": "397270"
@@ -364,6 +380,7 @@
  {
   "ids": {
    "igdb": "operation-zeta",
+   "metacritic": "operation-zeta",
    "mobygames": "178251",
    "steam": "1289750"
   },
@@ -374,6 +391,7 @@
   "ids": {
    "howlongtobeat": "20233",
    "igdb": "take-command-2nd-manassas",
+   "metacritic": "take-command-2nd-manassas",
    "mobygames": "42227",
    "pcgamingwiki": "Take_Command_-_2nd_Manassas",
    "steam": "392330"
@@ -443,6 +461,7 @@
   "ids": {
    "howlongtobeat": "113296",
    "igdb": "betrayal-at-club-low",
+   "metacritic": "betrayal-at-club-low",
    "mobygames": "196278",
    "pcgamingwiki": "Betrayal_at_Club_Low",
    "steam": "1885750"
@@ -456,6 +475,8 @@
    "epic": "paxdei-0ee83f",
    "howlongtobeat": "130082",
    "igdb": "pax-dei",
+   "metacritic": "pax-dei",
+   "pcgamingwiki": "Pax_Dei",
    "steam": "1995520"
   },
   "label_en": "Pax Dei",
@@ -745,6 +766,7 @@
    "gog": "game/the_inquisitor",
    "howlongtobeat": "94781",
    "igdb": "the-inquisitor--1",
+   "metacritic": "the-inquisitor",
    "mobygames": "217313",
    "pcgamingwiki": "The_Inquisitor_(2024)",
    "steam": "1880470"
@@ -755,6 +777,7 @@
  {
   "ids": {
    "igdb": "wwii-battle-tanks-t-34-vs-tiger",
+   "metacritic": "wwii-battle-tanks-t-34-vs-tiger",
    "mobygames": "37760"
   },
   "label_en": "WWII Battle Tanks: T-34 vs. Tiger",
@@ -865,6 +888,7 @@
   "ids": {
    "howlongtobeat": "14025",
    "igdb": "truth-or-lies",
+   "metacritic": "truth-or-lies",
    "mobygames": "54655"
   },
   "label_en": "Truth or Lies",
@@ -875,6 +899,7 @@
   "ids": {
    "howlongtobeat": "14789",
    "igdb": "tv-animation-x-unmei-no-tatakai",
+   "metacritic": "tv-animation-x-unmei-no-sentaku",
    "mobygames": "202826"
   },
   "label_en": "TV Animation X: Unmei no Sentaku",
@@ -884,6 +909,7 @@
   "ids": {
    "howlongtobeat": "111271",
    "igdb": "serum",
+   "metacritic": "serum",
    "mobygames": "224486",
    "steam": "1610520"
   },
@@ -948,7 +974,8 @@
  {
   "ids": {
    "howlongtobeat": "135945",
-   "igdb": "prison-life-simulator-jail-gangster-escape-games-scary-architect-battle"
+   "igdb": "prison-life-simulator-jail-gangster-escape-games-scary-architect-battle",
+   "metacritic": "prison-life-simulator-jail-gangster-escape-games"
   },
   "label_en": "Prison Life Simulator Jail - Gangster Escape Games Scary Architect Battle",
   "wikidata": "Q131405471"
@@ -958,6 +985,7 @@
    "epic": "fractured-blooms-3b25c6",
    "howlongtobeat": "169262",
    "igdb": "fractured-blooms",
+   "metacritic": "fractured-blooms",
    "pcgamingwiki": "Fractured_Blooms",
    "steam": "3730310"
   },
@@ -1268,6 +1296,7 @@
   "enwiki": "NBA 2K26",
   "ids": {
    "igdb": "nba-2k26",
+   "pcgamingwiki": "NBA_2K26",
    "steam": "3472040"
   },
   "label_en": "NBA 2K26",
@@ -1307,6 +1336,7 @@
  },
  {
   "ids": {
+   "metacritic": "drive-ahead",
    "mobygames": "210189"
   },
   "label_en": "Drive Ahead!",

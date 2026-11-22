@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9386",
    "igdb": "super-mario-sunshine",
+   "metacritic": "super-mario-sunshine",
    "mobygames": "7178"
   },
   "label_en": "Super Mario Sunshine",
@@ -43,6 +44,7 @@
   "ids": {
    "howlongtobeat": "12346",
    "igdb": "nascar-thunder-2003",
+   "metacritic": "nascar-thunder-2003",
    "mobygames": "11197",
    "pcgamingwiki": "NASCAR_Thunder_2003"
   },
@@ -53,6 +55,7 @@
   "enwiki": "Hercules: The Legendary Journeys (video game)",
   "ids": {
    "igdb": "hercules-the-legendary-journeys",
+   "metacritic": "hercules-the-legendary-journeys",
    "mobygames": "9180"
   },
   "label_en": "Hercules: The Legendary Journeys",
@@ -117,6 +120,7 @@
   "enwiki": "Operation Darkness",
   "ids": {
    "igdb": "operation-darkness",
+   "metacritic": "operation-darkness",
    "mobygames": "54643"
   },
   "label_en": "Operation Darkness",
@@ -165,6 +169,7 @@
   "ids": {
    "howlongtobeat": "19215",
    "igdb": "super-mario-maker",
+   "metacritic": "super-mario-maker",
    "mobygames": "74669"
   },
   "label_en": "Super Mario Maker",
@@ -175,6 +180,7 @@
   "ids": {
    "howlongtobeat": "33799",
    "igdb": "megadimension-neptunia-vii",
+   "metacritic": "megadimension-neptunia-vii",
    "mobygames": "83240",
    "pcgamingwiki": "Megadimension_Neptunia_VII",
    "steam": "460120"
@@ -187,6 +193,7 @@
   "ids": {
    "howlongtobeat": "3688",
    "igdb": "freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch",
+   "metacritic": "freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch",
    "mobygames": "5157",
    "pcgamingwiki": "Freddi_Fish_4:_The_Case_of_the_Hogfish_Rustlers_of_Briny_Gulch",
    "steam": "294550"
@@ -209,6 +216,7 @@
   "enwiki": "Mario Party: The Top 100",
   "ids": {
    "igdb": "mario-party-the-top-100",
+   "metacritic": "mario-party-the-top-100",
    "mobygames": "97262"
   },
   "label_en": "Mario Party: The Top 100",
@@ -219,6 +227,7 @@
   "ids": {
    "howlongtobeat": "38196",
    "igdb": "empires-apart",
+   "metacritic": "empires-apart",
    "mobygames": "105419",
    "pcgamingwiki": "Empires_Apart",
    "steam": "530630"
@@ -257,6 +266,7 @@
    "epic": "bio-inc-redemption-280fe5",
    "howlongtobeat": "46325",
    "igdb": "bio-inc-redemption",
+   "metacritic": "bio-inc-redemption",
    "mobygames": "208360",
    "pcgamingwiki": "Bio_Inc._Redemption",
    "steam": "612470"
@@ -314,6 +324,7 @@
   "ids": {
    "howlongtobeat": "76038",
    "igdb": "nba-inside-drive-2003",
+   "metacritic": "nba-inside-drive-2003",
    "mobygames": "14687"
   },
   "label_en": "NBA Inside Drive 2003",
@@ -342,6 +353,7 @@
   "ids": {
    "howlongtobeat": "122013",
    "igdb": "surviving-the-abyss",
+   "metacritic": "surviving-the-abyss",
    "mobygames": "198162",
    "steam": "1254320"
   },
@@ -361,6 +373,7 @@
    "gog": "game/vengeful_guardian_moonrider",
    "howlongtobeat": "112587",
    "igdb": "vengeful-guardian-moonrider",
+   "metacritic": "vengeful-guardian-moonrider",
    "mobygames": "197806",
    "pcgamingwiki": "Vengeful_Guardian:_Moonrider",
    "steam": "1942010"
@@ -601,6 +614,7 @@
    "gog": "game/moonstone_island",
    "howlongtobeat": "109056",
    "igdb": "moonstone-island",
+   "metacritic": "moonstone-island",
    "mobygames": "208912",
    "pcgamingwiki": "Moonstone_Island",
    "steam": "1658150"
@@ -817,6 +831,7 @@
   "ids": {
    "howlongtobeat": "166637",
    "igdb": "many-nights-a-whisper",
+   "metacritic": "many-nights-a-whisper",
    "steam": "3541130"
   },
   "label_en": "Many Nights a Whisper",

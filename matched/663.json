@@ -5,6 +5,7 @@
    "gog": "game/wacky_wheels",
    "howlongtobeat": "10994",
    "igdb": "wacky-wheels",
+   "metacritic": "wacky-wheels",
    "mobygames": "433",
    "pcgamingwiki": "Wacky_Wheels",
    "steam": "358380"
@@ -20,6 +21,7 @@
   "enwiki": "Naruto: The Broken Bond",
   "ids": {
    "igdb": "naruto-the-broken-bond",
+   "metacritic": "naruto-the-broken-bond",
    "mobygames": "42129"
   },
   "label_en": "Naruto: The Broken Bond",
@@ -60,6 +62,7 @@
   "ids": {
    "howlongtobeat": "5442",
    "igdb": "lunar-dragon-song",
+   "metacritic": "lunar-dragon-song",
    "mobygames": "21568"
   },
   "label_en": "Lunar: Dragon Song",
@@ -100,6 +103,7 @@
   "enwiki": "Freedom Wings",
   "ids": {
    "igdb": "freedom-wings",
+   "metacritic": "freedom-wings",
    "mobygames": "32835"
   },
   "label_en": "Freedom Wings",
@@ -127,6 +131,7 @@
   "enwiki": "Spray (video game)",
   "ids": {
    "igdb": "spray",
+   "metacritic": "spray",
    "mobygames": "92893"
   },
   "label_en": "SPRay",
@@ -157,7 +162,8 @@
   "enwiki": "Diamond Trust of London",
   "ids": {
    "howlongtobeat": "17091",
-   "igdb": "diamond-trust-of-london"
+   "igdb": "diamond-trust-of-london",
+   "metacritic": "diamond-trust-of-london"
   },
   "label_en": "Diamond Trust of London",
   "wikidata": "Q13405663"
@@ -192,6 +198,7 @@
    "gog": "game/we_happy_few",
    "howlongtobeat": "27102",
    "igdb": "we-happy-few",
+   "metacritic": "we-happy-few",
    "mobygames": "84238",
    "pcgamingwiki": "We_Happy_Few",
    "steam": "320240"
@@ -204,6 +211,7 @@
   "ids": {
    "howlongtobeat": "38919",
    "igdb": "tricky-towers",
+   "metacritic": "tricky-towers",
    "mobygames": "83999",
    "pcgamingwiki": "Tricky_Towers",
    "steam": "437920"
@@ -215,6 +223,7 @@
   "ids": {
    "howlongtobeat": "53268",
    "igdb": "the-longest-five-minutes",
+   "metacritic": "the-longest-five-minutes",
    "mobygames": "101192",
    "pcgamingwiki": "The_Longest_Five_Minutes",
    "steam": "504110"
@@ -258,13 +267,15 @@
  {
   "enwiki": "NCAA GameBreaker 2003",
   "ids": {
-   "igdb": "ncaa-gamebreaker-2003"
+   "igdb": "ncaa-gamebreaker-2003",
+   "metacritic": "ncaa-gamebreaker-2003"
   },
   "label_en": "NCAA GameBreaker 2003",
   "wikidata": "Q96394663"
  },
  {
   "ids": {
+   "metacritic": "mlb-slugfest-20-04",
    "mobygames": "78967"
   },
   "label_en": "MLB SlugFest 20-04",
@@ -276,6 +287,7 @@
    "gog": "game/remilore_lost_girl_in_the_lands_of_lore",
    "howlongtobeat": "70299",
    "igdb": "remilore-lost-girl-in-the-lands-of-lore",
+   "metacritic": "remilore-lost-girl-in-the-lands-of-lore",
    "mobygames": "121828",
    "pcgamingwiki": "RemiLore:_Lost_Girl_in_the_Lands_of_Lore",
    "steam": "995240"
@@ -387,6 +399,7 @@
   "ids": {
    "howlongtobeat": "49532",
    "igdb": "trivia-vault-super-heroes-trivia-2",
+   "metacritic": "trivia-vault-super-heroes-trivia-2",
    "pcgamingwiki": "Trivia_Vault:_Super_Heroes_Trivia_2",
    "steam": "705090"
   },
@@ -449,6 +462,7 @@
   "ids": {
    "howlongtobeat": "66102",
    "igdb": "melbits-world",
+   "metacritic": "melbits-world",
    "mobygames": "184995",
    "pcgamingwiki": "Melbits_World",
    "steam": "1202820"
@@ -462,6 +476,7 @@
    "gog": "game/lust_for_darkness",
    "howlongtobeat": "57574",
    "igdb": "lust-for-darkness",
+   "metacritic": "lust-for-darkness",
    "mobygames": "110070",
    "pcgamingwiki": "Lust_for_Darkness",
    "steam": "523650"
@@ -483,6 +498,7 @@
    "howlongtobeat": "85829",
    "igdb": "friendship-with-benefits",
    "mobygames": "152694",
+   "pcgamingwiki": "Friendship_with_Benefits",
    "steam": "1299370"
   },
   "label_en": "Friendship with Benefits",
@@ -1183,6 +1199,7 @@
  {
   "ids": {
    "igdb": "a-time-paradox",
+   "pcgamingwiki": "A_Time_Paradox",
    "steam": "1167730"
   },
   "label_en": "A Time Paradox",
@@ -1208,6 +1225,7 @@
   "ids": {
    "howlongtobeat": "181668",
    "igdb": "sniper-dan",
+   "metacritic": "sniper-dan",
    "pcgamingwiki": "Sniper_Dan",
    "steam": "2841650"
   },

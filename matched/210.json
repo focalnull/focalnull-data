@@ -3,6 +3,7 @@
   "enwiki": "Need for Speed: Underground",
   "ids": {
    "igdb": "need-for-speed-underground",
+   "metacritic": "need-for-speed-underground",
    "mobygames": "11175",
    "pcgamingwiki": "Need_for_Speed:_Underground"
   },
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "42510",
    "igdb": "street-legal-racing-redline",
+   "metacritic": "street-legal-racing-redline",
    "mobygames": "22680",
    "pcgamingwiki": "Street_Legal_Racing:_Redline",
    "steam": "497180"
@@ -52,6 +54,7 @@
   "ids": {
    "howlongtobeat": "8796",
    "igdb": "sonic-the-hedgehog-spinball",
+   "metacritic": "sonic-the-hedgehog-spinball",
    "mobygames": "6620",
    "pcgamingwiki": "Sonic_Spinball",
    "steam": "34313"
@@ -78,6 +81,7 @@
   "ids": {
    "howlongtobeat": "20479",
    "igdb": "the-egyptian-prophecy-the-fate-of-ramses",
+   "metacritic": "the-egyptian-prophecy",
    "mobygames": "12895",
    "pcgamingwiki": "The_Egyptian_Prophecy:_The_Fate_of_Ramses",
    "steam": "302160"
@@ -121,7 +125,8 @@
   "enwiki": "Minnesota Cuke and the Coconut Apes",
   "ids": {
    "howlongtobeat": "6077",
-   "igdb": "veggietales-minnesota-cuke-and-the-coconut-apes"
+   "igdb": "veggietales-minnesota-cuke-and-the-coconut-apes",
+   "metacritic": "veggietales-minnesota-cuke-and-the-coconut-apes"
   },
   "label_en": "Minnesota Cuke and the Coconut Apes",
   "wikidata": "Q6868210"
@@ -162,6 +167,7 @@
    "gog": "game/dead_cells",
    "howlongtobeat": "45727",
    "igdb": "dead-cells",
+   "metacritic": "dead-cells",
    "mobygames": "89051",
    "pcgamingwiki": "Dead_Cells",
    "steam": "588650"
@@ -185,6 +191,7 @@
    "gog": "game/west_of_loathing",
    "howlongtobeat": "48134",
    "igdb": "west-of-loathing",
+   "metacritic": "west-of-loathing",
    "mobygames": "94257",
    "pcgamingwiki": "West_of_Loathing",
    "steam": "597220"
@@ -200,6 +207,7 @@
   "enwiki": "Just Dance 2019",
   "ids": {
    "igdb": "just-dance-2019",
+   "metacritic": "just-dance-2019",
    "mobygames": "115862"
   },
   "label_en": "Just Dance 2019",
@@ -293,6 +301,7 @@
   "ids": {
    "howlongtobeat": "44760",
    "igdb": "chaos-code-new-sign-of-catastrophe",
+   "metacritic": "chaos-code-new-sign-of-catastrophe",
    "mobygames": "85400",
    "pcgamingwiki": "Chaos_Code:_New_Sign_of_Catastrophe",
    "steam": "536560"
@@ -992,6 +1001,7 @@
  {
   "ids": {
    "igdb": "mahjong--2",
+   "pcgamingwiki": "MahJong_(baKno)",
    "steam": "742030"
   },
   "label_en": "MahJong",

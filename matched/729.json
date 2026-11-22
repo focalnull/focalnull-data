@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "9792",
    "igdb": "the-bouncer",
+   "metacritic": "the-bouncer",
    "mobygames": "3825"
   },
   "label_en": "The Bouncer",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "21559",
    "igdb": "vancouver-2010",
+   "metacritic": "vancouver-2010-the-official-video-game-of-the",
    "mobygames": "46737",
    "pcgamingwiki": "Vancouver_2010",
    "steam": "34180"
@@ -53,6 +55,7 @@
   "enwiki": "Gyrostarr",
   "ids": {
    "igdb": "gyrostarr",
+   "metacritic": "gyrostarr",
    "mobygames": "34808"
   },
   "label_en": "Gyrostarr",
@@ -144,6 +147,7 @@
    "gog": "game/prison_architect",
    "howlongtobeat": "7308",
    "igdb": "prison-architect",
+   "metacritic": "prison-architect",
    "mobygames": "82165",
    "pcgamingwiki": "Prison_Architect",
    "steam": "233450"
@@ -182,6 +186,7 @@
   "enwiki": "Wallace & Gromit: The Curse of the Were-Rabbit (video game)",
   "ids": {
    "igdb": "wallace-gromit-the-curse-of-the-were-rabbit",
+   "metacritic": "wallace-and-gromit-the-curse-of-the-were-rabbit",
    "mobygames": "21135"
   },
   "label_en": "Wallace & Gromit: The Curse of the Were-Rabbit",
@@ -210,6 +215,7 @@
   "ids": {
    "howlongtobeat": "16808",
    "igdb": "the-castle-doctrine",
+   "metacritic": "the-castle-doctrine",
    "mobygames": "155972",
    "pcgamingwiki": "The_Castle_Doctrine",
    "steam": "249570"
@@ -221,6 +227,7 @@
   "enwiki": "King Arthur (video game)",
   "ids": {
    "igdb": "king-arthur",
+   "metacritic": "king-arthur",
    "mobygames": "18242"
   },
   "label_en": "King Arthur",
@@ -274,6 +281,7 @@
   "ids": {
    "howlongtobeat": "46045",
    "igdb": "samurai-warriors-spirit-of-sanada",
+   "metacritic": "samurai-warriors-spirit-of-sanada",
    "mobygames": "89075",
    "pcgamingwiki": "Samurai_Warriors:_Spirit_of_Sanada",
    "steam": "595740"
@@ -287,6 +295,7 @@
    "gog": "game/police_stories",
    "howlongtobeat": "68375",
    "igdb": "police-stories",
+   "metacritic": "police-stories",
    "mobygames": "128220",
    "pcgamingwiki": "Police_Stories",
    "steam": "539470"
@@ -300,6 +309,7 @@
    "gog": "game/kathy_rain",
    "howlongtobeat": "36847",
    "igdb": "kathy-rain",
+   "metacritic": "kathy-rain",
    "mobygames": "79519",
    "pcgamingwiki": "Kathy_Rain",
    "steam": "370910"
@@ -311,6 +321,7 @@
   "ids": {
    "howlongtobeat": "66206",
    "igdb": "elli",
+   "metacritic": "elli",
    "mobygames": "120317",
    "steam": "1346600"
   },
@@ -325,6 +336,9 @@
   "wikidata": "Q64958729"
  },
  {
+  "ids": {
+   "metacritic": "resident-evil-hd-remaster"
+  },
   "label_en": "Resident Evil HD Remaster",
   "wikidata": "Q66770729"
  },
@@ -353,6 +367,7 @@
    "gog": "game/in_other_waters",
    "howlongtobeat": "74940",
    "igdb": "in-other-waters",
+   "metacritic": "in-other-waters",
    "mobygames": "143975",
    "pcgamingwiki": "In_Other_Waters",
    "steam": "890720"
@@ -365,6 +380,7 @@
   "ids": {
    "howlongtobeat": "109240",
    "igdb": "forza-motorsport--1",
+   "metacritic": "forza-motorsport",
    "mobygames": "210034",
    "pcgamingwiki": "Forza_Motorsport",
    "steam": "2440510"
@@ -393,6 +409,7 @@
   "ids": {
    "howlongtobeat": "98274",
    "igdb": "chocobo-gp",
+   "metacritic": "chocobo-gp",
    "mobygames": "202781"
   },
   "label_en": "Chocobo GP",
@@ -412,6 +429,7 @@
    "epic": "world-war-z",
    "howlongtobeat": "98252",
    "igdb": "world-war-z-aftermath",
+   "metacritic": "world-war-z-aftermath",
    "mobygames": "172509",
    "pcgamingwiki": "World_War_Z",
    "steam": "699130"
@@ -446,7 +464,8 @@
  },
  {
   "ids": {
-   "howlongtobeat": "115191"
+   "howlongtobeat": "115191",
+   "metacritic": "ultra-kaiju-monster-rancher"
   },
   "label_en": "Ultra Kaiju Monster Rancher",
   "wikidata": "Q113493729"
@@ -476,6 +495,7 @@
    "gog": "game/bleak_faith_forsaken",
    "howlongtobeat": "92165",
    "igdb": "bleak-faith-forsaken",
+   "metacritic": "bleak-faith-forsaken",
    "mobygames": "200339",
    "pcgamingwiki": "Bleak_Faith:_Forsaken",
    "steam": "1173220"
@@ -488,7 +508,9 @@
   "ids": {
    "howlongtobeat": "129504",
    "igdb": "poly-bridge-3",
+   "metacritic": "poly-bridge-3",
    "mobygames": "203814",
+   "pcgamingwiki": "Poly_Bridge_3",
    "steam": "1850160"
   },
   "label_en": "Poly Bridge 3",
@@ -509,6 +531,7 @@
    "howlongtobeat": "131005",
    "igdb": "vividlope",
    "mobygames": "203336",
+   "pcgamingwiki": "Vividlope",
    "steam": "2078510"
   },
   "label_en": "VIVIDLOPE",
@@ -566,6 +589,7 @@
    "epic": "redemption-reapers-54dabd",
    "howlongtobeat": "118740",
    "igdb": "redemption-reapers",
+   "metacritic": "redemption-reapers",
    "mobygames": "199843",
    "pcgamingwiki": "Redemption_Reapers",
    "steam": "2139300"
@@ -1165,6 +1189,7 @@
  {
   "ids": {
    "igdb": "captive--3",
+   "pcgamingwiki": "Captive",
    "steam": "1283680"
   },
   "label_en": "Captive",
@@ -1181,6 +1206,7 @@
  {
   "ids": {
    "igdb": "tomeling-in-trouble",
+   "metacritic": "tomeling-in-trouble",
    "mobygames": "101527"
   },
   "label_en": "Tomeling in Trouble",
@@ -1205,6 +1231,9 @@
   "wikidata": "Q141480729"
  },
  {
+  "ids": {
+   "metacritic": "shooting-blocks"
+  },
   "label_en": "Shooting Blocks",
   "wikidata": "Q142171729"
  }

@@ -5,6 +5,7 @@
    "gog": "game/star_wars_episode_i_racer",
    "howlongtobeat": "9080",
    "igdb": "star-wars-episode-i-racer",
+   "metacritic": "star-wars-episode-i-racer",
    "mobygames": "276",
    "pcgamingwiki": "Star_Wars:_Episode_I_-_Racer",
    "steam": "808910"
@@ -18,6 +19,7 @@
    "gog": "game/mafia",
    "howlongtobeat": "5517",
    "igdb": "mafia",
+   "metacritic": "mafia",
    "mobygames": "7190",
    "pcgamingwiki": "Mafia",
    "steam": "40990"
@@ -30,6 +32,7 @@
   "ids": {
    "howlongtobeat": "4269",
    "igdb": "halo-combat-evolved",
+   "metacritic": "halo-combat-evolved-anniversary",
    "mobygames": "5368",
    "pcgamingwiki": "Halo:_Combat_Evolved"
   },
@@ -42,6 +45,7 @@
    "gog": "game/driver_parallel_lines",
    "howlongtobeat": "2889",
    "igdb": "driver-parallel-lines",
+   "metacritic": "driver-parallel-lines",
    "mobygames": "21660",
    "pcgamingwiki": "Driver:_Parallel_Lines",
    "steam": "21780"
@@ -54,6 +58,7 @@
   "ids": {
    "howlongtobeat": "6515",
    "igdb": "neverwinter-nights",
+   "metacritic": "neverwinter-nights",
    "mobygames": "6771",
    "pcgamingwiki": "Neverwinter_Nights"
   },
@@ -76,6 +81,7 @@
    "gog": "game/submarine_titans",
    "howlongtobeat": "24087",
    "igdb": "submarine-titans",
+   "metacritic": "submarine-titans",
    "mobygames": "2216",
    "pcgamingwiki": "Submarine_Titans",
    "steam": "1259380"
@@ -88,6 +94,7 @@
   "ids": {
    "howlongtobeat": "1835",
    "igdb": "command-conquer-generals",
+   "metacritic": "command-and-conquer-generals",
    "mobygames": "8387",
    "pcgamingwiki": "Command_&_Conquer:_Generals",
    "steam": "2229870"
@@ -99,6 +106,7 @@
   "ids": {
    "howlongtobeat": "28642",
    "igdb": "metal-gear-solid-digital-graphic-novel",
+   "metacritic": "metal-gear-solid-digital-graphic-novel",
    "mobygames": "23222"
   },
   "label_en": "Metal Gear Solid: Digital Graphic Novel",
@@ -110,6 +118,7 @@
    "gog": "game/the_curse_of_monkey_island",
    "howlongtobeat": "9822",
    "igdb": "the-curse-of-monkey-island",
+   "metacritic": "the-curse-of-monkey-island",
    "mobygames": "547",
    "pcgamingwiki": "The_Curse_of_Monkey_Island",
    "steam": "730820"
@@ -128,6 +137,7 @@
    "gog": "game/guilty_gear_isuka",
    "howlongtobeat": "4163",
    "igdb": "guilty-gear-isuka",
+   "metacritic": "guilty-gear-isuka",
    "mobygames": "24328",
    "pcgamingwiki": "Guilty_Gear_Isuka",
    "steam": "267900"
@@ -148,7 +158,8 @@
  {
   "enwiki": "MotoGP '07",
   "ids": {
-   "igdb": "motogp-07"
+   "igdb": "motogp-07",
+   "metacritic": "motogp-07"
   },
   "label_en": "MotoGP '07",
   "wikidata": "Q3325217"
@@ -174,6 +185,7 @@
   "ids": {
    "howlongtobeat": "5483",
    "igdb": "mad-riders",
+   "metacritic": "mad-riders",
    "mobygames": "83598",
    "pcgamingwiki": "Mad_Riders",
    "steam": "208860"
@@ -194,6 +206,7 @@
   "enwiki": "NHL Slapshot",
   "ids": {
    "igdb": "nhl-slapshot",
+   "metacritic": "nhl-slapshot",
    "mobygames": "86055"
   },
   "label_en": "NHL Slapshot",
@@ -230,6 +243,7 @@
   "enwiki": "Crime Scene (video game)",
   "ids": {
    "igdb": "crime-scene",
+   "metacritic": "crime-scene-2009",
    "mobygames": "69016"
   },
   "label_en": "Crime Scene",
@@ -239,6 +253,7 @@
   "enwiki": "Domino Master",
   "ids": {
    "igdb": "domino-master",
+   "metacritic": "domino-master",
    "mobygames": "47439"
   },
   "label_en": "Domino Master",
@@ -280,6 +295,7 @@
   "enwiki": "Uno Rush",
   "ids": {
    "igdb": "uno-rush",
+   "metacritic": "uno-rush",
    "mobygames": "49811"
   },
   "label_en": "Uno Rush",
@@ -310,6 +326,7 @@
   "enwiki": "Star Fox Zero",
   "ids": {
    "igdb": "star-fox-zero",
+   "metacritic": "star-fox-zero",
    "mobygames": "80338"
   },
   "label_en": "Star Fox Zero",
@@ -363,6 +380,9 @@
   "wikidata": "Q60987217"
  },
  {
+  "ids": {
+   "metacritic": "fruit-space"
+  },
   "label_en": "Fruit Space",
   "wikidata": "Q61978217"
  },
@@ -370,6 +390,7 @@
   "enwiki": "Bakugan: Defenders of the Core",
   "ids": {
    "igdb": "bakugan-defenders-of-the-core",
+   "metacritic": "bakugan-defenders-of-the-core",
    "mobygames": "90587"
   },
   "label_en": "Bakugan: Defenders of the Core",
@@ -384,6 +405,7 @@
    "gog": "game/steel_rats",
    "howlongtobeat": "62747",
    "igdb": "steel-rats",
+   "metacritic": "steel-rats",
    "mobygames": "116471",
    "pcgamingwiki": "Steel_Rats",
    "steam": "619700"
@@ -419,7 +441,8 @@
  },
  {
   "ids": {
-   "igdb": "injustice-gods-among-us-ultimate-edition"
+   "igdb": "injustice-gods-among-us-ultimate-edition",
+   "metacritic": "injustice-gods-among-us-ultimate-edition"
   },
   "label_en": "Injustice: Gods Among Us Ultimate Edition",
   "wikidata": "Q107424217"
@@ -466,6 +489,7 @@
   "ids": {
    "howlongtobeat": "52485",
    "igdb": "la-noire-the-vr-case-files",
+   "metacritic": "la-noire-the-vr-case-files",
    "mobygames": "99235",
    "pcgamingwiki": "L.A._Noire:_The_VR_Case_Files",
    "steam": "722230"
@@ -866,6 +890,7 @@
  {
   "ids": {
    "igdb": "fitness-boxing-3-your-personal-trainer",
+   "metacritic": "fitness-boxing-3-your-personal-trainer",
    "mobygames": "234848"
   },
   "label_en": "Fitness Boxing 3: Your Personal Trainer",
@@ -879,8 +904,10 @@
   "wikidata": "Q130723217"
  },
  {
+  "enwiki": "My Winter Car",
   "ids": {
    "igdb": "my-winter-car",
+   "metacritic": "my-winter-car",
    "pcgamingwiki": "My_Winter_Car",
    "steam": "4164420"
   },
@@ -1015,6 +1042,7 @@
   "ids": {
    "howlongtobeat": "140477",
    "igdb": "30-birds",
+   "metacritic": "30-birds",
    "mobygames": "234246",
    "steam": "1708770"
   },
@@ -1246,6 +1274,7 @@
  {
   "ids": {
    "igdb": "true-skate",
+   "pcgamingwiki": "True_Skate",
    "steam": "1958240"
   },
   "label_en": "TRUE SKATE™",
@@ -1262,6 +1291,7 @@
  {
   "ids": {
    "igdb": "nelly-cootalot-spoonbeaks-ahoy-hd",
+   "pcgamingwiki": "Nelly_Cootalot:_Spoonbeaks_Ahoy!_HD",
    "steam": "763030"
   },
   "label_en": "Nelly Cootalot: Spoonbeaks Ahoy! HD",

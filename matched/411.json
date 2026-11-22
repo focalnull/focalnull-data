@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "8349",
    "igdb": "shadow-the-hedgehog",
+   "metacritic": "shadow-the-hedgehog",
    "mobygames": "20907"
   },
   "label_en": "Shadow the Hedgehog",
@@ -45,6 +46,7 @@
   "enwiki": "No Man's Land (video game)",
   "ids": {
    "igdb": "no-mans-land",
+   "metacritic": "no-mans-land",
    "mobygames": "12983",
    "pcgamingwiki": "No_Man's_Land",
    "steam": "3863620"
@@ -58,6 +60,7 @@
    "gog": "game/star_trek_voyager_elite_force",
    "howlongtobeat": "9068",
    "igdb": "star-trek-voyager-elite-force",
+   "metacritic": "star-trek-voyager-elite-force",
    "mobygames": "2536",
    "pcgamingwiki": "Star_Trek:_Voyager_-_Elite_Force"
   },
@@ -81,6 +84,7 @@
   "ids": {
    "howlongtobeat": "8196",
    "igdb": "sd-gundam-force",
+   "metacritic": "sd-gundam-force",
    "mobygames": "236082"
   },
   "label_en": "SD Gundam Force",
@@ -122,6 +126,7 @@
  {
   "ids": {
    "igdb": "kingdom-heroes-2",
+   "pcgamingwiki": "Kingdom_Heroes_2",
    "steam": "1079150"
   },
   "label_en": "Kingdom Heroes",
@@ -133,6 +138,7 @@
    "gog": "game/alien_breed_2_assault",
    "howlongtobeat": "346",
    "igdb": "alien-breed-2-assault",
+   "metacritic": "alien-breed-2-assault",
    "mobygames": "51250",
    "pcgamingwiki": "Alien_Breed_2:_Assault",
    "steam": "22650"
@@ -150,6 +156,7 @@
   "ids": {
    "howlongtobeat": "6063",
    "igdb": "mindjack",
+   "metacritic": "mindjack",
    "mobygames": "59706"
   },
   "label_en": "MindJack",
@@ -159,6 +166,7 @@
   "enwiki": "Mistmare",
   "ids": {
    "igdb": "mistmare",
+   "metacritic": "mistmare",
    "mobygames": "11171"
   },
   "label_en": "Mistmare",
@@ -206,6 +214,7 @@
    "gog": "game/where_is_my_heart",
    "howlongtobeat": "11139",
    "igdb": "where-is-my-heart",
+   "metacritic": "where-is-my-heart",
    "mobygames": "73565",
    "pcgamingwiki": "Where_Is_My_Heart?",
    "steam": "244950"
@@ -230,6 +239,7 @@
   "ids": {
    "howlongtobeat": "6424",
    "igdb": "naval-war-arctic-circle",
+   "metacritic": "naval-war-arctic-circle",
    "mobygames": "60992",
    "pcgamingwiki": "Naval_War:_Arctic_Circle",
    "steam": "200050"
@@ -246,6 +256,7 @@
   "ids": {
    "howlongtobeat": "12772",
    "igdb": "worms-clan-wars",
+   "metacritic": "worms-clan-wars",
    "mobygames": "81003",
    "pcgamingwiki": "Worms_Clan_Wars",
    "steam": "233840"
@@ -271,6 +282,7 @@
    "gog": "game/megaton_rainfall",
    "howlongtobeat": "25262",
    "igdb": "megaton-rainfall",
+   "metacritic": "megaton-rainfall",
    "mobygames": "97203",
    "pcgamingwiki": "Megaton_Rainfall",
    "steam": "430210"
@@ -293,6 +305,7 @@
   "enwiki": "Lucky's Tale",
   "ids": {
    "igdb": "luckys-tale",
+   "metacritic": "luckys-tale",
    "mobygames": "139975",
    "pcgamingwiki": "Lucky's_Tale",
    "steam": "1803840"
@@ -317,6 +330,7 @@
    "gog": "game/knights_of_pen_and_paper_1_edition",
    "howlongtobeat": "5103",
    "igdb": "knights-of-pen-and-paper-plus-1-edition",
+   "metacritic": "knights-of-pen-paper",
    "mobygames": "65112",
    "pcgamingwiki": "Knights_of_Pen_and_Paper_+1_Edition",
    "steam": "231740"
@@ -346,6 +360,7 @@
   "ids": {
    "howlongtobeat": "28654",
    "igdb": "my-ex-boyfriend-the-space-tyrant",
+   "metacritic": "my-ex-boyfriend-the-space-tyrant",
    "mobygames": "82095",
    "pcgamingwiki": "My_Ex-Boyfriend_the_Space_Tyrant",
    "steam": "312970"
@@ -377,6 +392,7 @@
   "ids": {
    "howlongtobeat": "2194",
    "igdb": "danmaku-unlimited-2",
+   "metacritic": "danmaku-unlimited-2",
    "mobygames": "71852",
    "pcgamingwiki": "Danmaku_Unlimited_2",
    "steam": "280560"
@@ -433,6 +449,7 @@
   "ids": {
    "howlongtobeat": "106111",
    "igdb": "andro-dunos-ii",
+   "metacritic": "andro-dunos-2",
    "mobygames": "181845",
    "steam": "1856900"
   },
@@ -456,6 +473,7 @@
    "gog": "game/mable_the_wood",
    "howlongtobeat": "69463",
    "igdb": "mable-and-the-wood",
+   "metacritic": "mable-amp-the-wood",
    "mobygames": "133571",
    "pcgamingwiki": "Mable_and_the_Wood",
    "steam": "568070"
@@ -477,6 +495,7 @@
   "ids": {
    "howlongtobeat": "111787",
    "igdb": "trombone-champ",
+   "metacritic": "trombone-champ",
    "mobygames": "191623",
    "pcgamingwiki": "Trombone_Champ",
    "steam": "1059990"
@@ -488,6 +507,7 @@
   "ids": {
    "howlongtobeat": "19213",
    "igdb": "doors",
+   "metacritic": "doors",
    "mobygames": "152180",
    "pcgamingwiki": "Doors",
    "steam": "395350"
@@ -499,6 +519,7 @@
   "ids": {
    "howlongtobeat": "110447",
    "igdb": "kamikaze-veggies",
+   "metacritic": "kamikaze-veggies",
    "mobygames": "186233",
    "pcgamingwiki": "Kamikaze_Veggies",
    "steam": "1519010"
@@ -774,6 +795,7 @@
   "ids": {
    "howlongtobeat": "74728",
    "igdb": "mythical-concept-starnaut",
+   "metacritic": "starnaut",
    "mobygames": "222335",
    "steam": "2508940"
   },
@@ -877,6 +899,7 @@
   "ids": {
    "howlongtobeat": "146233",
    "igdb": "teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants",
+   "metacritic": "teenage-mutant-ninja-turtles-wrath-of-the-mutants",
    "pcgamingwiki": "Teenage_Mutant_Ninja_Turtles_Arcade:_Wrath_of_the_Mutants",
    "steam": "2527580"
   },
@@ -1257,6 +1280,7 @@
  {
   "ids": {
    "igdb": "fries-drive",
+   "pcgamingwiki": "Fries_Drive",
    "steam": "3897690"
   },
   "label_en": "Fries Drive",

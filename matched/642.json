@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "12310",
    "igdb": "banjo-pilot",
+   "metacritic": "banjo-pilot",
    "mobygames": "18357"
   },
   "label_en": "Banjo-Pilot",
@@ -80,6 +81,7 @@
   "enwiki": "Eat Lead: The Return of Matt Hazard",
   "ids": {
    "igdb": "eat-lead-the-return-of-matt-hazard",
+   "metacritic": "eat-lead-the-return-of-matt-hazard",
    "mobygames": "40616"
   },
   "label_en": "Eat Lead: The Return of Matt Hazard",
@@ -107,6 +109,7 @@
   "enwiki": "Sorcery (video game)",
   "ids": {
    "igdb": "sorcery--2",
+   "metacritic": "sorcery",
    "mobygames": "56981"
   },
   "label_en": "Sorcery",
@@ -116,6 +119,7 @@
   "enwiki": "Puppeteer (video game)",
   "ids": {
    "igdb": "puppeteer",
+   "metacritic": "puppeteer",
    "mobygames": "68118"
   },
   "label_en": "Puppeteer",
@@ -148,6 +152,7 @@
   "ids": {
    "howlongtobeat": "32227",
    "igdb": "vanishing-point",
+   "metacritic": "vanishing-point",
    "mobygames": "6341"
   },
   "label_en": "Vanishing Point",
@@ -166,6 +171,7 @@
   "enwiki": "NBA 08",
   "ids": {
    "igdb": "nba-08",
+   "metacritic": "nba-08",
    "mobygames": "36791"
   },
   "label_en": "NBA 08",
@@ -197,6 +203,7 @@
    "gog": "game/the_adventures_of_shuggy",
    "howlongtobeat": "9755",
    "igdb": "the-adventures-of-shuggy",
+   "metacritic": "the-adventures-of-shuggy",
    "mobygames": "54220",
    "pcgamingwiki": "The_Adventures_of_Shuggy",
    "steam": "211440"
@@ -207,7 +214,8 @@
  {
   "enwiki": "The Girls of Dead or Alive: Blackjack",
   "ids": {
-   "igdb": "girls-of-doa-blackjack-the-kasumi-version"
+   "igdb": "girls-of-doa-blackjack-the-kasumi-version",
+   "metacritic": "girls-of-doa-blackjack-the-kasumi-version"
   },
   "label_en": "Girls of DOA BlackJack - the Kasumi version -",
   "wikidata": "Q7736642"
@@ -277,6 +285,7 @@
   "enwiki": "Beach Volleyball (video game)",
   "ids": {
    "igdb": "power-spike-pro-beach-volleyball",
+   "metacritic": "power-spike-pro-beach-volleyball",
    "mobygames": "37192"
   },
   "label_en": "Power Spike Pro Beach Volleyball",
@@ -287,6 +296,7 @@
   "ids": {
    "howlongtobeat": "62976",
    "igdb": "one-hour-one-life",
+   "metacritic": "one-hour-one-life",
    "mobygames": "116537",
    "pcgamingwiki": "One_Hour_One_Life",
    "steam": "595690"
@@ -315,6 +325,7 @@
    "epic": "the-last-campfire",
    "howlongtobeat": "69314",
    "igdb": "the-last-campfire",
+   "metacritic": "the-last-campfire",
    "mobygames": "149763",
    "pcgamingwiki": "The_Last_Campfire",
    "steam": "990630"
@@ -325,7 +336,8 @@
  {
   "enwiki": "NBA ShootOut 2003",
   "ids": {
-   "igdb": "nba-shootout-2003"
+   "igdb": "nba-shootout-2003",
+   "metacritic": "nba-shootout-2003"
   },
   "label_en": "NBA ShootOut 2003",
   "wikidata": "Q96240642"
@@ -336,6 +348,7 @@
    "gog": "game/the_witcher",
    "howlongtobeat": "10267",
    "igdb": "the-witcher-enhanced-edition",
+   "metacritic": "the-witcher-enhanced-edition",
    "mobygames": "36421",
    "pcgamingwiki": "The_Witcher",
    "steam": "20900"
@@ -365,6 +378,7 @@
  {
   "ids": {
    "igdb": "repressed",
+   "metacritic": "repressed",
    "mobygames": "143779",
    "pcgamingwiki": "Repressed",
    "steam": "1127820"
@@ -385,6 +399,7 @@
    "gog": "game/best_month_ever",
    "howlongtobeat": "107069",
    "igdb": "best-month-ever",
+   "metacritic": "best-month-ever",
    "mobygames": "183853",
    "pcgamingwiki": "Best_Month_Ever!",
    "steam": "1684400"
@@ -512,6 +527,7 @@
    "gog": "game/clive_n_wrench",
    "howlongtobeat": "102076",
    "igdb": "clive-n-wrench",
+   "metacritic": "clive-n-wrench",
    "mobygames": "199750",
    "pcgamingwiki": "Clive_'N'_Wrench",
    "steam": "1094720"
@@ -683,6 +699,7 @@
   "ids": {
    "howlongtobeat": "56801",
    "igdb": "safe-house",
+   "metacritic": "safe-house",
    "mobygames": "211989",
    "pcgamingwiki": "Safe_House",
    "steam": "636230"
@@ -841,6 +858,7 @@
   "ids": {
    "howlongtobeat": "108224",
    "igdb": "nekobop",
+   "metacritic": "nekobop",
    "mobygames": "191510"
   },
   "label_en": "NekoBop",
@@ -903,7 +921,8 @@
  },
  {
   "ids": {
-   "igdb": "silent-hill--1"
+   "igdb": "silent-hill--1",
+   "metacritic": "silent-hill"
   },
   "label_en": "Silent Hill",
   "wikidata": "Q134881642"

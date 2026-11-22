@@ -36,6 +36,7 @@
    "gog": "game/victoria_complete",
    "howlongtobeat": "10927",
    "igdb": "victoria-an-empire-under-the-sun",
+   "metacritic": "victoria-an-empire-under-the-sun",
    "mobygames": "13662",
    "pcgamingwiki": "Victoria:_An_Empire_Under_the_Sun",
    "steam": "42980"
@@ -63,6 +64,7 @@
   "ids": {
    "igdb": "flatspace",
    "mobygames": "147679",
+   "pcgamingwiki": "Flatspace",
    "steam": "1210780"
   },
   "label_en": "Flatspace",
@@ -92,6 +94,7 @@
   "ids": {
    "howlongtobeat": "18262",
    "igdb": "star-trek-encounters",
+   "metacritic": "star-trek-encounters",
    "mobygames": "24384"
   },
   "label_en": "Star Trek: Encounters",
@@ -116,6 +119,7 @@
   "enwiki": "Lotus Challenge",
   "ids": {
    "igdb": "lotus-challenge",
+   "metacritic": "motor-trend-presents-lotus-challenge",
    "mobygames": "25438",
    "pcgamingwiki": "Lotus_Challenge"
   },
@@ -148,6 +152,7 @@
    "gog": "game/avernum_3_ruined_world",
    "howlongtobeat": "52874",
    "igdb": "avernum-3-ruined-world",
+   "metacritic": "avernum-3-ruined-world",
    "mobygames": "102367",
    "pcgamingwiki": "Avernum_3:_Ruined_World",
    "steam": "691830"
@@ -176,6 +181,7 @@
   "ids": {
    "howlongtobeat": "62790",
    "igdb": "dusk-diver",
+   "metacritic": "dusk-diver",
    "mobygames": "136461",
    "pcgamingwiki": "Dusk_Diver",
    "steam": "911220"
@@ -195,6 +201,7 @@
   "ids": {
    "howlongtobeat": "70078",
    "igdb": "stela",
+   "metacritic": "stela",
    "mobygames": "135923",
    "pcgamingwiki": "Stela",
    "steam": "1048600"
@@ -206,6 +213,7 @@
   "ids": {
    "howlongtobeat": "21547",
    "igdb": "jeremy-mcgraths-offroad",
+   "metacritic": "jeremy-mcgraths-offroad",
    "mobygames": "90763"
   },
   "label_en": "Jeremy McGrath's Offroad",
@@ -244,6 +252,7 @@
  {
   "ids": {
    "igdb": "red-ball-4",
+   "metacritic": "red-ball-4",
    "mobygames": "119807"
   },
   "label_en": "Red Ball 4",
@@ -329,6 +338,7 @@
    "gog": "game/siege_survival_gloria_victis",
    "howlongtobeat": "84436",
    "igdb": "siege-survival-gloria-victis",
+   "metacritic": "siege-survival-gloria-victis",
    "mobygames": "164552",
    "pcgamingwiki": "Siege_Survival:_Gloria_Victis",
    "steam": "1167140"
@@ -340,7 +350,8 @@
   "enwiki": "Kirby's Return to Dream Land Deluxe",
   "ids": {
    "howlongtobeat": "113541",
-   "igdb": "kirbys-return-to-dream-land-deluxe"
+   "igdb": "kirbys-return-to-dream-land-deluxe",
+   "metacritic": "kirbys-return-to-dream-land-deluxe"
   },
   "label_en": "Kirby's Return to Dream Land Deluxe",
   "wikidata": "Q113960975"
@@ -673,6 +684,7 @@
   "ids": {
    "howlongtobeat": "141704",
    "igdb": "hookah-haze",
+   "metacritic": "hookah-haze",
    "mobygames": "227540",
    "steam": "2470300"
   },
@@ -683,7 +695,8 @@
   "ids": {
    "howlongtobeat": "96038",
    "igdb": "adastra",
-   "mobygames": "214836"
+   "mobygames": "214836",
+   "pcgamingwiki": "Adastra"
   },
   "label_en": "Adastra",
   "wikidata": "Q124013975"
@@ -702,6 +715,7 @@
   "ids": {
    "howlongtobeat": "41552",
    "igdb": "dogos",
+   "metacritic": "dogos",
    "mobygames": "87295",
    "pcgamingwiki": "Dogos",
    "steam": "507050"
@@ -831,6 +845,7 @@
   "ids": {
    "howlongtobeat": "71671",
    "igdb": "angry-bunnies-colossal-carrot-crusade",
+   "metacritic": "angry-bunnies-colossal-carrot-crusade",
    "mobygames": "94230"
   },
   "label_en": "Angry Bunnies: Colossal Carrot Crusade",

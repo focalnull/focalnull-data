@@ -5,6 +5,7 @@
    "gog": "game/stalker_shadow_of_chernobyl",
    "howlongtobeat": "8038",
    "igdb": "s-t-a-l-k-e-r-shadow-of-chernobyl",
+   "metacritic": "stalker-shadow-of-chernobyl",
    "mobygames": "27172",
    "pcgamingwiki": "S.T.A.L.K.E.R.:_Shadow_of_Chernobyl",
    "steam": "4500"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "7341",
    "igdb": "professor-layton-and-the-unwound-future",
+   "metacritic": "professor-layton-and-the-unwound-future",
    "mobygames": "47849"
   },
   "label_en": "Professor Layton and the Unwound Future",
@@ -63,6 +65,7 @@
   "enwiki": "Call of Duty: World at War (Nintendo DS)",
   "ids": {
    "igdb": "call-of-duty-world-at-war--2",
+   "metacritic": "call-of-duty-world-at-war",
    "mobygames": "67855"
   },
   "label_en": "Call of Duty: World at War",
@@ -72,6 +75,7 @@
   "enwiki": "Spawn: Armageddon",
   "ids": {
    "igdb": "spawn-armageddon",
+   "metacritic": "spawn-armageddon",
    "mobygames": "11132"
   },
   "label_en": "Spawn: Armageddon",
@@ -91,6 +95,7 @@
   "enwiki": "Ant Nation",
   "ids": {
    "igdb": "ant-nation",
+   "metacritic": "ant-nation",
    "mobygames": "67263"
   },
   "label_en": "Ant Nation",
@@ -147,7 +152,8 @@
   "enwiki": "Rage of Bahamut",
   "ids": {
    "howlongtobeat": "60790",
-   "igdb": "rage-of-bahamut"
+   "igdb": "rage-of-bahamut",
+   "metacritic": "rage-of-bahamut"
   },
   "label_en": "Rage of Bahamut",
   "wikidata": "Q7282861"
@@ -156,6 +162,7 @@
   "enwiki": "Reel Fishing Paradise 3D",
   "ids": {
    "igdb": "reel-fishing-3d-paradise",
+   "metacritic": "reel-fishing-paradise-3d",
    "mobygames": "95980"
   },
   "label_en": "Reel Fishing Paradise 3D",
@@ -213,6 +220,7 @@
    "gog": "game/life_is_strange_complete_season",
    "howlongtobeat": "21702",
    "igdb": "life-is-strange",
+   "metacritic": "life-is-strange",
    "mobygames": "70950",
    "pcgamingwiki": "Life_Is_Strange",
    "steam": "319630"
@@ -234,6 +242,7 @@
    "gog": "game/okhlos",
    "howlongtobeat": "39398",
    "igdb": "okhlos-omega",
+   "metacritic": "okhlos",
    "mobygames": "91595",
    "pcgamingwiki": "Okhlos",
    "steam": "400180"
@@ -286,6 +295,7 @@
   "ids": {
    "howlongtobeat": "48313",
    "igdb": "little-red-lie",
+   "metacritic": "little-red-lie",
    "mobygames": "94929",
    "pcgamingwiki": "Little_Red_Lie",
    "steam": "510520"
@@ -314,6 +324,7 @@
   "ids": {
    "howlongtobeat": "60110",
    "igdb": "dude-cops",
+   "metacritic": "dude-cops",
    "mobygames": "111433",
    "pcgamingwiki": "Dude_Cops",
    "steam": "919170"
@@ -348,6 +359,7 @@
    "gog": "game/cat_quest_ii",
    "howlongtobeat": "70915",
    "igdb": "cat-quest-ii",
+   "metacritic": "cat-quest-ii-the-lupus-empire",
    "mobygames": "135166",
    "pcgamingwiki": "Cat_Quest_II",
    "steam": "914710"
@@ -369,6 +381,7 @@
   "ids": {
    "howlongtobeat": "90463",
    "igdb": "golden-force",
+   "metacritic": "golden-force",
    "mobygames": "157638",
    "steam": "1425070"
   },
@@ -421,6 +434,7 @@
   "ids": {
    "howlongtobeat": "50421",
    "igdb": "path-out",
+   "metacritic": "path-out",
    "mobygames": "98802",
    "pcgamingwiki": "Path_Out",
    "steam": "725980"
@@ -443,6 +457,7 @@
   "ids": {
    "howlongtobeat": "89450",
    "igdb": "introvert-a-teenager-simulator",
+   "metacritic": "introvert-a-teenager-simulator",
    "mobygames": "160085",
    "pcgamingwiki": "Introvert:_A_Teenager_Simulator",
    "steam": "1522660"
@@ -792,6 +807,7 @@
   "ids": {
    "howlongtobeat": "3655",
    "igdb": "fortix",
+   "metacritic": "fortix",
    "mobygames": "47971",
    "pcgamingwiki": "Fortix",
    "steam": "45400"
@@ -907,6 +923,7 @@
   "ids": {
    "howlongtobeat": "148454",
    "igdb": "missile-dancer-2",
+   "metacritic": "missile-dancer-2",
    "steam": "2566090"
   },
   "label_en": "Missile Dancer 2",
@@ -1271,12 +1288,14 @@
  },
  {
   "ids": {
+   "metacritic": "starlit-adventures",
    "mobygames": "starlit-adventures"
   },
   "wikidata": "Q140131861"
  },
  {
   "ids": {
+   "pcgamingwiki": "Wasabi",
    "steam": "4148910"
   },
   "label_en": "Wasabi",

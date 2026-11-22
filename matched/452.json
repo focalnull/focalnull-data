@@ -5,6 +5,7 @@
    "epic": "grand-theft-auto-v",
    "howlongtobeat": "4064",
    "igdb": "grand-theft-auto-v",
+   "metacritic": "grand-theft-auto-v",
    "mobygames": "62275",
    "pcgamingwiki": "Grand_Theft_Auto_V",
    "steam": "271590"
@@ -47,6 +48,7 @@
   "enwiki": "Knights of the Cross (video game)",
   "ids": {
    "igdb": "knights-of-the-cross",
+   "metacritic": "knights-of-the-cross",
    "mobygames": "18248"
   },
   "label_en": "Knights of the Cross",
@@ -57,6 +59,7 @@
   "ids": {
    "howlongtobeat": "3978",
    "igdb": "god-of-war-iii",
+   "metacritic": "god-of-war-iii",
    "mobygames": "45664"
   },
   "label_en": "God of War III",
@@ -85,6 +88,7 @@
   "ids": {
    "howlongtobeat": "10260",
    "igdb": "infestation-the-new-beginning",
+   "metacritic": "infestation-survivor-stories",
    "mobygames": "66096",
    "pcgamingwiki": "Infestation:_Survivor_Stories_Classic",
    "steam": "226700"
@@ -125,6 +129,7 @@
   "enwiki": "Ghost Squad (video game)",
   "ids": {
    "igdb": "ghost-squad",
+   "metacritic": "ghost-squad",
    "mobygames": "33758"
   },
   "label_en": "Ghost Squad",
@@ -134,6 +139,7 @@
   "enwiki": "Corvette Evolution GT",
   "ids": {
    "igdb": "corvette-evolution-gt",
+   "metacritic": "corvette-evolution-gt",
    "mobygames": "23583",
    "pcgamingwiki": "Evolution_GT"
   },
@@ -152,6 +158,7 @@
   "enwiki": "UFC: Sudden Impact",
   "ids": {
    "igdb": "ufc-sudden-impact",
+   "metacritic": "ufc-sudden-impact",
    "mobygames": "34918"
   },
   "label_en": "UFC: Sudden Impact",
@@ -170,6 +177,7 @@
   "ids": {
    "howlongtobeat": "22976",
    "igdb": "onechanbara-z2-chaos",
+   "metacritic": "onechanbara-z2-chaos",
    "mobygames": "83268",
    "pcgamingwiki": "Onechanbara_Z2:_Chaos",
    "steam": "446390"
@@ -205,6 +213,7 @@
   "ids": {
    "howlongtobeat": "27449",
    "igdb": "always-the-same-blue-sky-dot-dot-dot",
+   "metacritic": "always-the-same-blue-sky",
    "mobygames": "94551",
    "pcgamingwiki": "Always_the_Same_Blue_Sky...",
    "steam": "363410"
@@ -235,6 +244,7 @@
   "ids": {
    "howlongtobeat": "76910",
    "igdb": "cooking-mama-cookstar",
+   "metacritic": "cooking-mama-cookstar",
    "mobygames": "144107"
   },
   "label_en": "Cooking Mama: Cookstar",
@@ -246,6 +256,7 @@
    "gog": "game/democracy_4",
    "howlongtobeat": "67676",
    "igdb": "democracy-4",
+   "metacritic": "democracy-4",
    "mobygames": "151094",
    "pcgamingwiki": "Democracy_4",
    "steam": "1410710"
@@ -258,6 +269,7 @@
    "epic": "very-very-valet-70633e",
    "howlongtobeat": "92661",
    "igdb": "very-very-valet",
+   "metacritic": "very-very-valet",
    "mobygames": "165416",
    "pcgamingwiki": "Very_Very_Valet",
    "steam": "1448840"
@@ -271,6 +283,7 @@
    "gog": "game/madison",
    "howlongtobeat": "56893",
    "igdb": "madison",
+   "metacritic": "madison",
    "mobygames": "187450",
    "pcgamingwiki": "MADiSON",
    "steam": "1670870"
@@ -321,6 +334,9 @@
  },
  {
   "enwiki": "BurgerTime World Tour",
+  "ids": {
+   "metacritic": "burgertime-world-tour"
+  },
   "label_en": "BurgerTime World Tour",
   "wikidata": "Q115812452"
  },
@@ -727,6 +743,7 @@
   "ids": {
    "howlongtobeat": "125533",
    "igdb": "big-ambitions",
+   "metacritic": "big-ambitions",
    "mobygames": "234603",
    "pcgamingwiki": "Big_Ambitions",
    "steam": "1331550"
@@ -756,6 +773,7 @@
    "epic": "nicktoons-and-the-dice-of-destiny-ebc745",
    "howlongtobeat": "169290",
    "igdb": "nicktoons-and-the-dice-of-destiny",
+   "metacritic": "nicktoons-and-the-dice-of-destiny",
    "mobygames": "248642",
    "pcgamingwiki": "Nicktoons_&_The_Dice_of_Destiny",
    "steam": "3051490"

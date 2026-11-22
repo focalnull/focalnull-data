@@ -19,6 +19,7 @@
   "enwiki": "WarioWare: Snapped!",
   "ids": {
    "igdb": "warioware-snapped",
+   "metacritic": "warioware-snapped",
    "mobygames": "49083"
   },
   "label_en": "WarioWare: Snapped!",
@@ -90,6 +91,7 @@
   "ids": {
    "howlongtobeat": "11984",
    "igdb": "world-driver-championship",
+   "metacritic": "world-driver-championship",
    "mobygames": "4390"
   },
   "label_en": "World Driver Championship",
@@ -126,6 +128,7 @@
   "enwiki": "Rave Master: Special Attack Force!",
   "ids": {
    "igdb": "rave-master-special-attack-force",
+   "metacritic": "rave-master-special-attack-force",
    "mobygames": "201442"
   },
   "label_en": "Rave Master: Special Attack Force!",
@@ -227,6 +230,7 @@
    "epic": "steep",
    "howlongtobeat": "38010",
    "igdb": "steep",
+   "metacritic": "steep",
    "mobygames": "81848",
    "pcgamingwiki": "Steep",
    "steam": "460920"
@@ -268,6 +272,7 @@
   "ids": {
    "howlongtobeat": "50672",
    "igdb": "mxgp3-the-official-motocross-videogame",
+   "metacritic": "mxgp3-the-official-motocross-videogame",
    "mobygames": "89575",
    "pcgamingwiki": "MXGP3",
    "steam": "561600"
@@ -278,6 +283,7 @@
  {
   "ids": {
    "igdb": "scp-kikan-no-kanata-the-will-of-a-single-tale-hon-pen-dai-1-bu",
+   "metacritic": "scp-the-will-of-a-single-tale-1",
    "mobygames": "156811",
    "pcgamingwiki": "The_Will_of_a_Single_Tale",
    "steam": "1018930"
@@ -299,6 +305,7 @@
   "ids": {
    "howlongtobeat": "38568",
    "igdb": "tanita-plasticine-dream",
+   "metacritic": "tanita-a-plasticine-dream",
    "mobygames": "55001",
    "pcgamingwiki": "Tanita:_A_Plasticine_Dream",
    "steam": "372560"
@@ -311,6 +318,7 @@
    "gog": "game/snacko",
    "howlongtobeat": "86017",
    "igdb": "snacko",
+   "metacritic": "snacko",
    "steam": "1125510"
   },
   "label_en": "Snacko",
@@ -321,6 +329,7 @@
    "gog": "game/asterix_obelix_xxl_3_the_crystal_menhir",
    "howlongtobeat": "75265",
    "igdb": "asterix-and-obelix-xxl-3-the-crystal-menhir",
+   "metacritic": "asterix-and-obelix-xxl-3-the-crystal-menhir",
    "mobygames": "137575",
    "pcgamingwiki": "Asterix_&_Obelix_XXL_3:_The_Crystal_Menhir",
    "steam": "1109690"
@@ -339,6 +348,7 @@
   "ids": {
    "howlongtobeat": "63215",
    "igdb": "midnight-quest",
+   "metacritic": "midnight-quest",
    "mobygames": "173258",
    "pcgamingwiki": "Midnight_Quest",
    "steam": "698450"
@@ -351,6 +361,7 @@
   "ids": {
    "howlongtobeat": "65818",
    "igdb": "blaster-master-zero-ii",
+   "metacritic": "blaster-master-zero-ii",
    "mobygames": "124036",
    "pcgamingwiki": "Blaster_Master_Zero_2",
    "steam": "1034910"
@@ -376,6 +387,7 @@
    "gog": "game/robocop_rogue_city",
    "howlongtobeat": "110262",
    "igdb": "robocop-rogue-city",
+   "metacritic": "robocop-rogue-city",
    "mobygames": "211277",
    "pcgamingwiki": "RoboCop:_Rogue_City",
    "steam": "1681430"
@@ -387,6 +399,7 @@
   "ids": {
    "howlongtobeat": "90635",
    "igdb": "100-hidden-eternals",
+   "metacritic": "100-hidden-eternals",
    "mobygames": "156082",
    "steam": "1480120"
   },
@@ -507,6 +520,7 @@
    "epic": "f1-23",
    "howlongtobeat": "128162",
    "igdb": "f1-23",
+   "metacritic": "f1-23",
    "mobygames": "204507",
    "pcgamingwiki": "F1_23",
    "steam": "2108330"
@@ -567,6 +581,7 @@
  {
   "ids": {
    "igdb": "ultimo-soccer-udc",
+   "pcgamingwiki": "Ultimo_Soccer_UDC",
    "steam": "1678930"
   },
   "label_en": "Ultimo Soccer UDC",
@@ -670,6 +685,7 @@
   "ids": {
    "howlongtobeat": "16946",
    "igdb": "paper-dungeons",
+   "metacritic": "paper-dungeons",
    "mobygames": "138248",
    "pcgamingwiki": "Paper_Dungeons",
    "steam": "283040"
@@ -741,6 +757,7 @@
    "gog": "game/cookie_cutter",
    "howlongtobeat": "121351",
    "igdb": "cookie-cutter",
+   "metacritic": "cookie-cutter",
    "mobygames": "213905",
    "pcgamingwiki": "Cookie_Cutter",
    "steam": "1924430"
@@ -892,6 +909,7 @@
  {
   "ids": {
    "igdb": "namco-museum-archives-volume-2",
+   "metacritic": "namco-museum-archives-vol-2",
    "mobygames": "146705",
    "pcgamingwiki": "Namco_Museum_Archives_Vol._2",
    "steam": "1254620"
@@ -1176,6 +1194,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Over_Devil:_Legend_of_the_Sacred_Stone",
    "steam": "2102760"
   },
   "label_en": "OVER‧DeviL: Legend of the sacred stone",
@@ -1192,6 +1211,7 @@
  {
   "ids": {
    "igdb": "stopgate",
+   "metacritic": "stopgate",
    "steam": "1376420"
   },
   "label_en": "StopGate",
@@ -1209,6 +1229,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Werewolf:_The_Apocalypse_-_Rageborn",
    "steam": "3746290"
   },
   "label_en": "Werewolf: The Apocalypse – Rageborn",

@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "4907",
    "igdb": "just-dance-3",
+   "metacritic": "just-dance-3",
    "mobygames": "55801"
   },
   "label_en": "Just Dance 3",
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "9441",
    "igdb": "super-smash-bros-brawl",
+   "metacritic": "super-smash-bros-brawl",
    "mobygames": "33378"
   },
   "label_en": "Super Smash Bros. Brawl",
@@ -34,6 +36,7 @@
   "ids": {
    "howlongtobeat": "9442",
    "igdb": "super-smash-bros-melee",
+   "metacritic": "super-smash-bros-melee",
    "mobygames": "5575"
   },
   "label_en": "Super Smash Bros. Melee",
@@ -45,6 +48,7 @@
    "gog": "game/zeno_clash",
    "howlongtobeat": "11546",
    "igdb": "zeno-clash",
+   "metacritic": "zeno-clash",
    "mobygames": "40388",
    "pcgamingwiki": "Zeno_Clash",
    "steam": "22200"
@@ -124,6 +128,7 @@
   "enwiki": "Birds of Steel",
   "ids": {
    "igdb": "birds-of-steel",
+   "metacritic": "birds-of-steel",
    "mobygames": "55982"
   },
   "label_en": "Birds of Steel",
@@ -149,6 +154,7 @@
   "enwiki": "Dungeon Hunter: Alliance",
   "ids": {
    "igdb": "dungeon-hunter-alliance",
+   "metacritic": "dungeon-hunter-alliance",
    "mobygames": "83437"
   },
   "label_en": "Dungeon Hunter: Alliance",
@@ -168,6 +174,7 @@
   "ids": {
    "howlongtobeat": "12243",
    "igdb": "major-league-baseball-2k9",
+   "metacritic": "major-league-baseball-2k9",
    "mobygames": "46555",
    "steam": "8840"
   },
@@ -226,6 +233,7 @@
    "epic": "trackmania-turbo",
    "howlongtobeat": "35764",
    "igdb": "trackmania-turbo",
+   "metacritic": "trackmania-turbo",
    "mobygames": "77937",
    "pcgamingwiki": "Trackmania_Turbo",
    "steam": "375900"
@@ -238,6 +246,7 @@
   "ids": {
    "howlongtobeat": "37364",
    "igdb": "postal-redux",
+   "metacritic": "postal-redux",
    "mobygames": "86743",
    "pcgamingwiki": "Postal_Redux",
    "steam": "401680"
@@ -262,6 +271,7 @@
   "enwiki": "Pokémon HeartGold",
   "ids": {
    "igdb": "pokemon-heartgold-version",
+   "metacritic": "pokemon-heartgold-version",
    "mobygames": "44513"
   },
   "label_en": "Pokémon HeartGold",
@@ -273,6 +283,7 @@
    "gog": "game/beatbuddy_tale_of_the_guardians",
    "howlongtobeat": "13549",
    "igdb": "beatbuddy-tale-of-the-guardians",
+   "metacritic": "beatbuddy-tale-of-the-guardians",
    "mobygames": "62961",
    "pcgamingwiki": "Beatbuddy:_Tale_of_the_Guardians",
    "steam": "231040"
@@ -338,6 +349,7 @@
   "ids": {
    "howlongtobeat": "15136",
    "igdb": "two-brothers",
+   "metacritic": "two-brothers",
    "mobygames": "103701",
    "pcgamingwiki": "Two_Brothers",
    "steam": "259760"
@@ -386,6 +398,7 @@
    "gog": "game/lilas_sky_ark",
    "howlongtobeat": "108784",
    "igdb": "lilas-sky-ark",
+   "metacritic": "lilas-sky-ark",
    "mobygames": "185178",
    "pcgamingwiki": "Lila's_Sky_Ark",
    "steam": "1573390"
@@ -397,6 +410,7 @@
   "ids": {
    "howlongtobeat": "27689",
    "igdb": "vietnam-65",
+   "metacritic": "vietnam-65",
    "mobygames": "83564",
    "pcgamingwiki": "Vietnam_'65",
    "steam": "336080"
@@ -409,6 +423,7 @@
   "ids": {
    "howlongtobeat": "94255",
    "igdb": "the-last-oricru",
+   "metacritic": "the-last-oricru",
    "mobygames": "193055",
    "steam": "1663640"
   },
@@ -754,6 +769,7 @@
    "gog": "game/the_crows_eye",
    "howlongtobeat": "51841",
    "igdb": "the-crow-s-eye",
+   "metacritic": "the-crows-eye",
    "mobygames": "106550",
    "pcgamingwiki": "The_Crow's_Eye",
    "steam": "449510"
@@ -789,6 +805,7 @@
   "enwiki": "Atlyss",
   "ids": {
    "igdb": "atlyss",
+   "metacritic": "atlyss",
    "mobygames": "235149",
    "pcgamingwiki": "ATLYSS",
    "steam": "2768430"
@@ -1119,7 +1136,8 @@
  {
   "enwiki": "Trickcal: Chibi Go",
   "ids": {
-   "igdb": "trickcal-chibi-go"
+   "igdb": "trickcal-chibi-go",
+   "metacritic": "trickcal-chibi-go"
   },
   "label_en": "Trickcal: Chibi Go",
   "wikidata": "Q136528131"

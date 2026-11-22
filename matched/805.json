@@ -6,6 +6,7 @@
    "gog": "game/torchlight_ii",
    "howlongtobeat": "10528",
    "igdb": "torchlight-ii",
+   "metacritic": "torchlight-ii",
    "mobygames": "58058",
    "pcgamingwiki": "Torchlight_II",
    "steam": "200710"
@@ -103,6 +104,7 @@
   "ids": {
    "howlongtobeat": "2669",
    "igdb": "dokuro",
+   "metacritic": "dokuro",
    "mobygames": "92228",
    "pcgamingwiki": "Dokuro",
    "steam": "317840"
@@ -123,6 +125,7 @@
   "ids": {
    "howlongtobeat": "14065",
    "igdb": "monster-rancher-4",
+   "metacritic": "monster-rancher-4",
    "mobygames": "11355"
   },
   "label_en": "Monster Rancher 4",
@@ -153,6 +156,7 @@
   "ids": {
    "howlongtobeat": "10620",
    "igdb": "trauma",
+   "metacritic": "trauma",
    "mobygames": "58597",
    "pcgamingwiki": "Trauma",
    "steam": "98100"
@@ -174,6 +178,7 @@
   "ids": {
    "howlongtobeat": "13158",
    "igdb": "sonic-lost-world--1",
+   "metacritic": "sonic-lost-world",
    "mobygames": "84856",
    "pcgamingwiki": "Sonic_Lost_World",
    "steam": "329440"
@@ -193,7 +198,8 @@
  {
   "enwiki": "Cory in the House (video game)",
   "ids": {
-   "igdb": "cory-in-the-house"
+   "igdb": "cory-in-the-house",
+   "metacritic": "cory-in-the-house"
   },
   "label_en": "Cory in the House",
   "wikidata": "Q16267805"
@@ -217,6 +223,7 @@
  {
   "ids": {
    "howlongtobeat": "46731",
+   "metacritic": "scooby-doo-2-monsters-unleashed",
    "mobygames": "12734",
    "pcgamingwiki": "Scooby-Doo_2:_Monsters_Unleashed"
   },
@@ -240,6 +247,7 @@
   "ids": {
    "howlongtobeat": "23909",
    "igdb": "fabula-mortis",
+   "metacritic": "fabula-mortis",
    "mobygames": "71358",
    "pcgamingwiki": "Fabula_Mortis",
    "steam": "320790"
@@ -419,6 +427,7 @@
   "ids": {
    "howlongtobeat": "98045",
    "igdb": "big-rumble-boxing-creed-champions",
+   "metacritic": "big-rumble-boxing-creed-champions",
    "mobygames": "171122",
    "pcgamingwiki": "Big_Rumble_Boxing:_Creed_Champions",
    "steam": "1278170"
@@ -430,6 +439,7 @@
   "ids": {
    "howlongtobeat": "71856",
    "igdb": "gungrave-vr",
+   "metacritic": "gungrave-vr",
    "mobygames": "121744",
    "pcgamingwiki": "Gungrave_VR",
    "steam": "892210"
@@ -747,6 +757,7 @@
   "ids": {
    "howlongtobeat": "13953",
    "igdb": "marine-sharpshooter-ii-jungle-warfare",
+   "metacritic": "marine-sharpshooter-ii-jungle-warfare",
    "mobygames": "17970",
    "pcgamingwiki": "Marine_Sharpshooter_II:_Jungle_Warfare",
    "steam": "283370"
@@ -1118,6 +1129,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Sex_of_Thrones",
    "steam": "2480200"
   },
   "label_en": "Sex of Thrones 👑",

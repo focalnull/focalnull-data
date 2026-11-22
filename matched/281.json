@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1595",
    "igdb": "castlevania-the-adventure-rebirth",
+   "metacritic": "castlevania-the-adventure-rebirth",
    "mobygames": "90677"
   },
   "label_en": "Castlevania: The Adventure ReBirth",
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "3239",
    "igdb": "evil-dead-a-fistful-of-boomstick",
+   "metacritic": "evil-dead-a-fistful-of-boomstick",
    "mobygames": "9419"
   },
   "label_en": "Evil Dead: A Fistful of Boomstick",
@@ -47,6 +49,7 @@
   "enwiki": "Auto Assault",
   "ids": {
    "igdb": "auto-assault",
+   "metacritic": "auto-assault",
    "mobygames": "22751",
    "pcgamingwiki": "Auto_Assault"
   },
@@ -72,6 +75,7 @@
   "enwiki": "Soldiers of Anarchy",
   "ids": {
    "igdb": "soldiers-of-anarchy",
+   "metacritic": "soldiers-of-anarchy",
    "mobygames": "8154",
    "pcgamingwiki": "Soldiers_of_Anarchy"
   },
@@ -122,6 +126,7 @@
   "ids": {
    "howlongtobeat": "2098",
    "igdb": "cubixx-hd",
+   "metacritic": "cubixx-hd",
    "mobygames": "84137",
    "pcgamingwiki": "Cubixx_HD",
    "steam": "420570"
@@ -143,6 +148,7 @@
   "ids": {
    "howlongtobeat": "3272",
    "igdb": "explodemon",
+   "metacritic": "explodemon",
    "mobygames": "56311",
    "pcgamingwiki": "Explodemon",
    "steam": "281820"
@@ -173,6 +179,7 @@
   "enwiki": "Popeye: Rush for Spinach",
   "ids": {
    "igdb": "popeye-rush-for-spinach",
+   "metacritic": "popeye-rush-for-spinach",
    "mobygames": "25964"
   },
   "label_en": "Popeye: Rush for Spinach",
@@ -183,6 +190,7 @@
   "ids": {
    "howlongtobeat": "10908",
    "igdb": "velocity",
+   "metacritic": "velocity",
    "mobygames": "96892",
    "pcgamingwiki": "Velocity_Ultra",
    "steam": "244890"
@@ -257,6 +265,7 @@
    "gog": "game/the_flame_in_the_flood",
    "howlongtobeat": "29911",
    "igdb": "the-flame-in-the-flood",
+   "metacritic": "the-flame-in-the-flood",
    "mobygames": "77260",
    "pcgamingwiki": "The_Flame_in_the_Flood",
    "steam": "318600"
@@ -326,6 +335,7 @@
   "ids": {
    "howlongtobeat": "11951",
    "igdb": "thunder-wolves",
+   "metacritic": "thunder-wolves",
    "mobygames": "61084",
    "pcgamingwiki": "Thunder_Wolves",
    "steam": "232970"
@@ -352,6 +362,7 @@
   "ids": {
    "howlongtobeat": "974",
    "igdb": "beat-city",
+   "metacritic": "beat-city",
    "mobygames": "85159"
   },
   "label_en": "Beat City",
@@ -387,6 +398,7 @@
  {
   "ids": {
    "igdb": "novamundi-the-spear-of-chaquen",
+   "metacritic": "novamundi-the-spear-of-chaquen",
    "mobygames": "186142",
    "steam": "1370940"
   },
@@ -409,6 +421,7 @@
    "gog": "game/trials_of_fire",
    "howlongtobeat": "69187",
    "igdb": "trials-of-fire",
+   "metacritic": "trials-of-fire",
    "mobygames": "162070",
    "pcgamingwiki": "Trials_of_Fire",
    "steam": "1038370"
@@ -517,6 +530,7 @@
   "ids": {
    "howlongtobeat": "129748",
    "igdb": "toads-of-the-bayou",
+   "metacritic": "toads-of-the-bayou",
    "steam": "2190400"
   },
   "label_en": "Toads of the Bayou",
@@ -905,6 +919,7 @@
  {
   "ids": {
    "igdb": "gal-guardians-servants-of-the-dark",
+   "metacritic": "gal-guardians-servants-of-the-dark",
    "mobygames": "239592",
    "pcgamingwiki": "Gal_Guardians:_Servants_of_the_Dark",
    "steam": "3253630"
@@ -1224,6 +1239,7 @@
  {
   "ids": {
    "igdb": "hunter--1",
+   "pcgamingwiki": "Hunter",
    "steam": "985530"
   },
   "label_en": "Hunter",

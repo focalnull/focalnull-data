@@ -25,6 +25,7 @@
   "ids": {
    "howlongtobeat": "5084",
    "igdb": "kirby-canvas-curse",
+   "metacritic": "kirby-canvas-curse",
    "mobygames": "18151"
   },
   "label_en": "Kirby: Canvas Curse",
@@ -67,6 +68,7 @@
   "ids": {
    "howlongtobeat": "10287",
    "igdb": "theatre-of-war-3-korea",
+   "metacritic": "theatre-of-war-3-korea",
    "mobygames": "64591",
    "pcgamingwiki": "Theatre_of_War_3:_Korea",
    "steam": "63960"
@@ -79,6 +81,7 @@
   "ids": {
    "howlongtobeat": "11114",
    "igdb": "way-of-the-samurai-3",
+   "metacritic": "way-of-the-samurai-3",
    "mobygames": "46786",
    "pcgamingwiki": "Way_of_the_Samurai_3",
    "steam": "427510"
@@ -100,6 +103,7 @@
   "ids": {
    "howlongtobeat": "4553",
    "igdb": "hustle-kings",
+   "metacritic": "hustle-kings",
    "mobygames": "76975"
   },
   "label_en": "Hustle Kings",
@@ -136,6 +140,7 @@
   "enwiki": "Battleheart Legacy",
   "ids": {
    "igdb": "battleheart-legacy",
+   "pcgamingwiki": "Battleheart_Legacy",
    "steam": "1122490"
   },
   "label_en": "Battleheart Legacy",
@@ -147,6 +152,7 @@
    "epic": "south-park-the-fractured-but-whole",
    "howlongtobeat": "26801",
    "igdb": "south-park-the-fractured-but-whole",
+   "metacritic": "south-park-the-fractured-but-whole",
    "mobygames": "97194",
    "pcgamingwiki": "South_Park:_The_Fractured_But_Whole",
    "steam": "488790"
@@ -168,6 +174,7 @@
   "ids": {
    "howlongtobeat": "60882",
    "igdb": "ashes-cricket",
+   "metacritic": "ashes-cricket",
    "mobygames": "98273",
    "pcgamingwiki": "Ashes_Cricket",
    "steam": "649640"
@@ -179,6 +186,7 @@
   "enwiki": "NBA Live 19",
   "ids": {
    "igdb": "nba-live-19",
+   "metacritic": "nba-live-19",
    "mobygames": "113274"
   },
   "label_en": "NBA Live 19",
@@ -190,6 +198,7 @@
    "epic": "shakedown-hawaii",
    "howlongtobeat": "85152",
    "igdb": "shakedown-hawaii",
+   "metacritic": "shakedown-hawaii",
    "mobygames": "126435",
    "pcgamingwiki": "Shakedown:_Hawaii",
    "steam": "598730"
@@ -290,6 +299,7 @@
    "gog": "game/forgive_me_father",
    "howlongtobeat": "96891",
    "igdb": "forgive-me-father",
+   "metacritic": "forgive-me-father",
    "mobygames": "174329",
    "pcgamingwiki": "Forgive_Me_Father",
    "steam": "1590910"
@@ -322,6 +332,7 @@
    "howlongtobeat": "94373",
    "igdb": "across-the-obelisk",
    "mobygames": "189841",
+   "pcgamingwiki": "Across_the_Obelisk",
    "steam": "1385380"
   },
   "label_en": "Across the Obelisk",
@@ -362,6 +373,7 @@
   "ids": {
    "gog": "game/gerda_a_flame_in_winter",
    "igdb": "gerda-a-flame-in-winter",
+   "metacritic": "gerda-a-flame-in-winter",
    "pcgamingwiki": "Gerda:_A_Flame_in_Winter",
    "steam": "1771360"
   },
@@ -1022,6 +1034,7 @@
  {
   "ids": {
    "igdb": "psycho-boys",
+   "pcgamingwiki": "Psycho_Boys",
    "steam": "991930"
   },
   "label_en": "Psycho Boys",

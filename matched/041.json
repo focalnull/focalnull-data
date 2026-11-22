@@ -14,6 +14,7 @@
   "ids": {
    "gog": "game/silent_hunter_2",
    "igdb": "silent-hunter-ii",
+   "metacritic": "silent-hunter-ii",
    "mobygames": "5353",
    "pcgamingwiki": "Silent_Hunter_2"
   },
@@ -62,6 +63,7 @@
   "ids": {
    "howlongtobeat": "5273",
    "igdb": "leisure-suit-larry-box-office-bust",
+   "metacritic": "leisure-suit-larry-box-office-bust",
    "mobygames": "39933",
    "pcgamingwiki": "Leisure_Suit_Larry:_Box_Office_Bust"
   },
@@ -74,6 +76,7 @@
    "gog": "game/frozen_synapse",
    "howlongtobeat": "3735",
    "igdb": "frozen-synapse",
+   "metacritic": "frozen-synapse",
    "mobygames": "51708",
    "pcgamingwiki": "Frozen_Synapse",
    "steam": "98200"
@@ -86,6 +89,7 @@
   "ids": {
    "howlongtobeat": "16179",
    "igdb": "nancy-drew-dossier-resorting-to-danger",
+   "metacritic": "nancy-drew-dossier-resorting-to-danger",
    "mobygames": "42470",
    "pcgamingwiki": "Nancy_Drew_Dossier:_Resorting_to_Danger!",
    "steam": "42200"
@@ -164,6 +168,7 @@
   "ids": {
    "howlongtobeat": "5557",
    "igdb": "magnacarta-2",
+   "metacritic": "magna-carta-2",
    "mobygames": "55340"
   },
   "label_en": "MagnaCarta II",
@@ -182,6 +187,7 @@
   "ids": {
    "howlongtobeat": "26536",
    "igdb": "angry-birds-epic",
+   "metacritic": "angry-birds-epic",
    "mobygames": "66290"
   },
   "label_en": "Angry Birds Epic",
@@ -192,6 +198,7 @@
   "ids": {
    "howlongtobeat": "19217",
    "igdb": "captain-toad-treasure-tracker",
+   "metacritic": "captain-toad-treasure-tracker",
    "mobygames": "70277"
   },
   "label_en": "Captain Toad: Treasure Tracker",
@@ -233,6 +240,7 @@
   "ids": {
    "howlongtobeat": "60899",
    "igdb": "the-bards-tale-iv",
+   "metacritic": "the-bards-tale-iv-barrows-deep",
    "mobygames": "113833",
    "pcgamingwiki": "The_Bard's_Tale_IV:_Barrows_Deep",
    "steam": "566090"
@@ -256,6 +264,7 @@
    "gog": "game/wildfire",
    "howlongtobeat": "25808",
    "igdb": "wildfire",
+   "metacritic": "wildfire",
    "mobygames": "145921",
    "pcgamingwiki": "Wildfire",
    "steam": "431940"
@@ -284,6 +293,7 @@
   "ids": {
    "howlongtobeat": "78648",
    "igdb": "umurangi-generation",
+   "metacritic": "umurangi-generation",
    "mobygames": "165992",
    "pcgamingwiki": "Umurangi_Generation",
    "steam": "1223500"
@@ -739,6 +749,7 @@
    "gog": "game/mouse_pi_for_hire",
    "howlongtobeat": "128648",
    "igdb": "mouse-pi-for-hire--1",
+   "metacritic": "mouse-pi-for-hire",
    "mobygames": "255218",
    "pcgamingwiki": "Mouse:_P.I._For_Hire",
    "steam": "2416450"

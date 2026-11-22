@@ -16,6 +16,7 @@
    "epic": "endwar",
    "howlongtobeat": "10424",
    "igdb": "tom-clancy-s-endwar",
+   "metacritic": "tom-clancys-endwar",
    "mobygames": "49906",
    "pcgamingwiki": "Tom_Clancy's_EndWar",
    "steam": "21800"
@@ -36,6 +37,7 @@
    "gog": "game/powerslave",
    "howlongtobeat": "3264",
    "igdb": "powerslave",
+   "metacritic": "powerslave-exhumed",
    "mobygames": "2522",
    "pcgamingwiki": "PowerSlave",
    "steam": "1260020"
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "3396",
    "igdb": "fatal-frame-ii-crimson-butterfly",
+   "metacritic": "fatal-frame-ii-crimson-butterfly",
    "mobygames": "11567"
   },
   "label_en": "Fatal Frame II: Crimson Butterfly",
@@ -76,6 +79,7 @@
   "enwiki": "Hybrid (video game)",
   "ids": {
    "igdb": "hybrid",
+   "metacritic": "hybrid-2012",
    "mobygames": "157995"
   },
   "label_en": "Hybrid",
@@ -100,6 +104,7 @@
   "enwiki": "WWE 2K14",
   "ids": {
    "igdb": "wwe-2k14",
+   "metacritic": "wwe-2k14",
    "mobygames": "83225"
   },
   "label_en": "WWE 2K14",
@@ -127,6 +132,7 @@
   "ids": {
    "howlongtobeat": "7908",
    "igdb": "rochard",
+   "metacritic": "rochard",
    "mobygames": "56386",
    "pcgamingwiki": "Rochard",
    "steam": "107800"
@@ -138,6 +144,7 @@
   "enwiki": "Savage Skies",
   "ids": {
    "igdb": "savage-skies",
+   "metacritic": "savage-skies",
    "mobygames": "6184"
   },
   "label_en": "Savage Skies",
@@ -156,6 +163,7 @@
   "enwiki": "Strike Force Bowling",
   "ids": {
    "igdb": "strike-force-bowling",
+   "metacritic": "strike-force-bowling",
    "mobygames": "17428"
   },
   "label_en": "Strike Force Bowling",
@@ -174,6 +182,7 @@
   "enwiki": "Tube Slider",
   "ids": {
    "igdb": "tube-slider",
+   "metacritic": "tube-slider",
    "mobygames": "9271"
   },
   "label_en": "Tube Slider",
@@ -188,6 +197,9 @@
   "wikidata": "Q8037776"
  },
  {
+  "ids": {
+   "metacritic": "silent-heroes"
+  },
   "label_en": "Silent Heroes",
   "wikidata": "Q10667776"
  },
@@ -206,6 +218,7 @@
   "ids": {
    "howlongtobeat": "13256",
    "igdb": "nascar-the-game-inside-line",
+   "metacritic": "nascar-the-game-inside-line",
    "mobygames": "85083",
    "pcgamingwiki": "NASCAR_The_Game:_2013",
    "steam": "225220"
@@ -226,6 +239,7 @@
   "ids": {
    "howlongtobeat": "19670",
    "igdb": "armillo",
+   "metacritic": "armillo",
    "mobygames": "80678",
    "steam": "349520"
   },
@@ -248,6 +262,7 @@
   "enwiki": "Angry Birds Pop!",
   "ids": {
    "igdb": "angry-birds-pop",
+   "metacritic": "angry-birds-pop",
    "mobygames": "81790"
   },
   "label_en": "Angry Birds POP!",
@@ -257,7 +272,8 @@
   "enwiki": "Amiibo Tap: Nintendo's Greatest Bits",
   "ids": {
    "howlongtobeat": "26942",
-   "igdb": "amiibo-tap-nintendos-greatest-bits"
+   "igdb": "amiibo-tap-nintendos-greatest-bits",
+   "metacritic": "amiibo-tap-nintendos-greatest-bits"
   },
   "label_en": "Amiibo tap: Nintendo's Greatest Bits",
   "wikidata": "Q20189776"
@@ -284,6 +300,7 @@
   "ids": {
    "howlongtobeat": "80124",
    "igdb": "artful-escape",
+   "metacritic": "the-artful-escape",
    "mobygames": "171458",
    "pcgamingwiki": "The_Artful_Escape",
    "steam": "1122680"
@@ -302,6 +319,7 @@
  {
   "ids": {
    "igdb": "elf-bowling-3",
+   "metacritic": "elf-bowling-3",
    "mobygames": "30717"
   },
   "label_en": "Elf Bowling 3",
@@ -322,6 +340,7 @@
   "ids": {
    "howlongtobeat": "56071",
    "igdb": "39-days-to-mars",
+   "metacritic": "39-days-to-mars",
    "mobygames": "116459",
    "pcgamingwiki": "39_Days_to_Mars",
    "steam": "504920"
@@ -335,6 +354,7 @@
    "epic": "men-of-war-ii-171a7e",
    "howlongtobeat": "125080",
    "igdb": "men-of-war-ii",
+   "metacritic": "men-of-war-ii",
    "mobygames": "224029",
    "pcgamingwiki": "Men_of_War_II",
    "steam": "1128860"
@@ -394,6 +414,7 @@
   "ids": {
    "howlongtobeat": "81433",
    "igdb": "blightbound",
+   "metacritic": "blightbound",
    "mobygames": "148718",
    "pcgamingwiki": "Blightbound",
    "steam": "1263070"
@@ -412,6 +433,7 @@
   "ids": {
    "howlongtobeat": "126308",
    "igdb": "the-murder-of-sonic-the-hedgehog",
+   "metacritic": "the-murder-of-sonic-the-hedgehog",
    "mobygames": "201220",
    "pcgamingwiki": "The_Murder_of_Sonic_the_Hedgehog",
    "steam": "2324650"
@@ -432,6 +454,7 @@
    "epic": "mr-run-and-jump-91ed30",
    "howlongtobeat": "128458",
    "igdb": "mr-run-and-jump",
+   "metacritic": "mr-run-and-jump",
    "mobygames": "206445",
    "steam": "2132540"
   },
@@ -788,6 +811,7 @@
   "ids": {
    "howlongtobeat": "32622",
    "igdb": "playing-history-the-plague",
+   "metacritic": "playing-history--the-plague",
    "mobygames": "83777",
    "pcgamingwiki": "Playing_History:_The_Plague",
    "steam": "395920"
@@ -831,6 +855,7 @@
   "ids": {
    "howlongtobeat": "145044",
    "igdb": "writers-rush",
+   "metacritic": "writers-rush",
    "steam": "2745800"
   },
   "label_en": "Writer's Rush",

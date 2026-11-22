@@ -5,6 +5,7 @@
    "gog": "game/brothers_in_arms_road_to_hill_30",
    "howlongtobeat": "1343",
    "igdb": "brothers-in-arms-road-to-hill-30",
+   "metacritic": "brothers-in-arms-road-to-hill-30",
    "mobygames": "17000",
    "pcgamingwiki": "Brothers_in_Arms:_Road_to_Hill_30",
    "steam": "15190"
@@ -53,6 +54,7 @@
   "ids": {
    "howlongtobeat": "2257",
    "igdb": "darkwatch",
+   "metacritic": "darkwatch",
    "mobygames": "18981"
   },
   "label_en": "Darkwatch",
@@ -83,6 +85,7 @@
   "ids": {
    "howlongtobeat": "10237",
    "igdb": "the-typing-of-the-dead",
+   "metacritic": "the-typing-of-the-dead",
    "mobygames": "3268",
    "pcgamingwiki": "The_Typing_of_the_Dead"
   },
@@ -100,6 +103,7 @@
   "enwiki": "Overlord: Minions",
   "ids": {
    "igdb": "overlord-minions",
+   "metacritic": "overlord-minions",
    "mobygames": "42685"
   },
   "label_en": "Overlord: Minions",
@@ -139,6 +143,7 @@
   "ids": {
    "howlongtobeat": "9312",
    "igdb": "summon-night-swordcraft-story-2",
+   "metacritic": "summon-night-swordcraft-story-2",
    "mobygames": "25123"
   },
   "label_en": "Summon Night: Swordcraft Story 2",
@@ -148,6 +153,7 @@
   "enwiki": "Universal Combat",
   "ids": {
    "igdb": "universal-combat",
+   "metacritic": "universal-combat",
    "mobygames": "13256"
   },
   "label_en": "Universal Combat",
@@ -158,6 +164,7 @@
   "ids": {
    "howlongtobeat": "10959",
    "igdb": "virtua-quest",
+   "metacritic": "virtua-quest",
    "mobygames": "81325"
   },
   "label_en": "Virtua Quest",
@@ -180,6 +187,9 @@
   "wikidata": "Q11087916"
  },
  {
+  "ids": {
+   "metacritic": "save-the-snail-hd"
+  },
   "label_en": "Save the Snail",
   "wikidata": "Q15726916"
  },
@@ -197,6 +207,7 @@
   "ids": {
    "howlongtobeat": "14786",
    "igdb": "the-mysterious-cities-of-gold-secret-paths",
+   "metacritic": "mysterious-cities-of-gold-secret-paths",
    "mobygames": "70947",
    "pcgamingwiki": "The_Mysterious_Cities_of_Gold",
    "steam": "261940"
@@ -207,6 +218,7 @@
  {
   "ids": {
    "igdb": "rayman-rush",
+   "metacritic": "rayman-rush",
    "mobygames": "6112"
   },
   "label_en": "Rayman Rush",
@@ -217,6 +229,7 @@
   "ids": {
    "howlongtobeat": "26915",
    "igdb": "duck-game",
+   "metacritic": "duck-game",
    "mobygames": "83382",
    "pcgamingwiki": "Duck_Game",
    "steam": "312530"
@@ -270,6 +283,7 @@
   "ids": {
    "howlongtobeat": "49381",
    "igdb": "assault-suit-leynos",
+   "metacritic": "assault-suit-leynos",
    "mobygames": "86520",
    "pcgamingwiki": "Assault_Suit_Leynos",
    "steam": "441350"
@@ -280,7 +294,8 @@
  {
   "enwiki": "Charade Maniacs",
   "ids": {
-   "igdb": "charade-maniacs"
+   "igdb": "charade-maniacs",
+   "metacritic": "charade-maniacs"
   },
   "label_en": "Charade Maniacs",
   "wikidata": "Q60986916"
@@ -289,6 +304,7 @@
   "ids": {
    "howlongtobeat": "747",
    "igdb": "avernum-4",
+   "metacritic": "avernum-4",
    "mobygames": "22373",
    "pcgamingwiki": "Avernum_IV",
    "steam": "206020"
@@ -300,6 +316,7 @@
   "ids": {
    "howlongtobeat": "4795",
    "igdb": "jagged-alliance-crossfire",
+   "metacritic": "jagged-alliance-crossfire",
    "mobygames": "60104",
    "pcgamingwiki": "Jagged_Alliance:_Crossfire",
    "steam": "205810"
@@ -311,6 +328,7 @@
   "ids": {
    "howlongtobeat": "60188",
    "igdb": "combat-tested",
+   "metacritic": "combat-tested",
    "mobygames": "191728",
    "pcgamingwiki": "Combat_Tested",
    "steam": "750010"
@@ -324,6 +342,7 @@
    "gog": "game/talisman_digital_edition",
    "howlongtobeat": "17600",
    "igdb": "talisman-digital-edition",
+   "metacritic": "talisman-digital-edition",
    "mobygames": "71986",
    "pcgamingwiki": "Talisman:_Digital_Edition",
    "steam": "247000"
@@ -335,6 +354,7 @@
   "ids": {
    "howlongtobeat": "71533",
    "igdb": "homo-machina",
+   "metacritic": "homo-machina",
    "mobygames": "117314"
   },
   "label_en": "Homo Machina",
@@ -346,6 +366,7 @@
    "epic": "god-of-war-ragnarok-3ca641",
    "howlongtobeat": "83146",
    "igdb": "god-of-war-ragnarok",
+   "metacritic": "god-of-war-ragnarok",
    "mobygames": "195074",
    "pcgamingwiki": "God_of_War_Ragnarök",
    "steam": "2322010"
@@ -375,6 +396,7 @@
    "gog": "game/warhammer_quest_2_the_end_times",
    "howlongtobeat": "55221",
    "igdb": "warhammer-quest-2-the-end-times",
+   "metacritic": "warhammer-quest-2-the-end-times",
    "mobygames": "121492",
    "pcgamingwiki": "Warhammer_Quest_2:_The_End_Times",
    "steam": "910450"
@@ -428,6 +450,7 @@
   "ids": {
    "howlongtobeat": "37210",
    "igdb": "the-descendant",
+   "metacritic": "the-descendant-episode-1-aftermath",
    "mobygames": "81450",
    "pcgamingwiki": "The_Descendant",
    "steam": "351940"
@@ -1271,5 +1294,12 @@
  {
   "label_en": "Starcarus",
   "wikidata": "Q142163916"
+ },
+ {
+  "ids": {
+   "igdb": "the-sons-of-bostan"
+  },
+  "label_en": "The Sons of Bostan",
+  "wikidata": "Q142214916"
  }
 ]

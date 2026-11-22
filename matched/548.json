@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5335",
    "igdb": "littlebigplanet--1",
+   "metacritic": "littlebigplanet",
    "mobygames": "44222"
   },
   "label_en": "LittleBigPlanet",
@@ -45,6 +46,7 @@
   "enwiki": "Endless Ocean",
   "ids": {
    "igdb": "endless-ocean",
+   "metacritic": "endless-ocean",
    "mobygames": "31290"
   },
   "label_en": "Endless Ocean",
@@ -74,6 +76,7 @@
   "ids": {
    "howlongtobeat": "7593",
    "igdb": "ratchet-clank-full-frontal-assault",
+   "metacritic": "ratchet-clank-full-frontal-assault",
    "mobygames": "60592"
   },
   "label_en": "Ratchet & Clank: Full Frontal Assault",
@@ -89,6 +92,7 @@
   "ids": {
    "howlongtobeat": "7464",
    "igdb": "quantum-conundrum",
+   "metacritic": "quantum-conundrum",
    "mobygames": "56882",
    "pcgamingwiki": "Quantum_Conundrum",
    "steam": "200010"
@@ -109,6 +113,7 @@
   "ids": {
    "howlongtobeat": "13316",
    "igdb": "yaiba-ninja-gaiden-z",
+   "metacritic": "yaiba-ninja-gaiden-z",
    "mobygames": "66190",
    "pcgamingwiki": "Yaiba:_Ninja_Gaiden_Z",
    "steam": "252230"
@@ -136,6 +141,7 @@
   "ids": {
    "howlongtobeat": "8869",
    "igdb": "space-rangers",
+   "metacritic": "space-rangers",
    "mobygames": "13775",
    "pcgamingwiki": "Space_Rangers",
    "steam": "46320"
@@ -195,6 +201,7 @@
   "enwiki": "Tarzan: Untamed",
   "ids": {
    "igdb": "disneys-tarzan-untamed",
+   "metacritic": "disneys-tarzan-untamed",
    "mobygames": "9647"
   },
   "label_en": "Disney's Tarzan: Untamed",
@@ -228,6 +235,7 @@
   "ids": {
    "howlongtobeat": "41801",
    "igdb": "mx-vs-atv-supercross-encore",
+   "metacritic": "mx-vs-atv-supercross",
    "mobygames": "83160",
    "pcgamingwiki": "MX_vs._ATV_Supercross_Encore",
    "steam": "282050"
@@ -241,6 +249,7 @@
    "gog": "game/blackwell_bundle",
    "howlongtobeat": "1112",
    "igdb": "the-blackwell-deception",
+   "metacritic": "blackwell-deception",
    "mobygames": "53340",
    "pcgamingwiki": "Blackwell_Deception",
    "steam": "80360"
@@ -275,6 +284,7 @@
    "gog": "game/katana_zero",
    "howlongtobeat": "33020",
    "igdb": "katana-zero",
+   "metacritic": "katana-zero",
    "mobygames": "124242",
    "pcgamingwiki": "Katana_Zero",
    "steam": "460950"
@@ -287,6 +297,7 @@
    "epic": "samurai-riot-definitive-edition-182a31",
    "howlongtobeat": "49058",
    "igdb": "samurai-riot",
+   "metacritic": "samurai-riot",
    "mobygames": "96000",
    "pcgamingwiki": "Samurai_Riot",
    "steam": "658790"
@@ -307,6 +318,7 @@
    "gog": "game/weedcraft_inc",
    "howlongtobeat": "66407",
    "igdb": "weedcraft-inc",
+   "metacritic": "weedcraft-inc",
    "mobygames": "124879",
    "pcgamingwiki": "Weedcraft_Inc",
    "steam": "622720"
@@ -341,6 +353,7 @@
    "epic": "levelhead",
    "howlongtobeat": "76093",
    "igdb": "levelhead--1",
+   "metacritic": "levelhead",
    "mobygames": "145033",
    "pcgamingwiki": "Levelhead",
    "steam": "792710"
@@ -400,6 +413,7 @@
    "gog": "game/front_mission_2_remake",
    "howlongtobeat": "128494",
    "igdb": "front-mission-2-remake",
+   "metacritic": "front-mission-2-remake",
    "mobygames": "213670",
    "steam": "2865440"
   },
@@ -445,6 +459,7 @@
    "gog": "game/videoverse",
    "howlongtobeat": "125125",
    "igdb": "videoverse",
+   "metacritic": "videoverse",
    "mobygames": "206980",
    "steam": "2079180"
   },
@@ -639,6 +654,7 @@
    "epic": "pirates-outlaws-a8cc60",
    "howlongtobeat": "71327",
    "igdb": "pirates-outlaws",
+   "metacritic": "pirates-outlaws",
    "mobygames": "144490",
    "pcgamingwiki": "Pirates_Outlaws",
    "steam": "1046300"
@@ -766,6 +782,7 @@
   "ids": {
    "howlongtobeat": "41262",
    "igdb": "loading-human-chapter-1",
+   "metacritic": "loading-human-chapter-1",
    "pcgamingwiki": "Loading_Human:_Chapter_1",
    "steam": "522200"
   },
@@ -873,7 +890,8 @@
   "enwiki": "Code Violet",
   "ids": {
    "howlongtobeat": "167414",
-   "igdb": "code-violet"
+   "igdb": "code-violet",
+   "metacritic": "code-violet"
   },
   "label_en": "Code Violet",
   "wikidata": "Q131785548"
@@ -884,6 +902,7 @@
    "epic": "resonance-a-plague-tale-legacy-d3f169",
    "howlongtobeat": "169336",
    "igdb": "resonance-a-plague-tale-legacy",
+   "metacritic": "resonance-a-plague-tale-legacy",
    "pcgamingwiki": "Resonance:_A_Plague_Tale_Legacy",
    "steam": "2713000"
   },
@@ -1154,6 +1173,7 @@
   "ids": {
    "howlongtobeat": "174349",
    "igdb": "yoshi-and-the-mysterious-book",
+   "metacritic": "yoshi-and-the-mysterious-book",
    "mobygames": "261119"
   },
   "label_en": "Yoshi and the Mysterious Book",

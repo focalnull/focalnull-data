@@ -45,6 +45,7 @@
   "ids": {
    "howlongtobeat": "4873",
    "igdb": "joust",
+   "metacritic": "joust",
    "mobygames": "4059",
    "pcgamingwiki": "Joust"
   },
@@ -56,6 +57,7 @@
   "ids": {
    "howlongtobeat": "5622",
    "igdb": "mario-luigi-superstar-saga",
+   "metacritic": "mario-and-luigi-superstar-saga",
    "mobygames": "12026"
   },
   "label_en": "Mario & Luigi: Superstar Saga",
@@ -88,6 +90,7 @@
    "gog": "game/kane_lynch_2_dog_days",
    "howlongtobeat": "4923",
    "igdb": "kane-lynch-2-dog-days",
+   "metacritic": "kane-lynch-2-dog-days",
    "mobygames": "47734",
    "pcgamingwiki": "Kane_&_Lynch_2:_Dog_Days",
    "steam": "28000"
@@ -197,6 +200,7 @@
   "enwiki": "Tamagotchi Connection: Corner Shop 2",
   "ids": {
    "igdb": "tamagotchi-connection-corner-shop-2",
+   "metacritic": "tamagotchi-connection-corner-shop-2",
    "mobygames": "80360"
   },
   "label_en": "Tamagotchi Connection: Corner Shop 2",
@@ -207,6 +211,7 @@
   "ids": {
    "howlongtobeat": "13771",
    "igdb": "castle-of-illusion-starring-mickey-mouse--1",
+   "metacritic": "disney-castle-of-illusion-starring-mickey-mouse",
    "mobygames": "63038",
    "pcgamingwiki": "Castle_of_Illusion",
    "steam": "227600"
@@ -227,6 +232,7 @@
   "enwiki": "Riddle of the Sphinx: An Egyptian Adventure",
   "ids": {
    "igdb": "riddle-of-the-sphinx-an-egyptian-adventure",
+   "metacritic": "riddle-of-the-sphinx-an-egyptian-adventure",
    "mobygames": "2801"
   },
   "label_en": "Riddle of the Sphinx: An Egyptian Adventure",
@@ -253,7 +259,8 @@
  },
  {
   "ids": {
-   "igdb": "tom-clancys-shadowbreak"
+   "igdb": "tom-clancys-shadowbreak",
+   "metacritic": "tom-clancys-shadowbreak"
   },
   "label_en": "Tom Clancy's ShadowBreak",
   "wikidata": "Q29964550"
@@ -275,6 +282,7 @@
    "gog": "game/cosmic_star_heroine",
    "howlongtobeat": "44714",
    "igdb": "cosmic-star-heroine",
+   "metacritic": "cosmic-star-heroine",
    "mobygames": "86770",
    "pcgamingwiki": "Cosmic_Star_Heroine",
    "steam": "256460"
@@ -297,6 +305,7 @@
   "ids": {
    "howlongtobeat": "5475",
    "igdb": "macguffins-curse",
+   "metacritic": "macguffins-curse",
    "mobygames": "55984",
    "pcgamingwiki": "MacGuffin's_Curse",
    "steam": "58230"
@@ -449,6 +458,7 @@
   "ids": {
    "howlongtobeat": "62207",
    "igdb": "naked-sun",
+   "metacritic": "naked-sun",
    "mobygames": "111835",
    "pcgamingwiki": "Naked_Sun",
    "steam": "762490"
@@ -475,6 +485,7 @@
   "ids": {
    "howlongtobeat": "83809",
    "igdb": "scarlet-hollow",
+   "metacritic": "scarlet-hollow",
    "mobygames": "206300",
    "pcgamingwiki": "Scarlet_Hollow",
    "steam": "1609230"
@@ -488,7 +499,9 @@
    "epic": "elderand-09e6bc",
    "howlongtobeat": "93627",
    "igdb": "elderand",
+   "metacritic": "elderand",
    "mobygames": "200187",
+   "pcgamingwiki": "Elderand",
    "steam": "1413660"
   },
   "label_en": "Elderand",
@@ -498,6 +511,7 @@
   "ids": {
    "howlongtobeat": "66172",
    "igdb": "intruders-hide-and-seek",
+   "metacritic": "intruders-hide-and-seek",
    "mobygames": "154566",
    "pcgamingwiki": "Intruders:_Hide_and_Seek",
    "steam": "1045840"
@@ -755,6 +769,7 @@
   "ids": {
    "howlongtobeat": "63112",
    "igdb": "the-crown-of-leaves",
+   "metacritic": "the-crown-of-leaves",
    "mobygames": "118257",
    "pcgamingwiki": "The_Crown_of_Leaves",
    "steam": "604330"
@@ -879,6 +894,7 @@
  {
   "ids": {
    "igdb": "into-the-radius-2",
+   "metacritic": "into-the-radius-2",
    "pcgamingwiki": "Into_the_Radius_2",
    "steam": "2307350"
   },

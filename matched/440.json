@@ -5,6 +5,7 @@
    "gog": "game/freedom_force_vs_the_3rd_reich",
    "howlongtobeat": "3695",
    "igdb": "freedom-force-vs-the-3rd-reich",
+   "metacritic": "freedom-force-vs-the-3rd-reich",
    "mobygames": "16832",
    "pcgamingwiki": "Freedom_Force_vs._The_3rd_Reich",
    "steam": "8890"
@@ -53,6 +54,7 @@
   "ids": {
    "howlongtobeat": "15875",
    "igdb": "naruto-shippuden-ultimate-ninja-storm-3",
+   "metacritic": "naruto-shippuden-ultimate-ninja-storm-3-full-burst",
    "mobygames": "83370",
    "pcgamingwiki": "Naruto_Shippuden:_Ultimate_Ninja_Storm_3_Full_Burst",
    "steam": "234670"
@@ -90,6 +92,7 @@
  {
   "ids": {
    "igdb": "dance-sensation",
+   "metacritic": "dance-sensation",
    "mobygames": "90701"
   },
   "label_en": "Dance Sensation!",
@@ -146,6 +149,7 @@
   "ids": {
    "howlongtobeat": "19826",
    "igdb": "ragnarok-online-2",
+   "metacritic": "ragnarok-online-2-legend-of-the-second",
    "pcgamingwiki": "Ragnarok_Online_2",
    "steam": "231060"
   },
@@ -160,6 +164,7 @@
   "enwiki": "Monster Tale",
   "ids": {
    "igdb": "monster-tale",
+   "metacritic": "monster-tale",
    "mobygames": "55857"
   },
   "label_en": "Monster Tale",
@@ -170,6 +175,7 @@
   "ids": {
    "howlongtobeat": "29781",
    "igdb": "castaway-paradise",
+   "metacritic": "castaway-paradise-craft-your-new-life",
    "mobygames": "110307",
    "pcgamingwiki": "Castaway_Paradise_Complete_Edition",
    "steam": "304950"
@@ -193,6 +199,7 @@
   "ids": {
    "howlongtobeat": "39100",
    "igdb": "anarcute",
+   "metacritic": "anarcute",
    "mobygames": "79745",
    "pcgamingwiki": "Anarcute",
    "steam": "390720"
@@ -204,6 +211,7 @@
   "ids": {
    "howlongtobeat": "45715",
    "igdb": "spareware",
+   "metacritic": "spareware",
    "mobygames": "101139",
    "pcgamingwiki": "Spareware",
    "steam": "530740"
@@ -217,6 +225,7 @@
    "gog": "game/slay_the_spire",
    "howlongtobeat": "51390",
    "igdb": "slay-the-spire",
+   "metacritic": "slay-the-spire",
    "mobygames": "98734",
    "pcgamingwiki": "Slay_the_Spire",
    "steam": "646570"
@@ -226,6 +235,7 @@
  },
  {
   "ids": {
+   "metacritic": "magic-vines",
    "mobygames": "40419"
   },
   "label_en": "Magic Vines",
@@ -367,6 +377,7 @@
  },
  {
   "ids": {
+   "metacritic": "superheroes-math-challenge",
    "mobygames": "35302"
   },
   "label_en": "Superheroes Math Challenge",
@@ -394,6 +405,7 @@
   "ids": {
    "howlongtobeat": "127323",
    "igdb": "god-of-rock",
+   "metacritic": "god-of-rock",
    "mobygames": "208418",
    "steam": "1851030"
   },
@@ -740,6 +752,7 @@
   "ids": {
    "howlongtobeat": "36169",
    "igdb": "shooting-stars",
+   "metacritic": "shooting-stars-2015",
    "mobygames": "111244",
    "pcgamingwiki": "Shooting_Stars!",
    "steam": "415350"
@@ -829,6 +842,7 @@
   "ids": {
    "howlongtobeat": "69708",
    "igdb": "vasara-collection",
+   "metacritic": "vasara-collection",
    "mobygames": "132176",
    "pcgamingwiki": "VASARA_Collection",
    "steam": "1085630"
@@ -1152,6 +1166,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Lost_Railway",
    "steam": "862750"
   },
   "label_en": "Lost Railway",
@@ -1192,6 +1207,7 @@
  {
   "ids": {
    "igdb": "vampires-fall-2",
+   "pcgamingwiki": "Vampire's_Fall_2",
    "steam": "4264230"
   },
   "label_en": "Vampire's Fall 2",

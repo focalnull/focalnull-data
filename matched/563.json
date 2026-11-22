@@ -11,6 +11,7 @@
   "ids": {
    "howlongtobeat": "946",
    "igdb": "battlefield-bad-company-2",
+   "metacritic": "battlefield-bad-company-2",
    "mobygames": "45500",
    "pcgamingwiki": "Battlefield:_Bad_Company_2",
    "steam": "24960"
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "10045",
    "igdb": "the-legend-of-zelda-the-wind-waker",
+   "metacritic": "the-legend-of-zelda-the-wind-waker",
    "mobygames": "8725"
   },
   "label_en": "The Legend of Zelda: The Wind Waker",
@@ -64,6 +66,7 @@
   "enwiki": "Adventure Pinball: Forgotten Island",
   "ids": {
    "igdb": "adventure-pinball-forgotten-island",
+   "metacritic": "adventure-pinball-forgotten-island",
    "mobygames": "4349",
    "pcgamingwiki": "Adventure_Pinball:_Forgotten_Island"
   },
@@ -75,6 +78,7 @@
   "ids": {
    "howlongtobeat": "3562",
    "igdb": "fire-emblem-shadow-dragon",
+   "metacritic": "fire-emblem-shadow-dragon",
    "mobygames": "35590"
   },
   "label_en": "Fire Emblem: Shadow Dragon",
@@ -111,6 +115,7 @@
   "enwiki": "Double Dragon Advance",
   "ids": {
    "igdb": "double-dragon-advance",
+   "metacritic": "double-dragon-advance",
    "mobygames": "1839",
    "pcgamingwiki": "Double_Dragon_Advance",
    "steam": "2086360"
@@ -131,6 +136,7 @@
  {
   "ids": {
    "igdb": "candace-kane-s-candy-factory",
+   "metacritic": "candace-kanes-candy-factory",
    "mobygames": "87676"
   },
   "label_en": "Candace Kane's Candy Factory",
@@ -246,6 +252,7 @@
   "ids": {
    "howlongtobeat": "47348",
    "igdb": "monster-hunter-generations-ultimate",
+   "metacritic": "monster-hunter-generations-ultimate",
    "mobygames": "102659"
   },
   "label_en": "Monster Hunter Generations Ultimate",
@@ -327,6 +334,7 @@
   "ids": {
    "howlongtobeat": "48179",
    "igdb": "fantasy-strike",
+   "metacritic": "fantasy-strike",
    "mobygames": "106046",
    "pcgamingwiki": "Fantasy_Strike",
    "steam": "390560"
@@ -372,6 +380,7 @@
    "epic": "marvels-midnight-suns",
    "howlongtobeat": "97298",
    "igdb": "marvels-midnight-suns",
+   "metacritic": "marvels-midnight-suns",
    "mobygames": "195971",
    "pcgamingwiki": "Marvel's_Midnight_Suns",
    "steam": "368260"
@@ -383,6 +392,7 @@
   "ids": {
    "howlongtobeat": "125787",
    "igdb": "one-more-gate-a-wakfu-legend",
+   "metacritic": "one-more-gate-a-wakfu-legend",
    "mobygames": "193064",
    "steam": "1832950"
   },
@@ -1189,6 +1199,7 @@
   "ids": {
    "howlongtobeat": "49080",
    "igdb": "yet-another-zombie-defense-hd",
+   "metacritic": "yet-another-zombie-defense-hd",
    "mobygames": "95187",
    "pcgamingwiki": "Yet_Another_Zombie_Defense_HD",
    "steam": "674750"
@@ -1267,5 +1278,13 @@
   },
   "label_en": "Maze Invaders",
   "wikidata": "Q141498563"
+ },
+ {
+  "label_en": "Before the moon sets",
+  "wikidata": "Q142199563"
+ },
+ {
+  "label_en": "Shock Wave: Operation JumpGate",
+  "wikidata": "Q142200563"
  }
 ]

@@ -22,6 +22,7 @@
    "gog": "game/red_faction_2",
    "howlongtobeat": "7684",
    "igdb": "red-faction-ii",
+   "metacritic": "red-faction-ii",
    "mobygames": "8896",
    "pcgamingwiki": "Red_Faction_II",
    "steam": "20550"
@@ -80,6 +81,7 @@
   "enwiki": "Mega Man Maverick Hunter X",
   "ids": {
    "igdb": "mega-man-maverick-hunter-x",
+   "metacritic": "mega-man-maverick-hunter-x",
    "mobygames": "21287"
   },
   "label_en": "Mega Man Maverick Hunter X",
@@ -90,6 +92,7 @@
   "ids": {
    "howlongtobeat": "878",
    "igdb": "batman-beyond-return-of-the-joker",
+   "metacritic": "batman-beyond-return-of-the-joker",
    "mobygames": "6438"
   },
   "label_en": "Batman Beyond: Return of the Joker",
@@ -191,6 +194,7 @@
   "ids": {
    "epic": "robo-recall",
    "igdb": "robo-recall",
+   "metacritic": "robo-recall",
    "mobygames": "98542",
    "pcgamingwiki": "Robo_Recall"
   },
@@ -202,6 +206,7 @@
   "ids": {
    "gog": "game/close_combat_5_invasion_normandy_utah_beach_to_cherbourg",
    "igdb": "close-combat-5-invasion-normandy-utah-beach-to-cherbourg",
+   "metacritic": "close-combat-invasion-normandy",
    "mobygames": "2484",
    "pcgamingwiki": "Close_Combat:_Invasion_Normandy"
   },
@@ -222,6 +227,7 @@
    "gog": "game/my_time_at_portia",
    "howlongtobeat": "52787",
    "igdb": "my-time-at-portia",
+   "metacritic": "my-time-at-portia",
    "mobygames": "101894",
    "pcgamingwiki": "My_Time_at_Portia",
    "steam": "666140"
@@ -236,6 +242,7 @@
    "gog": "game/cook_serve_delicious_3",
    "howlongtobeat": "74718",
    "igdb": "cook-serve-delicious-3",
+   "metacritic": "cook-serve-delicious-3",
    "mobygames": "140621",
    "pcgamingwiki": "Cook,_Serve,_Delicious!_3?!",
    "steam": "1000030"
@@ -257,6 +264,7 @@
   "ids": {
    "howlongtobeat": "39058",
    "igdb": "defend-your-crypt",
+   "metacritic": "defend-your-crypt",
    "mobygames": "97211",
    "pcgamingwiki": "Defend_Your_Crypt",
    "steam": "457450"
@@ -268,6 +276,7 @@
   "enwiki": "Beatdown (video game)",
   "ids": {
    "igdb": "beatdown--1",
+   "metacritic": "beatdown",
    "mobygames": "2793"
   },
   "label_en": "Beatdown",
@@ -349,6 +358,7 @@
   "ids": {
    "howlongtobeat": "42506",
    "igdb": "super-rad-raygun",
+   "metacritic": "super-rad-raygun",
    "mobygames": "150550",
    "pcgamingwiki": "Super_Rad_Raygun",
    "steam": "297660"
@@ -380,6 +390,7 @@
   "ids": {
    "howlongtobeat": "19455",
    "igdb": "age-of-mythology-extended-edition",
+   "metacritic": "age-of-mythology-extended-edition",
    "mobygames": "65521",
    "pcgamingwiki": "Age_of_Mythology:_Extended_Edition",
    "steam": "266840"
@@ -804,6 +815,7 @@
  {
   "ids": {
    "igdb": "parking-garage-rally-circuit",
+   "metacritic": "parking-garage-rally-circuit",
    "mobygames": "230886",
    "pcgamingwiki": "Parking_Garage_Rally_Circuit",
    "steam": "2737300"
@@ -844,6 +856,7 @@
   "ids": {
    "howlongtobeat": "169264",
    "igdb": "lego-party",
+   "metacritic": "lego-party",
    "mobygames": "248628",
    "pcgamingwiki": "Lego_Party",
    "steam": "1969370"
@@ -1142,6 +1155,7 @@
  {
   "ids": {
    "igdb": "super-seducer",
+   "metacritic": "super-seducer-how-to-talk-to-girls",
    "mobygames": "104840",
    "steam": "695920"
   },
@@ -1166,6 +1180,7 @@
  {
   "ids": {
    "igdb": "matchbox-driving-adventures",
+   "pcgamingwiki": "Matchbox_Driving_Adventures",
    "steam": "2322330"
   },
   "label_en": "Matchbox™ Driving Adventures",

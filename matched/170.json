@@ -22,6 +22,7 @@
   "ids": {
    "howlongtobeat": "3773",
    "igdb": "g-force--1",
+   "metacritic": "g-force",
    "mobygames": "112133",
    "pcgamingwiki": "G-Force",
    "steam": "319170"
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "3451",
    "igdb": "fifa-2001-major-league-soccer",
+   "metacritic": "fifa-2001",
    "pcgamingwiki": "FIFA_2001"
   },
   "label_en": "FIFA 2001",
@@ -44,6 +46,7 @@
   "ids": {
    "howlongtobeat": "10155",
    "igdb": "the-rub-rabbits",
+   "metacritic": "the-rub-rabbits",
    "mobygames": "21487"
   },
   "label_en": "The Rub Rabbits!",
@@ -63,6 +66,7 @@
   "ids": {
    "howlongtobeat": "20284",
    "igdb": "mad-tracks",
+   "metacritic": "mad-tracks",
    "mobygames": "22155",
    "pcgamingwiki": "Mad_Tracks_(2020)",
    "steam": "1202970"
@@ -92,6 +96,7 @@
   "enwiki": "Suikoden IV",
   "ids": {
    "igdb": "suikoden-iv",
+   "metacritic": "suikoden-iv",
    "mobygames": "15638"
   },
   "label_en": "Suikoden IV",
@@ -102,6 +107,7 @@
   "ids": {
    "howlongtobeat": "1108",
    "igdb": "black-stone-magic-steel",
+   "metacritic": "black-stone-magic-and-steel",
    "mobygames": "9281"
   },
   "label_en": "Black Stone: Magic & Steel",
@@ -125,6 +131,7 @@
   "ids": {
    "howlongtobeat": "12054",
    "igdb": "dynasty-warriors-8",
+   "metacritic": "dynasty-warriors-8-xtreme-legends-complete-edition",
    "mobygames": "65068",
    "pcgamingwiki": "Dynasty_Warriors_8:_Empires",
    "steam": "278080"
@@ -151,6 +158,7 @@
  },
  {
   "ids": {
+   "metacritic": "picture-perfect-hair-salon",
    "mobygames": "89778"
   },
   "label_en": "Picture Perfect Hair Salon",
@@ -190,6 +198,7 @@
    "gog": "game/bound_by_flame",
    "howlongtobeat": "18141",
    "igdb": "bound-by-flame",
+   "metacritic": "bound-by-flame",
    "mobygames": "65493",
    "pcgamingwiki": "Bound_by_Flame",
    "steam": "243930"
@@ -243,6 +252,7 @@
   "ids": {
    "howlongtobeat": "33220",
    "igdb": "refunct",
+   "metacritic": "refunct",
    "mobygames": "82384",
    "pcgamingwiki": "Refunct",
    "steam": "406150"
@@ -272,6 +282,7 @@
   "ids": {
    "howlongtobeat": "18238",
    "igdb": "full-mojo-rampage",
+   "metacritic": "full-mojo-rampage",
    "mobygames": "69631",
    "pcgamingwiki": "Full_Mojo_Rampage",
    "steam": "225280"
@@ -307,6 +318,7 @@
   "ids": {
    "howlongtobeat": "66963",
    "igdb": "alien-blackout",
+   "metacritic": "alien-blackout",
    "mobygames": "121221"
   },
   "label_en": "Alien: Blackout",
@@ -330,6 +342,7 @@
    "gog": "game/gnog",
    "howlongtobeat": "45546",
    "igdb": "gnog",
+   "metacritic": "gnog",
    "mobygames": "87891",
    "pcgamingwiki": "GNOG",
    "steam": "290510"
@@ -339,6 +352,7 @@
  },
  {
   "ids": {
+   "metacritic": "rush",
    "mobygames": "29509"
   },
   "label_en": "RUSH (2010)",
@@ -369,6 +383,7 @@
   "ids": {
    "howlongtobeat": "43483",
    "igdb": "knockout-league",
+   "metacritic": "knockout-league",
    "mobygames": "99622",
    "pcgamingwiki": "Knockout_League",
    "steam": "488920"
@@ -380,6 +395,7 @@
   "ids": {
    "howlongtobeat": "18934",
    "igdb": "dark-arcana-the-carnival",
+   "metacritic": "dark-arcana--the-carnival",
    "mobygames": "86611",
    "pcgamingwiki": "Dark_Arcana:_The_Carnival",
    "steam": "284730"
@@ -423,6 +439,7 @@
    "gog": "game/please_fix_the_road",
    "howlongtobeat": "109407",
    "igdb": "please-fix-the-road",
+   "metacritic": "please-fix-the-road",
    "mobygames": "185791",
    "pcgamingwiki": "Please_Fix_the_Road",
    "steam": "1383250"
@@ -443,6 +460,7 @@
    "epic": "town-of-salem-2-ab6497",
    "howlongtobeat": "130128",
    "igdb": "town-of-salem-2",
+   "metacritic": "town-of-salem-2",
    "mobygames": "205295",
    "steam": "2140510"
   },
@@ -806,6 +824,7 @@
   "ids": {
    "howlongtobeat": "142910",
    "igdb": "indemon-tales",
+   "metacritic": "indemon-tales",
    "steam": "2426020"
   },
   "label_en": "Indemon Tales",
@@ -869,6 +888,7 @@
  {
   "ids": {
    "igdb": "sonic-wings-reunion",
+   "metacritic": "sonic-wings-reunion",
    "mobygames": "242761",
    "pcgamingwiki": "Sonic_Wings_Reunion",
    "steam": "3477860"

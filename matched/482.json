@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10195",
    "igdb": "the-sims-3--1",
+   "metacritic": "the-sims-3",
    "mobygames": "41069",
    "pcgamingwiki": "The_Sims_3",
    "steam": "47890"
@@ -15,6 +16,7 @@
   "enwiki": "SSX (2012 video game)",
   "ids": {
    "igdb": "ssx--1",
+   "metacritic": "ssx",
    "mobygames": "58594"
   },
   "label_en": "SSX",
@@ -74,6 +76,7 @@
   "ids": {
    "howlongtobeat": "18834",
    "igdb": "mechwarrior-online",
+   "metacritic": "mechwarrior-online",
    "mobygames": "65128",
    "pcgamingwiki": "MechWarrior_Online",
    "steam": "342200"
@@ -92,6 +95,7 @@
  },
  {
   "ids": {
+   "metacritic": "impossible-mission",
    "mobygames": "47071"
   },
   "label_en": "Impossible Mission",
@@ -180,6 +184,7 @@
   "ids": {
    "howlongtobeat": "23051",
    "igdb": "framed",
+   "metacritic": "framed",
    "mobygames": "78425"
   },
   "label_en": "Framed",
@@ -190,6 +195,7 @@
   "ids": {
    "howlongtobeat": "9354",
    "igdb": "super-house-of-dead-ninjas",
+   "metacritic": "super-house-of-dead-ninjas",
    "mobygames": "64143",
    "pcgamingwiki": "Super_House_of_Dead_Ninjas",
    "steam": "224820"
@@ -207,6 +213,7 @@
  },
  {
   "ids": {
+   "metacritic": "rpg-maker-fes",
    "mobygames": "91317"
   },
   "label_en": "RPG Maker Fes",
@@ -215,6 +222,7 @@
  {
   "ids": {
    "igdb": "monster-castle",
+   "metacritic": "monster-castle",
    "pcgamingwiki": "Monster_Castle",
    "steam": "859180"
   },
@@ -233,6 +241,7 @@
   "ids": {
    "howlongtobeat": "37435",
    "igdb": "she-wants-me-dead",
+   "metacritic": "she-wants-me-dead",
    "mobygames": "87001",
    "pcgamingwiki": "She_Wants_Me_Dead",
    "steam": "468310"
@@ -245,6 +254,7 @@
   "ids": {
    "howlongtobeat": "11417",
    "igdb": "xotic",
+   "metacritic": "xotic",
    "mobygames": "54980",
    "pcgamingwiki": "Xotic",
    "steam": "92600"
@@ -267,6 +277,7 @@
   "ids": {
    "howlongtobeat": "51925",
    "igdb": "ultrawings",
+   "metacritic": "ultrawings",
    "mobygames": "93054",
    "pcgamingwiki": "Ultrawings",
    "steam": "639130"
@@ -298,6 +309,7 @@
    "gog": "game/strangeland",
    "howlongtobeat": "92631",
    "igdb": "strangeland",
+   "metacritic": "strangeland",
    "mobygames": "165274",
    "pcgamingwiki": "Strangeland",
    "steam": "1369520"
@@ -309,6 +321,7 @@
   "ids": {
    "howlongtobeat": "119111",
    "igdb": "nickelodeon-dance-2",
+   "metacritic": "nickelodeon-dance-2",
    "mobygames": "85084"
   },
   "label_en": "Nickelodeon Dance 2",
@@ -437,6 +450,9 @@
   "wikidata": "Q114945482"
  },
  {
+  "ids": {
+   "metacritic": "big-bang-pro-wrestling"
+  },
   "label_en": "Big Bang Pro Wrestling",
   "wikidata": "Q116263482"
  },
@@ -445,6 +461,7 @@
   "ids": {
    "howlongtobeat": "129235",
    "igdb": "phantom-blade-zero",
+   "metacritic": "phantom-blade-0",
    "mobygames": "251606",
    "pcgamingwiki": "Phantom_Blade_Zero",
    "steam": "4115450"
@@ -516,6 +533,7 @@
    "howlongtobeat": "101241",
    "igdb": "shadows-on-the-vatican-nightingale",
    "mobygames": "168629",
+   "pcgamingwiki": "Shadows_on_the_Vatican:_Nightingale",
    "steam": "1182530"
   },
   "label_en": "Shadows on the Vatican: Nightingale",
@@ -580,6 +598,7 @@
  {
   "ids": {
    "igdb": "animal-force",
+   "metacritic": "animal-force",
    "pcgamingwiki": "Animal_Force",
    "steam": "965900"
   },
@@ -802,6 +821,7 @@
    "gog": "game/berserk_boy",
    "howlongtobeat": "106973",
    "igdb": "berserk-boy",
+   "metacritic": "berserk-boy",
    "mobygames": "218915",
    "pcgamingwiki": "Berserk_Boy",
    "steam": "1561340"
@@ -883,6 +903,7 @@
   "enwiki": "Kirby Air Riders",
   "ids": {
    "igdb": "kirby-air-riders",
+   "metacritic": "kirby-air-riders",
    "mobygames": "247827"
   },
   "label_en": "Kirby Air Riders",
@@ -998,6 +1019,7 @@
   "ids": {
    "howlongtobeat": "143225",
    "igdb": "nova-hearts",
+   "metacritic": "nova-hearts",
    "steam": "2506290"
   },
   "label_en": "Nova Hearts",
@@ -1167,6 +1189,7 @@
  {
   "ids": {
    "igdb": "into-the-dread",
+   "pcgamingwiki": "Into_The_Dread",
    "steam": "3054960"
   },
   "label_en": "Into The Dread",
@@ -1181,6 +1204,7 @@
  },
  {
   "ids": {
+   "metacritic": "build-a-bear-workshop-a-friend-fur-all-seasons",
    "mobygames": "90669"
   },
   "label_en": "Build-A-Bear Workshop: A Friend Fur All Seasons",
@@ -1193,6 +1217,7 @@
  {
   "ids": {
    "igdb": "hentai-fight-club",
+   "pcgamingwiki": "Hentai_Fight_Club",
    "steam": "1142870"
   },
   "label_en": "Hentai Fight Club",

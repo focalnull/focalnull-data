@@ -5,6 +5,7 @@
    "gog": "game/star_wars_the_force_unleashed_ii",
    "howlongtobeat": "9136",
    "igdb": "star-wars-the-force-unleashed-ii",
+   "metacritic": "star-wars-the-force-unleashed-ii",
    "mobygames": "49104",
    "pcgamingwiki": "Star_Wars:_The_Force_Unleashed_II",
    "steam": "32500"
@@ -18,6 +19,7 @@
    "gog": "game/deponia_2_chaos_on_deponia",
    "howlongtobeat": "1643",
    "igdb": "chaos-on-deponia",
+   "metacritic": "chaos-on-deponia",
    "mobygames": "58570",
    "pcgamingwiki": "Chaos_on_Deponia",
    "steam": "220740"
@@ -30,6 +32,7 @@
   "ids": {
    "howlongtobeat": "10427",
    "igdb": "tom-clancy-s-ghost-recon-2-summit-strike",
+   "metacritic": "tom-clancys-ghost-recon-2-summit-strike",
    "mobygames": "34591"
   },
   "label_en": "Tom Clancy's Ghost Recon 2: Summit Strike",
@@ -51,6 +54,7 @@
   "enwiki": "Falcon 4.0: Allied Force",
   "ids": {
    "igdb": "falcon-4-0-allied-force",
+   "metacritic": "falcon-4-0-allied-force",
    "mobygames": "20430",
    "pcgamingwiki": "Falcon_4.0:_Allied_Force"
   },
@@ -122,7 +126,8 @@
   "enwiki": "Nicktoons: Freeze Frame Frenzy",
   "ids": {
    "howlongtobeat": "44689",
-   "igdb": "nicktoons-freeze-frame-frenzy"
+   "igdb": "nicktoons-freeze-frame-frenzy",
+   "metacritic": "nicktoons-freeze-frame-frenzy"
   },
   "label_en": "Nicktoons: Freeze Frame Frenzy",
   "wikidata": "Q7028539"
@@ -193,6 +198,7 @@
    "gog": "game/phantom_trigger",
    "howlongtobeat": "48188",
    "igdb": "phantom-trigger",
+   "metacritic": "phantom-trigger",
    "mobygames": "94179",
    "pcgamingwiki": "Phantom_Trigger",
    "steam": "445870"
@@ -204,6 +210,7 @@
   "ids": {
    "howlongtobeat": "54173",
    "igdb": "4rc4n01d-3-cold-space",
+   "metacritic": "4rc4n01d-3-cold-space",
    "mobygames": "162824",
    "pcgamingwiki": "!4RC4N01D!_3:_Cold_Space",
    "steam": "809370"
@@ -233,6 +240,7 @@
    "gog": "game/swag_and_sorcery",
    "howlongtobeat": "67117",
    "igdb": "swag-and-sorcery",
+   "metacritic": "swag-and-sorcery",
    "mobygames": "126725",
    "pcgamingwiki": "Swag_and_Sorcery",
    "steam": "929010"
@@ -271,6 +279,7 @@
    "gog": "game/shovel_knight_showdown",
    "howlongtobeat": "72000",
    "igdb": "shovel-knight-showdown",
+   "metacritic": "shovel-knight-showdown",
    "mobygames": "138069",
    "pcgamingwiki": "Shovel_Knight_Showdown",
    "steam": "1116770"
@@ -510,6 +519,7 @@
   "ids": {
    "howlongtobeat": "124854",
    "igdb": "megs-monster",
+   "metacritic": "megs-monster",
    "mobygames": "199979",
    "steam": "1783360"
   },

@@ -5,6 +5,7 @@
    "gog": "game/star_trek_armada_ii",
    "howlongtobeat": "25540",
    "igdb": "star-trek-armada-2",
+   "metacritic": "star-trek-armada-ii",
    "mobygames": "7002",
    "pcgamingwiki": "Star_Trek:_Armada_II"
   },
@@ -35,6 +36,7 @@
    "gog": "game/earth_2150_trilogy",
    "howlongtobeat": "19678",
    "igdb": "earth-2150-trilogy",
+   "metacritic": "earth-2150",
    "mobygames": "383",
    "pcgamingwiki": "Earth_2150",
    "steam": "253880"
@@ -56,6 +58,7 @@
   "ids": {
    "howlongtobeat": "55",
    "igdb": "1942-joint-strike",
+   "metacritic": "1942-joint-strike",
    "mobygames": "45762"
   },
   "label_en": "1942: Joint Strike",
@@ -136,6 +139,7 @@
   "enwiki": "Rainbow Islands Revolution",
   "ids": {
    "igdb": "rainbow-islands-revolution",
+   "metacritic": "rainbow-islands-revolution",
    "mobygames": "22523"
   },
   "label_en": "Rainbow Islands Revolution",
@@ -173,6 +177,7 @@
   "enwiki": "Mario Tennis: Ultra Smash",
   "ids": {
    "igdb": "mario-tennis-ultra-smash",
+   "metacritic": "mario-tennis-ultra-smash",
    "mobygames": "75746"
   },
   "label_en": "Mario Tennis: Ultra Smash",
@@ -183,6 +188,7 @@
   "ids": {
    "howlongtobeat": "44568",
    "igdb": "creepy-castle",
+   "metacritic": "creepy-castle",
    "mobygames": "115521",
    "pcgamingwiki": "Creepy_Castle",
    "steam": "450440"
@@ -194,6 +200,7 @@
   "ids": {
    "howlongtobeat": "66452",
    "igdb": "hunting-simulator",
+   "metacritic": "hunting-simulator",
    "mobygames": "90174",
    "pcgamingwiki": "Hunting_Simulator",
    "steam": "585080"
@@ -233,6 +240,7 @@
   "ids": {
    "howlongtobeat": "41490",
    "igdb": "genital-jousting",
+   "metacritic": "genital-jousting",
    "mobygames": "94175",
    "pcgamingwiki": "Genital_Jousting",
    "steam": "469820"
@@ -252,6 +260,7 @@
    "epic": "away-the-survival-series",
    "howlongtobeat": "78270",
    "igdb": "away-the-survival-series",
+   "metacritic": "away-the-survival-series",
    "mobygames": "173050",
    "pcgamingwiki": "Away:_The_Survival_Series",
    "steam": "750200"
@@ -281,6 +290,7 @@
   "ids": {
    "howlongtobeat": "18104",
    "igdb": "12-labours-of-hercules",
+   "metacritic": "12-labours-of-hercules",
    "mobygames": "80167",
    "pcgamingwiki": "12_Labours_of_Hercules",
    "steam": "342580"
@@ -323,6 +333,7 @@
   "ids": {
    "howlongtobeat": "113570",
    "igdb": "easy-come-easy-golf",
+   "metacritic": "easy-come-easy-golf",
    "mobygames": "161761",
    "pcgamingwiki": "Easy_Come_Easy_Golf"
   },
@@ -334,6 +345,7 @@
    "epic": "the-caligula-effect-2-a51f60",
    "howlongtobeat": "89437",
    "igdb": "the-caligula-effect-2",
+   "metacritic": "the-caligula-effect-2",
    "mobygames": "173915",
    "pcgamingwiki": "The_Caligula_Effect_2",
    "steam": "1933740"
@@ -346,6 +358,7 @@
    "gog": "game/ai_war_2",
    "howlongtobeat": "56343",
    "igdb": "ai-war-2",
+   "metacritic": "ai-war-2",
    "mobygames": "136378",
    "pcgamingwiki": "AI_War_2",
    "steam": "573410"
@@ -359,6 +372,7 @@
    "gog": "game/bye_sweet_carole",
    "howlongtobeat": "129774",
    "igdb": "bye-sweet-carole",
+   "metacritic": "bye-sweet-carole",
    "mobygames": "248961",
    "pcgamingwiki": "Bye_Sweet_Carole",
    "steam": "2428980"
@@ -397,6 +411,7 @@
    "epic": "of-bird-and-cage",
    "howlongtobeat": "82658",
    "igdb": "of-bird-and-cage",
+   "metacritic": "of-bird-and-cage",
    "mobygames": "164829",
    "pcgamingwiki": "Of_Bird_and_Cage",
    "steam": "523770"
@@ -424,6 +439,7 @@
   "ids": {
    "howlongtobeat": "53907",
    "igdb": "trivia-vault-technology-trivia-deluxe",
+   "metacritic": "trivia-vault-technology-trivia-deluxe",
    "pcgamingwiki": "Trivia_Vault:_Technology_Trivia_Deluxe",
    "steam": "767030"
   },
@@ -481,6 +497,7 @@
    "gog": "game/shadows_of_doubt",
    "howlongtobeat": "80205",
    "igdb": "shadows-of-doubt",
+   "metacritic": "shadows-of-doubt",
    "mobygames": "201896",
    "pcgamingwiki": "Shadows_of_Doubt",
    "steam": "986130"
@@ -808,6 +825,7 @@
   "ids": {
    "howlongtobeat": "32778",
    "igdb": "lumini",
+   "metacritic": "lumini",
    "mobygames": "140728",
    "pcgamingwiki": "Lumini",
    "steam": "360840"
@@ -851,6 +869,7 @@
   "ids": {
    "howlongtobeat": "145651",
    "igdb": "map-of-materials",
+   "metacritic": "map-of-materials",
    "pcgamingwiki": "Map_of_Materials",
    "steam": "1809500"
   },
@@ -1242,6 +1261,7 @@
  {
   "ids": {
    "igdb": "atelier-shallie-alchemists-of-the-dusk-sea-dx",
+   "pcgamingwiki": "Atelier_Shallie:_Alchemists_of_the_Dusk_Sea_DX",
    "steam": "1152320"
   },
   "label_en": "Atelier Shallie: Alchemists of the Dusk Sea DX",
@@ -1279,6 +1299,7 @@
   "ids": {
    "howlongtobeat": "174901",
    "igdb": "yakuza-kiwami-3-and-dark-ties",
+   "metacritic": "yakuza-kiwami-3-and-dark-ties",
    "pcgamingwiki": "Yakuza_Kiwami_3_&_Dark_Ties",
    "steam": "3937550"
   },

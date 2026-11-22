@@ -5,6 +5,7 @@
    "gog": "game/stalker_call_of_pripyat",
    "howlongtobeat": "8036",
    "igdb": "s-dot-t-a-dot-l-k-dot-e-r-dot-call-of-pripyat",
+   "metacritic": "stalker-call-of-pripyat",
    "mobygames": "43313",
    "pcgamingwiki": "S.T.A.L.K.E.R.:_Call_of_Pripyat",
    "steam": "41700"
@@ -16,6 +17,7 @@
   "enwiki": "Dragon Quest II",
   "ids": {
    "igdb": "dragon-quest-ii-luminaries-of-the-legendary-line",
+   "metacritic": "dragon-quest-ii",
    "mobygames": "8075"
   },
   "label_en": "Dragon Quest II",
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "4156",
    "igdb": "guild-wars-nightfall",
+   "metacritic": "guild-wars-nightfall",
    "mobygames": "24693",
    "pcgamingwiki": "Guild_Wars_Nightfall",
    "steam": "29630"
@@ -42,6 +45,7 @@
   "ids": {
    "howlongtobeat": "9196",
    "igdb": "steambot-chronicles",
+   "metacritic": "steambot-chronicles",
    "mobygames": "28513"
   },
   "label_en": "Steambot Chronicles",
@@ -52,6 +56,7 @@
   "ids": {
    "howlongtobeat": "12933",
    "igdb": "march-of-the-eagles",
+   "metacritic": "march-of-the-eagles",
    "mobygames": "71685",
    "pcgamingwiki": "March_of_the_Eagles",
    "steam": "227760"
@@ -64,6 +69,7 @@
   "ids": {
    "howlongtobeat": "6288",
    "igdb": "mx-vs-atv-reflex",
+   "metacritic": "mx-vs-atv-reflex",
    "mobygames": "44642",
    "pcgamingwiki": "MX_vs._ATV_Reflex",
    "steam": "55140"
@@ -132,6 +138,7 @@
    "gog": "game/obduction",
    "howlongtobeat": "38231",
    "igdb": "obduction",
+   "metacritic": "obduction",
    "mobygames": "81722",
    "pcgamingwiki": "Obduction",
    "steam": "306760"
@@ -141,7 +148,8 @@
  },
  {
   "ids": {
-   "igdb": "saving-private-sheep"
+   "igdb": "saving-private-sheep",
+   "metacritic": "saving-private-sheep"
   },
   "label_en": "Saving Private Sheep",
   "wikidata": "Q16675762"
@@ -165,6 +173,7 @@
    "gog": "game/infinifactory",
    "howlongtobeat": "27366",
    "igdb": "infinifactory",
+   "metacritic": "infinifactory",
    "mobygames": "86899",
    "pcgamingwiki": "Infinifactory",
    "steam": "300570"
@@ -215,6 +224,7 @@
    "gog": "game/superhot_mind_control_delete",
    "howlongtobeat": "51504",
    "igdb": "superhot-mind-control-delete",
+   "metacritic": "superhot-mind-control-delete",
    "mobygames": "99919",
    "pcgamingwiki": "Superhot:_Mind_Control_Delete",
    "steam": "690040"
@@ -227,6 +237,7 @@
    "epic": "overpass",
    "howlongtobeat": "86985",
    "igdb": "overpass--1",
+   "metacritic": "overpass",
    "mobygames": "142761",
    "pcgamingwiki": "Overpass",
    "steam": "970840"
@@ -240,6 +251,7 @@
    "gog": "game/dreamscaper",
    "howlongtobeat": "78530",
    "igdb": "dreamscaper",
+   "metacritic": "dreamscaper",
    "mobygames": "149340",
    "pcgamingwiki": "Dreamscaper",
    "steam": "1040420"
@@ -252,6 +264,7 @@
   "ids": {
    "howlongtobeat": "53309",
    "igdb": "octogeddon",
+   "metacritic": "octogeddon",
    "mobygames": "103868",
    "pcgamingwiki": "Octogeddon",
    "steam": "525620"
@@ -263,6 +276,7 @@
   "ids": {
    "howlongtobeat": "68689",
    "igdb": "gunbarich",
+   "metacritic": "gunbarich",
    "mobygames": "93841",
    "pcgamingwiki": "Gunbarich",
    "steam": "1342240"
@@ -353,6 +367,7 @@
  {
   "ids": {
    "igdb": "the-darkness--1",
+   "metacritic": "the-darkness",
    "pcgamingwiki": "The_Darkness",
    "steam": "765390"
   },
@@ -825,6 +840,7 @@
   "ids": {
    "howlongtobeat": "28847",
    "igdb": "darts-up-3d",
+   "metacritic": "darts-up-3d",
    "mobygames": "100294"
   },
   "label_en": "Darts Up 3D",
@@ -835,6 +851,7 @@
   "ids": {
    "howlongtobeat": "159034",
    "igdb": "brighter-shores",
+   "metacritic": "brighter-shores",
    "steam": "2791440"
   },
   "label_en": "Brighter Shores",
@@ -1149,6 +1166,7 @@
  {
   "ids": {
    "igdb": "sos--3",
+   "pcgamingwiki": "SOS",
    "steam": "619080"
   },
   "label_en": "SOS",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3340",
    "igdb": "fallout-3",
+   "metacritic": "fallout-3",
    "mobygames": "37167",
    "pcgamingwiki": "Fallout_3",
    "steam": "22300"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "8522",
    "igdb": "silent-hill",
+   "metacritic": "silent-hill-1999",
    "mobygames": "3564"
   },
   "label_en": "Silent Hill",
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "1493",
    "igdb": "canabalt",
+   "metacritic": "canabalt",
    "mobygames": "43796",
    "pcgamingwiki": "Canabalt",
    "steam": "358960"
@@ -58,6 +61,7 @@
   "enwiki": "Crisis in the Kremlin",
   "ids": {
    "igdb": "crisis-in-the-kremlin",
+   "metacritic": "crisis-in-the-kremlin",
    "mobygames": "2782",
    "pcgamingwiki": "Crisis_in_the_Kremlin_(2017)"
   },
@@ -94,6 +98,7 @@
   "enwiki": "Samurai Warriors 3",
   "ids": {
    "igdb": "samurai-warriors-3",
+   "metacritic": "samurai-warriors-3",
    "mobygames": "48890"
   },
   "label_en": "Samurai Warriors 3",
@@ -277,6 +282,7 @@
   "ids": {
    "howlongtobeat": "4272",
    "igdb": "halo-spartan-assault",
+   "metacritic": "halo-spartan-assault",
    "mobygames": "62331",
    "pcgamingwiki": "Halo:_Spartan_Assault",
    "steam": "277430"
@@ -301,6 +307,7 @@
   "enwiki": "Sesame Street: Elmo's Musical Monsterpiece",
   "ids": {
    "igdb": "sesame-street-elmos-musical-monsterpiece",
+   "metacritic": "sesame-street-elmos-musical-monsterpiece",
    "mobygames": "85102"
   },
   "label_en": "Sesame Street: Elmo's Musical Monsterpiece",
@@ -345,6 +352,7 @@
   "ids": {
    "howlongtobeat": "6961",
    "igdb": "penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two",
+   "metacritic": "penny-arcade-adventures-episode-two",
    "mobygames": "47012",
    "pcgamingwiki": "Penny_Arcade's_On_the_Rain-Slick_Precipice_of_Darkness:_Episode_Two",
    "steam": "18020"
@@ -369,6 +377,7 @@
   "ids": {
    "howlongtobeat": "15108",
    "igdb": "fruit-ninja-kinect-2",
+   "metacritic": "fruit-ninja-kinect-2",
    "mobygames": "76000"
   },
   "label_en": "Fruit Ninja Kinect 2",
@@ -392,6 +401,7 @@
    "gog": "game/fights_in_tight_spaces",
    "howlongtobeat": "86111",
    "igdb": "fights-in-tight-spaces",
+   "metacritic": "fights-in-tight-spaces",
    "mobygames": "153418",
    "pcgamingwiki": "Fights_in_Tight_Spaces",
    "steam": "1265820"
@@ -404,6 +414,7 @@
    "epic": "ghost-of-tsushima",
    "howlongtobeat": "51225",
    "igdb": "ghost-of-tsushima-directors-cut",
+   "metacritic": "ghost-of-tsushima-directors-cut",
    "pcgamingwiki": "Ghost_of_Tsushima_Director's_Cut",
    "steam": "2215430"
   },
@@ -516,6 +527,7 @@
   "ids": {
    "howlongtobeat": "94912",
    "igdb": "wizard-with-a-gun",
+   "metacritic": "wizard-with-a-gun",
    "mobygames": "210288",
    "pcgamingwiki": "Wizard_with_a_Gun",
    "steam": "1150530"

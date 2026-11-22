@@ -3,6 +3,7 @@
   "enwiki": "Namco Museum Remix",
   "ids": {
    "igdb": "namco-museum-remix",
+   "metacritic": "namco-museum-remix",
    "mobygames": "46833"
   },
   "label_en": "Namco Museum Remix",
@@ -14,6 +15,7 @@
    "gog": "game/traffic_giant",
    "howlongtobeat": "126178",
    "igdb": "traffic-giant",
+   "metacritic": "traffic-giant",
    "mobygames": "2318",
    "pcgamingwiki": "Traffic_Giant",
    "steam": "672710"
@@ -27,6 +29,7 @@
    "gog": "game/oddworld_munchs_oddysee",
    "howlongtobeat": "6702",
    "igdb": "oddworld-munch-s-oddysee",
+   "metacritic": "oddworld-munchs-oddysee",
    "mobygames": "5369",
    "pcgamingwiki": "Oddworld:_Munch's_Oddysee",
    "steam": "15740"
@@ -39,7 +42,9 @@
   "ids": {
    "howlongtobeat": "7512",
    "igdb": "race-on",
+   "metacritic": "race-on",
    "mobygames": "46692",
+   "pcgamingwiki": "RACE_On",
    "steam": "8640"
   },
   "label_en": "Race On",
@@ -67,6 +72,7 @@
   "enwiki": "Dragon Ball: Origins",
   "ids": {
    "igdb": "dragon-ball-origins",
+   "metacritic": "dragon-ball-origins",
    "mobygames": "38685"
   },
   "label_en": "Dragon Ball: Origins",
@@ -77,6 +83,7 @@
   "ids": {
    "howlongtobeat": "6894",
    "igdb": "pandora-s-tower",
+   "metacritic": "pandoras-tower",
    "mobygames": "57629"
   },
   "label_en": "Pandora's Tower",
@@ -86,6 +93,7 @@
   "enwiki": "Ooga Booga",
   "ids": {
    "igdb": "ooga-booga",
+   "metacritic": "ooga-booga",
    "mobygames": "8941"
   },
   "label_en": "Ooga Booga",
@@ -104,6 +112,7 @@
   "ids": {
    "howlongtobeat": "542",
    "igdb": "arc-rise-fantasia",
+   "metacritic": "arc-rise-fantasia",
    "mobygames": "86174"
   },
   "label_en": "Arc Rise Fantasia",
@@ -143,6 +152,7 @@
   "ids": {
    "howlongtobeat": "13609",
    "igdb": "coded-arms-contagion",
+   "metacritic": "coded-arms-contagion",
    "mobygames": "40559"
   },
   "label_en": "Coded Arms: Contagion",
@@ -188,6 +198,7 @@
   "enwiki": "One Piece Mansion",
   "ids": {
    "igdb": "one-piece-mansion",
+   "metacritic": "one-piece-mansion",
    "mobygames": "21081"
   },
   "label_en": "One Piece Mansion",
@@ -206,6 +217,7 @@
   "enwiki": "Kollon",
   "ids": {
    "igdb": "ultimate-block-party",
+   "metacritic": "ultimate-block-party",
    "mobygames": "160669"
   },
   "label_en": "Kollon",
@@ -234,6 +246,9 @@
   "wikidata": "Q11269127"
  },
  {
+  "wikidata": "Q11323127"
+ },
+ {
   "enwiki": "Dragon Slayer: The Legend of Heroes II",
   "ids": {
    "igdb": "dragon-slayer-the-legend-of-heroes-ii",
@@ -247,6 +262,7 @@
   "enwiki": "Etrian Mystery Dungeon",
   "ids": {
    "igdb": "etrian-mystery-dungeon",
+   "metacritic": "etrian-mystery-dungeon",
    "mobygames": "79731"
   },
   "label_en": "Etrian Mystery Dungeon",
@@ -331,6 +347,7 @@
    "gog": "game/battlezone_98_redux",
    "howlongtobeat": "37883",
    "igdb": "battlezone-98-redux",
+   "metacritic": "battlezone-98-redux",
    "mobygames": "80746",
    "pcgamingwiki": "Battlezone_98_Redux",
    "steam": "301650"
@@ -365,6 +382,7 @@
    "epic": "the-solitaire-conspiracy",
    "howlongtobeat": "83816",
    "igdb": "the-solitaire-conspiracy",
+   "metacritic": "the-solitaire-conspiracy",
    "mobygames": "151248",
    "pcgamingwiki": "The_Solitaire_Conspiracy",
    "steam": "1424980"
@@ -399,6 +417,7 @@
    "epic": "doki-doki-literature-club-plus",
    "howlongtobeat": "93892",
    "igdb": "doki-doki-literature-club-plus",
+   "metacritic": "doki-doki-literature-club-plus",
    "mobygames": "166843",
    "pcgamingwiki": "Doki_Doki_Literature_Club_Plus!",
    "steam": "1388880"
@@ -467,6 +486,7 @@
  {
   "ids": {
    "igdb": "resident-evil-4-ultimate-hd-edition",
+   "metacritic": "resident-evil-4-ultimate-hd-edition",
    "mobygames": "65323",
    "pcgamingwiki": "Resident_Evil_4_Ultimate_HD_Edition"
   },
@@ -707,6 +727,7 @@
   "ids": {
    "howlongtobeat": "137907",
    "igdb": "stick-to-the-plan",
+   "metacritic": "stick-to-the-plan",
    "mobygames": "238834",
    "pcgamingwiki": "Stick_to_the_Plan",
    "steam": "2334280"
@@ -1202,6 +1223,7 @@
  {
   "ids": {
    "igdb": "destroyer--2",
+   "pcgamingwiki": "Destroyer_(2016)",
    "steam": "528020"
   },
   "label_en": "Destroyer",

@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "4162",
    "igdb": "guilty-gear-dust-strikers",
+   "metacritic": "guilty-gear-dust-strikers",
    "mobygames": "36016"
   },
   "label_en": "Guilty Gear Dust Strikers",
@@ -48,6 +49,7 @@
   "ids": {
    "howlongtobeat": "6591",
    "igdb": "nier",
+   "metacritic": "nier",
    "mobygames": "46486"
   },
   "label_en": "NieR",
@@ -68,6 +70,7 @@
   "enwiki": "Castlevania: Rondo of Blood",
   "ids": {
    "igdb": "castlevania-rondo-of-blood--2",
+   "metacritic": "castlevania-rondo-of-blood",
    "mobygames": "16246"
   },
   "label_en": "Castlevania: Rondo of Blood",
@@ -78,6 +81,7 @@
   "ids": {
    "howlongtobeat": "4165",
    "igdb": "guilty-gear-x",
+   "metacritic": "guilty-gear-x",
    "mobygames": "5076",
    "pcgamingwiki": "Guilty_Gear_X"
   },
@@ -106,6 +110,7 @@
   "ids": {
    "howlongtobeat": "6257",
    "igdb": "mugen-souls",
+   "metacritic": "mugen-souls",
    "mobygames": "82528",
    "pcgamingwiki": "Mugen_Souls",
    "steam": "389870"
@@ -117,6 +122,7 @@
   "enwiki": "Game Tycoon",
   "ids": {
    "igdb": "game-tycoon",
+   "metacritic": "game-tycoon",
    "mobygames": "42667"
   },
   "label_en": "Game Tycoon",
@@ -172,6 +178,7 @@
   "ids": {
    "howlongtobeat": "31266",
    "igdb": "pacer",
+   "metacritic": "pacer",
    "mobygames": "105997",
    "pcgamingwiki": "Pacer",
    "steam": "389670"
@@ -186,6 +193,7 @@
    "gog": "game/redout_solar_challenge_edition",
    "howlongtobeat": "39800",
    "igdb": "redout",
+   "metacritic": "redout",
    "mobygames": "95379",
    "pcgamingwiki": "Redout",
    "steam": "517710"
@@ -197,6 +205,7 @@
   "ids": {
    "howlongtobeat": "17366",
    "igdb": "last-dream",
+   "metacritic": "last-dream",
    "mobygames": "104858",
    "pcgamingwiki": "Last_Dream",
    "steam": "266230"
@@ -209,6 +218,7 @@
   "ids": {
    "howlongtobeat": "65589",
    "igdb": "fate-slash-extella-link",
+   "metacritic": "fateextella-link",
    "mobygames": "121903",
    "pcgamingwiki": "Fate/Extella:_Link",
    "steam": "622220"
@@ -252,6 +262,7 @@
   "ids": {
    "howlongtobeat": "2242",
    "igdb": "darkout",
+   "metacritic": "darkout",
    "mobygames": "94201",
    "pcgamingwiki": "Darkout",
    "steam": "257050"
@@ -287,6 +298,7 @@
    "epic": "zool-redimensioned-5c52a7",
    "howlongtobeat": "98124",
    "igdb": "zool-redimensioned",
+   "metacritic": "zool-redimensioned",
    "mobygames": "169546",
    "pcgamingwiki": "Zool_Redimensioned",
    "steam": "1647730"
@@ -334,6 +346,7 @@
    "epic": "dave-the-diver-ed092a",
    "howlongtobeat": "115577",
    "igdb": "dave-the-diver",
+   "metacritic": "dave-the-diver",
    "mobygames": "194057",
    "pcgamingwiki": "Dave_the_Diver",
    "steam": "1868140"
@@ -772,6 +785,7 @@
   "ids": {
    "howlongtobeat": "145037",
    "igdb": "metro-awakening-vr",
+   "metacritic": "metro-awakening-vr",
    "mobygames": "233003",
    "pcgamingwiki": "Metro_Awakening",
    "steam": "2669410"
@@ -1138,6 +1152,7 @@
  {
   "ids": {
    "igdb": "my-sexy-neighbour-2",
+   "pcgamingwiki": "My_Sexy_Neighbour_2",
    "steam": "3684710"
   },
   "label_en": "My Sexy Neighbour 2",

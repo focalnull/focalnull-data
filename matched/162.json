@@ -3,6 +3,7 @@
   "enwiki": "Alias (video game)",
   "ids": {
    "igdb": "alias",
+   "metacritic": "alias-2004",
    "mobygames": "13982",
    "pcgamingwiki": "Alias"
   },
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "18181",
    "igdb": "ragnarok-odyssey-ace",
+   "metacritic": "ragnarok-odyssey-ace",
    "mobygames": "86329"
   },
   "label_en": "Ragnarok Odyssey",
@@ -45,6 +47,7 @@
   "enwiki": "TNA Impact! (video game)",
   "ids": {
    "igdb": "tna-impact",
+   "metacritic": "tna-impact",
    "mobygames": "36268"
   },
   "label_en": "TNA Impact!",
@@ -63,6 +66,7 @@
   "ids": {
    "howlongtobeat": "10520",
    "igdb": "top-spin",
+   "metacritic": "top-spin",
    "mobygames": "10880",
    "pcgamingwiki": "Top_Spin"
   },
@@ -74,6 +78,7 @@
   "ids": {
    "howlongtobeat": "2083",
    "igdb": "csi-crime-scene-investigation-dark-motives",
+   "metacritic": "csi-crime-scene-investigation-dark-motives",
    "mobygames": "12891",
    "pcgamingwiki": "CSI:_Dark_Motives"
   },
@@ -85,6 +90,7 @@
   "ids": {
    "howlongtobeat": "11379",
    "igdb": "x-men-mutant-academy",
+   "metacritic": "x-men-mutant-academy",
    "mobygames": "3749"
   },
   "label_en": "X-Men: Mutant Academy",
@@ -95,6 +101,7 @@
   "ids": {
    "howlongtobeat": "3013",
    "igdb": "dynasty-warriors-strikeforce",
+   "metacritic": "dynasty-warriors-strikeforce",
    "mobygames": "40625"
   },
   "label_en": "Dynasty Warriors: Strikeforce",
@@ -143,6 +150,7 @@
   "ids": {
    "howlongtobeat": "72932",
    "igdb": "deca-sports-2",
+   "metacritic": "deca-sports-2",
    "mobygames": "56517"
   },
   "label_en": "Deca Sports 2",
@@ -264,6 +272,7 @@
   "enwiki": "Atomic Ninjas",
   "ids": {
    "igdb": "atomic-ninjas",
+   "metacritic": "atomic-ninjas",
    "mobygames": "83482"
   },
   "label_en": "Atomic Ninjas",
@@ -275,6 +284,7 @@
    "gog": "game/snapshot",
    "howlongtobeat": "8673",
    "igdb": "snapshot",
+   "metacritic": "snapshot",
    "mobygames": "57641",
    "pcgamingwiki": "Snapshot",
    "steam": "204220"
@@ -331,6 +341,7 @@
   "enwiki": "BlazBlue: Chrono Phantasma Extend",
   "ids": {
    "igdb": "blazblue-chrono-phantasma-extend",
+   "metacritic": "blazblue-chrono-phantasma-extend",
    "mobygames": "83588",
    "pcgamingwiki": "BlazBlue:_Chronophantasma_Extend",
    "steam": "388750"
@@ -357,6 +368,7 @@
    "gog": "game/huntdown",
    "howlongtobeat": "67080",
    "igdb": "huntdown",
+   "metacritic": "huntdown",
    "mobygames": "145442",
    "pcgamingwiki": "Huntdown",
    "steam": "598550"
@@ -417,6 +429,7 @@
   "ids": {
    "howlongtobeat": "25030",
    "igdb": "a-druids-duel",
+   "metacritic": "a-druids-duel",
    "mobygames": "136905",
    "pcgamingwiki": "A_Druid's_Duel",
    "steam": "333970"
@@ -439,6 +452,7 @@
    "gog": "game/perish",
    "howlongtobeat": "127788",
    "igdb": "perish",
+   "metacritic": "perish",
    "mobygames": "198929",
    "pcgamingwiki": "Perish",
    "steam": "1016360"

@@ -33,6 +33,7 @@
    "gog": "game/doom_64",
    "howlongtobeat": "2709",
    "igdb": "doom-64",
+   "metacritic": "doom-64",
    "mobygames": "5195",
    "pcgamingwiki": "Doom_64",
    "steam": "1148590"
@@ -79,6 +80,7 @@
   "ids": {
    "howlongtobeat": "3751",
    "igdb": "fullmetal-alchemist-and-the-broken-angel",
+   "metacritic": "fullmetal-alchemist-and-the-broken-angel",
    "mobygames": "43656"
   },
   "label_en": "Fullmetal Alchemist and the Broken Angel",
@@ -88,6 +90,7 @@
   "enwiki": "We Ski & Snowboard",
   "ids": {
    "igdb": "we-ski-snowboard",
+   "metacritic": "we-ski-snowboard",
    "mobygames": "40365"
   },
   "label_en": "We Ski & Snowboard",
@@ -127,6 +130,7 @@
   "ids": {
    "howlongtobeat": "11106",
    "igdb": "wave-race-64",
+   "metacritic": "wave-race-64",
    "mobygames": "3541"
   },
   "label_en": "Wave Race 64",
@@ -145,6 +149,7 @@
   "enwiki": "Windjammers (video game)",
   "ids": {
    "igdb": "windjammers",
+   "metacritic": "windjammers",
    "mobygames": "16956"
   },
   "label_en": "Windjammers",
@@ -154,6 +159,7 @@
   "ids": {
    "howlongtobeat": "47766",
    "igdb": "ways-of-history",
+   "metacritic": "ways-of-history",
    "mobygames": "95572",
    "pcgamingwiki": "Ways_of_History",
    "steam": "619310"
@@ -170,7 +176,8 @@
   "enwiki": "Cubivore: Survival of the Fittest",
   "ids": {
    "howlongtobeat": "2097",
-   "igdb": "cubivore-survival-of-the-fittest"
+   "igdb": "cubivore-survival-of-the-fittest",
+   "metacritic": "cubivore-survival-of-the-fittest"
   },
   "label_en": "Cubivore: Survival of the Fittest",
   "wikidata": "Q5192278"
@@ -179,6 +186,7 @@
   "enwiki": "Dead Man's Hand (video game)",
   "ids": {
    "igdb": "dead-man-s-hand",
+   "metacritic": "dead-mans-hand",
    "mobygames": "12748",
    "pcgamingwiki": "Dead_Man's_Hand"
   },
@@ -243,6 +251,7 @@
   "ids": {
    "howlongtobeat": "10484",
    "igdb": "tomba-2-the-evil-swine-return",
+   "metacritic": "tomba-2-the-evil-swine-return",
    "mobygames": "9559"
   },
   "label_en": "Tomba! 2: The Evil Swine Return",
@@ -253,6 +262,7 @@
   "ids": {
    "howlongtobeat": "7063",
    "igdb": "pirates-of-black-cove",
+   "metacritic": "pirates-of-black-cove",
    "mobygames": "53668",
    "pcgamingwiki": "Pirates_of_Black_Cove",
    "steam": "49330"
@@ -283,6 +293,7 @@
   "ids": {
    "howlongtobeat": "39407",
    "igdb": "eagle-flight",
+   "metacritic": "eagle-flight",
    "mobygames": "81449",
    "pcgamingwiki": "Eagle_Flight",
    "steam": "408250"
@@ -304,6 +315,7 @@
    "gog": "game/absolute_drift",
    "howlongtobeat": "28913",
    "igdb": "absolute-drift",
+   "metacritic": "absolute-drift",
    "mobygames": "76365",
    "pcgamingwiki": "Absolute_Drift",
    "steam": "320140"
@@ -320,6 +332,7 @@
   "ids": {
    "howlongtobeat": "57422",
    "igdb": "gears-5",
+   "metacritic": "gears-5",
    "mobygames": "134353",
    "pcgamingwiki": "Gears_5",
    "steam": "1097840"
@@ -331,6 +344,7 @@
   "ids": {
    "howlongtobeat": "6649",
    "igdb": "nitronic-rush",
+   "metacritic": "nitronic-rush",
    "mobygames": "53714",
    "pcgamingwiki": "Nitronic_Rush",
    "steam": "3885230"
@@ -342,6 +356,7 @@
   "enwiki": "NFL Blitz Pro",
   "ids": {
    "igdb": "nfl-blitz-pro",
+   "metacritic": "nfl-blitz-pro",
    "mobygames": "76627"
   },
   "label_en": "NFL Blitz Pro",
@@ -398,6 +413,7 @@
   "ids": {
    "howlongtobeat": "40208",
    "igdb": "a-healer-only-lives-twice",
+   "metacritic": "a-healer-only-lives-twice",
    "mobygames": "93226",
    "pcgamingwiki": "A_Healer_Only_Lives_Twice",
    "steam": "453300"
@@ -773,6 +789,7 @@
   "ids": {
    "howlongtobeat": "51404",
    "igdb": "oure",
+   "metacritic": "oure",
    "pcgamingwiki": "Oure",
    "steam": "694950"
   },
@@ -907,6 +924,7 @@
   "ids": {
    "howlongtobeat": "147273",
    "igdb": "mind-over-magnet",
+   "metacritic": "mind-over-magnet",
    "mobygames": "233956",
    "pcgamingwiki": "Mind_Over_Magnet",
    "steam": "2685900"
@@ -1208,6 +1226,7 @@
  },
  {
   "ids": {
+   "metacritic": "shrek-kart",
    "mobygames": "123483"
   },
   "label_en": "Shrek Kart",
@@ -1224,6 +1243,7 @@
  {
   "ids": {
    "igdb": "kotergame",
+   "pcgamingwiki": "KóterGame",
    "steam": "975700"
   },
   "label_en": "KóterGame",

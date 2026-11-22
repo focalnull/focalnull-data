@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "931",
    "igdb": "battlefield-1942",
+   "metacritic": "battlefield-1942",
    "mobygames": "7213",
    "pcgamingwiki": "Battlefield_1942"
   },
@@ -119,6 +120,7 @@
  {
   "ids": {
    "igdb": "hamtaro-ham-ham-games",
+   "metacritic": "hamtaro-ham-ham-games",
    "mobygames": "71279"
   },
   "label_en": "Hamtaro: Ham-Ham Games",
@@ -207,6 +209,7 @@
    "gog": "game/hand_of_fate_2",
    "howlongtobeat": "50430",
    "igdb": "hand-of-fate-2",
+   "metacritic": "hand-of-fate-2",
    "mobygames": "98012",
    "pcgamingwiki": "Hand_of_Fate_2",
    "steam": "456670"
@@ -218,6 +221,7 @@
   "ids": {
    "howlongtobeat": "40321",
    "igdb": "slayer-shock",
+   "metacritic": "slayer-shock",
    "mobygames": "87941",
    "pcgamingwiki": "Slayer_Shock",
    "steam": "501860"
@@ -229,6 +233,7 @@
   "ids": {
    "howlongtobeat": "56438",
    "igdb": "odium-to-the-core",
+   "metacritic": "odium-to-the-core",
    "mobygames": "116758",
    "pcgamingwiki": "Odium_to_the_Core",
    "steam": "795570"
@@ -237,6 +242,9 @@
   "wikidata": "Q60169439"
  },
  {
+  "ids": {
+   "metacritic": "abi-a-robots-tale"
+  },
   "label_en": "Abi: A Robot's Tale",
   "wikidata": "Q97658439"
  },
@@ -277,6 +285,7 @@
    "howlongtobeat": "76918",
    "igdb": "the-fairys-song",
    "mobygames": "184452",
+   "pcgamingwiki": "The_Fairy's_Song",
    "steam": "1244260"
   },
   "label_en": "The Fairy's Song",
@@ -729,6 +738,7 @@
   "ids": {
    "howlongtobeat": "165562",
    "igdb": "pro-cycling-manager-2024",
+   "metacritic": "pro-cycling-manager-2024",
    "mobygames": "225495",
    "steam": "2494350"
   },
@@ -818,6 +828,7 @@
   "ids": {
    "howlongtobeat": "169141",
    "igdb": "sea-of-remnants",
+   "metacritic": "sea-of-remnants",
    "pcgamingwiki": "Sea_of_Remnants",
    "steam": "3633680"
   },
@@ -1046,6 +1057,7 @@
   "ids": {
    "igdb": "asterix-and-obelix-mission-babylon",
    "mobygames": "249124",
+   "pcgamingwiki": "Asterix_&_Obelix:_Mission_Babylon",
    "steam": "3489240"
   },
   "label_en": "Asterix & Obelix: Mission Babylon",
@@ -1071,7 +1083,10 @@
   "wikidata": "Q141480439"
  },
  {
-  "label_en": "Mercenaries Grace: Black Feather and the Golden Right Arm",
+  "ids": {
+   "steam": "5150750"
+  },
+  "label_en": "Mercenaries Grace",
   "wikidata": "Q141581439"
  }
 ]

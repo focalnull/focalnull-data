@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5212",
    "igdb": "left-4-dead-2",
+   "metacritic": "left-4-dead-2",
    "mobygames": "43901",
    "pcgamingwiki": "Left_4_Dead_2",
    "steam": "550"
@@ -17,6 +18,7 @@
    "gog": "game/gothic_3",
    "howlongtobeat": "4025",
    "igdb": "gothic-3",
+   "metacritic": "gothic-3",
    "mobygames": "24456",
    "pcgamingwiki": "Gothic_3",
    "steam": "39500"
@@ -39,6 +41,7 @@
   "enwiki": "Resident Evil: The Darkside Chronicles",
   "ids": {
    "igdb": "resident-evil-the-darkside-chronicles",
+   "metacritic": "resident-evil-the-darkside-chronicles",
    "mobygames": "43640"
   },
   "label_en": "Resident Evil: The Darkside Chronicles",
@@ -48,6 +51,7 @@
   "enwiki": "F1 2002 (video game)",
   "ids": {
    "igdb": "f1-2002",
+   "metacritic": "f1-2002",
    "mobygames": "7072",
    "pcgamingwiki": "F1_2002"
   },
@@ -57,7 +61,8 @@
  {
   "enwiki": "Block Breaker Deluxe",
   "ids": {
-   "igdb": "block-breaker-deluxe"
+   "igdb": "block-breaker-deluxe",
+   "metacritic": "block-breaker-deluxe"
   },
   "label_en": "Block Breaker Deluxe",
   "wikidata": "Q2057909"
@@ -67,6 +72,7 @@
   "ids": {
    "howlongtobeat": "45309",
    "igdb": "the-sims-pet-stories",
+   "metacritic": "the-sims-pet-stories",
    "mobygames": "29430",
    "pcgamingwiki": "The_Sims_Pet_Stories"
   },
@@ -105,6 +111,7 @@
   "enwiki": "Hoshigami: Ruining Blue Earth",
   "ids": {
    "igdb": "hoshigami-ruining-blue-earth",
+   "metacritic": "hoshigami-ruining-blue-earth",
    "mobygames": "12583"
   },
   "label_en": "Hoshigami: Ruining Blue Earth",
@@ -127,6 +134,7 @@
   "enwiki": "Fast Draw Showdown",
   "ids": {
    "igdb": "fast-draw-showdown",
+   "metacritic": "fast-draw-showdown",
    "mobygames": "91059"
   },
   "label_en": "Fast Draw Showdown",
@@ -233,6 +241,7 @@
   "enwiki": "Gangstar: New Orleans",
   "ids": {
    "igdb": "gangstar-new-orleans",
+   "metacritic": "gangstar-new-orleans-online-open-world-game",
    "mobygames": "93533",
    "pcgamingwiki": "Gangstar:_New_Orleans"
   },
@@ -245,6 +254,7 @@
    "gog": "game/project_hospital",
    "howlongtobeat": "62060",
    "igdb": "project-hospital",
+   "metacritic": "project-hospital",
    "mobygames": "116419",
    "pcgamingwiki": "Project_Hospital",
    "steam": "868360"
@@ -256,6 +266,7 @@
   "ids": {
    "howlongtobeat": "24808",
    "igdb": "rush-a-disney-pixar-adventure",
+   "metacritic": "rush-a-disney-pixar-adventure",
    "mobygames": "58456",
    "pcgamingwiki": "Rush:_A_Disney_Pixar_Adventure",
    "steam": "579490"
@@ -267,6 +278,7 @@
   "ids": {
    "howlongtobeat": "72247",
    "igdb": "fracter",
+   "metacritic": "fracter",
    "mobygames": "151902",
    "pcgamingwiki": "FRACTER",
    "steam": "783340"
@@ -278,7 +290,8 @@
   "enwiki": "Clubhouse Games: 51 Worldwide Classics",
   "ids": {
    "howlongtobeat": "76853",
-   "igdb": "clubhouse-games-51-worldwide-classics"
+   "igdb": "clubhouse-games-51-worldwide-classics",
+   "metacritic": "clubhouse-games-51-worldwide-classics"
   },
   "label_en": "Clubhouse Games: 51 Worldwide Classics",
   "wikidata": "Q88867909"
@@ -290,6 +303,7 @@
    "gog": "game/mundaun",
    "howlongtobeat": "88322",
    "igdb": "mundaun",
+   "metacritic": "mundaun",
    "mobygames": "160180",
    "pcgamingwiki": "Mundaun",
    "steam": "720350"
@@ -332,6 +346,7 @@
   "ids": {
    "howlongtobeat": "95773",
    "igdb": "the-dark-eye-book-of-heroes",
+   "metacritic": "the-dark-eye-book-of-heroes",
    "mobygames": "146536",
    "pcgamingwiki": "The_Dark_Eye:_Book_of_Heroes",
    "steam": "1139870"
@@ -360,6 +375,7 @@
  {
   "ids": {
    "igdb": "mathomatics",
+   "metacritic": "mathomatics",
    "mobygames": "189378",
    "steam": "1847200"
   },
@@ -830,6 +846,7 @@
  {
   "ids": {
    "igdb": "the-misanthropic-girl",
+   "metacritic": "the-misanthropic-girl",
    "steam": "1714770"
   },
   "label_en": "The Misanthropic Girl",

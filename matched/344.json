@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "11335",
    "igdb": "wwe-raw-2",
+   "metacritic": "wwe-raw-2",
    "mobygames": "10416"
   },
   "label_en": "WWE Raw 2",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "5600",
    "igdb": "manhunt",
+   "metacritic": "manhunt",
    "mobygames": "11164",
    "pcgamingwiki": "Manhunt",
    "steam": "12130"
@@ -92,6 +94,7 @@
   "ids": {
    "howlongtobeat": "4547",
    "igdb": "hunted-the-demon-s-forge",
+   "metacritic": "hunted-the-demons-forge",
    "mobygames": "52198",
    "pcgamingwiki": "Hunted:_The_Demon's_Forge",
    "steam": "22450"
@@ -121,6 +124,7 @@
   "enwiki": "Merchant Prince II",
   "ids": {
    "igdb": "merchant-prince-ii",
+   "metacritic": "merchant-prince-ii",
    "mobygames": "4227"
   },
   "label_en": "Merchant Prince II",
@@ -179,6 +183,7 @@
   "ids": {
    "howlongtobeat": "8684",
    "igdb": "sniper-elite-nazi-zombie-army",
+   "metacritic": "sniper-elite-nazi-zombie-army",
    "mobygames": "91174",
    "pcgamingwiki": "Sniper_Elite:_Nazi_Zombie_Army",
    "steam": "227100"
@@ -198,6 +203,7 @@
   "enwiki": "Pirate Hunter",
   "ids": {
    "igdb": "tortuga-pirates-of-the-new-world",
+   "metacritic": "pirate-hunter",
    "mobygames": "29075",
    "pcgamingwiki": "Tortuga:_Pirates_of_the_New_World"
   },
@@ -219,6 +225,7 @@
   "ids": {
    "howlongtobeat": "11426",
    "igdb": "yaris",
+   "metacritic": "yaris",
    "mobygames": "32561"
   },
   "label_en": "Yaris",
@@ -232,6 +239,7 @@
   "ids": {
    "howlongtobeat": "26874",
    "igdb": "the-magic-circle",
+   "metacritic": "the-magic-circle",
    "mobygames": "77089",
    "pcgamingwiki": "The_Magic_Circle",
    "steam": "323380"
@@ -244,6 +252,7 @@
   "ids": {
    "howlongtobeat": "40474",
    "igdb": "criminal-girls-2-party-favors",
+   "metacritic": "criminal-girls-2-party-favors",
    "mobygames": "83103"
   },
   "label_en": "Criminal Girls 2: Party Favors",
@@ -264,6 +273,7 @@
    "epic": "scavengers",
    "howlongtobeat": "68382",
    "igdb": "scavengers",
+   "metacritic": "scavengers",
    "mobygames": "163481",
    "pcgamingwiki": "Scavengers",
    "steam": "1183940"
@@ -289,6 +299,7 @@
    "gog": "game/galaxy_of_pen_and_paper",
    "howlongtobeat": "48218",
    "igdb": "galaxy-of-pen-and-paper",
+   "metacritic": "galaxy-of-pen-and-paper",
    "mobygames": "93382",
    "pcgamingwiki": "Galaxy_of_Pen_&_Paper",
    "steam": "349790"
@@ -324,6 +335,7 @@
    "gog": "game/lust_from_beyond",
    "howlongtobeat": "87486",
    "igdb": "lust-from-beyond",
+   "metacritic": "lust-from-beyond",
    "mobygames": "160796",
    "pcgamingwiki": "Lust_from_Beyond",
    "steam": "1035120"
@@ -335,6 +347,7 @@
   "ids": {
    "howlongtobeat": "40997",
    "igdb": "blade-ballet",
+   "metacritic": "blade-ballet",
    "mobygames": "87178",
    "pcgamingwiki": "Blade_Ballet",
    "steam": "460750"
@@ -348,6 +361,7 @@
    "gog": "game/silver_chains",
    "howlongtobeat": "69462",
    "igdb": "silver-chains",
+   "metacritic": "silver-chains",
    "mobygames": "132027",
    "pcgamingwiki": "Silver_Chains",
    "steam": "975470"
@@ -360,6 +374,7 @@
    "epic": "breakout-recharged",
    "howlongtobeat": "106450",
    "igdb": "breakout-recharged",
+   "metacritic": "breakout-recharged",
    "mobygames": "179151",
    "pcgamingwiki": "Breakout:_Recharged",
    "steam": "1714190"
@@ -371,6 +386,7 @@
   "ids": {
    "howlongtobeat": "85763",
    "igdb": "100-hidden-gnomes",
+   "metacritic": "100-hidden-gnomes",
    "mobygames": "154718",
    "steam": "1471530"
   },
@@ -440,6 +456,7 @@
    "gog": "game/blasphemous_2",
    "howlongtobeat": "118447",
    "igdb": "blasphemous-ii",
+   "metacritic": "blasphemous-2",
    "mobygames": "207696",
    "pcgamingwiki": "Blasphemous_2",
    "steam": "2114740"
@@ -755,6 +772,7 @@
   "ids": {
    "howlongtobeat": "26314",
    "igdb": "paper-monsters-recut",
+   "metacritic": "paper-monsters-recut",
    "mobygames": "86630",
    "pcgamingwiki": "Paper_Monsters_Recut",
    "steam": "314540"

@@ -3,6 +3,7 @@
   "enwiki": "Gunvalkyrie",
   "ids": {
    "igdb": "gunvalkyrie",
+   "metacritic": "gunvalkyrie",
    "mobygames": "7666"
   },
   "label_en": "Gunvalkyrie",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "11388",
    "igdb": "x2-wolverine-s-revenge",
+   "metacritic": "x2-wolverines-revenge",
    "mobygames": "9023",
    "pcgamingwiki": "X2:_Wolverine's_Revenge"
   },
@@ -25,6 +27,7 @@
    "gog": "game/resident_evil_2",
    "howlongtobeat": "7718",
    "igdb": "resident-evil-2",
+   "metacritic": "resident-evil-2",
    "mobygames": "955",
    "pcgamingwiki": "Resident_Evil_2",
    "steam": "4249110"
@@ -38,6 +41,7 @@
    "gog": "game/caesar_iv",
    "howlongtobeat": "1455",
    "igdb": "caesar-iv",
+   "metacritic": "caesar-iv",
    "mobygames": "24324",
    "pcgamingwiki": "Caesar_IV",
    "steam": "517810"
@@ -153,6 +157,7 @@
   "ids": {
    "howlongtobeat": "36413",
    "igdb": "konung-legend-of-the-north",
+   "metacritic": "legend-of-the-north-konung",
    "mobygames": "3325",
    "pcgamingwiki": "Konung:_Legends_of_the_North"
   },
@@ -172,6 +177,7 @@
   "ids": {
    "howlongtobeat": "1009",
    "igdb": "best-of-tests-ds",
+   "metacritic": "best-of-tests-ds",
    "mobygames": "87396"
   },
   "label_en": "Best of Tests DS",
@@ -181,6 +187,7 @@
   "enwiki": "Floigan Bros.",
   "ids": {
    "igdb": "floigan-bros",
+   "metacritic": "floigan-bros-episode-1",
    "mobygames": "10475"
   },
   "label_en": "Floigan Bros.",
@@ -262,6 +269,7 @@
   "ids": {
    "howlongtobeat": "61784",
    "igdb": "zombie-tsunami",
+   "metacritic": "zombie-tsunami",
    "mobygames": "75601"
   },
   "label_en": "Zombie Tsunami",
@@ -271,6 +279,7 @@
   "ids": {
    "howlongtobeat": "39639",
    "igdb": "grind-zones",
+   "metacritic": "grind-zones",
    "pcgamingwiki": "Grind_Zones",
    "steam": "327680"
   },
@@ -294,6 +303,7 @@
    "gog": "game/echo",
    "howlongtobeat": "49192",
    "igdb": "echo",
+   "metacritic": "echo",
    "mobygames": "96120",
    "pcgamingwiki": "Echo",
    "steam": "551770"
@@ -323,6 +333,7 @@
   "ids": {
    "howlongtobeat": "49410",
    "igdb": "hentai",
+   "metacritic": "hentai",
    "pcgamingwiki": "Hentai"
   },
   "label_en": "Hentai",
@@ -343,6 +354,7 @@
   "ids": {
    "howlongtobeat": "30668",
    "igdb": "clockwork-empires",
+   "metacritic": "clockwork-empires",
    "mobygames": "133495",
    "pcgamingwiki": "Clockwork_Empires",
    "steam": "224740"
@@ -358,6 +370,7 @@
   "ids": {
    "howlongtobeat": "66366",
    "igdb": "deadbeat-heroes",
+   "metacritic": "deadbeat-heroes",
    "mobygames": "96983",
    "pcgamingwiki": "Deadbeat_Heroes",
    "steam": "614090"
@@ -399,6 +412,7 @@
    "gog": "game/palindrome_syndrome_escape_room",
    "howlongtobeat": "86775",
    "igdb": "palindrome-syndrome-escape-room",
+   "metacritic": "palindrome-syndrome-escape-room",
    "mobygames": "162921",
    "steam": "1374290"
   },
@@ -420,6 +434,7 @@
    "gog": "game/figment_creed_valley",
    "howlongtobeat": "99345",
    "igdb": "figment-2-creed-valley",
+   "metacritic": "figment-2-creed-valley",
    "mobygames": "200317",
    "pcgamingwiki": "Figment_2:_Creed_Valley",
    "steam": "1085220"
@@ -529,6 +544,7 @@
    "epic": "ea-sports-wrc-24",
    "howlongtobeat": "137377",
    "igdb": "ea-sports-wrc",
+   "metacritic": "ea-sports-wrc",
    "mobygames": "211325",
    "pcgamingwiki": "EA_Sports_WRC",
    "steam": "1849250"
@@ -892,6 +908,7 @@
   "ids": {
    "howlongtobeat": "64688",
    "igdb": "lucid-dream-adventure",
+   "metacritic": "lucid-dream",
    "mobygames": "116668",
    "pcgamingwiki": "Lucid_Dream",
    "steam": "773090"
@@ -1234,6 +1251,7 @@
  {
   "ids": {
    "igdb": "pocket-city-2",
+   "pcgamingwiki": "Pocket_City_2",
    "steam": "3566200"
   },
   "label_en": "Pocket City 2",
@@ -1244,6 +1262,7 @@
   "ids": {
    "howlongtobeat": "102862",
    "igdb": "sudoku-fever",
+   "metacritic": "global-star-sudoku-fever",
    "mobygames": "54207"
   },
   "label_en": "Sudoku Fever",

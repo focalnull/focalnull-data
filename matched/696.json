@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9061",
    "igdb": "star-trek-legacy",
+   "metacritic": "star-trek-legacy",
    "mobygames": "25558",
    "pcgamingwiki": "Star_Trek:_Legacy"
   },
@@ -32,6 +33,7 @@
   "ids": {
    "howlongtobeat": "9893",
    "igdb": "the-godfather--1",
+   "metacritic": "the-godfather",
    "mobygames": "21586",
    "pcgamingwiki": "The_Godfather:_The_Game",
    "steam": "24820"
@@ -74,6 +76,7 @@
    "gog": "game/lone_survivor_directors_cut",
    "howlongtobeat": "5359",
    "igdb": "lone-survivor-the-directors-cut",
+   "metacritic": "lone-survivor",
    "mobygames": "55551",
    "pcgamingwiki": "Lone_Survivor",
    "steam": "209830"
@@ -139,7 +142,8 @@
  {
   "enwiki": "Leadfoot (video game)",
   "ids": {
-   "igdb": "leadfoot-stadium-off-road-racing"
+   "igdb": "leadfoot-stadium-off-road-racing",
+   "metacritic": "leadfoot"
   },
   "label_en": "Leadfoot",
   "wikidata": "Q6508696"
@@ -203,6 +207,7 @@
   "enwiki": "Monster Racers",
   "ids": {
    "igdb": "monster-racers--1",
+   "metacritic": "monster-racers",
    "mobygames": "154257"
   },
   "label_en": "Monster Racers",
@@ -214,6 +219,7 @@
    "gog": "game/satellite_reign",
    "howlongtobeat": "22548",
    "igdb": "satellite-reign",
+   "metacritic": "satellite-reign",
    "mobygames": "84007",
    "pcgamingwiki": "Satellite_Reign",
    "steam": "268870"
@@ -226,6 +232,7 @@
   "ids": {
    "howlongtobeat": "40413",
    "igdb": "planet-coaster--1",
+   "metacritic": "planet-coaster",
    "mobygames": "81918",
    "pcgamingwiki": "Planet_Coaster",
    "steam": "493340"
@@ -237,6 +244,7 @@
   "enwiki": "Just Dance 2016",
   "ids": {
    "igdb": "just-dance-2016",
+   "metacritic": "just-dance-2016",
    "mobygames": "83869"
   },
   "label_en": "Just Dance 2016",
@@ -273,6 +281,7 @@
   "ids": {
    "howlongtobeat": "51276",
    "igdb": "bayonetta-3",
+   "metacritic": "bayonetta-3",
    "mobygames": "193237"
   },
   "label_en": "Bayonetta 3",
@@ -368,6 +377,7 @@
   "ids": {
    "howlongtobeat": "72871",
    "igdb": "trivia-vault-food-trivia",
+   "metacritic": "trivia-vault-food-trivia",
    "pcgamingwiki": "Trivia_Vault:_Food_Trivia",
    "steam": "861720"
   },
@@ -1358,5 +1368,9 @@
   },
   "label_en": "Midnight Files",
   "wikidata": "Q141480696"
+ },
+ {
+  "label_en": "Abalone",
+  "wikidata": "Q142215696"
  }
 ]

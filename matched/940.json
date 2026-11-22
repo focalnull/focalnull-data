@@ -5,6 +5,7 @@
    "gog": "game/wolfenstein_3d",
    "howlongtobeat": "11250",
    "igdb": "wolfenstein-3d",
+   "metacritic": "wolfenstein-3d",
    "mobygames": "306",
    "pcgamingwiki": "Wolfenstein_3D",
    "steam": "2270"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "3519",
    "igdb": "final-fantasy-iii--7",
+   "metacritic": "final-fantasy-vi",
    "mobygames": "5202",
    "pcgamingwiki": "Final_Fantasy_VI",
    "steam": "382900"
@@ -28,6 +30,7 @@
   "enwiki": "Breed (video game)",
   "ids": {
    "igdb": "breed",
+   "metacritic": "breed",
    "mobygames": "17652",
    "pcgamingwiki": "Breed"
   },
@@ -39,6 +42,7 @@
   "ids": {
    "howlongtobeat": "1815",
    "igdb": "columns",
+   "metacritic": "columns",
    "mobygames": "7685",
    "pcgamingwiki": "Columns",
    "steam": "34285"
@@ -52,6 +56,7 @@
    "gog": "game/deadly_premonition_directors_cut",
    "howlongtobeat": "2351",
    "igdb": "deadly-premonition-directors-cut",
+   "metacritic": "deadly-premonition-the-directors-cut",
    "mobygames": "46145",
    "pcgamingwiki": "Deadly_Premonition:_The_Director's_Cut",
    "steam": "247660"
@@ -63,6 +68,7 @@
   "enwiki": "Civilization Revolution",
   "ids": {
    "igdb": "sid-meiers-civilization-revolution",
+   "metacritic": "sid-meiers-civilization-revolution",
    "mobygames": "35117"
   },
   "label_en": "Civilization Revolution",
@@ -101,6 +107,7 @@
  {
   "ids": {
    "igdb": "hearts-of-iron-ii-doomsday",
+   "metacritic": "hearts-of-iron-ii-doomsday",
    "mobygames": "22288"
   },
   "label_en": "Hearts of Iron II: Doomsday",
@@ -162,6 +169,7 @@
   "ids": {
    "howlongtobeat": "830",
    "igdb": "bang-bang-racing",
+   "metacritic": "bang-bang-racing",
    "mobygames": "56332",
    "pcgamingwiki": "Bang_Bang_Racing",
    "steam": "207020"
@@ -224,6 +232,7 @@
   "ids": {
    "howlongtobeat": "17347",
    "igdb": "real-heroes-firefighter",
+   "metacritic": "real-heroes-firefighter",
    "mobygames": "42402",
    "pcgamingwiki": "Real_Heroes:_Firefighter",
    "steam": "1333700"
@@ -334,6 +343,7 @@
   "ids": {
    "howlongtobeat": "41649",
    "igdb": "dragon-ball-fusions",
+   "metacritic": "dragon-ball-fusions",
    "mobygames": "84520"
   },
   "label_en": "Dragon Ball Fusions",
@@ -342,6 +352,7 @@
  {
   "ids": {
    "igdb": "k-hawk-survival-instinct",
+   "metacritic": "k-hawk",
    "mobygames": "9204",
    "pcgamingwiki": "K._Hawk:_Survival_Instinct"
   },
@@ -352,6 +363,7 @@
   "enwiki": "Lone Echo",
   "ids": {
    "igdb": "lone-echo",
+   "metacritic": "lone-echo",
    "mobygames": "93350",
    "pcgamingwiki": "Lone_Echo"
   },
@@ -362,6 +374,7 @@
   "ids": {
    "howlongtobeat": "43728",
    "igdb": "circles--1",
+   "metacritic": "circles",
    "mobygames": "156256",
    "pcgamingwiki": "Circles",
    "steam": "460250"
@@ -412,6 +425,7 @@
  {
   "ids": {
    "igdb": "redcat-de-razende-rekenrace",
+   "metacritic": "redcat-rekenen-de-razende-rekenrace",
    "mobygames": "104798"
   },
   "label_en": "RedCat: Rekenen - De Razende Rekenrace",
@@ -432,6 +446,7 @@
   "ids": {
    "howlongtobeat": "65576",
    "igdb": "blood-and-truth",
+   "metacritic": "blood-truth",
    "mobygames": "127383"
   },
   "label_en": "Blood & Truth",
@@ -465,6 +480,7 @@
    "gog": "game/a_jugglers_tale",
    "howlongtobeat": "80209",
    "igdb": "a-jugglers-tale",
+   "metacritic": "a-jugglers-tale",
    "mobygames": "172858",
    "pcgamingwiki": "A_Juggler's_Tale",
    "steam": "1252830"
@@ -551,7 +567,9 @@
    "epic": "death-or-treat-e15ede",
    "howlongtobeat": "126262",
    "igdb": "death-or-treat",
+   "metacritic": "death-or-treat",
    "mobygames": "215509",
+   "pcgamingwiki": "Death_or_Treat",
    "steam": "2096620"
   },
   "label_en": "Death or Treat",
@@ -645,6 +663,7 @@
    "howlongtobeat": "104391",
    "igdb": "ankora-lost-days",
    "mobygames": "191028",
+   "pcgamingwiki": "Ankora:_Lost_Days",
    "steam": "1647770"
   },
   "label_en": "Ankora: Lost Days",
@@ -1301,6 +1320,7 @@
   "ids": {
    "howlongtobeat": "174970",
    "igdb": "forza-horizon-6",
+   "metacritic": "forza-horizon-6",
    "mobygames": "252312",
    "pcgamingwiki": "Forza_Horizon_6",
    "steam": "2483190"
@@ -1341,6 +1361,7 @@
  {
   "ids": {
    "igdb": "groovekeeper-sort-the-record-shop",
+   "pcgamingwiki": "Groovekeeper:_Sort_the_Record_Shop",
    "steam": "4953280"
   },
   "label_en": "Groovekeeper: Sort the Record Shop",

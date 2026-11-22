@@ -26,6 +26,7 @@
    "gog": "game/flower",
    "howlongtobeat": "3608",
    "igdb": "flower",
+   "metacritic": "flower",
    "mobygames": "39287",
    "pcgamingwiki": "Flower",
    "steam": "966330"
@@ -46,6 +47,7 @@
   "enwiki": "Armored Core: Nexus",
   "ids": {
    "igdb": "armored-core-nexus",
+   "metacritic": "armored-core-nexus",
    "mobygames": "39560"
   },
   "label_en": "Armored Core: Nexus",
@@ -65,6 +67,7 @@
   "enwiki": "Next Life",
   "ids": {
    "igdb": "next-life",
+   "metacritic": "next-life",
    "mobygames": "31546",
    "pcgamingwiki": "Next_Life"
   },
@@ -84,6 +87,7 @@
   "enwiki": "Hail to the Chimp",
   "ids": {
    "igdb": "hail-to-the-chimp",
+   "metacritic": "hail-to-the-chimp",
    "mobygames": "36140"
   },
   "label_en": "Hail to the Chimp",
@@ -94,6 +98,7 @@
   "ids": {
    "howlongtobeat": "5615",
    "igdb": "marble-saga-kororinpa",
+   "metacritic": "marble-saga-kororinpa",
    "mobygames": "86081"
   },
   "label_en": "Marble Saga: Kororinpa",
@@ -104,6 +109,7 @@
   "ids": {
    "howlongtobeat": "10301",
    "igdb": "thirty-flights-of-loving",
+   "metacritic": "thirty-flights-of-loving",
    "mobygames": "58283",
    "pcgamingwiki": "Thirty_Flights_of_Loving",
    "steam": "214700"
@@ -128,6 +134,7 @@
   "ids": {
    "howlongtobeat": "25806",
    "igdb": "disgaea-5-alliance-of-vengeance",
+   "metacritic": "disgaea-5-alliance-of-vengeance",
    "mobygames": "83569",
    "pcgamingwiki": "Disgaea_5_Complete",
    "steam": "803600"
@@ -140,6 +147,7 @@
   "ids": {
    "howlongtobeat": "13778",
    "igdb": "speedrunners",
+   "metacritic": "speedrunners",
    "mobygames": "84799",
    "pcgamingwiki": "SpeedRunners",
    "steam": "207140"
@@ -164,6 +172,7 @@
    "gog": "game/tower_of_time",
    "howlongtobeat": "48039",
    "igdb": "tower-of-time",
+   "metacritic": "tower-of-time",
    "mobygames": "106965",
    "pcgamingwiki": "Tower_of_Time",
    "steam": "617480"
@@ -198,6 +207,7 @@
   "enwiki": "Wall Street Trader 2000",
   "ids": {
    "igdb": "wall-street-trader-2000",
+   "metacritic": "wall-street-trader-2000",
    "mobygames": "3155"
   },
   "label_en": "Wall Street Trader 2000",
@@ -216,6 +226,7 @@
   "ids": {
    "howlongtobeat": "51655",
    "igdb": "floor-kids",
+   "metacritic": "floor-kids",
    "mobygames": "99125",
    "pcgamingwiki": "Floor_Kids",
    "steam": "821640"
@@ -233,6 +244,7 @@
    "epic": "the-anacrusis",
    "howlongtobeat": "93461",
    "igdb": "the-anacrusis",
+   "metacritic": "the-anacrusis",
    "mobygames": "178173",
    "pcgamingwiki": "The_Anacrusis",
    "steam": "1120480"
@@ -255,6 +267,7 @@
   "ids": {
    "howlongtobeat": "97049",
    "igdb": "paradise-marsh",
+   "metacritic": "paradise-marsh",
    "mobygames": "192967",
    "steam": "1709170"
   },
@@ -286,6 +299,7 @@
   "ids": {
    "howlongtobeat": "125880",
    "igdb": "breakers-collection",
+   "metacritic": "breakers-collection",
    "mobygames": "200113",
    "pcgamingwiki": "Breakers_Collection",
    "steam": "1786230"
@@ -333,7 +347,8 @@
   "enwiki": "Detective Pikachu Returns",
   "ids": {
    "howlongtobeat": "130452",
-   "igdb": "detective-pikachu-returns"
+   "igdb": "detective-pikachu-returns",
+   "metacritic": "detective-pikachu-returns"
   },
   "label_en": "Detective Pikachu Returns",
   "wikidata": "Q119833218"
@@ -560,7 +575,8 @@
  {
   "enwiki": "Arashi: Castles of Sin",
   "ids": {
-   "igdb": "arashi-castles-of-sin"
+   "igdb": "arashi-castles-of-sin",
+   "metacritic": "arashi-castles-of-sin"
   },
   "label_en": "Arashi: Castles of Sin",
   "wikidata": "Q123989218"
@@ -953,6 +969,7 @@
  {
   "ids": {
    "igdb": "game-tube",
+   "pcgamingwiki": "Game_Tube",
    "steam": "763300"
   },
   "label_en": "GAME TUBE ♛",
@@ -986,6 +1003,9 @@
   "wikidata": "Q141481218"
  },
  {
+  "ids": {
+   "igdb": "uncredited"
+  },
   "label_en": "Uncredited",
   "wikidata": "Q142188218"
  }

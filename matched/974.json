@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6484",
    "igdb": "need-for-speed-undercover",
+   "metacritic": "need-for-speed-undercover",
    "mobygames": "37711",
    "pcgamingwiki": "Need_for_Speed:_Undercover",
    "steam": "17430"
@@ -53,6 +54,7 @@
   "ids": {
    "howlongtobeat": "548",
    "igdb": "arc-the-lad-twilight-of-the-spirits",
+   "metacritic": "arc-the-lad-twilight-of-the-spirits",
    "mobygames": "12605"
   },
   "label_en": "Arc the Lad: Twilight of the Spirits",
@@ -63,6 +65,7 @@
   "ids": {
    "howlongtobeat": "11347",
    "igdb": "wwf-no-mercy",
+   "metacritic": "wwf-no-mercy",
    "mobygames": "8947"
   },
   "label_en": "WWF No Mercy",
@@ -82,6 +85,7 @@
   "ids": {
    "howlongtobeat": "5878",
    "igdb": "memento-mori",
+   "metacritic": "memento-mori",
    "mobygames": "41381",
    "pcgamingwiki": "Memento_Mori",
    "steam": "200490"
@@ -155,7 +159,8 @@
  {
   "enwiki": "Street Trace NYC",
   "ids": {
-   "igdb": "street-trace-nyc"
+   "igdb": "street-trace-nyc",
+   "metacritic": "street-trace-nyc"
   },
   "label_en": "Street Trace NYC",
   "wikidata": "Q7622974"
@@ -179,6 +184,7 @@
    "gog": "game/rebel_galaxy",
    "howlongtobeat": "30944",
    "igdb": "rebel-galaxy",
+   "metacritic": "rebel-galaxy",
    "mobygames": "82225",
    "pcgamingwiki": "Rebel_Galaxy",
    "steam": "290300"
@@ -245,6 +251,7 @@
   "ids": {
    "howlongtobeat": "75576",
    "igdb": "30xx",
+   "metacritic": "30xx",
    "mobygames": "165217",
    "pcgamingwiki": "30XX",
    "steam": "1029210"
@@ -278,6 +285,9 @@
   "wikidata": "Q111540974"
  },
  {
+  "ids": {
+   "metacritic": "kyokugen-chikan-tokuiten-2"
+  },
   "label_en": "Kyokugen Chikan Tokuiten 2 - Chikan no Shoumei",
   "wikidata": "Q112127974"
  },
@@ -296,6 +306,7 @@
    "epic": "unusual-findings-6997e3",
    "howlongtobeat": "114446",
    "igdb": "unusual-findings",
+   "metacritic": "unusual-findings",
    "mobygames": "193337",
    "pcgamingwiki": "Unusual_Findings",
    "steam": "1605320"
@@ -715,6 +726,7 @@
    "gog": "game/smushi_come_home",
    "howlongtobeat": "129918",
    "igdb": "smushi-come-home",
+   "metacritic": "smushi-come-home",
    "mobygames": "204295",
    "pcgamingwiki": "Smushi_Come_Home",
    "steam": "1740300"
@@ -771,6 +783,7 @@
   "ids": {
    "howlongtobeat": "124305",
    "igdb": "himeyoku-a-sacrifice-of-lust-and-grace",
+   "metacritic": "himeyoku-a-sacrifice-of-lust-and-grace",
    "mobygames": "194393",
    "steam": "2126870"
   },

@@ -18,6 +18,7 @@
   "enwiki": "Madagascar (video game)",
   "ids": {
    "igdb": "madagascar",
+   "metacritic": "madagascar",
    "mobygames": "20903",
    "pcgamingwiki": "Madagascar"
   },
@@ -29,6 +30,7 @@
   "ids": {
    "howlongtobeat": "4834",
    "igdb": "jet-grind-radio",
+   "metacritic": "jet-grind-radio",
    "mobygames": "4126",
    "pcgamingwiki": "Jet_Set_Radio",
    "steam": "205950"
@@ -190,6 +192,7 @@
   "ids": {
    "howlongtobeat": "14416",
    "igdb": "azkend-2-the-world-beneath",
+   "metacritic": "azkend-2-the-world-beneath",
    "mobygames": "55168",
    "pcgamingwiki": "Azkend_2:_The_World_Beneath",
    "steam": "550440"
@@ -224,6 +227,7 @@
    "gog": "game/the_longing",
    "howlongtobeat": "71956",
    "igdb": "the-longing",
+   "metacritic": "the-longing",
    "mobygames": "142640",
    "pcgamingwiki": "The_Longing",
    "steam": "893850"
@@ -244,6 +248,7 @@
  {
   "ids": {
    "howlongtobeat": "68914",
+   "metacritic": "attack-on-titan-2-final-battle",
    "mobygames": "129352"
   },
   "label_en": "Attack on Titan 2: Final Battle",
@@ -254,6 +259,7 @@
   "ids": {
    "howlongtobeat": "80038",
    "igdb": "resident-evil-village",
+   "metacritic": "resident-evil-village",
    "mobygames": "161834",
    "pcgamingwiki": "Resident_Evil_Village",
    "steam": "1196590"
@@ -268,6 +274,7 @@
    "gog": "game/medieval_dynasty",
    "howlongtobeat": "83172",
    "igdb": "medieval-dynasty",
+   "metacritic": "medieval-dynasty",
    "mobygames": "150538",
    "pcgamingwiki": "Medieval_Dynasty",
    "steam": "1129580"
@@ -290,6 +297,7 @@
   "ids": {
    "howlongtobeat": "45501",
    "igdb": "vagrant-hearts-zero",
+   "metacritic": "vagrant-hearts-zero",
    "mobygames": "87759",
    "pcgamingwiki": "Vagrant_Hearts_Zero",
    "steam": "615680"
@@ -347,6 +355,7 @@
   "ids": {
    "howlongtobeat": "89298",
    "igdb": "ill",
+   "metacritic": "ill",
    "pcgamingwiki": "Ill",
    "steam": "1757350"
   },
@@ -384,7 +393,9 @@
    "gog": "game/gunbrella",
    "howlongtobeat": "107698",
    "igdb": "gunbrella",
+   "metacritic": "gunbrella",
    "mobygames": "208577",
+   "pcgamingwiki": "Gunbrella",
    "steam": "1580180"
   },
   "label_en": "Gunbrella",
@@ -429,6 +440,7 @@
    "epic": "hi-fi-rush",
    "howlongtobeat": "122891",
    "igdb": "hi-fi-rush",
+   "metacritic": "hi-fi-rush",
    "mobygames": "198497",
    "pcgamingwiki": "Hi-Fi_Rush",
    "steam": "1817230"
@@ -893,6 +905,7 @@
   "ids": {
    "howlongtobeat": "166969",
    "igdb": "the-elder-scrolls-iv-oblivion-remastered",
+   "metacritic": "the-elder-scrolls-iv-oblivion-remastered",
    "mobygames": "240959",
    "pcgamingwiki": "The_Elder_Scrolls_IV:_Oblivion_Remastered",
    "steam": "2623190"
@@ -1130,7 +1143,8 @@
   "enwiki": "Pokémon Friends",
   "ids": {
    "howlongtobeat": "171492",
-   "igdb": "pokemon-friends"
+   "igdb": "pokemon-friends",
+   "metacritic": "pokemon-friends"
   },
   "label_en": "Pokémon Friends",
   "wikidata": "Q135442515"

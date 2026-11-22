@@ -26,6 +26,7 @@
   "ids": {
    "howlongtobeat": "7722",
    "igdb": "resident-evil-5",
+   "metacritic": "resident-evil-5",
    "mobygames": "40967",
    "pcgamingwiki": "Resident_Evil_5",
    "steam": "21690"
@@ -45,6 +46,7 @@
  {
   "ids": {
    "igdb": "globulos-party",
+   "metacritic": "globulos-party",
    "mobygames": "88180"
   },
   "label_en": "Globulos Party",
@@ -90,6 +92,7 @@
   "enwiki": "American Idol (video game)",
   "ids": {
    "igdb": "american-idol",
+   "metacritic": "american-idol",
    "mobygames": "13065"
   },
   "label_en": "American Idol",
@@ -99,6 +102,7 @@
   "enwiki": "Animaniacs: Lights, Camera, Action!",
   "ids": {
    "igdb": "animaniacs-lights-camera-action",
+   "metacritic": "animaniacs-lights-camera-action",
    "mobygames": "22073"
   },
   "label_en": "Animaniacs: Lights, Camera, Action!",
@@ -126,6 +130,7 @@
   "enwiki": "Gravity Games Bike: Street Vert Dirt",
   "ids": {
    "igdb": "gravity-games-bike-street-vert-dirt",
+   "metacritic": "gravity-games-bike-street-vert-dirt",
    "mobygames": "152053"
   },
   "label_en": "Gravity Games Bike: Street Vert Dirt",
@@ -171,6 +176,7 @@
   "enwiki": "Konductra",
   "ids": {
    "igdb": "konductra",
+   "metacritic": "konductra",
    "mobygames": "24852"
   },
   "label_en": "Konductra",
@@ -209,6 +215,7 @@
    "gog": "game/outlast",
    "howlongtobeat": "13407",
    "igdb": "outlast",
+   "metacritic": "outlast",
    "mobygames": "63409",
    "pcgamingwiki": "Outlast",
    "steam": "238320"
@@ -222,6 +229,7 @@
    "gog": "game/chaos_child",
    "howlongtobeat": "48590",
    "igdb": "chaos-child",
+   "metacritic": "chaoschild",
    "mobygames": "97206",
    "pcgamingwiki": "Chaos;Child",
    "steam": "970570"
@@ -262,6 +270,7 @@
    "gog": "game/walking_dead_a_new_frontier_the",
    "howlongtobeat": "41484",
    "igdb": "the-walking-dead-a-new-frontier",
+   "metacritic": "the-walking-dead-the-telltale-series-a-new",
    "mobygames": "81997",
    "pcgamingwiki": "The_Walking_Dead:_A_New_Frontier",
    "steam": "536220"
@@ -274,6 +283,7 @@
   "ids": {
    "howlongtobeat": "46960",
    "igdb": "troll-and-i",
+   "metacritic": "troll-and-i",
    "mobygames": "85821",
    "pcgamingwiki": "Troll_and_I",
    "steam": "564070"
@@ -298,6 +308,7 @@
   "ids": {
    "howlongtobeat": "66500",
    "igdb": "granblue-fantasy-relink",
+   "metacritic": "granblue-fantasy-relink",
    "mobygames": "216823",
    "pcgamingwiki": "Granblue_Fantasy:_Relink",
    "steam": "881020"
@@ -327,6 +338,7 @@
   "enwiki": "The Settlers DS",
   "ids": {
    "igdb": "the-settlers--1",
+   "metacritic": "the-settlers",
    "mobygames": "30771"
   },
   "label_en": "The Settlers DS",
@@ -365,6 +377,9 @@
   "wikidata": "Q97161050"
  },
  {
+  "ids": {
+   "metacritic": "the-sims-3-ambitions"
+  },
   "label_en": "The Sims 3: Ambitions (mobile)",
   "wikidata": "Q97188050"
  },
@@ -372,6 +387,7 @@
   "ids": {
    "howlongtobeat": "56232",
    "igdb": "campfire-cooking",
+   "metacritic": "campfire-cooking",
    "mobygames": "107766",
    "pcgamingwiki": "Campfire_Cooking",
    "steam": "679500"
@@ -441,6 +457,7 @@
   "ids": {
    "howlongtobeat": "116211",
    "igdb": "shadows-over-loathing",
+   "metacritic": "shadows-over-loathing",
    "mobygames": "195202",
    "pcgamingwiki": "Shadows_over_Loathing",
    "steam": "1939160"
@@ -482,6 +499,7 @@
  {
   "ids": {
    "igdb": "squishies",
+   "metacritic": "squishies",
    "pcgamingwiki": "Squishies",
    "steam": "593060"
   },
@@ -808,6 +826,7 @@
  {
   "ids": {
    "igdb": "collateral-thinking",
+   "metacritic": "collateral-thinking",
    "mobygames": "101448"
   },
   "label_en": "Collateral Thinking",

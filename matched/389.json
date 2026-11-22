@@ -24,6 +24,7 @@
   "enwiki": "Enemy Zero",
   "ids": {
    "igdb": "enemy-zero",
+   "metacritic": "enemy-zero",
    "mobygames": "9761",
    "pcgamingwiki": "Enemy_Zero"
   },
@@ -94,6 +95,7 @@
   "enwiki": "Marvel Super Hero Squad: The Infinity Gauntlet",
   "ids": {
    "igdb": "marvel-super-hero-squad-the-infinity-gauntlet",
+   "metacritic": "marvel-super-hero-squad-the-infinity-gauntlet",
    "mobygames": "49931"
   },
   "label_en": "Marvel Super Hero Squad: The Infinity Gauntlet",
@@ -103,6 +105,7 @@
   "enwiki": "Tales from Space: About a Blob",
   "ids": {
    "igdb": "tales-from-space-about-a-blob",
+   "metacritic": "tales-from-space-about-a-blob",
    "mobygames": "110207"
   },
   "label_en": "Tales from Space: About a Blob",
@@ -117,6 +120,7 @@
   "ids": {
    "howlongtobeat": "17451",
    "igdb": "divinity-original-sin",
+   "metacritic": "divinity-original-sin",
    "mobygames": "66558",
    "pcgamingwiki": "Divinity:_Original_Sin",
    "steam": "230230"
@@ -155,6 +159,7 @@
   "enwiki": "Space Invaders Get Even",
   "ids": {
    "igdb": "space-invaders-get-even",
+   "metacritic": "space-invaders-get-even",
    "mobygames": "89374"
   },
   "label_en": "Space Invaders Get Even",
@@ -199,6 +204,7 @@
    "gog": "game/stealth_inc_2_a_game_of_clones",
    "howlongtobeat": "22410",
    "igdb": "stealth-inc-2-a-game-of-clones",
+   "metacritic": "stealth-inc-2-a-game-of-clones",
    "mobygames": "72170",
    "pcgamingwiki": "Stealth_Inc._2:_A_Game_of_Clones",
    "steam": "329380"
@@ -210,6 +216,7 @@
   "ids": {
    "howlongtobeat": "47141",
    "igdb": "dal-segno",
+   "metacritic": "ds-dal-segno-",
    "mobygames": "91856",
    "pcgamingwiki": "Dal_Segno",
    "steam": "638930"
@@ -235,6 +242,7 @@
  {
   "ids": {
    "igdb": "lock-her-up-the-trump-supremacy",
+   "metacritic": "lock-her-up-the-trump-supremacy",
    "mobygames": "107510",
    "pcgamingwiki": "Lock_Her_Up:_The_Trump_Supremacy",
    "steam": "769980"
@@ -304,6 +312,7 @@
   "ids": {
    "howlongtobeat": "98368",
    "igdb": "touken-ranbu-warriors",
+   "metacritic": "touken-ranbu-warriors",
    "mobygames": "184778",
    "pcgamingwiki": "Touken_Ranbu_Warriors",
    "steam": "1191260"
@@ -445,6 +454,7 @@
   "ids": {
    "howlongtobeat": "153670",
    "igdb": "paranormal-tales",
+   "metacritic": "paranormal-tales",
    "steam": "2193600"
   },
   "label_en": "Paranormal Tales",
@@ -463,7 +473,9 @@
   "ids": {
    "howlongtobeat": "134821",
    "igdb": "orbos-odyssey",
+   "metacritic": "orbos-odyssey",
    "mobygames": "207578",
+   "pcgamingwiki": "Orbo's_Odyssey",
    "steam": "2539960"
   },
   "label_en": "Orbo's Odyssey",
@@ -486,6 +498,7 @@
    "gog": "game/march_of_shrooms",
    "howlongtobeat": "141792",
    "igdb": "march-of-shrooms",
+   "metacritic": "march-of-shrooms",
    "mobygames": "236751",
    "steam": "2091410"
   },
@@ -881,6 +894,7 @@
  {
   "ids": {
    "igdb": "totem-topple",
+   "metacritic": "totem-topple",
    "mobygames": "101104"
   },
   "label_en": "Totem Topple",

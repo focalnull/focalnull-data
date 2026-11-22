@@ -24,6 +24,7 @@
   "ids": {
    "howlongtobeat": "5789",
    "igdb": "medal-of-honor-underground",
+   "metacritic": "medal-of-honor-underground",
    "mobygames": "4761"
   },
   "label_en": "Medal of Honor: Underground",
@@ -53,6 +54,7 @@
    "epic": "kings-bounty-armored-princess-2fbc57",
    "howlongtobeat": "5017",
    "igdb": "king-s-bounty-armored-princess",
+   "metacritic": "kings-bounty-armored-princess",
    "mobygames": "44353",
    "pcgamingwiki": "King's_Bounty:_Armored_Princess",
    "steam": "3170"
@@ -66,6 +68,7 @@
    "gog": "game/simcity_2000_special_edition",
    "howlongtobeat": "8557",
    "igdb": "simcity-2000",
+   "metacritic": "simcity-2000",
    "mobygames": "657",
    "pcgamingwiki": "SimCity_2000"
   },
@@ -77,6 +80,7 @@
   "ids": {
    "howlongtobeat": "1411",
    "igdb": "burnout-revenge",
+   "metacritic": "burnout-revenge",
    "mobygames": "19356"
   },
   "label_en": "Burnout Revenge",
@@ -95,6 +99,7 @@
   "ids": {
    "howlongtobeat": "3970",
    "igdb": "god-hand",
+   "metacritic": "god-hand",
    "mobygames": "27017"
   },
   "label_en": "God Hand",
@@ -105,6 +110,7 @@
   "ids": {
    "howlongtobeat": "6865",
    "igdb": "pac-man-world-rally",
+   "metacritic": "pac-man-world-rally",
    "mobygames": "27658",
    "pcgamingwiki": "Pac-Man_World_Rally"
   },
@@ -137,6 +143,7 @@
   "ids": {
    "howlongtobeat": "6014",
    "igdb": "midway-arcade-treasures-3",
+   "metacritic": "midway-arcade-treasures-3",
    "mobygames": "19851"
   },
   "label_en": "Midway Arcade Treasures 3",
@@ -205,6 +212,7 @@
    "gog": "game/luftrausers",
    "howlongtobeat": "17394",
    "igdb": "luftrausers",
+   "metacritic": "luftrausers",
    "mobygames": "65124",
    "pcgamingwiki": "Luftrausers",
    "steam": "233150"
@@ -216,6 +224,7 @@
   "enwiki": "Digimon All-Star Rumble",
   "ids": {
    "igdb": "digimon-all-star-rumble",
+   "metacritic": "digimon-all-star-rumble",
    "mobygames": "84613"
   },
   "label_en": "Digimon All-Star Rumble",
@@ -253,6 +262,7 @@
   "enwiki": "Disney Art Academy",
   "ids": {
    "igdb": "disney-art-academy",
+   "metacritic": "disney-art-academy",
    "mobygames": "91865"
   },
   "label_en": "Disney Art Academy",
@@ -263,6 +273,7 @@
   "ids": {
    "howlongtobeat": "25237",
    "igdb": "hot-tin-roof-the-cat-that-wore-a-fedora",
+   "metacritic": "hot-tin-roof-the-cat-that-wore-a-fedora",
    "mobygames": "78185",
    "pcgamingwiki": "Hot_Tin_Roof:_The_Cat_That_Wore_a_Fedora",
    "steam": "253390"
@@ -292,6 +303,7 @@
    "gog": "game/vertical_drop_heroes_hd",
    "howlongtobeat": "20167",
    "igdb": "vertical-drop-heroes-hd",
+   "metacritic": "vertical-drop-heroes-hd",
    "mobygames": "69307",
    "pcgamingwiki": "Vertical_Drop_Heroes_HD",
    "steam": "311480"
@@ -305,6 +317,7 @@
    "gog": "game/noita",
    "howlongtobeat": "67295",
    "igdb": "noita",
+   "metacritic": "noita",
    "mobygames": "134333",
    "pcgamingwiki": "Noita",
    "steam": "881100"
@@ -351,6 +364,7 @@
   "ids": {
    "howlongtobeat": "85022",
    "igdb": "eternal-return--1",
+   "metacritic": "black-survival-eternal-return",
    "mobygames": "153352",
    "pcgamingwiki": "Eternal_Return:_Black_Survival",
    "steam": "1049590"
@@ -361,6 +375,7 @@
  {
   "ids": {
    "igdb": "sonic-jump",
+   "metacritic": "sonic-jump",
    "mobygames": "76106"
   },
   "label_en": "Sonic Jump",
@@ -383,6 +398,7 @@
    "gog": "game/driftland_the_magic_revival",
    "howlongtobeat": "56724",
    "igdb": "driftland-the-magic-revival",
+   "metacritic": "driftland-the-magic-revival",
    "mobygames": "98794",
    "pcgamingwiki": "Driftland:_The_Magic_Revival",
    "steam": "718650"
@@ -602,6 +618,7 @@
   "ids": {
    "howlongtobeat": "100653",
    "igdb": "the-sundew",
+   "metacritic": "the-sundew",
    "mobygames": "173708",
    "steam": "1468380"
   },
@@ -758,6 +775,7 @@
   "ids": {
    "howlongtobeat": "46564",
    "igdb": "randall",
+   "metacritic": "randall",
    "mobygames": "90011",
    "pcgamingwiki": "Randall",
    "steam": "603840"
@@ -867,6 +885,9 @@
   "wikidata": "Q130723176"
  },
  {
+  "ids": {
+   "metacritic": "brown-dust-ii"
+  },
   "label_en": "Brown Dust 2",
   "wikidata": "Q134359176"
  },
@@ -1139,6 +1160,7 @@
   "ids": {
    "igdb": "tupa",
    "mobygames": "186034",
+   "pcgamingwiki": "Tupã",
    "steam": "664630"
   },
   "label_en": "Tupã",
@@ -1174,10 +1196,19 @@
   "ids": {
    "howlongtobeat": "189987",
    "igdb": "kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1000-dollars-000",
+   "metacritic": "kotamon-my-sis-found-a-super-rare-card-in-her",
    "mobygames": "267227",
    "steam": "4294490"
   },
   "label_en": "Kotamon: My Sis Found a Super-Rare Card in Her Cereal Box, so I Became a Garbage Man to Find the Entire Collection and Earn $1,000,000",
   "wikidata": "Q141481176"
+ },
+ {
+  "ids": {
+   "mobygames": "273400",
+   "steam": "4259360"
+  },
+  "label_en": "Milki Delivery",
+  "wikidata": "Q142220176"
  }
 ]

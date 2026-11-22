@@ -5,6 +5,7 @@
    "gog": "game/super_hexagon",
    "howlongtobeat": "9353",
    "igdb": "super-hexagon",
+   "metacritic": "super-hexagon",
    "mobygames": "59493",
    "pcgamingwiki": "Super_Hexagon",
    "steam": "221640"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "10480",
    "igdb": "tomb-raider-the-last-revelation",
+   "metacritic": "tomb-raider-the-last-revelation",
    "mobygames": "1429",
    "pcgamingwiki": "Tomb_Raider:_The_Last_Revelation",
    "steam": "224980"
@@ -29,6 +31,7 @@
   "ids": {
    "gog": "game/no_more_heroes_2_desperate_struggle",
    "igdb": "no-more-heroes-2-desperate-struggle",
+   "metacritic": "no-more-heroes-2-desperate-struggle",
    "mobygames": "46352",
    "pcgamingwiki": "No_More_Heroes_2:_Desperate_Struggle",
    "steam": "1420300"
@@ -42,6 +45,7 @@
    "gog": "game/age_of_wonders_shadow_magic",
    "howlongtobeat": "283",
    "igdb": "age-of-wonders-shadow-magic",
+   "metacritic": "age-of-wonders-shadow-magic",
    "mobygames": "9919",
    "pcgamingwiki": "Age_of_Wonders:_Shadow_Magic",
    "steam": "61520"
@@ -100,6 +104,7 @@
   "enwiki": "Deadliest Catch: Alaskan Storm",
   "ids": {
    "igdb": "deadliest-catch-alaskan-storm",
+   "metacritic": "deadliest-catch-alaskan-storm",
    "mobygames": "70085"
   },
   "label_en": "Deadliest Catch: Alaskan Storm",
@@ -118,6 +123,7 @@
   "enwiki": "Dead or Alive Ultimate",
   "ids": {
    "igdb": "dead-or-alive-1-ultimate",
+   "metacritic": "dead-or-alive-ultimate",
    "mobygames": "15449"
   },
   "label_en": "Dead or Alive Ultimate",
@@ -158,6 +164,7 @@
   "enwiki": "Lego Legends of Chima: Laval's Journey",
   "ids": {
    "igdb": "lego-legends-of-chima-lavals-journey",
+   "metacritic": "lego-legends-of-chima-lavals-journey",
    "mobygames": "81153"
   },
   "label_en": "Lego Legends of Chima: Laval's Journey",
@@ -187,7 +194,8 @@
  {
   "enwiki": "Pool Party (video game)",
   "ids": {
-   "igdb": "pool-party"
+   "igdb": "pool-party",
+   "metacritic": "pool-party-2007"
   },
   "label_en": "Pool Party",
   "wikidata": "Q7228568"
@@ -238,6 +246,7 @@
    "gog": "game/rimworld",
    "howlongtobeat": "24212",
    "igdb": "rimworld",
+   "metacritic": "rimworld",
    "mobygames": "84704",
    "pcgamingwiki": "RimWorld",
    "steam": "294100"
@@ -250,6 +259,7 @@
   "ids": {
    "howlongtobeat": "41446",
    "igdb": "blazblue-central-fiction",
+   "metacritic": "blazblue-central-fiction",
    "mobygames": "83589",
    "pcgamingwiki": "BlazBlue_Centralfiction",
    "steam": "586140"
@@ -264,6 +274,7 @@
    "gog": "game/homeworld_deserts_of_kharak",
    "howlongtobeat": "32868",
    "igdb": "homeworld-deserts-of-kharak",
+   "metacritic": "homeworld-deserts-of-kharak",
    "mobygames": "76585",
    "pcgamingwiki": "Homeworld:_Deserts_of_Kharak",
    "steam": "281610"
@@ -295,6 +306,7 @@
   "ids": {
    "howlongtobeat": "46428",
    "igdb": "ori-and-the-will-of-the-wisps",
+   "metacritic": "ori-and-the-will-of-the-wisps",
    "mobygames": "142015",
    "pcgamingwiki": "Ori_and_the_Will_of_the_Wisps",
    "steam": "1057090"
@@ -307,6 +319,7 @@
   "ids": {
    "howlongtobeat": "43587",
    "igdb": "leaving-lyndow",
+   "metacritic": "leaving-lyndow",
    "mobygames": "93398",
    "pcgamingwiki": "Leaving_Lyndow",
    "steam": "585840"
@@ -319,6 +332,7 @@
   "ids": {
    "howlongtobeat": "37967",
    "igdb": "guns-up",
+   "metacritic": "guns-up",
    "mobygames": "76845",
    "pcgamingwiki": "Guns_Up!",
    "steam": "446150"
@@ -328,7 +342,8 @@
  },
  {
   "ids": {
-   "igdb": "gun-commando"
+   "igdb": "gun-commando",
+   "metacritic": "gun-commando"
   },
   "label_en": "Gun Commando",
   "wikidata": "Q47490568"
@@ -346,6 +361,7 @@
   "ids": {
    "howlongtobeat": "77",
    "igdb": "4-elements",
+   "metacritic": "4-elements",
    "mobygames": "36224",
    "pcgamingwiki": "4_Elements",
    "steam": "47000"
@@ -357,7 +373,8 @@
   "enwiki": "Little Friends: Dogs & Cats",
   "ids": {
    "howlongtobeat": "66696",
-   "igdb": "little-friends-dogs-and-cats"
+   "igdb": "little-friends-dogs-and-cats",
+   "metacritic": "little-friends-dogs-cats"
   },
   "label_en": "Little Friends: Dogs & Cats",
   "wikidata": "Q65040568"
@@ -371,6 +388,7 @@
   "ids": {
    "howlongtobeat": "93633",
    "igdb": "ritual-of-the-moon",
+   "metacritic": "ritual-of-the-moon",
    "mobygames": "126929",
    "pcgamingwiki": "Ritual_of_the_Moon",
    "steam": "993500"
@@ -383,6 +401,7 @@
   "ids": {
    "howlongtobeat": "75359",
    "igdb": "vitamin-connection",
+   "metacritic": "vitamin-connection",
    "mobygames": "142472"
   },
   "label_en": "Vitamin Connection",
@@ -406,6 +425,7 @@
    "gog": "game/saints_row_the_third_remastered",
    "howlongtobeat": "78662",
    "igdb": "saints-row-the-third-remastered",
+   "metacritic": "saints-row-the-third-remastered",
    "mobygames": "145841",
    "pcgamingwiki": "Saints_Row:_The_Third_Remastered",
    "steam": "978300"
@@ -417,6 +437,7 @@
   "ids": {
    "howlongtobeat": "14090",
    "igdb": "cabelas-african-adventures",
+   "metacritic": "cabelas-african-adventures",
    "mobygames": "102050",
    "pcgamingwiki": "Cabela's_African_Adventures",
    "steam": "250200"
@@ -428,6 +449,7 @@
   "ids": {
    "howlongtobeat": "33437",
    "igdb": "hyperdrive-massacre",
+   "metacritic": "hyperdrive-massacre",
    "mobygames": "83021",
    "pcgamingwiki": "Hyperdrive_Massacre",
    "steam": "402390"
@@ -457,6 +479,7 @@
   "ids": {
    "howlongtobeat": "6712",
    "igdb": "off-road-drive",
+   "metacritic": "off-road-drive",
    "mobygames": "95552",
    "pcgamingwiki": "Off-Road_Drive",
    "steam": "200230"
@@ -470,6 +493,7 @@
    "gog": "game/the_plane_effect",
    "howlongtobeat": "88772",
    "igdb": "the-plane-effect",
+   "metacritic": "the-plane-effect",
    "mobygames": "172653",
    "pcgamingwiki": "The_Plane_Effect",
    "steam": "1448760"
@@ -503,6 +527,7 @@
   "ids": {
    "howlongtobeat": "72690",
    "igdb": "whipseey-and-the-lost-atlas",
+   "metacritic": "whipseey-and-the-lost-atlas",
    "mobygames": "133727",
    "pcgamingwiki": "Whipseey_and_the_Lost_Atlas",
    "steam": "1034920"
@@ -546,6 +571,7 @@
   "ids": {
    "howlongtobeat": "1903",
    "igdb": "constant-c",
+   "metacritic": "constant-c",
    "mobygames": "97661",
    "pcgamingwiki": "Constant_C",
    "steam": "251510"
@@ -567,6 +593,7 @@
    "gog": "game/itorah",
    "howlongtobeat": "105463",
    "igdb": "itorah",
+   "metacritic": "itorah",
    "mobygames": "181701",
    "pcgamingwiki": "Itorah",
    "steam": "1132910"
@@ -955,6 +982,7 @@
  {
   "ids": {
    "igdb": "soon-shine",
+   "metacritic": "soon-shine",
    "mobygames": "99491"
   },
   "label_en": "Soon Shine",
@@ -1277,6 +1305,7 @@
  },
  {
   "ids": {
+   "metacritic": "flesh-and-wire",
    "mobygames": "256020",
    "pcgamingwiki": "Flesh_&_Wire",
    "steam": "3592940"
@@ -1294,6 +1323,7 @@
  {
   "ids": {
    "igdb": "the-sorting-bureau",
+   "pcgamingwiki": "The_Sorting_Bureau",
    "steam": "4120790"
   },
   "label_en": "The Sorting Bureau",

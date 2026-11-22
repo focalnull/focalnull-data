@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "5424",
    "igdb": "luigi-s-mansion-dark-moon",
+   "metacritic": "luigis-mansion-dark-moon",
    "mobygames": "65031"
   },
   "label_en": "Luigi's Mansion: Dark Moon",
@@ -90,6 +91,7 @@
   "enwiki": "Helix (video game)",
   "ids": {
    "igdb": "helix--1",
+   "metacritic": "helix-2008",
    "mobygames": "91392"
   },
   "label_en": "Helix",
@@ -128,6 +130,7 @@
   "enwiki": "Jazz Jackrabbit (2002 video game)",
   "ids": {
    "igdb": "jazz-jackrabbit-advance",
+   "metacritic": "jazz-jackrabbit",
    "mobygames": "9037"
   },
   "label_en": "Jazz Jackrabbit",
@@ -137,6 +140,7 @@
   "enwiki": "Murakumo: Renegade Mech Pursuit",
   "ids": {
    "igdb": "murakumo-renegade-mech-pursuit",
+   "metacritic": "murakumo-renegade-mech-pursuit",
    "mobygames": "34791"
   },
   "label_en": "Murakumo: Renegade Mech Pursuit",
@@ -155,6 +159,7 @@
   "enwiki": "Shifters",
   "ids": {
    "igdb": "shifters",
+   "metacritic": "shifters",
    "mobygames": "65673"
   },
   "label_en": "Shifters",
@@ -191,6 +196,7 @@
   "enwiki": "Rock Manager",
   "ids": {
    "igdb": "rock-manager",
+   "metacritic": "rock-manager",
    "mobygames": "7219",
    "pcgamingwiki": "Rock_Manager"
   },
@@ -203,6 +209,7 @@
    "gog": "game/batman_arkham_origins",
    "howlongtobeat": "12676",
    "igdb": "batman-arkham-origins",
+   "metacritic": "batman-arkham-origins",
    "mobygames": "62797",
    "pcgamingwiki": "Batman:_Arkham_Origins",
    "steam": "209000"
@@ -215,6 +222,7 @@
   "ids": {
    "howlongtobeat": "3964",
    "igdb": "go-go-nippon-my-first-trip-to-japan",
+   "metacritic": "go-go-nippon-my-first-trip-to-japan",
    "mobygames": "92654",
    "pcgamingwiki": "Go!_Go!_Nippon!_~My_First_Trip_to_Japan~",
    "steam": "251870"
@@ -289,6 +297,7 @@
   "ids": {
    "howlongtobeat": "80744",
    "igdb": "rocket-arena",
+   "metacritic": "rocket-arena",
    "mobygames": "148093",
    "pcgamingwiki": "Rocket_Arena",
    "steam": "1233550"
@@ -377,6 +386,7 @@
    "epic": "deliver-us-mars",
    "howlongtobeat": "106075",
    "igdb": "deliver-us-mars",
+   "metacritic": "deliver-us-mars",
    "mobygames": "192183",
    "pcgamingwiki": "Deliver_Us_Mars",
    "steam": "1345890"
@@ -428,6 +438,7 @@
   "ids": {
    "howlongtobeat": "75220",
    "igdb": "half-past-fate",
+   "metacritic": "half-past-fate",
    "mobygames": "143275",
    "pcgamingwiki": "Half_Past_Fate",
    "steam": "1048740"
@@ -443,6 +454,7 @@
   "ids": {
    "howlongtobeat": "75842",
    "igdb": "langrisser-i-and-ii--1",
+   "metacritic": "langrisser-i-and-ii",
    "mobygames": "125080",
    "pcgamingwiki": "Langrisser_I_&_II",
    "steam": "1060220"
@@ -639,6 +651,7 @@
  {
   "ids": {
    "igdb": "garbage-crew",
+   "metacritic": "garbage-crew",
    "steam": "1592720"
   },
   "label_en": "Garbage Crew!",
@@ -1126,6 +1139,7 @@
   "ids": {
    "igdb": "forklift-simulator-2019",
    "mobygames": "129820",
+   "pcgamingwiki": "Forklift_Simulator_2019",
    "steam": "939450"
   },
   "label_en": "Forklift Simulator 2019",
@@ -1136,6 +1150,7 @@
   "ids": {
    "howlongtobeat": "171891",
    "igdb": "once-upon-a-katamari--1",
+   "metacritic": "once-upon-a-katamari",
    "pcgamingwiki": "Once_Upon_a_Katamari",
    "steam": "1880620"
   },
@@ -1146,6 +1161,7 @@
   "ids": {
    "epic": "genigods-nezha-95a016",
    "igdb": "genigods-nezha",
+   "pcgamingwiki": "Genigods:_Nezha",
    "steam": "4346690"
   },
   "label_en": "GeniGods: Nezha",

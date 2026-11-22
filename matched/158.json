@@ -5,6 +5,7 @@
    "gog": "game/lionheart_legacy_of_the_crusader",
    "howlongtobeat": "5314",
    "igdb": "lionheart-legacy-of-the-crusader",
+   "metacritic": "lionheart-legacy-of-the-crusader",
    "mobygames": "8635",
    "pcgamingwiki": "Lionheart:_Legacy_of_the_Crusader",
    "steam": "595060"
@@ -16,6 +17,7 @@
   "enwiki": "Dead or Alive: Dimensions",
   "ids": {
    "igdb": "dead-or-alive-dimensions",
+   "metacritic": "dead-or-alive-dimensions",
    "mobygames": "84833"
   },
   "label_en": "Dead or Alive: Dimensions",
@@ -32,6 +34,7 @@
    "gog": "game/flatout_2",
    "howlongtobeat": "3587",
    "igdb": "flatout-2",
+   "metacritic": "flatout-2",
    "mobygames": "22983",
    "pcgamingwiki": "FlatOut_2",
    "steam": "2990"
@@ -109,6 +112,7 @@
   "enwiki": "Endless Ages",
   "ids": {
    "igdb": "endless-ages",
+   "metacritic": "endless-ages",
    "mobygames": "12710"
   },
   "label_en": "Endless Ages",
@@ -198,6 +202,7 @@
    "gog": "game/king_arthurs_gold",
    "howlongtobeat": "12603",
    "igdb": "king-arthur-s-gold",
+   "metacritic": "king-arthurs-gold",
    "mobygames": "59585",
    "pcgamingwiki": "King_Arthur's_Gold",
    "steam": "219830"
@@ -218,6 +223,7 @@
   "ids": {
    "howlongtobeat": "26323",
    "igdb": "bloodbath-kavkaz",
+   "metacritic": "bloodbath-kavkaz",
    "mobygames": "96567",
    "pcgamingwiki": "Bloodbath_Kavkaz",
    "steam": "348020"
@@ -238,6 +244,7 @@
   "ids": {
    "howlongtobeat": "37675",
    "igdb": "one-piece-burning-blood",
+   "metacritic": "one-piece-burning-blood",
    "mobygames": "83369",
    "pcgamingwiki": "One_Piece:_Burning_Blood",
    "steam": "425220"
@@ -249,6 +256,7 @@
   "ids": {
    "howlongtobeat": "38941",
    "igdb": "nurse-love-addiction",
+   "metacritic": "nurse-love-addiction",
    "mobygames": "91151",
    "pcgamingwiki": "Nurse_Love_Addiction",
    "steam": "485040"
@@ -268,6 +276,7 @@
   "ids": {
    "howlongtobeat": "46007",
    "igdb": "tokyo-twilight-ghost-hunters-daybreak-special-gigs",
+   "metacritic": "tokyo-twilight-ghost-hunters-daybreak-special-gigs",
    "mobygames": "86723",
    "pcgamingwiki": "Tokyo_Twilight_Ghost_Hunters_Daybreak:_Special_Gigs",
    "steam": "425460"
@@ -330,6 +339,7 @@
   "ids": {
    "howlongtobeat": "36827",
    "igdb": "midnight",
+   "metacritic": "midnight",
    "mobygames": "100978",
    "pcgamingwiki": "Midnight",
    "steam": "431460"
@@ -376,6 +386,7 @@
   "ids": {
    "howlongtobeat": "36138",
    "igdb": "ncaa-march-madness-2001",
+   "metacritic": "ncaa-march-madness-2001",
    "mobygames": "33668"
   },
   "label_en": "NCAA March Madness 2001",
@@ -412,6 +423,7 @@
   "ids": {
    "howlongtobeat": "94740",
    "igdb": "ai-the-somnium-files-nirvana-initiative",
+   "metacritic": "ai-the-somnium-files-nirvana-initiative",
    "mobygames": "187183",
    "pcgamingwiki": "AI:_The_Somnium_Files_-_nirvanA_Initiative",
    "steam": "1449200"
@@ -423,6 +435,7 @@
   "ids": {
    "howlongtobeat": "34617",
    "igdb": "baseball-riot",
+   "metacritic": "baseball-riot",
    "mobygames": "77783",
    "pcgamingwiki": "Baseball_Riot",
    "steam": "567660"
@@ -447,6 +460,7 @@
    "gog": "game/the_longest_road_on_earth",
    "howlongtobeat": "90466",
    "igdb": "the-longest-road-on-earth",
+   "metacritic": "the-longest-road-on-earth",
    "mobygames": "165423",
    "pcgamingwiki": "The_Longest_Road_on_Earth",
    "steam": "1295790"
@@ -462,6 +476,7 @@
   "ids": {
    "howlongtobeat": "49203",
    "igdb": "dislyte",
+   "metacritic": "dislyte",
    "mobygames": "195837"
   },
   "label_en": "Dislyte",
@@ -486,6 +501,7 @@
  {
   "ids": {
    "igdb": "josh-journey-darkness-totems",
+   "metacritic": "josh-journey-darkness-totems",
    "mobygames": "192540",
    "steam": "1383280"
   },
@@ -532,6 +548,7 @@
   "ids": {
    "howlongtobeat": "15641",
    "igdb": "chessmaster-the-art-of-learning",
+   "metacritic": "chessmaster-the-art-of-learning",
    "mobygames": "87694",
    "pcgamingwiki": "Chessmaster:_Grandmaster_Edition"
   },
@@ -580,6 +597,7 @@
    "gog": "game/sprawl",
    "howlongtobeat": "132655",
    "igdb": "sprawl--1",
+   "metacritic": "sprawl",
    "mobygames": "207666",
    "pcgamingwiki": "Sprawl",
    "steam": "1549690"
@@ -773,6 +791,7 @@
   "ids": {
    "howlongtobeat": "141854",
    "igdb": "monster-hunter-wilds",
+   "metacritic": "monster-hunter-wilds",
    "pcgamingwiki": "Monster_Hunter_Wilds",
    "steam": "2246340"
   },
@@ -922,6 +941,7 @@
  {
   "ids": {
    "igdb": "days-gone-remastered",
+   "metacritic": "days-gone-remastered",
    "mobygames": "241133"
   },
   "label_en": "Days Gone Remastered",
@@ -931,6 +951,7 @@
   "enwiki": "Sultan's Game",
   "ids": {
    "igdb": "sultans-game",
+   "metacritic": "sultans-game",
    "pcgamingwiki": "Sultan's_Game",
    "steam": "3117820"
   },
@@ -1259,6 +1280,7 @@
  {
   "ids": {
    "igdb": "infinite-adventures",
+   "pcgamingwiki": "Infinite_Adventures",
    "steam": "607820"
   },
   "label_en": "Infinite Adventures®",
@@ -1268,7 +1290,8 @@
   "enwiki": "Black Myth: Zhong Kui",
   "ids": {
    "howlongtobeat": "172973",
-   "igdb": "black-myth-zhong-kui"
+   "igdb": "black-myth-zhong-kui",
+   "metacritic": "black-myth-zhong-kui"
   },
   "label_en": "Black Myth: Zhong Kui",
   "wikidata": "Q135910158"

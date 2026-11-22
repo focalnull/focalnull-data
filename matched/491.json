@@ -52,6 +52,7 @@
   "enwiki": "Dead or Alive Xtreme 2",
   "ids": {
    "igdb": "dead-or-alive-xtreme-2",
+   "metacritic": "dead-or-alive-xtreme-2",
    "mobygames": "26263"
   },
   "label_en": "Dead or Alive Xtreme 2",
@@ -73,6 +74,7 @@
    "gog": "game/darkstone",
    "howlongtobeat": "2256",
    "igdb": "darkstone",
+   "metacritic": "darkstone",
    "mobygames": "591",
    "pcgamingwiki": "Darkstone",
    "steam": "320320"
@@ -96,6 +98,7 @@
    "gog": "game/worms_revolution",
    "howlongtobeat": "11315",
    "igdb": "worms-revolution--1",
+   "metacritic": "worms-revolution",
    "mobygames": "60409",
    "pcgamingwiki": "Worms_Revolution",
    "steam": "200170"
@@ -108,6 +111,7 @@
   "ids": {
    "howlongtobeat": "36399",
    "igdb": "madden-nfl-98",
+   "metacritic": "madden-nfl-98",
    "mobygames": "829"
   },
   "label_en": "Madden NFL 98",
@@ -159,6 +163,7 @@
   "ids": {
    "howlongtobeat": "585",
    "igdb": "armada-2526",
+   "metacritic": "armada-2526",
    "mobygames": "48129",
    "pcgamingwiki": "Armada_2526",
    "steam": "46790"
@@ -171,6 +176,7 @@
   "ids": {
    "howlongtobeat": "1425",
    "igdb": "buzz-junior-robo-jam",
+   "metacritic": "buzz-junior-robojam",
    "mobygames": "85240"
   },
   "label_en": "Buzz! Junior: Robo Jam",
@@ -205,6 +211,7 @@
   "enwiki": "NASCAR Racing 2002 Season",
   "ids": {
    "igdb": "nascar-racing-2002-season",
+   "metacritic": "nascar-racing-2002-season",
    "mobygames": "41672",
    "pcgamingwiki": "NASCAR_Racing_2002_Season"
   },
@@ -253,6 +260,7 @@
   "ids": {
    "howlongtobeat": "10816",
    "igdb": "unity-of-command",
+   "metacritic": "unity-of-command",
    "mobygames": "62445",
    "pcgamingwiki": "Unity_of_Command:_Stalingrad_Campaign",
    "steam": "218090"
@@ -292,6 +300,7 @@
   "enwiki": "Arena of Valor",
   "ids": {
    "igdb": "arena-of-valor",
+   "metacritic": "arena-of-valor",
    "mobygames": "111850"
   },
   "label_en": "Arena of Valor",
@@ -301,6 +310,7 @@
   "enwiki": "MediEvil (2019 video game)",
   "ids": {
    "igdb": "medievil--1",
+   "metacritic": "medievil",
    "mobygames": "136490"
   },
   "label_en": "MediEvil",
@@ -321,6 +331,7 @@
    "gog": "game/88_heroes",
    "howlongtobeat": "44436",
    "igdb": "88-heroes",
+   "metacritic": "88-heroes",
    "mobygames": "86016",
    "pcgamingwiki": "88_Heroes",
    "steam": "487040"
@@ -340,6 +351,7 @@
   "ids": {
    "howlongtobeat": "1530",
    "igdb": "cargo-commander--1",
+   "metacritic": "cargo-commander",
    "mobygames": "70785",
    "pcgamingwiki": "Cargo_Commander",
    "steam": "220460"
@@ -380,6 +392,7 @@
    "gog": "game/gloomhaven",
    "howlongtobeat": "69273",
    "igdb": "gloomhaven",
+   "metacritic": "gloomhaven",
    "mobygames": "130099",
    "pcgamingwiki": "Gloomhaven",
    "steam": "780290"
@@ -395,6 +408,7 @@
   "ids": {
    "howlongtobeat": "105909",
    "igdb": "phantom-breaker-omnia",
+   "metacritic": "phantom-breaker-omnia",
    "mobygames": "182472",
    "pcgamingwiki": "Phantom_Breaker:_Omnia",
    "steam": "1184560"
@@ -489,6 +503,7 @@
    "gog": "game/pepper_grinder",
    "howlongtobeat": "116068",
    "igdb": "pepper-grinder",
+   "metacritic": "pepper-grinder",
    "mobygames": "220690",
    "pcgamingwiki": "Pepper_Grinder",
    "steam": "2076580"
@@ -513,6 +528,7 @@
    "gog": "game/sword_of_the_sea",
    "howlongtobeat": "129238",
    "igdb": "sword-of-the-sea",
+   "metacritic": "sword-of-the-sea",
    "pcgamingwiki": "Sword_of_the_Sea",
    "steam": "2453160"
   },
@@ -741,7 +757,8 @@
  },
  {
   "ids": {
-   "igdb": "dreamers"
+   "igdb": "dreamers",
+   "metacritic": "dreamers"
   },
   "label_en": "Dreamers",
   "wikidata": "Q122946491"

@@ -3,6 +3,7 @@
   "enwiki": "Sonic Battle",
   "ids": {
    "igdb": "sonic-battle",
+   "metacritic": "sonic-battle",
    "mobygames": "11744"
   },
   "label_en": "Sonic Battle",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "3847",
    "igdb": "garry-s-mod",
+   "metacritic": "garrys-mod",
    "mobygames": "36258",
    "pcgamingwiki": "Garry's_Mod",
    "steam": "4000"
@@ -24,6 +26,7 @@
   "enwiki": "Spider-Man: Friend or Foe",
   "ids": {
    "igdb": "spider-man-friend-or-foe",
+   "metacritic": "spider-man-friend-or-foe",
    "mobygames": "30646",
    "pcgamingwiki": "Spider-Man:_Friend_or_Foe"
   },
@@ -35,6 +38,7 @@
   "ids": {
    "gog": "game/supreme_ruler_2010",
    "igdb": "supreme-ruler-2010",
+   "metacritic": "supreme-ruler-2010",
    "mobygames": "20586",
    "pcgamingwiki": "Supreme_Ruler_2010"
   },
@@ -88,6 +92,7 @@
   "enwiki": "Samurai Shodown V",
   "ids": {
    "igdb": "samurai-shodown-v",
+   "metacritic": "samurai-shodown-v",
    "mobygames": "26143",
    "pcgamingwiki": "Samurai_Shodown_V"
   },
@@ -166,6 +171,7 @@
   "ids": {
    "howlongtobeat": "14814",
    "igdb": "lococycle",
+   "metacritic": "lococycle",
    "mobygames": "64865",
    "pcgamingwiki": "LocoCycle",
    "steam": "224040"
@@ -179,6 +185,7 @@
    "gog": "game/long_live_the_queen",
    "howlongtobeat": "5365",
    "igdb": "long-live-the-queen",
+   "metacritic": "long-live-the-queen",
    "mobygames": "62280",
    "pcgamingwiki": "Long_Live_the_Queen",
    "steam": "251990"
@@ -212,6 +219,7 @@
   "enwiki": "The Kore Gang",
   "ids": {
    "igdb": "the-kore-gang",
+   "metacritic": "the-kore-gang",
    "mobygames": "48454"
   },
   "label_en": "The Kore Gang",
@@ -231,6 +239,7 @@
   "enwiki": "Nicktoons: Attack of the Toybots",
   "ids": {
    "igdb": "nicktoons-attack-of-the-toybots",
+   "metacritic": "nicktoons-attack-of-the-toybots",
    "mobygames": "34602"
   },
   "label_en": "Nicktoons: Attack of the Toybots",
@@ -279,6 +288,7 @@
   "ids": {
    "howlongtobeat": "5112",
    "igdb": "knytt-underground",
+   "metacritic": "knytt-underground",
    "mobygames": "64726",
    "pcgamingwiki": "Knytt_Underground",
    "steam": "248190"
@@ -292,6 +302,7 @@
    "gog": "game/the_park",
    "howlongtobeat": "31163",
    "igdb": "the-park",
+   "metacritic": "the-park",
    "mobygames": "77118",
    "pcgamingwiki": "The_Park",
    "steam": "402020"
@@ -305,6 +316,7 @@
    "gog": "game/road_redemption",
    "howlongtobeat": "21481",
    "igdb": "road-redemption",
+   "metacritic": "road-redemption",
    "mobygames": "86455",
    "pcgamingwiki": "Road_Redemption",
    "steam": "300380"
@@ -379,7 +391,8 @@
   "enwiki": "Xenoblade Chronicles 3D",
   "ids": {
    "howlongtobeat": "25578",
-   "igdb": "xenoblade-chronicles-3d"
+   "igdb": "xenoblade-chronicles-3d",
+   "metacritic": "xenoblade-chronicles-3d"
   },
   "label_en": "Xenoblade Chronicles 3D",
   "wikidata": "Q106974923"
@@ -390,6 +403,7 @@
    "gog": "game/industria",
    "howlongtobeat": "97560",
    "igdb": "industria",
+   "metacritic": "industria",
    "mobygames": "173053",
    "pcgamingwiki": "Industria",
    "steam": "1172650"
@@ -413,6 +427,7 @@
   "ids": {
    "howlongtobeat": "105741",
    "igdb": "the-quarry",
+   "metacritic": "the-quarry",
    "mobygames": "185574",
    "pcgamingwiki": "The_Quarry",
    "steam": "1577120"
@@ -465,6 +480,7 @@
   "ids": {
    "howlongtobeat": "68243",
    "igdb": "battlewake",
+   "metacritic": "battlewake",
    "mobygames": "134485",
    "pcgamingwiki": "Battlewake",
    "steam": "814400"
@@ -546,6 +562,7 @@
    "howlongtobeat": "104411",
    "igdb": "miss-neko-2",
    "mobygames": "196394",
+   "pcgamingwiki": "Miss_Neko_2",
    "steam": "1203420"
   },
   "label_en": "Miss Neko 2",
@@ -692,6 +709,7 @@
   "ids": {
    "howlongtobeat": "39261",
    "igdb": "near-death",
+   "metacritic": "near-death",
    "mobygames": "96809",
    "pcgamingwiki": "Near_Death",
    "steam": "327560"

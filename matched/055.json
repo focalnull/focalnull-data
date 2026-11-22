@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10028",
    "igdb": "the-legend-of-zelda-a-link-to-the-past",
+   "metacritic": "the-legend-of-zelda-a-link-to-the-past",
    "mobygames": "6608",
    "pcgamingwiki": "The_Legend_of_Zelda:_A_Link_to_the_Past"
   },
@@ -14,6 +15,7 @@
   "enwiki": "Microsoft Train Simulator",
   "ids": {
    "igdb": "microsoft-train-simulator",
+   "metacritic": "microsoft-train-simulator",
    "mobygames": "4233",
    "pcgamingwiki": "Microsoft_Train_Simulator"
   },
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "2028",
    "igdb": "crimson-skies-high-road-to-revenge",
+   "metacritic": "crimson-skies-high-road-to-revenge",
    "mobygames": "10832",
    "pcgamingwiki": "Crimson_Skies:_High_Road_to_Revenge"
   },
@@ -46,6 +49,7 @@
   "ids": {
    "howlongtobeat": "13493",
    "igdb": "touhou-seirensen-undefined-fantastic-object",
+   "metacritic": "touhou-seirensen-undefined-fantastic-object",
    "mobygames": "71965",
    "pcgamingwiki": "Undefined_Fantastic_Object",
    "steam": "1100160"
@@ -69,6 +73,7 @@
   "ids": {
    "howlongtobeat": "8071",
    "igdb": "saints-row",
+   "metacritic": "saints-row-2006",
    "mobygames": "24088"
   },
   "label_en": "Saints Row",
@@ -91,6 +96,7 @@
    "gog": "game/alan_wakes_american_nightmare",
    "howlongtobeat": "320",
    "igdb": "alan-wake-s-american-nightmare",
+   "metacritic": "alan-wakes-american-nightmare",
    "mobygames": "54877",
    "pcgamingwiki": "Alan_Wake's_American_Nightmare",
    "steam": "202750"
@@ -102,6 +108,7 @@
   "enwiki": "Gothic II: Night of the Raven",
   "ids": {
    "igdb": "gothic-ii-the-night-of-the-raven--1",
+   "metacritic": "gothic-ii-night-of-the-raven",
    "mobygames": "10656"
   },
   "label_en": "Gothic II: Night of the Raven",
@@ -111,6 +118,7 @@
   "enwiki": "Pariah (video game)",
   "ids": {
    "igdb": "pariah",
+   "metacritic": "pariah",
    "mobygames": "17642",
    "pcgamingwiki": "Pariah"
   },
@@ -121,6 +129,7 @@
   "enwiki": "PixelJunk Racers",
   "ids": {
    "igdb": "pixeljunk-racers",
+   "metacritic": "pixeljunk-racers",
    "mobygames": "69531"
   },
   "label_en": "PixelJunk Racers",
@@ -130,6 +139,7 @@
   "enwiki": "Outlive",
   "ids": {
    "igdb": "outlive",
+   "metacritic": "outlive-2001",
    "mobygames": "4352"
   },
   "label_en": "Outlive",
@@ -168,6 +178,7 @@
   "ids": {
    "howlongtobeat": "1420",
    "igdb": "bust-a-move-ds",
+   "metacritic": "bust-a-move-ds",
    "mobygames": "32833"
   },
   "label_en": "Bust-a-Move DS",
@@ -178,6 +189,7 @@
   "ids": {
    "howlongtobeat": "1637",
    "igdb": "champions-return-to-arms",
+   "metacritic": "champions-return-to-arms",
    "mobygames": "16615"
   },
   "label_en": "Champions: Return to Arms",
@@ -214,6 +226,7 @@
   "enwiki": "Regular Show: Mordecai and Rigby in 8-Bit Land",
   "ids": {
    "igdb": "regular-show-mordecai-and-rigby-in-8-bit-land",
+   "metacritic": "regular-show-mordecai-and-rigby-in-8-bit-land",
    "mobygames": "91731"
   },
   "label_en": "Regular Show: Mordecai and Rigby in 8-Bit Land",
@@ -250,6 +263,7 @@
    "gog": "game/shadow_warrior_2",
    "howlongtobeat": "39740",
    "igdb": "shadow-warrior-2",
+   "metacritic": "shadow-warrior-2",
    "mobygames": "81110",
    "pcgamingwiki": "Shadow_Warrior_2",
    "steam": "324800"
@@ -280,6 +294,7 @@
   "enwiki": "Snipperclips",
   "ids": {
    "igdb": "snipperclips-cut-it-out-together",
+   "metacritic": "snipperclips-cut-it-out-together",
    "mobygames": "84693"
   },
   "label_en": "Snipperclips",
@@ -317,7 +332,8 @@
   "ids": {
    "howlongtobeat": "58582",
    "igdb": "alien-odyssey",
-   "mobygames": "3641"
+   "mobygames": "3641",
+   "pcgamingwiki": "Alien_Odyssey"
   },
   "label_en": "Alien Odyssey",
   "wikidata": "Q103820055"
@@ -338,6 +354,7 @@
    "gog": "game/summer_in_mara",
    "howlongtobeat": "75993",
    "igdb": "summer-in-mara",
+   "metacritic": "summer-in-mara",
    "mobygames": "142485",
    "pcgamingwiki": "Summer_in_Mara",
    "steam": "962580"
@@ -395,6 +412,7 @@
   "ids": {
    "howlongtobeat": "64955",
    "igdb": "ihra-drag-racing-2004",
+   "metacritic": "ihra-drag-racing-2004",
    "mobygames": "14401"
   },
   "label_en": "IHRA Drag Racing 2004",

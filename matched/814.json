@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "23075",
    "igdb": "asphalt-5",
+   "metacritic": "asphalt-5",
    "mobygames": "50355"
   },
   "label_en": "Asphalt 5",
@@ -13,6 +14,7 @@
   "enwiki": "Record of Lodoss War: Advent of Cardice",
   "ids": {
    "igdb": "record-of-lodoss-war--1",
+   "metacritic": "record-of-lodoss-war",
    "mobygames": "4927"
   },
   "label_en": "Record of Lodoss War: Advent of Cardice",
@@ -51,6 +53,7 @@
   "ids": {
    "howlongtobeat": "3559",
    "igdb": "fire-emblem-path-of-radiance",
+   "metacritic": "fire-emblem-path-of-radiance",
    "mobygames": "18694"
   },
   "label_en": "Fire Emblem: Path of Radiance",
@@ -69,6 +72,7 @@
   "ids": {
    "howlongtobeat": "5401",
    "igdb": "lostwinds-winter-of-the-melodias",
+   "metacritic": "lostwinds2-winter-of-the-melodias",
    "mobygames": "44194",
    "pcgamingwiki": "LostWinds_2:_Winter_of_the_Melodias",
    "steam": "447800"
@@ -82,6 +86,7 @@
    "gog": "game/star_wolves",
    "howlongtobeat": "9145",
    "igdb": "star-wolves",
+   "metacritic": "star-wolves",
    "mobygames": "17957",
    "pcgamingwiki": "Star_Wolves",
    "steam": "46270"
@@ -188,6 +193,7 @@
   "enwiki": "Ultimate Brain Games",
   "ids": {
    "igdb": "ultimate-brain-games",
+   "metacritic": "ultimate-brain-games",
    "mobygames": "12523"
   },
   "label_en": "Ultimate Brain Games",
@@ -207,6 +213,7 @@
   "ids": {
    "howlongtobeat": "16639",
    "igdb": "evolve",
+   "metacritic": "evolve",
    "mobygames": "71064",
    "pcgamingwiki": "Evolve_Stage_2",
    "steam": "273350"
@@ -283,6 +290,7 @@
   "ids": {
    "howlongtobeat": "103825",
    "igdb": "xenoblade-chronicles-3",
+   "metacritic": "xenoblade-chronicles-3",
    "mobygames": "188601"
   },
   "label_en": "Xenoblade Chronicles 3",
@@ -645,6 +653,7 @@
   "ids": {
    "howlongtobeat": "135088",
    "igdb": "solium-infernum",
+   "metacritic": "solium-infernum",
    "mobygames": "218151",
    "steam": "1893810"
   },
@@ -806,6 +815,7 @@
   "ids": {
    "howlongtobeat": "169273",
    "igdb": "into-the-unwell",
+   "metacritic": "into-the-unwell",
    "pcgamingwiki": "Into_The_Unwell",
    "steam": "2024600"
   },
@@ -1096,6 +1106,7 @@
  {
   "ids": {
    "igdb": "let-it-die-inferno",
+   "metacritic": "let-it-die-inferno",
    "steam": "2576150"
   },
   "label_en": "Let It Die: Inferno",

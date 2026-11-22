@@ -25,6 +25,7 @@
   "enwiki": "Pokémon Battle Revolution",
   "ids": {
    "igdb": "pokemon-battle-revolution",
+   "metacritic": "pokemon-battle-revolution",
    "mobygames": "32347"
   },
   "label_en": "Pokémon Battle Revolution",
@@ -110,7 +111,8 @@
  {
   "enwiki": "TiQal",
   "ids": {
-   "igdb": "tiqal"
+   "igdb": "tiqal",
+   "metacritic": "tiqal"
   },
   "label_en": "TiQal",
   "wikidata": "Q7799972"
@@ -119,6 +121,7 @@
   "enwiki": "Tornado (2008 video game)",
   "ids": {
    "igdb": "tornado--4",
+   "metacritic": "tornado",
    "mobygames": "85429"
   },
   "label_en": "Tornado",
@@ -150,6 +153,7 @@
   "enwiki": "Home Run King",
   "ids": {
    "igdb": "home-run-king",
+   "metacritic": "home-run-king",
    "mobygames": "76278"
   },
   "label_en": "Home Run King",
@@ -160,6 +164,7 @@
   "ids": {
    "howlongtobeat": "366",
    "igdb": "alien-spidy",
+   "metacritic": "alien-spidy",
    "mobygames": "62396",
    "pcgamingwiki": "Alien_Spidy",
    "steam": "207000"
@@ -189,6 +194,7 @@
   "ids": {
    "howlongtobeat": "46286",
    "igdb": "empathy-path-of-whispers",
+   "metacritic": "empathy-path-of-whispers",
    "mobygames": "89055",
    "pcgamingwiki": "Empathy:_Path_of_Whispers",
    "steam": "291690"
@@ -220,6 +226,7 @@
   "ids": {
    "howlongtobeat": "70960",
    "igdb": "microsoft-flight-simulator",
+   "metacritic": "microsoft-flight-simulator",
    "mobygames": "149407",
    "pcgamingwiki": "Microsoft_Flight_Simulator_(2020)",
    "steam": "1250410"
@@ -231,6 +238,7 @@
   "ids": {
    "howlongtobeat": "21689",
    "igdb": "gunscape",
+   "metacritic": "gunscape",
    "mobygames": "86958",
    "pcgamingwiki": "Gunscape",
    "steam": "342480"
@@ -251,6 +259,7 @@
   "ids": {
    "howlongtobeat": "87587",
    "igdb": "dyson-sphere-program",
+   "metacritic": "dyson-sphere-program",
    "mobygames": "157792",
    "pcgamingwiki": "Dyson_Sphere_Program",
    "steam": "1366540"
@@ -307,6 +316,7 @@
   "ids": {
    "gog": "game/goal_the_club_manager",
    "igdb": "goal-the-club-manager",
+   "metacritic": "goal-the-club-manager",
    "mobygames": "194433",
    "steam": "1252000"
   },
@@ -592,6 +602,7 @@
    "gog": "game/mars_base",
    "howlongtobeat": "117053",
    "igdb": "mars-base",
+   "metacritic": "mars-base",
    "mobygames": "192198",
    "steam": "1687590"
   },
@@ -660,6 +671,7 @@
   "ids": {
    "howlongtobeat": "20133",
    "igdb": "freaking-meatbags",
+   "metacritic": "freaking-meatbags",
    "mobygames": "100247",
    "pcgamingwiki": "Freaking_Meatbags",
    "steam": "297060"
@@ -748,6 +760,7 @@
  {
   "ids": {
    "igdb": "natsuno-kanata-beyond-the-summer",
+   "metacritic": "natsuno-kanata-beyond-summer",
    "steam": "2597260"
   },
   "label_en": "Natsuno-Kanata: Beyond Summer",
@@ -1046,6 +1059,7 @@
   "ids": {
    "howlongtobeat": "71883",
    "igdb": "crappy-tube",
+   "pcgamingwiki": "Crappy_Tube",
    "steam": "970970"
   },
   "label_en": "Crappy Tube",

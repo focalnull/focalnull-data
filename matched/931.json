@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "6474",
    "igdb": "need-for-speed-hot-pursuit",
+   "metacritic": "need-for-speed-hot-pursuit",
    "mobygames": "49216",
    "pcgamingwiki": "Need_for_Speed:_Hot_Pursuit",
    "steam": "47870"
@@ -25,6 +26,7 @@
   "ids": {
    "gog": "game/rayman_3_hoodlum_havoc",
    "igdb": "rayman-3-hoodlum-havoc",
+   "metacritic": "rayman-3-hoodlum-havoc",
    "mobygames": "8681",
    "pcgamingwiki": "Rayman_3:_Hoodlum_Havoc"
   },
@@ -39,6 +41,7 @@
   "enwiki": "WWE Day of Reckoning",
   "ids": {
    "igdb": "wwe-day-of-reckoning",
+   "metacritic": "wwe-day-of-reckoning",
    "mobygames": "15039"
   },
   "label_en": "WWE Day of Reckoning",
@@ -80,6 +83,7 @@
   "ids": {
    "howlongtobeat": "10342",
    "igdb": "time-crisis-3",
+   "metacritic": "time-crisis-3",
    "mobygames": "10752"
   },
   "label_en": "Time Crisis 3",
@@ -98,6 +102,7 @@
   "enwiki": "Rampage: Total Destruction",
   "ids": {
    "igdb": "rampage-total-destruction",
+   "metacritic": "rampage-total-destruction",
    "mobygames": "23175"
   },
   "label_en": "Rampage: Total Destruction",
@@ -126,6 +131,7 @@
   "ids": {
    "howlongtobeat": "975",
    "igdb": "beat-down-fists-of-vengeance",
+   "metacritic": "beat-down-fists-of-vengeance",
    "mobygames": "30649"
   },
   "label_en": "Beat Down: Fists of Vengeance",
@@ -136,6 +142,7 @@
   "ids": {
    "howlongtobeat": "2102",
    "igdb": "culdcept-saga",
+   "metacritic": "culdcept-saga",
    "mobygames": "33669"
   },
   "label_en": "Culdcept Saga",
@@ -145,6 +152,7 @@
   "enwiki": "Law & Order: Justice Is Served",
   "ids": {
    "igdb": "law-and-order-justice-is-served",
+   "metacritic": "law-and-order-justice-is-served",
    "mobygames": "17385"
   },
   "label_en": "Law & Order: Justice Is Served",
@@ -165,6 +173,7 @@
    "gog": "game/demonicon",
    "howlongtobeat": "14780",
    "igdb": "the-dark-eye-demonicon",
+   "metacritic": "the-dark-eye-demonicon",
    "mobygames": "65431",
    "pcgamingwiki": "Demonicon",
    "steam": "215630"
@@ -195,6 +204,7 @@
   "ids": {
    "howlongtobeat": "15882",
    "igdb": "wolf-of-the-battlefield-commando-3",
+   "metacritic": "wolf-of-the-battlefield-commando-3",
    "mobygames": "35166"
   },
   "label_en": "Wolf of the Battlefield: Commando 3",
@@ -215,6 +225,7 @@
   "enwiki": "Kingdom Hearts HD 2.5 Remix",
   "ids": {
    "igdb": "kingdom-hearts-hd-2-dot-5-remix",
+   "metacritic": "kingdom-hearts-hd-25-remix",
    "mobygames": "69876"
   },
   "label_en": "Kingdom Hearts HD 2.5 Remix",
@@ -248,6 +259,7 @@
   "ids": {
    "howlongtobeat": "55502",
    "igdb": "angry-birds-transformers",
+   "metacritic": "angry-birds-transformers",
    "mobygames": "125572"
   },
   "label_en": "Angry Birds Transformers",
@@ -309,6 +321,7 @@
  {
   "ids": {
    "igdb": "powerless--1",
+   "metacritic": "powerless-narratio",
    "mobygames": "156370",
    "pcgamingwiki": "Powerless_(Narratio)",
    "steam": "984150"
@@ -323,6 +336,7 @@
    "gog": "game/mutazione",
    "howlongtobeat": "70711",
    "igdb": "mutazione",
+   "metacritic": "mutazione",
    "mobygames": "134896",
    "pcgamingwiki": "Mutazione",
    "steam": "1080750"
@@ -725,6 +739,7 @@
   "ids": {
    "howlongtobeat": "7078",
    "igdb": "pitiri-1977",
+   "metacritic": "pitiri-1977",
    "mobygames": "134309",
    "pcgamingwiki": "Pitiri_1977",
    "steam": "305740"
@@ -819,6 +834,7 @@
   "ids": {
    "howlongtobeat": "41318",
    "igdb": "tethered",
+   "metacritic": "tethered",
    "mobygames": "84409",
    "pcgamingwiki": "Tethered",
    "steam": "431120"
@@ -861,6 +877,7 @@
   "ids": {
    "howlongtobeat": "151245",
    "igdb": "call-of-duty-black-ops-6",
+   "metacritic": "call-of-duty-black-ops-6",
    "mobygames": "232763",
    "pcgamingwiki": "Call_of_Duty:_Black_Ops_6",
    "steam": "2933620"
@@ -909,6 +926,7 @@
  {
   "ids": {
    "igdb": "paparazzi",
+   "metacritic": "paparazzi",
    "mobygames": "86779",
    "pcgamingwiki": "Paparazzi",
    "steam": "341360"
@@ -946,6 +964,7 @@
    "gog": "game/heavenly_heroes_of_antidomi",
    "howlongtobeat": "127758",
    "igdb": "heavenly-heroes-of-antidomi",
+   "metacritic": "heavenly-heroes-of-antidomi",
    "mobygames": "200270"
   },
   "label_en": "Heavenly Heroes of Antidomi",
@@ -1257,6 +1276,7 @@
  {
   "ids": {
    "howlongtobeat": "28875",
+   "metacritic": "rapala-pro-bass-fishing-2010",
    "mobygames": "145156"
   },
   "label_en": "Rapala Pro Bass Fishing",

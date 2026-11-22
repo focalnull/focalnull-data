@@ -5,6 +5,7 @@
    "gog": "game/wolfenstein_enemy_territory",
    "howlongtobeat": "11253",
    "igdb": "wolfenstein-enemy-territory",
+   "metacritic": "return-to-castle-wolfenstein-enemy-territory",
    "mobygames": "9354",
    "pcgamingwiki": "Wolfenstein:_Enemy_Territory",
    "steam": "1873030"
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "5654",
    "igdb": "mario-strikers-charged",
+   "metacritic": "mario-strikers-charged",
    "mobygames": "29116"
   },
   "label_en": "Mario Strikers Charged",
@@ -57,6 +59,7 @@
   "enwiki": "JoJo's Bizarre Adventure (video game)",
   "ids": {
    "igdb": "jojos-bizarre-adventure--2",
+   "metacritic": "jojos-bizarre-adventure-hd-ver",
    "mobygames": "3716"
   },
   "label_en": "JoJo's Bizarre Adventure",
@@ -77,6 +80,7 @@
    "gog": "game/turok_2_seeds_of_evil",
    "howlongtobeat": "10705",
    "igdb": "turok-2-seeds-of-evil",
+   "metacritic": "turok-2-seeds-of-evil",
    "mobygames": "2204",
    "pcgamingwiki": "Turok_2:_Seeds_of_Evil",
    "steam": "405830"
@@ -109,6 +113,7 @@
    "gog": "game/codename_panzers_cold_war",
    "howlongtobeat": "17615",
    "igdb": "codename-panzers-cold-war",
+   "metacritic": "codename-panzers-cold-war",
    "mobygames": "39750",
    "pcgamingwiki": "Codename:_Panzers_-_Cold_War",
    "steam": "9850"
@@ -121,6 +126,7 @@
   "ids": {
    "howlongtobeat": "23877",
    "igdb": "vendetta-curse-of-ravens-cry",
+   "metacritic": "ravens-cry",
    "mobygames": "72173",
    "steam": "281130"
   },
@@ -183,7 +189,8 @@
  {
   "enwiki": "What Did I Do to Deserve This, My Lord? 2",
   "ids": {
-   "igdb": "what-did-i-do-to-deserve-this-my-lord-2"
+   "igdb": "what-did-i-do-to-deserve-this-my-lord-2",
+   "metacritic": "what-did-i-do-to-deserve-this-my-lord-2"
   },
   "label_en": "What Did I Do To Deserve This, My Lord? 2",
   "wikidata": "Q7991037"
@@ -220,6 +227,9 @@
   "wikidata": "Q12060037"
  },
  {
+  "ids": {
+   "metacritic": "godzilla-unleashed-double-smash"
+  },
   "label_en": "Godzilla Unleashed: Double Smash",
   "wikidata": "Q14906037"
  },
@@ -257,6 +267,7 @@
    "gog": "game/the_church_in_the_darkness",
    "howlongtobeat": "40792",
    "igdb": "the-church-in-the-darkness",
+   "metacritic": "the-church-in-the-darkness",
    "mobygames": "131393",
    "pcgamingwiki": "The_Church_in_the_Darkness",
    "steam": "339830"
@@ -290,6 +301,7 @@
   "ids": {
    "howlongtobeat": "62139",
    "igdb": "the-quiet-man",
+   "metacritic": "the-quiet-man",
    "mobygames": "115793",
    "pcgamingwiki": "The_Quiet_Man",
    "steam": "790540"
@@ -301,6 +313,7 @@
   "ids": {
    "howlongtobeat": "28026",
    "igdb": "tokyo-school-life",
+   "metacritic": "tokyo-school-life",
    "mobygames": "91771",
    "pcgamingwiki": "Tokyo_School_Life",
    "steam": "320760"
@@ -325,6 +338,7 @@
    "epic": "deathloop",
    "howlongtobeat": "68258",
    "igdb": "deathloop",
+   "metacritic": "deathloop",
    "mobygames": "172205",
    "pcgamingwiki": "Deathloop",
    "steam": "1252330"
@@ -375,6 +389,7 @@
   "ids": {
    "howlongtobeat": "75015",
    "igdb": "wide-ocean-big-jacket",
+   "metacritic": "wide-ocean-big-jacket",
    "mobygames": "141537",
    "pcgamingwiki": "Wide_Ocean_Big_Jacket",
    "steam": "1198040"
@@ -407,6 +422,7 @@
   "ids": {
    "howlongtobeat": "36908",
    "igdb": "pazuru",
+   "metacritic": "pazuru",
    "mobygames": "91242"
   },
   "label_en": "Pazuru",
@@ -447,7 +463,8 @@
  {
   "enwiki": "Samba de Amigo: Party Central",
   "ids": {
-   "igdb": "samba-de-amigo-party-central"
+   "igdb": "samba-de-amigo-party-central",
+   "metacritic": "samba-de-amigo-party-central"
   },
   "label_en": "Samba de Amigo: Party Central",
   "wikidata": "Q116734037"
@@ -1145,6 +1162,7 @@
  {
   "ids": {
    "igdb": "block-story",
+   "pcgamingwiki": "Block_Story",
    "steam": "270110"
   },
   "label_en": "Block Story™",
@@ -1160,6 +1178,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Northgard_Battlegrounds",
    "steam": "4487060"
   },
   "label_en": "Northgard Battlegrounds",

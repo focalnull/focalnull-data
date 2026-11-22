@@ -6,6 +6,7 @@
    "gog": "game/legor_batman_2_dc_super_heroes",
    "howlongtobeat": "5244",
    "igdb": "lego-batman-2-dc-super-heroes",
+   "metacritic": "lego-batman-2-dc-super-heroes",
    "mobygames": "56926",
    "pcgamingwiki": "Lego_Batman_2:_DC_Super_Heroes",
    "steam": "213330"
@@ -18,6 +19,7 @@
   "ids": {
    "howlongtobeat": "5037",
    "igdb": "kingdom-hearts",
+   "metacritic": "kingdom-hearts",
    "mobygames": "7341"
   },
   "label_en": "Kingdom Hearts",
@@ -40,6 +42,7 @@
   "ids": {
    "howlongtobeat": "7147",
    "igdb": "pokemon-dash",
+   "metacritic": "pokemon-dash",
    "mobygames": "24898"
   },
   "label_en": "Pokémon Dash",
@@ -49,7 +52,8 @@
   "enwiki": "Face Raiders",
   "ids": {
    "howlongtobeat": "3320",
-   "igdb": "face-raiders"
+   "igdb": "face-raiders",
+   "metacritic": "face-raiders"
   },
   "label_en": "Face Raiders",
   "wikidata": "Q1835912"
@@ -65,6 +69,7 @@
   "enwiki": "Puzzle Bobble 4",
   "ids": {
    "igdb": "bust-a-move-4",
+   "metacritic": "bust-a-move-4",
    "mobygames": "3195",
    "pcgamingwiki": "Puzzle_Bobble_4"
   },
@@ -79,6 +84,7 @@
   "enwiki": "Pokémon Box: Ruby and Sapphire",
   "ids": {
    "igdb": "pokemon-box-ruby-and-sapphire--1",
+   "metacritic": "pokemon-box-ruby-and-sapphire",
    "mobygames": "15746"
   },
   "label_en": "Pokémon Box: Ruby & Sapphire",
@@ -92,6 +98,7 @@
   "enwiki": "Magical Drop III",
   "ids": {
    "igdb": "magical-drop-iii",
+   "metacritic": "magical-drop-iii",
    "mobygames": "27182",
    "pcgamingwiki": "Magical_Drop_III"
   },
@@ -111,6 +118,7 @@
   "ids": {
    "howlongtobeat": "58016",
    "igdb": "dracu-riot",
+   "metacritic": "dracu-riot",
    "mobygames": "256045",
    "steam": "1340140"
   },
@@ -121,6 +129,7 @@
   "enwiki": "Dillon's Rolling Western",
   "ids": {
    "igdb": "dillons-rolling-western",
+   "metacritic": "dillons-rolling-western",
    "mobygames": "55382"
   },
   "label_en": "Dillon's Rolling Western",
@@ -165,6 +174,7 @@
   "enwiki": "NCAA College Basketball 2K3",
   "ids": {
    "igdb": "ncaa-college-basketball-2k3",
+   "metacritic": "ncaa-college-basketball-2k3",
    "mobygames": "15528"
   },
   "label_en": "NCAA College Basketball 2K3",
@@ -257,6 +267,7 @@
   "enwiki": "Fast Racing League",
   "ids": {
    "igdb": "fast-racing-league",
+   "metacritic": "fast-racing-league",
    "mobygames": "91058"
   },
   "label_en": "Fast Racing League",
@@ -269,6 +280,7 @@
    "gog": "game/the_walking_dead_michonne_a_telltale_miniseries",
    "howlongtobeat": "33662",
    "igdb": "the-walking-dead-michonne",
+   "metacritic": "the-walking-dead-michonne-a-telltale-miniseries",
    "mobygames": "77386",
    "pcgamingwiki": "The_Walking_Dead:_Michonne",
    "steam": "429570"
@@ -282,6 +294,7 @@
    "gog": "game/the_count_lucanor",
    "howlongtobeat": "35895",
    "igdb": "the-count-lucanor",
+   "metacritic": "the-count-lucanor",
    "mobygames": "78342",
    "pcgamingwiki": "The_Count_Lucanor",
    "steam": "440880"
@@ -294,6 +307,7 @@
   "ids": {
    "howlongtobeat": "60742",
    "igdb": "left-alive",
+   "metacritic": "left-alive",
    "mobygames": "113595",
    "pcgamingwiki": "Left_Alive",
    "steam": "714370"
@@ -337,6 +351,7 @@
   "ids": {
    "howlongtobeat": "101413",
    "igdb": "monster-rancher-1-and-2-dx",
+   "metacritic": "monster-rancher-1-and-2-dx",
    "mobygames": "176317",
    "pcgamingwiki": "Monster_Rancher_1_&_2_DX",
    "steam": "1716120"
@@ -364,6 +379,7 @@
  {
   "ids": {
    "igdb": "timings",
+   "metacritic": "timings",
    "mobygames": "189376",
    "steam": "1853720"
   },
@@ -472,6 +488,7 @@
    "gog": "game/comanche",
    "howlongtobeat": "72601",
    "igdb": "comanche",
+   "metacritic": "comanche",
    "mobygames": "143421",
    "pcgamingwiki": "Comanche",
    "steam": "879000"
@@ -1214,6 +1231,7 @@
   "ids": {
    "howlongtobeat": "102194",
    "igdb": "lover-pretend",
+   "metacritic": "lover-pretend",
    "mobygames": "208027"
   },
   "label_en": "Lover Pretend",

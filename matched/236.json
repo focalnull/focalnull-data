@@ -23,6 +23,7 @@
   "enwiki": "Dead or Alive (video game)",
   "ids": {
    "igdb": "dead-or-alive",
+   "metacritic": "dead-or-alive",
    "mobygames": "3659"
   },
   "label_en": "Dead or Alive",
@@ -65,6 +66,7 @@
   "enwiki": "Super Monkey Ball: Step & Roll",
   "ids": {
    "igdb": "super-monkey-ball-step-roll",
+   "metacritic": "super-monkey-ball-step-and-roll",
    "mobygames": "56572"
   },
   "label_en": "Super Monkey Ball: Step & Roll",
@@ -75,6 +77,7 @@
   "ids": {
    "howlongtobeat": "6362",
    "igdb": "nancy-drew-secret-of-the-scarlet-hand",
+   "metacritic": "nancy-drew-secret-of-the-scarlet-hand",
    "mobygames": "7103",
    "pcgamingwiki": "Nancy_Drew:_Secret_of_the_Scarlet_Hand",
    "steam": "31890"
@@ -98,6 +101,7 @@
   "enwiki": "ESPN College Hoops",
   "ids": {
    "igdb": "espn-college-hoops",
+   "metacritic": "espn-college-hoops",
    "mobygames": "76707"
   },
   "label_en": "ESPN College Hoops",
@@ -125,6 +129,7 @@
   "enwiki": "King of Fighters R-2",
   "ids": {
    "igdb": "king-of-fighters-r-2",
+   "metacritic": "king-of-fighters-r-2",
    "mobygames": "20139"
   },
   "label_en": "King of Fighters R-2",
@@ -151,7 +156,8 @@
  {
   "enwiki": "SimRefinery",
   "ids": {
-   "igdb": "simrefinery"
+   "igdb": "simrefinery",
+   "metacritic": "simrefinery"
   },
   "label_en": "SimRefinery",
   "wikidata": "Q7517236"
@@ -233,6 +239,7 @@
    "gog": "game/scourgebringer",
    "howlongtobeat": "68579",
    "igdb": "scourgebringer",
+   "metacritic": "scourgebringer",
    "mobygames": "124336",
    "pcgamingwiki": "ScourgeBringer",
    "steam": "1037020"
@@ -271,6 +278,7 @@
    "gog": "game/syberia_the_world_before",
    "howlongtobeat": "83890",
    "igdb": "syberia-the-world-before",
+   "metacritic": "syberia-the-world-before",
    "mobygames": "181478",
    "pcgamingwiki": "Syberia:_The_World_Before",
    "steam": "1410640"
@@ -290,6 +298,7 @@
   "ids": {
    "howlongtobeat": "38843",
    "igdb": "bohemian-killing",
+   "metacritic": "bohemian-killing",
    "mobygames": "111329",
    "pcgamingwiki": "Bohemian_Killing",
    "steam": "492220"
@@ -303,6 +312,7 @@
    "epic": "jurassic-world-evolution-2",
    "howlongtobeat": "93485",
    "igdb": "jurassic-world-evolution-2",
+   "metacritic": "jurassic-world-evolution-2",
    "mobygames": "174876",
    "pcgamingwiki": "Jurassic_World_Evolution_2",
    "steam": "1244460"
@@ -323,6 +333,7 @@
    "gog": "game/oddworld_strangers_wrath",
    "howlongtobeat": "31926",
    "igdb": "oddworld-strangers-wrath-hd",
+   "metacritic": "oddworld-strangers-wrath-hd",
    "mobygames": "57800",
    "pcgamingwiki": "Oddworld:_Stranger's_Wrath_HD",
    "steam": "15750"
@@ -700,6 +711,7 @@
   "ids": {
    "howlongtobeat": "113997",
    "igdb": "draconia",
+   "metacritic": "draconia",
    "mobygames": "220030",
    "steam": "1295900"
   },
@@ -755,7 +767,8 @@
  },
  {
   "ids": {
-   "igdb": "alien-dominion-the-acronian-encounter"
+   "igdb": "alien-dominion-the-acronian-encounter",
+   "metacritic": "alien-dominion-the-acronian-encounter"
   },
   "label_en": "Alien Dominion: The Acronian Encounter",
   "wikidata": "Q132205236"
@@ -1083,6 +1096,7 @@
   "ids": {
    "igdb": "mighty-switch-force-collection",
    "mobygames": "130490",
+   "pcgamingwiki": "Mighty_Switch_Force!_Collection",
    "steam": "832320"
   },
   "label_en": "Mighty Switch Force! Collection",

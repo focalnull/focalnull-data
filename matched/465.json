@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2087",
    "igdb": "csi-miami",
+   "metacritic": "csi-miami",
    "mobygames": "15603",
    "pcgamingwiki": "CSI:_Miami"
   },
@@ -14,6 +15,7 @@
   "enwiki": "Global Operations",
   "ids": {
    "igdb": "global-operations",
+   "metacritic": "global-operations",
    "mobygames": "6093",
    "pcgamingwiki": "Global_Operations"
   },
@@ -53,6 +55,7 @@
   "ids": {
    "howlongtobeat": "1433",
    "igdb": "buzz-quiz-world",
+   "metacritic": "buzz-quiz-world",
    "mobygames": "45473"
   },
   "label_en": "Buzz!: Quiz World",
@@ -62,6 +65,7 @@
   "enwiki": "SBK-09: Superbike World Championship",
   "ids": {
    "igdb": "sbk-09-superbike-world-championship--1",
+   "metacritic": "sbk-09-superbike-world-championship",
    "mobygames": "46549",
    "pcgamingwiki": "SBK-09:_Superbike_World_Championship"
   },
@@ -147,6 +151,7 @@
   "enwiki": "RPG Maker (video game)",
   "ids": {
    "igdb": "rpg-maker",
+   "metacritic": "rpg-maker",
    "mobygames": "8478"
   },
   "label_en": "RPG Maker",
@@ -164,6 +169,7 @@
   "enwiki": "Tank Beat",
   "ids": {
    "igdb": "tank-beat",
+   "metacritic": "tank-beat",
    "mobygames": "133790"
   },
   "label_en": "Tank Beat",
@@ -185,6 +191,7 @@
   "enwiki": "Kokuga",
   "ids": {
    "igdb": "kokuga",
+   "metacritic": "kokuga",
    "mobygames": "61731"
   },
   "label_en": "Kokuga",
@@ -211,6 +218,7 @@
   "ids": {
    "howlongtobeat": "23050",
    "igdb": "gang-beasts",
+   "metacritic": "gang-beasts",
    "mobygames": "84805",
    "pcgamingwiki": "Gang_Beasts",
    "steam": "285900"
@@ -236,6 +244,7 @@
   "ids": {
    "howlongtobeat": "17356",
    "igdb": "gender-bender-dna-twister-extreme",
+   "metacritic": "gender-bender-dna-twister-extreme",
    "pcgamingwiki": "Gender_Bender_DNA_Twister_Extreme",
    "steam": "321060"
   },
@@ -245,6 +254,7 @@
  {
   "ids": {
    "igdb": "the-donnerwald-experiment",
+   "metacritic": "the-donnerwald-experiment",
    "pcgamingwiki": "The_Donnerwald_Experiment",
    "steam": "705770"
   },
@@ -267,6 +277,7 @@
   "ids": {
    "howlongtobeat": "61321",
    "igdb": "earth-defense-force-iron-rain",
+   "metacritic": "earth-defense-force-iron-rain",
    "mobygames": "125181",
    "pcgamingwiki": "Earth_Defense_Force:_Iron_Rain",
    "steam": "1039890"
@@ -289,6 +300,7 @@
   "ids": {
    "howlongtobeat": "45580",
    "igdb": "super-rude-bear-resurrection",
+   "metacritic": "super-rude-bear-resurrection",
    "mobygames": "87889",
    "pcgamingwiki": "Super_Rude_Bear_Resurrection",
    "steam": "384250"
@@ -302,6 +314,7 @@
    "gog": "game/the_flower_collectors",
    "howlongtobeat": "77545",
    "igdb": "the-flower-collectors",
+   "metacritic": "the-flower-collectors",
    "mobygames": "144744",
    "pcgamingwiki": "The_Flower_Collectors",
    "steam": "1034750"
@@ -321,6 +334,7 @@
   "ids": {
    "howlongtobeat": "97616",
    "igdb": "young-souls",
+   "metacritic": "young-souls",
    "mobygames": "169510",
    "pcgamingwiki": "Young_Souls",
    "steam": "985900"
@@ -354,6 +368,7 @@
   "ids": {
    "howlongtobeat": "79253",
    "igdb": "i-have-low-stats-but-my-class-is-leader-so-i-recruited-everyone-i-know-to-fight-the-dark-lord",
+   "metacritic": "i-have-low-stats-but-my-class-is-leader-so-i-recruited-everyone-i-know-to-fight-the-dark-lord",
    "mobygames": "136600",
    "pcgamingwiki": "I_Have_Low_Stats_But_My_Class_Is_'Leader',_So_I_Recruited_Everyone_I_Know_To_Fight_The_Dark_Lord",
    "steam": "1176040"
@@ -388,6 +403,7 @@
    "epic": "qube-10th-anniversary-59e999",
    "howlongtobeat": "113711",
    "igdb": "qube-10th-anniversary",
+   "metacritic": "qube-10th-anniversary",
    "mobygames": "191757",
    "pcgamingwiki": "Q.U.B.E._10th_Anniversary",
    "steam": "1564220"
@@ -477,6 +493,7 @@
  {
   "ids": {
    "igdb": "eidolon--1",
+   "metacritic": "eidolon",
    "mobygames": "199343",
    "steam": "1157090"
   },
@@ -702,6 +719,7 @@
    "gog": "game/torn_away",
    "howlongtobeat": "138459",
    "igdb": "torn-away",
+   "metacritic": "torn-away",
    "mobygames": "209606",
    "pcgamingwiki": "Torn_Away",
    "steam": "1568970"

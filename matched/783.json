@@ -16,6 +16,7 @@
    "gog": "game/postal_classic_and_uncut",
    "howlongtobeat": "7239",
    "igdb": "postal",
+   "metacritic": "postal",
    "mobygames": "2924",
    "pcgamingwiki": "Postal",
    "steam": "232770"
@@ -28,6 +29,7 @@
   "ids": {
    "howlongtobeat": "10818",
    "igdb": "universe-at-war-earth-assault",
+   "metacritic": "universe-at-war-earth-assault",
    "mobygames": "32335",
    "pcgamingwiki": "Universe_at_War:_Earth_Assault",
    "steam": "10430"
@@ -40,6 +42,7 @@
   "ids": {
    "howlongtobeat": "1064",
    "igdb": "bionicle-the-game",
+   "metacritic": "bionicle",
    "mobygames": "11487",
    "pcgamingwiki": "Bionicle:_The_Game"
   },
@@ -62,6 +65,7 @@
    "howlongtobeat": "715",
    "igdb": "attack-of-the-mutant-penguins",
    "mobygames": "1281",
+   "pcgamingwiki": "Attack_of_the_Mutant_Penguins",
    "steam": "1539090"
   },
   "label_en": "Attack of the Mutant Penguins",
@@ -91,6 +95,7 @@
   "ids": {
    "howlongtobeat": "2537",
    "igdb": "digimon-digital-card-battle",
+   "metacritic": "digimon-digital-card-battle",
    "mobygames": "17885"
   },
   "label_en": "Digimon Digital Card Battle",
@@ -140,6 +145,7 @@
  {
   "ids": {
    "igdb": "back-to-the-future-the-game-episode-5-outatime",
+   "metacritic": "back-to-the-future-the-game-episode-v-outatime",
    "mobygames": "52271"
   },
   "label_en": "Back to the Future: The Game - Episode 5: OUTATIME",
@@ -152,6 +158,7 @@
    "gog": "game/faster_than_light",
    "howlongtobeat": "3738",
    "igdb": "ftl-faster-than-light",
+   "metacritic": "ftl-faster-than-light",
    "mobygames": "57826",
    "pcgamingwiki": "FTL:_Faster_Than_Light",
    "steam": "212680"
@@ -267,6 +274,7 @@
   "ids": {
    "howlongtobeat": "47040",
    "igdb": "cladun-returns-this-is-sengoku",
+   "metacritic": "cladun-returns-this-is-sengoku",
    "mobygames": "90015",
    "pcgamingwiki": "Cladun_Returns:_This_Is_Sengoku!",
    "steam": "506260"
@@ -297,6 +305,7 @@
   "ids": {
    "howlongtobeat": "3083",
    "igdb": "elf-bowling-hawaiian-vacation",
+   "metacritic": "elf-bowling-hawaiian-vacation",
    "mobygames": "35596",
    "pcgamingwiki": "Elf_Bowling:_Hawaiian_Vacation",
    "steam": "15990"
@@ -308,6 +317,7 @@
   "ids": {
    "howlongtobeat": "17457",
    "igdb": "rodina",
+   "metacritic": "rodina",
    "mobygames": "99736",
    "pcgamingwiki": "Rodina",
    "steam": "314230"
@@ -327,6 +337,7 @@
   "ids": {
    "howlongtobeat": "57740",
    "igdb": "gears-tactics",
+   "metacritic": "gears-tactics",
    "mobygames": "144999",
    "pcgamingwiki": "Gears_Tactics",
    "steam": "1184050"
@@ -403,6 +414,7 @@
   "ids": {
    "howlongtobeat": "40011",
    "igdb": "ecotone",
+   "metacritic": "ecotone",
    "mobygames": "80705",
    "pcgamingwiki": "Ecotone",
    "steam": "446070"
@@ -978,6 +990,7 @@
    "gog": "game/mark_of_the_deep",
    "howlongtobeat": "160360",
    "igdb": "mark-of-the-deep",
+   "metacritic": "mark-of-the-deep",
    "mobygames": "236345",
    "pcgamingwiki": "Mark_of_the_Deep",
    "steam": "1933370"
@@ -1036,6 +1049,7 @@
  {
   "ids": {
    "igdb": "dodge-club-party",
+   "metacritic": "dodge-club-party",
    "mobygames": "101317"
   },
   "label_en": "Dodge Club Party",
@@ -1228,6 +1242,7 @@
  {
   "enwiki": "Kristi Yamaguchi Fantasy Ice Skating",
   "ids": {
+   "metacritic": "kristi-yamaguchi-fantasy-ice-skating",
    "mobygames": "197378"
   },
   "label_en": "Kristi Yamaguchi: Fantasy Ice Skating",

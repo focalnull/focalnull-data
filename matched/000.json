@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "834",
    "igdb": "banjo-kazooie",
+   "metacritic": "banjo-kazooie",
    "mobygames": "3583"
   },
   "label_en": "Banjo-Kazooie",
@@ -37,6 +38,7 @@
    "gog": "game/delta_force_xtreme",
    "howlongtobeat": "12002",
    "igdb": "delta-force-xtreme",
+   "metacritic": "delta-force-xtreme",
    "mobygames": "22815",
    "pcgamingwiki": "Delta_Force:_Xtreme",
    "steam": "32660"
@@ -49,6 +51,7 @@
   "ids": {
    "howlongtobeat": "6559",
    "igdb": "nhl-09",
+   "metacritic": "nhl-09",
    "mobygames": "37114",
    "pcgamingwiki": "NHL_09"
   },
@@ -79,6 +82,7 @@
   "ids": {
    "howlongtobeat": "4293",
    "igdb": "happy-tree-friends-false-alarm",
+   "metacritic": "happy-tree-friends-false-alarm",
    "mobygames": "35430",
    "pcgamingwiki": "Happy_Tree_Friends:_False_Alarm",
    "steam": "10470"
@@ -130,6 +134,7 @@
   "ids": {
    "howlongtobeat": "6147",
    "igdb": "monster-hunter-3-ultimate",
+   "metacritic": "monster-hunter-3-ultimate",
    "mobygames": "60776"
   },
   "label_en": "Monster Hunter 3 Ultimate",
@@ -183,6 +188,7 @@
   "enwiki": "Online Chess Kingdoms",
   "ids": {
    "igdb": "online-chess-kingdoms",
+   "metacritic": "online-chess-kingdoms",
    "mobygames": "26740"
   },
   "label_en": "Online Chess Kingdoms",
@@ -193,6 +199,7 @@
   "ids": {
    "howlongtobeat": "13662",
    "igdb": "star-trek-tactical-assault",
+   "metacritic": "star-trek-tactical-assault",
    "mobygames": "25293"
   },
   "label_en": "Star Trek: Tactical Assault",
@@ -212,6 +219,7 @@
    "gog": "game/oceanhorn_monster_of_uncharted_seas",
    "howlongtobeat": "14980",
    "igdb": "oceanhorn-monster-of-uncharted-seas",
+   "metacritic": "oceanhorn",
    "mobygames": "79223",
    "pcgamingwiki": "Oceanhorn:_Monster_of_Uncharted_Seas",
    "steam": "339200"
@@ -229,6 +237,7 @@
   "ids": {
    "howlongtobeat": "15989",
    "igdb": "doki-doki-universe",
+   "metacritic": "doki-doki-universe",
    "mobygames": "86729"
   },
   "label_en": "Doki-Doki Universe",
@@ -243,6 +252,7 @@
   "ids": {
    "howlongtobeat": "21725",
    "igdb": "there-came-an-echo",
+   "metacritic": "there-came-an-echo",
    "mobygames": "87036",
    "pcgamingwiki": "There_Came_an_Echo",
    "steam": "319740"
@@ -279,6 +289,7 @@
  {
   "ids": {
    "igdb": "suicide-squad-special-ops",
+   "metacritic": "suicide-squad-special-ops",
    "mobygames": "79902"
   },
   "label_en": "Suicide Squad: Special Ops",
@@ -312,7 +323,8 @@
  },
  {
   "ids": {
-   "igdb": "luigis-mansion"
+   "igdb": "luigis-mansion",
+   "metacritic": "luigis-mansion"
   },
   "label_en": "Luigi's Mansion",
   "wikidata": "Q111597000"
@@ -873,6 +885,7 @@
  },
  {
   "ids": {
+   "metacritic": "magic-cube-4d-vr",
    "steam": "2413000"
   },
   "label_en": "Magic Cube 4D VR",
@@ -1066,6 +1079,7 @@
    "howlongtobeat": "168932",
    "igdb": "pieces-of-me",
    "mobygames": "252427",
+   "pcgamingwiki": "Pieces_of_Me",
    "steam": "2479740"
   },
   "label_en": "Pieces of me",

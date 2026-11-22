@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "1135",
    "igdb": "blast-works-build-trade-destroy",
+   "metacritic": "blast-works-build-trade-destroy",
    "mobygames": "34648"
   },
   "label_en": "Blast Works: Build, Trade, Destroy",
@@ -24,6 +25,7 @@
    "gog": "game/hearts_of_iron_ii_complete",
    "howlongtobeat": "4367",
    "igdb": "hearts-of-iron-ii-complete",
+   "metacritic": "hearts-of-iron-ii",
    "mobygames": "18895",
    "pcgamingwiki": "Hearts_of_Iron_II",
    "steam": "22130"
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "1006",
    "igdb": "beowulf-the-game",
+   "metacritic": "beowulf-the-game",
    "mobygames": "33672",
    "pcgamingwiki": "Beowulf"
   },
@@ -47,6 +50,7 @@
   "ids": {
    "howlongtobeat": "76458",
    "igdb": "wurm-online",
+   "metacritic": "wurm-online",
    "steam": "1179680"
   },
   "label_en": "Wurm Online",
@@ -66,6 +70,7 @@
   "ids": {
    "howlongtobeat": "3427",
    "igdb": "feel-the-magic-xy-slash-xx",
+   "metacritic": "feel-the-magic-xy-xx",
    "mobygames": "15722"
   },
   "label_en": "Feel the Magic: XY/XX",
@@ -89,6 +94,7 @@
   "enwiki": "Ninja Gaiden 3: Razor's Edge",
   "ids": {
    "igdb": "ninja-gaiden-3-razor-s-edge",
+   "metacritic": "ninja-gaiden-3-razors-edge",
    "mobygames": "166213",
    "pcgamingwiki": "Ninja_Gaiden_3:_Razor's_Edge",
    "steam": "1369760"
@@ -100,6 +106,7 @@
   "ids": {
    "igdb": "winning-post",
    "mobygames": "37075",
+   "pcgamingwiki": "Winning_Post",
    "steam": "628180"
   },
   "label_en": "Winning Post",
@@ -127,6 +134,7 @@
   "ids": {
    "howlongtobeat": "7287",
    "igdb": "prince-of-persia--2",
+   "metacritic": "prince-of-persia-2008",
    "mobygames": "196",
    "pcgamingwiki": "Prince_of_Persia"
   },
@@ -195,6 +203,7 @@
   "ids": {
    "howlongtobeat": "127",
    "igdb": "a-game-of-dwarves",
+   "metacritic": "a-game-of-dwarves",
    "mobygames": "58353",
    "pcgamingwiki": "A_Game_of_Dwarves",
    "steam": "200370"
@@ -223,6 +232,7 @@
   "ids": {
    "howlongtobeat": "21255",
    "igdb": "mortal-kombat-x",
+   "metacritic": "mortal-kombat-x",
    "mobygames": "72333",
    "pcgamingwiki": "Mortal_Kombat_X",
    "steam": "307780"
@@ -248,6 +258,7 @@
    "gog": "game/ashes_of_the_singularity_escalation",
    "howlongtobeat": "31601",
    "igdb": "ashes-of-the-singularity",
+   "metacritic": "ashes-of-the-singularity",
    "mobygames": "78139",
    "pcgamingwiki": "Ashes_of_the_Singularity",
    "steam": "228880"
@@ -260,6 +271,7 @@
   "ids": {
    "howlongtobeat": "23834",
    "igdb": "gunman-clive-2",
+   "metacritic": "gunman-clive-2",
    "mobygames": "74786",
    "pcgamingwiki": "Gunman_Clive_2",
    "steam": "394550"
@@ -280,6 +292,7 @@
   "ids": {
    "howlongtobeat": "49452",
    "igdb": "age-of-empires-definitive-edition",
+   "metacritic": "age-of-empires-definitive-edition",
    "mobygames": "106506",
    "pcgamingwiki": "Age_of_Empires:_Definitive_Edition",
    "steam": "1017900"
@@ -300,6 +313,7 @@
   "ids": {
    "howlongtobeat": "30959",
    "igdb": "asphyxia",
+   "metacritic": "asphyxia",
    "mobygames": "75291",
    "pcgamingwiki": "Asphyxia",
    "steam": "386990"
@@ -324,6 +338,7 @@
    "gog": "game/mafia_ii_definitive_edition",
    "howlongtobeat": "78142",
    "igdb": "mafia-ii-definitive-edition",
+   "metacritic": "mafia-ii-definitive-edition",
    "mobygames": "145747",
    "pcgamingwiki": "Mafia_II:_Definitive_Edition",
    "steam": "1030830"
@@ -442,6 +457,7 @@
    "gog": "game/jusant",
    "howlongtobeat": "129954",
    "igdb": "jusant",
+   "metacritic": "jusant",
    "mobygames": "211191",
    "pcgamingwiki": "Jusant",
    "steam": "1977170"
@@ -472,6 +488,7 @@
  {
   "ids": {
    "igdb": "act-of-aggression-reboot-edition",
+   "metacritic": "act-of-aggression",
    "pcgamingwiki": "Act_of_Aggression:_Reboot_Edition",
    "steam": "318020"
   },
@@ -540,6 +557,7 @@
    "howlongtobeat": "131165",
    "igdb": "slavicpunk-oldtimer",
    "mobygames": "205043",
+   "pcgamingwiki": "SlavicPunk:_Oldtimer",
    "steam": "1820140"
   },
   "label_en": "SlavicPunk: Oldtimer",

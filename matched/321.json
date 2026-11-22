@@ -30,6 +30,7 @@
   "ids": {
    "howlongtobeat": "23917",
    "igdb": "elebits",
+   "metacritic": "elebits",
    "mobygames": "25627"
   },
   "label_en": "Elebits",
@@ -40,6 +41,7 @@
   "ids": {
    "howlongtobeat": "5093",
    "igdb": "klonoa-2-lunateas-veil--1",
+   "metacritic": "klonoa-2-lunateas-veil",
    "mobygames": "4692"
   },
   "label_en": "Klonoa 2: Lunatea's Veil",
@@ -50,6 +52,7 @@
   "ids": {
    "howlongtobeat": "1979",
    "igdb": "crash-nitro-kart",
+   "metacritic": "crash-nitro-kart",
    "mobygames": "11205"
   },
   "label_en": "Crash Nitro Kart",
@@ -135,6 +138,7 @@
   "ids": {
    "howlongtobeat": "21888",
    "igdb": "drone-tactics",
+   "metacritic": "drone-tactics",
    "mobygames": "34682"
   },
   "label_en": "Drone Tactics",
@@ -161,6 +165,7 @@
   "enwiki": "Sonic Dash",
   "ids": {
    "igdb": "sonic-dash",
+   "metacritic": "sonic-dash",
    "mobygames": "62872",
    "pcgamingwiki": "Sonic_Dash"
   },
@@ -173,6 +178,7 @@
    "gog": "game/nyxquest_kindred_spirits",
    "howlongtobeat": "6687",
    "igdb": "nyxquest-kindred-spirits",
+   "metacritic": "nyxquest-kindred-spirits",
    "mobygames": "41429",
    "pcgamingwiki": "NyxQuest:_Kindred_Spirits",
    "steam": "57000"
@@ -233,6 +239,7 @@
   "ids": {
    "howlongtobeat": "60664",
    "igdb": "snk-heroines-tag-team-frenzy",
+   "metacritic": "snk-heroines-tag-team-frenzy",
    "mobygames": "101184",
    "pcgamingwiki": "SNK_Heroines:_Tag_Team_Frenzy",
    "steam": "794580"
@@ -261,6 +268,7 @@
   "ids": {
    "howlongtobeat": "28605",
    "igdb": "sakura-clicker",
+   "metacritic": "sakura-clicker",
    "mobygames": "82777",
    "pcgamingwiki": "Sakura_Clicker",
    "steam": "383080"
@@ -402,6 +410,7 @@
  {
   "ids": {
    "epic": "hyperspaced-0e195b",
+   "metacritic": "we-are-screwed",
    "pcgamingwiki": "We_Are_Screwed!",
    "steam": "1125830"
   },
@@ -427,6 +436,7 @@
    "gog": "game/cathedral",
    "howlongtobeat": "71227",
    "igdb": "cathedral",
+   "metacritic": "cathedral-2019",
    "mobygames": "139607",
    "pcgamingwiki": "Cathedral",
    "steam": "1056180"
@@ -616,6 +626,7 @@
   "ids": {
    "howlongtobeat": "68993",
    "igdb": "the-inner-friend",
+   "metacritic": "the-inner-friend",
    "mobygames": "114283",
    "pcgamingwiki": "The_Inner_Friend",
    "steam": "790350"
@@ -681,6 +692,7 @@
    "epic": "warhammer-age-of-sigmar-realms-of-ruin",
    "howlongtobeat": "129501",
    "igdb": "warhammer-age-of-sigmar-realms-of-ruin",
+   "metacritic": "warhammer-age-of-sigmar-realms-of-ruin",
    "mobygames": "212223",
    "pcgamingwiki": "Warhammer_Age_of_Sigmar:_Realms_of_Ruin",
    "steam": "1844380"
@@ -859,6 +871,7 @@
   "enwiki": "Ninja Gaiden 4",
   "ids": {
    "igdb": "ninja-gaiden-4",
+   "metacritic": "ninja-gaiden-4",
    "mobygames": "243164",
    "pcgamingwiki": "Ninja_Gaiden_4",
    "steam": "2627260"
@@ -1173,6 +1186,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Croc_2:_Kingdom_of_the_Gobbos",
    "steam": "4198360"
   },
   "label_en": "Croc 2 Kingdom of the Gobbos",

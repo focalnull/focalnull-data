@@ -12,6 +12,7 @@
   "enwiki": "Heroes of the Pacific",
   "ids": {
    "igdb": "heroes-of-the-pacific",
+   "metacritic": "heroes-of-the-pacific",
    "mobygames": "19318"
   },
   "label_en": "Heroes of the Pacific",
@@ -31,6 +32,7 @@
   "ids": {
    "howlongtobeat": "10169",
    "igdb": "the-ship-murder-party",
+   "metacritic": "the-ship",
    "mobygames": "23173",
    "pcgamingwiki": "The_Ship",
    "steam": "2400"
@@ -43,6 +45,7 @@
   "ids": {
    "howlongtobeat": "2179",
    "igdb": "dance-dance-revolution-supernova-2",
+   "metacritic": "dance-dance-revolution-supernova-2",
    "mobygames": "38563"
   },
   "label_en": "Dance Dance Revolution SuperNova 2",
@@ -52,6 +55,7 @@
   "enwiki": "NeverDead",
   "ids": {
    "igdb": "neverdead",
+   "metacritic": "neverdead",
    "mobygames": "55005"
   },
   "label_en": "NeverDead",
@@ -59,6 +63,7 @@
  },
  {
   "ids": {
+   "metacritic": "guitar-hero-on-tour-decades",
    "mobygames": "37912"
   },
   "label_en": "Guitar Hero On Tour: Decades",
@@ -174,6 +179,7 @@
   "ids": {
    "howlongtobeat": "14197",
    "igdb": "mighty-no-9",
+   "metacritic": "mighty-no-9",
    "mobygames": "79460",
    "pcgamingwiki": "Mighty_No._9",
    "steam": "314710"
@@ -199,6 +205,7 @@
   "ids": {
    "howlongtobeat": "34062",
    "igdb": "nitroplus-blasterz-heroines-infinite-duel",
+   "metacritic": "nitroplus-blasterz-heroines-infinite-duel",
    "mobygames": "84705",
    "pcgamingwiki": "Nitroplus_Blasterz:_Heroines_Infinite_Duel",
    "steam": "482450"
@@ -222,6 +229,7 @@
    "gog": "game/nuclear_throne",
    "howlongtobeat": "14291",
    "igdb": "nuclear-throne",
+   "metacritic": "nuclear-throne",
    "mobygames": "76115",
    "pcgamingwiki": "Nuclear_Throne",
    "steam": "242680"
@@ -325,6 +333,7 @@
    "gog": "game/railgrade",
    "howlongtobeat": "109849",
    "igdb": "railgrade",
+   "metacritic": "railgrade",
    "mobygames": "192402",
    "pcgamingwiki": "Railgrade",
    "steam": "1355090"
@@ -369,6 +378,7 @@
    "howlongtobeat": "106732",
    "igdb": "marauders",
    "mobygames": "192776",
+   "pcgamingwiki": "Marauders",
    "steam": "1789480"
   },
   "label_en": "Marauders",
@@ -380,6 +390,7 @@
    "epic": "five-dates-60ef51",
    "howlongtobeat": "85654",
    "igdb": "five-dates",
+   "metacritic": "five-dates",
    "mobygames": "153210",
    "pcgamingwiki": "Five_Dates",
    "steam": "1353270"
@@ -833,7 +844,8 @@
  },
  {
   "ids": {
-   "igdb": "nba-10-the-inside"
+   "igdb": "nba-10-the-inside",
+   "metacritic": "nba-10-the-inside"
   },
   "label_en": "NBA 10: The Inside",
   "wikidata": "Q124130834"
@@ -913,6 +925,7 @@
  {
   "ids": {
    "igdb": "subway-exorcist-girl",
+   "metacritic": "subway-exorcist-girl",
    "steam": "3263210"
   },
   "label_en": "Subway Exorcist Girl",
@@ -935,6 +948,7 @@
    "gog": "game/planet_of_lana_ii",
    "howlongtobeat": "169414",
    "igdb": "planet-of-lana-ii-children-of-the-leaf",
+   "metacritic": "planet-of-lana-ii-children-of-the-leaf",
    "pcgamingwiki": "Planet_of_Lana_II",
    "steam": "2997230"
   },

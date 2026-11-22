@@ -26,6 +26,7 @@
   "ids": {
    "howlongtobeat": "4496",
    "igdb": "homeworld",
+   "metacritic": "homeworld",
    "mobygames": "296",
    "pcgamingwiki": "Homeworld"
   },
@@ -146,6 +147,7 @@
   "ids": {
    "howlongtobeat": "26399",
    "igdb": "gunfighter-the-legend-of-jesse-james",
+   "metacritic": "gunfighter-the-legend-of-jesse-james",
    "mobygames": "30528"
   },
   "label_en": "Gunfighter: The Legend of Jesse James",
@@ -155,6 +157,7 @@
   "enwiki": "Monster House (video game)",
   "ids": {
    "igdb": "monster-house",
+   "metacritic": "monster-house",
    "mobygames": "76304"
   },
   "label_en": "Monster House",
@@ -193,6 +196,7 @@
    "gog": "game/the_tiny_bang_story",
    "howlongtobeat": "10232",
    "igdb": "the-tiny-bang-story",
+   "metacritic": "the-tiny-bang-story",
    "mobygames": "51681",
    "pcgamingwiki": "The_Tiny_Bang_Story",
    "steam": "96000"
@@ -210,6 +214,7 @@
    "epic": "grand-theft-auto-v",
    "howlongtobeat": "13834",
    "igdb": "grand-theft-auto-online",
+   "metacritic": "grand-theft-auto-online",
    "steam": "271590"
   },
   "label_en": "Grand Theft Auto Online",
@@ -229,6 +234,7 @@
   "ids": {
    "howlongtobeat": "20504",
    "igdb": "soda-drinker-pro",
+   "metacritic": "soda-drinker-pro",
    "mobygames": "78251",
    "pcgamingwiki": "Soda_Drinker_Pro",
    "steam": "347720"
@@ -269,6 +275,7 @@
   "ids": {
    "howlongtobeat": "44715",
    "igdb": "long-gone-days",
+   "metacritic": "long-gone-days",
    "mobygames": "112272",
    "pcgamingwiki": "Long_Gone_Days",
    "steam": "510540"
@@ -282,6 +289,7 @@
    "gog": "game/vikings_wolves_of_midgard",
    "howlongtobeat": "40164",
    "igdb": "vikings-wolves-of-midgard",
+   "metacritic": "vikings-wolves-of-midgard",
    "mobygames": "86013",
    "pcgamingwiki": "Vikings:_Wolves_of_Midgard",
    "steam": "404590"
@@ -327,6 +335,7 @@
    "gog": "game/tools_up_ultimate_edition",
    "howlongtobeat": "73064",
    "igdb": "tools-up",
+   "metacritic": "tools-up",
    "mobygames": "137890",
    "pcgamingwiki": "Tools_Up!",
    "steam": "1004490"
@@ -404,6 +413,7 @@
    "gog": "game/tinykin",
    "howlongtobeat": "93960",
    "igdb": "tinykin",
+   "metacritic": "tinykin",
    "mobygames": "190041",
    "pcgamingwiki": "Tinykin",
    "steam": "1599020"
@@ -474,6 +484,7 @@
    "epic": "garten-of-banban-3-810dd7",
    "howlongtobeat": "128160",
    "igdb": "garten-of-banban-3",
+   "metacritic": "garten-of-banban-3",
    "mobygames": "202681",
    "pcgamingwiki": "Garten_of_Banban_3",
    "steam": "2311190"
@@ -811,6 +822,7 @@
   "ids": {
    "howlongtobeat": "87368",
    "igdb": "darts-up",
+   "metacritic": "darts-up",
    "mobygames": "100299",
    "steam": "2812980"
   },

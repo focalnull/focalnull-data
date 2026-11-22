@@ -5,6 +5,7 @@
    "gog": "game/star_wars_jedi_knight_ii_jedi_outcast",
    "howlongtobeat": "9085",
    "igdb": "star-wars-jedi-knight-ii-jedi-outcast",
+   "metacritic": "star-wars-jedi-knight-ii-jedi-outcast",
    "mobygames": "6073",
    "pcgamingwiki": "Star_Wars:_Jedi_Knight_II_-_Jedi_Outcast",
    "steam": "6030"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "1465",
    "igdb": "call-of-duty-2",
+   "metacritic": "call-of-duty-2",
    "mobygames": "20150",
    "pcgamingwiki": "Call_of_Duty_2",
    "steam": "2630"
@@ -42,6 +44,7 @@
   "ids": {
    "howlongtobeat": "1546",
    "igdb": "cars",
+   "metacritic": "cars",
    "mobygames": "23057",
    "pcgamingwiki": "Cars",
    "steam": "331160"
@@ -54,6 +57,7 @@
   "ids": {
    "howlongtobeat": "9361",
    "igdb": "super-mario-3d-land",
+   "metacritic": "super-mario-3d-land",
    "mobygames": "53511"
   },
   "label_en": "Super Mario 3D Land",
@@ -65,6 +69,7 @@
    "gog": "game/black_mirror_ii",
    "howlongtobeat": "20799",
    "igdb": "black-mirror-ii-reigning-evil",
+   "metacritic": "black-mirror-ii-reigning-evil",
    "mobygames": "42982",
    "pcgamingwiki": "Black_Mirror_2",
    "steam": "286460"
@@ -78,6 +83,7 @@
    "gog": "game/the_settlers_4_gold_edition",
    "howlongtobeat": "15000",
    "igdb": "the-settlers-fourth-edition",
+   "metacritic": "the-settlers",
    "mobygames": "3326",
    "pcgamingwiki": "The_Settlers_IV"
   },
@@ -124,6 +130,7 @@
    "gog": "game/the_silver_case",
    "howlongtobeat": "19278",
    "igdb": "the-silver-case",
+   "metacritic": "the-silver-case",
    "mobygames": "87085",
    "pcgamingwiki": "The_Silver_Case",
    "steam": "476650"
@@ -175,6 +182,7 @@
    "howlongtobeat": "34344",
    "igdb": "jumpin-jack",
    "mobygames": "15237",
+   "pcgamingwiki": "Jumping_Jack",
    "steam": "1978200"
   },
   "label_en": "Jumping Jack",
@@ -208,6 +216,7 @@
   "enwiki": "New World Order (video game)",
   "ids": {
    "igdb": "new-world-order",
+   "metacritic": "new-world-order",
    "mobygames": "7893"
   },
   "label_en": "New World Order",
@@ -218,6 +227,7 @@
   "ids": {
    "howlongtobeat": "17581",
    "igdb": "monument-valley",
+   "metacritic": "monument-valley",
    "mobygames": "69816",
    "pcgamingwiki": "Monument_Valley:_Panoramic_Edition",
    "steam": "1927720"
@@ -294,6 +304,7 @@
    "gog": "game/desperados_iii",
    "howlongtobeat": "60291",
    "igdb": "desperados-iii",
+   "metacritic": "desperados-iii",
    "mobygames": "146501",
    "pcgamingwiki": "Desperados_III",
    "steam": "610370"
@@ -323,6 +334,7 @@
   "ids": {
    "howlongtobeat": "56651",
    "igdb": "romance-with-chocolate-hidden-objects",
+   "metacritic": "romance-with-chocolate-hidden-object-in-paris",
    "pcgamingwiki": "Romance_with_Chocolate_-_Hidden_Object_in_Paris",
    "steam": "688570"
   },
@@ -527,6 +539,7 @@
   "ids": {
    "howlongtobeat": "61601",
    "igdb": "another-sight",
+   "metacritic": "another-sight",
    "mobygames": "113248",
    "pcgamingwiki": "Another_Sight",
    "steam": "888630"
@@ -766,6 +779,7 @@
   "ids": {
    "howlongtobeat": "23052",
    "igdb": "schrodingers-cat-and-the-raiders-of-the-lost-quark--1",
+   "metacritic": "schrodingers-cat-and-the-raiders-of-the-lost-quark",
    "mobygames": "86832",
    "pcgamingwiki": "Schrödinger's_Cat_and_the_Raiders_of_the_Lost_Quark",
    "steam": "295490"
@@ -805,6 +819,7 @@
  {
   "ids": {
    "igdb": "raindrop-umbrella",
+   "metacritic": "raindrop-umbrella",
    "steam": "2151080"
   },
   "label_en": "Raindrop Umbrella",
@@ -877,6 +892,7 @@
    "epic": "end-of-abyss",
    "howlongtobeat": "169253",
    "igdb": "end-of-abyss",
+   "metacritic": "end-of-abyss",
    "pcgamingwiki": "End_of_Abyss"
   },
   "label_en": "End of Abyss",
@@ -1140,6 +1156,7 @@
  {
   "ids": {
    "igdb": "azmar-quest",
+   "metacritic": "azmar-quest-text-based-rpg",
    "steam": "3474140"
   },
   "label_en": "Azmar Quest",
@@ -1242,6 +1259,7 @@
  {
   "ids": {
    "igdb": "hillthorn",
+   "pcgamingwiki": "Hillthorn",
    "steam": "3504050"
   },
   "label_en": "Hillthorn",

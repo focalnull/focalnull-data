@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "6944",
    "igdb": "payday-the-heist",
+   "metacritic": "payday-the-heist",
    "mobygames": "55035",
    "pcgamingwiki": "Payday:_The_Heist",
    "steam": "24240"
@@ -26,6 +27,7 @@
   "enwiki": "Brain Dead 13",
   "ids": {
    "igdb": "brain-dead-13",
+   "metacritic": "brain-dead-13",
    "mobygames": "2083"
   },
   "label_en": "Brain Dead 13",
@@ -43,6 +45,7 @@
   "ids": {
    "howlongtobeat": "18762",
    "igdb": "savage-2-a-tortured-soul",
+   "metacritic": "savage-2-a-tortured-soul",
    "mobygames": "33254",
    "pcgamingwiki": "Savage_2:_A_Tortured_Soul",
    "steam": "13700"
@@ -55,6 +58,7 @@
   "ids": {
    "howlongtobeat": "4560",
    "igdb": "hydrophobia-prophecy",
+   "metacritic": "hydrophobia-prophecy",
    "mobygames": "73420",
    "pcgamingwiki": "Hydrophobia:_Prophecy",
    "steam": "92000"
@@ -121,6 +125,7 @@
   "enwiki": "Police Quest II: The Vengeance",
   "ids": {
    "igdb": "police-quest-ii-the-vengeance",
+   "metacritic": "police-quest-2-the-vengeance",
    "mobygames": "147",
    "pcgamingwiki": "Police_Quest_II:_The_Vengeance"
   },
@@ -140,6 +145,7 @@
   "enwiki": "Ferrari GT: Evolution",
   "ids": {
    "igdb": "ferrari-gt-evolution",
+   "metacritic": "ferrari-gt-evolution",
    "mobygames": "87991"
   },
   "label_en": "Ferrari GT: Evolution",
@@ -172,6 +178,7 @@
   "ids": {
    "howlongtobeat": "17332",
    "igdb": "el-chavo-kart",
+   "metacritic": "el-chavo-kart",
    "mobygames": "68157"
   },
   "label_en": "El Chavo Kart",
@@ -181,6 +188,7 @@
   "enwiki": "Mario Party: Star Rush",
   "ids": {
    "igdb": "mario-party-star-rush",
+   "metacritic": "mario-party-star-rush",
    "mobygames": "82214"
   },
   "label_en": "Mario Party: Star Rush",
@@ -208,6 +216,7 @@
  {
   "ids": {
    "igdb": "riff-vr",
+   "metacritic": "riff-vr",
    "pcgamingwiki": "Riff_VR",
    "steam": "737880"
   },
@@ -352,6 +361,7 @@
   "ids": {
    "howlongtobeat": "125278",
    "igdb": "stronghold-a-heros-fate",
+   "metacritic": "stronghold",
    "mobygames": "116991",
    "pcgamingwiki": "Stronghold:_A_Hero's_Fate",
    "steam": "955360"
@@ -807,6 +817,7 @@
    "gog": "game/the_darkest_files",
    "howlongtobeat": "138099",
    "igdb": "the-darkest-files",
+   "metacritic": "the-darkest-files",
    "mobygames": "239544",
    "pcgamingwiki": "The_Darkest_Files",
    "steam": "2058730"
@@ -1043,6 +1054,7 @@
   "ids": {
    "igdb": "bibi-blocksberg-big-broom-race-3",
    "mobygames": "117066",
+   "pcgamingwiki": "Bibi_Blocksberg_-_Big_Broom_Race_3",
    "steam": "947260"
   },
   "label_en": "Bibi Blocksberg ™ - Big Broom Race 3",

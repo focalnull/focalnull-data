@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9365",
    "igdb": "super-mario-64-ds",
+   "metacritic": "super-mario-64",
    "mobygames": "31024"
   },
   "label_en": "Super Mario 64 DS",
@@ -42,6 +43,7 @@
   "enwiki": "Solatorobo: Red the Hunter",
   "ids": {
    "igdb": "solatorobo-red-the-hunter",
+   "metacritic": "solatorobo-red-the-hunter",
    "mobygames": "53875"
   },
   "label_en": "Solatorobo: Red the Hunter",
@@ -70,6 +72,7 @@
   "ids": {
    "howlongtobeat": "698",
    "igdb": "atelier-annie-alchemists-of-sera-island",
+   "metacritic": "atelier-annie-alchemists-of-sera-island",
    "mobygames": "68906"
   },
   "label_en": "Atelier Annie: Alchemists of Sera Island",
@@ -88,6 +91,7 @@
   "ids": {
    "howlongtobeat": "789",
    "igdb": "backyard-wrestling-2-there-goes-the-neighborhood",
+   "metacritic": "backyard-wrestling-2-there-goes-the-neighborhood",
    "mobygames": "16253"
   },
   "label_en": "Backyard Wrestling 2: There Goes the Neighborhood",
@@ -144,6 +148,7 @@
   "enwiki": "Warpath (video game)",
   "ids": {
    "igdb": "warpath",
+   "metacritic": "warpath-2006",
    "mobygames": "23208",
    "pcgamingwiki": "Warpath"
   },
@@ -169,7 +174,8 @@
  },
  {
   "ids": {
-   "igdb": "zxe-d-legend-of-plasmalite"
+   "igdb": "zxe-d-legend-of-plasmalite",
+   "metacritic": "zxe-d-legend-of-plasmalite"
   },
   "label_en": "ZXE-D: Legend of Plasmalite",
   "wikidata": "Q11255888"
@@ -181,6 +187,7 @@
   "enwiki": "Escape Plan (video game)",
   "ids": {
    "igdb": "escape-plan",
+   "metacritic": "escape-plan-2012",
    "mobygames": "55289"
   },
   "label_en": "Escape Plan",
@@ -192,6 +199,7 @@
    "gog": "game/shadows_heretic_kingdoms",
    "howlongtobeat": "19306",
    "igdb": "shadows-heretic-kingdoms",
+   "metacritic": "shadows-heretic-kingdoms",
    "mobygames": "77639",
    "pcgamingwiki": "Shadows:_Heretic_Kingdoms",
    "steam": "256030"
@@ -210,6 +218,7 @@
    "gog": "game/fran_bow",
    "howlongtobeat": "29715",
    "igdb": "fran-bow",
+   "metacritic": "fran-bow",
    "mobygames": "79549",
    "pcgamingwiki": "Fran_Bow",
    "steam": "362680"
@@ -252,6 +261,7 @@
    "epic": "manifold-garden",
    "howlongtobeat": "67993",
    "igdb": "manifold-garden",
+   "metacritic": "manifold-garden",
    "mobygames": "136203",
    "pcgamingwiki": "Manifold_Garden",
    "steam": "473950"
@@ -274,6 +284,7 @@
   "enwiki": "Parascientific Escape: Cruise in the Distant Seas",
   "ids": {
    "igdb": "parascientific-escape-cruise-in-the-distant-seas",
+   "metacritic": "parascientific-escape-cruise-in-the-distant-seas",
    "mobygames": "84823"
   },
   "label_en": "Parascientific Escape: Cruise in the Distant Seas",
@@ -315,6 +326,7 @@
    "gog": "game/doctor_who_the_lonely_assasins",
    "howlongtobeat": "89926",
    "igdb": "doctor-who-the-lonely-assassins",
+   "metacritic": "doctor-who-the-lonely-assassins",
    "mobygames": "160864",
    "pcgamingwiki": "Doctor_Who:_The_Lonely_Assassins",
    "steam": "1508270"
@@ -345,6 +357,7 @@
  {
   "ids": {
    "igdb": "go-rocket",
+   "metacritic": "go-rocket",
    "mobygames": "189395",
    "steam": "1669120"
   },
@@ -356,6 +369,7 @@
    "howlongtobeat": "109156",
    "igdb": "mad-streets",
    "mobygames": "172807",
+   "pcgamingwiki": "Mad_Streets",
    "steam": "1282760"
   },
   "label_en": "Mad Streets",
@@ -377,6 +391,7 @@
    "epic": "escape-academy-bfc2bf",
    "howlongtobeat": "109211",
    "igdb": "escape-academy",
+   "metacritic": "escape-academy",
    "mobygames": "188126",
    "pcgamingwiki": "Escape_Academy",
    "steam": "1812090"
@@ -391,6 +406,7 @@
    "gog": "game/milky_way_prince_the_vampire_star",
    "howlongtobeat": "81773",
    "igdb": "milky-way-prince-the-vampire-star",
+   "metacritic": "milky-way-prince-the-vampire-star",
    "mobygames": "149281",
    "pcgamingwiki": "Milky_Way_Prince_–_The_Vampire_Star",
    "steam": "1302050"
@@ -447,6 +463,7 @@
    "epic": "colossal-cave-6f902f",
    "howlongtobeat": "127733",
    "igdb": "colossal-cave--1",
+   "metacritic": "colossal-cave",
    "mobygames": "198083",
    "pcgamingwiki": "Colossal_Cave",
    "steam": "2215540"
@@ -464,6 +481,7 @@
    "gog": "game/baby_steps",
    "howlongtobeat": "129804",
    "igdb": "baby-steps",
+   "metacritic": "baby-steps",
    "mobygames": "248343",
    "pcgamingwiki": "Baby_Steps",
    "steam": "1281040"
@@ -788,6 +806,7 @@
   "ids": {
    "howlongtobeat": "143596",
    "igdb": "alex-jones-nwo-wars",
+   "metacritic": "alex-jones-nwo-wars",
    "mobygames": "215042",
    "pcgamingwiki": "Alex_Jones:_NWO_Wars",
    "steam": "2487350"
@@ -907,6 +926,7 @@
  {
   "ids": {
    "igdb": "bubble-gum-popper",
+   "metacritic": "bubble-gum-popper",
    "mobygames": "100694"
   },
   "label_en": "Bubble Gum Popper",
@@ -955,6 +975,7 @@
   "ids": {
    "howlongtobeat": "132133",
    "igdb": "goblin-slayer-another-adventurer-nightmare-feast",
+   "metacritic": "goblin-slayer-another-adventurer-nightmare-feast",
    "mobygames": "218496",
    "steam": "2456410"
   },
@@ -994,6 +1015,7 @@
    "gog": "game/the_expanse_osiris_reborn",
    "howlongtobeat": "169343",
    "igdb": "the-expanse-osiris-reborn",
+   "metacritic": "the-expanse-osiris-reborn",
    "mobygames": "243391",
    "pcgamingwiki": "The_Expanse:_Osiris_Reborn",
    "steam": "3727390"

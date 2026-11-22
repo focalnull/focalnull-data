@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "3697",
    "igdb": "freelancer",
+   "metacritic": "freelancer",
    "mobygames": "8565",
    "pcgamingwiki": "Freelancer"
   },
@@ -39,6 +40,7 @@
   "ids": {
    "howlongtobeat": "9485",
    "igdb": "supreme-commander-forged-alliance",
+   "metacritic": "supreme-commander-forged-alliance",
    "mobygames": "31326",
    "pcgamingwiki": "Supreme_Commander:_Forged_Alliance",
    "steam": "9420"
@@ -51,6 +53,7 @@
   "ids": {
    "howlongtobeat": "1800",
    "igdb": "colin-mcrae-rally-2-0",
+   "metacritic": "colin-mcrae-rally-20",
    "mobygames": "8298",
    "pcgamingwiki": "Colin_McRae_Rally_2.0"
   },
@@ -89,6 +92,7 @@
   "enwiki": "Star X",
   "ids": {
    "igdb": "star-x",
+   "metacritic": "star-x",
    "mobygames": "21915"
   },
   "label_en": "Star X",
@@ -98,6 +102,7 @@
   "enwiki": "Agent Armstrong",
   "ids": {
    "igdb": "agent-armstrong",
+   "metacritic": "agent-armstrong",
    "mobygames": "22477"
   },
   "label_en": "Agent Armstrong",
@@ -148,6 +153,7 @@
   "enwiki": "Rally Fusion: Race of Champions",
   "ids": {
    "igdb": "rally-fusion-race-of-champions",
+   "metacritic": "rally-fusion-race-of-champions",
    "mobygames": "37804"
   },
   "label_en": "Rally Fusion: Race of Champions",
@@ -193,6 +199,7 @@
   "ids": {
    "howlongtobeat": "3642",
    "igdb": "forge",
+   "metacritic": "forge-2012",
    "pcgamingwiki": "Forge",
    "steam": "223390"
   },
@@ -213,6 +220,7 @@
    "gog": "game/aragami",
    "howlongtobeat": "40342",
    "igdb": "aragami",
+   "metacritic": "aragami",
    "mobygames": "82669",
    "pcgamingwiki": "Aragami",
    "steam": "280160"
@@ -225,6 +233,7 @@
    "gog": "game/hybrid_wars",
    "howlongtobeat": "39362",
    "igdb": "hybrid-wars",
+   "metacritic": "hybrid-wars",
    "mobygames": "150287",
    "pcgamingwiki": "Hybrid_Wars",
    "steam": "411540"
@@ -236,6 +245,7 @@
   "enwiki": "Flip Wars",
   "ids": {
    "igdb": "flip-wars",
+   "metacritic": "flip-wars",
    "mobygames": "92967"
   },
   "label_en": "Flip Wars",
@@ -246,6 +256,7 @@
   "ids": {
    "howlongtobeat": "62135",
    "igdb": "spirit-hunter-death-mark",
+   "metacritic": "death-mark",
    "mobygames": "109751",
    "pcgamingwiki": "Death_Mark",
    "steam": "980830"
@@ -277,6 +288,7 @@
   "ids": {
    "howlongtobeat": "109530",
    "igdb": "piposh--1",
+   "metacritic": "piposh",
    "pcgamingwiki": "Piposh",
    "steam": "1092950"
   },
@@ -286,6 +298,7 @@
  {
   "ids": {
    "igdb": "valgrave-immortal-plains",
+   "metacritic": "valgrave-immortal-plains",
    "mobygames": "180408",
    "pcgamingwiki": "Valgrave:_Immortal_Plains",
    "steam": "1076500"
@@ -308,6 +321,7 @@
  {
   "ids": {
    "howlongtobeat": "73204",
+   "metacritic": "singstar-ultimate-party",
    "mobygames": "80806"
   },
   "label_en": "SingStar Ultimate Party",
@@ -326,6 +340,7 @@
    "gog": "game/space_crew_legendary_edition",
    "howlongtobeat": "84315",
    "igdb": "space-crew-legendary-edition",
+   "metacritic": "space-crew",
    "mobygames": "151103",
    "pcgamingwiki": "Space_Crew",
    "steam": "1176710"
@@ -339,6 +354,7 @@
    "gog": "game/project_wingman",
    "howlongtobeat": "84829",
    "igdb": "project-wingman",
+   "metacritic": "project-wingman",
    "mobygames": "154964",
    "pcgamingwiki": "Project_Wingman",
    "steam": "895870"
@@ -464,6 +480,7 @@
   "ids": {
    "howlongtobeat": "12727",
    "igdb": "wooden-sensey",
+   "metacritic": "wooden-sensey",
    "mobygames": "83262",
    "pcgamingwiki": "Wooden_Sensey",
    "steam": "259830"
@@ -490,6 +507,7 @@
    "epic": "miwa-the-sacred-fox-89da48",
    "gog": "game/miwa_the_sacred_fox",
    "igdb": "miwa-the-sacred-fox",
+   "metacritic": "miwa-the-sacred-fox",
    "steam": "2275070"
   },
   "label_en": "Miwa: The Sacred Fox",
@@ -666,6 +684,7 @@
    "epic": "rogue-spirit",
    "howlongtobeat": "94775",
    "igdb": "rogue-spirit",
+   "metacritic": "rogue-spirit",
    "steam": "1554970"
   },
   "label_en": "Rogue Spirit",
@@ -870,6 +889,7 @@
    "epic": "ea-sports-fc-25",
    "howlongtobeat": "153883",
    "igdb": "ea-sports-fc-25",
+   "metacritic": "ea-sports-fc-25",
    "mobygames": "230959",
    "pcgamingwiki": "EA_Sports_FC_25",
    "steam": "2669320"
@@ -1209,6 +1229,7 @@
  {
   "ids": {
    "igdb": "alice-and-the-devils-prison",
+   "metacritic": "alice-and-the-devils-prison",
    "steam": "4145350"
   },
   "label_en": "Alice and the Devil’s Prison",

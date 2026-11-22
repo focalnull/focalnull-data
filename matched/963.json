@@ -25,6 +25,7 @@
   "ids": {
    "howlongtobeat": "593",
    "igdb": "armies-of-exigo",
+   "metacritic": "armies-of-exigo",
    "mobygames": "16100",
    "pcgamingwiki": "Armies_of_Exigo"
   },
@@ -37,6 +38,7 @@
    "epic": "disaster-report-4-summer-memories",
    "howlongtobeat": "74345",
    "igdb": "zettai-zetsumei-toshi-4-summer-memories",
+   "metacritic": "disaster-report-4-summer-memories",
    "mobygames": "135222",
    "pcgamingwiki": "Disaster_Report_4:_Summer_Memories",
    "steam": "1060210"
@@ -60,6 +62,7 @@
   "ids": {
    "howlongtobeat": "9037",
    "igdb": "star-fox-64",
+   "metacritic": "star-fox-64",
    "mobygames": "3536"
   },
   "label_en": "Star Fox 64",
@@ -80,6 +83,7 @@
   "ids": {
    "howlongtobeat": "10903",
    "igdb": "vectorman-2",
+   "metacritic": "vectorman-2",
    "mobygames": "7817",
    "pcgamingwiki": "VectorMan_2",
    "steam": "211208"
@@ -108,6 +112,7 @@
   "enwiki": "Ratchet & Clank Future: A Crack in Time",
   "ids": {
    "igdb": "ratchet-clank-future-a-crack-in-time",
+   "metacritic": "ratchet-clank-future-a-crack-in-time",
    "mobygames": "43158"
   },
   "label_en": "Ratchet & Clank Future: A Crack in Time",
@@ -156,6 +161,7 @@
   "enwiki": "Ace Combat Advance",
   "ids": {
    "igdb": "ace-combat-advance",
+   "metacritic": "ace-combat-advance",
    "mobygames": "30757"
   },
   "label_en": "Ace Combat Advance",
@@ -185,6 +191,7 @@
    "gog": "game/rise_of_the_triad",
    "howlongtobeat": "7841",
    "igdb": "rise-of-the-triad",
+   "metacritic": "rise-of-the-triad",
    "mobygames": "61454",
    "pcgamingwiki": "Rise_of_the_Triad",
    "steam": "217140"
@@ -205,6 +212,7 @@
   "enwiki": "SBK: Snowboard Kids",
   "ids": {
    "igdb": "sbk-snowboard-kids",
+   "metacritic": "sbk-snowboard-kids",
    "mobygames": "35841"
   },
   "label_en": "SBK: Snowboard Kids",
@@ -215,6 +223,7 @@
   "ids": {
    "howlongtobeat": "21971",
    "igdb": "star-trek-conquest",
+   "metacritic": "star-trek-conquest",
    "mobygames": "33070"
   },
   "label_en": "Star Trek: Conquest",
@@ -285,6 +294,7 @@
   "ids": {
    "howlongtobeat": "45062",
    "igdb": "aaero",
+   "metacritic": "aaero",
    "mobygames": "86771",
    "pcgamingwiki": "Aaero",
    "steam": "499890"
@@ -295,7 +305,8 @@
  {
   "enwiki": "Dillon's Dead-Heat Breakers",
   "ids": {
-   "igdb": "dillons-dead-heat-breakers"
+   "igdb": "dillons-dead-heat-breakers",
+   "metacritic": "dillons-dead-heat-breakers"
   },
   "label_en": "Dillon's Dead-Heat Breakers",
   "wikidata": "Q60636963"
@@ -331,6 +342,7 @@
    "gog": "game/lost_sea",
    "howlongtobeat": "38208",
    "igdb": "lost-sea",
+   "metacritic": "lost-sea",
    "mobygames": "79625",
    "pcgamingwiki": "Lost_Sea",
    "steam": "334280"
@@ -351,6 +363,7 @@
   "ids": {
    "howlongtobeat": "40115",
    "igdb": "the-assembly",
+   "metacritic": "the-assembly",
    "mobygames": "84011",
    "pcgamingwiki": "The_Assembly",
    "steam": "373650"
@@ -363,6 +376,7 @@
    "gog": "game/humans_must_answer",
    "howlongtobeat": "16212",
    "igdb": "humans-must-answer",
+   "metacritic": "humans-must-answer",
    "mobygames": "154714",
    "pcgamingwiki": "Humans_Must_Answer",
    "steam": "261740"
@@ -384,6 +398,7 @@
   "ids": {
    "howlongtobeat": "53828",
    "igdb": "shape-of-the-world",
+   "metacritic": "shape-of-the-world",
    "mobygames": "109748",
    "pcgamingwiki": "Shape_of_the_World",
    "steam": "642610"
@@ -470,7 +485,8 @@
  },
  {
   "ids": {
-   "igdb": "angry-birds-ar-isle-of-pigs"
+   "igdb": "angry-birds-ar-isle-of-pigs",
+   "metacritic": "angry-birds-ar-isle-of-pigs"
   },
   "label_en": "Angry Birds AR: Isle of Pigs",
   "wikidata": "Q117801963"
@@ -496,6 +512,7 @@
   "ids": {
    "howlongtobeat": "117206",
    "igdb": "neverawake",
+   "metacritic": "neverawake",
    "mobygames": "192085",
    "steam": "1727180"
   },
@@ -829,6 +846,7 @@
   "ids": {
    "howlongtobeat": "23928",
    "igdb": "castle-in-the-darkness",
+   "metacritic": "castle-in-the-darkness",
    "mobygames": "102282",
    "pcgamingwiki": "Castle_in_the_Darkness",
    "steam": "262960"
@@ -931,6 +949,7 @@
  {
   "ids": {
    "igdb": "annihilation",
+   "metacritic": "annihilation-2017",
    "mobygames": "101526"
   },
   "label_en": "Annihilation",
@@ -955,6 +974,7 @@
    "gog": "game/neverwinter_nights_enhanced_edition_pack",
    "howlongtobeat": "54495",
    "igdb": "neverwinter-nights-enhanced-edition",
+   "metacritic": "neverwinter-nights-enhanced-edition",
    "mobygames": "106190",
    "pcgamingwiki": "Neverwinter_Nights:_Enhanced_Edition",
    "steam": "704450"
@@ -1361,6 +1381,7 @@
  {
   "enwiki": "Serious Sam: The Third Encounter",
   "ids": {
+   "pcgamingwiki": "Serious_Sam:_The_Third_Encounter",
    "steam": "459920"
   },
   "label_en": "Serious Sam: The Third Encounter",

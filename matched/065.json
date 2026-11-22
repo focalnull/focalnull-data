@@ -31,6 +31,7 @@
   "ids": {
    "howlongtobeat": "1217",
    "igdb": "body-harvest",
+   "metacritic": "body-harvest",
    "mobygames": "5863"
   },
   "label_en": "Body Harvest",
@@ -79,6 +80,7 @@
  {
   "ids": {
    "igdb": "phantasy-star-online-blue-burst",
+   "metacritic": "phantasy-star-online-episode-i-and-ii",
    "mobygames": "21632"
   },
   "label_en": "Phantasy Star Online: Blue Burst",
@@ -88,6 +90,7 @@
   "enwiki": "Unreal Championship 2: The Liandri Conflict",
   "ids": {
    "igdb": "unreal-championship-2-the-liandri-conflict",
+   "metacritic": "unreal-championship-2-the-liandri-conflict",
    "mobygames": "18955"
   },
   "label_en": "Unreal Championship 2: The Liandri Conflict",
@@ -98,6 +101,7 @@
   "ids": {
    "howlongtobeat": "203",
    "igdb": "advance-guardian-heroes",
+   "metacritic": "advance-guardian-heroes",
    "mobygames": "17997"
   },
   "label_en": "Advance Guardian Heroes",
@@ -112,6 +116,7 @@
   "enwiki": "Drawn to Life: SpongeBob SquarePants Edition",
   "ids": {
    "igdb": "drawn-to-life-spongebob-squarepants-edition",
+   "metacritic": "drawn-to-life-spongebob-squarepants-edition",
    "mobygames": "48180"
   },
   "label_en": "Drawn to Life: SpongeBob SquarePants Edition",
@@ -122,6 +127,7 @@
   "ids": {
    "howlongtobeat": "3033",
    "igdb": "earth-defense-force-insect-armageddon",
+   "metacritic": "earth-defense-force-insect-armageddon",
    "mobygames": "52050",
    "pcgamingwiki": "Earth_Defense_Force:_Insect_Armageddon",
    "steam": "23530"
@@ -152,6 +158,7 @@
   "enwiki": "Get on da Mic",
   "ids": {
    "igdb": "get-on-da-mic",
+   "metacritic": "get-on-da-mic",
    "mobygames": "60625"
   },
   "label_en": "Get on da Mic",
@@ -196,6 +203,7 @@
   "ids": {
    "howlongtobeat": "22905",
    "igdb": "final-horizon",
+   "metacritic": "final-horizon",
    "mobygames": "86758"
   },
   "label_en": "Final Horizon",
@@ -207,6 +215,7 @@
    "gog": "game/blockhood",
    "howlongtobeat": "35903",
    "igdb": "blockhood",
+   "metacritic": "blockhood",
    "mobygames": "88388",
    "pcgamingwiki": "Block'hood",
    "steam": "416210"
@@ -227,6 +236,7 @@
    "epic": "gray-dawn-a0cc44",
    "howlongtobeat": "57590",
    "igdb": "gray-dawn",
+   "metacritic": "gray-dawn",
    "mobygames": "116512",
    "pcgamingwiki": "Gray_Dawn",
    "steam": "747360"
@@ -238,6 +248,7 @@
   "ids": {
    "epic": "musrooms-forest-walker-e712fd",
    "igdb": "mushrooms-forest-walker",
+   "metacritic": "mushrooms-forest-walker",
    "pcgamingwiki": "Mushrooms:_Forest_Walker",
    "steam": "769100"
   },
@@ -249,6 +260,7 @@
    "gog": "game/apsulov_end_of_gods",
    "howlongtobeat": "69631",
    "igdb": "apsulov-end-of-gods",
+   "metacritic": "apsulov-end-of-gods",
    "mobygames": "132388",
    "pcgamingwiki": "Apsulov:_End_of_Gods",
    "steam": "960980"
@@ -294,6 +306,7 @@
   "ids": {
    "howlongtobeat": "40295",
    "igdb": "haydee",
+   "metacritic": "haydee",
    "mobygames": "80932",
    "pcgamingwiki": "Haydee",
    "steam": "530890"
@@ -322,6 +335,7 @@
   "ids": {
    "howlongtobeat": "46200",
    "igdb": "embers-of-mirrim",
+   "metacritic": "embers-of-mirrim",
    "mobygames": "89078",
    "pcgamingwiki": "Embers_of_Mirrim",
    "steam": "596080"
@@ -359,6 +373,7 @@
  {
   "ids": {
    "igdb": "radon-break",
+   "metacritic": "radon-break",
    "mobygames": "184396",
    "steam": "1936190"
   },
@@ -370,6 +385,7 @@
   "ids": {
    "howlongtobeat": "84412",
    "igdb": "this-is-the-zodiac-speaking",
+   "metacritic": "this-is-the-zodiac-speaking",
    "mobygames": "151102",
    "pcgamingwiki": "This_is_the_Zodiac_Speaking",
    "steam": "907710"
@@ -455,6 +471,7 @@
   "ids": {
    "howlongtobeat": "59444",
    "igdb": "the-office-quest",
+   "metacritic": "the-office-quest",
    "mobygames": "114409",
    "pcgamingwiki": "The_Office_Quest",
    "steam": "810660"
@@ -557,6 +574,7 @@
    "gog": "game/astrodogs",
    "howlongtobeat": "92844",
    "igdb": "astrodogs",
+   "metacritic": "astrodogs",
    "mobygames": "202752",
    "pcgamingwiki": "Astrodogs",
    "steam": "1301230"
@@ -812,6 +830,7 @@
   "ids": {
    "howlongtobeat": "110310",
    "igdb": "the-night-is-grey",
+   "metacritic": "the-night-is-grey",
    "mobygames": "171668",
    "pcgamingwiki": "The_Night_is_Grey",
    "steam": "1281490"
@@ -1214,6 +1233,7 @@
  {
   "ids": {
    "igdb": "cooking-dash",
+   "pcgamingwiki": "Cooking_Dash",
    "steam": "37220"
   },
   "label_en": "Cooking Dash®",

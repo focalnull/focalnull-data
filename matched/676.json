@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "15644",
    "igdb": "disney-sports-basketball",
+   "metacritic": "disney-sports-basketball",
    "mobygames": "75701"
   },
   "label_en": "Disney Sports Basketball",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "7812",
    "igdb": "ridge-racer-unbounded",
+   "metacritic": "ridge-racer-unbounded",
    "mobygames": "55502",
    "pcgamingwiki": "Ridge_Racer_Unbounded",
    "steam": "202310"
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "10936",
    "igdb": "viewtiful-joe-double-trouble",
+   "metacritic": "viewtiful-joe-double-trouble",
    "mobygames": "21296"
   },
   "label_en": "Viewtiful Joe: Double Trouble!",
@@ -105,6 +108,7 @@
   "ids": {
    "howlongtobeat": "10314",
    "igdb": "thrillville",
+   "metacritic": "thrillville",
    "mobygames": "25370"
   },
   "label_en": "Thrillville",
@@ -142,6 +146,7 @@
   "ids": {
    "howlongtobeat": "6819",
    "igdb": "otogi-myth-of-demons",
+   "metacritic": "otogi-myth-of-demons",
    "mobygames": "15052"
   },
   "label_en": "Otogi: Myth of Demons",
@@ -152,6 +157,7 @@
   "ids": {
    "howlongtobeat": "10642",
    "igdb": "trials-hd",
+   "metacritic": "trials-hd",
    "mobygames": "45959"
   },
   "label_en": "Trials HD",
@@ -179,6 +185,7 @@
   "enwiki": "Rock Band Blitz",
   "ids": {
    "igdb": "rock-band-blitz",
+   "metacritic": "rock-band-blitz",
    "mobygames": "63947"
   },
   "label_en": "Rock Band Blitz",
@@ -188,6 +195,7 @@
   "enwiki": "CrimeCraft",
   "ids": {
    "igdb": "crimecraft",
+   "metacritic": "crimecraft",
    "mobygames": "57400"
   },
   "label_en": "CrimeCraft",
@@ -197,6 +205,7 @@
   "enwiki": "Freekstyle",
   "ids": {
    "igdb": "freekstyle",
+   "metacritic": "freekstyle",
    "mobygames": "14358"
   },
   "label_en": "Freekstyle",
@@ -224,6 +233,7 @@
   "enwiki": "NBA Jam (2003 video game)",
   "ids": {
    "igdb": "nba-jam--2",
+   "metacritic": "nba-jam-2003",
    "mobygames": "14560"
   },
   "label_en": "NBA Jam",
@@ -290,6 +300,7 @@
   "ids": {
    "howlongtobeat": "13631",
    "igdb": "takedown-red-sabre",
+   "metacritic": "takedown-red-sabre",
    "mobygames": "65910",
    "pcgamingwiki": "Takedown:_Red_Sabre",
    "steam": "236510"
@@ -319,6 +330,7 @@
    "gog": "game/the_signal_from_tolva",
    "howlongtobeat": "44092",
    "igdb": "the-signal-from-tolva",
+   "metacritic": "the-signal-from-tolva",
    "mobygames": "86714",
    "pcgamingwiki": "The_Signal_From_Tölva",
    "steam": "457760"
@@ -343,6 +355,7 @@
   "ids": {
    "howlongtobeat": "68192",
    "igdb": "evil-genius-2-world-domination",
+   "metacritic": "evil-genius-2-world-domination",
    "mobygames": "161492",
    "pcgamingwiki": "Evil_Genius_2:_World_Domination",
    "steam": "700600"
@@ -355,6 +368,7 @@
   "ids": {
    "howlongtobeat": "48733",
    "igdb": "age-of-empires-iv",
+   "metacritic": "age-of-empires-iv",
    "mobygames": "174359",
    "pcgamingwiki": "Age_of_Empires_IV",
    "steam": "1466860"
@@ -383,6 +397,7 @@
    "gog": "game/asterix_obelix_slap_them_all",
    "howlongtobeat": "100942",
    "igdb": "asterix-and-obelix-slap-them-all",
+   "metacritic": "asterix-and-obelix-slap-them-all",
    "mobygames": "176142",
    "pcgamingwiki": "Asterix_&_Obelix:_Slap_Them_All!",
    "steam": "1492310"
@@ -394,6 +409,7 @@
   "ids": {
    "howlongtobeat": "50143",
    "igdb": "killing-floor-incursion",
+   "metacritic": "killing-floor-incursion",
    "mobygames": "98211",
    "pcgamingwiki": "Killing_Floor:_Incursion",
    "steam": "690810"
@@ -458,6 +474,7 @@
   "ids": {
    "howlongtobeat": "64427",
    "igdb": "trivia-vault-soccer-trivia",
+   "metacritic": "trivia-vault-soccer-trivia",
    "pcgamingwiki": "Trivia_Vault:_Soccer_Trivia",
    "steam": "844140"
   },
@@ -499,6 +516,7 @@
    "gog": "game/kukkorodays",
    "howlongtobeat": "77947",
    "igdb": "kukkorodays",
+   "metacritic": "kukkorodays",
    "mobygames": "148509",
    "steam": "1258340"
   },
@@ -508,6 +526,7 @@
  {
   "ids": {
    "howlongtobeat": "130791",
+   "metacritic": "cuckold-simulator",
    "mobygames": "139119"
   },
   "label_en": "Cuckold Simulator",
@@ -884,6 +903,7 @@
   "ids": {
    "howlongtobeat": "123689",
    "igdb": "cuddly-forest-friends",
+   "metacritic": "cuddly-forest-friends",
    "mobygames": "198968"
   },
   "label_en": "Cuddly Forest Friends",
@@ -941,6 +961,7 @@
   "ids": {
    "howlongtobeat": "98540",
    "igdb": "pentapuzzle",
+   "metacritic": "pentapuzzle",
    "mobygames": "100985"
   },
   "label_en": "PENTAPUZZLE",
@@ -1276,6 +1297,7 @@
   "enwiki": "Thief: The Dark Project Remastered",
   "ids": {
    "igdb": "thief-the-dark-project-remastered",
+   "metacritic": "thief-the-dark-project-remastered",
    "mobygames": "262508",
    "pcgamingwiki": "Thief:_The_Dark_Project_Remastered",
    "steam": "4200960"

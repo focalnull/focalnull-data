@@ -41,6 +41,7 @@
   "ids": {
    "howlongtobeat": "7077",
    "igdb": "pitfall-the-mayan-adventure",
+   "metacritic": "pitfall-the-mayan-adventure",
    "mobygames": "2399",
    "pcgamingwiki": "Pitfall:_The_Mayan_Adventure"
   },
@@ -52,6 +53,7 @@
   "ids": {
    "howlongtobeat": "7261",
    "igdb": "power-stone-2",
+   "metacritic": "power-stone-2",
    "mobygames": "4070"
   },
   "label_en": "Power Stone 2",
@@ -61,6 +63,7 @@
   "enwiki": "Spectrobes (video game)",
   "ids": {
    "igdb": "spectrobes",
+   "metacritic": "spectrobes",
    "mobygames": "27659"
   },
   "label_en": "Spectrobes",
@@ -78,6 +81,7 @@
   "ids": {
    "howlongtobeat": "9199",
    "igdb": "steel-battalion",
+   "metacritic": "steel-battalion",
    "mobygames": "7805"
   },
   "label_en": "Steel Battalion",
@@ -105,6 +109,7 @@
   "ids": {
    "howlongtobeat": "26413",
    "igdb": "slendermans-shadow",
+   "metacritic": "slendermans-shadow",
    "pcgamingwiki": "Slenderman's_Shadow"
   },
   "label_en": "Slenderman's Shadow",
@@ -123,6 +128,7 @@
   "enwiki": "Curious George (video game)",
   "ids": {
    "igdb": "curious-george",
+   "metacritic": "curious-george",
    "mobygames": "74649",
    "pcgamingwiki": "Curious_George"
   },
@@ -133,6 +139,7 @@
   "enwiki": "Enemy Engaged 2",
   "ids": {
    "igdb": "enemy-engaged-2",
+   "metacritic": "enemy-engaged-2",
    "mobygames": "47461",
    "pcgamingwiki": "Enemy_Engaged_2"
   },
@@ -150,6 +157,7 @@
   "enwiki": "Indianapolis 500 Legends",
   "ids": {
    "igdb": "indianapolis-500-legends",
+   "metacritic": "indianapolis-500-legends",
    "mobygames": "37147"
   },
   "label_en": "Indianapolis 500 Legends",
@@ -159,6 +167,7 @@
   "enwiki": "Seek and Destroy (2002 video game)",
   "ids": {
    "igdb": "seek-and-destroy--1",
+   "metacritic": "seek-and-destroy",
    "mobygames": "22650"
   },
   "label_en": "Seek and Destroy",
@@ -167,7 +176,8 @@
  {
   "enwiki": "Sonic & Garfield Pack",
   "ids": {
-   "igdb": "sonic-and-garfield-pack"
+   "igdb": "sonic-and-garfield-pack",
+   "metacritic": "sonic-garfield-pack"
   },
   "label_en": "Sonic & Garfield Pack",
   "wikidata": "Q7561777"
@@ -234,6 +244,7 @@
    "gog": "game/cook_serve_delicious",
    "howlongtobeat": "1923",
    "igdb": "cook-serve-delicious",
+   "metacritic": "cook-serve-delicious",
    "mobygames": "82465",
    "pcgamingwiki": "Cook,_Serve,_Delicious!",
    "steam": "247020"
@@ -287,6 +298,7 @@
   "ids": {
    "howlongtobeat": "101926",
    "igdb": "kartrider-drift",
+   "metacritic": "kartrider-drift",
    "mobygames": "197997",
    "pcgamingwiki": "KartRider:_Drift",
    "steam": "1184140"
@@ -298,6 +310,7 @@
   "ids": {
    "howlongtobeat": "73322",
    "igdb": "roombo-first-blood",
+   "metacritic": "roombo-first-blood",
    "mobygames": "125708",
    "pcgamingwiki": "Roombo:_First_Blood",
    "steam": "1004610"
@@ -320,6 +333,7 @@
   "ids": {
    "howlongtobeat": "60457",
    "igdb": "thief-of-thieves-season-one",
+   "metacritic": "thief-of-thieves-season-one",
    "mobygames": "112262",
    "pcgamingwiki": "Thief_of_Thieves:_Season_One",
    "steam": "635390"
@@ -347,6 +361,7 @@
    "gog": "game/unto_the_end",
    "howlongtobeat": "49816",
    "igdb": "unto-the-end",
+   "metacritic": "unto-the-end",
    "mobygames": "135842",
    "pcgamingwiki": "Unto_the_End",
    "steam": "600080"
@@ -364,6 +379,7 @@
    "gog": "game/dread_nautical",
    "howlongtobeat": "71177",
    "igdb": "dread-nautical",
+   "metacritic": "dread-nautical",
    "mobygames": "135527",
    "pcgamingwiki": "Dread_Nautical",
    "steam": "1426900"
@@ -376,6 +392,7 @@
   "ids": {
    "epic": "honkai-star-rail",
    "igdb": "honkai-star-rail",
+   "metacritic": "honkai-star-rail",
    "mobygames": "202242",
    "pcgamingwiki": "Honkai:_Star_Rail"
   },
@@ -384,6 +401,7 @@
  },
  {
   "ids": {
+   "metacritic": "nier",
    "mobygames": "46486"
   },
   "label_en": "NieR Gestalt",
@@ -405,6 +423,7 @@
    "howlongtobeat": "107044",
    "igdb": "hotel-transylvania-scary-tale-adventures",
    "mobygames": "185202",
+   "pcgamingwiki": "Hotel_Transylvania:_Scary_Tale_Adventures",
    "steam": "1433500"
   },
   "label_en": "Hotel Transylvania: Scary-Tale Adventures",
@@ -451,6 +470,7 @@
   "ids": {
    "howlongtobeat": "52844",
    "igdb": "dresden-files-cooperative-card-game",
+   "metacritic": "dresden-files-cooperative-card-game",
    "mobygames": "97767",
    "pcgamingwiki": "Dresden_Files_Cooperative_Card_Game",
    "steam": "661280"
@@ -498,6 +518,7 @@
    "gog": "game/metal_eden",
    "howlongtobeat": "163835",
    "igdb": "metal-eden",
+   "metacritic": "metal-eden",
    "pcgamingwiki": "Metal_Eden",
    "steam": "990380"
   },
@@ -508,6 +529,7 @@
   "ids": {
    "howlongtobeat": "15866",
    "igdb": "not-the-robots",
+   "metacritic": "not-the-robots",
    "mobygames": "62875",
    "pcgamingwiki": "Not_The_Robots",
    "steam": "257120"
@@ -890,6 +912,7 @@
   "ids": {
    "howlongtobeat": "29097",
    "igdb": "playing-history-3-vikings",
+   "metacritic": "playing-history-vikings",
    "mobygames": "207550",
    "pcgamingwiki": "Playing_History:_Vikings",
    "steam": "368760"
@@ -967,6 +990,7 @@
  {
   "ids": {
    "igdb": "gravity-plus",
+   "metacritic": "gravity-plus",
    "mobygames": "101307"
   },
   "label_en": "Gravity+",

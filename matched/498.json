@@ -57,6 +57,7 @@
   "ids": {
    "howlongtobeat": "8058",
    "igdb": "saga-frontier",
+   "metacritic": "saga-frontier-remastered",
    "mobygames": "8435"
   },
   "label_en": "SaGa Frontier",
@@ -76,6 +77,7 @@
   "ids": {
    "howlongtobeat": "5502",
    "igdb": "madden-nfl-2001",
+   "metacritic": "madden-nfl-2001",
    "mobygames": "2999"
   },
   "label_en": "Madden NFL 2001",
@@ -138,6 +140,7 @@
   "enwiki": "Heracles Chariot Racing",
   "ids": {
    "igdb": "heracles-chariot-racing",
+   "metacritic": "heracles-chariot-racing",
    "mobygames": "85462"
   },
   "label_en": "Heracles Chariot Racing",
@@ -164,6 +167,9 @@
   "wikidata": "Q10846498"
  },
  {
+  "ids": {
+   "metacritic": "99-no-namida"
+  },
   "label_en": "99 no Namida",
   "wikidata": "Q11188498"
  },
@@ -184,6 +190,7 @@
   "ids": {
    "howlongtobeat": "21245",
    "igdb": "adventure-time-the-secret-of-the-nameless-kingdom",
+   "metacritic": "adventure-time-the-secret-of-the-nameless-kingdom",
    "mobygames": "78215",
    "pcgamingwiki": "Adventure_Time:_The_Secret_of_the_Nameless_Kingdom",
    "steam": "298890"
@@ -196,6 +203,7 @@
   "ids": {
    "howlongtobeat": "26403",
    "igdb": "madden-nfl-16",
+   "metacritic": "madden-nfl-16",
    "mobygames": "84065"
   },
   "label_en": "Madden NFL 16",
@@ -258,6 +266,7 @@
    "gog": "game/butcher",
    "howlongtobeat": "40350",
    "igdb": "butcher",
+   "metacritic": "butcher",
    "mobygames": "88303",
    "pcgamingwiki": "Butcher",
    "steam": "474210"
@@ -277,6 +286,7 @@
   "ids": {
    "howlongtobeat": "38385",
    "igdb": "the-brookhaven-experiment",
+   "metacritic": "the-brookhaven-experiment",
    "mobygames": "84152",
    "pcgamingwiki": "The_Brookhaven_Experiment",
    "steam": "440630"
@@ -288,6 +298,7 @@
   "enwiki": "Just Dance 2022",
   "ids": {
    "igdb": "just-dance-2022",
+   "metacritic": "just-dance-2022",
    "mobygames": "174816"
   },
   "label_en": "Just Dance 2022",
@@ -333,6 +344,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-cruise-director-4",
+   "metacritic": "vacation-adventures-cruise-director-4",
    "steam": "1773840"
   },
   "label_en": "Vacation Adventures: Cruise Director 4",
@@ -382,6 +394,7 @@
  {
   "ids": {
    "igdb": "inside-pitch-2003",
+   "metacritic": "inside-pitch-2003",
    "mobygames": "9274"
   },
   "label_en": "Inside Pitch 2003",
@@ -416,6 +429,7 @@
    "gog": "game/the_talos_principle_2",
    "howlongtobeat": "129256",
    "igdb": "the-talos-principle-ii",
+   "metacritic": "the-talos-principle-ii",
    "mobygames": "211252",
    "pcgamingwiki": "The_Talos_Principle_2",
    "steam": "835960"
@@ -639,6 +653,7 @@
    "gog": "game/trinity_fusion",
    "howlongtobeat": "123801",
    "igdb": "trinity-fusion",
+   "metacritic": "trinity-fusion",
    "mobygames": "201814",
    "pcgamingwiki": "Trinity_Fusion",
    "steam": "1911360"
@@ -826,6 +841,7 @@
   "ids": {
    "howlongtobeat": "131878",
    "igdb": "miside",
+   "metacritic": "miside",
    "mobygames": "234612",
    "pcgamingwiki": "MiSide",
    "steam": "2527500"
@@ -888,6 +904,7 @@
    "epic": "menace-005d41",
    "gog": "game/menace",
    "igdb": "menace--1",
+   "metacritic": "menace",
    "pcgamingwiki": "Menace_(2026)",
    "steam": "2432860"
   },
@@ -1067,6 +1084,7 @@
  {
   "ids": {
    "igdb": "instinct",
+   "pcgamingwiki": "Instinct",
    "steam": "3061920"
   },
   "label_en": "Instinct",

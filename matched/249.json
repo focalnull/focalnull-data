@@ -26,6 +26,7 @@
   "enwiki": "Final Fight 2",
   "ids": {
    "igdb": "final-fight-2",
+   "metacritic": "final-fight-2",
    "mobygames": "9845"
   },
   "label_en": "Final Fight 2",
@@ -55,6 +56,7 @@
   "ids": {
    "howlongtobeat": "702",
    "igdb": "atelier-iris-eternal-mana",
+   "metacritic": "atelier-iris-eternal-mana",
    "mobygames": "18409"
   },
   "label_en": "Atelier Iris: Eternal Mana",
@@ -65,6 +67,7 @@
   "ids": {
    "howlongtobeat": "253",
    "igdb": "after-burner-climax",
+   "metacritic": "after-burner-climax",
    "mobygames": "47248"
   },
   "label_en": "After Burner Climax",
@@ -108,6 +111,7 @@
   "ids": {
    "howlongtobeat": "370",
    "igdb": "alien-syndrome",
+   "metacritic": "alien-syndrome",
    "mobygames": "30216"
   },
   "label_en": "Alien Syndrome",
@@ -151,6 +155,7 @@
   "enwiki": "MotoGP '06",
   "ids": {
    "igdb": "motogp-06",
+   "metacritic": "motogp-06",
    "mobygames": "22840"
   },
   "label_en": "MotoGP '06",
@@ -189,6 +194,7 @@
   "enwiki": "IndyCar Series (video game)",
   "ids": {
    "igdb": "indycar-series",
+   "metacritic": "indycar-series",
    "mobygames": "10877",
    "pcgamingwiki": "IndyCar_Series"
   },
@@ -204,6 +210,7 @@
   "ids": {
    "howlongtobeat": "8837",
    "igdb": "space-ark",
+   "metacritic": "space-ark-2010",
    "mobygames": "127963",
    "pcgamingwiki": "Space_Ark",
    "steam": "19320"
@@ -257,6 +264,7 @@
   "ids": {
    "howlongtobeat": "52495",
    "igdb": "dissidia-final-fantasy-nt-free-edition",
+   "metacritic": "dissidia-final-fantasy-nt",
    "mobygames": "102265",
    "pcgamingwiki": "Dissidia_Final_Fantasy_NT",
    "steam": "921590"
@@ -278,6 +286,7 @@
   "ids": {
    "howlongtobeat": "95627",
    "igdb": "uncommon-valor-campaign-for-the-south-pacific",
+   "metacritic": "uncommon-valor-campaign-for-the-south-pacific",
    "mobygames": "7073"
   },
   "label_en": "Uncommon Valor: Campaign for the South Pacific",
@@ -298,6 +307,7 @@
    "gog": "game/ruiner",
    "howlongtobeat": "45166",
    "igdb": "ruiner",
+   "metacritic": "ruiner",
    "mobygames": "96432",
    "pcgamingwiki": "Ruiner",
    "steam": "464060"
@@ -310,6 +320,7 @@
   "ids": {
    "howlongtobeat": "69074",
    "igdb": "xenon-racer",
+   "metacritic": "xenon-racer",
    "mobygames": "120643",
    "pcgamingwiki": "Xenon_Racer",
    "steam": "899390"
@@ -330,6 +341,7 @@
    "epic": "wrc-8",
    "howlongtobeat": "70659",
    "igdb": "wrc-8",
+   "metacritic": "wrc-8-fia-world-rally-championship",
    "mobygames": "134510",
    "pcgamingwiki": "WRC_8:_FIA_World_Rally_Championship",
    "steam": "1004750"
@@ -348,6 +360,7 @@
   "enwiki": "MTV Music Generator 2",
   "ids": {
    "igdb": "mtv-music-generator-2",
+   "metacritic": "mtv-music-generator-2",
    "mobygames": "37738"
   },
   "label_en": "MTV Music Generator 2",
@@ -376,6 +389,7 @@
    "gog": "game/tempest",
    "howlongtobeat": "34435",
    "igdb": "tempest--1",
+   "metacritic": "tempest-pirate-action-rpg",
    "mobygames": "84812",
    "pcgamingwiki": "Tempest",
    "steam": "418180"
@@ -388,6 +402,7 @@
   "ids": {
    "howlongtobeat": "28702",
    "igdb": "bentleys-hackpack",
+   "metacritic": "bentleys-hackpack",
    "mobygames": "101086"
   },
   "label_en": "Bentley's Hackpack",
@@ -397,6 +412,7 @@
   "ids": {
    "howlongtobeat": "20738",
    "igdb": "q-star-bert-rebooted",
+   "metacritic": "qbert-rebooted",
    "mobygames": "66853",
    "pcgamingwiki": "Q*bert:_Rebooted",
    "steam": "285960"
@@ -471,6 +487,7 @@
   "ids": {
    "howlongtobeat": "20969",
    "igdb": "fight-the-dragon",
+   "metacritic": "fight-the-dragon",
    "mobygames": "105930",
    "pcgamingwiki": "Fight_The_Dragon",
    "steam": "250560"
@@ -493,6 +510,7 @@
    "gog": "game/curse_of_the_sea_rats",
    "howlongtobeat": "109022",
    "igdb": "curse-of-the-sea-rats",
+   "metacritic": "curse-of-the-sea-rats",
    "mobygames": "201467",
    "pcgamingwiki": "Curse_of_the_Sea_Rats",
    "steam": "1453900"
@@ -504,6 +522,7 @@
   "ids": {
    "howlongtobeat": "52358",
    "igdb": "lethis-daring-discoverers",
+   "metacritic": "lethis-daring-discoverers",
    "mobygames": "92833",
    "pcgamingwiki": "Lethis:_Daring_Discoverers",
    "steam": "580570"
@@ -925,6 +944,7 @@
  {
   "ids": {
    "igdb": "rto",
+   "metacritic": "rto",
    "mobygames": "98053"
   },
   "label_en": "RTO",

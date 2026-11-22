@@ -3,6 +3,7 @@
   "enwiki": "Project X Zone",
   "ids": {
    "igdb": "project-x-zone",
+   "metacritic": "project-x-zone",
    "mobygames": "63587"
   },
   "label_en": "Project X Zone",
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "1783",
    "igdb": "codename-gordon",
+   "metacritic": "codename-gordon",
    "mobygames": "13365",
    "pcgamingwiki": "Codename:_Gordon"
   },
@@ -44,6 +46,7 @@
   "ids": {
    "howlongtobeat": "8763",
    "igdb": "sonic-generations",
+   "metacritic": "sonic-generations",
    "mobygames": "54053",
    "pcgamingwiki": "Sonic_Generations",
    "steam": "71340"
@@ -73,6 +76,7 @@
   "ids": {
    "howlongtobeat": "2965",
    "igdb": "dungeons-steam-special-edition",
+   "metacritic": "dungeons",
    "mobygames": "51938",
    "pcgamingwiki": "Dungeons",
    "steam": "57650"
@@ -85,6 +89,7 @@
   "ids": {
    "howlongtobeat": "43743",
    "igdb": "dear-esther",
+   "metacritic": "dear-esther",
    "mobygames": "54821",
    "pcgamingwiki": "Dear_Esther",
    "steam": "203810"
@@ -105,6 +110,7 @@
   "enwiki": "Innocent Life: A Futuristic Harvest Moon",
   "ids": {
    "igdb": "innocent-life-a-futuristic-harvest-moon",
+   "metacritic": "innocent-life-a-futuristic-harvest-moon",
    "mobygames": "34408"
   },
   "label_en": "Innocent Life: A Futuristic Harvest Moon",
@@ -239,6 +245,7 @@
    "epic": "far-cry-3-blood-dragon",
    "howlongtobeat": "3379",
    "igdb": "far-cry-3-blood-dragon",
+   "metacritic": "far-cry-3-blood-dragon",
    "mobygames": "60516",
    "pcgamingwiki": "Far_Cry_3_Blood_Dragon",
    "steam": "233270"
@@ -250,6 +257,7 @@
   "enwiki": "Sub Rebellion",
   "ids": {
    "igdb": "sub-rebellion",
+   "metacritic": "sub-rebellion",
    "mobygames": "57847"
   },
   "label_en": "Sub Rebellion",
@@ -268,6 +276,7 @@
   "enwiki": "OneChanbara: Bikini Zombie Slayers",
   "ids": {
    "igdb": "onechanbara-bikini-zombie-slayers",
+   "metacritic": "onechanbara-bikini-zombie-slayers",
    "mobygames": "34570"
   },
   "label_en": "OneChanbara: Bikini Zombie Slayers",
@@ -279,6 +288,7 @@
    "gog": "game/a_golden_wake",
    "howlongtobeat": "23076",
    "igdb": "a-golden-wake",
+   "metacritic": "a-golden-wake",
    "mobygames": "71204",
    "pcgamingwiki": "A_Golden_Wake",
    "steam": "307570"
@@ -291,6 +301,7 @@
   "ids": {
    "howlongtobeat": "25999",
    "igdb": "sid-meiers-starships",
+   "metacritic": "sid-meiers-starships",
    "mobygames": "76460",
    "pcgamingwiki": "Sid_Meier's_Starships",
    "steam": "282210"
@@ -323,6 +334,7 @@
   "ids": {
    "howlongtobeat": "22947",
    "igdb": "soul-axiom",
+   "metacritic": "soul-axiom",
    "mobygames": "84036",
    "pcgamingwiki": "Soul_Axiom",
    "steam": "279900"
@@ -345,6 +357,7 @@
    "epic": "911-operator-585edd",
    "howlongtobeat": "41512",
    "igdb": "911-operator",
+   "metacritic": "911-operator",
    "mobygames": "84193",
    "pcgamingwiki": "911_Operator",
    "steam": "503560"
@@ -356,6 +369,7 @@
   "ids": {
    "howlongtobeat": "27864",
    "igdb": "ninja-pizza-girl--1",
+   "metacritic": "ninja-pizza-girl",
    "mobygames": "87149",
    "pcgamingwiki": "Ninja_Pizza_Girl",
    "steam": "319470"
@@ -372,6 +386,7 @@
   "enwiki": "Vigor (video game)",
   "ids": {
    "igdb": "vigor",
+   "metacritic": "vigor",
    "mobygames": "225696",
    "steam": "2818260"
   },
@@ -398,6 +413,7 @@
   "ids": {
    "howlongtobeat": "93950",
    "igdb": "redfall",
+   "metacritic": "redfall",
    "mobygames": "202522",
    "pcgamingwiki": "Redfall",
    "steam": "1294810"
@@ -490,6 +506,7 @@
   "ids": {
    "howlongtobeat": "1813",
    "igdb": "colour-bind",
+   "metacritic": "colour-bind",
    "mobygames": "101716",
    "pcgamingwiki": "Colour_Bind",
    "steam": "208710"
@@ -525,6 +542,7 @@
    "epic": "titan-quest-ii-391cf4",
    "howlongtobeat": "132803",
    "igdb": "titan-quest-ii",
+   "metacritic": "titan-quest-ii",
    "mobygames": "243296",
    "pcgamingwiki": "Titan_Quest_II",
    "steam": "1154030"
@@ -952,6 +970,7 @@
   "ids": {
    "howlongtobeat": "143310",
    "igdb": "buckshot-roulette",
+   "metacritic": "buckshot-roulette",
    "mobygames": "216648",
    "pcgamingwiki": "Buckshot_Roulette",
    "steam": "2835570"
@@ -969,7 +988,8 @@
  },
  {
   "ids": {
-   "igdb": "azur-promilia"
+   "igdb": "azur-promilia",
+   "metacritic": "azur-promilia"
   },
   "label_en": "Azur Promilia",
   "wikidata": "Q125157764"
@@ -1030,6 +1050,9 @@
   "wikidata": "Q126963764"
  },
  {
+  "ids": {
+   "metacritic": "invanoid"
+  },
   "label_en": "INVANOID",
   "wikidata": "Q128796764"
  },
@@ -1037,6 +1060,7 @@
   "ids": {
    "howlongtobeat": "148074",
    "igdb": "asgards-fall-viking-survivors",
+   "metacritic": "asgards-fall-origins",
    "steam": "2484990"
   },
   "label_en": "Asgard's Fall: Origins",
@@ -1301,6 +1325,7 @@
  {
   "ids": {
    "igdb": "snake--3",
+   "pcgamingwiki": "Snake",
    "steam": "1332800"
   },
   "label_en": "Snake",
@@ -1350,6 +1375,7 @@
  {
   "ids": {
    "igdb": "the-skin-stapler",
+   "pcgamingwiki": "The_Skin_Stapler",
    "steam": "4310610"
   },
   "label_en": "The Skin Stapler",

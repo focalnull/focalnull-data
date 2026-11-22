@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "2956",
    "igdb": "dungeon-siege",
+   "metacritic": "dungeon-siege",
    "mobygames": "6088",
    "pcgamingwiki": "Dungeon_Siege",
    "steam": "39190"
@@ -26,6 +27,7 @@
    "gog": "game/medal_of_honor_pacific_assault",
    "howlongtobeat": "5787",
    "igdb": "medal-of-honor-pacific-assault",
+   "metacritic": "medal-of-honor-pacific-assault",
    "mobygames": "15634",
    "pcgamingwiki": "Medal_of_Honor:_Pacific_Assault"
   },
@@ -45,6 +47,7 @@
   "enwiki": "Ben 10: Omniverse (video game)",
   "ids": {
    "igdb": "ben-10-omniverse",
+   "metacritic": "ben-10-omniverse",
    "mobygames": "85077"
   },
   "label_en": "Ben 10: Omniverse",
@@ -55,6 +58,7 @@
   "ids": {
    "howlongtobeat": "2674",
    "igdb": "dont-look-back",
+   "metacritic": "dont-look-back-2009",
    "mobygames": "39765",
    "pcgamingwiki": "Don't_Look_Back",
    "steam": "601550"
@@ -74,6 +78,7 @@
   "enwiki": "Formula One 2001 (video game)",
   "ids": {
    "igdb": "formula-one-2001",
+   "metacritic": "formula-one-2001",
    "mobygames": "9730"
   },
   "label_en": "Formula One 2001",
@@ -105,6 +110,7 @@
    "gog": "game/capsized",
    "howlongtobeat": "1512",
    "igdb": "capsized",
+   "metacritic": "capsized",
    "mobygames": "51417",
    "pcgamingwiki": "Capsized",
    "steam": "95300"
@@ -150,6 +156,7 @@
   "enwiki": "Castle of Shikigami III",
   "ids": {
    "igdb": "castle-of-shikigami-3",
+   "metacritic": "castle-of-shikigami-iii",
    "mobygames": "34421",
    "steam": "3253690"
   },
@@ -178,6 +185,7 @@
    "gog": "game/sheltered",
    "howlongtobeat": "29224",
    "igdb": "sheltered",
+   "metacritic": "sheltered",
    "mobygames": "86972",
    "pcgamingwiki": "Sheltered",
    "steam": "356040"
@@ -190,6 +198,7 @@
    "epic": "jackbox-party-pack-2",
    "howlongtobeat": "32205",
    "igdb": "the-jackbox-party-pack-2",
+   "metacritic": "the-jackbox-party-pack-2",
    "mobygames": "82267",
    "pcgamingwiki": "The_Jackbox_Party_Pack_2",
    "steam": "397460"
@@ -233,6 +242,7 @@
    "epic": "the-complex-0ca5bb",
    "howlongtobeat": "75916",
    "igdb": "the-complex",
+   "metacritic": "the-complex",
    "mobygames": "143660",
    "pcgamingwiki": "The_Complex",
    "steam": "1107790"
@@ -245,6 +255,7 @@
   "ids": {
    "howlongtobeat": "20763",
    "igdb": "nfl-gameday-2003",
+   "metacritic": "nfl-gameday-2003",
    "mobygames": "9659"
   },
   "label_en": "NFL GameDay 2003",
@@ -272,6 +283,7 @@
    "epic": "naraka-bladepoint",
    "howlongtobeat": "72860",
    "igdb": "naraka-bladepoint",
+   "metacritic": "naraka-bladepoint",
    "mobygames": "169275",
    "pcgamingwiki": "Naraka:_Bladepoint",
    "steam": "1203220"
@@ -296,6 +308,7 @@
    "gog": "game/godstrike",
    "howlongtobeat": "91431",
    "igdb": "godstrike",
+   "metacritic": "godstrike",
    "mobygames": "162537",
    "pcgamingwiki": "Godstrike",
    "steam": "1476170"
@@ -306,7 +319,8 @@
  {
   "enwiki": "Assassin's Creed Infinity",
   "ids": {
-   "igdb": "assassins-creed-infinity"
+   "igdb": "assassins-creed-infinity",
+   "metacritic": "assassins-creed-infinity"
   },
   "label_en": "Animus Hub",
   "wikidata": "Q107471349"
@@ -346,6 +360,7 @@
    "gog": "game/reverie_knights_tactics",
    "howlongtobeat": "100480",
    "igdb": "reverie-knights-tactics",
+   "metacritic": "reverie-knights-tactics",
    "mobygames": "178738",
    "pcgamingwiki": "Reverie_Knights_Tactics",
    "steam": "1399690"
@@ -357,6 +372,7 @@
   "ids": {
    "howlongtobeat": "90636",
    "igdb": "100-hidden-mice",
+   "metacritic": "100-hidden-mice",
    "mobygames": "161127",
    "steam": "1522560"
   },
@@ -369,6 +385,7 @@
    "gog": "game/wingspan",
    "howlongtobeat": "83257",
    "igdb": "wingspan",
+   "metacritic": "wingspan",
    "mobygames": "150621",
    "pcgamingwiki": "Wingspan",
    "steam": "1054490"
@@ -735,6 +752,7 @@
   "ids": {
    "howlongtobeat": "30762",
    "igdb": "paperbound",
+   "metacritic": "paperbound",
    "mobygames": "86795",
    "pcgamingwiki": "Paperbound",
    "steam": "339690"
@@ -1104,6 +1122,7 @@
   "ids": {
    "igdb": "yuzi-lims-hentai",
    "mobygames": "130028",
+   "pcgamingwiki": "Yuzi_Lims:_Hentai",
    "steam": "960360"
   },
   "label_en": "Yuzi Lims: Hentai",

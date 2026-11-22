@@ -5,6 +5,7 @@
    "gog": "game/heroes_of_might_and_magic_4_complete",
    "howlongtobeat": "4429",
    "igdb": "heroes-of-might-and-magic-iv-complete-edition",
+   "metacritic": "heroes-of-might-and-magic-iv",
    "mobygames": "6105",
    "pcgamingwiki": "Heroes_of_Might_and_Magic_IV"
   },
@@ -52,6 +53,7 @@
   "ids": {
    "howlongtobeat": "8746",
    "igdb": "sonic-advance-2",
+   "metacritic": "sonic-advance-2",
    "mobygames": "8679"
   },
   "label_en": "Sonic Advance 2",
@@ -92,6 +94,7 @@
   "ids": {
    "howlongtobeat": "453",
    "igdb": "anarchy-reigns",
+   "metacritic": "anarchy-reigns",
    "mobygames": "59509"
   },
   "label_en": "Anarchy Reigns",
@@ -101,6 +104,7 @@
   "enwiki": "Chocolatier (video game)",
   "ids": {
    "igdb": "chocolatier",
+   "metacritic": "chocolatier",
    "mobygames": "40086"
   },
   "label_en": "Chocolatier",
@@ -137,6 +141,7 @@
   "ids": {
    "howlongtobeat": "18207",
    "igdb": "family-game-night-4-the-game-show",
+   "metacritic": "family-game-night-4-the-game-show",
    "mobygames": "66600"
   },
   "label_en": "Hasbro Family Game Night 4: The Game Show",
@@ -190,6 +195,7 @@
   "enwiki": "Stephen King's F13",
   "ids": {
    "igdb": "stephen-kings-f13",
+   "metacritic": "stephen-kings-f13",
    "mobygames": "3474"
   },
   "label_en": "Stephen King's F13",
@@ -273,6 +279,7 @@
    "gog": "game/far_lone_sails",
    "howlongtobeat": "56531",
    "igdb": "far-lone-sails",
+   "metacritic": "far-lone-sails",
    "mobygames": "108904",
    "pcgamingwiki": "FAR:_Lone_Sails",
    "steam": "609320"
@@ -294,6 +301,7 @@
  {
   "ids": {
    "igdb": "pokemon-ultra-moon",
+   "metacritic": "pokemon-ultra-moon",
    "mobygames": "97268"
   },
   "label_en": "Pokémon Ultra Moon",
@@ -324,6 +332,7 @@
    "gog": "game/atom_rpg_postapocalyptic_indie_game",
    "howlongtobeat": "59814",
    "igdb": "atom-rpg",
+   "metacritic": "atom-rpg-post-apocalyptic-indie-game",
    "mobygames": "94646",
    "pcgamingwiki": "ATOM_RPG:_Post-apocalyptic_indie_game",
    "steam": "552620"
@@ -336,6 +345,7 @@
    "epic": "koral-63ea73",
    "howlongtobeat": "72252",
    "igdb": "koral",
+   "metacritic": "koral",
    "mobygames": "126954",
    "pcgamingwiki": "Koral",
    "steam": "896750"
@@ -426,6 +436,7 @@
   "ids": {
    "howlongtobeat": "56713",
    "igdb": "pixeljunk-monsters-2",
+   "metacritic": "pixeljunk-monsters-2",
    "mobygames": "109092",
    "pcgamingwiki": "PixelJunk_Monsters_2",
    "steam": "749800"
@@ -446,6 +457,7 @@
   "ids": {
    "howlongtobeat": "86827",
    "igdb": "bartlows-dread-machine",
+   "metacritic": "bartlows-dread-machine",
    "mobygames": "151157",
    "steam": "1228870"
   },
@@ -475,6 +487,7 @@
   "enwiki": "AlphaBounce",
   "ids": {
    "igdb": "alphabounce",
+   "metacritic": "alphabounce",
    "mobygames": "87176"
   },
   "label_en": "AlphaBounce",
@@ -854,7 +867,8 @@
  },
  {
   "ids": {
-   "igdb": "hentai-ouji-to-warawanai-neko"
+   "igdb": "hentai-ouji-to-warawanai-neko",
+   "metacritic": "hentai-ouji-to-warawanai-neko"
   },
   "label_en": "Hentai Ouji to Warawanai Neko.",
   "wikidata": "Q126678684"
@@ -918,6 +932,7 @@
   "ids": {
    "howlongtobeat": "155642",
    "igdb": "aila",
+   "metacritic": "aila",
    "pcgamingwiki": "A.I.L.A",
    "steam": "2695430"
   },
@@ -929,6 +944,7 @@
   "ids": {
    "howlongtobeat": "139158",
    "igdb": "kusan-city-of-wolves",
+   "metacritic": "kusan-city-of-wolves",
    "pcgamingwiki": "Kusan:_City_of_Wolves",
    "steam": "1714510"
   },
@@ -967,6 +983,7 @@
    "epic": "dead-reset-2ecaf2",
    "howlongtobeat": "169472",
    "igdb": "dead-reset",
+   "metacritic": "dead-reset",
    "pcgamingwiki": "Dead_Reset",
    "steam": "1346840"
   },
@@ -1253,6 +1270,7 @@
   "ids": {
    "howlongtobeat": "189229",
    "igdb": "ea-sports-fc-27",
+   "metacritic": "ea-sports-fc-27",
    "steam": "4080220"
   },
   "label_en": "EA Sports FC 27",

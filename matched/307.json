@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9092",
    "igdb": "star-wars-rogue-squadron-ii-rogue-leader",
+   "metacritic": "star-wars-rogue-leader-rogue-squadron-ii",
    "mobygames": "5500"
   },
   "label_en": "Star Wars Rogue Squadron II: Rogue Leader",
@@ -39,6 +40,7 @@
   "ids": {
    "howlongtobeat": "8538",
    "igdb": "silent-hunter-4-wolves-of-the-pacific",
+   "metacritic": "silent-hunter-wolves-of-the-pacific",
    "mobygames": "28443",
    "pcgamingwiki": "Silent_Hunter_4:_Wolves_of_the_Pacific",
    "steam": "15200"
@@ -83,6 +85,7 @@
   "ids": {
    "howlongtobeat": "5501",
    "igdb": "madden-nfl-13",
+   "metacritic": "madden-nfl-13",
    "mobygames": "59864"
   },
   "label_en": "Madden NFL 13",
@@ -114,6 +117,7 @@
   "ids": {
    "howlongtobeat": "1440",
    "igdb": "cabela-s-african-safari",
+   "metacritic": "cabelas-african-safari",
    "mobygames": "31283",
    "pcgamingwiki": "Cabela's_African_Safari"
   },
@@ -177,6 +181,7 @@
   "ids": {
    "howlongtobeat": "33283",
    "igdb": "zero-escape-zero-time-dilemma",
+   "metacritic": "zero-escape-zero-time-dilemma",
    "mobygames": "83114",
    "pcgamingwiki": "Zero_Escape:_Zero_Time_Dilemma",
    "steam": "311240"
@@ -189,6 +194,7 @@
   "ids": {
    "howlongtobeat": "24302",
    "igdb": "dirty-bomb",
+   "metacritic": "dirty-bomb",
    "mobygames": "90199",
    "pcgamingwiki": "Dirty_Bomb",
    "steam": "333930"
@@ -200,6 +206,7 @@
   "ids": {
    "howlongtobeat": "23115",
    "igdb": "metal-slug-defense",
+   "metacritic": "metal-slug-defense",
    "mobygames": "72531",
    "pcgamingwiki": "Metal_Slug_Defense",
    "steam": "356310"
@@ -227,6 +234,7 @@
   "enwiki": "MotoGP 10/11",
   "ids": {
    "igdb": "motogp-10-slash-11",
+   "metacritic": "motogp-10-11",
    "mobygames": "59854"
   },
   "label_en": "MotoGP 10/11",
@@ -236,6 +244,7 @@
   "ids": {
    "howlongtobeat": "69949",
    "igdb": "rise-race-the-future",
+   "metacritic": "rise-race-the-future",
    "mobygames": "130164",
    "pcgamingwiki": "Rise:_Race_the_Future",
    "steam": "955580"
@@ -255,6 +264,7 @@
   "ids": {
    "howlongtobeat": "12287",
    "igdb": "nfl-fever-2004",
+   "metacritic": "nfl-fever-2004",
    "mobygames": "23785"
   },
   "label_en": "NFL Fever 2004",
@@ -264,6 +274,7 @@
   "ids": {
    "howlongtobeat": "39203",
    "igdb": "mimic-arena",
+   "metacritic": "mimic-arena",
    "mobygames": "154279",
    "pcgamingwiki": "Mimic_Arena",
    "steam": "432620"
@@ -296,6 +307,7 @@
    "epic": "keywe-c3a70e",
    "howlongtobeat": "82661",
    "igdb": "keywe",
+   "metacritic": "keywe",
    "mobygames": "170902",
    "pcgamingwiki": "KeyWe",
    "steam": "1242980"
@@ -319,6 +331,7 @@
   "ids": {
    "howlongtobeat": "91903",
    "igdb": "rpg-time-the-legend-of-wright",
+   "metacritic": "rpg-time-the-legend-of-wright",
    "mobygames": "189884",
    "steam": "1839510"
   },
@@ -367,6 +380,7 @@
   "ids": {
    "howlongtobeat": "120269",
    "igdb": "waifu-impact",
+   "metacritic": "waifu-impact",
    "mobygames": "187831",
    "steam": "1549060"
   },
@@ -376,6 +390,7 @@
  {
   "ids": {
    "igdb": "chemracer-2713-the-legend-of-kid-chem",
+   "metacritic": "chemracer-2713-the-legend-of-kid-chem",
    "mobygames": "31831"
   },
   "label_en": "ChemRacer",
@@ -708,6 +723,7 @@
   "ids": {
    "howlongtobeat": "144589",
    "igdb": "wwe-2k24",
+   "metacritic": "wwe-2k24",
    "mobygames": "219002",
    "pcgamingwiki": "WWE_2K24",
    "steam": "2315690"

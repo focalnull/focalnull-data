@@ -6,6 +6,7 @@
    "gog": "game/metro_last_light_redux",
    "howlongtobeat": "5947",
    "igdb": "metro-last-light",
+   "metacritic": "metro-last-light",
    "mobygames": "60623",
    "pcgamingwiki": "Metro:_Last_Light"
   },
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "469",
    "igdb": "angry-birds-space",
+   "metacritic": "angry-birds-space",
    "mobygames": "55312",
    "pcgamingwiki": "Angry_Birds_Space",
    "steam": "210550"
@@ -61,6 +63,7 @@
    "gog": "game/pid",
    "howlongtobeat": "7038",
    "igdb": "pid",
+   "metacritic": "pid",
    "mobygames": "59699",
    "pcgamingwiki": "Pid",
    "steam": "218740"
@@ -129,6 +132,7 @@
   "enwiki": "Academy of Champions: Soccer",
   "ids": {
    "igdb": "academy-of-champions-soccer",
+   "metacritic": "academy-of-champions-soccer",
    "mobygames": "66283"
   },
   "label_en": "Academy of Champions: Soccer",
@@ -147,6 +151,7 @@
   "enwiki": "Boktai 2: Solar Boy Django",
   "ids": {
    "igdb": "boktai-2-solar-boy-django",
+   "metacritic": "boktai-2-solar-boy-django",
    "mobygames": "15796"
   },
   "label_en": "Boktai 2: Solar Boy Django",
@@ -212,6 +217,7 @@
   "ids": {
    "howlongtobeat": "4273",
    "igdb": "hamiltons-great-adventure",
+   "metacritic": "hamiltons-great-adventure",
    "mobygames": "52043",
    "pcgamingwiki": "Hamilton's_Great_Adventure",
    "steam": "42140"
@@ -224,6 +230,7 @@
   "ids": {
    "howlongtobeat": "17207",
    "igdb": "nether",
+   "metacritic": "nether",
    "mobygames": "100912",
    "pcgamingwiki": "Nether",
    "steam": "247730"
@@ -236,6 +243,7 @@
   "ids": {
    "howlongtobeat": "7014",
    "igdb": "phantom-breaker-battle-grounds",
+   "metacritic": "phantom-breaker-battle-grounds",
    "mobygames": "74278",
    "pcgamingwiki": "Phantom_Breaker:_Battle_Grounds",
    "steam": "329490"
@@ -257,6 +265,7 @@
   "enwiki": "King of Thieves (video game)",
   "ids": {
    "igdb": "king-of-thieves",
+   "metacritic": "king-of-thieves",
    "mobygames": "93278"
   },
   "label_en": "King of Thieves",
@@ -306,6 +315,7 @@
   "ids": {
    "howlongtobeat": "68279",
    "igdb": "pistol-whip",
+   "metacritic": "pistol-whip",
    "mobygames": "137072",
    "pcgamingwiki": "Pistol_Whip",
    "steam": "1079800"
@@ -328,6 +338,7 @@
  {
   "ids": {
    "igdb": "moto-roller",
+   "metacritic": "moto-roller",
    "mobygames": "189416",
    "steam": "1830740"
   },
@@ -346,6 +357,7 @@
   "ids": {
    "howlongtobeat": "47232",
    "igdb": "sakura-magical-girls",
+   "metacritic": "sakura-magical-girls",
    "mobygames": "85902",
    "pcgamingwiki": "Sakura_Magical_Girls",
    "steam": "581520"
@@ -372,7 +384,8 @@
   "enwiki": "Ultimate Mortal Kombat",
   "ids": {
    "howlongtobeat": "10780",
-   "igdb": "ultimate-mortal-kombat"
+   "igdb": "ultimate-mortal-kombat",
+   "metacritic": "ultimate-mortal-kombat"
   },
   "label_en": "Ultimate Mortal Kombat",
   "wikidata": "Q118152898"
@@ -435,6 +448,7 @@
   "ids": {
    "howlongtobeat": "129539",
    "igdb": "glitch-busters-stuck-on-you",
+   "pcgamingwiki": "Glitch_Busters:_Stuck_On_You",
    "steam": "1616110"
   },
   "label_en": "Glitch Busters: Stuck On You",
@@ -474,6 +488,7 @@
    "gog": "game/nine_noir_lives",
    "howlongtobeat": "92902",
    "igdb": "nine-noir-lives",
+   "metacritic": "nine-noir-lives",
    "mobygames": "190760",
    "pcgamingwiki": "Nine_Noir_Lives",
    "steam": "914890"
@@ -597,6 +612,7 @@
   "ids": {
    "howlongtobeat": "80269",
    "igdb": "the-almost-gone",
+   "metacritic": "the-almost-gone",
    "mobygames": "147064",
    "pcgamingwiki": "The_Almost_Gone",
    "steam": "1115780"
@@ -773,6 +789,7 @@
   "ids": {
    "howlongtobeat": "25261",
    "igdb": "sym",
+   "metacritic": "sym",
    "mobygames": "201524",
    "pcgamingwiki": "Sym",
    "steam": "342100"
@@ -851,6 +868,7 @@
  {
   "ids": {
    "igdb": "whispers-in-the-fog",
+   "metacritic": "whispers-in-the-fog",
    "steam": "3716910"
   },
   "label_en": "Whispers in the Fog",
@@ -1145,6 +1163,7 @@
   "ids": {
    "igdb": "futanari-girlfriends",
    "mobygames": "220765",
+   "pcgamingwiki": "Futanari_girlfriends_⚧👧🍆",
    "steam": "2579470"
   },
   "label_en": "Futanari girlfriends ⚧👧🍆",

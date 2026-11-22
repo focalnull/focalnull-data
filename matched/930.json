@@ -29,6 +29,7 @@
   "enwiki": "Pokémon Stadium 2",
   "ids": {
    "igdb": "pokemon-stadium-2",
+   "metacritic": "pokemon-stadium-2",
    "mobygames": "9233"
   },
   "label_en": "Pokémon Stadium 2",
@@ -50,6 +51,7 @@
    "gog": "game/pillars_of_eternity_hero_edition",
    "howlongtobeat": "13434",
    "igdb": "pillars-of-eternity",
+   "metacritic": "pillars-of-eternity",
    "mobygames": "71924",
    "pcgamingwiki": "Pillars_of_Eternity",
    "steam": "291650"
@@ -162,6 +164,7 @@
    "gog": "game/unreal_world",
    "howlongtobeat": "24961",
    "igdb": "unreal-world",
+   "metacritic": "unreal-world",
    "mobygames": "55735",
    "pcgamingwiki": "UnReal_World",
    "steam": "351700"
@@ -184,7 +187,8 @@
  },
  {
   "ids": {
-   "igdb": "lost-memory-of-angel-frane-2"
+   "igdb": "lost-memory-of-angel-frane-2",
+   "metacritic": "lost-memory-of-angel-story-frane-2"
   },
   "label_en": "Lost Memory of Angel Frane 2",
   "wikidata": "Q15910930"
@@ -199,6 +203,7 @@
   "ids": {
    "howlongtobeat": "29936",
    "igdb": "shadow-blade-reload",
+   "metacritic": "shadow-blade-reload",
    "mobygames": "87034",
    "pcgamingwiki": "Shadow_Blade:_Reload",
    "steam": "272330"
@@ -249,6 +254,7 @@
   "enwiki": "The Sims 2 (GBA video game)",
   "ids": {
    "igdb": "the-sims-2--1",
+   "metacritic": "the-sims-2",
    "mobygames": "20450"
   },
   "label_en": "The Sims 2",
@@ -729,6 +735,7 @@
  },
  {
   "ids": {
+   "metacritic": "yorna-monster-girls-secret",
    "mobygames": "145895",
    "steam": "1284540"
   },
@@ -750,6 +757,7 @@
   "ids": {
    "gog": "game/microtopia",
    "igdb": "microtopia",
+   "metacritic": "microtopia",
    "pcgamingwiki": "Microtopia",
    "steam": "2750000"
   },
@@ -1060,7 +1068,9 @@
   "ids": {
    "howlongtobeat": "179171",
    "igdb": "restory-chill-electronics-repairs",
+   "metacritic": "restory-chill-electronics-repairs",
    "mobygames": "251535",
+   "pcgamingwiki": "ReStory:_Chill_Electronics_Repairs",
    "steam": "3812600"
   },
   "label_en": "ReStory: Chill Electronics Repairs",

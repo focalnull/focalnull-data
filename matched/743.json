@@ -15,6 +15,7 @@
    "gog": "game/i_am_alive",
    "howlongtobeat": "4573",
    "igdb": "i-am-alive",
+   "metacritic": "i-am-alive",
    "mobygames": "55164",
    "pcgamingwiki": "I_Am_Alive",
    "steam": "214250"
@@ -63,6 +64,7 @@
   "ids": {
    "howlongtobeat": "1319",
    "igdb": "breath-of-fire-ii",
+   "metacritic": "breath-of-fire-ii",
    "mobygames": "6222"
   },
   "label_en": "Breath of Fire II",
@@ -74,6 +76,7 @@
    "gog": "game/silent_storm_gold",
    "howlongtobeat": "8542",
    "igdb": "silent-storm",
+   "metacritic": "silent-storm",
    "mobygames": "11117",
    "pcgamingwiki": "Silent_Storm",
    "steam": "254960"
@@ -157,6 +160,7 @@
   "enwiki": "Monster Jam (video game)",
   "ids": {
    "igdb": "monster-jam",
+   "metacritic": "monster-jam",
    "mobygames": "31983",
    "pcgamingwiki": "Monster_Jam",
    "steam": "7990"
@@ -168,6 +172,7 @@
   "enwiki": "NFL QB Club 2002",
   "ids": {
    "igdb": "nfl-qb-club-2002",
+   "metacritic": "nfl-quarterback-club-2002",
    "mobygames": "9661"
   },
   "label_en": "NFL QB Club 2002",
@@ -177,6 +182,7 @@
   "enwiki": "Texas Hold 'Em Poker (video game)",
   "ids": {
    "igdb": "texas-hold-em-poker",
+   "metacritic": "texas-hold-em-poker",
    "mobygames": "57156"
   },
   "label_en": "Texas Hold 'Em Poker",
@@ -212,6 +218,7 @@
   "ids": {
    "howlongtobeat": "20475",
    "igdb": "ferrari-the-race-experience",
+   "metacritic": "ferrari-the-race-experience",
    "mobygames": "105224"
   },
   "label_en": "Ferrari: The Race Experience",
@@ -231,6 +238,7 @@
    "epic": "rocket-league",
    "howlongtobeat": "27113",
    "igdb": "rocket-league",
+   "metacritic": "rocket-league",
    "mobygames": "73767",
    "pcgamingwiki": "Rocket_League",
    "steam": "252950"
@@ -244,6 +252,7 @@
    "gog": "game/simpleplanes",
    "howlongtobeat": "33130",
    "igdb": "simpleplanes",
+   "metacritic": "simpleplanes",
    "mobygames": "84891",
    "pcgamingwiki": "SimplePlanes",
    "steam": "397340"
@@ -276,6 +285,7 @@
    "epic": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
    "howlongtobeat": "52554",
    "igdb": "bud-spencer-and-terence-hill-slaps-and-beans",
+   "metacritic": "bud-spencer-and-terence-hill-slaps-and-beans",
    "mobygames": "99554",
    "pcgamingwiki": "Bud_Spencer_&_Terence_Hill:_Slaps_and_Beans",
    "steam": "564050"
@@ -288,6 +298,7 @@
    "gog": "game/megamagic_wizards_of_the_neon_age",
    "howlongtobeat": "36984",
    "igdb": "megamagic-wizards-of-the-neon-age",
+   "metacritic": "megamagic-wizards-of-the-neon-age",
    "mobygames": "90976",
    "pcgamingwiki": "Megamagic:_Wizards_of_the_Neon_Age",
    "steam": "422650"
@@ -307,6 +318,7 @@
   "ids": {
    "howlongtobeat": "56472",
    "igdb": "umiro",
+   "metacritic": "umiro",
    "mobygames": "106256",
    "pcgamingwiki": "Umiro",
    "steam": "727760"
@@ -343,6 +355,7 @@
    "gog": "game/toem",
    "howlongtobeat": "86977",
    "igdb": "toem",
+   "metacritic": "toem",
    "mobygames": "169924",
    "pcgamingwiki": "TOEM",
    "steam": "1307580"
@@ -398,6 +411,7 @@
   "ids": {
    "howlongtobeat": "93366",
    "igdb": "aeon-drive",
+   "metacritic": "aeon-drive",
    "mobygames": "173010",
    "steam": "1252240"
   },
@@ -840,6 +854,7 @@
    "gog": "game/karma_the_dark_world",
    "howlongtobeat": "113756",
    "igdb": "karma-the-dark-world",
+   "metacritic": "karma-the-dark-world",
    "pcgamingwiki": "Karma:_The_Dark_World",
    "steam": "1376200"
   },

@@ -21,6 +21,7 @@
   "ids": {
    "howlongtobeat": "7026",
    "igdb": "phoenix-wright-ace-attorney",
+   "metacritic": "phoenix-wright-ace-attorney",
    "mobygames": "21710",
    "pcgamingwiki": "Phoenix_Wright:_Ace_Attorney"
   },
@@ -47,6 +48,7 @@
   "ids": {
    "howlongtobeat": "3749",
    "igdb": "fullmetal-alchemist-2-curse-of-the-crimson-elixir",
+   "metacritic": "fullmetal-alchemist-2-curse-of-the-crimson-elixir",
    "mobygames": "18867"
   },
   "label_en": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
@@ -56,6 +58,7 @@
   "enwiki": "PeaceMaker",
   "ids": {
    "igdb": "peacemaker",
+   "metacritic": "peacemaker",
    "mobygames": "29652"
   },
   "label_en": "PeaceMaker",
@@ -83,6 +86,7 @@
   "ids": {
    "howlongtobeat": "967",
    "igdb": "bayonetta-2",
+   "metacritic": "bayonetta-2",
    "mobygames": "70372"
   },
   "label_en": "Bayonetta 2",
@@ -92,6 +96,7 @@
   "enwiki": "Trauma Center: New Blood",
   "ids": {
    "igdb": "trauma-center-new-blood",
+   "metacritic": "trauma-center-new-blood",
    "mobygames": "32979"
   },
   "label_en": "Trauma Center: New Blood",
@@ -102,6 +107,7 @@
   "ids": {
    "howlongtobeat": "9311",
    "igdb": "summon-night-swordcraft-story",
+   "metacritic": "summon-night-swordcraft-story",
    "mobygames": "25040"
   },
   "label_en": "Summon Night: Swordcraft Story",
@@ -122,6 +128,7 @@
   "ids": {
    "howlongtobeat": "376",
    "igdb": "alien-zombie-megadeath",
+   "metacritic": "alien-zombie-megadeath",
    "mobygames": "58031",
    "pcgamingwiki": "Alien_Zombie_Megadeath",
    "steam": "110610"
@@ -133,6 +140,7 @@
   "enwiki": "Buzz!: The Hollywood Quiz",
   "ids": {
    "igdb": "buzz-the-hollywood-quiz",
+   "metacritic": "buzz-the-hollywood-quiz",
    "mobygames": "32193"
   },
   "label_en": "Buzz!: The Hollywood Quiz",
@@ -145,6 +153,7 @@
    "gog": "game/sherlock_holmes_crimes_and_punishments",
    "howlongtobeat": "21249",
    "igdb": "sherlock-holmes-crimes-punishments",
+   "metacritic": "sherlock-holmes-crimes-punishments",
    "mobygames": "68722",
    "pcgamingwiki": "Sherlock_Holmes:_Crimes_&_Punishments",
    "steam": "241260"
@@ -156,6 +165,7 @@
   "enwiki": "Fossil Fighters: Champions",
   "ids": {
    "igdb": "fossil-fighters-champions",
+   "metacritic": "fossil-fighters-champions",
    "mobygames": "85730"
   },
   "label_en": "Fossil Fighters: Champions",
@@ -221,6 +231,7 @@
    "gog": "game/men_of_war_vietnam",
    "howlongtobeat": "5885",
    "igdb": "men-of-war-vietnam",
+   "metacritic": "men-of-war-vietnam",
    "mobygames": "53665",
    "pcgamingwiki": "Men_of_War:_Vietnam",
    "steam": "63940"
@@ -234,6 +245,7 @@
    "gog": "game/gauntlet_slayer_edition",
    "howlongtobeat": "21100",
    "igdb": "gauntlet-slayer-edition",
+   "metacritic": "gauntlet-2014",
    "mobygames": "73665",
    "pcgamingwiki": "Gauntlet_(2014)",
    "steam": "258970"
@@ -257,6 +269,7 @@
   "ids": {
    "howlongtobeat": "30931",
    "igdb": "wrc-5-fia-world-rally-championship",
+   "metacritic": "wrc-5",
    "mobygames": "79340",
    "pcgamingwiki": "WRC_5:_FIA_World_Rally_Championship",
    "steam": "354160"
@@ -268,6 +281,7 @@
   "enwiki": "NHL 17",
   "ids": {
    "igdb": "nhl-17",
+   "metacritic": "nhl-17",
    "mobygames": "80986"
   },
   "label_en": "NHL 17",
@@ -285,6 +299,7 @@
    "gog": "game/the_masterplan",
    "howlongtobeat": "21496",
    "igdb": "the-masterplan",
+   "metacritic": "the-masterplan",
    "mobygames": "100573",
    "pcgamingwiki": "The_Masterplan",
    "steam": "313080"
@@ -296,6 +311,7 @@
   "enwiki": "Culdcept Revolt",
   "ids": {
    "igdb": "culdcept-revolt",
+   "metacritic": "culdcept-revolt",
    "mobygames": "91305"
   },
   "label_en": "Culdcept Revolt",
@@ -312,6 +328,7 @@
    "gog": "game/yokus_island_express",
    "howlongtobeat": "56962",
    "igdb": "yokus-island-express",
+   "metacritic": "yokus-island-express",
    "mobygames": "109356",
    "pcgamingwiki": "Yoku's_Island_Express",
    "steam": "334940"
@@ -323,6 +340,7 @@
   "ids": {
    "howlongtobeat": "19722",
    "igdb": "infinity-runner",
+   "metacritic": "infinity-runner",
    "mobygames": "86807",
    "pcgamingwiki": "Infinity_Runner",
    "steam": "279920"
@@ -345,6 +363,7 @@
    "epic": "ratchet-clank-rift-apart",
    "howlongtobeat": "79776",
    "igdb": "ratchet-and-clank-rift-apart",
+   "metacritic": "ratchet-clank-rift-apart",
    "mobygames": "166282",
    "pcgamingwiki": "Ratchet_&_Clank:_Rift_Apart",
    "steam": "1895880"
@@ -358,6 +377,7 @@
    "epic": "beyond-blue",
    "howlongtobeat": "77495",
    "igdb": "beyond-blue",
+   "metacritic": "beyond-blue",
    "mobygames": "144738",
    "pcgamingwiki": "Beyond_Blue",
    "steam": "883360"
@@ -465,6 +485,7 @@
    "howlongtobeat": "102184",
    "igdb": "super-woden-gp",
    "mobygames": "194301",
+   "pcgamingwiki": "Super_Woden_GP",
    "steam": "1534180"
   },
   "label_en": "Super Woden GP",
@@ -473,7 +494,8 @@
  {
   "enwiki": "Warhammer 40,000: Tacticus",
   "ids": {
-   "igdb": "warhammer-40000-tacticus"
+   "igdb": "warhammer-40000-tacticus",
+   "metacritic": "warhammer-40000-tacticus"
   },
   "label_en": "Warhammer 40,000: Tacticus",
   "wikidata": "Q121364480"

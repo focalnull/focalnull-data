@@ -3,6 +3,7 @@
   "enwiki": "Star Wars: Flight of the Falcon",
   "ids": {
    "igdb": "star-wars-flight-of-the-falcon",
+   "metacritic": "star-wars-flight-of-the-falcon",
    "mobygames": "12434"
   },
   "label_en": "Star Wars: Flight of the Falcon",
@@ -12,6 +13,7 @@
   "enwiki": "MVP 06: NCAA Baseball",
   "ids": {
    "igdb": "mvp-06-ncaa-baseball",
+   "metacritic": "mvp-06-ncaa-baseball",
    "mobygames": "34714"
   },
   "label_en": "MVP 06: NCAA Baseball",
@@ -30,6 +32,7 @@
   "enwiki": "Shin Megami Tensei: Strange Journey",
   "ids": {
    "igdb": "shin-megami-tensei-strange-journey",
+   "metacritic": "shin-megami-tensei-strange-journey",
    "mobygames": "46097"
   },
   "label_en": "Shin Megami Tensei: Strange Journey",
@@ -60,6 +63,7 @@
    "gog": "game/majesty_2_collection",
    "howlongtobeat": "5570",
    "igdb": "majesty-2-the-fantasy-kingdom-sim",
+   "metacritic": "majesty-2-the-fantasy-kingdom-sim",
    "mobygames": "42940",
    "pcgamingwiki": "Majesty_2:_The_Fantasy_Kingdom_Sim",
    "steam": "25980"
@@ -93,6 +97,7 @@
   "enwiki": "MotoHeroz",
   "ids": {
    "igdb": "motoheroz",
+   "metacritic": "motoheroz",
    "mobygames": "78360"
   },
   "label_en": "MotoHeroz",
@@ -112,6 +117,7 @@
   "ids": {
    "howlongtobeat": "20419",
    "igdb": "crazy-taxi-fare-wars",
+   "metacritic": "crazy-taxi-fare-wars",
    "mobygames": "30982"
   },
   "label_en": "Crazy Taxi: Fare Wars",
@@ -121,6 +127,7 @@
   "enwiki": "ESPN MLS GameNight",
   "ids": {
    "igdb": "espn-mls-gamenight",
+   "metacritic": "espn-mls-gamenight",
    "mobygames": "28057"
   },
   "label_en": "ESPN MLS GameNight",
@@ -130,6 +137,7 @@
   "enwiki": "Frogger: Ancient Shadow",
   "ids": {
    "igdb": "frogger-ancient-shadow",
+   "metacritic": "frogger-ancient-shadow",
    "mobygames": "27945"
   },
   "label_en": "Frogger: Ancient Shadow",
@@ -219,6 +227,7 @@
   "ids": {
    "howlongtobeat": "8617",
    "igdb": "skydrift",
+   "metacritic": "skydrift",
    "mobygames": "56342",
    "pcgamingwiki": "SkyDrift",
    "steam": "91100"
@@ -267,6 +276,7 @@
   "ids": {
    "howlongtobeat": "70790",
    "igdb": "bubsy-paws-on-fire",
+   "metacritic": "bubsy-paws-on-fire",
    "mobygames": "127010",
    "pcgamingwiki": "Bubsy:_Paws_on_Fire!",
    "steam": "926180"
@@ -277,6 +287,7 @@
  {
   "ids": {
    "igdb": "spartan",
+   "metacritic": "spartan",
    "mobygames": "94958",
    "pcgamingwiki": "Spartan",
    "steam": "685050"
@@ -292,6 +303,7 @@
   "ids": {
    "howlongtobeat": "80375",
    "igdb": "spitlings",
+   "metacritic": "spitlings",
    "mobygames": "142989",
    "pcgamingwiki": "Spitlings",
    "steam": "1002000"
@@ -306,6 +318,7 @@
    "gog": "game/bite_the_bullet",
    "howlongtobeat": "83180",
    "igdb": "bite-the-bullet",
+   "metacritic": "bite-the-bullet",
    "mobygames": "149285",
    "pcgamingwiki": "Bite_the_Bullet",
    "steam": "1075550"
@@ -326,6 +339,7 @@
    "epic": "12-orbits-c48266",
    "howlongtobeat": "43511",
    "igdb": "12-orbits",
+   "metacritic": "12-orbits",
    "mobygames": "80441",
    "pcgamingwiki": "12_Orbits",
    "steam": "529950"
@@ -339,6 +353,7 @@
    "gog": "game/ultrakill",
    "howlongtobeat": "75153",
    "igdb": "ultrakill",
+   "metacritic": "ultrakill",
    "mobygames": "150113",
    "pcgamingwiki": "Ultrakill",
    "steam": "1229490"
@@ -350,6 +365,7 @@
   "ids": {
    "howlongtobeat": "94502",
    "igdb": "the-company-man",
+   "metacritic": "the-company-man",
    "mobygames": "178494",
    "steam": "1263350"
   },
@@ -405,6 +421,7 @@
    "gog": "game/brotato",
    "howlongtobeat": "114144",
    "igdb": "brotato",
+   "metacritic": "brotato",
    "mobygames": "192086",
    "pcgamingwiki": "Brotato",
    "steam": "1942280"
@@ -427,6 +444,7 @@
   "ids": {
    "howlongtobeat": "60777",
    "igdb": "neo-atlas-1469",
+   "metacritic": "neo-atlas-1469",
    "mobygames": "92047",
    "pcgamingwiki": "Neo_Atlas_1469",
    "steam": "532690"
@@ -790,6 +808,7 @@
   "ids": {
    "howlongtobeat": "165110",
    "igdb": "nubbys-number-factory",
+   "metacritic": "nubbys-number-factory",
    "mobygames": "238731",
    "pcgamingwiki": "Nubby's_Number_Factory",
    "steam": "3191030"
@@ -801,6 +820,7 @@
   "ids": {
    "howlongtobeat": "169367",
    "igdb": "reach--3",
+   "metacritic": "reach",
    "pcgamingwiki": "Reach",
    "steam": "3273480"
   },
@@ -1100,6 +1120,7 @@
  {
   "ids": {
    "igdb": "hell-knights",
+   "pcgamingwiki": "Hell_Knights",
    "steam": "891110"
   },
   "label_en": "Hell Knights",

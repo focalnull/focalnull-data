@@ -5,6 +5,7 @@
    "gog": "game/star_wars_knights_of_the_old_republic_ii_the_sith_lords",
    "howlongtobeat": "9112",
    "igdb": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
+   "metacritic": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
    "mobygames": "15792",
    "pcgamingwiki": "Star_Wars:_Knights_of_the_Old_Republic_II_-_The_Sith_Lords",
    "steam": "208580"
@@ -25,6 +26,7 @@
   "enwiki": "Sonic the Hedgehog (2006 video game)",
   "ids": {
    "igdb": "sonic-the-hedgehog-473de878-5a9f-402e-a282-86a7460fc1d2",
+   "metacritic": "sonic-the-hedgehog",
    "mobygames": "26398"
   },
   "label_en": "Sonic the Hedgehog",
@@ -119,6 +121,7 @@
   "ids": {
    "howlongtobeat": "22475",
    "igdb": "greg-hastings-tournament-paintball",
+   "metacritic": "greg-hastings-tournament-paintball",
    "mobygames": "23150"
   },
   "label_en": "Greg Hastings Tournament Paintball",
@@ -229,6 +232,7 @@
   "ids": {
    "howlongtobeat": "3123",
    "igdb": "english-country-tune",
+   "metacritic": "english-country-tune",
    "mobygames": "53966",
    "pcgamingwiki": "English_Country_Tune",
    "steam": "207570"
@@ -253,6 +257,7 @@
    "gog": "game/her_story",
    "howlongtobeat": "26957",
    "igdb": "her-story",
+   "metacritic": "her-story",
    "mobygames": "73651",
    "pcgamingwiki": "Her_Story",
    "steam": "368370"
@@ -302,6 +307,7 @@
    "gog": "game/opus_echo_of_starsong",
    "howlongtobeat": "97522",
    "igdb": "opus-echo-of-starsong",
+   "metacritic": "opus-echo-of-starsong",
    "mobygames": "170995",
    "pcgamingwiki": "Opus:_Echo_of_Starsong",
    "steam": "1504500"
@@ -389,6 +395,7 @@
   "ids": {
    "howlongtobeat": "100705",
    "igdb": "darius-cozmic-collection-arcade",
+   "metacritic": "darius-cozmic-collection-arcade",
    "mobygames": "126078",
    "pcgamingwiki": "Darius_Cozmic_Collection_Arcade",
    "steam": "1638330"
@@ -467,6 +474,7 @@
    "gog": "game/weakless",
    "howlongtobeat": "75624",
    "igdb": "weakless",
+   "metacritic": "weakless",
    "mobygames": "138417",
    "pcgamingwiki": "Weakless",
    "steam": "1072620"
@@ -698,6 +706,7 @@
   "ids": {
    "howlongtobeat": "19743",
    "igdb": "4pm",
+   "metacritic": "4pm",
    "mobygames": "66928",
    "pcgamingwiki": "4PM",
    "steam": "281840"
@@ -831,6 +840,7 @@
   "enwiki": "Spilled!",
   "ids": {
    "igdb": "spilled",
+   "metacritic": "spilled",
    "pcgamingwiki": "Spilled!",
    "steam": "2240080"
   },
@@ -1177,6 +1187,7 @@
    "howlongtobeat": "170176",
    "igdb": "dear-me-i-was-dot-dot-dot",
    "mobygames": "248620",
+   "pcgamingwiki": "Dear_me,_I_was...",
    "steam": "3891510"
   },
   "label_en": "Dear me, I was…",
@@ -1185,6 +1196,7 @@
  {
   "ids": {
    "igdb": "war-room--3",
+   "pcgamingwiki": "War_Room",
    "steam": "1175880"
   },
   "label_en": "War Room",
@@ -1202,6 +1214,7 @@
   "enwiki": "Resident Evil Veronica",
   "ids": {
    "igdb": "resident-evil-veronica",
+   "metacritic": "resident-evil-veronica",
    "mobygames": "262410",
    "pcgamingwiki": "Resident_Evil_Veronica",
    "steam": "4824610"

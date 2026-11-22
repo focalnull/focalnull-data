@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10828",
    "igdb": "unreal-ii-the-awakening",
+   "metacritic": "unreal-ii-the-awakening",
    "mobygames": "8377",
    "pcgamingwiki": "Unreal_II:_The_Awakening",
    "steam": "13200"
@@ -62,6 +63,7 @@
   "enwiki": "FIFA Manager 12",
   "ids": {
    "igdb": "fifa-manager-12",
+   "metacritic": "fifa-manager-12",
    "mobygames": "53817",
    "pcgamingwiki": "FIFA_Manager_12"
   },
@@ -130,6 +132,7 @@
   "ids": {
    "howlongtobeat": "9988",
    "igdb": "the-kings-crusade",
+   "metacritic": "the-kings-crusade",
    "mobygames": "84225",
    "pcgamingwiki": "The_Kings'_Crusade",
    "steam": "42920"
@@ -142,6 +145,7 @@
   "ids": {
    "howlongtobeat": "1759",
    "igdb": "cloning-clyde",
+   "metacritic": "cloning-clyde",
    "mobygames": "23410",
    "pcgamingwiki": "Cloning_Clyde",
    "steam": "91800"
@@ -153,6 +157,7 @@
   "enwiki": "Fishing Master",
   "ids": {
    "igdb": "fishing-master",
+   "metacritic": "fishing-master",
    "mobygames": "84980"
   },
   "label_en": "Fishing Master",
@@ -180,6 +185,7 @@
   "enwiki": "That's So Raven: Psychic on the Scene",
   "ids": {
    "igdb": "thats-so-raven-psychic-on-the-scene",
+   "metacritic": "thats-so-raven-psychic-on-the-scene",
    "mobygames": "48347"
   },
   "label_en": "That's So Raven: Psychic on the Scene",
@@ -210,6 +216,7 @@
    "gog": "game/legend_of_grimrock_2",
    "howlongtobeat": "21561",
    "igdb": "legend-of-grimrock-2",
+   "metacritic": "legend-of-grimrock-ii",
    "mobygames": "74335",
    "pcgamingwiki": "Legend_of_Grimrock_2",
    "steam": "251730"
@@ -222,6 +229,7 @@
   "ids": {
    "howlongtobeat": "22707",
    "igdb": "woah-dave",
+   "metacritic": "woah-dave",
    "mobygames": "79347",
    "pcgamingwiki": "Woah_Dave!",
    "steam": "315110"
@@ -235,6 +243,7 @@
    "gog": "game/tokyo_xanadu_ex",
    "howlongtobeat": "39954",
    "igdb": "tokyo-xanadu",
+   "metacritic": "tokyo-xanadu",
    "mobygames": "78324",
    "pcgamingwiki": "Tokyo_Xanadu_eX+",
    "steam": "587260"
@@ -275,6 +284,7 @@
   "ids": {
    "howlongtobeat": "58426",
    "igdb": "animal-super-squad",
+   "metacritic": "animal-super-squad",
    "mobygames": "107989",
    "pcgamingwiki": "Animal_Super_Squad",
    "steam": "703840"
@@ -289,6 +299,7 @@
    "gog": "game/carrion",
    "howlongtobeat": "68169",
    "igdb": "carrion",
+   "metacritic": "carrion",
    "mobygames": "148472",
    "pcgamingwiki": "Carrion",
    "steam": "953490"
@@ -308,6 +319,7 @@
   "enwiki": "Farming Simulator 14",
   "ids": {
    "igdb": "farming-simulator-14",
+   "metacritic": "farming-simulator-14",
    "mobygames": "84060"
   },
   "label_en": "Farming Simulator 14",
@@ -335,6 +347,7 @@
    "gog": "game/happy_game",
    "howlongtobeat": "88814",
    "igdb": "happy-game",
+   "metacritic": "happy-game",
    "mobygames": "174321",
    "pcgamingwiki": "Happy_Game",
    "steam": "1206060"
@@ -361,6 +374,7 @@
   "ids": {
    "howlongtobeat": "49291",
    "igdb": "zup-6",
+   "metacritic": "zup-6",
    "mobygames": "103491",
    "pcgamingwiki": "Zup!_6",
    "steam": "566160"
@@ -398,6 +412,7 @@
   "enwiki": "Warped Kart Racers",
   "ids": {
    "igdb": "warped-kart-racers",
+   "metacritic": "warped-kart-racers",
    "mobygames": "185941",
    "pcgamingwiki": "Warped_Kart_Racers"
   },
@@ -431,6 +446,7 @@
    "epic": "need-for-speed-unbound",
    "howlongtobeat": "114314",
    "igdb": "need-for-speed-unbound",
+   "metacritic": "need-for-speed-unbound",
    "mobygames": "195972",
    "pcgamingwiki": "Need_for_Speed_Unbound",
    "steam": "1846380"
@@ -495,6 +511,7 @@
    "gog": "game/viewfinder",
    "howlongtobeat": "94262",
    "igdb": "viewfinder",
+   "metacritic": "viewfinder",
    "mobygames": "205980",
    "pcgamingwiki": "Viewfinder",
    "steam": "1382070"
@@ -524,6 +541,7 @@
   "ids": {
    "igdb": "mission-biotech",
    "mobygames": "146216",
+   "pcgamingwiki": "Mission_Biotech",
    "steam": "1286810"
   },
   "label_en": "Mission Biotech",
@@ -568,6 +586,7 @@
    "gog": "game/demons_roots",
    "howlongtobeat": "124372",
    "igdb": "demons-roots",
+   "metacritic": "demons-roots",
    "mobygames": "197898",
    "steam": "1933660"
   },
@@ -995,6 +1014,7 @@
    "gog": "game/hive_jump_2_survivors",
    "howlongtobeat": "157669",
    "igdb": "hive-jump-2-survivors",
+   "metacritic": "hive-jump-2-survivors",
    "mobygames": "234181",
    "pcgamingwiki": "Hive_Jump_2:_Survivors",
    "steam": "2545740"
@@ -1192,6 +1212,8 @@
  {
   "ids": {
    "igdb": "black-bart",
+   "metacritic": "black-bart",
+   "pcgamingwiki": "Black_Bart",
    "steam": "858410"
   },
   "label_en": "Black Bart",

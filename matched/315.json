@@ -5,6 +5,7 @@
    "gog": "game/star_wars_empire_at_war_gold_pack",
    "howlongtobeat": "19256",
    "igdb": "star-wars-empire-at-war",
+   "metacritic": "star-wars-empire-at-war",
    "mobygames": "21299",
    "pcgamingwiki": "Star_Wars:_Empire_at_War",
    "steam": "32470"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "8645",
    "igdb": "slender-the-eight-pages",
+   "metacritic": "slender",
    "mobygames": "58483",
    "pcgamingwiki": "Slender:_The_Eight_Pages"
   },
@@ -57,6 +59,7 @@
   "ids": {
    "howlongtobeat": "3289",
    "igdb": "f-zero-gx",
+   "metacritic": "f-zero-gx",
    "mobygames": "10159"
   },
   "label_en": "F-Zero GX",
@@ -77,6 +80,7 @@
   "ids": {
    "howlongtobeat": "1905",
    "igdb": "constructor",
+   "metacritic": "constructor",
    "mobygames": "3876",
    "pcgamingwiki": "Constructor",
    "steam": "599600"
@@ -176,6 +180,7 @@
   "ids": {
    "howlongtobeat": "33329",
    "igdb": "ricochet-lost-worlds",
+   "metacritic": "ricochet-lost-worlds",
    "mobygames": "14137",
    "pcgamingwiki": "Ricochet:_Lost_Worlds",
    "steam": "7400"
@@ -220,6 +225,7 @@
   "ids": {
    "howlongtobeat": "29667",
    "igdb": "animal-crossing-happy-home-designer",
+   "metacritic": "animal-crossing-happy-home-designer",
    "mobygames": "74110"
   },
   "label_en": "Animal Crossing: Happy Home Designer",
@@ -238,6 +244,7 @@
   "ids": {
    "howlongtobeat": "31105",
    "igdb": "toby-the-secret-mine",
+   "metacritic": "toby-the-secret-mine",
    "mobygames": "82493",
    "pcgamingwiki": "Toby:_The_Secret_Mine",
    "steam": "395160"
@@ -250,6 +257,7 @@
   "ids": {
    "howlongtobeat": "35894",
    "igdb": "dead-effect-2",
+   "metacritic": "dead-effect-2",
    "mobygames": "87582",
    "pcgamingwiki": "Dead_Effect_2",
    "steam": "394760"
@@ -281,6 +289,7 @@
    "gog": "game/story_about_my_uncle_a",
    "howlongtobeat": "18936",
    "igdb": "a-story-about-my-uncle",
+   "metacritic": "a-story-about-my-uncle",
    "mobygames": "75338",
    "pcgamingwiki": "A_Story_about_My_Uncle",
    "steam": "278360"
@@ -337,6 +346,7 @@
    "gog": "game/this_is_the_police_2",
    "howlongtobeat": "59666",
    "igdb": "this-is-the-police-2",
+   "metacritic": "this-is-the-police-2",
    "mobygames": "103999",
    "pcgamingwiki": "This_Is_the_Police_2",
    "steam": "785740"
@@ -373,6 +383,7 @@
    "gog": "game/zombie_night_terror",
    "howlongtobeat": "38392",
    "igdb": "zombie-night-terror",
+   "metacritic": "zombie-night-terror",
    "mobygames": "97563",
    "pcgamingwiki": "Zombie_Night_Terror",
    "steam": "416680"
@@ -384,6 +395,7 @@
   "enwiki": "Mirror's Edge (mobile)",
   "ids": {
    "igdb": "mirrors-edge",
+   "metacritic": "mirrors-edge",
    "mobygames": "50325"
   },
   "label_en": "Mirror's Edge",
@@ -394,6 +406,7 @@
   "ids": {
    "howlongtobeat": "87892",
    "igdb": "unknown-9-awakening",
+   "metacritic": "unknown-9-awakening",
    "mobygames": "231991",
    "pcgamingwiki": "Unknown9:_Awakening",
    "steam": "1477940"
@@ -421,6 +434,7 @@
   "ids": {
    "howlongtobeat": "71922",
    "igdb": "skybolt-zack",
+   "metacritic": "skybolt-zack",
    "mobygames": "136747",
    "pcgamingwiki": "Skybolt_Zack",
    "steam": "909670"
@@ -682,6 +696,7 @@
   "ids": {
    "howlongtobeat": "123674",
    "igdb": "inkbound",
+   "metacritic": "inkbound",
    "mobygames": "221558",
    "pcgamingwiki": "Inkbound",
    "steam": "1062810"
@@ -769,6 +784,7 @@
   "ids": {
    "howlongtobeat": "4082",
    "igdb": "gratuitous-tank-battles",
+   "metacritic": "gratuitous-tank-battles",
    "mobygames": "85566",
    "pcgamingwiki": "Gratuitous_Tank_Battles",
    "steam": "205530"
@@ -878,6 +894,7 @@
   "ids": {
    "howlongtobeat": "52718",
    "igdb": "uganda-know-de-way",
+   "metacritic": "uganda-know-de-way",
    "pcgamingwiki": "Uganda_Know_De_Way"
   },
   "label_en": "Uganda know de way",
@@ -1255,5 +1272,9 @@
  {
   "label_en": "Jewel Master: Cradle of Rome",
   "wikidata": "Q139791315"
+ },
+ {
+  "label_en": "Nobunaga's Ambition Online",
+  "wikidata": "Q142221315"
  }
 ]

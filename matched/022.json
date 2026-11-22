@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1089",
    "igdb": "black-white",
+   "metacritic": "black-and-white",
    "mobygames": "3598",
    "pcgamingwiki": "Black_&_White"
   },
@@ -40,6 +41,7 @@
   "ids": {
    "howlongtobeat": "1593",
    "igdb": "castlevania-symphony-of-the-night",
+   "metacritic": "castlevania-symphony-of-the-night",
    "mobygames": "3739"
   },
   "label_en": "Castlevania: Symphony of the Night",
@@ -59,6 +61,7 @@
   "enwiki": "Front Mission (video game)",
   "ids": {
    "igdb": "front-mission",
+   "metacritic": "front-mission",
    "mobygames": "13788"
   },
   "label_en": "Front Mission",
@@ -80,6 +83,7 @@
   "ids": {
    "howlongtobeat": "3849",
    "igdb": "garshasp-the-monster-slayer",
+   "metacritic": "garshasp-the-monster-slayer",
    "mobygames": "51472",
    "pcgamingwiki": "Garshasp:_The_Monster_Slayer",
    "steam": "99400"
@@ -100,6 +104,7 @@
   "enwiki": "Wreckateer",
   "ids": {
    "igdb": "wreckateer",
+   "metacritic": "wreckateer",
    "mobygames": "117008"
   },
   "label_en": "Wreckateer",
@@ -200,6 +205,7 @@
   "enwiki": "Tokyo Crash Mobs",
   "ids": {
    "igdb": "tokyo-crash-mobs",
+   "metacritic": "tokyo-crash-mobs",
    "mobygames": "91708"
   },
   "label_en": "Tokyo Crash Mobs",
@@ -290,6 +296,7 @@
    "gog": "game/shovel_knight_specter_of_torment",
    "howlongtobeat": "42837",
    "igdb": "shovel-knight-specter-of-torment",
+   "metacritic": "shovel-knight-specter-of-torment",
    "mobygames": "84826",
    "pcgamingwiki": "Shovel_Knight:_Specter_of_Torment",
    "steam": "589510"
@@ -304,6 +311,7 @@
    "gog": "game/aer",
    "howlongtobeat": "50133",
    "igdb": "aer-memories-of-old",
+   "metacritic": "aer-memories-of-old",
    "mobygames": "97503",
    "pcgamingwiki": "Aer:_Memories_of_Old",
    "steam": "331870"
@@ -315,6 +323,7 @@
   "enwiki": "Farming Simulator 16",
   "ids": {
    "igdb": "farming-simulator-16",
+   "metacritic": "farming-simulator-16",
    "mobygames": "84061"
   },
   "label_en": "Farming Simulator 16",
@@ -323,6 +332,7 @@
  {
   "ids": {
    "howlongtobeat": "66486",
+   "metacritic": "forza-street",
    "mobygames": "125199"
   },
   "label_en": "Forza Street",
@@ -344,6 +354,7 @@
   "ids": {
    "howlongtobeat": "69264",
    "igdb": "zup-9",
+   "metacritic": "zup-9",
    "mobygames": "130024",
    "pcgamingwiki": "Zup!_9",
    "steam": "1098340"
@@ -375,6 +386,7 @@
   "ids": {
    "howlongtobeat": "101452",
    "igdb": "thunder-tier-one",
+   "metacritic": "thunder-tier-one",
    "mobygames": "176405",
    "pcgamingwiki": "Thunder_Tier_One",
    "steam": "377300"
@@ -429,6 +441,7 @@
   "ids": {
    "howlongtobeat": "50137",
    "igdb": "spelunker-party",
+   "metacritic": "spelunker-party",
    "mobygames": "96952",
    "pcgamingwiki": "Spelunker_Party!",
    "steam": "629860"
@@ -440,6 +453,7 @@
   "ids": {
    "howlongtobeat": "110436",
    "igdb": "resonance-of-the-ocean",
+   "metacritic": "resonance-of-the-ocean",
    "mobygames": "188033",
    "steam": "2057080"
   },
@@ -863,6 +877,7 @@
  {
   "ids": {
    "igdb": "natsuno-kanata-beyond-the-summer",
+   "metacritic": "natsuno-kanata-beyond-the-summer",
    "mobygames": "169063",
    "steam": "1684660"
   },

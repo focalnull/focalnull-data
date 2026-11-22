@@ -45,6 +45,7 @@
    "gog": "game/heritage_of_kings_the_settlers",
    "howlongtobeat": "10166",
    "igdb": "the-settlers-heritage-of-kings",
+   "metacritic": "heritage-of-kings-the-settlers",
    "mobygames": "17085",
    "pcgamingwiki": "The_Settlers:_Heritage_of_Kings",
    "steam": "15310"
@@ -77,6 +78,7 @@
   "ids": {
    "howlongtobeat": "8707",
    "igdb": "socom-us-navy-seals-combined-assault",
+   "metacritic": "socom-u-s-navy-seals-combined-assault",
    "mobygames": "152410"
   },
   "label_en": "SOCOM U.S. Navy SEALs: Combined Assault",
@@ -95,6 +97,7 @@
   "ids": {
    "howlongtobeat": "5434",
    "igdb": "luminous-arc-2",
+   "metacritic": "luminous-arc-2",
    "mobygames": "50333"
   },
   "label_en": "Luminous Arc 2",
@@ -260,6 +263,7 @@
   "ids": {
    "howlongtobeat": "34939",
    "igdb": "windlands",
+   "metacritic": "windlands",
    "mobygames": "87353",
    "pcgamingwiki": "Windlands",
    "steam": "428370"
@@ -284,6 +288,7 @@
   "ids": {
    "howlongtobeat": "38825",
    "igdb": "f1-2016",
+   "metacritic": "f1-2016",
    "mobygames": "81000",
    "pcgamingwiki": "F1_2016",
    "steam": "391040"
@@ -315,6 +320,7 @@
   "ids": {
    "howlongtobeat": "55991",
    "igdb": "tank-battle-blitzkrieg",
+   "metacritic": "tank-battle-blitzkrieg",
    "mobygames": "87018",
    "pcgamingwiki": "Tank_Battle:_Blitzkrieg",
    "steam": "540150"
@@ -344,7 +350,8 @@
  },
  {
   "ids": {
-   "igdb": "war-dragons"
+   "igdb": "war-dragons",
+   "metacritic": "war-dragons"
   },
   "label_en": "War Dragons",
   "wikidata": "Q85814335"
@@ -380,6 +387,7 @@
    "epic": "not-tonight-2",
    "howlongtobeat": "104062",
    "igdb": "not-tonight-2",
+   "metacritic": "not-tonight-2",
    "mobygames": "179719",
    "pcgamingwiki": "Not_Tonight_2",
    "steam": "1600370"
@@ -401,6 +409,7 @@
    "howlongtobeat": "86573",
    "igdb": "zoo-2-animal-park",
    "mobygames": "128732",
+   "pcgamingwiki": "Zoo_2:_Animal_Park",
    "steam": "1352330"
   },
   "label_en": "Zoo 2: Animal Park",
@@ -461,6 +470,7 @@
   "ids": {
    "howlongtobeat": "25239",
    "igdb": "warlocks-vs-shadows",
+   "metacritic": "warlocks-vs-shadows",
    "mobygames": "79744",
    "pcgamingwiki": "Warlocks_vs_Shadows",
    "steam": "330270"
@@ -507,6 +517,7 @@
    "gog": "game/lust_academy_season_1",
    "howlongtobeat": "101863",
    "igdb": "lust-academy-season-1",
+   "metacritic": "lust-academy-season-1",
    "mobygames": "188664",
    "pcgamingwiki": "Lust_Academy_-_Season_1",
    "steam": "1846920"
@@ -1173,6 +1184,7 @@
  {
   "ids": {
    "igdb": "rhell-warped-worlds-and-troubled-times",
+   "pcgamingwiki": "Rhell:_Warped_Worlds_&_Troubled_Times",
    "steam": "3247030"
   },
   "label_en": "Rhell: Warped Worlds & Troubled Times",

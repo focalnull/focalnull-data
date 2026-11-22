@@ -51,6 +51,7 @@
   "enwiki": "Skate (2007 video game)",
   "ids": {
    "igdb": "skate",
+   "metacritic": "skate",
    "mobygames": "30808"
   },
   "label_en": "Skate",
@@ -104,6 +105,7 @@
    "gog": "game/walking_dead_season_2_the",
    "howlongtobeat": "15343",
    "igdb": "the-walking-dead-season-two",
+   "metacritic": "the-walking-dead-season-two",
    "mobygames": "66066",
    "pcgamingwiki": "The_Walking_Dead:_Season_Two",
    "steam": "261030"
@@ -141,6 +143,7 @@
   "enwiki": "Surf's Up (video game)",
   "ids": {
    "igdb": "surf-s-up",
+   "metacritic": "surfs-up",
    "mobygames": "31929",
    "pcgamingwiki": "Surf's_Up"
   },
@@ -151,6 +154,7 @@
   "enwiki": "TrackMania (2003 video game)",
   "ids": {
    "igdb": "trackmania",
+   "metacritic": "trackmania-2003",
    "mobygames": "12151",
    "pcgamingwiki": "TrackMania"
   },
@@ -180,6 +184,7 @@
    "gog": "game/full_spectrum_warrior_ten_hammers",
    "howlongtobeat": "3747",
    "igdb": "full-spectrum-warrior-ten-hammers",
+   "metacritic": "full-spectrum-warrior-ten-hammers",
    "mobygames": "28747",
    "pcgamingwiki": "Full_Spectrum_Warrior:_Ten_Hammers",
    "steam": "4530"
@@ -228,6 +233,7 @@
    "gog": "game/kona_day_one",
    "howlongtobeat": "20888",
    "igdb": "kona",
+   "metacritic": "kona",
    "mobygames": "85481",
    "pcgamingwiki": "Kona",
    "steam": "365160"
@@ -258,6 +264,7 @@
    "epic": "risk-of-rain-2",
    "howlongtobeat": "65967",
    "igdb": "risk-of-rain-2",
+   "metacritic": "risk-of-rain-2",
    "mobygames": "124260",
    "pcgamingwiki": "Risk_of_Rain_2",
    "steam": "632360"
@@ -286,6 +293,7 @@
   "ids": {
    "howlongtobeat": "38513",
    "igdb": "blacksea-odyssey",
+   "metacritic": "blacksea-odyssey",
    "mobygames": "87959",
    "pcgamingwiki": "Blacksea_Odyssey",
    "steam": "369550"
@@ -318,6 +326,7 @@
   "ids": {
    "howlongtobeat": "67871",
    "igdb": "witchbrook",
+   "metacritic": "witchbrook",
    "pcgamingwiki": "Witchbrook",
    "steam": "1846700"
   },
@@ -328,6 +337,7 @@
   "ids": {
    "howlongtobeat": "96005",
    "igdb": "lumberhill",
+   "metacritic": "lumberhill",
    "mobygames": "208632",
    "pcgamingwiki": "Lumberhill",
    "steam": "976900"
@@ -339,6 +349,7 @@
   "ids": {
    "howlongtobeat": "76755",
    "igdb": "mxgp-pro",
+   "metacritic": "mxgp-pro",
    "mobygames": "109954",
    "pcgamingwiki": "MXGP_Pro",
    "steam": "798290"
@@ -351,6 +362,7 @@
   "ids": {
    "howlongtobeat": "103420",
    "igdb": "rpgolf-legends",
+   "metacritic": "rpgolf-legends",
    "mobygames": "178543",
    "steam": "1641660"
   },
@@ -441,6 +453,7 @@
    "gog": "game/ghost_song",
    "howlongtobeat": "37065",
    "igdb": "ghost-song",
+   "metacritic": "ghost-song",
    "mobygames": "193754",
    "pcgamingwiki": "Ghost_Song",
    "steam": "347800"
@@ -684,6 +697,7 @@
  },
  {
   "ids": {
+   "metacritic": "hitman-blood-money-reprisal",
    "mobygames": "216443"
   },
   "label_en": "Hitman: Blood Money Reprisal",
@@ -802,6 +816,7 @@
  {
   "ids": {
    "igdb": "solo-leveling-arise",
+   "metacritic": "solo-levelingarise",
    "pcgamingwiki": "Solo_Leveling:_Arise",
    "steam": "2373990"
   },
@@ -1123,6 +1138,7 @@
  {
   "ids": {
    "igdb": "blackwood",
+   "pcgamingwiki": "Blackwood",
    "steam": "3639070"
   },
   "label_en": "Blackwood",

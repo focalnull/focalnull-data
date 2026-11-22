@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2070",
    "igdb": "crysis-3",
+   "metacritic": "crysis-3",
    "mobygames": "60626",
    "pcgamingwiki": "Crysis_3",
    "steam": "1282690"
@@ -37,6 +38,7 @@
   "ids": {
    "howlongtobeat": "53491",
    "igdb": "the-sims-castaway-stories",
+   "metacritic": "the-sims-castaway-stories",
    "mobygames": "32591",
    "pcgamingwiki": "The_Sims_Castaway_Stories"
   },
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "7467",
    "igdb": "james-bond-007-quantum-of-solace",
+   "metacritic": "quantum-of-solace",
    "mobygames": "37461",
    "pcgamingwiki": "007:_Quantum_of_Solace"
   },
@@ -101,6 +104,7 @@
   "ids": {
    "howlongtobeat": "1119",
    "igdb": "blade-kitten",
+   "metacritic": "blade-kitten",
    "mobygames": "50036",
    "pcgamingwiki": "Blade_Kitten",
    "steam": "9940"
@@ -140,6 +144,7 @@
   "ids": {
    "howlongtobeat": "42041",
    "igdb": "sonic-the-hedgehog-genesis",
+   "metacritic": "sonic-the-hedgehog-genesis",
    "mobygames": "6579"
   },
   "label_en": "Sonic the Hedgehog Genesis",
@@ -176,6 +181,7 @@
   "enwiki": "Egg Mania: Eggstreme Madness",
   "ids": {
    "igdb": "egg-mania-eggstreme-madness",
+   "metacritic": "egg-mania-eggstreme-madness",
    "mobygames": "50646"
   },
   "label_en": "Egg Mania: Eggstreme Madness",
@@ -187,6 +193,7 @@
    "gog": "game/star_trek_starfleet_academy",
    "howlongtobeat": "15948",
    "igdb": "star-trek-starfleet-academy",
+   "metacritic": "star-trek-starfleet-academy",
    "mobygames": "1352",
    "pcgamingwiki": "Star_Trek:_Starfleet_Academy",
    "steam": "364810"
@@ -252,6 +259,7 @@
   "ids": {
    "howlongtobeat": "10111",
    "igdb": "new-york-times-crosswords",
+   "metacritic": "the-new-york-times-crosswords",
    "mobygames": "28748"
   },
   "label_en": "The New York Times Crosswords",
@@ -283,6 +291,7 @@
    "gog": "game/shantae_riskys_revenge_directors_cut",
    "howlongtobeat": "19993",
    "igdb": "shantae-riskys-revenge-directors-cut",
+   "metacritic": "shantae-riskys-revenge",
    "mobygames": "49079",
    "pcgamingwiki": "Shantae:_Risky's_Revenge_-_Director's_Cut",
    "steam": "277890"
@@ -323,6 +332,7 @@
   "ids": {
    "howlongtobeat": "22794",
    "igdb": "girl-fight",
+   "metacritic": "girl-fight",
    "mobygames": "101214"
   },
   "label_en": "Girl Fight",
@@ -376,6 +386,7 @@
  {
   "ids": {
    "igdb": "arthurs-reading-games",
+   "pcgamingwiki": "Arthur's_Reading_Games",
    "steam": "4056610"
   },
   "label_en": "Arthur's Reading Games",
@@ -387,6 +398,7 @@
    "epic": "sky-racket-4cf23a",
    "howlongtobeat": "68011",
    "igdb": "sky-racket",
+   "metacritic": "sky-racket",
    "mobygames": "136457",
    "pcgamingwiki": "Sky_Racket",
    "steam": "994500"
@@ -409,6 +421,7 @@
   "ids": {
    "howlongtobeat": "6725",
    "igdb": "okami-hd",
+   "metacritic": "okami-hd",
    "mobygames": "24246",
    "pcgamingwiki": "Okami_HD",
    "steam": "587620"
@@ -460,7 +473,9 @@
   "ids": {
    "howlongtobeat": "106167",
    "igdb": "patricks-parabox",
+   "metacritic": "patricks-parabox",
    "mobygames": "182069",
+   "pcgamingwiki": "Patrick's_Parabox",
    "steam": "1260520"
   },
   "label_en": "Patrick's Parabox",
@@ -687,6 +702,7 @@
   "ids": {
    "howlongtobeat": "126155",
    "igdb": "drago-noka",
+   "metacritic": "drago-noka",
    "mobygames": "197556",
    "pcgamingwiki": "Drago_Noka",
    "steam": "1984790"
@@ -901,6 +917,7 @@
   "ids": {
    "howlongtobeat": "38258",
    "igdb": "tastee-lethal-tactics",
+   "metacritic": "tastee-lethal-tactics",
    "mobygames": "109758",
    "pcgamingwiki": "TASTEE:_Lethal_Tactics",
    "steam": "365190"
@@ -1015,6 +1032,7 @@
   "ids": {
    "howlongtobeat": "158513",
    "igdb": "straftat",
+   "metacritic": "straftat",
    "mobygames": "232359",
    "pcgamingwiki": "STRAFTAT",
    "steam": "2386720"
@@ -1277,6 +1295,9 @@
   "wikidata": "Q135080821"
  },
  {
+  "ids": {
+   "metacritic": "tick-tock-toys"
+  },
   "label_en": "Tick Tock Toys",
   "wikidata": "Q135297821"
  },

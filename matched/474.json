@@ -34,6 +34,7 @@
   "ids": {
    "howlongtobeat": "10750",
    "igdb": "ufc-undisputed-3",
+   "metacritic": "ufc-undisputed-3",
    "mobygames": "56093"
   },
   "label_en": "UFC Undisputed 3",
@@ -44,6 +45,7 @@
   "ids": {
    "howlongtobeat": "16786",
    "igdb": "death-crimson-ox",
+   "metacritic": "death-crimson-ox",
    "mobygames": "39996"
   },
   "label_en": "Death Crimson OX",
@@ -56,6 +58,7 @@
    "howlongtobeat": "42713",
    "igdb": "have-a-nice-day",
    "mobygames": "359",
+   "pcgamingwiki": "Have_a_N.I.C.E._day!",
    "steam": "844940"
   },
   "label_en": "Have a N.I.C.E. day!",
@@ -126,6 +129,7 @@
   "enwiki": "Pac-Man Vs.",
   "ids": {
    "igdb": "pac-man-vs",
+   "metacritic": "pac-man-vs",
    "mobygames": "12065"
   },
   "label_en": "Pac-Man Vs.",
@@ -190,6 +194,7 @@
   "ids": {
    "howlongtobeat": "2231",
    "igdb": "dark-void-zero",
+   "metacritic": "dark-void-zero",
    "mobygames": "46411",
    "pcgamingwiki": "Dark_Void_Zero",
    "steam": "45730"
@@ -201,6 +206,7 @@
   "enwiki": "Disney Sports Soccer",
   "ids": {
    "igdb": "disney-sports-soccer",
+   "metacritic": "disney-sports-soccer",
    "mobygames": "75055"
   },
   "label_en": "Disney Sports Soccer",
@@ -209,7 +215,8 @@
  {
   "enwiki": "Shotest Shogi",
   "ids": {
-   "igdb": "shotest-shogi"
+   "igdb": "shotest-shogi",
+   "metacritic": "shotest-shogi"
   },
   "label_en": "Shotest Shogi",
   "wikidata": "Q7502474"
@@ -236,6 +243,7 @@
    "epic": "jackbox-party-pack-1",
    "howlongtobeat": "23290",
    "igdb": "the-jackbox-party-pack",
+   "metacritic": "the-jackbox-party-pack",
    "mobygames": "73610",
    "pcgamingwiki": "The_Jackbox_Party_Pack",
    "steam": "331670"
@@ -258,6 +266,7 @@
    "epic": "genshin-impact",
    "howlongtobeat": "68133",
    "igdb": "genshin-impact",
+   "metacritic": "genshin-impact",
    "mobygames": "150976",
    "pcgamingwiki": "Genshin_Impact"
   },
@@ -269,6 +278,7 @@
    "gog": "game/zenith",
    "howlongtobeat": "40104",
    "igdb": "zenith--1",
+   "metacritic": "zenith",
    "mobygames": "80744",
    "pcgamingwiki": "Zenith",
    "steam": "438420"
@@ -280,6 +290,7 @@
   "ids": {
    "howlongtobeat": "73251",
    "igdb": "frontline-zed",
+   "metacritic": "frontline-zed",
    "mobygames": "135632",
    "pcgamingwiki": "Frontline_Zed",
    "steam": "915490"
@@ -292,6 +303,7 @@
   "ids": {
    "howlongtobeat": "74431",
    "igdb": "death-come-true",
+   "metacritic": "death-come-true",
    "mobygames": "147305",
    "pcgamingwiki": "Death_Come_True",
    "steam": "1321070"
@@ -322,6 +334,7 @@
   "ids": {
    "howlongtobeat": "25215",
    "igdb": "thehunter-primal",
+   "metacritic": "thehunter-primal",
    "mobygames": "86418",
    "pcgamingwiki": "The_Hunter:_Primal",
    "steam": "322920"
@@ -345,7 +358,8 @@
   "enwiki": "Marvel's Wolverine",
   "ids": {
    "howlongtobeat": "97761",
-   "igdb": "marvels-wolverine"
+   "igdb": "marvels-wolverine",
+   "metacritic": "marvels-wolverine"
   },
   "label_en": "Wolverine",
   "wikidata": "Q108479474"
@@ -428,6 +442,7 @@
    "gog": "game/golazo_football_league",
    "howlongtobeat": "92533",
    "igdb": "golazo",
+   "metacritic": "golazo",
    "mobygames": "120028",
    "pcgamingwiki": "Golazo!",
    "steam": "1431040"
@@ -486,6 +501,7 @@
   "ids": {
    "igdb": "datajack",
    "mobygames": "172491",
+   "pcgamingwiki": "DataJack",
    "steam": "1609390"
   },
   "label_en": "DataJack",
@@ -773,6 +789,7 @@
    "epic": "decadent-e21417",
    "gog": "game/decadent",
    "igdb": "decadent",
+   "metacritic": "decadent",
    "steam": "2362260"
   },
   "label_en": "Decadent",
@@ -1147,6 +1164,7 @@
  {
   "ids": {
    "igdb": "ultreia-night-of-the-eclipse",
+   "pcgamingwiki": "Ultreïa_-_Night_of_the_Eclipse",
    "steam": "3047600"
   },
   "label_en": "Ultreïa - Night of the Eclipse",
@@ -1156,6 +1174,7 @@
   "enwiki": "Steel Paws",
   "ids": {
    "igdb": "steel-paws",
+   "metacritic": "steel-paws",
    "mobygames": "244631"
   },
   "label_en": "Steel Paws",

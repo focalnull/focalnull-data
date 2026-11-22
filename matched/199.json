@@ -17,6 +17,7 @@
   "ids": {
    "howlongtobeat": "5307",
    "igdb": "lineage-ii",
+   "metacritic": "lineage-ii-the-chaotic-chronicle",
    "mobygames": "30349",
    "pcgamingwiki": "Lineage_II:_The_Chaotic_Throne"
   },
@@ -60,6 +61,7 @@
    "gog": "game/galactic_civilizations_ii_ultimate_edition",
    "howlongtobeat": "3801",
    "igdb": "galactic-civilizations-ii-dread-lords",
+   "metacritic": "galactic-civilizations-ii-twilight-of-the-arnor",
    "mobygames": "22179",
    "pcgamingwiki": "Galactic_Civilizations_II:_Dread_Lords",
    "steam": "202200"
@@ -93,6 +95,7 @@
   "enwiki": "Conflict: Vietnam",
   "ids": {
    "igdb": "conflict-vietnam",
+   "metacritic": "conflict-vietnam",
    "mobygames": "19447",
    "pcgamingwiki": "Conflict:_Vietnam"
   },
@@ -113,6 +116,7 @@
   "enwiki": "Geist (video game)",
   "ids": {
    "igdb": "geist",
+   "metacritic": "geist-2005",
    "mobygames": "18860"
   },
   "label_en": "Geist",
@@ -215,6 +219,7 @@
  {
   "ids": {
    "igdb": "magical-beat",
+   "metacritic": "magical-beat",
    "mobygames": "212994",
    "steam": "3516620"
   },
@@ -243,6 +248,7 @@
   "ids": {
    "howlongtobeat": "26728",
    "igdb": "fallout-shelter",
+   "metacritic": "fallout-shelter",
    "mobygames": "73456",
    "pcgamingwiki": "Fallout_Shelter",
    "steam": "588430"
@@ -255,6 +261,7 @@
   "ids": {
    "howlongtobeat": "67033",
    "igdb": "pocket-mortys",
+   "metacritic": "pocket-mortys",
    "mobygames": "93497"
   },
   "label_en": "Pocket Mortys",
@@ -293,6 +300,7 @@
    "gog": "game/mary_skelter_nightmares",
    "howlongtobeat": "49404",
    "igdb": "mary-skelter-nightmares",
+   "metacritic": "mary-skelter-nightmares",
    "mobygames": "96141",
    "pcgamingwiki": "Mary_Skelter:_Nightmares",
    "steam": "837610"
@@ -328,6 +336,7 @@
   "ids": {
    "howlongtobeat": "34332",
    "igdb": "boulder-dash-ex",
+   "metacritic": "boulder-dash-ex",
    "mobygames": "9268"
   },
   "label_en": "Boulder Dash EX",
@@ -351,6 +360,7 @@
    "gog": "game/whispers_of_a_machine",
    "howlongtobeat": "66302",
    "igdb": "whispers-of-a-machine",
+   "metacritic": "whispers-of-a-machine",
    "mobygames": "125328",
    "pcgamingwiki": "Whispers_of_a_Machine",
    "steam": "631570"
@@ -373,6 +383,7 @@
   "ids": {
    "howlongtobeat": "51916",
    "igdb": "elsinore",
+   "metacritic": "elsinore",
    "mobygames": "130401",
    "pcgamingwiki": "Elsinore",
    "steam": "512890"
@@ -384,6 +395,7 @@
   "ids": {
    "howlongtobeat": "46562",
    "igdb": "iron-wings",
+   "metacritic": "iron-wings",
    "mobygames": "91703",
    "pcgamingwiki": "Iron_Wings",
    "steam": "562340"
@@ -395,6 +407,7 @@
   "ids": {
    "howlongtobeat": "38221",
    "igdb": "kaiju-panic",
+   "metacritic": "kaiju-panic",
    "mobygames": "83045",
    "pcgamingwiki": "Kaiju_Panic",
    "steam": "352760"
@@ -418,6 +431,7 @@
   "enwiki": "The Collage Atlas",
   "ids": {
    "igdb": "the-collage-atlas",
+   "metacritic": "the-collage-atlas",
    "pcgamingwiki": "The_Collage_Atlas",
    "steam": "2581960"
   },
@@ -430,6 +444,7 @@
    "gog": "game/dorfromantik",
    "howlongtobeat": "79440",
    "igdb": "dorfromantik",
+   "metacritic": "dorfromantik",
    "mobygames": "161316",
    "pcgamingwiki": "Dorfromantik",
    "steam": "1455840"
@@ -447,6 +462,7 @@
  {
   "ids": {
    "igdb": "imagine-makeup-artist",
+   "metacritic": "imagine-makeup-artist",
    "mobygames": "88756"
   },
   "label_en": "Imagine: Makeup Artist",
@@ -456,6 +472,7 @@
   "ids": {
    "howlongtobeat": "76760",
    "igdb": "mxgp-2019-the-official-motocross-videogame",
+   "metacritic": "mxgp-2019",
    "mobygames": "134044",
    "pcgamingwiki": "MXGP_2019",
    "steam": "1018160"
@@ -510,6 +527,7 @@
    "howlongtobeat": "94676",
    "igdb": "organs-please",
    "mobygames": "215215",
+   "pcgamingwiki": "Organs_Please",
    "steam": "1593780"
   },
   "label_en": "Organs Please",
@@ -519,6 +537,7 @@
   "ids": {
    "howlongtobeat": "84498",
    "igdb": "qv",
+   "metacritic": "qv",
    "mobygames": "154580",
    "steam": "1494110"
   },
@@ -655,6 +674,7 @@
   "ids": {
    "howlongtobeat": "64415",
    "igdb": "rogue-aces-deluxe",
+   "metacritic": "rogue-aces",
    "mobygames": "106752",
    "steam": "1371710"
   },
@@ -884,6 +904,7 @@
  {
   "ids": {
    "igdb": "thumpies",
+   "metacritic": "thumpies",
    "mobygames": "193216"
   },
   "label_en": "Thumpies",
@@ -939,6 +960,7 @@
    "epic": "dispatch-76e550",
    "howlongtobeat": "160618",
    "igdb": "dispatch--3",
+   "metacritic": "dispatch",
    "mobygames": "243630",
    "pcgamingwiki": "Dispatch_(AdHoc)",
    "steam": "2592160"

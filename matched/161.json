@@ -3,6 +3,7 @@
   "enwiki": "Dynasty Warriors 5",
   "ids": {
    "igdb": "dynasty-warriors-5",
+   "metacritic": "dynasty-warriors-5",
    "mobygames": "18144",
    "pcgamingwiki": "Dynasty_Warriors_5_Special"
   },
@@ -56,6 +57,7 @@
   "enwiki": "Aquaman: Battle for Atlantis",
   "ids": {
    "igdb": "aquaman-battle-for-atlantis",
+   "metacritic": "aquaman-battle-for-atlantis",
    "mobygames": "15109"
   },
   "label_en": "Aquaman: Battle for Atlantis",
@@ -85,6 +87,7 @@
   "ids": {
    "howlongtobeat": "13447",
    "igdb": "pro-cycling-manager-2012",
+   "metacritic": "pro-cycling-manager-season-2012-le-tour-de-france",
    "mobygames": "64861",
    "pcgamingwiki": "Pro_Cycling_Manager_2012",
    "steam": "210990"
@@ -119,6 +122,7 @@
   "ids": {
    "howlongtobeat": "11021",
    "igdb": "war-front-turning-point",
+   "metacritic": "war-front-turning-point",
    "mobygames": "27163",
    "pcgamingwiki": "War_Front:_Turning_Point"
   },
@@ -154,6 +158,7 @@
   "enwiki": "Mighty Milky Way",
   "ids": {
    "igdb": "mighty-milky-way",
+   "metacritic": "mighty-milky-way",
    "mobygames": "70250"
   },
   "label_en": "Mighty Milky Way",
@@ -174,6 +179,7 @@
    "gog": "game/waking_mars",
    "howlongtobeat": "11003",
    "igdb": "waking-mars",
+   "metacritic": "waking-mars",
    "mobygames": "58706",
    "pcgamingwiki": "Waking_Mars",
    "steam": "227200"
@@ -185,6 +191,7 @@
   "enwiki": "Pokémon Black 2",
   "ids": {
    "igdb": "pokemon-black-version-2",
+   "metacritic": "pokemon-black-version-2",
    "mobygames": "59629"
   },
   "label_en": "Pokémon Black 2",
@@ -198,6 +205,7 @@
   "enwiki": "Wii Sports Club",
   "ids": {
    "igdb": "wii-sports-club",
+   "metacritic": "wii-sports-club",
    "mobygames": "93507"
   },
   "label_en": "Wii Sports Club",
@@ -212,6 +220,7 @@
   "ids": {
    "howlongtobeat": "32643",
    "igdb": "code-realize-guardian-of-rebirth",
+   "metacritic": "coderealize-guardian-of-rebirth",
    "mobygames": "83556"
   },
   "label_en": "Code: Realize − Guardian of Rebirth",
@@ -223,6 +232,7 @@
    "epic": "anno-2205",
    "howlongtobeat": "31282",
    "igdb": "anno-2205",
+   "metacritic": "anno-2205",
    "mobygames": "80354",
    "pcgamingwiki": "Anno_2205",
    "steam": "375910"
@@ -256,6 +266,7 @@
   "ids": {
    "howlongtobeat": "33985",
    "igdb": "potions-a-curious-tale",
+   "metacritic": "potions-a-curious-tale",
    "mobygames": "218969",
    "pcgamingwiki": "Potions:_A_Curious_Tale",
    "steam": "378690"
@@ -278,6 +289,7 @@
   "ids": {
    "howlongtobeat": "30346",
    "igdb": "frozen-free-fall-snowball-fight",
+   "metacritic": "frozen-free-fall-snowball-fight",
    "mobygames": "74755",
    "pcgamingwiki": "Frozen_Free_Fall:_Snowball_Fight",
    "steam": "357480"
@@ -292,6 +304,7 @@
    "gog": "game/ghostrunner",
    "howlongtobeat": "69898",
    "igdb": "ghostrunner",
+   "metacritic": "ghostrunner",
    "mobygames": "151921",
    "pcgamingwiki": "Ghostrunner",
    "steam": "1139900"
@@ -469,6 +482,7 @@
    "gog": "game/love_on_leave",
    "howlongtobeat": "130136",
    "igdb": "love-on-leave",
+   "metacritic": "love-on-leave",
    "mobygames": "203235",
    "steam": "2278640"
   },
@@ -1044,6 +1058,7 @@
  {
   "ids": {
    "igdb": "gloom--1",
+   "pcgamingwiki": "Gloom",
    "steam": "619280"
   },
   "label_en": "Gloom",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "171",
    "igdb": "ace-combat-x-skies-of-deception",
+   "metacritic": "ace-combat-x-skies-of-deception",
    "mobygames": "29881"
   },
   "label_en": "Ace Combat X: Skies of Deception",
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "1974",
    "igdb": "crash-bandicoot-the-huge-adventure",
+   "metacritic": "crash-bandicoot-the-huge-adventure",
    "mobygames": "5935"
   },
   "label_en": "Crash Bandicoot: The Huge Adventure",
@@ -45,6 +47,7 @@
    "gog": "game/delta_force_land_warrior",
    "howlongtobeat": "12004",
    "igdb": "delta-force-land-warrior",
+   "metacritic": "delta-force-land-warrior",
    "mobygames": "2835",
    "pcgamingwiki": "Delta_Force:_Land_Warrior",
    "steam": "32640"
@@ -57,6 +60,7 @@
   "ids": {
    "howlongtobeat": "3495",
    "igdb": "final-fantasy-ii",
+   "metacritic": "final-fantasy-ii",
    "mobygames": "7321",
    "pcgamingwiki": "Final_Fantasy_II"
   },
@@ -85,11 +89,12 @@
   "ids": {
    "howlongtobeat": "6601",
    "igdb": "nights-into-dreams-dot-dot-dot--1",
+   "metacritic": "nights-into-dreams",
    "mobygames": "7437",
    "pcgamingwiki": "NiGHTS_into_Dreams...",
    "steam": "219950"
   },
-  "label_en": "Nights into Dreams",
+  "label_en": "NiGHTS into Dreams",
   "wikidata": "Q1855957"
  },
  {
@@ -115,6 +120,7 @@
   "ids": {
    "howlongtobeat": "11304",
    "igdb": "worms-4-mayhem",
+   "metacritic": "worms-4-mayhem",
    "mobygames": "18593",
    "pcgamingwiki": "Worms_4:_Mayhem"
   },
@@ -134,6 +140,7 @@
   "enwiki": "Infinite Space",
   "ids": {
    "igdb": "infinite-space",
+   "metacritic": "infinite-space",
    "mobygames": "46846"
   },
   "label_en": "Infinite Space",
@@ -160,6 +167,7 @@
   "enwiki": "Jumper: Griffin's Story (video game)",
   "ids": {
    "igdb": "jumper-griffin-s-story",
+   "metacritic": "jumper-griffins-story",
    "mobygames": "36668"
   },
   "label_en": "Jumper: Griffin's Story",
@@ -169,6 +177,7 @@
   "ids": {
    "howlongtobeat": "4476",
    "igdb": "hitman-sniper-challenge",
+   "metacritic": "hitman-sniper-challenge",
    "mobygames": "66064",
    "pcgamingwiki": "Hitman:_Sniper_Challenge",
    "steam": "205930"
@@ -203,6 +212,7 @@
   "enwiki": "NCAA Football 11",
   "ids": {
    "igdb": "ncaa-football-11",
+   "metacritic": "ncaa-football-11",
    "mobygames": "49713"
   },
   "label_en": "NCAA Football 11",
@@ -232,6 +242,7 @@
   "enwiki": "Rise of the Kasai",
   "ids": {
    "igdb": "rise-of-the-kasai",
+   "metacritic": "rise-of-the-kasai",
    "mobygames": "21289"
   },
   "label_en": "Rise of the Kasai",
@@ -267,6 +278,7 @@
   "ids": {
    "howlongtobeat": "40142",
    "igdb": "mystery-chronicle-one-way-heroics",
+   "metacritic": "mystery-chronicle-one-way-heroics",
    "mobygames": "87302",
    "pcgamingwiki": "Mystery_Chronicle:_One_Way_Heroics",
    "steam": "409000"
@@ -278,6 +290,7 @@
   "ids": {
    "howlongtobeat": "16424",
    "igdb": "the-floor-is-jelly",
+   "metacritic": "the-floor-is-jelly",
    "mobygames": "73926",
    "pcgamingwiki": "The_Floor_is_Jelly",
    "steam": "295750"
@@ -288,6 +301,7 @@
  {
   "ids": {
    "igdb": "virtualcast",
+   "pcgamingwiki": "VirtualCast",
    "steam": "947890"
   },
   "label_en": "Virtual Cast",
@@ -302,6 +316,7 @@
   "ids": {
    "howlongtobeat": "83704",
    "igdb": "phasmophobia",
+   "metacritic": "phasmophobia",
    "mobygames": "151580",
    "pcgamingwiki": "Phasmophobia",
    "steam": "739630"
@@ -314,6 +329,7 @@
    "gog": "game/mutropolis",
    "howlongtobeat": "62985",
    "igdb": "mutropolis",
+   "metacritic": "mutropolis",
    "mobygames": "159290",
    "pcgamingwiki": "Mutropolis",
    "steam": "1037120"
@@ -581,6 +597,7 @@
   "ids": {
    "howlongtobeat": "78319",
    "igdb": "what-happened",
+   "metacritic": "what-happened",
    "mobygames": "149398",
    "steam": "1296290"
   },
@@ -858,6 +875,7 @@
   "enwiki": "Dungeons & Degenerate Gamblers",
   "ids": {
    "igdb": "dungeons-and-degenerate-gamblers",
+   "metacritic": "dungeons-and-degenerate-gamblers",
    "mobygames": "228978",
    "pcgamingwiki": "Dungeons_&_Degenerate_Gamblers",
    "steam": "2400510"
@@ -1177,6 +1195,7 @@
  {
   "ids": {
    "igdb": "chrysalis--2",
+   "pcgamingwiki": "Chrysalis",
    "steam": "1594210"
   },
   "label_en": "Chrysalis",
@@ -1219,5 +1238,9 @@
   },
   "label_en": "Idle Fleet",
   "wikidata": "Q141481957"
+ },
+ {
+  "label_en": "Iskrio",
+  "wikidata": "Q142214957"
  }
 ]

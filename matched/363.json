@@ -3,6 +3,7 @@
   "enwiki": "Kung Fu Rider",
   "ids": {
    "igdb": "kung-fu-rider",
+   "metacritic": "kung-fu-rider",
    "mobygames": "66597"
   },
   "label_en": "Kung Fu Rider",
@@ -18,6 +19,7 @@
   "ids": {
    "howlongtobeat": "5080",
    "igdb": "kirby-s-epic-yarn",
+   "metacritic": "kirbys-epic-yarn",
    "mobygames": "48709"
   },
   "label_en": "Kirby's Epic Yarn",
@@ -38,6 +40,7 @@
    "gog": "game/death_track_resurrection",
    "howlongtobeat": "2371",
    "igdb": "death-track-resurrection",
+   "metacritic": "death-track-resurrection",
    "mobygames": "41789",
    "pcgamingwiki": "Death_Track:_Resurrection",
    "steam": "7840"
@@ -94,6 +97,7 @@
   "enwiki": "Tigger's Honey Hunt",
   "ids": {
    "igdb": "disneys-tiggers-honey-hunt",
+   "metacritic": "tiggers-honey-hunt-junior-adventure",
    "mobygames": "9171",
    "pcgamingwiki": "Tigger's_Honey_Hunt"
   },
@@ -118,6 +122,7 @@
   "ids": {
    "howlongtobeat": "8829",
    "igdb": "sound-shapes",
+   "metacritic": "sound-shapes",
    "mobygames": "58929"
   },
   "label_en": "Sound Shapes",
@@ -168,6 +173,7 @@
   "enwiki": "High Velocity Bowling",
   "ids": {
    "igdb": "high-velocity-bowling",
+   "metacritic": "high-velocity-bowling",
    "mobygames": "83402"
   },
   "label_en": "High Velocity Bowling",
@@ -187,6 +193,7 @@
   "ids": {
    "howlongtobeat": "7126",
    "igdb": "pocket-bike-racer",
+   "metacritic": "pocketbike-racer",
    "mobygames": "25184"
   },
   "label_en": "PocketBike Racer",
@@ -221,6 +228,7 @@
    "gog": "game/mad_max",
    "howlongtobeat": "17610",
    "igdb": "mad-max",
+   "metacritic": "mad-max",
    "mobygames": "74684",
    "pcgamingwiki": "Mad_Max",
    "steam": "234140"
@@ -232,6 +240,7 @@
   "enwiki": "Story of Seasons (video game)",
   "ids": {
    "igdb": "story-of-seasons",
+   "metacritic": "story-of-seasons",
    "mobygames": "84948"
   },
   "label_en": "Story of Seasons",
@@ -253,6 +262,7 @@
  {
   "ids": {
    "igdb": "saddies-attack",
+   "metacritic": "saddies-attack",
    "mobygames": "90238",
    "pcgamingwiki": "Saddies:_Attack!!"
   },
@@ -275,6 +285,7 @@
   "enwiki": "All-Star Baseball 2004",
   "ids": {
    "igdb": "all-star-baseball-2004",
+   "metacritic": "all-star-baseball-2004",
    "mobygames": "11247"
   },
   "label_en": "All-Star Baseball 2004",
@@ -311,6 +322,7 @@
   "ids": {
    "howlongtobeat": "101248",
    "igdb": "thirsty-suitors",
+   "metacritic": "thirsty-suitors",
    "mobygames": "211307",
    "pcgamingwiki": "Thirsty_Suitors",
    "steam": "1617220"
@@ -367,6 +379,7 @@
   "ids": {
    "howlongtobeat": "98972",
    "igdb": "doctor-who-the-edge-of-reality",
+   "metacritic": "doctor-who-the-edge-of-reality",
    "mobygames": "173601",
    "pcgamingwiki": "Doctor_Who:_The_Edge_of_Reality",
    "steam": "1444920"
@@ -378,6 +391,7 @@
   "ids": {
    "howlongtobeat": "19551",
    "igdb": "blue-estate",
+   "metacritic": "blue-estate",
    "mobygames": "82460",
    "pcgamingwiki": "Blue_Estate_The_Game",
    "steam": "305380"
@@ -1117,5 +1131,9 @@
   },
   "label_en": "Particulitix",
   "wikidata": "Q141481363"
+ },
+ {
+  "label_en": "PinesQuest",
+  "wikidata": "Q142230363"
  }
 ]

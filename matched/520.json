@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "19929",
    "igdb": "eyetoy-play-2",
+   "metacritic": "eyetoy-play-2",
    "mobygames": "29147"
   },
   "label_en": "EyeToy: Play 2",
@@ -38,6 +39,7 @@
   "ids": {
    "howlongtobeat": "64957",
    "igdb": "memorick-the-apprentice-knight",
+   "metacritic": "knights-apprentice-memoricks-adventures",
    "mobygames": "17544"
   },
   "label_en": "Memorick: The Apprentice Knight",
@@ -57,6 +59,7 @@
   "ids": {
    "howlongtobeat": "10897",
    "igdb": "vandal-hearts-flames-of-judgment",
+   "metacritic": "vandal-hearts-flames-of-judgment",
    "mobygames": "46226"
   },
   "label_en": "Vandal Hearts: Flames of Judgment",
@@ -75,6 +78,7 @@
   "enwiki": "MorphX (video game)",
   "ids": {
    "igdb": "morphx",
+   "metacritic": "morphx",
    "mobygames": "75173",
    "pcgamingwiki": "MorphX"
   },
@@ -143,6 +147,7 @@
   "ids": {
    "howlongtobeat": "9973",
    "igdb": "the-king-of-fighters-98-ultimate-match-final-edition",
+   "metacritic": "the-king-of-fighters-98-ultimate-match",
    "mobygames": "39646",
    "pcgamingwiki": "The_King_of_Fighters_'98_Ultimate_Match_Final_Edition",
    "steam": "222420"
@@ -159,6 +164,7 @@
   "ids": {
    "howlongtobeat": "14334",
    "igdb": "need-for-speed-rivals",
+   "metacritic": "need-for-speed-rivals",
    "mobygames": "62682",
    "pcgamingwiki": "Need_for_Speed_Rivals",
    "steam": "1262600"
@@ -200,6 +206,7 @@
   "ids": {
    "howlongtobeat": "13833",
    "igdb": "world-war-ii-panzer-claws",
+   "metacritic": "world-war-ii-panzer-claws",
    "mobygames": "7244",
    "pcgamingwiki": "World_War_II:_Panzer_Claws",
    "steam": "254100"
@@ -229,6 +236,7 @@
   "ids": {
    "howlongtobeat": "40119",
    "igdb": "pankapu",
+   "metacritic": "pankapu",
    "mobygames": "96132",
    "pcgamingwiki": "Pankapu",
    "steam": "418670"
@@ -241,6 +249,7 @@
   "ids": {
    "howlongtobeat": "65001",
    "igdb": "eastshade",
+   "metacritic": "eastshade",
    "mobygames": "122074",
    "pcgamingwiki": "Eastshade",
    "steam": "715560"
@@ -253,6 +262,7 @@
   "ids": {
    "howlongtobeat": "68975",
    "igdb": "starbase",
+   "metacritic": "starbase",
    "mobygames": "168619",
    "pcgamingwiki": "Starbase",
    "steam": "454120"
@@ -274,7 +284,9 @@
  {
   "ids": {
    "igdb": "flood-of-light",
+   "metacritic": "flood-of-light",
    "mobygames": "100091",
+   "pcgamingwiki": "Flood_of_Light",
    "steam": "606480"
   },
   "label_en": "Flood of light",
@@ -326,6 +338,7 @@
    "epic": "the-darkest-tales-7d0dab",
    "howlongtobeat": "88811",
    "igdb": "the-darkest-tales",
+   "metacritic": "the-darkest-tales",
    "mobygames": "193391",
    "pcgamingwiki": "The_Darkest_Tales",
    "steam": "1307690"
@@ -689,6 +702,7 @@
   "ids": {
    "howlongtobeat": "119971",
    "igdb": "europa",
+   "metacritic": "europa",
    "mobygames": "232040",
    "steam": "2214880"
   },
@@ -982,6 +996,7 @@
   "ids": {
    "gog": "game/battlestar_galactica_scattered_hopes",
    "igdb": "battlestar-galactica-scattered-hopes",
+   "pcgamingwiki": "Battlestar_Galactica:_Scattered_Hopes",
    "steam": "2535950"
   },
   "label_en": "Battlestar Galactica: Scattered Hopes",

@@ -25,6 +25,7 @@
    "gog": "game/sanitarium",
    "howlongtobeat": "8152",
    "igdb": "sanitarium",
+   "metacritic": "sanitarium",
    "mobygames": "572",
    "pcgamingwiki": "Sanitarium",
    "steam": "284050"
@@ -57,6 +58,7 @@
   "ids": {
    "howlongtobeat": "12347",
    "igdb": "nascar-thunder-2004",
+   "metacritic": "nascar-thunder-2004",
    "mobygames": "10393",
    "pcgamingwiki": "NASCAR_Thunder_2004"
   },
@@ -80,6 +82,7 @@
   "ids": {
    "howlongtobeat": "9009",
    "igdb": "spyro-season-of-ice",
+   "metacritic": "spyro-season-of-ice",
    "mobygames": "5254"
   },
   "label_en": "Spyro: Season of Ice",
@@ -108,6 +111,7 @@
   "enwiki": "Police Quest III: The Kindred",
   "ids": {
    "igdb": "police-quest-iii-the-kindred",
+   "metacritic": "police-quest-3-the-kindred",
    "mobygames": "148",
    "pcgamingwiki": "Police_Quest_III:_The_Kindred"
   },
@@ -146,6 +150,7 @@
   "enwiki": "Major Minor's Majestic March",
   "ids": {
    "igdb": "major-minor-s-majestic-march",
+   "metacritic": "major-minors-majestic-march",
    "mobygames": "85336"
   },
   "label_en": "Major Minor's Majestic March",
@@ -230,7 +235,8 @@
  {
   "enwiki": "Q*bert (1999 video game)",
   "ids": {
-   "igdb": "q-star-bert"
+   "igdb": "q-star-bert",
+   "metacritic": "qbert"
   },
   "label_en": "Q*bert",
   "wikidata": "Q30601267"
@@ -239,7 +245,8 @@
   "enwiki": "Attack of the Friday Monsters! A Tokyo Tale",
   "ids": {
    "howlongtobeat": "12208",
-   "igdb": "attack-of-the-friday-monsters-a-tokyo-tale"
+   "igdb": "attack-of-the-friday-monsters-a-tokyo-tale",
+   "metacritic": "attack-of-the-friday-monsters-a-tokyo-tale"
   },
   "label_en": "Attack of the Friday Monsters! A Tokyo Tale",
   "wikidata": "Q31091267"
@@ -249,6 +256,7 @@
    "gog": "game/warsim_the_realm_of_aslona",
    "howlongtobeat": "48501",
    "igdb": "warsim-the-realm-of-aslona",
+   "metacritic": "warsim-the-realm-of-aslona",
    "mobygames": "139577",
    "pcgamingwiki": "Warsim:_The_Realm_of_Aslona",
    "steam": "659540"
@@ -279,6 +287,7 @@
   "ids": {
    "howlongtobeat": "82443",
    "igdb": "medal-of-honor-above-and-beyond",
+   "metacritic": "medal-of-honor-above-and-beyond",
    "mobygames": "155262",
    "pcgamingwiki": "Medal_of_Honor:_Above_and_Beyond",
    "steam": "1402320"
@@ -292,6 +301,7 @@
    "gog": "game/dry_drowning",
    "howlongtobeat": "69659",
    "igdb": "dry-drowning",
+   "metacritic": "dry-drowning",
    "mobygames": "133287",
    "pcgamingwiki": "Dry_Drowning",
    "steam": "1077970"
@@ -311,6 +321,7 @@
   "ids": {
    "howlongtobeat": "30874",
    "igdb": "twin-robots",
+   "metacritic": "twin-robots",
    "mobygames": "96764",
    "pcgamingwiki": "Twin_Robots",
    "steam": "374230"
@@ -403,6 +414,7 @@
    "gog": "game/floodland",
    "howlongtobeat": "112845",
    "igdb": "floodland",
+   "metacritic": "floodland",
    "mobygames": "195308",
    "steam": "1336180"
   },
@@ -447,6 +459,7 @@
   "ids": {
    "howlongtobeat": "68282",
    "igdb": "lucifer-within-us",
+   "metacritic": "lucifer-within-us",
    "mobygames": "151101",
    "pcgamingwiki": "Lucifer_Within_Us",
    "steam": "717560"
@@ -545,6 +558,7 @@
   "ids": {
    "howlongtobeat": "108187",
    "igdb": "drill-down",
+   "metacritic": "the-quarry",
    "mobygames": "151712",
    "steam": "1162350"
   },

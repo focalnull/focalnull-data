@@ -5,6 +5,7 @@
    "gog": "game/star_wars_jedi_knight_jedi_academy",
    "howlongtobeat": "9087",
    "igdb": "star-wars-jedi-knight-jedi-academy",
+   "metacritic": "star-wars-jedi-knight-jedi-academy",
    "mobygames": "10374",
    "pcgamingwiki": "Star_Wars:_Jedi_Knight_-_Jedi_Academy",
    "steam": "6020"
@@ -53,6 +54,7 @@
   "enwiki": "Stronghold 2",
   "ids": {
    "igdb": "stronghold-2",
+   "metacritic": "stronghold-2",
    "mobygames": "17825",
    "pcgamingwiki": "Stronghold_2",
    "steam": "901735"
@@ -96,6 +98,7 @@
   "ids": {
    "howlongtobeat": "1755",
    "igdb": "clock-tower-3",
+   "metacritic": "clock-tower-3",
    "mobygames": "9141"
   },
   "label_en": "Clock Tower 3",
@@ -106,6 +109,7 @@
   "ids": {
    "howlongtobeat": "14341",
    "igdb": "blazblue-chrono-phantasma",
+   "metacritic": "blazblue-chrono-phantasma",
    "mobygames": "83587"
   },
   "label_en": "BlazBlue: Chrono Phantasma",
@@ -117,6 +121,7 @@
    "gog": "game/ground_control_2_operation_exodus",
    "howlongtobeat": "4132",
    "igdb": "ground-control-ii-operation-exodus",
+   "metacritic": "ground-control-ii-operation-exodus",
    "mobygames": "14351",
    "pcgamingwiki": "Ground_Control_II:_Operation_Exodus",
    "steam": "254840"
@@ -157,6 +162,7 @@
   "enwiki": "Hero of Sparta",
   "ids": {
    "igdb": "hero-of-sparta",
+   "metacritic": "hero-of-sparta",
    "mobygames": "88255"
   },
   "label_en": "Hero of Sparta",
@@ -222,6 +228,7 @@
    "gog": "game/thimbleweed_park",
    "howlongtobeat": "44263",
    "igdb": "thimbleweed-park",
+   "metacritic": "thimbleweed-park",
    "mobygames": "86210",
    "pcgamingwiki": "Thimbleweed_Park",
    "steam": "569860"
@@ -258,6 +265,7 @@
   "ids": {
    "howlongtobeat": "49052",
    "igdb": "warhammer-40000-inquisitor-martyr",
+   "metacritic": "warhammer-40000-inquisitor-martyr",
    "mobygames": "95497",
    "pcgamingwiki": "Warhammer_40,000:_Inquisitor_-_Martyr",
    "steam": "527430"
@@ -270,6 +278,7 @@
   "ids": {
    "howlongtobeat": "15771",
    "igdb": "nfl-blitz-2001",
+   "metacritic": "nfl-blitz-2001",
    "mobygames": "3617"
   },
   "label_en": "NFL Blitz 2001",
@@ -277,6 +286,7 @@
  },
  {
   "ids": {
+   "metacritic": "igor-the-game-2008",
    "mobygames": "36733"
   },
   "label_en": "Igor: The Game",
@@ -286,6 +296,7 @@
   "ids": {
    "howlongtobeat": "62322",
    "igdb": "heartbeat",
+   "metacritic": "heartbeat",
    "mobygames": "118592",
    "pcgamingwiki": "Heartbeat",
    "steam": "984560"
@@ -317,6 +328,7 @@
   "ids": {
    "howlongtobeat": "33636",
    "igdb": "god-eater-resurrection",
+   "metacritic": "god-eater-resurrection",
    "mobygames": "83603",
    "pcgamingwiki": "God_Eater:_Resurrection",
    "steam": "460870"
@@ -833,6 +845,7 @@
  },
  {
   "ids": {
+   "metacritic": "rebels-prison-escape",
    "mobygames": "12569"
   },
   "label_en": "Rebels: Prison Escape",
@@ -857,6 +870,7 @@
   "ids": {
    "howlongtobeat": "169252",
    "igdb": "code-vein-ii",
+   "metacritic": "code-vein-ii",
    "pcgamingwiki": "Code_Vein_II",
    "steam": "2362060"
   },

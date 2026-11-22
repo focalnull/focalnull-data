@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "24568",
    "igdb": "airfix-dogfighter",
+   "metacritic": "airfix-dogfighter",
    "mobygames": "2965",
    "pcgamingwiki": "Airfix_Dogfighter"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "9719",
    "igdb": "tetris-ds",
+   "metacritic": "tetris-ds",
    "mobygames": "21870"
   },
   "label_en": "Tetris DS",
@@ -30,6 +32,7 @@
   "ids": {
    "howlongtobeat": "4334",
    "igdb": "harvest-moon-a-wonderful-life",
+   "metacritic": "harvest-moon-a-wonderful-life",
    "mobygames": "12865"
   },
   "label_en": "Harvest Moon: A Wonderful Life",
@@ -53,6 +56,7 @@
   "ids": {
    "howlongtobeat": "1238",
    "igdb": "bomberman--1",
+   "metacritic": "bomberman-2005",
    "mobygames": "18291"
   },
   "label_en": "Bomberman DS",
@@ -95,6 +99,7 @@
   "enwiki": "Kill Switch (video game)",
   "ids": {
    "igdb": "kill-dot-switch",
+   "metacritic": "kill-switch",
    "mobygames": "11972",
    "pcgamingwiki": "Kill_Switch"
   },
@@ -144,6 +149,7 @@
   "ids": {
    "howlongtobeat": "4279",
    "igdb": "hammerin-hero",
+   "metacritic": "hammerin-hero",
    "mobygames": "90017"
   },
   "label_en": "Hammerin' Hero",
@@ -188,6 +194,7 @@
   "ids": {
    "howlongtobeat": "14534",
    "igdb": "ibb-and-obb",
+   "metacritic": "ibb-obb",
    "mobygames": "99708",
    "pcgamingwiki": "Ibb_&_obb",
    "steam": "95400"
@@ -199,6 +206,7 @@
   "enwiki": "Chocolatier 2: Secret Ingredients",
   "ids": {
    "igdb": "chocolatier-2-secret-ingredients",
+   "metacritic": "chocolatier-2-secret-ingredients",
    "mobygames": "44858"
   },
   "label_en": "Chocolatier 2: Secret Ingredients",
@@ -208,6 +216,7 @@
   "enwiki": "Dr. Mario: Miracle Cure",
   "ids": {
    "igdb": "dr-mario-miracle-cure",
+   "metacritic": "dr-mario-miracle-cure",
    "mobygames": "86527"
   },
   "label_en": "Dr. Mario: Miracle Cure",
@@ -228,6 +237,7 @@
    "gog": "game/wizard_of_legend",
    "howlongtobeat": "26294",
    "igdb": "wizard-of-legend",
+   "metacritic": "wizard-of-legend",
    "mobygames": "107993",
    "pcgamingwiki": "Wizard_of_Legend",
    "steam": "445980"
@@ -240,6 +250,7 @@
   "ids": {
    "howlongtobeat": "19603",
    "igdb": "battlestar-galactica",
+   "metacritic": "battlestar-galactica-2003",
    "mobygames": "12713"
   },
   "label_en": "Battlestar Galactica",
@@ -248,6 +259,7 @@
  {
   "ids": {
    "igdb": "aldred-knight",
+   "metacritic": "aldred-knight-of-honor",
    "mobygames": "135615"
   },
   "label_en": "Aldred: Knight of Honor",
@@ -316,6 +328,7 @@
   "ids": {
    "howlongtobeat": "59380",
    "igdb": "trivia-vault-basketball-trivia",
+   "metacritic": "trivia-vault-basketball-trivia",
    "pcgamingwiki": "Trivia_Vault:_Basketball_Trivia",
    "steam": "806610"
   },
@@ -355,6 +368,7 @@
    "epic": "smurfs-kart",
    "howlongtobeat": "128676",
    "igdb": "smurfs-kart",
+   "metacritic": "smurfs-kart",
    "mobygames": "216499",
    "pcgamingwiki": "Smurfs_Kart",
    "steam": "1911220"
@@ -613,6 +627,7 @@
   "ids": {
    "howlongtobeat": "27511",
    "igdb": "race-to-mars",
+   "metacritic": "race-to-mars",
    "mobygames": "109733",
    "pcgamingwiki": "Race_to_Mars",
    "steam": "257930"
@@ -1080,7 +1095,8 @@
  {
   "enwiki": "Pictonico!",
   "ids": {
-   "igdb": "pictonico"
+   "igdb": "pictonico",
+   "metacritic": "pictonico"
   },
   "label_en": "Pictonico!",
   "wikidata": "Q139847702"

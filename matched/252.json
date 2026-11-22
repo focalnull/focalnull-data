@@ -5,6 +5,7 @@
    "gog": "game/anno_1701_ad",
    "howlongtobeat": "489",
    "igdb": "anno-1701",
+   "metacritic": "1701-a-d",
    "mobygames": "25274",
    "pcgamingwiki": "Anno_1701",
    "steam": "7870"
@@ -18,6 +19,7 @@
    "gog": "game/corridor_7_alien_invasion",
    "howlongtobeat": "1936",
    "igdb": "corridor-7-alien-invasion",
+   "metacritic": "corridor-7",
    "mobygames": "887",
    "pcgamingwiki": "Corridor_7:_Alien_Invasion",
    "steam": "1341890"
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "6864",
    "igdb": "pac-man-world-3",
+   "metacritic": "pac-man-world-3",
    "mobygames": "20515",
    "pcgamingwiki": "Pac-Man_World_3"
   },
@@ -66,6 +69,7 @@
   "enwiki": "Looney Tunes: Back in Action (video game)",
   "ids": {
    "igdb": "looney-tunes-back-in-action",
+   "metacritic": "looney-tunes-back-in-action",
    "mobygames": "14987"
   },
   "label_en": "Looney Tunes: Back in Action",
@@ -140,6 +144,7 @@
   "enwiki": "Tiger Woods PGA Tour 12",
   "ids": {
    "igdb": "tiger-woods-pga-tour-12",
+   "metacritic": "tiger-woods-pga-tour-12-the-masters",
    "mobygames": "73145",
    "pcgamingwiki": "Tiger_Woods_PGA_Tour_12"
   },
@@ -152,6 +157,7 @@
    "epic": "world-of-warships",
    "howlongtobeat": "27125",
    "igdb": "world-of-warships",
+   "metacritic": "world-of-warships",
    "mobygames": "75491",
    "pcgamingwiki": "World_of_Warships",
    "steam": "552990"
@@ -164,6 +170,7 @@
   "ids": {
    "howlongtobeat": "39",
    "igdb": "101-in-1-explosive-megamix",
+   "metacritic": "101-in-1-explosive-megamix",
    "mobygames": "86818"
   },
   "label_en": "101-in-1 Explosive Megamix",
@@ -191,6 +198,7 @@
   "enwiki": "ESPN International Winter Sports 2002",
   "ids": {
    "igdb": "espn-international-winter-sports-2002",
+   "metacritic": "espn-international-winter-sports-2002",
    "mobygames": "40808"
   },
   "label_en": "ESPN International Winter Sports 2002",
@@ -263,6 +271,7 @@
   "ids": {
    "howlongtobeat": "25186",
    "igdb": "infinite-crisis",
+   "metacritic": "infinite-crisis",
    "mobygames": "73929",
    "steam": "345520"
   },
@@ -282,6 +291,7 @@
    "gog": "game/space_run",
    "howlongtobeat": "21029",
    "igdb": "space-run-fast-and-safe-delivery",
+   "metacritic": "space-run",
    "mobygames": "106311",
    "pcgamingwiki": "Space_Run",
    "steam": "275670"
@@ -301,6 +311,7 @@
   "ids": {
    "howlongtobeat": "38020",
    "igdb": "ever-oasis",
+   "metacritic": "ever-oasis",
    "mobygames": "90359"
   },
   "label_en": "Ever Oasis",
@@ -317,6 +328,7 @@
   "ids": {
    "howlongtobeat": "61472",
    "igdb": "gay-world",
+   "metacritic": "gay-world",
    "mobygames": "103525",
    "pcgamingwiki": "Gay_World",
    "steam": "776340"
@@ -360,6 +372,7 @@
   "ids": {
    "howlongtobeat": "68175",
    "igdb": "devolver-bootleg",
+   "metacritic": "devolver-bootleg",
    "mobygames": "128099",
    "pcgamingwiki": "Devolver_Bootleg",
    "steam": "1066260"
@@ -700,6 +713,7 @@
   "ids": {
    "howlongtobeat": "18562",
    "igdb": "god-factory-wingmen",
+   "metacritic": "god-factory-wingmen",
    "mobygames": "102278",
    "pcgamingwiki": "GoD_Factory:_Wingmen",
    "steam": "262750"
@@ -1116,6 +1130,7 @@
  {
   "ids": {
    "igdb": "muv-luv-photonmelodies",
+   "pcgamingwiki": "Muv-Luv_photonmelodies♮",
    "steam": "889710"
   },
   "label_en": "Muv-Luv photonmelodies♮",

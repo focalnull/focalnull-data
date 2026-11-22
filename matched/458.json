@@ -3,6 +3,7 @@
   "enwiki": "Jak 3",
   "ids": {
    "igdb": "jak-3",
+   "metacritic": "jak-3",
    "mobygames": "15641",
    "pcgamingwiki": "Jak_3_(OpenGOAL)"
   },
@@ -45,6 +46,7 @@
   "enwiki": "Gauntlet Legends",
   "ids": {
    "igdb": "gauntlet-legends",
+   "metacritic": "gauntlet-legends",
    "mobygames": "3590"
   },
   "label_en": "Gauntlet Legends",
@@ -54,6 +56,7 @@
   "enwiki": "Mission: Impossible – Operation Surma",
   "ids": {
    "igdb": "mission-impossible-operation-surma",
+   "metacritic": "mission-impossible-operation-surma",
    "mobygames": "12616"
   },
   "label_en": "Mission: Impossible – Operation Surma",
@@ -73,6 +76,7 @@
   "ids": {
    "howlongtobeat": "10949",
    "igdb": "virtua-fighter-2",
+   "metacritic": "virtua-fighter-2",
    "mobygames": "1124",
    "pcgamingwiki": "Virtua_Fighter_2_(2010)",
    "steam": "71115"
@@ -131,6 +135,7 @@
   "ids": {
    "howlongtobeat": "2897",
    "igdb": "droplitz",
+   "metacritic": "droplitz",
    "mobygames": "42161",
    "pcgamingwiki": "Droplitz",
    "steam": "23120"
@@ -205,6 +210,7 @@
   "ids": {
    "howlongtobeat": "19814",
    "igdb": "marvel-heroes",
+   "metacritic": "marvel-heroes-2015",
    "mobygames": "65101",
    "pcgamingwiki": "Marvel_Heroes",
    "steam": "226320"
@@ -243,6 +249,7 @@
   "ids": {
    "howlongtobeat": "26415",
    "igdb": "sunset",
+   "metacritic": "sunset",
    "mobygames": "72948",
    "pcgamingwiki": "Sunset",
    "steam": "287600"
@@ -269,6 +276,7 @@
    "gog": "game/huniecam_studio",
    "howlongtobeat": "36495",
    "igdb": "huniecam-studio",
+   "metacritic": "huniecam-studio",
    "mobygames": "80251",
    "pcgamingwiki": "HunieCam_Studio",
    "steam": "426000"
@@ -303,6 +311,7 @@
   "ids": {
    "howlongtobeat": "51721",
    "igdb": "the-norwood-suite",
+   "metacritic": "the-norwood-suite",
    "mobygames": "97021",
    "pcgamingwiki": "The_Norwood_Suite",
    "steam": "696480"
@@ -314,6 +323,7 @@
   "ids": {
    "howlongtobeat": "13673",
    "igdb": "naruto-shippuden-ninja-council-4",
+   "metacritic": "naruto-shippuden-ninja-council-4",
    "mobygames": "89454"
   },
   "label_en": "Naruto Shippuden: Ninja Council 4",
@@ -321,7 +331,8 @@
  },
  {
   "ids": {
-   "igdb": "saint-seiya-cosmo-fantasy"
+   "igdb": "saint-seiya-cosmo-fantasy",
+   "metacritic": "saint-seiya-cosmo-fantasy"
   },
   "label_en": "Saint Seiya Cosmo Fantasy",
   "wikidata": "Q97578458"
@@ -351,6 +362,7 @@
  {
   "ids": {
    "igdb": "legend-of-moros",
+   "metacritic": "legend-of-moros",
    "pcgamingwiki": "Legend_of_Moros",
    "steam": "449770"
   },
@@ -383,6 +395,7 @@
    "epic": "isonzo",
    "howlongtobeat": "100042",
    "igdb": "isonzo",
+   "metacritic": "isonzo",
    "mobygames": "190886",
    "pcgamingwiki": "Isonzo",
    "steam": "1556790"
@@ -464,6 +477,7 @@
    "howlongtobeat": "124572",
    "igdb": "dr-livesey-rom-and-death-edition",
    "mobygames": "201388",
+   "pcgamingwiki": "DR_LIVESEY_ROM_AND_DEATH_EDITION",
    "steam": "2181930"
   },
   "label_en": "DR LIVESEY ROM AND DEATH EDITION",
@@ -808,6 +822,7 @@
    "gog": "game/crystal_caves_hd",
    "howlongtobeat": "111192",
    "igdb": "crystal-caves-hd",
+   "metacritic": "crystal-caves-hd",
    "mobygames": "151364",
    "pcgamingwiki": "Crystal_Caves_HD",
    "steam": "1330890"

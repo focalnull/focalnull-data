@@ -3,6 +3,7 @@
   "enwiki": "Kirby Air Ride",
   "ids": {
    "igdb": "kirby-air-ride",
+   "metacritic": "kirby-air-ride",
    "mobygames": "10654"
   },
   "label_en": "Kirby Air Ride",
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "5356",
    "igdb": "loki",
+   "metacritic": "loki",
    "mobygames": "28425",
    "pcgamingwiki": "Loki",
    "steam": "7260"
@@ -116,6 +118,7 @@
   "enwiki": "Deep Fighter",
   "ids": {
    "igdb": "deep-fighter",
+   "metacritic": "deep-fighter-the-tsunami-offense",
    "mobygames": "3510",
    "pcgamingwiki": "Deep_Fighter"
   },
@@ -284,6 +287,7 @@
   "ids": {
    "howlongtobeat": "42452",
    "igdb": "gods-and-idols",
+   "metacritic": "gods-and-idols",
    "mobygames": "240990",
    "pcgamingwiki": "Gods_and_Idols",
    "steam": "423890"
@@ -294,6 +298,7 @@
  {
   "enwiki": "Backyard Baseball 2005",
   "ids": {
+   "metacritic": "backyard-baseball-2003-2003",
    "mobygames": "11842"
   },
   "label_en": "Backyard Baseball",
@@ -305,6 +310,7 @@
    "gog": "game/warhammer_chaosbane",
    "howlongtobeat": "65421",
    "igdb": "warhammer-chaosbane",
+   "metacritic": "warhammer-chaosbane",
    "mobygames": "127856",
    "pcgamingwiki": "Warhammer:_Chaosbane",
    "steam": "774241"
@@ -317,6 +323,7 @@
   "ids": {
    "howlongtobeat": "78347",
    "igdb": "ao-tennis-2",
+   "metacritic": "ao-tennis-2",
    "mobygames": "140214",
    "pcgamingwiki": "AO_Tennis_2",
    "steam": "1072500"
@@ -354,6 +361,7 @@
   "ids": {
    "howlongtobeat": "61297",
    "igdb": "zup-zero-2",
+   "metacritic": "zup-zero-2",
    "mobygames": "113837",
    "pcgamingwiki": "Zup!_Zero_2",
    "steam": "658550"
@@ -438,6 +446,7 @@
   "ids": {
    "howlongtobeat": "87790",
    "igdb": "king-arthur-knights-tale",
+   "metacritic": "king-arthur-knights-tale",
    "mobygames": "158152",
    "pcgamingwiki": "King_Arthur:_Knight's_Tale",
    "steam": "1157390"
@@ -491,6 +500,7 @@
    "gog": "game/akane",
    "howlongtobeat": "61746",
    "igdb": "akane",
+   "metacritic": "akane",
    "mobygames": "113439",
    "pcgamingwiki": "Akane",
    "steam": "884260"
@@ -798,6 +808,7 @@
   "ids": {
    "howlongtobeat": "21510",
    "igdb": "runers",
+   "metacritic": "runers",
    "mobygames": "131530",
    "pcgamingwiki": "Runers",
    "steam": "306550"
@@ -829,6 +840,7 @@
  {
   "ids": {
    "igdb": "my-jurassic-farm",
+   "metacritic": "my-jurassic-farm",
    "mobygames": "99108"
   },
   "label_en": "My Jurassic Farm",
@@ -874,6 +886,7 @@
   "ids": {
    "howlongtobeat": "8519",
    "igdb": "sideway-new-york",
+   "metacritic": "sideway-new-york",
    "mobygames": "54979",
    "pcgamingwiki": "Sideway_New_York",
    "steam": "200190"
@@ -1173,6 +1186,7 @@
   "ids": {
    "igdb": "iosoccer",
    "mobygames": "110025",
+   "pcgamingwiki": "IOSoccer",
    "steam": "673560"
   },
   "label_en": "IOSoccer",
@@ -1192,6 +1206,7 @@
  },
  {
   "ids": {
+   "metacritic": "ac-dc-live-rock-band-track-pack",
    "mobygames": "39315"
   },
   "label_en": "AC/DC Live: Rock Band Track Pack",
@@ -1227,5 +1242,12 @@
   },
   "label_en": "Bartender: The Right Mix",
   "wikidata": "Q142115182"
+ },
+ {
+  "ids": {
+   "steam": "3557870"
+  },
+  "label_en": "Bad House",
+  "wikidata": "Q142208182"
  }
 ]

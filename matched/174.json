@@ -32,6 +32,7 @@
   "enwiki": "WWE SmackDown vs. Raw 2010",
   "ids": {
    "igdb": "wwe-smackdown-vs-raw-2010",
+   "metacritic": "wwe-smackdown-vs-raw-2010",
    "mobygames": "46061"
   },
   "label_en": "WWE SmackDown vs. Raw 2010",
@@ -42,6 +43,7 @@
   "ids": {
    "howlongtobeat": "4674",
    "igdb": "infamous",
+   "metacritic": "infamous",
    "mobygames": "41369"
   },
   "label_en": "InFamous",
@@ -51,6 +53,7 @@
   "enwiki": "Sonic Pinball Party",
   "ids": {
    "igdb": "sonic-pinball-party",
+   "metacritic": "sonic-pinball-party",
    "mobygames": "11572"
   },
   "label_en": "Sonic Pinball Party",
@@ -70,6 +73,7 @@
   "ids": {
    "howlongtobeat": "2398",
    "igdb": "def-jam-rapstar",
+   "metacritic": "def-jam-rapstar",
    "mobygames": "85513"
   },
   "label_en": "Def Jam Rapstar",
@@ -80,6 +84,7 @@
   "ids": {
    "howlongtobeat": "6561",
    "igdb": "nhl-11",
+   "metacritic": "nhl-11",
    "mobygames": "62492"
   },
   "label_en": "NHL 11",
@@ -91,6 +96,7 @@
    "gog": "game/dont_starve",
    "howlongtobeat": "66368",
    "igdb": "don-t-starve",
+   "metacritic": "dont-starve",
    "mobygames": "60803",
    "pcgamingwiki": "Don't_Starve",
    "steam": "219740"
@@ -103,6 +109,7 @@
   "ids": {
    "howlongtobeat": "9302",
    "igdb": "suikoden-ii",
+   "metacritic": "suikoden-ii",
    "mobygames": "4854"
   },
   "label_en": "Suikoden II",
@@ -128,6 +135,7 @@
   "ids": {
    "howlongtobeat": "7991",
    "igdb": "royal-envoy",
+   "metacritic": "royal-envoy",
    "mobygames": "143091"
   },
   "label_en": "Royal Envoy",
@@ -189,6 +197,7 @@
   "enwiki": "Rumble Racing",
   "ids": {
    "igdb": "rumble-racing",
+   "metacritic": "rumble-racing",
    "mobygames": "4033"
   },
   "label_en": "Rumble Racing",
@@ -256,6 +265,7 @@
   "ids": {
    "howlongtobeat": "37453",
    "igdb": "chronicle-runescape-legends",
+   "metacritic": "chronicle-runescape-legends",
    "mobygames": "94419",
    "pcgamingwiki": "Chronicle:_RuneScape_Legends",
    "steam": "205890"
@@ -275,6 +285,7 @@
   "ids": {
    "howlongtobeat": "59331",
    "igdb": "gear-dot-club-unlimited",
+   "metacritic": "gearclub-unlimited",
    "mobygames": "98638"
   },
   "label_en": "Gear.Club Unlimited",
@@ -291,6 +302,7 @@
  },
  {
   "ids": {
+   "metacritic": "zucc-simulator",
    "pcgamingwiki": "Zucc_Simulator",
    "steam": "849020"
   },
@@ -319,6 +331,7 @@
   "ids": {
    "howlongtobeat": "2094",
    "igdb": "cubemen-2",
+   "metacritic": "cubemen-2",
    "mobygames": "83248",
    "pcgamingwiki": "Cubemen_2",
    "steam": "228440"
@@ -331,6 +344,7 @@
   "ids": {
    "howlongtobeat": "64631",
    "igdb": "looney-tunes-galactic-sports",
+   "metacritic": "looney-tunes-galactic-sports",
    "mobygames": "79559"
   },
   "label_en": "Looney Tunes: Galactic Sports",
@@ -348,6 +362,7 @@
   "ids": {
    "howlongtobeat": "74489",
    "igdb": "progressbar95",
+   "pcgamingwiki": "Progressbar95",
    "steam": "1304550"
   },
   "label_en": "Progressbar95",
@@ -358,6 +373,7 @@
    "gog": "game/resolutiion",
    "howlongtobeat": "78877",
    "igdb": "resolutiion",
+   "metacritic": "resolutiion",
    "mobygames": "145905",
    "pcgamingwiki": "Resolutiion",
    "steam": "975150"
@@ -369,6 +385,7 @@
   "ids": {
    "howlongtobeat": "1003",
    "igdb": "beltion-beyond-ritual",
+   "pcgamingwiki": "Beltion:_Beyond_Ritual",
    "steam": "3863590"
   },
   "label_en": "Beltion: Beyond Ritual",
@@ -379,6 +396,7 @@
    "gog": "game/fixfox",
    "howlongtobeat": "106027",
    "igdb": "fixfox",
+   "metacritic": "fixfox",
    "mobygames": "188531",
    "pcgamingwiki": "FixFox",
    "steam": "1696220"
@@ -406,7 +424,8 @@
  },
  {
   "ids": {
-   "igdb": "this-war-of-mine-final-cut"
+   "igdb": "this-war-of-mine-final-cut",
+   "metacritic": "this-war-of-mine-final-cut"
   },
   "label_en": "This War of Mine: Final Cut",
   "wikidata": "Q112116174"
@@ -653,6 +672,7 @@
    "gog": "game/between_horizons",
    "howlongtobeat": "127692",
    "igdb": "between-horizons",
+   "metacritic": "between-horizons",
    "mobygames": "220368",
    "pcgamingwiki": "Between_Horizons",
    "steam": "1921980"
@@ -1191,6 +1211,7 @@
  {
   "ids": {
    "igdb": "arena--2",
+   "pcgamingwiki": "Arena",
    "steam": "655200"
   },
   "label_en": "Arena",

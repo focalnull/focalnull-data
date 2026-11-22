@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "583",
    "igdb": "arma-armed-assault",
+   "metacritic": "arma-combat-operations",
    "mobygames": "26606",
    "pcgamingwiki": "Arma:_Armed_Assault",
    "steam": "2780"
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "3890",
    "igdb": "genji-days-of-the-blade",
+   "metacritic": "genji-days-of-the-blade",
    "mobygames": "26231"
   },
   "label_en": "Genji: Days of the Blade",
@@ -146,6 +148,7 @@
   "enwiki": "Raze's Hell",
   "ids": {
    "igdb": "raze-s-hell",
+   "metacritic": "razes-hell",
    "mobygames": "35052"
   },
   "label_en": "Raze's Hell",
@@ -217,6 +220,7 @@
   "ids": {
    "howlongtobeat": "49391",
    "igdb": "pinball-fx3",
+   "metacritic": "pinball-fx3",
    "mobygames": "96434",
    "pcgamingwiki": "Pinball_FX3",
    "steam": "442120"
@@ -237,6 +241,7 @@
   "ids": {
    "howlongtobeat": "62703",
    "igdb": "artifact",
+   "metacritic": "artifact",
    "mobygames": "117830",
    "pcgamingwiki": "Artifact",
    "steam": "583950"
@@ -251,6 +256,7 @@
    "gog": "game/the_walking_dead_the_final_season",
    "howlongtobeat": "47646",
    "igdb": "the-walking-dead-the-final-season",
+   "metacritic": "the-walking-dead-the-telltale-series-the-final",
    "mobygames": "112357",
    "pcgamingwiki": "The_Walking_Dead:_The_Final_Season",
    "steam": "866800"
@@ -263,6 +269,7 @@
   "ids": {
    "howlongtobeat": "68361",
    "igdb": "granblue-fantasy-versus",
+   "metacritic": "granblue-fantasy-versus",
    "mobygames": "142085",
    "pcgamingwiki": "Granblue_Fantasy:_Versus",
    "steam": "1090630"
@@ -274,6 +281,7 @@
   "enwiki": "Pac-Man All-Stars",
   "ids": {
    "igdb": "pac-man-all-stars",
+   "metacritic": "pac-man-all-stars",
    "mobygames": "6409",
    "pcgamingwiki": "Pac-Man_All-Stars"
   },
@@ -326,6 +334,7 @@
   "ids": {
    "howlongtobeat": "81115",
    "igdb": "avowed",
+   "metacritic": "avowed",
    "mobygames": "237589",
    "pcgamingwiki": "Avowed",
    "steam": "2457220"
@@ -434,6 +443,7 @@
    "gog": "game/necrosmith",
    "howlongtobeat": "110659",
    "igdb": "necrosmith",
+   "metacritic": "necrosmith",
    "mobygames": "188114",
    "pcgamingwiki": "Necrosmith",
    "steam": "1949190"
@@ -456,6 +466,7 @@
    "gog": "game/front_mission_1st_remake",
    "howlongtobeat": "117885",
    "igdb": "front-mission-1st-remake",
+   "metacritic": "front-mission-1st-remake",
    "mobygames": "195409",
    "pcgamingwiki": "Front_Mission_1st:_Remake",
    "steam": "2399730"
@@ -791,6 +802,7 @@
   "ids": {
    "howlongtobeat": "53572",
    "igdb": "in-death",
+   "metacritic": "in-death",
    "mobygames": "103385",
    "pcgamingwiki": "In_Death",
    "steam": "605450"

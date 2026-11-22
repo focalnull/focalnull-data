@@ -5,6 +5,7 @@
    "epic": "zombi",
    "howlongtobeat": "11583",
    "igdb": "zombiu",
+   "metacritic": "zombi",
    "mobygames": "59015",
    "pcgamingwiki": "Zombi_(2015)",
    "steam": "339230"
@@ -44,6 +45,7 @@
   "ids": {
    "howlongtobeat": "9383",
    "igdb": "super-mario-rpg-legend-of-the-seven-stars",
+   "metacritic": "super-mario-rpg-legend-of-the-seven-stars",
    "mobygames": "6692"
   },
   "label_en": "Super Mario RPG",
@@ -74,6 +76,7 @@
    "gog": "game/soldiers_heroes_of_world_war_ii",
    "howlongtobeat": "8727",
    "igdb": "soldiers-heroes-of-world-war-ii",
+   "metacritic": "soldiers-heroes-of-world-war-ii",
    "mobygames": "16263",
    "pcgamingwiki": "Soldiers:_Heroes_of_World_War_II",
    "steam": "11480"
@@ -95,6 +98,7 @@
   "enwiki": "Ephemeral Fantasia",
   "ids": {
    "igdb": "ephemeral-fantasia",
+   "metacritic": "ephemeral-fantasia",
    "mobygames": "5980"
   },
   "label_en": "Ephemeral Fantasia",
@@ -105,6 +109,7 @@
   "ids": {
    "howlongtobeat": "8706",
    "igdb": "socom-us-navy-seals--1",
+   "metacritic": "socom-u-s-navy-seals",
    "mobygames": "7180"
   },
   "label_en": "SOCOM U.S. Navy SEALs",
@@ -151,6 +156,7 @@
   "ids": {
    "howlongtobeat": "6367",
    "igdb": "nancy-drew-the-haunting-of-castle-malloy",
+   "metacritic": "nancy-drew-the-haunting-of-castle-malloy",
    "mobygames": "37290",
    "pcgamingwiki": "Nancy_Drew:_The_Haunting_of_Castle_Malloy",
    "steam": "31910"
@@ -171,6 +177,7 @@
   "ids": {
    "howlongtobeat": "4862",
    "igdb": "jolly-rover",
+   "metacritic": "jolly-rover",
    "mobygames": "46881",
    "pcgamingwiki": "Jolly_Rover",
    "steam": "58200"
@@ -191,6 +198,7 @@
   "enwiki": "Pure Pinball",
   "ids": {
    "igdb": "pure-pinball",
+   "metacritic": "pure-pinball",
    "mobygames": "13577",
    "pcgamingwiki": "Pure_Pinball"
   },
@@ -243,6 +251,7 @@
   "ids": {
    "howlongtobeat": "10404",
    "igdb": "toki-tori-2",
+   "metacritic": "toki-tori-2",
    "mobygames": "66171",
    "pcgamingwiki": "Toki_Tori_2+",
    "steam": "201420"
@@ -265,6 +274,7 @@
   "enwiki": "Paper Mario: Color Splash",
   "ids": {
    "igdb": "paper-mario-color-splash",
+   "metacritic": "paper-mario-color-splash",
    "mobygames": "82211"
   },
   "label_en": "Paper Mario: Color Splash",
@@ -282,6 +292,7 @@
   "ids": {
    "howlongtobeat": "51505",
    "igdb": "a-sky-full-of-stars",
+   "metacritic": "a-sky-full-of-stars",
    "mobygames": "116800",
    "pcgamingwiki": "A_Sky_Full_of_Stars",
    "steam": "745960"
@@ -307,6 +318,7 @@
   "ids": {
    "howlongtobeat": "1657",
    "igdb": "chasing-aurora",
+   "metacritic": "chasing-aurora",
    "mobygames": "66805"
   },
   "label_en": "Chasing Aurora",
@@ -317,6 +329,7 @@
   "ids": {
    "howlongtobeat": "42044",
    "igdb": "tomb-of-the-mask",
+   "metacritic": "tomb-of-the-mask",
    "mobygames": "144412"
   },
   "label_en": "Tomb of the Mask",
@@ -356,6 +369,7 @@
    "gog": "game/ultimate_general_civil_war",
    "howlongtobeat": "43518",
    "igdb": "ultimate-general-civil-war",
+   "metacritic": "ultimate-general-civil-war",
    "mobygames": "92639",
    "pcgamingwiki": "Ultimate_General:_Civil_War",
    "steam": "502520"
@@ -369,6 +383,7 @@
    "gog": "game/lost_ember",
    "howlongtobeat": "66972",
    "igdb": "lost-ember",
+   "metacritic": "lost-ember",
    "mobygames": "137639",
    "pcgamingwiki": "Lost_Ember",
    "steam": "563840"
@@ -420,6 +435,7 @@
   "ids": {
    "howlongtobeat": "50183",
    "igdb": "plague-road",
+   "metacritic": "plague-road",
    "mobygames": "90016",
    "pcgamingwiki": "Plague_Road",
    "steam": "622080"
@@ -429,7 +445,8 @@
  },
  {
   "ids": {
-   "igdb": "bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi"
+   "igdb": "bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi",
+   "metacritic": "bishoujo-mangekyou-kami-ga-tsukuri-tamouta"
   },
   "label_en": "Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi-",
   "wikidata": "Q108542119"
@@ -452,6 +469,7 @@
    "gog": "game/biota",
    "howlongtobeat": "97884",
    "igdb": "biota",
+   "metacritic": "biota",
    "mobygames": "182938",
    "pcgamingwiki": "B.I.O.T.A.",
    "steam": "1640320"
@@ -569,6 +587,7 @@
    "howlongtobeat": "94583",
    "igdb": "garlic",
    "mobygames": "166438",
+   "pcgamingwiki": "Garlic",
    "steam": "1250440"
   },
   "label_en": "Garlic",
@@ -822,6 +841,7 @@
   "ids": {
    "howlongtobeat": "65556",
    "igdb": "reverie-sweet-as-edition",
+   "metacritic": "reverie-sweet-as-edition",
    "mobygames": "106261",
    "steam": "2301100"
   },
@@ -920,6 +940,7 @@
  },
  {
   "ids": {
+   "metacritic": "guardians-of-the-sanctree-early-birds",
    "steam": "2947890"
   },
   "label_en": "Guardians of the Sanctree: Early Birds",

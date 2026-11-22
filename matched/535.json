@@ -13,6 +13,7 @@
   "enwiki": "Wild Arms 5",
   "ids": {
    "igdb": "wild-arms-5",
+   "metacritic": "wild-arms-5",
    "mobygames": "30130"
   },
   "label_en": "Wild Arms 5",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "4045",
    "igdb": "gran-turismo-2",
+   "metacritic": "gran-turismo-2",
    "mobygames": "3524"
   },
   "label_en": "Gran Turismo 2",
@@ -231,6 +233,7 @@
   "ids": {
    "howlongtobeat": "25947",
    "igdb": "cities-xxl",
+   "metacritic": "cities-xxl",
    "mobygames": "108631",
    "pcgamingwiki": "Cities_XXL",
    "steam": "313010"
@@ -250,7 +253,8 @@
  {
   "enwiki": "The Inpatient",
   "ids": {
-   "igdb": "the-inpatient"
+   "igdb": "the-inpatient",
+   "metacritic": "the-inpatient"
   },
   "label_en": "The Inpatient",
   "wikidata": "Q30277535"
@@ -268,6 +272,7 @@
    "gog": "game/candle",
    "howlongtobeat": "39748",
    "igdb": "candle",
+   "metacritic": "candle",
    "mobygames": "86294",
    "pcgamingwiki": "Candle",
    "steam": "420060"
@@ -295,6 +300,7 @@
   "ids": {
    "howlongtobeat": "109059",
    "igdb": "wildfrost",
+   "metacritic": "wildfrost",
    "mobygames": "201730",
    "pcgamingwiki": "Wildfrost",
    "steam": "1811990"
@@ -306,6 +312,7 @@
   "ids": {
    "howlongtobeat": "41502",
    "igdb": "planar-conquest",
+   "metacritic": "planar-conquest",
    "mobygames": "87327",
    "pcgamingwiki": "Planar_Conquest",
    "steam": "449300"
@@ -468,6 +475,7 @@
   "ids": {
    "howlongtobeat": "64871",
    "igdb": "transpose",
+   "metacritic": "transpose",
    "mobygames": "122420",
    "pcgamingwiki": "Transpose",
    "steam": "835950"
@@ -726,6 +734,7 @@
    "epic": "call-of-the-wild-the-angler",
    "howlongtobeat": "109596",
    "igdb": "call-of-the-wild-the-angler",
+   "metacritic": "call-of-the-wild-the-angler",
    "mobygames": "190648",
    "pcgamingwiki": "Call_of_the_Wild:_The_Angler",
    "steam": "1408610"
@@ -1058,6 +1067,7 @@
  {
   "ids": {
    "igdb": "kawaii-girls-puzzle",
+   "pcgamingwiki": "Kawaii_Girls_Puzzle",
    "steam": "1192310"
   },
   "label_en": "Kawaii Girls Puzzle",

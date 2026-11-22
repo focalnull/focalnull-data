@@ -3,6 +3,7 @@
   "enwiki": "Infamous: Festival of Blood",
   "ids": {
    "igdb": "infamous-festival-of-blood",
+   "metacritic": "infamous-festival-of-blood",
    "mobygames": "65691"
   },
   "label_en": "Infamous: Festival of Blood",
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "14466",
    "igdb": "wii-fit-u",
+   "metacritic": "wii-fit-u",
    "mobygames": "77492"
   },
   "label_en": "Wii Fit U",
@@ -72,6 +74,7 @@
   "ids": {
    "howlongtobeat": "1721",
    "igdb": "cities-xl-2012",
+   "metacritic": "cities-xl-2012",
    "mobygames": "223689",
    "pcgamingwiki": "Cities_XL_2012",
    "steam": "201760"
@@ -242,6 +245,7 @@
    "gog": "game/ashen",
    "howlongtobeat": "26767",
    "igdb": "ashen--1",
+   "metacritic": "ashen",
    "mobygames": "104569",
    "pcgamingwiki": "Ashen",
    "steam": "649950"
@@ -256,6 +260,7 @@
    "gog": "game/parkitect",
    "howlongtobeat": "37882",
    "igdb": "parkitect",
+   "metacritic": "parkitect",
    "mobygames": "99795",
    "pcgamingwiki": "Parkitect",
    "steam": "453090"
@@ -285,6 +290,8 @@
   "enwiki": "The Liar Princess and the Blind Prince",
   "ids": {
    "igdb": "the-liar-princess-and-the-blind-prince",
+   "metacritic": "the-liar-princess-and-the-blind-prince",
+   "pcgamingwiki": "The_Liar_Princess_and_the_Blind_Prince",
    "steam": "3901910"
   },
   "label_en": "The Liar Princess and the Blind Prince",
@@ -294,6 +301,7 @@
   "enwiki": "NFL Blitz 2003",
   "ids": {
    "igdb": "nfl-blitz-2003",
+   "metacritic": "nfl-blitz-20-03",
    "mobygames": "9652"
   },
   "label_en": "NFL Blitz 20-03",
@@ -304,6 +312,7 @@
   "ids": {
    "howlongtobeat": "6551",
    "igdb": "nfl-blitz-2000",
+   "metacritic": "nfl-blitz-2000",
    "mobygames": "4694"
   },
   "label_en": "NFL Blitz 2000",
@@ -314,6 +323,7 @@
   "ids": {
    "howlongtobeat": "32817",
    "igdb": "hatoful-boyfriend-holiday-star",
+   "metacritic": "hatoful-boyfriend-holiday-star",
    "mobygames": "86897",
    "pcgamingwiki": "Hatoful_Boyfriend:_Holiday_Star",
    "steam": "377080"
@@ -348,6 +358,7 @@
    "gog": "game/the_invincible",
    "howlongtobeat": "83135",
    "igdb": "the-invincible",
+   "metacritic": "the-invincible",
    "mobygames": "211477",
    "pcgamingwiki": "The_Invincible",
    "steam": "731040"
@@ -384,6 +395,7 @@
  {
   "ids": {
    "igdb": "get-a-grip-chip-and-the-body-bugs--1",
+   "metacritic": "get-a-grip-chip-and-the-body-bugs",
    "mobygames": "184202",
    "steam": "1572140"
   },
@@ -440,6 +452,7 @@
   "ids": {
    "howlongtobeat": "11796",
    "igdb": "the-haunted-hells-reach",
+   "metacritic": "the-haunted-hells-reach",
    "mobygames": "64293",
    "pcgamingwiki": "The_Haunted:_Hells_Reach",
    "steam": "43190"
@@ -519,6 +532,7 @@
   "ids": {
    "howlongtobeat": "91831",
    "igdb": "tt-isle-of-man-ride-on-the-edge-2--1",
+   "metacritic": "tt-isle-of-man-ride-on-the-edge-2",
    "mobygames": "143531",
    "pcgamingwiki": "TT_Isle_of_Man:_Ride_on_the_Edge_2",
    "steam": "1082180"
@@ -690,6 +704,7 @@
  },
  {
   "ids": {
+   "metacritic": "platinum-demo-final-fantasy-xv",
    "mobygames": "84614"
   },
   "label_en": "Platinum Demo – Final Fantasy XV",
@@ -786,7 +801,8 @@
  },
  {
   "ids": {
-   "igdb": "axolochi"
+   "igdb": "axolochi",
+   "metacritic": "axolochi"
   },
   "label_en": "Axolochi",
   "wikidata": "Q126617283"
@@ -1089,6 +1105,7 @@
   "ids": {
    "igdb": "calcul8-2",
    "mobygames": "154440",
+   "pcgamingwiki": "Calcul8²",
    "steam": "993200"
   },
   "label_en": "Calcul8²",
@@ -1097,5 +1114,12 @@
  {
   "label_en": "Jikkyō Powerful Pro Yakyū 10 Chō Ketteiban",
   "wikidata": "Q142153283"
+ },
+ {
+  "ids": {
+   "steam": "4058120"
+  },
+  "label_en": "Drive UP: Together",
+  "wikidata": "Q142211283"
  }
 ]

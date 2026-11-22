@@ -28,6 +28,7 @@
    "gog": "game/prince_of_persia_warrior_within",
    "howlongtobeat": "7299",
    "igdb": "prince-of-persia-warrior-within",
+   "metacritic": "prince-of-persia-warrior-within",
    "mobygames": "16156",
    "pcgamingwiki": "Prince_of_Persia:_Warrior_Within",
    "steam": "13500"
@@ -86,6 +87,7 @@
   "ids": {
    "howlongtobeat": "7873",
    "igdb": "robert-ludlums-the-bourne-conspiracy",
+   "metacritic": "robert-ludlums-the-bourne-conspiracy",
    "mobygames": "36801"
   },
   "label_en": "Robert Ludlum's The Bourne Conspiracy",
@@ -96,6 +98,7 @@
   "ids": {
    "howlongtobeat": "11331",
    "igdb": "wwe-13",
+   "metacritic": "wwe-13",
    "mobygames": "84508"
   },
   "label_en": "WWE '13",
@@ -113,6 +116,7 @@
   "ids": {
    "howlongtobeat": "9438",
    "igdb": "super-scribblenauts",
+   "metacritic": "super-scribblenauts",
    "mobygames": "49961"
   },
   "label_en": "Super Scribblenauts",
@@ -134,6 +138,7 @@
   "ids": {
    "howlongtobeat": "443",
    "igdb": "amped-3",
+   "metacritic": "amped-3",
    "mobygames": "20280"
   },
   "label_en": "Amped 3",
@@ -237,6 +242,7 @@
   "enwiki": "Death Jr. II: Root of Evil",
   "ids": {
    "igdb": "death-jr-root-of-evil",
+   "metacritic": "death-jr-ii-root-of-evil",
    "mobygames": "24775"
   },
   "label_en": "Death Jr. II: Root of Evil",
@@ -272,6 +278,7 @@
   "enwiki": "Professor Heinz Wolff's Gravity",
   "ids": {
    "igdb": "professor-heinz-wolff-s-gravity",
+   "metacritic": "professor-heinz-wolffs-gravity",
    "mobygames": "44905"
   },
   "label_en": "Professor Heinz Wolff's Gravity",
@@ -281,6 +288,7 @@
   "enwiki": "The Pinball of the Dead",
   "ids": {
    "igdb": "the-pinball-of-the-dead",
+   "metacritic": "the-pinball-of-the-dead",
    "mobygames": "6772"
   },
   "label_en": "The Pinball of the Dead",
@@ -299,6 +307,7 @@
    "epic": "wargame-red-dragon",
    "howlongtobeat": "19844",
    "igdb": "wargame-red-dragon",
+   "metacritic": "wargame-red-dragon",
    "mobygames": "66245",
    "pcgamingwiki": "Wargame:_Red_Dragon",
    "steam": "251060"
@@ -333,7 +342,9 @@
   "ids": {
    "howlongtobeat": "4073",
    "igdb": "grand-theft-auto-san-andreas-the-definitive-edition",
+   "metacritic": "grand-theft-auto-san-andreas-the-definitive",
    "mobygames": "174400",
+   "pcgamingwiki": "Grand_Theft_Auto:_San_Andreas_–_The_Definitive_Edition",
    "steam": "1547000"
   },
   "label_en": "Grand Theft Auto: San Andreas – The Definitive Edition",
@@ -750,6 +761,7 @@
  {
   "ids": {
    "igdb": "cutie-pets-go-fishing",
+   "metacritic": "cutie-pets-go-fishing",
    "mobygames": "101257"
   },
   "label_en": "Cutie Pets Go Fishing",
@@ -801,6 +813,7 @@
   "ids": {
    "howlongtobeat": "74721",
    "igdb": "atelier-ayesha-the-alchemist-of-dusk-dx",
+   "metacritic": "atelier-ayesha-the-alchemist-of-dusk-dx",
    "mobygames": "139104",
    "pcgamingwiki": "Atelier_Ayesha:_The_Alchemist_of_Dusk_DX",
    "steam": "1152300"
@@ -848,6 +861,7 @@
   "ids": {
    "howlongtobeat": "164926",
    "igdb": "completely-stretchy",
+   "metacritic": "completely-stretchy",
    "mobygames": "234604",
    "steam": "1587570"
   },
@@ -1083,6 +1097,7 @@
  {
   "ids": {
    "igdb": "trackmania-2-lagoon",
+   "pcgamingwiki": "Trackmania_2:_Lagoon",
    "steam": "600720"
   },
   "label_en": "Trackmania² Lagoon",
@@ -1111,5 +1126,9 @@
  {
   "label_en": "Little Prince Tyger",
   "wikidata": "Q141696155"
+ },
+ {
+  "label_en": "Blopi World",
+  "wikidata": "Q142227155"
  }
 ]

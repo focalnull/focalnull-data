@@ -3,6 +3,7 @@
   "enwiki": "Tekken 3D: Prime Edition",
   "ids": {
    "igdb": "tekken-3d-prime-edition",
+   "metacritic": "tekken-3d-prime-edition",
    "mobygames": "90706"
   },
   "label_en": "Tekken 3D: Prime Edition",
@@ -37,6 +38,7 @@
   "enwiki": "Dragon Ball Z: Sagas",
   "ids": {
    "igdb": "dragon-ball-z-sagas",
+   "metacritic": "dragon-ball-z-sagas",
    "mobygames": "21541"
   },
   "label_en": "Dragon Ball Z: Sagas",
@@ -56,6 +58,7 @@
   "ids": {
    "howlongtobeat": "2974",
    "igdb": "dungeons-of-dredmor",
+   "metacritic": "dungeons-of-dredmor",
    "mobygames": "52189",
    "pcgamingwiki": "Dungeons_of_Dredmor",
    "steam": "98800"
@@ -68,6 +71,7 @@
   "ids": {
    "howlongtobeat": "1117",
    "igdb": "blade-dancer-lineage-of-light",
+   "metacritic": "blade-dancer-lineage-of-light",
    "mobygames": "34742"
   },
   "label_en": "Blade Dancer: Lineage of Light",
@@ -89,6 +93,7 @@
   "enwiki": "Evidence: The Last Ritual",
   "ids": {
    "igdb": "evidence-the-last-ritual",
+   "metacritic": "evidence-the-last-ritual",
    "mobygames": "25178"
   },
   "label_en": "Evidence: The Last Ritual",
@@ -134,6 +139,7 @@
   "enwiki": "Steel Battalion: Line of Contact",
   "ids": {
    "igdb": "steel-battalion-line-of-contact",
+   "metacritic": "steel-battalion-line-of-contact",
    "mobygames": "22928"
   },
   "label_en": "Steel Battalion: Line of Contact",
@@ -227,6 +233,7 @@
    "epic": "daemon-x-machina",
    "howlongtobeat": "57532",
    "igdb": "daemon-x-machina",
+   "metacritic": "daemon-x-machina",
    "mobygames": "134560",
    "pcgamingwiki": "Daemon_X_Machina",
    "steam": "1167450"
@@ -285,6 +292,7 @@
    "gog": "game/reventure",
    "howlongtobeat": "67962",
    "igdb": "reventure",
+   "metacritic": "reventure",
    "mobygames": "127896",
    "pcgamingwiki": "Reventure",
    "steam": "900270"
@@ -296,6 +304,7 @@
   "ids": {
    "howlongtobeat": "44772",
    "igdb": "quatros-origins",
+   "metacritic": "quatros-origins",
    "mobygames": "209669",
    "pcgamingwiki": "Quatros_Origins",
    "steam": "421870"
@@ -326,6 +335,7 @@
    "epic": "the-big-con",
    "howlongtobeat": "92123",
    "igdb": "the-big-con",
+   "metacritic": "the-big-con",
    "mobygames": "170934",
    "pcgamingwiki": "The_Big_Con",
    "steam": "1139280"
@@ -439,6 +449,7 @@
   "ids": {
    "howlongtobeat": "149973",
    "igdb": "the-quinfall",
+   "metacritic": "quinfall",
    "steam": "2294660"
   },
   "label_en": "The Quinfall",
@@ -1197,6 +1208,7 @@
  {
   "ids": {
    "igdb": "power--2",
+   "pcgamingwiki": "Power",
    "steam": "1126850"
   },
   "label_en": "Power",

@@ -27,6 +27,7 @@
    "gog": "game/tomb_raider_the_angel_of_darkness",
    "howlongtobeat": "10479",
    "igdb": "tomb-raider-the-angel-of-darkness",
+   "metacritic": "lara-croft-tomb-raider-the-angel-of-darkness",
    "mobygames": "9482",
    "pcgamingwiki": "Tomb_Raider:_The_Angel_of_Darkness",
    "steam": "225020"
@@ -73,6 +74,7 @@
   "enwiki": "Resident Evil Outbreak",
   "ids": {
    "igdb": "resident-evil-outbreak",
+   "metacritic": "resident-evil-outbreak",
    "mobygames": "12549"
   },
   "label_en": "Resident Evil Outbreak",
@@ -101,6 +103,7 @@
   "enwiki": "F1 Championship Season 2000",
   "ids": {
    "igdb": "f1-championship-season-2000",
+   "metacritic": "f1-championship-season-2000",
    "mobygames": "3835",
    "pcgamingwiki": "F1_Championship_Season_2000"
   },
@@ -136,7 +139,8 @@
   "enwiki": "Scarface: Money. Power. Respect.",
   "ids": {
    "howlongtobeat": "25723",
-   "igdb": "scarface-money-power-respect"
+   "igdb": "scarface-money-power-respect",
+   "metacritic": "scarface-money-power-respect"
   },
   "label_en": "Scarface: Money. Power. Respect.",
   "wikidata": "Q3951616"
@@ -156,6 +160,7 @@
   "enwiki": "Call for Heroes: Pompolic Wars",
   "ids": {
    "igdb": "call-for-heroes-pompolic-wars",
+   "metacritic": "call-for-heroes-pompolic-wars",
    "mobygames": "36920",
    "steam": "3278730"
   },
@@ -185,6 +190,7 @@
   "ids": {
    "howlongtobeat": "65007",
    "igdb": "high-heat-major-league-baseball-2003",
+   "metacritic": "high-heat-major-league-baseball-2003",
    "mobygames": "5987"
   },
   "label_en": "High Heat Major League Baseball 2003",
@@ -245,6 +251,7 @@
   "enwiki": "Touch My Katamari",
   "ids": {
    "igdb": "touch-my-katamari",
+   "metacritic": "touch-my-katamari",
    "mobygames": "64184"
   },
   "label_en": "Touch My Katamari",
@@ -285,6 +292,7 @@
   "enwiki": "2048 (video game)",
   "ids": {
    "igdb": "2048",
+   "metacritic": "2048",
    "mobygames": "65080",
    "pcgamingwiki": "2048",
    "steam": "942050"
@@ -297,6 +305,7 @@
   "ids": {
    "howlongtobeat": "4918",
    "igdb": "kairo",
+   "metacritic": "kairo",
    "mobygames": "59050",
    "pcgamingwiki": "Kairo",
    "steam": "233230"
@@ -319,6 +328,7 @@
   "ids": {
    "howlongtobeat": "12241",
    "igdb": "rugby-challenge",
+   "metacritic": "rugby-challenge",
    "mobygames": "59719",
    "pcgamingwiki": "Rugby_Challenge",
    "steam": "20840"
@@ -333,6 +343,7 @@
    "gog": "game/shadow_tactics_blades_of_the_shogun",
    "howlongtobeat": "38300",
    "igdb": "shadow-tactics-blades-of-the-shogun",
+   "metacritic": "shadow-tactics-blades-of-the-shogun",
    "mobygames": "84466",
    "pcgamingwiki": "Shadow_Tactics:_Blades_of_the_Shogun",
    "steam": "418240"
@@ -348,6 +359,7 @@
   "ids": {
    "howlongtobeat": "69983",
    "igdb": "omega-labyrinth-z",
+   "metacritic": "omega-labyrinth-z",
    "mobygames": "98433"
   },
   "label_en": "Omega Labyrinth Z",
@@ -370,6 +382,7 @@
    "gog": "game/lost_in_harmony",
    "howlongtobeat": "42063",
    "igdb": "lost-in-harmony",
+   "metacritic": "lost-in-harmony",
    "mobygames": "102236",
    "pcgamingwiki": "Lost_in_Harmony",
    "steam": "509400"
@@ -381,6 +394,7 @@
   "ids": {
    "howlongtobeat": "34023",
    "igdb": "whats-under-your-blanket",
+   "metacritic": "whats-under-your-blanket-",
    "mobygames": "132318",
    "pcgamingwiki": "What's_under_Your_Blanket_!?",
    "steam": "432020"
@@ -432,6 +446,7 @@
    "epic": "stalzone-057c4a",
    "howlongtobeat": "114697",
    "igdb": "stalzone",
+   "metacritic": "stalcraft",
    "mobygames": "196233",
    "pcgamingwiki": "Stalcraft:_X",
    "steam": "1818450"
@@ -520,6 +535,7 @@
   "ids": {
    "howlongtobeat": "74123",
    "igdb": "argonus-and-the-gods-of-stone",
+   "metacritic": "argonus-and-the-gods-of-stone",
    "mobygames": "135857",
    "pcgamingwiki": "Argonus_and_the_Gods_of_Stone",
    "steam": "699540"
@@ -548,7 +564,8 @@
  },
  {
   "ids": {
-   "igdb": "there-is-no-pause-button"
+   "igdb": "there-is-no-pause-button",
+   "metacritic": "there-is-no-pause-button"
   },
   "label_en": "There Is No Pause Button!",
   "wikidata": "Q120725616"
@@ -884,6 +901,7 @@
   "ids": {
    "howlongtobeat": "151953",
    "igdb": "old-market-simulator",
+   "metacritic": "old-market-simulator",
    "pcgamingwiki": "Old_Market_Simulator",
    "steam": "2878420"
   },

@@ -5,6 +5,7 @@
    "gog": "game/metro_2033",
    "howlongtobeat": "5946",
    "igdb": "metro-2033",
+   "metacritic": "metro-2033",
    "mobygames": "45642",
    "pcgamingwiki": "Metro_2033",
    "steam": "43110"
@@ -16,6 +17,7 @@
   "enwiki": "Project Gotham Racing (video game)",
   "ids": {
    "igdb": "project-gotham-racing",
+   "metacritic": "project-gotham-racing",
    "mobygames": "5373"
   },
   "label_en": "Project Gotham Racing",
@@ -84,6 +86,7 @@
   "ids": {
    "howlongtobeat": "25376",
    "igdb": "crazy-cars-hit-the-road",
+   "metacritic": "crazy-cars-hit-the-road",
    "mobygames": "165511",
    "pcgamingwiki": "Crazy_Cars:_Hit_the_Road",
    "steam": "359290"
@@ -113,6 +116,7 @@
   "enwiki": "Hello Kitty: Big City Dreams",
   "ids": {
    "igdb": "hello-kitty-big-city-dreams",
+   "metacritic": "hello-kitty-big-city-dreams",
    "mobygames": "79513"
   },
   "label_en": "Hello Kitty: Big City Dreams",
@@ -149,7 +153,8 @@
   "enwiki": "Rayman Designer",
   "ids": {
    "igdb": "rayman-designer",
-   "mobygames": "72295"
+   "mobygames": "72295",
+   "pcgamingwiki": "Rayman_Designer"
   },
   "label_en": "Rayman Designer",
   "wikidata": "Q9304751"
@@ -175,6 +180,7 @@
    "gog": "game/dishonored_2",
    "howlongtobeat": "26731",
    "igdb": "dishonored-2",
+   "metacritic": "dishonored-2",
    "mobygames": "81581",
    "pcgamingwiki": "Dishonored_2",
    "steam": "403640"
@@ -187,6 +193,7 @@
   "ids": {
    "howlongtobeat": "33713",
    "igdb": "tales-of-berseria",
+   "metacritic": "tales-of-berseria",
    "mobygames": "82958",
    "pcgamingwiki": "Tales_of_Berseria",
    "steam": "429660"
@@ -199,6 +206,7 @@
   "ids": {
    "howlongtobeat": "44390",
    "igdb": "warhammer-40000-space-wolf",
+   "metacritic": "warhammer-40000-space-wolf",
    "mobygames": "81320",
    "pcgamingwiki": "Warhammer_40,000:_Space_Wolf",
    "steam": "553210"
@@ -259,6 +267,7 @@
   "ids": {
    "howlongtobeat": "68791",
    "igdb": "tee-time-golf",
+   "metacritic": "tee-time-golf",
    "mobygames": "189854",
    "pcgamingwiki": "Tee_Time_Golf",
    "steam": "537630"
@@ -270,6 +279,7 @@
   "ids": {
    "howlongtobeat": "67656",
    "igdb": "vacation-simulator",
+   "metacritic": "vacation-simulator",
    "mobygames": "124814",
    "pcgamingwiki": "Vacation_Simulator",
    "steam": "726830"
@@ -281,6 +291,7 @@
   "ids": {
    "howlongtobeat": "44012",
    "igdb": "donuts-n-justice",
+   "metacritic": "donutsnjustice",
    "mobygames": "85426",
    "pcgamingwiki": "Donuts'n'Justice",
    "steam": "527470"
@@ -293,6 +304,7 @@
    "gog": "game/ynglet",
    "howlongtobeat": "82389",
    "igdb": "ynglet",
+   "metacritic": "ynglet",
    "mobygames": "166090",
    "steam": "1015920"
   },
@@ -323,6 +335,7 @@
    "howlongtobeat": "125295",
    "igdb": "my-singing-monsters-playground",
    "mobygames": "175161",
+   "pcgamingwiki": "My_Singing_Monsters_Playground",
    "steam": "1722760"
   },
   "label_en": "My Singing Monsters Playground",
@@ -718,6 +731,7 @@
   "ids": {
    "howlongtobeat": "68786",
    "igdb": "breakneck",
+   "metacritic": "breakneck",
    "mobygames": "93247",
    "pcgamingwiki": "Breakneck",
    "steam": "432940"
@@ -782,6 +796,7 @@
   "ids": {
    "howlongtobeat": "21102",
    "igdb": "the-terrian-saga-kr-17",
+   "metacritic": "terrian-saga-kr-17",
    "mobygames": "129426",
    "pcgamingwiki": "Terrian_Saga:_KR-17",
    "steam": "278640"
@@ -801,7 +816,8 @@
  },
  {
   "ids": {
-   "igdb": "skunky-bs-super-slots-saga-number-1"
+   "igdb": "skunky-bs-super-slots-saga-number-1",
+   "metacritic": "skunky-bs-super-slots-saga-1"
   },
   "label_en": "Skunky B's Super Slots Saga #1",
   "wikidata": "Q125372751"
@@ -886,6 +902,7 @@
   "ids": {
    "howlongtobeat": "161927",
    "igdb": "amenti",
+   "metacritic": "amenti",
    "mobygames": "236753",
    "pcgamingwiki": "Amenti",
    "steam": "3292260"

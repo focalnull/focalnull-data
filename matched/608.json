@@ -64,6 +64,7 @@
   "enwiki": "Order of War",
   "ids": {
    "igdb": "order-of-war",
+   "metacritic": "order-of-war",
    "mobygames": "46644",
    "pcgamingwiki": "Order_of_War",
    "steam": "34600"
@@ -76,6 +77,7 @@
   "ids": {
    "howlongtobeat": "5782",
    "igdb": "medal-of-honor-european-assault",
+   "metacritic": "medal-of-honor-european-assault",
    "mobygames": "18755"
   },
   "label_en": "Medal of Honor: European Assault",
@@ -112,6 +114,7 @@
  },
  {
   "ids": {
+   "metacritic": "city-of-villains",
    "mobygames": "20036"
   },
   "label_en": "City of Villains",
@@ -131,6 +134,7 @@
   "enwiki": "Spider-Man 2: Enter: Electro",
   "ids": {
    "igdb": "spider-man-2-enter-electro",
+   "metacritic": "spider-man-2-enter-electro",
    "mobygames": "6962"
   },
   "label_en": "Spider-Man 2: Enter: Electro",
@@ -141,6 +145,7 @@
   "ids": {
    "howlongtobeat": "1415",
    "igdb": "bust-a-groove-2",
+   "metacritic": "bust-a-groove-2",
    "mobygames": "3841"
   },
   "label_en": "Bust a Groove 2",
@@ -207,6 +212,7 @@
   "enwiki": "Megamind: Ultimate Showdown",
   "ids": {
    "igdb": "megamind-the-blue-defender",
+   "metacritic": "megamind-ultimate-showdown",
    "mobygames": "49777"
   },
   "label_en": "Megamind: Ultimate Showdown",
@@ -227,6 +233,7 @@
   "enwiki": "Vendetta Online",
   "ids": {
    "igdb": "vendetta-online",
+   "metacritic": "vendetta-online",
    "mobygames": "25367",
    "pcgamingwiki": "Vendetta_Online"
   },
@@ -262,6 +269,7 @@
   "ids": {
    "howlongtobeat": "38416",
    "igdb": "lawbreakers",
+   "metacritic": "lawbreakers",
    "mobygames": "94032",
    "pcgamingwiki": "LawBreakers",
    "steam": "350280"
@@ -322,6 +330,7 @@
    "gog": "game/octopath_traveler",
    "howlongtobeat": "53592",
    "igdb": "octopath-traveler",
+   "metacritic": "octopath-traveler",
    "mobygames": "104997",
    "pcgamingwiki": "Octopath_Traveler",
    "steam": "921570"
@@ -365,6 +374,7 @@
    "gog": "game/american_fugitive",
    "howlongtobeat": "67375",
    "igdb": "american-fugitive",
+   "metacritic": "american-fugitive",
    "mobygames": "127334",
    "pcgamingwiki": "American_Fugitive",
    "steam": "934780"
@@ -448,7 +458,8 @@
  },
  {
   "ids": {
-   "igdb": "go-series-tower-of-deus"
+   "igdb": "go-series-tower-of-deus",
+   "metacritic": "go-series-tower-of-deus"
   },
   "label_en": "Tower of Deus",
   "wikidata": "Q113875608"
@@ -457,6 +468,7 @@
   "ids": {
    "howlongtobeat": "50825",
    "igdb": "auto-age-standoff",
+   "metacritic": "auto-age-standoff",
    "mobygames": "96206",
    "pcgamingwiki": "Auto_Age:_Standoff",
    "steam": "458680"
@@ -482,6 +494,7 @@
    "gog": "game/saturnalia",
    "howlongtobeat": "115294",
    "igdb": "saturnalia--1",
+   "metacritic": "saturnalia",
    "mobygames": "194343",
    "pcgamingwiki": "Saturnalia",
    "steam": "916350"
@@ -504,7 +517,9 @@
    "gog": "game/verne_the_shape_of_fantasy",
    "howlongtobeat": "112994",
    "igdb": "verne-the-shape-of-fantasy",
+   "metacritic": "verne-the-shape-of-fantasy",
    "mobygames": "207278",
+   "pcgamingwiki": "Verne:_The_Shape_of_Fantasy",
    "steam": "1424600"
   },
   "label_en": "Verne: The Shape of Fantasy",
@@ -868,6 +883,7 @@
   "ids": {
    "howlongtobeat": "20336",
    "igdb": "wayward-manor",
+   "metacritic": "wayward-manor",
    "mobygames": "131029",
    "pcgamingwiki": "Wayward_Manor",
    "steam": "246720"
@@ -950,6 +966,7 @@
  {
   "ids": {
    "igdb": "phantom-breaker-battle-grounds-ultimate",
+   "metacritic": "phantom-breaker-battle-grounds-ultimate",
    "pcgamingwiki": "Phantom_Breaker:_Battle_Grounds_Ultimate",
    "steam": "2067350"
   },
@@ -1006,6 +1023,7 @@
  {
   "ids": {
    "igdb": "hearts-of-iron-iii-semper-fi",
+   "metacritic": "hearts-of-iron-iii-semper-fi",
    "mobygames": "56780",
    "steam": "42900"
   },
@@ -1251,6 +1269,7 @@
   "ids": {
    "gog": "game/journey_to_kreisia",
    "igdb": "journey-to-kreisia--1",
+   "metacritic": "journey-to-kreisia",
    "mobygames": "91435",
    "steam": "3042460"
   },
@@ -1260,6 +1279,7 @@
  {
   "ids": {
    "igdb": "escapeez",
+   "pcgamingwiki": "EscapeeZ",
    "steam": "1071950"
   },
   "label_en": "EscapeeZ",

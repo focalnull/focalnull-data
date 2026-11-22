@@ -46,6 +46,7 @@
    "gog": "game/nexus_the_jupiter_incident",
    "howlongtobeat": "6543",
    "igdb": "nexus-the-jupiter-incident--1",
+   "metacritic": "nexus-the-jupiter-incident",
    "mobygames": "15481",
    "pcgamingwiki": "Nexus:_The_Jupiter_Incident",
    "steam": "6420"
@@ -92,6 +93,7 @@
   "enwiki": "Sid Meier's Antietam!",
   "ids": {
    "igdb": "sid-meier-s-antietam",
+   "metacritic": "sid-meiers-antietam",
    "mobygames": "2657",
    "pcgamingwiki": "Sid_Meier's_Antietam!"
   },
@@ -159,7 +161,8 @@
  },
  {
   "ids": {
-   "igdb": "ikinari-happy-bell"
+   "igdb": "ikinari-happy-bell",
+   "metacritic": "ikinari-happy-bell"
   },
   "label_en": "Ikinari Happy Bell",
   "wikidata": "Q11259091"
@@ -178,6 +181,7 @@
   "ids": {
    "howlongtobeat": "14078",
    "igdb": "starpoint-gemini",
+   "metacritic": "starpoint-gemini",
    "mobygames": "51622",
    "pcgamingwiki": "Starpoint_Gemini",
    "steam": "108110"
@@ -201,6 +205,7 @@
  {
   "ids": {
    "igdb": "naruto-shippuden-kizuna-drive",
+   "metacritic": "naruto-shippuden-kizuna-drive",
    "mobygames": "85877"
   },
   "label_en": "Naruto Shippūden: Kizuna Drive",
@@ -221,6 +226,7 @@
    "gog": "game/event0",
    "howlongtobeat": "39950",
    "igdb": "event-0",
+   "metacritic": "event0",
    "mobygames": "84577",
    "pcgamingwiki": "Event_0",
    "steam": "470260"
@@ -239,6 +245,7 @@
  {
   "ids": {
    "igdb": "fat-princess-piece-of-cake",
+   "metacritic": "fat-princess-piece-of-cake",
    "mobygames": "85832"
   },
   "label_en": "Fat Princess: Piece of Cake",
@@ -273,6 +280,7 @@
    "gog": "game/when_the_past_was_around",
    "howlongtobeat": "83376",
    "igdb": "when-the-past-was-around",
+   "metacritic": "when-the-past-was-around",
    "mobygames": "150690",
    "pcgamingwiki": "When_the_Past_Was_Around",
    "steam": "1164050"
@@ -336,6 +344,7 @@
    "gog": "game/mothmen_1966",
    "howlongtobeat": "107166",
    "igdb": "mothmen-1966",
+   "metacritic": "mothmen-1966",
    "mobygames": "187720",
    "pcgamingwiki": "Mothmen_1966",
    "steam": "1755030"
@@ -744,6 +753,7 @@
   "ids": {
    "howlongtobeat": "155980",
    "igdb": "tetris-forever",
+   "metacritic": "tetris-forever",
    "mobygames": "233213",
    "pcgamingwiki": "Tetris_Forever",
    "steam": "3180240"
@@ -758,6 +768,7 @@
    "gog": "game/mindseye",
    "howlongtobeat": "158232",
    "igdb": "mindseye",
+   "metacritic": "mindseye",
    "mobygames": "243449",
    "pcgamingwiki": "MindsEye",
    "steam": "3265250"
@@ -1082,6 +1093,7 @@
  {
   "ids": {
    "igdb": "the-dawning-clocks-of-time-remake",
+   "pcgamingwiki": "The_Dawning_Clocks_of_Time_Remake",
    "steam": "2744390"
   },
   "label_en": "The Dawning Clocks of Time® Remake",

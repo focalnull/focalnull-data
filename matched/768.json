@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "19957",
    "igdb": "panzer-corps",
+   "metacritic": "panzer-corps",
    "pcgamingwiki": "Panzer_Corps",
    "steam": "268400"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "33842",
    "igdb": "rush-for-berlin-gold-edition",
+   "metacritic": "rush-for-berlin",
    "mobygames": "28344",
    "pcgamingwiki": "Rush_for_Berlin",
    "steam": "40320"
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "11212",
    "igdb": "wipeout-3",
+   "metacritic": "wipeout-3",
    "mobygames": "4077"
   },
   "label_en": "Wipeout 3",
@@ -55,6 +58,7 @@
   "ids": {
    "howlongtobeat": "7510",
    "igdb": "race-driver-grid",
+   "metacritic": "grid",
    "mobygames": "34317",
    "pcgamingwiki": "Race_Driver:_Grid",
    "steam": "12750"
@@ -128,6 +132,7 @@
    "gog": "game/giana_sisters_twisted_dreams",
    "howlongtobeat": "3930",
    "igdb": "giana-sisters-twisted-dreams",
+   "metacritic": "giana-sisters-twisted-dreams",
    "mobygames": "58277",
    "pcgamingwiki": "Giana_Sisters:_Twisted_Dreams",
    "steam": "223220"
@@ -151,6 +156,7 @@
   "ids": {
    "howlongtobeat": "23449",
    "igdb": "gt-advance-2-rally-racing",
+   "metacritic": "gt-advance-2-rally-racing",
    "mobygames": "9053"
   },
   "label_en": "GT Advance 2: Rally Racing",
@@ -161,6 +167,7 @@
   "ids": {
    "howlongtobeat": "16606",
    "igdb": "infamous-second-son",
+   "metacritic": "infamous-second-son",
    "mobygames": "64694"
   },
   "label_en": "Infamous: Second Son",
@@ -240,6 +247,7 @@
   "ids": {
    "howlongtobeat": "20855",
    "igdb": "danganronpa-2-goodbye-despair",
+   "metacritic": "danganronpa-2-goodbye-despair",
    "mobygames": "73387",
    "pcgamingwiki": "Danganronpa_2:_Goodbye_Despair",
    "steam": "413420"
@@ -268,6 +276,7 @@
   "ids": {
    "howlongtobeat": "23118",
    "igdb": "angry-birds-friends",
+   "metacritic": "angry-birds-friends",
    "mobygames": "68086",
    "pcgamingwiki": "Angry_Birds_Friends"
   },
@@ -301,7 +310,8 @@
  {
   "ids": {
    "igdb": "atelier-elie-the-alchemist-of-salburg-2",
-   "mobygames": "44213"
+   "mobygames": "44213",
+   "pcgamingwiki": "Atelier_Elie:_The_Alchemist_of_Salburg_2"
   },
   "label_en": "Atelier Elie: The Alchemist of Salburg 2",
   "wikidata": "Q63179768"
@@ -339,6 +349,7 @@
    "gog": "game/xuanyuan_sword_vii",
    "howlongtobeat": "83989",
    "igdb": "xuan-yuan-sword-vii",
+   "metacritic": "xuan-yuan-sword-7",
    "mobygames": "152156",
    "pcgamingwiki": "Xuan-Yuan_Sword_VII",
    "steam": "1249800"
@@ -354,6 +365,7 @@
   "ids": {
    "howlongtobeat": "88135",
    "igdb": "resident-evil-re-verse",
+   "metacritic": "resident-evil-reverse",
    "mobygames": "194503",
    "pcgamingwiki": "Resident_Evil_Re:Verse",
    "steam": "1236300"
@@ -366,6 +378,7 @@
    "gog": "game/embracelet",
    "howlongtobeat": "83780",
    "igdb": "embracelet",
+   "metacritic": "embracelet",
    "mobygames": "150758",
    "pcgamingwiki": "Embracelet",
    "steam": "1311510"
@@ -404,7 +417,8 @@
  },
  {
   "ids": {
-   "igdb": "airline-commander-a-real-flight-experience"
+   "igdb": "airline-commander-a-real-flight-experience",
+   "metacritic": "airline-commander"
   },
   "label_en": "Airline Commander",
   "wikidata": "Q113975768"
@@ -874,6 +888,7 @@
   "ids": {
    "howlongtobeat": "54066",
    "igdb": "ripped-pants-at-work",
+   "metacritic": "ripped-pants-at-work",
    "pcgamingwiki": "Ripped_Pants_at_Work",
    "steam": "752550"
   },
@@ -1255,6 +1270,7 @@
   "ids": {
    "gog": "game/super_huey_iii",
    "igdb": "super-huey-iii",
+   "pcgamingwiki": "Super_Huey_III",
    "steam": "1341780"
   },
   "label_en": "Super Huey™ III",

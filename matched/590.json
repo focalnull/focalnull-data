@@ -3,6 +3,7 @@
   "enwiki": "TOCA Race Driver 2",
   "ids": {
    "igdb": "toca-race-driver-2",
+   "metacritic": "toca-race-driver-2-the-ultimate-racing-simulator",
    "mobygames": "13139",
    "pcgamingwiki": "TOCA_Race_Driver_2"
   },
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "835",
    "igdb": "banjo-kazooie-grunty-s-revenge",
+   "metacritic": "banjo-kazooie-gruntys-revenge",
    "mobygames": "10345"
   },
   "label_en": "Banjo-Kazooie: Grunty's Revenge",
@@ -56,6 +58,7 @@
    "gog": "game/last_express_the",
    "howlongtobeat": "9994",
    "igdb": "the-last-express",
+   "metacritic": "the-last-express",
    "mobygames": "1172",
    "pcgamingwiki": "The_Last_Express",
    "steam": "252710"
@@ -99,6 +102,7 @@
   "enwiki": "Swarm (2011 video game)",
   "ids": {
    "igdb": "swarm",
+   "metacritic": "swarm",
    "mobygames": "70099"
   },
   "label_en": "Swarm",
@@ -198,6 +202,7 @@
   "ids": {
    "howlongtobeat": "60030",
    "igdb": "the-rumble-fish-2",
+   "metacritic": "the-rumble-fish-2",
    "mobygames": "133570",
    "pcgamingwiki": "The_Rumble_Fish_2",
    "steam": "2059960"
@@ -215,6 +220,7 @@
   "ids": {
    "howlongtobeat": "43906",
    "igdb": "psychonauts-in-the-rhombus-of-ruin",
+   "metacritic": "psychonauts-in-the-rhombus-of-ruin",
    "mobygames": "83817",
    "pcgamingwiki": "Psychonauts_in_the_Rhombus_of_Ruin",
    "steam": "788690"
@@ -237,6 +243,7 @@
  {
   "ids": {
    "igdb": "dead-rising-2-case-west",
+   "metacritic": "dead-rising-2-case-west",
    "mobygames": "87222"
   },
   "label_en": "Dead Rising 2: Case West",
@@ -248,6 +255,7 @@
    "gog": "game/remothered_broken_porcelain",
    "howlongtobeat": "80630",
    "igdb": "remothered-broken-porcelain",
+   "metacritic": "remothered-broken-porcelain",
    "mobygames": "151519",
    "pcgamingwiki": "Remothered:_Broken_Porcelain",
    "steam": "1142390"
@@ -259,6 +267,7 @@
   "enwiki": "Xtreme Sports (video game)",
   "ids": {
    "igdb": "xtreme-sports",
+   "metacritic": "xtreme-sports",
    "mobygames": "69018"
   },
   "label_en": "Sega Extreme Sports",
@@ -278,6 +287,7 @@
   "ids": {
    "howlongtobeat": "53237",
    "igdb": "ethereal-legends",
+   "metacritic": "ethereal-legends",
    "mobygames": "156903",
    "pcgamingwiki": "Ethereal_Legends",
    "steam": "428980"
@@ -289,6 +299,7 @@
   "ids": {
    "howlongtobeat": "37832",
    "igdb": "final-fantasy-xii-the-zodiac-age",
+   "metacritic": "final-fantasy-xii-the-zodiac-age",
    "mobygames": "92422",
    "pcgamingwiki": "Final_Fantasy_XII:_The_Zodiac_Age",
    "steam": "595520"
@@ -300,6 +311,7 @@
   "ids": {
    "howlongtobeat": "46971",
    "igdb": "oh-dot-dot-dot-sir-the-hollywood-roast",
+   "metacritic": "ohsir-the-hollywood-roast",
    "mobygames": "101399",
    "pcgamingwiki": "Oh...Sir!_The_Hollywood_Roast",
    "steam": "575330"
@@ -312,6 +324,7 @@
    "gog": "game/nukitashi_2",
    "howlongtobeat": "145670",
    "igdb": "nukitashi-2--1",
+   "metacritic": "nukitashi-2",
    "mobygames": "217714",
    "steam": "2614070"
   },
@@ -321,6 +334,7 @@
  {
   "ids": {
    "howlongtobeat": "91409",
+   "metacritic": "star-trek-legends",
    "mobygames": "161729",
    "pcgamingwiki": "Star_Trek:_Legends"
   },
@@ -458,6 +472,7 @@
    "gog": "game/rad_rodgers",
    "howlongtobeat": "53458",
    "igdb": "rad-rodgers-radical-edition",
+   "metacritic": "rad-rodgers",
    "mobygames": "103886",
    "pcgamingwiki": "Rad_Rodgers:_Radical_Edition",
    "steam": "805660"
@@ -844,6 +859,7 @@
   "ids": {
    "howlongtobeat": "169265",
    "igdb": "blighted",
+   "metacritic": "blighted",
    "pcgamingwiki": "Blighted",
    "steam": "2974160"
   },
@@ -1099,6 +1115,7 @@
  {
   "ids": {
    "igdb": "moonsigil-atlas",
+   "metacritic": "moonsigil-atlas",
    "steam": "3284290"
   },
   "label_en": "Moonsigil Atlas",
@@ -1163,6 +1180,7 @@
  {
   "ids": {
    "igdb": "mortadelo-y-filemon-una-aventura-de-cine-edicion-especial",
+   "pcgamingwiki": "Mortadelo_y_Filemón:_Una_Aventura_de_Cine_-_Edición_Especial",
    "steam": "1019580"
   },
   "label_en": "Mortadelo y Filemón: Una aventura de cine - Edición especial",

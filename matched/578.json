@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4173",
    "igdb": "guitar-hero",
+   "metacritic": "guitar-hero",
    "mobygames": "19812"
   },
   "label_en": "Guitar Hero",
@@ -26,6 +27,7 @@
   "enwiki": "Asheron's Call",
   "ids": {
    "igdb": "asheron-s-call",
+   "metacritic": "asherons-call",
    "mobygames": "2847",
    "pcgamingwiki": "Asheron's_Call"
   },
@@ -36,6 +38,7 @@
   "enwiki": "Kingdom Under Fire: Circle of Doom",
   "ids": {
    "igdb": "kingdom-under-fire-circle-of-doom",
+   "metacritic": "kingdom-under-fire-circle-of-doom",
    "mobygames": "33635"
   },
   "label_en": "Kingdom Under Fire: Circle of Doom",
@@ -53,6 +56,7 @@
   "enwiki": "IL-2 Sturmovik: Forgotten Battles",
   "ids": {
    "igdb": "il-2-sturmovik-forgotten-battles",
+   "metacritic": "il-2-sturmovik-forgotten-battles",
    "mobygames": "14558"
   },
   "label_en": "IL-2 Sturmovik: Forgotten Battles",
@@ -146,6 +150,7 @@
   "enwiki": "Harvest Moon: Frantic Farming",
   "ids": {
    "igdb": "harvest-moon-frantic-farming",
+   "metacritic": "harvest-moon-frantic-farming",
    "mobygames": "84951"
   },
   "label_en": "Harvest Moon: Frantic Farming",
@@ -169,6 +174,7 @@
   "ids": {
    "howlongtobeat": "29292",
    "igdb": "anno-online",
+   "metacritic": "anno-online",
    "mobygames": "62499",
    "pcgamingwiki": "Anno_Online",
    "steam": "336510"
@@ -181,6 +187,7 @@
   "ids": {
    "howlongtobeat": "527",
    "igdb": "aqua-aqua",
+   "metacritic": "aqua-aqua",
    "mobygames": "3544"
   },
   "label_en": "Aqua Aqua",
@@ -218,6 +225,7 @@
   "ids": {
    "howlongtobeat": "14108",
    "igdb": "valhalla-knights-3",
+   "metacritic": "valhalla-knights-3",
    "mobygames": "83490"
   },
   "label_en": "Valhalla Knights 3",
@@ -228,6 +236,7 @@
   "ids": {
    "howlongtobeat": "16941",
    "igdb": "tengami",
+   "metacritic": "tengami",
    "mobygames": "73736",
    "pcgamingwiki": "Tengami",
    "steam": "299680"
@@ -249,6 +258,7 @@
   "ids": {
    "howlongtobeat": "21632",
    "igdb": "mount-your-friends",
+   "metacritic": "mount-your-friends",
    "mobygames": "75856",
    "pcgamingwiki": "Mount_Your_Friends",
    "steam": "296470"
@@ -280,6 +290,7 @@
    "gog": "game/the_mummy_demastered",
    "howlongtobeat": "49860",
    "igdb": "the-mummy-demastered",
+   "metacritic": "the-mummy-demastered",
    "mobygames": "97462",
    "pcgamingwiki": "The_Mummy_Demastered",
    "steam": "630310"
@@ -291,6 +302,7 @@
   "ids": {
    "howlongtobeat": "49440",
    "igdb": "tricolour-lovestory",
+   "metacritic": "tricolour-lovestory",
    "mobygames": "96847",
    "pcgamingwiki": "Tricolour_Lovestory",
    "steam": "668630"
@@ -307,6 +319,7 @@
   "enwiki": "War of the Visions: Final Fantasy Brave Exvius",
   "ids": {
    "igdb": "war-of-the-visions-final-fantasy-brave-exvius",
+   "metacritic": "war-of-the-visions-final-fantasy-brave-exvius",
    "mobygames": "146826"
   },
   "label_en": "War of the Visions: Final Fantasy Brave Exvius",
@@ -315,6 +328,7 @@
  {
   "ids": {
    "igdb": "paddington-adventures-in-london",
+   "metacritic": "paddington-adventures-in-london",
    "mobygames": "80460"
   },
   "label_en": "Paddington: Adventures in London",
@@ -326,6 +340,7 @@
    "gog": "game/simulacra",
    "howlongtobeat": "50418",
    "igdb": "simulacra",
+   "metacritic": "simulacra",
    "mobygames": "98981",
    "pcgamingwiki": "Simulacra",
    "steam": "712730"
@@ -342,6 +357,7 @@
  },
  {
   "ids": {
+   "metacritic": "over-the-hedge-hammy-goes-nuts",
    "mobygames": "35286"
   },
   "label_en": "Over the Hedge: Hammy Goes Nuts!",
@@ -361,6 +377,7 @@
    "gog": "game/king_of_seas",
    "howlongtobeat": "92389",
    "igdb": "king-of-seas",
+   "metacritic": "king-of-seas",
    "mobygames": "158589",
    "pcgamingwiki": "King_of_Seas",
    "steam": "1209410"
@@ -375,6 +392,7 @@
    "gog": "game/nowhere_prophet",
    "howlongtobeat": "69248",
    "igdb": "nowhere-prophet",
+   "metacritic": "nowhere-prophet",
    "mobygames": "130143",
    "pcgamingwiki": "Nowhere_Prophet",
    "steam": "681730"
@@ -445,6 +463,7 @@
    "howlongtobeat": "124303",
    "igdb": "microworks",
    "mobygames": "190853",
+   "pcgamingwiki": "MicroWorks",
    "steam": "1233410"
   },
   "label_en": "MicroWorks",
@@ -845,7 +864,8 @@
  },
  {
   "ids": {
-   "igdb": "bloc"
+   "igdb": "bloc",
+   "metacritic": "bloc"
   },
   "label_en": "BLOC",
   "wikidata": "Q125416578"
@@ -901,6 +921,7 @@
    "epic": "mindcop-78e6c1",
    "howlongtobeat": "156426",
    "igdb": "mindcop",
+   "metacritic": "mindcop",
    "mobygames": "233523",
    "steam": "1517180"
   },
@@ -977,6 +998,7 @@
  {
   "ids": {
    "igdb": "tethergeist",
+   "metacritic": "tethergeist",
    "steam": "2474430"
   },
   "label_en": "TetherGeist",

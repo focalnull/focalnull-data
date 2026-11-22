@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "18246",
    "igdb": "motogp-08",
+   "metacritic": "motogp-08",
    "mobygames": "37101",
    "pcgamingwiki": "MotoGP_08",
    "steam": "21610"
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "10880",
    "igdb": "valkyrie-profile",
+   "metacritic": "valkyrie-profile",
    "mobygames": "3860"
   },
   "label_en": "Valkyrie Profile",
@@ -71,6 +73,7 @@
   "enwiki": "Transformers: Prime – The Game",
   "ids": {
    "igdb": "transformers-prime-the-game--1",
+   "metacritic": "transformers-prime-the-game",
    "mobygames": "86492"
   },
   "label_en": "Transformers: Prime – The Game",
@@ -81,6 +84,7 @@
    "gog": "game/eador_genesis",
    "howlongtobeat": "3027",
    "igdb": "eador-genesis",
+   "metacritic": "eador-genesis",
    "mobygames": "58638",
    "pcgamingwiki": "Eador:_Genesis",
    "steam": "235660"
@@ -133,6 +137,7 @@
   "enwiki": "Putty Squad",
   "ids": {
    "igdb": "putty-squad--1",
+   "metacritic": "putty-squad",
    "mobygames": "67202"
   },
   "label_en": "Putty Squad",
@@ -158,7 +163,8 @@
  {
   "enwiki": "Stoked (video game)",
   "ids": {
-   "igdb": "stoked"
+   "igdb": "stoked",
+   "metacritic": "stoked"
   },
   "label_en": "Stoked",
   "wikidata": "Q7618504"
@@ -176,6 +182,7 @@
   "enwiki": "Tiger Woods PGA Tour 07",
   "ids": {
    "igdb": "tiger-woods-pga-tour-07",
+   "metacritic": "tiger-woods-pga-tour-07",
    "mobygames": "28963"
   },
   "label_en": "Tiger Woods PGA Tour 07",
@@ -185,6 +192,7 @@
   "enwiki": "Buggy (video game)",
   "ids": {
    "igdb": "buggy--1",
+   "metacritic": "buggy",
    "mobygames": "31737",
    "steam": "2289860"
   },
@@ -196,6 +204,7 @@
   "ids": {
    "howlongtobeat": "17285",
    "igdb": "daylight",
+   "metacritic": "daylight",
    "mobygames": "65522",
    "pcgamingwiki": "Daylight",
    "steam": "230840"
@@ -217,6 +226,7 @@
   "ids": {
    "igdb": "growtopia",
    "mobygames": "101110",
+   "pcgamingwiki": "Growtopia",
    "steam": "866020"
   },
   "label_en": "Growtopia",
@@ -249,6 +259,7 @@
   "ids": {
    "howlongtobeat": "9898",
    "igdb": "the-great-art-race",
+   "metacritic": "the-great-art-race",
    "mobygames": "16221",
    "pcgamingwiki": "The_Great_Art_Race",
    "steam": "33580"
@@ -269,6 +280,7 @@
   "ids": {
    "howlongtobeat": "32049",
    "igdb": "painters-guild",
+   "metacritic": "painters-guild",
    "pcgamingwiki": "Painters_Guild",
    "steam": "384550"
   },
@@ -308,6 +320,7 @@
    "gog": "game/candleman",
    "howlongtobeat": "43451",
    "igdb": "candleman-the-complete-journey",
+   "metacritic": "candleman",
    "mobygames": "102549",
    "pcgamingwiki": "Candleman:_The_Complete_Journey",
    "steam": "591630"
@@ -320,6 +333,7 @@
    "gog": "game/journey_of_a_roach",
    "howlongtobeat": "14435",
    "igdb": "journey-of-a-roach",
+   "metacritic": "journey-of-a-roach",
    "mobygames": "64711",
    "pcgamingwiki": "Journey_of_a_Roach",
    "steam": "255300"
@@ -501,6 +515,7 @@
    "howlongtobeat": "92203",
    "igdb": "cybertaxi",
    "mobygames": "152384",
+   "pcgamingwiki": "CyberTaxi",
    "steam": "1420850"
   },
   "label_en": "CyberTaxi",

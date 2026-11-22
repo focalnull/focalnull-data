@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1881",
    "igdb": "condemned-criminal-origins",
+   "metacritic": "condemned-criminal-origins",
    "mobygames": "20331",
    "pcgamingwiki": "Condemned:_Criminal_Origins",
    "steam": "4720"
@@ -55,6 +56,7 @@
    "gog": "game/corpse_party",
    "howlongtobeat": "1935",
    "igdb": "corpse-party",
+   "metacritic": "corpse-party",
    "mobygames": "95520",
    "pcgamingwiki": "Corpse_Party",
    "steam": "251270"
@@ -77,6 +79,7 @@
   "ids": {
    "howlongtobeat": "25392",
    "igdb": "william-shatners-tekwar",
+   "metacritic": "william-shatners-tekwar",
    "mobygames": "2420",
    "pcgamingwiki": "William_Shatner's_TekWar"
   },
@@ -108,6 +111,7 @@
   "enwiki": "Brooktown High",
   "ids": {
    "igdb": "brooktown-high",
+   "metacritic": "brooktown-high",
    "mobygames": "36844"
   },
   "label_en": "Brooktown High",
@@ -117,6 +121,7 @@
   "enwiki": "Dungeon Runners",
   "ids": {
    "igdb": "dungeon-runners",
+   "metacritic": "dungeon-runners",
    "mobygames": "35913"
   },
   "label_en": "Dungeon Runners",
@@ -150,6 +155,7 @@
   "ids": {
    "howlongtobeat": "18971",
    "igdb": "murdered-soul-suspect",
+   "metacritic": "murdered-soul-suspect",
    "mobygames": "66093",
    "pcgamingwiki": "Murdered:_Soul_Suspect",
    "steam": "233290"
@@ -181,6 +187,7 @@
   "enwiki": "Rugby 2004",
   "ids": {
    "igdb": "rugby-2004",
+   "metacritic": "rugby-2004",
    "mobygames": "10478",
    "pcgamingwiki": "Rugby_2004"
   },
@@ -200,6 +207,7 @@
   "enwiki": "Sega GT 2002",
   "ids": {
    "igdb": "sega-gt-2002",
+   "metacritic": "sega-gt-2002",
    "mobygames": "8719"
   },
   "label_en": "Sega GT 2002",
@@ -209,6 +217,7 @@
   "enwiki": "Star Wars Racer Revenge",
   "ids": {
    "igdb": "star-wars-racer-revenge",
+   "metacritic": "star-wars-racer-revenge",
    "mobygames": "5898"
   },
   "label_en": "Star Wars Racer Revenge",
@@ -218,6 +227,7 @@
   "enwiki": "Super Army War",
   "ids": {
    "igdb": "super-army-war",
+   "metacritic": "super-army-war",
    "mobygames": "66683"
   },
   "label_en": "Super Army War",
@@ -311,6 +321,7 @@
   "ids": {
    "howlongtobeat": "19811",
    "igdb": "between",
+   "metacritic": "between",
    "mobygames": "39974"
   },
   "label_en": "Between",
@@ -331,6 +342,7 @@
   "ids": {
    "howlongtobeat": "87831",
    "igdb": "sarawak",
+   "metacritic": "sarawak",
    "mobygames": "173922",
    "steam": "1249430"
   },
@@ -404,6 +416,7 @@
   "ids": {
    "howlongtobeat": "108881",
    "igdb": "resident-evil-4--1",
+   "metacritic": "resident-evil-4",
    "mobygames": "200900",
    "pcgamingwiki": "Resident_Evil_4_(2023)",
    "steam": "2050650"
@@ -451,7 +464,8 @@
  },
  {
   "ids": {
-   "igdb": "witchspring"
+   "igdb": "witchspring",
+   "metacritic": "witchspring"
   },
   "label_en": "WitchSpring",
   "wikidata": "Q116909148"
@@ -486,6 +500,7 @@
   "ids": {
    "howlongtobeat": "76741",
    "igdb": "draw-chilly",
+   "metacritic": "draw-chilly",
    "mobygames": "137089",
    "pcgamingwiki": "Draw_Chilly",
    "steam": "839080"
@@ -683,6 +698,7 @@
   "ids": {
    "howlongtobeat": "127938",
    "igdb": "aethermancer",
+   "metacritic": "aethermancer",
    "mobygames": "248904",
    "steam": "2288470"
   },
@@ -772,6 +788,7 @@
   "ids": {
    "howlongtobeat": "90020",
    "igdb": "christmas-adventure-of-rocket-penguin",
+   "metacritic": "christmas-adventure-of-rocket-penguin",
    "mobygames": "92796"
   },
   "label_en": "Christmas Adventure of Rocket Penguin",
@@ -872,6 +889,7 @@
   "ids": {
    "howlongtobeat": "167294",
    "igdb": "out-of-hands",
+   "metacritic": "out-of-hands",
    "mobygames": "240981",
    "steam": "1839810"
   },
@@ -1098,6 +1116,7 @@
  {
   "ids": {
    "igdb": "out-of-the-box",
+   "pcgamingwiki": "Out_of_the_Box",
    "steam": "576960"
   },
   "label_en": "🧠 OUT OF THE BOX",

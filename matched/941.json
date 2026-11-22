@@ -26,6 +26,7 @@
   "ids": {
    "howlongtobeat": "9712",
    "igdb": "test-drive-unlimited",
+   "metacritic": "test-drive-unlimited",
    "mobygames": "26898",
    "pcgamingwiki": "Test_Drive_Unlimited"
   },
@@ -39,6 +40,7 @@
   "enwiki": "Ratchet & Clank: Size Matters",
   "ids": {
    "igdb": "ratchet-clank-size-matters",
+   "metacritic": "ratchet-clank-size-matters",
    "mobygames": "26658"
   },
   "label_en": "Ratchet & Clank: Size Matters",
@@ -48,6 +50,7 @@
   "enwiki": "Drawn to Life",
   "ids": {
    "igdb": "drawn-to-life",
+   "metacritic": "drawn-to-life",
    "mobygames": "31919"
   },
   "label_en": "Drawn to Life",
@@ -67,6 +70,7 @@
   "ids": {
    "howlongtobeat": "1340",
    "igdb": "brothers-in-arms-ds",
+   "metacritic": "brothers-in-arms-ds",
    "mobygames": "29865"
   },
   "label_en": "Brothers in Arms DS",
@@ -86,6 +90,7 @@
   "ids": {
    "howlongtobeat": "7808",
    "igdb": "ridge-racer-64",
+   "metacritic": "ridge-racer-64",
    "mobygames": "8486"
   },
   "label_en": "Ridge Racer 64",
@@ -117,6 +122,7 @@
   "ids": {
    "howlongtobeat": "3061",
    "igdb": "eets-chowdown",
+   "metacritic": "eets",
    "mobygames": "29458",
    "pcgamingwiki": "Eets",
    "steam": "6100"
@@ -139,6 +145,7 @@
   "ids": {
    "howlongtobeat": "1171",
    "igdb": "blitz-the-league-ii",
+   "metacritic": "blitz-the-league-ii",
    "mobygames": "37542"
   },
   "label_en": "Blitz: The League II",
@@ -176,6 +183,7 @@
   "enwiki": "The Bigs",
   "ids": {
    "igdb": "the-bigs",
+   "metacritic": "the-bigs",
    "mobygames": "32690"
   },
   "label_en": "The Bigs",
@@ -186,6 +194,7 @@
   "ids": {
    "howlongtobeat": "10145",
    "igdb": "the-red-star",
+   "metacritic": "the-red-star",
    "mobygames": "28161"
   },
   "label_en": "The Red Star",
@@ -202,6 +211,7 @@
   "ids": {
    "howlongtobeat": "25259",
    "igdb": "homesick",
+   "metacritic": "homesick",
    "mobygames": "75508",
    "pcgamingwiki": "Homesick",
    "steam": "244910"
@@ -227,6 +237,7 @@
    "gog": "game/party_hard",
    "howlongtobeat": "29434",
    "igdb": "party-hard",
+   "metacritic": "party-hard",
    "mobygames": "76866",
    "pcgamingwiki": "Party_Hard",
    "steam": "356570"
@@ -246,6 +257,7 @@
   "ids": {
    "howlongtobeat": "2090",
    "igdb": "cthulhu-saves-the-world",
+   "metacritic": "cthulhu-saves-the-world",
    "mobygames": "53950",
    "pcgamingwiki": "Cthulhu_Saves_the_World",
    "steam": "107310"
@@ -269,6 +281,7 @@
   "ids": {
    "howlongtobeat": "52792",
    "igdb": "dynasty-warriors-9",
+   "metacritic": "dynasty-warriors-9",
    "mobygames": "103244",
    "pcgamingwiki": "Dynasty_Warriors_9",
    "steam": "730310"
@@ -283,6 +296,7 @@
    "gog": "game/wonder_boy_the_dragons_trap",
    "howlongtobeat": "45210",
    "igdb": "wonder-boy-the-dragons-trap",
+   "metacritic": "wonder-boy-the-dragons-trap",
    "mobygames": "87084",
    "pcgamingwiki": "Wonder_Boy:_The_Dragon's_Trap",
    "steam": "543260"
@@ -302,6 +316,7 @@
    "epic": "musynx-fb5190",
    "howlongtobeat": "54450",
    "igdb": "musynx",
+   "metacritic": "musynx",
    "mobygames": "107317",
    "pcgamingwiki": "MUSYNX",
    "steam": "952040"
@@ -321,6 +336,7 @@
   "ids": {
    "howlongtobeat": "47327",
    "igdb": "ginger-beyond-the-crystal",
+   "metacritic": "ginger-beyond-the-crystal",
    "mobygames": "84561",
    "pcgamingwiki": "Ginger:_Beyond_the_Crystal",
    "steam": "409520"
@@ -343,6 +359,7 @@
   "ids": {
    "howlongtobeat": "32248",
    "igdb": "draw-a-stickman-epic-2",
+   "metacritic": "draw-a-stickman-epic-2",
    "mobygames": "98806",
    "pcgamingwiki": "Draw_a_Stickman:_EPIC_2",
    "steam": "403180"
@@ -365,6 +382,7 @@
   "ids": {
    "howlongtobeat": "60500",
    "igdb": "ninja-smasher",
+   "metacritic": "ninja-smasher-2014",
    "mobygames": "100494",
    "pcgamingwiki": "Ninja_Smasher!",
    "steam": "552610"
@@ -450,6 +468,7 @@
   "ids": {
    "howlongtobeat": "113846",
    "igdb": "hyper-demon",
+   "metacritic": "hyper-demon",
    "mobygames": "191827",
    "steam": "1743850"
   },
@@ -461,6 +480,7 @@
    "epic": "ten-dates-9a188a",
    "howlongtobeat": "123336",
    "igdb": "ten-dates",
+   "metacritic": "ten-dates",
    "mobygames": "199618",
    "pcgamingwiki": "Ten_Dates",
    "steam": "1946070"
@@ -872,6 +892,7 @@
   "ids": {
    "howlongtobeat": "20696",
    "igdb": "project-root",
+   "metacritic": "project-root",
    "mobygames": "72495",
    "pcgamingwiki": "Project_Root",
    "steam": "284970"

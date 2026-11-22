@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4066",
    "igdb": "grand-theft-auto-chinatown-wars",
+   "metacritic": "grand-theft-auto-chinatown-wars",
    "mobygames": "39788",
    "pcgamingwiki": "Grand_Theft_Auto:_Chinatown_Wars"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "10379",
    "igdb": "titan-quest",
+   "metacritic": "titan-quest",
    "mobygames": "22901",
    "pcgamingwiki": "Titan_Quest"
   },
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "524",
    "igdb": "apollo-justice-ace-attorney",
+   "metacritic": "apollo-justice-ace-attorney",
    "mobygames": "32813"
   },
   "label_en": "Apollo Justice: Ace Attorney",
@@ -36,6 +39,7 @@
   "ids": {
    "howlongtobeat": "6430",
    "igdb": "nba-2k13",
+   "metacritic": "nba-2k13",
    "mobygames": "65181",
    "pcgamingwiki": "NBA_2K13",
    "steam": "219600"
@@ -125,6 +129,7 @@
   "ids": {
    "howlongtobeat": "12888",
    "igdb": "charlie-murder",
+   "metacritic": "charlie-murder",
    "mobygames": "71036",
    "pcgamingwiki": "Charlie_Murder",
    "steam": "405290"
@@ -168,6 +173,7 @@
   "ids": {
    "howlongtobeat": "15178",
    "igdb": "elder-sign-omens",
+   "metacritic": "elder-sign-omens",
    "pcgamingwiki": "Elder_Sign:_Omens",
    "steam": "257670"
   },
@@ -199,6 +205,7 @@
   "enwiki": "NHL 16",
   "ids": {
    "igdb": "nhl-16",
+   "metacritic": "nhl-16",
    "mobygames": "80174"
   },
   "label_en": "NHL 16",
@@ -213,6 +220,7 @@
    "gog": "game/day_of_the_tentacle_remastered",
    "howlongtobeat": "35880",
    "igdb": "day-of-the-tentacle-remastered",
+   "metacritic": "day-of-the-tentacle-remastered",
    "mobygames": "77813",
    "pcgamingwiki": "Day_of_the_Tentacle_Remastered",
    "steam": "388210"
@@ -243,6 +251,7 @@
    "gog": "game/warhammer_40000_gladius_relics_of_war",
    "howlongtobeat": "58533",
    "igdb": "warhammer-40000-gladius-relics-of-war",
+   "metacritic": "warhammer-40000-gladius-relics-of-war",
    "mobygames": "111196",
    "pcgamingwiki": "Warhammer_40,000:_Gladius_-_Relics_of_War",
    "steam": "489630"
@@ -256,6 +265,7 @@
    "gog": "game/yestermorrow",
    "howlongtobeat": "85653",
    "igdb": "yestermorrow",
+   "metacritic": "yestermorrow",
    "mobygames": "152775",
    "pcgamingwiki": "YesterMorrow",
    "steam": "1210490"
@@ -276,6 +286,7 @@
    "epic": "morbid-the-seven-acolytes-7c5303",
    "howlongtobeat": "83854",
    "igdb": "morbid-the-seven-acolytes",
+   "metacritic": "morbid-the-seven-acolytes",
    "mobygames": "154981",
    "pcgamingwiki": "Morbid:_The_Seven_Acolytes",
    "steam": "1140890"
@@ -307,6 +318,7 @@
   "ids": {
    "howlongtobeat": "105687",
    "igdb": "wylde-flowers",
+   "metacritic": "wylde-flowers",
    "mobygames": "180808",
    "pcgamingwiki": "Wylde_Flowers",
    "steam": "1896700"
@@ -317,6 +329,7 @@
  {
   "ids": {
    "igdb": "colorize-inspect",
+   "metacritic": "colorize-inspecting",
    "mobygames": "189380",
    "steam": "1589970"
   },
@@ -424,6 +437,7 @@
   "enwiki": "ChessCraft",
   "ids": {
    "igdb": "chesscraft",
+   "metacritic": "chesscraft",
    "steam": "1635790"
   },
   "label_en": "ChessCraft",
@@ -876,6 +890,7 @@
   "ids": {
    "howlongtobeat": "163654",
    "igdb": "guns-of-fury",
+   "metacritic": "guns-of-fury",
    "mobygames": "237355",
    "steam": "3099000"
   },
@@ -1160,6 +1175,7 @@
  {
   "ids": {
    "igdb": "the-last-case-of-john-morley",
+   "pcgamingwiki": "The_Last_Case_of_John_Morley",
    "steam": "3636620"
   },
   "label_en": "The Last Case of John Morley",

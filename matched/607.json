@@ -6,6 +6,7 @@
    "gog": "game/elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the",
    "howlongtobeat": "9854",
    "igdb": "the-elder-scrolls-iv-oblivion",
+   "metacritic": "the-elder-scrolls-iv-oblivion",
    "mobygames": "21735",
    "pcgamingwiki": "The_Elder_Scrolls_IV:_Oblivion",
    "steam": "22330"
@@ -30,6 +31,7 @@
   "ids": {
    "howlongtobeat": "1736",
    "igdb": "clannad",
+   "metacritic": "clannad",
    "mobygames": "52365",
    "pcgamingwiki": "Clannad",
    "steam": "324160"
@@ -42,6 +44,7 @@
   "ids": {
    "howlongtobeat": "15668",
    "igdb": "dcs-world",
+   "metacritic": "dcs-world",
    "mobygames": "92664",
    "pcgamingwiki": "DCS_World",
    "steam": "223750"
@@ -108,6 +111,7 @@
   "enwiki": "Soul Bubbles",
   "ids": {
    "igdb": "soul-bubbles",
+   "metacritic": "soul-bubbles",
    "mobygames": "35173"
   },
   "label_en": "Soul Bubbles",
@@ -135,6 +139,7 @@
   "ids": {
    "howlongtobeat": "190",
    "igdb": "activision-hits-remixed",
+   "metacritic": "activision-hits-remixed",
    "mobygames": "25131"
   },
   "label_en": "Activision Hits Remixed",
@@ -156,6 +161,7 @@
   "enwiki": "Hot Wheels: Beat That!",
   "ids": {
    "igdb": "hot-wheels-beat-that",
+   "metacritic": "hot-wheels-beat-that",
    "mobygames": "38406",
    "pcgamingwiki": "Hot_Wheels:_Beat_That!"
   },
@@ -174,6 +180,7 @@
   "enwiki": "Mr. Driller Online",
   "ids": {
    "igdb": "mr-driller-online",
+   "metacritic": "mr-driller-online",
    "mobygames": "40801"
   },
   "label_en": "Mr. Driller Online",
@@ -218,6 +225,7 @@
    "gog": "game/blood_gold_caribbean",
    "howlongtobeat": "32679",
    "igdb": "blood-and-gold-caribbean",
+   "metacritic": "blood-and-gold-caribbean",
    "mobygames": "100793",
    "pcgamingwiki": "Blood_&_Gold:_Caribbean!",
    "steam": "413710"
@@ -282,6 +290,7 @@
   "ids": {
    "howlongtobeat": "96325",
    "igdb": "kaiju-wars",
+   "metacritic": "kaiju-wars",
    "mobygames": "192706",
    "pcgamingwiki": "Kaiju_Wars",
    "steam": "1508400"
@@ -303,6 +312,7 @@
    "epic": "melatonin-f16dcb",
    "howlongtobeat": "109178",
    "igdb": "melatonin",
+   "metacritic": "melatonin",
    "mobygames": "196364",
    "pcgamingwiki": "Melatonin",
    "steam": "1585220"
@@ -680,6 +690,7 @@
   "ids": {
    "howlongtobeat": "25997",
    "igdb": "oscura-lost-light",
+   "metacritic": "oscura-lost-light",
    "mobygames": "58225",
    "pcgamingwiki": "Oscura:_Lost_Light",
    "steam": "320520"
@@ -731,6 +742,7 @@
    "epic": "zoochosis-f48fd6",
    "howlongtobeat": "145523",
    "igdb": "zoochosis",
+   "metacritic": "zoochosis",
    "mobygames": "231233",
    "pcgamingwiki": "Zoochosis",
    "steam": "2458560"
@@ -1075,6 +1087,7 @@
  {
   "ids": {
    "igdb": "kwaidan-azuma-manor-story",
+   "pcgamingwiki": "Kwaidan_～Azuma_manor_story～",
    "steam": "1066430"
   },
   "label_en": "Kwaidan ～Azuma manor story～",
@@ -1083,6 +1096,7 @@
  {
   "ids": {
    "igdb": "whack-a-hoe",
+   "pcgamingwiki": "Whack_A_Hoe",
    "steam": "1128270"
   },
   "label_en": "Whack A Hoe",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7106",
    "igdb": "plants-vs-zombies",
+   "metacritic": "plants-vs-zombies",
    "mobygames": "40621",
    "pcgamingwiki": "Plants_vs._Zombies",
    "steam": "3590"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "4986",
    "igdb": "killzone-3",
+   "metacritic": "killzone-3",
    "mobygames": "59100"
   },
   "label_en": "Killzone 3",
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "945",
    "igdb": "battlefield-bad-company",
+   "metacritic": "battlefield-bad-company",
    "mobygames": "35088"
   },
   "label_en": "Battlefield: Bad Company",
@@ -70,6 +73,7 @@
   "enwiki": "Metroid Prime Pinball",
   "ids": {
    "igdb": "metroid-prime-pinball",
+   "metacritic": "metroid-prime-pinball",
    "mobygames": "21714"
   },
   "label_en": "Metroid Prime Pinball",
@@ -100,6 +104,7 @@
   "enwiki": "Dark Angel: Vampire Apocalypse",
   "ids": {
    "igdb": "dark-angel-vampire-apocalypse",
+   "metacritic": "dark-angel-vampire-apocalypse",
    "mobygames": "23872"
   },
   "label_en": "Dark Angel: Vampire Apocalypse",
@@ -127,6 +132,7 @@
   "enwiki": "Major League Baseball 2K5",
   "ids": {
    "igdb": "major-league-baseball-2k5",
+   "metacritic": "major-league-baseball-2k5",
    "mobygames": "35015"
   },
   "label_en": "Major League Baseball 2K5",
@@ -197,6 +203,7 @@
   "enwiki": "Lost Cities (video game)",
   "ids": {
    "igdb": "lost-cities",
+   "metacritic": "lost-cities-2008",
    "mobygames": "40064"
   },
   "label_en": "Lost Cities",
@@ -208,6 +215,7 @@
    "gog": "game/corpse_party_book_of_shadows",
    "howlongtobeat": "12195",
    "igdb": "corpse-party-book-of-shadows",
+   "metacritic": "corpse-party-book-of-shadows",
    "mobygames": "83649",
    "pcgamingwiki": "Corpse_Party:_Book_of_Shadows",
    "steam": "778390"
@@ -225,6 +233,7 @@
    "gog": "game/underrail",
    "howlongtobeat": "10807",
    "igdb": "underrail",
+   "metacritic": "underrail",
    "mobygames": "77031",
    "pcgamingwiki": "Underrail",
    "steam": "250520"
@@ -260,6 +269,7 @@
   "ids": {
    "howlongtobeat": "25982",
    "igdb": "xiii-lost-identity",
+   "metacritic": "xiii-lost-identity",
    "mobygames": "57204",
    "pcgamingwiki": "XIII_-_Lost_Identity",
    "steam": "812120"
@@ -375,6 +385,7 @@
   "ids": {
    "howlongtobeat": "120441",
    "igdb": "fate-slash-samurai-remnant",
+   "metacritic": "fatesamurai-remnant",
    "mobygames": "209549",
    "pcgamingwiki": "Fate/Samurai_Remnant",
    "steam": "1902690"
@@ -399,6 +410,7 @@
    "gog": "game/nocturnal",
    "howlongtobeat": "128401",
    "igdb": "nocturnal",
+   "metacritic": "nocturnal",
    "mobygames": "204129",
    "pcgamingwiki": "Nocturnal",
    "steam": "1634080"
@@ -656,6 +668,7 @@
   "ids": {
    "howlongtobeat": "47234",
    "igdb": "city-of-the-shroud",
+   "metacritic": "city-of-the-shroud",
    "mobygames": "159191",
    "pcgamingwiki": "City_of_the_Shroud",
    "steam": "449100"
@@ -740,12 +753,16 @@
  {
   "ids": {
    "igdb": "randy-and-manilla",
+   "metacritic": "randy-and-manilla",
    "steam": "2881270"
   },
   "label_en": "Randy & Manilla",
   "wikidata": "Q125884128"
  },
  {
+  "ids": {
+   "metacritic": "nexus-nebula-echoes"
+  },
   "label_en": "Nexus: Nebula Echoes",
   "wikidata": "Q125917128"
  },
@@ -813,7 +830,8 @@
  },
  {
   "ids": {
-   "igdb": "hime-to-inyoku-no-testament"
+   "igdb": "hime-to-inyoku-no-testament",
+   "metacritic": "hime-to-inyoku-no-testament"
   },
   "label_en": "Hime to In'yoku no Testament",
   "wikidata": "Q133855128"
@@ -1138,6 +1156,7 @@
  {
   "ids": {
    "igdb": "castle-explorer",
+   "pcgamingwiki": "Castle_Explorer_(2017)",
    "steam": "531780"
   },
   "label_en": "Castle Explorer",

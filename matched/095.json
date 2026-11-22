@@ -50,6 +50,7 @@
   "enwiki": "Dead Space Ignition",
   "ids": {
    "igdb": "dead-space-ignition",
+   "metacritic": "dead-space-ignition",
    "mobygames": "71218"
   },
   "label_en": "Dead Space Ignition",
@@ -127,6 +128,7 @@
   "ids": {
    "howlongtobeat": "23194",
    "igdb": "fishing-resort",
+   "metacritic": "fishing-resort",
    "mobygames": "91066"
   },
   "label_en": "Fishing Resort",
@@ -136,6 +138,7 @@
   "enwiki": "Just Dance 2014",
   "ids": {
    "igdb": "just-dance-2014",
+   "metacritic": "just-dance-2014",
    "mobygames": "64157"
   },
   "label_en": "Just Dance 2014",
@@ -147,6 +150,7 @@
    "gog": "game/hammerwatch",
    "howlongtobeat": "12804",
    "igdb": "hammerwatch",
+   "metacritic": "hammerwatch",
    "mobygames": "63720",
    "pcgamingwiki": "Hammerwatch",
    "steam": "239070"
@@ -170,6 +174,7 @@
    "gog": "game/duskers",
    "howlongtobeat": "29916",
    "igdb": "duskers",
+   "metacritic": "duskers",
    "mobygames": "84578",
    "pcgamingwiki": "Duskers",
    "steam": "254320"
@@ -191,6 +196,7 @@
    "gog": "game/florence",
    "howlongtobeat": "53304",
    "igdb": "florence",
+   "metacritic": "florence",
    "mobygames": "103337",
    "pcgamingwiki": "Florence",
    "steam": "1102130"
@@ -221,6 +227,7 @@
    "gog": "game/islanders",
    "howlongtobeat": "66171",
    "igdb": "islanders",
+   "metacritic": "islanders",
    "mobygames": "124462",
    "pcgamingwiki": "Islanders",
    "steam": "1046030"
@@ -248,6 +255,7 @@
    "gog": "game/gord",
    "howlongtobeat": "103197",
    "igdb": "gord",
+   "metacritic": "gord",
    "mobygames": "207405",
    "pcgamingwiki": "Gord",
    "steam": "1351210"
@@ -261,6 +269,7 @@
    "gog": "game/chinatown_detective_agency",
    "howlongtobeat": "93530",
    "igdb": "chinatown-detective-agency",
+   "metacritic": "chinatown-detective-agency",
    "mobygames": "182939",
    "pcgamingwiki": "Chinatown_Detective_Agency",
    "steam": "1172190"
@@ -275,7 +284,8 @@
  {
   "ids": {
    "howlongtobeat": "19919",
-   "igdb": "dynasty-warriors-gundam-reborn"
+   "igdb": "dynasty-warriors-gundam-reborn",
+   "metacritic": "dynasty-warriors-gundam-reborn"
   },
   "label_en": "Dynasty Warriors Gundam Reborn",
   "wikidata": "Q108972095"
@@ -283,6 +293,7 @@
  {
   "ids": {
    "igdb": "dawnspire-prelude",
+   "metacritic": "dawnspire-prelude",
    "mobygames": "24160"
   },
   "label_en": "Dawnspire: Prelude",
@@ -327,6 +338,7 @@
   "ids": {
    "howlongtobeat": "49519",
    "igdb": "miniature-garden",
+   "metacritic": "miniature-garden",
    "mobygames": "86277",
    "pcgamingwiki": "Miniature_Garden",
    "steam": "494170"
@@ -344,6 +356,7 @@
    "gog": "game/the_cosmic_wheel_sisterhood",
    "howlongtobeat": "127731",
    "igdb": "the-cosmic-wheel-sisterhood",
+   "metacritic": "the-cosmic-wheel-sisterhood",
    "mobygames": "207330",
    "pcgamingwiki": "The_Cosmic_Wheel_Sisterhood",
    "steam": "1340480"
@@ -355,6 +368,7 @@
   "ids": {
    "howlongtobeat": "106852",
    "igdb": "crush-the-castle-legacy-collection",
+   "metacritic": "crush-the-castle-legacy-collection",
    "steam": "1838970"
   },
   "label_en": "Crush the Castle Legacy Collection",
@@ -1120,6 +1134,7 @@
  {
   "ids": {
    "igdb": "murder--1",
+   "pcgamingwiki": "Murder",
    "steam": "404080"
   },
   "label_en": "Murder",
@@ -1128,6 +1143,7 @@
  {
   "ids": {
    "igdb": "the-elf-on-the-shelf-christmas-heroes",
+   "pcgamingwiki": "The_Elf_on_the_Shelf:_Christmas_Heroes",
    "steam": "3210120"
   },
   "label_en": "The Elf on the Shelf: Christmas Heroes",

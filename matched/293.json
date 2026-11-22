@@ -56,6 +56,7 @@
   "ids": {
    "howlongtobeat": "5644",
    "igdb": "mario-party-4",
+   "metacritic": "mario-party-4",
    "mobygames": "7777"
   },
   "label_en": "Mario Party 4",
@@ -144,6 +145,7 @@
   "enwiki": "Zatch Bell! Mamodo Battles",
   "ids": {
    "igdb": "zatch-bell-mamodo-battles",
+   "metacritic": "zatch-bell-mamodo-battles",
    "mobygames": "61177"
   },
   "label_en": "Zatch Bell! Mamodo Battles",
@@ -245,6 +247,7 @@
    "gog": "game/gekido_kintaros_revenge",
    "howlongtobeat": "3870",
    "igdb": "gekido-advance-kintaro-s-revenge",
+   "metacritic": "gekido-advance-kintaros-revenge",
    "mobygames": "65966",
    "pcgamingwiki": "Gekido:_Kintaro's_Revenge",
    "steam": "1032340"
@@ -262,6 +265,7 @@
   "ids": {
    "howlongtobeat": "33312",
    "igdb": "tunnel-rats",
+   "metacritic": "tunnel-rats-1968",
    "mobygames": "46553",
    "pcgamingwiki": "Tunnel_Rats",
    "steam": "31300"
@@ -277,6 +281,7 @@
   "enwiki": "Strength of the Sword 3",
   "ids": {
    "igdb": "strength-of-the-sword-3",
+   "metacritic": "strength-of-the-sword-3",
    "pcgamingwiki": "Strength_of_the_Sword_ULTIMATE"
   },
   "label_en": "Strength of the Sword 3",
@@ -287,6 +292,7 @@
   "ids": {
    "howlongtobeat": "23223",
    "igdb": "kalimba",
+   "metacritic": "kalimba",
    "mobygames": "71178",
    "pcgamingwiki": "Kalimba",
    "steam": "324140"
@@ -311,6 +317,7 @@
   "ids": {
    "howlongtobeat": "37865",
    "igdb": "house-of-the-dying-sun",
+   "metacritic": "house-of-the-dying-sun",
    "mobygames": "100579",
    "pcgamingwiki": "House_of_the_Dying_Sun",
    "steam": "283160"
@@ -342,6 +349,7 @@
   "ids": {
    "howlongtobeat": "25043",
    "igdb": "uncanny-valley",
+   "metacritic": "uncanny-valley",
    "mobygames": "85259",
    "pcgamingwiki": "Uncanny_Valley",
    "steam": "359580"
@@ -355,6 +363,7 @@
    "gog": "game/daymare_1998",
    "howlongtobeat": "70786",
    "igdb": "daymare-1998",
+   "metacritic": "daymare-1998",
    "mobygames": "134908",
    "pcgamingwiki": "Daymare:_1998",
    "steam": "842100"
@@ -385,6 +394,7 @@
    "gog": "game/nova_drift",
    "howlongtobeat": "66197",
    "igdb": "nova-drift",
+   "metacritic": "nova-drift",
    "mobygames": "130233",
    "pcgamingwiki": "Nova_Drift",
    "steam": "858210"
@@ -472,6 +482,7 @@
    "gog": "game/the_bookwalker_thief_of_tales",
    "howlongtobeat": "97947",
    "igdb": "the-bookwalker-thief-of-tales",
+   "metacritic": "the-bookwalker-thief-of-tales",
    "mobygames": "204750",
    "pcgamingwiki": "The_Bookwalker:_Thief_of_Tales",
    "steam": "1432100"
@@ -533,6 +544,7 @@
   "ids": {
    "howlongtobeat": "73070",
    "igdb": "earthnight",
+   "metacritic": "earthnight",
    "mobygames": "135545",
    "pcgamingwiki": "EarthNight",
    "steam": "777410"
@@ -701,6 +713,7 @@
    "gog": "game/duel_princess",
    "howlongtobeat": "103735",
    "igdb": "duel-princess",
+   "metacritic": "duel-princess",
    "mobygames": "178171",
    "pcgamingwiki": "Duel_Princess"
   },
@@ -1178,6 +1191,7 @@
  {
   "ids": {
    "igdb": "rush-rush-rally-reloaded",
+   "pcgamingwiki": "Rush_Rush_Rally_Reloaded",
    "steam": "2065610"
   },
   "label_en": "Rush Rush Rally Reloaded",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1057",
    "igdb": "biomotor-unitron",
+   "metacritic": "biomotor-unitron",
    "mobygames": "36776"
   },
   "label_en": "Biomotor Unitron",
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "5504",
    "igdb": "madden-nfl-2004",
+   "metacritic": "madden-nfl-2004",
    "mobygames": "10021"
   },
   "label_en": "Madden NFL 2004",
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "16393",
    "igdb": "simcity-societies",
+   "metacritic": "simcity-societies",
    "mobygames": "31095",
    "pcgamingwiki": "SimCity_Societies"
   },
@@ -45,6 +48,7 @@
   "enwiki": "Sonic Rush",
   "ids": {
    "igdb": "sonic-rush",
+   "metacritic": "sonic-rush",
    "mobygames": "20673"
   },
   "label_en": "Sonic Rush",
@@ -55,6 +59,7 @@
   "ids": {
    "howlongtobeat": "9458",
    "igdb": "super-street-fighter-ii-turbo",
+   "metacritic": "super-street-fighter-ii-turbo-hd-remix",
    "mobygames": "1159",
    "pcgamingwiki": "Super_Street_Fighter_II_Turbo"
   },
@@ -66,6 +71,7 @@
   "ids": {
    "howlongtobeat": "81711",
    "igdb": "championship-surfer",
+   "metacritic": "championship-surfer",
    "mobygames": "2669",
    "pcgamingwiki": "Championship_Surfer"
   },
@@ -77,6 +83,7 @@
   "ids": {
    "howlongtobeat": "6970",
    "igdb": "perimeter-2-new-earth",
+   "metacritic": "perimeter-ii-new-earth",
    "mobygames": "47098",
    "pcgamingwiki": "Perimeter_2:_New_Earth",
    "steam": "12420"
@@ -145,6 +152,7 @@
   "enwiki": "The Hardy Boys: The Hidden Theft",
   "ids": {
    "igdb": "the-hardy-boys-the-hidden-theft",
+   "metacritic": "the-hardy-boys-the-hidden-theft",
    "mobygames": "36570"
   },
   "label_en": "The Hardy Boys: The Hidden Theft",
@@ -174,6 +182,7 @@
   "ids": {
    "howlongtobeat": "10397",
    "igdb": "toejam-earl-iii-mission-to-earth",
+   "metacritic": "toejam-and-earl-iii-mission-to-earth",
    "mobygames": "7589"
   },
   "label_en": "ToeJam & Earl III: Mission to Earth",
@@ -188,6 +197,7 @@
   "ids": {
    "howlongtobeat": "16328",
    "igdb": "audiosurf-2",
+   "metacritic": "audiosurf-2",
    "mobygames": "73900",
    "pcgamingwiki": "Audiosurf_2",
    "steam": "235800"
@@ -200,6 +210,7 @@
   "ids": {
    "howlongtobeat": "19986",
    "igdb": "dead-effect",
+   "metacritic": "dead-effect",
    "mobygames": "74795",
    "pcgamingwiki": "Dead_Effect",
    "steam": "286040"
@@ -220,7 +231,8 @@
  {
   "enwiki": "MotionSports",
   "ids": {
-   "igdb": "motionsports-play-for-real"
+   "igdb": "motionsports-play-for-real",
+   "metacritic": "motionsports"
   },
   "label_en": "MotionSports",
   "wikidata": "Q16258895"
@@ -248,6 +260,7 @@
   "ids": {
    "howlongtobeat": "20229",
    "igdb": "motocross-madness--1",
+   "metacritic": "motocross-madness-2013",
    "mobygames": "71039"
   },
   "label_en": "Motocross Madness",
@@ -256,6 +269,7 @@
  {
   "ids": {
    "igdb": "ouka-sabaki",
+   "metacritic": "ouka-sabaki",
    "mobygames": "146726"
   },
   "label_en": "Ouka Sabaki",
@@ -279,6 +293,7 @@
   "ids": {
    "howlongtobeat": "48823",
    "igdb": "nba-live-18",
+   "metacritic": "nba-live-18",
    "mobygames": "95998"
   },
   "label_en": "NBA Live 18",
@@ -291,6 +306,7 @@
    "gog": "game/stygian_reign_of_the_old_ones",
    "howlongtobeat": "67870",
    "igdb": "stygian-reign-of-the-old-ones",
+   "metacritic": "stygian-reign-of-the-old-ones",
    "mobygames": "135237",
    "pcgamingwiki": "Stygian:_Reign_of_the_Old_Ones",
    "steam": "779290"
@@ -301,6 +317,7 @@
  {
   "ids": {
    "igdb": "flight-of-light",
+   "metacritic": "flight-of-light",
    "mobygames": "93842",
    "pcgamingwiki": "Flight_of_Light",
    "steam": "671370"
@@ -322,6 +339,7 @@
   "ids": {
    "howlongtobeat": "61554",
    "igdb": "the-missing-jj-macfield-and-the-island-of-memories",
+   "metacritic": "the-missing-jj-macfield-and-the-island-of-memories",
    "mobygames": "114966",
    "pcgamingwiki": "The_Missing:_J.J._Macfield_and_the_Island_of_Memories",
    "steam": "842910"
@@ -342,6 +360,7 @@
   "ids": {
    "howlongtobeat": "71855",
    "igdb": "raindancer",
+   "metacritic": "raindancer",
    "pcgamingwiki": "Raindancer",
    "steam": "1156000"
   },
@@ -364,6 +383,7 @@
    "gog": "game/wildermyth",
    "howlongtobeat": "72009",
    "igdb": "wildermyth",
+   "metacritic": "wildermyth",
    "mobygames": "154490",
    "pcgamingwiki": "Wildermyth",
    "steam": "763890"
@@ -389,6 +409,7 @@
    "gog": "game/myst",
    "howlongtobeat": "97062",
    "igdb": "myst--1",
+   "metacritic": "myst",
    "mobygames": "158543",
    "pcgamingwiki": "Myst_(2021)",
    "steam": "1255560"
@@ -407,6 +428,7 @@
  {
   "ids": {
    "igdb": "in-shape-2",
+   "metacritic": "in-shape-2",
    "mobygames": "189411",
    "steam": "1814100"
   },
@@ -440,6 +462,7 @@
  {
   "ids": {
    "igdb": "fos--1",
+   "pcgamingwiki": "Fos",
    "steam": "1225810"
   },
   "label_en": "FOS",
@@ -449,6 +472,7 @@
   "ids": {
    "howlongtobeat": "80658",
    "igdb": "maiden-and-spell",
+   "metacritic": "maiden-spell",
    "mobygames": "142937",
    "pcgamingwiki": "Maiden_&_Spell",
    "steam": "1004770"
@@ -912,6 +936,7 @@
    "gog": "game/galacticare",
    "howlongtobeat": "129915",
    "igdb": "galacticare",
+   "metacritic": "galacticare",
    "mobygames": "224478",
    "pcgamingwiki": "Galacticare",
    "steam": "494730"
@@ -925,6 +950,7 @@
    "gog": "game/clem",
    "howlongtobeat": "145357",
    "igdb": "clem",
+   "metacritic": "clem",
    "mobygames": "217117",
    "steam": "1861440"
   },
@@ -982,6 +1008,7 @@
  {
   "ids": {
    "igdb": "geo-political-simulator-5",
+   "metacritic": "geo-political-simulator-5",
    "steam": "3107770"
   },
   "label_en": "Geo-Political Simulator 5",
@@ -1306,6 +1333,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Bounce",
    "steam": "464400"
   },
   "label_en": "Bounce",

@@ -26,6 +26,7 @@
   "ids": {
    "howlongtobeat": "4184",
    "igdb": "guitar-hero-on-tour",
+   "metacritic": "guitar-hero-on-tour",
    "mobygames": "34744"
   },
   "label_en": "Guitar Hero: On Tour",
@@ -49,6 +50,7 @@
   "ids": {
    "howlongtobeat": "5851",
    "igdb": "mega-man-x8",
+   "metacritic": "mega-man-x8",
    "mobygames": "18142",
    "pcgamingwiki": "Mega_Man_X8"
   },
@@ -67,7 +69,8 @@
  {
   "enwiki": "Arena Football: Road to Glory",
   "ids": {
-   "igdb": "arena-football-road-to-glory"
+   "igdb": "arena-football-road-to-glory",
+   "metacritic": "arena-football-road-to-glory"
   },
   "label_en": "Arena Football: Road to Glory",
   "wikidata": "Q4788881"
@@ -103,6 +106,7 @@
   "ids": {
    "howlongtobeat": "2290",
    "igdb": "dayz",
+   "metacritic": "dayz",
    "mobygames": "63155",
    "pcgamingwiki": "DayZ",
    "steam": "221100"
@@ -120,6 +124,7 @@
    "gog": "game/mini_metro",
    "howlongtobeat": "21050",
    "igdb": "mini-metro",
+   "metacritic": "mini-metro",
    "mobygames": "78686",
    "pcgamingwiki": "Mini_Metro",
    "steam": "287980"
@@ -168,6 +173,7 @@
    "gog": "game/annas_quest",
    "howlongtobeat": "484",
    "igdb": "annas-quest",
+   "metacritic": "annas-quest",
    "mobygames": "80675",
    "pcgamingwiki": "Anna's_Quest",
    "steam": "327220"
@@ -200,6 +206,7 @@
   "enwiki": "Animal Crossing: Pocket Camp",
   "ids": {
    "igdb": "animal-crossing-pocket-camp",
+   "metacritic": "animal-crossing-pocket-camp",
    "mobygames": "97522"
   },
   "label_en": "Animal Crossing: Pocket Camp",
@@ -255,6 +262,7 @@
    "gog": "game/pharaonic",
    "howlongtobeat": "34390",
    "igdb": "pharaonic",
+   "metacritic": "pharaonic",
    "mobygames": "85127",
    "pcgamingwiki": "Pharaonic",
    "steam": "386080"
@@ -275,6 +283,7 @@
   "ids": {
    "howlongtobeat": "32744",
    "igdb": "super-mutant-alien-assault",
+   "metacritic": "super-mutant-alien-assault",
    "mobygames": "87144",
    "pcgamingwiki": "Super_Mutant_Alien_Assault",
    "steam": "368680"
@@ -294,6 +303,7 @@
    "gog": "game/sublevel_zero",
    "howlongtobeat": "30699",
    "igdb": "sublevel-zero-redux",
+   "metacritic": "sublevel-zero",
    "pcgamingwiki": "Sublevel_Zero_Redux",
    "steam": "327880"
   },
@@ -329,6 +339,7 @@
  {
   "ids": {
    "igdb": "suzy-burger",
+   "metacritic": "suzy-burger",
    "mobygames": "189322",
    "steam": "1643550"
   },
@@ -549,6 +560,7 @@
    "howlongtobeat": "100424",
    "igdb": "twilight-town-a-cyberpunk-day-in-life",
    "mobygames": "199587",
+   "pcgamingwiki": "Twilight_Town:_A_Cyberpunk_Day_In_Life",
    "steam": "1572990"
   },
   "label_en": "Twilight Town: A Cyberpunk Day In Life",
@@ -826,6 +838,7 @@
    "gog": "game/ninnindays",
    "howlongtobeat": "69590",
    "igdb": "ninnindays",
+   "metacritic": "ninnindays",
    "mobygames": "132518",
    "pcgamingwiki": "NinNinDays",
    "steam": "1075980"

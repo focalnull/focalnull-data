@@ -14,6 +14,7 @@
    "epic": "prince-of-persia-the-forgotten-sands",
    "howlongtobeat": "7296",
    "igdb": "prince-of-persia-the-forgotten-sands",
+   "metacritic": "prince-of-persia-the-forgotten-sands",
    "mobygames": "47064",
    "pcgamingwiki": "Prince_of_Persia:_The_Forgotten_Sands",
    "steam": "33320"
@@ -28,6 +29,7 @@
    "gog": "game/walking_dead_season_1_the",
    "howlongtobeat": "10250",
    "igdb": "the-walking-dead",
+   "metacritic": "the-walking-dead-a-telltale-games-series",
    "mobygames": "55762",
    "pcgamingwiki": "The_Walking_Dead:_Season_One",
    "steam": "207610"
@@ -41,6 +43,7 @@
    "gog": "game/armed_and_dangerous",
    "howlongtobeat": "589",
    "igdb": "armed-and-dangerous",
+   "metacritic": "armed-and-dangerous",
    "mobygames": "11308",
    "pcgamingwiki": "Armed_and_Dangerous",
    "steam": "6090"
@@ -68,6 +71,7 @@
   "ids": {
    "howlongtobeat": "4129",
    "igdb": "grotesque-tactics-evil-heroes--1",
+   "metacritic": "grotesque-tactics-evil-heroes",
    "mobygames": "47502",
    "pcgamingwiki": "Grotesque_Tactics:_Evil_Heroes",
    "steam": "46450"
@@ -80,6 +84,7 @@
   "ids": {
    "howlongtobeat": "11411",
    "igdb": "xgra-extreme-g-racing-association",
+   "metacritic": "xgra-extreme-g-racing-association",
    "mobygames": "11235"
   },
   "label_en": "XGRA: Extreme G Racing Association",
@@ -133,6 +138,7 @@
   "ids": {
    "howlongtobeat": "16697",
    "igdb": "darkened-skye",
+   "metacritic": "darkened-skye",
    "mobygames": "6445",
    "pcgamingwiki": "Darkened_Skye"
   },
@@ -179,6 +185,9 @@
   "wikidata": "Q6928588"
  },
  {
+  "ids": {
+   "metacritic": "tales-of-phantasia"
+  },
   "label_en": "Tales of Phantasia",
   "wikidata": "Q9081588"
  },
@@ -216,6 +225,7 @@
    "gog": "game/saints_row_gat_out_of_hell",
    "howlongtobeat": "21260",
    "igdb": "saints-row-gat-out-of-hell",
+   "metacritic": "saints-row-gat-out-of-hell",
    "mobygames": "70890",
    "pcgamingwiki": "Saints_Row:_Gat_out_of_Hell",
    "steam": "301910"
@@ -234,6 +244,7 @@
   "enwiki": "Echelon (1987 video game)",
   "ids": {
    "igdb": "echelon--1",
+   "metacritic": "echelon-1987",
    "mobygames": "424",
    "pcgamingwiki": "Echelon"
   },
@@ -275,6 +286,7 @@
   "enwiki": "Tennis Masters Series 2003 (video game)",
   "ids": {
    "igdb": "tennis-masters-series-2003",
+   "metacritic": "tennis-masters-series-2003",
    "mobygames": "9540",
    "pcgamingwiki": "Tennis_Masters_Series_2003"
   },
@@ -293,6 +305,7 @@
   "ids": {
    "howlongtobeat": "65104",
    "igdb": "dirt-rally-2-dot-0",
+   "metacritic": "dirt-rally-20",
    "mobygames": "123056",
    "pcgamingwiki": "DiRT_Rally_2.0",
    "steam": "690790"
@@ -305,6 +318,7 @@
   "ids": {
    "howlongtobeat": "56297",
    "igdb": "atomic-heart",
+   "metacritic": "atomic-heart",
    "mobygames": "121102",
    "pcgamingwiki": "Atomic_Heart",
    "steam": "668580"
@@ -318,6 +332,7 @@
    "gog": "game/cyber_shadow",
    "howlongtobeat": "42816",
    "igdb": "cyber-shadow",
+   "metacritic": "cyber-shadow",
    "mobygames": "157085",
    "pcgamingwiki": "Cyber_Shadow",
    "steam": "861250"
@@ -337,6 +352,7 @@
   "ids": {
    "howlongtobeat": "41737",
    "igdb": "western-press",
+   "metacritic": "western-press",
    "mobygames": "105935",
    "pcgamingwiki": "Western_Press",
    "steam": "377360"
@@ -408,6 +424,7 @@
   "ids": {
    "gog": "game/futamata_renai_two_times_the_trouble",
    "igdb": "futamata-renai-two-times-the-trouble",
+   "metacritic": "futamata-renai",
    "mobygames": "245585",
    "steam": "3113990"
   },
@@ -774,6 +791,7 @@
  {
   "ids": {
    "igdb": "rubiks-cube",
+   "metacritic": "rubiks-cube",
    "mobygames": "100487"
   },
   "label_en": "Rubik's Cube",
@@ -783,6 +801,7 @@
   "ids": {
    "howlongtobeat": "151086",
    "igdb": "ultra-mushroom",
+   "metacritic": "ultra-mushroom",
    "steam": "2975130"
   },
   "label_en": "Ultra Mushroom",
@@ -793,6 +812,7 @@
    "epic": "soulmask-cc7a7c",
    "howlongtobeat": "151326",
    "igdb": "soulmask",
+   "metacritic": "soulmask",
    "mobygames": "225547",
    "pcgamingwiki": "Soulmask",
    "steam": "2646460"

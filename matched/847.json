@@ -3,6 +3,7 @@
   "enwiki": "Star Wars: The Clone Wars – Lightsaber Duels",
   "ids": {
    "igdb": "star-wars-the-clone-wars-lightsaber-duels",
+   "metacritic": "star-wars-the-clone-wars-lightsaber-duels",
    "mobygames": "47581"
   },
   "label_en": "Star Wars: The Clone Wars – Lightsaber Duels",
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "19559",
    "igdb": "singstar--1",
+   "metacritic": "singstar-2008",
    "mobygames": "32445"
   },
   "label_en": "SingStar",
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "10203",
    "igdb": "the-sims-unleashed",
+   "metacritic": "the-sims-unleashed",
    "mobygames": "7291"
   },
   "label_en": "The Sims: Unleashed",
@@ -55,6 +58,7 @@
   "ids": {
    "howlongtobeat": "741",
    "igdb": "avatar-the-last-airbender",
+   "metacritic": "avatar-the-last-airbender",
    "mobygames": "25427",
    "pcgamingwiki": "Avatar:_The_Last_Airbender"
   },
@@ -66,6 +70,7 @@
   "ids": {
    "howlongtobeat": "598",
    "igdb": "armored-core-4",
+   "metacritic": "armored-core-4",
    "mobygames": "28656"
   },
   "label_en": "Armored Core 4",
@@ -75,6 +80,7 @@
   "enwiki": "ECW Anarchy Rulz (video game)",
   "ids": {
    "igdb": "ecw-anarchy-rulz",
+   "metacritic": "ecw-anarchy-rulz",
    "mobygames": "9649"
   },
   "label_en": "ECW Anarchy Rulz",
@@ -171,6 +177,7 @@
   "enwiki": "Pac-Man Fever (video game)",
   "ids": {
    "igdb": "pac-man-fever",
+   "metacritic": "pac-man-fever",
    "mobygames": "27357"
   },
   "label_en": "Pac-Man Fever",
@@ -200,6 +207,7 @@
   "ids": {
    "howlongtobeat": "13428",
    "igdb": "batman-arkham-origins-blackgate",
+   "metacritic": "batman-arkham-origins-blackgate",
    "mobygames": "64931",
    "pcgamingwiki": "Batman:_Arkham_Origins_Blackgate",
    "steam": "267490"
@@ -212,6 +220,7 @@
   "ids": {
    "howlongtobeat": "23098",
    "igdb": "guilty-gear-xrd-sign",
+   "metacritic": "guilty-gear-xrd-sign",
    "mobygames": "84058",
    "pcgamingwiki": "Guilty_Gear_Xrd_-SIGN-",
    "steam": "376300"
@@ -225,6 +234,7 @@
    "gog": "game/invisible_inc",
    "howlongtobeat": "18228",
    "igdb": "invisible-inc",
+   "metacritic": "invisible-inc",
    "mobygames": "72996",
    "pcgamingwiki": "Invisible,_Inc.",
    "steam": "243970"
@@ -238,6 +248,7 @@
    "gog": "game/lords_of_the_fallen_game_of_the_year_edition",
    "howlongtobeat": "21618",
    "igdb": "lords-of-the-fallen",
+   "metacritic": "lords-of-the-fallen-2014",
    "mobygames": "70756",
    "pcgamingwiki": "Lords_of_the_Fallen",
    "steam": "265300"
@@ -299,7 +310,8 @@
  {
   "enwiki": "Chemicus: Journey to the Other Side",
   "ids": {
-   "igdb": "chemicus-journey-to-the-other-side--1"
+   "igdb": "chemicus-journey-to-the-other-side--1",
+   "pcgamingwiki": "Chemicus"
   },
   "label_en": "Chemicus",
   "wikidata": "Q47473847"
@@ -308,6 +320,7 @@
   "enwiki": "Pokémon Omega Ruby",
   "ids": {
    "igdb": "pokemon-omega-ruby",
+   "metacritic": "pokemon-omega-ruby",
    "mobygames": "70942"
   },
   "label_en": "Pokémon Omega Ruby",
@@ -333,6 +346,7 @@
   "ids": {
    "howlongtobeat": "55354",
    "igdb": "xenoraid",
+   "metacritic": "xenoraid",
    "mobygames": "85375",
    "pcgamingwiki": "Xenoraid",
    "steam": "460220"
@@ -352,6 +366,7 @@
   "ids": {
    "howlongtobeat": "48178",
    "igdb": "super-cloudbuilt",
+   "metacritic": "super-cloudbuilt",
    "mobygames": "93160",
    "pcgamingwiki": "Super_Cloudbuilt",
    "steam": "463700"
@@ -390,6 +405,7 @@
    "epic": "i-saw-black-clouds-67008d",
    "howlongtobeat": "89751",
    "igdb": "i-saw-black-clouds",
+   "metacritic": "i-saw-black-clouds",
    "mobygames": "161546",
    "steam": "1346830"
   },
@@ -404,6 +420,7 @@
   "enwiki": "Ninja Kazan",
   "ids": {
    "igdb": "ninja-kazan",
+   "metacritic": "ninja-kazan",
    "mobygames": "143382"
   },
   "label_en": "Ninja Kazan",
@@ -415,6 +432,7 @@
    "epic": "f1-manager-2022",
    "howlongtobeat": "112067",
    "igdb": "f1-manager-2022",
+   "metacritic": "f1-manager-2022",
    "mobygames": "190189",
    "pcgamingwiki": "F1_Manager_2022",
    "steam": "1708520"
@@ -456,6 +474,7 @@
    "gog": "game/the_lamplighters_league",
    "howlongtobeat": "125793",
    "igdb": "the-lamplighters-league",
+   "metacritic": "the-lamplighters-league",
    "mobygames": "209744",
    "pcgamingwiki": "The_Lamplighters_League",
    "steam": "1167750"
@@ -468,6 +487,7 @@
    "gog": "game/unheard_voices_of_crime",
    "howlongtobeat": "64684",
    "igdb": "unheard",
+   "metacritic": "unheard",
    "mobygames": "124416",
    "pcgamingwiki": "Unheard",
    "steam": "942970"
@@ -587,6 +607,7 @@
  {
   "ids": {
    "igdb": "golfing-in-aether",
+   "pcgamingwiki": "Golfing_in_Aether",
    "steam": "1914980"
   },
   "label_en": "Golfing In Aether",
@@ -919,6 +940,7 @@
  {
   "ids": {
    "igdb": "a-twisted-path-to-renown",
+   "metacritic": "a-twisted-path-to-renown",
    "mobygames": "225533",
    "steam": "2304660"
   },
@@ -1289,6 +1311,7 @@
   "ids": {
    "howlongtobeat": "174638",
    "igdb": "akiba-lost",
+   "metacritic": "akiba-lost",
    "pcgamingwiki": "Akiba_Lost",
    "steam": "4131220"
   },
@@ -1335,5 +1358,9 @@
   },
   "label_en": "101 Dogs Hidden in Milan",
   "wikidata": "Q141481847"
+ },
+ {
+  "label_en": "Gravity Falls Mystery Shack Attack",
+  "wikidata": "Q142227847"
  }
 ]

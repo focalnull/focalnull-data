@@ -5,6 +5,7 @@
    "gog": "game/lego_star_wars_the_complete_saga",
    "howlongtobeat": "5263",
    "igdb": "lego-star-wars-the-complete-saga",
+   "metacritic": "lego-star-wars-the-complete-saga",
    "mobygames": "31058",
    "pcgamingwiki": "Lego_Star_Wars:_The_Complete_Saga",
    "steam": "32440"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "6795",
    "igdb": "orcs-must-die--1",
+   "metacritic": "orcs-must-die",
    "mobygames": "53649",
    "pcgamingwiki": "Orcs_Must_Die!",
    "steam": "102600"
@@ -144,6 +146,7 @@
   "enwiki": "Stormrise",
   "ids": {
    "igdb": "stormrise",
+   "metacritic": "stormrise",
    "mobygames": "39932",
    "pcgamingwiki": "Stormrise",
    "steam": "10650"
@@ -169,6 +172,7 @@
   "ids": {
    "howlongtobeat": "7849",
    "igdb": "risk-factions",
+   "metacritic": "risk-factions",
    "mobygames": "47733",
    "pcgamingwiki": "Risk:_Factions",
    "steam": "47800"
@@ -214,6 +218,7 @@
   "ids": {
    "howlongtobeat": "20634",
    "igdb": "freedom-wars",
+   "metacritic": "freedom-wars",
    "mobygames": "74460"
   },
   "label_en": "Freedom Wars",
@@ -223,6 +228,7 @@
   "ids": {
    "howlongtobeat": "27870",
    "igdb": "etherium",
+   "metacritic": "etherium",
    "mobygames": "76764",
    "pcgamingwiki": "Etherium",
    "steam": "245370"
@@ -268,6 +274,7 @@
   "ids": {
    "howlongtobeat": "53965",
    "igdb": "all-star-fruit-racing",
+   "metacritic": "all-star-fruit-racing",
    "mobygames": "95650",
    "pcgamingwiki": "All-Star_Fruit_Racing",
    "steam": "673190"
@@ -284,6 +291,9 @@
   "wikidata": "Q58822214"
  },
  {
+  "ids": {
+   "metacritic": "fly-speed"
+  },
   "label_en": "Fly Speed",
   "wikidata": "Q61994214"
  },
@@ -315,6 +325,7 @@
   "ids": {
    "howlongtobeat": "84049",
    "igdb": "need-for-speed-hot-pursuit-remastered",
+   "metacritic": "need-for-speed-hot-pursuit-remastered",
    "mobygames": "152628",
    "pcgamingwiki": "Need_for_Speed:_Hot_Pursuit_Remastered",
    "steam": "1328660"
@@ -337,6 +348,7 @@
   "ids": {
    "howlongtobeat": "41724",
    "igdb": "onward",
+   "metacritic": "onward",
    "mobygames": "102386",
    "pcgamingwiki": "Onward",
    "steam": "496240"
@@ -346,7 +358,8 @@
  },
  {
   "ids": {
-   "igdb": "in-space-we-brawl"
+   "igdb": "in-space-we-brawl",
+   "metacritic": "in-space-we-brawl"
   },
   "label_en": "In Space We Brawl",
   "wikidata": "Q107424214"
@@ -567,6 +580,7 @@
   "ids": {
    "howlongtobeat": "102756",
    "igdb": "vr-skater",
+   "metacritic": "vr-skater",
    "steam": "1285920"
   },
   "label_en": "VR Skater",
@@ -745,6 +759,7 @@
    "gog": "game/secret_kiss_is_sweet_and_tender",
    "howlongtobeat": "104527",
    "igdb": "secret-kiss-is-sweet-and-tender",
+   "metacritic": "secret-kiss-is-sweet-and-tender",
    "mobygames": "180053"
   },
   "label_en": "Secret Kiss is Sweet and Tender",
@@ -755,6 +770,7 @@
   "ids": {
    "howlongtobeat": "151867",
    "igdb": "mighty-morphin-power-rangers-ritas-rewind",
+   "metacritic": "mighty-morphin-power-rangers-ritas-rewind",
    "mobygames": "234566",
    "pcgamingwiki": "Mighty_Morphin_Power_Rangers:_Rita's_Rewind",
    "steam": "2816870"
@@ -825,6 +841,7 @@
   "ids": {
    "howlongtobeat": "65177",
    "igdb": "damsel",
+   "metacritic": "damsel",
    "mobygames": "122602",
    "pcgamingwiki": "Damsel",
    "steam": "452410"

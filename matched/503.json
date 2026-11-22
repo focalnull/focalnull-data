@@ -52,6 +52,7 @@
   "ids": {
    "howlongtobeat": "5650",
    "igdb": "mario-party-advance",
+   "metacritic": "mario-party-advance",
    "mobygames": "23278"
   },
   "label_en": "Mario Party Advance",
@@ -74,6 +75,7 @@
    "gog": "game/perimeter",
    "howlongtobeat": "6969",
    "igdb": "perimeter",
+   "metacritic": "perimeter",
    "mobygames": "13540",
    "pcgamingwiki": "Perimeter",
    "steam": "289440"
@@ -136,6 +138,7 @@
   "enwiki": "Everybody's Golf 3",
   "ids": {
    "igdb": "hot-shots-golf-3",
+   "metacritic": "hot-shots-golf-3",
    "mobygames": "5926"
   },
   "label_en": "Everybody's Golf 3",
@@ -221,6 +224,7 @@
   "enwiki": "Tiger Woods PGA Tour 06",
   "ids": {
    "igdb": "tiger-woods-pga-tour-06",
+   "metacritic": "tiger-woods-pga-tour-06",
    "mobygames": "19257",
    "pcgamingwiki": "Tiger_Woods_PGA_Tour_06"
   },
@@ -245,6 +249,7 @@
   "ids": {
    "howlongtobeat": "21288",
    "igdb": "yoshis-woolly-world",
+   "metacritic": "yoshis-woolly-world",
    "mobygames": "74530"
   },
   "label_en": "Yoshi's Woolly World",
@@ -255,6 +260,7 @@
   "ids": {
    "howlongtobeat": "19542",
    "igdb": "one-piece-unlimited-world-red",
+   "metacritic": "one-piece-unlimited-world-red",
    "mobygames": "64399"
   },
   "label_en": "One Piece: Unlimited World Red",
@@ -309,6 +315,7 @@
   "enwiki": "Top Gun (2010 video game)",
   "ids": {
    "igdb": "top-gun--2",
+   "metacritic": "top-gun-2010",
    "mobygames": "166808",
    "pcgamingwiki": "Top_Gun_(2010)"
   },
@@ -335,6 +342,9 @@
   "wikidata": "Q96970503"
  },
  {
+  "ids": {
+   "metacritic": "the-sims-3-world-adventures"
+  },
   "label_en": "The Sims 3: World Adventures Mobile",
   "wikidata": "Q97314503"
  },
@@ -361,6 +371,7 @@
   "ids": {
    "epic": "doomsday-vault-b0ed96",
    "igdb": "doomsday-vault",
+   "metacritic": "doomsday-vault",
    "pcgamingwiki": "Doomsday_Vault",
    "steam": "1500980"
   },
@@ -376,6 +387,7 @@
    "gog": "game/tri",
    "howlongtobeat": "21653",
    "igdb": "tri-of-friendship-and-madness",
+   "metacritic": "tri-of-friendship-and-madness",
    "mobygames": "100848",
    "pcgamingwiki": "TRI",
    "steam": "293660"
@@ -1211,6 +1223,7 @@
   "ids": {
    "howlongtobeat": "185314",
    "igdb": "kugayama-shioris-death-diary",
+   "metacritic": "kugayama-shioris-death-diary",
    "mobygames": "254234",
    "steam": "4141950"
   },

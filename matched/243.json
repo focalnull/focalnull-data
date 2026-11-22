@@ -20,6 +20,7 @@
   "enwiki": "Zack & Wiki: Quest for Barbaros' Treasure",
   "ids": {
    "igdb": "zack-and-wiki-quest-for-barbaros-treasure--1",
+   "metacritic": "zack-wiki-quest-for-barbaros-treasure",
    "mobygames": "30835"
   },
   "label_en": "Zack & Wiki: Quest for Barbaros' Treasure",
@@ -29,6 +30,7 @@
   "enwiki": "Rabbids Land",
   "ids": {
    "igdb": "rabbids-land",
+   "metacritic": "rabbids-land",
    "mobygames": "76562"
   },
   "label_en": "Rabbids Land",
@@ -39,6 +41,7 @@
   "ids": {
    "howlongtobeat": "567",
    "igdb": "area-51",
+   "metacritic": "area-51",
    "mobygames": "18069",
    "pcgamingwiki": "Area_51_(2005)"
   },
@@ -56,6 +59,7 @@
   "enwiki": "TV Show King",
   "ids": {
    "igdb": "tv-show-king",
+   "metacritic": "tv-show-king",
    "mobygames": "34186"
   },
   "label_en": "TV Show King",
@@ -66,6 +70,7 @@
   "ids": {
    "howlongtobeat": "5433",
    "igdb": "luminous-arc",
+   "metacritic": "luminous-arc",
    "mobygames": "30480"
   },
   "label_en": "Luminous Arc",
@@ -86,6 +91,7 @@
   "enwiki": "NBA Live 2002",
   "ids": {
    "igdb": "nba-live-2002",
+   "metacritic": "nba-live-2002",
    "mobygames": "5281"
   },
   "label_en": "NBA Live 2002",
@@ -171,6 +177,7 @@
   "ids": {
    "howlongtobeat": "10220",
    "igdb": "the-sum-of-all-fears",
+   "metacritic": "the-sum-of-all-fears",
    "mobygames": "6398",
    "pcgamingwiki": "The_Sum_of_All_Fears",
    "steam": "19810"
@@ -205,7 +212,8 @@
  {
   "enwiki": "Thunderhawk: Operation Phoenix",
   "ids": {
-   "igdb": "thunderstrike-operation-phoenix"
+   "igdb": "thunderstrike-operation-phoenix",
+   "metacritic": "thunderstrike-operation-phoenix"
   },
   "label_en": "Thunderhawk: Operation Phoenix",
   "wikidata": "Q15043243"
@@ -223,6 +231,7 @@
   "enwiki": "Mario & Luigi: Paper Jam",
   "ids": {
    "igdb": "mario-and-luigi-paper-jam",
+   "metacritic": "mario-luigi-paper-jam",
    "mobygames": "77181"
   },
   "label_en": "Mario & Luigi: Paper Jam",
@@ -244,6 +253,7 @@
   "ids": {
    "howlongtobeat": "47052",
    "igdb": "forts",
+   "metacritic": "forts",
    "mobygames": "87156",
    "pcgamingwiki": "Forts",
    "steam": "410900"
@@ -255,6 +265,7 @@
   "enwiki": "My Nintendo Picross: The Legend of Zelda: Twilight Princess",
   "ids": {
    "igdb": "my-nintendo-picross-the-legend-of-zelda-twilight-princess",
+   "metacritic": "my-nintendo-picross-the-legend-of-zelda-twilight",
    "mobygames": "78076"
   },
   "label_en": "My Nintendo Picross: The Legend of Zelda: Twilight Princess",
@@ -264,6 +275,7 @@
   "ids": {
    "howlongtobeat": "67795",
    "igdb": "scrabble-blast",
+   "metacritic": "scrabble-blast-2005",
    "mobygames": "13338"
   },
   "label_en": "Scrabble Blast!",
@@ -273,6 +285,7 @@
   "ids": {
    "howlongtobeat": "51651",
    "igdb": "legends-of-talia-arcadia",
+   "metacritic": "legends-of-talia-arcadia",
    "mobygames": "98691",
    "pcgamingwiki": "Legends_of_Talia:_Arcadia",
    "steam": "729530"
@@ -303,6 +316,7 @@
    "gog": "game/fallen_legion_rise_to_glory",
    "howlongtobeat": "60703",
    "igdb": "fallen-legion-rise-to-glory",
+   "metacritic": "fallen-legion-rise-to-glory",
    "mobygames": "108775",
    "pcgamingwiki": "Fallen_Legion:_Rise_to_Glory",
    "steam": "612820"
@@ -312,7 +326,8 @@
  },
  {
   "ids": {
-   "igdb": "dariusburst-another-chronicle-ex-plus"
+   "igdb": "dariusburst-another-chronicle-ex-plus",
+   "metacritic": "dariusburst-another-chronicle-ex"
   },
   "label_en": "Dariusburst: Another Chronicle EX+",
   "wikidata": "Q107633243"
@@ -522,6 +537,7 @@
   "ids": {
    "howlongtobeat": "82656",
    "igdb": "one-line-coloring",
+   "metacritic": "one-line-coloring",
    "mobygames": "149588",
    "steam": "1367420"
   },
@@ -727,6 +743,7 @@
   "ids": {
    "howlongtobeat": "148483",
    "igdb": "spirit-city-lofi-sessions--2",
+   "metacritic": "spirit-city-lofi-sessions",
    "mobygames": "221660",
    "pcgamingwiki": "Spirit_City:_Lofi_Sessions",
    "steam": "2113850"
@@ -767,6 +784,7 @@
   "ids": {
    "howlongtobeat": "158374",
    "igdb": "tri-city-monsters",
+   "metacritic": "tri-city-monsters",
    "steam": "2414410"
   },
   "label_en": "Tri City Monsters",
@@ -1082,6 +1100,7 @@
  {
   "ids": {
    "igdb": "star-girls",
+   "pcgamingwiki": "Star_Girls",
    "steam": "842430"
   },
   "label_en": "Star Girls",

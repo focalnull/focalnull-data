@@ -5,6 +5,7 @@
    "gog": "game/hitman_absolution",
    "howlongtobeat": "4475",
    "igdb": "hitman-absolution",
+   "metacritic": "hitman-absolution",
    "mobygames": "59022",
    "pcgamingwiki": "Hitman:_Absolution",
    "steam": "203140"
@@ -35,6 +36,7 @@
   "enwiki": "Mario Party 7",
   "ids": {
    "igdb": "mario-party-7",
+   "metacritic": "mario-party-7",
    "mobygames": "20516"
   },
   "label_en": "Mario Party 7",
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "10925",
    "igdb": "victoria-ii",
+   "metacritic": "victoria-ii",
    "mobygames": "52074",
    "pcgamingwiki": "Victoria_II",
    "steam": "42960"
@@ -57,6 +60,7 @@
   "ids": {
    "howlongtobeat": "12651",
    "igdb": "tom-clancy-s-splinter-cell-blacklist",
+   "metacritic": "tom-clancys-splinter-cell-blacklist",
    "mobygames": "62926",
    "pcgamingwiki": "Tom_Clancy's_Splinter_Cell:_Blacklist",
    "steam": "235600"
@@ -127,6 +131,7 @@
   "enwiki": "Zero Gunner 2",
   "ids": {
    "igdb": "zero-gunner-2",
+   "metacritic": "zero-gunner-2",
    "mobygames": "8048",
    "pcgamingwiki": "Zero_Gunner_2-",
    "steam": "1342250"
@@ -205,6 +210,7 @@
   "ids": {
    "howlongtobeat": "19843",
    "igdb": "wargame-airland-battle",
+   "metacritic": "wargame-airland-battle",
    "mobygames": "63178",
    "pcgamingwiki": "Wargame:_Airland_Battle",
    "steam": "222750"
@@ -238,6 +244,7 @@
   "ids": {
    "howlongtobeat": "30602",
    "igdb": "lego-dimensions",
+   "metacritic": "lego-dimensions",
    "mobygames": "78912"
   },
   "label_en": "Lego Dimensions",
@@ -256,6 +263,7 @@
   "ids": {
    "howlongtobeat": "27840",
    "igdb": "kidz-sports-basketball",
+   "metacritic": "kidz-sports-basketball",
    "mobygames": "91487",
    "pcgamingwiki": "Kidz_Sports_Basketball"
   },
@@ -282,6 +290,7 @@
   "enwiki": "NFL 2K3",
   "ids": {
    "igdb": "nfl-2k3",
+   "metacritic": "nfl-2k3",
    "mobygames": "7353"
   },
   "label_en": "NFL 2K3",
@@ -291,6 +300,7 @@
   "ids": {
    "howlongtobeat": "53073",
    "igdb": "battle-princess-madelyn",
+   "metacritic": "battle-princess-madelyn",
    "mobygames": "120439",
    "pcgamingwiki": "Battle_Princess_Madelyn",
    "steam": "603930"
@@ -303,6 +313,7 @@
   "ids": {
    "howlongtobeat": "65086",
    "igdb": "arcade-spirits",
+   "metacritic": "arcade-spirits",
    "mobygames": "122138",
    "pcgamingwiki": "Arcade_Spirits",
    "steam": "910630"
@@ -313,6 +324,7 @@
  {
   "ids": {
    "igdb": "what-my-neighbors-are-demons",
+   "metacritic": "what-my-neighbors-are-demons",
    "pcgamingwiki": "What!?_My_Neighbors_Are_Demons!!?",
    "steam": "657580"
   },
@@ -332,6 +344,7 @@
   "enwiki": "Gallop Racer 2003: A New Breed",
   "ids": {
    "igdb": "gallop-racer-2003-a-new-breed--1",
+   "metacritic": "gallop-racer-2003-a-new-breed",
    "mobygames": "34836"
   },
   "label_en": "Gallop Racer 2003: A New Breed",
@@ -345,6 +358,7 @@
   "ids": {
    "howlongtobeat": "58165",
    "igdb": "10-second-run-returns",
+   "metacritic": "10-second-run-returns",
    "mobygames": "59326"
   },
   "label_en": "10 Second Run RETURNS",
@@ -369,6 +383,7 @@
    "epic": "tetragon-edc5d5",
    "howlongtobeat": "96962",
    "igdb": "tetragon",
+   "metacritic": "tetragon",
    "mobygames": "169292",
    "steam": "1545850"
   },
@@ -417,6 +432,7 @@
   "ids": {
    "howlongtobeat": "109352",
    "igdb": "tactical-breach-wizards",
+   "metacritic": "tactical-breach-wizards",
    "mobygames": "229435",
    "pcgamingwiki": "Tactical_Breach_Wizards",
    "steam": "1043810"
@@ -549,6 +565,7 @@
    "howlongtobeat": "126072",
    "igdb": "troublemaker",
    "mobygames": "201204",
+   "pcgamingwiki": "Troublemaker",
    "steam": "1498740"
   },
   "label_en": "Troublemaker",
@@ -700,6 +717,7 @@
   "ids": {
    "howlongtobeat": "119437",
    "igdb": "risk-of-rain-returns",
+   "metacritic": "risk-of-rain-returns",
    "mobygames": "211574",
    "pcgamingwiki": "Risk_of_Rain_Returns",
    "steam": "1337520"
@@ -810,7 +828,8 @@
  },
  {
   "ids": {
-   "igdb": "pinball-breakout"
+   "igdb": "pinball-breakout",
+   "metacritic": "pinball-breakout"
   },
   "label_en": "Pinball Breakout",
   "wikidata": "Q125419277"

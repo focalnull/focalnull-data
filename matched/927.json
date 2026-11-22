@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2756",
    "igdb": "dragon-age-ii",
+   "metacritic": "dragon-age-ii",
    "mobygames": "50783",
    "pcgamingwiki": "Dragon_Age_II",
    "steam": "1238040"
@@ -32,6 +33,7 @@
   "ids": {
    "howlongtobeat": "31150",
    "igdb": "vanguard-saga-of-heroes",
+   "metacritic": "vanguard-saga-of-heroes",
    "mobygames": "26737",
    "pcgamingwiki": "Vanguard:_Saga_of_Heroes",
    "steam": "24150"
@@ -56,6 +58,7 @@
    "gog": "game/vampire_the_masquerade_bloodlines",
    "howlongtobeat": "10890",
    "igdb": "vampire-the-masquerade-bloodlines",
+   "metacritic": "vampire-the-masquerade-bloodlines",
    "mobygames": "15663",
    "pcgamingwiki": "Vampire:_The_Masquerade_-_Bloodlines",
    "steam": "2600"
@@ -67,7 +70,8 @@
   "enwiki": "Zoo Tycoon DS",
   "ids": {
    "howlongtobeat": "11594",
-   "igdb": "zoo-tycoon-ds"
+   "igdb": "zoo-tycoon-ds",
+   "metacritic": "zoo-tycoon-ds"
   },
   "label_en": "Zoo Tycoon DS",
   "wikidata": "Q1965927"
@@ -116,6 +120,7 @@
    "gog": "game/sudden_strike_3",
    "howlongtobeat": "47862",
    "igdb": "sudden-strike-3-arms-for-victory",
+   "metacritic": "sudden-strike-3-arms-for-victory",
    "mobygames": "44623",
    "pcgamingwiki": "Sudden_Strike_3:_Arms_for_Victory",
    "steam": "612540"
@@ -136,6 +141,7 @@
   "enwiki": "Fable II Pub Games",
   "ids": {
    "igdb": "fable-ii-pub-games",
+   "metacritic": "fable-ii-pub-games",
    "mobygames": "46230"
   },
   "label_en": "Fable II Pub Games",
@@ -175,6 +181,7 @@
   "enwiki": "Just Dance: Disney Party",
   "ids": {
    "igdb": "just-dance-disney-party",
+   "metacritic": "just-dance-disney-party",
    "mobygames": "85089"
   },
   "label_en": "Just Dance: Disney Party",
@@ -184,6 +191,7 @@
   "enwiki": "Law & Order: Criminal Intent (video game)",
   "ids": {
    "igdb": "law-and-order-criminal-intent",
+   "metacritic": "law-and-order-criminal-intent",
    "mobygames": "19866",
    "pcgamingwiki": "Law_&_Order:_Criminal_Intent"
   },
@@ -210,6 +218,7 @@
   "enwiki": "Summoner 2",
   "ids": {
    "igdb": "summoner-2",
+   "metacritic": "summoner-2",
    "mobygames": "7442"
   },
   "label_en": "Summoner 2",
@@ -218,7 +227,8 @@
  {
   "ids": {
    "howlongtobeat": "18290",
-   "igdb": "zatch-bell-electric-arena"
+   "igdb": "zatch-bell-electric-arena",
+   "metacritic": "zatch-bell-electric-arena"
   },
   "label_en": "Zatch Bell: Electric Arena",
   "wikidata": "Q10394927"
@@ -234,6 +244,7 @@
   "ids": {
    "howlongtobeat": "35564",
    "igdb": "all-star-karate",
+   "metacritic": "all-star-karate",
    "mobygames": "50301"
   },
   "label_en": "All Star Karate",
@@ -256,6 +267,7 @@
   "ids": {
    "howlongtobeat": "460",
    "igdb": "angel-devoid-face-of-the-enemy",
+   "metacritic": "angel-devoid-face-of-the-enemy",
    "mobygames": "3468"
   },
   "label_en": "Angel Devoid: Face of the Enemy",
@@ -294,6 +306,7 @@
   "ids": {
    "howlongtobeat": "11625",
    "igdb": "soundodger-plus",
+   "metacritic": "soundodger",
    "mobygames": "89063",
    "pcgamingwiki": "Soundodger+",
    "steam": "247140"
@@ -381,6 +394,7 @@
   "ids": {
    "howlongtobeat": "96302",
    "igdb": "dread-hunger",
+   "metacritic": "dread-hunger",
    "mobygames": "178836",
    "steam": "1418630"
   },
@@ -401,6 +415,7 @@
    "epic": "yars-revenge-recharged-fbdc11",
    "howlongtobeat": "112642",
    "igdb": "yars-recharged",
+   "metacritic": "yars-recharged",
    "mobygames": "190206",
    "pcgamingwiki": "Yars:_Recharged",
    "steam": "2019990"
@@ -674,6 +689,7 @@
   "ids": {
    "howlongtobeat": "84464",
    "igdb": "shut-in",
+   "metacritic": "shut-in",
    "mobygames": "167540",
    "steam": "1438190"
   },
@@ -860,6 +876,7 @@
   "ids": {
    "epic": "tribu-55feb1",
    "igdb": "tribu",
+   "metacritic": "tribu",
    "steam": "2159240"
   },
   "label_en": "Tribu",
@@ -919,6 +936,7 @@
   "ids": {
    "howlongtobeat": "166832",
    "igdb": "magical-princess",
+   "metacritic": "magical-princess",
    "steam": "3562120"
   },
   "label_en": "Magical Princess",

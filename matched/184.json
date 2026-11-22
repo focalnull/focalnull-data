@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6725",
    "igdb": "okami",
+   "metacritic": "okami",
    "mobygames": "24246"
   },
   "label_en": "Ōkami",
@@ -32,6 +33,7 @@
   "ids": {
    "howlongtobeat": "11406",
    "igdb": "xenosaga-episode-ii-jenseits-von-gut-und-bose",
+   "metacritic": "xenosaga-episode-ii-jenseits-von-gut-und-bose",
    "mobygames": "14033"
   },
   "label_en": "Xenosaga Episode II",
@@ -90,6 +92,7 @@
   "enwiki": "Lord of Arcana",
   "ids": {
    "igdb": "lord-of-arcana",
+   "metacritic": "lord-of-arcana",
    "mobygames": "50428"
   },
   "label_en": "Lord of Arcana",
@@ -100,6 +103,7 @@
   "ids": {
    "howlongtobeat": "613",
    "igdb": "army-men-air-attack-2",
+   "metacritic": "army-men-air-attack-2",
    "mobygames": "28981"
   },
   "label_en": "Army Men: Air Attack 2",
@@ -177,6 +181,7 @@
   "enwiki": "NFL Head Coach 09",
   "ids": {
    "igdb": "nfl-head-coach-09",
+   "metacritic": "nfl-head-coach-09",
    "mobygames": "36298"
   },
   "label_en": "NFL Head Coach 09",
@@ -200,6 +205,7 @@
   "enwiki": "Capcom Arcade Cabinet",
   "ids": {
    "igdb": "capcom-arcade-cabinet",
+   "metacritic": "capcom-arcade-cabinet",
    "mobygames": "60915"
   },
   "label_en": "Capcom Arcade Cabinet",
@@ -228,6 +234,7 @@
   "ids": {
    "howlongtobeat": "33698",
    "igdb": "spooky-bonus",
+   "metacritic": "spooky-bonus",
    "mobygames": "65321",
    "pcgamingwiki": "Spooky_Bonus",
    "steam": "388450"
@@ -258,6 +265,7 @@
   "ids": {
    "howlongtobeat": "49439",
    "igdb": "seabed",
+   "metacritic": "seabed",
    "mobygames": "108313",
    "pcgamingwiki": "SeaBed",
    "steam": "583090"
@@ -271,6 +279,7 @@
    "gog": "game/eador_masters_of_the_broken_world",
    "howlongtobeat": "3028",
    "igdb": "eador-masters-of-the-broken-world",
+   "metacritic": "eador-masters-of-the-broken-world",
    "mobygames": "63734",
    "pcgamingwiki": "Eador:_Masters_of_the_Broken_World",
    "steam": "232050"
@@ -368,7 +377,8 @@
  },
  {
   "ids": {
-   "igdb": "wyrdsong"
+   "igdb": "wyrdsong",
+   "metacritic": "wyrdsong"
   },
   "label_en": "Wyrdsong",
   "wikidata": "Q113586184"
@@ -611,6 +621,7 @@
   "ids": {
    "howlongtobeat": "81468",
    "igdb": "clash-of-chefs-vr",
+   "metacritic": "clash-of-chefs-vr",
    "mobygames": "177873",
    "pcgamingwiki": "Clash_of_Chefs_VR",
    "steam": "960040"
@@ -693,6 +704,7 @@
   "ids": {
    "howlongtobeat": "37302",
    "igdb": "dungeon-of-zolthan",
+   "metacritic": "dungeon-of-zolthan",
    "mobygames": "124529",
    "pcgamingwiki": "Dungeon_of_Zolthan",
    "steam": "463220"
@@ -1081,6 +1093,7 @@
  {
   "ids": {
    "igdb": "brimstone--1",
+   "pcgamingwiki": "Brimstone",
    "steam": "674320"
   },
   "label_en": "Brimstone",

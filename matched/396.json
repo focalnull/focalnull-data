@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1987",
    "igdb": "crash-mind-over-mutant",
+   "metacritic": "crash-mind-over-mutant",
    "mobygames": "41708"
   },
   "label_en": "Crash: Mind over Mutant",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "6791",
    "igdb": "orcs-and-elves",
+   "metacritic": "orcs-and-elves",
    "mobygames": "31477"
   },
   "label_en": "Orcs & Elves",
@@ -23,6 +25,7 @@
   "enwiki": "Afrika (video game)",
   "ids": {
    "igdb": "afrika",
+   "metacritic": "afrika",
    "mobygames": "38792"
   },
   "label_en": "Afrika",
@@ -33,6 +36,7 @@
   "ids": {
    "howlongtobeat": "1480",
    "igdb": "call-of-duty-modern-warfare-mobilized",
+   "metacritic": "call-of-duty-modern-warfare-mobilized",
    "mobygames": "45152"
   },
   "label_en": "Call of Duty: Modern Warfare: Mobilized",
@@ -53,6 +57,7 @@
   "ids": {
    "howlongtobeat": "7081",
    "igdb": "pixeljunk-eden",
+   "metacritic": "pixeljunk-eden",
    "mobygames": "69519",
    "pcgamingwiki": "PixelJunk_Eden",
    "steam": "105800"
@@ -71,7 +76,8 @@
  {
   "enwiki": "Call of Duty 4: Modern Warfare (Nintendo DS)",
   "ids": {
-   "igdb": "call-of-duty-4-modern-warfare--2"
+   "igdb": "call-of-duty-4-modern-warfare--2",
+   "metacritic": "call-of-duty-4-modern-warfare"
   },
   "label_en": "Call of Duty 4: Modern Warfare",
   "wikidata": "Q3284396"
@@ -118,6 +124,7 @@
   "ids": {
    "howlongtobeat": "1032",
    "igdb": "big-bumpin",
+   "metacritic": "big-bumpin",
    "mobygames": "25182"
   },
   "label_en": "Big Bumpin'",
@@ -133,6 +140,7 @@
   "ids": {
    "howlongtobeat": "2269",
    "igdb": "dave-mirra-freestyle-bmx",
+   "metacritic": "dave-mirra-freestyle-bmx",
    "mobygames": "2821",
    "pcgamingwiki": "Dave_Mirra_Freestyle_BMX"
   },
@@ -142,7 +150,8 @@
  {
   "enwiki": "Days of Thunder (2011 video game)",
   "ids": {
-   "igdb": "days-of-thunder-nascar-edition"
+   "igdb": "days-of-thunder-nascar-edition",
+   "metacritic": "days-of-thunder"
   },
   "label_en": "Days of Thunder",
   "wikidata": "Q5243396"
@@ -161,6 +170,7 @@
   "ids": {
    "howlongtobeat": "5389",
    "igdb": "lost-in-blue-3",
+   "metacritic": "lost-in-blue-3",
    "mobygames": "36657"
   },
   "label_en": "Lost in Blue 3",
@@ -206,6 +216,7 @@
   "ids": {
    "howlongtobeat": "26810",
    "igdb": "60-seconds",
+   "metacritic": "60-seconds",
    "mobygames": "76546",
    "pcgamingwiki": "60_Seconds!",
    "steam": "368360"
@@ -246,6 +257,7 @@
   "ids": {
    "howlongtobeat": "59307",
    "igdb": "knowledge-is-power",
+   "metacritic": "knowledge-is-power",
    "mobygames": "97457"
   },
   "label_en": "Knowledge Is Power",
@@ -255,6 +267,7 @@
   "ids": {
    "howlongtobeat": "2877",
    "igdb": "dream-trigger-3d",
+   "metacritic": "dream-trigger-3d",
    "mobygames": "51490"
   },
   "label_en": "Dream Trigger 3D",
@@ -268,6 +281,7 @@
   "ids": {
    "howlongtobeat": "70924",
    "igdb": "real-farm",
+   "metacritic": "real-farm",
    "mobygames": "97346",
    "pcgamingwiki": "Real_Farm",
    "steam": "573680"
@@ -281,6 +295,7 @@
    "gog": "game/death_end_request_2",
    "howlongtobeat": "81643",
    "igdb": "death-end-re-quest-2",
+   "metacritic": "death-end-request-2",
    "mobygames": "149442",
    "pcgamingwiki": "Death_end_re;Quest_2",
    "steam": "1266220"
@@ -316,6 +331,7 @@
  {
   "ids": {
    "igdb": "disneys-kim-possible-2-drakkens-demise",
+   "metacritic": "disneys-kim-possible-2-drakkens-demise",
    "mobygames": "20536"
   },
   "label_en": "Kim Possible 2: Drakken's Demise",
@@ -1076,6 +1092,7 @@
   "ids": {
    "igdb": "dead-of-darkness",
    "mobygames": "241274",
+   "pcgamingwiki": "Dead_of_Darkness",
    "steam": "2157210"
   },
   "label_en": "Dead of Darkness",
@@ -1108,9 +1125,17 @@
  {
   "ids": {
    "igdb": "netoo",
+   "pcgamingwiki": "Netoo",
    "steam": "4017520"
   },
   "label_en": "Netoo",
   "wikidata": "Q141481396"
+ },
+ {
+  "ids": {
+   "steam": "3127230"
+  },
+  "label_en": "PBA Pro Bowling 2026",
+  "wikidata": "Q142203396"
  }
 ]

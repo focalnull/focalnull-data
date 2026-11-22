@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "92067",
    "igdb": "hatsuyuki-sakura",
+   "metacritic": "hatsuyuki-sakura",
    "mobygames": "234466",
    "steam": "3171460"
   },
@@ -14,6 +15,7 @@
   "enwiki": "Ratchet & Clank (2002 video game)",
   "ids": {
    "igdb": "ratchet-clank",
+   "metacritic": "ratchet-clank",
    "mobygames": "8006"
   },
   "label_en": "Ratchet & Clank",
@@ -25,6 +27,7 @@
    "gog": "game/lords_of_the_realm_3",
    "howlongtobeat": "5382",
    "igdb": "lords-of-the-realm-iii",
+   "metacritic": "lords-of-the-realm-iii",
    "mobygames": "24614",
    "pcgamingwiki": "Lords_of_the_Realm_III",
    "steam": "254860"
@@ -37,6 +40,7 @@
   "ids": {
    "howlongtobeat": "4982",
    "igdb": "killer7",
+   "metacritic": "killer7",
    "mobygames": "18931",
    "pcgamingwiki": "Killer7",
    "steam": "868520"
@@ -49,6 +53,7 @@
   "ids": {
    "howlongtobeat": "7028",
    "igdb": "phoenix-wright-ace-attorney-trials-and-tribulations",
+   "metacritic": "phoenix-wright-ace-attorney-justice-for-all",
    "mobygames": "24748"
   },
   "label_en": "Phoenix Wright: Ace Attorney – Justice for All",
@@ -59,6 +64,7 @@
   "ids": {
    "howlongtobeat": "5391",
    "igdb": "lost-kingdoms",
+   "metacritic": "lost-kingdoms",
    "mobygames": "6504"
   },
   "label_en": "Lost Kingdoms",
@@ -69,6 +75,7 @@
   "ids": {
    "howlongtobeat": "1844",
    "igdb": "command-conquer-renegade",
+   "metacritic": "command-and-conquer-renegade",
    "mobygames": "5881",
    "pcgamingwiki": "Command_&_Conquer:_Renegade",
    "steam": "2229890"
@@ -103,6 +110,7 @@
   "ids": {
    "howlongtobeat": "3492",
    "igdb": "final-fantasy-fables-chocobo-tales",
+   "metacritic": "final-fantasy-fables-chocobo-tales",
    "mobygames": "27448"
   },
   "label_en": "Final Fantasy Fables: Chocobo Tales",
@@ -124,6 +132,7 @@
   "enwiki": "Pokémon Trozei!",
   "ids": {
    "igdb": "pokemon-trozei",
+   "metacritic": "pokemon-trozei",
    "mobygames": "21634"
   },
   "label_en": "Pokémon Trozei!",
@@ -163,6 +172,7 @@
   "enwiki": "Let's Yoga",
   "ids": {
    "igdb": "lets-yoga",
+   "metacritic": "lets-yoga",
    "mobygames": "88880"
   },
   "label_en": "Let's Yoga",
@@ -228,6 +238,7 @@
   "ids": {
    "howlongtobeat": "10688",
    "igdb": "tsugunai-atonement",
+   "metacritic": "tsugunai-atonement",
    "mobygames": "9826"
   },
   "label_en": "Tsugunai: Atonement",
@@ -238,6 +249,7 @@
   "ids": {
    "howlongtobeat": "48822",
    "igdb": "nba-live-14",
+   "metacritic": "nba-live-14",
    "mobygames": "67912"
   },
   "label_en": "NBA Live 14",
@@ -267,6 +279,7 @@
   "ids": {
    "howlongtobeat": "25038",
    "igdb": "necropolis",
+   "metacritic": "necropolis",
    "mobygames": "83093",
    "pcgamingwiki": "Necropolis:_A_Diabolical_Dungeon_Delve",
    "steam": "384490"
@@ -295,6 +308,7 @@
    "gog": "game/state_of_mind",
    "howlongtobeat": "59973",
    "igdb": "state-of-mind",
+   "metacritic": "state-of-mind",
    "mobygames": "109646",
    "pcgamingwiki": "State_of_Mind",
    "steam": "437630"
@@ -305,6 +319,7 @@
  {
   "ids": {
    "igdb": "suspension-railroad-simulator",
+   "metacritic": "suspension-railroad-simulator",
    "mobygames": "100692"
   },
   "label_en": "Suspension Railroad Simulator",
@@ -325,6 +340,7 @@
   "enwiki": "Just Dance 2020",
   "ids": {
    "igdb": "just-dance-2020",
+   "metacritic": "just-dance-2020",
    "mobygames": "136882"
   },
   "label_en": "Just Dance 2020",
@@ -390,6 +406,7 @@
  {
   "ids": {
    "igdb": "beasts-of-burden",
+   "metacritic": "beasts-of-burden",
    "steam": "1745430"
   },
   "label_en": "Beasts of Burden",
@@ -427,6 +444,7 @@
   "ids": {
    "howlongtobeat": "76787",
    "igdb": "fantasy-general-ii-invasion",
+   "metacritic": "fantasy-general-ii",
    "mobygames": "134328",
    "pcgamingwiki": "Fantasy_General_II",
    "steam": "1025440"
@@ -459,6 +477,7 @@
    "howlongtobeat": "118594",
    "igdb": "bratz-flaunt-your-fashion",
    "mobygames": "193711",
+   "pcgamingwiki": "Bratz:_Flaunt_Your_Fashion",
    "steam": "2088340"
   },
   "label_en": "Bratz: Flaunt your fashion",

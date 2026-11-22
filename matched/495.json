@@ -21,6 +21,7 @@
    "gog": "game/system_shock_2",
    "howlongtobeat": "9548",
    "igdb": "system-shock-2",
+   "metacritic": "system-shock-2",
    "mobygames": "590",
    "pcgamingwiki": "System_Shock_2",
    "steam": "238210"
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "5246",
    "igdb": "lego-battles",
+   "metacritic": "lego-battles",
    "mobygames": "68299"
   },
   "label_en": "Lego Battles",
@@ -43,6 +45,7 @@
   "ids": {
    "howlongtobeat": "10503",
    "igdb": "tony-hawk-s-underground",
+   "metacritic": "tony-hawks-underground",
    "mobygames": "10893",
    "pcgamingwiki": "Tony_Hawk's_Underground"
   },
@@ -53,6 +56,7 @@
   "enwiki": "Madden NFL 2000",
   "ids": {
    "igdb": "madden-nfl-2000",
+   "metacritic": "madden-nfl-2000",
    "mobygames": "2826"
   },
   "label_en": "Madden NFL 2000",
@@ -62,6 +66,7 @@
   "enwiki": "Tiger Woods PGA Tour 08",
   "ids": {
    "igdb": "tiger-woods-pga-tour-08",
+   "metacritic": "tiger-woods-pga-tour-08",
    "mobygames": "30242",
    "pcgamingwiki": "Tiger_Woods_PGA_Tour_08"
   },
@@ -90,6 +95,7 @@
   "enwiki": "This Is Football 2004",
   "ids": {
    "igdb": "this-is-football-2004",
+   "metacritic": "world-tour-soccer-2005",
    "mobygames": "34872"
   },
   "label_en": "This is Football 2004",
@@ -107,6 +113,7 @@
   "enwiki": "Dropship: United Peace Force",
   "ids": {
    "igdb": "dropship-united-peace-force",
+   "metacritic": "dropship-united-peace-force",
    "mobygames": "9729"
   },
   "label_en": "Dropship: United Peace Force",
@@ -215,6 +222,7 @@
    "gog": "game/cuphead",
    "howlongtobeat": "21680",
    "igdb": "cuphead",
+   "metacritic": "cuphead",
    "mobygames": "96620",
    "pcgamingwiki": "Cuphead",
    "steam": "268910"
@@ -237,6 +245,7 @@
   "ids": {
    "howlongtobeat": "1517",
    "igdb": "captain-morgane-and-the-golden-turtle",
+   "metacritic": "captain-morgane-and-the-golden-turtle",
    "mobygames": "55875",
    "pcgamingwiki": "Captain_Morgane_and_the_Golden_Turtle",
    "steam": "264320"
@@ -267,6 +276,7 @@
    "epic": "satisfactory",
    "howlongtobeat": "65835",
    "igdb": "satisfactory",
+   "metacritic": "satisfactory",
    "mobygames": "123992",
    "pcgamingwiki": "Satisfactory",
    "steam": "526870"
@@ -325,6 +335,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-11",
+   "metacritic": "vacation-adventures-park-ranger-11",
    "steam": "1568040"
   },
   "label_en": "Vacation Adventures: Park Ranger 11",
@@ -380,6 +391,7 @@
  {
   "ids": {
    "igdb": "dongbeizhixia",
+   "metacritic": "summer-in-the-northeast",
    "mobygames": "197991",
    "steam": "2121360"
   },
@@ -553,6 +565,7 @@
   "ids": {
    "howlongtobeat": "121434",
    "igdb": "warrior-paint-2005-goty-edition",
+   "metacritic": "warrior-paint-2005-goty-edition",
    "mobygames": "206075",
    "steam": "2234060"
   },
@@ -1104,6 +1117,7 @@
   "ids": {
    "howlongtobeat": "157272",
    "igdb": "cats-around-us-giant-cat",
+   "metacritic": "cats-around-us-giant-cat-2026",
    "steam": "2925310"
   },
   "label_en": "Cats Around Us: Giant Cat",
@@ -1272,6 +1286,7 @@
  {
   "ids": {
    "igdb": "hentai-pix",
+   "pcgamingwiki": "Hentai_Pix",
    "steam": "1148920"
   },
   "label_en": "Hentai Pix",

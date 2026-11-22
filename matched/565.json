@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "3138",
    "igdb": "epic-mickey-2-the-power-of-two",
+   "metacritic": "disney-epic-mickey-2-the-power-of-two",
    "mobygames": "59645",
    "pcgamingwiki": "Epic_Mickey_2:_The_Power_of_Two",
    "steam": "245300"
@@ -73,6 +74,7 @@
   "ids": {
    "howlongtobeat": "716",
    "igdb": "atv-offroad-fury",
+   "metacritic": "atv-offroad-fury",
    "mobygames": "6264"
   },
   "label_en": "ATV Offroad Fury",
@@ -122,6 +124,7 @@
   "enwiki": "Cross Edge",
   "ids": {
    "igdb": "cross-edge",
+   "metacritic": "cross-edge",
    "mobygames": "82655"
   },
   "label_en": "Cross Edge",
@@ -176,7 +179,8 @@
   "enwiki": "N.O.V.A. 3",
   "ids": {
    "howlongtobeat": "6338",
-   "igdb": "nova-3"
+   "igdb": "nova-3",
+   "metacritic": "n-o-v-a-3-near-orbit-vanguard-alliance"
   },
   "label_en": "N.O.V.A. 3",
   "wikidata": "Q6951565"
@@ -185,6 +189,7 @@
   "enwiki": "Prehistorik Man",
   "ids": {
    "igdb": "prehistorik-man",
+   "metacritic": "prehistorik-man",
    "mobygames": "37880"
   },
   "label_en": "Prehistorik Man",
@@ -225,6 +230,7 @@
   "enwiki": "RHEM 3: The Secret Library",
   "ids": {
    "igdb": "rhem-3-the-secret-library",
+   "metacritic": "rhem-3-the-secret-library",
    "mobygames": "33042",
    "pcgamingwiki": "RHEM_3:_The_Secret_Library"
   },
@@ -236,6 +242,7 @@
   "ids": {
    "howlongtobeat": "3470",
    "igdb": "fighters-uncaged",
+   "metacritic": "fighters-uncaged",
    "mobygames": "49071"
   },
   "label_en": "Fighters Uncaged",
@@ -269,6 +276,7 @@
   "enwiki": "Alphabear",
   "ids": {
    "igdb": "alphabear",
+   "metacritic": "alphabear-word-puzzle-game",
    "mobygames": "73771"
   },
   "label_en": "Alphabear",
@@ -279,6 +287,7 @@
   "ids": {
    "howlongtobeat": "10493",
    "igdb": "tony-hawks-pro-skater-2x",
+   "metacritic": "tony-hawks-pro-skater-2x",
    "mobygames": "5377"
   },
   "label_en": "Tony Hawk's Pro Skater 2x",
@@ -341,6 +350,7 @@
    "gog": "game/unforeseen_incidents",
    "howlongtobeat": "56341",
    "igdb": "unforeseen-incidents",
+   "metacritic": "unforeseen-incidents",
    "mobygames": "109272",
    "pcgamingwiki": "Unforeseen_Incidents",
    "steam": "501790"
@@ -352,6 +362,7 @@
   "ids": {
    "howlongtobeat": "2919",
    "igdb": "duke-nukem-3d-megaton-edition",
+   "metacritic": "duke-nukem-3d-megaton-edition",
    "mobygames": "60066",
    "pcgamingwiki": "Duke_Nukem_3D:_Megaton_Edition",
    "steam": "225140"
@@ -363,6 +374,7 @@
   "ids": {
    "howlongtobeat": "69427",
    "igdb": "towertale",
+   "metacritic": "towertale",
    "mobygames": "144084",
    "pcgamingwiki": "Towertale",
    "steam": "980480"
@@ -374,6 +386,7 @@
   "ids": {
    "howlongtobeat": "17360",
    "igdb": "1931-scheherazade-at-the-library-of-pergamum",
+   "metacritic": "1931-scheherazade-at-the-library-of-pergamum",
    "mobygames": "63152",
    "pcgamingwiki": "1931:_Scheherazade_at_the_Library_of_Pergamum",
    "steam": "334850"
@@ -393,6 +406,7 @@
   "ids": {
    "howlongtobeat": "48676",
    "igdb": "yo-kai-watch-2-bony-spirits",
+   "metacritic": "yo-kai-watch-2-bony-spirits",
    "mobygames": "84558"
   },
   "label_en": "Yo-kai Watch 2: Bony Spirits",
@@ -437,6 +451,7 @@
   "ids": {
    "howlongtobeat": "60585",
    "igdb": "empyre-lords-of-the-sea-gates",
+   "metacritic": "empyre-lords-of-the-sea-gates",
    "mobygames": "162241",
    "pcgamingwiki": "Empyre:_Lords_of_the_Sea_Gates",
    "steam": "696810"
@@ -479,6 +494,7 @@
   "ids": {
    "howlongtobeat": "47006",
    "igdb": "aerea",
+   "metacritic": "aerea",
    "mobygames": "89838",
    "pcgamingwiki": "AereA",
    "steam": "573660"
@@ -498,6 +514,7 @@
   "ids": {
    "howlongtobeat": "70196",
    "igdb": "here-be-dragons",
+   "metacritic": "here-be-dragons",
    "mobygames": "141667",
    "pcgamingwiki": "Here_Be_Dragons",
    "steam": "945680"
@@ -791,6 +808,7 @@
    "gog": "game/you_will_die_here_tonight",
    "howlongtobeat": "129939",
    "igdb": "you-will-die-here-tonight",
+   "metacritic": "you-will-die-here-tonight",
    "mobygames": "211189",
    "pcgamingwiki": "You_Will_Die_Here_Tonight",
    "steam": "1446350"
@@ -952,6 +970,7 @@
   "ids": {
    "howlongtobeat": "141702",
    "igdb": "unrailed-2-back-on-track",
+   "metacritic": "unrailed-2-back-on-track",
    "mobygames": "236886",
    "pcgamingwiki": "Unrailed!_2:_Back_on_Track",
    "steam": "2211170"

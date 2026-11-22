@@ -13,6 +13,7 @@
   "enwiki": "NCAA Football 07",
   "ids": {
    "igdb": "ncaa-football-07",
+   "metacritic": "ncaa-football-07",
    "mobygames": "34727"
   },
   "label_en": "NCAA Football 07",
@@ -101,7 +102,8 @@
  {
   "enwiki": "Yu-Gi-Oh! GX Tag Force 2",
   "ids": {
-   "igdb": "yu-gi-oh-gx-tag-force-2"
+   "igdb": "yu-gi-oh-gx-tag-force-2",
+   "metacritic": "yu-gi-oh-gx-tag-force-2"
   },
   "label_en": "Yu-Gi-Oh! GX Tag Force 2",
   "wikidata": "Q3273765"
@@ -121,6 +123,7 @@
    "epic": "pipe-mania-f5fec0",
    "howlongtobeat": "34671",
    "igdb": "pipe-mania--1",
+   "metacritic": "pipe-mania",
    "mobygames": "44072",
    "pcgamingwiki": "Pipe_Mania",
    "steam": "1385320"
@@ -167,6 +170,7 @@
   "enwiki": "Kawasaki Jet Ski (video game)",
   "ids": {
    "igdb": "kawasaki-jet-ski",
+   "metacritic": "kawasaki-jet-ski",
    "mobygames": "30191"
   },
   "label_en": "Kawasaki Jet Ski",
@@ -253,6 +257,7 @@
   "ids": {
    "howlongtobeat": "21390",
    "igdb": "sid-meiers-civilization-beyond-earth",
+   "metacritic": "sid-meiers-civilization-beyond-earth",
    "mobygames": "69130",
    "pcgamingwiki": "Civilization:_Beyond_Earth",
    "steam": "65980"
@@ -276,6 +281,7 @@
    "gog": "game/offworld_trading_company",
    "howlongtobeat": "28013",
    "igdb": "offworld-trading-company",
+   "metacritic": "offworld-trading-company",
    "mobygames": "97008",
    "pcgamingwiki": "Offworld_Trading_Company",
    "steam": "271240"
@@ -335,7 +341,8 @@
  {
   "enwiki": "Mobile Suit Gundam: Extreme VS Force",
   "ids": {
-   "igdb": "mobile-suit-gundam-extreme-vs-force"
+   "igdb": "mobile-suit-gundam-extreme-vs-force",
+   "metacritic": "mobile-suit-gundam-extreme-vs-force"
   },
   "label_en": "Mobile Suit Gundam: Extreme VS Force",
   "wikidata": "Q42266765"
@@ -357,6 +364,7 @@
    "gog": "game/amid_evil",
    "howlongtobeat": "58082",
    "igdb": "amid-evil",
+   "metacritic": "amid-evil",
    "mobygames": "119713",
    "pcgamingwiki": "Amid_Evil",
    "steam": "673130"
@@ -379,6 +387,7 @@
    "gog": "game/liberated",
    "howlongtobeat": "72792",
    "igdb": "liberated",
+   "metacritic": "liberated",
    "mobygames": "145864",
    "pcgamingwiki": "Liberated",
    "steam": "875310"
@@ -406,6 +415,7 @@
    "gog": "game/dark_envoy",
    "howlongtobeat": "69572",
    "igdb": "dark-envoy",
+   "metacritic": "dark-envoy",
    "mobygames": "210775",
    "pcgamingwiki": "Dark_Envoy",
    "steam": "945770"
@@ -507,6 +517,7 @@
   "ids": {
    "howlongtobeat": "52945",
    "igdb": "the-chronicles-of-nyanya",
+   "metacritic": "the-chronicles-of-nyanya",
    "mobygames": "163527",
    "pcgamingwiki": "The_Chronicles_of_Nyanya",
    "steam": "704200"
@@ -638,6 +649,7 @@
  {
   "ids": {
    "igdb": "midnight-mahjong",
+   "metacritic": "midnight-mahjong",
    "mobygames": "199205",
    "steam": "1767310"
   },
@@ -1308,6 +1320,7 @@
   "ids": {
    "epic": "ratshaker-cbb957",
    "igdb": "ratshaker",
+   "pcgamingwiki": "Ratshaker",
    "steam": "3290710"
   },
   "label_en": "RATSHAKER™",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "27489",
    "igdb": "age-of-empires-online",
+   "metacritic": "age-of-empires-online",
    "mobygames": "53246",
    "pcgamingwiki": "Age_of_Empires_Online",
    "steam": "105430"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "5649",
    "igdb": "mario-party-9",
+   "metacritic": "mario-party-9",
    "mobygames": "55023"
   },
   "label_en": "Mario Party 9",
@@ -47,6 +49,7 @@
   "ids": {
    "howlongtobeat": "1148",
    "igdb": "blazing-angels-2-secret-missions-of-wwii",
+   "metacritic": "blazing-angels-2-secret-missions-of-wwii",
    "mobygames": "30412",
    "pcgamingwiki": "Blazing_Angels_2:_Secret_Missions_of_WWII",
    "steam": "15230"
@@ -60,6 +63,7 @@
    "gog": "game/star_wars_galactic_battlegrounds_saga",
    "howlongtobeat": "9107",
    "igdb": "star-wars-galactic-battlegrounds",
+   "metacritic": "star-wars-galactic-battlegrounds",
    "mobygames": "5332",
    "pcgamingwiki": "Star_Wars:_Galactic_Battlegrounds",
    "steam": "356500"
@@ -81,6 +85,7 @@
   "ids": {
    "howlongtobeat": "9185",
    "igdb": "state-of-emergency",
+   "metacritic": "state-of-emergency",
    "mobygames": "5971",
    "pcgamingwiki": "State_of_Emergency"
   },
@@ -91,6 +96,7 @@
   "enwiki": "Pool of Radiance: Ruins of Myth Drannor",
   "ids": {
    "igdb": "pool-of-radiance-ruins-of-myth-drannor",
+   "metacritic": "pool-of-radiance-ruins-of-myth-drannor",
    "mobygames": "5072",
    "pcgamingwiki": "Pool_of_Radiance:_Ruins_of_Myth_Drannor",
    "steam": "4834760"
@@ -227,6 +233,7 @@
   "ids": {
    "howlongtobeat": "42388",
    "igdb": "out-of-ammo",
+   "metacritic": "out-of-ammo",
    "mobygames": "102261",
    "pcgamingwiki": "Out_of_Ammo",
    "steam": "451840"
@@ -307,6 +314,7 @@
    "gog": "game/yookalaylee_and_the_impossible_lair",
    "howlongtobeat": "68031",
    "igdb": "yooka-laylee-and-the-impossible-lair",
+   "metacritic": "yooka-laylee-and-the-impossible-lair",
    "mobygames": "135613",
    "pcgamingwiki": "Yooka-Laylee_and_the_Impossible_Lair",
    "steam": "846870"
@@ -327,6 +335,7 @@
    "epic": "fallen-legion-revenants-a2c944",
    "gog": "game/fallen_legion_revenants",
    "igdb": "fallen-legion-revenants",
+   "metacritic": "fallen-legion-revenants",
    "mobygames": "159176",
    "pcgamingwiki": "Fallen_Legion:_Revenants",
    "steam": "1921340"
@@ -347,6 +356,7 @@
   "ids": {
    "howlongtobeat": "71100",
    "igdb": "various-daylife",
+   "metacritic": "various-daylife",
    "mobygames": "135482",
    "pcgamingwiki": "Various_Daylife",
    "steam": "1897050"
@@ -358,6 +368,7 @@
   "ids": {
    "howlongtobeat": "59651",
    "igdb": "deiland",
+   "metacritic": "deiland",
    "mobygames": "93466",
    "pcgamingwiki": "Deiland",
    "steam": "760620"
@@ -369,6 +380,7 @@
   "ids": {
    "howlongtobeat": "82887",
    "igdb": "hyperbolica",
+   "metacritic": "hyperbolica",
    "mobygames": "181275",
    "pcgamingwiki": "Hyperbolica",
    "steam": "1256230"
@@ -435,6 +447,7 @@
   "ids": {
    "howlongtobeat": "118779",
    "igdb": "dune-awakening",
+   "metacritic": "dune-awakening",
    "mobygames": "242996",
    "pcgamingwiki": "Dune:_Awakening",
    "steam": "1172710"
@@ -885,6 +898,7 @@
   "ids": {
    "gog": "game/woodo",
    "igdb": "woodo",
+   "metacritic": "woodo",
    "steam": "2572040"
   },
   "label_en": "Woodo",
@@ -896,6 +910,7 @@
    "epic": "resident-evil-requiem-4ead6d",
    "howlongtobeat": "169267",
    "igdb": "resident-evil-requiem",
+   "metacritic": "resident-evil-requiem",
    "mobygames": "248639",
    "pcgamingwiki": "Resident_Evil_Requiem",
    "steam": "3764200"
@@ -1001,6 +1016,7 @@
    "epic": "the-unexpected-quest-d9ce4c",
    "howlongtobeat": "85607",
    "igdb": "the-unexpected-quest",
+   "metacritic": "the-unexpected-quest",
    "mobygames": "154515",
    "steam": "1307670"
   },
@@ -1277,6 +1293,7 @@
  },
  {
   "ids": {
+   "metacritic": "rapala-pro-bass-fishing",
    "mobygames": "97635"
   },
   "label_en": "Rapala Pro Bass Fishing",
@@ -1293,6 +1310,7 @@
   "enwiki": "Highguard",
   "ids": {
    "igdb": "highguard",
+   "metacritic": "highguard",
    "mobygames": "251670",
    "pcgamingwiki": "Highguard",
    "steam": "4128260"

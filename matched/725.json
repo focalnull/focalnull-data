@@ -22,6 +22,7 @@
   "ids": {
    "howlongtobeat": "10779",
    "igdb": "ultimate-marvel-vs-capcom-3",
+   "metacritic": "ultimate-marvel-vs-capcom-3",
    "mobygames": "59320",
    "pcgamingwiki": "Ultimate_Marvel_vs._Capcom_3",
    "steam": "357190"
@@ -44,6 +45,7 @@
   "ids": {
    "howlongtobeat": "2532",
    "igdb": "dig-dug-digging-strike",
+   "metacritic": "dig-dug-digging-strike",
    "mobygames": "35795"
   },
   "label_en": "Dig Dug: Digging Strike",
@@ -99,6 +101,7 @@
   "enwiki": "Tecmo Bowl: Kickoff",
   "ids": {
    "igdb": "tecmo-bowl-kickoff",
+   "metacritic": "tecmo-bowl-kickoff",
    "mobygames": "39239"
   },
   "label_en": "Tecmo Bowl: Kickoff",
@@ -113,6 +116,7 @@
   "ids": {
    "howlongtobeat": "2023",
    "igdb": "crimson-gem-saga",
+   "metacritic": "crimson-gem-saga",
    "mobygames": "41135"
   },
   "label_en": "Crimson Gem Saga",
@@ -130,6 +134,7 @@
   "enwiki": "Kersploosh!",
   "ids": {
    "igdb": "kersploosh",
+   "metacritic": "kersploosh",
    "mobygames": "92266"
   },
   "label_en": "Kersploosh!",
@@ -149,6 +154,7 @@
   "ids": {
    "howlongtobeat": "13919",
    "igdb": "air-conflicts-vietnam",
+   "metacritic": "air-conflicts-vietnam",
    "mobygames": "82871",
    "pcgamingwiki": "Air_Conflicts:_Vietnam",
    "steam": "233210"
@@ -161,6 +167,7 @@
   "ids": {
    "howlongtobeat": "27260",
    "igdb": "notthenamewewanted",
+   "metacritic": "notgtav",
    "mobygames": "148662",
    "pcgamingwiki": "NotGTAV",
    "steam": "369580"
@@ -173,6 +180,7 @@
   "ids": {
    "howlongtobeat": "16727",
    "igdb": "shin-samurai-jazz",
+   "metacritic": "jazz-and-faust",
    "mobygames": "6719"
   },
   "label_en": "Jazz and Faust",
@@ -201,6 +209,7 @@
    "gog": "game/ken_folletts_the_pillars_of_the_earth_soundtrack",
    "howlongtobeat": "48239",
    "igdb": "ken-folletts-the-pillars-of-the-earth",
+   "metacritic": "ken-folletts-the-pillars-of-the-earth",
    "mobygames": "94521",
    "pcgamingwiki": "Ken_Follett's_The_Pillars_of_the_Earth",
    "steam": "234270"
@@ -214,6 +223,7 @@
    "epic": "tannenberg",
    "howlongtobeat": "53337",
    "igdb": "tannenberg",
+   "metacritic": "tannenberg",
    "mobygames": "98338",
    "pcgamingwiki": "Tannenberg",
    "steam": "633460"
@@ -234,6 +244,7 @@
   "ids": {
    "howlongtobeat": "76115",
    "igdb": "mysterious-realms-rpg",
+   "metacritic": "mysterious-realms-rpg",
    "mobygames": "205909",
    "pcgamingwiki": "Mysterious_Realms_RPG",
    "steam": "752800"
@@ -245,6 +256,7 @@
   "ids": {
    "howlongtobeat": "34677",
    "igdb": "energy-cycle",
+   "metacritic": "energy-cycle",
    "mobygames": "90275",
    "pcgamingwiki": "Energy_Cycle",
    "steam": "415960"
@@ -261,6 +273,7 @@
    "gog": "game/immortal_redneck",
    "howlongtobeat": "45547",
    "igdb": "immortal-redneck",
+   "metacritic": "immortal-redneck",
    "mobygames": "87498",
    "pcgamingwiki": "Immortal_Redneck",
    "steam": "595140"
@@ -282,6 +295,7 @@
    "epic": "the-shapeshifting-detective-ef0f21",
    "howlongtobeat": "62283",
    "igdb": "the-shapeshifting-detective",
+   "metacritic": "the-shapeshifting-detective",
    "mobygames": "115616",
    "pcgamingwiki": "The_Shapeshifting_Detective",
    "steam": "898650"
@@ -306,6 +320,7 @@
    "epic": "star-wars-squadrons",
    "howlongtobeat": "80090",
    "igdb": "star-wars-squadrons",
+   "metacritic": "star-wars-squadrons",
    "mobygames": "151117",
    "pcgamingwiki": "Star_Wars:_Squadrons",
    "steam": "1222730"
@@ -318,6 +333,7 @@
    "gog": "game/zombasite",
    "howlongtobeat": "32554",
    "igdb": "zombasite",
+   "metacritic": "zombasite",
    "mobygames": "99725",
    "pcgamingwiki": "Zombasite",
    "steam": "408960"
@@ -328,6 +344,7 @@
  {
   "ids": {
    "igdb": "symphonia",
+   "pcgamingwiki": "Symphonia_(2024)",
    "steam": "1865960"
   },
   "label_en": "Symphonia",
@@ -340,6 +357,7 @@
    "gog": "game/astria_ascending",
    "howlongtobeat": "94109",
    "igdb": "astria-ascending",
+   "metacritic": "astria-ascending",
    "mobygames": "173077",
    "pcgamingwiki": "Astria_Ascending",
    "steam": "1121780"
@@ -432,6 +450,9 @@
   "wikidata": "Q116728725"
  },
  {
+  "ids": {
+   "pcgamingwiki": "Disney_SpellStruck"
+  },
   "label_en": "Disney SpellStruck",
   "wikidata": "Q118234725"
  },

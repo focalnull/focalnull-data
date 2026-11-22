@@ -26,6 +26,7 @@
    "gog": "game/fantasy_wars",
    "howlongtobeat": "3370",
    "igdb": "fantasy-wars",
+   "metacritic": "fantasy-wars",
    "mobygames": "33118",
    "pcgamingwiki": "Fantasy_Wars",
    "steam": "63900"
@@ -74,6 +75,7 @@
   "ids": {
    "howlongtobeat": "14062",
    "igdb": "escape-from-bug-island",
+   "metacritic": "escape-from-bug-island",
    "mobygames": "35193"
   },
   "label_en": "Escape from Bug Island",
@@ -117,6 +119,7 @@
   "ids": {
    "howlongtobeat": "24544",
    "igdb": "the-great-fusion--1",
+   "metacritic": "the-great-fusion",
    "mobygames": "108623",
    "pcgamingwiki": "The_Great_Fusion",
    "steam": "341690"
@@ -129,6 +132,7 @@
   "ids": {
    "howlongtobeat": "8379",
    "igdb": "shank",
+   "metacritic": "shank",
    "mobygames": "49073",
    "pcgamingwiki": "Shank",
    "steam": "6120"
@@ -255,6 +259,7 @@
   "ids": {
    "howlongtobeat": "69518",
    "igdb": "omega-labyrinth-life",
+   "metacritic": "omega-labyrinth-life",
    "mobygames": "131279",
    "pcgamingwiki": "Omega_Labyrinth_Life",
    "steam": "1163600"
@@ -282,6 +287,7 @@
    "gog": "game/the_inner_world_the_last_wind_monk",
    "howlongtobeat": "50861",
    "igdb": "the-inner-world-the-last-wind-monk",
+   "metacritic": "the-inner-world-the-last-wind-monk",
    "mobygames": "97461",
    "pcgamingwiki": "The_Inner_World:_The_Last_Wind_Monk",
    "steam": "613470"
@@ -306,6 +312,7 @@
    "gog": "game/farlanders",
    "howlongtobeat": "92846",
    "igdb": "farlanders",
+   "metacritic": "the-farlanders",
    "mobygames": "197272",
    "pcgamingwiki": "Farlanders",
    "steam": "1318740"
@@ -336,6 +343,7 @@
  {
   "ids": {
    "igdb": "sokobos",
+   "metacritic": "sokobos",
    "mobygames": "187112",
    "steam": "1655890"
   },
@@ -702,7 +710,8 @@
   "enwiki": "Lego Fortnite",
   "ids": {
    "epic": "fortnite--lego",
-   "igdb": "lego-fortnite-odyssey"
+   "igdb": "lego-fortnite-odyssey",
+   "metacritic": "fortnite-lego-fortnite"
   },
   "label_en": "Lego Fortnite",
   "wikidata": "Q123698368"
@@ -819,6 +828,7 @@
   "ids": {
    "howlongtobeat": "90019",
    "igdb": "bigleys-revenge",
+   "metacritic": "bigleys-revenge",
    "mobygames": "77085"
   },
   "label_en": "Bigley's Revenge",

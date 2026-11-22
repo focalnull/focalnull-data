@@ -32,6 +32,7 @@
   "ids": {
    "howlongtobeat": "8749",
    "igdb": "sonic-adventure-2",
+   "metacritic": "sonic-adventure-2",
    "mobygames": "4455",
    "pcgamingwiki": "Sonic_Adventure_2",
    "steam": "213610"
@@ -53,6 +54,7 @@
   "ids": {
    "howlongtobeat": "4450",
    "igdb": "hey-you-pikachu",
+   "metacritic": "hey-you-pikachu",
    "mobygames": "24638"
   },
   "label_en": "Hey You, Pikachu!",
@@ -87,6 +89,7 @@
   "enwiki": "Star Soldier R",
   "ids": {
    "igdb": "star-soldier-r",
+   "metacritic": "star-soldier-r",
    "mobygames": "35357"
   },
   "label_en": "Star Soldier R",
@@ -146,6 +149,7 @@
   "ids": {
    "igdb": "quantum-gate",
    "mobygames": "3956",
+   "pcgamingwiki": "Quantum_Gate",
    "steam": "941130"
   },
   "label_en": "Quantum Gate",
@@ -164,6 +168,7 @@
   "ids": {
    "howlongtobeat": "8324",
    "igdb": "sesame-street-once-upon-a-monster",
+   "metacritic": "sesame-street-once-upon-a-monster",
    "mobygames": "71124"
   },
   "label_en": "Sesame Street: Once Upon a Monster",
@@ -190,6 +195,7 @@
   "ids": {
    "howlongtobeat": "19400",
    "igdb": "zen-of-sudoku",
+   "metacritic": "zen-of-sudoku",
    "mobygames": "106543",
    "pcgamingwiki": "Zen_of_Sudoku",
    "steam": "4900"
@@ -201,6 +207,7 @@
   "enwiki": "The Watchmaker (video game)",
   "ids": {
    "igdb": "the-watchmaker--1",
+   "metacritic": "the-watchmaker-2001",
    "mobygames": "5049",
    "pcgamingwiki": "The_Watchmaker"
   },
@@ -329,7 +336,8 @@
  {
   "enwiki": "Taiko no Tatsujin: Drum 'n' Fun!",
   "ids": {
-   "igdb": "taiko-no-tatsujin-drum-n-fun"
+   "igdb": "taiko-no-tatsujin-drum-n-fun",
+   "metacritic": "taiko-no-tatsujin-drum-n-fun"
   },
   "label_en": "Taiko no Tatsujin: Drum 'n' Fun!",
   "wikidata": "Q56036984"
@@ -357,6 +365,7 @@
   "ids": {
    "howlongtobeat": "68733",
    "igdb": "neoverse",
+   "metacritic": "neoverse",
    "mobygames": "142728",
    "pcgamingwiki": "Neoverse",
    "steam": "994220"
@@ -370,6 +379,7 @@
    "gog": "game/inbento",
    "howlongtobeat": "71961",
    "igdb": "inbento",
+   "metacritic": "inbento",
    "mobygames": "134495",
    "pcgamingwiki": "Inbento",
    "steam": "1567440"
@@ -462,6 +472,7 @@
   "ids": {
    "howlongtobeat": "143315",
    "igdb": "autopsy-simulator",
+   "metacritic": "autopsy-simulator",
    "mobygames": "225327",
    "steam": "1283230"
   },
@@ -553,6 +564,7 @@
   "ids": {
    "howlongtobeat": "117101",
    "igdb": "what-the-bat",
+   "metacritic": "what-the-bat",
    "mobygames": "199917",
    "steam": "2012100"
   },
@@ -736,6 +748,7 @@
   "ids": {
    "howlongtobeat": "132078",
    "igdb": "dreamworks-all-star-kart-racing",
+   "metacritic": "dreamworks-all-star-kart-racing",
    "mobygames": "211399",
    "pcgamingwiki": "DreamWorks_All-Star_Kart_Racing",
    "steam": "2224740"

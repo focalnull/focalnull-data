@@ -15,6 +15,7 @@
    "gog": "game/broken_sword_2__the_smoking_mirror",
    "howlongtobeat": "1333",
    "igdb": "broken-sword-the-smoking-mirror",
+   "metacritic": "broken-sword-the-smoking-mirror",
    "mobygames": "1133",
    "pcgamingwiki": "Broken_Sword_II:_The_Smoking_Mirror"
   },
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "2152",
    "igdb": "damnation",
+   "metacritic": "damnation",
    "mobygames": "40856",
    "pcgamingwiki": "Damnation",
    "steam": "12790"
@@ -47,6 +49,7 @@
   "ids": {
    "howlongtobeat": "7278",
    "igdb": "prey",
+   "metacritic": "prey",
    "mobygames": "23082",
    "pcgamingwiki": "Prey",
    "steam": "3970"
@@ -59,6 +62,7 @@
   "ids": {
    "howlongtobeat": "1573",
    "igdb": "castlevania-iii-dracula-s-curse",
+   "metacritic": "castlevania-iii-draculas-curse",
    "mobygames": "7415"
   },
   "label_en": "Castlevania III: Dracula's Curse",
@@ -95,6 +99,7 @@
   "enwiki": "Electroplankton",
   "ids": {
    "igdb": "electroplankton",
+   "metacritic": "electroplankton",
    "mobygames": "20757"
   },
   "label_en": "Electroplankton",
@@ -141,6 +146,7 @@
   "ids": {
    "howlongtobeat": "140",
    "igdb": "a-valley-without-wind",
+   "metacritic": "a-valley-without-wind",
    "mobygames": "68243",
    "pcgamingwiki": "A_Valley_Without_Wind",
    "steam": "209330"
@@ -169,6 +175,7 @@
   "enwiki": "Gretzky NHL 06",
   "ids": {
    "igdb": "gretzky-nhl-06",
+   "metacritic": "gretzky-nhl-06",
    "mobygames": "35704"
   },
   "label_en": "Gretzky NHL 06",
@@ -186,6 +193,7 @@
   "enwiki": "Kawasaki Quad Bikes",
   "ids": {
    "igdb": "kawasaki-quad-bikes",
+   "metacritic": "kawasaki-quad-bikes",
    "mobygames": "30292"
   },
   "label_en": "Kawasaki Quad Bikes",
@@ -291,6 +299,7 @@
    "gog": "game/world_to_the_west",
    "howlongtobeat": "45306",
    "igdb": "world-to-the-west",
+   "metacritic": "world-to-the-west",
    "mobygames": "88065",
    "pcgamingwiki": "World_to_the_West",
    "steam": "530020"
@@ -302,6 +311,7 @@
   "ids": {
    "howlongtobeat": "42271",
    "igdb": "heartomics-lost-count--1",
+   "metacritic": "heartomics-lost-count",
    "mobygames": "131652",
    "pcgamingwiki": "Heartomics:_Lost_Count",
    "steam": "502300"
@@ -325,6 +335,7 @@
   "enwiki": "Mekorama",
   "ids": {
    "igdb": "mekorama",
+   "metacritic": "mekorama",
    "mobygames": "79190"
   },
   "label_en": "Mekorama",
@@ -362,6 +373,7 @@
   "ids": {
    "howlongtobeat": "70304",
    "igdb": "dolmen--1",
+   "metacritic": "dolmen",
    "mobygames": "184625",
    "pcgamingwiki": "Dolmen",
    "steam": "831050"
@@ -384,6 +396,7 @@
   "ids": {
    "howlongtobeat": "80629",
    "igdb": "skully",
+   "metacritic": "skully",
    "mobygames": "148765",
    "pcgamingwiki": "Skully",
    "steam": "1249110"
@@ -411,6 +424,7 @@
   "ids": {
    "howlongtobeat": "30832",
    "igdb": "9-clues-2-the-ward",
+   "metacritic": "9-clues-2-the-ward",
    "mobygames": "83608",
    "pcgamingwiki": "9_Clues_2:_The_Ward",
    "steam": "369420"
@@ -564,6 +578,7 @@
   "ids": {
    "howlongtobeat": "75350",
    "igdb": "the-curious-tale-of-the-stolen-pets",
+   "metacritic": "the-curious-tale-of-the-stolen-pets",
    "mobygames": "137367",
    "pcgamingwiki": "The_Curious_Tale_of_the_Stolen_Pets",
    "steam": "1099500"
@@ -851,6 +866,7 @@
   "ids": {
    "howlongtobeat": "159524",
    "igdb": "stardust-demon",
+   "metacritic": "stardust-demon",
    "mobygames": "235214",
    "steam": "2815500"
   },
@@ -860,14 +876,16 @@
  {
   "ids": {
    "howlongtobeat": "33539",
-   "igdb": "dementium-remastered"
+   "igdb": "dementium-remastered",
+   "metacritic": "dementium-remastered"
   },
   "label_en": "Dementium Remastered",
   "wikidata": "Q125776818"
  },
  {
   "ids": {
-   "igdb": "bunnybuns"
+   "igdb": "bunnybuns",
+   "metacritic": "bunnybuns"
   },
   "label_en": "BunnyBuns",
   "wikidata": "Q126617818"
@@ -1266,6 +1284,7 @@
   "ids": {
    "gog": "game/parasite_mutant",
    "igdb": "parasite-mutant",
+   "pcgamingwiki": "Parasite_Mutant",
    "steam": "3983000"
   },
   "label_en": "Parasite Mutant",
@@ -1287,6 +1306,7 @@
  {
   "ids": {
    "igdb": "darkhaven--1",
+   "pcgamingwiki": "Darkhaven",
    "steam": "3571870"
   },
   "label_en": "Darkhaven",

@@ -3,7 +3,8 @@
   "enwiki": "Naruto: Ultimate Ninja 2",
   "ids": {
    "howlongtobeat": "6407",
-   "igdb": "naruto-ultimate-ninja-2"
+   "igdb": "naruto-ultimate-ninja-2",
+   "metacritic": "naruto-ultimate-ninja-2"
   },
   "label_en": "Naruto: Ultimate Ninja 2",
   "wikidata": "Q1150209"
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "9385",
    "igdb": "super-mario-strikers",
+   "metacritic": "super-mario-strikers",
    "mobygames": "20629"
   },
   "label_en": "Super Mario Strikers",
@@ -78,7 +80,8 @@
  {
   "enwiki": "Rengoku II: The Stairway to H.E.A.V.E.N.",
   "ids": {
-   "igdb": "rengoku-ii-the-stairway-to-heaven"
+   "igdb": "rengoku-ii-the-stairway-to-heaven",
+   "metacritic": "rengoku-ii-the-stairway-to-h-e-a-v-e-n"
   },
   "label_en": "Rengoku II: The Stairway to Heaven",
   "wikidata": "Q7313209"
@@ -145,6 +148,7 @@
   "ids": {
    "howlongtobeat": "40650",
    "igdb": "yomawari-night-alone",
+   "metacritic": "yomawari-night-alone",
    "mobygames": "82679",
    "pcgamingwiki": "Yomawari:_Night_Alone",
    "steam": "477870"
@@ -171,6 +175,7 @@
    "gog": "game/remothered_tormented_fathers",
    "howlongtobeat": "50407",
    "igdb": "remothered-tormented-fathers",
+   "metacritic": "remothered-tormented-fathers",
    "mobygames": "98954",
    "pcgamingwiki": "Remothered:_Tormented_Fathers",
    "steam": "633360"
@@ -207,6 +212,7 @@
    "epic": "lords-of-the-fallen-2-46fdd6",
    "howlongtobeat": "112684",
    "igdb": "lords-of-the-fallen--2",
+   "metacritic": "lords-of-the-fallen",
    "mobygames": "210185",
    "pcgamingwiki": "Lords_of_the_Fallen_(2023)",
    "steam": "1501750"
@@ -280,6 +286,7 @@
   "enwiki": "Metal Torrent",
   "ids": {
    "igdb": "metal-torrent",
+   "metacritic": "metal-torrent",
    "mobygames": "89146"
   },
   "label_en": "Metal Torrent",
@@ -329,6 +336,7 @@
   "enwiki": "Mushihimesama Bug Panic",
   "ids": {
    "igdb": "mushihimesama-bug-panic",
+   "metacritic": "mushihimesama-bug-panic",
    "mobygames": "117414"
   },
   "label_en": "Mushihimesama Bug Panic",
@@ -678,6 +686,7 @@
   "enwiki": "NHL 25",
   "ids": {
    "igdb": "nhl-25",
+   "metacritic": "nhl-25",
    "mobygames": "232181"
   },
   "label_en": "NHL 25",
@@ -1060,6 +1069,7 @@
  {
   "ids": {
    "igdb": "overkill--1",
+   "pcgamingwiki": "OverKill",
    "steam": "740950"
   },
   "label_en": "OverKill",

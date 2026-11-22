@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "2520",
    "igdb": "diddy-kong-racing",
+   "metacritic": "diddy-kong-racing",
    "mobygames": "3582"
   },
   "label_en": "Diddy Kong Racing",
@@ -67,6 +68,7 @@
   "ids": {
    "howlongtobeat": "8389",
    "igdb": "shattered-horizon",
+   "metacritic": "shattered-horizon",
    "mobygames": "43519",
    "pcgamingwiki": "Shattered_Horizon",
    "steam": "18110"
@@ -87,6 +89,7 @@
   "enwiki": "Neo Turf Masters",
   "ids": {
    "igdb": "neo-turf-masters",
+   "metacritic": "aca-neogeo-big-tournament-golf",
    "mobygames": "27310",
    "pcgamingwiki": "Neo_Turf_Masters"
   },
@@ -179,6 +182,7 @@
   "ids": {
    "howlongtobeat": "28868",
    "igdb": "military-madness-nectaris",
+   "metacritic": "military-madness-nectaris",
    "mobygames": "64920"
   },
   "label_en": "Military Madness: Nectaris",
@@ -188,6 +192,7 @@
   "ids": {
    "howlongtobeat": "68839",
    "igdb": "monobeno",
+   "metacritic": "monobeno",
    "mobygames": "101575",
    "pcgamingwiki": "Monobeno",
    "steam": "758090"
@@ -213,6 +218,7 @@
    "gog": "game/hatred",
    "howlongtobeat": "22541",
    "igdb": "hatred",
+   "metacritic": "hatred",
    "mobygames": "73251",
    "pcgamingwiki": "Hatred",
    "steam": "341940"
@@ -238,6 +244,7 @@
    "gog": "game/kaptain_brawe_a_brawe_new_world",
    "howlongtobeat": "4930",
    "igdb": "kaptain-brawe-a-brawe-new-world",
+   "metacritic": "kaptain-brawe-a-brave-new-world",
    "mobygames": "49269",
    "pcgamingwiki": "Kaptain_Brawe:_A_Brawe_New_World",
    "steam": "65080"
@@ -250,6 +257,7 @@
   "ids": {
    "howlongtobeat": "8962",
    "igdb": "spirits",
+   "metacritic": "spirits",
    "mobygames": "67099",
    "pcgamingwiki": "Spirits",
    "steam": "210170"
@@ -262,6 +270,7 @@
   "ids": {
    "howlongtobeat": "37211",
    "igdb": "uncharted-fortune-hunter",
+   "metacritic": "uncharted-fortune-hunter",
    "mobygames": "93764"
   },
   "label_en": "Uncharted: Fortune Hunter",
@@ -282,6 +291,7 @@
   "ids": {
    "howlongtobeat": "42635",
    "igdb": "scrap-garden",
+   "metacritic": "scrap-garden",
    "mobygames": "99917",
    "pcgamingwiki": "Scrap_Garden",
    "steam": "465760"
@@ -369,7 +379,9 @@
   "ids": {
    "howlongtobeat": "145876",
    "igdb": "level-zero-extraction",
+   "metacritic": "level-zero-extraction",
    "mobygames": "229578",
+   "pcgamingwiki": "Level_Zero:_Extraction",
    "steam": "1456940"
   },
   "label_en": "Level Zero: Extraction",
@@ -475,6 +487,7 @@
    "epic": "we-love-katamari-reroll-and-royal-reverie",
    "howlongtobeat": "124026",
    "igdb": "we-love-katamari-reroll-plus-royal-reverie",
+   "metacritic": "we-love-katamari-reroll-plus-royal-reverie",
    "mobygames": "203977",
    "pcgamingwiki": "We_Love_Katamari_Reroll+_Royal_Reverie",
    "steam": "1730700"
@@ -517,6 +530,7 @@
    "gog": "game/south_scrimshaw_part_one",
    "howlongtobeat": "131141",
    "igdb": "south-scrimshaw-part-one",
+   "metacritic": "south-scrimshaw-part-one",
    "mobygames": "208307",
    "steam": "2443110"
   },
@@ -569,6 +583,7 @@
  {
   "ids": {
    "igdb": "humanity-lost",
+   "metacritic": "humanity",
    "pcgamingwiki": "Humanity_Lost",
    "steam": "1165910"
   },
@@ -822,6 +837,7 @@
   "ids": {
    "howlongtobeat": "47339",
    "igdb": "vaccine",
+   "metacritic": "vaccine-2017",
    "mobygames": "84576",
    "pcgamingwiki": "Vaccine",
    "steam": "549950"
@@ -839,6 +855,7 @@
  {
   "ids": {
    "igdb": "absolutely-unstoppable-minerun",
+   "metacritic": "absolutely-unstoppable-minerun",
    "mobygames": "94226"
   },
   "label_en": "Absolutely Unstoppable MineRun",
@@ -851,6 +868,7 @@
    "gog": "game/clair_obscur_expedition_33",
    "howlongtobeat": "152016",
    "igdb": "clair-obscur-expedition-33",
+   "metacritic": "clair-obscur-expedition-33",
    "mobygames": "241065",
    "pcgamingwiki": "Clair_Obscur:_Expedition_33",
    "steam": "1903340"
@@ -899,6 +917,7 @@
  {
   "ids": {
    "igdb": "relayer-advanced",
+   "metacritic": "relayer-advanced",
    "pcgamingwiki": "Relayer_Advanced",
    "steam": "1856750"
   },

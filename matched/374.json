@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8501",
    "igdb": "sid-meier-s-civilization-iii",
+   "metacritic": "sid-meiers-civilization-iii",
    "mobygames": "5289",
    "pcgamingwiki": "Sid_Meier's_Civilization_III",
    "steam": "3910"
@@ -18,6 +19,7 @@
    "gog": "game/botanicula",
    "howlongtobeat": "1285",
    "igdb": "botanicula",
+   "metacritic": "botanicula",
    "mobygames": "55665",
    "pcgamingwiki": "Botanicula",
    "steam": "207690"
@@ -39,6 +41,7 @@
   "ids": {
    "gog": "game/empire_earth_3",
    "igdb": "empire-earth-iii",
+   "metacritic": "empire-earth-iii",
    "mobygames": "31120",
    "pcgamingwiki": "Empire_Earth_III",
    "steam": "254800"
@@ -50,6 +53,7 @@
   "enwiki": "WWF SmackDown! 2: Know Your Role",
   "ids": {
    "igdb": "wwf-smackdown-2-know-your-role",
+   "metacritic": "wwf-smackdown-2-know-your-role",
    "mobygames": "3904"
   },
   "label_en": "WWF SmackDown! 2: Know Your Role",
@@ -68,6 +72,7 @@
   "ids": {
    "howlongtobeat": "8412",
    "igdb": "sherlock-holmes-the-mystery-of-the-persian-carpet",
+   "metacritic": "sherlock-holmes-the-mystery-of-the-persian-carpet",
    "mobygames": "34106",
    "pcgamingwiki": "Sherlock_Holmes:_The_Mystery_of_the_Persian_Carpet",
    "steam": "11180"
@@ -87,6 +92,7 @@
   "enwiki": "Three Kingdoms: Fate of the Dragon",
   "ids": {
    "igdb": "three-kingdoms-fate-of-the-dragon",
+   "metacritic": "fate-of-the-dragon",
    "mobygames": "3872",
    "pcgamingwiki": "Fate_of_the_Dragon"
   },
@@ -107,6 +113,7 @@
   "ids": {
    "howlongtobeat": "8346",
    "igdb": "shadow-of-rome",
+   "metacritic": "shadow-of-rome",
    "mobygames": "16544"
   },
   "label_en": "Shadow of Rome",
@@ -146,6 +153,7 @@
  {
   "ids": {
    "igdb": "naughty-bear-panic-in-paradise",
+   "metacritic": "naughty-bear-panic-in-paradise",
    "mobygames": "123104"
   },
   "label_en": "Naughty Bear: Panic in Paradise",
@@ -160,6 +168,7 @@
   "ids": {
    "howlongtobeat": "1770",
    "igdb": "coaster-works",
+   "metacritic": "coaster-works",
    "mobygames": "45632"
   },
   "label_en": "Coaster Works",
@@ -232,6 +241,7 @@
   "enwiki": "XOR (video game)",
   "ids": {
    "igdb": "xor",
+   "metacritic": "xor",
    "mobygames": "24393"
   },
   "label_en": "XOR",
@@ -279,6 +289,7 @@
    "gog": "game/shovel_knight",
    "howlongtobeat": "19512",
    "igdb": "shovel-knight",
+   "metacritic": "shovel-knight",
    "mobygames": "67038",
    "pcgamingwiki": "Shovel_Knight",
    "steam": "589500"
@@ -367,6 +378,7 @@
    "gog": "game/paradise_lost",
    "howlongtobeat": "82657",
    "igdb": "paradise-lost--2",
+   "metacritic": "paradise-lost",
    "mobygames": "161158",
    "pcgamingwiki": "Paradise_Lost",
    "steam": "982720"
@@ -377,6 +389,7 @@
  {
   "ids": {
    "igdb": "nurikabe-by-nikoli",
+   "metacritic": "nurikabe-by-nikoli",
    "mobygames": "96496"
   },
   "label_en": "Nurikabe by Nikoli",
@@ -386,6 +399,7 @@
   "enwiki": "Poison Control",
   "ids": {
    "igdb": "poison-control",
+   "metacritic": "poison-control",
    "mobygames": "162344"
   },
   "label_en": "Poison Control",
@@ -397,6 +411,7 @@
    "epic": "fire-44c606",
    "howlongtobeat": "46334",
    "igdb": "fire-unghs-quest",
+   "metacritic": "fire-unghs-quest",
    "mobygames": "72071",
    "pcgamingwiki": "Fire",
    "steam": "325520"
@@ -408,6 +423,7 @@
   "ids": {
    "howlongtobeat": "22772",
    "igdb": "the-blue-flamingo",
+   "metacritic": "the-blue-flamingo",
    "mobygames": "70598",
    "pcgamingwiki": "The_Blue_Flamingo",
    "steam": "302010"
@@ -445,6 +461,7 @@
   "ids": {
    "howlongtobeat": "108501",
    "igdb": "marvel-snap",
+   "metacritic": "marvel-snap",
    "mobygames": "193775",
    "pcgamingwiki": "Marvel_Snap",
    "steam": "1997040"
@@ -477,6 +494,7 @@
   "ids": {
    "howlongtobeat": "56395",
    "igdb": "soulblight",
+   "metacritic": "soulblight",
    "mobygames": "105402",
    "pcgamingwiki": "Soulblight",
    "steam": "530930"
@@ -554,6 +572,7 @@
  {
   "ids": {
    "igdb": "daydream-mosaics",
+   "pcgamingwiki": "DayDream_Mosaics",
    "steam": "1793210"
   },
   "label_en": "DayDream Mosaics",
@@ -755,6 +774,7 @@
   "ids": {
    "howlongtobeat": "12384",
    "igdb": "crazy-machines-1-dot-5",
+   "metacritic": "crazy-machines-the-wacky-contraptions-game",
    "pcgamingwiki": "Crazy_Machines_1.5",
    "steam": "18430"
   },
@@ -786,6 +806,7 @@
   "ids": {
    "howlongtobeat": "8338",
    "igdb": "shadow-harvest-phantom-ops",
+   "metacritic": "shadow-harvest-phantom-ops",
    "mobygames": "52014",
    "pcgamingwiki": "Shadow_Harvest:_Phantom_Ops",
    "steam": "92700"
@@ -825,6 +846,7 @@
   "ids": {
    "howlongtobeat": "24233",
    "igdb": "lisa-the-painful",
+   "metacritic": "lisa",
    "mobygames": "76705",
    "steam": "335670"
   },

@@ -19,6 +19,7 @@
   "enwiki": "Star Fox Adventures",
   "ids": {
    "igdb": "star-fox-adventures",
+   "metacritic": "star-fox-adventures",
    "mobygames": "7290"
   },
   "label_en": "Star Fox Adventures",
@@ -37,6 +38,7 @@
   "ids": {
    "howlongtobeat": "2796",
    "igdb": "dragon-ball-z-supersonic-warriors-2",
+   "metacritic": "dragon-ball-z-supersonic-warriors-2",
    "mobygames": "39395"
   },
   "label_en": "Dragon Ball Z: Supersonic Warriors 2",
@@ -54,6 +56,7 @@
   "enwiki": "Sega GT",
   "ids": {
    "igdb": "sega-gt",
+   "metacritic": "sega-gt",
    "mobygames": "5872",
    "pcgamingwiki": "Sega_GT"
   },
@@ -69,6 +72,7 @@
    "gog": "game/alien_shooter_expansions",
    "howlongtobeat": "360",
    "igdb": "alien-shooter",
+   "metacritic": "alien-shooter",
    "mobygames": "24685",
    "pcgamingwiki": "Alien_Shooter",
    "steam": "33100"
@@ -92,6 +96,7 @@
   "ids": {
    "howlongtobeat": "970",
    "igdb": "beach-head-2000",
+   "metacritic": "beachhead-2000",
    "mobygames": "3056",
    "pcgamingwiki": "Beach_Head_2000",
    "steam": "509610"
@@ -112,6 +117,7 @@
   "enwiki": "Furry Legends",
   "ids": {
    "igdb": "furry-legends",
+   "metacritic": "furry-legends",
    "mobygames": "91073"
   },
   "label_en": "Furry Legends",
@@ -139,6 +145,7 @@
    "gog": "game/alien_isolation",
    "howlongtobeat": "16638",
    "igdb": "alien-isolation",
+   "metacritic": "alien-isolation",
    "mobygames": "68903",
    "pcgamingwiki": "Alien:_Isolation",
    "steam": "214490"
@@ -151,6 +158,7 @@
   "ids": {
    "howlongtobeat": "21925",
    "igdb": "hyperdevotion-noire-goddess-black-heart",
+   "metacritic": "hyperdevotion-noire-goddess-black-heart",
    "mobygames": "83255",
    "pcgamingwiki": "Hyperdevotion_Noire:_Goddess_Black_Heart",
    "steam": "415480"
@@ -181,6 +189,7 @@
    "gog": "game/a_fistful_of_gun",
    "howlongtobeat": "29194",
    "igdb": "a-fistful-of-gun",
+   "metacritic": "a-fistful-of-gun",
    "mobygames": "76493",
    "pcgamingwiki": "A_Fistful_of_Gun",
    "steam": "229810"
@@ -233,7 +242,8 @@
  {
   "ids": {
    "howlongtobeat": "78840",
-   "igdb": "hasbro-family-fun-pack"
+   "igdb": "hasbro-family-fun-pack",
+   "metacritic": "hasbro-family-fun-pack"
   },
   "label_en": "Hasbro Family Fun Pack",
   "wikidata": "Q90408717"
@@ -245,6 +255,7 @@
    "gog": "game/kena_bridge_of_spirits",
    "howlongtobeat": "79793",
    "igdb": "kena-bridge-of-spirits",
+   "metacritic": "kena-bridge-of-spirits",
    "mobygames": "172598",
    "pcgamingwiki": "Kena:_Bridge_of_Spirits",
    "steam": "1954200"
@@ -259,6 +270,7 @@
  {
   "ids": {
    "igdb": "revenge-of-the-wounded-dragons",
+   "metacritic": "revenge-of-the-wounded-dragons",
    "mobygames": "167656"
   },
   "label_en": "Revenge of the Wounded Dragons",
@@ -288,6 +300,7 @@
    "howlongtobeat": "136432",
    "igdb": "neko-mimi-sweet-housemates-vol-1",
    "mobygames": "185007",
+   "pcgamingwiki": "Neko-Mimi_Sweet_Housemates_Vol._1",
    "steam": "1789650"
   },
   "label_en": "NEKO-MIMI SWEET HOUSEMATES Vol. 1",
@@ -567,6 +580,7 @@
   "ids": {
    "howlongtobeat": "80458",
    "igdb": "summer-memories",
+   "metacritic": "summer-memories",
    "mobygames": "146846",
    "pcgamingwiki": "Summer_Memories",
    "steam": "1227890"
@@ -784,6 +798,7 @@
   "ids": {
    "howlongtobeat": "152370",
    "igdb": "the-legend-of-zelda-echoes-of-wisdom",
+   "metacritic": "the-legend-of-zelda-echoes-of-wisdom",
    "mobygames": "231129"
   },
   "label_en": "The Legend of Zelda: Echoes of Wisdom",
@@ -797,6 +812,7 @@
   "ids": {
    "howlongtobeat": "73232",
    "igdb": "touhou-shoujo-tale-of-beautiful-memories",
+   "metacritic": "touhou-shoujo-tale-of-beautiful-memories",
    "mobygames": "133692",
    "pcgamingwiki": "Touhou_Shoujo:_Tale_of_Beautiful_Memories",
    "steam": "1124060"
@@ -1175,6 +1191,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Perfect_Date_-_HD_-",
    "steam": "3979040"
   },
   "label_en": "Perfect Date HD",

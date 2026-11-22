@@ -5,6 +5,7 @@
    "gog": "game/arcania",
    "howlongtobeat": "556",
    "igdb": "arcania-gothic-4",
+   "metacritic": "arcania-gothic-4",
    "mobygames": "48428",
    "pcgamingwiki": "Arcania:_Gothic_4",
    "steam": "39690"
@@ -18,6 +19,7 @@
    "gog": "game/day_of_the_tentacle_remastered",
    "howlongtobeat": "2285",
    "igdb": "day-of-the-tentacle",
+   "metacritic": "day-of-the-tentacle-remastered",
    "mobygames": "719",
    "pcgamingwiki": "Day_of_the_Tentacle",
    "steam": "388210"
@@ -43,6 +45,7 @@
    "gog": "game/second_sight",
    "howlongtobeat": "8206",
    "igdb": "second-sight",
+   "metacritic": "second-sight",
    "mobygames": "15025",
    "pcgamingwiki": "Second_Sight",
    "steam": "11550"
@@ -56,6 +59,7 @@
    "gog": "game/singularity",
    "howlongtobeat": "8585",
    "igdb": "singularity",
+   "metacritic": "singularity",
    "mobygames": "47109",
    "pcgamingwiki": "Singularity",
    "steam": "42670"
@@ -75,6 +79,7 @@
   "enwiki": "NiBiRu: Age of Secrets",
   "ids": {
    "igdb": "nibiru-age-of-secrets",
+   "metacritic": "nibiru-age-of-secrets",
    "mobygames": "17158",
    "pcgamingwiki": "NiBiRu_Age_of_Secrets"
   },
@@ -86,6 +91,7 @@
   "ids": {
    "howlongtobeat": "7150",
    "igdb": "pokemon-emerald-version",
+   "metacritic": "pokemon-emerald-version",
    "mobygames": "17653"
   },
   "label_en": "Pokémon Emerald",
@@ -96,6 +102,7 @@
   "ids": {
    "howlongtobeat": "10431",
    "igdb": "tom-clancy-s-ghost-recon-advanced-warfighter-2",
+   "metacritic": "tom-clancys-ghost-recon-advanced-warfighter-2",
    "mobygames": "29097",
    "pcgamingwiki": "Tom_Clancy's_Ghost_Recon_Advanced_Warfighter_2",
    "steam": "13510"
@@ -107,6 +114,7 @@
   "enwiki": "Rise and Fall: Civilizations at War",
   "ids": {
    "igdb": "rise-and-fall-civilizations-at-war",
+   "metacritic": "rise-and-fall-civilizations-at-war",
    "mobygames": "25366",
    "pcgamingwiki": "Rise_and_Fall:_Civilizations_at_War"
   },
@@ -120,6 +128,7 @@
    "gog": "game/nikopol_secrets_of_the_immortals",
    "howlongtobeat": "6609",
    "igdb": "nikopol-secrets-of-the-immortals",
+   "metacritic": "nikopol-secrets-of-the-immortals",
    "mobygames": "36518",
    "pcgamingwiki": "Nikopol:_Secrets_of_the_Immortals",
    "steam": "11370"
@@ -141,6 +150,7 @@
   "enwiki": "LittleBigPlanet Karting",
   "ids": {
    "igdb": "littlebigplanet-karting",
+   "metacritic": "littlebigplanet-karting",
    "mobygames": "70912"
   },
   "label_en": "LittleBigPlanet Karting",
@@ -172,6 +182,7 @@
  {
   "enwiki": "The Haunted Mansion (video game)",
   "ids": {
+   "metacritic": "disneys-the-haunted-mansion",
    "mobygames": "13562"
   },
   "label_en": "The Haunted Mansion",
@@ -197,6 +208,7 @@
   "enwiki": "Bomberman Jetters (video game)",
   "ids": {
    "igdb": "bomberman-jetters",
+   "metacritic": "bomberman-jetters",
    "mobygames": "18213"
   },
   "label_en": "Bomberman Jetters",
@@ -246,6 +258,7 @@
   "ids": {
    "howlongtobeat": "16420",
    "igdb": "rekoil",
+   "metacritic": "rekoil",
    "mobygames": "147347",
    "pcgamingwiki": "Rekoil",
    "steam": "243320"
@@ -302,6 +315,7 @@
   "ids": {
    "howlongtobeat": "7363",
    "igdb": "proteus",
+   "metacritic": "proteus",
    "mobygames": "59643",
    "pcgamingwiki": "Proteus",
    "steam": "219680"
@@ -314,6 +328,7 @@
   "ids": {
    "howlongtobeat": "119292",
    "igdb": "trash-panic",
+   "metacritic": "trash-panic",
    "mobygames": "48151"
   },
   "label_en": "Trash Panic",
@@ -336,6 +351,7 @@
    "gog": "game/140_game",
    "howlongtobeat": "14421",
    "igdb": "140",
+   "metacritic": "140",
    "mobygames": "66660",
    "pcgamingwiki": "140",
    "steam": "242820"
@@ -405,6 +421,7 @@
   "ids": {
    "howlongtobeat": "51664",
    "igdb": "rumu",
+   "metacritic": "rumu",
    "mobygames": "99711",
    "pcgamingwiki": "Rumu",
    "steam": "723270"
@@ -416,6 +433,7 @@
   "enwiki": "Jack Nicklaus 5",
   "ids": {
    "igdb": "jack-nicklaus-5",
+   "metacritic": "jack-nicklaus-5",
    "mobygames": "4229"
   },
   "label_en": "Jack Nicklaus 5",
@@ -1300,6 +1318,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Gem_Collector",
    "steam": "1137820"
   },
   "label_en": "Gem Collector",
@@ -1315,6 +1334,7 @@
  },
  {
   "ids": {
+   "metacritic": "tappingo-2",
    "mobygames": "100081"
   },
   "label_en": "Tappingo 2",

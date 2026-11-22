@@ -59,6 +59,7 @@
   "ids": {
    "howlongtobeat": "5955",
    "igdb": "metroid-prime-3-corruption",
+   "metacritic": "metroid-prime-3-corruption",
    "mobygames": "29958"
   },
   "label_en": "Metroid Prime 3: Corruption",
@@ -128,6 +129,7 @@
   "ids": {
    "howlongtobeat": "1352",
    "igdb": "bubble-bobble-evolution",
+   "metacritic": "bubble-bobble-evolution",
    "mobygames": "25929"
   },
   "label_en": "Bubble Bobble Evolution",
@@ -160,6 +162,7 @@
   "enwiki": "RC Revenge",
   "ids": {
    "igdb": "rc-revenge",
+   "metacritic": "rc-revenge",
    "mobygames": "13983"
   },
   "label_en": "RC Revenge",
@@ -188,6 +191,7 @@
    "gog": "game/the_manhole_masterpiece_edition",
    "howlongtobeat": "10086",
    "igdb": "the-manhole",
+   "metacritic": "the-manhole",
    "mobygames": "416",
    "pcgamingwiki": "The_Manhole",
    "steam": "63630"
@@ -209,6 +213,7 @@
   "ids": {
    "howlongtobeat": "14944",
    "igdb": "super-motherload",
+   "metacritic": "super-motherload",
    "mobygames": "86728",
    "pcgamingwiki": "Super_Motherload",
    "steam": "269110"
@@ -226,6 +231,7 @@
    "epic": "unravel-ce69bb",
    "howlongtobeat": "26763",
    "igdb": "unravel",
+   "metacritic": "unravel",
    "mobygames": "77846",
    "pcgamingwiki": "Unravel",
    "steam": "1225560"
@@ -248,6 +254,7 @@
    "gog": "game/omnibus",
    "howlongtobeat": "37351",
    "igdb": "omnibus",
+   "metacritic": "omnibus",
    "mobygames": "106272",
    "pcgamingwiki": "OmniBus",
    "steam": "415740"
@@ -260,6 +267,7 @@
   "ids": {
    "howlongtobeat": "45634",
    "igdb": "nascar-heat-evolution",
+   "metacritic": "nascar-heat-evolution",
    "mobygames": "87383",
    "pcgamingwiki": "NASCAR_Heat_Evolution",
    "steam": "508450"
@@ -281,6 +289,7 @@
   "ids": {
    "howlongtobeat": "66454",
    "igdb": "rugby-18",
+   "metacritic": "rugby-18",
    "mobygames": "97620",
    "pcgamingwiki": "Rugby_18",
    "steam": "627450"
@@ -309,6 +318,7 @@
   "ids": {
    "howlongtobeat": "27732",
    "igdb": "mvp-baseball-2004",
+   "metacritic": "mvp-baseball-2004",
    "mobygames": "12415",
    "pcgamingwiki": "MVP_Baseball_2004"
   },
@@ -321,6 +331,7 @@
    "epic": "lego-brawls",
    "howlongtobeat": "95584",
    "igdb": "lego-brawls",
+   "metacritic": "lego-brawls",
    "mobygames": "135363",
    "pcgamingwiki": "Lego_Brawls",
    "steam": "1731460"
@@ -333,6 +344,7 @@
    "gog": "game/shadowgate",
    "howlongtobeat": "20745",
    "igdb": "shadowgate--1",
+   "metacritic": "shadowgate",
    "mobygames": "96148",
    "pcgamingwiki": "Shadowgate_(2014)",
    "steam": "294440"
@@ -347,6 +359,7 @@
    "gog": "game/amnesia_rebirth",
    "howlongtobeat": "80121",
    "igdb": "amnesia-rebirth",
+   "metacritic": "amnesia-rebirth",
    "mobygames": "151786",
    "pcgamingwiki": "Amnesia:_Rebirth",
    "steam": "999220"
@@ -374,6 +387,7 @@
    "gog": "game/distant_worlds_2",
    "howlongtobeat": "106637",
    "igdb": "distant-worlds-2",
+   "metacritic": "distant-worlds-2",
    "mobygames": "181072",
    "pcgamingwiki": "Distant_Worlds_2",
    "steam": "1531540"
@@ -444,6 +458,7 @@
   "ids": {
    "howlongtobeat": "94107",
    "igdb": "alterium-shift",
+   "metacritic": "alterium-shift",
    "mobygames": "208311",
    "steam": "1586990"
   },
@@ -464,6 +479,7 @@
  {
   "ids": {
    "igdb": "star-realms",
+   "pcgamingwiki": "Star_Realms",
    "steam": "438140"
   },
   "label_en": "Star Realms",
@@ -694,6 +710,7 @@
   "ids": {
    "howlongtobeat": "121919",
    "igdb": "autobahn-raser-iv",
+   "metacritic": "autobahn-raser-iv",
    "mobygames": "74611",
    "pcgamingwiki": "Autobahn_Raser_IV"
   },
@@ -1129,6 +1146,7 @@
  {
   "ids": {
    "igdb": "backgammon--4",
+   "pcgamingwiki": "Backgammon",
    "steam": "696110"
   },
   "label_en": "Backgammon",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "22031",
    "igdb": "grand-theft-auto-advance",
+   "metacritic": "grand-theft-auto",
    "mobygames": "15752"
   },
   "label_en": "Grand Theft Auto Advance",
@@ -14,7 +15,9 @@
   "ids": {
    "howlongtobeat": "7976",
    "igdb": "romancing-saga",
+   "metacritic": "romancing-saga",
    "mobygames": "9337",
+   "pcgamingwiki": "Romancing_SaGa:_Minstrel_Song_Remastered",
    "steam": "1793030"
   },
   "label_en": "Romancing SaGa",
@@ -92,6 +95,7 @@
   "ids": {
    "howlongtobeat": "1348",
    "igdb": "brute-force",
+   "metacritic": "brute-force",
    "mobygames": "9401"
   },
   "label_en": "Brute Force",
@@ -110,6 +114,7 @@
   "ids": {
    "howlongtobeat": "34851",
    "igdb": "nancy-drew-the-deadly-device",
+   "metacritic": "nancy-drew-the-deadly-device",
    "mobygames": "69429",
    "pcgamingwiki": "Nancy_Drew:_The_Deadly_Device",
    "steam": "220420"
@@ -139,6 +144,7 @@
   "ids": {
    "howlongtobeat": "1106",
    "igdb": "blacklight-tango-down",
+   "metacritic": "blacklight-tango-down",
    "mobygames": "47623",
    "pcgamingwiki": "Blacklight:_Tango_Down",
    "steam": "27330"
@@ -162,7 +168,8 @@
  {
   "enwiki": "Dance Dance Revolution Ultramix",
   "ids": {
-   "igdb": "dance-dance-revolution-ultramix--1"
+   "igdb": "dance-dance-revolution-ultramix--1",
+   "metacritic": "dance-dance-revolution-ultramix"
   },
   "label_en": "Dance Dance Revolution Ultramix",
   "wikidata": "Q5215099"
@@ -181,6 +188,7 @@
   "enwiki": "Samurai Jack: The Amulet of Time",
   "ids": {
    "igdb": "samurai-jack-the-amulet-of-time",
+   "metacritic": "samurai-jack-the-amulet-of-time",
    "mobygames": "9026"
   },
   "label_en": "Samurai Jack: The Amulet of Time",
@@ -241,6 +249,7 @@
   "ids": {
    "howlongtobeat": "146",
    "igdb": "a-world-of-keflings",
+   "metacritic": "a-world-of-keflings",
    "mobygames": "49683",
    "pcgamingwiki": "A_World_of_Keflings",
    "steam": "3238580"
@@ -281,6 +290,7 @@
  },
  {
   "ids": {
+   "metacritic": "bruce-lee-enter-the-game",
    "mobygames": "73833"
   },
   "label_en": "Bruce Lee: Enter The Game",
@@ -356,6 +366,7 @@
   "ids": {
    "howlongtobeat": "92518",
    "igdb": "victoria-3",
+   "metacritic": "victoria-3",
    "mobygames": "193748",
    "pcgamingwiki": "Victoria_3",
    "steam": "529340"
@@ -370,6 +381,7 @@
    "gog": "game/wytchwood",
    "howlongtobeat": "97920",
    "igdb": "wytchwood",
+   "metacritic": "wytchwood",
    "mobygames": "176406",
    "pcgamingwiki": "Wytchwood",
    "steam": "729000"
@@ -440,6 +452,7 @@
    "howlongtobeat": "115291",
    "igdb": "outbreak-endless-nightmares",
    "mobygames": "164824",
+   "pcgamingwiki": "Outbreak:_Endless_Nightmares",
    "steam": "1419350"
   },
   "label_en": "Outbreak: Endless Nightmares",
@@ -652,6 +665,7 @@
    "epic": "ageless",
    "howlongtobeat": "81140",
    "igdb": "ageless",
+   "metacritic": "ageless",
    "mobygames": "148503",
    "pcgamingwiki": "Ageless",
    "steam": "1210150"
@@ -909,6 +923,7 @@
   "ids": {
    "howlongtobeat": "94457",
    "igdb": "lewd-island",
+   "metacritic": "lewd-island-season-1",
    "mobygames": "212821",
    "steam": "1498120"
   },
@@ -1309,6 +1324,8 @@
    "gog": "game/puzzle_quest_immortal_edition",
    "howlongtobeat": "173934",
    "igdb": "puzzle-quest-immortal-edition",
+   "metacritic": "puzzle-quest-immortal-edition",
+   "pcgamingwiki": "Puzzle_Quest:_Immortal_Edition",
    "steam": "3236710"
   },
   "label_en": "Puzzle Quest: Immortal Edition",

@@ -10,6 +10,7 @@
   "enwiki": "Majin and the Forsaken Kingdom",
   "ids": {
    "igdb": "majin-and-the-forsaken-kingdom",
+   "metacritic": "majin-and-the-forsaken-kingdom",
    "mobygames": "56923"
   },
   "label_en": "Majin and the Forsaken Kingdom",
@@ -33,6 +34,7 @@
    "gog": "game/the_guild_gold_edition",
    "howlongtobeat": "26120",
    "igdb": "the-guild-gold-edition",
+   "metacritic": "europa-1400-the-guild",
    "mobygames": "5966",
    "pcgamingwiki": "Europa_1400:_The_Guild",
    "steam": "39520"
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "4299",
    "igdb": "hard-reset",
+   "metacritic": "hard-reset",
    "mobygames": "53013",
    "pcgamingwiki": "Hard_Reset",
    "steam": "98400"
@@ -57,6 +60,7 @@
   "ids": {
    "howlongtobeat": "5922",
    "igdb": "metal-gear-solid-the-twin-snakes",
+   "metacritic": "metal-gear-solid-the-twin-snakes",
    "mobygames": "12371"
   },
   "label_en": "Metal Gear Solid: The Twin Snakes",
@@ -66,6 +70,7 @@
   "enwiki": "Final Fight 3",
   "ids": {
    "igdb": "final-fight-3",
+   "metacritic": "final-fight-3",
    "mobygames": "10058"
   },
   "label_en": "Final Fight 3",
@@ -118,6 +123,7 @@
   "ids": {
    "howlongtobeat": "12297",
    "igdb": "earth-2150-lost-souls",
+   "metacritic": "earth-2150-lost-souls",
    "mobygames": "5451"
   },
   "label_en": "Earth 2150: Lost Souls",
@@ -156,6 +162,7 @@
   "ids": {
    "howlongtobeat": "55103",
    "igdb": "toy-home",
+   "metacritic": "toy-home",
    "mobygames": "83404"
   },
   "label_en": "Toy Home",
@@ -223,6 +230,7 @@
    "gog": "game/total_war_attila",
    "howlongtobeat": "24732",
    "igdb": "total-war-attila",
+   "metacritic": "total-war-attila",
    "mobygames": "71954",
    "pcgamingwiki": "Total_War:_Attila",
    "steam": "325610"
@@ -247,6 +255,7 @@
    "epic": "sid-meiers-civilization-vi",
    "howlongtobeat": "37867",
    "igdb": "sid-meiers-civilization-vi",
+   "metacritic": "sid-meiers-civilization-vi",
    "mobygames": "81903",
    "pcgamingwiki": "Civilization_VI",
    "steam": "289070"
@@ -258,6 +267,7 @@
   "enwiki": "Crazy Taxi: City Rush",
   "ids": {
    "igdb": "crazy-taxi-city-rush",
+   "metacritic": "crazy-taxi-city-rush",
    "mobygames": "65211"
   },
   "label_en": "Crazy Taxi: City Rush",
@@ -272,6 +282,7 @@
   "ids": {
    "howlongtobeat": "32167",
    "igdb": "colin-mcrae-rally--1",
+   "metacritic": "colin-mcrae-rally-2014",
    "mobygames": "65183",
    "pcgamingwiki": "Colin_McRae_Rally_(2014)",
    "steam": "287340"
@@ -313,7 +324,8 @@
  {
   "enwiki": "Pokémon Café ReMix",
   "ids": {
-   "igdb": "pokemon-cafe-mix"
+   "igdb": "pokemon-cafe-mix",
+   "metacritic": "pokemon-cafe-mix"
   },
   "label_en": "Pokémon Café ReMix",
   "wikidata": "Q96406047"
@@ -393,6 +405,7 @@
   "ids": {
    "howlongtobeat": "27920",
    "igdb": "ar-k-the-great-escape",
+   "metacritic": "ar-k-episode-3-the-great-escape",
    "mobygames": "86350",
    "pcgamingwiki": "AR-K:_The_Great_Escape",
    "steam": "368890"
@@ -424,6 +437,7 @@
   "ids": {
    "howlongtobeat": "124025",
    "igdb": "fantasy-life-i-the-girl-who-steals-time",
+   "metacritic": "fantasy-life-i-the-girl-who-steals-time",
    "mobygames": "242403",
    "pcgamingwiki": "Fantasy_Life_i:_The_Girl_Who_Steals_Time",
    "steam": "2993780"

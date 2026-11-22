@@ -3,6 +3,7 @@
   "enwiki": "Smash Court Tennis Pro Tournament",
   "ids": {
    "igdb": "smash-court-tennis-pro-tournament",
+   "metacritic": "smash-court-tennis-pro-tournament",
    "mobygames": "6044"
   },
   "label_en": "Smash Court Tennis Pro Tournament",
@@ -31,6 +32,7 @@
   "ids": {
    "howlongtobeat": "2939",
    "igdb": "dungeon-defenders",
+   "metacritic": "dungeon-defenders",
    "mobygames": "53822",
    "pcgamingwiki": "Dungeon_Defenders",
    "steam": "65800"
@@ -75,6 +77,7 @@
   "enwiki": "Smuggler's Run 2",
   "ids": {
    "igdb": "smuggler-s-run-warzones",
+   "metacritic": "smugglers-run-2-hostile-territory",
    "mobygames": "6782"
   },
   "label_en": "Smuggler's Run 2: Hostile Territory",
@@ -116,6 +119,7 @@
   "ids": {
    "howlongtobeat": "1655",
    "igdb": "chase-hollywood-stunt-driver",
+   "metacritic": "chase-hollywood-stunt-driver",
    "mobygames": "48245"
   },
   "label_en": "Chase: Hollywood Stunt Driver",
@@ -133,7 +137,8 @@
  {
   "enwiki": "Dance Dance Revolution Extreme",
   "ids": {
-   "igdb": "dance-dance-revolution-extreme"
+   "igdb": "dance-dance-revolution-extreme",
+   "metacritic": "dance-dance-revolution-extreme"
   },
   "label_en": "Dance Dance Revolution Extreme",
   "wikidata": "Q5215077"
@@ -211,6 +216,7 @@
   "ids": {
    "howlongtobeat": "45985",
    "igdb": "polaris-sector",
+   "metacritic": "polaris-sector",
    "mobygames": "83917",
    "pcgamingwiki": "Polaris_Sector",
    "steam": "418250"
@@ -232,6 +238,7 @@
    "gog": "game/they_are_billions",
    "howlongtobeat": "51685",
    "igdb": "they-are-billions",
+   "metacritic": "they-are-billions",
    "mobygames": "99395",
    "pcgamingwiki": "They_Are_Billions",
    "steam": "644930"
@@ -252,6 +259,7 @@
   "enwiki": "Gears Pop!",
   "ids": {
    "igdb": "gears-pop",
+   "metacritic": "gears-pop",
    "mobygames": "134354",
    "pcgamingwiki": "Gears_POP!"
   },
@@ -285,6 +293,7 @@
    "howlongtobeat": "24580",
    "igdb": "crazy-chicken-x",
    "mobygames": "20910",
+   "pcgamingwiki": "Moorhuhn_X_-_Crazy_Chicken_X",
    "steam": "2093590"
   },
   "label_en": "Moorhuhn X",
@@ -294,6 +303,7 @@
   "ids": {
    "howlongtobeat": "7725",
    "igdb": "resident-evil-6",
+   "metacritic": "resident-evil-6",
    "mobygames": "86287",
    "pcgamingwiki": "Resident_Evil_6",
    "steam": "221040"
@@ -305,6 +315,7 @@
   "ids": {
    "howlongtobeat": "91971",
    "igdb": "unbeatable-white-label",
+   "pcgamingwiki": "Unbeatable_(white_label)",
    "steam": "1290490"
   },
   "label_en": "UNBEATABLE [white label]",
@@ -384,6 +395,7 @@
    "gog": "game/severed_steel",
    "howlongtobeat": "89786",
    "igdb": "severed-steel",
+   "metacritic": "severed-steel",
    "mobygames": "172403",
    "pcgamingwiki": "Severed_Steel",
    "steam": "1227690"
@@ -443,6 +455,7 @@
    "gog": "game/star_wars_galactic_battlegrounds_saga",
    "howlongtobeat": "35550",
    "igdb": "star-wars-galactic-battlegrounds-saga",
+   "metacritic": "star-wars-galactic-battlegrounds-saga",
    "mobygames": "15639",
    "pcgamingwiki": "Star_Wars:_Galactic_Battlegrounds",
    "steam": "356500"
@@ -832,6 +845,7 @@
   "ids": {
    "howlongtobeat": "109862",
    "igdb": "lorelei-and-the-laser-eyes",
+   "metacritic": "lorelei-and-the-laser-eyes",
    "mobygames": "224039",
    "pcgamingwiki": "Lorelei_and_the_Laser_Eyes",
    "steam": "2008920"
@@ -843,6 +857,7 @@
   "enwiki": "Homeworld: Vast Reaches",
   "ids": {
    "igdb": "homeworld-vast-reaches",
+   "metacritic": "homeworld-vast-reaches",
    "pcgamingwiki": "Homeworld:_Vast_Reaches",
    "steam": "2949240"
   },

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6902",
    "igdb": "panzer-dragoon-orta",
+   "metacritic": "panzer-dragoon-orta",
    "mobygames": "8522"
   },
   "label_en": "Panzer Dragoon Orta",
@@ -47,6 +48,7 @@
   "ids": {
    "howlongtobeat": "8343",
    "igdb": "shadow-man",
+   "metacritic": "shadow-man-remastered",
    "mobygames": "385",
    "pcgamingwiki": "Shadow_Man",
    "steam": "251770"
@@ -108,6 +110,7 @@
   "ids": {
    "howlongtobeat": "1457",
    "igdb": "cake-mania",
+   "metacritic": "cake-mania",
    "mobygames": "22240",
    "pcgamingwiki": "Cake_Mania",
    "steam": "36180"
@@ -119,6 +122,7 @@
   "enwiki": "Dancing Stage (video game)",
   "ids": {
    "igdb": "dancing-stage",
+   "metacritic": "dance-dance-revolution",
    "mobygames": "3794"
   },
   "label_en": "Dance Dance Revolution",
@@ -258,6 +262,7 @@
   "ids": {
    "howlongtobeat": "51426",
    "igdb": "wonder-boy-returns",
+   "metacritic": "wonder-boy-returns",
    "mobygames": "86211",
    "pcgamingwiki": "Wonder_Boy_Returns",
    "steam": "523810"
@@ -271,6 +276,7 @@
    "epic": "five-nights-at-freddys-security-breach-8dee2a",
    "howlongtobeat": "88797",
    "igdb": "five-nights-at-freddys-security-breach",
+   "metacritic": "five-nights-at-freddys-security-breach",
    "mobygames": "177084",
    "pcgamingwiki": "Five_Nights_at_Freddy's:_Security_Breach",
    "steam": "747660"
@@ -284,6 +290,7 @@
    "epic": "crown-trick-11494d",
    "howlongtobeat": "72106",
    "igdb": "crown-trick",
+   "metacritic": "crown-trick",
    "mobygames": "151422",
    "pcgamingwiki": "Crown_Trick",
    "steam": "1000010"
@@ -301,6 +308,7 @@
    "gog": "game/minute_of_islands",
    "howlongtobeat": "71957",
    "igdb": "minute-of-islands",
+   "metacritic": "minute-of-islands",
    "mobygames": "166357",
    "pcgamingwiki": "Minute_of_Islands",
    "steam": "1049710"
@@ -322,6 +330,7 @@
    "gog": "game/highfleet",
    "howlongtobeat": "96465",
    "igdb": "highfleet",
+   "metacritic": "highfleet",
    "mobygames": "168391",
    "pcgamingwiki": "HighFleet",
    "steam": "1434950"
@@ -354,6 +363,7 @@
    "howlongtobeat": "109706",
    "igdb": "fault-stp-lightkravte",
    "mobygames": "185026",
+   "pcgamingwiki": "Fault_-_StP_-_LIGHTKRAVTE",
    "steam": "1917450"
   },
   "label_en": "fault - StP - LIGHTKRAVTE",
@@ -363,6 +373,7 @@
   "ids": {
    "howlongtobeat": "94793",
    "igdb": "countryballs-heroes",
+   "metacritic": "countryballs-heroes",
    "mobygames": "175571",
    "pcgamingwiki": "CountryBalls_Heroes",
    "steam": "1083870"
@@ -376,6 +387,7 @@
    "gog": "game/the_valiant",
    "howlongtobeat": "107892",
    "igdb": "the-valiant",
+   "metacritic": "the-valiant",
    "mobygames": "193856",
    "pcgamingwiki": "The_Valiant",
    "steam": "959860"
@@ -668,6 +680,7 @@
   "ids": {
    "howlongtobeat": "141844",
    "igdb": "lost-records-bloom-and-rage",
+   "metacritic": "lost-records-bloom-and-rage",
    "mobygames": "237586",
    "pcgamingwiki": "Lost_Records:_Bloom_&_Rage",
    "steam": "1902960"
@@ -809,6 +822,7 @@
    "gog": "game/cabernet",
    "howlongtobeat": "132726",
    "igdb": "cabernet",
+   "metacritic": "cabernet",
    "mobygames": "237733",
    "pcgamingwiki": "Cabernet",
    "steam": "2401410"

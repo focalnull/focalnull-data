@@ -9,6 +9,7 @@
   "ids": {
    "howlongtobeat": "4364",
    "igdb": "heart-of-darkness",
+   "metacritic": "heart-of-darkness",
    "mobygames": "262",
    "pcgamingwiki": "Heart_of_Darkness"
   },
@@ -21,6 +22,7 @@
    "gog": "game/tomb_raider_anniversary",
    "howlongtobeat": "10476",
    "igdb": "tomb-raider-anniversary",
+   "metacritic": "tomb-raider-anniversary",
    "mobygames": "28337",
    "pcgamingwiki": "Tomb_Raider:_Anniversary",
    "steam": "8000"
@@ -32,6 +34,7 @@
   "enwiki": "Scooby-Doo! Unmasked",
   "ids": {
    "igdb": "scooby-doo-unmasked--2",
+   "metacritic": "scooby-doo-unmasked",
    "mobygames": "20426"
   },
   "label_en": "Scooby-Doo! Unmasked",
@@ -126,7 +129,8 @@
  {
   "enwiki": "Rush'n Attack: Ex-Patriot",
   "ids": {
-   "igdb": "rushn-attack-ex-patriot"
+   "igdb": "rushn-attack-ex-patriot",
+   "metacritic": "rushn-attack-ex-patriot"
   },
   "label_en": "Rush'n Attack: Ex-Patriot",
   "wikidata": "Q7380667"
@@ -164,6 +168,7 @@
   "ids": {
    "howlongtobeat": "21728",
    "igdb": "warhammer-40-000-eternal-crusade",
+   "metacritic": "warhammer-40000-eternal-crusade",
    "mobygames": "83454",
    "pcgamingwiki": "Warhammer_40,000:_Eternal_Crusade",
    "steam": "375230"
@@ -174,6 +179,7 @@
  {
   "ids": {
    "igdb": "imagine-interior-designer",
+   "metacritic": "imagine-interior-designer",
    "mobygames": "86711"
   },
   "label_en": "Imagine Interior Designer",
@@ -192,6 +198,7 @@
    "gog": "game/cossacks_3",
    "howlongtobeat": "40110",
    "igdb": "cossacks-3",
+   "metacritic": "cossacks-3",
    "mobygames": "80724",
    "pcgamingwiki": "Cossacks_3",
    "steam": "333420"
@@ -202,6 +209,7 @@
  {
   "ids": {
    "igdb": "koko-kara-natsu-no-innocence",
+   "metacritic": "kokokara-natsu-no-innocence",
    "mobygames": "253180"
   },
   "label_en": "Koko kara Natsu no Innocence!",
@@ -210,6 +218,7 @@
  {
   "ids": {
    "igdb": "mind-path-to-thalamus-enhanced-edition",
+   "metacritic": "mind-path-to-thalamus",
    "mobygames": "79458",
    "pcgamingwiki": "MIND:_Path_to_Thalamus",
    "steam": "296070"
@@ -222,6 +231,7 @@
   "ids": {
    "howlongtobeat": "38051",
    "igdb": "resident-evil-7-biohazard",
+   "metacritic": "resident-evil-7-biohazard",
    "mobygames": "83343",
    "pcgamingwiki": "Resident_Evil_7:_Biohazard",
    "steam": "418370"
@@ -236,6 +246,7 @@
    "gog": "game/overcooked_2",
    "howlongtobeat": "57518",
    "igdb": "overcooked-2",
+   "metacritic": "overcooked-2",
    "mobygames": "110092",
    "pcgamingwiki": "Overcooked!_2",
    "steam": "728880"
@@ -245,7 +256,8 @@
  },
  {
   "ids": {
-   "igdb": "nikolis-pencil-puzzle"
+   "igdb": "nikolis-pencil-puzzle",
+   "metacritic": "nikolis-pencil-puzzle"
   },
   "label_en": "Nikoli's Pencil Puzzle",
   "wikidata": "Q57577667"
@@ -288,6 +300,7 @@
    "gog": "game/signal_ops",
    "howlongtobeat": "14698",
    "igdb": "signal-ops",
+   "metacritic": "signal-ops",
    "mobygames": "157940",
    "pcgamingwiki": "Signal_Ops",
    "steam": "257770"
@@ -301,6 +314,7 @@
    "epic": "demeo-c234a9",
    "howlongtobeat": "91996",
    "igdb": "demeo",
+   "metacritic": "demeo",
    "mobygames": "163856",
    "steam": "1484280"
   },
@@ -325,6 +339,7 @@
    "gog": "game/jetboard_joust",
    "howlongtobeat": "102856",
    "igdb": "jetboard-joust",
+   "metacritic": "jetboard-joust",
    "mobygames": "164994",
    "pcgamingwiki": "Jetboard_Joust",
    "steam": "1181600"
@@ -373,6 +388,7 @@
    "gog": "game/legends_of_amberland_the_forgotten_crown",
    "howlongtobeat": "71145",
    "igdb": "legends-of-amberland-the-forgotten-crown",
+   "metacritic": "legends-of-amberland-the-forgotten-crown",
    "mobygames": "144583",
    "pcgamingwiki": "Legends_of_Amberland:_The_Forgotten_Crown",
    "steam": "873890"
@@ -384,6 +400,7 @@
   "ids": {
    "howlongtobeat": "53925",
    "igdb": "trivia-vault-health-trivia-deluxe",
+   "metacritic": "trivia-vault-health-trivia-deluxe",
    "pcgamingwiki": "Trivia_Vault:_Health_Trivia_Deluxe",
    "steam": "781760"
   },
@@ -809,6 +826,7 @@
  {
   "ids": {
    "igdb": "pike-operacija-gromoverzhec",
+   "metacritic": "pike-operacija-gromoverzhec",
    "mobygames": "30069"
   },
   "label_en": "Pike: Operacija Gromoverzhec",
@@ -1174,6 +1192,7 @@
  {
   "ids": {
    "igdb": "jet-car-stunts",
+   "metacritic": "jet-car-stunts",
    "mobygames": "69668"
   },
   "label_en": "Jet Car Stunts",
@@ -1182,6 +1201,7 @@
  {
   "ids": {
    "igdb": "swarmz",
+   "pcgamingwiki": "SwarmZ",
    "steam": "1174720"
   },
   "label_en": "SwarmZ",

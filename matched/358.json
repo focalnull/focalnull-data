@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10164",
    "igdb": "the-settlers-7-paths-to-a-kingdom",
+   "metacritic": "the-settlers-7-paths-to-a-kingdom",
    "mobygames": "45723",
    "pcgamingwiki": "The_Settlers_7:_Paths_to_a_Kingdom",
    "steam": "901436"
@@ -15,6 +16,7 @@
   "enwiki": "We Ski",
   "ids": {
    "igdb": "we-ski",
+   "metacritic": "we-ski",
    "mobygames": "34679"
   },
   "label_en": "We Ski",
@@ -23,6 +25,7 @@
  {
   "enwiki": "Final Fantasy I & II: Dawn of Souls",
   "ids": {
+   "metacritic": "final-fantasy-i-and-ii-dawn-of-souls",
    "mobygames": "15750"
   },
   "label_en": "Final Fantasy I & II: Dawn of Souls",
@@ -73,6 +76,7 @@
   "ids": {
    "howlongtobeat": "29190",
    "igdb": "dexter-s-laboratory-deesaster-strikes",
+   "metacritic": "dexters-laboratory-deesaster-strikes",
    "mobygames": "44071"
   },
   "label_en": "Dexter's Laboratory: Deesaster Strikes!",
@@ -101,6 +105,7 @@
   "enwiki": "Groovin' Blocks",
   "ids": {
    "igdb": "groovin-blocks",
+   "metacritic": "groovin-blocks",
    "mobygames": "93948"
   },
   "label_en": "Groovin' Blocks",
@@ -129,6 +134,7 @@
   "ids": {
    "howlongtobeat": "10088",
    "igdb": "the-mark-of-kri",
+   "metacritic": "the-mark-of-kri",
    "mobygames": "7648"
   },
   "label_en": "The Mark of Kri",
@@ -172,6 +178,7 @@
   "ids": {
    "howlongtobeat": "42831",
    "igdb": "rise-and-shine",
+   "metacritic": "rise-shine",
    "mobygames": "83292",
    "pcgamingwiki": "Rise_&_Shine",
    "steam": "347290"
@@ -202,6 +209,7 @@
    "epic": "home-19212a",
    "howlongtobeat": "4490",
    "igdb": "home",
+   "metacritic": "home",
    "mobygames": "73731",
    "pcgamingwiki": "Home_(2012)",
    "steam": "215670"
@@ -216,6 +224,7 @@
    "gog": "game/darksiders_genesis",
    "howlongtobeat": "68043",
    "igdb": "darksiders-genesis",
+   "metacritic": "darksiders-genesis",
    "mobygames": "138096",
    "pcgamingwiki": "Darksiders_Genesis",
    "steam": "710920"
@@ -227,6 +236,7 @@
   "ids": {
    "howlongtobeat": "40961",
    "igdb": "pirate-pop-plus",
+   "metacritic": "pirate-pop-plus",
    "mobygames": "87721",
    "pcgamingwiki": "Pirate_Pop_Plus",
    "steam": "487350"
@@ -249,6 +259,7 @@
   "ids": {
    "howlongtobeat": "50129",
    "igdb": "call-of-war",
+   "metacritic": "call-of-war",
    "mobygames": "98654",
    "pcgamingwiki": "Call_of_War",
    "steam": "672680"
@@ -279,6 +290,7 @@
    "gog": "game/south_of_the_circle",
    "howlongtobeat": "84578",
    "igdb": "south-of-the-circle",
+   "metacritic": "south-of-the-circle",
    "mobygames": "152747",
    "pcgamingwiki": "South_of_the_Circle",
    "steam": "1811040"
@@ -290,6 +302,7 @@
   "ids": {
    "howlongtobeat": "99070",
    "igdb": "100-hidden-dogs",
+   "metacritic": "100-hidden-dogs",
    "mobygames": "187995",
    "steam": "1773890"
   },
@@ -308,6 +321,7 @@
  {
   "ids": {
    "igdb": "detective-sherlock-holmes-hidden-object-games",
+   "metacritic": "hidden-object-detective-holmes-heirloom",
    "steam": "1671420"
   },
   "label_en": "Hidden Object: Detective Holmes - Heirloom",
@@ -360,6 +374,7 @@
   "ids": {
    "howlongtobeat": "87157",
    "igdb": "tanuki-sunset",
+   "metacritic": "tanuki-sunset",
    "mobygames": "145191",
    "steam": "1251460"
   },
@@ -370,6 +385,7 @@
   "ids": {
    "igdb": "tokaido",
    "mobygames": "99038",
+   "pcgamingwiki": "Tokaido",
    "steam": "648750"
   },
   "label_en": "Tokaido",
@@ -634,6 +650,7 @@
   "ids": {
    "howlongtobeat": "149767",
    "igdb": "nexus-5x",
+   "metacritic": "nexus-5x",
    "mobygames": "214241",
    "pcgamingwiki": "Stellaris_Nexus",
    "steam": "1983990"
@@ -724,6 +741,7 @@
  {
   "ids": {
    "igdb": "superola-and-the-lost-burgers",
+   "metacritic": "superola-and-the-lost-burgers",
    "mobygames": "103461"
   },
   "label_en": "Superola and the Lost Burgers",
@@ -742,6 +760,7 @@
    "epic": "mixtape-f18a26",
    "howlongtobeat": "152041",
    "igdb": "mixtape--1",
+   "metacritic": "mixtape",
    "mobygames": "255223",
    "pcgamingwiki": "Mixtape",
    "steam": "2582320"
@@ -791,6 +810,7 @@
  {
   "ids": {
    "igdb": "hamster-inn",
+   "metacritic": "hamster-inn",
    "mobygames": "226702"
   },
   "label_en": "Hamster Inn",
@@ -1110,6 +1130,7 @@
  {
   "ids": {
    "igdb": "heptrix",
+   "metacritic": "heptrix",
    "mobygames": "86632"
   },
   "label_en": "Heptrix",

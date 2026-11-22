@@ -8,6 +8,7 @@
   "enwiki": "SimCity (2013 video game)",
   "ids": {
    "igdb": "simcity--1",
+   "metacritic": "simcity",
    "mobygames": "65566",
    "pcgamingwiki": "SimCity_(2013)"
   },
@@ -19,6 +20,7 @@
   "ids": {
    "howlongtobeat": "3487",
    "igdb": "final-fantasy-crystal-chronicles-my-life-as-a-king",
+   "metacritic": "final-fantasy-crystal-chronicles-my-life-as-a-kin",
    "mobygames": "34150"
   },
   "label_en": "Final Fantasy Crystal Chronicles: My Life as a King",
@@ -74,6 +76,7 @@
   "enwiki": "Alfa: Antiterror",
   "ids": {
    "igdb": "alfa-antiterror",
+   "pcgamingwiki": "ALFA:_Antiterror",
    "steam": "4566780"
   },
   "label_en": "Alfa: Antiterror",
@@ -97,6 +100,7 @@
   "enwiki": "Echo: Secrets of the Lost Cavern",
   "ids": {
    "igdb": "echo-secrets-of-the-lost-cavern",
+   "metacritic": "echo-secrets-of-the-lost-cavern",
    "mobygames": "18269"
   },
   "label_en": "Echo: Secrets of the Lost Cavern",
@@ -115,6 +119,7 @@
   "enwiki": "Puyo Pop (video game)",
   "ids": {
    "igdb": "puyo-pop--2",
+   "metacritic": "puyo-pop",
    "mobygames": "59417"
   },
   "label_en": "Puyo Pop",
@@ -151,6 +156,7 @@
    "gog": "game/inquisitor",
    "howlongtobeat": "4696",
    "igdb": "inquisitor",
+   "metacritic": "inquisitor",
    "mobygames": "66787",
    "pcgamingwiki": "Inquisitor",
    "steam": "241620"
@@ -160,6 +166,7 @@
  },
  {
   "ids": {
+   "metacritic": "world-of-tanks",
    "mobygames": "71555"
   },
   "label_en": "World of Tanks: Xbox 360 Edition",
@@ -169,6 +176,7 @@
   "ids": {
    "howlongtobeat": "19348",
    "igdb": "ultra-street-fighter-iv",
+   "metacritic": "super-street-fighter-iv-arcade-edition",
    "mobygames": "66453",
    "pcgamingwiki": "Super_Street_Fighter_IV:_Arcade_Edition",
    "steam": "45760"
@@ -221,6 +229,7 @@
    "gog": "game/furi",
    "howlongtobeat": "30957",
    "igdb": "furi",
+   "metacritic": "furi",
    "mobygames": "82559",
    "pcgamingwiki": "Furi",
    "steam": "423230"
@@ -244,6 +253,7 @@
   "ids": {
    "howlongtobeat": "47516",
    "igdb": "yonder-the-cloud-catcher-chronicles",
+   "metacritic": "yonder-the-cloud-catcher-chronicles",
    "mobygames": "92815",
    "pcgamingwiki": "Yonder:_The_Cloud_Catcher_Chronicles",
    "steam": "580200"
@@ -254,6 +264,7 @@
  {
   "ids": {
    "igdb": "far-cry-3-classic-edition",
+   "metacritic": "far-cry-3-classic-edition",
    "mobygames": "109523"
   },
   "label_en": "Far Cry 3 Classic Edition",
@@ -262,6 +273,7 @@
  {
   "ids": {
    "igdb": "twisty-puzzle-simulator",
+   "metacritic": "twisty-puzzle-simulator",
    "mobygames": "118056",
    "pcgamingwiki": "Twisty_Puzzle_Simulator",
    "steam": "1002910"
@@ -275,6 +287,7 @@
    "gog": "game/dark_devotion",
    "howlongtobeat": "50808",
    "igdb": "dark-devotion",
+   "metacritic": "dark-devotion",
    "mobygames": "125855",
    "pcgamingwiki": "Dark_Devotion",
    "steam": "718590"
@@ -295,6 +308,7 @@
   "ids": {
    "howlongtobeat": "52949",
    "igdb": "we-were-here-too",
+   "metacritic": "we-were-here-too",
    "mobygames": "102554",
    "pcgamingwiki": "We_Were_Here_Too",
    "steam": "677160"
@@ -313,7 +327,8 @@
  {
   "enwiki": "MLB The Show 22",
   "ids": {
-   "igdb": "mlb-the-show-22"
+   "igdb": "mlb-the-show-22",
+   "metacritic": "mlb-the-show-22"
   },
   "label_en": "MLB: The Show 22",
   "wikidata": "Q110768647"
@@ -358,6 +373,7 @@
    "gog": "game/potion_permit",
    "howlongtobeat": "85618",
    "igdb": "potion-permit--1",
+   "metacritic": "potion-permit",
    "mobygames": "191103",
    "pcgamingwiki": "Potion_Permit",
    "steam": "1337760"
@@ -378,6 +394,7 @@
   "ids": {
    "howlongtobeat": "59386",
    "igdb": "trivia-vault-celebrity-trivia",
+   "metacritic": "trivia-vault-celebrity-trivia",
    "mobygames": "205892",
    "pcgamingwiki": "Trivia_Vault:_Celebrity_Trivia",
    "steam": "849620"
@@ -421,6 +438,7 @@
    "epic": "zorro-the-chronicles",
    "howlongtobeat": "120891",
    "igdb": "zorro-the-chronicles",
+   "metacritic": "zorro-the-chronicles",
    "mobygames": "186392",
    "pcgamingwiki": "Zorro:_The_Chronicles",
    "steam": "1571460"
@@ -493,6 +511,7 @@
  {
   "ids": {
    "igdb": "zumba-burn-it-up",
+   "metacritic": "zumba-burn-it-up",
    "mobygames": "137447"
   },
   "label_en": "Zumba Burn It Up!",
@@ -661,6 +680,7 @@
   "ids": {
    "howlongtobeat": "64210",
    "igdb": "jon-shafers-at-the-gates",
+   "metacritic": "jon-shafers-at-the-gates",
    "mobygames": "120973",
    "pcgamingwiki": "Jon_Shafer's_At_the_Gates",
    "steam": "241000"
@@ -890,6 +910,7 @@
  {
   "ids": {
    "igdb": "tenka-touitsu-ssb",
+   "metacritic": "tenka-touitsu-ssb",
    "steam": "2536820"
   },
   "label_en": "Brok the InvestiGator",
@@ -923,6 +944,7 @@
  },
  {
   "ids": {
+   "metacritic": "aliens-in-the-attic",
    "mobygames": "142518"
   },
   "label_en": "Aliens in the Attic",
@@ -1268,7 +1290,8 @@
  {
   "ids": {
    "howlongtobeat": "26943",
-   "igdb": "solitaire-dungeon-escape"
+   "igdb": "solitaire-dungeon-escape",
+   "metacritic": "solitaire-dungeon-escape"
   },
   "label_en": "Solitaire Dungeon Escape",
   "wikidata": "Q135435647"

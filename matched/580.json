@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "660",
    "igdb": "assassins-creed-bloodlines",
+   "metacritic": "assassins-creed-bloodlines",
    "mobygames": "46539"
   },
   "label_en": "Assassin's Creed: Bloodlines",
@@ -41,6 +42,7 @@
   "enwiki": "The Getaway: Black Monday",
   "ids": {
    "igdb": "the-getaway-black-monday",
+   "metacritic": "the-getaway-black-monday",
    "mobygames": "18189"
   },
   "label_en": "The Getaway: Black Monday",
@@ -73,6 +75,7 @@
   "ids": {
    "howlongtobeat": "8873",
    "igdb": "space-siege",
+   "metacritic": "space-siege",
    "mobygames": "35808",
    "pcgamingwiki": "Space_Siege",
    "steam": "10530"
@@ -95,6 +98,7 @@
   "ids": {
    "howlongtobeat": "5692",
    "igdb": "marvel-ultimate-alliance-2",
+   "metacritic": "marvel-ultimate-alliance-2",
    "mobygames": "42597",
    "pcgamingwiki": "Marvel:_Ultimate_Alliance_2",
    "steam": "433320"
@@ -117,6 +121,7 @@
   "ids": {
    "howlongtobeat": "16710",
    "igdb": "stupid-invaders",
+   "metacritic": "stupid-invaders",
    "mobygames": "3505",
    "pcgamingwiki": "Stupid_Invaders"
   },
@@ -140,6 +145,7 @@
   "enwiki": "Phantasy Star Portable 2",
   "ids": {
    "igdb": "phantasy-star-portable-2",
+   "metacritic": "phantasy-star-portable-2",
    "mobygames": "67583"
   },
   "label_en": "Phantasy Star Portable 2",
@@ -172,7 +178,8 @@
   "enwiki": "South Park Let's Go Tower Defense Play!",
   "ids": {
    "howlongtobeat": "8831",
-   "igdb": "south-park-let-s-go-tower-defense-play"
+   "igdb": "south-park-let-s-go-tower-defense-play",
+   "metacritic": "south-park-lets-go-tower-defense-play"
   },
   "label_en": "South Park Let's Go Tower Defense Play!",
   "wikidata": "Q3965580"
@@ -242,6 +249,7 @@
    "gog": "game/blackguards_special_edition",
    "howlongtobeat": "14481",
    "igdb": "blackguards-special-edition",
+   "metacritic": "blackguards",
    "mobygames": "65427",
    "pcgamingwiki": "Blackguards",
    "steam": "249650"
@@ -290,6 +298,7 @@
   "enwiki": "Drawn to Life: The Next Chapter (Wii video game)",
   "ids": {
    "igdb": "drawn-to-life-the-next-chapter--1",
+   "metacritic": "drawn-to-life-the-next-chapter",
    "mobygames": "97356"
   },
   "label_en": "Drawn to Life: The Next Chapter",
@@ -313,6 +322,7 @@
    "gog": "game/book_of_demons",
    "howlongtobeat": "41486",
    "igdb": "book-of-demons",
+   "metacritic": "book-of-demons",
    "mobygames": "84374",
    "pcgamingwiki": "Book_of_Demons",
    "steam": "449960"
@@ -340,6 +350,7 @@
   "ids": {
    "howlongtobeat": "58361",
    "igdb": "ultimate-custom-night",
+   "metacritic": "ultimate-custom-night",
    "mobygames": "110854",
    "pcgamingwiki": "Ultimate_Custom_Night",
    "steam": "871720"
@@ -374,6 +385,7 @@
   "ids": {
    "howlongtobeat": "32212",
    "igdb": "the-fall-of-the-dungeon-guardians",
+   "metacritic": "the-fall-of-the-dungeon-guardians",
    "mobygames": "148925",
    "pcgamingwiki": "The_Fall_of_the_Dungeon_Guardians",
    "steam": "409450"
@@ -392,6 +404,7 @@
   "ids": {
    "howlongtobeat": "71858",
    "igdb": "ratropolis",
+   "metacritic": "ratropolis",
    "mobygames": "156142",
    "pcgamingwiki": "Ratropolis",
    "steam": "1108370"
@@ -469,6 +482,7 @@
   "ids": {
    "epic": "the-lord-of-the-rings-return-to-moria-f01344",
    "igdb": "the-lord-of-the-rings-return-to-moria",
+   "metacritic": "the-lord-of-the-rings-return-to-moria",
    "mobygames": "210695",
    "pcgamingwiki": "The_Lord_of_the_Rings:_Return_to_Moria",
    "steam": "2933130"
@@ -741,6 +755,7 @@
   "ids": {
    "howlongtobeat": "63312",
    "igdb": "the-forbidden-arts",
+   "metacritic": "the-forbidden-arts",
    "mobygames": "131412",
    "pcgamingwiki": "The_Forbidden_Arts",
    "steam": "735060"
@@ -897,6 +912,7 @@
    "gog": "game/baladins",
    "howlongtobeat": "129863",
    "igdb": "baladins",
+   "metacritic": "baladins",
    "mobygames": "227484",
    "steam": "1866320"
   },

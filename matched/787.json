@@ -3,6 +3,7 @@
   "enwiki": "Spyro: Shadow Legacy",
   "ids": {
    "igdb": "spyro-shadow-legacy",
+   "metacritic": "spyro-shadow-legacy",
    "mobygames": "19642"
   },
   "label_en": "Spyro: Shadow Legacy",
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "8351",
    "igdb": "shadow-warrior",
+   "metacritic": "shadow-warrior-1997",
    "mobygames": "387",
    "pcgamingwiki": "Shadow_Warrior_(1997)",
    "steam": "238070"
@@ -37,6 +39,7 @@
    "gog": "game/warlords_battlecry_3",
    "howlongtobeat": "11085",
    "igdb": "warlords-battlecry-iii",
+   "metacritic": "warlords-battlecry-iii",
    "mobygames": "13924",
    "pcgamingwiki": "Warlords_Battlecry_III",
    "steam": "433280"
@@ -86,6 +89,7 @@
    "gog": "game/the_last_blade_2",
    "howlongtobeat": "9991",
    "igdb": "the-last-blade-2",
+   "metacritic": "the-last-blade-2-heart-of-the-samurai",
    "mobygames": "5036",
    "pcgamingwiki": "The_Last_Blade_2",
    "steam": "702110"
@@ -189,6 +193,7 @@
   "ids": {
    "howlongtobeat": "15880",
    "igdb": "ugly-americans-apocalypsegeddon",
+   "metacritic": "ugly-americans-apocalypsegeddon",
    "mobygames": "78395"
   },
   "label_en": "Ugly Americans: Apocalypsegeddon",
@@ -231,6 +236,7 @@
   "ids": {
    "howlongtobeat": "34476",
    "igdb": "arslan-the-warriors-of-legend",
+   "metacritic": "arslan-the-warriors-of-legend",
    "mobygames": "84003",
    "pcgamingwiki": "Arslan:_The_Warriors_of_Legend",
    "steam": "401890"
@@ -300,6 +306,7 @@
  {
   "ids": {
    "igdb": "elf-bowling-6-air-biscuits",
+   "metacritic": "elf-bowling-6-air-biscuits",
    "mobygames": "30776"
   },
   "label_en": "Elf Bowling 6: Air Biscuits",
@@ -310,6 +317,7 @@
   "ids": {
    "howlongtobeat": "68938",
    "igdb": "nascar-heat-4",
+   "metacritic": "nascar-heat-4",
    "mobygames": "134573",
    "pcgamingwiki": "NASCAR_Heat_4",
    "steam": "1127980"
@@ -342,6 +350,7 @@
    "epic": "tiny-tinas-wonderlands",
    "howlongtobeat": "93455",
    "igdb": "tiny-tinas-wonderlands",
+   "metacritic": "tiny-tinas-wonderlands",
    "mobygames": "181892",
    "pcgamingwiki": "Tiny_Tina's_Wonderlands",
    "steam": "1286680"
@@ -723,6 +732,7 @@
    "gog": "game/arto",
    "howlongtobeat": "128219",
    "igdb": "arto",
+   "metacritic": "arto",
    "mobygames": "202701",
    "steam": "1906510"
   },

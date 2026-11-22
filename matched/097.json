@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11397",
    "igdb": "xcom-enemy-unknown",
+   "metacritic": "xcom-enemy-unknown",
    "mobygames": "59018",
    "pcgamingwiki": "XCOM:_Enemy_Unknown",
    "steam": "200510"
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "8194",
    "igdb": "scribblenauts-unlimited",
+   "metacritic": "scribblenauts-unlimited",
    "mobygames": "60345",
    "pcgamingwiki": "Scribblenauts_Unlimited",
    "steam": "218680"
@@ -52,6 +54,7 @@
   "ids": {
    "howlongtobeat": "8309",
    "igdb": "serious-sam-3-bfe",
+   "metacritic": "serious-sam-3-bfe",
    "mobygames": "54288",
    "pcgamingwiki": "Serious_Sam_3:_BFE",
    "steam": "41070"
@@ -99,6 +102,7 @@
  },
  {
   "ids": {
+   "metacritic": "er-2005",
    "mobygames": "18185"
   },
   "label_en": "ER",
@@ -110,6 +114,7 @@
    "gog": "game/dead_state",
    "howlongtobeat": "21170",
    "igdb": "dead-state",
+   "metacritic": "dead-state",
    "mobygames": "78195",
    "pcgamingwiki": "Dead_State",
    "steam": "239840"
@@ -208,6 +213,7 @@
   "ids": {
    "howlongtobeat": "20752",
    "igdb": "madden-nfl-15",
+   "metacritic": "madden-nfl-15",
    "mobygames": "84064"
   },
   "label_en": "Madden NFL 15",
@@ -309,6 +315,7 @@
  {
   "ids": {
    "igdb": "annihilation--2",
+   "metacritic": "annihilation-crisis-entertainment",
    "steam": "1358900"
   },
   "label_en": "Annihilation",
@@ -329,6 +336,7 @@
   "ids": {
    "howlongtobeat": "65202",
    "igdb": "a-dance-of-fire-and-ice",
+   "metacritic": "a-dance-of-fire-and-ice",
    "mobygames": "121761",
    "pcgamingwiki": "A_Dance_of_Fire_and_Ice",
    "steam": "977950"
@@ -386,6 +394,7 @@
   "ids": {
    "howlongtobeat": "106722",
    "igdb": "the-impossible-game-2",
+   "metacritic": "the-impossible-game-2",
    "mobygames": "214325",
    "steam": "1990940"
   },
@@ -504,6 +513,7 @@
    "howlongtobeat": "130122",
    "igdb": "persona5-the-phantom-x--1",
    "mobygames": "240409",
+   "pcgamingwiki": "Persona_5:_The_Phantom_X",
    "steam": "3061570"
   },
   "label_en": "Persona 5: The Phantom X",
@@ -671,6 +681,7 @@
   "ids": {
    "howlongtobeat": "81990",
    "igdb": "warborn-variable-armour-command",
+   "metacritic": "warborn",
    "mobygames": "146706",
    "pcgamingwiki": "Warborn",
    "steam": "918950"
@@ -958,6 +969,7 @@
  {
   "ids": {
    "igdb": "handstand-hank",
+   "metacritic": "handstand-hank",
    "steam": "3308150"
   },
   "label_en": "Handstand Hank",
@@ -1276,6 +1288,7 @@
   "ids": {
    "igdb": "ninja-senki-dx",
    "mobygames": "84456",
+   "pcgamingwiki": "Ninja_Senki_DX",
    "steam": "405540"
   },
   "label_en": "Ninja Senki DX",

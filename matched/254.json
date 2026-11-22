@@ -25,6 +25,7 @@
    "gog": "game/agarest_generations_of_war_zero",
    "howlongtobeat": "7670",
    "igdb": "record-of-agarest-war-zero",
+   "metacritic": "record-of-agarest-war-zero",
    "mobygames": "83257",
    "pcgamingwiki": "Agarest:_Generations_of_War_Zero",
    "steam": "260130"
@@ -46,6 +47,7 @@
   "enwiki": "Doctor Lautrec and the Forgotten Knights",
   "ids": {
    "igdb": "doctor-lautrec-and-the-forgotten-knights",
+   "metacritic": "doctor-lautrec-and-the-forgotten-knights",
    "mobygames": "55645"
   },
   "label_en": "Doctor Lautrec and the Forgotten Knights",
@@ -56,6 +58,7 @@
   "ids": {
    "howlongtobeat": "1993",
    "igdb": "crazy-machines",
+   "metacritic": "crazy-machines-the-wacky-contraptions-game",
    "mobygames": "37470",
    "pcgamingwiki": "Crazy_Machines",
    "steam": "18420"
@@ -69,6 +72,7 @@
    "gog": "game/uplink_hacker_elite",
    "howlongtobeat": "10845",
    "igdb": "uplink",
+   "metacritic": "uplink-hacker-elite",
    "mobygames": "6900",
    "pcgamingwiki": "Uplink:_Hacker_Elite",
    "steam": "1510"
@@ -90,6 +94,7 @@
   "ids": {
    "howlongtobeat": "5945",
    "igdb": "meteos",
+   "metacritic": "meteos",
    "mobygames": "18303"
   },
   "label_en": "Meteos",
@@ -161,7 +166,8 @@
  {
   "enwiki": "101-in-1 Sports Party Megamix",
   "ids": {
-   "igdb": "101-in-1-sports-party-megamix"
+   "igdb": "101-in-1-sports-party-megamix",
+   "metacritic": "101-in-1-sports-party-megamix"
   },
   "label_en": "101-in-1 Sports Party Megamix",
   "wikidata": "Q4546254"
@@ -193,6 +199,7 @@
   "enwiki": "ESPN MLS ExtraTime 2002",
   "ids": {
    "igdb": "espn-mls-extratime-2002",
+   "metacritic": "espn-mls-extratime",
    "mobygames": "39078"
   },
   "label_en": "ESPN MLS ExtraTime 2002",
@@ -202,6 +209,7 @@
   "enwiki": "Frogger 2 (2008 video game)",
   "ids": {
    "igdb": "frogger-2--2",
+   "metacritic": "frogger-2",
    "mobygames": "47641"
   },
   "label_en": "Frogger 2",
@@ -211,6 +219,7 @@
   "enwiki": "Ghost in the Shell: Stand Alone Complex (2004 video game)",
   "ids": {
    "igdb": "ghost-in-the-shell-stand-alone-complex",
+   "metacritic": "ghost-in-the-shell-stand-alone-complex-2004",
    "mobygames": "16273"
   },
   "label_en": "Ghost in the Shell: Stand Alone Complex",
@@ -244,6 +253,7 @@
   "enwiki": "The Con (video game)",
   "ids": {
    "igdb": "the-con",
+   "metacritic": "the-con",
    "mobygames": "35721"
   },
   "label_en": "The Con",
@@ -267,6 +277,7 @@
   "ids": {
    "howlongtobeat": "13835",
    "igdb": "angry-birds-star-wars-ii",
+   "metacritic": "angry-birds-star-wars-ii",
    "mobygames": "62348",
    "pcgamingwiki": "Angry_Birds_Star_Wars_II"
   },
@@ -306,6 +317,7 @@
    "gog": "game/the_guest",
    "howlongtobeat": "27436",
    "igdb": "the-guest",
+   "metacritic": "the-guest",
    "mobygames": "77496",
    "pcgamingwiki": "The_Guest",
    "steam": "402040"
@@ -366,7 +378,8 @@
  },
  {
   "ids": {
-   "igdb": "the-silent-hill-experience"
+   "igdb": "the-silent-hill-experience",
+   "metacritic": "the-silent-hill-experience"
   },
   "label_en": "The Silent Hill Experience",
   "wikidata": "Q61314254"
@@ -376,6 +389,7 @@
    "gog": "game/regalia_of_men_and_monarchs",
    "howlongtobeat": "44822",
    "igdb": "regalia-of-men-and-monarchs",
+   "metacritic": "regalia-of-men-and-monarchs",
    "mobygames": "88824",
    "pcgamingwiki": "Regalia:_Of_Men_and_Monarchs",
    "steam": "464150"
@@ -390,6 +404,7 @@
    "gog": "game/yes_your_grace",
    "howlongtobeat": "71500",
    "igdb": "yes-your-grace",
+   "metacritic": "yes-your-grace",
    "mobygames": "143269",
    "pcgamingwiki": "Yes,_Your_Grace",
    "steam": "1115690"
@@ -411,6 +426,7 @@
    "gog": "game/gungrave_gore",
    "howlongtobeat": "112973",
    "igdb": "gungrave-gore",
+   "metacritic": "gungrave-gore",
    "mobygames": "195745",
    "pcgamingwiki": "Gungrave_G.O.R.E",
    "steam": "1630110"
@@ -920,6 +936,7 @@
   "ids": {
    "howlongtobeat": "169268",
    "igdb": "chronicles-medieval",
+   "metacritic": "chronicles-medieval",
    "pcgamingwiki": "Chronicles:_Medieval",
    "steam": "2231020"
   },

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4988",
    "igdb": "killzone-liberation",
+   "metacritic": "killzone-liberation",
    "mobygames": "25372"
   },
   "label_en": "Killzone: Liberation",
@@ -35,6 +36,7 @@
    "gog": "game/weird_worlds_return_to_infinite_space",
    "howlongtobeat": "11124",
    "igdb": "weird-worlds-return-to-infinite-space",
+   "metacritic": "weird-worlds-return-to-infinite-space",
    "mobygames": "20259",
    "pcgamingwiki": "Weird_Worlds:_Return_to_Infinite_Space",
    "steam": "226120"
@@ -47,6 +49,7 @@
   "ids": {
    "howlongtobeat": "1406",
    "igdb": "burnout-crash",
+   "metacritic": "burnout-crash",
    "mobygames": "54211"
   },
   "label_en": "Burnout Crash!",
@@ -55,7 +58,8 @@
  {
   "enwiki": "12 O'Clock High: Bombing the Reich",
   "ids": {
-   "igdb": "12-oclock-high-bombing-the-reich"
+   "igdb": "12-oclock-high-bombing-the-reich",
+   "metacritic": "12-oclock-high-bombing-the-reich"
   },
   "label_en": "TalonSoft's 12 O'Clock High: Bombing the Reich",
   "wikidata": "Q2807392"
@@ -64,6 +68,7 @@
   "enwiki": "Dino Island",
   "ids": {
    "igdb": "dino-island",
+   "metacritic": "dino-island",
    "mobygames": "10825",
    "pcgamingwiki": "Dino_Island"
   },
@@ -74,6 +79,7 @@
   "enwiki": "Pacific Fighters",
   "ids": {
    "igdb": "pacific-fighters",
+   "metacritic": "pacific-fighters",
    "mobygames": "15276"
   },
   "label_en": "Pacific Fighters",
@@ -90,6 +96,7 @@
   "enwiki": "Disney's Hide and Sneak",
   "ids": {
    "igdb": "disney-s-hide-and-sneak",
+   "metacritic": "disneys-hide-and-sneak",
    "mobygames": "81327"
   },
   "label_en": "Disney's Hide and Sneak",
@@ -120,6 +127,7 @@
   "ids": {
    "howlongtobeat": "22389",
    "igdb": "juka-and-the-monophonic-menace",
+   "metacritic": "juka-and-the-monophonic-menace",
    "mobygames": "21591"
   },
   "label_en": "Juka and the Monophonic Menace",
@@ -144,6 +152,7 @@
    "gog": "game/legend_of_heroes_trails_in_the_sky_sc_the",
    "howlongtobeat": "31863",
    "igdb": "the-legend-of-heroes-trails-in-the-sky-sc",
+   "metacritic": "the-legend-of-heroes-trails-in-the-sky-sc",
    "mobygames": "82453",
    "pcgamingwiki": "The_Legend_of_Heroes:_Trails_in_the_Sky_SC",
    "steam": "251290"
@@ -192,6 +201,7 @@
  {
   "ids": {
    "igdb": "breakout--1",
+   "metacritic": "breakout",
    "mobygames": "6790"
   },
   "label_en": "Breakout",
@@ -203,6 +213,7 @@
    "epic": "the-kings-bird-a5b589",
    "howlongtobeat": "58024",
    "igdb": "the-kings-bird",
+   "metacritic": "the-kings-bird",
    "mobygames": "114693",
    "pcgamingwiki": "The_King's_Bird",
    "steam": "812550"
@@ -235,6 +246,7 @@
    "gog": "game/port_royale_4",
    "howlongtobeat": "71501",
    "igdb": "port-royale-4",
+   "metacritic": "port-royale-4",
    "mobygames": "150904",
    "pcgamingwiki": "Port_Royale_4",
    "steam": "1024650"
@@ -248,6 +260,7 @@
    "epic": "shady-part-of-me",
    "howlongtobeat": "85957",
    "igdb": "shady-part-of-me",
+   "metacritic": "shady-part-of-me",
    "mobygames": "155521",
    "pcgamingwiki": "Shady_Part_of_Me",
    "steam": "1116580"
@@ -259,6 +272,7 @@
   "ids": {
    "howlongtobeat": "12262",
    "igdb": "out-of-the-park-baseball-14",
+   "metacritic": "out-of-the-park-baseball-14",
    "mobygames": "126308",
    "pcgamingwiki": "Out_of_the_Park_Baseball_14",
    "steam": "263840"
@@ -271,6 +285,7 @@
    "gog": "game/kimagure_temptation",
    "howlongtobeat": "100590",
    "igdb": "kimagure-temptation",
+   "metacritic": "kimagure-temptation",
    "mobygames": "181185",
    "pcgamingwiki": "Kimagure_Temptation",
    "steam": "1642260"
@@ -389,6 +404,7 @@
   "ids": {
    "howlongtobeat": "81645",
    "igdb": "post-void",
+   "metacritic": "post-void",
    "mobygames": "149036",
    "pcgamingwiki": "Post_Void",
    "steam": "1285670"
@@ -445,6 +461,7 @@
   "ids": {
    "howlongtobeat": "8308",
    "igdb": "before-the-echo",
+   "metacritic": "sequence",
    "mobygames": "53490",
    "pcgamingwiki": "Before_the_Echo",
    "steam": "200910"
@@ -573,6 +590,7 @@
   "ids": {
    "howlongtobeat": "108434",
    "igdb": "ghostlore",
+   "metacritic": "ghostlore",
    "mobygames": "203264",
    "pcgamingwiki": "Ghostlore",
    "steam": "1783280"
@@ -891,6 +909,7 @@
   "ids": {
    "howlongtobeat": "147397",
    "igdb": "anthology-of-the-killer",
+   "metacritic": "anthology-of-the-killer",
    "mobygames": "231613",
    "pcgamingwiki": "Anthology_of_the_Killer",
    "steam": "3212530"
@@ -903,6 +922,7 @@
   "ids": {
    "howlongtobeat": "168211",
    "igdb": "shuten-order",
+   "metacritic": "shuten-order",
    "mobygames": "248850",
    "pcgamingwiki": "Shuten_Order",
    "steam": "3216500"
@@ -1106,6 +1126,7 @@
  {
   "ids": {
    "igdb": "the-cursed-moon-the-girl-trapped-in-the-haunted-house",
+   "metacritic": "the-cursed-moon-the-girl-trapped-in-the-haunted",
    "mobygames": "237574",
    "steam": "3338380"
   },

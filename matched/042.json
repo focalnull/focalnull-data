@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "5648",
    "igdb": "mario-party-8",
+   "metacritic": "mario-party-8",
    "mobygames": "28637"
   },
   "label_en": "Mario Party 8",
@@ -25,6 +26,7 @@
    "gog": "game/hitman_2_silent_assassin",
    "howlongtobeat": "4473",
    "igdb": "hitman-2-silent-assassin",
+   "metacritic": "hitman-2-silent-assassin",
    "mobygames": "7369",
    "pcgamingwiki": "Hitman_2:_Silent_Assassin",
    "steam": "6850"
@@ -61,6 +63,7 @@
   "ids": {
    "howlongtobeat": "22986",
    "igdb": "anubis-ii",
+   "metacritic": "anubis-ii",
    "mobygames": "34114"
   },
   "label_en": "Anubis II",
@@ -79,6 +82,7 @@
   "enwiki": "Teenage Mutant Ninja Turtles: Smash-Up",
   "ids": {
    "igdb": "teenage-mutant-ninja-turtles-smash-up",
+   "metacritic": "teenage-mutant-ninja-turtles-smash-up",
    "mobygames": "77549"
   },
   "label_en": "Teenage Mutant Ninja Turtles: Smash-Up",
@@ -96,6 +100,7 @@
   "enwiki": "Star Fox: Assault",
   "ids": {
    "igdb": "star-fox-assault",
+   "metacritic": "star-fox-assault",
    "mobygames": "17644"
   },
   "label_en": "Star Fox: Assault",
@@ -218,6 +223,7 @@
   "ids": {
    "howlongtobeat": "16838",
    "igdb": "daemonica",
+   "metacritic": "daemonica",
    "mobygames": "21983",
    "pcgamingwiki": "Daemonica"
   },
@@ -238,6 +244,7 @@
   "ids": {
    "howlongtobeat": "51919",
    "igdb": "touhou-kanjuden-legacy-of-lunatic-kingdom",
+   "metacritic": "legacy-of-lunatic-kingdom",
    "mobygames": "76172",
    "pcgamingwiki": "Legacy_of_Lunatic_Kingdom",
    "steam": "937580"
@@ -250,6 +257,7 @@
   "ids": {
    "howlongtobeat": "40399",
    "igdb": "five-nights-at-freddys-sister-location",
+   "metacritic": "five-nights-at-freddys-sister-location",
    "mobygames": "81382",
    "pcgamingwiki": "Five_Nights_at_Freddy's:_Sister_Location",
    "steam": "506610"
@@ -261,6 +269,7 @@
   "ids": {
    "howlongtobeat": "45152",
    "igdb": "the-wild-eternal",
+   "metacritic": "the-wild-eternal",
    "mobygames": "92311",
    "pcgamingwiki": "The_Wild_Eternal",
    "steam": "554810"
@@ -289,7 +298,9 @@
   "enwiki": "Dragonheart: Fire & Steel",
   "ids": {
    "igdb": "dragonheart-fire-and-steel",
-   "mobygames": "52966"
+   "metacritic": "dragonheart-fire-steel",
+   "mobygames": "52966",
+   "pcgamingwiki": "DragonHeart:_Fire_&_Steel"
   },
   "label_en": "DragonHeart: Fire & Steel",
   "wikidata": "Q48838042"
@@ -298,6 +309,7 @@
   "ids": {
    "howlongtobeat": "38139",
    "igdb": "the-deed-dynasty",
+   "metacritic": "the-deed-dynasty",
    "mobygames": "86784",
    "pcgamingwiki": "The_Deed:_Dynasty",
    "steam": "460960"
@@ -311,6 +323,7 @@
    "gog": "game/bridge_constructor",
    "howlongtobeat": "14503",
    "igdb": "bridge-constructor",
+   "metacritic": "bridge-constructor",
    "mobygames": "59151",
    "pcgamingwiki": "Bridge_Constructor",
    "steam": "250460"
@@ -337,6 +350,7 @@
    "gog": "game/adventure_pals",
    "howlongtobeat": "53077",
    "igdb": "the-adventure-pals",
+   "metacritic": "the-adventure-pals",
    "mobygames": "106345",
    "pcgamingwiki": "The_Adventure_Pals",
    "steam": "396710"
@@ -511,6 +525,7 @@
    "gog": "game/harmony_the_fall_of_reverie",
    "howlongtobeat": "124008",
    "igdb": "harmony-the-fall-of-reverie",
+   "metacritic": "harmony-the-fall-of-reverie",
    "mobygames": "204325",
    "pcgamingwiki": "Harmony:_The_Fall_of_Reverie",
    "steam": "1966420"
@@ -529,6 +544,7 @@
  {
   "ids": {
    "igdb": "warhaven",
+   "metacritic": "warhaven",
    "mobygames": "208945",
    "pcgamingwiki": "Warhaven",
    "steam": "2107680"
@@ -538,7 +554,8 @@
  },
  {
   "ids": {
-   "igdb": "pikmin-1-plus-2-bundle"
+   "igdb": "pikmin-1-plus-2-bundle",
+   "metacritic": "pikmin-1-plus-2"
   },
   "label_en": "Pikmin 1+2",
   "wikidata": "Q119833042"
@@ -610,6 +627,7 @@
   "ids": {
    "howlongtobeat": "73146",
    "igdb": "russian-subway-dogs",
+   "metacritic": "russian-subway-dogs",
    "mobygames": "112420",
    "pcgamingwiki": "Russian_Subway_Dogs",
    "steam": "762610"
@@ -623,6 +641,7 @@
    "howlongtobeat": "95696",
    "igdb": "fears-to-fathom-home-alone--1",
    "mobygames": "167535",
+   "pcgamingwiki": "Fears_to_Fathom:_Home_Alone",
    "steam": "1671340"
   },
   "label_en": "Fears to Fathom",
@@ -770,6 +789,7 @@
  {
   "ids": {
    "igdb": "lanterns",
+   "metacritic": "lanterns",
    "pcgamingwiki": "Lanterns",
    "steam": "806670"
   },
@@ -809,6 +829,7 @@
   "ids": {
    "howlongtobeat": "103143",
    "igdb": "momodora-moonlit-farewell",
+   "metacritic": "momodora-moonlit-farewell",
    "mobygames": "215460",
    "pcgamingwiki": "Momodora:_Moonlit_Farewell",
    "steam": "1747760"
@@ -910,6 +931,7 @@
    "epic": "sunnyside-0f9ee4",
    "howlongtobeat": "98397",
    "igdb": "sunnyside",
+   "metacritic": "sunnyside",
    "mobygames": "226101",
    "pcgamingwiki": "SunnySide",
    "steam": "1746930"
@@ -922,6 +944,7 @@
   "ids": {
    "howlongtobeat": "19641",
    "igdb": "knytt-stories",
+   "metacritic": "knytt-stories",
    "mobygames": "30294",
    "pcgamingwiki": "Knytt_Stories"
   },

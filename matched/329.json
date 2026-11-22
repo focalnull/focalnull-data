@@ -38,6 +38,7 @@
   "ids": {
    "howlongtobeat": "1305",
    "igdb": "brave-a-warrior-s-tale",
+   "metacritic": "brave-a-warriors-tale",
    "mobygames": "19018"
   },
   "label_en": "Brave: A Warrior's Tale",
@@ -126,6 +127,7 @@
   "ids": {
    "howlongtobeat": "9517",
    "igdb": "swords-and-soldiers",
+   "metacritic": "swords-and-soldiers",
    "mobygames": "50971",
    "pcgamingwiki": "Swords_&_Soldiers",
    "steam": "63500"
@@ -146,7 +148,8 @@
  {
   "enwiki": "Yoga Wii",
   "ids": {
-   "igdb": "yoga-wii"
+   "igdb": "yoga-wii",
+   "metacritic": "yoga"
   },
   "label_en": "Yoga Wii",
   "wikidata": "Q8054329"
@@ -187,6 +190,7 @@
   "enwiki": "Rugby Challenge 3",
   "ids": {
    "igdb": "rugby-challenge-3",
+   "metacritic": "rugby-challenge-3",
    "mobygames": "86992",
    "pcgamingwiki": "Rugby_Challenge_3",
    "steam": "370840"
@@ -198,6 +202,7 @@
   "enwiki": "Monster of the Deep: Final Fantasy XV",
   "ids": {
    "igdb": "monster-of-the-deep-final-fantasy-xv",
+   "metacritic": "monster-of-the-deep-final-fantasy-xv",
    "mobygames": "98439"
   },
   "label_en": "Monster of the Deep: Final Fantasy XV",
@@ -226,6 +231,7 @@
    "gog": "game/pikuniku",
    "howlongtobeat": "64060",
    "igdb": "pikuniku",
+   "metacritic": "pikuniku",
    "mobygames": "120095",
    "pcgamingwiki": "Pikuniku",
    "steam": "572890"
@@ -274,7 +280,8 @@
  {
   "enwiki": "Hide & Dance!",
   "ids": {
-   "igdb": "hide-and-dance"
+   "igdb": "hide-and-dance",
+   "metacritic": "hide-and-dance"
   },
   "label_en": "Hide & Dance!",
   "wikidata": "Q104698329"
@@ -282,6 +289,7 @@
  {
   "ids": {
    "igdb": "picross-e6",
+   "metacritic": "picross-e6",
    "mobygames": "88469"
   },
   "label_en": "Picross e6",
@@ -362,6 +370,7 @@
    "epic": "onsen-master-9e1323",
    "howlongtobeat": "116473",
    "igdb": "onsen-master",
+   "metacritic": "onsen-master",
    "mobygames": "191055",
    "steam": "1334780"
   },
@@ -1058,6 +1067,7 @@
  {
   "ids": {
    "igdb": "good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-dot-dot-dot-and-theyre-hot",
+   "metacritic": "good-lord-everyone-at-the-reunion-for-my-religious",
    "mobygames": "242612",
    "steam": "3474840"
   },

@@ -25,6 +25,7 @@
   "ids": {
    "howlongtobeat": "2220",
    "igdb": "dark-sector",
+   "metacritic": "dark-sector",
    "mobygames": "34994",
    "pcgamingwiki": "Dark_Sector",
    "steam": "29900"
@@ -36,6 +37,7 @@
   "enwiki": "Sonic Free Riders",
   "ids": {
    "igdb": "sonic-free-riders",
+   "metacritic": "sonic-free-riders",
    "mobygames": "49070"
   },
   "label_en": "Sonic Free Riders",
@@ -53,7 +55,8 @@
   "enwiki": "The Splatters",
   "ids": {
    "howlongtobeat": "10211",
-   "igdb": "the-splatters"
+   "igdb": "the-splatters",
+   "metacritic": "the-splatters"
   },
   "label_en": "The Splatters",
   "wikidata": "Q2997189"
@@ -110,6 +113,7 @@
    "gog": "game/locks_quest",
    "howlongtobeat": "5350",
    "igdb": "locks-quest",
+   "metacritic": "locks-quest",
    "mobygames": "36184",
    "pcgamingwiki": "Lock's_Quest",
    "steam": "490080"
@@ -143,6 +147,7 @@
   "ids": {
    "igdb": "nobunagas-ambition-ii",
    "mobygames": "6167",
+   "pcgamingwiki": "Nobunaga's_Ambition:_Sengoku_Gunyuuden",
    "steam": "521700"
   },
   "label_en": "Nobunaga's Ambition II",
@@ -192,6 +197,7 @@
    "epic": "chromagun",
    "howlongtobeat": "34815",
    "igdb": "chromagun",
+   "metacritic": "chromagun",
    "mobygames": "94855",
    "pcgamingwiki": "ChromaGun",
    "steam": "408650"
@@ -204,6 +210,7 @@
   "ids": {
    "howlongtobeat": "37862",
    "igdb": "injustice-2",
+   "metacritic": "injustice-2",
    "mobygames": "88723",
    "pcgamingwiki": "Injustice_2",
    "steam": "627270"
@@ -238,6 +245,7 @@
   "enwiki": "Ares Rising",
   "ids": {
    "igdb": "ares-rising",
+   "metacritic": "ares-rising",
    "mobygames": "4665"
   },
   "label_en": "Ares Rising",
@@ -248,6 +256,7 @@
    "gog": "game/grim_fandango_remastered",
    "howlongtobeat": "4123",
    "igdb": "grim-fandango-remastered",
+   "metacritic": "grim-fandango-remastered",
    "mobygames": "70792",
    "pcgamingwiki": "Grim_Fandango_Remastered",
    "steam": "316790"
@@ -259,6 +268,7 @@
   "ids": {
    "howlongtobeat": "89800",
    "igdb": "altdeus-beyond-chronos",
+   "metacritic": "altdeus-beyond-chronos",
    "mobygames": "158544",
    "pcgamingwiki": "ALTDEUS:_Beyond_Chronos",
    "steam": "1502080"
@@ -319,7 +329,9 @@
  {
   "ids": {
    "igdb": "tiny-bunny",
+   "metacritic": "tiny-bunny",
    "mobygames": "146349",
+   "pcgamingwiki": "Tiny_Bunny",
    "steam": "1421250"
   },
   "label_en": "Tiny Bunny",
@@ -344,6 +356,7 @@
    "gog": "game/silent_hill_townfall",
    "howlongtobeat": "114900",
    "igdb": "silent-hill-townfall",
+   "metacritic": "silent-hill-townfall",
    "pcgamingwiki": "Silent_Hill:_Townfall",
    "steam": "1636440"
   },
@@ -356,6 +369,7 @@
    "gog": "game/scarf",
    "howlongtobeat": "101772",
    "igdb": "scarf",
+   "metacritic": "scarf",
    "mobygames": "177314",
    "pcgamingwiki": "Scarf",
    "steam": "645320"
@@ -783,7 +797,8 @@
  },
  {
   "ids": {
-   "igdb": "momodora-ii"
+   "igdb": "momodora-ii",
+   "pcgamingwiki": "Momodora_II"
   },
   "label_en": "Momodora II",
   "wikidata": "Q131619189"
@@ -1134,6 +1149,7 @@
  {
   "ids": {
    "igdb": "sudokube",
+   "pcgamingwiki": "Sudokube",
    "steam": "684980"
   },
   "label_en": "Sudokube",

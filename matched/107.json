@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2292",
    "igdb": "dc-universe-online",
+   "metacritic": "dc-universe-online",
    "mobygames": "50386",
    "pcgamingwiki": "DC_Universe_Online",
    "steam": "24200"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "15315",
    "igdb": "zoo-tycoon-2",
+   "metacritic": "zoo-tycoon-2",
    "mobygames": "15606",
    "pcgamingwiki": "Zoo_Tycoon_2"
   },
@@ -25,7 +27,9 @@
  {
   "enwiki": "World of Padman",
   "ids": {
+   "howlongtobeat": "43340",
    "igdb": "world-of-padman",
+   "metacritic": "world-of-padman",
    "mobygames": "171098",
    "pcgamingwiki": "World_of_Padman"
   },
@@ -37,6 +41,7 @@
   "ids": {
    "howlongtobeat": "2489",
    "igdb": "deus-ex-human-revolution",
+   "metacritic": "deus-ex-human-revolution",
    "mobygames": "52641",
    "pcgamingwiki": "Deus_Ex:_Human_Revolution",
    "steam": "28050"
@@ -49,6 +54,7 @@
   "ids": {
    "howlongtobeat": "11449",
    "igdb": "you-dont-know-jack-vol-1-xl",
+   "metacritic": "you-dont-know-jack-1995",
    "mobygames": "1407",
    "pcgamingwiki": "You_Don't_Know_Jack"
   },
@@ -59,6 +65,7 @@
   "enwiki": "Mega Man Battle Network (video game)",
   "ids": {
    "igdb": "mega-man-battle-network",
+   "metacritic": "mega-man-battle-network",
    "mobygames": "5308"
   },
   "label_en": "Mega Man Battle Network",
@@ -68,6 +75,7 @@
   "enwiki": "Grand Slam Tennis",
   "ids": {
    "igdb": "grand-slam-tennis",
+   "metacritic": "grand-slam-tennis",
    "mobygames": "56234"
   },
   "label_en": "Grand Slam Tennis",
@@ -128,6 +136,7 @@
   "enwiki": "The Penguins of Madagascar (video game)",
   "ids": {
    "igdb": "the-penguins-of-madagascar",
+   "metacritic": "the-penguins-of-madagascar",
    "mobygames": "90439"
   },
   "label_en": "The Penguins of Madagascar",
@@ -145,6 +154,7 @@
  {
   "ids": {
    "igdb": "the-axys-adventures-truth-seeker-battle-against-the-lies",
+   "metacritic": "the-axys-adventures-truth-seeker",
    "mobygames": "28517",
    "pcgamingwiki": "The_Axys_Adventures:_Truth_Seeker"
   },
@@ -191,6 +201,7 @@
   "ids": {
    "howlongtobeat": "38116",
    "igdb": "turnon",
+   "metacritic": "turnon",
    "mobygames": "79224",
    "pcgamingwiki": "TurnOn",
    "steam": "428220"
@@ -203,6 +214,7 @@
   "ids": {
    "howlongtobeat": "78291",
    "igdb": "space-station-13",
+   "metacritic": "space-station-13",
    "mobygames": "168557",
    "pcgamingwiki": "Space_Station_13"
   },
@@ -214,6 +226,7 @@
   "ids": {
    "howlongtobeat": "38137",
    "igdb": "i-am-setsuna",
+   "metacritic": "i-am-setsuna",
    "mobygames": "82691",
    "pcgamingwiki": "I_Am_Setsuna",
    "steam": "441830"
@@ -225,6 +238,7 @@
   "enwiki": "FIFA 18",
   "ids": {
    "igdb": "fifa-18",
+   "metacritic": "fifa-18",
    "mobygames": "96607",
    "pcgamingwiki": "FIFA_18"
   },
@@ -235,6 +249,7 @@
   "enwiki": "Mike Tyson Heavyweight Boxing",
   "ids": {
    "igdb": "mike-tyson-heavyweight-boxing",
+   "metacritic": "mike-tyson-heavyweight-boxing",
    "mobygames": "7008"
   },
   "label_en": "Mike Tyson Heavyweight Boxing",
@@ -252,6 +267,7 @@
   "ids": {
    "howlongtobeat": "12031",
    "igdb": "blades-of-avernum",
+   "metacritic": "blades-of-avernum",
    "mobygames": "14210",
    "pcgamingwiki": "Blades_of_Avernum"
   },
@@ -261,6 +277,7 @@
  {
   "ids": {
    "igdb": "fruit-crawler",
+   "metacritic": "fruit-crawler",
    "pcgamingwiki": "Fruit_Crawler",
    "steam": "1033370"
   },
@@ -281,6 +298,7 @@
    "gog": "game/convergence_a_league_of_legends_story",
    "howlongtobeat": "106729",
    "igdb": "convergence-a-league-of-legends-story",
+   "metacritic": "convrgence-a-league-of-legends-story",
    "mobygames": "203535",
    "pcgamingwiki": "Conv/rgence:_A_League_of_Legends_Story",
    "steam": "1276800"
@@ -299,6 +317,7 @@
  {
   "ids": {
    "igdb": "paws-and-claws-best-friends-dogs-and-cats",
+   "metacritic": "paws-and-claws-best-friends-dogs-and-cats",
    "mobygames": "36246"
   },
   "label_en": "Paws & Claws: Best Friends - Dogs & Cats",
@@ -310,6 +329,7 @@
    "epic": "tower-of-fantasy",
    "howlongtobeat": "107144",
    "igdb": "tower-of-fantasy",
+   "metacritic": "tower-of-fantasy",
    "mobygames": "189656",
    "pcgamingwiki": "Tower_of_Fantasy",
    "steam": "2064650"
@@ -325,6 +345,9 @@
   "wikidata": "Q110817107"
  },
  {
+  "ids": {
+   "metacritic": "egglia-rebirth"
+  },
   "label_en": "Egglia: Rebirth",
   "wikidata": "Q110905107"
  },
@@ -333,6 +356,7 @@
   "ids": {
    "howlongtobeat": "1957",
    "igdb": "counter-strike-2",
+   "metacritic": "counter-strike-2",
    "mobygames": "209456",
    "pcgamingwiki": "Counter-Strike_2",
    "steam": "730"
@@ -346,6 +370,7 @@
    "gog": "game/warpips",
    "howlongtobeat": "84001",
    "igdb": "warpips",
+   "metacritic": "warpips",
    "mobygames": "163525",
    "pcgamingwiki": "Warpips",
    "steam": "1291010"
@@ -440,6 +465,7 @@
  {
   "ids": {
    "igdb": "project-blue-book-hidden-mysteries",
+   "pcgamingwiki": "Project_Blue_Book:_Hidden_Mysteries",
    "steam": "1543990"
   },
   "label_en": "Project Blue Book: Hidden Mysteries",
@@ -1141,6 +1167,7 @@
  {
   "ids": {
    "igdb": "a-grande-bagunca-espacial-the-big-space-mess",
+   "pcgamingwiki": "A_Grande_Bagunça_Espacial_-_The_Big_Space_Mess",
    "steam": "449220"
   },
   "label_en": "A grande bagunça espacial - The big space mess",

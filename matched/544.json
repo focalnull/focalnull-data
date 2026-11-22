@@ -12,6 +12,7 @@
   "enwiki": "Mario & Sonic at the Olympic Winter Games",
   "ids": {
    "igdb": "mario-and-sonic-at-the-olympic-winter-games--1",
+   "metacritic": "mario-sonic-at-the-olympic-winter-games",
    "mobygames": "50362"
   },
   "label_en": "Mario & Sonic at the Olympic Winter Games",
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "6190",
    "igdb": "moon",
+   "metacritic": "moon-2009",
    "mobygames": "38839"
   },
   "label_en": "Moon",
@@ -87,6 +89,7 @@
   "ids": {
    "howlongtobeat": "23916",
    "igdb": "billy-the-wizard-rocket-broomstick-racing",
+   "metacritic": "billy-the-wizard-rocket-broomstick-racing",
    "mobygames": "34116",
    "pcgamingwiki": "Billy_the_Wizard:_Rocket_Broomstick_Racing"
   },
@@ -97,6 +100,7 @@
   "enwiki": "Geon: Emotions",
   "ids": {
    "igdb": "geon-emotions",
+   "metacritic": "geon-emotions",
    "mobygames": "35429"
   },
   "label_en": "Geon: Emotions",
@@ -128,6 +132,7 @@
   "ids": {
    "howlongtobeat": "14445",
    "igdb": "final-exam",
+   "metacritic": "final-exam",
    "mobygames": "95613",
    "pcgamingwiki": "Final_Exam",
    "steam": "233190"
@@ -157,6 +162,7 @@
   "ids": {
    "howlongtobeat": "22765",
    "igdb": "everlasting-summer",
+   "metacritic": "everlasting-summer",
    "mobygames": "74809",
    "pcgamingwiki": "Everlasting_Summer",
    "steam": "331470"
@@ -180,6 +186,7 @@
    "gog": "game/the_blackwell_epiphany",
    "howlongtobeat": "18013",
    "igdb": "the-blackwell-epiphany",
+   "metacritic": "blackwell-epiphany",
    "mobygames": "69647",
    "pcgamingwiki": "Blackwell_Epiphany",
    "steam": "236930"
@@ -191,6 +198,7 @@
   "ids": {
    "howlongtobeat": "33356",
    "igdb": "valkyrie-drive-bhikkhuni",
+   "metacritic": "valkyrie-drive-bhikkhuni",
    "mobygames": "90929",
    "pcgamingwiki": "Valkyrie_Drive:_Bhikkhuni",
    "steam": "550080"
@@ -204,6 +212,7 @@
    "gog": "game/grimoire_heralds_of_the_winged_exemplar",
    "howlongtobeat": "50615",
    "igdb": "grimoire-heralds-of-the-winged-exemplar",
+   "metacritic": "grimoire-heralds-of-the-winged-exemplar",
    "mobygames": "93793",
    "pcgamingwiki": "Grimoire:_Heralds_of_the_Winged_Exemplar",
    "steam": "650670"
@@ -216,6 +225,7 @@
   "ids": {
    "howlongtobeat": "53267",
    "igdb": "planet-of-the-apes-last-frontier",
+   "metacritic": "planet-of-the-apes-last-frontier",
    "mobygames": "97477",
    "pcgamingwiki": "Planet_of_the_Apes:_Last_Frontier",
    "steam": "789910"
@@ -234,6 +244,7 @@
    "gog": "game/truberbrook_a_nerd_saves_the_world",
    "howlongtobeat": "65656",
    "igdb": "truberbrook",
+   "metacritic": "truberbrook-a-nerd-saves-the-world",
    "mobygames": "122644",
    "pcgamingwiki": "Trüberbrook_-_A_Nerd_Saves_the_World",
    "steam": "757300"
@@ -248,6 +259,7 @@
    "gog": "game/airborne_kingdom",
    "howlongtobeat": "71492",
    "igdb": "airborne-kingdom",
+   "metacritic": "airborne-kingdom",
    "mobygames": "167880",
    "pcgamingwiki": "Airborne_Kingdom",
    "steam": "982290"
@@ -290,6 +302,7 @@
    "epic": "salt-and-sacrifice",
    "howlongtobeat": "93904",
    "igdb": "salt-and-sacrifice",
+   "metacritic": "salt-and-sacrifice",
    "mobygames": "184047",
    "pcgamingwiki": "Salt_and_Sacrifice",
    "steam": "1437400"
@@ -302,6 +315,7 @@
   "ids": {
    "howlongtobeat": "98273",
    "igdb": "kirby-and-the-forgotten-land",
+   "metacritic": "kirby-and-the-forgotten-land",
    "mobygames": "181802"
   },
   "label_en": "Kirby and the Forgotten Land",
@@ -347,6 +361,7 @@
    "howlongtobeat": "108258",
    "igdb": "soda-crisis",
    "mobygames": "184825",
+   "pcgamingwiki": "Soda_Crisis",
    "steam": "1592670"
   },
   "label_en": "Soda Crisis",
@@ -376,6 +391,7 @@
   "ids": {
    "howlongtobeat": "28381",
    "igdb": "fire-emblem-fates-conquest",
+   "metacritic": "fire-emblem-if",
    "mobygames": "73728"
   },
   "label_en": "Fire Emblem Fates: Conquest",
@@ -629,6 +645,7 @@
   "ids": {
    "howlongtobeat": "129180",
    "igdb": "haruka-beyond-the-stars",
+   "metacritic": "haruka-beyond-the-stars",
    "steam": "2425200"
   },
   "label_en": "Haruka: Beyond the Stars",
@@ -768,6 +785,7 @@
    "epic": "infinity-nikki-71fc64",
    "howlongtobeat": "117499",
    "igdb": "infinity-nikki",
+   "metacritic": "infinity-nikki",
    "mobygames": "234098",
    "pcgamingwiki": "Infinity_Nikki",
    "steam": "3164330"
@@ -1066,6 +1084,7 @@
   "ids": {
    "gog": "game/beneath",
    "igdb": "beneath",
+   "pcgamingwiki": "Beneath",
    "steam": "1593230"
   },
   "label_en": "Beneath",

@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "9692",
    "igdb": "tenchu-wrath-of-heaven",
+   "metacritic": "tenchu-wrath-of-heaven",
    "mobygames": "9230"
   },
   "label_en": "Tenchu: Wrath of Heaven",
@@ -43,7 +44,8 @@
  {
   "enwiki": "Miami Vice: The Game",
   "ids": {
-   "igdb": "miami-vice-the-game"
+   "igdb": "miami-vice-the-game",
+   "metacritic": "miami-vice-the-game"
   },
   "label_en": "Miami Vice: The Game",
   "wikidata": "Q3307885"
@@ -172,6 +174,7 @@
   "ids": {
    "howlongtobeat": "410",
    "igdb": "altered-beast-guardian-of-the-realms",
+   "metacritic": "altered-beast-guardian-of-the-realms",
    "mobygames": "14540"
   },
   "label_en": "Altered Beast: Guardian of the Realms",
@@ -202,7 +205,8 @@
  {
   "enwiki": "Pokémon Brilliant Diamond",
   "ids": {
-   "igdb": "pokemon-brilliant-diamond"
+   "igdb": "pokemon-brilliant-diamond",
+   "metacritic": "pokemon-brilliant-diamond"
   },
   "label_en": "Pokémon Brilliant Diamond",
   "wikidata": "Q105690885"
@@ -223,6 +227,7 @@
   "ids": {
    "howlongtobeat": "83712",
    "igdb": "fatum-betula",
+   "metacritic": "fatum-betula",
    "mobygames": "160542",
    "steam": "1281270"
   },
@@ -259,6 +264,7 @@
  {
   "ids": {
    "igdb": "hopheaders",
+   "metacritic": "hopheaders",
    "mobygames": "189389",
    "steam": "1652940"
   },
@@ -735,6 +741,7 @@
   "ids": {
    "howlongtobeat": "38924",
    "igdb": "zeus-quest-remastered",
+   "metacritic": "zeus-quest-remastered",
    "mobygames": "105602",
    "pcgamingwiki": "Zeus_Quest_Remastered",
    "steam": "488460"
@@ -830,6 +837,7 @@
  {
   "ids": {
    "igdb": "merchant-64",
+   "metacritic": "merchant-64",
    "mobygames": "240512",
    "steam": "3440000"
   },

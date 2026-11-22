@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10796",
    "igdb": "uncharted-2-among-thieves",
+   "metacritic": "uncharted-2-among-thieves",
    "mobygames": "42918"
   },
   "label_en": "Uncharted 2: Among Thieves",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "8729",
    "igdb": "soldner-secret-wars--1",
+   "metacritic": "soldner-secret-wars",
    "mobygames": "15230"
   },
   "label_en": "Söldner: Secret Wars",
@@ -33,6 +35,7 @@
   "ids": {
    "howlongtobeat": "1957",
    "igdb": "counter-strike-global-offensive",
+   "metacritic": "counter-strike-global-offensive",
    "mobygames": "57599",
    "pcgamingwiki": "Counter-Strike:_Global_Offensive",
    "steam": "4465480"
@@ -93,6 +96,7 @@
   "ids": {
    "howlongtobeat": "19456",
    "igdb": "microsoft-flight-simulator-x",
+   "metacritic": "microsoft-flight-simulator-x",
    "mobygames": "26241",
    "pcgamingwiki": "Microsoft_Flight_Simulator_X",
    "steam": "314160"
@@ -133,6 +137,7 @@
   "ids": {
    "howlongtobeat": "3273",
    "igdb": "extermination",
+   "metacritic": "extermination",
    "mobygames": "4689"
   },
   "label_en": "Extermination",
@@ -161,6 +166,7 @@
   "enwiki": "City Crisis",
   "ids": {
    "igdb": "city-crisis",
+   "metacritic": "city-crisis",
    "mobygames": "7691"
   },
   "label_en": "City Crisis",
@@ -200,6 +206,7 @@
    "gog": "game/republique",
    "howlongtobeat": "24348",
    "igdb": "republique",
+   "metacritic": "republique",
    "mobygames": "77551",
    "pcgamingwiki": "Republique_Remastered",
    "steam": "317100"
@@ -267,6 +274,7 @@
   "ids": {
    "howlongtobeat": "36182",
    "igdb": "rugby-15",
+   "metacritic": "rugby-15",
    "mobygames": "71932",
    "pcgamingwiki": "Rugby_15",
    "steam": "303820"
@@ -314,6 +322,7 @@
    "gog": "game/semblance",
    "howlongtobeat": "57591",
    "igdb": "semblance",
+   "metacritic": "semblance",
    "mobygames": "110930",
    "pcgamingwiki": "Semblance",
    "steam": "700160"
@@ -344,6 +353,7 @@
   "ids": {
    "howlongtobeat": "54936",
    "igdb": "annotation-of-love",
+   "metacritic": "annotation-of-love",
    "mobygames": "210152",
    "pcgamingwiki": "Annotation_of_Love",
    "steam": "787220"
@@ -363,7 +373,8 @@
   "enwiki": "Demon's Souls (2020 video game)",
   "ids": {
    "howlongtobeat": "82153",
-   "igdb": "demons-souls"
+   "igdb": "demons-souls",
+   "metacritic": "demons-souls"
   },
   "label_en": "Demon's Souls",
   "wikidata": "Q96227146"
@@ -380,6 +391,7 @@
   "ids": {
    "howlongtobeat": "26518",
    "igdb": "aces-of-the-luftwaffe",
+   "metacritic": "aces-of-the-luftwaffe",
    "mobygames": "70752",
    "pcgamingwiki": "Aces_of_the_Luftwaffe",
    "steam": "353940"
@@ -416,6 +428,7 @@
   "ids": {
    "howlongtobeat": "84029",
    "igdb": "date-night-bowling",
+   "metacritic": "date-night-bowling",
    "mobygames": "176035",
    "steam": "1271250"
   },
@@ -507,6 +520,7 @@
    "epic": "song-of-horror-20de0c",
    "howlongtobeat": "72846",
    "igdb": "song-of-horror",
+   "metacritic": "song-of-horror",
    "mobygames": "136893",
    "steam": "1096570"
   },
@@ -869,6 +883,7 @@
  {
   "ids": {
    "igdb": "hard-vacuum",
+   "metacritic": "hard-vacuum",
    "steam": "1280940"
   },
   "label_en": "Hard Vacuum",
@@ -933,6 +948,7 @@
   "ids": {
    "howlongtobeat": "151837",
    "igdb": "sleep-awake",
+   "metacritic": "sleep-awake",
    "pcgamingwiki": "Sleep_Awake",
    "steam": "2446540"
   },
@@ -1249,5 +1265,9 @@
   },
   "label_en": "Tidying Simulator",
   "wikidata": "Q141482146"
+ },
+ {
+  "label_en": "Monster Adventure",
+  "wikidata": "Q142200146"
  }
 ]

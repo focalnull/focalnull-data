@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "19137",
    "igdb": "crimson-skies",
+   "metacritic": "crimson-skies",
    "mobygames": "2320",
    "pcgamingwiki": "Crimson_Skies"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "2329",
    "igdb": "dead-rising-2-off-the-record",
+   "metacritic": "dead-rising-2-off-the-record",
    "mobygames": "54459",
    "pcgamingwiki": "Dead_Rising_2:_Off_the_Record",
    "steam": "45770"
@@ -34,7 +36,8 @@
  {
   "enwiki": "Naruto: Ultimate Ninja (video game)",
   "ids": {
-   "igdb": "naruto-ultimate-ninja"
+   "igdb": "naruto-ultimate-ninja",
+   "metacritic": "naruto-ultimate-ninja"
   },
   "label_en": "Naruto: Ultimate Ninja",
   "wikidata": "Q2293688"
@@ -43,6 +46,7 @@
   "enwiki": "The House of the Dead III",
   "ids": {
    "igdb": "the-house-of-the-dead-iii",
+   "metacritic": "the-house-of-the-dead-iii",
    "mobygames": "7694",
    "pcgamingwiki": "The_House_of_the_Dead_III"
   },
@@ -115,6 +119,7 @@
   "ids": {
    "howlongtobeat": "12707",
    "igdb": "assassins-creed-iv-black-flag",
+   "metacritic": "assassins-creed-iv-black-flag",
    "mobygames": "62288",
    "pcgamingwiki": "Assassin's_Creed_IV:_Black_Flag",
    "steam": "242050"
@@ -175,6 +180,7 @@
   "ids": {
    "howlongtobeat": "23809",
    "igdb": "grey-goo",
+   "metacritic": "grey-goo",
    "mobygames": "75536",
    "pcgamingwiki": "Grey_Goo",
    "steam": "290790"
@@ -187,6 +193,7 @@
   "ids": {
    "howlongtobeat": "47107",
    "igdb": "rugby-world-cup-2015",
+   "metacritic": "rugby-world-cup-2015",
    "mobygames": "86863",
    "pcgamingwiki": "Rugby_World_Cup_2015",
    "steam": "365750"
@@ -210,6 +217,7 @@
   "ids": {
    "howlongtobeat": "43007",
    "igdb": "fate-slash-extella-the-umbral-star",
+   "metacritic": "fateextella-the-umbral-star",
    "mobygames": "83995",
    "pcgamingwiki": "Fate/Extella:_The_Umbral_Star",
    "steam": "511680"
@@ -221,6 +229,7 @@
   "enwiki": "Edge of Nowhere",
   "ids": {
    "igdb": "edge-of-nowhere",
+   "metacritic": "edge-of-nowhere",
    "pcgamingwiki": "Edge_of_Nowhere"
   },
   "label_en": "Edge of Nowhere",
@@ -237,6 +246,7 @@
   "enwiki": "Final Fantasy XV: A New Empire",
   "ids": {
    "igdb": "final-fantasy-xv-a-new-empire",
+   "metacritic": "final-fantasy-xv-a-new-empire",
    "mobygames": "91690"
   },
   "label_en": "Final Fantasy XV: A New Empire",
@@ -247,6 +257,7 @@
    "gog": "game/frozen_cortex",
    "howlongtobeat": "24234",
    "igdb": "frozen-cortex",
+   "metacritic": "frozen-cortex",
    "mobygames": "86340",
    "pcgamingwiki": "Frozen_Cortex",
    "steam": "237350"
@@ -258,6 +269,7 @@
   "ids": {
    "howlongtobeat": "68805",
    "igdb": "answer-knot",
+   "metacritic": "answer-knot",
    "mobygames": "136919",
    "pcgamingwiki": "Answer_Knot",
    "steam": "1049400"
@@ -290,6 +302,7 @@
    "epic": "exo-one",
    "howlongtobeat": "67955",
    "igdb": "exo-one--1",
+   "metacritic": "exo-one",
    "mobygames": "175703",
    "pcgamingwiki": "Exo_One",
    "steam": "773370"
@@ -301,6 +314,7 @@
   "enwiki": "Breeders' Cup World Thoroughbred Championships (video game)",
   "ids": {
    "igdb": "breeders-cup-world-thoroughbred-championships",
+   "metacritic": "breeders-cup-world-thoroughbred-championships",
    "mobygames": "31286"
   },
   "label_en": "Breeders' Cup World Thoroughbred Championships",
@@ -405,6 +419,7 @@
   "ids": {
    "howlongtobeat": "125919",
    "igdb": "witchspring3-re-fine-the-story-of-eirudy",
+   "metacritic": "witchspring3-refine-the-story-of-eirudy",
    "steam": "1592520"
   },
   "label_en": "WitchSpring3 Re:Fine – The Story of Eirudy",
@@ -422,6 +437,7 @@
   "ids": {
    "howlongtobeat": "70091",
    "igdb": "trivia-vault-tv-trivia",
+   "metacritic": "trivia-vault-tv-trivia",
    "pcgamingwiki": "Trivia_Vault:_TV_Trivia",
    "steam": "851520"
   },
@@ -462,6 +478,7 @@
   "ids": {
    "howlongtobeat": "116661",
    "igdb": "kitty-may-cry",
+   "pcgamingwiki": "Kitty_May_Cry",
    "steam": "2123100"
   },
   "label_en": "Kitty May Cry",
@@ -472,6 +489,7 @@
   "ids": {
    "howlongtobeat": "17582",
    "igdb": "1000-tiny-claws",
+   "metacritic": "1000-tiny-claws",
    "mobygames": "81317"
   },
   "label_en": "1000 Tiny Claws",
@@ -860,6 +878,7 @@
    "gog": "game/turnip_boy_robs_a_bank",
    "howlongtobeat": "113622",
    "igdb": "turnip-boy-robs-a-bank",
+   "metacritic": "turnip-boy-robs-a-bank",
    "mobygames": "215923",
    "pcgamingwiki": "Turnip_Boy_Robs_a_Bank",
    "steam": "2097230"
@@ -923,6 +942,7 @@
   "ids": {
    "howlongtobeat": "49998",
    "igdb": "panda-love",
+   "metacritic": "panda-love",
    "mobygames": "92192",
    "pcgamingwiki": "Panda_Love"
   },
@@ -1250,6 +1270,7 @@
   "enwiki": "The L.E.D. Wars",
   "ids": {
    "igdb": "the-led-wars",
+   "metacritic": "the-led-wars",
    "mobygames": "16157",
    "pcgamingwiki": "The_L.E.D._Wars"
   },

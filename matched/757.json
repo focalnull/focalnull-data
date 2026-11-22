@@ -13,6 +13,7 @@
   "enwiki": "Scramble (video game)",
   "ids": {
    "igdb": "scramble",
+   "metacritic": "scramble",
    "mobygames": "12405"
   },
   "label_en": "Scramble",
@@ -76,6 +77,7 @@
   "ids": {
    "howlongtobeat": "11383",
    "igdb": "x-men-the-official-game",
+   "metacritic": "x-men-the-official-game",
    "mobygames": "23248",
    "pcgamingwiki": "X-Men:_The_Official_Game"
   },
@@ -87,6 +89,7 @@
   "ids": {
    "howlongtobeat": "5139",
    "igdb": "kuon",
+   "metacritic": "kuon",
    "mobygames": "15648"
   },
   "label_en": "Kuon",
@@ -106,6 +109,7 @@
   "ids": {
    "howlongtobeat": "2825",
    "igdb": "dragon-quest-wars",
+   "metacritic": "dragon-quest-wars",
    "mobygames": "52345"
   },
   "label_en": "Dragon Quest Wars",
@@ -116,6 +120,7 @@
   "ids": {
    "howlongtobeat": "17087",
    "igdb": "hawken",
+   "metacritic": "hawken",
    "mobygames": "65399",
    "pcgamingwiki": "Hawken",
    "steam": "271290"
@@ -135,6 +140,7 @@
   "enwiki": "ModNation Racers: Road Trip",
   "ids": {
    "igdb": "modnation-racers-road-trip",
+   "metacritic": "modnation-racers-road-trip",
    "mobygames": "83434"
   },
   "label_en": "ModNation Racers: Road Trip",
@@ -191,6 +197,7 @@
   "ids": {
    "howlongtobeat": "21355",
    "igdb": "loons-the-fight-for-fame",
+   "metacritic": "loons-the-fight-for-fame",
    "mobygames": "16581"
   },
   "label_en": "Loons: The Fight for Fame",
@@ -238,6 +245,7 @@
   "ids": {
    "howlongtobeat": "39052",
    "igdb": "metrico",
+   "metacritic": "metrico",
    "mobygames": "80349",
    "pcgamingwiki": "Metrico+",
    "steam": "373990"
@@ -288,6 +296,7 @@
   "ids": {
    "howlongtobeat": "62931",
    "igdb": "mortal-kombat-11",
+   "metacritic": "mortal-kombat-11",
    "mobygames": "125596",
    "pcgamingwiki": "Mortal_Kombat_11",
    "steam": "976310"
@@ -306,6 +315,7 @@
    "gog": "game/chicken_police",
    "howlongtobeat": "84835",
    "igdb": "chicken-police",
+   "metacritic": "chicken-police",
    "mobygames": "152571",
    "pcgamingwiki": "Chicken_Police",
    "steam": "1084640"
@@ -319,6 +329,7 @@
    "gog": "game/aragami_2",
    "howlongtobeat": "86516",
    "igdb": "aragami-2",
+   "metacritic": "aragami-2",
    "mobygames": "172391",
    "pcgamingwiki": "Aragami_2",
    "steam": "1158370"
@@ -342,6 +353,7 @@
    "gog": "game/time_loader",
    "howlongtobeat": "89847",
    "igdb": "time-loader",
+   "metacritic": "time-loader",
    "mobygames": "174638",
    "pcgamingwiki": "Time_Loader",
    "steam": "1301950"
@@ -391,6 +403,7 @@
   "ids": {
    "howlongtobeat": "15354",
    "igdb": "racquet-sports",
+   "metacritic": "racquet-sports",
    "mobygames": "85146"
   },
   "label_en": "Racket Sports Party",
@@ -425,6 +438,7 @@
   "ids": {
    "howlongtobeat": "77364",
    "igdb": "table-manners",
+   "metacritic": "table-manners",
    "mobygames": "142479",
    "pcgamingwiki": "Table_Manners",
    "steam": "1019450"
@@ -521,6 +535,7 @@
    "howlongtobeat": "99702",
    "igdb": "my-cute-commissar",
    "mobygames": "168781",
+   "pcgamingwiki": "My_Cute_Commissar",
    "steam": "1383740"
   },
   "label_en": "My Cute Commissar",
@@ -799,6 +814,7 @@
   "ids": {
    "howlongtobeat": "82624",
    "igdb": "supposedly-wonderful-future",
+   "metacritic": "supposedly-wonderful-future",
    "mobygames": "185739",
    "pcgamingwiki": "Supposedly_Wonderful_Future",
    "steam": "719210"

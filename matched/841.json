@@ -3,6 +3,7 @@
   "enwiki": "Fracture (video game)",
   "ids": {
    "igdb": "fracture",
+   "metacritic": "fracture-2008",
    "mobygames": "37579"
   },
   "label_en": "Fracture",
@@ -50,6 +51,7 @@
   "enwiki": "Eragon (video game)",
   "ids": {
    "igdb": "eragon",
+   "metacritic": "eragon",
    "mobygames": "26190",
    "pcgamingwiki": "Eragon"
   },
@@ -81,6 +83,7 @@
   "ids": {
    "howlongtobeat": "6034",
    "igdb": "might-and-magic-clash-of-heroes",
+   "metacritic": "might-magic-clash-of-heroes",
    "mobygames": "44639",
    "pcgamingwiki": "Might_and_Magic:_Clash_of_Heroes",
    "steam": "61700"
@@ -110,6 +113,7 @@
   "ids": {
    "howlongtobeat": "11720",
    "igdb": "football-manager-2013",
+   "metacritic": "football-manager-2013",
    "mobygames": "80179",
    "pcgamingwiki": "Football_Manager_2013",
    "steam": "207890"
@@ -123,6 +127,7 @@
    "gog": "game/space_hack",
    "howlongtobeat": "20362",
    "igdb": "space-hack",
+   "metacritic": "space-hack",
    "mobygames": "20833",
    "pcgamingwiki": "Space_Hack",
    "steam": "315260"
@@ -233,6 +238,7 @@
   "enwiki": "BandFuse: Rock Legends",
   "ids": {
    "igdb": "bandfuse-rock-legends",
+   "metacritic": "bandfuse-rock-legends",
    "mobygames": "121127"
   },
   "label_en": "BandFuse: Rock Legends",
@@ -241,7 +247,8 @@
  {
   "enwiki": "Wakeboarding HD",
   "ids": {
-   "igdb": "wakeboarding-hd"
+   "igdb": "wakeboarding-hd",
+   "metacritic": "wakeboarding-hd"
   },
   "label_en": "Wakeboarding HD",
   "wikidata": "Q16258841"
@@ -251,6 +258,7 @@
   "ids": {
    "howlongtobeat": "18962",
    "igdb": "the-forest",
+   "metacritic": "the-forest-2014",
    "mobygames": "161572",
    "pcgamingwiki": "The_Forest",
    "steam": "242760"
@@ -278,6 +286,7 @@
   "ids": {
    "howlongtobeat": "46442",
    "igdb": "kirby-star-allies",
+   "metacritic": "kirby-star-allies",
    "mobygames": "98619"
   },
   "label_en": "Kirby Star Allies",
@@ -288,6 +297,7 @@
   "ids": {
    "howlongtobeat": "53769",
    "igdb": "shin-megami-tensei-v",
+   "metacritic": "shin-megami-tensei-v",
    "mobygames": "174498"
   },
   "label_en": "Shin Megami Tensei V",
@@ -307,6 +317,7 @@
  {
   "ids": {
    "igdb": "gravitation",
+   "metacritic": "gravitation",
    "mobygames": "32951"
   },
   "label_en": "Gravitation",
@@ -316,6 +327,7 @@
   "ids": {
    "howlongtobeat": "28626",
    "igdb": "crowntakers",
+   "metacritic": "crowntakers",
    "mobygames": "97958",
    "pcgamingwiki": "Crowntakers",
    "steam": "294370"
@@ -328,6 +340,7 @@
   "ids": {
    "howlongtobeat": "64989",
    "igdb": "tetris-99",
+   "metacritic": "tetris-99",
    "mobygames": "122197"
   },
   "label_en": "Tetris 99",
@@ -340,6 +353,7 @@
    "gog": "game/chernobylite",
    "howlongtobeat": "66581",
    "igdb": "chernobylite",
+   "metacritic": "chernobylite",
    "mobygames": "136202",
    "pcgamingwiki": "Chernobylite",
    "steam": "1016800"
@@ -374,6 +388,7 @@
    "gog": "game/gylt",
    "howlongtobeat": "67988",
    "igdb": "gylt",
+   "metacritic": "gylt",
    "mobygames": "142952",
    "pcgamingwiki": "Gylt",
    "steam": "2206210"
@@ -393,6 +408,7 @@
   "ids": {
    "howlongtobeat": "60536",
    "igdb": "outbreak-the-new-nightmare",
+   "metacritic": "outbreak-the-new-nightmare",
    "mobygames": "100587",
    "pcgamingwiki": "Outbreak:_The_New_Nightmare",
    "steam": "644480"
@@ -457,6 +473,7 @@
   "ids": {
    "howlongtobeat": "77540",
    "igdb": "mahou-arms",
+   "metacritic": "mahou-arms",
    "mobygames": "145367",
    "pcgamingwiki": "Mahou_Arms",
    "steam": "1165870"
@@ -479,6 +496,7 @@
    "epic": "banishers-ghosts-of-new-eden-f9e3f2",
    "howlongtobeat": "118229",
    "igdb": "banishers-ghosts-of-new-eden",
+   "metacritic": "banishers-ghosts-of-new-eden",
    "mobygames": "217498",
    "pcgamingwiki": "Banishers:_Ghosts_of_New_Eden",
    "steam": "1493640"
@@ -914,6 +932,7 @@
   "ids": {
    "howlongtobeat": "49939",
    "igdb": "the-wizards",
+   "metacritic": "the-wizards",
    "mobygames": "104921",
    "pcgamingwiki": "The_Wizards",
    "steam": "586950"
@@ -1195,6 +1214,7 @@
   "enwiki": "Lucid Blocks",
   "ids": {
    "igdb": "lucid-blocks",
+   "metacritic": "lucid-blocks",
    "steam": "3495730"
   },
   "label_en": "Lucid Blocks",

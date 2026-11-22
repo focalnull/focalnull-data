@@ -13,6 +13,7 @@
   "enwiki": "Tactical Ops: Assault on Terror",
   "ids": {
    "igdb": "tactical-ops-assault-on-terror",
+   "metacritic": "tactical-ops-assault-on-terror",
    "mobygames": "13967",
    "pcgamingwiki": "Tactical_Ops:_Assault_on_Terror"
   },
@@ -25,6 +26,7 @@
    "gog": "game/shadow_ops_red_mercury",
    "howlongtobeat": "13818",
    "igdb": "shadow-ops-red-mercury",
+   "metacritic": "shadow-ops-red-mercury",
    "mobygames": "16113",
    "pcgamingwiki": "Shadow_Ops:_Red_Mercury",
    "steam": "286770"
@@ -46,6 +48,7 @@
   "enwiki": "187 Ride or Die",
   "ids": {
    "igdb": "187-ride-or-die",
+   "metacritic": "187-ride-or-die",
    "mobygames": "24079"
   },
   "label_en": "187 Ride or Die",
@@ -117,6 +120,7 @@
   "enwiki": "The Warriors: Street Brawl",
   "ids": {
    "igdb": "the-warriors-street-brawl",
+   "metacritic": "the-warriors-street-brawl",
    "mobygames": "195602"
   },
   "label_en": "The Warriors: Street Brawl",
@@ -174,6 +178,7 @@
    "gog": "game/richard_alice",
    "howlongtobeat": "7796",
    "igdb": "richard-and-alice",
+   "metacritic": "richard-alice",
    "mobygames": "60447",
    "pcgamingwiki": "Richard_&_Alice",
    "steam": "279260"
@@ -195,6 +200,7 @@
   "ids": {
    "howlongtobeat": "21853",
    "igdb": "nancy-drew-the-shattered-medallion",
+   "metacritic": "nancy-drew-the-shattered-medallion",
    "mobygames": "111902",
    "pcgamingwiki": "Nancy_Drew:_The_Shattered_Medallion",
    "steam": "572720"
@@ -218,6 +224,7 @@
   "enwiki": "Affordable Space Adventures",
   "ids": {
    "igdb": "affordable-space-adventures",
+   "metacritic": "affordable-space-adventures",
    "mobygames": "73609"
   },
   "label_en": "Affordable Space Adventures",
@@ -247,6 +254,7 @@
   "ids": {
    "howlongtobeat": "28316",
    "igdb": "inbetween-land",
+   "metacritic": "inbetween-land",
    "mobygames": "100926",
    "pcgamingwiki": "Inbetween_Land",
    "steam": "345540"
@@ -278,6 +286,7 @@
   "ids": {
    "howlongtobeat": "36643",
    "igdb": "does-not-commute",
+   "metacritic": "does-not-commute",
    "mobygames": "72453"
   },
   "label_en": "Does Not Commute",
@@ -288,6 +297,7 @@
   "ids": {
    "howlongtobeat": "62993",
    "igdb": "last-epoch",
+   "metacritic": "last-epoch",
    "mobygames": "217732",
    "pcgamingwiki": "Last_Epoch",
    "steam": "899770"
@@ -331,6 +341,7 @@
    "gog": "game/boomerang_x",
    "howlongtobeat": "92437",
    "igdb": "boomerang-x",
+   "metacritic": "boomerang-x",
    "mobygames": "167271",
    "pcgamingwiki": "Boomerang_X",
    "steam": "1170060"
@@ -663,6 +674,7 @@
    "gog": "game/blood_west",
    "howlongtobeat": "103900",
    "igdb": "blood-west",
+   "metacritic": "blood-west",
    "mobygames": "183142",
    "pcgamingwiki": "Blood_West",
    "steam": "1587130"
@@ -803,6 +815,7 @@
   "ids": {
    "howlongtobeat": "38081",
    "igdb": "slybots-frantic-zone",
+   "metacritic": "slybots-frantic-zone",
    "mobygames": "93265",
    "pcgamingwiki": "Slybots:_Frantic_Zone",
    "steam": "384100"
@@ -825,6 +838,7 @@
   "ids": {
    "howlongtobeat": "56526",
    "igdb": "way-of-the-passive-fist",
+   "metacritic": "way-of-the-passive-fist",
    "mobygames": "104812",
    "pcgamingwiki": "Way_of_the_Passive_Fist",
    "steam": "625680"
@@ -834,6 +848,9 @@
  },
  {
   "enwiki": "Glucoboy",
+  "ids": {
+   "metacritic": "glucoboy"
+  },
   "label_en": "Glucoboy",
   "wikidata": "Q124222605"
  },
@@ -878,6 +895,7 @@
  {
   "ids": {
    "igdb": "covenant",
+   "metacritic": "covenant",
    "pcgamingwiki": "Covenant",
    "steam": "3333990"
   },
@@ -1093,6 +1111,7 @@
   "ids": {
    "howlongtobeat": "158259",
    "igdb": "pizzapocalypse",
+   "metacritic": "pizzapocalypse",
    "mobygames": "248852",
    "steam": "3224960"
   },
@@ -1121,6 +1140,7 @@
  {
   "ids": {
    "igdb": "crazy-ball",
+   "pcgamingwiki": "Crazy_Ball",
    "steam": "1058630"
   },
   "label_en": "Crazy Ball",

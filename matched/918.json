@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1472",
    "igdb": "call-of-duty-black-ops-ii",
+   "metacritic": "call-of-duty-black-ops-ii",
    "mobygames": "58727",
    "pcgamingwiki": "Call_of_Duty:_Black_Ops_II",
    "steam": "202970"
@@ -25,6 +26,7 @@
    "gog": "game/hearts_of_iron",
    "howlongtobeat": "22890",
    "igdb": "hearts-of-iron",
+   "metacritic": "hearts-of-iron",
    "mobygames": "7953",
    "pcgamingwiki": "Hearts_of_Iron"
   },
@@ -56,6 +58,7 @@
    "epic": "south-park-the-stick-of-truth",
    "howlongtobeat": "8833",
    "igdb": "south-park-the-stick-of-truth",
+   "metacritic": "south-park-the-stick-of-truth",
    "mobygames": "64356",
    "pcgamingwiki": "South_Park:_The_Stick_of_Truth",
    "steam": "213670"
@@ -157,6 +160,7 @@
   "enwiki": "Plättchen Twist 'n' Paint",
   "ids": {
    "igdb": "plattchen-twist-n-paint",
+   "metacritic": "plattchen-twist-n-paint",
    "mobygames": "92103"
   },
   "label_en": "Plättchen Twist 'n' Paint",
@@ -170,6 +174,7 @@
   "enwiki": "Valhalla Knights",
   "ids": {
    "igdb": "valhalla-knights",
+   "metacritic": "valhalla-knights",
    "mobygames": "28009"
   },
   "label_en": "Valhalla Knights",
@@ -224,6 +229,7 @@
  {
   "ids": {
    "igdb": "drone-fight",
+   "metacritic": "drone-fight",
    "mobygames": "89240"
   },
   "label_en": "Drone Fight",
@@ -247,6 +253,7 @@
    "epic": "dark-alliance",
    "howlongtobeat": "90105",
    "igdb": "dungeons-and-dragons-dark-alliance",
+   "metacritic": "dungeons-dragons-dark-alliance",
    "mobygames": "166582",
    "pcgamingwiki": "Dungeons_&_Dragons:_Dark_Alliance",
    "steam": "623280"
@@ -367,6 +374,7 @@
   "ids": {
    "howlongtobeat": "132260",
    "igdb": "affogato",
+   "metacritic": "affogato",
    "mobygames": "207376",
    "pcgamingwiki": "Affogato",
    "steam": "1983970"
@@ -767,6 +775,7 @@
  {
   "ids": {
    "igdb": "in-heat-lustful-nights",
+   "metacritic": "in-heat-lustful-nights",
    "mobygames": "226573",
    "steam": "1962890"
   },
@@ -780,6 +789,7 @@
    "gog": "game/eriksholm_the_stolen_dream",
    "howlongtobeat": "151968",
    "igdb": "eriksholm-the-stolen-dream",
+   "metacritic": "eriksholm-the-stolen-dream",
    "mobygames": "245100",
    "pcgamingwiki": "Eriksholm:_The_Stolen_Dream",
    "steam": "2377280"
@@ -816,7 +826,8 @@
  },
  {
   "ids": {
-   "igdb": "quarters-please-vol-2"
+   "igdb": "quarters-please-vol-2",
+   "metacritic": "quarters-please-vol-2"
   },
   "label_en": "Quarters, Please! Vol. 2",
   "wikidata": "Q127477918"
@@ -862,6 +873,7 @@
   "ids": {
    "howlongtobeat": "169444",
    "igdb": "invincible-vs",
+   "metacritic": "invincible-vs",
    "pcgamingwiki": "Invincible_VS",
    "steam": "2353060"
   },

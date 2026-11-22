@@ -3,6 +3,7 @@
   "enwiki": "Clone Wars Adventures",
   "ids": {
    "igdb": "star-wars-clone-wars-adventures",
+   "metacritic": "star-wars-clone-wars-adventures",
    "mobygames": "51411"
   },
   "label_en": "Clone Wars Adventures",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "4314",
    "igdb": "harry-potter-and-the-order-of-the-phoenix",
+   "metacritic": "harry-potter-and-the-order-of-the-phoenix",
    "mobygames": "28834",
    "pcgamingwiki": "Harry_Potter_and_the_Order_of_the_Phoenix"
   },
@@ -33,6 +35,7 @@
   "ids": {
    "howlongtobeat": "1874",
    "igdb": "company-of-heroes",
+   "metacritic": "company-of-heroes",
    "mobygames": "24117",
    "pcgamingwiki": "Company_of_Heroes",
    "steam": "4560"
@@ -44,6 +47,7 @@
   "enwiki": "Tenchu 2: Birth of the Stealth Assassins",
   "ids": {
    "igdb": "tenchu-2-birth-of-the-stealth-assassins",
+   "metacritic": "tenchu-2-birth-of-the-stealth-assassins",
    "mobygames": "3675"
   },
   "label_en": "Tenchu 2: Birth of the Stealth Assassins",
@@ -56,6 +60,7 @@
    "gog": "game/baldurs_gate_dark_alliance",
    "howlongtobeat": "812",
    "igdb": "baldur-s-gate-dark-alliance",
+   "metacritic": "baldurs-gate-dark-alliance",
    "mobygames": "5805",
    "pcgamingwiki": "Baldur's_Gate:_Dark_Alliance",
    "steam": "1695830"
@@ -68,6 +73,7 @@
   "ids": {
    "howlongtobeat": "6428",
    "igdb": "nba-2k11",
+   "metacritic": "nba-2k11",
    "mobygames": "51197",
    "pcgamingwiki": "NBA_2K11",
    "steam": "65950"
@@ -137,6 +143,7 @@
   "ids": {
    "howlongtobeat": "8708",
    "igdb": "socom-us-navy-seals-fireteam-bravo-2",
+   "metacritic": "socom-u-s-navy-seals-fireteam-bravo-2",
    "mobygames": "32354"
   },
   "label_en": "SOCOM U.S. Navy SEALs: Fireteam Bravo 2",
@@ -156,6 +163,7 @@
   "ids": {
    "gog": "game/battle_isle_the_andosia_war",
    "igdb": "battle-isle-the-andosia-war",
+   "metacritic": "battle-isle-the-andosia-war",
    "mobygames": "2975",
    "pcgamingwiki": "Battle_Isle:_The_Andosia_War"
   },
@@ -225,6 +233,7 @@
   "ids": {
    "howlongtobeat": "25119",
    "igdb": "toukiden-kiwami",
+   "metacritic": "toukiden-the-age-of-demons",
    "mobygames": "84418",
    "pcgamingwiki": "Toukiden:_Kiwami",
    "steam": "363130"
@@ -302,6 +311,7 @@
   "ids": {
    "howlongtobeat": "39516",
    "igdb": "valley",
+   "metacritic": "valley",
    "mobygames": "80422",
    "pcgamingwiki": "Valley",
    "steam": "378610"
@@ -312,6 +322,7 @@
  {
   "ids": {
    "igdb": "pudji",
+   "metacritic": "pudji",
    "pcgamingwiki": "Pudji",
    "steam": "953400"
   },
@@ -322,6 +333,7 @@
   "ids": {
    "howlongtobeat": "20353",
    "igdb": "aeternoblade",
+   "metacritic": "aeternoblade",
    "mobygames": "82870",
    "steam": "1234120"
   },
@@ -375,6 +387,7 @@
   "ids": {
    "howlongtobeat": "19726",
    "igdb": "super-lemonade-factory",
+   "metacritic": "super-lemonade-factory",
    "mobygames": "113756",
    "pcgamingwiki": "Super_Lemonade_Factory",
    "steam": "307270"
@@ -386,6 +399,7 @@
   "ids": {
    "howlongtobeat": "48305",
    "igdb": "egglia-legend-of-the-redcap",
+   "metacritic": "egglia-legend-of-the-redcap",
    "mobygames": "93902"
   },
   "label_en": "Egglia: Legend of the Redcap",
@@ -396,6 +410,7 @@
   "ids": {
    "howlongtobeat": "100837",
    "igdb": "cricket-22",
+   "metacritic": "cricket-22",
    "mobygames": "174811",
    "pcgamingwiki": "Cricket_22",
    "steam": "1701380"
@@ -484,6 +499,7 @@
    "gog": "game/shattered_tale_of_the_forgotten_king",
    "howlongtobeat": "67694",
    "igdb": "shattered-tale-of-the-forgotten-king",
+   "metacritic": "shattered-tale-of-the-forgotten-king",
    "mobygames": "126487",
    "pcgamingwiki": "Shattered_-_Tale_of_the_Forgotten_King",
    "steam": "1045180"
@@ -496,6 +512,7 @@
    "epic": "outcore-desktop-adventure-eb3aff",
    "howlongtobeat": "110006",
    "igdb": "outcore-desktop-adventure",
+   "metacritic": "outcore-desktop-adventure",
    "mobygames": "191857",
    "pcgamingwiki": "Outcore:_Desktop_Adventure",
    "steam": "1275670"
@@ -762,6 +779,7 @@
   "ids": {
    "howlongtobeat": "47300",
    "igdb": "wells",
+   "metacritic": "wells",
    "mobygames": "210151",
    "pcgamingwiki": "Wells",
    "steam": "528430"
@@ -864,6 +882,7 @@
   "ids": {
    "howlongtobeat": "37900",
    "igdb": "five-guardians-of-david",
+   "metacritic": "five-guardians-of-david",
    "pcgamingwiki": "Five:_Guardians_of_David",
    "steam": "387010"
   },
@@ -1245,7 +1264,9 @@
    "epic": "ea-sports-fc-26",
    "howlongtobeat": "171044",
    "igdb": "ea-sports-fc-26",
+   "metacritic": "ea-sports-fc-26",
    "mobygames": "247883",
+   "pcgamingwiki": "EA_Sports_FC_26",
    "steam": "3405690"
   },
   "label_en": "EA Sports FC 26",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "13492",
    "igdb": "touhou-chireiden-subterranean-animism",
+   "metacritic": "touhou-chireiden-subterranean-animism",
    "mobygames": "71496",
    "pcgamingwiki": "Subterranean_Animism",
    "steam": "1100150"
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "4596",
    "igdb": "icewind-dale",
+   "metacritic": "icewind-dale",
    "mobygames": "1898",
    "pcgamingwiki": "Icewind_Dale"
   },
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "17995",
    "igdb": "tomb-raider-the-prophecy",
+   "metacritic": "tomb-raider-the-prophecy",
    "mobygames": "7800"
   },
   "label_en": "Tomb Raider: The Prophecy",
@@ -47,6 +50,7 @@
    "gog": "game/sins_of_a_solar_empire_trinity",
    "howlongtobeat": "8592",
    "igdb": "sins-of-a-solar-empire-trinity",
+   "metacritic": "sins-of-a-solar-empire",
    "mobygames": "32770",
    "pcgamingwiki": "Sins_of_a_Solar_Empire",
    "steam": "201290"
@@ -76,6 +80,7 @@
   "ids": {
    "howlongtobeat": "5950",
    "igdb": "metroid-fusion",
+   "metacritic": "metroid-fusion",
    "mobygames": "7812"
   },
   "label_en": "Metroid Fusion",
@@ -154,6 +159,7 @@
   "ids": {
    "howlongtobeat": "717",
    "igdb": "atv-offroad-fury-2",
+   "metacritic": "atv-offroad-fury-2",
    "mobygames": "10685"
   },
   "label_en": "ATV Offroad Fury 2",
@@ -172,6 +178,7 @@
   "enwiki": "BattleBots: Beyond the BattleBox",
   "ids": {
    "igdb": "battlebots-beyond-the-battlebox",
+   "metacritic": "battlebots-beyond-the-battlebox",
    "mobygames": "19672"
   },
   "label_en": "BattleBots: Beyond the BattleBox",
@@ -181,6 +188,7 @@
   "enwiki": "God Eater (video game)",
   "ids": {
    "igdb": "gods-eater-burst",
+   "metacritic": "gods-eater-burst",
    "mobygames": "86264"
   },
   "label_en": "God Eater",
@@ -224,6 +232,7 @@
   "enwiki": "Cooking Mama 5: Bon Appétit!",
   "ids": {
    "igdb": "cooking-mama-5-bon-appetit--1",
+   "metacritic": "cooking-mama-5",
    "mobygames": "92471"
   },
   "label_en": "Cooking Mama 5: Bon Appétit!",
@@ -260,6 +269,7 @@
   "ids": {
    "howlongtobeat": "49451",
    "igdb": "picross-s",
+   "metacritic": "picross-s",
    "mobygames": "96527"
   },
   "label_en": "Picross S",
@@ -277,6 +287,7 @@
   "ids": {
    "howlongtobeat": "7205",
    "igdb": "pool-nation",
+   "metacritic": "pool-nation",
    "mobygames": "86247",
    "pcgamingwiki": "Pool_Nation",
    "steam": "254440"
@@ -300,6 +311,7 @@
   "enwiki": "Gallop Racer 2004",
   "ids": {
    "igdb": "gallop-racer-2004",
+   "metacritic": "gallop-racer-2004",
    "mobygames": "34981"
   },
   "label_en": "Gallop Racer 2004",
@@ -309,6 +321,7 @@
   "ids": {
    "howlongtobeat": "38994",
    "igdb": "maria-the-witch",
+   "metacritic": "maria-the-witch",
    "mobygames": "86178",
    "pcgamingwiki": "Maria_the_Witch",
    "steam": "447860"
@@ -321,6 +334,7 @@
   "ids": {
    "howlongtobeat": "83361",
    "igdb": "astros-playroom",
+   "metacritic": "astros-playroom",
    "mobygames": "153499"
   },
   "label_en": "Astro's Playroom",
@@ -331,6 +345,7 @@
   "ids": {
    "howlongtobeat": "75540",
    "igdb": "maquette",
+   "metacritic": "maquette",
    "mobygames": "159944",
    "pcgamingwiki": "Maquette",
    "steam": "762840"
@@ -359,6 +374,7 @@
   "ids": {
    "howlongtobeat": "89907",
    "igdb": "sanity-of-morris",
+   "metacritic": "sanity-of-morris",
    "mobygames": "161079",
    "steam": "1275660"
   },
@@ -382,6 +398,7 @@
    "gog": "game/dysmantle",
    "howlongtobeat": "84868",
    "igdb": "dysmantle",
+   "metacritic": "dysmantle",
    "mobygames": "152898",
    "pcgamingwiki": "Dysmantle",
    "steam": "846770"
@@ -441,6 +458,7 @@
   "ids": {
    "howlongtobeat": "112688",
    "igdb": "super-bullet-break",
+   "metacritic": "super-bullet-break",
    "mobygames": "189528",
    "pcgamingwiki": "Super_Bullet_Break",
    "steam": "1767170"
@@ -463,6 +481,7 @@
   "ids": {
    "howlongtobeat": "26110",
    "igdb": "mushroom-men-truffle-trouble",
+   "metacritic": "mushroom-men-truffle-trouble",
    "mobygames": "80912",
    "pcgamingwiki": "Mushroom_Men:_Truffle_Trouble",
    "steam": "222180"
@@ -495,6 +514,7 @@
   "ids": {
    "howlongtobeat": "58422",
    "igdb": "good-pizza-great-pizza",
+   "metacritic": "good-pizza-great-pizza",
    "mobygames": "150099",
    "pcgamingwiki": "Good_Pizza,_Great_Pizza",
    "steam": "770810"
@@ -799,6 +819,7 @@
    "epic": "pinball-m-755276",
    "howlongtobeat": "136374",
    "igdb": "pinball-fx-midnight",
+   "metacritic": "pinball-m",
    "mobygames": "213028",
    "steam": "2337640"
   },
@@ -967,6 +988,7 @@
   "ids": {
    "howlongtobeat": "133671",
    "igdb": "sword-of-convallaria-for-this-world-of-peace",
+   "metacritic": "sword-of-convallaria",
    "mobygames": "228905",
    "pcgamingwiki": "Sword_of_Convallaria",
    "steam": "2526380"
@@ -979,6 +1001,7 @@
   "ids": {
    "howlongtobeat": "132384",
    "igdb": "the-great-villainess-strategy-of-lily",
+   "metacritic": "the-great-villainess-strategy-of-lily",
    "mobygames": "245536",
    "steam": "2454960"
   },

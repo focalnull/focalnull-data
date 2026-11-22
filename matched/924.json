@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3448",
    "igdb": "fifa-soccer-12",
+   "metacritic": "fifa-soccer-12",
    "mobygames": "53735",
    "pcgamingwiki": "FIFA_12"
   },
@@ -42,6 +43,7 @@
   "ids": {
    "howlongtobeat": "10670",
    "igdb": "tropico",
+   "metacritic": "tropico",
    "mobygames": "3937",
    "pcgamingwiki": "Tropico"
   },
@@ -97,6 +99,7 @@
   "ids": {
    "howlongtobeat": "4282",
    "igdb": "hamtaro-ham-ham-heartbreak",
+   "metacritic": "hamtaro-ham-ham-heartbreak",
    "mobygames": "8607"
   },
   "label_en": "Hamtaro: Ham-Ham Heartbreak",
@@ -116,7 +119,8 @@
   "enwiki": "PixelJunk 4am",
   "ids": {
    "howlongtobeat": "7080",
-   "igdb": "pixeljunk-4am"
+   "igdb": "pixeljunk-4am",
+   "metacritic": "pixeljunk-4am"
   },
   "label_en": "PixelJunk 4am",
   "wikidata": "Q3905924"
@@ -169,6 +173,7 @@
   "ids": {
    "howlongtobeat": "10014",
    "igdb": "the-legend-of-kage-2",
+   "metacritic": "the-legend-of-kage-2",
    "mobygames": "37502"
   },
   "label_en": "The Legend of Kage 2",
@@ -236,6 +241,7 @@
    "gog": "game/undertale",
    "howlongtobeat": "30385",
    "igdb": "undertale",
+   "metacritic": "undertale",
    "mobygames": "74938",
    "pcgamingwiki": "Undertale",
    "steam": "391540"
@@ -247,6 +253,7 @@
   "enwiki": "MeiQ: Labyrinth of Death",
   "ids": {
    "igdb": "meiq-labyrinth-of-death",
+   "metacritic": "meiq-labyrinth-of-death",
    "mobygames": "87219"
   },
   "label_en": "MeiQ: Labyrinth of Death",
@@ -263,6 +270,7 @@
  {
   "ids": {
    "igdb": "linn-path-of-orchards",
+   "metacritic": "linn-path-of-orchards",
    "mobygames": "149331"
   },
   "label_en": "Linn: Path of Orchards",
@@ -273,6 +281,7 @@
    "gog": "game/epic_chef",
    "howlongtobeat": "94732",
    "igdb": "epic-chef",
+   "metacritic": "epic-chef",
    "mobygames": "175256",
    "pcgamingwiki": "Epic_Chef",
    "steam": "1312960"
@@ -348,6 +357,7 @@
    "howlongtobeat": "94249",
    "igdb": "swordship",
    "mobygames": "195413",
+   "pcgamingwiki": "Swordship",
    "steam": "1804270"
   },
   "label_en": "Swordship",
@@ -501,6 +511,7 @@
    "howlongtobeat": "116241",
    "igdb": "chambers-of-devious-design",
    "mobygames": "196696",
+   "pcgamingwiki": "Chambers_of_Devious_Design",
    "steam": "1650860"
   },
   "label_en": "Chambers of Devious Design",
@@ -702,6 +713,7 @@
    "gog": "game/dungeons_4",
    "howlongtobeat": "134131",
    "igdb": "dungeons-4",
+   "metacritic": "dungeons-4",
    "mobygames": "211584",
    "pcgamingwiki": "Dungeons_4",
    "steam": "1643310"

@@ -3,6 +3,7 @@
   "enwiki": "Stronghold: Crusader Extreme",
   "ids": {
    "igdb": "stronghold-crusader-extreme",
+   "metacritic": "stronghold-crusader-extreme",
    "mobygames": "34965"
   },
   "label_en": "Stronghold: Crusader Extreme",
@@ -42,6 +43,7 @@
   "enwiki": "Ninja Gaiden 3",
   "ids": {
    "igdb": "ninja-gaiden-3",
+   "metacritic": "ninja-gaide-3",
    "mobygames": "55949"
   },
   "label_en": "Ninja Gaiden 3",
@@ -51,6 +53,7 @@
   "enwiki": "Silent Hill: Origins",
   "ids": {
    "igdb": "silent-hill-origins",
+   "metacritic": "silent-hill-origins",
    "mobygames": "31151"
   },
   "label_en": "Silent Hill: Origins",
@@ -63,6 +66,7 @@
    "gog": "game/descent_2",
    "howlongtobeat": "2458",
    "igdb": "descent-ii",
+   "metacritic": "descent-ii",
    "mobygames": "694",
    "pcgamingwiki": "Descent_II",
    "steam": "273580"
@@ -121,6 +125,7 @@
   "ids": {
    "howlongtobeat": "14677",
    "igdb": "nancy-drew-trail-of-the-twister",
+   "metacritic": "nancy-drew-trail-of-the-twister",
    "mobygames": "47402",
    "pcgamingwiki": "Nancy_Drew:_Trail_of_the_Twister",
    "steam": "42230"
@@ -160,6 +165,9 @@
   "wikidata": "Q7576699"
  },
  {
+  "ids": {
+   "metacritic": "sakura-sakimashita"
+  },
   "label_en": "Sakura, Sakimashita.",
   "wikidata": "Q11267699"
  },
@@ -180,6 +188,7 @@
   "ids": {
    "howlongtobeat": "21268",
    "igdb": "invizimals-the-alliance",
+   "metacritic": "invizimals-the-alliance",
    "mobygames": "86228"
   },
   "label_en": "Invizimals: The Alliance",
@@ -211,6 +220,7 @@
    "epic": "battlefield-hardline-4e07d3",
    "howlongtobeat": "21620",
    "igdb": "battlefield-hardline",
+   "metacritic": "battlefield-hardline",
    "mobygames": "71708",
    "pcgamingwiki": "Battlefield_Hardline",
    "steam": "1238880"
@@ -225,6 +235,7 @@
  {
   "ids": {
    "igdb": "tears-to-tiara-ii-heir-of-the-overlord",
+   "metacritic": "tears-to-tiara-ii-heir-of-the-overlord",
    "mobygames": "93231"
   },
   "label_en": "Tears to Tiara II: Heir of the Overlord",
@@ -251,6 +262,7 @@
   "ids": {
    "howlongtobeat": "37274",
    "igdb": "a-gents",
+   "metacritic": "a-gents",
    "mobygames": "83058",
    "pcgamingwiki": "A-Gents",
    "steam": "460910"
@@ -262,7 +274,8 @@
   "enwiki": "Arcaea",
   "ids": {
    "howlongtobeat": "64048",
-   "igdb": "arcaea"
+   "igdb": "arcaea",
+   "metacritic": "arcaea"
   },
   "label_en": "Arcaea",
   "wikidata": "Q56283699"
@@ -293,6 +306,7 @@
   "enwiki": "Blades of Exile",
   "ids": {
    "igdb": "blades-of-exile",
+   "metacritic": "blades-of-exile",
    "mobygames": "2256",
    "pcgamingwiki": "Blades_of_Exile"
   },
@@ -311,6 +325,7 @@
   "ids": {
    "howlongtobeat": "31958",
    "igdb": "back-to-dinosaur-island",
+   "metacritic": "back-to-dinosaur-island",
    "pcgamingwiki": "Back_to_Dinosaur_Island",
    "steam": "412940"
   },
@@ -322,6 +337,7 @@
   "ids": {
    "howlongtobeat": "85624",
    "igdb": "omori",
+   "metacritic": "omori",
    "mobygames": "155960",
    "pcgamingwiki": "OMORI",
    "steam": "1150690"
@@ -341,6 +357,7 @@
    "howlongtobeat": "71039",
    "igdb": "pixel-strike-3d",
    "mobygames": "209459",
+   "pcgamingwiki": "Pixel_Strike_3D",
    "steam": "915320"
   },
   "label_en": "Pixel Strike 3D",
@@ -473,6 +490,7 @@
    "epic": "garten-of-banban-2-29bcc8",
    "howlongtobeat": "124865",
    "igdb": "garten-of-banban-2",
+   "metacritic": "garten-of-banban-2",
    "mobygames": "200105",
    "pcgamingwiki": "Garten_of_Banban_2",
    "steam": "2262770"
@@ -1137,6 +1155,7 @@
  {
   "ids": {
    "igdb": "terminal-war",
+   "metacritic": "terminal-war",
    "steam": "3788160"
   },
   "label_en": "Terminal War",

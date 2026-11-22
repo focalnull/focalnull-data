@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10057",
    "igdb": "the-lord-of-the-rings-online",
+   "metacritic": "the-lord-of-the-rings-online-shadows-of-angmar",
    "mobygames": "27762",
    "pcgamingwiki": "The_Lord_of_the_Rings_Online",
    "steam": "212500"
@@ -45,6 +46,7 @@
   "ids": {
    "howlongtobeat": "67769",
    "igdb": "aliens-versus-predator-2",
+   "metacritic": "aliens-versus-predator-2",
    "mobygames": "5493",
    "pcgamingwiki": "Aliens_versus_Predator_2"
   },
@@ -56,6 +58,7 @@
   "ids": {
    "howlongtobeat": "7883",
    "igdb": "roboblitz",
+   "metacritic": "roboblitz",
    "mobygames": "30714",
    "pcgamingwiki": "RoboBlitz",
    "steam": "4300"
@@ -80,6 +83,7 @@
   "enwiki": "Spikeout: Battle Street",
   "ids": {
    "igdb": "spikeout-battle-street",
+   "metacritic": "spikeout-battle-street",
    "mobygames": "18511"
   },
   "label_en": "Spikeout: Battle Street",
@@ -90,6 +94,7 @@
   "ids": {
    "howlongtobeat": "19622",
    "igdb": "carnivores-ice-age",
+   "metacritic": "carnivores-ice-age",
    "mobygames": "3078",
    "pcgamingwiki": "Carnivores:_Ice_Age"
   },
@@ -135,6 +140,7 @@
   "enwiki": "Portal Runner",
   "ids": {
    "igdb": "portal-runner",
+   "metacritic": "portal-runner",
    "mobygames": "30945"
   },
   "label_en": "Portal Runner",
@@ -153,6 +159,7 @@
   "enwiki": "Unsolved Crimes",
   "ids": {
    "igdb": "unsolved-crimes",
+   "metacritic": "unsolved-crimes",
    "mobygames": "39222"
   },
   "label_en": "Unsolved Crimes",
@@ -175,6 +182,7 @@
   "ids": {
    "howlongtobeat": "3171",
    "igdb": "espn-nfl-2k5",
+   "metacritic": "espn-nfl-2k5",
    "mobygames": "14152"
   },
   "label_en": "ESPN NFL 2K5",
@@ -186,6 +194,7 @@
    "gog": "game/herou_rogue_to_redemption",
    "howlongtobeat": "58880",
    "igdb": "hero-u-rogue-to-redemption",
+   "metacritic": "hero-u-rogue-to-redemption",
    "mobygames": "111162",
    "pcgamingwiki": "Hero-U:_Rogue_to_Redemption",
    "steam": "375440"
@@ -213,6 +222,7 @@
    "gog": "game/rain_world",
    "howlongtobeat": "32976",
    "igdb": "rain-world",
+   "metacritic": "rain-world",
    "mobygames": "86122",
    "pcgamingwiki": "Rain_World",
    "steam": "312520"
@@ -224,6 +234,7 @@
   "enwiki": "Tortuga: Two Treasures",
   "ids": {
    "igdb": "tortuga-two-treasures",
+   "metacritic": "tortuga-two-treasures",
    "mobygames": "30765",
    "pcgamingwiki": "Tortuga:_Two_Treasures"
   },
@@ -304,6 +315,7 @@
   "ids": {
    "howlongtobeat": "81120",
    "igdb": "balan-wonderworld",
+   "metacritic": "balan-wonderworld",
    "mobygames": "161326",
    "pcgamingwiki": "Balan_Wonderworld",
    "steam": "1341050"
@@ -315,6 +327,7 @@
   "ids": {
    "howlongtobeat": "10606",
    "igdb": "transcripted",
+   "metacritic": "transcripted",
    "mobygames": "98323",
    "pcgamingwiki": "Transcripted",
    "steam": "215450"
@@ -341,6 +354,7 @@
    "epic": "anno-mutationem-ef8b9e",
    "howlongtobeat": "81835",
    "igdb": "anno-mutationem",
+   "metacritic": "anno-mutationem",
    "mobygames": "180727",
    "pcgamingwiki": "ANNO:_Mutationem",
    "steam": "1368030"
@@ -402,6 +416,7 @@
    "gog": "game/greak_memories_of_azur",
    "howlongtobeat": "83340",
    "igdb": "greak-memories-of-azur",
+   "metacritic": "greak-memories-of-azur",
    "mobygames": "169505",
    "pcgamingwiki": "Greak:_Memories_of_Azur",
    "steam": "1311070"
@@ -467,6 +482,7 @@
    "howlongtobeat": "133564",
    "igdb": "firebird--1",
    "mobygames": "206799",
+   "pcgamingwiki": "Firebird_(2023)",
    "steam": "1633860"
   },
   "label_en": "Firebird",

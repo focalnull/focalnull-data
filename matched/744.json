@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "4247",
    "igdb": "half-life",
+   "metacritic": "half-life",
    "mobygames": "155",
    "pcgamingwiki": "Half-Life",
    "steam": "70"
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "579",
    "igdb": "arma-2",
+   "metacritic": "arma-ii",
    "mobygames": "40923",
    "pcgamingwiki": "Arma_2",
    "steam": "33900"
@@ -86,6 +88,7 @@
   "enwiki": "Rail Simulator",
   "ids": {
    "igdb": "rail-simulator",
+   "metacritic": "rail-simulator",
    "mobygames": "44615",
    "pcgamingwiki": "Rail_Simulator"
   },
@@ -97,6 +100,7 @@
   "ids": {
    "howlongtobeat": "9997",
    "igdb": "the-last-of-us",
+   "metacritic": "the-last-of-us",
    "mobygames": "60922"
   },
   "label_en": "The Last of Us",
@@ -115,6 +119,7 @@
   "ids": {
    "howlongtobeat": "5726",
    "igdb": "master-of-orion-ii-battle-at-antares",
+   "metacritic": "master-of-orion-ii-battle-at-antares",
    "mobygames": "182",
    "pcgamingwiki": "Master_of_Orion_II:_Battle_at_Antares",
    "steam": "410980"
@@ -126,6 +131,7 @@
   "enwiki": "F1 2009 (video game)",
   "ids": {
    "igdb": "f1-2009",
+   "metacritic": "f1-2009",
    "mobygames": "53638"
   },
   "label_en": "F1 2009",
@@ -154,6 +160,7 @@
   "ids": {
    "howlongtobeat": "2477",
    "igdb": "destroy-all-humans-path-of-the-furon",
+   "metacritic": "destroy-all-humans-path-of-the-furon",
    "mobygames": "83399"
   },
   "label_en": "Destroy All Humans! Path of the Furon",
@@ -231,6 +238,7 @@
   "ids": {
    "howlongtobeat": "1186",
    "igdb": "blood-will-tell-tezuka-osamus-dororo",
+   "metacritic": "blood-will-tell",
    "mobygames": "16218"
   },
   "label_en": "Blood Will Tell",
@@ -265,6 +273,7 @@
   "enwiki": "Tang Tang",
   "ids": {
    "igdb": "tang-tang",
+   "metacritic": "tang-tang",
    "mobygames": "65410"
   },
   "label_en": "Tang Tang",
@@ -274,6 +283,7 @@
   "enwiki": "Texas Hold 'em (video game)",
   "ids": {
    "igdb": "texas-hold-em",
+   "metacritic": "texas-hold-em",
    "mobygames": "23770"
   },
   "label_en": "Texas Hold 'em",
@@ -362,6 +372,7 @@
    "gog": "game/a_bird_story",
    "howlongtobeat": "22526",
    "igdb": "a-bird-story",
+   "metacritic": "a-bird-story",
    "mobygames": "73533",
    "pcgamingwiki": "A_Bird_Story",
    "steam": "327410"
@@ -381,7 +392,8 @@
  {
   "enwiki": "Skylanders: SuperChargers",
   "ids": {
-   "igdb": "skylanders-superchargers"
+   "igdb": "skylanders-superchargers",
+   "metacritic": "skylanders-superchargers"
   },
   "label_en": "Skylanders: SuperChargers",
   "wikidata": "Q20031744"
@@ -407,6 +419,7 @@
    "gog": "game/momodora_reverie_under_the_moonlight",
    "howlongtobeat": "35555",
    "igdb": "momodora-reverie-under-the-moonlight",
+   "metacritic": "momodora-reverie-under-the-moonlight",
    "mobygames": "85446",
    "pcgamingwiki": "Momodora:_Reverie_under_the_Moonlight",
    "steam": "428550"
@@ -467,6 +480,7 @@
    "epic": "teenage-mutant-ninja-turtles-shredders-revenge",
    "howlongtobeat": "89573",
    "igdb": "teenage-mutant-ninja-turtles-shredders-revenge",
+   "metacritic": "teenage-mutant-ninja-turtles-shredders-revenge",
    "mobygames": "185858",
    "pcgamingwiki": "Teenage_Mutant_Ninja_Turtles:_Shredder's_Revenge",
    "steam": "1361510"
@@ -490,6 +504,7 @@
   "ids": {
    "howlongtobeat": "105185",
    "igdb": "schildmaid-mx",
+   "metacritic": "schildmaid-mx",
    "mobygames": "234718",
    "steam": "2154760"
   },

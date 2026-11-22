@@ -22,6 +22,7 @@
   "enwiki": "SBK X: Superbike World Championship",
   "ids": {
    "igdb": "sbk-x-superbike-world-championship",
+   "metacritic": "sbk-x-superbike-world-championship",
    "mobygames": "46894",
    "pcgamingwiki": "SBK_X:_Superbike_World_Championship"
   },
@@ -34,6 +35,7 @@
    "gog": "game/stacking",
    "howlongtobeat": "9024",
    "igdb": "stacking",
+   "metacritic": "stacking",
    "mobygames": "53646",
    "pcgamingwiki": "Stacking",
    "steam": "115110"
@@ -67,6 +69,7 @@
   "ids": {
    "howlongtobeat": "14675",
    "igdb": "nancy-drew-the-phantom-of-venice",
+   "metacritic": "nancy-drew-the-phantom-of-venice",
    "mobygames": "35278",
    "pcgamingwiki": "Nancy_Drew:_The_Phantom_of_Venice",
    "steam": "31920"
@@ -159,6 +162,7 @@
   "ids": {
    "howlongtobeat": "20239",
    "igdb": "blek",
+   "metacritic": "blek",
    "mobygames": "72829"
   },
   "label_en": "Blek",
@@ -190,6 +194,7 @@
    "gog": "game/the_little_acre",
    "howlongtobeat": "41938",
    "igdb": "the-little-acre",
+   "metacritic": "the-little-acre",
    "mobygames": "86049",
    "pcgamingwiki": "The_Little_Acre",
    "steam": "423590"
@@ -237,6 +242,7 @@
   "ids": {
    "howlongtobeat": "18120",
    "igdb": "nightmares-from-the-deep-2-the-sirens-call",
+   "metacritic": "nightmares-from-the-deep-2-the-sirens-call",
    "mobygames": "62053",
    "pcgamingwiki": "Nightmares_from_the_Deep_2:_The_Siren's_Call",
    "steam": "284790"
@@ -248,6 +254,7 @@
   "ids": {
    "howlongtobeat": "20669",
    "igdb": "cubic-castles",
+   "metacritic": "cubic-castles",
    "mobygames": "130755",
    "pcgamingwiki": "Cubic_Castles",
    "steam": "317470"
@@ -281,6 +288,7 @@
   "ids": {
    "howlongtobeat": "68038",
    "igdb": "feather",
+   "metacritic": "feather",
    "mobygames": "124519",
    "pcgamingwiki": "Feather",
    "steam": "545040"
@@ -646,6 +654,7 @@
    "gog": "game/atone_heart_of_the_elder_tree",
    "howlongtobeat": "69834",
    "igdb": "atone-heart-of-the-elder-tree",
+   "metacritic": "atone-heart-of-the-elder-tree",
    "mobygames": "133047",
    "pcgamingwiki": "Atone:_Heart_of_the_Elder_Tree",
    "steam": "894620"
@@ -664,6 +673,10 @@
   },
   "label_en": "shapez 2",
   "wikidata": "Q124262235"
+ },
+ {
+  "label_en": "Wind In The Willows",
+  "wikidata": "Q126187235"
  },
  {
   "ids": {
@@ -1059,7 +1072,8 @@
  {
   "ids": {
    "howlongtobeat": "27053",
-   "igdb": "no-gravity-the-plague-of-mind"
+   "igdb": "no-gravity-the-plague-of-mind",
+   "metacritic": "no-gravity"
   },
   "label_en": "No Gravity: The Plague of Mind",
   "wikidata": "Q137205235"

@@ -5,6 +5,7 @@
    "epic": "fortnite",
    "howlongtobeat": "3657",
    "igdb": "fortnite",
+   "metacritic": "fortnite",
    "mobygames": "92979",
    "pcgamingwiki": "Fortnite"
   },
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "1568",
    "igdb": "castlevania",
+   "metacritic": "castlevania-circle-of-the-moon",
    "mobygames": "2062",
    "pcgamingwiki": "Castlevania"
   },
@@ -26,6 +28,7 @@
   "enwiki": "Lord of Ultima",
   "ids": {
    "igdb": "lord-of-ultima",
+   "metacritic": "lord-of-ultima",
    "mobygames": "64169"
   },
   "label_en": "Lord of Ultima",
@@ -35,6 +38,7 @@
   "enwiki": "Mario & Sonic at the London 2012 Olympic Games",
   "ids": {
    "igdb": "mario-and-sonic-at-the-london-2012-olympic-games",
+   "metacritic": "mario-sonic-at-the-london-2012-olympic-games",
    "mobygames": "65941"
   },
   "label_en": "Mario & Sonic at the London 2012 Olympic Games",
@@ -55,6 +59,7 @@
    "gog": "game/original_war",
    "howlongtobeat": "18768",
    "igdb": "original-war--1",
+   "metacritic": "original-war",
    "mobygames": "7285",
    "pcgamingwiki": "Original_War",
    "steam": "235320"
@@ -83,6 +88,7 @@
   "enwiki": "NASCAR Racing 2003 Season",
   "ids": {
    "igdb": "nascar-racing-2003-season",
+   "metacritic": "nascar-racing-2003-season",
    "mobygames": "9542",
    "pcgamingwiki": "NASCAR_Racing_2003_Season"
   },
@@ -94,6 +100,7 @@
   "ids": {
    "howlongtobeat": "7917",
    "igdb": "rock-of-ages",
+   "metacritic": "rock-of-ages",
    "mobygames": "53675",
    "pcgamingwiki": "Rock_of_Ages",
    "steam": "22230"
@@ -106,6 +113,7 @@
   "ids": {
    "howlongtobeat": "525",
    "igdb": "apox",
+   "metacritic": "apox",
    "mobygames": "51168",
    "pcgamingwiki": "APOX",
    "steam": "80000"
@@ -130,6 +138,7 @@
   "ids": {
    "howlongtobeat": "3414",
    "igdb": "fate-of-the-world",
+   "metacritic": "fate-of-the-world",
    "mobygames": "51022",
    "pcgamingwiki": "Fate_of_the_World",
    "steam": "80200"
@@ -269,6 +278,7 @@
   "ids": {
    "howlongtobeat": "45907",
    "igdb": "call-of-duty-heroes",
+   "metacritic": "call-of-duty-heroes",
    "mobygames": "70439",
    "pcgamingwiki": "Call_of_Duty:_Heroes"
   },
@@ -280,6 +290,7 @@
   "ids": {
    "howlongtobeat": "57443",
    "igdb": "the-awesome-adventures-of-captain-spirit",
+   "metacritic": "the-awesome-adventures-of-captain-spirit",
    "mobygames": "110684",
    "pcgamingwiki": "The_Awesome_Adventures_of_Captain_Spirit",
    "steam": "845070"
@@ -293,6 +304,7 @@
    "gog": "game/ancestors",
    "howlongtobeat": "56199",
    "igdb": "ancestors-legacy",
+   "metacritic": "ancestors-legacy",
    "mobygames": "109135",
    "pcgamingwiki": "Ancestors_Legacy",
    "steam": "620590"
@@ -323,6 +335,7 @@
   "ids": {
    "howlongtobeat": "12325",
    "igdb": "drawn-dark-flight",
+   "metacritic": "drawn-dark-flight",
    "mobygames": "48508",
    "pcgamingwiki": "Drawn:_Dark_Flight",
    "steam": "433360"
@@ -362,6 +375,7 @@
   "ids": {
    "howlongtobeat": "30849",
    "igdb": "animal-gods",
+   "metacritic": "animal-gods",
    "mobygames": "82698",
    "pcgamingwiki": "Animal_Gods",
    "steam": "370220"
@@ -384,6 +398,7 @@
    "gog": "game/blacktail",
    "howlongtobeat": "93684",
    "igdb": "blacktail",
+   "metacritic": "blacktail",
    "mobygames": "196413",
    "pcgamingwiki": "Blacktail",
    "steam": "1532690"
@@ -398,6 +413,7 @@
    "gog": "game/the_case_of_the_golden_idol",
    "howlongtobeat": "108252",
    "igdb": "the-case-of-the-golden-idol",
+   "metacritic": "the-case-of-the-golden-idol",
    "mobygames": "193361",
    "pcgamingwiki": "The_Case_of_the_Golden_Idol",
    "steam": "1677770"
@@ -409,6 +425,7 @@
   "ids": {
    "howlongtobeat": "49682",
    "igdb": "the-low-road",
+   "metacritic": "the-low-road",
    "mobygames": "93887",
    "pcgamingwiki": "The_Low_Road",
    "steam": "603700"
@@ -438,6 +455,7 @@
  {
   "ids": {
    "igdb": "come-together",
+   "metacritic": "come-together",
    "steam": "2082580"
   },
   "label_en": "Come Together",
@@ -709,6 +727,7 @@
  {
   "ids": {
    "igdb": "bygg-flygplan-med-mulle-meck",
+   "metacritic": "bygg-flygplan-med-mulle-meck",
    "mobygames": "60968"
   },
   "label_en": "Bygg flygplan med Mulle Meck",

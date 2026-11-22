@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "15241",
    "igdb": "planetarian-the-reverie-of-a-little-planet",
+   "metacritic": "planetarian",
    "mobygames": "20454",
    "pcgamingwiki": "Planetarian:_The_Reverie_of_a_Little_Planet",
    "steam": "316720"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "519",
    "igdb": "ape-escape-2",
+   "metacritic": "ape-escape-2",
    "mobygames": "9614"
   },
   "label_en": "Ape Escape 2",
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "11154",
    "igdb": "wii-fit",
+   "metacritic": "wii-fit",
    "mobygames": "34059"
   },
   "label_en": "Wii Fit",
@@ -48,6 +51,7 @@
   "ids": {
    "howlongtobeat": "17803",
    "igdb": "mabinogi",
+   "metacritic": "mabinogi",
    "mobygames": "156446",
    "pcgamingwiki": "Mabinogi",
    "steam": "212200"
@@ -59,6 +63,7 @@
   "enwiki": "Lego Universe",
   "ids": {
    "igdb": "lego-universe",
+   "metacritic": "lego-universe",
    "mobygames": "50009",
    "pcgamingwiki": "Lego_Universe",
    "steam": "21140"
@@ -78,6 +83,7 @@
   "ids": {
    "howlongtobeat": "10428",
    "igdb": "tom-clancy-s-ghost-recon-advanced-warfighter",
+   "metacritic": "tom-clancys-ghost-recon-advanced-warfighter",
    "mobygames": "21652",
    "pcgamingwiki": "Tom_Clancy's_Ghost_Recon_Advanced_Warfighter",
    "steam": "13640"
@@ -190,6 +196,7 @@
   "enwiki": "Dance Factory (video game)",
   "ids": {
    "igdb": "dance-factory",
+   "metacritic": "dance-factory",
    "mobygames": "24332"
   },
   "label_en": "Dance Factory",
@@ -212,6 +219,7 @@
   "ids": {
    "howlongtobeat": "6105",
    "igdb": "major-league-baseball-2k12",
+   "metacritic": "major-league-baseball-2k12",
    "mobygames": "85107",
    "pcgamingwiki": "Major_League_Baseball_2K12",
    "steam": "207060"
@@ -223,6 +231,7 @@
   "enwiki": "Mighty Flip Champs!",
   "ids": {
    "igdb": "mighty-flip-champs",
+   "metacritic": "mighty-flip-champs",
    "mobygames": "49084"
   },
   "label_en": "Mighty Flip Champs!",
@@ -289,6 +298,7 @@
    "epic": "red-dead-redemption-2",
    "howlongtobeat": "27100",
    "igdb": "red-dead-redemption-2",
+   "metacritic": "red-dead-redemption-2",
    "mobygames": "115902",
    "pcgamingwiki": "Red_Dead_Redemption_2",
    "steam": "1174180"
@@ -308,6 +318,7 @@
   "ids": {
    "igdb": "march-of-empires--1",
    "mobygames": "93572",
+   "pcgamingwiki": "March_of_Empires",
    "steam": "702320"
   },
   "label_en": "March of Empires",
@@ -322,7 +333,8 @@
  },
  {
   "ids": {
-   "igdb": "waterloo-napoleons-last-battle"
+   "igdb": "waterloo-napoleons-last-battle",
+   "metacritic": "waterloo-napoleons-last-battle"
   },
   "label_en": "Waterloo: Napoleon's Last Battle",
   "wikidata": "Q50810121"
@@ -332,6 +344,7 @@
   "ids": {
    "howlongtobeat": "44026",
    "igdb": "puzzle-puppers",
+   "metacritic": "puzzle-puppers",
    "mobygames": "82809",
    "pcgamingwiki": "Puzzle_Puppers",
    "steam": "578430"
@@ -360,6 +373,7 @@
    "epic": "slitterhead",
    "howlongtobeat": "101287",
    "igdb": "slitterhead",
+   "metacritic": "slitterhead",
    "mobygames": "232930",
    "pcgamingwiki": "Slitterhead",
    "steam": "2631250"
@@ -415,6 +429,7 @@
   "ids": {
    "howlongtobeat": "38079",
    "igdb": "defragmented",
+   "metacritic": "defragmented",
    "mobygames": "143578",
    "pcgamingwiki": "Defragmented",
    "steam": "426170"
@@ -460,6 +475,7 @@
    "gog": "game/lego_bricktales",
    "howlongtobeat": "112736",
    "igdb": "lego-bricktales",
+   "metacritic": "lego-bricktales",
    "mobygames": "193341",
    "pcgamingwiki": "Lego_Bricktales",
    "steam": "1898290"
@@ -495,6 +511,7 @@
    "gog": "game/gestalt_steam_cinder",
    "howlongtobeat": "77764",
    "igdb": "gestalt-steam-and-cinder",
+   "metacritic": "gestalt-steam-and-cinder",
    "mobygames": "227746",
    "pcgamingwiki": "Gestalt:_Steam_&_Cinder",
    "steam": "1231990"
@@ -508,6 +525,7 @@
    "gog": "game/hero_of_the_kingdom_ii",
    "howlongtobeat": "26317",
    "igdb": "hero-of-the-kingdom-ii",
+   "metacritic": "hero-of-the-kingdom-ii",
    "mobygames": "84493",
    "pcgamingwiki": "Hero_of_the_Kingdom_II",
    "steam": "346560"
@@ -520,7 +538,9 @@
   "ids": {
    "howlongtobeat": "129930",
    "igdb": "hammerwatch-ii",
+   "metacritic": "hammerwatch-ii",
    "mobygames": "207303",
+   "pcgamingwiki": "Hammerwatch_II",
    "steam": "1538970"
   },
   "label_en": "Hammerwatch II",
@@ -530,6 +550,7 @@
   "ids": {
    "howlongtobeat": "130554",
    "igdb": "fragments-note-2-plus",
+   "metacritic": "fragments-note2-plus",
    "steam": "2852560"
   },
   "label_en": "Fragment's Note 2+",
@@ -539,7 +560,9 @@
   "ids": {
    "howlongtobeat": "129721",
    "igdb": "ghostpia-season-one",
+   "metacritic": "ghostpia-season-one",
    "mobygames": "128535",
+   "pcgamingwiki": "Ghostpia:_Season_One",
    "steam": "2192620"
   },
   "label_en": "ghostpia",
@@ -796,6 +819,7 @@
   "ids": {
    "howlongtobeat": "131764",
    "igdb": "another-chance--1",
+   "metacritic": "another-chance",
    "steam": "2404700"
   },
   "label_en": "Another Chance",
@@ -940,6 +964,7 @@
  {
   "ids": {
    "igdb": "puzzle-monkeys",
+   "metacritic": "puzzle-monkeys",
    "mobygames": "100980"
   },
   "label_en": "Puzzle Monkeys",
@@ -1215,6 +1240,7 @@
  {
   "ids": {
    "igdb": "firefighters-the-simulation",
+   "pcgamingwiki": "Firefighters_-_The_Simulation",
    "steam": "502420"
   },
   "label_en": "Firefighters - The Simulation",

@@ -51,6 +51,7 @@
   "enwiki": "Pokémon Pinball: Ruby & Sapphire",
   "ids": {
    "igdb": "pokemon-pinball-ruby-sapphire",
+   "metacritic": "pokemon-pinball-ruby-sapphire",
    "mobygames": "10161"
   },
   "label_en": "Pokémon Pinball: Ruby & Sapphire",
@@ -61,6 +62,7 @@
   "ids": {
    "howlongtobeat": "69946",
    "igdb": "castle-strike",
+   "metacritic": "castle-strike",
    "mobygames": "22941",
    "pcgamingwiki": "Castle_Strike"
   },
@@ -72,6 +74,7 @@
   "ids": {
    "howlongtobeat": "7519",
    "igdb": "radiant-silvergun",
+   "metacritic": "radiant-silvergun",
    "mobygames": "17870",
    "pcgamingwiki": "Radiant_Silvergun",
    "steam": "2450820"
@@ -98,6 +101,9 @@
   "wikidata": "Q3843463"
  },
  {
+  "ids": {
+   "metacritic": "naruto-shippuden-naruto-vs-sasuke"
+  },
   "label_en": "Naruto Shippuden: Naruto vs Sasuke",
   "wikidata": "Q3870463"
  },
@@ -132,6 +138,7 @@
   "enwiki": "Robots (2005 video game)",
   "ids": {
    "igdb": "robots",
+   "metacritic": "robots",
    "mobygames": "19647",
    "pcgamingwiki": "Robots"
   },
@@ -205,6 +212,7 @@
    "gog": "game/planetbase",
    "howlongtobeat": "30993",
    "igdb": "planetbase",
+   "metacritic": "planetbase",
    "mobygames": "75593",
    "pcgamingwiki": "Planetbase",
    "steam": "403190"
@@ -222,6 +230,7 @@
   "enwiki": "Incredibox",
   "ids": {
    "howlongtobeat": "99885",
+   "metacritic": "incredibox",
    "steam": "1545450"
   },
   "label_en": "Incredibox",
@@ -250,6 +259,7 @@
   "ids": {
    "howlongtobeat": "56904",
    "igdb": "pokemon-quest",
+   "metacritic": "pokemon-quest",
    "mobygames": "109591"
   },
   "label_en": "Pokémon Quest",
@@ -331,6 +341,7 @@
  {
   "ids": {
    "igdb": "damien-crawfords-golf-experience-2022",
+   "metacritic": "damien-crawfords-golf-experience-2022",
    "steam": "1964940"
   },
   "label_en": "Damien Crawford's Golf Experience 2022",
@@ -339,6 +350,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-cruise-director-6",
+   "metacritic": "vacation-adventures-cruise-director-6",
    "steam": "1990670"
   },
   "label_en": "Vacation Adventures: Cruise Director 6",
@@ -771,6 +783,7 @@
   "enwiki": "Infestation: Origins",
   "ids": {
    "igdb": "infestation-origins",
+   "metacritic": "infestation-origins",
    "steam": "2635640"
   },
   "label_en": "Infestation: Origins",
@@ -801,6 +814,7 @@
   "ids": {
    "howlongtobeat": "51659",
    "igdb": "quiet-christmas",
+   "metacritic": "quiet-christmas",
    "mobygames": "119228"
   },
   "label_en": "Quiet Christmas",
@@ -876,6 +890,7 @@
   "ids": {
    "howlongtobeat": "6870",
    "igdb": "pacific-storm-allies--1",
+   "metacritic": "pacific-storm-allies",
    "mobygames": "44614",
    "pcgamingwiki": "Pacific_Storm:_Allies",
    "steam": "11260"
@@ -1143,6 +1158,7 @@
  {
   "ids": {
    "igdb": "shooty-space",
+   "metacritic": "shooty-space",
    "mobygames": "92481"
   },
   "label_en": "Shooty Space",
@@ -1182,6 +1198,7 @@
  },
  {
   "ids": {
+   "howlongtobeat": "193767",
    "igdb": "five-hearts-under-one-roof-3",
    "steam": "5098660"
   },

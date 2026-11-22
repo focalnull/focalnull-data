@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10128",
    "igdb": "the-path",
+   "metacritic": "the-path",
    "mobygames": "39703",
    "pcgamingwiki": "The_Path",
    "steam": "27000"
@@ -17,6 +18,7 @@
    "gog": "game/thief_gold",
    "howlongtobeat": "10297",
    "igdb": "thief-the-dark-project",
+   "metacritic": "thief-the-dark-project",
    "mobygames": "357",
    "pcgamingwiki": "Thief:_The_Dark_Project",
    "steam": "211600"
@@ -37,6 +39,7 @@
   "enwiki": "S.C.A.T.: Special Cybernetic Attack Team",
   "ids": {
    "igdb": "s-dot-c-a-dot-t-special-cybernetic-attack-team",
+   "metacritic": "scat-special-cybernetic-attack-team",
    "mobygames": "16526"
   },
   "label_en": "S.C.A.T.: Special Cybernetic Attack Team",
@@ -46,6 +49,7 @@
   "enwiki": "Midway Arcade Treasures",
   "ids": {
    "igdb": "midway-arcade-treasures",
+   "metacritic": "midway-arcade-treasures",
    "mobygames": "11228",
    "pcgamingwiki": "Midway_Arcade_Treasures"
   },
@@ -86,6 +90,7 @@
   "ids": {
    "howlongtobeat": "1715",
    "igdb": "cima-the-enemy",
+   "metacritic": "cima-the-enemy",
    "mobygames": "28134"
   },
   "label_en": "CIMA: The Enemy",
@@ -128,6 +133,7 @@
   "enwiki": "The Great Escape (2003 video game)",
   "ids": {
    "igdb": "the-great-escape",
+   "metacritic": "the-great-escape",
    "mobygames": "12766",
    "pcgamingwiki": "The_Great_Escape_(2003)",
    "steam": "434800"
@@ -194,6 +200,7 @@
   "ids": {
    "howlongtobeat": "19521",
    "igdb": "grid-autosport",
+   "metacritic": "grid-autosport",
    "mobygames": "72953",
    "pcgamingwiki": "GRID_Autosport",
    "steam": "255220"
@@ -224,6 +231,7 @@
   "ids": {
    "howlongtobeat": "21673",
    "igdb": "adventures-of-pip",
+   "metacritic": "adventures-of-pip",
    "mobygames": "86847",
    "pcgamingwiki": "Adventures_of_Pip",
    "steam": "303550"
@@ -278,6 +286,7 @@
   "ids": {
    "howlongtobeat": "143973",
    "igdb": "to-be-or-not-to-be--1",
+   "metacritic": "to-be-or-not-to-be",
    "mobygames": "200063",
    "steam": "2190290"
   },
@@ -287,6 +296,7 @@
  {
   "ids": {
    "igdb": "detectivez",
+   "metacritic": "detectivez",
    "pcgamingwiki": "Detectivez",
    "steam": "1012470"
   },
@@ -298,6 +308,7 @@
   "ids": {
    "howlongtobeat": "54105",
    "igdb": "immortal-unchained",
+   "metacritic": "immortal-unchained",
    "mobygames": "113278",
    "pcgamingwiki": "Immortal:_Unchained",
    "steam": "369440"
@@ -323,6 +334,7 @@
    "gog": "game/townscaper",
    "howlongtobeat": "80672",
    "igdb": "townscaper",
+   "metacritic": "townscaper",
    "mobygames": "147900",
    "pcgamingwiki": "Townscaper",
    "steam": "1291340"
@@ -342,6 +354,7 @@
   "ids": {
    "howlongtobeat": "9954",
    "igdb": "the-incredible-machine-even-more-contraptions",
+   "metacritic": "the-incredible-machine-even-more-contraptions",
    "mobygames": "5256",
    "pcgamingwiki": "The_Incredible_Machine:_Even_More_Contraptions"
   },
@@ -380,6 +393,7 @@
   "ids": {
    "howlongtobeat": "103830",
    "igdb": "live-a-live--1",
+   "metacritic": "live-a-live",
    "mobygames": "188012",
    "pcgamingwiki": "Live_A_Live",
    "steam": "2014380"
@@ -450,6 +464,7 @@
   "ids": {
    "howlongtobeat": "45269",
    "igdb": "catan-universe",
+   "metacritic": "catan-universe",
    "mobygames": "92722",
    "pcgamingwiki": "Catan_Universe",
    "steam": "544730"
@@ -472,6 +487,7 @@
    "gog": "game/warlocks_2_god_slayers",
    "howlongtobeat": "68729",
    "igdb": "warlocks-2-god-slayers",
+   "metacritic": "warlocks-2-god-slayers",
    "mobygames": "127964",
    "pcgamingwiki": "Warlocks_2:_God_Slayers",
    "steam": "628330"
@@ -513,6 +529,7 @@
    "epic": "pinball-fx",
    "howlongtobeat": "124300",
    "igdb": "pinball-fx--1",
+   "metacritic": "pinball-fx",
    "mobygames": "198038",
    "pcgamingwiki": "Pinball_FX",
    "steam": "2328760"
@@ -1167,6 +1184,7 @@
   "ids": {
    "howlongtobeat": "155892",
    "igdb": "lets-minesweeper",
+   "metacritic": "lets-minesweeper",
    "steam": "2865580"
   },
   "label_en": "Let's Minesweeper",

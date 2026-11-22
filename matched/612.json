@@ -36,6 +36,7 @@
    "gog": "game/europa_universalis_rome_gold",
    "howlongtobeat": "11859",
    "igdb": "europa-universalis-rome",
+   "metacritic": "europa-universalis-rome-vae-victis",
    "mobygames": "33658",
    "pcgamingwiki": "Europa_Universalis:_Rome",
    "steam": "23420"
@@ -100,6 +101,7 @@
   "enwiki": "WWE SmackDown! Here Comes the Pain",
   "ids": {
    "igdb": "wwe-smackdown-here-comes-the-pain",
+   "metacritic": "wwe-smackdown-here-comes-the-pain",
    "mobygames": "11768"
   },
   "label_en": "WWE SmackDown! Here Comes the Pain",
@@ -130,6 +132,7 @@
   "enwiki": "The Devil Inside (video game)",
   "ids": {
    "igdb": "the-devil-inside",
+   "metacritic": "the-devil-inside",
    "mobygames": "2654",
    "pcgamingwiki": "The_Devil_Inside"
   },
@@ -147,11 +150,6 @@
   },
   "label_en": "Blaze Union: Story to Reach the Future",
   "wikidata": "Q4925612"
- },
- {
-  "enwiki": "Jikkyō World Soccer 2002",
-  "label_en": "Jikkyō World Soccer 2002",
-  "wikidata": "Q6192612"
  },
  {
   "enwiki": "Jocky Wilson's Darts Challenge",
@@ -192,6 +190,7 @@
   "enwiki": "Pacific Rim (video game)",
   "ids": {
    "igdb": "pacific-rim-the-video-game",
+   "metacritic": "pacific-rim",
    "mobygames": "95667"
   },
   "label_en": "Pacific Rim",
@@ -207,6 +206,7 @@
    "gog": "game/ether_one",
    "howlongtobeat": "17550",
    "igdb": "ether-one-be9f9aff-105e-448a-a37b-7863a0c0a683",
+   "metacritic": "ether-one",
    "mobygames": "68222",
    "pcgamingwiki": "Ether_One",
    "steam": "265950"
@@ -236,6 +236,7 @@
   "enwiki": "The Dukes of Hazzard II: Daisy Dukes It Out",
   "ids": {
    "igdb": "the-dukes-of-hazzard-ii-daisy-dukes-it-out",
+   "metacritic": "the-dukes-of-hazzard-ii-daisy-dukes-it-out",
    "mobygames": "10316"
   },
   "label_en": "The Dukes of Hazzard II: Daisy Dukes It Out",
@@ -250,6 +251,7 @@
   "ids": {
    "howlongtobeat": "67063",
    "igdb": "puyo-puyo-champions",
+   "metacritic": "puyo-puyo-champions",
    "mobygames": "115691",
    "pcgamingwiki": "Puyo_Puyo_Champions",
    "steam": "971620"
@@ -272,6 +274,7 @@
    "epic": "football-manager-2020",
    "howlongtobeat": "72042",
    "igdb": "football-manager-2020",
+   "metacritic": "football-manager-2020",
    "mobygames": "137566",
    "pcgamingwiki": "Football_Manager_2020",
    "steam": "1100600"
@@ -283,6 +286,7 @@
   "enwiki": "Call of Duty: Modern Warfare 2 Campaign Remastered",
   "ids": {
    "igdb": "call-of-duty-modern-warfare-2-campaign-remastered",
+   "metacritic": "call-of-duty-modern-warfare-2-campaign-remastered",
    "mobygames": "144005",
    "pcgamingwiki": "Call_of_Duty:_Modern_Warfare_2_Campaign_Remastered"
   },
@@ -741,6 +745,7 @@
  {
   "ids": {
    "igdb": "beast-bio-exo-arena-suit-team",
+   "metacritic": "beast-bio-exo-arena-suit-team",
    "mobygames": "240946"
   },
   "label_en": "Beast: Bio Exo Arena Suit Team",
@@ -764,6 +769,7 @@
    "gog": "game/1000xresist",
    "howlongtobeat": "143595",
    "igdb": "1000xresist",
+   "metacritic": "1000xresist",
    "mobygames": "223635",
    "pcgamingwiki": "1000xResist",
    "steam": "1675830"
@@ -1125,6 +1131,7 @@
  {
   "ids": {
    "igdb": "sapper--1",
+   "pcgamingwiki": "Sapper",
    "steam": "1090690"
   },
   "label_en": "Sapper",

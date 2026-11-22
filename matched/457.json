@@ -14,6 +14,7 @@
    "gog": "game/hector_badge_of_carnage",
    "howlongtobeat": "4384",
    "igdb": "hector-badge-of-carnage",
+   "metacritic": "hector-badge-of-carnage-episode-1-we-negotiate",
    "mobygames": "58161",
    "pcgamingwiki": "Hector:_Badge_of_Carnage!",
    "steam": "94620"
@@ -31,6 +32,7 @@
   "ids": {
    "howlongtobeat": "2779",
    "igdb": "dragon-ball-z-attack-of-the-saiyans",
+   "metacritic": "dragon-ball-z-attack-of-the-saiyans",
    "mobygames": "45710"
   },
   "label_en": "Dragon Ball Z: Attack of the Saiyans",
@@ -40,6 +42,7 @@
   "enwiki": "My Pokémon Ranch",
   "ids": {
    "igdb": "my-pokemon-ranch",
+   "metacritic": "my-pokemon-ranch",
    "mobygames": "37599"
   },
   "label_en": "My Pokémon Ranch",
@@ -49,6 +52,7 @@
   "enwiki": "Chaos Field",
   "ids": {
    "igdb": "chaos-field",
+   "metacritic": "chaos-field",
    "mobygames": "26137"
   },
   "label_en": "Chaos Field",
@@ -164,6 +168,7 @@
   "ids": {
    "howlongtobeat": "27465",
    "igdb": "lost-dimension",
+   "metacritic": "lost-dimension",
    "mobygames": "87949",
    "pcgamingwiki": "Lost_Dimension",
    "steam": "626600"
@@ -184,6 +189,7 @@
   "ids": {
    "howlongtobeat": "49909",
    "igdb": "bad-apple-wars",
+   "metacritic": "bad-apple-wars",
    "mobygames": "97072"
   },
   "label_en": "Bad Apple Wars",
@@ -224,6 +230,7 @@
    "gog": "game/reigns_her_majesty",
    "howlongtobeat": "51322",
    "igdb": "reigns-her-majesty",
+   "metacritic": "reigns-her-majesty",
    "mobygames": "99187",
    "pcgamingwiki": "Reigns:_Her_Majesty",
    "steam": "717640"
@@ -252,6 +259,7 @@
   "enwiki": "Mario & Sonic at the Olympic Games Tokyo 2020",
   "ids": {
    "igdb": "mario-and-sonic-at-the-olympic-games-tokyo-2020",
+   "metacritic": "mario-sonic-at-the-olympic-games-tokyo-2020",
    "mobygames": "128557"
   },
   "label_en": "Mario & Sonic at the Tokyo 2020 Olympic Games",
@@ -262,6 +270,7 @@
   "ids": {
    "howlongtobeat": "16312",
    "igdb": "mirrormoon-ep",
+   "metacritic": "mirrormoon-ep",
    "mobygames": "63867",
    "pcgamingwiki": "MirrorMoon_EP",
    "steam": "231310"
@@ -273,7 +282,8 @@
   "enwiki": "Braveheart (1999 video game)",
   "ids": {
    "howlongtobeat": "12039",
-   "igdb": "braveheart"
+   "igdb": "braveheart",
+   "pcgamingwiki": "Braveheart"
   },
   "label_en": "Braveheart",
   "wikidata": "Q78485457"
@@ -301,6 +311,7 @@
   "ids": {
    "howlongtobeat": "82088",
    "igdb": "fifa-21",
+   "metacritic": "fifa-21",
    "mobygames": "151378",
    "pcgamingwiki": "FIFA_21",
    "steam": "1313860"
@@ -353,6 +364,7 @@
    "gog": "game/a_musical_story",
    "howlongtobeat": "93628",
    "igdb": "a-musical-story",
+   "metacritic": "a-musical-story",
    "mobygames": "180832",
    "pcgamingwiki": "A_Musical_Story",
    "steam": "1546100"
@@ -414,6 +426,7 @@
   "ids": {
    "howlongtobeat": "37717",
    "igdb": "marble-void",
+   "metacritic": "marble-void",
    "mobygames": "96747",
    "pcgamingwiki": "Marble_Void",
    "steam": "453650"
@@ -843,6 +856,7 @@
   "ids": {
    "howlongtobeat": "148484",
    "igdb": "slay-the-spire-ii",
+   "metacritic": "slay-the-spire-2",
    "pcgamingwiki": "Slay_the_Spire_2",
    "steam": "2868840"
   },
@@ -887,6 +901,7 @@
  {
   "ids": {
    "igdb": "crab-god",
+   "metacritic": "crab-god-mother-of-the-tide",
    "mobygames": "231919",
    "pcgamingwiki": "Crab_God",
    "steam": "2289390"
@@ -895,12 +910,16 @@
   "wikidata": "Q126811457"
  },
  {
+  "ids": {
+   "metacritic": "haya-oshi-kanji-stadium"
+  },
   "label_en": "Haya Oshi! Kanji Stadium",
   "wikidata": "Q131440457"
  },
  {
   "ids": {
-   "igdb": "bike-mayhem-2"
+   "igdb": "bike-mayhem-2",
+   "metacritic": "bike-mayhem-2"
   },
   "label_en": "Bike Mayhem 2",
   "wikidata": "Q133847457"

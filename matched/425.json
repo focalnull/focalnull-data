@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "32512",
    "igdb": "jeremy-mcgrath-supercross-2000",
+   "metacritic": "jeremy-mcgrath-supercross-2000",
    "mobygames": "10454"
   },
   "label_en": "Jeremy McGrath Supercross 2000",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "8747",
    "igdb": "sonic-advance-3",
+   "metacritic": "sonic-advance-3",
    "mobygames": "14294"
   },
   "label_en": "Sonic Advance 3",
@@ -83,6 +85,7 @@
   "ids": {
    "howlongtobeat": "12425",
    "igdb": "tennis-2k2",
+   "metacritic": "sega-sports-tennis",
    "mobygames": "5352"
   },
   "label_en": "Virtua Tennis 2",
@@ -138,6 +141,7 @@
    "gog": "game/death_to_spies_moment_of_truth",
    "howlongtobeat": "2370",
    "igdb": "death-to-spies-moment-of-truth",
+   "metacritic": "death-to-spies-moment-of-truth",
    "mobygames": "45199",
    "pcgamingwiki": "Death_to_Spies:_Moment_of_Truth",
    "steam": "34410"
@@ -157,6 +161,7 @@
   "enwiki": "The Invincible Iron Man (video game)",
   "ids": {
    "igdb": "marvels-the-invincible-iron-man",
+   "metacritic": "the-invincible-iron-man",
    "mobygames": "30159"
   },
   "label_en": "The Invincible Iron Man",
@@ -191,6 +196,7 @@
   "ids": {
    "igdb": "chaos-in-the-darkness--1",
    "mobygames": "82761",
+   "pcgamingwiki": "CHAOS_-_In_the_Darkness",
    "steam": "319430"
   },
   "label_en": "Chaos: In the Darkness",
@@ -201,6 +207,7 @@
   "ids": {
    "howlongtobeat": "33090",
    "igdb": "tony-hawks-pro-skater-5",
+   "metacritic": "tony-hawks-pro-skater-5",
    "mobygames": "75293"
   },
   "label_en": "Tony Hawk's Pro Skater 5",
@@ -213,6 +220,7 @@
    "gog": "game/urban_trial_freestyle",
    "howlongtobeat": "13440",
    "igdb": "urban-trial-freestyle",
+   "metacritic": "urban-trial-freestyle",
    "mobygames": "65221",
    "pcgamingwiki": "Urban_Trial_Freestyle",
    "steam": "243450"
@@ -225,6 +233,7 @@
   "ids": {
    "howlongtobeat": "26217",
    "igdb": "attack-on-titan-humanity-in-chains",
+   "metacritic": "attack-on-titan-humanity-in-chains",
    "mobygames": "88470"
   },
   "label_en": "Attack on Titan: Humanity in Chains",
@@ -257,6 +266,7 @@
   "ids": {
    "howlongtobeat": "71509",
    "igdb": "paralives",
+   "metacritic": "paralives",
    "mobygames": "261584",
    "pcgamingwiki": "Paralives",
    "steam": "1118520"
@@ -278,7 +288,8 @@
  },
  {
   "ids": {
-   "igdb": "rto-3"
+   "igdb": "rto-3",
+   "metacritic": "rto-3"
   },
   "label_en": "RTO 3",
   "wikidata": "Q110217425"
@@ -288,6 +299,7 @@
    "epic": "jackbox-party-pack-8",
    "howlongtobeat": "99027",
    "igdb": "the-jackbox-party-pack-8",
+   "metacritic": "the-jackbox-party-pack-8",
    "mobygames": "173700",
    "pcgamingwiki": "The_Jackbox_Party_Pack_8",
    "steam": "1552350"
@@ -315,6 +327,7 @@
   "ids": {
    "howlongtobeat": "115638",
    "igdb": "doraemon-story-of-seasons-friends-of-the-great-kingdom",
+   "metacritic": "doraemon-story-of-seasons-friends-of-the-great",
    "mobygames": "194400",
    "pcgamingwiki": "Doraemon_Story_of_Seasons:_Friends_of_the_Great_Kingdom",
    "steam": "1492730"
@@ -407,6 +420,7 @@
   "ids": {
    "howlongtobeat": "126647",
    "igdb": "love-love-school-days",
+   "metacritic": "love-love-school-days",
    "steam": "1305300"
   },
   "label_en": "Love Love School Days",
@@ -774,7 +788,8 @@
  },
  {
   "ids": {
-   "igdb": "train-station-2"
+   "igdb": "train-station-2",
+   "metacritic": "train-station-2-tycoon-sim"
   },
   "label_en": "Train Station 2",
   "wikidata": "Q124386425"
@@ -1121,6 +1136,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Mr_Magpie's_Harmless_Card_Game",
    "steam": "3616280"
   },
   "label_en": "Mr. Magpie's Harmless Card Game",

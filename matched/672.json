@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11384",
    "igdb": "x-squad",
+   "metacritic": "x-squad",
    "mobygames": "4472"
   },
   "label_en": "X-Squad",
@@ -15,6 +16,7 @@
    "gog": "game/runaway_2_the_dream_of_the_turtle",
    "howlongtobeat": "8015",
    "igdb": "runaway-2-the-dream-of-the-turtle",
+   "metacritic": "runaway-the-dream-of-the-turtle",
    "mobygames": "25223",
    "pcgamingwiki": "Runaway_2:_The_Dream_of_the_Turtle",
    "steam": "7220"
@@ -28,6 +30,7 @@
    "epic": "peggle-nights-c10dc6",
    "howlongtobeat": "6949",
    "igdb": "peggle-nights",
+   "metacritic": "peggle-nights",
    "mobygames": "36970",
    "pcgamingwiki": "Peggle_Nights",
    "steam": "3540"
@@ -82,6 +85,7 @@
    "epic": "rainbow-six-vegas-2",
    "howlongtobeat": "10456",
    "igdb": "tom-clancy-s-rainbow-six-vegas-2",
+   "metacritic": "tom-clancys-rainbow-six-vegas-2",
    "mobygames": "33714",
    "pcgamingwiki": "Tom_Clancy's_Rainbow_Six:_Vegas_2",
    "steam": "15120"
@@ -94,6 +98,7 @@
   "ids": {
    "howlongtobeat": "7753",
    "igdb": "resonance-of-fate",
+   "metacritic": "resonance-of-fate",
    "mobygames": "45791",
    "pcgamingwiki": "Resonance_of_Fate_4K/HD_Edition",
    "steam": "645730"
@@ -114,6 +119,7 @@
   "ids": {
    "howlongtobeat": "8575",
    "igdb": "sin",
+   "metacritic": "sin",
    "mobygames": "322",
    "pcgamingwiki": "SiN"
   },
@@ -125,6 +131,7 @@
   "ids": {
    "howlongtobeat": "4339",
    "igdb": "harvest-moon-magical-melody",
+   "metacritic": "harvest-moon-magical-melody",
    "mobygames": "32843"
   },
   "label_en": "Harvest Moon: Magical Melody",
@@ -135,6 +142,7 @@
   "ids": {
    "howlongtobeat": "11313",
    "igdb": "worms-open-warfare-2",
+   "metacritic": "worms-open-warfare-2",
    "mobygames": "30212"
   },
   "label_en": "Worms: Open Warfare 2",
@@ -169,6 +177,7 @@
   "enwiki": "Unison: Rebels of Rhythm & Dance",
   "ids": {
    "igdb": "unison-rebels-of-rhythm-and-dance",
+   "metacritic": "unison-rebels-of-rhythm-and-dance",
    "mobygames": "18594"
   },
   "label_en": "Unison: Rebels of Rhythm & Dance",
@@ -176,6 +185,7 @@
  },
  {
   "ids": {
+   "metacritic": "rock-band-track-pack-classic-rock",
    "mobygames": "92186"
   },
   "label_en": "Rock Band Track Pack: Classic Rock",
@@ -186,6 +196,7 @@
   "ids": {
    "howlongtobeat": "24366",
    "igdb": "duke-nukem-critical-mass",
+   "metacritic": "duke-nukem-critical-mass",
    "mobygames": "51573"
   },
   "label_en": "Duke Nukem: Critical Mass",
@@ -196,6 +207,7 @@
   "ids": {
    "howlongtobeat": "7426",
    "igdb": "puzzle-quest-2",
+   "metacritic": "puzzle-quest-2",
    "mobygames": "49689",
    "pcgamingwiki": "Puzzle_Quest_2",
    "steam": "47540"
@@ -209,6 +221,7 @@
    "gog": "game/bittrip_fate",
    "howlongtobeat": "1082",
    "igdb": "bit-dot-trip-fate",
+   "metacritic": "bittrip-fate",
    "mobygames": "49736",
    "pcgamingwiki": "Bit.Trip_Fate",
    "steam": "205080"
@@ -220,6 +233,7 @@
   "enwiki": "Photo Dojo",
   "ids": {
    "igdb": "photo-dojo",
+   "metacritic": "photo-dojo",
    "mobygames": "46927"
   },
   "label_en": "Photo Dojo",
@@ -261,6 +275,7 @@
    "gog": "game/ori_and_the_blind_forest_definitive_edition",
    "howlongtobeat": "19265",
    "igdb": "ori-and-the-blind-forest",
+   "metacritic": "ori-and-the-blind-forest",
    "mobygames": "72146",
    "pcgamingwiki": "Ori_and_the_Blind_Forest",
    "steam": "261570"
@@ -286,6 +301,7 @@
   "ids": {
    "howlongtobeat": "33394",
    "igdb": "overlord-fellowship-of-evil",
+   "metacritic": "overlord-fellowship-of-evil",
    "mobygames": "75497",
    "pcgamingwiki": "Overlord:_Fellowship_of_Evil",
    "steam": "306670"
@@ -308,7 +324,8 @@
   "enwiki": "Final Fantasy XIV: Heavensward",
   "ids": {
    "howlongtobeat": "28431",
-   "igdb": "final-fantasy-xiv-heavensward"
+   "igdb": "final-fantasy-xiv-heavensward",
+   "metacritic": "final-fantasy-xiv-heavensward"
   },
   "label_en": "Final Fantasy XIV: Heavensward",
   "wikidata": "Q26964672"
@@ -327,6 +344,7 @@
   "ids": {
    "howlongtobeat": "15064",
    "igdb": "alienators-evolution-continues",
+   "metacritic": "alienators-evolution-continues",
    "mobygames": "5309"
   },
   "label_en": "Alienators: Evolution Continues",
@@ -355,7 +373,8 @@
   "enwiki": "MLB The Show 18",
   "ids": {
    "howlongtobeat": "54786",
-   "igdb": "mlb-the-show-18"
+   "igdb": "mlb-the-show-18",
+   "metacritic": "mlb-the-show-18"
   },
   "label_en": "MLB: The Show 18",
   "wikidata": "Q43401672"
@@ -366,6 +385,7 @@
    "gog": "game/theme_park_mystery",
    "igdb": "theme-park-mystery",
    "mobygames": "8591",
+   "pcgamingwiki": "Theme_Park_Mystery",
    "steam": "1518370"
   },
   "label_en": "Theme Park Mystery",
@@ -375,6 +395,7 @@
   "ids": {
    "howlongtobeat": "56012",
    "igdb": "zerans-folly",
+   "metacritic": "zerans-folly",
    "mobygames": "96872",
    "pcgamingwiki": "Zeran's_Folly",
    "steam": "665030"
@@ -389,6 +410,7 @@
    "gog": "game/close_to_the_sun",
    "howlongtobeat": "66966",
    "igdb": "close-to-the-sun",
+   "metacritic": "close-to-the-sun",
    "mobygames": "126317",
    "pcgamingwiki": "Close_to_the_Sun",
    "steam": "968870"
@@ -401,6 +423,7 @@
   "ids": {
    "howlongtobeat": "66630",
    "igdb": "persona-5-royal",
+   "metacritic": "persona-5-royal",
    "mobygames": "193990",
    "pcgamingwiki": "Persona_5_Royal",
    "steam": "1687950"
@@ -895,6 +918,7 @@
   "ids": {
    "howlongtobeat": "147444",
    "igdb": "ultimate-ragdoll-game",
+   "metacritic": "ultimate-ragdoll-game",
    "steam": "1978720"
   },
   "label_en": "Ultimate Ragdoll Game",
@@ -903,6 +927,7 @@
  {
   "ids": {
    "igdb": "cutie-pets-jump-rope",
+   "metacritic": "cutie-pets-jump-rope",
    "mobygames": "101247"
   },
   "label_en": "Cutie Pets Jump Rope",
@@ -1253,6 +1278,7 @@
  {
   "ids": {
    "igdb": "shooting-star",
+   "pcgamingwiki": "Shooting_Star",
    "steam": "1180700"
   },
   "label_en": "Shooting Star",
@@ -1317,5 +1343,12 @@
   },
   "label_en": "No Backup",
   "wikidata": "Q141481672"
+ },
+ {
+  "ids": {
+   "mobygames": "21936"
+  },
+  "label_en": "The Morlov Affair",
+  "wikidata": "Q142215672"
  }
 ]

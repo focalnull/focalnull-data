@@ -33,6 +33,7 @@
   "ids": {
    "howlongtobeat": "1107",
    "igdb": "blacksite-area-51",
+   "metacritic": "blacksite-area-51",
    "mobygames": "31250",
    "pcgamingwiki": "BlackSite:_Area_51"
   },
@@ -61,6 +62,7 @@
   "enwiki": "Spawn: In the Demon's Hand",
   "ids": {
    "igdb": "spawn-in-the-demon-s-hand",
+   "metacritic": "spawn-in-the-demons-hand",
    "mobygames": "5550"
   },
   "label_en": "Spawn: In the Demon's Hand",
@@ -70,6 +72,7 @@
   "enwiki": "Shrek: Hassle at the Castle",
   "ids": {
    "igdb": "shrek-hassle-at-the-castle",
+   "metacritic": "shrek-hassle-at-the-castle",
    "mobygames": "14016"
   },
   "label_en": "Shrek: Hassle at the Castle",
@@ -97,6 +100,7 @@
   "ids": {
    "howlongtobeat": "1764",
    "igdb": "cloudy-with-a-chance-of-meatballs",
+   "metacritic": "cloudy-with-a-chance-of-meatballs",
    "mobygames": "49345",
    "pcgamingwiki": "Cloudy_with_a_Chance_of_Meatballs",
    "steam": "33270"
@@ -141,7 +145,8 @@
  {
   "enwiki": "Tetris (Electronic Arts)",
   "ids": {
-   "igdb": "tetris--3"
+   "igdb": "tetris--3",
+   "metacritic": "tetris-2011"
   },
   "label_en": "Tetris",
   "wikidata": "Q7706791"
@@ -151,6 +156,7 @@
   "ids": {
    "howlongtobeat": "11144",
    "igdb": "whirl-tour",
+   "metacritic": "whirl-tour",
    "mobygames": "10383"
   },
   "label_en": "Whirl Tour",
@@ -230,6 +236,7 @@
   "ids": {
    "howlongtobeat": "45270",
    "igdb": "judgment-apocalypse-survival-simulation",
+   "metacritic": "judgment-apocalypse-survival-simulation",
    "mobygames": "102912",
    "pcgamingwiki": "Judgment:_Apocalypse_Survival_Simulation",
    "steam": "455980"
@@ -267,6 +274,7 @@
    "gog": "game/curse_of_the_dead_gods",
    "howlongtobeat": "75585",
    "igdb": "curse-of-the-dead-gods",
+   "metacritic": "curse-of-the-dead-gods",
    "mobygames": "143164",
    "pcgamingwiki": "Curse_of_the_Dead_Gods",
    "steam": "1123770"
@@ -278,6 +286,7 @@
   "ids": {
    "howlongtobeat": "76546",
    "igdb": "fishing-adventure",
+   "metacritic": "fishing-adventure",
    "mobygames": "142495",
    "pcgamingwiki": "Fishing_Adventure",
    "steam": "1101140"
@@ -288,6 +297,7 @@
  {
   "ids": {
    "igdb": "memento-mori--3",
+   "metacritic": "mementomori-afkrpg",
    "mobygames": "239666",
    "steam": "2302530"
   },

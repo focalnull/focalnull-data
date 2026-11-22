@@ -3,6 +3,7 @@
   "enwiki": "Superman Returns (video game)",
   "ids": {
    "igdb": "superman-returns-the-videogame",
+   "metacritic": "superman-returns",
    "mobygames": "25245"
   },
   "label_en": "Superman Returns",
@@ -30,6 +31,7 @@
    "gog": "game/shogo_mobile_armor_division",
    "howlongtobeat": "8481",
    "igdb": "shogo-mobile-armor-division",
+   "metacritic": "shogo-mobile-armor-division",
    "mobygames": "1141",
    "pcgamingwiki": "Shogo:_Mobile_Armor_Division",
    "steam": "610860"
@@ -52,6 +54,7 @@
   "enwiki": "Castlevania: The Dracula X Chronicles",
   "ids": {
    "igdb": "castlevania-the-dracula-x-chronicles",
+   "metacritic": "castlevania-the-dracula-x-chronicles",
    "mobygames": "30983"
   },
   "label_en": "Castlevania: The Dracula X Chronicles",
@@ -120,7 +123,8 @@
   "enwiki": "Napoleon Dynamite: The Game",
   "ids": {
    "howlongtobeat": "19950",
-   "igdb": "napoleon-dynamite-the-game"
+   "igdb": "napoleon-dynamite-the-game",
+   "metacritic": "napoleon-dynamite-the-game"
   },
   "label_en": "Napoleon Dynamite: The Game",
   "wikidata": "Q6965031"
@@ -130,6 +134,7 @@
   "ids": {
    "howlongtobeat": "9054",
    "igdb": "star-trek-the-video-game",
+   "metacritic": "star-trek-the-video-game",
    "mobygames": "60735",
    "pcgamingwiki": "Star_Trek_(2013)",
    "steam": "203250"
@@ -172,6 +177,7 @@
    "gog": "game/wolfenstein_the_new_order",
    "howlongtobeat": "16886",
    "igdb": "wolfenstein-the-new-order",
+   "metacritic": "wolfenstein-the-new-order",
    "mobygames": "65716",
    "pcgamingwiki": "Wolfenstein:_The_New_Order",
    "steam": "201810"
@@ -251,6 +257,7 @@
   "ids": {
    "howlongtobeat": "61549",
    "igdb": "my-hero-ones-justice",
+   "metacritic": "my-hero-ones-justice",
    "mobygames": "114491",
    "pcgamingwiki": "My_Hero:_One's_Justice",
    "steam": "748360"
@@ -270,6 +277,7 @@
  {
   "ids": {
    "igdb": "11th-dream",
+   "pcgamingwiki": "11th_Dream",
    "steam": "949450"
   },
   "label_en": "11th Dream",
@@ -280,6 +288,7 @@
    "gog": "game/divinity_original_sin_enhanced_edition",
    "howlongtobeat": "31400",
    "igdb": "divinity-original-sin-enhanced-edition",
+   "metacritic": "divinity-original-sin-enhanced-edition",
    "mobygames": "75485",
    "pcgamingwiki": "Divinity:_Original_Sin_-_Enhanced_Edition",
    "steam": "373420"
@@ -293,6 +302,7 @@
    "gog": "game/dark_nights_with_poe_and_munro",
    "howlongtobeat": "78718",
    "igdb": "dark-nights-with-poe-and-munro",
+   "metacritic": "dark-nights-with-poe-and-munro",
    "mobygames": "145783",
    "pcgamingwiki": "Dark_Nights_with_Poe_and_Munro",
    "steam": "1098170"
@@ -306,6 +316,7 @@
    "epic": "jett-the-far-shore",
    "howlongtobeat": "124231",
    "igdb": "jett-the-far-shore",
+   "metacritic": "jett-the-far-shore",
    "pcgamingwiki": "Jett:_The_Far_Shore",
    "steam": "1761600"
   },
@@ -378,6 +389,7 @@
   "ids": {
    "howlongtobeat": "111915",
    "igdb": "hooked-on-you-a-dead-by-daylight-dating-sim",
+   "metacritic": "hooked-on-you-a-dead-by-daylight-dating-sim",
    "mobygames": "189192",
    "pcgamingwiki": "Hooked_on_You:_A_Dead_by_Daylight_Dating_Sim",
    "steam": "1866180"
@@ -400,6 +412,7 @@
    "howlongtobeat": "114048",
    "igdb": "bonelab",
    "mobygames": "192207",
+   "pcgamingwiki": "Bonelab",
    "steam": "1592190"
   },
   "label_en": "BoneLab",
@@ -411,6 +424,7 @@
    "epic": "wuthering-waves-76ebc5",
    "howlongtobeat": "138060",
    "igdb": "wuthering-waves",
+   "metacritic": "wuthering-waves",
    "mobygames": "224327",
    "pcgamingwiki": "Wuthering_Waves",
    "steam": "3513350"
@@ -662,6 +676,7 @@
   "ids": {
    "howlongtobeat": "98950",
    "igdb": "pizza-master-vr",
+   "metacritic": "pizza-master-vr-pizza-cooking-game",
    "steam": "1247720"
   },
   "label_en": "Pizza Master VR",
@@ -680,6 +695,7 @@
   "ids": {
    "howlongtobeat": "140398",
    "igdb": "ninja-issen",
+   "metacritic": "ninja-issen",
    "mobygames": "212525",
    "steam": "1714550"
   },
@@ -825,6 +841,7 @@
    "epic": "steamworld-heist-2-37ee66",
    "howlongtobeat": "148927",
    "igdb": "steamworld-heist-ii",
+   "metacritic": "steamworld-heist-ii",
    "mobygames": "228917",
    "pcgamingwiki": "SteamWorld_Heist_II",
    "steam": "2396240"
@@ -838,6 +855,7 @@
    "gog": "game/house_of_golf_2",
    "howlongtobeat": "151285",
    "igdb": "house-of-golf-2",
+   "metacritic": "house-of-golf-2",
    "pcgamingwiki": "House_of_Golf_2",
    "steam": "2914390"
   },
@@ -888,7 +906,8 @@
  {
   "ids": {
    "howlongtobeat": "108279",
-   "igdb": "gotta-protectors-cart-of-darkness"
+   "igdb": "gotta-protectors-cart-of-darkness",
+   "metacritic": "gotta-protectors-cart-of-darkness"
   },
   "label_en": "Gotta Protectors: Cart of Darkness",
   "wikidata": "Q126721031"
@@ -908,6 +927,7 @@
    "gog": "game/starvaders",
    "howlongtobeat": "147532",
    "igdb": "starvaders",
+   "metacritic": "starvaders",
    "mobygames": "241368",
    "pcgamingwiki": "StarVaders",
    "steam": "2097570"

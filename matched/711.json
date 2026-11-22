@@ -23,6 +23,7 @@
    "gog": "game/blade_of_darkness",
    "howlongtobeat": "1122",
    "igdb": "severance-blade-of-darkness-39b9fd63-b987-42d4-849c-7ea35fd69682",
+   "metacritic": "blade-of-darkness",
    "mobygames": "3371",
    "pcgamingwiki": "Blade:_The_Edge_of_Darkness",
    "steam": "1710170"
@@ -36,6 +37,7 @@
    "gog": "game/codename_panzers_phase_one",
    "howlongtobeat": "1784",
    "igdb": "codename-panzers-phase-one",
+   "metacritic": "codename-panzers-phase-one",
    "mobygames": "14589",
    "pcgamingwiki": "Codename:_Panzers_-_Phase_One",
    "steam": "411310"
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "6374",
    "igdb": "nanostray",
+   "metacritic": "nanostray",
    "mobygames": "22312"
   },
   "label_en": "Nanostray",
@@ -77,6 +80,7 @@
   "ids": {
    "howlongtobeat": "2099",
    "igdb": "cuboid",
+   "metacritic": "cuboid",
    "mobygames": "83104"
   },
   "label_en": "Cuboid",
@@ -97,6 +101,7 @@
    "gog": "game/homeworld_emergence",
    "howlongtobeat": "4498",
    "igdb": "homeworld-emergence",
+   "metacritic": "homeworld-cataclysm",
    "mobygames": "2321",
    "pcgamingwiki": "Homeworld:_Cataclysm"
   },
@@ -119,6 +124,7 @@
   "enwiki": "Sega Extreme Sports",
   "ids": {
    "igdb": "xtreme-sports--1",
+   "metacritic": "xtreme-sports",
    "mobygames": "41535"
   },
   "label_en": "Xtreme Sports",
@@ -130,6 +136,7 @@
    "gog": "game/sword_of_the_stars_complete_collection",
    "howlongtobeat": "9511",
    "igdb": "sword-of-the-stars",
+   "metacritic": "sword-of-the-stars-a-murder-of-crows",
    "mobygames": "24070",
    "pcgamingwiki": "Sword_of_the_Stars",
    "steam": "42890"
@@ -150,6 +157,7 @@
   "ids": {
    "howlongtobeat": "2029",
    "igdb": "crimson-tears",
+   "metacritic": "crimson-tears",
    "mobygames": "18711"
   },
   "label_en": "Crimson Tears",
@@ -159,6 +167,7 @@
   "enwiki": "Fortress (2001 video game)",
   "ids": {
    "igdb": "fortress",
+   "metacritic": "fortress-2001",
    "mobygames": "28137"
   },
   "label_en": "Fortress",
@@ -177,6 +186,7 @@
   "enwiki": "Mario Golf: World Tour",
   "ids": {
    "igdb": "mario-golf-world-tour",
+   "metacritic": "mario-golf-world-tour",
    "mobygames": "70202"
   },
   "label_en": "Mario Golf: World Tour",
@@ -196,6 +206,7 @@
   "ids": {
    "howlongtobeat": "24446",
    "igdb": "monster-force",
+   "metacritic": "monster-force",
    "mobygames": "17521"
   },
   "label_en": "Monster Force",
@@ -205,6 +216,7 @@
   "enwiki": "NFL Blitz (2012 video game)",
   "ids": {
    "igdb": "nfl-blitz--1",
+   "metacritic": "nfl-blitz",
    "mobygames": "87159"
   },
   "label_en": "NFL Blitz",
@@ -216,6 +228,7 @@
    "epic": "payday-2-c66369",
    "howlongtobeat": "12649",
    "igdb": "payday-2",
+   "metacritic": "payday-2-crimewave-edition",
    "mobygames": "61717",
    "pcgamingwiki": "Payday_2",
    "steam": "218620"
@@ -228,6 +241,7 @@
   "ids": {
    "howlongtobeat": "115540",
    "igdb": "rhem-2-the-cave",
+   "metacritic": "rhem-ii-se-the-cave",
    "mobygames": "18878",
    "pcgamingwiki": "RHEM_2:_The_Cave",
    "steam": "929320"
@@ -303,6 +317,7 @@
    "gog": "game/a_hat_in_time",
    "howlongtobeat": "130",
    "igdb": "a-hat-in-time",
+   "metacritic": "a-hat-in-time",
    "mobygames": "99343",
    "pcgamingwiki": "A_Hat_in_Time",
    "steam": "253230"
@@ -324,6 +339,7 @@
   "ids": {
    "howlongtobeat": "29246",
    "igdb": "volume",
+   "metacritic": "volume",
    "mobygames": "77871",
    "pcgamingwiki": "Volume",
    "steam": "365770"
@@ -343,6 +359,7 @@
   "enwiki": "Lord of Magna: Maiden Heaven",
   "ids": {
    "igdb": "lord-of-magna-maiden-heaven",
+   "metacritic": "lord-of-magna-maiden-heaven",
    "mobygames": "85934"
   },
   "label_en": "Lord of Magna: Maiden Heaven",
@@ -353,6 +370,7 @@
   "ids": {
    "howlongtobeat": "32438",
    "igdb": "dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist",
+   "metacritic": "dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist",
    "mobygames": "76334",
    "pcgamingwiki": "Dr._Langeskov,_The_Tiger,_and_The_Terribly_Cursed_Emerald:_A_Whirlwind_Heist",
    "steam": "409160"
@@ -387,6 +405,7 @@
    "gog": "game/unruly_heroes",
    "howlongtobeat": "64458",
    "igdb": "unruly-heroes",
+   "metacritic": "unruly-heroes",
    "mobygames": "120916",
    "pcgamingwiki": "Unruly_Heroes",
    "steam": "780350"
@@ -397,6 +416,7 @@
  {
   "ids": {
    "igdb": "underground--1",
+   "metacritic": "underground",
    "mobygames": "100693"
   },
   "label_en": "Underground",
@@ -406,6 +426,7 @@
   "ids": {
    "howlongtobeat": "95714",
    "igdb": "warp-drive",
+   "metacritic": "warp-drive",
    "mobygames": "154636",
    "pcgamingwiki": "Warp_Drive_-_Teleport_Racing!",
    "steam": "1163500"
@@ -555,6 +576,7 @@
  {
   "ids": {
    "igdb": "sonic-colors--1",
+   "metacritic": "sonic-colors",
    "mobygames": "49867"
   },
   "label_en": "Sonic Colors",
@@ -640,6 +662,7 @@
   "ids": {
    "howlongtobeat": "53538",
    "igdb": "alaska",
+   "metacritic": "alaska",
    "mobygames": "112442",
    "pcgamingwiki": "Alaska",
    "steam": "800490"

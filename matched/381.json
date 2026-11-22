@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3525",
    "igdb": "final-fantasy-x",
+   "metacritic": "final-fantasy-x",
    "mobygames": "5673"
   },
   "label_en": "Final Fantasy X",
@@ -28,6 +29,7 @@
    "gog": "game/freedom_fighters",
    "howlongtobeat": "3693",
    "igdb": "freedom-fighters",
+   "metacritic": "freedom-fighters",
    "mobygames": "10560",
    "pcgamingwiki": "Freedom_Fighters",
    "steam": "1347780"
@@ -52,6 +54,7 @@
   "ids": {
    "howlongtobeat": "3009",
    "igdb": "dynasty-warriors-next",
+   "metacritic": "dynasty-warriors-next",
    "mobygames": "83542"
   },
   "label_en": "Dynasty Warriors Next",
@@ -73,6 +76,7 @@
    "gog": "game/call_to_power_2",
    "howlongtobeat": "1489",
    "igdb": "call-to-power-ii",
+   "metacritic": "call-to-power-ii",
    "mobygames": "2736",
    "pcgamingwiki": "Call_to_Power_II",
    "steam": "572050"
@@ -133,6 +137,7 @@
   "ids": {
    "howlongtobeat": "7701",
    "igdb": "reign-conflict-of-nations",
+   "metacritic": "reign-conflict-of-nations",
    "mobygames": "47130",
    "pcgamingwiki": "Reign:_Conflict_of_Nations",
    "steam": "46380"
@@ -221,6 +226,7 @@
   "ids": {
    "howlongtobeat": "11049",
    "igdb": "warhammer-40-000-kill-team",
+   "metacritic": "warhammer-40-000-kill-team",
    "mobygames": "73421",
    "pcgamingwiki": "Warhammer_40,000:_Kill_Team",
    "steam": "275610"
@@ -261,6 +267,7 @@
   "ids": {
    "howlongtobeat": "39066",
    "igdb": "gal-star-gun-double-peace",
+   "metacritic": "galgun-double-peace",
    "mobygames": "77988",
    "pcgamingwiki": "Gal*Gun:_Double_Peace",
    "steam": "511740"
@@ -293,6 +300,7 @@
   "ids": {
    "howlongtobeat": "77767",
    "igdb": "hazelnut-bastille",
+   "metacritic": "hazelnut-bastille",
    "pcgamingwiki": "Hazelnut_Bastille",
    "steam": "968710"
   },
@@ -314,6 +322,7 @@
   "ids": {
    "howlongtobeat": "69552",
    "igdb": "love-3-love-cube",
+   "metacritic": "love3-love-cube-",
    "mobygames": "130839",
    "pcgamingwiki": "LOVE³_-Love_Cube-",
    "steam": "939600"
@@ -337,6 +346,7 @@
   "ids": {
    "howlongtobeat": "50915",
    "igdb": "river-city-rival-showdown",
+   "metacritic": "river-city-rival-showdown",
    "mobygames": "98036",
    "pcgamingwiki": "River_City:_Rival_Showdown",
    "steam": "2090370"
@@ -503,6 +513,7 @@
    "howlongtobeat": "58506",
    "igdb": "labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree",
    "mobygames": "179057",
+   "pcgamingwiki": "Labyrinth_of_Touhou:_Gensokyo_and_the_Heaven-Piercing_Tree",
    "steam": "1131920"
   },
   "label_en": "LABYRINTH OF TOUHOU - GENSOKYO AND THE HEAVEN-PIERCING TREE",
@@ -543,6 +554,7 @@
    "gog": "game/the_blind_prophet",
    "howlongtobeat": "75109",
    "igdb": "the-blind-prophet",
+   "metacritic": "the-blind-prophet",
    "mobygames": "142113",
    "pcgamingwiki": "The_Blind_Prophet",
    "steam": "968370"
@@ -755,6 +767,7 @@
    "epic": "hell-is-others-789262",
    "howlongtobeat": "114518",
    "igdb": "hell-is-others",
+   "metacritic": "hell-is-others",
    "mobygames": "193868",
    "pcgamingwiki": "Hell_is_Others",
    "steam": "964440"
@@ -1144,6 +1157,7 @@
  },
  {
   "ids": {
+   "metacritic": "daughter-of-pain",
    "steam": "3338240"
   },
   "label_en": "DAUGHTER OF PAIN",
@@ -1201,6 +1215,7 @@
   "ids": {
    "epic": "jawbreaker-bb17a4",
    "igdb": "jawbreaker--4",
+   "pcgamingwiki": "Jawbreaker",
    "steam": "2137460"
   },
   "label_en": "Jawbreaker",
@@ -1222,6 +1237,7 @@
   "enwiki": "Mind Grind",
   "ids": {
    "igdb": "mind-grind",
+   "metacritic": "mind-grind",
    "mobygames": "70100",
    "pcgamingwiki": "Mind_Grind"
   },
@@ -1235,6 +1251,7 @@
  {
   "ids": {
    "igdb": "darkfairytales-sleepingbeauty",
+   "pcgamingwiki": "DarkFairyTales_SleepingBeauty",
    "steam": "1119630"
   },
   "label_en": "DarkFairyTales SleepingBeauty",

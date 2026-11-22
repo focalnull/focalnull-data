@@ -15,6 +15,7 @@
    "gog": "game/summoner",
    "howlongtobeat": "9314",
    "igdb": "summoner",
+   "metacritic": "summoner",
    "mobygames": "3501",
    "pcgamingwiki": "Summoner",
    "steam": "275570"
@@ -37,6 +38,7 @@
   "ids": {
    "howlongtobeat": "4355",
    "igdb": "haunting-ground",
+   "metacritic": "haunting-ground",
    "mobygames": "18429"
   },
   "label_en": "Haunting Ground",
@@ -69,6 +71,7 @@
   "ids": {
    "howlongtobeat": "11306",
    "igdb": "worms-blast",
+   "metacritic": "worms-blast",
    "mobygames": "6143",
    "pcgamingwiki": "Worms_Blast",
    "steam": "70650"
@@ -80,6 +83,7 @@
   "enwiki": "Dead Head Fred",
   "ids": {
    "igdb": "dead-head-fred",
+   "metacritic": "dead-head-fred",
    "mobygames": "32223"
   },
   "label_en": "Dead Head Fred",
@@ -109,6 +113,7 @@
   "ids": {
    "howlongtobeat": "21941",
    "igdb": "coraline",
+   "metacritic": "coraline",
    "mobygames": "45346"
   },
   "label_en": "Coraline",
@@ -169,6 +174,7 @@
   "ids": {
    "howlongtobeat": "26232",
    "igdb": "mlb-front-office-manager",
+   "metacritic": "mlb-front-office-manager",
    "mobygames": "46573",
    "pcgamingwiki": "MLB_Front_Office_Manager",
    "steam": "7780"
@@ -238,7 +244,8 @@
  {
   "enwiki": "NBA Baller Beats",
   "ids": {
-   "igdb": "nba-baller-beats"
+   "igdb": "nba-baller-beats",
+   "metacritic": "nba-baller-beats"
   },
   "label_en": "NBA Baller Beats",
   "wikidata": "Q16267540"
@@ -248,6 +255,7 @@
   "ids": {
    "howlongtobeat": "22869",
    "igdb": "worms-battlegrounds",
+   "metacritic": "worms-battlegrounds",
    "mobygames": "71219"
   },
   "label_en": "Worms Battlegrounds",
@@ -267,6 +275,7 @@
   "ids": {
    "howlongtobeat": "42547",
    "igdb": "abraca-imagic-games",
+   "metacritic": "abraca-imagic-games",
    "mobygames": "105709",
    "pcgamingwiki": "ABRACA_-_Imagic_Games",
    "steam": "345990"
@@ -280,6 +289,7 @@
    "gog": "game/one_night_stand",
    "howlongtobeat": "41850",
    "igdb": "one-night-stand",
+   "metacritic": "one-night-stand",
    "mobygames": "84579",
    "pcgamingwiki": "One_Night_Stand",
    "steam": "549860"
@@ -292,6 +302,7 @@
   "ids": {
    "howlongtobeat": "47773",
    "igdb": "the-mages-tale",
+   "metacritic": "the-mages-tale",
    "mobygames": "105462",
    "pcgamingwiki": "The_Mage's_Tale",
    "steam": "766320"
@@ -398,6 +409,7 @@
    "gog": "game/expedition_zero",
    "howlongtobeat": "98030",
    "igdb": "expedition-zero",
+   "metacritic": "expedition-zero",
    "mobygames": "183323",
    "pcgamingwiki": "Expedition_Zero",
    "steam": "1247570"
@@ -439,6 +451,7 @@
    "epic": "high-on-life-3a855b",
    "howlongtobeat": "109245",
    "igdb": "high-on-life",
+   "metacritic": "high-on-life",
    "mobygames": "195741",
    "pcgamingwiki": "High_on_Life",
    "steam": "1583230"
@@ -461,6 +474,7 @@
    "gog": "game/9th_dawn_iii",
    "howlongtobeat": "84904",
    "igdb": "9th-dawn-iii",
+   "metacritic": "9th-dawn-iii-shadow-of-erthil",
    "mobygames": "151241",
    "pcgamingwiki": "9th_Dawn_III",
    "steam": "1154850"
@@ -494,6 +508,7 @@
   "ids": {
    "howlongtobeat": "129234",
    "igdb": "metal-gear-solid-delta-snake-eater",
+   "metacritic": "metal-gear-solid-delta-snake-eater",
    "mobygames": "243161",
    "pcgamingwiki": "Metal_Gear_Solid_Δ:_Snake_Eater",
    "steam": "2417610"
@@ -506,6 +521,7 @@
   "ids": {
    "howlongtobeat": "129809",
    "igdb": "star-trek-infinite",
+   "metacritic": "star-trek-infinite",
    "mobygames": "210122",
    "pcgamingwiki": "Star_Trek:_Infinite",
    "steam": "1622900"

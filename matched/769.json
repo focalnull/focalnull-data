@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9047",
    "igdb": "star-ocean-the-second-story",
+   "metacritic": "star-ocean-second-evolution",
    "mobygames": "3834"
   },
   "label_en": "Star Ocean: The Second Story",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "1028",
    "igdb": "big-brain-academy",
+   "metacritic": "big-brain-academy",
    "mobygames": "22519"
   },
   "label_en": "Big Brain Academy",
@@ -24,6 +26,7 @@
   "ids": {
    "howlongtobeat": "5734",
    "igdb": "max-the-magic-marker",
+   "metacritic": "max-and-the-magic-marker",
    "mobygames": "45121",
    "pcgamingwiki": "Max_and_the_Magic_Marker",
    "steam": "50820"
@@ -35,6 +38,7 @@
   "enwiki": "Spider-Man 3 (video game)",
   "ids": {
    "igdb": "spider-man-3",
+   "metacritic": "spider-man-3",
    "mobygames": "28059",
    "pcgamingwiki": "Spider-Man_3"
   },
@@ -45,6 +49,7 @@
   "enwiki": "Fantastic Four (2005 video game)",
   "ids": {
    "igdb": "fantastic-4",
+   "metacritic": "fantastic-4",
    "mobygames": "18891",
    "pcgamingwiki": "Fantastic_Four"
   },
@@ -115,6 +120,7 @@
   "enwiki": "Night Watch (video game)",
   "ids": {
    "igdb": "night-watch",
+   "metacritic": "night-watch",
    "mobygames": "28457",
    "pcgamingwiki": "Night_Watch"
   },
@@ -125,6 +131,7 @@
   "enwiki": "Hammer & Sickle",
   "ids": {
    "igdb": "hammer-and-sickle",
+   "metacritic": "hammer-and-sickle",
    "mobygames": "20743",
    "pcgamingwiki": "Hammer_&_Sickle"
   },
@@ -145,6 +152,7 @@
   "enwiki": "Celebrity Sports Showdown",
   "ids": {
    "igdb": "celebrity-sports-showdown",
+   "metacritic": "celebrity-sports-showdown",
    "mobygames": "85282"
   },
   "label_en": "Celebrity Sports Showdown",
@@ -155,6 +163,7 @@
   "ids": {
    "howlongtobeat": "13785",
    "igdb": "echochrome-ii",
+   "metacritic": "echochrome-ii",
    "mobygames": "83409"
   },
   "label_en": "Echochrome II",
@@ -246,7 +255,8 @@
   "enwiki": "Sky Burger",
   "ids": {
    "howlongtobeat": "90314",
-   "igdb": "sky-burger"
+   "igdb": "sky-burger",
+   "metacritic": "sky-burger"
   },
   "label_en": "Sky Burger",
   "wikidata": "Q16267769"
@@ -260,6 +270,7 @@
   "ids": {
    "howlongtobeat": "36017",
    "igdb": "pokken-tournament",
+   "metacritic": "pokken-tournament",
    "mobygames": "73844"
   },
   "label_en": "Pokkén Tournament",
@@ -268,6 +279,7 @@
  {
   "ids": {
    "igdb": "lead-the-meerkats",
+   "metacritic": "lead-the-meerkats",
    "mobygames": "91494"
   },
   "label_en": "Lead the Meerkats",
@@ -309,6 +321,7 @@
    "gog": "game/the_infectious_madness_of_doctor_dekker",
    "howlongtobeat": "46244",
    "igdb": "the-infectious-madness-of-doctor-dekker",
+   "metacritic": "the-infectious-madness-of-doctor-dekker",
    "mobygames": "89043",
    "pcgamingwiki": "The_Infectious_Madness_of_Doctor_Dekker",
    "steam": "545540"
@@ -324,6 +337,7 @@
   "ids": {
    "howlongtobeat": "54513",
    "igdb": "shio",
+   "metacritic": "shio",
    "mobygames": "100446",
    "pcgamingwiki": "Shio",
    "steam": "525360"
@@ -354,6 +368,7 @@
   "ids": {
    "howlongtobeat": "91131",
    "igdb": "oxenfree-ii-lost-signals",
+   "metacritic": "oxenfree-ii-lost-signals",
    "mobygames": "190922",
    "pcgamingwiki": "Oxenfree_II:_Lost_Signals",
    "steam": "1574310"
@@ -477,6 +492,7 @@
    "gog": "game/tiny_thor",
    "howlongtobeat": "80447",
    "igdb": "tiny-thor",
+   "metacritic": "tiny-thor",
    "mobygames": "204082",
    "pcgamingwiki": "Tiny_Thor",
    "steam": "541310"
@@ -1229,6 +1245,7 @@
   "enwiki": "Alien: Isolation 2",
   "ids": {
    "igdb": "alien-isolation-2",
+   "metacritic": "alien-isolation-2",
    "pcgamingwiki": "Alien:_Isolation_2",
    "steam": "4665290"
   },

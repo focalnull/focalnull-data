@@ -24,6 +24,7 @@
    "epic": "cuban-missile-crisis-bd96ab",
    "howlongtobeat": "26983",
    "igdb": "cuban-missile-crisis",
+   "metacritic": "cuban-missile-crisis-the-aftermath",
    "mobygames": "26848",
    "pcgamingwiki": "Cuban_Missile_Crisis",
    "steam": "356270"
@@ -43,6 +44,7 @@
  {
   "ids": {
    "igdb": "dragon-ball-z-budokai-tenkaichi-2",
+   "metacritic": "dragon-ball-z-budokai-tenkaichi-2",
    "mobygames": "25870"
   },
   "label_en": "Dragon Ball Z: Budokai Tenkaichi 2",
@@ -168,6 +170,7 @@
    "gog": "game/shenmue_iii",
    "howlongtobeat": "26766",
    "igdb": "shenmue-iii",
+   "metacritic": "shenmue-iii",
    "mobygames": "137440",
    "pcgamingwiki": "Shenmue_III",
    "steam": "878670"
@@ -190,6 +193,7 @@
    "gog": "game/endless_space_2",
    "howlongtobeat": "41360",
    "igdb": "endless-space-2",
+   "metacritic": "endless-space-2",
    "mobygames": "88936",
    "pcgamingwiki": "Endless_Space_2",
    "steam": "392110"
@@ -220,6 +224,7 @@
   "enwiki": "Microsoft Adventure",
   "ids": {
    "igdb": "microsoft-adventure",
+   "metacritic": "microsoft-adventure",
    "mobygames": "4074",
    "pcgamingwiki": "Microsoft_Adventure"
   },
@@ -251,6 +256,7 @@
   "ids": {
    "howlongtobeat": "41788",
    "igdb": "aegis",
+   "pcgamingwiki": "Aegis",
    "steam": "530520"
   },
   "label_en": "Aegis",
@@ -261,6 +267,7 @@
   "ids": {
    "howlongtobeat": "46924",
    "igdb": "agatha-knife",
+   "metacritic": "agatha-knife",
    "mobygames": "96309",
    "pcgamingwiki": "Agatha_Knife",
    "steam": "618950"
@@ -274,6 +281,7 @@
    "gog": "game/orwell_ignorance_is_strength",
    "howlongtobeat": "53486",
    "igdb": "orwell-ignorance-is-strength",
+   "metacritic": "orwell-ignorance-is-strength",
    "mobygames": "103959",
    "pcgamingwiki": "Orwell:_Ignorance_is_Strength",
    "steam": "633060"

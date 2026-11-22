@@ -7,6 +7,7 @@
   "enwiki": "High School Musical: Sing It!",
   "ids": {
    "igdb": "high-school-musical-sing-it",
+   "metacritic": "high-school-musical-sing-it",
    "mobygames": "30901"
   },
   "label_en": "High School Musical: Sing It!",
@@ -43,6 +44,7 @@
  {
   "ids": {
    "igdb": "sonics-schoolhouse",
+   "metacritic": "sonics-schoolhouse",
    "mobygames": "85479",
    "pcgamingwiki": "Sonic's_Schoolhouse"
   },
@@ -68,6 +70,7 @@
   "enwiki": "Meet the Robinsons (video game)",
   "ids": {
    "igdb": "meet-the-robinsons--1",
+   "metacritic": "disneys-meet-the-robinsons",
    "mobygames": "46012",
    "pcgamingwiki": "Meet_the_Robinsons"
   },
@@ -78,6 +81,7 @@
   "enwiki": "Daytona USA 2001",
   "ids": {
    "igdb": "daytona-usa--3",
+   "metacritic": "daytona-usa",
    "mobygames": "1500"
   },
   "label_en": "Daytona USA 2001",
@@ -88,6 +92,7 @@
   "ids": {
    "howlongtobeat": "39451",
    "igdb": "nancy-drew-the-final-scene",
+   "metacritic": "nancy-drew-the-final-scene",
    "mobygames": "5535",
    "pcgamingwiki": "Nancy_Drew:_The_Final_Scene",
    "steam": "615730"
@@ -134,7 +139,8 @@
  {
   "enwiki": "Raskulls",
   "ids": {
-   "igdb": "raskulls"
+   "igdb": "raskulls",
+   "metacritic": "raskulls"
   },
   "label_en": "Raskulls",
   "wikidata": "Q7295078"
@@ -179,6 +185,7 @@
   "enwiki": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
   "ids": {
    "igdb": "atelier-escha-logy-alchemists-of-the-dusk-sky",
+   "metacritic": "atelier-escha-and-logy-alchemists-of-the-dusk-sky",
    "mobygames": "83552"
   },
   "label_en": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
@@ -238,6 +245,7 @@
   "enwiki": "Pokémon Moon",
   "ids": {
    "igdb": "pokemon-moon",
+   "metacritic": "pokemon-moon",
    "mobygames": "81793"
   },
   "label_en": "Pokémon Moon",
@@ -256,6 +264,7 @@
    "gog": "game/the_long_journey_home",
    "howlongtobeat": "46321",
    "igdb": "the-long-journey-home",
+   "metacritic": "the-long-journey-home",
    "mobygames": "89598",
    "pcgamingwiki": "The_Long_Journey_Home",
    "steam": "366910"
@@ -268,6 +277,7 @@
   "ids": {
    "howlongtobeat": "38199",
    "igdb": "spellforce-3",
+   "metacritic": "spellforce-3",
    "mobygames": "99118",
    "pcgamingwiki": "SpellForce_3",
    "steam": "311290"
@@ -293,6 +303,7 @@
  {
   "ids": {
    "igdb": "karaoke-revolution-volume-3",
+   "metacritic": "karaoke-revolution-volume-3",
    "mobygames": "16194"
   },
   "label_en": "Karaoke Revolution: Volume 3",
@@ -768,7 +779,8 @@
  },
  {
   "ids": {
-   "igdb": "splashy-duck"
+   "igdb": "splashy-duck",
+   "metacritic": "splashy-duck"
   },
   "label_en": "SPLASHY DUCK",
   "wikidata": "Q125800078"
@@ -797,6 +809,7 @@
   "ids": {
    "howlongtobeat": "165115",
    "igdb": "expelled--1",
+   "metacritic": "expelled-2025",
    "mobygames": "238798",
    "steam": "2963890"
   },
@@ -1077,6 +1090,7 @@
  {
   "ids": {
    "igdb": "trijinx-a-kristine-kross-mystery",
+   "pcgamingwiki": "TriJinx:_A_Kristine_Kross_Mystery",
    "steam": "37370"
   },
   "label_en": "TriJinx: A Kristine Kross Mystery™",
@@ -1107,6 +1121,7 @@
  {
   "ids": {
    "igdb": "anime-shop-simulator",
+   "pcgamingwiki": "Anime_Shop_Simulator",
    "steam": "3393280"
   },
   "label_en": "Anime Shop Simulator",

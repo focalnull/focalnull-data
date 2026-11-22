@@ -5,6 +5,7 @@
    "gog": "game/x3_reunion",
    "howlongtobeat": "11390",
    "igdb": "x3-reunion",
+   "metacritic": "x3-reunion",
    "mobygames": "19890",
    "pcgamingwiki": "X3:_Reunion",
    "steam": "2810"
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "5736",
    "igdb": "max-payne",
+   "metacritic": "max-payne",
    "mobygames": "4529",
    "pcgamingwiki": "Max_Payne",
    "steam": "12140"
@@ -73,6 +75,7 @@
   "ids": {
    "howlongtobeat": "9894",
    "igdb": "the-golden-compass",
+   "metacritic": "the-golden-compass",
    "mobygames": "33109",
    "pcgamingwiki": "The_Golden_Compass",
    "steam": "10440"
@@ -154,6 +157,7 @@
   "enwiki": "Death Jr.",
   "ids": {
    "igdb": "death-jr",
+   "metacritic": "death-jr",
    "mobygames": "29285"
   },
   "label_en": "Death Jr.",
@@ -164,6 +168,7 @@
   "ids": {
    "howlongtobeat": "7097",
    "igdb": "planet-puzzle-league",
+   "metacritic": "planet-puzzle-league",
    "mobygames": "31709"
   },
   "label_en": "Planet Puzzle League",
@@ -198,6 +203,7 @@
   "ids": {
    "howlongtobeat": "37426",
    "igdb": "teenage-mutant-ninja-turtles-mutants-in-manhattan",
+   "metacritic": "teenage-mutant-ninja-turtles-mutants-in-manhattan",
    "mobygames": "86496",
    "pcgamingwiki": "Teenage_Mutant_Ninja_Turtles:_Mutants_in_Manhattan",
    "steam": "338400"
@@ -221,6 +227,7 @@
   "ids": {
    "howlongtobeat": "48837",
    "igdb": "dont-knock-twice",
+   "metacritic": "dont-knock-twice",
    "mobygames": "95678",
    "pcgamingwiki": "Don't_Knock_Twice",
    "steam": "328590"
@@ -242,6 +249,7 @@
   "ids": {
    "howlongtobeat": "63249",
    "igdb": "lost-grimoires-3-the-forgotten-well",
+   "metacritic": "lost-grimoires-3-the-forgotten-well",
    "mobygames": "99496",
    "pcgamingwiki": "Lost_Grimoires_3:_The_Forgotten_Well",
    "steam": "740090"
@@ -253,6 +261,7 @@
   "ids": {
    "howlongtobeat": "13324",
    "igdb": "gas-guzzlers-combat-carnage",
+   "metacritic": "gas-guzzlers-combat-carnage",
    "mobygames": "71006",
    "pcgamingwiki": "Gas_Guzzlers:_Combat_Carnage",
    "steam": "596620"
@@ -285,6 +294,7 @@
   "ids": {
    "howlongtobeat": "36109",
    "igdb": "backgammon-blitz",
+   "metacritic": "backgammon-blitz",
    "mobygames": "86730",
    "pcgamingwiki": "Backgammon_Blitz",
    "steam": "395900"
@@ -296,6 +306,7 @@
   "ids": {
    "howlongtobeat": "33193",
    "igdb": "sakura-santa",
+   "metacritic": "sakura-santa",
    "mobygames": "82773",
    "pcgamingwiki": "Sakura_Santa",
    "steam": "421700"
@@ -325,6 +336,7 @@
    "epic": "falling-out-cb0814",
    "howlongtobeat": "145794",
    "igdb": "falling-out",
+   "metacritic": "falling-out",
    "mobygames": "192971",
    "steam": "1363680"
   },
@@ -366,6 +378,7 @@
    "gog": "game/synergy",
    "howlongtobeat": "140571",
    "igdb": "synergy--2",
+   "metacritic": "synergy",
    "mobygames": "224365",
    "steam": "1989070"
   },
@@ -684,6 +697,7 @@
   "ids": {
    "howlongtobeat": "10917",
    "igdb": "vertex-dispenser",
+   "metacritic": "vertex-dispenser",
    "pcgamingwiki": "Vertex_Dispenser",
    "steam": "102400"
   },
@@ -705,6 +719,7 @@
   "ids": {
    "howlongtobeat": "151084",
    "igdb": "piggy-one-super-spark",
+   "metacritic": "piggy-one-super-spark",
    "steam": "2780230"
   },
   "label_en": "Piggy One Super Spark",
@@ -1109,6 +1124,7 @@
  {
   "ids": {
    "igdb": "dark-tower--1",
+   "pcgamingwiki": "Dark_Tower",
    "steam": "606060"
   },
   "label_en": "Dark Tower",

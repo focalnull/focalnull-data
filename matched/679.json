@@ -3,6 +3,7 @@
   "enwiki": "Puyo Puyo 2",
   "ids": {
    "igdb": "puyo-puyo-tsuu",
+   "metacritic": "sega-ages-puyo-puyo-2",
    "mobygames": "13047",
    "pcgamingwiki": "Puyo_Puyo_2"
   },
@@ -32,6 +33,7 @@
   "enwiki": "Dragon Ball Z: The Legacy of Goku (video game)",
   "ids": {
    "igdb": "dragon-ball-z-the-legacy-of-goku",
+   "metacritic": "dragon-ball-z-the-legacy-of-goku",
    "mobygames": "6773"
   },
   "label_en": "Dragon Ball Z: The Legacy of Goku",
@@ -67,6 +69,7 @@
   "enwiki": "Dust 514",
   "ids": {
    "igdb": "eve-dust-514",
+   "metacritic": "dust-514",
    "mobygames": "83435"
   },
   "label_en": "Dust 514",
@@ -89,6 +92,7 @@
   "enwiki": "Dungeon Siege: Throne of Agony",
   "ids": {
    "igdb": "dungeon-siege-throne-of-agony",
+   "metacritic": "dungeon-siege-throne-of-agony",
    "mobygames": "27306"
   },
   "label_en": "Dungeon Siege: Throne of Agony",
@@ -99,6 +103,7 @@
    "epic": "ubersoldier-ii-cf51e4",
    "howlongtobeat": "10743",
    "igdb": "ubersoldier-ii",
+   "metacritic": "ubersoldier-ii",
    "mobygames": "31472",
    "pcgamingwiki": "ÜberSoldier_II",
    "steam": "281410"
@@ -202,6 +207,7 @@
  },
  {
   "ids": {
+   "metacritic": "metal-gear-solid-portable-ops-plus",
    "mobygames": "31753"
   },
   "label_en": "Metal Gear Solid: Portable Ops Plus",
@@ -211,6 +217,7 @@
   "enwiki": "Fighter Within",
   "ids": {
    "igdb": "fighter-within",
+   "metacritic": "fighter-within",
    "mobygames": "65690"
   },
   "label_en": "Fighter Within",
@@ -223,6 +230,7 @@
    "gog": "game/towerfall_ascension",
    "howlongtobeat": "17299",
    "igdb": "towerfall-ascension",
+   "metacritic": "towerfall-ascension",
    "mobygames": "65774",
    "pcgamingwiki": "TowerFall_Ascension",
    "steam": "251470"
@@ -253,6 +261,7 @@
   "ids": {
    "howlongtobeat": "26730",
    "igdb": "the-elder-scrolls-legends",
+   "metacritic": "the-elder-scrolls-legends",
    "mobygames": "87488",
    "pcgamingwiki": "The_Elder_Scrolls:_Legends",
    "steam": "364470"
@@ -265,6 +274,7 @@
    "gog": "game/grand_ages_medieval",
    "howlongtobeat": "30526",
    "igdb": "grand-ages-medieval",
+   "metacritic": "grand-ages-medieval",
    "mobygames": "83525",
    "pcgamingwiki": "Grand_Ages:_Medieval",
    "steam": "310470"
@@ -291,6 +301,7 @@
  {
   "ids": {
    "howlongtobeat": "4400",
+   "metacritic": "hellforces",
    "mobygames": "18567",
    "pcgamingwiki": "Hellforces"
   },
@@ -348,6 +359,7 @@
   "ids": {
    "howlongtobeat": "52919",
    "igdb": "yo-kai-watch-2-psychic-specters",
+   "metacritic": "yo-kai-watch-2-psychic-specters",
    "mobygames": "96123"
   },
   "label_en": "Yo-kai Watch 2: Psychic Specters",
@@ -364,7 +376,8 @@
   "enwiki": "Dan the Man",
   "ids": {
    "howlongtobeat": "63424",
-   "igdb": "dan-the-man"
+   "igdb": "dan-the-man",
+   "metacritic": "dan-the-man"
   },
   "label_en": "Dan the Man",
   "wikidata": "Q110126679"
@@ -446,6 +459,7 @@
   "ids": {
    "howlongtobeat": "59383",
    "igdb": "trivia-vault-auto-racing-trivia",
+   "metacritic": "trivia-vault-auto-racing-trivia",
    "pcgamingwiki": "Trivia_Vault:_Auto_Racing_Trivia",
    "steam": "822460"
   },
@@ -495,6 +509,7 @@
   "ids": {
    "howlongtobeat": "87366",
    "igdb": "the-game-of-life-2",
+   "metacritic": "the-game-of-life-2",
    "mobygames": "155679",
    "pcgamingwiki": "The_Game_of_Life_2",
    "steam": "1455630"
@@ -514,7 +529,9 @@
   "ids": {
    "howlongtobeat": "129269",
    "igdb": "arizona-sunshine-ii",
+   "metacritic": "arizona-sunshine-2",
    "mobygames": "213674",
+   "pcgamingwiki": "Arizona_Sunshine_2",
    "steam": "1540210"
   },
   "label_en": "Arizona Sunshine 2",
@@ -720,7 +737,8 @@
  },
  {
   "ids": {
-   "igdb": "fushigi-dagashiya-sentendou-fushigi-dagashiya-banashi-50-sen"
+   "igdb": "fushigi-dagashiya-sentendou-fushigi-dagashiya-banashi-50-sen",
+   "metacritic": "fushigi-dagashiya-zenitendou-fushigi-dagashi"
   },
   "label_en": "Fushigi Dagashiya Zenitendō: Fushigi Dagashi Banashi 50-Sen",
   "wikidata": "Q123157679"
@@ -830,6 +848,7 @@
   "ids": {
    "howlongtobeat": "145115",
    "igdb": "children-of-the-sun",
+   "metacritic": "children-of-the-sun",
    "mobygames": "221559",
    "pcgamingwiki": "Children_of_the_Sun",
    "steam": "1309950"
@@ -1187,6 +1206,7 @@
  {
   "ids": {
    "igdb": "armorgeddon",
+   "pcgamingwiki": "Armorgeddon",
    "steam": "1200120"
   },
   "label_en": "Armorgeddon",

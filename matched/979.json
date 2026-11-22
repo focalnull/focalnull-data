@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "1880",
    "igdb": "condemned-2-bloodshot",
+   "metacritic": "condemned-2-bloodshot",
    "mobygames": "34377"
   },
   "label_en": "Condemned 2: Bloodshot",
@@ -74,6 +75,7 @@
    "gog": "game/depths_of_peril",
    "howlongtobeat": "2451",
    "igdb": "depths-of-peril",
+   "metacritic": "depths-of-peril",
    "mobygames": "31051",
    "pcgamingwiki": "Depths_of_Peril",
    "steam": "23600"
@@ -85,6 +87,7 @@
   "enwiki": "Draglade",
   "ids": {
    "igdb": "draglade",
+   "metacritic": "draglade",
    "mobygames": "34255"
   },
   "label_en": "Draglade",
@@ -149,6 +152,7 @@
   "ids": {
    "howlongtobeat": "9059",
    "igdb": "star-trek-invasion",
+   "metacritic": "star-trek-invasion",
    "mobygames": "3895"
   },
   "label_en": "Star Trek: Invasion",
@@ -195,6 +199,7 @@
   "ids": {
    "howlongtobeat": "23056",
    "igdb": "dead-or-alive-5-last-round",
+   "metacritic": "dead-or-alive-5-last-round",
    "mobygames": "72215",
    "pcgamingwiki": "Dead_or_Alive_5_Last_Round",
    "steam": "311730"
@@ -216,6 +221,7 @@
   "ids": {
    "howlongtobeat": "38688",
    "igdb": "monster-hunter-generations",
+   "metacritic": "monster-hunter-generations",
    "mobygames": "86433"
   },
   "label_en": "Monster Hunter Generations",
@@ -228,6 +234,7 @@
    "gog": "game/elex",
    "howlongtobeat": "27129",
    "igdb": "elex",
+   "metacritic": "elex",
    "mobygames": "97199",
    "pcgamingwiki": "ELEX",
    "steam": "411300"
@@ -258,6 +265,7 @@
   "enwiki": "Metal Max Xeno",
   "ids": {
    "igdb": "metal-max-xeno",
+   "metacritic": "metal-max-xeno",
    "mobygames": "114172",
    "pcgamingwiki": "Metal_Max_Xeno_Reborn"
   },
@@ -270,6 +278,7 @@
    "epic": "twin-mirror",
    "howlongtobeat": "57271",
    "igdb": "twin-mirror",
+   "metacritic": "twin-mirror",
    "mobygames": "154900",
    "pcgamingwiki": "Twin_Mirror",
    "steam": "1552810"
@@ -320,6 +329,7 @@
    "epic": "suicide-squad-kill-the-justice-league",
    "howlongtobeat": "82067",
    "igdb": "suicide-squad-kill-the-justice-league",
+   "metacritic": "suicide-squad-kill-the-justice-league",
    "mobygames": "216880",
    "pcgamingwiki": "Suicide_Squad:_Kill_the_Justice_League",
    "steam": "315210"
@@ -344,6 +354,7 @@
    "gog": "game/one_finger_death_punch_2",
    "howlongtobeat": "66469",
    "igdb": "one-finger-death-punch-2",
+   "metacritic": "one-finger-death-punch-2",
    "mobygames": "125095",
    "pcgamingwiki": "One_Finger_Death_Punch_2",
    "steam": "980300"
@@ -386,6 +397,7 @@
    "gog": "game/my_time_at_sandrock",
    "howlongtobeat": "88654",
    "igdb": "my-time-at-sandrock",
+   "metacritic": "my-time-at-sandrock",
    "mobygames": "185006",
    "pcgamingwiki": "My_Time_at_Sandrock",
    "steam": "1084600"
@@ -429,6 +441,7 @@
   "ids": {
    "howlongtobeat": "108206",
    "igdb": "uligo-a-slimes-hike",
+   "metacritic": "uligo-a-slimes-hike",
    "steam": "1971790"
   },
   "label_en": "Uligo: A Slime's Hike",

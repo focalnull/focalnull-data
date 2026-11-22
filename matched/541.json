@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2721",
    "igdb": "dota-2",
+   "metacritic": "dota-2",
    "mobygames": "62741",
    "pcgamingwiki": "Dota_2",
    "steam": "570"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "8744",
    "igdb": "sonic-3d-blast",
+   "metacritic": "sonic-3d-blast",
    "mobygames": "3494",
    "pcgamingwiki": "Sonic_3D_Blast_(Genesis)",
    "steam": "34278"
@@ -27,6 +29,7 @@
   "enwiki": "WWE SmackDown vs. Raw 2011",
   "ids": {
    "igdb": "wwe-smackdown-vs-raw-2011",
+   "metacritic": "wwe-smackdown-vs-raw-2011",
    "mobygames": "52621"
   },
   "label_en": "WWE SmackDown vs. Raw 2011",
@@ -38,6 +41,7 @@
    "gog": "game/kane_and_lynch_dead_men",
    "howlongtobeat": "4924",
    "igdb": "kane-lynch-dead-men",
+   "metacritic": "kane-lynch-dead-men",
    "mobygames": "31483",
    "pcgamingwiki": "Kane_&_Lynch:_Dead_Men",
    "steam": "8080"
@@ -51,6 +55,7 @@
    "gog": "game/delta_force_black_hawk_down_platinum_pack",
    "howlongtobeat": "2422",
    "igdb": "delta-force-black-hawk-down",
+   "metacritic": "delta-force-black-hawk-down",
    "mobygames": "8742",
    "pcgamingwiki": "Delta_Force:_Black_Hawk_Down",
    "steam": "32670"
@@ -72,6 +77,7 @@
   "ids": {
    "howlongtobeat": "20934",
    "igdb": "savage-the-battle-for-newerth",
+   "metacritic": "savage-the-battle-for-newerth",
    "mobygames": "10931",
    "pcgamingwiki": "Savage:_The_Battle_for_Newerth"
   },
@@ -97,6 +103,7 @@
   "ids": {
    "howlongtobeat": "5800",
    "igdb": "bomberman-94",
+   "metacritic": "bomberman-94",
    "mobygames": "9828",
    "pcgamingwiki": "Bomberman_'94"
   },
@@ -181,6 +188,7 @@
   "enwiki": "Drill Dozer",
   "ids": {
    "igdb": "drill-dozer",
+   "metacritic": "drill-dozer",
    "mobygames": "21288"
   },
   "label_en": "Drill Dozer",
@@ -190,6 +198,7 @@
   "enwiki": "Go! Puzzle",
   "ids": {
    "igdb": "go-puzzle",
+   "metacritic": "go-puzzle",
    "mobygames": "33783"
   },
   "label_en": "Go! Puzzle",
@@ -252,6 +261,7 @@
    "epic": "total-war-warhammer",
    "howlongtobeat": "34457",
    "igdb": "total-war-warhammer",
+   "metacritic": "total-war-warhammer",
    "mobygames": "83314",
    "pcgamingwiki": "Total_War:_Warhammer",
    "steam": "364360"
@@ -275,6 +285,7 @@
   "ids": {
    "howlongtobeat": "57478",
    "igdb": "hitman-2",
+   "metacritic": "hitman-2",
    "mobygames": "116781",
    "pcgamingwiki": "Hitman_2",
    "steam": "863550"
@@ -288,6 +299,7 @@
    "epic": "trials-rising",
    "howlongtobeat": "65078",
    "igdb": "trials-rising",
+   "metacritic": "trials-rising",
    "mobygames": "122911",
    "pcgamingwiki": "Trials_Rising",
    "steam": "641080"
@@ -299,6 +311,7 @@
   "ids": {
    "howlongtobeat": "55054",
    "igdb": "4rc4n01d-4-kohbeep-edition",
+   "metacritic": "4rc4n01d-4-kohbeep-edition",
    "mobygames": "162825",
    "pcgamingwiki": "!4RC4N01D!_4:_Kohbeep_Edition",
    "steam": "824660"
@@ -354,6 +367,7 @@
    "gog": "game/wartales",
    "howlongtobeat": "93986",
    "igdb": "wartales",
+   "metacritic": "wartales",
    "mobygames": "176166",
    "pcgamingwiki": "Wartales",
    "steam": "1527950"
@@ -367,6 +381,7 @@
    "gog": "game/dawn_of_the_monsters",
    "howlongtobeat": "104996",
    "igdb": "dawn-of-the-monsters",
+   "metacritic": "dawn-of-the-monsters",
    "mobygames": "181191",
    "pcgamingwiki": "Dawn_of_the_Monsters",
    "steam": "1642170"
@@ -564,6 +579,7 @@
   "ids": {
    "howlongtobeat": "89283",
    "igdb": "harvest-moon-one-world",
+   "metacritic": "harvest-moon-one-world",
    "mobygames": "159950",
    "pcgamingwiki": "Harvest_Moon:_One_World",
    "steam": "1246870"
@@ -783,6 +799,7 @@
   "ids": {
    "howlongtobeat": "138325",
    "igdb": "the-indigo-parallel",
+   "metacritic": "the-indigo-parallel",
    "steam": "1550870"
   },
   "label_en": "The Indigo Parallel",

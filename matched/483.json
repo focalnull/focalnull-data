@@ -21,6 +21,7 @@
   "enwiki": "Jet Force Gemini",
   "ids": {
    "igdb": "jet-force-gemini",
+   "metacritic": "jet-force-gemini",
    "mobygames": "3792"
   },
   "label_en": "Jet Force Gemini",
@@ -40,6 +41,7 @@
   "ids": {
    "howlongtobeat": "7596",
    "igdb": "ratchet-clank-up-your-arsenal",
+   "metacritic": "ratchet-clank-up-your-arsenal",
    "mobygames": "16121"
   },
   "label_en": "Ratchet & Clank: Up Your Arsenal",
@@ -76,6 +78,7 @@
   "enwiki": "Just Dance 4",
   "ids": {
    "igdb": "just-dance-4",
+   "metacritic": "just-dance-4",
    "mobygames": "64160"
   },
   "label_en": "Just Dance 4",
@@ -113,6 +116,7 @@
   "ids": {
    "howlongtobeat": "30079",
    "igdb": "cross-of-the-dutchman",
+   "metacritic": "cross-of-the-dutchman",
    "mobygames": "75958",
    "pcgamingwiki": "Cross_of_the_Dutchman",
    "steam": "384000"
@@ -133,6 +137,7 @@
   "enwiki": "Taito Legends Power-Up",
   "ids": {
    "igdb": "taito-legends-power-up",
+   "metacritic": "taito-legends-power-up",
    "mobygames": "27161"
   },
   "label_en": "Taito Legends Power-Up",
@@ -153,6 +158,7 @@
   "ids": {
    "howlongtobeat": "5396",
    "igdb": "lost-planet-3",
+   "metacritic": "lost-planet-3",
    "mobygames": "63051",
    "pcgamingwiki": "Lost_Planet_3",
    "steam": "226720"
@@ -177,6 +183,7 @@
    "gog": "game/sorcerer_king",
    "howlongtobeat": "21451",
    "igdb": "sorcerer-king",
+   "metacritic": "sorcerer-king",
    "mobygames": "92349",
    "pcgamingwiki": "Sorcerer_King",
    "steam": "241990"
@@ -189,6 +196,7 @@
   "ids": {
    "howlongtobeat": "49143",
    "igdb": "pro-evolution-soccer-2018",
+   "metacritic": "pro-evolution-soccer-2018",
    "mobygames": "95843",
    "pcgamingwiki": "Pro_Evolution_Soccer_2018",
    "steam": "592580"
@@ -202,6 +210,7 @@
    "gog": "game/bridge_constructor_portal",
    "howlongtobeat": "51365",
    "igdb": "bridge-constructor-portal",
+   "metacritic": "bridge-constructor-portal",
    "mobygames": "99918",
    "pcgamingwiki": "Bridge_Constructor_Portal",
    "steam": "684410"
@@ -232,6 +241,7 @@
    "epic": "when-ski-lifts-go-wrong-4cc238",
    "howlongtobeat": "68904",
    "igdb": "when-ski-lifts-go-wrong",
+   "metacritic": "when-ski-lifts-go-wrong",
    "mobygames": "98767",
    "pcgamingwiki": "When_Ski_Lifts_Go_Wrong",
    "steam": "638000"
@@ -261,6 +271,7 @@
   "ids": {
    "howlongtobeat": "45095",
    "igdb": "spheroids",
+   "metacritic": "spheroids",
    "mobygames": "84963",
    "pcgamingwiki": "Spheroids",
    "steam": "586430"
@@ -280,6 +291,7 @@
   "ids": {
    "howlongtobeat": "21454",
    "igdb": "falling-skies-the-game",
+   "metacritic": "falling-skies-the-game",
    "mobygames": "85142",
    "pcgamingwiki": "Falling_Skies:_The_Game",
    "steam": "290410"
@@ -301,6 +313,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-4",
+   "metacritic": "vacation-adventures-park-ranger-4",
    "mobygames": "100389",
    "steam": "1535270"
   },
@@ -332,6 +345,7 @@
   "ids": {
    "howlongtobeat": "84034",
    "igdb": "you-suck-at-parking",
+   "metacritic": "you-suck-at-parking",
    "mobygames": "190978",
    "pcgamingwiki": "You_Suck_at_Parking",
    "steam": "837880"
@@ -1054,6 +1068,7 @@
  {
   "ids": {
    "igdb": "michael-ninns-latex-the-game",
+   "metacritic": "michael-ninns-latex-the-game",
    "mobygames": "4955"
   },
   "label_en": "Michael Ninn's Latex: The Game",
@@ -1074,6 +1089,7 @@
   "ids": {
    "igdb": "hentai-iq-puzzle",
    "mobygames": "130283",
+   "pcgamingwiki": "Hentai_IQ_Puzzle",
    "steam": "912190"
   },
   "label_en": "Hentai IQ Puzzle",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "723",
    "igdb": "audiosurf",
+   "metacritic": "audiosurf",
    "mobygames": "32692",
    "pcgamingwiki": "Audiosurf",
    "steam": "12900"
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "2110",
    "igdb": "custom-robo-arena",
+   "metacritic": "custom-robo-arena",
    "mobygames": "31084"
   },
   "label_en": "Custom Robo Arena",
@@ -32,6 +34,7 @@
   "enwiki": "Castlevania: Portrait of Ruin",
   "ids": {
    "igdb": "castlevania-portrait-of-ruin",
+   "metacritic": "castlevania-portrait-of-ruin",
    "mobygames": "25238"
   },
   "label_en": "Castlevania: Portrait of Ruin",
@@ -42,6 +45,7 @@
   "ids": {
    "howlongtobeat": "2456",
    "igdb": "descent-3",
+   "metacritic": "descent-3",
    "mobygames": "1051",
    "pcgamingwiki": "Descent_3",
    "steam": "273590"
@@ -72,6 +76,7 @@
  {
   "enwiki": "America (video game)",
   "ids": {
+   "metacritic": "america",
    "mobygames": "3249",
    "pcgamingwiki": "America"
   },
@@ -93,7 +98,8 @@
  {
   "enwiki": "Beat'n Groovy",
   "ids": {
-   "igdb": "beatn-groovy"
+   "igdb": "beatn-groovy",
+   "metacritic": "beatn-groovy"
   },
   "label_en": "Beat'n Groovy",
   "wikidata": "Q4876900"
@@ -140,6 +146,7 @@
   "ids": {
    "howlongtobeat": "53474",
    "igdb": "thems-fightin-herds",
+   "metacritic": "thems-fightin-herds",
    "mobygames": "104254",
    "pcgamingwiki": "Them's_Fightin'_Herds",
    "steam": "574980"
@@ -160,6 +167,7 @@
   "enwiki": "Race Driver: Grid (Nintendo DS)",
   "ids": {
    "igdb": "race-driver-grid--1",
+   "metacritic": "grid",
    "mobygames": "88236"
   },
   "label_en": "Race Driver: Grid",
@@ -169,6 +177,7 @@
   "enwiki": "Sexy Poker",
   "ids": {
    "igdb": "sexy-poker",
+   "metacritic": "sexy-poker",
    "mobygames": "59985"
   },
   "label_en": "Sexy Poker",
@@ -187,6 +196,7 @@
   "ids": {
    "howlongtobeat": "30786",
    "igdb": "shoppe-keep",
+   "metacritic": "shoppe-keep",
    "mobygames": "86338",
    "pcgamingwiki": "Shoppe_Keep",
    "steam": "381120"
@@ -251,6 +261,7 @@
   "ids": {
    "howlongtobeat": "73624",
    "igdb": "secondhand-lands",
+   "metacritic": "secondhand-lands",
    "mobygames": "220744",
    "pcgamingwiki": "Secondhand_Lands",
    "steam": "675230"
@@ -263,6 +274,7 @@
   "ids": {
    "howlongtobeat": "57679",
    "igdb": "paratopic",
+   "metacritic": "paratopic",
    "mobygames": "113828",
    "pcgamingwiki": "Paratopic",
    "steam": "897030"
@@ -285,6 +297,7 @@
   "ids": {
    "howlongtobeat": "62734",
    "igdb": "little-dragons-cafe",
+   "metacritic": "little-dragons-cafe",
    "mobygames": "112048",
    "pcgamingwiki": "Little_Dragons_Café",
    "steam": "915710"
@@ -319,6 +332,7 @@
   "ids": {
    "howlongtobeat": "88869",
    "igdb": "diablo-ii-resurrected",
+   "metacritic": "diablo-ii-resurrected",
    "mobygames": "172718",
    "pcgamingwiki": "Diablo_II:_Resurrected",
    "steam": "2536520"
@@ -372,7 +386,8 @@
  },
  {
   "ids": {
-   "igdb": "working-zombies"
+   "igdb": "working-zombies",
+   "metacritic": "working-zombies"
   },
   "label_en": "Working Zombies",
   "wikidata": "Q110515900"
@@ -380,6 +395,7 @@
  {
   "ids": {
    "igdb": "color-slots",
+   "metacritic": "color-slots",
    "mobygames": "189418",
    "steam": "1833900"
   },
@@ -415,6 +431,7 @@
    "gog": "game/legend_of_keepers_career_of_a_dungeon_master",
    "howlongtobeat": "78046",
    "igdb": "legend-of-keepers",
+   "metacritic": "legend-of-keepers-career-of-a-dungeon-manager",
    "mobygames": "143669",
    "pcgamingwiki": "Legend_of_Keepers",
    "steam": "978520"
@@ -534,6 +551,7 @@
    "epic": "prince-of-persia-the-lost-crown",
    "howlongtobeat": "129785",
    "igdb": "prince-of-persia-the-lost-crown",
+   "metacritic": "prince-of-persia-the-lost-crown",
    "mobygames": "216014",
    "pcgamingwiki": "Prince_of_Persia:_The_Lost_Crown",
    "steam": "2751000"
@@ -735,6 +753,7 @@
   "ids": {
    "howlongtobeat": "64229",
    "igdb": "viviette",
+   "metacritic": "viviette",
    "mobygames": "118009",
    "pcgamingwiki": "Viviette",
    "steam": "883070"
@@ -998,6 +1017,7 @@
  {
   "ids": {
    "igdb": "touzoku-to-1000-biki-no-pokemon",
+   "metacritic": "touzoku-to-1000-biki-no-pokemon",
    "mobygames": "70944"
   },
   "label_en": "The Thieves and the 1000 Pokémon",
@@ -1136,6 +1156,7 @@
   "ids": {
    "howlongtobeat": "160702",
    "igdb": "alice-in-the-nightmare-land",
+   "metacritic": "alice-in-the-nightmare-land",
    "mobygames": "225379",
    "steam": "2583430"
   },

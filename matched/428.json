@@ -41,6 +41,7 @@
    "gog": "game/freespace_2",
    "howlongtobeat": "3699",
    "igdb": "freespace-2",
+   "metacritic": "freespace-2",
    "mobygames": "844",
    "pcgamingwiki": "FreeSpace_2",
    "steam": "273620"
@@ -62,6 +63,7 @@
   "ids": {
    "howlongtobeat": "20072",
    "igdb": "project-cars",
+   "metacritic": "project-cars",
    "mobygames": "72719",
    "pcgamingwiki": "Project_CARS",
    "steam": "234630"
@@ -74,6 +76,7 @@
   "ids": {
    "howlongtobeat": "2348",
    "igdb": "deadlight",
+   "metacritic": "deadlight",
    "mobygames": "57284",
    "pcgamingwiki": "Deadlight",
    "steam": "211400"
@@ -86,6 +89,7 @@
   "ids": {
    "howlongtobeat": "16484",
    "igdb": "grey-s-anatomy-the-video-game",
+   "metacritic": "greys-anatomy-the-video-game",
    "mobygames": "45206",
    "pcgamingwiki": "Grey's_Anatomy:_The_Video_Game",
    "steam": "21950"
@@ -97,6 +101,7 @@
   "enwiki": "Amazing Island",
   "ids": {
    "igdb": "amazing-island",
+   "metacritic": "amazing-island",
    "mobygames": "15924"
   },
   "label_en": "Amazing Island",
@@ -111,6 +116,7 @@
   "ids": {
    "howlongtobeat": "5134",
    "igdb": "kung-fu-chaos",
+   "metacritic": "kung-fu-chaos",
    "mobygames": "8730"
   },
   "label_en": "Kung Fu Chaos",
@@ -130,6 +136,7 @@
   "ids": {
    "howlongtobeat": "6769",
    "igdb": "onslaught--1",
+   "metacritic": "onslaught-2009",
    "mobygames": "57264"
   },
   "label_en": "Onslaught",
@@ -212,6 +219,7 @@
    "gog": "game/dream_pinball_3d",
    "howlongtobeat": "2876",
    "igdb": "dream-pinball-3d",
+   "metacritic": "dream-pinball-3d",
    "mobygames": "43679",
    "pcgamingwiki": "Dream_Pinball_3D",
    "steam": "215790"
@@ -273,6 +281,7 @@
    "gog": "game/the_swapper",
    "howlongtobeat": "10222",
    "igdb": "the-swapper",
+   "metacritic": "the-swapper",
    "mobygames": "62509",
    "pcgamingwiki": "The_Swapper",
    "steam": "231160"
@@ -302,6 +311,7 @@
   "ids": {
    "howlongtobeat": "40502",
    "igdb": "world-of-final-fantasy",
+   "metacritic": "world-of-final-fantasy",
    "mobygames": "83431",
    "pcgamingwiki": "World_of_Final_Fantasy",
    "steam": "552700"
@@ -347,6 +357,7 @@
    "gog": "game/the_darkside_detective",
    "howlongtobeat": "47682",
    "igdb": "the-darkside-detective",
+   "metacritic": "the-darkside-detective",
    "mobygames": "93467",
    "pcgamingwiki": "The_Darkside_Detective",
    "steam": "368390"
@@ -377,6 +388,7 @@
    "gog": "game/red_faction_guerrilla_remarstered",
    "howlongtobeat": "58222",
    "igdb": "red-faction-guerrilla-re-mars-tered",
+   "metacritic": "red-faction-guerrilla-re-mars-tered",
    "mobygames": "110867",
    "pcgamingwiki": "Red_Faction_Guerrilla_Re-Mars-tered",
    "steam": "667720"
@@ -388,6 +400,7 @@
   "enwiki": "Pokémon Masters EX",
   "ids": {
    "igdb": "pokemon-masters",
+   "metacritic": "pokemon-masters",
    "mobygames": "134158"
   },
   "label_en": "Pokémon Masters EX",
@@ -433,6 +446,7 @@
   "ids": {
    "howlongtobeat": "68711",
    "igdb": "hardcore-mecha",
+   "metacritic": "hardcore-mecha",
    "mobygames": "129413",
    "pcgamingwiki": "Hardcore_Mecha",
    "steam": "746580"
@@ -465,6 +479,7 @@
   "ids": {
    "howlongtobeat": "108610",
    "igdb": "arma-reforger",
+   "metacritic": "arma-reforger",
    "mobygames": "184543",
    "pcgamingwiki": "Arma_Reforger",
    "steam": "1874880"
@@ -490,6 +505,7 @@
    "gog": "game/crowns_and_pawns_kingdom_of_deceit",
    "howlongtobeat": "106981",
    "igdb": "crowns-and-pawns-kingdom-of-deceit",
+   "metacritic": "crowns-and-pawns-kingdom-of-deceit",
    "mobygames": "183934",
    "pcgamingwiki": "Crowns_and_Pawns:_Kingdom_of_Deceit",
    "steam": "1125910"
@@ -515,6 +531,7 @@
   "ids": {
    "howlongtobeat": "74049",
    "igdb": "the-backrooms-game",
+   "metacritic": "the-backrooms-game",
    "mobygames": "131012",
    "pcgamingwiki": "The_Backrooms_Game",
    "steam": "1111210"
@@ -559,6 +576,7 @@
    "epic": "evil-tonight-e80382",
    "howlongtobeat": "99721",
    "igdb": "evil-tonight",
+   "metacritic": "evil-tonight",
    "mobygames": "173830",
    "pcgamingwiki": "Evil_Tonight",
    "steam": "1480830"

@@ -15,6 +15,7 @@
   "enwiki": "G.I. Joe: The Rise of Cobra (video game)",
   "ids": {
    "igdb": "g-i-joe-the-rise-of-cobra",
+   "metacritic": "gi-joe-the-rise-of-cobra",
    "mobygames": "41959"
   },
   "label_en": "G.I. Joe: The Rise of Cobra",
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "11518",
    "igdb": "z-steel-soldiers",
+   "metacritic": "steel-soldiers",
    "mobygames": "3022",
    "pcgamingwiki": "Z:_Steel_Soldiers",
    "steam": "275510"
@@ -48,6 +50,7 @@
    "gog": "game/delta_force_task_force_dagger",
    "howlongtobeat": "12001",
    "igdb": "delta-force-task-force-dagger",
+   "metacritic": "delta-force-task-force-dagger",
    "mobygames": "8727",
    "pcgamingwiki": "Delta_Force:_Task_Force_Dagger",
    "steam": "32650"
@@ -68,6 +71,7 @@
   "enwiki": "Phantasy Star Universe",
   "ids": {
    "igdb": "phantasy-star-universe",
+   "metacritic": "phantasy-star-universe",
    "mobygames": "26265",
    "pcgamingwiki": "Phantasy_Star_Universe"
   },
@@ -95,6 +99,7 @@
   "enwiki": "Backyard Soccer",
   "ids": {
    "igdb": "backyard-soccer",
+   "metacritic": "backyard-soccer",
    "mobygames": "17717",
    "pcgamingwiki": "Backyard_Soccer"
   },
@@ -105,6 +110,7 @@
   "enwiki": "Spy vs. Spy (2005 video game)",
   "ids": {
    "igdb": "spy-vs-spy",
+   "metacritic": "spy-vs-spy",
    "mobygames": "23927"
   },
   "label_en": "Spy vs. Spy",
@@ -114,6 +120,7 @@
   "enwiki": "Rango (video game)",
   "ids": {
    "igdb": "rango",
+   "metacritic": "rango-2011",
    "mobygames": "85200"
   },
   "label_en": "Rango",
@@ -148,6 +155,7 @@
    "gog": "game/xanadu_next",
    "howlongtobeat": "11393",
    "igdb": "xanadu-next",
+   "metacritic": "xanadu-next",
    "mobygames": "25813",
    "pcgamingwiki": "Xanadu_Next",
    "steam": "312560"
@@ -169,6 +177,7 @@
    "gog": "game/shelter",
    "howlongtobeat": "13299",
    "igdb": "shelter",
+   "metacritic": "shelter",
    "mobygames": "62760",
    "pcgamingwiki": "Shelter",
    "steam": "244710"
@@ -193,6 +202,7 @@
   "ids": {
    "howlongtobeat": "12391",
    "igdb": "castlestorm",
+   "metacritic": "castlestorm",
    "mobygames": "63150",
    "pcgamingwiki": "CastleStorm",
    "steam": "241410"
@@ -204,6 +214,7 @@
   "enwiki": "Pokémon LeafGreen",
   "ids": {
    "igdb": "pokemon-leafgreen-version",
+   "metacritic": "pokemon-leafgreen-version",
    "mobygames": "14757"
   },
   "label_en": "Pokémon LeafGreen",
@@ -231,6 +242,7 @@
   "ids": {
    "howlongtobeat": "72049",
    "igdb": "caravan-stories",
+   "metacritic": "caravan-stories",
    "mobygames": "134486"
   },
   "label_en": "Caravan Stories",
@@ -241,6 +253,7 @@
   "ids": {
    "howlongtobeat": "83164",
    "igdb": "monster-hunter-stories-2-wings-of-ruin",
+   "metacritic": "monster-hunter-stories-2-wings-of-ruin",
    "mobygames": "167492",
    "pcgamingwiki": "Monster_Hunter_Stories_2:_Wings_of_Ruin",
    "steam": "1277400"
@@ -272,6 +285,7 @@
    "epic": "lies-of-p-91f2d8",
    "howlongtobeat": "92418",
    "igdb": "lies-of-p",
+   "metacritic": "lies-of-p",
    "mobygames": "208808",
    "pcgamingwiki": "Lies_of_P",
    "steam": "1627720"
@@ -388,6 +402,7 @@
   "ids": {
    "howlongtobeat": "152640",
    "igdb": "tarisland--1",
+   "pcgamingwiki": "Tarisland",
    "steam": "3126180"
   },
   "label_en": "Tarisland",
@@ -397,6 +412,7 @@
   "ids": {
    "igdb": "the-king-of-fighters-xiii-global-match",
    "mobygames": "231107",
+   "pcgamingwiki": "The_King_of_Fighters_XIII_Global_Match",
    "steam": "3050220"
   },
   "label_en": "The King of Fighters XIII: Global Match",
@@ -815,6 +831,7 @@
    "epic": "tribes-3-rivals-80026b",
    "howlongtobeat": "147679",
    "igdb": "tribes-3-rivals--1",
+   "metacritic": "tribes-3-rivals",
    "mobygames": "219378",
    "pcgamingwiki": "Tribes_3:_Rivals",
    "steam": "2687970"
@@ -869,6 +886,7 @@
   "ids": {
    "howlongtobeat": "123330",
    "igdb": "bionic-bay",
+   "metacritic": "bionic-bay",
    "mobygames": "240669",
    "pcgamingwiki": "Bionic_Bay",
    "steam": "1928690"
@@ -1206,6 +1224,7 @@
  {
   "ids": {
    "igdb": "bohrdom",
+   "pcgamingwiki": "Bohrdom",
    "steam": "945530"
   },
   "label_en": "Bohrdom",
@@ -1216,7 +1235,9 @@
   "ids": {
    "howlongtobeat": "187407",
    "igdb": "meccha-chameleon--1",
+   "metacritic": "meccha-chameleon",
    "mobygames": "262630",
+   "pcgamingwiki": "Meccha_Chameleon",
    "steam": "4704690"
   },
   "label_en": "Meccha Chameleon",

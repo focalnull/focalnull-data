@@ -43,6 +43,7 @@
   "ids": {
    "howlongtobeat": "4175",
    "igdb": "guitar-hero-encore-rocks-the-80s--1",
+   "metacritic": "guitar-hero-encore-rocks-the-80s",
    "mobygames": "29394"
   },
   "label_en": "Guitar Hero Encore: Rocks the 80s",
@@ -104,6 +105,7 @@
   "ids": {
    "howlongtobeat": "11556",
    "igdb": "zero-escape-virtue-s-last-reward",
+   "metacritic": "zero-escape-virtues-last-reward",
    "mobygames": "59163"
   },
   "label_en": "Zero Escape: Virtue's Last Reward",
@@ -188,6 +190,7 @@
   "ids": {
    "howlongtobeat": "36925",
    "igdb": "stephens-sausage-roll",
+   "metacritic": "stephens-sausage-roll",
    "mobygames": "87896",
    "pcgamingwiki": "Stephen's_Sausage_Roll",
    "steam": "353540"
@@ -217,6 +220,7 @@
   "ids": {
    "howlongtobeat": "57939",
    "igdb": "the-legend-of-dark-witch-episode-3-wisdom-and-lunacy",
+   "metacritic": "the-legend-of-dark-witch-3-wisdom-and-lunacy",
    "mobygames": "100006"
   },
   "label_en": "The Legend of Dark Witch 3: Wisdom and Lunacy",
@@ -234,6 +238,7 @@
    "gog": "game/fist_puncher",
    "howlongtobeat": "11797",
    "igdb": "fist-puncher",
+   "metacritic": "fist-puncher",
    "mobygames": "63837",
    "pcgamingwiki": "Fist_Puncher",
    "steam": "238630"
@@ -275,6 +280,7 @@
   "enwiki": "NHL 23",
   "ids": {
    "igdb": "nhl-23",
+   "metacritic": "nhl-23",
    "mobygames": "196426"
   },
   "label_en": "NHL 23",
@@ -308,6 +314,7 @@
  {
   "ids": {
    "igdb": "memory-train",
+   "metacritic": "memory-train",
    "mobygames": "189420",
    "steam": "1843800"
   },
@@ -342,6 +349,7 @@
    "gog": "game/grotto",
    "howlongtobeat": "80632",
    "igdb": "grotto",
+   "metacritic": "grotto",
    "mobygames": "174314",
    "pcgamingwiki": "Grotto",
    "steam": "1538850"
@@ -463,6 +471,7 @@
    "gog": "game/sir_questionnaire",
    "igdb": "sir-questionnaire",
    "mobygames": "145457",
+   "pcgamingwiki": "Sir_Questionnaire",
    "steam": "2124790"
   },
   "label_en": "Sir Questionnaire",
@@ -799,6 +808,7 @@
    "epic": "earth-defense-force-world-brothers-2-23328f",
    "howlongtobeat": "146387",
    "igdb": "earth-defense-force-world-brothers-2",
+   "metacritic": "earth-defense-force-world-brothers-2",
    "mobygames": "231265",
    "steam": "2370170"
   },
@@ -863,6 +873,7 @@
   "ids": {
    "howlongtobeat": "169416",
    "igdb": "persona-4-revival",
+   "metacritic": "persona-4-revival",
    "mobygames": "245243",
    "pcgamingwiki": "Persona_4_Revival",
    "steam": "2963950"
@@ -1157,6 +1168,7 @@
  {
   "ids": {
    "igdb": "exzeus-the-complete-collection",
+   "pcgamingwiki": "ExZeus:_The_Complete_Collection",
    "steam": "1545010"
   },
   "label_en": "ExZeus™: The Complete Collection",

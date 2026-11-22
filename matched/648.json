@@ -24,6 +24,7 @@
   "enwiki": "Mortal Kombat: Armageddon",
   "ids": {
    "igdb": "mortal-kombat-armageddon",
+   "metacritic": "mortal-kombat-armageddon",
    "mobygames": "25887"
   },
   "label_en": "Mortal Kombat: Armageddon",
@@ -62,6 +63,7 @@
   "ids": {
    "howlongtobeat": "4853",
    "igdb": "joe-danger",
+   "metacritic": "joe-danger",
    "mobygames": "47521",
    "pcgamingwiki": "Joe_Danger",
    "steam": "229890"
@@ -82,6 +84,7 @@
   "enwiki": "Bomberman Land (Wii video game)",
   "ids": {
    "igdb": "bomberman-land--1",
+   "metacritic": "bomberman-land",
    "mobygames": "36693"
   },
   "label_en": "Bomberman Land",
@@ -171,6 +174,7 @@
   "ids": {
    "howlongtobeat": "25908",
    "igdb": "phase-paradox",
+   "metacritic": "phase-paradox",
    "mobygames": "165323"
   },
   "label_en": "Phase Paradox",
@@ -183,6 +187,7 @@
    "gog": "game/batman_arkham_knight",
    "howlongtobeat": "18005",
    "igdb": "batman-arkham-knight",
+   "metacritic": "batman-arkham-knight",
    "mobygames": "74356",
    "pcgamingwiki": "Batman:_Arkham_Knight",
    "steam": "208650"
@@ -233,6 +238,7 @@
   "ids": {
    "howlongtobeat": "54851",
    "igdb": "scp-secret-laboratory",
+   "metacritic": "scp-secret-laboratory",
    "mobygames": "149624",
    "pcgamingwiki": "SCP:_Secret_Laboratory",
    "steam": "700330"
@@ -244,6 +250,7 @@
   "ids": {
    "howlongtobeat": "2303",
    "igdb": "dead-island-definitive-edition",
+   "metacritic": "dead-island-definitive-collection",
    "mobygames": "87568",
    "pcgamingwiki": "Dead_Island:_Definitive_Edition",
    "steam": "383150"
@@ -254,6 +261,7 @@
  {
   "ids": {
    "igdb": "bubble-bobble-plus",
+   "metacritic": "bubble-bobble-neo",
    "mobygames": "90666"
   },
   "label_en": "Bubble Bobble Plus!",
@@ -265,6 +273,7 @@
    "epic": "watch-dogs-legion",
    "howlongtobeat": "68237",
    "igdb": "watch-dogs-legion",
+   "metacritic": "watch-dogs-legion",
    "mobygames": "152206",
    "pcgamingwiki": "Watch_Dogs:_Legion",
    "steam": "2239550"
@@ -277,6 +286,7 @@
   "ids": {
    "howlongtobeat": "61903",
    "igdb": "sinner-sacrifice-for-redemption",
+   "metacritic": "sinner-sacrifice-for-redemption",
    "pcgamingwiki": "Sinner:_Sacrifice_for_Redemption",
    "steam": "691280"
   },
@@ -309,6 +319,7 @@
   "ids": {
    "howlongtobeat": "51376",
    "igdb": "star-traders-frontiers",
+   "metacritic": "star-traders-frontiers",
    "mobygames": "98270",
    "pcgamingwiki": "Star_Traders:_Frontiers",
    "steam": "335620"
@@ -320,6 +331,7 @@
   "ids": {
    "howlongtobeat": "37080",
    "igdb": "the-detail",
+   "metacritic": "the-detail-ep-1-where-the-dead-lie",
    "mobygames": "110539",
    "pcgamingwiki": "The_Detail",
    "steam": "319970"
@@ -401,6 +413,7 @@
    "epic": "goat-simulator-3",
    "howlongtobeat": "109125",
    "igdb": "goat-simulator-3",
+   "metacritic": "goat-simulator-3",
    "mobygames": "195370",
    "pcgamingwiki": "Goat_Simulator_3",
    "steam": "850190"
@@ -412,6 +425,7 @@
   "ids": {
    "howlongtobeat": "49528",
    "igdb": "trivia-vault-classic-rock-trivia",
+   "metacritic": "trivia-vault-classic-rock-trivia",
    "pcgamingwiki": "Trivia_Vault:_Classic_Rock_Trivia",
    "steam": "690240"
   },
@@ -454,6 +468,7 @@
   "ids": {
    "howlongtobeat": "56326",
    "igdb": "color-jumper",
+   "metacritic": "color-jumper",
    "mobygames": "149889",
    "pcgamingwiki": "Color_Jumper",
    "steam": "594810"
@@ -477,6 +492,7 @@
    "gog": "game/atari_50_the_anniversary_celebration",
    "howlongtobeat": "116251",
    "igdb": "atari-50-the-anniversary-celebration",
+   "metacritic": "atari-50-the-anniversary-celebration",
    "mobygames": "195171",
    "pcgamingwiki": "Atari_50:_The_Anniversary_Celebration",
    "steam": "1919470"
@@ -486,7 +502,8 @@
  },
  {
   "ids": {
-   "igdb": "starlit-kart-racing"
+   "igdb": "starlit-kart-racing",
+   "metacritic": "starlit-kart-racing"
   },
   "label_en": "Starlit Kart Racing",
   "wikidata": "Q116141648"
@@ -825,6 +842,7 @@
   "ids": {
    "howlongtobeat": "58278",
    "igdb": "where-angels-cry-tears-of-the-fallen-collectors-edition",
+   "metacritic": "where-angels-cry-tears-of-the-fallen",
    "mobygames": "130776",
    "pcgamingwiki": "Where_Angels_Cry:_Tears_of_the_Fallen",
    "steam": "413470"
@@ -1230,6 +1248,7 @@
  },
  {
   "ids": {
+   "metacritic": "tappingo",
    "mobygames": "83708"
   },
   "label_en": "Tappingo",

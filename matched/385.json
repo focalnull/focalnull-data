@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8510",
    "igdb": "sid-meier-s-civilization-v",
+   "metacritic": "sid-meiers-civilization-v",
    "mobygames": "49917",
    "pcgamingwiki": "Sid_Meier's_Civilization_V",
    "steam": "8930"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "10068",
    "igdb": "the-lord-of-the-rings-the-third-age",
+   "metacritic": "the-lord-of-the-rings-the-third-age",
    "mobygames": "19975"
   },
   "label_en": "The Lord of the Rings: The Third Age",
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "1029",
    "igdb": "big-brain-academy-wii-degree",
+   "metacritic": "big-brain-academy-wii-degree",
    "mobygames": "28653"
   },
   "label_en": "Big Brain Academy: Wii Degree",
@@ -63,6 +66,7 @@
   "ids": {
    "howlongtobeat": "8406",
    "igdb": "sherlock-holmes-nemesis",
+   "metacritic": "sherlock-holmes-nemesis",
    "mobygames": "31339",
    "pcgamingwiki": "Sherlock_Holmes:_Nemesis",
    "steam": "11040"
@@ -90,6 +94,7 @@
   "ids": {
    "howlongtobeat": "19850",
    "igdb": "mlb-07-the-show",
+   "metacritic": "mlb-07-the-show",
    "mobygames": "34266"
   },
   "label_en": "MLB 07: The Show",
@@ -127,6 +132,7 @@
   "ids": {
    "howlongtobeat": "2613",
    "igdb": "disney-s-extreme-skate-adventure",
+   "metacritic": "disneys-extreme-skate-adventure",
    "mobygames": "10958"
   },
   "label_en": "Disney's Extreme Skate Adventure",
@@ -215,6 +221,7 @@
    "epic": "innerspace",
    "howlongtobeat": "52091",
    "igdb": "innerspace",
+   "metacritic": "innerspace",
    "mobygames": "100524",
    "pcgamingwiki": "InnerSpace",
    "steam": "347000"
@@ -241,6 +248,7 @@
    "gog": "game/surviving_the_aftermath",
    "howlongtobeat": "71494",
    "igdb": "surviving-the-aftermath",
+   "metacritic": "surviving-the-aftermath",
    "mobygames": "136451",
    "pcgamingwiki": "Surviving_the_Aftermath",
    "steam": "684450"
@@ -255,6 +263,7 @@
    "gog": "game/haven",
    "howlongtobeat": "80569",
    "igdb": "haven",
+   "metacritic": "haven",
    "mobygames": "154979",
    "pcgamingwiki": "Haven",
    "steam": "983970"
@@ -268,6 +277,7 @@
    "gog": "game/leisure_suit_larry_wet_dreams_dry_twice",
    "howlongtobeat": "84328",
    "igdb": "leisure-suit-larry-wet-dreams-dry-twice",
+   "metacritic": "leisure-suit-larry-wet-dreams-dry-twice",
    "mobygames": "152034",
    "pcgamingwiki": "Leisure_Suit_Larry_-_Wet_Dreams_Dry_Twice",
    "steam": "1373430"
@@ -307,6 +317,7 @@
   "ids": {
    "howlongtobeat": "116318",
    "igdb": "among-us-3d-vr",
+   "metacritic": "among-us-vr",
    "mobygames": "195137",
    "pcgamingwiki": "Among_Us_VR",
    "steam": "1849900"
@@ -318,6 +329,7 @@
   "ids": {
    "howlongtobeat": "101754",
    "igdb": "dynasty-warriors-9-empires",
+   "metacritic": "dynasty-warriors-9-empires",
    "mobygames": "177856",
    "pcgamingwiki": "Dynasty_Warriors_9:_Empires",
    "steam": "1341200"
@@ -329,6 +341,7 @@
   "ids": {
    "howlongtobeat": "110594",
    "igdb": "hunting-simulator-2",
+   "metacritic": "hunting-simulator-2",
    "mobygames": "148228",
    "steam": "1135910"
   },
@@ -809,6 +822,7 @@
   "ids": {
    "howlongtobeat": "143906",
    "igdb": "into-the-dead-our-darkest-days",
+   "metacritic": "into-the-dead-our-darkest-days",
    "pcgamingwiki": "Into_the_Dead:_Our_Darkest_Days",
    "steam": "2239710"
   },
@@ -866,6 +880,7 @@
   "enwiki": "PictoImage",
   "ids": {
    "igdb": "pictoimage",
+   "metacritic": "pictoimage",
    "mobygames": "89777"
   },
   "label_en": "PictoImage",
@@ -875,6 +890,7 @@
   "ids": {
    "howlongtobeat": "169289",
    "igdb": "felt-that-boxing",
+   "metacritic": "felt-that-boxing",
    "pcgamingwiki": "Felt_That:_Boxing",
    "steam": "3763840"
   },
@@ -892,6 +908,7 @@
   "ids": {
    "howlongtobeat": "109636",
    "igdb": "seed-of-life",
+   "metacritic": "seed-of-life",
    "mobygames": "208521",
    "pcgamingwiki": "Seed_of_Life",
    "steam": "1030060"

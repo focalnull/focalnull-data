@@ -71,6 +71,7 @@
  },
  {
   "ids": {
+   "metacritic": "pga-european-tour",
    "mobygames": "65928"
   },
   "label_en": "PGA European Tour",
@@ -81,6 +82,7 @@
   "ids": {
    "howlongtobeat": "17010",
    "igdb": "tactical-intervention",
+   "metacritic": "tactical-intervention",
    "mobygames": "65862",
    "pcgamingwiki": "Tactical_Intervention",
    "steam": "51100"
@@ -101,6 +103,7 @@
   "ids": {
    "gog": "game/combat_mission_afrika_korps",
    "igdb": "combat-mission-3-afrika-korps",
+   "metacritic": "combat-mission-3-afrika-korps",
    "mobygames": "42171",
    "pcgamingwiki": "Combat_Mission_3:_Afrika_Korps",
    "steam": "3843570"
@@ -150,6 +153,7 @@
   "ids": {
    "howlongtobeat": "6435",
    "igdb": "nba-ballers-phenom",
+   "metacritic": "nba-ballers-phenom",
    "mobygames": "28687"
   },
   "label_en": "NBA Ballers: Phenom",
@@ -158,7 +162,8 @@
  {
   "enwiki": "Rainbow Islands Evolution",
   "ids": {
-   "igdb": "rainbow-islands-evolution"
+   "igdb": "rainbow-islands-evolution",
+   "metacritic": "rainbow-islands-evolution"
   },
   "label_en": "Rainbow Islands Evolution",
   "wikidata": "Q7284657"
@@ -177,6 +182,7 @@
   "ids": {
    "howlongtobeat": "13653",
    "igdb": "mlb-12-the-show",
+   "metacritic": "mlb-12-the-show",
    "mobygames": "84041"
   },
   "label_en": "MLB 12: The Show",
@@ -185,7 +191,8 @@
  {
   "enwiki": "Metal Gear Online",
   "ids": {
-   "igdb": "metal-gear-online"
+   "igdb": "metal-gear-online",
+   "metacritic": "metal-gear-online"
   },
   "label_en": "Metal Gear Online",
   "wikidata": "Q11118657"
@@ -223,6 +230,7 @@
  {
   "ids": {
    "igdb": "candy-crush-jelly-saga",
+   "metacritic": "candy-crush-jelly-saga",
    "mobygames": "75726"
   },
   "label_en": "Candy Crush Jelly Saga",
@@ -232,6 +240,7 @@
   "ids": {
    "howlongtobeat": "30858",
    "igdb": "crystal-rift",
+   "metacritic": "crystal-rift",
    "mobygames": "84160",
    "pcgamingwiki": "Crystal_Rift",
    "steam": "345140"
@@ -244,6 +253,7 @@
   "ids": {
    "howlongtobeat": "48634",
    "igdb": "rock-of-ages-2-bigger-and-boulder",
+   "metacritic": "rock-of-ages-2-bigger-and-boulder",
    "mobygames": "95340",
    "pcgamingwiki": "Rock_of_Ages_II:_Bigger_&_Boulder",
    "steam": "434460"
@@ -269,6 +279,7 @@
    "epic": "super-meat-boy-forever",
    "howlongtobeat": "68001",
    "igdb": "super-meat-boy-forever",
+   "metacritic": "super-meat-boy-forever",
    "mobygames": "155969",
    "pcgamingwiki": "Super_Meat_Boy_Forever",
    "steam": "581660"
@@ -289,6 +300,9 @@
   "wikidata": "Q47004657"
  },
  {
+  "ids": {
+   "metacritic": "kodomo-no-asobi"
+  },
   "label_en": "Kodomo no Asobi",
   "wikidata": "Q48761657"
  },
@@ -322,6 +336,7 @@
   "ids": {
    "howlongtobeat": "64937",
    "igdb": "god-eater-3",
+   "metacritic": "god-eater-3",
    "mobygames": "122004",
    "pcgamingwiki": "God_Eater_3",
    "steam": "899440"
@@ -342,6 +357,7 @@
   "ids": {
    "howlongtobeat": "68240",
    "igdb": "animal-crossing-new-horizons",
+   "metacritic": "animal-crossing-new-horizons",
    "mobygames": "141533"
   },
   "label_en": "Animal Crossing: New Horizons",
@@ -361,13 +377,15 @@
  {
   "enwiki": "Mercury Hg",
   "ids": {
-   "igdb": "mercury-hg"
+   "igdb": "mercury-hg",
+   "metacritic": "mercury-hg"
   },
   "label_en": "Mercury Hg",
   "wikidata": "Q74108657"
  },
  {
   "ids": {
+   "metacritic": "aggressive-inline",
    "mobygames": "46937"
   },
   "label_en": "Aggressive Inline",
@@ -378,6 +396,7 @@
    "gog": "game/autonauts",
    "howlongtobeat": "69326",
    "igdb": "autonauts",
+   "metacritic": "autonauts",
    "mobygames": "136169",
    "pcgamingwiki": "Autonauts",
    "steam": "979120"
@@ -391,6 +410,7 @@
    "epic": "spirit-of-the-north-f58a66",
    "howlongtobeat": "70825",
    "igdb": "spirit-of-the-north",
+   "metacritic": "spirit-of-the-north",
    "mobygames": "136758",
    "pcgamingwiki": "Spirit_of_the_North",
    "steam": "1213700"
@@ -406,6 +426,9 @@
   "wikidata": "Q105070657"
  },
  {
+  "ids": {
+   "metacritic": "minecraft-playstation-3-edition"
+  },
   "label_en": "Minecraft: Legacy Console Edition",
   "wikidata": "Q105729657"
  },
@@ -424,6 +447,7 @@
    "gog": "game/rogue_lords",
    "howlongtobeat": "97787",
    "igdb": "rogue-lords",
+   "metacritic": "rogue-lords",
    "mobygames": "173055",
    "pcgamingwiki": "Rogue_Lords",
    "steam": "1069690"
@@ -437,6 +461,7 @@
    "gog": "game/banners_of_ruin",
    "howlongtobeat": "82168",
    "igdb": "banners-of-ruin",
+   "metacritic": "banners-of-ruin",
    "mobygames": "148728",
    "pcgamingwiki": "Banners_of_Ruin",
    "steam": "1075740"
@@ -457,6 +482,7 @@
   "ids": {
    "howlongtobeat": "72201",
    "igdb": "trivia-vault-fashion-trivia",
+   "metacritic": "trivia-vault-fashion-trivia",
    "pcgamingwiki": "Trivia_Vault:_Fashion_Trivia",
    "steam": "860350"
   },
@@ -531,6 +557,7 @@
   "ids": {
    "howlongtobeat": "70112",
    "igdb": "sleep-tight",
+   "metacritic": "sleep-tight-2018",
    "mobygames": "109677",
    "pcgamingwiki": "Sleep_Tight",
    "steam": "755670"
@@ -750,7 +777,8 @@
  {
   "ids": {
    "howlongtobeat": "151671",
-   "igdb": "lego-duplo-world"
+   "igdb": "lego-duplo-world",
+   "metacritic": "lego-duplo-world"
   },
   "label_en": "Lego Duplo World",
   "wikidata": "Q122704657"
@@ -1296,6 +1324,7 @@
  {
   "ids": {
    "igdb": "balls--1",
+   "pcgamingwiki": "Balls!🤬🍆",
    "steam": "1156670"
   },
   "label_en": "Balls!🤬🍆",

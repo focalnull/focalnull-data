@@ -34,6 +34,7 @@
    "gog": "game/hidden_dangerous_action_pack",
    "howlongtobeat": "64754",
    "igdb": "hidden-dangerous",
+   "metacritic": "hidden-dangerous",
    "mobygames": "1942",
    "pcgamingwiki": "Hidden_&_Dangerous",
    "steam": "703310"
@@ -51,6 +52,7 @@
    "gog": "game/yesterday",
    "howlongtobeat": "11430",
    "igdb": "yesterday",
+   "metacritic": "yesterday",
    "mobygames": "55664",
    "pcgamingwiki": "Yesterday",
    "steam": "205840"
@@ -62,6 +64,7 @@
   "enwiki": "Ice Age (2002 video game)",
   "ids": {
    "igdb": "ice-age",
+   "metacritic": "ice-age",
    "mobygames": "185538"
   },
   "label_en": "Ice Age",
@@ -71,7 +74,8 @@
   "enwiki": "America's Army: True Soldiers",
   "ids": {
    "howlongtobeat": "26858",
-   "igdb": "america-s-army-true-soldiers"
+   "igdb": "america-s-army-true-soldiers",
+   "metacritic": "americas-army-true-soldiers"
   },
   "label_en": "America's Army: True Soldiers",
   "wikidata": "Q4742496"
@@ -99,6 +103,7 @@
   "ids": {
    "howlongtobeat": "2564",
    "igdb": "dino-d-day",
+   "metacritic": "dino-d-day",
    "mobygames": "52309",
    "pcgamingwiki": "Dino_D-Day",
    "steam": "70000"
@@ -194,6 +199,7 @@
    "gog": "game/hacknet",
    "howlongtobeat": "29225",
    "igdb": "hacknet",
+   "metacritic": "hacknet",
    "mobygames": "86292",
    "pcgamingwiki": "Hacknet",
    "steam": "365450"
@@ -231,6 +237,7 @@
   "ids": {
    "howlongtobeat": "42946",
    "igdb": "detention",
+   "metacritic": "detention",
    "mobygames": "83094",
    "pcgamingwiki": "Detention",
    "steam": "555220"
@@ -243,6 +250,7 @@
   "ids": {
    "howlongtobeat": "62881",
    "igdb": "my-child-lebensborn",
+   "metacritic": "my-child-lebensborn",
    "mobygames": "110972",
    "pcgamingwiki": "My_Child_Lebensborn",
    "steam": "1114070"
@@ -262,6 +270,7 @@
   "ids": {
    "howlongtobeat": "43254",
    "igdb": "heirs-and-graces",
+   "metacritic": "heirs-and-graces",
    "mobygames": "105714",
    "pcgamingwiki": "Heirs_And_Graces",
    "steam": "482990"
@@ -294,6 +303,7 @@
    "epic": "hitman-3",
    "howlongtobeat": "79774",
    "igdb": "hitman-3",
+   "metacritic": "hitman-3",
    "mobygames": "157629",
    "pcgamingwiki": "Hitman_3",
    "steam": "1659040"
@@ -332,6 +342,7 @@
   "ids": {
    "epic": "vacation-adventures-cruise-director-3-50fa5d",
    "igdb": "vacation-adventures-cruise-director-3",
+   "metacritic": "vacation-adventures-cruise-director-3",
    "steam": "1770200"
   },
   "label_en": "Vacation Adventures: Cruise Director 3",
@@ -373,6 +384,7 @@
   "ids": {
    "howlongtobeat": "89294",
    "igdb": "wars-of-succession",
+   "metacritic": "wars-of-succession",
    "mobygames": "110202",
    "pcgamingwiki": "Wars_of_Succession",
    "steam": "867250"
@@ -423,6 +435,7 @@
   "ids": {
    "howlongtobeat": "47088",
    "igdb": "bafl-brakes-are-for-losers",
+   "metacritic": "bafl-brakes-are-for-losers",
    "mobygames": "99706",
    "pcgamingwiki": "BAFL_-_Brakes_Are_For_Losers",
    "steam": "573070"
@@ -858,6 +871,7 @@
   "ids": {
    "howlongtobeat": "98719",
    "igdb": "victory-heat-rally",
+   "metacritic": "victory-heat-rally",
    "mobygames": "231439",
    "steam": "1594060"
   },

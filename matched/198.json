@@ -5,6 +5,7 @@
    "gog": "game/deus_ex_invisible_war",
    "howlongtobeat": "2491",
    "igdb": "deus-ex-invisible-war",
+   "metacritic": "deus-ex-invisible-war",
    "mobygames": "11253",
    "pcgamingwiki": "Deus_Ex:_Invisible_War",
    "steam": "6920"
@@ -18,6 +19,7 @@
    "gog": "game/pandemonium",
    "howlongtobeat": "6891",
    "igdb": "pandemonium",
+   "metacritic": "pandemonium",
    "mobygames": "3400",
    "pcgamingwiki": "Pandemonium!",
    "steam": "243020"
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "742",
    "igdb": "avatar-the-last-airbender-the-burning-earth",
+   "metacritic": "avatar-the-last-airbender-the-burning-earth",
    "mobygames": "45951"
   },
   "label_en": "Avatar: The Last Airbender – The Burning Earth",
@@ -66,6 +69,7 @@
    "epic": "silent-hunter-5-battle-of-the-atlantic-gold-edition",
    "howlongtobeat": "13439",
    "igdb": "silent-hunter-5-battle-of-the-atlantic",
+   "metacritic": "silent-hunter-5-battle-of-the-atlantic",
    "mobygames": "45498",
    "pcgamingwiki": "Silent_Hunter_5:_Battle_of_the_Atlantic",
    "steam": "48110"
@@ -97,6 +101,7 @@
   "ids": {
    "howlongtobeat": "11681",
    "igdb": "tony-hawk-s-american-sk8land",
+   "metacritic": "tony-hawks-american-sk8land",
    "mobygames": "21506"
   },
   "label_en": "Tony Hawk's American Sk8land",
@@ -107,6 +112,7 @@
   "ids": {
    "howlongtobeat": "14130",
    "igdb": "lego-marvel-super-heroes",
+   "metacritic": "lego-marvel-super-heroes",
    "mobygames": "62416",
    "pcgamingwiki": "Lego_Marvel_Super_Heroes",
    "steam": "249130"
@@ -118,6 +124,7 @@
   "enwiki": "Neopets Puzzle Adventure",
   "ids": {
    "igdb": "neopets-puzzle-adventure",
+   "metacritic": "neopets-puzzle-adventure",
    "mobygames": "40039"
   },
   "label_en": "Neopets Puzzle Adventure",
@@ -191,6 +198,7 @@
   "ids": {
    "howlongtobeat": "41814",
    "igdb": "uncharted-the-lost-legacy",
+   "metacritic": "uncharted-the-lost-legacy",
    "mobygames": "94811"
   },
   "label_en": "Uncharted: The Lost Legacy",
@@ -199,7 +207,8 @@
  {
   "enwiki": "Mobile Legends: Bang Bang",
   "ids": {
-   "igdb": "mobile-legends-bang-bang"
+   "igdb": "mobile-legends-bang-bang",
+   "metacritic": "mobile-legends-bang-bang"
   },
   "label_en": "Mobile Legends: Bang Bang",
   "wikidata": "Q29564198"
@@ -215,7 +224,8 @@
   "enwiki": "Free Fire (video game)",
   "ids": {
    "howlongtobeat": "61811",
-   "igdb": "free-fire"
+   "igdb": "free-fire",
+   "metacritic": "garena-free-fire-rampage"
   },
   "label_en": "Garena Free Fire",
   "wikidata": "Q51883198"
@@ -247,6 +257,7 @@
   "enwiki": "FIFA 20",
   "ids": {
    "igdb": "fifa-20",
+   "metacritic": "fifa-20-legacy-edition",
    "mobygames": "135264",
    "pcgamingwiki": "FIFA_20"
   },
@@ -258,6 +269,7 @@
   "ids": {
    "howlongtobeat": "68278",
    "igdb": "no-more-heroes-iii",
+   "metacritic": "no-more-heroes-iii",
    "mobygames": "169922",
    "pcgamingwiki": "No_More_Heroes_III",
    "steam": "1744330"
@@ -269,6 +281,7 @@
   "ids": {
    "howlongtobeat": "39869",
    "igdb": "pro-cycling-manager-2016--1",
+   "metacritic": "pro-cycling-manager-2016",
    "mobygames": "85570",
    "pcgamingwiki": "Pro_Cycling_Manager_2016",
    "steam": "408760"
@@ -291,6 +304,7 @@
   "ids": {
    "howlongtobeat": "80153",
    "igdb": "new-pokemon-snap",
+   "metacritic": "new-pokemon-snap",
    "mobygames": "163147"
   },
   "label_en": "New Pokémon Snap",
@@ -344,6 +358,7 @@
  {
   "ids": {
    "igdb": "c64-and-amiga-classix-remakes-sixpack-3",
+   "metacritic": "c64-amiga-classix-remakes-sixpack-3",
    "pcgamingwiki": "C64_&_AMIGA_Classix_Remakes_Sixpack_3",
    "steam": "1115670"
   },
@@ -361,6 +376,9 @@
   "wikidata": "Q117748198"
  },
  {
+  "ids": {
+   "metacritic": "warships-sea-on-fire"
+  },
   "label_en": "Warships: Sea on Fire",
   "wikidata": "Q117824198"
  },
@@ -407,6 +425,7 @@
   "ids": {
    "igdb": "sanae-toumaden-x",
    "mobygames": "187722",
+   "pcgamingwiki": "Sanae_Toumaden_X",
    "steam": "1337710"
   },
   "label_en": "Sanae Toumaden X",
@@ -454,6 +473,7 @@
   "ids": {
    "howlongtobeat": "124863",
    "igdb": "aces-and-adventures",
+   "metacritic": "aces-and-adventures",
    "mobygames": "200046",
    "pcgamingwiki": "Aces_and_Adventures",
    "steam": "1815570"
@@ -620,6 +640,7 @@
    "gog": "game/scene_investigators",
    "howlongtobeat": "133120",
    "igdb": "scene-investigators",
+   "metacritic": "scene-investigators",
    "mobygames": "210788",
    "pcgamingwiki": "Scene_Investigators",
    "steam": "1159830"
@@ -749,6 +770,7 @@
    "epic": "the-werecleaner-736968",
    "howlongtobeat": "150023",
    "igdb": "the-werecleaner",
+   "metacritic": "the-werecleaner",
    "mobygames": "227234",
    "pcgamingwiki": "The_WereCleaner",
    "steam": "2795000"
@@ -837,6 +859,7 @@
  {
   "ids": {
    "igdb": "allumeria",
+   "metacritic": "allumeria",
    "pcgamingwiki": "Allumeria",
    "steam": "3516590"
   },
@@ -1173,6 +1196,7 @@
  {
   "ids": {
    "igdb": "reverie",
+   "pcgamingwiki": "Reverie",
    "steam": "708850"
   },
   "label_en": "Reverie",

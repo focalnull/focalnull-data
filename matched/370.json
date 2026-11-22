@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8317",
    "igdb": "serious-sam-next-encounter",
+   "metacritic": "serious-sam-next-encounter",
    "mobygames": "14729"
   },
   "label_en": "Serious Sam: Next Encounter",
@@ -26,6 +27,7 @@
   "enwiki": "Resident Evil: The Mercenaries 3D",
   "ids": {
    "igdb": "resident-evil-the-mercenaries-3d",
+   "metacritic": "resident-evil-the-mercenaries-3d",
    "mobygames": "52002"
   },
   "label_en": "Resident Evil: The Mercenaries 3D",
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "20608",
    "igdb": "microsoft-flight",
+   "metacritic": "microsoft-flight",
    "mobygames": "55487",
    "pcgamingwiki": "Microsoft_Flight",
    "steam": "203850"
@@ -135,7 +138,6 @@
   "ids": {
    "howlongtobeat": "17211",
    "igdb": "hardware-online-arena",
-   "metacritic": "hardware-online-arena",
    "mobygames": "16066"
   },
   "label_en": "Hardware: Online Arena",
@@ -172,6 +174,7 @@
   "enwiki": "Naval Ops: Warship Gunner",
   "ids": {
    "igdb": "naval-ops-warship-gunner",
+   "metacritic": "naval-ops-warship-gunner",
    "mobygames": "70934"
   },
   "label_en": "Naval Ops: Warship Gunner",
@@ -183,6 +186,7 @@
    "epic": "child-of-light",
    "howlongtobeat": "17012",
    "igdb": "child-of-light",
+   "metacritic": "child-of-light",
    "mobygames": "66059",
    "pcgamingwiki": "Child_of_Light",
    "steam": "256290"
@@ -204,6 +208,7 @@
   "ids": {
    "howlongtobeat": "21990",
    "igdb": "a-city-sleeps",
+   "metacritic": "a-city-sleeps",
    "mobygames": "73933",
    "pcgamingwiki": "A_City_Sleeps",
    "steam": "316180"
@@ -215,6 +220,7 @@
   "enwiki": "Dead or Alive Xtreme 3",
   "ids": {
    "igdb": "dead-or-alive-xtreme-3-scarlet",
+   "metacritic": "dead-or-alive-xtreme-3-fortune",
    "mobygames": "108964"
   },
   "label_en": "Dead or Alive Xtreme 3",
@@ -225,6 +231,7 @@
   "ids": {
    "howlongtobeat": "46016",
    "igdb": "bush-hockey-league",
+   "metacritic": "old-time-hockey",
    "mobygames": "86138",
    "pcgamingwiki": "Old_Time_Hockey",
    "steam": "543010"
@@ -251,6 +258,7 @@
   "ids": {
    "howlongtobeat": "59871",
    "igdb": "siralim-3",
+   "metacritic": "siralim-3",
    "mobygames": "109556",
    "pcgamingwiki": "Siralim_3",
    "steam": "841770"
@@ -492,6 +500,7 @@
    "epic": "negaxon-deathmatch-85b992",
    "howlongtobeat": "86054",
    "igdb": "nexagon-deathmatch",
+   "metacritic": "nexagon-deathmatch",
    "mobygames": "41257",
    "pcgamingwiki": "Nexagon_Deathmatch",
    "steam": "1329810"
@@ -619,6 +628,7 @@
  {
   "enwiki": "NBA Hotshot",
   "ids": {
+   "metacritic": "nba-hotshot",
    "mobygames": "129362"
   },
   "label_en": "NBA Hotshot",
@@ -1166,6 +1176,7 @@
  {
   "ids": {
    "igdb": "crack--1",
+   "pcgamingwiki": "Crack",
    "steam": "4312190"
   },
   "label_en": "CRACK",

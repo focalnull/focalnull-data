@@ -14,6 +14,7 @@
    "gog": "game/star_trek_bridge_commander",
    "howlongtobeat": "32628",
    "igdb": "star-trek-bridge-commander",
+   "metacritic": "star-trek-bridge-commander",
    "mobygames": "5920",
    "pcgamingwiki": "Star_Trek:_Bridge_Commander"
   },
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "10258",
    "igdb": "the-walking-dead-survival-instinct",
+   "metacritic": "the-walking-dead-survival-instinct",
    "mobygames": "60745",
    "pcgamingwiki": "The_Walking_Dead:_Survival_Instinct",
    "steam": "220050"
@@ -52,6 +54,7 @@
    "epic": "rainbow-six-3-gold-edition",
    "howlongtobeat": "10448",
    "igdb": "tom-clancy-s-rainbow-six-3-raven-shield",
+   "metacritic": "tom-clancys-rainbow-six-3-raven-shield",
    "mobygames": "8721",
    "pcgamingwiki": "Tom_Clancy's_Rainbow_Six_3:_Raven_Shield",
    "steam": "19830"
@@ -64,6 +67,7 @@
   "ids": {
    "howlongtobeat": "1432",
    "igdb": "buzz-quiz-tv",
+   "metacritic": "buzz-quiz-tv",
    "mobygames": "35535"
   },
   "label_en": "Buzz!: Quiz TV",
@@ -85,6 +89,7 @@
   "ids": {
    "howlongtobeat": "205",
    "igdb": "advance-wars-2-black-hole-rising",
+   "metacritic": "advance-wars-2-black-hole-rising",
    "mobygames": "9610"
   },
   "label_en": "Advance Wars 2: Black Hole Rising",
@@ -104,6 +109,7 @@
   "ids": {
    "howlongtobeat": "3993",
    "igdb": "gold-rush",
+   "metacritic": "gold-rush",
    "mobygames": "440",
    "pcgamingwiki": "Gold_Rush!",
    "steam": "308000"
@@ -116,6 +122,7 @@
   "ids": {
    "howlongtobeat": "16884",
    "igdb": "rambo-the-video-game",
+   "metacritic": "rambo-the-video-game",
    "mobygames": "64127",
    "pcgamingwiki": "Rambo:_The_Video_Game",
    "steam": "274130"
@@ -183,6 +190,7 @@
   "enwiki": "Disney Think Fast",
   "ids": {
    "igdb": "disney-think-fast-the-ultimate-trivia-showdown",
+   "metacritic": "disney-th-nk-fast",
    "mobygames": "59977"
   },
   "label_en": "Disney Think Fast",
@@ -241,7 +249,8 @@
  {
   "enwiki": "Traxxpad",
   "ids": {
-   "igdb": "traxxpad-portable-studio"
+   "igdb": "traxxpad-portable-studio",
+   "metacritic": "traxxpad"
   },
   "label_en": "Traxxpad",
   "wikidata": "Q7836478"
@@ -278,6 +287,7 @@
   "enwiki": "Johnny Test (video game)",
   "ids": {
    "igdb": "johnny-test",
+   "metacritic": "johnny-test",
    "mobygames": "88785"
   },
   "label_en": "Johnny Test",
@@ -313,6 +323,7 @@
   "ids": {
    "howlongtobeat": "53278",
    "igdb": "speed-dating-for-ghosts",
+   "metacritic": "speed-dating-for-ghosts",
    "mobygames": "108455",
    "pcgamingwiki": "Speed_Dating_for_Ghosts",
    "steam": "746400"
@@ -327,6 +338,7 @@
    "gog": "game/maneater",
    "howlongtobeat": "68266",
    "igdb": "maneater",
+   "metacritic": "maneater",
    "mobygames": "145822",
    "pcgamingwiki": "Maneater",
    "steam": "629820"
@@ -339,6 +351,7 @@
    "gog": "game/mitsurugi_kamui_hikae",
    "howlongtobeat": "14922",
    "igdb": "mitsurugi-kamui-hikae",
+   "metacritic": "mitsurugi-kamui-hikae",
    "mobygames": "74279",
    "pcgamingwiki": "Mitsurugi_Kamui_Hikae",
    "steam": "263620"
@@ -350,6 +363,7 @@
   "ids": {
    "howlongtobeat": "38812",
    "igdb": "brainbread-2",
+   "metacritic": "brainbread-2",
    "mobygames": "130184",
    "pcgamingwiki": "BrainBread_2",
    "steam": "346330"
@@ -363,6 +377,7 @@
    "epic": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
    "howlongtobeat": "89120",
    "igdb": "shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey",
+   "metacritic": "shin-chan-me-and-the-professor-on-summer-vacation",
    "mobygames": "189524",
    "pcgamingwiki": "Shin-chan:_Me_and_the_Professor_on_Summer_Vacation_-_The_Endless_Seven-Day_Journey",
    "steam": "2061250"
@@ -374,6 +389,7 @@
   "ids": {
    "howlongtobeat": "33763",
    "igdb": "between-me-and-the-night",
+   "metacritic": "between-me-and-the-night",
    "mobygames": "90679",
    "pcgamingwiki": "Between_Me_and_The_Night",
    "steam": "285070"
@@ -385,6 +401,7 @@
   "ids": {
    "howlongtobeat": "80565",
    "igdb": "cafe-enchante",
+   "metacritic": "cafe-enchante",
    "mobygames": "152151"
   },
   "label_en": "Café Enchanté",
@@ -526,6 +543,7 @@
    "howlongtobeat": "96281",
    "igdb": "alpaca-stacka",
    "mobygames": "168663",
+   "pcgamingwiki": "Alpaca_Stacka",
    "steam": "1655140"
   },
   "label_en": "Alpaca Stacka",
@@ -609,6 +627,7 @@
    "howlongtobeat": "102793",
    "igdb": "buck-up-and-drive",
    "mobygames": "178104",
+   "pcgamingwiki": "Buck_Up_And_Drive!",
    "steam": "1714590"
   },
   "label_en": "Buck Up And Drive!",
@@ -847,6 +866,7 @@
   "ids": {
    "howlongtobeat": "33169",
    "igdb": "oh-dot-dot-dot-sir-prototype",
+   "metacritic": "ohsir",
    "mobygames": "114960",
    "pcgamingwiki": "Oh...Sir!_Prototype",
    "steam": "416690"
@@ -1257,6 +1277,7 @@
  {
   "ids": {
    "igdb": "the-florist",
+   "pcgamingwiki": "The_Florist",
    "steam": "3152440"
   },
   "label_en": "The Florist",
@@ -1288,6 +1309,7 @@
   "ids": {
    "igdb": "hentaiteachers",
    "mobygames": "259712",
+   "pcgamingwiki": "HentaiTeachers",
    "steam": "1197210"
   },
   "label_en": "HentaiTeachers",

@@ -17,6 +17,7 @@
   "ids": {
    "howlongtobeat": "7460",
    "igdb": "quake-iii-revolution",
+   "metacritic": "quake-iii-revolution",
    "mobygames": "3624"
   },
   "label_en": "Quake III: Revolution",
@@ -54,6 +55,7 @@
  {
   "ids": {
    "igdb": "disneys-mickey-saves-the-day-3d-adventure",
+   "metacritic": "disneys-mickey-saves-the-day-3d-adventure",
    "mobygames": "28225"
   },
   "label_en": "Disney's Mickey Saves the Day: 3D Adventure",
@@ -108,6 +110,7 @@
    "gog": "game/star_trek_starfleet_command_iii",
    "howlongtobeat": "45929",
    "igdb": "star-trek-starfleet-command-iii",
+   "metacritic": "star-trek-starfleet-command-iii",
    "mobygames": "7740",
    "pcgamingwiki": "Star_Trek:_Starfleet_Command_III"
   },
@@ -120,6 +123,7 @@
    "gog": "game/sudden_strike_2_gold",
    "howlongtobeat": "47861",
    "igdb": "sudden-strike-2",
+   "metacritic": "sudden-strike-ii",
    "mobygames": "7892",
    "pcgamingwiki": "Sudden_Strike_2",
    "steam": "612520"
@@ -160,6 +164,7 @@
    "howlongtobeat": "83602",
    "igdb": "interphase--1",
    "mobygames": "14569",
+   "pcgamingwiki": "Interphase",
    "steam": "1157850"
   },
   "label_en": "Interphase",
@@ -210,7 +215,8 @@
  {
   "enwiki": "Implosion: Never Lose Hope",
   "ids": {
-   "igdb": "implosion-never-lose-hope"
+   "igdb": "implosion-never-lose-hope",
+   "metacritic": "implosion-never-lose-hope"
   },
   "label_en": "Implosion - Never Lose Hope",
   "wikidata": "Q24837318"
@@ -237,6 +243,7 @@
   "enwiki": "Mighty Morphin Power Rangers: Mega Battle",
   "ids": {
    "igdb": "sabans-mighty-morphin-power-rangers-mega-battle",
+   "metacritic": "mighty-morphin-power-rangers-mega-battle",
    "mobygames": "83571"
   },
   "label_en": "Mighty Morphin Power Rangers: Mega Battle",
@@ -266,6 +273,7 @@
   "ids": {
    "howlongtobeat": "29779",
    "igdb": "a-bastards-tale",
+   "metacritic": "a-bastards-tale",
    "mobygames": "82747",
    "pcgamingwiki": "A_Bastard's_Tale",
    "steam": "371550"
@@ -276,6 +284,7 @@
  {
   "ids": {
    "igdb": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate",
+   "pcgamingwiki": "Is_It_Wrong_to_Try_to_Pick_Up_Girls_in_a_Dungeon?_Infinite_Combate",
    "steam": "1187940"
   },
   "label_en": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate",
@@ -343,6 +352,7 @@
  {
   "ids": {
    "igdb": "coloring-pixel-fantasy-characters",
+   "metacritic": "coloring-pixel-fantasy-characters",
    "steam": "1755170"
   },
   "label_en": "Coloring Pixel - Fantasy Characters",
@@ -374,6 +384,7 @@
    "gog": "game/the_invisible_hand",
    "howlongtobeat": "94411",
    "igdb": "the-invisible-hand",
+   "metacritic": "the-invisible-hand",
    "mobygames": "164137",
    "pcgamingwiki": "The_Invisible_Hand",
    "steam": "628200"
@@ -385,6 +396,7 @@
   "ids": {
    "howlongtobeat": "28918",
    "igdb": "tristoy",
+   "metacritic": "tristoy",
    "mobygames": "135919",
    "pcgamingwiki": "Tristoy",
    "steam": "303260"
@@ -750,6 +762,7 @@
   "ids": {
    "howlongtobeat": "25525",
    "igdb": "voidexpanse",
+   "metacritic": "voidexpanse",
    "mobygames": "101727",
    "pcgamingwiki": "VoidExpanse",
    "steam": "324260"
@@ -798,6 +811,7 @@
   "ids": {
    "howlongtobeat": "152854",
    "igdb": "supervive--1",
+   "metacritic": "supervive",
    "mobygames": "236953",
    "steam": "1283700"
   },
@@ -1168,6 +1182,7 @@
   "ids": {
    "igdb": "a-dark-cave",
    "mobygames": "255071",
+   "pcgamingwiki": "A_Dark_Cave",
    "steam": "4882240"
   },
   "label_en": "A Dark Cave",

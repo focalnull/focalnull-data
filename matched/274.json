@@ -5,6 +5,7 @@
    "epic": "journey",
    "howlongtobeat": "4867",
    "igdb": "journey",
+   "metacritic": "journey",
    "mobygames": "55167",
    "pcgamingwiki": "Journey",
    "steam": "638230"
@@ -26,6 +27,7 @@
   "enwiki": "Metal Gear Acid 2",
   "ids": {
    "igdb": "metal-gear-acid-2",
+   "metacritic": "metal-gear-acid-2",
    "mobygames": "22566"
   },
   "label_en": "Metal Gear Acid 2",
@@ -37,6 +39,7 @@
    "gog": "game/dracula_trilogy",
    "howlongtobeat": "2753",
    "igdb": "dracula-resurrection",
+   "metacritic": "dracula-the-resurrection",
    "mobygames": "1862",
    "pcgamingwiki": "Dracula:_The_Resurrection",
    "steam": "289800"
@@ -65,6 +68,7 @@
   "enwiki": "Garfield's Nightmare",
   "ids": {
    "igdb": "garfields-nightmare",
+   "metacritic": "garfields-nightmare",
    "mobygames": "88175"
   },
   "label_en": "Garfield's Nightmare",
@@ -154,6 +158,7 @@
   "ids": {
    "howlongtobeat": "14126",
    "igdb": "f1-2013",
+   "metacritic": "f1-2013",
    "mobygames": "63803",
    "pcgamingwiki": "F1_2013",
    "steam": "223670"
@@ -193,6 +198,7 @@
    "epic": "cities-skylines",
    "howlongtobeat": "24640",
    "igdb": "cities-skylines",
+   "metacritic": "cities-skylines",
    "mobygames": "71672",
    "pcgamingwiki": "Cities:_Skylines",
    "steam": "255710"
@@ -205,6 +211,7 @@
   "ids": {
    "howlongtobeat": "24456",
    "igdb": "five-nights-at-freddys-3",
+   "metacritic": "five-nights-at-freddys-3",
    "mobygames": "71412",
    "pcgamingwiki": "Five_Nights_at_Freddy's_3",
    "steam": "354140"
@@ -227,6 +234,7 @@
   "ids": {
    "howlongtobeat": "36421",
    "igdb": "trillion-god-of-destruction",
+   "metacritic": "trillion-god-of-destruction",
    "mobygames": "83269",
    "pcgamingwiki": "Trillion:_God_of_Destruction",
    "steam": "451780"
@@ -260,6 +268,7 @@
   "ids": {
    "howlongtobeat": "1280",
    "igdb": "borderlands-game-of-the-year-enhanced",
+   "metacritic": "borderlands",
    "mobygames": "124511",
    "pcgamingwiki": "Borderlands:_Game_of_the_Year_Enhanced",
    "steam": "729040"
@@ -776,6 +785,7 @@
    "gog": "game/legacy_of_kain_soul_reaver_12_remastered",
    "howlongtobeat": "157302",
    "igdb": "legacy-of-kain-soul-reaver-1-and-2-remastered",
+   "metacritic": "legacy-of-kain-soul-reaver-1-and-2-remastered",
    "pcgamingwiki": "Legacy_of_Kain:_Soul_Reaver_1_&_2_Remastered",
    "steam": "2521380"
   },
@@ -787,6 +797,7 @@
   "ids": {
    "howlongtobeat": "157692",
    "igdb": "liars-bar",
+   "metacritic": "liars-bar",
    "mobygames": "231594",
    "pcgamingwiki": "Liar's_Bar",
    "steam": "3097560"

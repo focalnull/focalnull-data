@@ -24,6 +24,7 @@
   "ids": {
    "howlongtobeat": "1705",
    "igdb": "chrono-trigger",
+   "metacritic": "chrono-trigger",
    "mobygames": "4501",
    "pcgamingwiki": "Chrono_Trigger",
    "steam": "613830"
@@ -36,6 +37,7 @@
   "ids": {
    "howlongtobeat": "2302",
    "igdb": "dead-island",
+   "metacritic": "dead-island",
    "mobygames": "52975",
    "pcgamingwiki": "Dead_Island",
    "steam": "91310"
@@ -49,6 +51,7 @@
    "gog": "game/lost_horizon",
    "howlongtobeat": "5386",
    "igdb": "lost-horizon",
+   "metacritic": "lost-horizon",
    "mobygames": "47893",
    "pcgamingwiki": "Lost_Horizon",
    "steam": "40350"
@@ -62,6 +65,7 @@
    "gog": "game/blocks_that_matter",
    "howlongtobeat": "1176",
    "igdb": "blocks-that-matter",
+   "metacritic": "blocks-that-matter",
    "mobygames": "53178",
    "pcgamingwiki": "Blocks_That_Matter",
    "steam": "111800"
@@ -74,6 +78,7 @@
   "ids": {
    "howlongtobeat": "12085",
    "igdb": "carrier-command-gaea-mission",
+   "metacritic": "carrier-command-gaea-mission",
    "mobygames": "62992",
    "pcgamingwiki": "Carrier_Command:_Gaea_Mission",
    "steam": "65740"
@@ -119,6 +124,7 @@
   "enwiki": "Sid Meier's Gettysburg!",
   "ids": {
    "igdb": "sid-meier-s-gettysburg",
+   "metacritic": "sid-meiers-gettysburg",
    "mobygames": "6",
    "pcgamingwiki": "Sid_Meier's_Gettysburg!"
   },
@@ -185,6 +191,7 @@
   "enwiki": "NASCAR SimRacing",
   "ids": {
    "igdb": "nascar-simracing",
+   "metacritic": "nascar-2005-chase-for-the-cup",
    "mobygames": "25292",
    "pcgamingwiki": "NASCAR_SimRacing"
   },
@@ -231,6 +238,7 @@
   "enwiki": "Monster Rancher EVO",
   "ids": {
    "igdb": "monster-rancher-evo",
+   "metacritic": "monster-rancher-evo",
    "mobygames": "27400"
   },
   "label_en": "Monster Rancher EVO",
@@ -241,6 +249,7 @@
   "ids": {
    "howlongtobeat": "6316",
    "igdb": "mystery-case-files-ravenhearst",
+   "metacritic": "mystery-case-files-ravenhearst",
    "mobygames": "26632",
    "pcgamingwiki": "Mystery_Case_Files:_Ravenhearst",
    "steam": "50990"
@@ -271,6 +280,7 @@
   "ids": {
    "howlongtobeat": "4701",
    "igdb": "inside-a-star-filled-sky",
+   "metacritic": "inside-a-star-filled-sky",
    "mobygames": "50738",
    "pcgamingwiki": "Inside_a_Star-filled_Sky",
    "steam": "104100"
@@ -300,6 +310,7 @@
    "gog": "game/tiny_and_big_grandpas_leftovers",
    "howlongtobeat": "10367",
    "igdb": "tiny-and-big-grandpa-s-leftovers",
+   "metacritic": "tiny-big-grandpas-leftovers",
    "mobygames": "56564",
    "pcgamingwiki": "Tiny_&_Big_in_Grandpa's_Leftovers",
    "steam": "205910"
@@ -343,6 +354,7 @@
    "gog": "game/never_alone_arctic_collection",
    "howlongtobeat": "21708",
    "igdb": "never-alone-kisima-ingitchuna",
+   "metacritic": "never-alone",
    "mobygames": "70260",
    "pcgamingwiki": "Never_Alone",
    "steam": "295790"
@@ -355,6 +367,7 @@
   "ids": {
    "howlongtobeat": "46120",
    "igdb": "madden-nfl-18",
+   "metacritic": "madden-nfl-18",
    "mobygames": "94779"
   },
   "label_en": "Madden NFL 18",
@@ -374,7 +387,8 @@
  {
   "enwiki": "Dragon Ball Legends",
   "ids": {
-   "igdb": "dragon-ball-legends"
+   "igdb": "dragon-ball-legends",
+   "metacritic": "dragon-ball-legends"
   },
   "label_en": "Dragon Ball Legends",
   "wikidata": "Q50810815"
@@ -384,6 +398,7 @@
   "ids": {
    "howlongtobeat": "4016",
    "igdb": "gorasul-legacy-of-the-dragon",
+   "metacritic": "gorasul-legacy-of-the-dragon",
    "mobygames": "5409",
    "pcgamingwiki": "Gorasul:_The_Legacy_of_the_Dragon"
   },
@@ -402,6 +417,7 @@
   "ids": {
    "howlongtobeat": "26553",
    "igdb": "magnetic-cage-closed",
+   "metacritic": "magnetic-cage-closed",
    "mobygames": "100749",
    "pcgamingwiki": "Magnetic:_Cage_Closed",
    "steam": "344410"
@@ -413,6 +429,7 @@
   "ids": {
    "howlongtobeat": "66002",
    "igdb": "sword-art-online-alicization-lycoris",
+   "metacritic": "sword-art-online-alicization-lycoris",
    "mobygames": "147977",
    "pcgamingwiki": "Sword_Art_Online_Alicization_Lycoris",
    "steam": "1009290"
@@ -431,6 +448,7 @@
   "ids": {
    "howlongtobeat": "45322",
    "igdb": "guns-of-icarus-alliance",
+   "metacritic": "guns-of-icarus-alliance-2017",
    "mobygames": "86317",
    "pcgamingwiki": "Guns_of_Icarus_Alliance",
    "steam": "608800"
@@ -473,6 +491,7 @@
    "howlongtobeat": "107724",
    "igdb": "ruins-magus",
    "mobygames": "187911",
+   "pcgamingwiki": "RUINSMAGUS",
    "steam": "1701560"
   },
   "label_en": "Ruins Magus",
@@ -575,6 +594,7 @@
    "gog": "game/bendy_and_the_dark_revival",
    "howlongtobeat": "78609",
    "igdb": "bendy-and-the-dark-revival",
+   "metacritic": "bendy-and-the-dark-revival",
    "mobygames": "195309",
    "pcgamingwiki": "Bendy_and_the_Dark_Revival",
    "steam": "1063660"
@@ -586,6 +606,7 @@
   "ids": {
    "howlongtobeat": "92086",
    "igdb": "finnish-army-simulator",
+   "metacritic": "finnish-army-simulator",
    "mobygames": "197996",
    "pcgamingwiki": "Finnish_Army_Simulator",
    "steam": "1184250"
@@ -999,6 +1020,7 @@
   "ids": {
    "howlongtobeat": "46798",
    "igdb": "hunters-legacy",
+   "metacritic": "hunters-legacy",
    "mobygames": "87586",
    "pcgamingwiki": "Hunter's_Legacy",
    "steam": "479110"

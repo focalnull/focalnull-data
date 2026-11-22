@@ -14,6 +14,7 @@
    "gog": "game/impossible_creatures",
    "howlongtobeat": "4640",
    "igdb": "impossible-creatures",
+   "metacritic": "impossible-creatures",
    "mobygames": "8461",
    "pcgamingwiki": "Impossible_Creatures",
    "steam": "324680"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "5336",
    "igdb": "littlebigplanet-2",
+   "metacritic": "littlebigplanet-2",
    "mobygames": "52419"
   },
   "label_en": "LittleBigPlanet 2",
@@ -40,6 +42,7 @@
   "ids": {
    "howlongtobeat": "1589",
    "igdb": "castlevania-order-of-ecclesia",
+   "metacritic": "castlevania-order-of-ecclesia",
    "mobygames": "37067"
   },
   "label_en": "Castlevania: Order of Ecclesia",
@@ -50,6 +53,7 @@
   "ids": {
    "howlongtobeat": "8715",
    "igdb": "sol-exodus",
+   "metacritic": "sol-exodus",
    "mobygames": "57502",
    "pcgamingwiki": "SOL:_Exodus",
    "steam": "200410"
@@ -80,6 +84,7 @@
   "enwiki": "Fighting Fantasy: The Warlock of Firetop Mountain",
   "ids": {
    "igdb": "fighting-fantasy-the-warlock-of-firetop-mountain--1",
+   "metacritic": "fighting-fantasy-the-warlock-of-firetop-mountain",
    "mobygames": "44013"
   },
   "label_en": "Fighting Fantasy: The Warlock of Firetop Mountain",
@@ -98,6 +103,7 @@
   "enwiki": "Hatsune Miku: Project Diva F",
   "ids": {
    "igdb": "hatsune-miku-project-diva-f",
+   "metacritic": "hatsune-miku-project-diva-f",
    "mobygames": "63007"
   },
   "label_en": "Hatsune Miku: Project DIVA F",
@@ -151,6 +157,7 @@
   "ids": {
    "howlongtobeat": "22775",
    "igdb": "panzer-tactics-hd",
+   "metacritic": "panzer-tactics-hd",
    "mobygames": "68855",
    "pcgamingwiki": "Panzer_Tactics_HD",
    "steam": "277630"
@@ -180,6 +187,7 @@
   "ids": {
    "howlongtobeat": "3583",
    "igdb": "flanker-2-0",
+   "metacritic": "flanker-20",
    "mobygames": "4563"
   },
   "label_en": "Flanker 2.0",
@@ -207,6 +215,7 @@
   "ids": {
    "howlongtobeat": "50830",
    "igdb": "gorescript",
+   "metacritic": "gorescript",
    "mobygames": "90802",
    "pcgamingwiki": "Gorescript",
    "steam": "618690"
@@ -235,6 +244,7 @@
  {
   "ids": {
    "howlongtobeat": "45569",
+   "metacritic": "slenders-woods",
    "mobygames": "58484",
    "pcgamingwiki": "Slender's_Woods"
   },
@@ -253,6 +263,7 @@
   "ids": {
    "howlongtobeat": "35670",
    "igdb": "the-bottom-of-the-well",
+   "metacritic": "the-bottom-of-the-well",
    "mobygames": "92976",
    "pcgamingwiki": "The_Bottom_of_the_Well",
    "steam": "449020"
@@ -276,6 +287,7 @@
   "ids": {
    "howlongtobeat": "81716",
    "igdb": "arboria",
+   "metacritic": "arboria",
    "mobygames": "151770",
    "pcgamingwiki": "Arboria",
    "steam": "924070"
@@ -295,6 +307,7 @@
   "ids": {
    "howlongtobeat": "97543",
    "igdb": "arcadian-atlas",
+   "metacritic": "arcadian-atlas",
    "mobygames": "206519",
    "pcgamingwiki": "Arcadian_Atlas",
    "steam": "691790"
@@ -316,6 +329,7 @@
  {
   "ids": {
    "igdb": "graverunners",
+   "metacritic": "graverunners",
    "mobygames": "189391",
    "steam": "1653400"
   },
@@ -392,6 +406,7 @@
   "ids": {
    "howlongtobeat": "65325",
    "igdb": "angry-birds-vr-isle-of-pigs",
+   "metacritic": "angry-birds-vr-isle-of-pigs",
    "mobygames": "121949",
    "pcgamingwiki": "Angry_Birds_VR:_Isle_of_Pigs",
    "steam": "1001140"
@@ -829,6 +844,7 @@
   "ids": {
    "howlongtobeat": "115125",
    "igdb": "the-blue-diamond-damsel-in-distress",
+   "metacritic": "the-blue-diamond-damsel-in-distress",
    "mobygames": "210825",
    "pcgamingwiki": "蓝宝石般的被害妄想少女",
    "steam": "970510"

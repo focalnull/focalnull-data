@@ -6,6 +6,7 @@
    "gog": "game/death_to_spies",
    "howlongtobeat": "2369",
    "igdb": "death-to-spies",
+   "metacritic": "death-to-spies",
    "mobygames": "30133",
    "pcgamingwiki": "Death_to_Spies",
    "steam": "9800"
@@ -38,6 +39,7 @@
   "ids": {
    "howlongtobeat": "1761",
    "igdb": "closure",
+   "metacritic": "closure",
    "mobygames": "57791",
    "pcgamingwiki": "Closure",
    "steam": "72000"
@@ -78,6 +80,7 @@
   "enwiki": "Touch Detective 2 ½",
   "ids": {
    "igdb": "touch-detective-2-1-slash-2",
+   "metacritic": "touch-detective-2-1-2",
    "mobygames": "32900"
   },
   "label_en": "Touch Detective 2 ½",
@@ -88,6 +91,7 @@
   "ids": {
    "howlongtobeat": "2968",
    "igdb": "dungeons-and-dragons-daggerdale",
+   "metacritic": "dungeons-dragons-daggerdale",
    "mobygames": "51803",
    "pcgamingwiki": "Dungeons_&_Dragons:_Daggerdale",
    "steam": "99100"
@@ -121,7 +125,8 @@
  {
   "enwiki": "Misato Katsuragi's Reporting Plan",
   "ids": {
-   "igdb": "katsuragi-misato-houdou-keikaku"
+   "igdb": "katsuragi-misato-houdou-keikaku",
+   "metacritic": "katsuragi-misato-houdou-keikaku"
   },
   "label_en": "Misato Katsuragi's Reporting Plan",
   "wikidata": "Q6875165"
@@ -183,6 +188,7 @@
   "ids": {
    "howlongtobeat": "19087",
    "igdb": "tomodachi-life",
+   "metacritic": "tomodachi-life",
    "mobygames": "84860"
   },
   "label_en": "Tomodachi Life",
@@ -194,6 +200,7 @@
    "gog": "game/overload",
    "howlongtobeat": "47409",
    "igdb": "overload",
+   "metacritic": "overload",
    "mobygames": "109780",
    "pcgamingwiki": "Overload",
    "steam": "448850"
@@ -218,6 +225,7 @@
   "enwiki": "EA Sports UFC 3",
   "ids": {
    "igdb": "ea-sports-ufc-3",
+   "metacritic": "ea-sports-ufc-3",
    "mobygames": "102540"
   },
   "label_en": "EA Sports UFC 3",
@@ -238,6 +246,7 @@
   "ids": {
    "howlongtobeat": "69352",
    "igdb": "capsular",
+   "metacritic": "capsular",
    "pcgamingwiki": "Capsular",
    "steam": "690200"
   },
@@ -257,6 +266,7 @@
   "ids": {
    "howlongtobeat": "25378",
    "igdb": "misao",
+   "metacritic": "misao-definitive-edition",
    "mobygames": "99004",
    "pcgamingwiki": "Misao:_Definitive_Edition",
    "steam": "691450"
@@ -269,6 +279,7 @@
   "ids": {
    "howlongtobeat": "79859",
    "igdb": "marvels-spider-man-miles-morales",
+   "metacritic": "marvels-spider-man-miles-morales",
    "mobygames": "153496",
    "pcgamingwiki": "Marvel's_Spider-Man:_Miles_Morales",
    "steam": "1817190"
@@ -320,6 +331,7 @@
    "gog": "game/recompile",
    "howlongtobeat": "69534",
    "igdb": "recompile",
+   "metacritic": "recompile",
    "mobygames": "169545",
    "pcgamingwiki": "Recompile",
    "steam": "986310"
@@ -332,6 +344,7 @@
    "epic": "effie-f06e3c",
    "howlongtobeat": "67927",
    "igdb": "effie",
+   "metacritic": "effie",
    "mobygames": "128407",
    "pcgamingwiki": "Effie",
    "steam": "975950"
@@ -351,6 +364,7 @@
   "ids": {
    "howlongtobeat": "111713",
    "igdb": "samurai-maiden",
+   "metacritic": "samurai-maiden",
    "mobygames": "194747",
    "pcgamingwiki": "Samurai_Maiden",
    "steam": "1952250"
@@ -1109,6 +1123,7 @@
  {
   "ids": {
    "igdb": "possession",
+   "pcgamingwiki": "Possession",
    "steam": "629340"
   },
   "label_en": "Possession",

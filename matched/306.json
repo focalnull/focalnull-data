@@ -17,6 +17,7 @@
    "gog": "game/drakensang",
    "howlongtobeat": "2866",
    "igdb": "drakensang-the-dark-eye",
+   "metacritic": "the-dark-eye-drakensang",
    "mobygames": "35406",
    "pcgamingwiki": "Drakensang:_The_Dark_Eye",
    "steam": "12640"
@@ -56,6 +57,7 @@
   "ids": {
    "howlongtobeat": "1212",
    "igdb": "blues-brothers-2000",
+   "metacritic": "blues-brothers-2000",
    "mobygames": "32170"
   },
   "label_en": "Blues Brothers 2000",
@@ -66,6 +68,7 @@
   "ids": {
    "howlongtobeat": "4295",
    "igdb": "harbinger",
+   "metacritic": "harbinger",
    "mobygames": "11155",
    "pcgamingwiki": "Harbinger"
   },
@@ -77,6 +80,7 @@
   "ids": {
    "howlongtobeat": "5428",
    "igdb": "lumines-ii",
+   "metacritic": "lumines-ii",
    "mobygames": "24932"
   },
   "label_en": "Lumines II",
@@ -106,6 +110,7 @@
   "ids": {
    "howlongtobeat": "5498",
    "igdb": "madden-nfl-10",
+   "metacritic": "madden-nfl-10",
    "mobygames": "59861"
   },
   "label_en": "Madden NFL 10",
@@ -125,6 +130,7 @@
    "gog": "game/perimeter_emperors_testament",
    "howlongtobeat": "20844",
    "igdb": "perimeter-emperors-testament",
+   "metacritic": "perimeter-emperors-testament",
    "mobygames": "26317",
    "pcgamingwiki": "Perimeter:_Emperor's_Testament",
    "steam": "289240"
@@ -178,7 +184,8 @@
  {
   "enwiki": "UDraw Studio",
   "ids": {
-   "igdb": "udraw-studio"
+   "igdb": "udraw-studio",
+   "metacritic": "udraw-studio"
   },
   "label_en": "UDraw Studio",
   "wikidata": "Q7864306"
@@ -189,6 +196,7 @@
    "gog": "game/mobile_forces",
    "howlongtobeat": "18081",
    "igdb": "mobile-forces",
+   "metacritic": "mobile-forces",
    "mobygames": "12258",
    "pcgamingwiki": "Mobile_Forces",
    "steam": "837940"
@@ -215,6 +223,7 @@
    "gog": "game/big_pharma",
    "howlongtobeat": "29923",
    "igdb": "big-pharma",
+   "metacritic": "big-pharma",
    "mobygames": "85889",
    "pcgamingwiki": "Big_Pharma",
    "steam": "344850"
@@ -241,6 +250,7 @@
    "epic": "a-way-out-635680",
    "howlongtobeat": "46386",
    "igdb": "a-way-out",
+   "metacritic": "a-way-out",
    "mobygames": "105937",
    "pcgamingwiki": "A_Way_Out",
    "steam": "1222700"
@@ -263,6 +273,7 @@
    "gog": "game/star_explorers",
    "howlongtobeat": "65646",
    "igdb": "star-explorers",
+   "metacritic": "star-explorers",
    "mobygames": "140558",
    "pcgamingwiki": "Star_Explorers",
    "steam": "502720"
@@ -276,6 +287,7 @@
    "gog": "game/gato_roboto",
    "howlongtobeat": "67569",
    "igdb": "gato-roboto",
+   "metacritic": "gato-roboto",
    "mobygames": "125440",
    "pcgamingwiki": "Gato_Roboto",
    "steam": "916730"
@@ -297,6 +309,7 @@
    "gog": "game/encased_a_scifi_postapocalyptic_rpg",
    "howlongtobeat": "70452",
    "igdb": "encased",
+   "metacritic": "encased-a-sci-fi-post-apocalyptic-rpg",
    "mobygames": "135394",
    "pcgamingwiki": "Encased",
    "steam": "921800"
@@ -330,6 +343,7 @@
    "gog": "game/tasomachi_behind_the_twilight",
    "howlongtobeat": "90467",
    "igdb": "tasomachi-behind-the-twilight",
+   "metacritic": "tasomachi-behind-the-twilight",
    "mobygames": "161709",
    "pcgamingwiki": "Tasomachi:_Behind_the_Twilight",
    "steam": "1015890"
@@ -1040,6 +1054,7 @@
  {
   "ids": {
    "igdb": "i-robot--1",
+   "pcgamingwiki": "I,_Robot",
    "steam": "2932910"
   },
   "label_en": "I, Robot",

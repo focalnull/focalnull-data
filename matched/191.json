@@ -13,7 +13,8 @@
  {
   "enwiki": "Rise of the Guardians: The Video Game",
   "ids": {
-   "igdb": "rise-of-the-guardians-the-video-game"
+   "igdb": "rise-of-the-guardians-the-video-game",
+   "metacritic": "rise-of-the-guardians"
   },
   "label_en": "Rise of the Guardians",
   "wikidata": "Q1276191"
@@ -63,6 +64,7 @@
   "ids": {
    "howlongtobeat": "11102",
    "igdb": "watchmen-the-end-is-nigh",
+   "metacritic": "watchmen-the-end-is-nigh",
    "mobygames": "40658",
    "pcgamingwiki": "Watchmen:_The_End_is_Nigh",
    "steam": "21010"
@@ -74,6 +76,7 @@
   "enwiki": "Fight Night Champion",
   "ids": {
    "igdb": "fight-night-champion",
+   "metacritic": "fight-night-champion",
    "mobygames": "51028"
   },
   "label_en": "Fight Night Champion",
@@ -83,7 +86,8 @@
   "enwiki": "Drake & Josh (video game)",
   "ids": {
    "howlongtobeat": "54200",
-   "igdb": "drake-josh"
+   "igdb": "drake-josh",
+   "metacritic": "drake-josh"
   },
   "label_en": "Drake & Josh",
   "wikidata": "Q3285191"
@@ -122,6 +126,7 @@
  {
   "ids": {
    "igdb": "demolition-champions",
+   "metacritic": "demolition-champions",
    "mobygames": "8945",
    "pcgamingwiki": "Smash_up_Derby"
   },
@@ -171,6 +176,7 @@
   "enwiki": "Urban Freestyle Soccer",
   "ids": {
    "igdb": "freestyle-street-soccer",
+   "metacritic": "freestyle-street-soccer",
    "mobygames": "38050"
   },
   "label_en": "Freestyle Street Soccer",
@@ -242,6 +248,9 @@
   "wikidata": "Q10334191"
  },
  {
+  "ids": {
+   "metacritic": "fragments-note"
+  },
   "label_en": "Fragment’s Note",
   "wikidata": "Q10847191"
  },
@@ -282,6 +291,7 @@
   "enwiki": "The Incredible Hulk (2003 video game)",
   "ids": {
    "igdb": "the-incredible-hulk--2",
+   "metacritic": "the-incredible-hulk-2003",
    "mobygames": "9407"
   },
   "label_en": "The Incredible Hulk",
@@ -302,6 +312,7 @@
    "gog": "game/last_day_of_june",
    "howlongtobeat": "48621",
    "igdb": "last-day-of-june",
+   "metacritic": "last-day-of-june",
    "mobygames": "95440",
    "pcgamingwiki": "Last_Day_of_June",
    "steam": "635320"
@@ -326,6 +337,7 @@
    "gog": "game/forager",
    "howlongtobeat": "62412",
    "igdb": "forager",
+   "metacritic": "forager",
    "mobygames": "121861",
    "pcgamingwiki": "Forager",
    "steam": "751780"
@@ -338,6 +350,7 @@
   "ids": {
    "howlongtobeat": "72589",
    "igdb": "the-legend-of-zelda-tears-of-the-kingdom",
+   "metacritic": "the-legend-of-zelda-tears-of-the-kingdom",
    "mobygames": "203119"
   },
   "label_en": "The Legend of Zelda: Tears of the Kingdom",
@@ -359,6 +372,7 @@
   "ids": {
    "howlongtobeat": "72769",
    "igdb": "frog-detective-2-the-case-of-the-invisible-wizard",
+   "metacritic": "frog-detective-2-the-case-of-the-invisible-wizard",
    "mobygames": "138300",
    "pcgamingwiki": "Frog_Detective_2:_The_Case_of_the_Invisible_Wizard",
    "steam": "1047220"
@@ -437,6 +451,7 @@
    "gog": "game/sheltered_2",
    "howlongtobeat": "103685",
    "igdb": "sheltered-2",
+   "metacritic": "sheltered-2",
    "mobygames": "172427",
    "pcgamingwiki": "Sheltered_2",
    "steam": "1289380"
@@ -494,6 +509,7 @@
   "ids": {
    "howlongtobeat": "14506",
    "igdb": "defense-technica",
+   "metacritic": "defense-technica",
    "mobygames": "160897",
    "pcgamingwiki": "Defense_Technica",
    "steam": "233110"
@@ -867,6 +883,7 @@
   "ids": {
    "howlongtobeat": "153101",
    "igdb": "dead-rising-deluxe-remaster",
+   "metacritic": "dead-rising-deluxe-remaster",
    "mobygames": "230820",
    "pcgamingwiki": "Dead_Rising_Deluxe_Remaster",
    "steam": "2527390"
@@ -1180,6 +1197,7 @@
  {
   "ids": {
    "igdb": "fallalypse",
+   "pcgamingwiki": "Fallalypse",
    "steam": "689520"
   },
   "label_en": "★ Fallalypse ★",

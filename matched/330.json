@@ -12,6 +12,7 @@
   "enwiki": "Pirates of the Caribbean (video game)",
   "ids": {
    "igdb": "pirates-of-the-caribbean",
+   "metacritic": "pirates-of-the-caribbean",
    "mobygames": "9613",
    "pcgamingwiki": "Pirates_of_the_Caribbean"
   },
@@ -24,6 +25,7 @@
    "gog": "game/gemini_rue",
    "howlongtobeat": "3876",
    "igdb": "gemini-rue",
+   "metacritic": "gemini-rue",
    "mobygames": "50626",
    "pcgamingwiki": "Gemini_Rue",
    "steam": "80310"
@@ -78,6 +80,7 @@
   "ids": {
    "howlongtobeat": "11178",
    "igdb": "will-rock",
+   "metacritic": "will-rock",
    "mobygames": "9903",
    "pcgamingwiki": "Will_Rock"
   },
@@ -123,6 +126,7 @@
    "gog": "game/avernum_escape_from_the_pit",
    "howlongtobeat": "750",
    "igdb": "avernum-escape-from-the-pit",
+   "metacritic": "avernum-escape-from-the-pit",
    "mobygames": "66614",
    "pcgamingwiki": "Avernum:_Escape_from_the_Pit",
    "steam": "208400"
@@ -150,6 +154,7 @@
   "enwiki": "Dream Chronicles (video game)",
   "ids": {
    "igdb": "dream-chronicles",
+   "metacritic": "dream-chronicles",
    "mobygames": "31972"
   },
   "label_en": "Dream Chronicles",
@@ -167,6 +172,7 @@
   "enwiki": "Hysteria Hospital: Emergency Ward",
   "ids": {
    "igdb": "hysteria-hospital-emergency-ward",
+   "metacritic": "hysteria-hospital-emergency-ward",
    "mobygames": "47090"
   },
   "label_en": "Hysteria Hospital: Emergency Ward",
@@ -206,6 +212,7 @@
   "ids": {
    "howlongtobeat": "5291",
    "igdb": "liberation-maiden",
+   "metacritic": "liberation-maiden",
    "mobygames": "58144"
   },
   "label_en": "Liberation Maiden",
@@ -238,6 +245,7 @@
    "gog": "game/quern_undying_thoughts",
    "howlongtobeat": "42205",
    "igdb": "quern-undying-thoughts",
+   "metacritic": "quern-undying-thoughts",
    "mobygames": "100841",
    "pcgamingwiki": "Quern_-_Undying_Thoughts",
    "steam": "512790"
@@ -251,6 +259,7 @@
    "gog": "game/tooth_and_tail",
    "howlongtobeat": "40697",
    "igdb": "tooth-and-tail",
+   "metacritic": "tooth-and-tail",
    "mobygames": "95850",
    "pcgamingwiki": "Tooth_and_Tail",
    "steam": "286000"
@@ -272,6 +281,7 @@
    "epic": "dying-light-2-stay-human",
    "howlongtobeat": "57425",
    "igdb": "dying-light-2-stay-human",
+   "metacritic": "dying-light-2-stay-human",
    "mobygames": "179131",
    "pcgamingwiki": "Dying_Light_2_Stay_Human",
    "steam": "534380"
@@ -283,6 +293,7 @@
   "enwiki": "All-Star Baseball 2002",
   "ids": {
    "igdb": "all-star-baseball-2002",
+   "metacritic": "all-star-baseball-2002",
    "mobygames": "5504"
   },
   "label_en": "All-Star Baseball 2002",
@@ -292,6 +303,7 @@
   "ids": {
    "howlongtobeat": "52262",
    "igdb": "code-realize-future-blessings",
+   "metacritic": "coderealize-future-blessings",
    "mobygames": "106308"
   },
   "label_en": "Code: Realize ~Future Blessings~",
@@ -302,6 +314,7 @@
   "ids": {
    "howlongtobeat": "69372",
    "igdb": "kill-la-kill-if",
+   "metacritic": "kill-la-kill-if",
    "mobygames": "130570",
    "pcgamingwiki": "Kill_la_Kill_-IF",
    "steam": "922500"
@@ -346,6 +359,7 @@
   "ids": {
    "howlongtobeat": "57701",
    "igdb": "ironsight",
+   "metacritic": "ironsight",
    "mobygames": "139337",
    "pcgamingwiki": "Ironsight",
    "steam": "783770"
@@ -357,6 +371,7 @@
   "ids": {
    "howlongtobeat": "75873",
    "igdb": "the-room-vr-a-dark-matter",
+   "metacritic": "the-room-vr-a-dark-matter",
    "mobygames": "143069",
    "pcgamingwiki": "The_Room_VR:_A_Dark_Matter",
    "steam": "1104380"
@@ -392,6 +407,7 @@
    "epic": "arc-raiders",
    "howlongtobeat": "101424",
    "igdb": "arc-raiders",
+   "metacritic": "arc-raiders",
    "mobygames": "245425",
    "pcgamingwiki": "ARC_Raiders",
    "steam": "1808500"
@@ -424,6 +440,7 @@
    "gog": "game/order_of_battle_world_war_ii",
    "howlongtobeat": "63464",
    "igdb": "order-of-battle-world-war-ii",
+   "metacritic": "order-of-battle-pacific",
    "mobygames": "79892",
    "pcgamingwiki": "Order_of_Battle:_World_War_II",
    "steam": "312450"
@@ -446,6 +463,7 @@
   "ids": {
    "howlongtobeat": "84567",
    "igdb": "adore",
+   "metacritic": "adore",
    "mobygames": "206837",
    "pcgamingwiki": "Adore",
    "steam": "1074620"
@@ -1177,6 +1195,7 @@
  {
   "ids": {
    "igdb": "xz-xl",
+   "pcgamingwiki": "XZ:_XL",
    "steam": "771190"
   },
   "label_en": "XZ: XL",

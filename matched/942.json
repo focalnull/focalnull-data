@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "48000",
    "igdb": "real-war",
+   "metacritic": "real-war",
    "mobygames": "5113",
    "pcgamingwiki": "Real_War"
   },
@@ -36,6 +37,7 @@
   "enwiki": "War of the Monsters",
   "ids": {
    "igdb": "war-of-the-monsters",
+   "metacritic": "war-of-the-monsters",
    "mobygames": "18086"
   },
   "label_en": "War of the Monsters",
@@ -47,6 +49,7 @@
    "gog": "game/universe_sandbox",
    "howlongtobeat": "29773",
    "igdb": "universe-sandbox",
+   "metacritic": "universe-sandbox",
    "mobygames": "80592",
    "pcgamingwiki": "Universe_Sandbox",
    "steam": "72200"
@@ -77,6 +80,7 @@
   "ids": {
    "howlongtobeat": "3539",
    "igdb": "final-fantasy-the-4-heroes-of-light",
+   "metacritic": "final-fantasy-the-4-heroes-of-light",
    "mobygames": "48590"
   },
   "label_en": "Final Fantasy: The 4 Heroes of Light",
@@ -150,6 +154,7 @@
   "enwiki": "King's Field IV",
   "ids": {
    "igdb": "kings-field-the-ancient-city",
+   "metacritic": "kings-field-the-ancient-city",
    "mobygames": "23218"
   },
   "label_en": "King's Field IV",
@@ -169,6 +174,7 @@
   "ids": {
    "howlongtobeat": "7779",
    "igdb": "revenge-of-the-titans",
+   "metacritic": "revenge-of-the-titans",
    "mobygames": "50770",
    "pcgamingwiki": "Revenge_of_the_Titans",
    "steam": "93200"
@@ -180,6 +186,7 @@
   "enwiki": "The Bigs 2",
   "ids": {
    "igdb": "the-bigs-2",
+   "metacritic": "the-bigs-2",
    "mobygames": "71103"
   },
   "label_en": "The Bigs 2",
@@ -283,6 +290,7 @@
   "ids": {
    "howlongtobeat": "63284",
    "igdb": "boobs-saga",
+   "metacritic": "boobs-saga",
    "mobygames": "156004",
    "pcgamingwiki": "Boobs_Saga",
    "steam": "726360"
@@ -329,6 +337,7 @@
   "ids": {
    "howlongtobeat": "96259",
    "igdb": "tennis-world-tour-2",
+   "metacritic": "tennis-world-tour-2",
    "mobygames": "150613",
    "pcgamingwiki": "Tennis_World_Tour_2",
    "steam": "1223910"
@@ -365,6 +374,7 @@
   "ids": {
    "howlongtobeat": "79535",
    "igdb": "gunfire-reborn",
+   "metacritic": "gunfire-reborn",
    "mobygames": "146169",
    "pcgamingwiki": "Gunfire_Reborn",
    "steam": "1217060"
@@ -710,6 +720,7 @@
   "ids": {
    "howlongtobeat": "129681",
    "igdb": "vampire-the-masquerade-justice",
+   "metacritic": "vampire-the-masquerade-justice",
    "pcgamingwiki": "Vampire:_The_Masquerade_-_Justice",
    "steam": "2431700"
   },
@@ -866,6 +877,7 @@
  {
   "ids": {
    "igdb": "displacement",
+   "metacritic": "displacement",
    "pcgamingwiki": "Displacement",
    "steam": "2824520"
   },
@@ -1187,6 +1199,7 @@
  {
   "ids": {
    "igdb": "ripple-island-kyle-and-cals-restaurant",
+   "pcgamingwiki": "RippleIsland_Kyle_and_Cal’s_Restaurant",
    "steam": "3844150"
   },
   "label_en": "Ripple Island: Kyle and Cal's Restaurant",
@@ -1194,6 +1207,7 @@
  },
  {
   "ids": {
+   "metacritic": "rapala-pro-bass-fishing-2010",
    "mobygames": "158382"
   },
   "label_en": "Rapala Pro Bass Fishing",

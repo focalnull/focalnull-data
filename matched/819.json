@@ -31,6 +31,7 @@
   "ids": {
    "howlongtobeat": "712",
    "igdb": "atomic-bomberman",
+   "metacritic": "atomic-bomberman",
    "mobygames": "2269",
    "pcgamingwiki": "Atomic_Bomberman"
   },
@@ -70,6 +71,7 @@
   "ids": {
    "howlongtobeat": "476",
    "igdb": "animal-paradise",
+   "metacritic": "animal-paradise",
    "mobygames": "87194"
   },
   "label_en": "Animal Paradise",
@@ -129,6 +131,7 @@
   "ids": {
    "howlongtobeat": "9456",
    "igdb": "super-stardust-delta",
+   "metacritic": "super-stardust-delta",
    "mobygames": "77973"
   },
   "label_en": "Super Stardust Delta",
@@ -178,6 +181,7 @@
   "ids": {
    "howlongtobeat": "67836",
    "igdb": "pantheon-rise-of-the-fallen",
+   "pcgamingwiki": "Pantheon:_Rise_of_the_Fallen",
    "steam": "3107230"
   },
   "label_en": "Pantheon: Rise of the Fallen",
@@ -257,6 +261,7 @@
   "ids": {
    "howlongtobeat": "23651",
    "igdb": "sleeping-dogs-definitive-edition",
+   "metacritic": "sleeping-dogs-definitive-edition",
    "mobygames": "68897",
    "pcgamingwiki": "Sleeping_Dogs:_Definitive_Edition",
    "steam": "307690"
@@ -279,6 +284,7 @@
    "gog": "game/no_pineapple_left_behind",
    "howlongtobeat": "34379",
    "igdb": "no-pineapple-left-behind",
+   "metacritic": "no-pineapple-left-behind",
    "mobygames": "150804",
    "pcgamingwiki": "No_Pineapple_Left_Behind",
    "steam": "350090"
@@ -322,6 +328,7 @@
    "epic": "rogue-legacy-2",
    "howlongtobeat": "80560",
    "igdb": "rogue-legacy-2",
+   "metacritic": "rogue-legacy-2",
    "mobygames": "149441",
    "pcgamingwiki": "Rogue_Legacy_2",
    "steam": "1253920"
@@ -343,6 +350,7 @@
    "epic": "hot-wheels-unleashed",
    "howlongtobeat": "89344",
    "igdb": "hot-wheels-unleashed",
+   "metacritic": "hot-wheels-unleashed",
    "mobygames": "172826",
    "pcgamingwiki": "Hot_Wheels_Unleashed",
    "steam": "1271700"
@@ -370,6 +378,7 @@
    "epic": "the-last-friend",
    "howlongtobeat": "99449",
    "igdb": "the-last-friend",
+   "metacritic": "the-last-friend",
    "mobygames": "173306",
    "pcgamingwiki": "The_Last_Friend",
    "steam": "944430"
@@ -444,7 +453,8 @@
  {
   "enwiki": "Horizon Forbidden West: Burning Shores",
   "ids": {
-   "igdb": "horizon-forbidden-west-burning-shores"
+   "igdb": "horizon-forbidden-west-burning-shores",
+   "metacritic": "horizon-forbidden-west-burning-shores"
   },
   "label_en": "Horizon Forbidden West: Burning Shores",
   "wikidata": "Q115641819"
@@ -609,6 +619,7 @@
    "gog": "game/the_shattering",
    "howlongtobeat": "77197",
    "igdb": "the-shattering",
+   "metacritic": "the-shattering",
    "mobygames": "144745",
    "pcgamingwiki": "The_Shattering",
    "steam": "596000"
@@ -679,6 +690,7 @@
   "ids": {
    "howlongtobeat": "123669",
    "igdb": "onion-assault",
+   "metacritic": "onion-assault",
    "mobygames": "216582",
    "steam": "2141820"
   },
@@ -848,6 +860,7 @@
    "gog": "game/kingpin_reloaded",
    "howlongtobeat": "75150",
    "igdb": "kingpin-reloaded",
+   "metacritic": "kingpin-reloaded",
    "mobygames": "213371",
    "pcgamingwiki": "Kingpin:_Reloaded",
    "steam": "1224700"
@@ -1218,6 +1231,7 @@
   "ids": {
    "howlongtobeat": "174894",
    "igdb": "palworld-palfarm",
+   "metacritic": "palworld-palfarm",
    "pcgamingwiki": "Palworld:_Palfarm",
    "steam": "4031890"
   },

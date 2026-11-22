@@ -5,6 +5,7 @@
    "gog": "game/lego_the_hobbit",
    "howlongtobeat": "16635",
    "igdb": "lego-the-hobbit",
+   "metacritic": "lego-the-hobbit",
    "mobygames": "65494",
    "pcgamingwiki": "Lego_The_Hobbit",
    "steam": "285160"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "8751",
    "igdb": "sonic-adventure",
+   "metacritic": "sonic-adventure",
    "mobygames": "3530",
    "pcgamingwiki": "Sonic_Adventure_DX_(Steam)",
    "steam": "71250"
@@ -29,6 +31,7 @@
   "ids": {
    "howlongtobeat": "5070",
    "igdb": "kirby-s-adventure",
+   "metacritic": "kirbys-adventure",
    "mobygames": "8146"
   },
   "label_en": "Kirby's Adventure",
@@ -38,6 +41,7 @@
   "enwiki": "Jak and Daxter: The Lost Frontier",
   "ids": {
    "igdb": "jak-and-daxter-the-lost-frontier",
+   "metacritic": "jak-and-daxter-the-lost-frontier",
    "mobygames": "43912"
   },
   "label_en": "Jak and Daxter: The Lost Frontier",
@@ -47,6 +51,7 @@
   "enwiki": "Test Drive: Eve of Destruction",
   "ids": {
    "igdb": "test-drive-eve-of-destruction",
+   "metacritic": "test-drive-eve-of-destruction",
    "mobygames": "14579"
   },
   "label_en": "Test Drive: Eve of Destruction",
@@ -69,6 +74,7 @@
   "ids": {
    "howlongtobeat": "10522",
    "igdb": "top-spin-3",
+   "metacritic": "top-spin-3",
    "mobygames": "35119"
   },
   "label_en": "Top Spin 3",
@@ -95,6 +101,7 @@
   "enwiki": "True Swing Golf",
   "ids": {
    "igdb": "true-swing-golf",
+   "metacritic": "true-swing-golf",
    "mobygames": "21488"
   },
   "label_en": "True Swing Golf",
@@ -111,7 +118,8 @@
   "enwiki": "Yu-Gi-Oh! Dungeon Dice Monsters",
   "ids": {
    "howlongtobeat": "11508",
-   "igdb": "yu-gi-oh-dungeon-dice-monsters"
+   "igdb": "yu-gi-oh-dungeon-dice-monsters",
+   "metacritic": "yu-gi-oh-dungeon-dice-monsters"
   },
   "label_en": "Yu-Gi-Oh! Dungeon Dice Monsters",
   "wikidata": "Q3573059"
@@ -121,6 +129,7 @@
   "ids": {
    "howlongtobeat": "7112",
    "igdb": "platypus",
+   "metacritic": "platypus",
    "mobygames": "13586",
    "pcgamingwiki": "Platypus",
    "steam": "307340"
@@ -133,6 +142,7 @@
   "ids": {
    "howlongtobeat": "45414",
    "igdb": "birthday-party-bash",
+   "metacritic": "birthday-party-bash",
    "mobygames": "86031"
   },
   "label_en": "Birthday Party Bash",
@@ -232,6 +242,7 @@
    "gog": "game/ash_of_gods",
    "howlongtobeat": "54772",
    "igdb": "ash-of-gods-redemption",
+   "metacritic": "ash-of-gods-redemption",
    "mobygames": "99727",
    "pcgamingwiki": "Ash_of_Gods:_Redemption",
    "steam": "691690"
@@ -244,6 +255,7 @@
   "ids": {
    "howlongtobeat": "50092",
    "igdb": "loot-rascals",
+   "metacritic": "loot-rascals",
    "mobygames": "84946",
    "pcgamingwiki": "Loot_Rascals",
    "steam": "443880"
@@ -282,6 +294,7 @@
   "ids": {
    "howlongtobeat": "45733",
    "igdb": "gaben-kingdom",
+   "metacritic": "gaben-kingdom",
    "mobygames": "100211",
    "pcgamingwiki": "Gaben_Kingdom",
    "steam": "593340"
@@ -295,6 +308,7 @@
    "gog": "game/the_dungeon_of_naheulbeuk_the_amulet_of_chaos",
    "howlongtobeat": "83359",
    "igdb": "the-dungeon-of-naheulbeuk-the-amulet-of-chaos",
+   "metacritic": "le-donjon-de-naheulbeuk-lamulette-du-desordre",
    "mobygames": "150599",
    "pcgamingwiki": "The_Dungeon_of_Naheulbeuk:_The_Amulet_of_Chaos",
    "steam": "970830"
@@ -306,6 +320,7 @@
   "ids": {
    "howlongtobeat": "21736",
    "igdb": "do-not-fall",
+   "metacritic": "do-not-fall",
    "pcgamingwiki": "Do_Not_Fall",
    "steam": "333130"
   },
@@ -389,6 +404,7 @@
    "epic": "tchia",
    "howlongtobeat": "85999",
    "igdb": "tchia--1",
+   "metacritic": "tchia",
    "mobygames": "201089",
    "pcgamingwiki": "Tchia",
    "steam": "1496590"
@@ -421,6 +437,7 @@
    "gog": "game/pharaoh_a_new_era",
    "howlongtobeat": "100053",
    "igdb": "pharaoh-a-new-era",
+   "metacritic": "pharaoh-a-new-era",
    "mobygames": "199619",
    "pcgamingwiki": "Pharaoh:_A_New_Era",
    "steam": "1351080"
@@ -449,6 +466,7 @@
    "epic": "rytmos-bf191b",
    "howlongtobeat": "125198",
    "igdb": "rytmos",
+   "metacritic": "rytmos",
    "mobygames": "199907",
    "steam": "1634220"
   },
@@ -805,6 +823,7 @@
   "ids": {
    "howlongtobeat": "129830",
    "igdb": "motogp-23",
+   "metacritic": "motogp-23",
    "pcgamingwiki": "MotoGP_23",
    "steam": "2100160"
   },

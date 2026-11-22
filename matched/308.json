@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "4251",
    "igdb": "half-life-2-episode-two",
+   "metacritic": "half-life-2-episode-two",
    "mobygames": "30617",
    "pcgamingwiki": "Half-Life_2:_Episode_Two",
    "steam": "420"
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "9137",
    "igdb": "star-wars-the-old-republic",
+   "metacritic": "star-wars-the-old-republic",
    "mobygames": "54477",
    "pcgamingwiki": "Star_Wars:_The_Old_Republic",
    "steam": "1286830"
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "1972",
    "igdb": "crash-bandicoot-warped",
+   "metacritic": "crash-bandicoot-3-warped",
    "mobygames": "4357"
   },
   "label_en": "Crash Bandicoot: Warped",
@@ -56,6 +59,7 @@
    "epic": "neighbours-back-from-hell",
    "howlongtobeat": "6489",
    "igdb": "neighbours-from-hell--1",
+   "metacritic": "neighbors-from-hell",
    "mobygames": "9536",
    "pcgamingwiki": "Neighbours_from_Hell"
   },
@@ -85,6 +89,7 @@
   "ids": {
    "howlongtobeat": "10881",
    "igdb": "valkyrie-profile-2-silmeria",
+   "metacritic": "valkyrie-profile-2-silmeria",
    "mobygames": "24282"
   },
   "label_en": "Valkyrie Profile 2: Silmeria",
@@ -113,6 +118,7 @@
   "ids": {
    "howlongtobeat": "5500",
    "igdb": "madden-nfl-12",
+   "metacritic": "madden-nfl-12",
    "mobygames": "59863"
   },
   "label_en": "Madden NFL 12",
@@ -133,6 +139,7 @@
   "ids": {
    "howlongtobeat": "18741",
    "igdb": "hard-to-be-a-god",
+   "metacritic": "hard-to-be-a-god",
    "mobygames": "33609",
    "pcgamingwiki": "Hard_to_Be_a_God",
    "steam": "391030"
@@ -175,7 +182,8 @@
  {
   "enwiki": "Bomberman Land (PSP video game)",
   "ids": {
-   "igdb": "bomberman-land--2"
+   "igdb": "bomberman-land--2",
+   "metacritic": "bomberman-land-portable"
   },
   "label_en": "Bomberman Land",
   "wikidata": "Q16259308"
@@ -190,6 +198,7 @@
    "gog": "game/yakuza_0",
    "howlongtobeat": "43056",
    "igdb": "yakuza-0",
+   "metacritic": "yakuza-0",
    "mobygames": "83460",
    "pcgamingwiki": "Yakuza_0",
    "steam": "638970"
@@ -208,6 +217,7 @@
   "ids": {
    "howlongtobeat": "37413",
    "igdb": "trulon-the-shadow-engine",
+   "metacritic": "trulon-the-shadow-engine",
    "mobygames": "82507",
    "pcgamingwiki": "Trulon:_The_Shadow_Engine",
    "steam": "433840"
@@ -219,6 +229,7 @@
   "ids": {
    "howlongtobeat": "36170",
    "igdb": "rencounter",
+   "metacritic": "rencounter",
    "mobygames": "86598",
    "pcgamingwiki": "Rencounter",
    "steam": "431810"
@@ -230,6 +241,7 @@
   "enwiki": "Persona Q2: New Cinema Labyrinth",
   "ids": {
    "igdb": "persona-q2-new-cinema-labyrinth",
+   "metacritic": "persona-q2-new-cinema-labyrinth",
    "mobygames": "130134"
   },
   "label_en": "Persona Q2: New Cinema Labyrinth",
@@ -247,6 +259,7 @@
   "ids": {
    "howlongtobeat": "40086",
    "igdb": "diaries-of-a-spaceport-janitor",
+   "metacritic": "diaries-of-a-spaceport-janitor",
    "mobygames": "91264",
    "pcgamingwiki": "Diaries_of_a_Spaceport_Janitor",
    "steam": "436500"
@@ -258,6 +271,7 @@
   "ids": {
    "howlongtobeat": "138561",
    "igdb": "noisz",
+   "metacritic": "noisz",
    "mobygames": "108120",
    "pcgamingwiki": "NOISZ",
    "steam": "681530"
@@ -269,6 +283,7 @@
   "ids": {
    "howlongtobeat": "36426",
    "igdb": "stikbold-a-dodgeball-adventure",
+   "metacritic": "stikbold-a-dodgeball-adventure",
    "mobygames": "78079",
    "pcgamingwiki": "Stikbold!_A_Dodgeball_Adventure",
    "steam": "429330"
@@ -348,6 +363,7 @@
    "epic": "infection-free-zone-f9c219",
    "howlongtobeat": "137739",
    "igdb": "infection-free-zone",
+   "metacritic": "infection-free-zone",
    "mobygames": "190717",
    "pcgamingwiki": "Infection_Free_Zone",
    "steam": "1465460"
@@ -388,6 +404,7 @@
   "ids": {
    "howlongtobeat": "90099",
    "igdb": "red-wings-aces-of-the-sky",
+   "metacritic": "red-wings-aces-of-the-sky",
    "mobygames": "145815",
    "pcgamingwiki": "Red_Wings:_Aces_of_the_Sky",
    "steam": "1140630"
@@ -439,6 +456,7 @@
   "ids": {
    "howlongtobeat": "128171",
    "igdb": "double-dragon-gaiden-rise-of-the-dragons",
+   "metacritic": "double-dragon-gaiden-rise-of-the-dragons",
    "mobygames": "206482",
    "pcgamingwiki": "Double_Dragon_Gaiden:_Rise_of_the_Dragons",
    "steam": "1967260"

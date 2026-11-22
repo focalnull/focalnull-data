@@ -3,6 +3,7 @@
   "enwiki": "James Bond 007: Nightfire",
   "ids": {
    "igdb": "james-bond-007-nightfire",
+   "metacritic": "james-bond-007-nightfire",
    "mobygames": "7804",
    "pcgamingwiki": "James_Bond_007:_Nightfire"
   },
@@ -38,6 +39,7 @@
   "enwiki": "Frogger: Helmet Chaos",
   "ids": {
    "igdb": "frogger-helmet-chaos",
+   "metacritic": "frogger-helmet-chaos",
    "mobygames": "36959"
   },
   "label_en": "Frogger: Helmet Chaos",
@@ -66,6 +68,7 @@
   "ids": {
    "howlongtobeat": "84552",
    "igdb": "icarly-2-ijoin-the-click",
+   "metacritic": "icarly-2-ijoin-the-click",
    "mobygames": "51177"
   },
   "label_en": "ICarly 2: iJoin the Click!",
@@ -102,6 +105,7 @@
   "ids": {
    "howlongtobeat": "5437",
    "igdb": "lunar-2-eternal-blue-complete",
+   "metacritic": "lunar-2-eternal-blue-complete",
    "mobygames": "3939"
   },
   "label_en": "Lunar 2: Eternal Blue Complete",
@@ -113,6 +117,7 @@
    "gog": "game/army_men_ii",
    "howlongtobeat": "610",
    "igdb": "army-men-ii",
+   "metacritic": "army-men-ii",
    "mobygames": "2488",
    "pcgamingwiki": "Army_Men_II",
    "steam": "549170"
@@ -230,6 +235,7 @@
   "enwiki": "Dynasty Tactics 2",
   "ids": {
    "igdb": "dynasty-tactics-2",
+   "metacritic": "dynasty-tactics-2",
    "mobygames": "11654"
   },
   "label_en": "Dynasty Tactics 2",
@@ -252,6 +258,7 @@
    "gog": "game/8bit_armies",
    "howlongtobeat": "36861",
    "igdb": "8-bit-armies",
+   "metacritic": "8-bit-armies",
    "mobygames": "79108",
    "pcgamingwiki": "8-Bit_Armies",
    "steam": "427250"
@@ -261,7 +268,8 @@
  },
  {
   "ids": {
-   "igdb": "battle-champs"
+   "igdb": "battle-champs",
+   "metacritic": "battle-champs"
   },
   "label_en": "Battle Champs",
   "wikidata": "Q24869188"
@@ -305,6 +313,7 @@
   "ids": {
    "howlongtobeat": "60283",
    "igdb": "nepenthe",
+   "metacritic": "nepenthe",
    "mobygames": "112293",
    "pcgamingwiki": "Nepenthe",
    "steam": "789570"
@@ -327,6 +336,7 @@
   "ids": {
    "howlongtobeat": "27862",
    "igdb": "kung-fury-street-rage",
+   "metacritic": "kung-fury-street-rage",
    "mobygames": "82431",
    "pcgamingwiki": "Kung_Fury:_Street_Rage",
    "steam": "373180"
@@ -348,6 +358,7 @@
   "ids": {
    "epic": "wrc-9",
    "igdb": "wrc-9",
+   "metacritic": "wrc-9-fia-world-rally-championship",
    "mobygames": "150269",
    "pcgamingwiki": "WRC_9:_FIA_World_Rally_Championship"
   },
@@ -356,7 +367,8 @@
  },
  {
   "ids": {
-   "igdb": "gravity-rush-remastered"
+   "igdb": "gravity-rush-remastered",
+   "metacritic": "gravity-rush-remastered"
   },
   "label_en": "Gravity Rush Remastered",
   "wikidata": "Q107424188"
@@ -382,6 +394,7 @@
  {
   "ids": {
    "igdb": "lost-empire-immortals",
+   "metacritic": "lost-empire-immortals",
    "mobygames": "33348"
   },
   "label_en": "Lost Empire: Immortals",
@@ -466,6 +479,7 @@
   "ids": {
    "howlongtobeat": "102201",
    "igdb": "palworld",
+   "metacritic": "palworld",
    "mobygames": "215998",
    "pcgamingwiki": "Palworld",
    "steam": "1623730"
@@ -774,6 +788,7 @@
  },
  {
   "ids": {
+   "metacritic": "the-adventures-of-kincaid",
    "steam": "1277880"
   },
   "label_en": "The Adventures of Kincaid",
@@ -1168,6 +1183,7 @@
  {
   "ids": {
    "igdb": "log-jammers--1",
+   "pcgamingwiki": "Log_Jammers",
    "steam": "684800"
   },
   "label_en": "Log Jammers",

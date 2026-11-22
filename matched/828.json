@@ -54,6 +54,7 @@
   "enwiki": "Jade Cocoon 2",
   "ids": {
    "igdb": "jade-cocoon-2",
+   "metacritic": "jade-cocoon-2",
    "mobygames": "6369"
   },
   "label_en": "Jade Cocoon 2",
@@ -105,6 +106,7 @@
   "ids": {
    "howlongtobeat": "6121",
    "igdb": "mobile-suit-gundam-zeonic-front",
+   "metacritic": "mobile-suit-gundam-zeonic-front",
    "mobygames": "13307"
   },
   "label_en": "Mobile Suit Gundam: Zeonic Front",
@@ -174,6 +176,7 @@
   "ids": {
    "howlongtobeat": "13500",
    "igdb": "7-days-to-die",
+   "metacritic": "7-days-to-die",
    "mobygames": "89048",
    "pcgamingwiki": "7_Days_to_Die",
    "steam": "251570"
@@ -196,6 +199,7 @@
    "gog": "game/race_the_sun",
    "howlongtobeat": "15942",
    "igdb": "race-the-sun",
+   "metacritic": "race-the-sun",
    "mobygames": "65637",
    "pcgamingwiki": "Race_the_Sun",
    "steam": "253030"
@@ -220,6 +224,7 @@
   "ids": {
    "howlongtobeat": "28975",
    "igdb": "five-nights-at-freddys-4",
+   "metacritic": "five-nights-at-freddys-4",
    "mobygames": "73927",
    "pcgamingwiki": "Five_Nights_at_Freddy's_4",
    "steam": "388090"
@@ -238,6 +243,7 @@
    "gog": "game/slime_rancher",
    "howlongtobeat": "33740",
    "igdb": "slime-rancher",
+   "metacritic": "slime-rancher",
    "mobygames": "82061",
    "pcgamingwiki": "Slime_Rancher",
    "steam": "433340"
@@ -249,6 +255,7 @@
   "ids": {
    "howlongtobeat": "36857",
    "igdb": "hover-junkers",
+   "metacritic": "hover-junkers",
    "mobygames": "96701",
    "pcgamingwiki": "Hover_Junkers",
    "steam": "380220"
@@ -285,6 +292,9 @@
   "wikidata": "Q65679828"
  },
  {
+  "ids": {
+   "metacritic": "burn-it-all-journey-to-the-sun"
+  },
   "label_en": "Burn It All: Journey to the Sun",
   "wikidata": "Q86252828"
  },
@@ -293,6 +303,7 @@
   "ids": {
    "howlongtobeat": "64839",
    "igdb": "farming-simulator-18",
+   "metacritic": "farming-simulator-18",
    "mobygames": "89984"
   },
   "label_en": "Farming Simulator 18",
@@ -302,6 +313,7 @@
   "ids": {
    "howlongtobeat": "31436",
    "igdb": "penarium",
+   "metacritic": "penarium",
    "mobygames": "80250",
    "pcgamingwiki": "Penarium",
    "steam": "307590"
@@ -314,7 +326,9 @@
   "ids": {
    "howlongtobeat": "96998",
    "igdb": "nuclear-blaze",
+   "metacritic": "nuclear-blaze",
    "mobygames": "173972",
+   "pcgamingwiki": "Nuclear_Blaze",
    "steam": "1662480"
   },
   "label_en": "Nuclear Blaze",
@@ -324,6 +338,7 @@
   "enwiki": "The Tales of Bearsworth Manor: Puzzling Pages",
   "ids": {
    "igdb": "the-tales-of-bearsworth-manor-puzzling-pages",
+   "metacritic": "the-tales-of-bearsworth-manor-puzzling-pages",
    "mobygames": "93672"
   },
   "label_en": "The Tales of Bearsworth Manor: Puzzling Pages",
@@ -425,6 +440,7 @@
   "ids": {
    "howlongtobeat": "36379",
    "igdb": "mutant-mudds-super-challenge",
+   "metacritic": "mutant-mudds-super-challenge",
    "pcgamingwiki": "Mutant_Mudds_Super_Challenge",
    "steam": "473720"
   },
@@ -883,6 +899,7 @@
  {
   "ids": {
    "igdb": "midtown-crazy-race",
+   "metacritic": "midtown-crazy-race",
    "mobygames": "99530"
   },
   "label_en": "Midtown Crazy Race",

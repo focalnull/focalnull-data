@@ -3,6 +3,7 @@
   "enwiki": "Battlefield Heroes",
   "ids": {
    "igdb": "battlefield-heroes",
+   "metacritic": "battlefield-heroes",
    "mobygames": "41374",
    "pcgamingwiki": "Battlefield_Heroes"
   },
@@ -15,6 +16,7 @@
    "epic": "from-dust",
    "howlongtobeat": "3721",
    "igdb": "from-dust",
+   "metacritic": "from-dust",
    "mobygames": "53038",
    "pcgamingwiki": "From_Dust",
    "steam": "33460"
@@ -27,6 +29,7 @@
   "ids": {
    "howlongtobeat": "1964",
    "igdb": "crackdown",
+   "metacritic": "crackdown",
    "mobygames": "26725"
   },
   "label_en": "Crackdown",
@@ -82,6 +85,7 @@
    "gog": "game/warrior_kings_battles",
    "howlongtobeat": "18591",
    "igdb": "warrior-kings-battles",
+   "metacritic": "warrior-kings-battles",
    "mobygames": "14229",
    "pcgamingwiki": "Warrior_Kings:_Battles",
    "steam": "299070"
@@ -121,6 +125,7 @@
   "ids": {
    "howlongtobeat": "3096",
    "igdb": "emerald-city-confidential",
+   "metacritic": "emerald-city-confidential",
    "mobygames": "39414",
    "pcgamingwiki": "Emerald_City_Confidential",
    "steam": "37260"
@@ -144,6 +149,7 @@
   "ids": {
    "howlongtobeat": "7974",
    "igdb": "romance-of-the-three-kingdoms-viii-with-power-up-kit",
+   "metacritic": "romance-of-the-three-kingdoms-viii",
    "mobygames": "9326",
    "pcgamingwiki": "Romance_of_the_Three_Kingdoms_VIII",
    "steam": "628040"
@@ -155,6 +161,7 @@
   "enwiki": "The Clique: Diss and Make Up",
   "ids": {
    "igdb": "the-clique-diss-and-make-up",
+   "metacritic": "the-clique-diss-and-make-up",
    "mobygames": "143570"
   },
   "label_en": "The Clique: Diss and Make-Up",
@@ -179,6 +186,7 @@
    "gog": "game/shantae_halfgenie_hero_ultimate_edition",
    "howlongtobeat": "14198",
    "igdb": "shantae-half-genie-hero",
+   "metacritic": "shantae-half-genie-hero",
    "mobygames": "82063",
    "pcgamingwiki": "Shantae:_Half-Genie_Hero",
    "steam": "253840"
@@ -205,6 +213,7 @@
   "ids": {
    "howlongtobeat": "17650",
    "igdb": "bardbarian",
+   "metacritic": "bardbarian",
    "mobygames": "65103",
    "pcgamingwiki": "Bardbarian",
    "steam": "269490"
@@ -233,6 +242,7 @@
   "ids": {
    "howlongtobeat": "30325",
    "igdb": "nova-111",
+   "metacritic": "nova-111",
    "mobygames": "81688",
    "pcgamingwiki": "Nova-111",
    "steam": "325370"
@@ -257,6 +267,7 @@
   "ids": {
    "howlongtobeat": "57415",
    "igdb": "sekiro-shadows-die-twice",
+   "metacritic": "sekiro-shadows-die-twice",
    "mobygames": "113492",
    "pcgamingwiki": "Sekiro:_Shadows_Die_Twice",
    "steam": "814380"
@@ -283,6 +294,7 @@
   "enwiki": "Meteos Wars",
   "ids": {
    "igdb": "meteos-wars",
+   "metacritic": "meteos-wars",
    "mobygames": "64671"
   },
   "label_en": "Meteos Wars",
@@ -335,6 +347,7 @@
   "ids": {
    "howlongtobeat": "98932",
    "igdb": "dusk-diver-2",
+   "metacritic": "dusk-diver-2",
    "mobygames": "196647",
    "steam": "1792600"
   },
@@ -517,6 +530,7 @@
    "epic": "romancelvania-47d94a",
    "howlongtobeat": "109032",
    "igdb": "romancelvania",
+   "metacritic": "romancelvania",
    "mobygames": "200209",
    "steam": "1192810"
   },
@@ -747,7 +761,8 @@
   "enwiki": "Monster Menu: The Scavenger's Cookbook",
   "ids": {
    "howlongtobeat": "128547",
-   "igdb": "monster-menu-the-scavengers-cookbook"
+   "igdb": "monster-menu-the-scavengers-cookbook",
+   "metacritic": "monster-menu-the-scavengers-cookbook"
   },
   "label_en": "Monster Menu: The Scavenger's Cookbook",
   "wikidata": "Q124606424"
@@ -1075,6 +1090,7 @@
  {
   "ids": {
    "igdb": "homeless--1",
+   "pcgamingwiki": "Homeless",
    "steam": "3018910"
   },
   "label_en": "Homeless",

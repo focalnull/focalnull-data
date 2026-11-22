@@ -14,6 +14,7 @@
   "enwiki": "Kingdom Hearts: Chain of Memories",
   "ids": {
    "igdb": "kingdom-hearts-chain-of-memories",
+   "metacritic": "kingdom-hearts-chain-of-memories",
    "mobygames": "15798"
   },
   "label_en": "Kingdom Hearts: Chain of Memories",
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "10042",
    "igdb": "the-legend-of-zelda-skyward-sword",
+   "metacritic": "the-legend-of-zelda-skyward-sword",
    "mobygames": "53708"
   },
   "label_en": "The Legend of Zelda: Skyward Sword",
@@ -42,6 +44,7 @@
   "ids": {
    "howlongtobeat": "6913",
    "igdb": "paperboy",
+   "metacritic": "paperboy",
    "mobygames": "4577"
   },
   "label_en": "Paperboy",
@@ -54,6 +57,7 @@
    "gog": "game/stubbs_the_zombie_in_rebel_without_a_pulse",
    "howlongtobeat": "9284",
    "igdb": "stubbs-the-zombie-in-rebel-without-a-pulse",
+   "metacritic": "stubbs-the-zombie-in-rebel-without-a-pulse",
    "mobygames": "19756",
    "pcgamingwiki": "Stubbs_the_Zombie_in_Rebel_Without_a_Pulse",
    "steam": "7800"
@@ -79,6 +83,7 @@
   "ids": {
    "howlongtobeat": "25125",
    "igdb": "animorphs-shattered-reality",
+   "metacritic": "animorphs-shattered-reality",
    "mobygames": "14278"
   },
   "label_en": "Animorphs: Shattered Reality",
@@ -105,6 +110,7 @@
   "ids": {
    "howlongtobeat": "14066",
    "igdb": "s-dot-l-a-dot-i-steel-lancer-arena-international",
+   "metacritic": "s-l-a-i-steel-lancer-arena-international",
    "mobygames": "30938"
   },
   "label_en": "S.L.A.I.: Steel Lancer Arena International",
@@ -180,6 +186,7 @@
    "gog": "game/finding_paradise",
    "howlongtobeat": "43941",
    "igdb": "finding-paradise",
+   "metacritic": "finding-paradise",
    "mobygames": "99493",
    "pcgamingwiki": "Finding_Paradise",
    "steam": "337340"
@@ -201,6 +208,7 @@
   "ids": {
    "howlongtobeat": "40497",
    "igdb": "100ft-robot-golf",
+   "metacritic": "100ft-robot-golf",
    "mobygames": "82743",
    "pcgamingwiki": "100ft_Robot_Golf",
    "steam": "368000"
@@ -213,6 +221,7 @@
   "ids": {
    "howlongtobeat": "53721",
    "igdb": "gravel",
+   "metacritic": "gravel",
    "mobygames": "103368",
    "pcgamingwiki": "Gravel",
    "steam": "558260"
@@ -253,6 +262,7 @@
   "ids": {
    "howlongtobeat": "56151",
    "igdb": "life-of-black-tiger",
+   "metacritic": "life-of-black-tiger",
    "mobygames": "87584"
   },
   "label_en": "Life of Black Tiger",
@@ -292,6 +302,7 @@
   "ids": {
    "howlongtobeat": "94886",
    "igdb": "super-monkey-ball-banana-mania",
+   "metacritic": "super-monkey-ball-banana-mania",
    "mobygames": "173163",
    "pcgamingwiki": "Super_Monkey_Ball:_Banana_Mania",
    "steam": "1316910"
@@ -303,6 +314,7 @@
   "ids": {
    "howlongtobeat": "75995",
    "igdb": "rover-mechanic-simulator",
+   "metacritic": "rover-mechanic-simulator",
    "mobygames": "142055",
    "pcgamingwiki": "Rover_Mechanic_Simulator",
    "steam": "864680"
@@ -1182,6 +1194,7 @@
   "ids": {
    "igdb": "gaias-melody-echoed-melodies",
    "mobygames": "109322",
+   "pcgamingwiki": "Gaia's_Melody:_Echoed_Melodies",
    "steam": "725410"
   },
   "label_en": "𝄞Gaia's Melody: ECHOED MELODIES",

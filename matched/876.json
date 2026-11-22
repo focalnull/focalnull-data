@@ -6,6 +6,7 @@
    "gog": "game/tomb_raider_goty",
    "howlongtobeat": "10469",
    "igdb": "tomb-raider--2",
+   "metacritic": "tomb-raider",
    "mobygames": "60034",
    "pcgamingwiki": "Tomb_Raider_(2013)",
    "steam": "203160"
@@ -30,6 +31,7 @@
   "ids": {
    "howlongtobeat": "2107",
    "igdb": "cursed-mountain",
+   "metacritic": "cursed-mountain",
    "mobygames": "45099",
    "pcgamingwiki": "Cursed_Mountain"
   },
@@ -62,6 +64,7 @@
   "ids": {
    "howlongtobeat": "5143",
    "igdb": "kya-dark-lineage",
+   "metacritic": "kya-dark-lineage",
    "mobygames": "18776"
   },
   "label_en": "Kya: Dark Lineage",
@@ -80,6 +83,7 @@
   "enwiki": "Deal or No Deal (video game)",
   "ids": {
    "igdb": "deal-or-no-deal",
+   "metacritic": "deal-or-no-deal",
    "mobygames": "50237",
    "pcgamingwiki": "Deal_or_No_Deal"
   },
@@ -91,6 +95,7 @@
   "ids": {
    "howlongtobeat": "951",
    "igdb": "battleship",
+   "metacritic": "battleship-2012",
    "mobygames": "69588"
   },
   "label_en": "Battleship",
@@ -200,6 +205,7 @@
   "ids": {
    "howlongtobeat": "20447",
    "igdb": "madagascar-operation-penguin",
+   "metacritic": "madagascar-operation-penguin",
    "mobygames": "35287"
   },
   "label_en": "Madagascar: Operation Penguin",
@@ -257,6 +263,7 @@
    "gog": "game/trine_3_the_artifacts_of_power",
    "howlongtobeat": "29029",
    "igdb": "trine-3-the-artifacts-of-power",
+   "metacritic": "trine-3-the-artifacts-of-power",
    "mobygames": "72238",
    "pcgamingwiki": "Trine_3:_The_Artifacts_of_Power",
    "steam": "319910"
@@ -269,6 +276,7 @@
   "ids": {
    "howlongtobeat": "2405",
    "igdb": "defender",
+   "metacritic": "defender",
    "mobygames": "7776"
   },
   "label_en": "Defender",
@@ -285,6 +293,7 @@
   "enwiki": "Pokémon FireRed",
   "ids": {
    "igdb": "pokemon-firered-version",
+   "metacritic": "pokemon-firered-version",
    "mobygames": "15034"
   },
   "label_en": "Pokémon FireRed",
@@ -295,6 +304,7 @@
   "ids": {
    "howlongtobeat": "49961",
    "igdb": "wwe-2k18",
+   "metacritic": "wwe-2k18",
    "mobygames": "97195",
    "pcgamingwiki": "WWE_2K18",
    "steam": "664430"
@@ -307,6 +317,7 @@
   "ids": {
    "howlongtobeat": "61589",
    "igdb": "parkasaurus",
+   "metacritic": "parkasaurus",
    "mobygames": "132892",
    "pcgamingwiki": "Parkasaurus",
    "steam": "591460"
@@ -338,6 +349,7 @@
    "gog": "game/machiavillain",
    "howlongtobeat": "60591",
    "igdb": "machiavillain",
+   "metacritic": "machiavillain",
    "mobygames": "108864",
    "pcgamingwiki": "MachiaVillain",
    "steam": "555510"
@@ -359,6 +371,7 @@
   "ids": {
    "howlongtobeat": "53264",
    "igdb": "a-case-of-distrust",
+   "metacritic": "a-case-of-distrust",
    "mobygames": "112961",
    "pcgamingwiki": "A_Case_of_Distrust",
    "steam": "717610"
@@ -372,6 +385,7 @@
    "gog": "game/ixion",
    "howlongtobeat": "94917",
    "igdb": "ixion--1",
+   "metacritic": "ixion",
    "mobygames": "196132",
    "pcgamingwiki": "IXION",
    "steam": "1113120"
@@ -411,6 +425,7 @@
  {
   "ids": {
    "igdb": "ball-twist",
+   "metacritic": "ball-twist",
    "mobygames": "189385",
    "steam": "1623220"
   },
@@ -490,6 +505,7 @@
    "howlongtobeat": "126708",
    "igdb": "beton-brutal",
    "mobygames": "201371",
+   "pcgamingwiki": "Beton_Brutal",
    "steam": "2330500"
   },
   "label_en": "BETON BRUTAL",
@@ -650,6 +666,7 @@
   "ids": {
    "howlongtobeat": "128123",
    "igdb": "minabo-a-walk-through-life",
+   "metacritic": "minabo-a-walk-through-life",
    "mobygames": "202404",
    "steam": "1822560"
   },
@@ -798,6 +815,7 @@
   "ids": {
    "howlongtobeat": "138425",
    "igdb": "i-expect-you-to-die-3",
+   "metacritic": "i-expect-you-to-die-3-cog-in-the-machine",
    "mobygames": "209528",
    "steam": "2296380"
   },
@@ -956,6 +974,7 @@
   "ids": {
    "howlongtobeat": "159824",
    "igdb": "lost-but-found",
+   "metacritic": "lost-but-found",
    "steam": "3204250"
   },
   "label_en": "Lost But Found",

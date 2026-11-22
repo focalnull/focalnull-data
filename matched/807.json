@@ -5,6 +5,7 @@
    "gog": "game/advent_rising",
    "howlongtobeat": "210",
    "igdb": "advent-rising",
+   "metacritic": "advent-rising",
    "mobygames": "18822",
    "pcgamingwiki": "Advent_Rising",
    "steam": "3800"
@@ -18,6 +19,7 @@
    "gog": "game/icewind_dale_2",
    "howlongtobeat": "4597",
    "igdb": "icewind-dale-ii",
+   "metacritic": "icewind-dale-ii",
    "mobygames": "7583",
    "pcgamingwiki": "Icewind_Dale_II"
   },
@@ -71,6 +73,7 @@
   "ids": {
    "howlongtobeat": "10501",
    "igdb": "tony-hawk-s-proving-ground",
+   "metacritic": "tony-hawks-proving-ground",
    "mobygames": "34521"
   },
   "label_en": "Tony Hawk's Proving Ground",
@@ -89,6 +92,7 @@
   "enwiki": "Pet Alien: An Intergalactic Puzzlepalooza",
   "ids": {
    "igdb": "pet-alien-an-intergalactic-puzzlepalooza",
+   "metacritic": "pet-alien-an-intergalactic-puzzlepalooza",
    "mobygames": "89641"
   },
   "label_en": "Pet Alien: An Intergalactic Puzzlepalooza",
@@ -98,6 +102,7 @@
   "enwiki": "Shrek Super Party",
   "ids": {
    "igdb": "shrek-super-party",
+   "metacritic": "shrek-super-party",
    "mobygames": "9346"
   },
   "label_en": "Shrek Super Party",
@@ -107,6 +112,7 @@
   "ids": {
    "howlongtobeat": "115",
    "igdb": "9th-company-roots-of-terror",
+   "metacritic": "9th-company-roots-of-terror",
    "mobygames": "61151",
    "pcgamingwiki": "9th_Company:_Roots_of_Terror",
    "steam": "12480"
@@ -140,6 +146,7 @@
  },
  {
   "ids": {
+   "metacritic": "the-sims",
    "mobygames": "141390"
   },
   "label_en": "The Sims",
@@ -194,6 +201,7 @@
   "ids": {
    "howlongtobeat": "57582",
    "igdb": "zone-of-the-enders-the-2nd-runner-mars",
+   "metacritic": "zone-of-the-enders-the-2nd-runner-mars",
    "mobygames": "110261",
    "pcgamingwiki": "Zone_of_the_Enders:_The_2nd_Runner_MARS",
    "steam": "650510"
@@ -374,6 +382,7 @@
   "ids": {
    "igdb": "lovely-crush",
    "mobygames": "225115",
+   "pcgamingwiki": "Lovely_Crush",
    "steam": "2248580"
   },
   "label_en": "Lovely Crush",
@@ -657,6 +666,7 @@
    "gog": "game/brothers_a_tale_of_two_sons_remake",
    "howlongtobeat": "141832",
    "igdb": "brothers-a-tale-of-two-sons-remake",
+   "metacritic": "brothers-a-tale-of-two-sons-remake",
    "mobygames": "218490",
    "pcgamingwiki": "Brothers:_A_Tale_of_Two_Sons_Remake",
    "steam": "2153350"
@@ -1126,6 +1136,7 @@
   "enwiki": "Minecraft: Nintendo Switch Edition",
   "ids": {
    "igdb": "minecraft-nintendo-switch-edition",
+   "metacritic": "minecraft-nintendo-switch-edition",
    "mobygames": "88471"
   },
   "label_en": "Minecraft: Nintendo Switch Edition",

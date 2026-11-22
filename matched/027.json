@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "10746",
    "igdb": "uefa-euro-2008",
+   "metacritic": "uefa-euro-2008",
    "mobygames": "33856",
    "pcgamingwiki": "UEFA_Euro_2008"
   },
@@ -64,6 +65,7 @@
   "ids": {
    "howlongtobeat": "4342",
    "igdb": "harvest-moon-the-tale-of-two-towns",
+   "metacritic": "harvest-moon-the-tale-of-two-towns",
    "mobygames": "84953"
   },
   "label_en": "Harvest Moon: The Tale of Two Towns",
@@ -73,6 +75,7 @@
   "enwiki": "Samurai Warriors 2",
   "ids": {
    "igdb": "samurai-warriors-2",
+   "metacritic": "samurai-warriors-2",
    "mobygames": "42588",
    "pcgamingwiki": "Samurai_Warriors_2"
   },
@@ -135,6 +138,7 @@
   "enwiki": "Mace Griffin: Bounty Hunter",
   "ids": {
    "igdb": "mace-griffin-bounty-hunter",
+   "metacritic": "mace-griffin-bounty-hunter",
    "mobygames": "21728",
    "pcgamingwiki": "Mace_Griffin:_Bounty_Hunter"
   },
@@ -213,6 +217,7 @@
   "ids": {
    "howlongtobeat": "21518",
    "igdb": "pure-pool",
+   "metacritic": "pure-pool",
    "mobygames": "86737",
    "pcgamingwiki": "Pure_Pool",
    "steam": "300610"
@@ -255,7 +260,8 @@
  {
   "enwiki": "Golfinity",
   "ids": {
-   "igdb": "golfinity"
+   "igdb": "golfinity",
+   "metacritic": "golfinity-an-endless-free-golf-game"
   },
   "label_en": "Golfinity",
   "wikidata": "Q29831027"
@@ -285,6 +291,7 @@
   "enwiki": "Langrisser Mobile",
   "ids": {
    "igdb": "langrisser-mobile",
+   "metacritic": "langrisser-mobile",
    "mobygames": "121025"
   },
   "label_en": "Langrisser Mobile",
@@ -315,6 +322,7 @@
   "ids": {
    "howlongtobeat": "98479",
    "igdb": "dungeon-encounters",
+   "metacritic": "dungeon-encounters",
    "mobygames": "173654",
    "pcgamingwiki": "Dungeon_Encounters",
    "steam": "1451080"
@@ -358,6 +366,7 @@
    "gog": "game/the_alters",
    "howlongtobeat": "109255",
    "igdb": "the-alters",
+   "metacritic": "the-alters",
    "pcgamingwiki": "The_Alters",
    "steam": "1601570"
   },
@@ -613,6 +622,7 @@
   "enwiki": "Manic Mechanics",
   "ids": {
    "igdb": "manic-mechanics",
+   "metacritic": "manic-mechanics",
    "mobygames": "205600",
    "steam": "2569820"
   },
@@ -780,6 +790,7 @@
   "ids": {
    "howlongtobeat": "155975",
    "igdb": "pico-park-2",
+   "metacritic": "pico-park-2",
    "mobygames": "242549",
    "pcgamingwiki": "Pico_Park_2",
    "steam": "2644470"

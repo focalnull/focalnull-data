@@ -17,6 +17,7 @@
   "ids": {
    "howlongtobeat": "10507",
    "igdb": "too-human",
+   "metacritic": "too-human",
    "mobygames": "36330"
   },
   "label_en": "Too Human",
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "4123",
    "igdb": "grim-fandango",
+   "metacritic": "grim-fandango",
    "mobygames": "201",
    "pcgamingwiki": "Grim_Fandango"
   },
@@ -98,6 +100,7 @@
   "enwiki": "Shining Tears",
   "ids": {
    "igdb": "shining-tears",
+   "metacritic": "shining-tears",
    "mobygames": "18561"
   },
   "label_en": "Shining Tears",
@@ -107,6 +110,7 @@
   "enwiki": "Shadow Hearts: From the New World",
   "ids": {
    "igdb": "shadow-hearts-from-the-new-world",
+   "metacritic": "shadow-hearts-from-the-new-world",
    "mobygames": "19258"
   },
   "label_en": "Shadow Hearts: From the New World",
@@ -118,6 +122,7 @@
    "gog": "game/alpha_mission_2",
    "howlongtobeat": "399",
    "igdb": "alpha-mission-ii",
+   "metacritic": "aca-neogeo-alpha-mission-ii",
    "mobygames": "53734",
    "pcgamingwiki": "Alpha_Mission_II"
   },
@@ -129,6 +134,7 @@
   "ids": {
    "howlongtobeat": "4812",
    "igdb": "jamestown-legend-of-the-lost-colony",
+   "metacritic": "jamestown-legend-of-the-lost-colony",
    "mobygames": "52673",
    "pcgamingwiki": "Jamestown:_Legend_of_the_Lost_Colony",
    "steam": "94200"
@@ -184,6 +190,7 @@
   "enwiki": "Snowboard Riot",
   "ids": {
    "igdb": "snowboard-riot",
+   "metacritic": "snowboard-riot",
    "mobygames": "92882"
   },
   "label_en": "Snowboard Riot",
@@ -202,6 +209,7 @@
   "ids": {
    "howlongtobeat": "10335",
    "igdb": "tiger-woods-pga-tour-14",
+   "metacritic": "tiger-woods-pga-tour-14",
    "mobygames": "93358"
   },
   "label_en": "Tiger Woods PGA Tour 14",
@@ -221,6 +229,7 @@
   "ids": {
    "howlongtobeat": "20843",
    "igdb": "mighty-gunvolt",
+   "metacritic": "mighty-gunvolt",
    "mobygames": "97592",
    "pcgamingwiki": "Mighty_Gunvolt",
    "steam": "394600"
@@ -234,6 +243,7 @@
    "epic": "total-war-warhammer-ii",
    "howlongtobeat": "47252",
    "igdb": "total-war-warhammer-ii",
+   "metacritic": "total-war-warhammer-ii",
    "mobygames": "96560",
    "pcgamingwiki": "Total_War:_Warhammer_II",
    "steam": "594570"
@@ -272,6 +282,7 @@
    "epic": "paranoia",
    "howlongtobeat": "62996",
    "igdb": "paranoia-happiness-is-mandatory",
+   "metacritic": "paranoia-happiness-is-mandatory",
    "mobygames": "139939",
    "pcgamingwiki": "Paranoia:_Happiness_is_Mandatory",
    "steam": "858030"
@@ -284,6 +295,7 @@
    "gog": "game/alders_blood",
    "howlongtobeat": "76568",
    "igdb": "alders-blood",
+   "metacritic": "alders-blood",
    "mobygames": "143424",
    "pcgamingwiki": "Alder's_Blood",
    "steam": "820020"
@@ -296,6 +308,7 @@
   "ids": {
    "howlongtobeat": "69319",
    "igdb": "disintegration",
+   "metacritic": "disintegration",
    "mobygames": "146884",
    "pcgamingwiki": "Disintegration",
    "steam": "536280"
@@ -338,6 +351,7 @@
    "gog": "game/golem",
    "howlongtobeat": "56715",
    "igdb": "golem--1",
+   "metacritic": "golem-2018",
    "mobygames": "109696",
    "pcgamingwiki": "Golem",
    "steam": "646010"
@@ -354,6 +368,7 @@
  },
  {
   "ids": {
+   "metacritic": "monster-truck-madness",
    "mobygames": "15162"
   },
   "label_en": "Monster Truck Madness",
@@ -403,6 +418,7 @@
   "ids": {
    "howlongtobeat": "135404",
    "igdb": "mewgenics",
+   "metacritic": "mewgenics",
    "mobygames": "252481",
    "pcgamingwiki": "Mewgenics",
    "steam": "686060"
@@ -425,6 +441,7 @@
    "gog": "game/neva",
    "howlongtobeat": "129246",
    "igdb": "neva",
+   "metacritic": "neva",
    "mobygames": "232022",
    "pcgamingwiki": "Neva",
    "steam": "2420660"
@@ -436,6 +453,7 @@
   "ids": {
    "howlongtobeat": "83652",
    "igdb": "rbi-baseball-20",
+   "metacritic": "rbi-baseball-20",
    "mobygames": "143517",
    "pcgamingwiki": "R.B.I._Baseball_20",
    "steam": "821350"
@@ -625,7 +643,8 @@
  },
  {
   "ids": {
-   "igdb": "rodem-the-wild"
+   "igdb": "rodem-the-wild",
+   "metacritic": "rodem-the-wild"
   },
   "label_en": "Rodem the Wild",
   "wikidata": "Q122792507"
@@ -805,6 +824,7 @@
  {
   "ids": {
    "igdb": "star-racer",
+   "metacritic": "star-racer",
    "mobygames": "219836",
    "steam": "2626120"
   },
@@ -901,6 +921,7 @@
   "enwiki": "Heroes of Science and Fiction",
   "ids": {
    "gog": "game/heroes_of_science_and_fiction",
+   "howlongtobeat": "188179",
    "igdb": "heroes-of-science-and-fiction",
    "mobygames": "236884",
    "pcgamingwiki": "Heroes_of_Science_and_Fiction",
@@ -1178,6 +1199,7 @@
   "ids": {
    "howlongtobeat": "172958",
    "igdb": "denshattack",
+   "metacritic": "denshattack",
    "pcgamingwiki": "Denshattack!",
    "steam": "2524850"
   },

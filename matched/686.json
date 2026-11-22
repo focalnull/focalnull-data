@@ -3,6 +3,7 @@
   "enwiki": "Lock On: Modern Air Combat",
   "ids": {
    "igdb": "lock-on-modern-air-combat",
+   "metacritic": "lock-on-modern-air-combat",
    "mobygames": "11732",
    "pcgamingwiki": "Lock_On:_Modern_Air_Combat"
   },
@@ -15,6 +16,7 @@
    "gog": "game/ground_control_expansion",
    "howlongtobeat": "28177",
    "igdb": "ground-control-anthology",
+   "metacritic": "ground-control",
    "mobygames": "1714",
    "pcgamingwiki": "Ground_Control",
    "steam": "254820"
@@ -42,6 +44,7 @@
   "enwiki": "Bug Too!",
   "ids": {
    "igdb": "bug-too",
+   "metacritic": "bug-too",
    "mobygames": "1713",
    "pcgamingwiki": "Bug_Too!"
   },
@@ -60,6 +63,7 @@
   "enwiki": "Monster Lab",
   "ids": {
    "igdb": "monster-lab",
+   "metacritic": "monster-lab",
    "mobygames": "87381"
   },
   "label_en": "Monster Lab",
@@ -88,6 +92,7 @@
   "ids": {
    "howlongtobeat": "334",
    "igdb": "alex-rider-stormbreaker",
+   "metacritic": "alex-rider-stormbreaker",
    "mobygames": "43980"
   },
   "label_en": "Alex Rider: Stormbreaker",
@@ -117,6 +122,7 @@
   "ids": {
    "howlongtobeat": "3117",
    "igdb": "endless-space",
+   "metacritic": "endless-space",
    "mobygames": "56834",
    "pcgamingwiki": "Endless_Space",
    "steam": "208140"
@@ -128,6 +134,7 @@
   "enwiki": "Eternal Poison",
   "ids": {
    "igdb": "eternal-poison",
+   "metacritic": "eternal-poison",
    "mobygames": "56602"
   },
   "label_en": "Eternal Poison",
@@ -157,6 +164,7 @@
    "gog": "game/star_control_3",
    "howlongtobeat": "9032",
    "igdb": "star-control-3",
+   "metacritic": "star-control-3",
    "mobygames": "125",
    "pcgamingwiki": "Star_Control_3",
    "steam": "358930"
@@ -169,6 +177,7 @@
   "ids": {
    "howlongtobeat": "5223",
    "igdb": "the-legend-of-alon-dar",
+   "metacritic": "the-legend-of-alon-dar",
    "mobygames": "40809"
   },
   "label_en": "The Legend of Alon D'ar",
@@ -225,6 +234,7 @@
    "epic": "trials-fusion",
    "howlongtobeat": "17507",
    "igdb": "trials-fusion",
+   "metacritic": "trials-fusion",
    "mobygames": "69144",
    "pcgamingwiki": "Trials_Fusion",
    "steam": "245490"
@@ -237,6 +247,7 @@
   "ids": {
    "howlongtobeat": "22470",
    "igdb": "disney-infinity-2-dot-0",
+   "metacritic": "disney-infinity-20-edition-marvel-super-heroes",
    "mobygames": "73613",
    "pcgamingwiki": "Disney_Infinity_2.0",
    "steam": "321860"
@@ -249,6 +260,7 @@
   "ids": {
    "howlongtobeat": "14353",
    "igdb": "pac-man-and-the-ghostly-adventures",
+   "metacritic": "pac-man-and-the-ghostly-adventures",
    "mobygames": "74232",
    "pcgamingwiki": "Pac-Man_and_the_Ghostly_Adventures",
    "steam": "239720"
@@ -276,7 +288,8 @@
  },
  {
   "ids": {
-   "igdb": "top-drives"
+   "igdb": "top-drives",
+   "metacritic": "top-drives"
   },
   "label_en": "Top Drives",
   "wikidata": "Q52800686"
@@ -364,6 +377,7 @@
   "ids": {
    "howlongtobeat": "59384",
    "igdb": "trivia-vault-boxing-trivia",
+   "metacritic": "trivia-vault-boxing-trivia",
    "pcgamingwiki": "Trivia_Vault:_Boxing_Trivia",
    "steam": "821520"
   },
@@ -374,6 +388,7 @@
   "ids": {
    "howlongtobeat": "74303",
    "igdb": "super-crush-ko--1",
+   "metacritic": "super-crush-ko",
    "mobygames": "138425",
    "pcgamingwiki": "Super_Crush_KO",
    "steam": "907670"
@@ -647,6 +662,7 @@
   "enwiki": "The Walking Dead: Destinies",
   "ids": {
    "igdb": "the-walking-dead-destinies",
+   "metacritic": "the-walking-dead-destinies",
    "pcgamingwiki": "The_Walking_Dead:_Destinies",
    "steam": "2192790"
   },
@@ -659,6 +675,7 @@
    "gog": "game/the_fabulous_fear_machine",
    "howlongtobeat": "136505",
    "igdb": "the-fabulous-fear-machine",
+   "metacritic": "the-fabulous-fear-machine",
    "mobygames": "209789",
    "pcgamingwiki": "The_Fabulous_Fear_Machine",
    "steam": "1540350"

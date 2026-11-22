@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1946",
    "igdb": "cossacks-european-wars",
+   "metacritic": "cossacks-european-wars",
    "mobygames": "4937",
    "pcgamingwiki": "Cossacks:_European_Wars",
    "steam": "4880"
@@ -27,6 +28,7 @@
   "enwiki": "Donald Duck: Goin' Quackers",
   "ids": {
    "igdb": "disneys-donald-duck-goin-quackers--2",
+   "metacritic": "disneys-donald-duck-goin-quackers",
    "mobygames": "4457",
    "pcgamingwiki": "Donald_Duck:_Goin'_Quackers"
   },
@@ -38,6 +40,7 @@
   "ids": {
    "howlongtobeat": "947",
    "igdb": "battleforge",
+   "metacritic": "battleforge",
    "mobygames": "39934",
    "pcgamingwiki": "BattleForge",
    "steam": "24760"
@@ -63,6 +66,7 @@
   "enwiki": "Indiana Jones and the Staff of Kings",
   "ids": {
    "igdb": "indiana-jones-and-the-staff-of-kings",
+   "metacritic": "indiana-jones-and-the-staff-of-kings",
    "mobygames": "41152"
   },
   "label_en": "Indiana Jones and the Staff of Kings",
@@ -73,6 +77,7 @@
   "ids": {
    "howlongtobeat": "30687",
    "igdb": "stalin-vs-martians",
+   "metacritic": "stalin-vs-martians",
    "mobygames": "40522",
    "pcgamingwiki": "Stalin_vs._Martians",
    "steam": "25870"
@@ -111,6 +116,7 @@
   "ids": {
    "howlongtobeat": "718",
    "igdb": "atv-offroad-fury-3",
+   "metacritic": "atv-offroad-fury-3",
    "mobygames": "37938"
   },
   "label_en": "ATV Offroad Fury 3",
@@ -130,6 +136,7 @@
   "enwiki": "NHL 2005",
   "ids": {
    "igdb": "nhl-2005",
+   "metacritic": "nhl-2005",
    "mobygames": "14880"
   },
   "label_en": "NHL 2005",
@@ -150,6 +157,7 @@
   "ids": {
    "howlongtobeat": "4698",
    "igdb": "insanely-twisted-shadow-planet",
+   "metacritic": "insanely-twisted-shadow-planet",
    "mobygames": "52703",
    "pcgamingwiki": "Insanely_Twisted_Shadow_Planet",
    "steam": "205730"
@@ -161,6 +169,7 @@
   "enwiki": "Y2K: The Game",
   "ids": {
    "igdb": "y2k-the-game",
+   "metacritic": "y2k-the-game",
    "mobygames": "2243",
    "pcgamingwiki": "Y2K:_The_Game"
   },
@@ -212,6 +221,7 @@
   "ids": {
    "howlongtobeat": "33441",
    "igdb": "disney-princess-enchanted-journey",
+   "metacritic": "disney-princess-enchanted-journey",
    "mobygames": "45349",
    "pcgamingwiki": "Disney_Princess:_Enchanted_Journey",
    "steam": "322130"
@@ -267,6 +277,7 @@
   "ids": {
    "howlongtobeat": "25865",
    "igdb": "lakeview-cabin-collection",
+   "metacritic": "lakeview-cabin-collection",
    "mobygames": "85412",
    "pcgamingwiki": "Lakeview_Cabin_Collection",
    "steam": "361990"
@@ -298,6 +309,7 @@
   "ids": {
    "howlongtobeat": "32146",
    "igdb": "the-deed",
+   "metacritic": "the-deed",
    "mobygames": "76243",
    "pcgamingwiki": "The_Deed",
    "steam": "420740"
@@ -316,6 +328,7 @@
   "ids": {
    "howlongtobeat": "53241",
    "igdb": "purrfect-date",
+   "metacritic": "purrfect-date",
    "mobygames": "100813",
    "pcgamingwiki": "Purrfect_Date",
    "steam": "520600"
@@ -348,6 +361,7 @@
  {
   "ids": {
    "igdb": "twin-breaker-a-sacred-symbols-adventure",
+   "metacritic": "twin-breaker-a-sacred-symbols-adventure",
    "mobygames": "143712",
    "steam": "1373080"
   },
@@ -357,7 +371,8 @@
  {
   "enwiki": "Root Film",
   "ids": {
-   "igdb": "root-film"
+   "igdb": "root-film",
+   "metacritic": "root-film"
   },
   "label_en": "Root Film",
   "wikidata": "Q105956418"
@@ -444,6 +459,7 @@
   "ids": {
    "howlongtobeat": "63014",
    "igdb": "downward-spiral-horus-station",
+   "metacritic": "downward-spiral-horus-station",
    "mobygames": "109638",
    "pcgamingwiki": "Downward_Spiral:_Horus_Station",
    "steam": "690620"
@@ -1155,6 +1171,7 @@
   "ids": {
    "epic": "chrono-909256",
    "igdb": "chrono--1",
+   "pcgamingwiki": "Chrono_(2024)",
    "steam": "3015650"
   },
   "label_en": "Chrono",

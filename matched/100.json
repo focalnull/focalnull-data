@@ -40,6 +40,7 @@
   "ids": {
    "howlongtobeat": "53305",
    "igdb": "final-fantasy-xv",
+   "metacritic": "final-fantasy-xv",
    "mobygames": "82135",
    "pcgamingwiki": "Final_Fantasy_XV",
    "steam": "637650"
@@ -82,6 +83,7 @@
   "ids": {
    "howlongtobeat": "5662",
    "igdb": "mario-vs-donkey-kong-mini-land-mayhem",
+   "metacritic": "mario-vs-donkey-kong-mini-land-mayhem",
    "mobygames": "50856"
   },
   "label_en": "Mario vs. Donkey Kong: Mini-Land Mayhem!",
@@ -105,6 +107,7 @@
   "enwiki": "Samurai Shodown Sen",
   "ids": {
    "igdb": "samurai-shodown-sen",
+   "metacritic": "samurai-shodown-edge-of-destiny",
    "mobygames": "128827"
   },
   "label_en": "Samurai Shodown Sen",
@@ -125,6 +128,7 @@
   "ids": {
    "howlongtobeat": "8003",
    "igdb": "rugrats-in-paris-the-movie",
+   "metacritic": "rugrats-in-paris-the-movie",
    "mobygames": "36137",
    "pcgamingwiki": "Rugrats_in_Paris:_The_Movie"
   },
@@ -153,6 +157,7 @@
   "enwiki": "Untold Legends: Dark Kingdom",
   "ids": {
    "igdb": "untold-legends-dark-kingdom",
+   "metacritic": "untold-legends-dark-kingdom",
    "mobygames": "30117"
   },
   "label_en": "Untold Legends: Dark Kingdom",
@@ -171,6 +176,7 @@
   "ids": {
    "howlongtobeat": "31528",
    "igdb": "action-girlz-racing",
+   "metacritic": "action-girlz-racing",
    "mobygames": "73518",
    "pcgamingwiki": "Action_Girlz_Racing"
   },
@@ -190,6 +196,7 @@
   "ids": {
    "howlongtobeat": "2181",
    "igdb": "dance-dance-revolution-ultramix-2",
+   "metacritic": "dance-dance-revolution-ultramix-2",
    "mobygames": "17849"
   },
   "label_en": "Dance Dance Revolution Ultramix 2",
@@ -215,6 +222,7 @@
   "enwiki": "Samurai Jack: The Shadow of Aku",
   "ids": {
    "igdb": "samurai-jack-the-shadow-of-aku",
+   "metacritic": "samurai-jack-the-shadow-of-aku",
    "mobygames": "13260"
   },
   "label_en": "Samurai Jack: The Shadow of Aku",
@@ -305,6 +313,7 @@
   "ids": {
    "howlongtobeat": "36528",
    "igdb": "until-i-have-you",
+   "metacritic": "until-i-have-you",
    "mobygames": "129721",
    "pcgamingwiki": "Until_I_Have_You",
    "steam": "439310"
@@ -330,6 +339,7 @@
    "gog": "game/superliminal",
    "howlongtobeat": "68378",
    "igdb": "superliminal",
+   "metacritic": "superliminal",
    "mobygames": "137219",
    "pcgamingwiki": "Superliminal",
    "steam": "1049410"
@@ -343,6 +353,7 @@
    "epic": "tribes-of-midgard",
    "howlongtobeat": "93486",
    "igdb": "tribes-of-midgard",
+   "metacritic": "tribes-of-midgard",
    "mobygames": "168230",
    "pcgamingwiki": "Tribes_of_Midgard",
    "steam": "858820"
@@ -354,6 +365,7 @@
   "ids": {
    "howlongtobeat": "40248",
    "igdb": "copy-kitty",
+   "metacritic": "copy-kitty",
    "mobygames": "107945",
    "pcgamingwiki": "Copy_Kitty",
    "steam": "349250"
@@ -364,6 +376,7 @@
  {
   "ids": {
    "igdb": "daughter-of-shadows-an-scp-breach-event",
+   "metacritic": "daughter-of-shadows-an-scp-breach-event",
    "mobygames": "154227",
    "pcgamingwiki": "Daughter_of_Shadows:_An_SCP_Breach_Event",
    "steam": "449820"
@@ -714,6 +727,7 @@
   "ids": {
    "howlongtobeat": "51747",
    "igdb": "dreamworks-voltron-vr-chronicles",
+   "metacritic": "dreamworks-voltron-vr-chronicles",
    "pcgamingwiki": "DreamWorks_Voltron_VR_Chronicles",
    "steam": "696940"
   },
@@ -799,6 +813,7 @@
    "gog": "game/mullet_madjack",
    "howlongtobeat": "130043",
    "igdb": "mullet-madjack",
+   "metacritic": "mullet-madjack",
    "mobygames": "224086",
    "pcgamingwiki": "MULLET_MADJACK",
    "steam": "2111190"
@@ -861,6 +876,7 @@
   "ids": {
    "howlongtobeat": "156017",
    "igdb": "yu-gi-oh-early-days-collection",
+   "metacritic": "yu-gi-oh-early-days-collection",
    "pcgamingwiki": "Yu-Gi-Oh!_Early_Days_Collection",
    "steam": "3013550"
   },
@@ -1238,6 +1254,7 @@
  {
   "ids": {
    "igdb": "burnin-rubber-5-hd",
+   "pcgamingwiki": "Burnin'_Rubber_5_HD",
    "steam": "420660"
   },
   "label_en": "Burnin' Rubber 5 HD",

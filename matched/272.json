@@ -26,6 +26,7 @@
    "gog": "game/the_witcher_2",
    "howlongtobeat": "10268",
    "igdb": "the-witcher-2-assassins-of-kings",
+   "metacritic": "the-witcher-2-assassins-of-kings",
    "mobygames": "51611",
    "pcgamingwiki": "The_Witcher_2:_Assassins_of_Kings",
    "steam": "20920"
@@ -38,6 +39,7 @@
   "ids": {
    "howlongtobeat": "2176",
    "igdb": "dance-dance-revolution-mario-mix",
+   "metacritic": "dance-dance-revolution-mario-mix",
    "mobygames": "19838"
   },
   "label_en": "Dance Dance Revolution: Mario Mix",
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "2002",
    "igdb": "crazy-taxi",
+   "metacritic": "crazy-taxi",
    "mobygames": "3575",
    "pcgamingwiki": "Crazy_Taxi",
    "steam": "71230"
@@ -78,6 +81,7 @@
   "enwiki": "Suikoden Tierkreis",
   "ids": {
    "igdb": "suikoden-tierkreis",
+   "metacritic": "suikoden-tierkreis",
    "mobygames": "46366"
   },
   "label_en": "Suikoden Tierkreis",
@@ -88,6 +92,7 @@
   "ids": {
    "howlongtobeat": "8604",
    "igdb": "skies-of-arcadia",
+   "metacritic": "skies-of-arcadia",
    "mobygames": "4052"
   },
   "label_en": "Skies of Arcadia",
@@ -99,6 +104,7 @@
    "gog": "game/star_wars_rebellion",
    "howlongtobeat": "9118",
    "igdb": "star-wars-rebellion",
+   "metacritic": "star-wars-rebellion",
    "mobygames": "1144",
    "pcgamingwiki": "Star_Wars:_Rebellion",
    "steam": "441550"
@@ -113,6 +119,7 @@
    "gog": "game/samorost2",
    "howlongtobeat": "8122",
    "igdb": "samorost-2",
+   "metacritic": "samorost-2",
    "mobygames": "31457",
    "pcgamingwiki": "Samorost_2",
    "steam": "40720"
@@ -152,6 +159,7 @@
   "enwiki": "NCAA Football 2004",
   "ids": {
    "igdb": "ncaa-football-2004",
+   "metacritic": "ncaa-football-2004",
    "mobygames": "15623"
   },
   "label_en": "NCAA Football 2004",
@@ -161,6 +169,7 @@
   "ids": {
    "howlongtobeat": "7237",
    "igdb": "post-apocalyptic-mayhem",
+   "metacritic": "post-apocalyptic-mayhem",
    "mobygames": "53093",
    "pcgamingwiki": "Post_Apocalyptic_Mayhem",
    "steam": "91900"
@@ -182,6 +191,7 @@
   "ids": {
    "howlongtobeat": "1674",
    "igdb": "chicken-shoot",
+   "metacritic": "chicken-shoot",
    "mobygames": "41924",
    "pcgamingwiki": "Chicken_Shoot_Gold"
   },
@@ -235,6 +245,7 @@
   "enwiki": "Robocalypse",
   "ids": {
    "igdb": "robocalypse",
+   "metacritic": "robocalypse",
    "mobygames": "85506"
   },
   "label_en": "Robocalypse",
@@ -332,6 +343,7 @@
    "gog": "game/the_council",
    "howlongtobeat": "52117",
    "igdb": "the-council",
+   "metacritic": "the-council-episode-1-the-mad-ones",
    "mobygames": "105204",
    "pcgamingwiki": "The_Council",
    "steam": "287630"
@@ -344,6 +356,7 @@
   "ids": {
    "howlongtobeat": "61941",
    "igdb": "football-manager-2019",
+   "metacritic": "football-manager-2019",
    "mobygames": "116384",
    "pcgamingwiki": "Football_Manager_2019",
    "steam": "872790"
@@ -356,6 +369,7 @@
   "ids": {
    "howlongtobeat": "63660",
    "igdb": "new-super-mario-bros-u-deluxe",
+   "metacritic": "new-super-mario-bros-u-deluxe",
    "mobygames": "120355"
   },
   "label_en": "New Super Mario Bros. U Deluxe",
@@ -389,6 +403,7 @@
    "epic": "kaze-and-the-wild-masks-94a27d",
    "howlongtobeat": "81515",
    "igdb": "kaze-and-the-wild-masks",
+   "metacritic": "kaze-and-the-wild-masks",
    "mobygames": "160152",
    "pcgamingwiki": "Kaze_and_the_Wild_Masks",
    "steam": "829280"
@@ -1138,6 +1153,7 @@
  {
   "ids": {
    "igdb": "flying-high",
+   "pcgamingwiki": "Flying_High",
    "steam": "2909410"
   },
   "label_en": "Flying High",
@@ -1146,6 +1162,7 @@
  {
   "ids": {
    "igdb": "flip-out--2",
+   "pcgamingwiki": "Flip-Out!",
    "steam": "962310"
   },
   "label_en": "Flip-Out!",

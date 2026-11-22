@@ -33,6 +33,7 @@
    "gog": "game/oddworld_strangers_wrath",
    "howlongtobeat": "6703",
    "igdb": "oddworld-stranger-s-wrath",
+   "metacritic": "oddworld-strangers-wrath",
    "mobygames": "16376",
    "pcgamingwiki": "Oddworld:_Stranger's_Wrath",
    "steam": "15750"
@@ -44,6 +45,7 @@
   "enwiki": "Pokémon Channel",
   "ids": {
    "igdb": "pokemon-channel",
+   "metacritic": "pokemon-channel",
    "mobygames": "12914"
   },
   "label_en": "Pokémon Channel",
@@ -116,6 +118,7 @@
   "enwiki": "Robotech: Battlecry",
   "ids": {
    "igdb": "robotech-battlecry",
+   "metacritic": "robotech-battlecry",
    "mobygames": "7665"
   },
   "label_en": "Robotech: Battlecry",
@@ -125,6 +128,7 @@
   "enwiki": "Splashdown (video game)",
   "ids": {
    "igdb": "splashdown",
+   "metacritic": "splashdown",
    "mobygames": "8705"
   },
   "label_en": "Splashdown",
@@ -170,6 +174,7 @@
   "enwiki": "World of Warriors",
   "ids": {
    "igdb": "world-of-warriors",
+   "metacritic": "world-of-warriors",
    "mobygames": "92346"
   },
   "label_en": "World of Warriors",
@@ -195,7 +200,8 @@
  },
  {
   "ids": {
-   "igdb": "armored-warfare-assault"
+   "igdb": "armored-warfare-assault",
+   "metacritic": "armored-warfare-assault"
   },
   "label_en": "Armored Warfare: Assault",
   "wikidata": "Q56071398"
@@ -215,6 +221,7 @@
   "ids": {
    "howlongtobeat": "50081",
    "igdb": "high-hell",
+   "metacritic": "high-hell",
    "mobygames": "97492",
    "pcgamingwiki": "High_Hell",
    "steam": "673000"
@@ -234,6 +241,7 @@
   "ids": {
    "howlongtobeat": "46073",
    "igdb": "way-of-redemption",
+   "metacritic": "way-of-redemption",
    "mobygames": "98009",
    "pcgamingwiki": "Way_of_Redemption",
    "steam": "498740"
@@ -246,6 +254,7 @@
   "ids": {
    "howlongtobeat": "64253",
    "igdb": "space-invaders--1",
+   "metacritic": "space-invaders",
    "mobygames": "623"
   },
   "label_en": "Space Invaders",
@@ -266,6 +275,7 @@
   "ids": {
    "howlongtobeat": "89610",
    "igdb": "overcooked-all-you-can-eat",
+   "metacritic": "overcooked-all-you-can-eat",
    "mobygames": "153414",
    "pcgamingwiki": "Overcooked!_All_You_Can_Eat",
    "steam": "1243830"
@@ -933,6 +943,7 @@
   "ids": {
    "howlongtobeat": "129913",
    "igdb": "fretless-the-wrath-of-riffson--2",
+   "metacritic": "fretless-the-wrath-of-riffson",
    "mobygames": "245184",
    "pcgamingwiki": "Fretless_-_The_Wrath_of_Riffson",
    "steam": "2429050"

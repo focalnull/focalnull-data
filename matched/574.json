@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "3994",
    "igdb": "golden-axe",
+   "metacritic": "golden-axe",
    "mobygames": "199",
    "pcgamingwiki": "Golden_Axe",
    "steam": "34276"
@@ -25,6 +26,7 @@
   "enwiki": "Samurai Warriors",
   "ids": {
    "igdb": "samurai-warriors",
+   "metacritic": "samurai-warriors",
    "mobygames": "13303"
   },
   "label_en": "Samurai Warriors",
@@ -75,6 +77,7 @@
  {
   "ids": {
    "igdb": "metal-gear-solid-2-substance",
+   "metacritic": "metal-gear-solid-2-substance",
    "mobygames": "7715",
    "pcgamingwiki": "Metal_Gear_Solid_2:_Substance"
   },
@@ -129,6 +132,7 @@
   "ids": {
    "howlongtobeat": "12053",
    "igdb": "carmen-sandiego-the-secret-of-the-stolen-drums",
+   "metacritic": "carmen-sandiego-the-secret-of-the-stolen-drums",
    "mobygames": "51564"
   },
   "label_en": "Carmen Sandiego: The Secret of the Stolen Drums",
@@ -246,6 +250,7 @@
   "ids": {
    "howlongtobeat": "26289",
    "igdb": "hive-jump",
+   "metacritic": "hive-jump",
    "mobygames": "96585",
    "pcgamingwiki": "Hive_Jump",
    "steam": "295670"
@@ -263,6 +268,7 @@
  {
   "ids": {
    "igdb": "primrose",
+   "metacritic": "primrose",
    "mobygames": "47348"
   },
   "label_en": "Primrose",
@@ -284,6 +290,7 @@
   "ids": {
    "howlongtobeat": "68262",
    "igdb": "dragon-ball-z-kakarot",
+   "metacritic": "dragon-ball-z-kakarot",
    "mobygames": "140613",
    "pcgamingwiki": "Dragon_Ball_Z:_Kakarot",
    "steam": "851850"
@@ -296,6 +303,7 @@
   "ids": {
    "howlongtobeat": "72067",
    "igdb": "half-life-alyx",
+   "metacritic": "half-life-alyx",
    "mobygames": "143668",
    "pcgamingwiki": "Half-Life:_Alyx",
    "steam": "546560"
@@ -307,6 +315,7 @@
   "enwiki": "Lucinda Green's Equestrian Challenge",
   "ids": {
    "igdb": "lucinda-greens-equestrian-challenge",
+   "pcgamingwiki": "Lucinda_Green's_Equestrian_Challenge",
    "steam": "1644770"
   },
   "label_en": "Lucinda Green's Equestrian Challenge",
@@ -355,6 +364,7 @@
    "gog": "game/world_end_economica_episode02",
    "howlongtobeat": "28272",
    "igdb": "world-end-economica-episode-dot-02",
+   "metacritic": "world-end-economica-episode02",
    "mobygames": "96928",
    "pcgamingwiki": "World_End_Economica_Episode.02",
    "steam": "368160"
@@ -366,7 +376,9 @@
   "ids": {
    "howlongtobeat": "85849",
    "igdb": "leaf-blower-revolution-idle-game",
+   "metacritic": "leaf-blower-revolution-idle-game",
    "mobygames": "155101",
+   "pcgamingwiki": "Leaf_Blower_Revolution",
    "steam": "1468260"
   },
   "label_en": "Leaf Blower Revolution",
@@ -564,6 +576,7 @@
    "gog": "game/mediterranea_inferno",
    "howlongtobeat": "135333",
    "igdb": "mediterranea-inferno",
+   "metacritic": "mediterranea-inferno",
    "mobygames": "207703",
    "steam": "2103680"
   },
@@ -700,6 +713,7 @@
   "ids": {
    "howlongtobeat": "121295",
    "igdb": "foundry",
+   "metacritic": "foundry",
    "mobygames": "225967",
    "pcgamingwiki": "Foundry",
    "steam": "983870"
@@ -783,6 +797,7 @@
   "ids": {
    "howlongtobeat": "7091",
    "igdb": "plain-sight",
+   "metacritic": "plain-sight",
    "mobygames": "46395",
    "pcgamingwiki": "Plain_Sight",
    "steam": "49900"
@@ -804,6 +819,7 @@
    "epic": "magical-delicacy-37d38d",
    "howlongtobeat": "129632",
    "igdb": "magical-delicacy",
+   "metacritic": "magical-delicacy",
    "mobygames": "227945",
    "pcgamingwiki": "Magical_Delicacy",
    "steam": "2231190"
@@ -1180,6 +1196,7 @@
   "ids": {
    "howlongtobeat": "172466",
    "igdb": "kumarn-the-wandering-spirit",
+   "pcgamingwiki": "Kumarn:_The_Wandering_Spirit",
    "steam": "3888420"
   },
   "label_en": "Kumarn: The Wandering Spirit",

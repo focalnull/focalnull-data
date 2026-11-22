@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7494",
    "igdb": "r-type-final",
+   "metacritic": "r-type-final",
    "mobygames": "15759"
   },
   "label_en": "R-Type Final",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "8189",
    "igdb": "scratches",
+   "metacritic": "scratches",
    "mobygames": "21494",
    "pcgamingwiki": "Scratches",
    "steam": "46460"
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "11302",
    "igdb": "worms-2-armageddon",
+   "metacritic": "worms-2-armageddon",
    "mobygames": "46223"
   },
   "label_en": "Worms 2: Armageddon",
@@ -36,6 +39,7 @@
   "ids": {
    "howlongtobeat": "3307",
    "igdb": "f1-2012",
+   "metacritic": "f1-2012",
    "mobygames": "58267",
    "pcgamingwiki": "F1_2012",
    "steam": "208500"
@@ -56,6 +60,7 @@
   "enwiki": "Harvest Moon 64",
   "ids": {
    "igdb": "harvest-moon-64",
+   "metacritic": "harvest-moon-64",
    "mobygames": "4978"
   },
   "label_en": "Harvest Moon 64",
@@ -65,6 +70,7 @@
   "enwiki": "Tomba!",
   "ids": {
    "igdb": "tomba",
+   "metacritic": "tomba",
    "mobygames": "9214"
   },
   "label_en": "Tomba!",
@@ -143,6 +149,7 @@
   "enwiki": "NASCAR Thunder 2002",
   "ids": {
    "igdb": "nascar-thunder-2002",
+   "metacritic": "nascar-thunder-2002",
    "mobygames": "39987"
   },
   "label_en": "NASCAR Thunder 2002",
@@ -202,6 +209,7 @@
   "ids": {
    "howlongtobeat": "4469",
    "igdb": "hinterland",
+   "metacritic": "hinterland",
    "mobygames": "36899",
    "pcgamingwiki": "Hinterland",
    "steam": "17140"
@@ -240,6 +248,7 @@
    "epic": "the-talos-principle",
    "howlongtobeat": "22530",
    "igdb": "the-talos-principle",
+   "metacritic": "the-talos-principle",
    "mobygames": "70587",
    "pcgamingwiki": "The_Talos_Principle",
    "steam": "257510"
@@ -255,6 +264,7 @@
   "ids": {
    "howlongtobeat": "44389",
    "igdb": "danganronpa-v3-killing-harmony--1",
+   "metacritic": "danganronpa-v3-killing-harmony",
    "mobygames": "83895",
    "pcgamingwiki": "Danganronpa_V3:_Killing_Harmony",
    "steam": "567640"
@@ -290,6 +300,7 @@
   "ids": {
    "howlongtobeat": "86550",
    "igdb": "dandy-dungeon-legend-of-brave-yamada",
+   "metacritic": "dandy-dungeon-legend-of-brave-yamada",
    "mobygames": "88746",
    "pcgamingwiki": "Dandy_Dungeon_-_Legend_of_Brave_Yamada_-",
    "steam": "1138970"
@@ -301,6 +312,7 @@
   "ids": {
    "howlongtobeat": "34807",
    "igdb": "handball-16",
+   "metacritic": "handball-16",
    "mobygames": "84351",
    "pcgamingwiki": "Handball_16",
    "steam": "384320"
@@ -311,6 +323,7 @@
  {
   "ids": {
    "howlongtobeat": "18654",
+   "metacritic": "gene-troopers",
    "mobygames": "22614",
    "pcgamingwiki": "Gene_Troopers"
   },
@@ -338,6 +351,7 @@
   "ids": {
    "howlongtobeat": "49708",
    "igdb": "all-walls-must-fall",
+   "metacritic": "all-walls-must-fall",
    "mobygames": "94528",
    "pcgamingwiki": "All_Walls_Must_Fall",
    "steam": "628290"
@@ -362,6 +376,7 @@
    "epic": "fuga-melodies-of-steel",
    "howlongtobeat": "96313",
    "igdb": "fuga-melodies-of-steel",
+   "metacritic": "fuga-melodies-of-steel",
    "mobygames": "168138",
    "pcgamingwiki": "Fuga:_Melodies_of_Steel",
    "steam": "1357860"
@@ -407,6 +422,7 @@
   "ids": {
    "howlongtobeat": "30785",
    "igdb": "high-strangeness",
+   "metacritic": "high-strangeness",
    "mobygames": "93234",
    "pcgamingwiki": "High_Strangeness",
    "steam": "268340"
@@ -415,6 +431,9 @@
   "wikidata": "Q106584506"
  },
  {
+  "ids": {
+   "metacritic": "kandzume-otome-no-shuumatsu-sekai"
+  },
   "label_en": "Kanzume Shoujo no Shuumatsu Sekai",
   "wikidata": "Q109712506"
  },
@@ -457,6 +476,9 @@
   "wikidata": "Q114946506"
  },
  {
+  "ids": {
+   "metacritic": "georunner"
+  },
   "label_en": "Georunner",
   "wikidata": "Q115147506"
  },
@@ -479,6 +501,9 @@
  },
  {
   "enwiki": "Hackycat",
+  "ids": {
+   "metacritic": "hackycat"
+  },
   "label_en": "Hackycat",
   "wikidata": "Q116783506"
  },
@@ -810,6 +835,7 @@
  {
   "ids": {
    "igdb": "the-awaited-recollection",
+   "metacritic": "lost-and-found-the-awaited-recollection-",
    "steam": "2311320"
   },
   "label_en": "The Awaited ReCollection",
@@ -827,7 +853,8 @@
  },
  {
   "ids": {
-   "igdb": "aikatsu-stars-my-special-appeal"
+   "igdb": "aikatsu-stars-my-special-appeal",
+   "metacritic": "aikatsu-stars-my-special-appeal"
   },
   "label_en": "Aikatsu Stars! My Special Appeal",
   "wikidata": "Q125917506"
@@ -896,7 +923,8 @@
   "enwiki": "Marvel's Deadpool VR",
   "ids": {
    "howlongtobeat": "169302",
-   "igdb": "marvels-deadpool-vr"
+   "igdb": "marvels-deadpool-vr",
+   "metacritic": "marvels-deadpool-vr"
   },
   "label_en": "Deadpool VR",
   "wikidata": "Q134723506"

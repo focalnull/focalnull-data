@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "4533",
    "igdb": "hour-of-victory",
+   "metacritic": "hour-of-victory",
    "mobygames": "30132",
    "pcgamingwiki": "Hour_of_Victory"
   },
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "680",
    "igdb": "astro-boy-omega-factor",
+   "metacritic": "astro-boy-omega-factor",
    "mobygames": "17646"
   },
   "label_en": "Astro Boy: Omega Factor",
@@ -62,6 +64,7 @@
   "ids": {
    "howlongtobeat": "7280",
    "igdb": "primal-carnage",
+   "metacritic": "primal-carnage",
    "mobygames": "65254",
    "pcgamingwiki": "Primal_Carnage",
    "steam": "215470"
@@ -119,6 +122,7 @@
   "enwiki": "NCAA Football 09",
   "ids": {
    "igdb": "ncaa-football-09",
+   "metacritic": "ncaa-football-09",
    "mobygames": "35499"
   },
   "label_en": "NCAA Football 09",
@@ -140,6 +144,7 @@
   "ids": {
    "howlongtobeat": "13686",
    "igdb": "dungeon-fighter-live-fall-of-hendon-myre",
+   "metacritic": "dungeon-fighter-live-fall-of-hendon-myre",
    "mobygames": "157456"
   },
   "label_en": "Dungeon Fighter Live: Fall of Hendon Myre",
@@ -150,6 +155,7 @@
   "ids": {
    "howlongtobeat": "12352",
    "igdb": "knights-of-the-temple-ii",
+   "metacritic": "knights-of-the-temple-ii",
    "mobygames": "21235",
    "pcgamingwiki": "Knights_of_the_Temple_II"
   },
@@ -161,6 +167,7 @@
   "ids": {
    "howlongtobeat": "405",
    "igdb": "alter-echo",
+   "metacritic": "alter-echo",
    "mobygames": "13450"
   },
   "label_en": "Alter Echo",
@@ -171,6 +178,7 @@
   "ids": {
    "howlongtobeat": "2827",
    "igdb": "dragon-riders-chronicles-of-pern",
+   "metacritic": "dragon-riders-chronicles-of-pern",
    "mobygames": "4729",
    "pcgamingwiki": "Dragon_Riders:_Chronicles_of_Pern"
   },
@@ -192,6 +200,7 @@
   "ids": {
    "howlongtobeat": "4700",
    "igdb": "insecticide",
+   "metacritic": "insecticide",
    "mobygames": "36662",
    "pcgamingwiki": "Insecticide",
    "steam": "16710"
@@ -203,6 +212,7 @@
   "enwiki": "Max Steel: Covert Missions",
   "ids": {
    "igdb": "max-steel-covert-missions",
+   "metacritic": "max-steel",
    "mobygames": "6838"
   },
   "label_en": "Max Steel: Covert Missions",
@@ -238,6 +248,7 @@
   "ids": {
    "howlongtobeat": "8052",
    "igdb": "sacred-citadel",
+   "metacritic": "sacred-citadel",
    "mobygames": "60676",
    "pcgamingwiki": "Sacred_Citadel",
    "steam": "207930"
@@ -255,6 +266,7 @@
    "gog": "game/8bit_hordes",
    "howlongtobeat": "39315",
    "igdb": "8-bit-hordes",
+   "metacritic": "8-bit-hordes",
    "mobygames": "80186",
    "pcgamingwiki": "8-Bit_Hordes",
    "steam": "497850"
@@ -265,7 +277,8 @@
  {
   "enwiki": "Star Ocean: Anamnesis",
   "ids": {
-   "igdb": "star-ocean-anamnesis"
+   "igdb": "star-ocean-anamnesis",
+   "metacritic": "star-ocean-anamnesis"
   },
   "label_en": "Star Ocean: Anamnesis",
   "wikidata": "Q28687268"
@@ -322,6 +335,7 @@
   "ids": {
    "howlongtobeat": "85443",
    "igdb": "sex-with-stalin",
+   "metacritic": "sex-with-stalin",
    "mobygames": "153310",
    "pcgamingwiki": "Sex_with_Stalin",
    "steam": "1085750"
@@ -344,7 +358,8 @@
  {
   "enwiki": "Tsukihime: A Piece of Blue Glass Moon",
   "ids": {
-   "igdb": "tsukihime-a-piece-of-blue-glass-moon"
+   "igdb": "tsukihime-a-piece-of-blue-glass-moon",
+   "metacritic": "tsukihime-a-piece-of-blue-glass-moon"
   },
   "label_en": "Tsukihime: A piece of blue glass moon",
   "wikidata": "Q104627268"
@@ -438,6 +453,7 @@
    "gog": "game/lunistice",
    "howlongtobeat": "116105",
    "igdb": "lunistice--1",
+   "metacritic": "lunistice",
    "mobygames": "195128",
    "pcgamingwiki": "Lunistice",
    "steam": "1701800"
@@ -460,6 +476,7 @@
   "enwiki": "Mega Man Battle Network Legacy Collection",
   "ids": {
    "igdb": "mega-man-battle-network-legacy-collection",
+   "metacritic": "mega-man-battle-network-legacy-collection",
    "pcgamingwiki": "Mega_Man_Battle_Network_Legacy_Collection_Vol._1",
    "steam": "1798010"
   },
@@ -471,6 +488,7 @@
   "ids": {
    "howlongtobeat": "128523",
    "igdb": "mechabellum",
+   "metacritic": "mechabellum",
    "mobygames": "203084",
    "pcgamingwiki": "Mechabellum",
    "steam": "669330"
@@ -778,6 +796,7 @@
  {
   "ids": {
    "igdb": "quarters-please",
+   "metacritic": "quarters-please",
    "mobygames": "134196"
   },
   "label_en": "Quarters, Please!",
@@ -1161,6 +1180,7 @@
    "epic": "star-trek-voyager-across-the-unknown-9324d1",
    "howlongtobeat": "173000",
    "igdb": "star-trek-voyager-across-the-unknown",
+   "metacritic": "star-trek-voyager-across-the-unknown",
    "mobygames": "255392",
    "pcgamingwiki": "Star_Trek:_Voyager_-_Across_the_Unknown",
    "steam": "2643390"

@@ -15,6 +15,7 @@
    "gog": "game/codename_panzers_phase_two",
    "howlongtobeat": "1785",
    "igdb": "codename-panzers-phase-two",
+   "metacritic": "codename-panzers-phase-two",
    "mobygames": "20740",
    "pcgamingwiki": "Codename:_Panzers_-_Phase_Two",
    "steam": "411320"
@@ -26,6 +27,7 @@
   "enwiki": "Tales of Graces",
   "ids": {
    "igdb": "tales-of-graces",
+   "metacritic": "tales-of-graces",
    "mobygames": "63651"
   },
   "label_en": "Tales of Graces",
@@ -53,6 +55,7 @@
   "ids": {
    "howlongtobeat": "24123",
    "igdb": "democracy",
+   "metacritic": "democracy",
    "mobygames": "17501",
    "pcgamingwiki": "Democracy"
   },
@@ -273,6 +276,7 @@
   "ids": {
    "howlongtobeat": "58133",
    "igdb": "temtem",
+   "metacritic": "temtem",
    "mobygames": "141094",
    "pcgamingwiki": "Temtem",
    "steam": "745920"
@@ -284,6 +288,7 @@
   "ids": {
    "howlongtobeat": "30261",
    "igdb": "planet-of-the-eyes",
+   "metacritic": "planet-of-the-eyes",
    "mobygames": "95888",
    "pcgamingwiki": "Planet_of_the_Eyes",
    "steam": "350970"
@@ -308,6 +313,7 @@
    "gog": "game/redout_space_assault",
    "howlongtobeat": "67843",
    "igdb": "redout-space-assault",
+   "metacritic": "redout-space-assault",
    "mobygames": "135702",
    "pcgamingwiki": "Redout:_Space_Assault",
    "steam": "886060"
@@ -320,6 +326,7 @@
   "ids": {
    "howlongtobeat": "2662",
    "igdb": "dogfight-1942",
+   "metacritic": "dogfight-1942",
    "mobygames": "68110",
    "pcgamingwiki": "Dogfight_1942",
    "steam": "217790"
@@ -332,6 +339,7 @@
    "howlongtobeat": "98482",
    "igdb": "war-on-the-sea",
    "mobygames": "158384",
+   "pcgamingwiki": "War_on_the_Sea",
    "steam": "1280780"
   },
   "label_en": "War on the Sea",
@@ -351,6 +359,7 @@
   "ids": {
    "howlongtobeat": "34241",
    "igdb": "a-stroke-of-fate-operation-bunker",
+   "metacritic": "a-stroke-of-fate-operation-bunker",
    "mobygames": "89016",
    "pcgamingwiki": "A_Stroke_of_Fate:_Operation_Bunker",
    "steam": "372570"
@@ -399,6 +408,7 @@
    "gog": "game/gwent_rogue_mage",
    "howlongtobeat": "110180",
    "igdb": "gwent-rogue-mage",
+   "metacritic": "gwent-rogue-mage",
    "mobygames": "187865",
    "pcgamingwiki": "Gwent:_Rogue_Mage",
    "steam": "1711950"
@@ -429,6 +439,7 @@
   "ids": {
    "howlongtobeat": "102506",
    "igdb": "persephone",
+   "metacritic": "persephone",
    "mobygames": "153090",
    "pcgamingwiki": "Persephone",
    "steam": "1132180"
@@ -580,6 +591,7 @@
   "ids": {
    "howlongtobeat": "127357",
    "igdb": "beyond-the-long-night",
+   "metacritic": "beyond-the-long-night",
    "mobygames": "201946",
    "steam": "1730080"
   },
@@ -778,6 +790,7 @@
   "ids": {
    "howlongtobeat": "41928",
    "igdb": "toy-odyssey-the-lost-and-found",
+   "metacritic": "toy-odyssey-the-lost-and-found",
    "mobygames": "87600",
    "pcgamingwiki": "Toy_Odyssey:_The_Lost_and_Found",
    "steam": "392410"

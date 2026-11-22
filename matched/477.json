@@ -76,6 +76,7 @@
   "enwiki": "Scooby-Doo! Night of 100 Frights",
   "ids": {
    "igdb": "scooby-doo-night-of-100-frights",
+   "metacritic": "scooby-doo-night-of-100-frights",
    "mobygames": "7039"
   },
   "label_en": "Scooby-Doo! Night of 100 Frights",
@@ -85,6 +86,7 @@
   "enwiki": "Smash Court Tennis 3",
   "ids": {
    "igdb": "smash-court-tennis-3",
+   "metacritic": "smash-court-tennis-3",
    "mobygames": "39216"
   },
   "label_en": "Smash Court Tennis 3",
@@ -104,6 +106,7 @@
   "enwiki": "Dragon Ball: Origins 2",
   "ids": {
    "igdb": "dragon-ball-origins-2",
+   "metacritic": "dragon-ball-origins-2",
    "mobygames": "86497"
   },
   "label_en": "Dragon Ball: Origins 2",
@@ -256,6 +259,7 @@
   "ids": {
    "howlongtobeat": "12334",
    "igdb": "the-last-door",
+   "metacritic": "the-last-door",
    "mobygames": "82925",
    "pcgamingwiki": "The_Last_Door:_Collector's_Edition",
    "steam": "284390"
@@ -282,6 +286,7 @@
    "gog": "game/golf_with_your_friends",
    "howlongtobeat": "34956",
    "igdb": "golf-with-your-friends",
+   "metacritic": "golf-with-your-friends",
    "mobygames": "83165",
    "pcgamingwiki": "Golf_With_Your_Friends",
    "steam": "431240"
@@ -294,6 +299,7 @@
   "ids": {
    "howlongtobeat": "41242",
    "igdb": "small-radios-big-televisions",
+   "metacritic": "small-radios-big-televisions",
    "mobygames": "87365",
    "pcgamingwiki": "Small_Radios_Big_Televisions",
    "steam": "390040"
@@ -325,6 +331,7 @@
    "gog": "game/hardspace_shipbreaker",
    "howlongtobeat": "77865",
    "igdb": "hardspace-shipbreaker",
+   "metacritic": "hardspace-shipbreaker",
    "mobygames": "146886",
    "pcgamingwiki": "Hardspace:_Shipbreaker",
    "steam": "1161580"
@@ -339,6 +346,7 @@
    "gog": "game/the_riftbreaker",
    "howlongtobeat": "80159",
    "igdb": "the-riftbreaker",
+   "metacritic": "the-riftbreaker",
    "mobygames": "173603",
    "pcgamingwiki": "The_Riftbreaker",
    "steam": "780310"
@@ -349,6 +357,7 @@
  {
   "ids": {
    "igdb": "grand-theft-auto-vice-city-the-definitive-edition",
+   "metacritic": "grand-theft-auto-vice-city-the-definitive-edition",
    "mobygames": "174400",
    "pcgamingwiki": "Grand_Theft_Auto:_Vice_City_–_The_Definitive_Edition",
    "steam": "1546990"
@@ -485,6 +494,7 @@
    "howlongtobeat": "107720",
    "igdb": "a-guidebook-of-babel",
    "mobygames": "193714",
+   "pcgamingwiki": "A_Guidebook_of_Babel",
    "steam": "1467920"
   },
   "label_en": "A Guidebook of Babel",
@@ -776,6 +786,7 @@
   "ids": {
    "howlongtobeat": "47897",
    "igdb": "hand-of-the-gods",
+   "metacritic": "hand-of-the-gods-smite-tactics",
    "mobygames": "95919",
    "pcgamingwiki": "Hand_of_the_Gods",
    "steam": "648430"
@@ -867,6 +878,7 @@
   "ids": {
    "howlongtobeat": "137714",
    "igdb": "tryp-fpv",
+   "metacritic": "tryp-fpv-the-drone-racer-simulator",
    "steam": "1881200"
   },
   "label_en": "TRYP FPV : The Drone Racer Simulator",
@@ -1218,6 +1230,7 @@
  {
   "ids": {
    "igdb": "hentai-strawberry",
+   "pcgamingwiki": "Hentai_Strawberry",
    "steam": "1037420"
   },
   "label_en": "Hentai Strawberry",

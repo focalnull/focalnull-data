@@ -24,6 +24,7 @@
   "ids": {
    "howlongtobeat": "989",
    "igdb": "beautiful-katamari",
+   "metacritic": "beautiful-katamari",
    "mobygames": "30629"
   },
   "label_en": "Beautiful Katamari",
@@ -45,6 +46,7 @@
   "enwiki": "Army Men Advance",
   "ids": {
    "igdb": "army-men-advance",
+   "metacritic": "army-men-advance",
    "mobygames": "5311"
   },
   "label_en": "Army Men Advance",
@@ -56,6 +58,7 @@
    "gog": "game/x2_the_threat",
    "howlongtobeat": "11387",
    "igdb": "x2-the-threat",
+   "metacritic": "x2-the-threat",
    "mobygames": "11861",
    "pcgamingwiki": "X2:_The_Threat",
    "steam": "2800"
@@ -87,6 +90,7 @@
   "enwiki": "D/Generation",
   "ids": {
    "igdb": "d-slash-generation",
+   "metacritic": "dgeneration-hd",
    "mobygames": "1274",
    "pcgamingwiki": "D/Generation"
   },
@@ -97,6 +101,7 @@
   "enwiki": "Disgaea 2",
   "ids": {
    "igdb": "disgaea-2-cursed-memories",
+   "metacritic": "disgaea-2-cursed-memories",
    "mobygames": "28042"
   },
   "label_en": "Disgaea 2",
@@ -122,6 +127,7 @@
   "ids": {
    "howlongtobeat": "13105",
    "igdb": "namco-museum-64",
+   "metacritic": "namco-museum",
    "mobygames": "3738"
   },
   "label_en": "Namco Museum 64",
@@ -149,6 +155,7 @@
   "ids": {
    "howlongtobeat": "5306",
    "igdb": "line-rider-2-unbound",
+   "metacritic": "line-rider-2-unbound",
    "mobygames": "37725",
    "steam": "39710"
   },
@@ -209,6 +216,7 @@
    "gog": "game/gonner",
    "howlongtobeat": "40236",
    "igdb": "gonner",
+   "metacritic": "gonner",
    "mobygames": "82100",
    "pcgamingwiki": "Gonner",
    "steam": "437570"
@@ -221,6 +229,7 @@
   "ids": {
    "howlongtobeat": "44758",
    "igdb": "toukiden-2",
+   "metacritic": "toukiden-2",
    "mobygames": "85805",
    "pcgamingwiki": "Toukiden_2",
    "steam": "551730"
@@ -255,6 +264,7 @@
   "ids": {
    "howlongtobeat": "49612",
    "igdb": "super-hydorah",
+   "metacritic": "super-hydorah",
    "mobygames": "96153",
    "pcgamingwiki": "Super_Hydorah",
    "steam": "628800"
@@ -270,6 +280,7 @@
  {
   "ids": {
    "igdb": "trump-anthology-episode-1-a-link-to-the-past",
+   "metacritic": "trump-anthology-episode-1",
    "steam": "975210"
   },
   "label_en": "The Rise of American Fascism; A Tragicomedy in Three Acts",
@@ -280,6 +291,7 @@
    "gog": "game/tangledeep",
    "howlongtobeat": "48466",
    "igdb": "tangledeep--1",
+   "metacritic": "tangledeep",
    "mobygames": "102553",
    "pcgamingwiki": "Tangledeep",
    "steam": "628770"
@@ -308,6 +320,7 @@
   "ids": {
    "howlongtobeat": "71584",
    "igdb": "until-you-fall",
+   "metacritic": "until-you-fall",
    "mobygames": "134146",
    "pcgamingwiki": "Until_You_Fall",
    "steam": "858260"
@@ -712,6 +725,7 @@
   "enwiki": "Super Monkey Ball Banana Rumble",
   "ids": {
    "igdb": "super-monkey-ball-banana-rumble",
+   "metacritic": "super-monkey-ball-banana-rumble",
    "mobygames": "226808"
   },
   "label_en": "Super Monkey Ball: Banana Rumble",

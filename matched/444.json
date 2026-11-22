@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1269",
    "igdb": "boom-boom-rocket",
+   "metacritic": "boom-boom-rocket",
    "mobygames": "32253"
   },
   "label_en": "Boom Boom Rocket",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "944",
    "igdb": "battlefield-vietnam",
+   "metacritic": "battlefield-vietnam",
    "mobygames": "12397",
    "pcgamingwiki": "Battlefield_Vietnam"
   },
@@ -25,6 +27,7 @@
   "ids": {
    "howlongtobeat": "51898",
    "igdb": "428-shibuya-scramble",
+   "metacritic": "428-shibuya-scramble",
    "mobygames": "53717",
    "pcgamingwiki": "428:_Shibuya_Scramble",
    "steam": "648580"
@@ -36,6 +39,7 @@
   "enwiki": "Kingdom Hearts Coded",
   "ids": {
    "igdb": "kingdom-hearts-coded",
+   "metacritic": "kingdom-hearts-recoded",
    "mobygames": "50439"
   },
   "label_en": "Kingdom Hearts Coded",
@@ -62,6 +66,7 @@
   "enwiki": "Project I.G.I.",
   "ids": {
    "igdb": "project-i-dot-g-i-dot-im-going-in",
+   "metacritic": "project-igi-im-going-in",
    "mobygames": "3193",
    "pcgamingwiki": "Project_I.G.I.:_I'm_Going_In"
   },
@@ -82,6 +87,7 @@
   "enwiki": "GT Advance Championship Racing",
   "ids": {
    "igdb": "gt-advance-championship-racing",
+   "metacritic": "gt-advance-championship-racing",
    "mobygames": "6311"
   },
   "label_en": "GT Advance Championship Racing",
@@ -121,6 +127,9 @@
  },
  {
   "enwiki": "Infernal: Hell's Vengeance",
+  "ids": {
+   "metacritic": "infernal-hells-vengeance"
+  },
   "label_en": "Infernal: Hell's Vengeance",
   "wikidata": "Q6029444"
  },
@@ -155,6 +164,7 @@
   "ids": {
    "howlongtobeat": "6255",
    "igdb": "ms-splosion-man",
+   "metacritic": "ms-splosion-man",
    "mobygames": "65167",
    "pcgamingwiki": "Ms._Splosion_Man",
    "steam": "105420"
@@ -166,6 +176,7 @@
   "ids": {
    "howlongtobeat": "29160",
    "igdb": "country-justice-revenge-of-the-rednecks",
+   "metacritic": "country-justice-revenge-of-the-rednecks",
    "mobygames": "44387",
    "pcgamingwiki": "Country_Justice:_Revenge_of_the_Rednecks"
   },
@@ -197,6 +208,7 @@
    "gog": "game/door_kickers",
    "howlongtobeat": "22401",
    "igdb": "door-kickers",
+   "metacritic": "door-kickers",
    "mobygames": "70147",
    "pcgamingwiki": "Door_Kickers",
    "steam": "248610"
@@ -223,6 +235,7 @@
    "gog": "game/battle_chef_brigade",
    "howlongtobeat": "40696",
    "igdb": "battle-chef-brigade",
+   "metacritic": "battle-chef-brigade",
    "mobygames": "98250",
    "pcgamingwiki": "Battle_Chef_Brigade",
    "steam": "452570"
@@ -283,6 +296,7 @@
    "gog": "game/we_the_revolution",
    "howlongtobeat": "65820",
    "igdb": "we-the-revolution",
+   "metacritic": "we-the-revolution",
    "mobygames": "124091",
    "pcgamingwiki": "We._The_Revolution",
    "steam": "736850"
@@ -298,6 +312,7 @@
   "ids": {
    "howlongtobeat": "78666",
    "igdb": "darksburg",
+   "metacritic": "darksburg",
    "mobygames": "150787",
    "pcgamingwiki": "Darksburg",
    "steam": "939100"
@@ -401,6 +416,7 @@
   "enwiki": "Even If Tempest",
   "ids": {
    "igdb": "even-if-tempest",
+   "metacritic": "even-if-tempest",
    "mobygames": "185613",
    "steam": "4483830"
   },
@@ -563,6 +579,7 @@
   "ids": {
    "howlongtobeat": "65336",
    "igdb": "fimbul",
+   "metacritic": "fimbul",
    "mobygames": "122985",
    "pcgamingwiki": "Fimbul",
    "steam": "771690"
@@ -745,6 +762,7 @@
   "ids": {
    "howlongtobeat": "28942",
    "igdb": "oblitus",
+   "metacritic": "oblitus",
    "mobygames": "125220",
    "pcgamingwiki": "Oblitus",
    "steam": "306440"
@@ -787,6 +805,7 @@
   "ids": {
    "howlongtobeat": "140816",
    "igdb": "welcome-to-paradize",
+   "metacritic": "welcome-to-paradize",
    "mobygames": "218665",
    "steam": "1519090"
   },
@@ -796,6 +815,7 @@
  {
   "ids": {
    "igdb": "firefighter-connor",
+   "metacritic": "firefighter-connor",
    "mobygames": "223026",
    "steam": "2384920"
   },
@@ -998,6 +1018,7 @@
  {
   "ids": {
    "igdb": "yosei-wars",
+   "metacritic": "yosei-wars",
    "steam": "2711170"
   },
   "label_en": "Yosei Wars",
@@ -1172,7 +1193,8 @@
  {
   "enwiki": "SpongeBob SquarePants Obstacle Odyssey 2: Time Trouble",
   "ids": {
-   "igdb": "spongebob-squarepants-obstacle-odyssey-2-time-trouble"
+   "igdb": "spongebob-squarepants-obstacle-odyssey-2-time-trouble",
+   "metacritic": "spongebob-squarepants-obstacle-odyssey-two-time"
   },
   "label_en": "SpongeBob Obstacle Odyssey 2",
   "wikidata": "Q137939444"
@@ -1190,6 +1212,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Exo_Rally_Championship",
    "steam": "2262020"
   },
   "label_en": "Exo Rally Championship",
@@ -1206,6 +1229,7 @@
   "ids": {
    "igdb": "hentai-sudoku",
    "mobygames": "130019",
+   "pcgamingwiki": "Hentai_Sudoku",
    "steam": "1096010"
   },
   "label_en": "Hentai Sudoku",

@@ -71,6 +71,7 @@
   "enwiki": "Ace Combat Xi: Skies of Incursion",
   "ids": {
    "igdb": "ace-combat-xi-skies-of-incursion",
+   "metacritic": "ace-combat-xi-skies-of-incursion",
    "mobygames": "134857"
   },
   "label_en": "Ace Combat Xi: Skies of Incursion",
@@ -110,6 +111,7 @@
   "enwiki": "Hummer Badlands",
   "ids": {
    "igdb": "hummer-badlands",
+   "metacritic": "hummer-badlands",
    "mobygames": "23185"
   },
   "label_en": "Hummer Badlands",
@@ -166,7 +168,8 @@
  {
   "enwiki": "Zen Pinball 2",
   "ids": {
-   "igdb": "zen-pinball-2"
+   "igdb": "zen-pinball-2",
+   "metacritic": "zen-pinball-2"
   },
   "label_en": "Zen Pinball 2",
   "wikidata": "Q8068965"
@@ -181,6 +184,7 @@
   "ids": {
    "howlongtobeat": "28842",
    "igdb": "ball--2",
+   "metacritic": "game-watch-ball",
    "mobygames": "86459"
   },
   "label_en": "Game & Watch: Ball",
@@ -233,6 +237,7 @@
   "ids": {
    "howlongtobeat": "43379",
    "igdb": "double-dragon-iv",
+   "metacritic": "double-dragon-iv",
    "mobygames": "83177",
    "pcgamingwiki": "Double_Dragon_IV",
    "steam": "528610"
@@ -271,6 +276,7 @@
    "epic": "phoenix-point",
    "howlongtobeat": "53702",
    "igdb": "phoenix-point",
+   "metacritic": "phoenix-point",
    "mobygames": "138193",
    "pcgamingwiki": "Phoenix_Point",
    "steam": "839770"
@@ -284,6 +290,7 @@
    "gog": "game/knights_and_bikes",
    "howlongtobeat": "67984",
    "igdb": "knights-and-bikes",
+   "metacritic": "knights-and-bikes",
    "mobygames": "133792",
    "pcgamingwiki": "Knights_and_Bikes",
    "steam": "592480"
@@ -305,6 +312,7 @@
   "ids": {
    "howlongtobeat": "30746",
    "igdb": "knuckle-sandwich",
+   "metacritic": "knuckle-sandwich",
    "mobygames": "212638",
    "pcgamingwiki": "Knuckle_Sandwich",
    "steam": "1012570"
@@ -346,6 +354,7 @@
  },
  {
   "ids": {
+   "metacritic": "hans-christian-andersen-the-ugly-prince-duckling",
    "mobygames": "31662"
   },
   "label_en": "Hans Christian Andersen: The Ugly Prince Duckling",
@@ -356,6 +365,7 @@
   "ids": {
    "howlongtobeat": "70704",
    "igdb": "rayman-mini",
+   "metacritic": "rayman-mini",
    "mobygames": "135343",
    "pcgamingwiki": "Rayman_Mini"
   },
@@ -399,6 +409,7 @@
    "gog": "game/janitor_bleeds",
    "howlongtobeat": "96638",
    "igdb": "janitor-bleeds",
+   "metacritic": "janitor-bleeds",
    "mobygames": "185913",
    "pcgamingwiki": "Janitor_Bleeds",
    "steam": "1552310"
@@ -443,6 +454,7 @@
   "ids": {
    "howlongtobeat": "35545",
    "igdb": "blood-alloy-reborn",
+   "metacritic": "blood-alloy-reborn",
    "mobygames": "106549",
    "pcgamingwiki": "Blood_Alloy:_Reborn",
    "steam": "355310"
@@ -650,6 +662,7 @@
    "epic": "forest-quartet-5d03e3",
    "howlongtobeat": "118257",
    "igdb": "the-forest-quartet",
+   "metacritic": "the-forest-quartet",
    "mobygames": "197410",
    "pcgamingwiki": "The_Forest_Quartet",
    "steam": "1620720"
@@ -829,6 +842,7 @@
  },
  {
   "ids": {
+   "metacritic": "over-horizon-x-steel-empire",
    "mobygames": "231968"
   },
   "label_en": "Over Horizon X Steel Empire",
@@ -912,6 +926,7 @@
  {
   "ids": {
    "igdb": "rakoo-and-friends",
+   "metacritic": "rakoo-and-friends",
    "mobygames": "101092"
   },
   "label_en": "Rakoo & Friends",

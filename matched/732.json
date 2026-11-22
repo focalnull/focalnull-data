@@ -54,6 +54,7 @@
   "ids": {
    "howlongtobeat": "235",
    "igdb": "aeon-flux--1",
+   "metacritic": "aeon-flux",
    "mobygames": "20311"
   },
   "label_en": "Æon Flux",
@@ -141,6 +142,7 @@
   "enwiki": "Betty Boop's Double Shift",
   "ids": {
    "igdb": "betty-boops-double-shift",
+   "metacritic": "betty-boops-double-shift",
    "mobygames": "31523"
   },
   "label_en": "Betty Boop's Double Shift",
@@ -150,6 +152,7 @@
   "enwiki": "Brain Assist",
   "ids": {
    "igdb": "brain-assist",
+   "metacritic": "brain-assist",
    "mobygames": "86778"
   },
   "label_en": "Brain Assist",
@@ -204,6 +207,7 @@
   "enwiki": "Treasure World",
   "ids": {
    "igdb": "treasure-world",
+   "metacritic": "treasure-world",
    "mobygames": "90466"
   },
   "label_en": "Treasure World",
@@ -229,6 +233,7 @@
   "ids": {
    "howlongtobeat": "38905",
    "igdb": "shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate",
+   "metacritic": "shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate",
    "mobygames": "86979",
    "pcgamingwiki": "Shiren_the_Wanderer:_The_Tower_of_Fortune_and_the_Dice_of_Fate",
    "steam": "1178790"
@@ -247,6 +252,7 @@
    "gog": "game/the_13th_doll_a_fan_game_of_the_7th_guest",
    "howlongtobeat": "71588",
    "igdb": "the-13th-doll-a-fan-game-of-the-7th-guest",
+   "metacritic": "the-13th-doll-a-fan-game-of-the-7th-guest",
    "mobygames": "136598",
    "pcgamingwiki": "The_13th_Doll:_A_Fan_Game_of_The_7th_Guest",
    "steam": "1107230"
@@ -269,6 +275,7 @@
    "gog": "game/mordheim_city_of_the_damned",
    "howlongtobeat": "20671",
    "igdb": "mordheim-city-of-the-damned",
+   "metacritic": "mordheim-city-of-the-damned",
    "mobygames": "82727",
    "pcgamingwiki": "Mordheim:_City_of_the_Damned",
    "steam": "276810"
@@ -298,6 +305,7 @@
   "ids": {
    "howlongtobeat": "36834",
    "igdb": "heartomics-nokori",
+   "metacritic": "heartomics-2",
    "pcgamingwiki": "Heartomics_2",
    "steam": "455970"
   },
@@ -320,7 +328,9 @@
    "epic": "path-of-exile-2",
    "howlongtobeat": "94796",
    "igdb": "path-of-exile-2",
+   "metacritic": "path-of-exile-2",
    "mobygames": "234224",
+   "pcgamingwiki": "Path_of_Exile_2",
    "steam": "2694490"
   },
   "label_en": "Path of Exile 2",
@@ -340,6 +350,7 @@
   "ids": {
    "howlongtobeat": "14660",
    "igdb": "race-injection",
+   "metacritic": "race-injection",
    "mobygames": "64248",
    "pcgamingwiki": "RACE_Injection",
    "steam": "44680"
@@ -410,6 +421,7 @@
    "gog": "game/i_was_a_teenage_exocolonist",
    "howlongtobeat": "111188",
    "igdb": "i-was-a-teenage-exocolonist",
+   "metacritic": "i-was-a-teenage-exocolonist",
    "mobygames": "163573",
    "pcgamingwiki": "I_Was_a_Teenage_Exocolonist",
    "steam": "1148760"
@@ -427,6 +439,7 @@
  },
  {
   "ids": {
+   "metacritic": "gerrrms",
    "mobygames": "148199"
   },
   "label_en": "Gerrrms",
@@ -437,6 +450,7 @@
   "ids": {
    "howlongtobeat": "27056",
    "igdb": "a-space-shooter-for-2-bucks",
+   "metacritic": "a-space-shooter-for-2-bucks",
    "mobygames": "74218"
   },
   "label_en": "A Space Shooter for 2 Bucks!",
@@ -486,6 +500,7 @@
    "gog": "game/luna_the_shadow_dust",
    "howlongtobeat": "74128",
    "igdb": "luna-the-shadow-dust",
+   "metacritic": "luna-the-shadow-dust",
    "mobygames": "142367",
    "pcgamingwiki": "Luna:_The_Shadow_Dust",
    "steam": "465100"
@@ -867,6 +882,7 @@
  {
   "ids": {
    "igdb": "ballistic-baseball",
+   "metacritic": "ballistic-baseball",
    "mobygames": "136204",
    "pcgamingwiki": "Ballistic_Baseball"
   },
@@ -987,6 +1003,7 @@
  {
   "ids": {
    "igdb": "dungeons-the-dark-lord-steam-special-edition",
+   "metacritic": "dungeons-the-dark-lord",
    "mobygames": "53721",
    "pcgamingwiki": "Dungeons:_The_Dark_Lord",
    "steam": "200550"
@@ -1226,6 +1243,9 @@
   "wikidata": "Q135453732"
  },
  {
+  "ids": {
+   "metacritic": "frobisher-says"
+  },
   "label_en": "Frobisher Says!",
   "wikidata": "Q136521732"
  },

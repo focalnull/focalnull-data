@@ -3,6 +3,7 @@
   "enwiki": "Sonic & Knuckles",
   "ids": {
    "igdb": "sonic-and-knuckles",
+   "metacritic": "sonic-knuckles",
    "mobygames": "6614",
    "pcgamingwiki": "Sonic_3_&_Knuckles",
    "steam": "71162"
@@ -16,6 +17,7 @@
    "epic": "eve-online",
    "howlongtobeat": "3214",
    "igdb": "eve-online",
+   "metacritic": "eve-online-special-edition",
    "mobygames": "10063",
    "pcgamingwiki": "EVE_Online",
    "steam": "8500"
@@ -28,6 +30,7 @@
   "ids": {
    "howlongtobeat": "5651",
    "igdb": "mario-party-ds",
+   "metacritic": "mario-party-ds",
    "mobygames": "33929"
   },
   "label_en": "Mario Party DS",
@@ -48,6 +51,7 @@
   "enwiki": "Code Lyoko (video game)",
   "ids": {
    "igdb": "code-lyoko-get-ready-to-virtualize",
+   "metacritic": "code-lyoko",
    "mobygames": "29504"
   },
   "label_en": "Code Lyoko",
@@ -57,6 +61,7 @@
   "enwiki": "Tom Clancy's Rainbow Six: Rogue Spear",
   "ids": {
    "igdb": "tom-clancy-s-rainbow-six-rogue-spear",
+   "metacritic": "tom-clancys-rainbow-six-rogue-spear",
    "mobygames": "964",
    "pcgamingwiki": "Tom_Clancy's_Rainbow_Six:_Rogue_Spear"
   },
@@ -80,6 +85,7 @@
   "enwiki": "Gangs of London (video game)",
   "ids": {
    "igdb": "gangs-of-london",
+   "metacritic": "gangs-of-london",
    "mobygames": "47714"
   },
   "label_en": "Gangs of London",
@@ -107,6 +113,7 @@
   "enwiki": "Growlanser: Heritage of War",
   "ids": {
    "igdb": "growlanser-heritage-of-war",
+   "metacritic": "growlanser-heritage-of-war",
    "mobygames": "50650"
   },
   "label_en": "Growlanser: Heritage of War",
@@ -116,6 +123,7 @@
   "enwiki": "Art Academy: Lessons for Everyone!",
   "ids": {
    "igdb": "art-academy-lessons-for-everyone",
+   "metacritic": "art-academy-lessons-for-everyone",
    "mobygames": "91511"
   },
   "label_en": "Art Academy: Lessons for Everyone!",
@@ -127,6 +135,7 @@
    "gog": "game/crime_cities",
    "howlongtobeat": "24079",
    "igdb": "crime-cities",
+   "metacritic": "crime-cities",
    "mobygames": "5689",
    "pcgamingwiki": "Crime_Cities",
    "steam": "1112570"
@@ -138,6 +147,7 @@
   "enwiki": "NightCaster II: Equinox",
   "ids": {
    "igdb": "nightcaster-ii-equinox",
+   "metacritic": "nightcaster-ii-equinox",
    "mobygames": "16203"
   },
   "label_en": "NightCaster II: Equinox",
@@ -176,6 +186,7 @@
   "enwiki": "Transformers Animated: The Game",
   "ids": {
    "igdb": "transformers-animated-the-game",
+   "metacritic": "transformers-animated-the-game",
    "mobygames": "90461"
   },
   "label_en": "Transformers Animated: The Game",
@@ -195,6 +206,7 @@
   "enwiki": "Wii Party U",
   "ids": {
    "igdb": "wii-party-u",
+   "metacritic": "wii-party-u",
    "mobygames": "85196"
   },
   "label_en": "Wii Party U",
@@ -204,6 +216,7 @@
   "enwiki": "Namco Museum DS",
   "ids": {
    "igdb": "namco-museum-ds",
+   "metacritic": "namco-museum-ds",
    "mobygames": "30318"
   },
   "label_en": "Namco Museum DS",
@@ -235,6 +248,7 @@
   "ids": {
    "howlongtobeat": "49019",
    "igdb": "transocean-2-rivals",
+   "metacritic": "transocean-2-rivals",
    "mobygames": "92126",
    "pcgamingwiki": "TransOcean_2:_Rivals",
    "steam": "350110"
@@ -268,6 +282,7 @@
    "gog": "game/the_occupation",
    "howlongtobeat": "65384",
    "igdb": "the-occupation",
+   "metacritic": "the-occupation",
    "mobygames": "123210",
    "pcgamingwiki": "The_Occupation",
    "steam": "765880"
@@ -298,6 +313,7 @@
   "ids": {
    "howlongtobeat": "52794",
    "igdb": "vesta",
+   "metacritic": "vesta",
    "mobygames": "100984",
    "pcgamingwiki": "Vesta",
    "steam": "646370"
@@ -317,6 +333,7 @@
   "ids": {
    "howlongtobeat": "37791",
    "igdb": "exiles-end",
+   "metacritic": "exiles-end",
    "mobygames": "87334",
    "pcgamingwiki": "Exile's_End",
    "steam": "382130"
@@ -371,6 +388,7 @@
    "gog": "game/lumote",
    "howlongtobeat": "75348",
    "igdb": "lumote-the-mastermote-chronicles",
+   "metacritic": "lumote-the-mastermote-chronicles",
    "mobygames": "143788",
    "pcgamingwiki": "Lumote",
    "steam": "791240"
@@ -544,6 +562,7 @@
   "ids": {
    "howlongtobeat": "69496",
    "igdb": "forged-of-blood",
+   "metacritic": "forged-of-blood",
    "mobygames": "131667",
    "pcgamingwiki": "Forged_of_Blood",
    "steam": "617640"
@@ -1116,6 +1135,7 @@
  {
   "ids": {
    "igdb": "puzzle-mania",
+   "pcgamingwiki": "Puzzle_Mania",
    "steam": "665160"
   },
   "label_en": "Puzzle Mania",
@@ -1124,6 +1144,7 @@
  {
   "ids": {
    "igdb": "be-missed-and-remembered-the-letter-from-mayoiga",
+   "metacritic": "be-missed-and-remembered-the-letter-from-mayoiga",
    "mobygames": "264201",
    "steam": "4042330"
   },
@@ -1169,6 +1190,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Bill_&_Ted's_Excellent_Adventure_Arcade",
    "steam": "5359820"
   },
   "label_en": "Bill & Ted's Excellent Adventure: Arcade",

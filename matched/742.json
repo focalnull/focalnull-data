@@ -13,6 +13,7 @@
   "enwiki": "Magna Carta: Tears of Blood",
   "ids": {
    "igdb": "magna-carta-tears-of-blood",
+   "metacritic": "magna-carta-tears-of-blood",
    "mobygames": "15840"
   },
   "label_en": "Magna Carta: Tears of Blood",
@@ -32,6 +33,7 @@
   "enwiki": "Brain Challenge",
   "ids": {
    "igdb": "brain-challenge",
+   "metacritic": "brain-challenge",
    "mobygames": "24284"
   },
   "label_en": "Brain Challenge",
@@ -82,6 +84,7 @@
   "ids": {
    "howlongtobeat": "6560",
    "igdb": "nhl-10",
+   "metacritic": "nhl-10",
    "mobygames": "44712"
   },
   "label_en": "NHL 10",
@@ -92,6 +95,7 @@
   "ids": {
    "howlongtobeat": "599",
    "igdb": "armored-core-v",
+   "metacritic": "armored-core-v",
    "mobygames": "68537"
   },
   "label_en": "Armored Core V",
@@ -109,6 +113,7 @@
   "ids": {
    "howlongtobeat": "52174",
    "igdb": "dragon-lore-ii-the-heart-of-the-dragon-man",
+   "metacritic": "dragon-lore-ii",
    "mobygames": "6101",
    "pcgamingwiki": "Dragon_Lore_II:_The_Heart_of_the_Dragon_Man"
   },
@@ -133,6 +138,7 @@
   "ids": {
    "howlongtobeat": "15860",
    "igdb": "mutant-mudds-deluxe",
+   "metacritic": "mutant-mudds",
    "mobygames": "58878",
    "pcgamingwiki": "Mutant_Mudds",
    "steam": "247370"
@@ -144,6 +150,7 @@
   "enwiki": "Bicycle Casino (video game)",
   "ids": {
    "igdb": "bicycle-casino",
+   "metacritic": "bicycle-casino",
    "mobygames": "19114"
   },
   "label_en": "Bicycle Casino",
@@ -162,6 +169,7 @@
   "enwiki": "Fluidity: Spin Cycle",
   "ids": {
    "igdb": "fluidity-spin-cycle",
+   "metacritic": "fluidity-spin-cycle",
    "mobygames": "92531"
   },
   "label_en": "Fluidity: Spin Cycle",
@@ -197,6 +205,7 @@
   "enwiki": "NFL QB Club 2001",
   "ids": {
    "igdb": "nfl-qb-club-2001",
+   "metacritic": "nfl-qb-club-2001",
    "mobygames": "9165"
   },
   "label_en": "NFL QB Club 2001",
@@ -214,6 +223,7 @@
   "enwiki": "Scene It? Bright Lights! Big Screen!",
   "ids": {
    "igdb": "scene-it-bright-lights-big-screen",
+   "metacritic": "scene-it-bright-lights-big-screen",
    "mobygames": "205661"
   },
   "label_en": "Scene It? Bright Lights! Big Screen!",
@@ -224,6 +234,7 @@
   "ids": {
    "howlongtobeat": "5346",
    "igdb": "loadout",
+   "metacritic": "loadout",
    "mobygames": "77150",
    "pcgamingwiki": "Loadout",
    "steam": "208090"
@@ -235,6 +246,7 @@
   "enwiki": "Oreshika: Tainted Bloodlines",
   "ids": {
    "igdb": "oreshika-tainted-bloodlines",
+   "metacritic": "oreshika-tainted-bloodlines",
    "mobygames": "83640"
   },
   "label_en": "Oreshika: Tainted Bloodlines",
@@ -245,6 +257,7 @@
   "ids": {
    "howlongtobeat": "21714",
    "igdb": "rive",
+   "metacritic": "rive",
    "mobygames": "84086",
    "pcgamingwiki": "Rive",
    "steam": "278100"
@@ -268,6 +281,7 @@
   "enwiki": "Super Smash Bros. for Wii U",
   "ids": {
    "howlongtobeat": "19486",
+   "metacritic": "super-smash-bros-for-wii-u",
    "mobygames": "73359"
   },
   "label_en": "Super Smash Bros. for Wii U",
@@ -277,6 +291,7 @@
   "ids": {
    "howlongtobeat": "18250",
    "igdb": "the-girl-and-the-robot",
+   "metacritic": "the-girl-and-the-robot",
    "mobygames": "89239",
    "pcgamingwiki": "The_Girl_and_the_Robot",
    "steam": "270070"
@@ -289,6 +304,7 @@
   "ids": {
    "howlongtobeat": "53826",
    "igdb": "old-school-musical",
+   "metacritic": "old-school-musical",
    "mobygames": "112434",
    "pcgamingwiki": "Old_School_Musical",
    "steam": "398030"
@@ -300,6 +316,7 @@
   "ids": {
    "howlongtobeat": "38338",
    "igdb": "fragmented",
+   "metacritic": "fragmented",
    "mobygames": "84298",
    "pcgamingwiki": "Fragmented",
    "steam": "441790"
@@ -309,7 +326,8 @@
  },
  {
   "ids": {
-   "igdb": "wipeout-create-and-crash"
+   "igdb": "wipeout-create-and-crash",
+   "metacritic": "wipeout-create-crash"
   },
   "label_en": "Wipeout: Create & Crash",
   "wikidata": "Q56826742"
@@ -320,6 +338,7 @@
    "gog": "game/grip",
    "howlongtobeat": "34553",
    "igdb": "grip",
+   "metacritic": "grip-combat-racing",
    "mobygames": "115018",
    "pcgamingwiki": "Grip",
    "steam": "396900"
@@ -332,6 +351,7 @@
    "gog": "game/rad_rodgers_world_one",
    "howlongtobeat": "41263",
    "igdb": "rad-rodgers-world-one",
+   "metacritic": "rad-rodgers-world-one",
    "mobygames": "104839",
    "pcgamingwiki": "Rad_Rodgers:_World_One",
    "steam": "353580"
@@ -343,6 +363,7 @@
   "ids": {
    "howlongtobeat": "25834",
    "igdb": "dice-dna-intergrated-cybernetic-enterprises",
+   "metacritic": "dice-dna-integrated-cybernetic-enterprises",
    "mobygames": "120845"
   },
   "label_en": "D.I.C.E.",
@@ -351,6 +372,7 @@
  {
   "ids": {
    "igdb": "techno-tanks",
+   "metacritic": "techno-tanks",
    "mobygames": "163834",
    "steam": "1556160"
   },
@@ -362,6 +384,7 @@
    "gog": "game/hypergun",
    "howlongtobeat": "60448",
    "igdb": "hypergun",
+   "metacritic": "hypergun",
    "mobygames": "112724",
    "pcgamingwiki": "Hypergun",
    "steam": "783450"
@@ -374,6 +397,7 @@
   "ids": {
    "howlongtobeat": "91826",
    "igdb": "the-day-before",
+   "metacritic": "the-day-before",
    "mobygames": "213553",
    "pcgamingwiki": "The_Day_Before",
    "steam": "1372880"
@@ -463,6 +487,7 @@
   "ids": {
    "howlongtobeat": "72420",
    "igdb": "deru-the-art-of-cooperation",
+   "metacritic": "deru-the-art-of-cooperation",
    "mobygames": "114619",
    "pcgamingwiki": "DERU_-_The_Art_of_Cooperation",
    "steam": "632250"
@@ -482,6 +507,7 @@
  {
   "ids": {
    "igdb": "rethink-4",
+   "metacritic": "rethink-4",
    "mobygames": "207587",
    "pcgamingwiki": "ReThink_4",
    "steam": "1436410"
@@ -932,6 +958,7 @@
    "epic": "angry-video-game-nerd-1-and-2-deluxe-1eea79",
    "howlongtobeat": "84577",
    "igdb": "angry-video-game-nerd-i-and-ii-deluxe",
+   "metacritic": "angry-video-game-nerd-i-and-ii-deluxe",
    "mobygames": "152337",
    "pcgamingwiki": "Angry_Video_Game_Nerd_I_&_II_Deluxe",
    "steam": "1162960"
@@ -1268,6 +1295,9 @@
  },
  {
   "enwiki": "Time Viking!!!!!AndSpaceRaptor",
+  "ids": {
+   "metacritic": "time-vikingandspaceraptor"
+  },
   "label_en": "Time Viking!!!!!AndSpaceRaptor",
   "wikidata": "Q137784742"
  },

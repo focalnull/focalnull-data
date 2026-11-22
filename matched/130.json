@@ -3,6 +3,7 @@
   "enwiki": "Gungrave",
   "ids": {
    "igdb": "gungrave",
+   "metacritic": "gungrave",
    "mobygames": "7739"
   },
   "label_en": "Gungrave",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "12994",
    "igdb": "soldiers-of-fortune",
+   "metacritic": "the-chaos-engine",
    "mobygames": "933"
   },
   "label_en": "The Chaos Engine",
@@ -96,6 +98,7 @@
    "howlongtobeat": "10901",
    "igdb": "vay",
    "mobygames": "14535",
+   "pcgamingwiki": "Vay",
    "steam": "2926110"
   },
   "label_en": "Vay",
@@ -105,6 +108,7 @@
   "enwiki": "Wild West Guns",
   "ids": {
    "igdb": "wild-west-guns",
+   "metacritic": "wild-west-guns",
    "mobygames": "37751"
   },
   "label_en": "Wild West Guns",
@@ -182,6 +186,7 @@
   "enwiki": "Major League Baseball 2K8",
   "ids": {
    "igdb": "major-league-baseball-2k8",
+   "metacritic": "major-league-baseball-2k8",
    "mobygames": "34698"
   },
   "label_en": "Major League Baseball 2K8",
@@ -232,6 +237,7 @@
   "ids": {
    "howlongtobeat": "13531",
    "igdb": "dead-or-alive-5-ultimate",
+   "metacritic": "dead-or-alive-5-ultimate",
    "mobygames": "85973"
   },
   "label_en": "Dead or Alive 5 Ultimate",
@@ -255,6 +261,7 @@
    "epic": "far-cry-5",
    "howlongtobeat": "46093",
    "igdb": "far-cry-5",
+   "metacritic": "far-cry-5",
    "mobygames": "103911",
    "pcgamingwiki": "Far_Cry_5",
    "steam": "552520"
@@ -273,6 +280,7 @@
   "enwiki": "NHL 19",
   "ids": {
    "igdb": "nhl-19",
+   "metacritic": "nhl-19",
    "mobygames": "113604"
   },
   "label_en": "NHL 19",
@@ -300,6 +308,7 @@
    "gog": "game/crying_suns",
    "howlongtobeat": "62979",
    "igdb": "crying-suns",
+   "metacritic": "crying-suns",
    "mobygames": "134985",
    "pcgamingwiki": "Crying_Suns",
    "steam": "873940"
@@ -343,6 +352,7 @@
   "ids": {
    "howlongtobeat": "27939",
    "igdb": "zombie-driver-hd",
+   "metacritic": "zombie-driver-hd",
    "mobygames": "58287",
    "pcgamingwiki": "Zombie_Driver_HD",
    "steam": "220820"
@@ -375,6 +385,7 @@
    "epic": "nightingale",
    "howlongtobeat": "127498",
    "igdb": "nightingale--2",
+   "metacritic": "nightingale",
    "mobygames": "218147",
    "pcgamingwiki": "Nightingale",
    "steam": "1928980"
@@ -428,6 +439,7 @@
   "ids": {
    "howlongtobeat": "64727",
    "igdb": "neverout",
+   "metacritic": "neverout",
    "mobygames": "89065",
    "pcgamingwiki": "Neverout",
    "steam": "579720"
@@ -471,6 +483,7 @@
   "ids": {
    "howlongtobeat": "37308",
    "igdb": "legions-of-steel",
+   "metacritic": "legions-of-steel",
    "mobygames": "83873",
    "pcgamingwiki": "Legions_of_Steel",
    "steam": "312440"
@@ -950,6 +963,7 @@
   "ids": {
    "epic": "star-wars-zero-company-21b5c6",
    "igdb": "star-wars-zero-company",
+   "metacritic": "star-wars-zero-company",
    "mobygames": "243330",
    "pcgamingwiki": "Star_Wars:_Zero_Company",
    "steam": "2075800"

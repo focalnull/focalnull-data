@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "10496",
    "igdb": "tony-hawk-s-pro-skater-4",
+   "metacritic": "tony-hawks-pro-skater-4",
    "mobygames": "7580",
    "pcgamingwiki": "Tony_Hawk's_Pro_Skater_4"
   },
@@ -54,6 +55,7 @@
   "ids": {
    "howlongtobeat": "8651",
    "igdb": "sly-cooper-thieves-in-time",
+   "metacritic": "sly-cooper-thieves-in-time",
    "mobygames": "62612"
   },
   "label_en": "Sly Cooper: Thieves in Time",
@@ -95,6 +97,7 @@
    "gog": "game/star_trek_away_team",
    "howlongtobeat": "24122",
    "igdb": "star-trek-away-team",
+   "metacritic": "star-trek-away-team",
    "mobygames": "3453",
    "pcgamingwiki": "Star_Trek:_Away_Team"
   },
@@ -114,6 +117,7 @@
   "ids": {
    "howlongtobeat": "94075",
    "igdb": "metroid-dread",
+   "metacritic": "metroid-dread",
    "mobygames": "172841"
   },
   "label_en": "Metroid Dread",
@@ -146,6 +150,7 @@
   "enwiki": "Gallop Racer 2006",
   "ids": {
    "igdb": "gallop-racer-2006",
+   "metacritic": "gallop-racer-2006",
    "mobygames": "36111"
   },
   "label_en": "Gallop Racer 2006",
@@ -190,6 +195,7 @@
    "gog": "game/eldest_souls",
    "howlongtobeat": "83988",
    "igdb": "eldest-souls",
+   "metacritic": "eldest-souls",
    "mobygames": "168294",
    "pcgamingwiki": "Eldest_Souls",
    "steam": "1108590"
@@ -224,6 +230,7 @@
    "gog": "game/cat_cafe_manager",
    "howlongtobeat": "106823",
    "igdb": "cat-cafe-manager",
+   "metacritic": "cat-cafe-manager",
    "mobygames": "191351",
    "pcgamingwiki": "Cat_Cafe_Manager",
    "steam": "1354830"
@@ -249,6 +256,7 @@
    "epic": "blaster-master-zero-3",
    "howlongtobeat": "89554",
    "igdb": "blaster-master-zero-iii",
+   "metacritic": "blaster-master-zero-iii",
    "mobygames": "168261",
    "pcgamingwiki": "Blaster_Master_Zero_3",
    "steam": "1588380"
@@ -261,6 +269,7 @@
   "ids": {
    "howlongtobeat": "128032",
    "igdb": "for-the-king-ii",
+   "metacritic": "for-the-king-ii",
    "mobygames": "211306",
    "pcgamingwiki": "For_the_King_II",
    "steam": "1676840"
@@ -1024,7 +1033,8 @@
  },
  {
   "ids": {
-   "igdb": "insect-planet-td"
+   "igdb": "insect-planet-td",
+   "metacritic": "insect-planet-td"
   },
   "label_en": "Insect Planet TD",
   "wikidata": "Q136207956"

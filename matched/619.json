@@ -42,6 +42,7 @@
   "enwiki": "Infinite Undiscovery",
   "ids": {
    "igdb": "infinite-undiscovery",
+   "metacritic": "infinite-undiscovery",
    "mobygames": "37253"
   },
   "label_en": "Infinite Undiscovery",
@@ -151,6 +152,7 @@
   "ids": {
    "howlongtobeat": "5749",
    "igdb": "mcpixel",
+   "metacritic": "mcpixel",
    "mobygames": "58092",
    "pcgamingwiki": "McPixel",
    "steam": "220860"
@@ -162,6 +164,7 @@
   "enwiki": "The Scorpion King: Rise of the Akkadian",
   "ids": {
    "igdb": "the-scorpion-king-rise-of-the-akkadian",
+   "metacritic": "the-scorpion-king-rise-of-the-akkadian",
    "mobygames": "81324"
   },
   "label_en": "The Scorpion King: Rise of the Akkadian",
@@ -207,6 +210,7 @@
   "ids": {
    "howlongtobeat": "54335",
    "igdb": "pokemon-duel",
+   "metacritic": "pokemon-duel",
    "mobygames": "78350"
   },
   "label_en": "Pokémon Duel",
@@ -225,6 +229,7 @@
   "ids": {
    "howlongtobeat": "26345",
    "igdb": "home-is-where-one-starts-dot-dot-dot",
+   "metacritic": "home-is-where-one-starts",
    "mobygames": "74727",
    "pcgamingwiki": "Home_is_Where_One_Starts...",
    "steam": "355970"
@@ -247,6 +252,7 @@
    "gog": "game/grimshade",
    "howlongtobeat": "66513",
    "igdb": "grimshade",
+   "metacritic": "grimshade",
    "mobygames": "147063",
    "pcgamingwiki": "Grimshade",
    "steam": "858100"
@@ -259,6 +265,7 @@
   "ids": {
    "howlongtobeat": "68036",
    "igdb": "barotrauma",
+   "metacritic": "barotrauma",
    "mobygames": "127895",
    "pcgamingwiki": "Barotrauma",
    "steam": "602960"
@@ -299,6 +306,7 @@
    "gog": "game/hellpoint",
    "howlongtobeat": "68974",
    "igdb": "hellpoint",
+   "metacritic": "hellpoint",
    "mobygames": "148614",
    "pcgamingwiki": "Hellpoint",
    "steam": "628670"
@@ -309,6 +317,7 @@
  {
   "ids": {
    "igdb": "max-payne--1",
+   "metacritic": "max-payne",
    "mobygames": "11696"
   },
   "label_en": "Max Payne Advance",
@@ -337,6 +346,7 @@
   "enwiki": "Mario + Rabbids Sparks of Hope",
   "ids": {
    "igdb": "mario-plus-rabbids-sparks-of-hope",
+   "metacritic": "mario-plus-rabbids-sparks-of-hope",
    "mobygames": "193002"
   },
   "label_en": "Mario + Rabbids Sparks of Hope",
@@ -347,6 +357,7 @@
   "ids": {
    "epic": "kid-a-mnesia-exhibition",
    "igdb": "kid-a-mnesia-exhibition",
+   "metacritic": "kid-a-mnesia-exhibition",
    "pcgamingwiki": "Kid_A_Mnesia_Exhibition"
   },
   "label_en": "Kid A Mnesia Exhibition",
@@ -359,6 +370,7 @@
    "gog": "game/astalon_tears_of_the_earth",
    "howlongtobeat": "93066",
    "igdb": "astalon-tears-of-the-earth",
+   "metacritic": "astalon-tears-of-the-earth",
    "mobygames": "165839",
    "pcgamingwiki": "Astalon:_Tears_of_the_Earth",
    "steam": "1046400"
@@ -458,6 +470,7 @@
   "ids": {
    "howlongtobeat": "46044",
    "igdb": "russian-car-driver",
+   "metacritic": "russian-car-driver",
    "mobygames": "98272",
    "pcgamingwiki": "Russian_Car_Driver",
    "steam": "566990"
@@ -471,6 +484,7 @@
    "epic": "slayers-x-affccd",
    "howlongtobeat": "128904",
    "igdb": "slayers-x-terminal-aftermath-vengance-of-the-slayer",
+   "metacritic": "slayers-x-terminal-aftermath-vengance-of-the",
    "mobygames": "203941",
    "pcgamingwiki": "Slayers_X:_Terminal_Aftermath:_Vengance_of_the_Slayer",
    "steam": "1931020"
@@ -873,6 +887,7 @@
   "ids": {
    "howlongtobeat": "153436",
    "igdb": "nba-2k25",
+   "metacritic": "nba-2k25",
    "mobygames": "230136",
    "pcgamingwiki": "NBA_2K25",
    "steam": "2878980"
@@ -884,6 +899,7 @@
   "ids": {
    "howlongtobeat": "107667",
    "igdb": "luv-me-buddies-wonderland",
+   "metacritic": "luv-me-buddies-wonderland",
    "mobygames": "91715"
   },
   "label_en": "Luv Me Buddies Wonderland",
@@ -916,6 +932,7 @@
  {
   "ids": {
    "igdb": "praetorians-hd-remaster",
+   "metacritic": "praetorians-hd-remaster",
    "mobygames": "141196",
    "pcgamingwiki": "Praetorians_HD_Remaster",
    "steam": "1100420"

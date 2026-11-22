@@ -12,6 +12,7 @@
   "ids": {
    "howlongtobeat": "8704",
    "igdb": "socom-4-u-s-navy-seals",
+   "metacritic": "socom-4-u-s-navy-seals",
    "mobygames": "83673"
   },
   "label_en": "SOCOM 4 U.S. Navy SEALs",
@@ -31,6 +32,7 @@
   "ids": {
    "howlongtobeat": "2890",
    "igdb": "driver-renegade",
+   "metacritic": "driver-renegade",
    "mobygames": "59521"
   },
   "label_en": "Driver: Renegade",
@@ -92,6 +94,7 @@
   "ids": {
    "howlongtobeat": "6366",
    "igdb": "nancy-drew-the-haunted-carousel",
+   "metacritic": "nancy-drew-the-haunted-carousel",
    "mobygames": "9756",
    "pcgamingwiki": "Nancy_Drew:_The_Haunted_Carousel",
    "steam": "31820"
@@ -123,6 +126,7 @@
   "enwiki": "Monster Kingdom: Jewel Summoner",
   "ids": {
    "igdb": "monster-kingdom-jewel-summoner",
+   "metacritic": "monster-kingdom-jewel-summoner",
    "mobygames": "26881"
   },
   "label_en": "Monster Kingdom: Jewel Summoner",
@@ -140,6 +144,7 @@
   "ids": {
    "howlongtobeat": "14812",
    "igdb": "skylanders-swap-force",
+   "metacritic": "skylanders-swap-force",
    "mobygames": "67180"
   },
   "label_en": "Skylanders: Swap Force",
@@ -163,6 +168,7 @@
   "enwiki": "Nerf N-Strike",
   "ids": {
    "igdb": "nerf-n-strike",
+   "metacritic": "nerf-n-strike",
    "mobygames": "56111"
   },
   "label_en": "Nerf N-Strike",
@@ -224,7 +230,8 @@
   "enwiki": "One Piece Treasure Cruise",
   "ids": {
    "howlongtobeat": "25841",
-   "igdb": "one-piece-treasure-cruise"
+   "igdb": "one-piece-treasure-cruise",
+   "metacritic": "one-piece-treasure-cruise"
   },
   "label_en": "One Piece Treasure Cruise",
   "wikidata": "Q25094118"
@@ -270,6 +277,7 @@
    "epic": "lego-star-wars-the-skywalker-saga",
    "howlongtobeat": "68261",
    "igdb": "lego-star-wars-the-skywalker-saga",
+   "metacritic": "lego-star-wars-the-skywalker-saga",
    "mobygames": "182452",
    "pcgamingwiki": "Lego_Star_Wars:_The_Skywalker_Saga",
    "steam": "920210"
@@ -298,6 +306,7 @@
  {
   "ids": {
    "igdb": "aztec-wars",
+   "metacritic": "aztec-wars",
    "mobygames": "18324"
   },
   "label_en": "Aztec: The True History of Empires",
@@ -401,6 +410,7 @@
   "ids": {
    "howlongtobeat": "113774",
    "igdb": "omega-strikers--1",
+   "metacritic": "omega-strikers",
    "mobygames": "191701",
    "pcgamingwiki": "Omega_Strikers",
    "steam": "1869590"
@@ -569,6 +579,7 @@
   "ids": {
    "howlongtobeat": "137796",
    "igdb": "contra-operation-galuga",
+   "metacritic": "contra-operation-galuga",
    "mobygames": "219285",
    "pcgamingwiki": "Contra:_Operation_Galuga",
    "steam": "2235020"
@@ -682,6 +693,7 @@
   "ids": {
    "howlongtobeat": "46052",
    "igdb": "drive-drive-drive",
+   "metacritic": "drivedrivedrive",
    "mobygames": "87554",
    "pcgamingwiki": "Drive!Drive!Drive!",
    "steam": "356460"
@@ -1078,6 +1090,7 @@
  {
   "ids": {
    "igdb": "asgards-fall-viking-survivors",
+   "pcgamingwiki": "Asgard's_Fall:_Viking_Survivors",
    "steam": "2780710"
   },
   "label_en": "Asgard's Fall — Viking Survivors",

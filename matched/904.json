@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "1841",
    "igdb": "command-conquer-red-alert-2",
+   "metacritic": "command-conquer-red-alert-2",
    "mobygames": "2544",
    "pcgamingwiki": "Command_&_Conquer:_Red_Alert_2",
    "steam": "2229850"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "2086",
    "igdb": "csi-hard-evidence",
+   "metacritic": "csi-crime-scene-investigation-hard-evidence",
    "mobygames": "30525",
    "pcgamingwiki": "CSI:_Hard_Evidence",
    "steam": "21730"
@@ -58,6 +60,7 @@
   "ids": {
    "howlongtobeat": "23865",
    "igdb": "ct-special-forces-2-back-in-the-trenches",
+   "metacritic": "ct-special-forces-2-back-in-the-trenches",
    "mobygames": "36375"
   },
   "label_en": "CT Special Forces 2: Back in the Trenches",
@@ -68,6 +71,7 @@
   "ids": {
    "howlongtobeat": "17596",
    "igdb": "the-elder-scrolls-online",
+   "metacritic": "the-elder-scrolls-online-tamriel-unlimited",
    "mobygames": "65271",
    "pcgamingwiki": "The_Elder_Scrolls_Online",
    "steam": "306130"
@@ -95,6 +99,7 @@
   "enwiki": "Dinotopia: The Timestone Pirates",
   "ids": {
    "igdb": "dinotopia-the-timestone-pirates",
+   "metacritic": "dinotopia-the-timestone-pirates",
    "mobygames": "65965"
   },
   "label_en": "Dinotopia: The Timestone Pirates",
@@ -172,6 +177,7 @@
    "gog": "game/the_dark_eye_chains_of_satinav",
    "howlongtobeat": "9826",
    "igdb": "the-dark-eye-chains-of-satinav",
+   "metacritic": "the-dark-eye-chains-of-satinav",
    "mobygames": "57277",
    "pcgamingwiki": "The_Dark_Eye:_Chains_of_Satinav",
    "steam": "203830"
@@ -185,6 +191,7 @@
    "gog": "game/the_cave",
    "howlongtobeat": "9803",
    "igdb": "the-cave",
+   "metacritic": "the-cave-2013",
    "mobygames": "61695",
    "pcgamingwiki": "The_Cave",
    "steam": "221810"
@@ -200,6 +207,7 @@
   "enwiki": "Cocoto Platform Jumper",
   "ids": {
    "igdb": "cocoto-platform-jumper",
+   "metacritic": "cocoto-platform-jumper",
    "mobygames": "28136"
   },
   "label_en": "Cocoto Platform Jumper",
@@ -226,6 +234,7 @@
   "enwiki": "The Shoot (video game)",
   "ids": {
    "igdb": "the-shoot",
+   "metacritic": "the-shoot",
    "mobygames": "51920"
   },
   "label_en": "The Shoot",
@@ -263,6 +272,7 @@
   "ids": {
    "howlongtobeat": "30314",
    "igdb": "13-sentinels-aegis-rim",
+   "metacritic": "13-sentinels-aegis-rim",
    "mobygames": "150382"
   },
   "label_en": "13 Sentinels: Aegis Rim",
@@ -273,6 +283,7 @@
   "ids": {
    "howlongtobeat": "43228",
    "igdb": "utawarerumono-mask-of-truth",
+   "metacritic": "utawarerumono-mask-of-truth",
    "mobygames": "95659",
    "pcgamingwiki": "Utawarerumono:_Mask_of_Truth",
    "steam": "1151440"
@@ -289,6 +300,7 @@
   "ids": {
    "howlongtobeat": "40307",
    "igdb": "lichtspeer",
+   "metacritic": "lichtspeer",
    "mobygames": "82042",
    "pcgamingwiki": "Lichtspeer",
    "steam": "434740"
@@ -302,6 +314,7 @@
    "epic": "redeemer-enhanced-edition-54d2c1",
    "howlongtobeat": "48276",
    "igdb": "redeemer",
+   "metacritic": "redeemer",
    "mobygames": "93766",
    "pcgamingwiki": "Redeemer",
    "steam": "447290"
@@ -329,6 +342,7 @@
   "ids": {
    "howlongtobeat": "66255",
    "igdb": "the-legend-of-zelda-links-awakening--1",
+   "metacritic": "the-legend-of-zelda-links-awakening",
    "mobygames": "122228"
   },
   "label_en": "The Legend of Zelda: Link's Awakening",
@@ -339,6 +353,7 @@
   "ids": {
    "howlongtobeat": "68032",
    "igdb": "planet-zoo",
+   "metacritic": "planet-zoo",
    "mobygames": "136877",
    "pcgamingwiki": "Planet_Zoo",
    "steam": "703080"
@@ -364,6 +379,7 @@
    "gog": "game/breathedge",
    "howlongtobeat": "61488",
    "igdb": "breathedge",
+   "metacritic": "breathedge",
    "mobygames": "113568",
    "pcgamingwiki": "Breathedge",
    "steam": "738520"
@@ -392,7 +408,8 @@
  {
   "enwiki": "Touhou LostWord",
   "ids": {
-   "igdb": "touhou-lostword"
+   "igdb": "touhou-lostword",
+   "metacritic": "touhou-lostword"
   },
   "label_en": "Touhou Lost Word",
   "wikidata": "Q105533904"
@@ -403,6 +420,7 @@
    "gog": "game/jagged_alliance_3",
    "howlongtobeat": "100043",
    "igdb": "jagged-alliance-3",
+   "metacritic": "jagged-alliance-3",
    "mobygames": "205645",
    "pcgamingwiki": "Jagged_Alliance_3",
    "steam": "1084160"
@@ -413,6 +431,7 @@
  {
   "ids": {
    "igdb": "blinky",
+   "metacritic": "blinky",
    "mobygames": "189374",
    "steam": "1842130"
   },
@@ -457,6 +476,7 @@
    "gog": "game/a_tale_of_paper_refolded",
    "howlongtobeat": "112549",
    "igdb": "a-tale-of-paper-refolded",
+   "metacritic": "a-tale-of-paper-refolded",
    "mobygames": "189856",
    "pcgamingwiki": "A_Tale_of_Paper:_Refolded",
    "steam": "1454640"
@@ -887,7 +907,8 @@
  },
  {
   "ids": {
-   "igdb": "monkeys"
+   "igdb": "monkeys",
+   "metacritic": "monkeys"
   },
   "label_en": "Monkeys!¡",
   "wikidata": "Q124620904"

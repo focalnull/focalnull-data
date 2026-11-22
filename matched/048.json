@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "16223",
    "igdb": "wwe-day-of-reckoning-2",
+   "metacritic": "wwe-day-of-reckoning-2",
    "mobygames": "33880"
   },
   "label_en": "WWE Day of Reckoning 2",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "2288",
    "igdb": "daytona-usa",
+   "metacritic": "daytona-usa",
    "mobygames": "7870",
    "pcgamingwiki": "Daytona_USA"
   },
@@ -50,6 +52,7 @@
    "epic": "super-meat-boy",
    "howlongtobeat": "9389",
    "igdb": "super-meat-boy",
+   "metacritic": "super-meat-boy",
    "mobygames": "48877",
    "pcgamingwiki": "Super_Meat_Boy",
    "steam": "40800"
@@ -94,7 +97,8 @@
  {
   "enwiki": "Biology Battle",
   "ids": {
-   "igdb": "biology-battle"
+   "igdb": "biology-battle",
+   "metacritic": "biology-battle"
   },
   "label_en": "Biology Battle",
   "wikidata": "Q4915048"
@@ -138,6 +142,7 @@
   "enwiki": "Rocky and Bullwinkle (video game)",
   "ids": {
    "igdb": "rocky-and-bullwinkle--1",
+   "metacritic": "rocky-and-bullwinkle",
    "mobygames": "79564"
   },
   "label_en": "Rocky and Bullwinkle",
@@ -184,6 +189,7 @@
   "ids": {
    "howlongtobeat": "29809",
    "igdb": "sword-art-online-hollow-fragment",
+   "metacritic": "sword-art-online-hollow-fragment",
    "mobygames": "83636",
    "pcgamingwiki": "Sword_Art_Online_Re:_Hollow_Fragment",
    "steam": "638650"
@@ -196,6 +202,7 @@
   "ids": {
    "howlongtobeat": "13650",
    "igdb": "jet-car-stunts",
+   "metacritic": "jet-car-stunts",
    "mobygames": "69668",
    "pcgamingwiki": "Jet_Car_Stunts",
    "steam": "274880"
@@ -208,6 +215,7 @@
   "ids": {
    "howlongtobeat": "35859",
    "igdb": "ratchet-and-clank",
+   "metacritic": "ratchet-clank",
    "mobygames": "78508"
   },
   "label_en": "Ratchet & Clank",
@@ -240,6 +248,7 @@
    "gog": "game/jotun",
    "howlongtobeat": "30623",
    "igdb": "jotun-valhalla-edition",
+   "metacritic": "jotun",
    "mobygames": "76580",
    "pcgamingwiki": "Jotun",
    "steam": "323580"
@@ -252,6 +261,7 @@
   "ids": {
    "howlongtobeat": "23642",
    "igdb": "citizens-of-earth",
+   "metacritic": "citizens-of-earth",
    "mobygames": "84357",
    "pcgamingwiki": "Citizens_of_Earth",
    "steam": "258910"
@@ -273,6 +283,7 @@
    "gog": "game/dishonored_death_of_the_outsider",
    "howlongtobeat": "46419",
    "igdb": "dishonored-death-of-the-outsider",
+   "metacritic": "dishonored-death-of-the-outsider",
    "mobygames": "95999",
    "pcgamingwiki": "Dishonored:_Death_of_the_Outsider",
    "steam": "614570"
@@ -285,6 +296,7 @@
   "ids": {
    "howlongtobeat": "60497",
    "igdb": "torn--1",
+   "metacritic": "torn",
    "mobygames": "112807",
    "pcgamingwiki": "Torn",
    "steam": "557520"
@@ -296,6 +308,7 @@
   "ids": {
    "howlongtobeat": "66506",
    "igdb": "senran-kagura-peach-ball",
+   "metacritic": "senran-kagura-peach-ball",
    "mobygames": "128930",
    "pcgamingwiki": "Senran_Kagura_Peach_Ball",
    "steam": "1074080"
@@ -307,6 +320,7 @@
   "ids": {
    "howlongtobeat": "7471",
    "igdb": "quarantine--1",
+   "metacritic": "quarantine",
    "mobygames": "89230",
    "pcgamingwiki": "Quarantine",
    "steam": "489370"
@@ -327,6 +341,7 @@
  {
   "ids": {
    "igdb": "wild-ride",
+   "metacritic": "wild-ride",
    "pcgamingwiki": "Wild_Ride",
    "steam": "989400"
   },
@@ -336,6 +351,7 @@
  {
   "ids": {
    "howlongtobeat": "43752",
+   "metacritic": "bloody-boobs",
    "mobygames": "99658",
    "pcgamingwiki": "Bloody_Boobs",
    "steam": "545250"
@@ -357,6 +373,7 @@
    "gog": "game/iris_and_the_giant_deckbuilding_roguelike",
    "howlongtobeat": "75608",
    "igdb": "iris-and-the-giant",
+   "metacritic": "iris-and-the-giant",
    "mobygames": "143017",
    "pcgamingwiki": "Iris_and_the_Giant",
    "steam": "1127610"
@@ -370,6 +387,7 @@
    "gog": "game/solasta_crown_of_the_magister",
    "howlongtobeat": "72265",
    "igdb": "solasta-crown-of-the-magister",
+   "metacritic": "solasta-crown-of-the-magister",
    "mobygames": "151867",
    "pcgamingwiki": "Solasta:_Crown_of_the_Magister",
    "steam": "1096530"
@@ -392,6 +410,7 @@
    "epic": "wrc-10",
    "howlongtobeat": "95409",
    "igdb": "wrc-10",
+   "metacritic": "wrc-10",
    "mobygames": "171265",
    "pcgamingwiki": "WRC_10:_FIA_World_Rally_Championship",
    "steam": "1462810"
@@ -599,6 +618,7 @@
   "ids": {
    "howlongtobeat": "132074",
    "igdb": "save-room-the-merchant",
+   "pcgamingwiki": "Save_Room_-_The_Merchant",
    "steam": "2326020"
   },
   "label_en": "Save Room - The Merchant",
@@ -859,6 +879,7 @@
  {
   "ids": {
    "igdb": "tom-and-jerry-yankee-doodles-cat-astrophe",
+   "metacritic": "tom-and-jerry-yankee-doodles-cat-astrophe",
    "mobygames": "1662",
    "pcgamingwiki": "Tom_&_Jerry:_Yankee_Doodle's_CAT-astrophe"
   },
@@ -1268,6 +1289,7 @@
   "ids": {
    "howlongtobeat": "172963",
    "igdb": "warhammer-40000-dawn-of-war-iv",
+   "metacritic": "warhammer-40000-dawn-of-war-iv",
    "mobygames": "246734",
    "pcgamingwiki": "Warhammer_40,000:_Dawn_of_War_IV",
    "steam": "2272360"
@@ -1282,6 +1304,7 @@
  {
   "enwiki": "Dragon Quest Heroes: Torneko's Mystery Dungeon -Classic HD-",
   "ids": {
+   "pcgamingwiki": "Dragon_Quest_Heroes:_Torneko's_Mystery_Dungeon_-Classic_HD-",
    "steam": "4027450"
   },
   "label_en": "Dragon Quest Heroes: Torneko's Mystery Dungeon -Classic HD-",

@@ -51,6 +51,7 @@
   "enwiki": "Ninety-Nine Nights",
   "ids": {
    "igdb": "n3-ninety-nine-nights",
+   "metacritic": "ninety-nine-nights",
    "mobygames": "24335"
   },
   "label_en": "Ninety-Nine Nights",
@@ -114,6 +115,7 @@
   "ids": {
    "howlongtobeat": "24467",
    "igdb": "moto-racer-advance",
+   "metacritic": "moto-racer-advance",
    "mobygames": "65460"
   },
   "label_en": "Moto Racer Advance",
@@ -177,6 +179,7 @@
   "ids": {
    "howlongtobeat": "6542",
    "igdb": "nexuiz--1",
+   "metacritic": "nexuiz",
    "mobygames": "57699",
    "pcgamingwiki": "Nexuiz_(2012)",
    "steam": "96800"
@@ -203,6 +206,7 @@
   "ids": {
    "howlongtobeat": "66595",
    "igdb": "dreams",
+   "metacritic": "dreams",
    "mobygames": "141439"
   },
   "label_en": "Dreams",
@@ -213,6 +217,7 @@
   "ids": {
    "howlongtobeat": "30355",
    "igdb": "skyshines-bedlam",
+   "metacritic": "skyshines-bedlam",
    "mobygames": "78999",
    "pcgamingwiki": "Skyshine's_Bedlam_Redux!",
    "steam": "367600"
@@ -226,6 +231,7 @@
    "gog": "game/shattered_haven",
    "howlongtobeat": "8388",
    "igdb": "shattered-haven",
+   "metacritic": "shattered-haven",
    "mobygames": "85636",
    "pcgamingwiki": "Shattered_Haven",
    "steam": "234370"
@@ -286,6 +292,7 @@
    "gog": "game/corpse_party_2_dead_patient",
    "howlongtobeat": "50821",
    "igdb": "corpse-party-2-dead-patient",
+   "metacritic": "corpse-party-2-dead-patient",
    "mobygames": "136511",
    "pcgamingwiki": "Corpse_Party_2:_Dead_Patient",
    "steam": "940310"
@@ -310,6 +317,7 @@
    "epic": "crysis-remastered",
    "howlongtobeat": "78528",
    "igdb": "crysis-remastered",
+   "metacritic": "crysis-remastered",
    "mobygames": "148477",
    "pcgamingwiki": "Crysis_Remastered",
    "steam": "1715130"
@@ -322,6 +330,7 @@
   "ids": {
    "howlongtobeat": "27823",
    "igdb": "ncaa-march-madness-2004",
+   "metacritic": "ncaa-march-madness-2004",
    "mobygames": "76725"
   },
   "label_en": "NCAA March Madness 2004",
@@ -339,6 +348,9 @@
   "wikidata": "Q100701976"
  },
  {
+  "ids": {
+   "metacritic": "red-ball-3"
+  },
   "label_en": "Red Ball 3",
   "wikidata": "Q106877976"
  },
@@ -355,6 +367,7 @@
    "epic": "bonfire-peaks",
    "howlongtobeat": "98603",
    "igdb": "bonfire-peaks",
+   "metacritic": "bonfire-peaks",
    "mobygames": "172949",
    "pcgamingwiki": "Bonfire_Peaks",
    "steam": "1147890"
@@ -721,6 +734,7 @@
    "gog": "game/pizza_possum",
    "howlongtobeat": "129873",
    "igdb": "pizza-possum",
+   "metacritic": "pizza-possum",
    "mobygames": "209577",
    "pcgamingwiki": "Pizza_Possum",
    "steam": "1951230"
@@ -1228,6 +1242,7 @@
  {
   "ids": {
    "igdb": "rogue--1",
+   "pcgamingwiki": "Rogue_(2019)",
    "steam": "983830"
   },
   "label_en": "Rogue",

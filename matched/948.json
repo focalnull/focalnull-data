@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11034",
    "igdb": "warcraft-iii-reign-of-chaos",
+   "metacritic": "warcraft-iii-reign-of-chaos",
    "mobygames": "6860",
    "pcgamingwiki": "Warcraft_III:_Reign_of_Chaos"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "15415",
    "igdb": "close-combat-first-to-fight",
+   "metacritic": "close-combat-first-to-fight",
    "mobygames": "33742",
    "pcgamingwiki": "Close_Combat:_First_to_Fight"
   },
@@ -35,7 +37,9 @@
   "enwiki": "Soul Nomad & the World Eaters",
   "ids": {
    "igdb": "soul-nomad-and-the-world-eaters",
+   "metacritic": "soul-nomad-and-the-world-eaters",
    "mobygames": "35427",
+   "pcgamingwiki": "Soul_Nomad_&_the_World_Eaters",
    "steam": "1535610"
   },
   "label_en": "Soul Nomad & the World Eaters",
@@ -53,6 +57,7 @@
   "enwiki": "Go Vacation",
   "ids": {
    "igdb": "go-vacation",
+   "metacritic": "go-vacation",
    "mobygames": "85492"
   },
   "label_en": "Go Vacation",
@@ -63,6 +68,7 @@
   "ids": {
    "howlongtobeat": "1889",
    "igdb": "conflict-global-terror",
+   "metacritic": "conflict-global-terror",
    "mobygames": "20764",
    "pcgamingwiki": "Conflict:_Global_Terror"
   },
@@ -99,6 +105,7 @@
  {
   "ids": {
    "igdb": "speedball-2100",
+   "metacritic": "speedball-2100",
    "mobygames": "11963"
   },
   "label_en": "Speedball 2100",
@@ -137,6 +144,7 @@
   "ids": {
    "howlongtobeat": "722",
    "igdb": "atv-quad-power-racing",
+   "metacritic": "atv-quad-power-racing",
    "mobygames": "8960"
   },
   "label_en": "ATV Quad Power Racing",
@@ -147,6 +155,7 @@
   "ids": {
    "howlongtobeat": "929",
    "igdb": "battleblock-theater",
+   "metacritic": "battleblock-theater",
    "mobygames": "67916",
    "pcgamingwiki": "BattleBlock_Theater",
    "steam": "238460"
@@ -197,6 +206,7 @@
   "enwiki": "Smart Bomb (video game)",
   "ids": {
    "igdb": "smart-bomb",
+   "metacritic": "smart-bomb",
    "mobygames": "35059"
   },
   "label_en": "Smart Bomb",
@@ -232,6 +242,7 @@
   "enwiki": "Zubo",
   "ids": {
    "igdb": "zubo",
+   "metacritic": "zubo",
    "mobygames": "36775"
   },
   "label_en": "Zubo",
@@ -244,7 +255,8 @@
  {
   "enwiki": "Naruto Shippuden: Legends – Akatsuki Rising",
   "ids": {
-   "igdb": "naruto-shippuden-legends-akatsuki-rising"
+   "igdb": "naruto-shippuden-legends-akatsuki-rising",
+   "metacritic": "naruto-shippuden-legends-akatsuki-rising"
   },
   "label_en": "Naruto Shippuden: Legends: Akatsuki Rising",
   "wikidata": "Q16258948"
@@ -279,6 +291,7 @@
    "gog": "game/tyranny_commander_edition",
    "howlongtobeat": "36184",
    "igdb": "tyranny",
+   "metacritic": "tyranny",
    "mobygames": "81783",
    "pcgamingwiki": "Tyranny",
    "steam": "362960"
@@ -304,6 +317,7 @@
   "ids": {
    "howlongtobeat": "29344",
    "igdb": "viridi",
+   "metacritic": "viridi",
    "mobygames": "83730",
    "pcgamingwiki": "Viridi",
    "steam": "375950"
@@ -338,6 +352,7 @@
    "gog": "game/the_elder_scrolls_v_skyrim_special_edition",
    "howlongtobeat": "14996",
    "igdb": "the-elder-scrolls-v-skyrim-special-edition",
+   "metacritic": "the-elder-scrolls-v-skyrim-special-edition",
    "mobygames": "82645",
    "pcgamingwiki": "The_Elder_Scrolls_V:_Skyrim_Special_Edition",
    "steam": "489830"
@@ -377,6 +392,7 @@
   "ids": {
    "howlongtobeat": "64422",
    "igdb": "handball-17",
+   "metacritic": "handball-17",
    "mobygames": "84352",
    "pcgamingwiki": "Handball_17",
    "steam": "526980"
@@ -390,6 +406,7 @@
    "epic": "forspoken",
    "howlongtobeat": "89902",
    "igdb": "forspoken",
+   "metacritic": "forspoken",
    "mobygames": "198367",
    "pcgamingwiki": "Forspoken",
    "steam": "1680880"
@@ -402,6 +419,7 @@
    "gog": "game/on_rusty_trails",
    "howlongtobeat": "30710",
    "igdb": "on-rusty-trails",
+   "metacritic": "on-rusty-trails",
    "mobygames": "103388",
    "pcgamingwiki": "On_Rusty_Trails",
    "steam": "277700"
@@ -419,6 +437,7 @@
    "howlongtobeat": "99890",
    "igdb": "settlement-survival",
    "mobygames": "173564",
+   "pcgamingwiki": "Settlement_Survival",
    "steam": "1509510"
   },
   "label_en": "Settlement Survival",
@@ -438,6 +457,7 @@
    "gog": "game/unmetal",
    "howlongtobeat": "81659",
    "igdb": "unmetal",
+   "metacritic": "unmetal",
    "mobygames": "172880",
    "pcgamingwiki": "UnMetal",
    "steam": "1203710"
@@ -798,6 +818,7 @@
   "ids": {
    "howlongtobeat": "59618",
    "igdb": "anamorphine",
+   "metacritic": "anamorphine",
    "mobygames": "111934",
    "pcgamingwiki": "Anamorphine",
    "steam": "545620"
@@ -909,6 +930,7 @@
  },
  {
   "ids": {
+   "metacritic": "twigger",
    "mobygames": "35844"
   },
   "label_en": "Twigger",
@@ -987,6 +1009,7 @@
   "ids": {
    "howlongtobeat": "169418",
    "igdb": "call-of-duty-black-ops-7",
+   "metacritic": "call-of-duty-black-ops-7",
    "mobygames": "250460",
    "pcgamingwiki": "Call_of_Duty:_Black_Ops_7",
    "steam": "3606480"
@@ -1242,6 +1265,7 @@
   "ids": {
    "igdb": "der-geisterjager-the-ghost-hunter",
    "mobygames": "187851",
+   "pcgamingwiki": "Der_Geisterjäger_/_The_Ghost_Hunter",
    "steam": "1581240"
   },
   "label_en": "Der Geisterjäger / The Ghost Hunter",
@@ -1267,7 +1291,9 @@
   "ids": {
    "howlongtobeat": "22748",
    "igdb": "antikiller",
+   "metacritic": "antikiller",
    "mobygames": "43781",
+   "pcgamingwiki": "Antikiller",
    "steam": "2539310"
   },
   "label_en": "Antikiller",

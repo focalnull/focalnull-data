@@ -178,7 +178,8 @@
  {
   "ids": {
    "igdb": "fim-speedway-grand-prix",
-   "mobygames": "185950"
+   "mobygames": "185950",
+   "pcgamingwiki": "FIM_Speedway_Grand_Prix"
   },
   "label_en": "FIM Speedway Grand Prix",
   "wikidata": "Q9257337"
@@ -202,6 +203,7 @@
    "gog": "game/age_of_wonders_3",
    "howlongtobeat": "17567",
    "igdb": "age-of-wonders-iii",
+   "metacritic": "age-of-wonders-iii",
    "mobygames": "65265",
    "pcgamingwiki": "Age_of_Wonders_III",
    "steam": "226840"
@@ -213,6 +215,7 @@
   "enwiki": "Super Monkey Ball: Touch & Roll",
   "ids": {
    "igdb": "super-monkey-ball-touch-and-roll",
+   "metacritic": "super-monkey-ball-touch-and-roll",
    "mobygames": "21485"
   },
   "label_en": "Super Monkey Ball Touch & Roll",
@@ -222,6 +225,7 @@
   "ids": {
    "howlongtobeat": "3249",
    "igdb": "evochron-mercenary",
+   "metacritic": "evochron-mercenary",
    "mobygames": "57520",
    "pcgamingwiki": "Evochron_Mercenary",
    "steam": "71000"
@@ -239,6 +243,7 @@
   "ids": {
    "howlongtobeat": "27775",
    "igdb": "sakura-fantasy-chapter-1",
+   "metacritic": "sakura-fantasy",
    "mobygames": "82768",
    "pcgamingwiki": "Sakura_Fantasy_Chapter_1",
    "steam": "375200"
@@ -279,6 +284,7 @@
   "ids": {
    "howlongtobeat": "15451",
    "igdb": "chronus-arc",
+   "metacritic": "chronus-arc",
    "mobygames": "99367",
    "pcgamingwiki": "Chronus_Arc",
    "steam": "831650"
@@ -292,6 +298,7 @@
    "gog": "game/cryptark",
    "howlongtobeat": "33251",
    "igdb": "cryptark",
+   "metacritic": "cryptark",
    "mobygames": "82847",
    "pcgamingwiki": "Cryptark",
    "steam": "344740"
@@ -304,6 +311,7 @@
   "ids": {
    "howlongtobeat": "61955",
    "igdb": "the-hex",
+   "metacritic": "the-hex",
    "mobygames": "115384",
    "pcgamingwiki": "The_Hex",
    "steam": "510420"
@@ -315,6 +323,7 @@
   "ids": {
    "howlongtobeat": "46278",
    "igdb": "immortal-planet",
+   "metacritic": "immortal-planet",
    "mobygames": "93529",
    "pcgamingwiki": "Immortal_Planet",
    "steam": "631980"
@@ -328,6 +337,7 @@
    "epic": "homeworld-3",
    "howlongtobeat": "71771",
    "igdb": "homeworld-3",
+   "metacritic": "homeworld-3",
    "mobygames": "223801",
    "pcgamingwiki": "Homeworld_3",
    "steam": "1840080"
@@ -365,6 +375,7 @@
   "ids": {
    "howlongtobeat": "56842",
    "igdb": "factotum-90",
+   "metacritic": "factotum-90",
    "mobygames": "96136",
    "pcgamingwiki": "Factotum_90",
    "steam": "464110"
@@ -376,6 +387,7 @@
   "ids": {
    "howlongtobeat": "30675",
    "igdb": "zombie-vikings-stab-a-thon",
+   "metacritic": "zombie-vikings",
    "mobygames": "84771",
    "pcgamingwiki": "Zombie_Vikings:_Stab-a-thon",
    "steam": "566910"
@@ -388,6 +400,7 @@
    "epic": "midnight-ghost-hunt",
    "howlongtobeat": "68195",
    "igdb": "midnight-ghost-hunt",
+   "metacritic": "midnight-ghost-hunt",
    "mobygames": "182202",
    "pcgamingwiki": "Midnight_Ghost_Hunt",
    "steam": "915810"
@@ -399,6 +412,7 @@
   "ids": {
    "howlongtobeat": "117162",
    "igdb": "pba-pro-bowling-2021",
+   "metacritic": "pba-pro-bowling-2021",
    "mobygames": "156184",
    "steam": "1415920"
   },
@@ -409,6 +423,7 @@
   "ids": {
    "howlongtobeat": "87869",
    "igdb": "understand",
+   "metacritic": "understand",
    "mobygames": "157268",
    "steam": "1299400"
   },
@@ -420,6 +435,7 @@
   "ids": {
    "howlongtobeat": "65324",
    "igdb": "skater-xl",
+   "metacritic": "skater-xl",
    "mobygames": "123993",
    "pcgamingwiki": "Skater_XL",
    "steam": "962730"
@@ -450,6 +466,7 @@
   "ids": {
    "howlongtobeat": "104087",
    "igdb": "shovel-knight-dig",
+   "metacritic": "shovel-knight-dig",
    "mobygames": "191752",
    "pcgamingwiki": "Shovel_Knight_Dig",
    "steam": "1416050"

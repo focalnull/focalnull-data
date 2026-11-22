@@ -26,6 +26,7 @@
   "ids": {
    "howlongtobeat": "6236",
    "igdb": "motorstorm-apocalypse",
+   "metacritic": "motorstorm-apocalypse",
    "mobygames": "70183"
   },
   "label_en": "MotorStorm: Apocalypse",
@@ -57,6 +58,7 @@
   "ids": {
    "howlongtobeat": "4337",
    "igdb": "harvest-moon-friends-of-mineral-town",
+   "metacritic": "harvest-moon-friends-of-mineral-town",
    "mobygames": "12227"
   },
   "label_en": "Harvest Moon: Friends of Mineral Town",
@@ -67,6 +69,7 @@
   "ids": {
    "howlongtobeat": "4997",
    "igdb": "kinect-sports",
+   "metacritic": "kinect-sports",
    "mobygames": "49344"
   },
   "label_en": "Kinect Sports",
@@ -87,6 +90,7 @@
   "ids": {
    "howlongtobeat": "5663",
    "igdb": "mario-vs-donkey-kong-minis-march-again",
+   "metacritic": "mario-vs-donkey-kong-minis-march-again",
    "mobygames": "45481"
   },
   "label_en": "Mario vs. Donkey Kong: Minis March Again!",
@@ -97,6 +101,7 @@
   "ids": {
    "howlongtobeat": "5657",
    "igdb": "mario-tennis",
+   "metacritic": "mario-tennis",
    "mobygames": "3548"
   },
   "label_en": "Mario Tennis",
@@ -151,6 +156,7 @@
   "enwiki": "Datura (video game)",
   "ids": {
    "igdb": "datura",
+   "metacritic": "datura",
    "mobygames": "83591"
   },
   "label_en": "Datura",
@@ -214,6 +220,7 @@
   "ids": {
    "howlongtobeat": "15221",
    "igdb": "persona-5-ultimate-edition",
+   "metacritic": "persona-5",
    "mobygames": "86408"
   },
   "label_en": "Persona 5",
@@ -224,6 +231,7 @@
   "ids": {
    "howlongtobeat": "28257",
    "igdb": "neon-struct-die-augen-der-welt",
+   "metacritic": "neon-struct",
    "mobygames": "87942",
    "pcgamingwiki": "Neon_Struct",
    "steam": "310740"
@@ -236,6 +244,7 @@
   "ids": {
    "howlongtobeat": "38029",
    "igdb": "nier-automata",
+   "metacritic": "nier-automata",
    "mobygames": "84102",
    "pcgamingwiki": "Nier:_Automata",
    "steam": "524220"
@@ -257,6 +266,7 @@
    "gog": "game/train_valley",
    "howlongtobeat": "30538",
    "igdb": "train-valley",
+   "metacritic": "train-valley",
    "mobygames": "99913",
    "pcgamingwiki": "Train_Valley",
    "steam": "353640"
@@ -280,6 +290,7 @@
   "enwiki": "Firewall: Zero Hour",
   "ids": {
    "igdb": "firewall-zero-hour",
+   "metacritic": "firewall-zero-hour",
    "mobygames": "112795"
   },
   "label_en": "Firewall: Zero Hour",
@@ -291,6 +302,7 @@
    "epic": "solar-ash",
    "howlongtobeat": "66727",
    "igdb": "solar-ash--1",
+   "metacritic": "solar-ash",
    "mobygames": "176239",
    "pcgamingwiki": "Solar_Ash_Kingdom",
    "steam": "1867530"
@@ -305,6 +317,7 @@
    "gog": "game/grime",
    "howlongtobeat": "85927",
    "igdb": "grime",
+   "metacritic": "grime",
    "mobygames": "165454",
    "pcgamingwiki": "Grime",
    "steam": "1123050"
@@ -373,6 +386,7 @@
   "ids": {
    "howlongtobeat": "16849",
    "igdb": "journal",
+   "metacritic": "journal",
    "mobygames": "66391",
    "pcgamingwiki": "Journal",
    "steam": "261680"
@@ -489,6 +503,7 @@
   "ids": {
    "howlongtobeat": "90895",
    "igdb": "light--1",
+   "metacritic": "light",
    "pcgamingwiki": "Light_(2018)",
    "steam": "821260"
   },
@@ -598,6 +613,7 @@
    "gog": "game/lovecrafts_untold_stories_2",
    "howlongtobeat": "109500",
    "igdb": "lovecrafts-untold-stories-2",
+   "metacritic": "lovecrafts-untold-stories-2",
    "mobygames": "190888",
    "pcgamingwiki": "Lovecraft's_Untold_Stories_2",
    "steam": "1401400"
@@ -1113,6 +1129,7 @@
  {
   "ids": {
    "igdb": "trawel",
+   "pcgamingwiki": "Trawel",
    "steam": "992240"
   },
   "label_en": "Trawel",

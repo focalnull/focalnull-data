@@ -12,6 +12,7 @@
   "ids": {
    "epic": "dungeon-fighter-online",
    "igdb": "dungeon-fighter-online",
+   "metacritic": "dungeon-fighter-online",
    "mobygames": "213563",
    "pcgamingwiki": "Dungeon_Fighter_Online",
    "steam": "495910"
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "1478",
    "igdb": "call-of-duty-modern-warfare-3",
+   "metacritic": "call-of-duty-modern-warfare-3",
    "mobygames": "53441",
    "pcgamingwiki": "Call_of_Duty:_Modern_Warfare_3",
    "steam": "115300"
@@ -35,6 +37,7 @@
   "enwiki": "Europe Racer",
   "ids": {
    "igdb": "europe-racer",
+   "metacritic": "europe-racer",
    "mobygames": "27399"
   },
   "label_en": "Europe Racer",
@@ -49,6 +52,7 @@
   "ids": {
    "howlongtobeat": "8336",
    "igdb": "shadow-complex",
+   "metacritic": "shadow-complex",
    "mobygames": "42135"
   },
   "label_en": "Shadow Complex",
@@ -59,6 +63,7 @@
   "ids": {
    "howlongtobeat": "6841",
    "igdb": "outrun-online-arcade",
+   "metacritic": "outrun-online-arcade",
    "mobygames": "45915"
   },
   "label_en": "OutRun Online Arcade",
@@ -68,6 +73,7 @@
   "enwiki": "Shining Soul II",
   "ids": {
    "igdb": "shining-soul-ii",
+   "metacritic": "shining-soul-ii",
    "mobygames": "13002"
   },
   "label_en": "Shining Soul II",
@@ -149,6 +155,7 @@
  {
   "ids": {
    "igdb": "yatohime-zankikou",
+   "metacritic": "yatohime-zankikou",
    "mobygames": "69969"
   },
   "label_en": "Yatohime Zankikō",
@@ -255,6 +262,7 @@
    "epic": "clone-drone-in-the-danger-zone-4daf6e",
    "howlongtobeat": "46204",
    "igdb": "clone-drone-in-the-danger-zone",
+   "metacritic": "clone-drone-in-the-danger-zone",
    "mobygames": "138523",
    "pcgamingwiki": "Clone_Drone_in_the_Danger_Zone",
    "steam": "597170"
@@ -280,6 +288,7 @@
    "gog": "game/eiyuden_chronicle_hundred_heroes",
    "howlongtobeat": "82916",
    "igdb": "eiyuden-chronicle-hundred-heroes",
+   "metacritic": "eiyuden-chronicle-hundred-heroes",
    "mobygames": "222608",
    "pcgamingwiki": "Eiyuden_Chronicle:_Hundred_Heroes",
    "steam": "1658280"
@@ -299,6 +308,7 @@
   "ids": {
    "howlongtobeat": "97239",
    "igdb": "i-expect-you-to-die-2",
+   "metacritic": "i-expect-you-to-die-2-the-spy-and-the-liar",
    "mobygames": "170143",
    "pcgamingwiki": "I_Expect_You_To_Die_2",
    "steam": "1499120"
@@ -307,6 +317,9 @@
   "wikidata": "Q109651233"
  },
  {
+  "ids": {
+   "metacritic": "bishoujo"
+  },
   "label_en": "Bishoujo",
   "wikidata": "Q110880233"
  },
@@ -374,6 +387,7 @@
   "ids": {
    "howlongtobeat": "120076",
    "igdb": "city-bus-manager",
+   "metacritic": "city-bus-manager",
    "mobygames": "195613",
    "steam": "1364210"
   },
@@ -404,6 +418,7 @@
   "ids": {
    "howlongtobeat": "129966",
    "igdb": "kunitsu-gami-path-of-the-goddess",
+   "metacritic": "kunitsu-gami-path-of-the-goddess",
    "mobygames": "227846",
    "pcgamingwiki": "Kunitsu-Gami:_Path_of_the_Goddess",
    "steam": "2510710"
@@ -424,7 +439,9 @@
   "ids": {
    "howlongtobeat": "84839",
    "igdb": "labyrinthine",
+   "metacritic": "labyrinthine",
    "mobygames": "150549",
+   "pcgamingwiki": "Labyrinthine",
    "steam": "1302240"
   },
   "label_en": "Labyrinthine",
@@ -661,6 +678,7 @@
   "ids": {
    "howlongtobeat": "137749",
    "igdb": "demon-slayer-kimetsu-no-yaiba-sweep-the-board",
+   "metacritic": "demon-slayer-kimetsu-no-yaiba-sweep-the-board",
    "mobygames": "222802",
    "pcgamingwiki": "Demon_Slayer_-Kimetsu_no_Yaiba-_Sweep_the_Board!",
    "steam": "2424110"
@@ -752,6 +770,7 @@
   "ids": {
    "howlongtobeat": "29364",
    "igdb": "star-horizon",
+   "metacritic": "star-horizon",
    "mobygames": "94729",
    "pcgamingwiki": "Star_Horizon",
    "steam": "352960"
@@ -1054,6 +1073,7 @@
  {
   "ids": {
    "igdb": "decollate-decoration--1",
+   "metacritic": "decollate-decoration",
    "steam": "3155570"
   },
   "label_en": "Decollate Decoration",

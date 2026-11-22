@@ -14,6 +14,7 @@
   "ids": {
    "gog": "game/might_and_magic_9",
    "igdb": "might-and-magic-ix",
+   "metacritic": "might-and-magic-ix",
    "mobygames": "6136",
    "pcgamingwiki": "Might_and_Magic_IX"
   },
@@ -26,6 +27,7 @@
    "gog": "game/silent_hill_4_the_room",
    "howlongtobeat": "8527",
    "igdb": "silent-hill-4-the-room",
+   "metacritic": "silent-hill-4-the-room",
    "mobygames": "14830",
    "pcgamingwiki": "Silent_Hill_4:_The_Room"
   },
@@ -46,6 +48,7 @@
   "ids": {
    "howlongtobeat": "10439",
    "igdb": "tom-clancy-s-h-a-w-x",
+   "metacritic": "tom-clancys-hawx",
    "mobygames": "39804",
    "pcgamingwiki": "Tom_Clancy's_H.A.W.X",
    "steam": "21900"
@@ -80,6 +83,7 @@
   "ids": {
    "howlongtobeat": "7339",
    "igdb": "professor-layton-and-the-last-specter",
+   "metacritic": "professor-layton-and-the-last-specter",
    "mobygames": "53342"
   },
   "label_en": "Professor Layton and the Last Specter",
@@ -153,6 +157,7 @@
   "ids": {
    "howlongtobeat": "28492",
    "igdb": "disney-sing-it-family-hits",
+   "metacritic": "disney-sing-it-family-hits",
    "mobygames": "86159"
   },
   "label_en": "Disney Sing It: Family Hits",
@@ -171,6 +176,7 @@
   "enwiki": "Coded Arms",
   "ids": {
    "igdb": "coded-arms",
+   "metacritic": "coded-arms",
    "mobygames": "23557"
   },
   "label_en": "Coded Arms",
@@ -201,7 +207,8 @@
   "enwiki": "MLB 2K13",
   "ids": {
    "howlongtobeat": "16215",
-   "igdb": "mlb-2k13"
+   "igdb": "mlb-2k13",
+   "metacritic": "mlb-2k13"
   },
   "label_en": "Major League Baseball 2K13",
   "wikidata": "Q6738124"
@@ -255,6 +262,7 @@
   "ids": {
    "howlongtobeat": "23001",
    "igdb": "block-n-load",
+   "metacritic": "block-n-load",
    "mobygames": "148276",
    "pcgamingwiki": "Block_N_Load",
    "steam": "299360"
@@ -282,6 +290,7 @@
    "gog": "game/minit",
    "howlongtobeat": "55140",
    "igdb": "minit",
+   "metacritic": "minit",
    "mobygames": "106507",
    "pcgamingwiki": "Minit",
    "steam": "609490"
@@ -322,6 +331,7 @@
  {
   "ids": {
    "igdb": "aoki-ookami-to-shiroki-mejika",
+   "pcgamingwiki": "Aoki_Ōkami_to_Shiroki_Mejika",
    "steam": "545000"
   },
   "label_en": "Aoki Ōkami to Shiroki Mejika",
@@ -332,6 +342,7 @@
   "ids": {
    "howlongtobeat": "69992",
    "igdb": "gtfo",
+   "metacritic": "gtfo",
    "mobygames": "138472",
    "pcgamingwiki": "GTFO",
    "steam": "493520"
@@ -350,6 +361,7 @@
   "ids": {
    "howlongtobeat": "96639",
    "igdb": "little-witch-academia-vr-broom-racing",
+   "metacritic": "little-witch-academia-vr-broom-racing",
    "mobygames": "158529",
    "pcgamingwiki": "Little_Witch_Academia:_VR_Broom_Racing",
    "steam": "1294450"
@@ -358,6 +370,9 @@
   "wikidata": "Q65944124"
  },
  {
+  "ids": {
+   "metacritic": "resident-evil-4-wii-edition"
+  },
   "label_en": "Resident Evil 4: Wii Edition",
   "wikidata": "Q66770124"
  },
@@ -530,6 +545,7 @@
   "ids": {
    "howlongtobeat": "94215",
    "igdb": "little-kitty-big-city",
+   "metacritic": "little-kitty-big-city",
    "mobygames": "223648",
    "pcgamingwiki": "Little_Kitty,_Big_City",
    "steam": "1177980"
@@ -912,6 +928,7 @@
    "gog": "game/necrophosis",
    "howlongtobeat": "159268",
    "igdb": "necrophosis",
+   "metacritic": "necrophosis",
    "mobygames": "241140",
    "pcgamingwiki": "Necrophosis",
    "steam": "2019760"
@@ -951,6 +968,7 @@
  {
   "ids": {
    "igdb": "i-c-redd",
+   "metacritic": "i-c-redd",
    "mobygames": "100769"
   },
   "label_en": "I C REDD",
@@ -1253,6 +1271,7 @@
  {
   "ids": {
    "igdb": "archipelago",
+   "pcgamingwiki": "Archipelago",
    "steam": "513720"
   },
   "label_en": "Archipelago",

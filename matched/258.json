@@ -12,6 +12,7 @@
   "ids": {
    "gog": "game/empire_earth_2_gold",
    "igdb": "empire-earth-ii-gold-edition",
+   "metacritic": "empire-earth-ii",
    "mobygames": "19035",
    "pcgamingwiki": "Empire_Earth_II",
    "steam": "254780"
@@ -43,6 +44,7 @@
   "ids": {
    "howlongtobeat": "17588",
    "igdb": "toribash",
+   "metacritic": "toribash",
    "mobygames": "30800",
    "pcgamingwiki": "Toribash",
    "steam": "248570"
@@ -76,6 +78,7 @@
   "enwiki": "Lair (video game)",
   "ids": {
    "igdb": "lair",
+   "metacritic": "lair",
    "mobygames": "32093"
   },
   "label_en": "Lair",
@@ -94,6 +97,7 @@
   "enwiki": "Looney Tunes Racing",
   "ids": {
    "igdb": "looney-tunes-racing",
+   "metacritic": "looney-tunes-racing",
    "mobygames": "14264"
   },
   "label_en": "Looney Tunes Racing",
@@ -113,6 +117,7 @@
   "ids": {
    "howlongtobeat": "11846",
    "igdb": "akaneiro-demon-hunters",
+   "metacritic": "akaneiro-demon-hunters",
    "mobygames": "60318",
    "pcgamingwiki": "Akaneiro:_Demon_Hunters",
    "steam": "230310"
@@ -156,6 +161,7 @@
   "enwiki": "Gladiator Begins",
   "ids": {
    "igdb": "gladiator-begins",
+   "metacritic": "gladiator-begins",
    "mobygames": "73419"
   },
   "label_en": "Gladiator Begins",
@@ -214,6 +220,7 @@
   "ids": {
    "howlongtobeat": "14349",
    "igdb": "contrast",
+   "metacritic": "contrast",
    "mobygames": "63205",
    "pcgamingwiki": "Contrast",
    "steam": "224460"
@@ -226,6 +233,7 @@
   "ids": {
    "howlongtobeat": "38202",
    "igdb": "videoball",
+   "metacritic": "videoball",
    "mobygames": "79738",
    "pcgamingwiki": "Videoball",
    "steam": "277390"
@@ -256,6 +264,7 @@
   "ids": {
    "howlongtobeat": "7284",
    "igdb": "prime-world-defenders",
+   "metacritic": "prime-world-defenders",
    "mobygames": "65345",
    "pcgamingwiki": "Prime_World:_Defenders",
    "steam": "235360"
@@ -277,6 +286,7 @@
    "gog": "game/kenshi",
    "howlongtobeat": "17456",
    "igdb": "kenshi",
+   "metacritic": "kenshi",
    "mobygames": "100329",
    "pcgamingwiki": "Kenshi",
    "steam": "233860"
@@ -288,6 +298,7 @@
   "ids": {
    "howlongtobeat": "30619",
    "igdb": "kitten-squad",
+   "metacritic": "kitten-squad",
    "mobygames": "76974",
    "pcgamingwiki": "Kitten_Squad",
    "steam": "547820"
@@ -299,6 +310,7 @@
   "ids": {
    "howlongtobeat": "43572",
    "igdb": "angels-with-scaly-wings",
+   "metacritic": "angels-with-scaly-wings",
    "mobygames": "100504",
    "pcgamingwiki": "Angels_with_Scaly_Wings",
    "steam": "571880"
@@ -327,6 +339,7 @@
   "ids": {
    "howlongtobeat": "72069",
    "igdb": "persona-5-strikers",
+   "metacritic": "persona-5-strikers",
    "mobygames": "159196",
    "pcgamingwiki": "Persona_5_Strikers",
    "steam": "1382330"
@@ -345,6 +358,7 @@
   "enwiki": "MTV Sports: T.J. Lavin's Ultimate BMX",
   "ids": {
    "igdb": "mtv-sports-tj-lavins-ultimate-bmx",
+   "metacritic": "mtv-sports-tj-lavins-ultimate-bmx",
    "mobygames": "37683"
   },
   "label_en": "MTV Sports: T.J. Lavin's Ultimate BMX",
@@ -355,6 +369,7 @@
    "epic": "where-cards-fall",
    "howlongtobeat": "67991",
    "igdb": "where-cards-fall",
+   "metacritic": "where-cards-fall",
    "mobygames": "135497",
    "pcgamingwiki": "Where_Cards_Fall",
    "steam": "589450"
@@ -366,6 +381,7 @@
   "ids": {
    "howlongtobeat": "77621",
    "igdb": "yumeutsutsu-re-master",
+   "metacritic": "yumeutsutsu-remaster",
    "mobygames": "128767",
    "pcgamingwiki": "Yumeutsutsu_Re:Master",
    "steam": "1058140"
@@ -396,6 +412,7 @@
    "epic": "aerial-knights-never-yield",
    "howlongtobeat": "91068",
    "igdb": "aerial-knights-never-yield",
+   "metacritic": "aerialknights-never-yield",
    "mobygames": "164661",
    "pcgamingwiki": "Aerial_Knight's_Never_Yield",
    "steam": "1323540"
@@ -434,6 +451,7 @@
   "ids": {
    "howlongtobeat": "33973",
    "igdb": "echoes-of-aetheria",
+   "metacritic": "echoes-of-aetheria",
    "mobygames": "91843",
    "pcgamingwiki": "Echoes_of_Aetheria",
    "steam": "354740"
@@ -476,6 +494,7 @@
   "ids": {
    "howlongtobeat": "109825",
    "igdb": "lucky-luna",
+   "metacritic": "lucky-luna",
    "mobygames": "192062"
   },
   "label_en": "Lucky Luna",
@@ -499,7 +518,8 @@
  {
   "enwiki": "NHL 24",
   "ids": {
-   "igdb": "nhl-24"
+   "igdb": "nhl-24",
+   "metacritic": "nhl-24"
   },
   "label_en": "NHL 24",
   "wikidata": "Q121450258"
@@ -728,6 +748,7 @@
   "ids": {
    "howlongtobeat": "136079",
    "igdb": "little-goody-two-shoes",
+   "metacritic": "little-goody-two-shoes",
    "mobygames": "211209",
    "pcgamingwiki": "Little_Goody_Two_Shoes",
    "steam": "1812370"
@@ -907,6 +928,9 @@
   "wikidata": "Q128977258"
  },
  {
+  "ids": {
+   "metacritic": "senpai-ga-watashi-no-mousou-ni-doujin-suru"
+  },
   "label_en": "Senpai ga Watashi no Mōsō ni Dōjin Suru?!",
   "wikidata": "Q130213258"
  },
@@ -930,6 +954,7 @@
  {
   "ids": {
    "igdb": "spherezor",
+   "metacritic": "spherezor",
    "mobygames": "91241"
   },
   "label_en": "SphereZor",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1556",
    "igdb": "castle-crashers",
+   "metacritic": "castle-crashers",
    "mobygames": "35927",
    "pcgamingwiki": "Castle_Crashers",
    "steam": "204360"
@@ -47,6 +48,7 @@
   "ids": {
    "howlongtobeat": "6839",
    "igdb": "outrun-2006-coast-2-coast",
+   "metacritic": "outrun-2006-coast-2-coast",
    "mobygames": "23324",
    "pcgamingwiki": "OutRun_2006:_Coast_2_Coast",
    "steam": "4730"
@@ -66,6 +68,7 @@
   "enwiki": "Downtown Run",
   "ids": {
    "igdb": "city-racer",
+   "metacritic": "city-racer",
    "mobygames": "42616",
    "pcgamingwiki": "Downtown_Run"
   },
@@ -139,6 +142,7 @@
   "ids": {
    "howlongtobeat": "15665",
    "igdb": "the-amazing-spider-man-2",
+   "metacritic": "the-amazing-spider-man-2",
    "mobygames": "65372",
    "pcgamingwiki": "The_Amazing_Spider-Man_2",
    "steam": "267550"
@@ -150,6 +154,7 @@
   "enwiki": "Go! Go! Kokopolo",
   "ids": {
    "igdb": "go-go-kokopolo-harmonious-forest-revenge",
+   "metacritic": "go-go-kokopolo",
    "mobygames": "53498"
   },
   "label_en": "Go! Go! Kokopolo",
@@ -704,6 +709,7 @@
   "ids": {
    "howlongtobeat": "160558",
    "igdb": "blippo-plus",
+   "metacritic": "blippo-plus",
    "mobygames": "243756",
    "pcgamingwiki": "Blippo+",
    "steam": "3323850"

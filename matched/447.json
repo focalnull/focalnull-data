@@ -24,6 +24,7 @@
   "ids": {
    "howlongtobeat": "6874",
    "igdb": "painkiller",
+   "metacritic": "painkiller-2004",
    "mobygames": "12938",
    "pcgamingwiki": "Painkiller",
    "steam": "3200"
@@ -48,6 +49,7 @@
   "enwiki": "Mario Golf (video game)",
   "ids": {
    "igdb": "mario-golf",
+   "metacritic": "mario-golf",
    "mobygames": "3538"
   },
   "label_en": "Mario Golf",
@@ -110,6 +112,7 @@
   "ids": {
    "howlongtobeat": "2727",
    "igdb": "double-dragon-neon",
+   "metacritic": "double-dragon-neon",
    "mobygames": "66587",
    "pcgamingwiki": "Double_Dragon_Neon",
    "steam": "252350"
@@ -135,6 +138,7 @@
   "enwiki": "College Hoops 2K7",
   "ids": {
    "igdb": "college-hoops-2k7",
+   "metacritic": "college-hoops-2k7",
    "mobygames": "36928"
   },
   "label_en": "College Hoops 2K7",
@@ -221,6 +225,7 @@
   "ids": {
    "howlongtobeat": "4705",
    "igdb": "insurgency",
+   "metacritic": "insurgency",
    "mobygames": "65273",
    "pcgamingwiki": "Insurgency",
    "steam": "222880"
@@ -268,6 +273,7 @@
   "ids": {
    "howlongtobeat": "43480",
    "igdb": "mario-kart-8-deluxe",
+   "metacritic": "mario-kart-8-deluxe",
    "mobygames": "87551"
   },
   "label_en": "Mario Kart 8 Deluxe",
@@ -279,6 +285,7 @@
    "gog": "game/crossing_souls",
    "howlongtobeat": "25103",
    "igdb": "crossing-souls",
+   "metacritic": "crossing-souls",
    "mobygames": "103282",
    "pcgamingwiki": "Crossing_Souls",
    "steam": "331690"
@@ -324,6 +331,7 @@
    "gog": "game/astrologaster",
    "howlongtobeat": "67977",
    "igdb": "astrologaster",
+   "metacritic": "astrologaster",
    "mobygames": "126540",
    "pcgamingwiki": "Astrologaster",
    "steam": "742520"
@@ -367,6 +375,7 @@
    "epic": "kawaii-deathu-desu-bc669f",
    "howlongtobeat": "80160",
    "igdb": "kawaii-deathu-desu",
+   "metacritic": "kawaii-deathu-desu",
    "mobygames": "144378",
    "pcgamingwiki": "Kawaii_Deathu_Desu",
    "steam": "1102880"
@@ -469,6 +478,7 @@
   "ids": {
    "howlongtobeat": "148089",
    "igdb": "age-of-water",
+   "metacritic": "age-of-water",
    "mobygames": "226061",
    "steam": "2695490"
   },
@@ -726,6 +736,7 @@
    "gog": "game/shovel_knight",
    "howlongtobeat": "19512",
    "igdb": "shovel-knight-treasure-trove",
+   "metacritic": "shovel-knight",
    "mobygames": "84827",
    "pcgamingwiki": "Shovel_Knight",
    "steam": "250760"
@@ -758,6 +769,7 @@
   "ids": {
    "howlongtobeat": "56305",
    "igdb": "beat-the-game",
+   "metacritic": "beat-the-game",
    "mobygames": "114513",
    "pcgamingwiki": "Beat_The_Game",
    "steam": "543100"
@@ -1094,6 +1106,7 @@
    "epic": "windrose-831c86",
    "howlongtobeat": "165458",
    "igdb": "windrose",
+   "metacritic": "windrose",
    "mobygames": "259223",
    "pcgamingwiki": "Windrose",
    "steam": "3041230"

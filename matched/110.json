@@ -3,6 +3,7 @@
   "enwiki": "Kingdom Hearts Birth by Sleep",
   "ids": {
    "igdb": "kingdom-hearts-birth-by-sleep",
+   "metacritic": "kingdom-hearts-birth-by-sleep",
    "mobygames": "48085"
   },
   "label_en": "Kingdom Hearts: Birth by Sleep",
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "10465",
    "igdb": "tom-clancys-splinter-cell-pandora-tomorrow",
+   "metacritic": "tom-clancys-splinter-cell-pandora-tomorrow",
    "mobygames": "12671",
    "pcgamingwiki": "Tom_Clancy's_Splinter_Cell:_Pandora_Tomorrow"
   },
@@ -79,6 +81,7 @@
   "ids": {
    "howlongtobeat": "4206",
    "igdb": "gungrave-overdose",
+   "metacritic": "gungrave-overdose",
    "mobygames": "21310"
   },
   "label_en": "Gungrave: Overdose",
@@ -98,6 +101,7 @@
   "enwiki": "Gold and Glory: The Road to El Dorado",
   "ids": {
    "igdb": "gold-and-glory-the-road-to-el-dorado",
+   "metacritic": "gold-and-glory-the-road-to-el-dorado",
    "mobygames": "3192",
    "pcgamingwiki": "Gold_and_Glory:_The_Road_to_El_Dorado"
   },
@@ -116,6 +120,7 @@
   "ids": {
    "howlongtobeat": "23997",
    "igdb": "paradise-cracked",
+   "metacritic": "paradise-cracked",
    "mobygames": "12340",
    "pcgamingwiki": "Paradise_Cracked"
   },
@@ -213,6 +218,7 @@
   "ids": {
    "howlongtobeat": "11520",
    "igdb": "zack-zero",
+   "metacritic": "zack-zero",
    "mobygames": "66198",
    "pcgamingwiki": "Zack_Zero",
    "steam": "234290"
@@ -237,6 +243,7 @@
   "ids": {
    "howlongtobeat": "18017",
    "igdb": "hitman-go-definitive-edition",
+   "metacritic": "hitman-go-definitive-edition",
    "mobygames": "65213",
    "pcgamingwiki": "Hitman_GO",
    "steam": "427820"
@@ -272,6 +279,7 @@
    "gog": "game/kingdom_rush_frontiers",
    "howlongtobeat": "13311",
    "igdb": "kingdom-rush-frontiers",
+   "metacritic": "kingdom-rush-frontiers",
    "mobygames": "68357",
    "pcgamingwiki": "Kingdom_Rush:_Frontiers",
    "steam": "458710"
@@ -332,6 +340,7 @@
   "ids": {
    "howlongtobeat": "7639",
    "igdb": "real-boxing",
+   "metacritic": "real-boxing",
    "mobygames": "70498",
    "pcgamingwiki": "Real_Boxing",
    "steam": "296770"
@@ -780,6 +789,7 @@
   "ids": {
    "howlongtobeat": "33841",
    "igdb": "chronostorm-siberian-border",
+   "metacritic": "chronostorm-siberian-border",
    "mobygames": "46778",
    "pcgamingwiki": "Chronostorm:_Siberian_Border",
    "steam": "361890"
@@ -867,6 +877,7 @@
    "gog": "game/legend_of_kay_anniversary",
    "howlongtobeat": "29263",
    "igdb": "legend-of-kay-anniversary",
+   "metacritic": "legend-of-kay-anniversary",
    "mobygames": "74250",
    "pcgamingwiki": "Legend_of_Kay_Anniversary",
    "steam": "313810"
@@ -1162,6 +1173,7 @@
   "ids": {
    "howlongtobeat": "82611",
    "igdb": "humanitarian-helicopter",
+   "metacritic": "humanitarian-helicopter",
    "mobygames": "91453"
   },
   "label_en": "Humanitarian Helicopter",

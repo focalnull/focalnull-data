@@ -38,6 +38,7 @@
   "ids": {
    "howlongtobeat": "9608",
    "igdb": "tales-of-vesperia",
+   "metacritic": "tales-of-vesperia",
    "mobygames": "36456"
   },
   "label_en": "Tales of Vesperia",
@@ -115,6 +116,7 @@
   "ids": {
    "howlongtobeat": "10091",
    "igdb": "the-maw",
+   "metacritic": "the-maw",
    "mobygames": "39712",
    "pcgamingwiki": "The_Maw",
    "steam": "26000"
@@ -126,6 +128,7 @@
   "enwiki": "Fluidity (video game)",
   "ids": {
    "igdb": "fluidity",
+   "metacritic": "fluidity",
    "mobygames": "57798"
   },
   "label_en": "Fluidity",
@@ -216,6 +219,7 @@
    "gog": "game/shantae_and_the_pirates_curse",
    "howlongtobeat": "22140",
    "igdb": "shantae-and-the-pirates-curse",
+   "metacritic": "shantae-and-the-pirates-curse",
    "mobygames": "69020",
    "pcgamingwiki": "Shantae_and_the_Pirate's_Curse",
    "steam": "345820"
@@ -239,6 +243,7 @@
   "ids": {
    "howlongtobeat": "39150",
    "igdb": "day-of-infamy",
+   "metacritic": "day-of-infamy",
    "mobygames": "85970",
    "pcgamingwiki": "Day_of_Infamy",
    "steam": "447820"
@@ -269,6 +274,7 @@
  {
   "ids": {
    "igdb": "hotel-transylvania",
+   "metacritic": "hotel-transylvania",
    "mobygames": "81135"
   },
   "label_en": "Hotel Transylvania",
@@ -279,6 +285,7 @@
    "gog": "game/sniper_elite_v2_remastered",
    "howlongtobeat": "66645",
    "igdb": "sniper-elite-v2-remastered",
+   "metacritic": "sniper-elite-v2-remastered",
    "mobygames": "126855",
    "pcgamingwiki": "Sniper_Elite_V2_Remastered",
    "steam": "728740"
@@ -300,6 +307,7 @@
   "ids": {
    "howlongtobeat": "56643",
    "igdb": "gleaner-heights",
+   "metacritic": "gleaner-heights",
    "mobygames": "125187",
    "pcgamingwiki": "Gleaner_Heights",
    "steam": "786580"
@@ -324,6 +332,7 @@
   "ids": {
    "howlongtobeat": "68263",
    "igdb": "crossfirex",
+   "metacritic": "crossfirex",
    "mobygames": "179668"
   },
   "label_en": "CrossfireX",
@@ -337,6 +346,7 @@
   "enwiki": "Space Channel 5 VR: Kinda Funky News Flash",
   "ids": {
    "igdb": "space-channel-5-vr-kinda-funky-news-flash",
+   "metacritic": "space-channel-5-vr-kinda-funky-news-flash",
    "mobygames": "142936",
    "pcgamingwiki": "Space_Channel_5_VR:_Kinda_Funky_News_Flash",
    "steam": "879140"
@@ -351,6 +361,7 @@
    "gog": "game/layers_of_fear_2",
    "howlongtobeat": "67383",
    "igdb": "layers-of-fear-2",
+   "metacritic": "layers-of-fear-2",
    "mobygames": "127004",
    "pcgamingwiki": "Layers_of_Fear_2",
    "steam": "1029890"
@@ -373,6 +384,7 @@
    "gog": "game/sludge_life",
    "howlongtobeat": "78845",
    "igdb": "sludge-life",
+   "metacritic": "sludge-life",
    "mobygames": "146094",
    "pcgamingwiki": "Sludge_Life",
    "steam": "1144770"
@@ -514,6 +526,7 @@
   "ids": {
    "howlongtobeat": "78905",
    "igdb": "infini",
+   "metacritic": "infini",
    "mobygames": "147440",
    "pcgamingwiki": "Infini",
    "steam": "1120420"
@@ -855,6 +868,7 @@
    "gog": "game/yellow_taxi_goes_vroom",
    "howlongtobeat": "132086",
    "igdb": "yellow-taxi-goes-vroom",
+   "metacritic": "yellow-taxi-goes-vroom",
    "mobygames": "221583",
    "pcgamingwiki": "Yellow_Taxi_Goes_Vroom",
    "steam": "2011780"
@@ -868,6 +882,7 @@
    "gog": "game/saviorless",
    "howlongtobeat": "100056",
    "igdb": "saviorless--1",
+   "metacritic": "saviorless",
    "mobygames": "221057",
    "steam": "1438480"
   },
@@ -934,6 +949,7 @@
   "ids": {
    "epic": "miraculous-paris-under-siege-2af48c",
    "igdb": "miraculous-paris-under-siege",
+   "metacritic": "miraculous-paris-under-siege",
    "pcgamingwiki": "Miraculous_-_Paris_Under_Siege",
    "steam": "2676410"
   },

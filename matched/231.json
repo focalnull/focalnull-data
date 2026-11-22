@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "7172",
    "igdb": "pokemon-rumble-blast",
+   "metacritic": "pokemon-rumble-blast",
    "mobygames": "60654"
   },
   "label_en": "Pokémon Rumble Blast",
@@ -92,6 +93,7 @@
   "enwiki": "The Fast and the Furious (2006 video game)",
   "ids": {
    "igdb": "the-fast-and-the-furious",
+   "metacritic": "the-fast-and-the-furious-2007",
    "mobygames": "24281"
   },
   "label_en": "The Fast and the Furious",
@@ -101,6 +103,7 @@
   "enwiki": "Shining Force Neo",
   "ids": {
    "igdb": "shining-force-neo",
+   "metacritic": "shining-force-neo",
    "mobygames": "24157"
   },
   "label_en": "Shining Force Neo",
@@ -260,6 +263,7 @@
    "epic": "star-wars-battlefront-2",
    "howlongtobeat": "45153",
    "igdb": "star-wars-battlefront-ii--1",
+   "metacritic": "star-wars-battlefront-ii",
    "mobygames": "98278",
    "pcgamingwiki": "Star_Wars_Battlefront_II_(2017)",
    "steam": "1237950"
@@ -275,6 +279,7 @@
   "ids": {
    "howlongtobeat": "63241",
    "igdb": "senran-kagura-burst-re-newal",
+   "metacritic": "senran-kagura-burst-renewal",
    "mobygames": "103425",
    "pcgamingwiki": "Senran_Kagura_Burst_Re:Newal",
    "steam": "889510"
@@ -289,6 +294,7 @@
    "gog": "game/kings_bounty_ii",
    "howlongtobeat": "72264",
    "igdb": "kings-bounty-ii",
+   "metacritic": "kings-bounty-ii",
    "mobygames": "169431",
    "pcgamingwiki": "King's_Bounty_II",
    "steam": "1135300"
@@ -324,6 +330,7 @@
   "ids": {
    "howlongtobeat": "26422",
    "igdb": "motorcycle-club",
+   "metacritic": "motorcycle-club",
    "mobygames": "95292",
    "pcgamingwiki": "Motorcycle_Club",
    "steam": "303830"
@@ -365,6 +372,7 @@
   "ids": {
    "howlongtobeat": "31140",
    "igdb": "bloo-kid-2",
+   "metacritic": "bloo-kid-2",
    "mobygames": "82360",
    "pcgamingwiki": "Bloo_Kid_2",
    "steam": "379640"
@@ -668,6 +676,7 @@
   "ids": {
    "howlongtobeat": "41049",
    "igdb": "atomik-rungunjumpgun",
+   "metacritic": "rungunjumpgun",
    "mobygames": "101401",
    "pcgamingwiki": "RunGunJumpGun",
    "steam": "440550"
@@ -806,6 +815,9 @@
   "wikidata": "Q126696231"
  },
  {
+  "ids": {
+   "metacritic": "88-heroes-98-heroes-edition"
+  },
   "label_en": "88 Heroes - 98 Heroes Edition",
   "wikidata": "Q127163231"
  },
@@ -1137,6 +1149,7 @@
  {
   "ids": {
    "igdb": "les-miserables-cosettes-fate",
+   "pcgamingwiki": "Les_Misérables:_Cosette's_Fate",
    "steam": "827120"
   },
   "label_en": "Les Misérables: Cosette's Fate",

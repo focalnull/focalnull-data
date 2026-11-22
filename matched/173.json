@@ -22,6 +22,7 @@
    "gog": "game/master_of_orion_3",
    "howlongtobeat": "5727",
    "igdb": "master-of-orion-iii",
+   "metacritic": "master-of-orion-3",
    "mobygames": "8464",
    "pcgamingwiki": "Master_of_Orion_III",
    "steam": "410990"
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "13651",
    "igdb": "joint-task-force",
+   "metacritic": "joint-task-force",
    "mobygames": "30042",
    "pcgamingwiki": "Joint_Task_Force",
    "steam": "6400"
@@ -47,6 +49,7 @@
    "gog": "game/risen_2_dark_waters",
    "howlongtobeat": "7845",
    "igdb": "risen-2-dark-waters",
+   "metacritic": "risen-2-dark-waters",
    "mobygames": "56681",
    "pcgamingwiki": "Risen_2:_Dark_Waters",
    "steam": "40390"
@@ -79,6 +82,7 @@
   "ids": {
    "howlongtobeat": "299",
    "igdb": "airblade",
+   "metacritic": "airblade",
    "mobygames": "40807"
   },
   "label_en": "AirBlade",
@@ -106,6 +110,7 @@
  {
   "ids": {
    "igdb": "syphon-filter-combat-ops",
+   "metacritic": "syphon-filter-combat-ops",
    "mobygames": "31337"
   },
   "label_en": "Syphon Filter: Combat Ops",
@@ -125,6 +130,7 @@
   "enwiki": "Destination: Treasure Island",
   "ids": {
    "igdb": "destination-treasure-island",
+   "metacritic": "destination-treasure-island",
    "mobygames": "27919"
   },
   "label_en": "Destination: Treasure Island",
@@ -135,6 +141,7 @@
   "ids": {
    "howlongtobeat": "3309",
    "igdb": "f1-race-stars",
+   "metacritic": "f1-race-stars",
    "mobygames": "59285",
    "pcgamingwiki": "F1_Race_Stars",
    "steam": "203680"
@@ -164,6 +171,7 @@
   "ids": {
    "howlongtobeat": "14493",
    "igdb": "lords-of-everquest",
+   "metacritic": "lords-of-everquest",
    "mobygames": "14188",
    "pcgamingwiki": "Lords_of_EverQuest"
   },
@@ -183,6 +191,7 @@
   "enwiki": "Smarty Pants",
   "ids": {
    "igdb": "smarty-pants",
+   "metacritic": "smarty-pants",
    "mobygames": "34225"
   },
   "label_en": "Smarty Pants",
@@ -203,6 +212,7 @@
   "enwiki": "Rygar: The Legendary Adventure",
   "ids": {
    "igdb": "rygar-the-legendary-adventure",
+   "metacritic": "rygar-the-legendary-adventure",
    "mobygames": "13660"
   },
   "label_en": "Rygar: The Legendary Adventure",
@@ -213,6 +223,7 @@
   "ids": {
    "howlongtobeat": "14146",
    "igdb": "saturday-morning-rpg",
+   "metacritic": "saturday-morning-rpg",
    "mobygames": "69310",
    "pcgamingwiki": "Saturday_Morning_RPG",
    "steam": "263320"
@@ -225,6 +236,7 @@
   "ids": {
    "howlongtobeat": "40488",
    "igdb": "wwe-2k17",
+   "metacritic": "wwe-2k17",
    "mobygames": "83264",
    "pcgamingwiki": "WWE_2K17",
    "steam": "510510"
@@ -249,6 +261,7 @@
   "ids": {
    "howlongtobeat": "40911",
    "igdb": "super-dungeon-bros",
+   "metacritic": "super-dungeon-bros",
    "mobygames": "85822",
    "pcgamingwiki": "Super_Dungeon_Bros",
    "steam": "306000"
@@ -324,6 +337,7 @@
   "ids": {
    "howlongtobeat": "84776",
    "igdb": "the-political-machine-2020",
+   "metacritic": "the-political-machine-2020",
    "mobygames": "153096",
    "pcgamingwiki": "The_Political_Machine_2020",
    "steam": "1188680"
@@ -372,7 +386,8 @@
  },
  {
   "ids": {
-   "igdb": "pax-romana"
+   "igdb": "pax-romana",
+   "metacritic": "pax-romana"
   },
   "label_en": "Pax Romana",
   "wikidata": "Q110727173"
@@ -420,6 +435,7 @@
    "gog": "game/scars_above",
    "howlongtobeat": "93891",
    "igdb": "scars-above",
+   "metacritic": "scars-above",
    "mobygames": "199914",
    "pcgamingwiki": "Scars_Above",
    "steam": "1196090"
@@ -460,6 +476,7 @@
   "ids": {
    "howlongtobeat": "41618",
    "igdb": "sora",
+   "metacritic": "sora",
    "mobygames": "110962",
    "pcgamingwiki": "Sora",
    "steam": "390730"
@@ -1237,6 +1254,7 @@
   "ids": {
    "igdb": "der-einzig-wahre-auserwahlte",
    "mobygames": "162120",
+   "pcgamingwiki": "Der_einzig_wahre_Auserwählte",
    "steam": "654080"
   },
   "label_en": "Der einzig wahre Auserwählte",

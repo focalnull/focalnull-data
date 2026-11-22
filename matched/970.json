@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "20849",
    "igdb": "wakfu",
+   "metacritic": "wakfu",
    "mobygames": "57120",
    "pcgamingwiki": "WAKFU",
    "steam": "215080"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "3480",
    "igdb": "final-fantasy",
+   "metacritic": "final-fantasy",
    "mobygames": "7313"
   },
   "label_en": "Final Fantasy",
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "2362",
    "igdb": "death-by-degrees",
+   "metacritic": "death-by-degrees",
    "mobygames": "23766"
   },
   "label_en": "Death by Degrees",
@@ -72,6 +75,7 @@
   "enwiki": "Attack of the Movies 3D",
   "ids": {
    "igdb": "attack-of-the-movies-3d",
+   "metacritic": "attack-of-the-movies-3d",
    "mobygames": "54809"
   },
   "label_en": "Attack of the Movies 3D",
@@ -172,6 +176,7 @@
   "ids": {
    "howlongtobeat": "26334",
    "igdb": "senran-kagura-estival-versus",
+   "metacritic": "senran-kagura-estival-versus",
    "mobygames": "83266",
    "pcgamingwiki": "Senran_Kagura_Estival_Versus",
    "steam": "502800"
@@ -207,6 +212,7 @@
   "ids": {
    "howlongtobeat": "21955",
    "igdb": "ford-racing-off-road",
+   "metacritic": "ford-racing-off-road",
    "mobygames": "44393",
    "pcgamingwiki": "Ford_Racing:_Off_Road",
    "steam": "315740"
@@ -235,6 +241,7 @@
   "ids": {
    "howlongtobeat": "65999",
    "igdb": "resort-boss-golf",
+   "metacritic": "boss-golf",
    "mobygames": "150809",
    "pcgamingwiki": "Boss_Golf",
    "steam": "869060"
@@ -313,6 +320,7 @@
    "epic": "galactic-civilizations-iv",
    "howlongtobeat": "127732",
    "igdb": "galactic-civilizations-iv",
+   "metacritic": "galactic-civilizations-iv",
    "mobygames": "202332",
    "pcgamingwiki": "Galactic_Civilizations_IV",
    "steam": "1357210"
@@ -359,6 +367,7 @@
    "gog": "game/urbek_city_builder",
    "howlongtobeat": "112340",
    "igdb": "urbek-city-builder",
+   "metacritic": "urbek-city-builder",
    "mobygames": "188108",
    "pcgamingwiki": "Urbek_City_Builder",
    "steam": "1411740"
@@ -415,6 +424,7 @@
   "ids": {
    "howlongtobeat": "78251",
    "igdb": "pong-quest",
+   "metacritic": "pong-quest",
    "mobygames": "144749",
    "pcgamingwiki": "Pong_Quest",
    "steam": "1177030"
@@ -437,6 +447,7 @@
    "epic": "tt-isle-of-man-ride-on-the-edge-3",
    "howlongtobeat": "127170",
    "igdb": "tt-isle-of-man-ride-on-the-edge-3",
+   "metacritic": "tt-isle-of-man-ride-on-the-edge-3",
    "mobygames": "204392",
    "pcgamingwiki": "TT_Isle_of_Man:_Ride_on_the_Edge_3",
    "steam": "1924170"
@@ -475,6 +486,7 @@
   "ids": {
    "howlongtobeat": "70867",
    "igdb": "football-drama",
+   "metacritic": "football-drama",
    "mobygames": "163858",
    "pcgamingwiki": "Football_Drama",
    "steam": "876190"
@@ -1179,6 +1191,7 @@
  {
   "ids": {
    "igdb": "geno-the-fallen-king",
+   "pcgamingwiki": "Geno_The_Fallen_King",
    "steam": "972180"
   },
   "label_en": "Geno The Fallen King",

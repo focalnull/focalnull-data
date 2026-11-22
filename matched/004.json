@@ -47,6 +47,7 @@
   "ids": {
    "howlongtobeat": "2082",
    "igdb": "csi-crime-scene-investigation",
+   "metacritic": "csi-crime-scene-investigation",
    "mobygames": "8805",
    "pcgamingwiki": "CSI:_Crime_Scene_Investigation"
   },
@@ -58,6 +59,7 @@
   "ids": {
    "howlongtobeat": "11372",
    "igdb": "x-men-legends",
+   "metacritic": "x-men-legends",
    "mobygames": "15068"
   },
   "label_en": "X-Men Legends",
@@ -85,6 +87,7 @@
   "enwiki": "Pain (video game)",
   "ids": {
    "igdb": "pain",
+   "metacritic": "pain-2007",
    "mobygames": "31410"
   },
   "label_en": "Pain",
@@ -94,6 +97,7 @@
   "enwiki": "One Must Fall: Battlegrounds",
   "ids": {
    "igdb": "one-must-fall-battlegrounds",
+   "metacritic": "one-must-fall-battlegrounds",
    "mobygames": "11970",
    "pcgamingwiki": "One_Must_Fall:_Battlegrounds"
   },
@@ -179,6 +183,7 @@
    "gog": "game/the_25th_ward_the_silver_case",
    "howlongtobeat": "53731",
    "igdb": "the-25th-ward-the-silver-case",
+   "metacritic": "the-25th-ward-the-silver-case",
    "mobygames": "105010",
    "pcgamingwiki": "The_25th_Ward:_The_Silver_Case",
    "steam": "697650"
@@ -189,6 +194,7 @@
  {
   "ids": {
    "igdb": "dracula-undead-awakening",
+   "metacritic": "idracula-undead-awakening",
    "mobygames": "59183"
   },
   "label_en": "Dracula: Undead Awakening",
@@ -209,6 +215,7 @@
   "ids": {
    "howlongtobeat": "123019",
    "igdb": "uragun",
+   "metacritic": "uragun",
    "mobygames": "205662",
    "pcgamingwiki": "Uragun",
    "steam": "724000"
@@ -220,6 +227,7 @@
   "ids": {
    "howlongtobeat": "29951",
    "igdb": "leap-of-fate",
+   "metacritic": "leap-of-fate",
    "mobygames": "77960",
    "pcgamingwiki": "Leap_of_Fate",
    "steam": "363420"
@@ -234,6 +242,7 @@
    "gog": "game/star_renegades",
    "howlongtobeat": "71955",
    "igdb": "star-renegades",
+   "metacritic": "star-renegades",
    "mobygames": "150315",
    "pcgamingwiki": "Star_Renegades",
    "steam": "651670"
@@ -260,6 +269,9 @@
  },
  {
   "enwiki": "Tom Clancy's Splinter Cell: Remake",
+  "ids": {
+   "metacritic": "splinter-cell-remake"
+  },
   "label_en": "Splinter Cell Remake",
   "wikidata": "Q110140004"
  },
@@ -308,6 +320,7 @@
    "gog": "game/unexplored_2_the_wayfarers_legacy",
    "howlongtobeat": "68196",
    "igdb": "unexplored-2-the-wayfarers-legacy",
+   "metacritic": "unexplored-2-the-wayfarers-legacy",
    "mobygames": "135841",
    "pcgamingwiki": "Unexplored_2:_The_Wayfarer's_Legacy",
    "steam": "1095040"
@@ -319,6 +332,7 @@
   "ids": {
    "howlongtobeat": "20257",
    "igdb": "dark-quest",
+   "metacritic": "dark-quest",
    "mobygames": "107455",
    "pcgamingwiki": "Dark_Quest",
    "steam": "342860"
@@ -372,6 +386,7 @@
    "epic": "eternal-threads-197169",
    "howlongtobeat": "107312",
    "igdb": "eternal-threads",
+   "metacritic": "eternal-threads",
    "mobygames": "184707",
    "pcgamingwiki": "Eternal_Threads",
    "steam": "1046790"

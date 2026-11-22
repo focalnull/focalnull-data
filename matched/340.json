@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "42",
    "igdb": "1080-avalanche",
+   "metacritic": "1080-avalanche",
    "mobygames": "11232"
   },
   "label_en": "1080° Avalanche",
@@ -25,6 +26,7 @@
    "gog": "game/call_of_cthulhu_dark_corners_of_the_earth",
    "howlongtobeat": "1463",
    "igdb": "call-of-cthulhu-dark-corners-of-the-earth",
+   "metacritic": "call-of-cthulhu-dark-corners-of-the-earth",
    "mobygames": "20705",
    "pcgamingwiki": "Call_of_Cthulhu:_Dark_Corners_of_the_Earth",
    "steam": "22340"
@@ -36,6 +38,7 @@
   "enwiki": "Metropolis Street Racer",
   "ids": {
    "igdb": "metropolis-street-racer",
+   "metacritic": "metropolis-street-racer",
    "mobygames": "3719"
   },
   "label_en": "Metropolis Street Racer",
@@ -47,6 +50,7 @@
    "gog": "game/wars_and_warriors_joan_of_arc",
    "howlongtobeat": "13280",
    "igdb": "wars-and-warriors-joan-of-arc",
+   "metacritic": "wars-and-warriors-joan-of-arc",
    "mobygames": "14297",
    "pcgamingwiki": "Wars_and_Warriors:_Joan_of_Arc",
    "steam": "294590"
@@ -132,6 +136,7 @@
   "enwiki": "Cabela's Outdoor Adventures (2009 video game)",
   "ids": {
    "igdb": "cabelas-outdoor-adventures",
+   "metacritic": "cabelas-outdoor-adventures-2009",
    "mobygames": "85003"
   },
   "label_en": "Cabela's Outdoor Adventures",
@@ -150,6 +155,7 @@
   "enwiki": "SingStar Dance",
   "ids": {
    "igdb": "singstar-dance",
+   "metacritic": "singstar-dance",
    "mobygames": "80783"
   },
   "label_en": "SingStar Dance",
@@ -181,6 +187,7 @@
   "enwiki": "Grooverider: Slot Car Thunder",
   "ids": {
    "igdb": "grooverider-slot-car-thunder",
+   "metacritic": "grooverider-slot-car-thunder",
    "mobygames": "14404"
   },
   "label_en": "Grooverider: Slot Car Thunder",
@@ -328,6 +335,7 @@
   "ids": {
    "howlongtobeat": "22375",
    "igdb": "greg-hastings-paintball-2",
+   "metacritic": "greg-hastings-paintball-2",
    "mobygames": "91133"
   },
   "label_en": "Greg Hastings Paintball 2",
@@ -340,6 +348,7 @@
    "gog": "game/loop_hero",
    "howlongtobeat": "86112",
    "igdb": "loop-hero",
+   "metacritic": "loop-hero",
    "mobygames": "160063",
    "pcgamingwiki": "Loop_Hero",
    "steam": "1282730"
@@ -372,6 +381,7 @@
   "ids": {
    "howlongtobeat": "29829",
    "igdb": "pure-holdem",
+   "metacritic": "pure-hold-em",
    "mobygames": "86848",
    "pcgamingwiki": "Pure_Hold'em",
    "steam": "322950"

@@ -3,6 +3,7 @@
   "enwiki": "Inazuma Eleven Strikers",
   "ids": {
    "igdb": "inazuma-eleven-strikers",
+   "metacritic": "inazuma-eleven-strikers",
    "mobygames": "74748"
   },
   "label_en": "Inazuma Eleven Strikers",
@@ -51,6 +52,7 @@
   "enwiki": "Pirates of the Caribbean Online",
   "ids": {
    "igdb": "pirates-of-the-caribbean-online",
+   "metacritic": "pirates-of-the-caribbean-online",
    "mobygames": "48319"
   },
   "label_en": "Pirates of the Caribbean Online",
@@ -79,6 +81,7 @@
   "enwiki": "Ms. Pac-Man Maze Madness",
   "ids": {
    "igdb": "ms-pac-man-maze-madness",
+   "metacritic": "ms-pac-man-maze-madness",
    "mobygames": "6531"
   },
   "label_en": "Ms. Pac-Man Maze Madness",
@@ -115,6 +118,7 @@
   "enwiki": "Monster Rancher (video game)",
   "ids": {
    "igdb": "monster-rancher",
+   "metacritic": "monster-rancher",
    "mobygames": "4425"
   },
   "label_en": "Monster Rancher",
@@ -128,6 +132,7 @@
   "enwiki": "Wrath Unleashed",
   "ids": {
    "igdb": "wrath-unleashed",
+   "metacritic": "wrath-unleashed",
    "mobygames": "12515"
   },
   "label_en": "Wrath Unleashed",
@@ -178,6 +183,7 @@
   "ids": {
    "howlongtobeat": "5445",
    "igdb": "lunar-silver-star-story-complete",
+   "metacritic": "lunar-silver-star-harmony",
    "mobygames": "3903",
    "pcgamingwiki": "Lunar:_Silver_Star_Story"
   },
@@ -187,7 +193,8 @@
  {
   "enwiki": "Tenkai Knights: Brave Battle",
   "ids": {
-   "igdb": "tenkai-knights-brave-battle"
+   "igdb": "tenkai-knights-brave-battle",
+   "metacritic": "tenkai-knights-brave-battle"
   },
   "label_en": "Tenkai Knights: Brave Battle",
   "wikidata": "Q18216014"
@@ -196,6 +203,7 @@
   "enwiki": "Hidden Agenda (2017 video game)",
   "ids": {
    "igdb": "hidden-agenda",
+   "metacritic": "hidden-agenda",
    "mobygames": "97458"
   },
   "label_en": "Hidden Agenda",
@@ -206,6 +214,7 @@
   "ids": {
    "howlongtobeat": "60565",
    "igdb": "one-piece-world-seeker",
+   "metacritic": "one-piece-world-seeker",
    "mobygames": "123705",
    "pcgamingwiki": "One_Piece:_World_Seeker",
    "steam": "755500"
@@ -254,6 +263,7 @@
   "ids": {
    "howlongtobeat": "38220",
    "igdb": "12-labours-of-hercules-v-kids-of-hellas",
+   "metacritic": "12-labours-of-hercules-v-kids-of-hellas",
    "mobygames": "86923",
    "pcgamingwiki": "12_Labours_of_Hercules_V:_Kids_of_Hellas",
    "steam": "491330"
@@ -282,6 +292,7 @@
    "epic": "knockout-city",
    "howlongtobeat": "92506",
    "igdb": "knockout-city",
+   "metacritic": "knockout-city",
    "mobygames": "163910",
    "pcgamingwiki": "Knockout_City",
    "steam": "1301210"
@@ -311,6 +322,7 @@
   "ids": {
    "howlongtobeat": "41922",
    "igdb": "zup-2",
+   "metacritic": "zup-2",
    "mobygames": "103488",
    "pcgamingwiki": "Zup!_2",
    "steam": "562220"
@@ -370,6 +382,7 @@
   "ids": {
    "howlongtobeat": "76928",
    "igdb": "make-war",
+   "metacritic": "make-war",
    "mobygames": "144528",
    "pcgamingwiki": "Make_War",
    "steam": "1120210"
@@ -581,6 +594,7 @@
  {
   "ids": {
    "igdb": "the-forest-of-love",
+   "metacritic": "the-forest-of-love",
    "steam": "1683170"
   },
   "label_en": "The Forest of Love",
@@ -740,6 +754,7 @@
   "ids": {
    "howlongtobeat": "117389",
    "igdb": "trails-and-traces-the-tomb-of-thomas-tew",
+   "metacritic": "trails-and-traces-the-tomb-of-thomas-tew",
    "mobygames": "163066",
    "steam": "1586040"
   },
@@ -988,6 +1003,7 @@
  {
   "ids": {
    "igdb": "cozy-desktop-konbini--1",
+   "metacritic": "cozy-desktop-konbini",
    "mobygames": "241384",
    "steam": "3503230"
   },
@@ -1108,5 +1124,12 @@
   },
   "label_en": "Baff B",
   "wikidata": "Q141482014"
+ },
+ {
+  "ids": {
+   "igdb": "floppa-mining"
+  },
+  "label_en": "Floppa Mining",
+  "wikidata": "Q142175014"
  }
 ]

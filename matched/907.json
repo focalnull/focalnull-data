@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4154",
    "igdb": "guild-wars-2",
+   "metacritic": "guild-wars-2",
    "mobygames": "59026",
    "pcgamingwiki": "Guild_Wars_2",
    "steam": "1284210"
@@ -66,6 +67,7 @@
   "ids": {
    "howlongtobeat": "5242",
    "igdb": "legends-of-wrestling",
+   "metacritic": "legends-of-wrestling",
    "mobygames": "6914"
   },
   "label_en": "Legends of Wrestling",
@@ -75,6 +77,7 @@
   "enwiki": "Fable Heroes",
   "ids": {
    "igdb": "fable-heroes",
+   "metacritic": "fable-heroes",
    "mobygames": "58416"
   },
   "label_en": "Fable Heroes",
@@ -85,6 +88,7 @@
   "ids": {
    "howlongtobeat": "8311",
    "igdb": "serious-sam-advance",
+   "metacritic": "serious-sam-advance",
    "mobygames": "23444"
   },
   "label_en": "Serious Sam Advance",
@@ -99,6 +103,7 @@
   "ids": {
    "howlongtobeat": "181",
    "igdb": "achron",
+   "metacritic": "achron",
    "mobygames": "101437",
    "pcgamingwiki": "Achron",
    "steam": "109700"
@@ -110,6 +115,7 @@
   "enwiki": "Age of Sail II",
   "ids": {
    "igdb": "age-of-sail-ii",
+   "metacritic": "age-of-sail-ii",
    "mobygames": "3251"
   },
   "label_en": "Age of Sail II",
@@ -184,6 +190,7 @@
   "ids": {
    "howlongtobeat": "15968",
    "igdb": "nidhogg",
+   "metacritic": "nidhogg",
    "mobygames": "62924",
    "pcgamingwiki": "Nidhogg",
    "steam": "94400"
@@ -238,6 +245,7 @@
   "enwiki": "Robonauts",
   "ids": {
    "igdb": "robonauts",
+   "metacritic": "robonauts",
    "mobygames": "95995",
    "steam": "562620"
   },
@@ -259,6 +267,7 @@
   "ids": {
    "howlongtobeat": "32548",
    "igdb": "beyond-sol",
+   "metacritic": "beyond-sol",
    "mobygames": "82739",
    "pcgamingwiki": "Beyond_Sol",
    "steam": "348490"
@@ -272,6 +281,7 @@
    "epic": "sackboy-a-big-adventure",
    "howlongtobeat": "80125",
    "igdb": "sackboy-a-big-adventure",
+   "metacritic": "sackboy-a-big-adventure",
    "mobygames": "153498",
    "pcgamingwiki": "Sackboy:_A_Big_Adventure",
    "steam": "1599660"
@@ -295,6 +305,7 @@
   "ids": {
    "howlongtobeat": "43327",
    "igdb": "nefarious",
+   "metacritic": "nefarious",
    "mobygames": "83187",
    "pcgamingwiki": "Nefarious",
    "steam": "448290"
@@ -343,6 +354,7 @@
    "epic": "rims-racing",
    "howlongtobeat": "106125",
    "igdb": "rims-racing",
+   "metacritic": "rims-racing",
    "mobygames": "169611",
    "pcgamingwiki": "RiMS_Racing",
    "steam": "1346010"
@@ -1158,6 +1170,7 @@
  {
   "ids": {
    "igdb": "find-differences",
+   "pcgamingwiki": "Find_Differences",
    "steam": "936020"
   },
   "label_en": "Find Differences",

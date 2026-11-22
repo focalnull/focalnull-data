@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9128",
    "igdb": "star-wars-the-clone-wars-republic-heroes",
+   "metacritic": "star-wars-the-clone-wars-republic-heroes",
    "mobygames": "85407",
    "pcgamingwiki": "Star_Wars:_The_Clone_Wars_-_Republic_Heroes",
    "steam": "32420"
@@ -50,6 +51,7 @@
    "gog": "game/baldurs_gate_dark_alliance_ii",
    "howlongtobeat": "813",
    "igdb": "baldur-s-gate-dark-alliance-ii",
+   "metacritic": "baldurs-gate-dark-alliance-ii",
    "mobygames": "12011",
    "pcgamingwiki": "Baldur's_Gate:_Dark_Alliance_II",
    "steam": "1889930"
@@ -209,6 +211,7 @@
   "enwiki": "Bruce Lee: Quest of the Dragon",
   "ids": {
    "igdb": "bruce-lee-quest-of-the-dragon",
+   "metacritic": "bruce-lee-quest-of-the-dragon",
    "mobygames": "6913"
   },
   "label_en": "Bruce Lee: Quest of the Dragon",
@@ -228,6 +231,7 @@
   "ids": {
    "howlongtobeat": "1952",
    "igdb": "countdown-vampires",
+   "metacritic": "countdown-vampires",
    "mobygames": "35449"
   },
   "label_en": "Countdown Vampires",
@@ -257,6 +261,7 @@
   "ids": {
    "howlongtobeat": "5101",
    "igdb": "knights-in-the-nightmare",
+   "metacritic": "knights-in-the-nightmare",
    "mobygames": "41281"
   },
   "label_en": "Knights in the Nightmare",
@@ -284,6 +289,7 @@
   "ids": {
    "howlongtobeat": "91042",
    "igdb": "balls-of-fury",
+   "metacritic": "balls-of-fury",
    "mobygames": "31440"
   },
   "label_en": "Balls of Fury",
@@ -293,6 +299,7 @@
   "enwiki": "Smash Hit",
   "ids": {
    "igdb": "smash-hit",
+   "metacritic": "smash-hit",
    "mobygames": "67200"
   },
   "label_en": "Smash Hit",
@@ -363,6 +370,7 @@
   "ids": {
    "howlongtobeat": "17807",
    "igdb": "vertiginous-golf",
+   "metacritic": "vertiginous-golf",
    "mobygames": "76420",
    "pcgamingwiki": "Vertiginous_Golf",
    "steam": "272890"
@@ -402,6 +410,7 @@
    "gog": "game/ziggurat_2",
    "howlongtobeat": "84414",
    "igdb": "ziggurat-2",
+   "metacritic": "ziggurat-2",
    "mobygames": "151998",
    "pcgamingwiki": "Ziggurat_2",
    "steam": "1159560"
@@ -415,6 +424,7 @@
    "gog": "game/heros_hour",
    "howlongtobeat": "105664",
    "igdb": "heros-hour",
+   "metacritic": "heros-hour",
    "mobygames": "180614",
    "pcgamingwiki": "Hero's_Hour",
    "steam": "1656780"
@@ -428,6 +438,7 @@
    "gog": "game/dome_keeper",
    "howlongtobeat": "104195",
    "igdb": "dome-keeper",
+   "metacritic": "dome-keeper",
    "mobygames": "191901",
    "pcgamingwiki": "Dome_Keeper",
    "steam": "1637320"
@@ -450,6 +461,7 @@
   "ids": {
    "howlongtobeat": "129181",
    "igdb": "aew-fight-forever",
+   "metacritic": "aew-fight-forever",
    "mobygames": "205072",
    "pcgamingwiki": "AEW_Fight_Forever",
    "steam": "1913210"
@@ -488,7 +500,8 @@
  {
   "enwiki": "John Daly's ProStroke Golf",
   "ids": {
-   "igdb": "john-dalys-prostroke-golf"
+   "igdb": "john-dalys-prostroke-golf",
+   "metacritic": "john-dalys-prostroke-golf"
   },
   "label_en": "John Daly's ProStroke Golf",
   "wikidata": "Q113903850"
@@ -538,6 +551,7 @@
   "ids": {
    "howlongtobeat": "124771",
    "igdb": "crymachina",
+   "metacritic": "crymachina",
    "mobygames": "210780",
    "pcgamingwiki": "Crymachina",
    "steam": "2258500"
@@ -551,6 +565,7 @@
    "epic": "outer-terror-9f2593",
    "howlongtobeat": "127059",
    "igdb": "outer-terror",
+   "metacritic": "outer-terror",
    "mobygames": "201995",
    "steam": "2189860"
   },
@@ -563,6 +578,7 @@
    "gog": "game/turbo_overkill",
    "howlongtobeat": "104456",
    "igdb": "turbo-overkill",
+   "metacritic": "turbo-overkill",
    "mobygames": "184329",
    "pcgamingwiki": "Turbo_Overkill",
    "steam": "1328350"
@@ -575,6 +591,7 @@
   "ids": {
    "howlongtobeat": "12196",
    "igdb": "the-magic-obelisk",
+   "metacritic": "the-magic-obelisk",
    "mobygames": "93187"
   },
   "label_en": "The Magic Obelisk",
@@ -1350,6 +1367,7 @@
  },
  {
   "ids": {
+   "metacritic": "witchs-apocalyptic-journey",
    "steam": "3709430"
   },
   "label_en": "Witch's Apocalyptic Journey",
@@ -1413,6 +1431,7 @@
  {
   "ids": {
    "igdb": "city-hunter--1",
+   "pcgamingwiki": "City_Hunter",
    "steam": "3984650"
   },
   "label_en": "City Hunter",

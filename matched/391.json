@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "1213",
    "igdb": "blur",
+   "metacritic": "blur",
    "mobygames": "46700",
    "pcgamingwiki": "Blur",
    "steam": "42640"
@@ -24,6 +25,7 @@
   "enwiki": "Vietcong (video game)",
   "ids": {
    "igdb": "vietcong",
+   "metacritic": "vietcong-2003",
    "mobygames": "9562",
    "pcgamingwiki": "Vietcong"
   },
@@ -62,6 +64,7 @@
   "ids": {
    "howlongtobeat": "57325",
    "igdb": "robotics-notes",
+   "metacritic": "roboticsnotes-elite",
    "mobygames": "79964",
    "pcgamingwiki": "Robotics;Notes_Elite",
    "steam": "1111380"
@@ -138,6 +141,7 @@
   "ids": {
    "howlongtobeat": "40825",
    "igdb": "paws-and-claws-pet-vet",
+   "metacritic": "paws-claws-pet-vet",
    "mobygames": "20719",
    "pcgamingwiki": "Paws_&_Claws:_Pet_Vet",
    "steam": "33720"
@@ -150,6 +154,7 @@
   "ids": {
    "howlongtobeat": "6360",
    "igdb": "nancy-drew-ghost-dogs-of-moon-lake",
+   "metacritic": "nancy-drew-ghost-dogs-of-moon-lake",
    "mobygames": "7816",
    "pcgamingwiki": "Nancy_Drew:_Ghost_Dogs_of_Moon_Lake",
    "steam": "31850"
@@ -180,6 +185,7 @@
   "enwiki": "Hi Hi Puffy AmiYumi: Kaznapped!",
   "ids": {
    "igdb": "hi-hi-puffy-amiyumi-kaznapped",
+   "metacritic": "hi-hi-puffy-amiyumi-kaznapped",
    "mobygames": "61183"
   },
   "label_en": "Hi Hi Puffy AmiYumi: Kaznapped!",
@@ -199,6 +205,7 @@
   "ids": {
    "howlongtobeat": "15817",
    "igdb": "lost-in-blue-shipwrecked",
+   "metacritic": "lost-in-blue-shipwrecked",
    "mobygames": "57738"
   },
   "label_en": "Lost in Blue: Shipwrecked",
@@ -208,6 +215,7 @@
   "enwiki": "Novadrome",
   "ids": {
    "igdb": "novadrome",
+   "metacritic": "novadrome",
    "mobygames": "25769"
   },
   "label_en": "Novadrome",
@@ -217,6 +225,7 @@
   "enwiki": "Van Helsing (video game)",
   "ids": {
    "igdb": "van-helsing",
+   "metacritic": "van-helsing",
    "mobygames": "16145"
   },
   "label_en": "Van Helsing",
@@ -259,6 +268,7 @@
  },
  {
   "ids": {
+   "metacritic": "run-sackboy-run",
    "mobygames": "71112"
   },
   "label_en": "Run Sackboy! Run!",
@@ -270,6 +280,7 @@
    "gog": "game/sudden_strike_4",
    "howlongtobeat": "47864",
    "igdb": "sudden-strike-4",
+   "metacritic": "sudden-strike-4",
    "mobygames": "94314",
    "pcgamingwiki": "Sudden_Strike_4",
    "steam": "373930"
@@ -284,6 +295,7 @@
    "gog": "game/into_the_breach",
    "howlongtobeat": "46439",
    "igdb": "into-the-breach",
+   "metacritic": "into-the-breach",
    "mobygames": "104222",
    "pcgamingwiki": "Into_the_Breach",
    "steam": "590380"
@@ -298,6 +310,7 @@
    "gog": "game/sokobond",
    "howlongtobeat": "19162",
    "igdb": "sokobond",
+   "metacritic": "sokobond",
    "mobygames": "69172",
    "pcgamingwiki": "Sokobond",
    "steam": "290260"
@@ -309,6 +322,7 @@
   "enwiki": "Vroom in the Night Sky",
   "ids": {
    "igdb": "vroom-in-the-night-sky",
+   "metacritic": "vroom-in-the-night-sky",
    "mobygames": "86539"
   },
   "label_en": "Vroom in the Night Sky",
@@ -339,6 +353,7 @@
   "enwiki": "Etrian Odyssey Nexus",
   "ids": {
    "igdb": "etrian-odyssey-nexus",
+   "metacritic": "etrian-odyssey-nexus",
    "mobygames": "121016"
   },
   "label_en": "Etrian Odyssey Nexus",
@@ -347,6 +362,8 @@
  {
   "ids": {
    "igdb": "immortal-legacy-the-jade-cipher-console-edition",
+   "metacritic": "immortal-legacy-the-jade-cipher",
+   "pcgamingwiki": "Immortal_Legacy:_The_Jade_Cipher",
    "steam": "1217220"
   },
   "label_en": "Immortal Legacy: The Jade Cipher",
@@ -358,6 +375,7 @@
    "epic": "sniper-elite-5",
    "howlongtobeat": "101756",
    "igdb": "sniper-elite-5",
+   "metacritic": "sniper-elite-5",
    "mobygames": "184928",
    "pcgamingwiki": "Sniper_Elite_5",
    "steam": "1029690"
@@ -374,6 +392,7 @@
   "ids": {
    "howlongtobeat": "57564",
    "igdb": "budget-cuts",
+   "metacritic": "budget-cuts",
    "mobygames": "110180",
    "pcgamingwiki": "Budget_Cuts",
    "steam": "400940"
@@ -468,6 +487,7 @@
    "gog": "game/vampires_fall_origins",
    "howlongtobeat": "68634",
    "igdb": "vampires-fall-origins",
+   "metacritic": "vampires-fall-origins",
    "mobygames": "141711",
    "pcgamingwiki": "Vampire's_Fall:_Origins",
    "steam": "1167950"
@@ -872,6 +892,7 @@
   "ids": {
    "howlongtobeat": "4128",
    "igdb": "grotesque-tactics-2-dungeons-and-donuts--1",
+   "metacritic": "grotesque-tactics-2-dungeons-and-donuts",
    "mobygames": "57453",
    "pcgamingwiki": "Grotesque_Tactics_2_-_Dungeons_and_Donuts",
    "steam": "46570"
@@ -947,7 +968,8 @@
   "ids": {
    "epic": "fortnite--festival",
    "howlongtobeat": "142320",
-   "igdb": "fortnite-festival"
+   "igdb": "fortnite-festival",
+   "metacritic": "fortnite-fortnite-festival"
   },
   "label_en": "Fortnite Festival",
   "wikidata": "Q124632391"
@@ -1003,6 +1025,7 @@
    "gog": "game/keep_driving",
    "howlongtobeat": "157686",
    "igdb": "keep-driving",
+   "metacritic": "keep-driving",
    "mobygames": "236996",
    "pcgamingwiki": "Keep_Driving",
    "steam": "2756920"
@@ -1266,6 +1289,7 @@
    "gog": "game/bubsy_4d",
    "howlongtobeat": "172955",
    "igdb": "bubsy-4d",
+   "metacritic": "bubsy-4d",
    "mobygames": "246736",
    "pcgamingwiki": "Bubsy_4D",
    "steam": "3237970"

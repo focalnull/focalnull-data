@@ -17,6 +17,7 @@
   "ids": {
    "howlongtobeat": "7807",
    "igdb": "ridge-racer-6",
+   "metacritic": "ridge-racer-6",
    "mobygames": "20877"
   },
   "label_en": "Ridge Racer 6",
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "8022",
    "igdb": "rune-factory-a-fantasy-harvest-moon",
+   "metacritic": "rune-factory-a-fantasy-harvest-moon",
    "mobygames": "34371"
   },
   "label_en": "Rune Factory: A Fantasy Harvest Moon",
@@ -36,6 +38,7 @@
   "enwiki": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (video game)",
   "ids": {
    "igdb": "the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe",
+   "metacritic": "the-chronicles-of-narnia-the-lion-the-witch-and",
    "mobygames": "20086",
    "pcgamingwiki": "The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe"
   },
@@ -58,6 +61,7 @@
   "ids": {
    "howlongtobeat": "38512",
    "igdb": "blackshot--1",
+   "metacritic": "blackshot",
    "mobygames": "98373",
    "pcgamingwiki": "BlackShot:_Mercenary_Warfare_FPS",
    "steam": "433350"
@@ -70,6 +74,7 @@
    "gog": "game/star_wolves_3_civil_war",
    "howlongtobeat": "9147",
    "igdb": "star-wolves-3-civil-war",
+   "metacritic": "star-wolves-3-civil-war",
    "mobygames": "83983",
    "pcgamingwiki": "Star_Wolves_3:_Civil_War",
    "steam": "46260"
@@ -81,6 +86,7 @@
   "enwiki": "Winnie the Pooh's Rumbly Tumbly Adventure",
   "ids": {
    "igdb": "disneys-winnie-the-poohs-rumbly-tumbly-adventure",
+   "metacritic": "winnie-the-poohs-rumbly-tumbly-adventure",
    "mobygames": "21093"
   },
   "label_en": "Winnie the Pooh's Rumbly Tumbly Adventure",
@@ -131,6 +137,7 @@
    "gog": "game/dins_curse",
    "howlongtobeat": "2553",
    "igdb": "dins-curse",
+   "metacritic": "dins-curse",
    "mobygames": "46599",
    "pcgamingwiki": "Din's_Curse",
    "steam": "217290"
@@ -161,6 +168,7 @@
   "ids": {
    "howlongtobeat": "6315",
    "igdb": "mystery-case-files-millionheir",
+   "metacritic": "mystery-case-files-millionheir",
    "mobygames": "36677"
   },
   "label_en": "Mystery Case Files: MillionHeir",
@@ -187,6 +195,7 @@
   "enwiki": "NFL Head Coach",
   "ids": {
    "igdb": "nfl-head-coach",
+   "metacritic": "nfl-head-coach",
    "mobygames": "31297",
    "pcgamingwiki": "NFL_Head_Coach"
   },
@@ -208,6 +217,7 @@
   "ids": {
    "howlongtobeat": "19550",
    "igdb": "littlebigplanet-3",
+   "metacritic": "littlebigplanet-3",
    "mobygames": "71683"
   },
   "label_en": "LittleBigPlanet 3",
@@ -219,6 +229,7 @@
    "gog": "game/not_a_hero",
    "howlongtobeat": "25034",
    "igdb": "not-a-hero",
+   "metacritic": "not-a-hero",
    "mobygames": "83986",
    "pcgamingwiki": "Not_A_Hero",
    "steam": "274270"
@@ -246,6 +257,7 @@
    "epic": "custom-order-maid-3d2-its-a-night-magic-d5313e",
    "howlongtobeat": "80817",
    "igdb": "custom-maid-3d-2",
+   "metacritic": "custom-order-maid-3d2-its-a-night-magic-",
    "mobygames": "135386",
    "pcgamingwiki": "CUSTOM_ORDER_MAID_3D2_It's_a_Night_Magic",
    "steam": "1097580"
@@ -258,6 +270,7 @@
   "ids": {
    "howlongtobeat": "56677",
    "igdb": "dark-souls-remastered",
+   "metacritic": "dark-souls-remastered",
    "mobygames": "109269",
    "pcgamingwiki": "Dark_Souls_Remastered",
    "steam": "570940"
@@ -283,6 +296,7 @@
   "ids": {
    "howlongtobeat": "19287",
    "igdb": "robotron-x",
+   "metacritic": "robotron-64",
    "mobygames": "13604",
    "pcgamingwiki": "Robotron_X"
   },
@@ -406,6 +420,7 @@
   "ids": {
    "howlongtobeat": "37124",
    "igdb": "the-huntsman-winters-curse",
+   "metacritic": "the-huntsman-winters-curse",
    "mobygames": "87208",
    "pcgamingwiki": "The_Huntsman:_Winter's_Curse",
    "steam": "446990"
@@ -808,6 +823,7 @@
    "gog": "game/soulslinger_envoy_of_death",
    "howlongtobeat": "134817",
    "igdb": "soulslinger-envoy-of-death",
+   "metacritic": "soulslinger-envoy-of-death",
    "mobygames": "214662",
    "pcgamingwiki": "Soulslinger:_Envoy_of_Death",
    "steam": "2429240"
@@ -891,6 +907,7 @@
   "ids": {
    "howlongtobeat": "38661",
    "igdb": "marooners",
+   "metacritic": "marooners",
    "mobygames": "102824",
    "pcgamingwiki": "Marooners",
    "steam": "423810"
@@ -1018,6 +1035,7 @@
   "ids": {
    "howlongtobeat": "164821",
    "igdb": "makeroom",
+   "metacritic": "makeroom",
    "steam": "2212670"
   },
   "label_en": "MakeRoom",

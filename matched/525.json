@@ -3,6 +3,7 @@
   "enwiki": "Hyperdimension Neptunia (video game)",
   "ids": {
    "igdb": "hyperdimension-neptunia",
+   "metacritic": "hyperdimension-neptunia",
    "mobygames": "78086"
   },
   "label_en": "Hyperdimension Neptunia",
@@ -12,6 +13,7 @@
   "enwiki": "Wallace & Gromit in Project Zoo",
   "ids": {
    "igdb": "wallace-and-gromit-in-project-zoo",
+   "metacritic": "wallace-and-gromit-in-project-zoo",
    "mobygames": "13504",
    "pcgamingwiki": "Wallace_&_Gromit_in_Project_Zoo"
   },
@@ -75,6 +77,7 @@
   "ids": {
    "howlongtobeat": "6103",
    "igdb": "mlb-11-the-show",
+   "metacritic": "mlb-11-the-show",
    "mobygames": "84037"
   },
   "label_en": "MLB 11: The Show",
@@ -158,6 +161,7 @@
   "ids": {
    "howlongtobeat": "19794",
    "igdb": "organic-panic",
+   "metacritic": "organic-panic",
    "mobygames": "86983",
    "pcgamingwiki": "Organic_Panic",
    "steam": "282740"
@@ -193,6 +197,7 @@
    "gog": "game/the_coma_2_vicious_sisters_deluxe_edition",
    "howlongtobeat": "75365",
    "igdb": "the-coma-2-vicious-sisters",
+   "metacritic": "the-coma-2-vicious-sisters",
    "mobygames": "137152",
    "pcgamingwiki": "The_Coma_2:_Vicious_Sisters",
    "steam": "1045720"
@@ -281,6 +286,7 @@
   "ids": {
    "howlongtobeat": "58518",
    "igdb": "super-inefficient-golf",
+   "metacritic": "super-inefficient-golf",
    "mobygames": "109261",
    "pcgamingwiki": "Super_Inefficient_Golf",
    "steam": "772480"
@@ -671,6 +677,7 @@
   "ids": {
    "howlongtobeat": "151303",
    "igdb": "dynasty-warriors-origins",
+   "metacritic": "dynasty-warriors-origins",
    "pcgamingwiki": "Dynasty_Warriors:_Origins",
    "steam": "2384580"
   },

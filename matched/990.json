@@ -12,6 +12,7 @@
   "enwiki": "Gotham City Impostors",
   "ids": {
    "igdb": "gotham-city-impostors",
+   "metacritic": "gotham-city-impostors",
    "mobygames": "57549",
    "pcgamingwiki": "Gotham_City_Impostors",
    "steam": "206210"
@@ -74,6 +75,7 @@
   "ids": {
    "howlongtobeat": "7398",
    "igdb": "pursuit-force-extreme-justice",
+   "metacritic": "pursuit-force-extreme-justice",
    "mobygames": "34256"
   },
   "label_en": "Pursuit Force: Extreme Justice",
@@ -185,6 +187,7 @@
   "enwiki": "The Playroom (2013 video game)",
   "ids": {
    "igdb": "the-playroom",
+   "metacritic": "the-playroom",
    "mobygames": "119711"
   },
   "label_en": "The Playroom",
@@ -266,6 +269,7 @@
    "epic": "house-flipper",
    "howlongtobeat": "56524",
    "igdb": "house-flipper",
+   "metacritic": "house-flipper",
    "mobygames": "108903",
    "pcgamingwiki": "House_Flipper",
    "steam": "613100"
@@ -311,6 +315,7 @@
    "gog": "game/cardpocalypse",
    "howlongtobeat": "75803",
    "igdb": "cardpocalypse",
+   "metacritic": "cardpocalypse",
    "mobygames": "134955",
    "pcgamingwiki": "Cardpocalypse",
    "steam": "904400"
@@ -323,6 +328,7 @@
   "ids": {
    "howlongtobeat": "94122",
    "igdb": "crimson-desert-enhanced--1",
+   "metacritic": "crimson-desert",
    "mobygames": "257431",
    "pcgamingwiki": "Crimson_Desert",
    "steam": "3321460"
@@ -393,6 +399,7 @@
   "ids": {
    "howlongtobeat": "53876",
    "igdb": "apocalipsis",
+   "metacritic": "apocalipsis",
    "mobygames": "114296",
    "pcgamingwiki": "Apocalipsis",
    "steam": "505330"
@@ -404,6 +411,7 @@
   "ids": {
    "howlongtobeat": "70984",
    "igdb": "spidersaurs",
+   "metacritic": "spidersaurs",
    "mobygames": "135467",
    "pcgamingwiki": "Spidersaurs",
    "steam": "1191620"
@@ -847,6 +855,7 @@
   "enwiki": "AYSO Soccer '97",
   "ids": {
    "igdb": "ayso-soccer-97",
+   "metacritic": "ayso-soccer-97",
    "mobygames": "46389"
   },
   "label_en": "AYSO Soccer '97",
@@ -1071,6 +1080,7 @@
  {
   "ids": {
    "igdb": "natsumi-and-the-absurd-academy",
+   "metacritic": "natsumi-and-the-absurd-academy",
    "mobygames": "242601",
    "steam": "3326920"
   },
@@ -1119,6 +1129,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Gamepad_Massage",
    "steam": "999030"
   },
   "label_en": "Gamepad Massage",
@@ -1187,12 +1198,5 @@
  {
   "label_en": "My e-Farm",
   "wikidata": "Q141624990"
- },
- {
-  "ids": {
-   "steam": "2671230"
-  },
-  "label_en": "BLADECHIMERA",
-  "wikidata": "Q142183990"
  }
 ]

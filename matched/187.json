@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "5643",
    "igdb": "mario-party-3",
+   "metacritic": "mario-party-3",
    "mobygames": "5337"
   },
   "label_en": "Mario Party 3",
@@ -22,6 +23,7 @@
   "enwiki": "Shin Megami Tensei: Devil Survivor",
   "ids": {
    "igdb": "shin-megami-tensei-devil-survivor",
+   "metacritic": "shin-megami-tensei-devil-survivor",
    "mobygames": "43782"
   },
   "label_en": "Shin Megami Tensei: Devil Survivor",
@@ -32,6 +34,7 @@
   "ids": {
    "howlongtobeat": "3509",
    "igdb": "final-fantasy-mystic-quest",
+   "metacritic": "final-fantasy-mystic-quest",
    "mobygames": "7197"
   },
   "label_en": "Final Fantasy Mystic Quest",
@@ -68,6 +71,7 @@
   "enwiki": "SSX on Tour",
   "ids": {
    "igdb": "ssx-on-tour",
+   "metacritic": "ssx-on-tour",
    "mobygames": "19627"
   },
   "label_en": "SSX On Tour",
@@ -77,6 +81,7 @@
   "enwiki": "The Weakest Link (video game)",
   "ids": {
    "igdb": "weakest-link",
+   "metacritic": "the-weakest-link",
    "mobygames": "30654"
   },
   "label_en": "The Weakest Link",
@@ -93,7 +98,8 @@
  {
   "enwiki": "Zen Pinball",
   "ids": {
-   "igdb": "zen-pinball"
+   "igdb": "zen-pinball",
+   "metacritic": "zen-pinball"
   },
   "label_en": "Zen Pinball",
   "wikidata": "Q3575187"
@@ -142,6 +148,7 @@
   "enwiki": "Freestyle MetalX",
   "ids": {
    "igdb": "freestyle-metalx",
+   "metacritic": "freestyle-metal-x",
    "mobygames": "26488"
   },
   "label_en": "Freestyle MetalX",
@@ -161,6 +168,7 @@
   "ids": {
    "howlongtobeat": "53696",
    "igdb": "group-s-challenge",
+   "metacritic": "group-s-challenge",
    "mobygames": "47792"
   },
   "label_en": "Group S Challenge",
@@ -169,6 +177,7 @@
  {
   "ids": {
    "igdb": "ninja-gaiden-black",
+   "metacritic": "ninja-gaiden-black",
    "mobygames": "22361"
   },
   "label_en": "Ninja Gaiden Black",
@@ -245,6 +254,7 @@
   "ids": {
    "howlongtobeat": "13499",
    "igdb": "touhou-kishinjou-double-dealing-character",
+   "metacritic": "double-dealing-character",
    "mobygames": "73635",
    "pcgamingwiki": "Double_Dealing_Character",
    "steam": "1043240"
@@ -313,6 +323,7 @@
    "gog": "game/chasm",
    "howlongtobeat": "20079",
    "igdb": "chasm",
+   "metacritic": "chasm",
    "mobygames": "111723",
    "pcgamingwiki": "Chasm",
    "steam": "312200"
@@ -335,6 +346,7 @@
   "ids": {
    "howlongtobeat": "23463",
    "igdb": "pro-cycling-manager-2014",
+   "metacritic": "pro-cycling-manager-season-2014",
    "mobygames": "85568",
    "pcgamingwiki": "Pro_Cycling_Manager_2014",
    "steam": "255260"
@@ -348,6 +360,7 @@
    "gog": "game/darksiders_ii_deathinitive_edition",
    "howlongtobeat": "31632",
    "igdb": "darksiders-ii-deathinitive-edition",
+   "metacritic": "darksiders-ii-deathinitive-edition",
    "mobygames": "75524",
    "pcgamingwiki": "Darksiders_II:_Deathinitive_Edition",
    "steam": "388410"
@@ -374,6 +387,7 @@
   "ids": {
    "howlongtobeat": "19073",
    "igdb": "brandish-the-dark-revenant",
+   "metacritic": "brandish-the-dark-revenant",
    "mobygames": "83505"
   },
   "label_en": "Brandish: The Dark Revenant",
@@ -750,6 +764,7 @@
   "ids": {
    "howlongtobeat": "144366",
    "igdb": "prison-architect-2",
+   "metacritic": "prison-architect-2",
    "pcgamingwiki": "Prison_Architect_2",
    "steam": "1257610"
   },
@@ -806,6 +821,7 @@
    "epic": "sonic-racing-crossworlds",
    "howlongtobeat": "160622",
    "igdb": "sonic-racing-crossworlds",
+   "metacritic": "sonic-racing-crossworlds",
    "mobygames": "248404",
    "pcgamingwiki": "Sonic_Racing:_CrossWorlds",
    "steam": "2486820"
@@ -1147,6 +1163,7 @@
  {
   "ids": {
    "igdb": "beyond-the-wall",
+   "pcgamingwiki": "Beyond_the_Wall",
    "steam": "684560"
   },
   "label_en": "Beyond the Wall",

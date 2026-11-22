@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9949",
    "igdb": "the-incredible-hulk",
+   "metacritic": "the-incredible-hulk-2008",
    "mobygames": "35075",
    "pcgamingwiki": "The_Incredible_Hulk"
   },
@@ -26,6 +27,7 @@
    "gog": "game/gurumin_a_monstrous_adventure",
    "howlongtobeat": "4221",
    "igdb": "gurumin-a-monstrous-adventure",
+   "metacritic": "gurumin-a-monstrous-adventure",
    "mobygames": "44703",
    "pcgamingwiki": "Gurumin:_A_Monstrous_Adventure",
    "steam": "322290"
@@ -47,6 +49,7 @@
   "ids": {
    "howlongtobeat": "10008",
    "igdb": "the-legend-of-heroes-a-tear-of-vermillion",
+   "metacritic": "the-legend-of-heroes-a-tear-of-vermillion",
    "mobygames": "23442"
   },
   "label_en": "The Legend of Heroes: A Tear of Vermillion",
@@ -57,6 +60,7 @@
   "ids": {
    "howlongtobeat": "11431",
    "igdb": "yggdra-union-we-ll-never-fight-alone",
+   "metacritic": "yggdra-union-well-never-fight-alone",
    "mobygames": "33439"
   },
   "label_en": "Yggdra Union",
@@ -74,6 +78,7 @@
   "ids": {
    "howlongtobeat": "19508",
    "igdb": "tom-clancy-s-ghost-recon-predator",
+   "metacritic": "tom-clancys-ghost-recon-predator",
    "mobygames": "62319"
   },
   "label_en": "Tom Clancy's Ghost Recon Predator",
@@ -102,6 +107,7 @@
   "ids": {
    "howlongtobeat": "3058",
    "igdb": "edge",
+   "metacritic": "edge",
    "mobygames": "41029",
    "pcgamingwiki": "Edge",
    "steam": "38740"
@@ -163,6 +169,7 @@
   "ids": {
    "howlongtobeat": "1002",
    "igdb": "bejeweled-twist",
+   "metacritic": "bejeweled-twist-dsiware",
    "mobygames": "45455",
    "pcgamingwiki": "Bejeweled_Twist",
    "steam": "3560"
@@ -272,6 +279,7 @@
   "ids": {
    "howlongtobeat": "26481",
    "igdb": "dirt-rally",
+   "metacritic": "dirt-rally",
    "mobygames": "84166",
    "pcgamingwiki": "DiRT_Rally",
    "steam": "310560"
@@ -285,6 +293,7 @@
    "epic": "20xx",
    "howlongtobeat": "25226",
    "igdb": "20xx",
+   "metacritic": "20xx",
    "mobygames": "87937",
    "pcgamingwiki": "20XX",
    "steam": "322110"
@@ -298,6 +307,7 @@
    "gog": "game/pandora",
    "howlongtobeat": "17519",
    "igdb": "pandora-first-contact",
+   "metacritic": "pandora-first-contact",
    "mobygames": "65290",
    "pcgamingwiki": "Pandora:_First_Contact",
    "steam": "287580"
@@ -335,6 +345,7 @@
   "enwiki": "Pokémon X",
   "ids": {
    "igdb": "pokemon-x",
+   "metacritic": "pokemon-x",
    "mobygames": "62267"
   },
   "label_en": "Pokémon X",
@@ -355,6 +366,7 @@
  {
   "ids": {
    "howlongtobeat": "21897",
+   "metacritic": "inkheart",
    "mobygames": "47208"
   },
   "label_en": "Inkheart",
@@ -376,6 +388,7 @@
    "gog": "game/fox_n_forests",
    "howlongtobeat": "57003",
    "igdb": "fox-n-forests",
+   "metacritic": "fox-n-forests",
    "mobygames": "108901",
    "pcgamingwiki": "Fox_n_Forests",
    "steam": "603400"
@@ -412,6 +425,9 @@
   "wikidata": "Q97287547"
  },
  {
+  "ids": {
+   "metacritic": "nascar-heat"
+  },
   "label_en": "NASCAR Heat",
   "wikidata": "Q99720547"
  },
@@ -419,6 +435,7 @@
   "enwiki": "NCAA March Madness 06",
   "ids": {
    "igdb": "ncaa-march-madness-06",
+   "metacritic": "ncaa-march-madness-06",
    "mobygames": "31295"
   },
   "label_en": "NCAA March Madness '06",
@@ -437,6 +454,7 @@
    "gog": "game/cartel_tycoon",
    "howlongtobeat": "84434",
    "igdb": "cartel-tycoon",
+   "metacritic": "cartel-tycoon",
    "mobygames": "160645",
    "pcgamingwiki": "Cartel_Tycoon",
    "steam": "1220140"
@@ -505,7 +523,8 @@
  {
   "enwiki": "R-Type Final 3 Evolved",
   "ids": {
-   "igdb": "r-type-final-3-evolved"
+   "igdb": "r-type-final-3-evolved",
+   "metacritic": "r-type-final-3-evolved"
   },
   "label_en": "R-Type Final 3 Evolved",
   "wikidata": "Q116844547"
@@ -527,6 +546,7 @@
   "ids": {
    "howlongtobeat": "129247",
    "igdb": "towers-of-aghasba",
+   "metacritic": "towers-of-aghasba",
    "steam": "2178070"
   },
   "label_en": "Towers of Aghasba",
@@ -630,6 +650,7 @@
    "howlongtobeat": "90445",
    "igdb": "hair-of-the-dog",
    "mobygames": "185826",
+   "pcgamingwiki": "Hair_of_the_Dog",
    "steam": "1558970"
   },
   "label_en": "Hair of the Dog",
@@ -1244,6 +1265,7 @@
   "ids": {
    "howlongtobeat": "31186",
    "igdb": "xtype-plus",
+   "metacritic": "x-type-plus",
    "mobygames": "96584"
   },
   "label_en": "XType Plus",

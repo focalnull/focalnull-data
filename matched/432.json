@@ -14,6 +14,7 @@
   "enwiki": "Battlefield Play4Free",
   "ids": {
    "igdb": "battlefield-play4free",
+   "metacritic": "battlefield-play4free",
    "mobygames": "51885",
    "pcgamingwiki": "Battlefield_Play4Free"
   },
@@ -43,6 +44,7 @@
   "ids": {
    "howlongtobeat": "7033",
    "igdb": "picross-3d",
+   "metacritic": "picross-3d",
    "mobygames": "46970"
   },
   "label_en": "Picross 3D",
@@ -62,6 +64,7 @@
   "ids": {
    "howlongtobeat": "3192",
    "igdb": "etrian-odyssey",
+   "metacritic": "etrian-odyssey",
    "mobygames": "28892",
    "pcgamingwiki": "Etrian_Odyssey_HD",
    "steam": "1868180"
@@ -73,6 +76,7 @@
   "enwiki": "Motor City Online",
   "ids": {
    "igdb": "motor-city-online",
+   "metacritic": "motor-city-online",
    "mobygames": "5465",
    "pcgamingwiki": "Motor_City_Online"
   },
@@ -101,6 +105,7 @@
   "enwiki": "Boogie (video game)",
   "ids": {
    "igdb": "boogie",
+   "metacritic": "boogie",
    "mobygames": "67851"
   },
   "label_en": "Boogie",
@@ -138,6 +143,7 @@
   "ids": {
    "howlongtobeat": "77182",
    "igdb": "victorious-boxers-2-fighting-spirit",
+   "metacritic": "victorious-boxers-2-fighting-spirit",
    "mobygames": "22571"
   },
   "label_en": "Victorious Boxers 2: Fighting Spirit",
@@ -160,6 +166,7 @@
   "enwiki": "Senran Kagura Burst",
   "ids": {
    "igdb": "senran-kagura-burst",
+   "metacritic": "senran-kagura-burst",
    "mobygames": "67350"
   },
   "label_en": "Senran Kagura Burst",
@@ -215,6 +222,7 @@
   "ids": {
    "howlongtobeat": "2093",
    "igdb": "cubemen",
+   "metacritic": "cubemen",
    "mobygames": "56761",
    "pcgamingwiki": "Cubemen",
    "steam": "207250"
@@ -238,6 +246,7 @@
    "gog": "game/lumo",
    "howlongtobeat": "37433",
    "igdb": "lumo",
+   "metacritic": "lumo",
    "mobygames": "84476",
    "pcgamingwiki": "Lumo",
    "steam": "345480"
@@ -249,6 +258,7 @@
   "enwiki": "This Is Football 2003",
   "ids": {
    "igdb": "this-is-football-2003",
+   "metacritic": "world-tour-soccer-2003",
    "mobygames": "30032"
   },
   "label_en": "This Is Football 2003",
@@ -259,6 +269,7 @@
   "ids": {
    "howlongtobeat": "57445",
    "igdb": "starfield",
+   "metacritic": "starfield",
    "mobygames": "208288",
    "pcgamingwiki": "Starfield",
    "steam": "1716740"
@@ -305,6 +316,7 @@
   "ids": {
    "howlongtobeat": "20563",
    "igdb": "croixleur-sigma",
+   "metacritic": "croixleur-sigma",
    "mobygames": "82521",
    "pcgamingwiki": "Croixleur_Sigma",
    "steam": "250640"
@@ -324,6 +336,7 @@
   "ids": {
    "howlongtobeat": "42686",
    "igdb": "hopiko",
+   "metacritic": "hopiko",
    "mobygames": "87341",
    "pcgamingwiki": "HoPiKo",
    "steam": "437390"
@@ -336,6 +349,7 @@
    "epic": "vigil-the-longest-night",
    "howlongtobeat": "80960",
    "igdb": "vigil-the-longest-night",
+   "metacritic": "vigil-the-longest-night",
    "mobygames": "151112",
    "pcgamingwiki": "Vigil:_The_Longest_Night",
    "steam": "720560"
@@ -365,6 +379,9 @@
   "wikidata": "Q106483432"
  },
  {
+  "ids": {
+   "metacritic": "shadowverse-champions-battle"
+  },
   "label_en": "Shadowverse: Champion's Battle",
   "wikidata": "Q108571432"
  },
@@ -538,6 +555,7 @@
   "ids": {
    "howlongtobeat": "129162",
    "igdb": "pixel-ripped-1978",
+   "metacritic": "pixel-ripped-1978",
    "mobygames": "204454",
    "pcgamingwiki": "Pixel_Ripped_1978",
    "steam": "2360690"
@@ -859,6 +877,7 @@
   "ids": {
    "gog": "game/coridden",
    "igdb": "coridden",
+   "metacritic": "coridden",
    "mobygames": "236618",
    "pcgamingwiki": "Coridden",
    "steam": "1656930"

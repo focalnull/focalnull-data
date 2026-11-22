@@ -12,6 +12,7 @@
   "enwiki": "Winx Club: Quest for the Codex",
   "ids": {
    "igdb": "winx-club-the-quest-for-the-codex",
+   "metacritic": "winx-club-quest-for-the-codex",
    "mobygames": "42189"
   },
   "label_en": "Winx Club: Quest for the Codex",
@@ -22,6 +23,7 @@
   "ids": {
    "howlongtobeat": "5775",
    "igdb": "medal-of-honor--2",
+   "metacritic": "medal-of-honor-1999",
    "mobygames": "4753"
   },
   "label_en": "Medal of Honor",
@@ -62,6 +64,7 @@
   "ids": {
    "howlongtobeat": "10441",
    "igdb": "tom-clancy-s-h-a-w-x-2",
+   "metacritic": "tom-clancys-hawx-2",
    "mobygames": "48222",
    "pcgamingwiki": "Tom_Clancy's_H.A.W.X._2",
    "steam": "48180"
@@ -95,6 +98,7 @@
   "ids": {
    "howlongtobeat": "4481",
    "igdb": "hoard",
+   "metacritic": "hoard",
    "mobygames": "49050",
    "pcgamingwiki": "Hoard",
    "steam": "63000"
@@ -240,6 +244,7 @@
    "gog": "game/fell_seal_arbiters_mark",
    "howlongtobeat": "64047",
    "igdb": "fell-seal-arbiters-mark",
+   "metacritic": "fell-seal-arbiters-mark",
    "mobygames": "112480",
    "pcgamingwiki": "Fell_Seal:_Arbiter's_Mark",
    "steam": "699170"
@@ -252,6 +257,7 @@
    "gog": "game/dream",
    "howlongtobeat": "15892",
    "igdb": "dream",
+   "metacritic": "dream",
    "mobygames": "116004",
    "pcgamingwiki": "Dream",
    "steam": "229580"
@@ -272,6 +278,7 @@
   "ids": {
    "howlongtobeat": "55639",
    "igdb": "scribblenauts-showdown",
+   "metacritic": "scribblenauts-showdown",
    "mobygames": "104397"
   },
   "label_en": "Scribblenauts Showdown",
@@ -284,6 +291,7 @@
    "gog": "game/everhood",
    "howlongtobeat": "89436",
    "igdb": "everhood",
+   "metacritic": "everhood",
    "mobygames": "159794",
    "pcgamingwiki": "Everhood",
    "steam": "1229380"
@@ -671,6 +679,7 @@
    "gog": "game/peaks_of_yore",
    "howlongtobeat": "130441",
    "igdb": "peaks-of-yore",
+   "metacritic": "peaks-of-yore",
    "mobygames": "210930",
    "pcgamingwiki": "Peaks_of_Yore",
    "steam": "2236070"
@@ -712,6 +721,7 @@
   "ids": {
    "howlongtobeat": "56483",
    "igdb": "healers-quest",
+   "metacritic": "healers-quest",
    "mobygames": "122358",
    "pcgamingwiki": "Healer's_Quest",
    "steam": "598490"

@@ -14,6 +14,7 @@
   "enwiki": "Silent Hill 3",
   "ids": {
    "igdb": "silent-hill-3",
+   "metacritic": "silent-hill-3",
    "mobygames": "9324",
    "pcgamingwiki": "Silent_Hill_3"
   },
@@ -41,7 +42,8 @@
  {
   "enwiki": "Buzz! Junior: Monster Rumble",
   "ids": {
-   "igdb": "buzz-junior-monster-rumble"
+   "igdb": "buzz-junior-monster-rumble",
+   "metacritic": "buzz-junior-monster-rumble"
   },
   "label_en": "Buzz! Junior: Monster Rumble",
   "wikidata": "Q1018338"
@@ -60,6 +62,7 @@
   "ids": {
    "howlongtobeat": "2824",
    "igdb": "dragon-quest-viii-journey-of-the-cursed-king",
+   "metacritic": "dragon-quest-viii-journey-of-the-cursed-king",
    "mobygames": "20096"
   },
   "label_en": "Dragon Quest VIII",
@@ -79,6 +82,7 @@
   "ids": {
    "howlongtobeat": "1756",
    "igdb": "clock-tower-ii-the-struggle-within",
+   "metacritic": "clock-tower-ii-the-struggle-within",
    "mobygames": "5099"
   },
   "label_en": "Clock Tower II: The Struggle Within",
@@ -135,6 +139,7 @@
   "enwiki": "Cabela's Monster Bass",
   "ids": {
    "igdb": "cabelas-monster-bass",
+   "metacritic": "cabelas-monster-bass",
    "mobygames": "110144"
   },
   "label_en": "Cabela's Monster Bass",
@@ -209,6 +214,7 @@
   "enwiki": "Deception IV: The Nightmare Princess",
   "ids": {
    "igdb": "deception-iv-the-nightmare-princess",
+   "metacritic": "deception-iv-the-nightmare-princess",
    "mobygames": "84358"
   },
   "label_en": "Deception IV: Another Princess",
@@ -233,6 +239,7 @@
    "gog": "game/enter_the_gungeon",
    "howlongtobeat": "35549",
    "igdb": "enter-the-gungeon",
+   "metacritic": "enter-the-gungeon",
    "mobygames": "84471",
    "pcgamingwiki": "Enter_the_Gungeon",
    "steam": "311690"
@@ -255,6 +262,7 @@
   "ids": {
    "howlongtobeat": "30736",
    "igdb": "steredenn",
+   "metacritic": "steredenn",
    "mobygames": "82322",
    "pcgamingwiki": "Steredenn",
    "steam": "347160"
@@ -266,6 +274,7 @@
   "ids": {
    "howlongtobeat": "61671",
    "igdb": "tt-isle-of-man-ride-on-the-edge",
+   "metacritic": "tt-isle-of-man",
    "mobygames": "104811",
    "pcgamingwiki": "TT_Isle_of_Man",
    "steam": "626610"
@@ -295,6 +304,7 @@
    "gog": "game/astebreed",
    "howlongtobeat": "19205",
    "igdb": "astebreed",
+   "metacritic": "astebreed",
    "mobygames": "80689",
    "pcgamingwiki": "Astebreed",
    "steam": "283680"
@@ -313,6 +323,7 @@
   "enwiki": "NHL 20",
   "ids": {
    "igdb": "nhl-20",
+   "metacritic": "nhl-20",
    "mobygames": "134578"
   },
   "label_en": "NHL 20",
@@ -356,6 +367,7 @@
    "epic": "matchpoint-tennis-championships-26d55a",
    "howlongtobeat": "108608",
    "igdb": "matchpoint-tennis-championships",
+   "metacritic": "matchpoint-tennis-championships",
    "mobygames": "187681",
    "pcgamingwiki": "Matchpoint:_Tennis_Championships",
    "steam": "1345760"
@@ -497,6 +509,7 @@
   "ids": {
    "howlongtobeat": "132023",
    "igdb": "lets-revolution",
+   "metacritic": "lets-revolution",
    "mobygames": "206039",
    "steam": "2111090"
   },
@@ -729,6 +742,7 @@
  {
   "ids": {
    "igdb": "fairy-tail-dungeons",
+   "metacritic": "fairy-tail-dungeons",
    "mobygames": "230499",
    "pcgamingwiki": "Fairy_Tail:_Dungeons",
    "steam": "2305500"

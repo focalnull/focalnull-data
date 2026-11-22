@@ -33,6 +33,7 @@
   "ids": {
    "howlongtobeat": "2928",
    "igdb": "duke-nukem-manhattan-project",
+   "metacritic": "duke-nukem-manhattan-project",
    "mobygames": "6505",
    "pcgamingwiki": "Duke_Nukem:_Manhattan_Project",
    "steam": "240200"
@@ -67,6 +68,7 @@
   "ids": {
    "howlongtobeat": "1668",
    "igdb": "chibi-robo",
+   "metacritic": "chibi-robo",
    "mobygames": "21513"
   },
   "label_en": "Chibi-Robo!",
@@ -76,6 +78,7 @@
   "enwiki": "R: Racing Evolution",
   "ids": {
    "igdb": "r-racing-evolution-3f32c0cf-f126-4508-9ca8-2b93e68a0b4f",
+   "metacritic": "r-racing-evolution",
    "mobygames": "15590"
   },
   "label_en": "R: Racing Evolution",
@@ -98,6 +101,7 @@
   "enwiki": "Trinity Universe (video game)",
   "ids": {
    "igdb": "trinity-universe",
+   "metacritic": "trinity-universe",
    "mobygames": "105506"
   },
   "label_en": "Trinity Universe",
@@ -217,6 +221,7 @@
   "ids": {
    "howlongtobeat": "37795",
    "igdb": "hearts-of-iron-iv",
+   "metacritic": "hearts-of-iron-iv",
    "mobygames": "84168",
    "pcgamingwiki": "Hearts_of_Iron_IV",
    "steam": "394360"
@@ -228,6 +233,7 @@
   "ids": {
    "howlongtobeat": "131601",
    "igdb": "xuan-yuan-sword-mists-beyond-the-mountains",
+   "metacritic": "xuan-yuan-sword-mists-beyond-the-mountains",
    "mobygames": "18754",
    "steam": "1638230"
   },
@@ -244,6 +250,7 @@
    "gog": "game/stasis",
    "howlongtobeat": "22551",
    "igdb": "stasis--1",
+   "metacritic": "stasis",
    "mobygames": "76042",
    "pcgamingwiki": "Stasis",
    "steam": "380150"
@@ -290,6 +297,7 @@
   "ids": {
    "howlongtobeat": "40860",
    "igdb": "dragon-ball-xenoverse-2",
+   "metacritic": "dragon-ball-xenoverse-2",
    "mobygames": "82382",
    "pcgamingwiki": "Dragon_Ball_Xenoverse_2",
    "steam": "454650"
@@ -314,6 +322,7 @@
   "ids": {
    "howlongtobeat": "56891",
    "igdb": "blackout-the-darkest-night",
+   "metacritic": "blackout",
    "pcgamingwiki": "Blackout:_The_Darkest_Night",
    "steam": "875400"
   },
@@ -324,6 +333,7 @@
   "ids": {
    "howlongtobeat": "48358",
    "igdb": "cube-escape-the-lake",
+   "metacritic": "cube-escape-the-lake",
    "mobygames": "152381"
   },
   "label_en": "Cube Escape: The Lake",
@@ -334,6 +344,7 @@
   "ids": {
    "howlongtobeat": "43293",
    "igdb": "giga-wrecker",
+   "metacritic": "giga-wrecker",
    "mobygames": "83448",
    "pcgamingwiki": "Giga_Wrecker",
    "steam": "454410"
@@ -345,6 +356,7 @@
   "enwiki": "Cadence of Hyrule",
   "ids": {
    "igdb": "cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
+   "metacritic": "cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
    "mobygames": "124199"
   },
   "label_en": "Cadence of Hyrule",
@@ -388,6 +400,7 @@
    "gog": "game/calico",
    "howlongtobeat": "85354",
    "igdb": "calico",
+   "metacritic": "calico",
    "mobygames": "155775",
    "pcgamingwiki": "Calico",
    "steam": "1112890"
@@ -510,6 +523,7 @@
  {
   "ids": {
    "igdb": "madohi-shiroki-no-kamikakushi",
+   "metacritic": "madohi-shiroki-no-kamikakushi",
    "steam": "1854980"
   },
   "label_en": "Madohi Shiroki no Kamikakushi",
@@ -542,6 +556,7 @@
    "epic": "pacific-drive",
    "howlongtobeat": "113597",
    "igdb": "pacific-drive",
+   "metacritic": "pacific-drive",
    "mobygames": "218130",
    "pcgamingwiki": "Pacific_Drive",
    "steam": "1458140"

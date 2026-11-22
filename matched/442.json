@@ -5,6 +5,7 @@
    "gog": "game/vampire_the_masquerade_redemption",
    "howlongtobeat": "10891",
    "igdb": "vampire-the-masquerade-redemption",
+   "metacritic": "vampire-the-masquerade-redemption",
    "mobygames": "1709",
    "pcgamingwiki": "Vampire:_The_Masquerade_-_Redemption",
    "steam": "559680"
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "4326",
    "igdb": "harvest-moon-ds-island-of-happiness",
+   "metacritic": "harvest-moon-ds-island-of-happiness",
    "mobygames": "37510"
   },
   "label_en": "Harvest Moon DS: Island of Happiness",
@@ -116,6 +118,7 @@
   "enwiki": "Jenga World Tour",
   "ids": {
    "igdb": "jenga-world-tour",
+   "metacritic": "jenga-world-tour",
    "mobygames": "34326"
   },
   "label_en": "Jenga World Tour",
@@ -172,6 +175,7 @@
   "enwiki": "Need for Speed: Underground Rivals",
   "ids": {
    "igdb": "need-for-speed-underground-rivals",
+   "metacritic": "need-for-speed-underground-rivals",
    "mobygames": "17118"
   },
   "label_en": "Need for Speed: Underground Rivals",
@@ -181,6 +185,7 @@
   "enwiki": "Summer Sports: Paradise Island",
   "ids": {
    "igdb": "summer-sports-paradise-island",
+   "metacritic": "summer-sports-paradise-island",
    "mobygames": "86026"
   },
   "label_en": "Summer Sports: Paradise Island",
@@ -194,6 +199,7 @@
   "ids": {
    "howlongtobeat": "44841",
    "igdb": "narcosis",
+   "metacritic": "narcosis",
    "mobygames": "86137",
    "pcgamingwiki": "Narcosis",
    "steam": "366870"
@@ -216,6 +222,7 @@
    "gog": "game/ion_fury",
    "howlongtobeat": "49534",
    "igdb": "ion-fury",
+   "metacritic": "ion-fury",
    "mobygames": "104300",
    "pcgamingwiki": "Ion_Fury",
    "steam": "562860"
@@ -748,6 +755,7 @@
   "ids": {
    "howlongtobeat": "52756",
    "igdb": "shooty-fruity",
+   "metacritic": "shooty-fruity",
    "mobygames": "99776",
    "pcgamingwiki": "Shooty_Fruity",
    "steam": "666100"
@@ -804,6 +812,7 @@
    "epic": "arena-breakout-infinite-cc318b",
    "howlongtobeat": "149021",
    "igdb": "arena-breakout-infinite",
+   "metacritic": "arena-breakout-infinite",
    "mobygames": "245423",
    "pcgamingwiki": "Arena_Breakout:_Infinite",
    "steam": "2073620"
@@ -894,6 +903,7 @@
   "ids": {
    "howlongtobeat": "168700",
    "igdb": "big-hops",
+   "metacritic": "big-hops",
    "pcgamingwiki": "Big_Hops",
    "steam": "1221480"
   },

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "69",
    "igdb": "3d-dot-game-heroes",
+   "metacritic": "3d-dot-game-heroes",
    "mobygames": "47052"
   },
   "label_en": "3D Dot Game Heroes",
@@ -22,7 +23,8 @@
   "enwiki": "FIFA Street (2012 video game)",
   "ids": {
    "howlongtobeat": "3458",
-   "igdb": "fifa-street--3"
+   "igdb": "fifa-street--3",
+   "metacritic": "fifa-street-2012"
   },
   "label_en": "FIFA Street",
   "wikidata": "Q767436"
@@ -87,6 +89,7 @@
   "enwiki": "Cannon Spike",
   "ids": {
    "igdb": "cannon-spike",
+   "metacritic": "cannon-spike",
    "mobygames": "17830"
   },
   "label_en": "Cannon Spike",
@@ -115,6 +118,7 @@
   "ids": {
    "howlongtobeat": "13908",
    "igdb": "spider-man-mysterio-s-menace",
+   "metacritic": "spider-man-mysterios-menace",
    "mobygames": "5246"
   },
   "label_en": "Spider-Man: Mysterio's Menace",
@@ -125,6 +129,7 @@
   "ids": {
    "howlongtobeat": "7354",
    "igdb": "project-nomads",
+   "metacritic": "project-nomads",
    "mobygames": "7565",
    "pcgamingwiki": "Project_Nomads"
   },
@@ -145,6 +150,7 @@
   "ids": {
    "howlongtobeat": "1989",
    "igdb": "crashmo",
+   "metacritic": "crashmo",
    "mobygames": "74507"
   },
   "label_en": "Crashmo",
@@ -202,6 +208,7 @@
   "ids": {
    "howlongtobeat": "34632",
    "igdb": "vega-conflict",
+   "metacritic": "vega-conflict",
    "mobygames": "106282",
    "pcgamingwiki": "VEGA_Conflict",
    "steam": "339600"
@@ -252,6 +259,7 @@
   "ids": {
    "howlongtobeat": "64123",
    "igdb": "nascar-heat-3",
+   "metacritic": "nascar-heat-3",
    "mobygames": "113272",
    "pcgamingwiki": "NASCAR_Heat_3",
    "steam": "905450"
@@ -264,6 +272,7 @@
   "ids": {
    "howlongtobeat": "68644",
    "igdb": "f1-2019",
+   "metacritic": "f1-2019",
    "mobygames": "127916",
    "pcgamingwiki": "F1_2019",
    "steam": "928600"
@@ -301,6 +310,7 @@
   "ids": {
    "howlongtobeat": "28664",
    "igdb": "why-am-i-dead-at-sea",
+   "metacritic": "why-am-i-dead-at-sea",
    "mobygames": "92568",
    "pcgamingwiki": "Why_Am_I_Dead_At_Sea",
    "steam": "359400"
@@ -328,6 +338,7 @@
   "ids": {
    "howlongtobeat": "57975",
    "igdb": "lumines-remastered",
+   "metacritic": "lumines-remastered",
    "mobygames": "110622",
    "pcgamingwiki": "Lumines_Remastered",
    "steam": "851670"
@@ -402,6 +413,7 @@
    "gog": "game/venba",
    "howlongtobeat": "112959",
    "igdb": "venba",
+   "metacritic": "venba",
    "mobygames": "206733",
    "pcgamingwiki": "Venba",
    "steam": "1491670"
@@ -435,6 +447,7 @@
   "enwiki": "Winnie's Hole",
   "ids": {
    "igdb": "winnies-hole",
+   "metacritic": "winnies-hole",
    "steam": "2319730"
   },
   "label_en": "Winnie's Hole",

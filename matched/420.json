@@ -4,6 +4,7 @@
   "ids": {
    "gog": "game/empire_earth_gold_edition",
    "igdb": "empire-earth-gold-edition",
+   "metacritic": "empire-earth",
    "mobygames": "5374",
    "pcgamingwiki": "Empire_Earth",
    "steam": "254760"
@@ -20,6 +21,7 @@
   "enwiki": "Revelations: Persona",
   "ids": {
    "igdb": "revelations-persona",
+   "metacritic": "shin-megami-tensei-persona",
    "mobygames": "4422",
    "pcgamingwiki": "Megami_Ibunroku_Persona"
   },
@@ -42,6 +44,7 @@
   "enwiki": "Gran Turismo (2009 video game)",
   "ids": {
    "igdb": "gran-turismo--1",
+   "metacritic": "gran-turismo",
    "mobygames": "46235"
   },
   "label_en": "Gran Turismo",
@@ -51,6 +54,7 @@
   "enwiki": "Dino Crisis 3",
   "ids": {
    "igdb": "dino-crisis-3",
+   "metacritic": "dino-crisis-3",
    "mobygames": "10392"
   },
   "label_en": "Dino Crisis 3",
@@ -67,7 +71,8 @@
   "enwiki": "Cars Race-O-Rama",
   "ids": {
    "howlongtobeat": "1548",
-   "igdb": "cars-race-o-rama"
+   "igdb": "cars-race-o-rama",
+   "metacritic": "cars-race-o-rama"
   },
   "label_en": "Cars Race-O-Rama",
   "wikidata": "Q2940420"
@@ -76,6 +81,7 @@
   "enwiki": "Front Mission 4",
   "ids": {
    "igdb": "front-mission-4",
+   "metacritic": "front-mission-4",
    "mobygames": "18879"
   },
   "label_en": "Front Mission 4",
@@ -136,6 +142,7 @@
   "enwiki": "Disney Channel All Star Party",
   "ids": {
    "igdb": "disney-channel-all-star-party",
+   "metacritic": "disney-channel-all-star-party",
    "mobygames": "59529"
   },
   "label_en": "Disney Channel All Star Party",
@@ -155,6 +162,7 @@
    "gog": "game/the_cat_lady",
    "howlongtobeat": "9801",
    "igdb": "the-cat-lady",
+   "metacritic": "the-cat-lady",
    "mobygames": "59677",
    "pcgamingwiki": "The_Cat_Lady",
    "steam": "253110"
@@ -176,6 +184,7 @@
   "ids": {
    "howlongtobeat": "10486",
    "igdb": "tomena-sanner",
+   "metacritic": "tomena-sanner",
    "mobygames": "88646"
   },
   "label_en": "Tomena Sanner",
@@ -216,6 +225,7 @@
    "gog": "game/yiik_a_postmodern_rpg",
    "howlongtobeat": "63089",
    "igdb": "yiik-a-postmodern-rpg",
+   "metacritic": "yiik-a-postmodern-rpg",
    "mobygames": "120578",
    "pcgamingwiki": "YIIK:_A_Postmodern_RPG",
    "steam": "459080"
@@ -228,6 +238,7 @@
   "ids": {
    "howlongtobeat": "61942",
    "igdb": "assetto-corsa-competizione",
+   "metacritic": "assetto-corsa-competizione",
    "mobygames": "113517",
    "pcgamingwiki": "Assetto_Corsa_Competizione",
    "steam": "805550"
@@ -238,6 +249,7 @@
  {
   "ids": {
    "igdb": "kunlun-fight",
+   "metacritic": "kunlun-fight",
    "pcgamingwiki": "Kunlun_Fight",
    "steam": "565670"
   },
@@ -249,6 +261,7 @@
   "ids": {
    "howlongtobeat": "53231",
    "igdb": "tracks-the-train-set-game",
+   "metacritic": "tracks-the-train-set-game",
    "mobygames": "96562",
    "pcgamingwiki": "Tracks_-_The_Train_Set_Game",
    "steam": "657240"
@@ -270,6 +283,7 @@
   "ids": {
    "howlongtobeat": "60631",
    "igdb": "nippon-marathon",
+   "metacritic": "nippon-marathon",
    "mobygames": "107574",
    "pcgamingwiki": "Nippon_Marathon",
    "steam": "746940"
@@ -282,6 +296,7 @@
    "epic": "kine",
    "howlongtobeat": "72581",
    "igdb": "kine",
+   "metacritic": "kine",
    "mobygames": "136121",
    "pcgamingwiki": "Kine",
    "steam": "824570"
@@ -310,6 +325,7 @@
   "ids": {
    "howlongtobeat": "23310",
    "igdb": "phoenix-wright-ace-attorney-trilogy",
+   "metacritic": "phoenix-wright-ace-attorney-trilogy",
    "mobygames": "69940",
    "pcgamingwiki": "Phoenix_Wright:_Ace_Attorney_Trilogy",
    "steam": "787480"
@@ -323,6 +339,7 @@
    "epic": "sifu",
    "howlongtobeat": "89091",
    "igdb": "sifu",
+   "metacritic": "sifu",
    "mobygames": "179410",
    "pcgamingwiki": "Sifu",
    "steam": "2138710"
@@ -334,7 +351,8 @@
   "enwiki": "LBX: Little Battlers eXperience",
   "ids": {
    "howlongtobeat": "18307",
-   "igdb": "danball-senki-baku-boost"
+   "igdb": "danball-senki-baku-boost",
+   "metacritic": "lbx-little-battlers-experience"
   },
   "label_en": "LBX: Little Battlers eXperience",
   "wikidata": "Q111355420"
@@ -408,6 +426,7 @@
    "gog": "game/system_shock_enhanced_edition",
    "howlongtobeat": "9547",
    "igdb": "system-shock-enhanced-edition",
+   "metacritic": "system-shock-enhanced-edition",
    "mobygames": "74967",
    "pcgamingwiki": "System_Shock:_Enhanced_Edition",
    "steam": "410710"

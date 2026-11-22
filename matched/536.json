@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "48671",
    "igdb": "xonotic",
+   "metacritic": "xonotic",
    "mobygames": "201705",
    "pcgamingwiki": "Xonotic"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "10832",
    "igdb": "unreal-tournament-2004",
+   "metacritic": "unreal-tournament-2004",
    "mobygames": "12472",
    "pcgamingwiki": "Unreal_Tournament_2004",
    "steam": "13230"
@@ -35,6 +37,7 @@
   "enwiki": "Dead or Alive 5",
   "ids": {
    "igdb": "dead-or-alive-5",
+   "metacritic": "dead-or-alive-5",
    "mobygames": "72232"
   },
   "label_en": "Dead or Alive 5",
@@ -80,6 +83,7 @@
    "gog": "game/iron_storm",
    "howlongtobeat": "15732",
    "igdb": "iron-storm",
+   "metacritic": "iron-storm",
    "mobygames": "7570",
    "pcgamingwiki": "Iron_Storm",
    "steam": "296180"
@@ -116,6 +120,7 @@
   "enwiki": "Buzz Lightyear of Star Command (video game)",
   "ids": {
    "igdb": "buzz-lightyear-of-star-command",
+   "metacritic": "buzz-lightyear-of-star-command",
    "mobygames": "5585",
    "pcgamingwiki": "Buzz_Lightyear_of_Star_Command"
   },
@@ -138,6 +143,7 @@
   "enwiki": "No More Heroes: Heroes' Paradise",
   "ids": {
    "igdb": "no-more-heroes-heroes-paradise",
+   "metacritic": "no-more-heroes-heroes-paradise",
    "mobygames": "60746"
   },
   "label_en": "No More Heroes: Heroes' Paradise",
@@ -214,6 +220,7 @@
  {
   "ids": {
    "igdb": "unreal-maze-survival",
+   "metacritic": "unreal-maze-survival",
    "pcgamingwiki": "Unreal_Maze_Survival",
    "steam": "1046430"
   },
@@ -287,7 +294,8 @@
  {
   "enwiki": "Famicom Detective Club: The Girl Who Stands Behind",
   "ids": {
-   "igdb": "famicom-detective-club-the-girl-who-stands-behind"
+   "igdb": "famicom-detective-club-the-girl-who-stands-behind",
+   "metacritic": "famicom-detective-club-the-girl-who-stands-behind"
   },
   "label_en": "Famicom Detective Club: The Girl Who Stands Behind",
   "wikidata": "Q105601536"
@@ -306,6 +314,7 @@
   "ids": {
    "howlongtobeat": "24792",
    "igdb": "homie-rollerz",
+   "metacritic": "homie-rollerz",
    "mobygames": "85302"
   },
   "label_en": "Homie Rollerz",
@@ -384,6 +393,9 @@
   "wikidata": "Q114946536"
  },
  {
+  "ids": {
+   "pcgamingwiki": "Summon_Quest"
+  },
   "label_en": "Summon Quest",
   "wikidata": "Q118220536"
  },
@@ -422,6 +434,7 @@
    "howlongtobeat": "100815",
    "igdb": "hypnagogia-boundless-dreams",
    "mobygames": "201614",
+   "pcgamingwiki": "Hypnagogia_Boundless_Dreams",
    "steam": "1665500"
   },
   "label_en": "Hypnagogia: Boundless Dreams",
@@ -652,6 +665,7 @@
   "ids": {
    "howlongtobeat": "129868",
    "igdb": "while-the-irons-hot",
+   "metacritic": "while-the-irons-hot",
    "mobygames": "213456",
    "pcgamingwiki": "While_the_Iron's_Hot",
    "steam": "1906830"
@@ -829,6 +843,7 @@
   "ids": {
    "howlongtobeat": "159045",
    "igdb": "acts-of-blood",
+   "metacritic": "acts-of-blood",
    "pcgamingwiki": "Acts_of_Blood",
    "steam": "3031890"
   },
@@ -1191,6 +1206,7 @@
  {
   "ids": {
    "howlongtobeat": "188407",
+   "metacritic": "the-message-from-deep-space",
    "mobygames": "263884",
    "steam": "4080030"
   },

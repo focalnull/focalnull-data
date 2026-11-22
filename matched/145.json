@@ -3,6 +3,7 @@
   "enwiki": "Inazuma Eleven (video game)",
   "ids": {
    "igdb": "inazuma-eleven",
+   "metacritic": "inazuma-eleven",
    "mobygames": "50929"
   },
   "label_en": "Inazuma Eleven",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "995",
    "igdb": "beetle-adventure-racing",
+   "metacritic": "beetle-adventure-racing",
    "mobygames": "9122"
   },
   "label_en": "Beetle Adventure Racing!",
@@ -50,6 +52,7 @@
   "ids": {
    "howlongtobeat": "8576",
    "igdb": "sin-punishment-star-successor",
+   "metacritic": "sin-punishment-star-successor",
    "mobygames": "46494"
   },
   "label_en": "Sin & Punishment: Star Successor",
@@ -60,6 +63,7 @@
   "ids": {
    "howlongtobeat": "16788",
    "igdb": "heavy-metal-geomatrix",
+   "metacritic": "heavy-metal-geomatrix",
    "mobygames": "5709"
   },
   "label_en": "Heavy Metal: Geomatrix",
@@ -116,6 +120,7 @@
   "enwiki": "Codename: Kids Next Door – Operation: V.I.D.E.O.G.A.M.E.",
   "ids": {
    "igdb": "codename-kids-next-door-operation-videogame",
+   "metacritic": "codename-kids-next-door-operation-videogame",
    "mobygames": "23193"
   },
   "label_en": "Codename: Kids Next Door – Operation: V.I.D.E.O.G.A.M.E.",
@@ -128,6 +133,7 @@
    "gog": "game/dangerous_waters",
    "howlongtobeat": "2193",
    "igdb": "dangerous-waters",
+   "metacritic": "dangerous-waters",
    "mobygames": "17079",
    "pcgamingwiki": "Dangerous_Waters",
    "steam": "1600"
@@ -165,6 +171,7 @@
   "enwiki": "Rugby (video game)",
   "ids": {
    "igdb": "rugby--1",
+   "metacritic": "rugby",
    "mobygames": "4566",
    "pcgamingwiki": "Rugby"
   },
@@ -196,6 +203,7 @@
    "gog": "game/expeditions_conquistador",
    "howlongtobeat": "3271",
    "igdb": "expeditions-conquistador",
+   "metacritic": "expeditions-conquistador",
    "mobygames": "60783",
    "pcgamingwiki": "Expeditions:_Conquistador",
    "steam": "237430"
@@ -217,6 +225,7 @@
    "gog": "game/corpse_party_blood_drive",
    "howlongtobeat": "30487",
    "igdb": "corpse-party-blood-drive",
+   "metacritic": "corpse-party-blood-drive",
    "mobygames": "83650",
    "pcgamingwiki": "Corpse_Party:_Blood_Drive",
    "steam": "824830"
@@ -239,6 +248,7 @@
   "enwiki": "Pokémon Ruby",
   "ids": {
    "igdb": "pokemon-ruby-version",
+   "metacritic": "pokemon-ruby-version",
    "mobygames": "8459"
   },
   "label_en": "Pokémon Ruby",
@@ -276,6 +286,7 @@
  {
   "ids": {
    "igdb": "boom-squad",
+   "metacritic": "boom-squad",
    "pcgamingwiki": "Boom_Squad",
    "steam": "712360"
   },
@@ -631,6 +642,7 @@
   "ids": {
    "howlongtobeat": "14100",
    "igdb": "armed-seven",
+   "metacritic": "armed-seven",
    "mobygames": "75094",
    "pcgamingwiki": "Armed_Seven",
    "steam": "349690"
@@ -720,6 +732,7 @@
   "ids": {
    "howlongtobeat": "150814",
    "igdb": "sex-and-the-furry-titty-3-come-inside-sweety",
+   "metacritic": "sex-and-the-furry-t-3-come-inside-sweety",
    "mobygames": "224036",
    "steam": "2221840"
   },
@@ -729,6 +742,7 @@
  {
   "ids": {
    "igdb": "the-dream-of-a-cockspur",
+   "metacritic": "the-dream-of-a-cockspur",
    "steam": "1699710"
   },
   "label_en": "The Dream Of A Cockspur",
@@ -763,6 +777,7 @@
   "ids": {
    "howlongtobeat": "152379",
    "igdb": "the-hundred-line-last-defense-academy",
+   "metacritic": "the-hundred-line-last-defense-academy",
    "mobygames": "241084",
    "pcgamingwiki": "The_Hundred_Line_-Last_Defense_Academy-",
    "steam": "3014080"
@@ -791,6 +806,7 @@
  {
   "ids": {
    "igdb": "missile-command-delta",
+   "metacritic": "missile-command-delta",
    "pcgamingwiki": "Missile_Command_Delta",
    "steam": "2790160"
   },
@@ -877,6 +893,7 @@
   "ids": {
    "howlongtobeat": "129683",
    "igdb": "the-7th-guest-vr",
+   "metacritic": "the-7th-guest-vr",
    "mobygames": "210441",
    "pcgamingwiki": "The_7th_Guest_VR",
    "steam": "2456960"
@@ -1082,6 +1099,8 @@
  {
   "ids": {
    "igdb": "one-piece-unlimited-world-red-deluxe-edition",
+   "metacritic": "one-piece-unlimited-world-red-deluxe-edition",
+   "pcgamingwiki": "One_Piece:_Unlimited_World_Red_Deluxe_Edition",
    "steam": "571720"
   },
   "label_en": "One Piece: Unlimited World Red - Deluxe Edition",

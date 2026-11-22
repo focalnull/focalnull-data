@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3126",
    "igdb": "enslaved-odyssey-to-the-west",
+   "metacritic": "enslaved-odyssey-to-the-west",
    "mobygames": "48563",
    "pcgamingwiki": "Enslaved:_Odyssey_to_the_West",
    "steam": "245280"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "4906",
    "igdb": "just-dance-2",
+   "metacritic": "just-dance-2",
    "mobygames": "51297"
   },
   "label_en": "Just Dance 2",
@@ -34,6 +36,7 @@
   "ids": {
    "howlongtobeat": "10506",
    "igdb": "tony-tough-and-the-night-of-roasted-moths",
+   "metacritic": "tony-tough-and-the-night-of-roasted-moths",
    "mobygames": "7659",
    "pcgamingwiki": "Tony_Tough_and_the_Night_of_Roasted_Moths",
    "steam": "356210"
@@ -52,6 +55,7 @@
    "gog": "game/rogue_trooper",
    "howlongtobeat": "7949",
    "igdb": "rogue-trooper",
+   "metacritic": "rogue-trooper",
    "mobygames": "22122",
    "pcgamingwiki": "Rogue_Trooper",
    "steam": "7020"
@@ -147,6 +151,7 @@
   "ids": {
    "howlongtobeat": "5757",
    "igdb": "mech-platoon",
+   "metacritic": "mech-platoon",
    "mobygames": "16205"
   },
   "label_en": "Mech Platoon",
@@ -165,6 +170,7 @@
   "enwiki": "Suikoden Tactics",
   "ids": {
    "igdb": "suikoden-tactics",
+   "metacritic": "suikoden-tactics",
    "mobygames": "21519"
   },
   "label_en": "Suikoden Tactics",
@@ -174,6 +180,7 @@
   "enwiki": "James Noir's Hollywood Crimes",
   "ids": {
    "igdb": "james-noir-s-hollywood-crimes",
+   "metacritic": "james-noirs-hollywood-crimes",
    "mobygames": "56018"
   },
   "label_en": "James Noir's Hollywood Crimes",
@@ -194,6 +201,7 @@
   "enwiki": "Project Spark",
   "ids": {
    "igdb": "project-spark",
+   "metacritic": "project-spark",
    "mobygames": "69830",
    "pcgamingwiki": "Project_Spark"
   },
@@ -211,6 +219,7 @@
  {
   "ids": {
    "igdb": "teenage-mutant-ninja-turtles-arcade-attack",
+   "metacritic": "teenage-mutant-ninja-turtles-arcade-attack",
    "mobygames": "49325"
   },
   "label_en": "Teenage Mutant Ninja Turtles: Arcade Attack",
@@ -223,6 +232,7 @@
    "gog": "game/system_shock",
    "howlongtobeat": "74181",
    "igdb": "system-shock--1",
+   "metacritic": "system-shock",
    "mobygames": "203800",
    "pcgamingwiki": "System_Shock_(2023)",
    "steam": "482400"
@@ -247,6 +257,7 @@
    "gog": "game/westerado_double_barreled",
    "howlongtobeat": "25901",
    "igdb": "westerado-double-barreled",
+   "metacritic": "westerado",
    "mobygames": "76581",
    "pcgamingwiki": "Westerado:_Double_Barreled",
    "steam": "275200"
@@ -265,6 +276,7 @@
   "ids": {
    "howlongtobeat": "41380",
    "igdb": "unforgiving-trials-the-space-crusade",
+   "metacritic": "unforgiving-trials-the-space-crusade",
    "mobygames": "83442",
    "pcgamingwiki": "Unforgiving_Trials:_The_Space_Crusade",
    "steam": "535760"
@@ -277,6 +289,7 @@
   "ids": {
    "igdb": "bayani",
    "mobygames": "167097",
+   "pcgamingwiki": "BAYANI_-_Fighting_Game",
    "steam": "941020"
   },
   "label_en": "Bayani: Fighting Game",
@@ -309,6 +322,7 @@
   "ids": {
    "howlongtobeat": "62676",
    "igdb": "illusion-a-tale-of-the-mind",
+   "metacritic": "illusion-a-tale-of-the-mind",
    "mobygames": "109678",
    "pcgamingwiki": "Illusion:_A_Tale_of_the_Mind",
    "steam": "749980"
@@ -338,6 +352,7 @@
   "ids": {
    "howlongtobeat": "47593",
    "igdb": "telepathy-zero",
+   "metacritic": "telepathy-zero",
    "mobygames": "220375",
    "pcgamingwiki": "Telepathy_Zero",
    "steam": "655170"
@@ -351,6 +366,7 @@
    "epic": "grid-legends-d7b0b7",
    "howlongtobeat": "95926",
    "igdb": "grid-legends",
+   "metacritic": "grid-legends",
    "mobygames": "180398",
    "pcgamingwiki": "GRID_Legends",
    "steam": "1307710"
@@ -364,6 +380,7 @@
    "epic": "stellar-blade-fa21c3",
    "howlongtobeat": "97758",
    "igdb": "stellar-blade",
+   "metacritic": "stellar-blade",
    "mobygames": "222705",
    "pcgamingwiki": "Stellar_Blade",
    "steam": "3489700"
@@ -373,7 +390,8 @@
  },
  {
   "ids": {
-   "igdb": "bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo"
+   "igdb": "bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo",
+   "metacritic": "bishoujo-mangekyo-wasurenagusa-to-eien-no-shoujo"
   },
   "label_en": "Bishoujo Mangekyou -Wasurenagusa to Eien no Shoujo-",
   "wikidata": "Q108573438"
@@ -382,6 +400,7 @@
   "ids": {
    "howlongtobeat": "87856",
    "igdb": "rain-on-your-parade",
+   "metacritic": "rain-on-your-parade",
    "mobygames": "162523",
    "pcgamingwiki": "Rain_on_Your_Parade",
    "steam": "1213230"
@@ -412,6 +431,7 @@
    "epic": "summum-aeterna-6e9374",
    "howlongtobeat": "109576",
    "igdb": "summum-aeterna",
+   "metacritic": "summum-aeterna",
    "mobygames": "187362",
    "steam": "1815230"
   },
@@ -454,6 +474,7 @@
   "ids": {
    "howlongtobeat": "104258",
    "igdb": "cook-out-a-sandwich-tale",
+   "metacritic": "cook-out-a-sandwich-tale",
    "mobygames": "150427",
    "pcgamingwiki": "Cook-Out",
    "steam": "1523720"
@@ -489,6 +510,7 @@
   "ids": {
    "howlongtobeat": "129687",
    "igdb": "granblue-fantasy-versus-rising",
+   "metacritic": "granblue-fantasy-versus-rising",
    "mobygames": "213874",
    "pcgamingwiki": "Granblue_Fantasy_Versus:_Rising",
    "steam": "2157560"
@@ -822,6 +844,7 @@
   "ids": {
    "howlongtobeat": "43517",
    "igdb": "left-hand-path",
+   "metacritic": "left-hand-path",
    "mobygames": "136972",
    "pcgamingwiki": "Left-Hand_Path",
    "steam": "488760"
@@ -882,6 +905,7 @@
  {
   "ids": {
    "igdb": "sea-fantasy",
+   "metacritic": "sea-fantasy",
    "mobygames": "239017",
    "steam": "2835110"
   },

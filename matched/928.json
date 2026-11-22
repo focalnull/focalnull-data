@@ -3,6 +3,7 @@
   "enwiki": "Flow (video game)",
   "ids": {
    "igdb": "flow",
+   "metacritic": "flow",
    "mobygames": "29427",
    "pcgamingwiki": "FlOw"
   },
@@ -13,6 +14,7 @@
   "enwiki": "Battles of Prince of Persia",
   "ids": {
    "igdb": "battles-of-prince-of-persia",
+   "metacritic": "battles-of-prince-of-persia",
    "mobygames": "21504"
   },
   "label_en": "Battles of Prince of Persia",
@@ -32,6 +34,7 @@
   "ids": {
    "howlongtobeat": "8798",
    "igdb": "sonic-unleashed--1",
+   "metacritic": "sonic-unleashed",
    "mobygames": "38692",
    "pcgamingwiki": "Unleashed_Recompiled"
   },
@@ -66,6 +69,7 @@
   "ids": {
    "howlongtobeat": "4049",
    "igdb": "gran-turismo-5-prologue",
+   "metacritic": "gran-turismo-5-prologue",
    "mobygames": "33958"
   },
   "label_en": "Gran Turismo 5 Prologue",
@@ -91,7 +95,8 @@
  {
   "enwiki": "FreeStyle Street Basketball",
   "ids": {
-   "igdb": "freestyle-street-basketball"
+   "igdb": "freestyle-street-basketball",
+   "metacritic": "freestyle-street-basketball"
   },
   "label_en": "FreeStyle Street Basketball",
   "wikidata": "Q2663928"
@@ -101,6 +106,7 @@
   "ids": {
    "howlongtobeat": "206",
    "igdb": "advance-wars-days-of-ruin",
+   "metacritic": "advance-wars-days-of-ruin",
    "mobygames": "32773"
   },
   "label_en": "Advance Wars: Days of Ruin",
@@ -110,6 +116,7 @@
   "enwiki": "Elemental Gearbolt",
   "ids": {
    "igdb": "elemental-gearbolt",
+   "metacritic": "elemental-gearbolt",
    "mobygames": "6814"
   },
   "label_en": "Elemental Gearbolt",
@@ -136,6 +143,7 @@
   "ids": {
    "howlongtobeat": "22035",
    "igdb": "justice-league-chronicles",
+   "metacritic": "justice-league-chronicles",
    "mobygames": "23772"
   },
   "label_en": "Justice League: Chronicles",
@@ -145,6 +153,7 @@
   "enwiki": "Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled",
   "ids": {
    "igdb": "teenage-mutant-ninja-turtles-turtles-in-time-re-shelled",
+   "metacritic": "teenage-mutant-ninja-turtles-turtles-in-time-re-shelled",
    "mobygames": "44202"
   },
   "label_en": "Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled",
@@ -186,6 +195,7 @@
   "enwiki": "Law & Order: Dead on the Money",
   "ids": {
    "igdb": "law-and-order-dead-on-the-money",
+   "metacritic": "law-and-order-dead-on-the-money",
    "mobygames": "8875"
   },
   "label_en": "Law & Order: Dead on the Money",
@@ -195,6 +205,7 @@
   "enwiki": "Spelunker HD",
   "ids": {
    "igdb": "spelunker-hd",
+   "metacritic": "spelunker-hd",
    "mobygames": "121108"
   },
   "label_en": "Spelunker HD",
@@ -217,7 +228,8 @@
   "ids": {
    "howlongtobeat": "25131",
    "igdb": "atelier-marie-the-alchemist-of-salburg",
-   "mobygames": "41230"
+   "mobygames": "41230",
+   "pcgamingwiki": "Atelier_Marie:_The_Alchemist_of_Salburg"
   },
   "label_en": "Atelier Marie: The Alchemist of Salburg",
   "wikidata": "Q19315928"
@@ -252,6 +264,7 @@
   "ids": {
    "howlongtobeat": "46470",
    "igdb": "code-vein",
+   "metacritic": "code-vein",
    "mobygames": "135146",
    "pcgamingwiki": "Code_Vein",
    "steam": "678960"
@@ -276,6 +289,7 @@
   "ids": {
    "howlongtobeat": "52456",
    "igdb": "thenightfall",
+   "metacritic": "thenightfall",
    "mobygames": "101916",
    "pcgamingwiki": "TheNightfall",
    "steam": "611620"
@@ -299,6 +313,7 @@
   "ids": {
    "howlongtobeat": "17981",
    "igdb": "batman-arkham-origins-cold-cold-heart",
+   "metacritic": "batman-arkham-origins-cold-cold-heart",
    "mobygames": "80588",
    "steam": "277830"
   },
@@ -320,6 +335,7 @@
  {
   "ids": {
    "igdb": "pocoyo-racing",
+   "metacritic": "pocoyo-racing",
    "mobygames": "100277"
   },
   "label_en": "Pocoyo Racing",
@@ -670,6 +686,7 @@
    "gog": "game/dustborn",
    "howlongtobeat": "79898",
    "igdb": "dustborn",
+   "metacritic": "dustborn",
    "mobygames": "229528",
    "pcgamingwiki": "Dustborn",
    "steam": "721180"
@@ -845,6 +862,7 @@
    "epic": "wilmot-works-it-out-565641",
    "gog": "game/wilmot_works_it_out",
    "igdb": "wilmot-works-it-out",
+   "metacritic": "wilmot-works-it-out",
    "mobygames": "232493",
    "pcgamingwiki": "Wilmot_Works_It_Out",
    "steam": "2060590"

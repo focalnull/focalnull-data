@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "368",
    "igdb": "alien-swarm",
+   "metacritic": "alien-swarm-2010",
    "mobygames": "47450",
    "pcgamingwiki": "Alien_Swarm",
    "steam": "630"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "4316",
    "igdb": "harry-potter-and-the-prisoner-of-azkaban",
+   "metacritic": "harry-potter-and-the-prisoner-of-azkaban",
    "mobygames": "13733",
    "pcgamingwiki": "Harry_Potter_and_the_Prisoner_of_Azkaban"
   },
@@ -26,6 +28,7 @@
   "enwiki": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
   "ids": {
    "igdb": "yu-gi-oh-worldwide-edition-stairway-to-the-destined-duel",
+   "metacritic": "yu-gi-oh-worldwide-edition-stairway-to-the-desti",
    "mobygames": "11907"
   },
   "label_en": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
@@ -87,6 +90,7 @@
   "ids": {
    "howlongtobeat": "6875",
    "igdb": "painkiller-hell-damnation",
+   "metacritic": "painkiller-hell-damnation",
    "mobygames": "58500",
    "pcgamingwiki": "Painkiller:_Hell_&_Damnation",
    "steam": "214870"
@@ -110,6 +114,7 @@
   "enwiki": "Jack the Ripper (2004 video game)",
   "ids": {
    "igdb": "jack-the-ripper--1",
+   "metacritic": "jack-the-ripper",
    "mobygames": "11908",
    "pcgamingwiki": "Jack_the_Ripper:_New-York_1901"
   },
@@ -130,6 +135,7 @@
   "ids": {
    "howlongtobeat": "11759",
    "igdb": "panzer-general-allied-assault",
+   "metacritic": "panzer-general-allied-assault",
    "mobygames": "43107"
   },
   "label_en": "Panzer General: Allied Assault",
@@ -151,6 +157,7 @@
    "gog": "game/styx_master_of_shadows",
    "howlongtobeat": "21586",
    "igdb": "styx-master-of-shadows",
+   "metacritic": "styx-master-of-shadows",
    "mobygames": "69357",
    "pcgamingwiki": "Styx:_Master_of_Shadows",
    "steam": "242640"
@@ -199,6 +206,7 @@
   "ids": {
    "howlongtobeat": "28494",
    "igdb": "blues-and-bullets",
+   "metacritic": "blues-and-bullets-episode-1-the-end-of-peace",
    "mobygames": "78210",
    "pcgamingwiki": "Blues_and_Bullets",
    "steam": "378660"
@@ -210,6 +218,7 @@
   "enwiki": "Genkai Tokki: Seven Pirates",
   "ids": {
    "igdb": "genkai-tokki-seven-pirates",
+   "metacritic": "seven-pirates-h",
    "mobygames": "98661"
   },
   "label_en": "Genkai Tokki: Seven Pirates",
@@ -269,6 +278,7 @@
    "gog": "game/ring_of_pain",
    "howlongtobeat": "77798",
    "igdb": "ring-of-pain",
+   "metacritic": "ring-of-pain",
    "mobygames": "151104",
    "pcgamingwiki": "Ring_of_Pain",
    "steam": "998740"
@@ -294,6 +304,7 @@
   "ids": {
    "howlongtobeat": "102327",
    "igdb": "song-in-the-smoke",
+   "metacritic": "song-in-the-smoke",
    "mobygames": "177870",
    "steam": "1787810"
   },
@@ -343,6 +354,7 @@
    "gog": "game/yuppie_psycho_executive_edition",
    "howlongtobeat": "66732",
    "igdb": "yuppie-psycho-executive-edition",
+   "metacritic": "yuppie-psycho",
    "mobygames": "126008",
    "pcgamingwiki": "Yuppie_Psycho",
    "steam": "597760"
@@ -365,6 +377,7 @@
   "ids": {
    "howlongtobeat": "115181",
    "igdb": "age-of-mythology-retold",
+   "metacritic": "age-of-mythology-retold",
    "mobygames": "229716",
    "pcgamingwiki": "Age_of_Mythology:_Retold",
    "steam": "1934680"
@@ -675,7 +688,8 @@
  },
  {
   "ids": {
-   "igdb": "world-ii-world"
+   "igdb": "world-ii-world",
+   "metacritic": "world-ii-world"
   },
   "label_en": "World II World",
   "wikidata": "Q123440023"
@@ -868,6 +882,7 @@
   "ids": {
    "howlongtobeat": "74898",
    "igdb": "the-wonderful-101-remastered",
+   "metacritic": "the-wonderful-101-remastered",
    "mobygames": "73612",
    "pcgamingwiki": "The_Wonderful_101:_Remastered",
    "steam": "1190400"

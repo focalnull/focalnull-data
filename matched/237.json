@@ -14,6 +14,7 @@
    "gog": "game/brothers_in_arms_earned_in_blood",
    "howlongtobeat": "1341",
    "igdb": "brothers-in-arms-earned-in-blood",
+   "metacritic": "brothers-in-arms-earned-in-blood",
    "mobygames": "19450",
    "pcgamingwiki": "Brothers_in_Arms:_Earned_in_Blood",
    "steam": "19800"
@@ -36,6 +37,7 @@
   "ids": {
    "howlongtobeat": "25585",
    "igdb": "dynasty-warriors-vol-2",
+   "metacritic": "dynasty-warriors-vol-2",
    "mobygames": "64051"
   },
   "label_en": "Dynasty Warriors Vol. 2",
@@ -79,6 +81,7 @@
   "ids": {
    "howlongtobeat": "8289",
    "igdb": "sega-rally-3",
+   "metacritic": "sega-rally-online-arcade",
    "mobygames": "245928"
   },
   "label_en": "Sega Rally 3",
@@ -89,6 +92,7 @@
   "ids": {
    "howlongtobeat": "14673",
    "igdb": "nancy-drew-secret-of-the-old-clock",
+   "metacritic": "nancy-drew-secret-of-the-old-clock",
    "mobygames": "18402",
    "pcgamingwiki": "Nancy_Drew:_Secret_of_the_Old_Clock",
    "steam": "31880"
@@ -138,6 +142,7 @@
   "enwiki": "ESPN College Hoops 2K5",
   "ids": {
    "igdb": "espn-college-hoops-2k5",
+   "metacritic": "espn-college-hoops-2k5",
    "mobygames": "16405"
   },
   "label_en": "ESPN College Hoops 2K5",
@@ -176,7 +181,8 @@
  {
   "enwiki": "PowerUp Forever",
   "ids": {
-   "igdb": "powerup-forever"
+   "igdb": "powerup-forever",
+   "metacritic": "powerup-forever"
   },
   "label_en": "PowerUp Forever",
   "wikidata": "Q7236237"
@@ -185,6 +191,7 @@
   "enwiki": "Ribbit King",
   "ids": {
    "igdb": "ribbit-king",
+   "metacritic": "ribbit-king",
    "mobygames": "14482"
   },
   "label_en": "Ribbit King",
@@ -233,6 +240,7 @@
    "gog": "game/lifeless_planet_premier_edition",
    "howlongtobeat": "17398",
    "igdb": "lifeless-planet",
+   "metacritic": "lifeless-planet",
    "mobygames": "66140",
    "pcgamingwiki": "Lifeless_Planet",
    "steam": "261530"
@@ -253,6 +261,7 @@
   "ids": {
    "howlongtobeat": "46468",
    "igdb": "moto-racer-4",
+   "metacritic": "moto-racer-4",
    "mobygames": "81427",
    "pcgamingwiki": "Moto_Racer_4",
    "steam": "417430"
@@ -274,6 +283,7 @@
    "gog": "game/ultimate_general_gettysburg",
    "howlongtobeat": "23214",
    "igdb": "ultimate-general-gettysburg",
+   "metacritic": "ultimate-general-gettysburg",
    "mobygames": "92640",
    "pcgamingwiki": "Ultimate_General:_Gettysburg",
    "steam": "306660"
@@ -340,6 +350,7 @@
   "ids": {
    "howlongtobeat": "76704",
    "igdb": "spring-falls",
+   "metacritic": "spring-falls",
    "mobygames": "137442",
    "pcgamingwiki": "Spring_&_Flow",
    "steam": "1040550"
@@ -351,6 +362,7 @@
   "enwiki": "Ode (video game)",
   "ids": {
    "igdb": "ode",
+   "metacritic": "ode",
    "mobygames": "98865"
   },
   "label_en": "Ode",
@@ -363,6 +375,7 @@
   "ids": {
    "howlongtobeat": "6630",
    "igdb": "ninja-gaiden-master-collection",
+   "metacritic": "ninja-gaiden-master-collection",
    "mobygames": "166213",
    "pcgamingwiki": "Ninja_Gaiden_Σ",
    "steam": "1580780"
@@ -591,6 +604,7 @@
   "ids": {
    "howlongtobeat": "80812",
    "igdb": "men-of-war-assault-squad-2-cold-war",
+   "metacritic": "men-of-war-assault-squad-2-cold-war",
    "mobygames": "134536",
    "pcgamingwiki": "Men_of_War:_Assault_Squad_2_-_Cold_War",
    "steam": "1135240"
@@ -699,6 +713,7 @@
   "ids": {
    "howlongtobeat": "46197",
    "igdb": "dying-reborn",
+   "metacritic": "dying-reborn",
    "pcgamingwiki": "Dying:_Reborn",
    "steam": "699700"
   },
@@ -794,6 +809,7 @@
   "ids": {
    "howlongtobeat": "164414",
    "igdb": "gigantosaurus-dino-sports",
+   "metacritic": "gigantosaurus-dino-sports",
    "mobygames": "227095",
    "steam": "2238260"
   },

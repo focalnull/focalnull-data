@@ -3,6 +3,7 @@
   "enwiki": "Second Life",
   "ids": {
    "igdb": "second-life",
+   "metacritic": "second-life",
    "mobygames": "21766"
   },
   "label_en": "Second Life",
@@ -12,6 +13,7 @@
   "enwiki": "4x4 Evo 2",
   "ids": {
    "igdb": "4x4-evo-2",
+   "metacritic": "4x4-evo-2",
    "mobygames": "14526",
    "pcgamingwiki": "4x4_Evo_2"
   },
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "15793",
    "igdb": "dark-colony",
+   "metacritic": "dark-colony",
    "mobygames": "2737",
    "pcgamingwiki": "Dark_Colony"
   },
@@ -46,6 +49,7 @@
   "ids": {
    "howlongtobeat": "4727",
    "igdb": "invizimals",
+   "metacritic": "invizimals",
    "mobygames": "86224"
   },
   "label_en": "Invizimals",
@@ -67,6 +71,7 @@
    "gog": "game/samurai_shodown_2",
    "howlongtobeat": "19411",
    "igdb": "samurai-shodown-ii",
+   "metacritic": "samurai-shodown-ii",
    "mobygames": "4110",
    "pcgamingwiki": "Samurai_Shodown_II"
   },
@@ -99,7 +104,8 @@
   "enwiki": "Zombie Apocalypse (video game)",
   "ids": {
    "howlongtobeat": "11571",
-   "igdb": "zombie-apocalypse"
+   "igdb": "zombie-apocalypse",
+   "metacritic": "zombie-apocalypse-2009"
   },
   "label_en": "Zombie Apocalypse",
   "wikidata": "Q4345827"
@@ -109,6 +115,7 @@
   "ids": {
    "howlongtobeat": "25555",
    "igdb": "air-conflicts-aces-of-world-war-ii",
+   "metacritic": "air-conflicts-aces-of-world-war-ii",
    "mobygames": "41679"
   },
   "label_en": "Air Conflicts: Aces of World War II",
@@ -133,6 +140,7 @@
   "ids": {
    "howlongtobeat": "472",
    "igdb": "animal-crossing",
+   "metacritic": "animal-crossing",
    "mobygames": "7256"
   },
   "label_en": "Animal Crossing",
@@ -142,6 +150,7 @@
   "enwiki": "Ninja Assault",
   "ids": {
    "igdb": "ninja-assault",
+   "metacritic": "ninja-assault",
    "mobygames": "120381"
   },
   "label_en": "Ninja Assault",
@@ -195,6 +204,7 @@
   "enwiki": "Wacky World of Sports",
   "ids": {
    "igdb": "wacky-world-of-sports",
+   "metacritic": "wacky-world-of-sports",
    "mobygames": "56529"
   },
   "label_en": "Wacky World of Sports",
@@ -209,6 +219,7 @@
   "ids": {
    "howlongtobeat": "285",
    "igdb": "aggressive-inline",
+   "metacritic": "aggressive-inline",
    "mobygames": "6995"
   },
   "label_en": "Aggressive Inline",
@@ -228,6 +239,7 @@
   "ids": {
    "howlongtobeat": "36498",
    "igdb": "eve-valkyrie",
+   "metacritic": "eve-valkyrie",
    "mobygames": "83994",
    "pcgamingwiki": "EVE:_Valkyrie",
    "steam": "538870"
@@ -280,6 +292,7 @@
   "ids": {
    "howlongtobeat": "49377",
    "igdb": "doki-doki-literature-club",
+   "metacritic": "doki-doki-literature-club",
    "mobygames": "96870",
    "pcgamingwiki": "Doki_Doki_Literature_Club!",
    "steam": "698780"
@@ -292,6 +305,7 @@
   "ids": {
    "howlongtobeat": "56030",
    "igdb": "total-war-saga-thrones-of-britannia",
+   "metacritic": "a-total-war-saga-thrones-of-britannia",
    "mobygames": "108133",
    "pcgamingwiki": "Total_War_Saga:_Thrones_of_Britannia",
    "steam": "712100"
@@ -304,6 +318,7 @@
   "ids": {
    "howlongtobeat": "67657",
    "igdb": "digimon-survive",
+   "metacritic": "digimon-survive",
    "mobygames": "188960",
    "pcgamingwiki": "Digimon_Survive",
    "steam": "871980"
@@ -315,6 +330,7 @@
   "ids": {
    "howlongtobeat": "66336",
    "igdb": "pro-cycling-manager-2018",
+   "metacritic": "pro-cycling-manager-2018",
    "mobygames": "110175",
    "pcgamingwiki": "Pro_Cycling_Manager_2018",
    "steam": "704230"
@@ -351,6 +367,7 @@
   "ids": {
    "howlongtobeat": "21502",
    "igdb": "worlds-of-magic",
+   "metacritic": "worlds-of-magic",
    "mobygames": "87328",
    "pcgamingwiki": "Worlds_of_Magic",
    "steam": "265970"
@@ -369,6 +386,7 @@
   "enwiki": "The Tales of Bearsworth Manor: Chaotic Conflicts",
   "ids": {
    "igdb": "the-tales-of-bearsworth-manor-chaotic-conflicts",
+   "metacritic": "the-tales-of-bearsworth-manor-chaotic-conflicts",
    "mobygames": "93671"
   },
   "label_en": "The Tales of Bearsworth Manor: Chaotic Conflicts",
@@ -432,6 +450,7 @@
    "epic": "nour",
    "howlongtobeat": "83685",
    "igdb": "nour-play-with-your-food",
+   "metacritic": "nour-play-with-your-food",
    "mobygames": "209920",
    "pcgamingwiki": "Nour:_Play_with_Your_Food",
    "steam": "1141050"
@@ -464,6 +483,7 @@
  {
   "ids": {
    "igdb": "spotto",
+   "metacritic": "spotto",
    "mobygames": "48038"
   },
   "label_en": "Spotto!",
@@ -494,6 +514,7 @@
    "epic": "ys-x-nordics-0ed760",
    "gog": "game/ys_x_nordics",
    "igdb": "ys-x-nordics",
+   "metacritic": "ys-x-nordics",
    "pcgamingwiki": "Ys_X:_Nordics",
    "steam": "2570810"
   },
@@ -504,6 +525,7 @@
   "ids": {
    "howlongtobeat": "45125",
    "igdb": "imprint-x",
+   "metacritic": "imprint-x",
    "mobygames": "109127",
    "pcgamingwiki": "Imprint-X",
    "steam": "434310"
@@ -650,6 +672,7 @@
    "gog": "game/kingdom_of_the_dead",
    "howlongtobeat": "101927",
    "igdb": "kingdom-of-the-dead",
+   "metacritic": "kingdom-of-the-dead",
    "mobygames": "179722",
    "pcgamingwiki": "Kingdom_of_the_Dead",
    "steam": "1547380"
@@ -915,7 +938,8 @@
  },
  {
   "ids": {
-   "igdb": "candy-hoarder"
+   "igdb": "candy-hoarder",
+   "metacritic": "candy-hoarder"
   },
   "label_en": "Candy Hoarder",
   "wikidata": "Q125756827"

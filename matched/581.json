@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4248",
    "igdb": "half-life-2",
+   "metacritic": "half-life-2",
    "mobygames": "15564",
    "pcgamingwiki": "Half-Life_2",
    "steam": "220"
@@ -37,6 +38,7 @@
    "gog": "game/europa_universalis",
    "howlongtobeat": "20835",
    "igdb": "europa-universalis",
+   "metacritic": "europa-universalis",
    "mobygames": "3484",
    "pcgamingwiki": "Europa_Universalis"
   },
@@ -76,6 +78,7 @@
    "gog": "game/empires_dawn_of_the_modern_world",
    "howlongtobeat": "34823",
    "igdb": "empires-dawn-of-the-modern-world",
+   "metacritic": "empires-dawn-of-the-modern-world",
    "mobygames": "11772",
    "pcgamingwiki": "Empires:_Dawn_of_the_Modern_World",
    "steam": "2690"
@@ -88,6 +91,7 @@
   "ids": {
    "howlongtobeat": "33354",
    "igdb": "fifa-manager-10",
+   "metacritic": "fifa-manager-10",
    "mobygames": "46675",
    "pcgamingwiki": "FIFA_Manager_10",
    "steam": "24850"
@@ -142,6 +146,7 @@
   "ids": {
    "howlongtobeat": "26591",
    "igdb": "rise-of-flight-the-first-great-air-war",
+   "metacritic": "rise-of-flight-the-first-great-air-war",
    "mobygames": "41540",
    "pcgamingwiki": "Rise_of_Flight:_The_First_Great_Air_War",
    "steam": "244050"
@@ -154,6 +159,7 @@
   "ids": {
    "howlongtobeat": "131",
    "igdb": "a-kingdom-for-keflings",
+   "metacritic": "a-kingdom-for-keflings",
    "mobygames": "45763",
    "pcgamingwiki": "A_Kingdom_for_Keflings",
    "steam": "202050"
@@ -249,6 +255,7 @@
    "gog": "game/game_of_thrones_season_1",
    "howlongtobeat": "22876",
    "igdb": "game-of-thrones-a-telltale-games-series",
+   "metacritic": "game-of-thrones-a-telltale-games-series",
    "mobygames": "73908",
    "pcgamingwiki": "Game_of_Thrones:_A_Telltale_Games_Series",
    "steam": "330840"
@@ -269,6 +276,7 @@
    "gog": "game/chroma_squad",
    "howlongtobeat": "26150",
    "igdb": "chroma-squad",
+   "metacritic": "chroma-squad",
    "mobygames": "79576",
    "pcgamingwiki": "Chroma_Squad",
    "steam": "251130"
@@ -278,6 +286,7 @@
  },
  {
   "ids": {
+   "metacritic": "championship-motocross-2001-featuring-ricky-carmichael",
    "mobygames": "38990"
   },
   "label_en": "Championship Motocross 2001 Featuring Ricky Carmichael",
@@ -287,6 +296,7 @@
   "enwiki": "Disney Magic Kingdoms",
   "ids": {
    "igdb": "disney-magic-kingdoms",
+   "metacritic": "disney-magic-kingdoms",
    "mobygames": "86057",
    "pcgamingwiki": "Disney_Magic_Kingdoms"
   },
@@ -322,6 +332,7 @@
   "enwiki": "Photographs (video game)",
   "ids": {
    "igdb": "photographs",
+   "pcgamingwiki": "Photographs",
    "steam": "1008920"
   },
   "label_en": "Photographs",
@@ -330,6 +341,7 @@
  {
   "ids": {
    "igdb": "parallax",
+   "pcgamingwiki": "Parallax",
    "steam": "325060"
   },
   "label_en": "Parallax",
@@ -352,6 +364,7 @@
    "gog": "game/dice_legacy",
    "howlongtobeat": "94123",
    "igdb": "dice-legacy",
+   "metacritic": "dice-legacy",
    "mobygames": "171618",
    "pcgamingwiki": "Dice_Legacy",
    "steam": "1229460"
@@ -425,6 +438,7 @@
    "howlongtobeat": "85805",
    "igdb": "wordle",
    "mobygames": "168769",
+   "pcgamingwiki": "Wordle",
    "steam": "1334000"
   },
   "label_en": "Wordle",
@@ -798,6 +812,7 @@
    "gog": "game/eschalon_book_iii",
    "howlongtobeat": "17559",
    "igdb": "eschalon-book-iii",
+   "metacritic": "eschalon-book-iii",
    "mobygames": "78221",
    "pcgamingwiki": "Eschalon:_Book_III",
    "steam": "257870"

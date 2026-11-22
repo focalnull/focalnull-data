@@ -16,6 +16,7 @@
    "gog": "game/brothers_in_arms_hells_highway",
    "howlongtobeat": "1342",
    "igdb": "brothers-in-arms-hell-s-highway",
+   "metacritic": "brothers-in-arms-hells-highway",
    "mobygames": "36914",
    "pcgamingwiki": "Brothers_in_Arms:_Hell's_Highway",
    "steam": "15390"
@@ -29,6 +30,7 @@
    "gog": "game/runaway_a_road_adventure",
    "howlongtobeat": "8016",
    "igdb": "runaway-a-road-adventure",
+   "metacritic": "runaway-a-road-adventure",
    "mobygames": "5453",
    "pcgamingwiki": "Runaway:_A_Road_Adventure",
    "steam": "7210"
@@ -42,6 +44,7 @@
    "gog": "game/no_more_heroes",
    "howlongtobeat": "6653",
    "igdb": "no-more-heroes",
+   "metacritic": "no-more-heroes",
    "mobygames": "31970",
    "pcgamingwiki": "No_More_Heroes",
    "steam": "1420290"
@@ -66,6 +69,7 @@
   "enwiki": "4x4 Evo",
   "ids": {
    "igdb": "4x4-evo",
+   "metacritic": "4x4-evolution",
    "mobygames": "4715",
    "pcgamingwiki": "4x4_Evo"
   },
@@ -103,6 +107,7 @@
   "enwiki": "Golden Nugget Casino DS",
   "ids": {
    "igdb": "golden-nugget-casino-ds",
+   "metacritic": "golden-nugget-casino-ds",
    "mobygames": "88196"
   },
   "label_en": "Golden Nugget Casino DS",
@@ -114,6 +119,7 @@
    "gog": "game/full_spectrum_warrior",
    "howlongtobeat": "3746",
    "igdb": "full-spectrum-warrior",
+   "metacritic": "full-spectrum-warrior",
    "mobygames": "13805",
    "pcgamingwiki": "Full_Spectrum_Warrior",
    "steam": "4520"
@@ -196,6 +202,7 @@
   "ids": {
    "howlongtobeat": "11760",
    "igdb": "supreme-ruler-cold-war",
+   "metacritic": "supreme-ruler-cold-war",
    "mobygames": "57331",
    "pcgamingwiki": "Supreme_Ruler:_Cold_War",
    "steam": "73220"
@@ -208,6 +215,7 @@
   "ids": {
    "howlongtobeat": "17417",
    "igdb": "the-cameron-files-pharaohs-curse",
+   "metacritic": "the-cameron-files-pharaohs-curse",
    "mobygames": "7727"
   },
   "label_en": "The Cameron Files: Pharaoh's Curse",
@@ -240,6 +248,7 @@
   "ids": {
    "howlongtobeat": "36732",
    "igdb": "pac-man-256",
+   "metacritic": "pac-man-256",
    "mobygames": "79442",
    "pcgamingwiki": "Pac-Man_256",
    "steam": "455400"
@@ -289,6 +298,7 @@
    "gog": "game/trine_4_the_nightmare_prince",
    "howlongtobeat": "62027",
    "igdb": "trine-4-the-nightmare-prince",
+   "metacritic": "trine-4-the-nightmare-prince",
    "mobygames": "135359",
    "pcgamingwiki": "Trine_4:_The_Nightmare_Prince",
    "steam": "690640"
@@ -302,6 +312,7 @@
    "gog": "game/bridge_constructor_playground",
    "howlongtobeat": "21137",
    "igdb": "bridge-constructor-playground",
+   "metacritic": "bridge-constructor-playground",
    "mobygames": "83214",
    "pcgamingwiki": "Bridge_Constructor_Playground",
    "steam": "279990"
@@ -314,6 +325,7 @@
   "ids": {
    "howlongtobeat": "76159",
    "igdb": "good-job",
+   "metacritic": "good-job",
    "mobygames": "143809"
   },
   "label_en": "Good Job!",
@@ -326,6 +338,7 @@
    "gog": "game/alba_a_wildlife_adventure",
    "howlongtobeat": "86015",
    "igdb": "alba-a-wildlife-adventure",
+   "metacritic": "alba-a-wildlife-adventure",
    "mobygames": "155505",
    "pcgamingwiki": "Alba:_A_Wildlife_Adventure",
    "steam": "1337010"

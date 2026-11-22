@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5215",
    "igdb": "legacy-of-kain-soul-reaver",
+   "metacritic": "legacy-of-kain-soul-reaver",
    "mobygames": "1525",
    "pcgamingwiki": "Legacy_of_Kain:_Soul_Reaver",
    "steam": "224920"
@@ -43,6 +44,7 @@
   "ids": {
    "howlongtobeat": "5398",
    "igdb": "lost-via-domus",
+   "metacritic": "lost-via-domus",
    "mobygames": "33210",
    "pcgamingwiki": "Lost:_Via_Domus",
    "steam": "15290"
@@ -104,6 +106,7 @@
   "ids": {
    "howlongtobeat": "4772",
    "igdb": "ivy-the-kiwi",
+   "metacritic": "ivy-the-kiwi",
    "mobygames": "50831"
   },
   "label_en": "Ivy the Kiwi?",
@@ -139,6 +142,7 @@
   "enwiki": "Tamagotchi Connection: Corner Shop",
   "ids": {
    "igdb": "tamagotchi-connection-corner-shop",
+   "metacritic": "tamagotchi-connection-corner-shop",
    "mobygames": "23081"
   },
   "label_en": "Tamagotchi Connection: Corner Shop",
@@ -171,6 +175,7 @@
    "gog": "game/deadly_dozen_pacific_theater",
    "howlongtobeat": "23077",
    "igdb": "deadly-dozen-pacific-theater",
+   "metacritic": "deadly-dozen-pacific-theater",
    "mobygames": "8678",
    "pcgamingwiki": "Deadly_Dozen:_Pacific_Theater",
    "steam": "1267930"
@@ -183,7 +188,9 @@
   "ids": {
    "howlongtobeat": "11891",
    "igdb": "speedball-2-tournament",
+   "metacritic": "speedball-2-tournament",
    "mobygames": "31363",
+   "pcgamingwiki": "Speedball_2:_Tournament",
    "steam": "10700"
   },
   "label_en": "Speedball 2 Tournament",
@@ -194,6 +201,7 @@
   "ids": {
    "howlongtobeat": "9773",
    "igdb": "the-bard-s-tale-ii-the-destiny-knight",
+   "metacritic": "the-bards-tale",
    "mobygames": "1273",
    "pcgamingwiki": "The_Bard's_Tale_II:_The_Destiny_Knight",
    "steam": "41900"
@@ -236,6 +244,7 @@
   "ids": {
    "howlongtobeat": "21167",
    "igdb": "concursion",
+   "metacritic": "concursion",
    "mobygames": "109309",
    "pcgamingwiki": "Concursion",
    "steam": "303340"
@@ -268,6 +277,7 @@
   "ids": {
    "howlongtobeat": "37464",
    "igdb": "machinecraft",
+   "metacritic": "machinecraft",
    "pcgamingwiki": "MachineCraft",
    "steam": "397100"
   },
@@ -289,6 +299,7 @@
    "epic": "toejam-and-earl-back-in-the-groove-cddc16",
    "howlongtobeat": "65277",
    "igdb": "toejam-and-earl-back-in-the-groove",
+   "metacritic": "toejam-earl-back-in-the-groove",
    "mobygames": "119988",
    "pcgamingwiki": "ToeJam_&_Earl:_Back_in_the_Groove",
    "steam": "516110"
@@ -301,6 +312,7 @@
   "ids": {
    "howlongtobeat": "57088",
    "igdb": "baldis-basics-in-education-and-learning",
+   "metacritic": "baldis-basics-in-education-and-learning",
    "mobygames": "109613",
    "pcgamingwiki": "Baldi's_Basics_in_Education_&_Learning"
   },
@@ -322,6 +334,7 @@
   "ids": {
    "howlongtobeat": "26812",
    "igdb": "action-henk",
+   "metacritic": "action-henk",
    "mobygames": "75519",
    "pcgamingwiki": "Action_Henk",
    "steam": "285820"
@@ -355,6 +368,7 @@
   "ids": {
    "howlongtobeat": "68855",
    "igdb": "nba-2k20",
+   "metacritic": "nba-2k20",
    "mobygames": "134317",
    "pcgamingwiki": "NBA_2K20",
    "steam": "1089350"
@@ -370,6 +384,7 @@
   "enwiki": "Triple Play 2002",
   "ids": {
    "igdb": "triple-play-2002",
+   "metacritic": "triple-play-2002",
    "mobygames": "7167"
   },
   "label_en": "Triple Play 2002",
@@ -399,6 +414,7 @@
    "gog": "game/songs_of_syx",
    "howlongtobeat": "74258",
    "igdb": "songs-of-syx",
+   "metacritic": "songs-of-syx",
    "mobygames": "193131",
    "pcgamingwiki": "Songs_of_Syx",
    "steam": "1162750"
@@ -901,6 +917,7 @@
   "enwiki": "Nintendo Switch 2 Welcome Tour",
   "ids": {
    "igdb": "nintendo-switch-2-welcome-tour",
+   "metacritic": "nintendo-switch-2-welcome-tour",
    "mobygames": "243239"
   },
   "label_en": "Nintendo Switch 2 Welcome Tour",

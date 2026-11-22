@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1065",
    "igdb": "bioshock",
+   "metacritic": "bioshock",
    "mobygames": "29886",
    "pcgamingwiki": "BioShock",
    "steam": "7670"
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "1058",
    "igdb": "bionic-commando",
+   "metacritic": "bionic-commando",
    "mobygames": "41784",
    "pcgamingwiki": "Bionic_Commando_(2009)",
    "steam": "21670"
@@ -35,6 +37,7 @@
   "enwiki": "Tiny Toon Adventures: Wacky Stackers",
   "ids": {
    "igdb": "tiny-toon-adventures-wacky-stackers",
+   "metacritic": "tiny-toon-adventures-wacky-stackers",
    "mobygames": "7897"
   },
   "label_en": "Tiny Toon Adventures: Wacky Stackers",
@@ -172,6 +175,7 @@
   "enwiki": "SingStar Queen",
   "ids": {
    "igdb": "singstar-queen",
+   "metacritic": "singstar-queen",
    "mobygames": "40133"
   },
   "label_en": "SingStar Queen",
@@ -260,6 +264,7 @@
    "gog": "game/divinity_dragon_commander",
    "howlongtobeat": "12662",
    "igdb": "divinity-dragon-commander",
+   "metacritic": "divinity-dragon-commander",
    "mobygames": "63562",
    "pcgamingwiki": "Divinity:_Dragon_Commander",
    "steam": "243950"
@@ -274,6 +279,7 @@
    "gog": "game/wreckfest",
    "howlongtobeat": "16136",
    "igdb": "wreckfest",
+   "metacritic": "wreckfest",
    "mobygames": "86875",
    "pcgamingwiki": "Wreckfest",
    "steam": "228380"
@@ -285,6 +291,7 @@
   "enwiki": "Hay Day",
   "ids": {
    "igdb": "hay-day",
+   "metacritic": "hay-day",
    "mobygames": "59504"
   },
   "label_en": "Hay Day",
@@ -330,6 +337,7 @@
    "gog": "game/urban_empire",
    "howlongtobeat": "40348",
    "igdb": "urban-empire",
+   "metacritic": "urban-empire",
    "mobygames": "82797",
    "pcgamingwiki": "Urban_Empire",
    "steam": "352550"
@@ -352,6 +360,7 @@
    "gog": "game/observation",
    "howlongtobeat": "67287",
    "igdb": "observation",
+   "metacritic": "observation",
    "mobygames": "127385",
    "pcgamingwiki": "Observation",
    "steam": "906100"
@@ -421,6 +430,7 @@
    "gog": "game/bear_and_breakfast",
    "howlongtobeat": "94162",
    "igdb": "bear-and-breakfast",
+   "metacritic": "bear-and-breakfast",
    "mobygames": "188927",
    "pcgamingwiki": "Bear_and_Breakfast",
    "steam": "1136370"
@@ -527,7 +537,8 @@
  {
   "ids": {
    "howlongtobeat": "114530",
-   "igdb": "world-of-outlaws-dirt-racing"
+   "igdb": "world-of-outlaws-dirt-racing",
+   "metacritic": "world-of-outlaws-dirt-racing"
   },
   "label_en": "World of Outlaws: Dirt Racing",
   "wikidata": "Q116678270"
@@ -537,6 +548,7 @@
   "ids": {
    "howlongtobeat": "78314",
    "igdb": "humanity",
+   "metacritic": "humanity",
    "mobygames": "203194",
    "pcgamingwiki": "Humanity",
    "steam": "1581480"
@@ -746,6 +758,7 @@
  {
   "ids": {
    "igdb": "bygg-batar-med-mulle-meck",
+   "metacritic": "bygg-batar-med-mulle-meck",
    "mobygames": "65424",
    "pcgamingwiki": "Bygg_Båtar_med_Mulle_Meck"
   },
@@ -845,7 +858,8 @@
  },
  {
   "ids": {
-   "igdb": "idle-pocket-planet"
+   "igdb": "idle-pocket-planet",
+   "metacritic": "idle-pocket-planet"
   },
   "label_en": "Idle Pocket Planet",
   "wikidata": "Q124247270"
@@ -901,6 +915,7 @@
    "gog": "game/out_there_oceans_of_time",
    "howlongtobeat": "85129",
    "igdb": "out-there-oceans-of-time",
+   "metacritic": "out-there-oceans-of-time",
    "mobygames": "192548",
    "pcgamingwiki": "Out_There:_Oceans_of_Time",
    "steam": "1145290"

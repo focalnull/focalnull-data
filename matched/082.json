@@ -55,6 +55,7 @@
   "ids": {
    "howlongtobeat": "11378",
    "igdb": "x-men-destiny",
+   "metacritic": "x-men-destiny",
    "mobygames": "53045"
   },
   "label_en": "X-Men: Destiny",
@@ -64,6 +65,7 @@
   "enwiki": "WinBack",
   "ids": {
    "igdb": "winback-covert-operations",
+   "metacritic": "winback-covert-operations",
    "mobygames": "3782"
   },
   "label_en": "Operation WinBack",
@@ -128,7 +130,8 @@
  {
   "enwiki": "Full House Poker",
   "ids": {
-   "igdb": "full-house-poker"
+   "igdb": "full-house-poker",
+   "metacritic": "full-house-poker"
   },
   "label_en": "Full House Poker",
   "wikidata": "Q5508082"
@@ -200,6 +203,7 @@
   "enwiki": "Sonic Runners",
   "ids": {
    "igdb": "sonic-runners",
+   "metacritic": "sonic-runners",
    "mobygames": "73657"
   },
   "label_en": "Sonic Runners",
@@ -223,6 +227,7 @@
   "ids": {
    "howlongtobeat": "40858",
    "igdb": "accounting",
+   "metacritic": "accounting",
    "mobygames": "81423",
    "pcgamingwiki": "Accounting",
    "steam": "518580"
@@ -244,6 +249,7 @@
  {
   "ids": {
    "igdb": "roguebreaker",
+   "metacritic": "roguebreaker",
    "pcgamingwiki": "Roguebreaker",
    "steam": "731420"
   },
@@ -255,6 +261,7 @@
   "ids": {
    "howlongtobeat": "33347",
    "igdb": "vane",
+   "metacritic": "vane",
    "mobygames": "120556",
    "pcgamingwiki": "Vane",
    "steam": "1063310"
@@ -335,6 +342,7 @@
   "ids": {
    "howlongtobeat": "130850",
    "igdb": "yohane-the-parhelion-blaze-in-the-deepblue",
+   "metacritic": "yohane-the-parhelion-blaze-in-the-deepblue",
    "mobygames": "212226",
    "pcgamingwiki": "Yohane_the_Parhelion_-BLAZE_in_the_DEEPBLUE-",
    "steam": "2404370"
@@ -346,6 +354,7 @@
   "ids": {
    "howlongtobeat": "22498",
    "igdb": "poltergeist-a-pixelated-horror",
+   "metacritic": "poltergeist-a-pixelated-horror",
    "mobygames": "86839",
    "pcgamingwiki": "Poltergeist:_A_Pixelated_Horror",
    "steam": "323700"
@@ -1159,6 +1168,7 @@
  {
   "ids": {
    "igdb": "idol-magical-girl-chiru-chiru-michiru-part-2",
+   "pcgamingwiki": "Idol_Magical_Girl_Chiru_Chiru_Michiru_Part_2",
    "steam": "377720"
   },
   "label_en": "Idol Magical Girl Chiru Chiru Michiru Part 2",
@@ -1168,6 +1178,7 @@
   "enwiki": "NHL 26",
   "ids": {
    "igdb": "nhl-26",
+   "metacritic": "nhl-26",
    "mobygames": "247770"
   },
   "label_en": "NHL 26",
@@ -1189,6 +1200,7 @@
   "ids": {
    "igdb": "duel-girl",
    "mobygames": "259717",
+   "pcgamingwiki": "Duel_Girl",
    "steam": "1116870"
   },
   "label_en": "Duel Girl",

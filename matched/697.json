@@ -5,6 +5,7 @@
    "gog": "game/terraria",
    "howlongtobeat": "9705",
    "igdb": "terraria",
+   "metacritic": "terraria",
    "mobygames": "51623",
    "pcgamingwiki": "Terraria",
    "steam": "105600"
@@ -16,6 +17,7 @@
   "enwiki": "Red Dead Revolver",
   "ids": {
    "igdb": "red-dead-revolver",
+   "metacritic": "red-dead-revolver",
    "mobygames": "13322"
   },
   "label_en": "Red Dead Revolver",
@@ -34,6 +36,7 @@
  {
   "enwiki": "Haru no Ashioto",
   "ids": {
+   "metacritic": "haru-no-ashioto",
    "mobygames": "69962"
   },
   "label_en": "Haru no Ashioto",
@@ -64,6 +67,7 @@
   "ids": {
    "howlongtobeat": "688",
    "igdb": "asura-s-wrath",
+   "metacritic": "asuras-wrath",
    "mobygames": "56084"
   },
   "label_en": "Asura's Wrath",
@@ -75,6 +79,7 @@
    "gog": "game/the_bards_tale",
    "howlongtobeat": "9772",
    "igdb": "the-bard-s-tale",
+   "metacritic": "the-bards-tale",
    "mobygames": "15800",
    "pcgamingwiki": "The_Bard's_Tale_(2005)",
    "steam": "41900"
@@ -160,6 +165,7 @@
   "ids": {
    "howlongtobeat": "7086",
    "igdb": "pixeljunk-shooter-2",
+   "metacritic": "pixeljunk-shooter-2",
    "mobygames": "69510"
   },
   "label_en": "PixelJunk Shooter 2",
@@ -216,6 +222,7 @@
   "enwiki": "Interpol: The Trail of Dr. Chaos",
   "ids": {
    "igdb": "interpol-the-trail-of-dr-chaos",
+   "metacritic": "interpol-the-trail-of-dr-chaos",
    "mobygames": "32551"
   },
   "label_en": "Interpol: The Trail of Dr. Chaos",
@@ -226,6 +233,7 @@
   "ids": {
    "howlongtobeat": "13391",
    "igdb": "space-hulk--1",
+   "metacritic": "space-hulk",
    "mobygames": "65681",
    "pcgamingwiki": "Space_Hulk_(2013)",
    "steam": "242570"
@@ -237,6 +245,7 @@
   "enwiki": "Final Fantasy Explorers",
   "ids": {
    "igdb": "final-fantasy-explorers",
+   "metacritic": "final-fantasy-explorers",
    "mobygames": "85346"
   },
   "label_en": "Final Fantasy Explorers",
@@ -278,6 +287,7 @@
    "gog": "game/willy_morgan_and_the_curse_of_bone_town",
    "howlongtobeat": "81775",
    "igdb": "willy-morgan-and-the-curse-of-bone-town",
+   "metacritic": "willy-morgan-and-the-curse-of-bone-town",
    "mobygames": "149214",
    "pcgamingwiki": "Willy_Morgan_and_the_Curse_of_Bone_Town",
    "steam": "1097110"
@@ -292,6 +302,7 @@
    "gog": "game/felix_the_reaper",
    "howlongtobeat": "70967",
    "igdb": "felix-the-reaper",
+   "metacritic": "felix-the-reaper",
    "mobygames": "136119",
    "pcgamingwiki": "Felix_the_Reaper",
    "steam": "919410"
@@ -418,6 +429,7 @@
   "ids": {
    "howlongtobeat": "112697",
    "igdb": "trivia-vault-music-trivia",
+   "metacritic": "trivia-vault-music-trivia",
    "pcgamingwiki": "Trivia_Vault:_Music_Trivia",
    "steam": "878270"
   },
@@ -450,6 +462,7 @@
    "gog": "game/field_of_glory_ii_medieval",
    "howlongtobeat": "91411",
    "igdb": "field-of-glory-ii-medieval",
+   "metacritic": "field-of-glory-ii-medieval",
    "mobygames": "158136",
    "pcgamingwiki": "Field_of_Glory_II:_Medieval",
    "steam": "1368870"
@@ -479,6 +492,7 @@
   "ids": {
    "howlongtobeat": "38845",
    "igdb": "moirai",
+   "metacritic": "moirai",
    "mobygames": "80048",
    "pcgamingwiki": "Moirai",
    "steam": "496920"
@@ -502,6 +516,7 @@
    "gog": "game/lost_in_play",
    "howlongtobeat": "112178",
    "igdb": "lost-in-play",
+   "metacritic": "lost-in-play",
    "mobygames": "189361",
    "pcgamingwiki": "Lost_in_Play",
    "steam": "1328840"
@@ -912,6 +927,7 @@
   "ids": {
    "howlongtobeat": "68275",
    "igdb": "saga-scarlet-grace-ambitions",
+   "metacritic": "saga-scarlet-grace-ambitions",
    "mobygames": "111157",
    "pcgamingwiki": "SaGa_Scarlet_Grace:_Ambitions",
    "steam": "686720"

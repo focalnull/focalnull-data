@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "10468",
    "igdb": "tomb-raider",
+   "metacritic": "tomb-raider-1996",
    "mobygames": "348",
    "pcgamingwiki": "Tomb_Raider_(1996)",
    "steam": "224960"
@@ -28,6 +29,7 @@
    "gog": "game/the_legend_of_heroes_trails_from_zero",
    "howlongtobeat": "10599",
    "igdb": "the-legend-of-heroes-trails-from-zero",
+   "metacritic": "the-legend-of-heroes-trails-from-zero",
    "mobygames": "100739",
    "pcgamingwiki": "The_Legend_of_Heroes:_Trails_from_Zero",
    "steam": "1668510"
@@ -40,6 +42,7 @@
   "ids": {
    "howlongtobeat": "2429",
    "igdb": "demigod",
+   "metacritic": "demigod",
    "mobygames": "40921",
    "pcgamingwiki": "Demigod",
    "steam": "202710"
@@ -52,6 +55,7 @@
   "ids": {
    "howlongtobeat": "6410",
    "igdb": "naruto-ultimate-ninja-storm",
+   "metacritic": "naruto-ultimate-ninja-storm",
    "mobygames": "95148",
    "pcgamingwiki": "Naruto:_Ultimate_Ninja_Storm",
    "steam": "495140"
@@ -135,6 +139,7 @@
   "enwiki": "Onechanbara: Bikini Samurai Squad",
   "ids": {
    "igdb": "onechanbara-bikini-samurai-squad",
+   "metacritic": "onechanbara-bikini-samurai-squad",
    "mobygames": "34569"
   },
   "label_en": "Onechanbara: Bikini Samurai Squad",
@@ -153,6 +158,7 @@
   "enwiki": "World of Outlaws: Sprint Cars 2002",
   "ids": {
    "igdb": "world-of-outlaws-sprint-cars-2002",
+   "metacritic": "world-of-outlaws-sprint-cars-2002",
    "mobygames": "27022"
   },
   "label_en": "World of Outlaws: Sprint Cars 2002",
@@ -184,6 +190,7 @@
    "gog": "game/shardlight",
    "howlongtobeat": "35517",
    "igdb": "shardlight",
+   "metacritic": "shardlight",
    "mobygames": "80887",
    "pcgamingwiki": "Shardlight",
    "steam": "336130"
@@ -205,6 +212,7 @@
  {
   "ids": {
    "igdb": "double-bubble-blaster-madness-vr",
+   "metacritic": "double-bubble-blaster-madness-vr",
    "pcgamingwiki": "Double_Bubble_Blaster_Madness_VR",
    "steam": "942490"
   },
@@ -235,6 +243,7 @@
   "ids": {
    "howlongtobeat": "69179",
    "igdb": "cricket-19",
+   "metacritic": "cricket-19",
    "mobygames": "127657",
    "pcgamingwiki": "Cricket_19",
    "steam": "1028630"
@@ -263,6 +272,7 @@
   "ids": {
    "howlongtobeat": "76085",
    "igdb": "mission-its-complicated",
+   "metacritic": "mission-its-complicated",
    "mobygames": "183321",
    "steam": "1041210"
   },
@@ -273,6 +283,7 @@
   "ids": {
    "howlongtobeat": "42473",
    "igdb": "qubic",
+   "metacritic": "qubic",
    "mobygames": "86073",
    "pcgamingwiki": "Qubic",
    "steam": "509000"
@@ -410,6 +421,7 @@
    "epic": "hades-ii",
    "howlongtobeat": "118218",
    "igdb": "hades-ii",
+   "metacritic": "hades-ii",
    "mobygames": "223472",
    "pcgamingwiki": "Hades_II",
    "steam": "1145350"
@@ -478,6 +490,7 @@
   "enwiki": "Synapse (video game)",
   "ids": {
    "igdb": "synapse--1",
+   "metacritic": "synapse",
    "steam": "2511300"
   },
   "label_en": "Synapse",
@@ -499,6 +512,7 @@
   "ids": {
    "howlongtobeat": "131103",
    "igdb": "jujutsu-kaisen-cursed-clash",
+   "metacritic": "jujutsu-kaisen-cursed-clash",
    "mobygames": "216879",
    "pcgamingwiki": "Jujutsu_Kaisen:_Cursed_Clash",
    "steam": "1877020"
@@ -509,7 +523,8 @@
  {
   "ids": {
    "howlongtobeat": "15290",
-   "igdb": "machine-knight"
+   "igdb": "machine-knight",
+   "metacritic": "machine-knight"
   },
   "label_en": "Machine Knight",
   "wikidata": "Q120838620"
@@ -606,6 +621,7 @@
    "gog": "game/once_upon_a_jester",
    "howlongtobeat": "116753",
    "igdb": "once-upon-a-jester",
+   "metacritic": "once-upon-a-jester",
    "mobygames": "195097",
    "pcgamingwiki": "Once_upon_a_Jester",
    "steam": "1668190"
@@ -801,6 +817,7 @@
  {
   "ids": {
    "igdb": "project-oasis",
+   "metacritic": "the-project-oasis",
    "pcgamingwiki": "Project_Oasis",
    "steam": "1168840"
   },
@@ -820,6 +837,7 @@
   "ids": {
    "howlongtobeat": "52324",
    "igdb": "darkest-hunters",
+   "metacritic": "darkest-hunters",
    "mobygames": "99992",
    "pcgamingwiki": "Darkest_Hunters",
    "steam": "654300"
@@ -926,7 +944,8 @@
  },
  {
   "ids": {
-   "igdb": "chichens"
+   "igdb": "chichens",
+   "metacritic": "chichens"
   },
   "label_en": "Chichens",
   "wikidata": "Q126617620"

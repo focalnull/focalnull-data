@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8443",
    "igdb": "persona-4",
+   "metacritic": "shin-megami-tensei-persona-4",
    "mobygames": "38259"
   },
   "label_en": "Persona 4",
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "5082",
    "igdb": "kirbys-return-to-dream-land",
+   "metacritic": "kirbys-return-to-dream-land",
    "mobygames": "71281"
   },
   "label_en": "Kirby's Return to Dream Land",
@@ -53,6 +55,7 @@
  {
   "ids": {
    "igdb": "b-boy",
+   "metacritic": "b-boy",
    "mobygames": "24876"
   },
   "label_en": "B-boy",
@@ -63,6 +66,7 @@
   "ids": {
    "howlongtobeat": "8105",
    "igdb": "sam-and-max-beyond-time-and-space-episode-5-whats-new-beelzebub",
+   "metacritic": "sam-max-beyond-time-and-space-ep-5",
    "mobygames": "33578"
   },
   "label_en": "Sam & Max: What's New, Beelzebub?",
@@ -81,6 +85,7 @@
   "enwiki": "The Terminator: Dawn of Fate",
   "ids": {
    "igdb": "the-terminator-dawn-of-fate",
+   "metacritic": "the-terminator-dawn-of-fate",
    "mobygames": "9481"
   },
   "label_en": "The Terminator: Dawn of Fate",
@@ -91,6 +96,7 @@
   "ids": {
    "howlongtobeat": "10646",
    "igdb": "tribes-vengeance",
+   "metacritic": "tribes-vengeance",
    "mobygames": "15568",
    "pcgamingwiki": "Tribes:_Vengeance"
   },
@@ -129,6 +135,7 @@
   "ids": {
    "howlongtobeat": "3882",
    "igdb": "geneforge-4-rebellion",
+   "metacritic": "geneforge-4-rebellion",
    "mobygames": "32581",
    "pcgamingwiki": "Geneforge_4:_Rebellion",
    "steam": "201000"
@@ -170,6 +177,7 @@
   "ids": {
    "howlongtobeat": "8583",
    "igdb": "singstar-abba",
+   "metacritic": "singstar-abba",
    "mobygames": "38603"
   },
   "label_en": "SingStar: ABBA",
@@ -234,6 +242,7 @@
    "gog": "game/va11_halla",
    "howlongtobeat": "25099",
    "igdb": "va-11-hall-a-cyberpunk-bartender-action",
+   "metacritic": "va-11-hall-a",
    "mobygames": "85287",
    "pcgamingwiki": "VA-11_Hall-A:_Cyberpunk_Bartender_Action",
    "steam": "447530"
@@ -253,6 +262,7 @@
   "ids": {
    "howlongtobeat": "64735",
    "igdb": "dragon-marked-for-death",
+   "metacritic": "dragon-marked-for-death",
    "mobygames": "144764",
    "pcgamingwiki": "Dragon_Marked_for_Death",
    "steam": "1149440"
@@ -768,6 +778,7 @@
   "ids": {
    "howlongtobeat": "147330",
    "igdb": "vivaland-dream-house",
+   "metacritic": "vivaland-dream-house",
    "steam": "2606170"
   },
   "label_en": "Vivaland: Dream House",
@@ -791,6 +802,7 @@
   "ids": {
    "howlongtobeat": "143815",
    "igdb": "grunn",
+   "metacritic": "grunn",
    "mobygames": "232736",
    "pcgamingwiki": "Grunn",
    "steam": "2720950"

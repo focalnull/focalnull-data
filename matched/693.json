@@ -22,6 +22,7 @@
   "enwiki": "The Gladiators: Galactic Circus Games",
   "ids": {
    "igdb": "the-gladiators-galactic-circus-games",
+   "metacritic": "the-gladiators-the-galactic-circus-games",
    "mobygames": "13063",
    "pcgamingwiki": "The_Gladiators:_Galactic_Circus_Games"
   },
@@ -174,6 +175,7 @@
    "gog": "game/18_wheels_of_steel_american_long_haul",
    "howlongtobeat": "50",
    "igdb": "18-wheels-of-steel-american-long-haul",
+   "metacritic": "18-wheels-of-steel-american-long-haul",
    "mobygames": "44678",
    "pcgamingwiki": "18_Wheels_of_Steel:_American_Long_Haul",
    "steam": "12520"
@@ -203,6 +205,7 @@
    "epic": "oxygen-not-included",
    "howlongtobeat": "44050",
    "igdb": "oxygen-not-included",
+   "metacritic": "oxygen-not-included",
    "mobygames": "89049",
    "pcgamingwiki": "Oxygen_Not_Included",
    "steam": "457140"
@@ -228,6 +231,7 @@
   "ids": {
    "howlongtobeat": "56719",
    "igdb": "azure-reflections",
+   "metacritic": "maihana-soumakyou",
    "mobygames": "108790",
    "pcgamingwiki": "Azure_Reflections",
    "steam": "928440"
@@ -243,6 +247,7 @@
   "ids": {
    "howlongtobeat": "71639",
    "igdb": "killer-queen-black",
+   "metacritic": "killer-queen-black",
    "mobygames": "130847",
    "pcgamingwiki": "Killer_Queen_Black",
    "steam": "663670"
@@ -261,6 +266,7 @@
  {
   "ids": {
    "igdb": "survival-z",
+   "pcgamingwiki": "Survival_Z",
    "steam": "1585330"
   },
   "label_en": "Survival ‪Z",
@@ -269,6 +275,7 @@
  {
   "ids": {
    "igdb": "dragon-ball-the-breakers",
+   "metacritic": "dragon-ball-the-breakers",
    "mobygames": "193127",
    "pcgamingwiki": "Dragon_Ball:_The_Breakers",
    "steam": "1276760"
@@ -287,6 +294,7 @@
    "gog": "game/expeditions_rome",
    "howlongtobeat": "101761",
    "igdb": "expeditions-rome",
+   "metacritic": "expeditions-rome",
    "mobygames": "178447",
    "pcgamingwiki": "Expeditions:_Rome",
    "steam": "987840"
@@ -440,7 +448,9 @@
   "ids": {
    "howlongtobeat": "118249",
    "igdb": "akka-arrh",
+   "metacritic": "akka-arrh",
    "mobygames": "199689",
+   "pcgamingwiki": "Akka_Arrh",
    "steam": "2005680"
   },
   "label_en": "Akka Arrh",
@@ -451,6 +461,7 @@
    "epic": "the-shape-of-things-dc5b26",
    "howlongtobeat": "127683",
    "igdb": "the-shape-of-things",
+   "metacritic": "the-shape-of-things",
    "mobygames": "204785",
    "steam": "1853410"
   },
@@ -490,6 +501,7 @@
    "howlongtobeat": "80959",
    "igdb": "vernal-edge",
    "mobygames": "200527",
+   "pcgamingwiki": "Vernal_Edge",
    "steam": "1546710"
   },
   "label_en": "Vernal Edge",
@@ -824,6 +836,7 @@
  },
  {
   "ids": {
+   "metacritic": "paranormal-activity-found-footage",
    "pcgamingwiki": "Paranormal_Activity:_Threshold",
    "steam": "3394030"
   },
@@ -833,6 +846,7 @@
  {
   "ids": {
    "igdb": "s4u-citypunk-2011-and-love-punch",
+   "metacritic": "s4u-citypunk-2011-and-love-punch",
    "mobygames": "236319",
    "steam": "2612700"
   },
@@ -907,6 +921,7 @@
  {
   "ids": {
    "igdb": "haze-man-the-local-hero",
+   "metacritic": "hazeman",
    "mobygames": "253877"
   },
   "label_en": "Haze Man -The Local Hero-",

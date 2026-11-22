@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9859",
    "igdb": "the-elder-scrolls-v-skyrim",
+   "metacritic": "the-elder-scrolls-v-skyrim",
    "mobygames": "53545",
    "pcgamingwiki": "The_Elder_Scrolls_V:_Skyrim",
    "steam": "72850"
@@ -54,6 +55,7 @@
   "ids": {
    "howlongtobeat": "14723",
    "igdb": "undercover-operation-wintersun",
+   "metacritic": "undercover-operation-wintersun",
    "mobygames": "25774"
   },
   "label_en": "Undercover: Operation Wintersun",
@@ -64,6 +66,7 @@
   "ids": {
    "howlongtobeat": "7913",
    "igdb": "rock-band-3",
+   "metacritic": "rock-band-3",
    "mobygames": "48914"
   },
   "label_en": "Rock Band 3",
@@ -74,6 +77,7 @@
   "ids": {
    "howlongtobeat": "14030",
    "igdb": "spyro-2-season-of-flame",
+   "metacritic": "spyro-2-season-of-flame",
    "mobygames": "7651"
   },
   "label_en": "Spyro 2: Season of Flame",
@@ -102,6 +106,7 @@
   "ids": {
    "howlongtobeat": "29206",
    "igdb": "pride-of-nations",
+   "metacritic": "pride-of-nations",
    "mobygames": "53011",
    "pcgamingwiki": "Pride_of_Nations",
    "steam": "73190"
@@ -199,6 +204,7 @@
   "ids": {
    "howlongtobeat": "7052",
    "igdb": "pinball-fx2",
+   "metacritic": "pinball-fx-2",
    "mobygames": "68821",
    "pcgamingwiki": "Pinball_FX2",
    "steam": "226980"
@@ -227,6 +233,7 @@
   "enwiki": "Midway Arcade Treasures Deluxe Edition",
   "ids": {
    "igdb": "midway-arcade-treasures-deluxe-edition",
+   "metacritic": "midway-arcade-treasures-deluxe-edition",
    "mobygames": "26425",
    "pcgamingwiki": "Midway_Arcade_Treasures_Deluxe_Edition"
   },
@@ -238,6 +245,7 @@
   "ids": {
    "howlongtobeat": "68151",
    "igdb": "elden-ring",
+   "metacritic": "elden-ring",
    "mobygames": "174989",
    "pcgamingwiki": "Elden_Ring",
    "steam": "1245620"
@@ -265,6 +273,7 @@
    "gog": "game/alfred_hitchcock_vertigo",
    "howlongtobeat": "101567",
    "igdb": "alfred-hitchcock-vertigo",
+   "metacritic": "alfred-hitchcock-vertigo",
    "mobygames": "176786",
    "pcgamingwiki": "Alfred_Hitchcock:_Vertigo",
    "steam": "1449320"
@@ -348,6 +357,7 @@
   "ids": {
    "howlongtobeat": "92102",
    "igdb": "last-days-of-lazarus",
+   "metacritic": "last-days-of-lazarus",
    "mobygames": "194704",
    "pcgamingwiki": "Last_Days_of_Lazarus",
    "steam": "1359920"
@@ -503,6 +513,7 @@
    "howlongtobeat": "109323",
    "igdb": "elf-world-adventure-part-1",
    "mobygames": "201125",
+   "pcgamingwiki": "Elf_World_Adventure:_Part_1",
    "steam": "1874720"
   },
   "label_en": "Elf World Adventure: Part 1",
@@ -810,6 +821,7 @@
   "ids": {
    "howlongtobeat": "112",
    "igdb": "99seconds",
+   "metacritic": "99seconds",
    "mobygames": "87119",
    "steam": "2786130"
   },
@@ -1189,6 +1201,7 @@
  {
   "ids": {
    "igdb": "horse-racing-manager--1",
+   "metacritic": "horse-racing-manager",
    "mobygames": "253895",
    "steam": "2740170"
   },
@@ -1205,6 +1218,7 @@
  {
   "ids": {
    "howlongtobeat": "180585",
+   "metacritic": "database-detective-minor-crimes-division",
    "mobygames": "264673",
    "steam": "3950130"
   },

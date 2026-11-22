@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9293",
    "igdb": "sub-command",
+   "metacritic": "sub-command",
    "mobygames": "5112",
    "pcgamingwiki": "Sub_Command",
    "steam": "2920"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "21299",
    "igdb": "mysims-agents",
+   "metacritic": "mysims-agents",
    "mobygames": "80425"
   },
   "label_en": "MySims Agents",
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "1990",
    "igdb": "crayon-physics-deluxe",
+   "metacritic": "crayon-physics-deluxe",
    "mobygames": "28773",
    "pcgamingwiki": "Crayon_Physics_Deluxe",
    "steam": "26900"
@@ -41,6 +44,7 @@
   "enwiki": "NASCAR Heat",
   "ids": {
    "igdb": "nascar-heat",
+   "metacritic": "nascar-heat",
    "mobygames": "2265",
    "pcgamingwiki": "NASCAR_Heat"
   },
@@ -60,7 +64,8 @@
  {
   "enwiki": "Fashion Designer: Style Icon",
   "ids": {
-   "howlongtobeat": "88018"
+   "howlongtobeat": "88018",
+   "metacritic": "fashion-designer-style-icon"
   },
   "label_en": "Fashion Designer: Style Icon",
   "wikidata": "Q3576201"
@@ -69,6 +74,7 @@
   "enwiki": "Polarium Advance",
   "ids": {
    "igdb": "polarium-advance",
+   "metacritic": "polarium-advance",
    "mobygames": "22435"
   },
   "label_en": "Polarium Advance",
@@ -79,6 +85,7 @@
   "ids": {
    "howlongtobeat": "28314",
    "igdb": "great-battles-of-wwii-stalingrad",
+   "metacritic": "stalingrad",
    "mobygames": "28293",
    "pcgamingwiki": "Stalingrad",
    "steam": "356260"
@@ -121,6 +128,7 @@
   "enwiki": "Hunter: The Reckoning (video game)",
   "ids": {
    "igdb": "hunter-the-reckoning",
+   "metacritic": "hunter-the-reckoning",
    "mobygames": "6788"
   },
   "label_en": "Hunter: The Reckoning",
@@ -200,6 +208,7 @@
   "ids": {
    "howlongtobeat": "48521",
    "igdb": "f1-2017",
+   "metacritic": "f1-2017",
    "mobygames": "94591",
    "pcgamingwiki": "F1_2017",
    "steam": "515220"
@@ -210,7 +219,8 @@
  {
   "enwiki": "Identity V",
   "ids": {
-   "igdb": "identity-v"
+   "igdb": "identity-v",
+   "metacritic": "identity-v"
   },
   "label_en": "Identity V",
   "wikidata": "Q56272201"
@@ -236,7 +246,9 @@
  {
   "ids": {
    "igdb": "die-young",
+   "metacritic": "die-young",
    "mobygames": "104141",
+   "pcgamingwiki": "Die_Young",
    "steam": "433170"
   },
   "label_en": "Die Young",
@@ -262,6 +274,7 @@
   "ids": {
    "howlongtobeat": "69290",
    "igdb": "synth-riders",
+   "metacritic": "synth-riders",
    "mobygames": "136907",
    "pcgamingwiki": "Synth_Riders",
    "steam": "885000"
@@ -274,6 +287,7 @@
   "ids": {
    "howlongtobeat": "94077",
    "igdb": "mario-party-superstars",
+   "metacritic": "mario-party-superstars",
    "mobygames": "173516"
   },
   "label_en": "Mario Party Superstars",
@@ -309,6 +323,7 @@
    "gog": "game/inscryption",
    "howlongtobeat": "91622",
    "igdb": "inscryption",
+   "metacritic": "inscryption",
    "mobygames": "173968",
    "pcgamingwiki": "Inscryption",
    "steam": "1092790"
@@ -369,6 +384,7 @@
   "ids": {
    "howlongtobeat": "116348",
    "igdb": "a-gummys-life",
+   "metacritic": "a-gummys-life",
    "mobygames": "113822",
    "pcgamingwiki": "A_Gummy's_Life",
    "steam": "585190"
@@ -1114,6 +1130,7 @@
  {
   "ids": {
    "igdb": "my-futa-girlfriend",
+   "pcgamingwiki": "My_Futa_Girlfriend_🔞",
    "steam": "2842870"
   },
   "label_en": "My Futa Girlfriend 🔞",
@@ -1122,6 +1139,7 @@
  {
   "ids": {
    "igdb": "colony--2",
+   "pcgamingwiki": "Colony_(2017)",
    "steam": "720060"
   },
   "label_en": "Colony",
@@ -1161,6 +1179,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Gamble_With_Your_Friends",
    "steam": "3892270"
   },
   "label_en": "Gamble With Your Friends",

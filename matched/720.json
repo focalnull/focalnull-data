@@ -3,6 +3,7 @@
   "enwiki": "WWE SmackDown! vs. Raw",
   "ids": {
    "igdb": "wwe-smackdown-vs-raw",
+   "metacritic": "wwe-smackdown-vs-raw",
    "mobygames": "19209"
   },
   "label_en": "WWE SmackDown! vs. Raw",
@@ -12,6 +13,7 @@
   "enwiki": "Retro Game Challenge",
   "ids": {
    "igdb": "retro-game-challenge",
+   "metacritic": "retro-game-challenge",
    "mobygames": "39252"
   },
   "label_en": "Retro Game Challenge",
@@ -42,6 +44,7 @@
   "ids": {
    "howlongtobeat": "7747",
    "igdb": "resistance-2",
+   "metacritic": "resistance-2",
    "mobygames": "39157"
   },
   "label_en": "Resistance 2",
@@ -80,6 +83,7 @@
   "ids": {
    "howlongtobeat": "1247",
    "igdb": "bomberman-live",
+   "metacritic": "bomberman-live",
    "mobygames": "29317"
   },
   "label_en": "Bomberman Live",
@@ -106,6 +110,7 @@
   "enwiki": "Into Oblivion (video game)",
   "ids": {
    "igdb": "into-oblivion",
+   "pcgamingwiki": "Into_Oblivion",
    "steam": "618990"
   },
   "label_en": "Into Oblivion",
@@ -115,6 +120,7 @@
   "enwiki": "Tak and the Power of Juju",
   "ids": {
    "igdb": "tak-and-the-power-of-juju",
+   "metacritic": "tak-and-the-power-of-juju",
    "mobygames": "12245"
   },
   "label_en": "Tak and the Power of Juju",
@@ -178,6 +184,7 @@
    "gog": "game/sword_of_the_stars_the_pit_osmium_edition",
    "howlongtobeat": "9514",
    "igdb": "sword-of-the-stars-the-pit",
+   "metacritic": "sword-of-the-stars-the-pit",
    "mobygames": "60846",
    "pcgamingwiki": "Sword_of_the_Stars:_The_Pit",
    "steam": "233700"
@@ -231,6 +238,7 @@
   "ids": {
    "howlongtobeat": "34661",
    "igdb": "tron-run-slash-r",
+   "metacritic": "tron-runr",
    "mobygames": "77097",
    "pcgamingwiki": "TRON_RUN/r",
    "steam": "392000"
@@ -242,6 +250,7 @@
   "ids": {
    "howlongtobeat": "33228",
    "igdb": "shiness-the-lightning-kingdom",
+   "metacritic": "shiness-the-lightning-kingdom",
    "mobygames": "87081",
    "pcgamingwiki": "Shiness:_The_Lightning_Kingdom",
    "steam": "366640"
@@ -254,6 +263,7 @@
   "ids": {
    "howlongtobeat": "40595",
    "igdb": "football-manager-2017",
+   "metacritic": "football-manager-2017",
    "mobygames": "94052",
    "pcgamingwiki": "Football_Manager_2017",
    "steam": "482730"
@@ -275,6 +285,7 @@
   "ids": {
    "howlongtobeat": "25651",
    "igdb": "crisis-in-the-kremlin",
+   "metacritic": "crisis-in-the-kremlin",
    "mobygames": "85736",
    "pcgamingwiki": "Crisis_in_the_Kremlin_(2017)",
    "steam": "599750"
@@ -314,6 +325,7 @@
    "howlongtobeat": "43026",
    "igdb": "pico-park",
    "mobygames": "127811",
+   "pcgamingwiki": "Pico_Park",
    "steam": "1509960"
   },
   "label_en": "Pico Park",
@@ -324,6 +336,7 @@
   "ids": {
    "howlongtobeat": "23451",
    "igdb": "the-marvellous-miss-take",
+   "metacritic": "the-marvellous-miss-take",
    "mobygames": "85288",
    "pcgamingwiki": "The_Marvellous_Miss_Take",
    "steam": "327310"
@@ -366,6 +379,7 @@
   "ids": {
    "howlongtobeat": "88768",
    "igdb": "splatoon-3",
+   "metacritic": "splatoon-3",
    "mobygames": "190230"
   },
   "label_en": "Splatoon 3",
@@ -468,6 +482,7 @@
   "ids": {
    "howlongtobeat": "27785",
    "igdb": "dig-or-die",
+   "metacritic": "dig-or-die",
    "mobygames": "84698",
    "pcgamingwiki": "Dig_or_Die",
    "steam": "315460"
@@ -481,6 +496,7 @@
    "gog": "game/fightn_rage",
    "howlongtobeat": "49758",
    "igdb": "fightn-rage",
+   "metacritic": "fightn-rage",
    "mobygames": "96853",
    "pcgamingwiki": "Fight'N_Rage",
    "steam": "674520"
@@ -832,6 +848,7 @@
   "ids": {
    "howlongtobeat": "34215",
    "igdb": "bowl-bound-college-football",
+   "metacritic": "bowl-bound-college-football",
    "mobygames": "83354",
    "pcgamingwiki": "Bowl_Bound_College_Football",
    "steam": "398640"
@@ -907,6 +924,7 @@
   "ids": {
    "howlongtobeat": "146676",
    "igdb": "hole-dweller",
+   "metacritic": "hole-dweller",
    "mobygames": "224816",
    "steam": "2293850"
   },
@@ -1254,6 +1272,7 @@
   "ids": {
    "epic": "nekome-712f11",
    "igdb": "nekome-nazi-hunter",
+   "metacritic": "nekome-nazi-hunter",
    "pcgamingwiki": "Nekome:_Nazi_Hunter",
    "steam": "4200110"
   },

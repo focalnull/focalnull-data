@@ -6,6 +6,7 @@
    "gog": "game/risen",
    "howlongtobeat": "7843",
    "igdb": "risen",
+   "metacritic": "risen",
    "mobygames": "42717",
    "pcgamingwiki": "Risen",
    "steam": "40300"
@@ -41,6 +42,7 @@
   "ids": {
    "howlongtobeat": "13426",
    "igdb": "socom-us-navy-seals-tactical-strike",
+   "metacritic": "socom-u-s-navy-seals-tactical-strike",
    "mobygames": "34646"
   },
   "label_en": "SOCOM: U.S. Navy SEALs Tactical Strike",
@@ -65,6 +67,7 @@
   "enwiki": "Natural Doctrine",
   "ids": {
    "igdb": "natural-doctrine",
+   "metacritic": "natural-doctrine",
    "mobygames": "73499"
   },
   "label_en": "Natural Doctrine",
@@ -78,6 +81,7 @@
   "ids": {
    "howlongtobeat": "19845",
    "igdb": "abyss-odyssey",
+   "metacritic": "abyss-odyssey",
    "mobygames": "79570",
    "pcgamingwiki": "Abyss_Odyssey",
    "steam": "255070"
@@ -98,6 +102,7 @@
   "ids": {
    "howlongtobeat": "37985",
    "igdb": "halo-wars-2",
+   "metacritic": "halo-wars-2",
    "mobygames": "94590",
    "pcgamingwiki": "Halo_Wars_2"
   },
@@ -127,6 +132,7 @@
   "ids": {
    "howlongtobeat": "38004",
    "igdb": "pit-people",
+   "metacritic": "pit-people",
    "mobygames": "85997",
    "pcgamingwiki": "Pit_People",
    "steam": "291860"
@@ -161,6 +167,7 @@
   "ids": {
    "howlongtobeat": "56042",
    "igdb": "super-daryl-deluxe",
+   "metacritic": "super-daryl-deluxe",
    "mobygames": "105830",
    "pcgamingwiki": "Super_Daryl_Deluxe",
    "steam": "361230"
@@ -182,7 +189,8 @@
  {
   "enwiki": "Farming Simulator 2012",
   "ids": {
-   "igdb": "farming-simulator-2012"
+   "igdb": "farming-simulator-2012",
+   "metacritic": "farming-simulator-2012"
   },
   "label_en": "Farming Simulator 2012",
   "wikidata": "Q99980013"
@@ -199,6 +207,7 @@
   "ids": {
    "howlongtobeat": "34053",
    "igdb": "12-labours-of-hercules-iv-mother-nature",
+   "metacritic": "12-labours-of-hercules-iv-mother-nature",
    "mobygames": "86920",
    "pcgamingwiki": "12_Labours_of_Hercules_IV:_Mother_Nature",
    "steam": "396800"
@@ -211,6 +220,7 @@
   "ids": {
    "howlongtobeat": "86105",
    "igdb": "drawn-to-life-two-realms",
+   "metacritic": "drawn-to-life-two-realms",
    "mobygames": "155319",
    "steam": "1378070"
   },
@@ -221,6 +231,7 @@
   "ids": {
    "howlongtobeat": "96588",
    "igdb": "toodee-and-topdee",
+   "metacritic": "toodee-and-topdee",
    "mobygames": "168741",
    "pcgamingwiki": "Toodee_and_Topdee",
    "steam": "1303950"
@@ -232,6 +243,7 @@
   "ids": {
    "howlongtobeat": "74894",
    "igdb": "skellboy",
+   "metacritic": "skellboy",
    "mobygames": "137905",
    "steam": "1096100"
   },
@@ -444,6 +456,7 @@
   "ids": {
    "howlongtobeat": "66141",
    "igdb": "super-dragon-ball-heroes-world-mission",
+   "metacritic": "super-dragon-ball-heroes-world-mission",
    "mobygames": "124477",
    "pcgamingwiki": "Super_Dragon_Ball_Heroes:_World_Mission",
    "steam": "798510"
@@ -646,7 +659,8 @@
  {
   "ids": {
    "howlongtobeat": "62359",
-   "igdb": "vacation-vexation"
+   "igdb": "vacation-vexation",
+   "metacritic": "vacation-vexation"
   },
   "label_en": "Vacation Vexation",
   "wikidata": "Q125878013"
@@ -1008,6 +1022,7 @@
  {
   "ids": {
    "igdb": "autumns-journey",
+   "metacritic": "autumns-journey",
    "mobygames": "155197"
   },
   "label_en": "Autumn's Journey",
@@ -1039,6 +1054,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Bills_Must_Be_Paid",
    "steam": "4421010"
   },
   "label_en": "Bills Must Be Paid",
@@ -1054,6 +1070,7 @@
  {
   "ids": {
    "igdb": "cleaning-up-the-puzzle-gallery",
+   "metacritic": "cleaning-up-the-puzzle-gallery",
    "steam": "4927490"
   },
   "label_en": "Cleaning Up The Puzzle Gallery",

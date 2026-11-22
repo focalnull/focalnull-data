@@ -3,6 +3,7 @@
   "enwiki": "DK King of Swing",
   "ids": {
    "igdb": "dk-king-of-swing",
+   "metacritic": "dk-king-of-swing",
    "mobygames": "19413"
   },
   "label_en": "DK: King of Swing",
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "4942",
    "igdb": "katamari-forever",
+   "metacritic": "katamari-forever",
    "mobygames": "42648"
   },
   "label_en": "Katamari Forever",
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "2784",
    "igdb": "dragon-ball-z-budokai-tenkaichi",
+   "metacritic": "dragon-ball-z-budokai-tenkaichi",
    "mobygames": "25763"
   },
   "label_en": "Dragon Ball Z: Budokai Tenkaichi",
@@ -45,6 +48,7 @@
   "ids": {
    "howlongtobeat": "10727",
    "igdb": "twisted-metal-small-brawl",
+   "metacritic": "twisted-metal-small-brawl",
    "mobygames": "13949"
   },
   "label_en": "Twisted Metal: Small Brawl",
@@ -75,6 +79,7 @@
   "ids": {
    "howlongtobeat": "5658",
    "igdb": "mario-tennis-open",
+   "metacritic": "mario-tennis-open",
    "mobygames": "58803"
   },
   "label_en": "Mario Tennis Open",
@@ -85,6 +90,7 @@
   "ids": {
    "howlongtobeat": "18",
    "igdb": "splosion-man",
+   "metacritic": "splosion-man",
    "mobygames": "42082"
   },
   "label_en": "'Splosion Man",
@@ -183,6 +189,7 @@
   "ids": {
    "howlongtobeat": "21292",
    "igdb": "disneys-chicken-little-ace-in-action",
+   "metacritic": "disneys-chicken-little-ace-in-action",
    "mobygames": "50370",
    "pcgamingwiki": "Disney's_Chicken_Little:_Ace_in_Action",
    "steam": "338300"
@@ -194,6 +201,7 @@
   "ids": {
    "howlongtobeat": "38794",
    "igdb": "cloudlands-vr-minigolf",
+   "metacritic": "cloudlands-vr-minigolf",
    "mobygames": "140069",
    "pcgamingwiki": "Cloudlands:_VR_Minigolf",
    "steam": "425720"
@@ -212,6 +220,7 @@
  {
   "ids": {
    "igdb": "shin-megami-tensei-strange-journey-redux",
+   "metacritic": "shin-megami-tensei-strange-journey-redux",
    "mobygames": "97485"
   },
   "label_en": "Shin Megami Tensei: Strange Journey Redux",
@@ -224,6 +233,7 @@
    "gog": "game/battle_chasers_nightwar",
    "howlongtobeat": "30017",
    "igdb": "battle-chasers-nightwar",
+   "metacritic": "battle-chasers-nightwar",
    "mobygames": "96745",
    "pcgamingwiki": "Battle_Chasers:_Nightwar",
    "steam": "451020"
@@ -234,6 +244,7 @@
  {
   "ids": {
    "igdb": "super-exploding-zoo",
+   "metacritic": "super-exploding-zoo",
    "mobygames": "85947"
   },
   "label_en": "Super Exploding Zoo",
@@ -268,6 +279,7 @@
   "ids": {
    "howlongtobeat": "3089",
    "igdb": "elminage-original",
+   "metacritic": "elminage-original",
    "mobygames": "86059",
    "pcgamingwiki": "Elminage_Original:_Priestess_of_Darkness_and_the_Ring_of_the_Gods",
    "steam": "618710"
@@ -350,6 +362,7 @@
   "ids": {
    "howlongtobeat": "74006",
    "igdb": "embr",
+   "metacritic": "embr",
    "mobygames": "153718",
    "pcgamingwiki": "Embr",
    "steam": "1062830"
@@ -372,6 +385,7 @@
   "ids": {
    "howlongtobeat": "43754",
    "igdb": "boor",
+   "metacritic": "boor",
    "mobygames": "107125",
    "pcgamingwiki": "Boor",
    "steam": "450170"
@@ -752,6 +766,7 @@
  {
   "ids": {
    "igdb": "kikis-vacation",
+   "metacritic": "kikis-vacation",
    "mobygames": "237640"
   },
   "label_en": "Kiki's Vacation",
@@ -1138,6 +1153,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Dog_Man:_Bark_in_Action",
    "steam": "4782240"
   },
   "label_en": "Dog Man: Bark in Action",
@@ -1154,5 +1170,12 @@
   },
   "label_en": "NTR",
   "wikidata": "Q141480858"
+ },
+ {
+  "ids": {
+   "metacritic": "virtual-villagers-6-divine-destiny"
+  },
+  "label_en": "Virtual Villagers 6: Divine Destiny",
+  "wikidata": "Q142209858"
  }
 ]

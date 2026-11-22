@@ -20,6 +20,7 @@
   "ids": {
    "howlongtobeat": "8398",
    "igdb": "shellshock-2-blood-trails",
+   "metacritic": "shellshock-2-blood-trails",
    "mobygames": "39296",
    "pcgamingwiki": "Shellshock_2:_Blood_Trails",
    "steam": "8160"
@@ -95,6 +96,7 @@
   "enwiki": "Disney's Dinosaur (video game)",
   "ids": {
    "igdb": "disneys-dinosaur",
+   "metacritic": "disneys-dinosaur",
    "mobygames": "23793",
    "pcgamingwiki": "Disney's_Dinosaur"
   },
@@ -142,6 +144,7 @@
   "ids": {
    "howlongtobeat": "50392",
    "igdb": "saku-saku-love-blooms-with-the-cherry-blossoms",
+   "metacritic": "saku-saku-love-blooms-with-the-cherry-blossoms",
    "mobygames": "108758",
    "pcgamingwiki": "Saku_Saku:_Love_Blooms_with_the_Cherry_Blossoms",
    "steam": "691150"
@@ -213,6 +216,7 @@
    "gog": "game/journey_to_the_savage_planet",
    "howlongtobeat": "68368",
    "igdb": "journey-to-the-savage-planet",
+   "metacritic": "journey-to-the-savage-planet",
    "mobygames": "140616",
    "pcgamingwiki": "Journey_to_the_Savage_Planet",
    "steam": "973810"
@@ -243,6 +247,7 @@
    "gog": "game/terra_nil",
    "howlongtobeat": "94425",
    "igdb": "terra-nil--1",
+   "metacritic": "terra-nil",
    "mobygames": "199679",
    "pcgamingwiki": "Terra_Nil",
    "steam": "1593030"
@@ -263,6 +268,7 @@
   "enwiki": "Monochrome Racing",
   "ids": {
    "igdb": "monochrome-racing",
+   "metacritic": "monochrome-racing",
    "mobygames": "90344"
   },
   "label_en": "Monochrome Racing",
@@ -324,6 +330,7 @@
    "gog": "game/phantom_fury",
    "howlongtobeat": "113737",
    "igdb": "phantom-fury",
+   "metacritic": "phantom-fury",
    "mobygames": "222599",
    "pcgamingwiki": "Phantom_Fury",
    "steam": "1733240"
@@ -358,6 +365,7 @@
    "howlongtobeat": "118041",
    "igdb": "killrun",
    "mobygames": "190185",
+   "pcgamingwiki": "KILLRUN",
    "steam": "1442170"
   },
   "label_en": "KILLRUN",
@@ -378,6 +386,7 @@
   "ids": {
    "howlongtobeat": "125521",
    "igdb": "wwe-2k23",
+   "metacritic": "wwe-2k23",
    "mobygames": "201161",
    "pcgamingwiki": "WWE_2K23",
    "steam": "1942660"
@@ -403,7 +412,9 @@
    "gog": "game/gori_cuddly_carnage",
    "howlongtobeat": "110165",
    "igdb": "gori-cuddly-carnage",
+   "metacritic": "gori-cuddly-carnage",
    "mobygames": "230609",
+   "pcgamingwiki": "Gori:_Cuddly_Carnage",
    "steam": "1299690"
   },
   "label_en": "Gori: Cuddly Carnage",
@@ -675,6 +686,7 @@
   "ids": {
    "howlongtobeat": "25489",
    "igdb": "2013-infected-wars",
+   "metacritic": "2013-infected-wars",
    "mobygames": "82829"
   },
   "label_en": "2013: Infected Wars",
@@ -823,7 +835,8 @@
  {
   "enwiki": "Flappy Bird (2024 video game)",
   "ids": {
-   "igdb": "flappy-bird--11"
+   "igdb": "flappy-bird--11",
+   "metacritic": "flappy-bird"
   },
   "label_en": "Flappy Bird",
   "wikidata": "Q130292383"

@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "10747",
    "igdb": "ufc-2009-undisputed",
+   "metacritic": "ufc-undisputed-2009",
    "mobygames": "42603"
   },
   "label_en": "UFC 2009 Undisputed",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "7082",
    "igdb": "pixeljunk-monsters",
+   "metacritic": "pixeljunk-monsters-ultimate",
    "mobygames": "32463",
    "pcgamingwiki": "PixelJunk_Monsters_Ultimate",
    "steam": "243780"
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "5890",
    "igdb": "mercenaries-playground-of-destruction",
+   "metacritic": "mercenaries-playground-of-destruction",
    "mobygames": "16313"
   },
   "label_en": "Mercenaries: Playground of Destruction",
@@ -45,6 +48,7 @@
   "ids": {
    "howlongtobeat": "8960",
    "igdb": "spiral-knights",
+   "metacritic": "spiral-knights",
    "mobygames": "51901",
    "pcgamingwiki": "Spiral_Knights",
    "steam": "99900"
@@ -78,6 +82,7 @@
   "ids": {
    "howlongtobeat": "5495",
    "igdb": "madden-nfl-07",
+   "metacritic": "madden-nfl-07",
    "mobygames": "29006"
   },
   "label_en": "Madden NFL 07",
@@ -97,6 +102,7 @@
   "enwiki": "PK: Out of the Shadows",
   "ids": {
    "igdb": "disney-s-pk-out-of-the-shadows",
+   "metacritic": "disneys-pk-out-of-the-shadows",
    "mobygames": "20254"
   },
   "label_en": "PK: Out of the Shadows",
@@ -153,6 +159,7 @@
   "enwiki": "The Dukes of Hazzard: Return of the General Lee",
   "ids": {
    "igdb": "the-dukes-of-hazzard-return-of-the-general-lee",
+   "metacritic": "the-dukes-of-hazzard-return-of-the-general-lee",
    "mobygames": "18798"
   },
   "label_en": "The Dukes of Hazzard: Return of the General Lee",
@@ -182,6 +189,7 @@
   "ids": {
    "howlongtobeat": "37101",
    "igdb": "call-of-duty-infinite-warfare",
+   "metacritic": "call-of-duty-infinite-warfare",
    "mobygames": "81971",
    "pcgamingwiki": "Call_of_Duty:_Infinite_Warfare",
    "steam": "292730"
@@ -204,6 +212,7 @@
    "gog": "game/tower_57",
    "howlongtobeat": "50737",
    "igdb": "tower-57",
+   "metacritic": "tower-57",
    "mobygames": "97764",
    "pcgamingwiki": "Tower_57",
    "steam": "530950"
@@ -216,6 +225,7 @@
   "ids": {
    "howlongtobeat": "57479",
    "igdb": "resident-evil-2--1",
+   "metacritic": "resident-evil-2",
    "mobygames": "120555",
    "pcgamingwiki": "Resident_Evil_2_(2019)",
    "steam": "883710"
@@ -299,6 +309,7 @@
   "ids": {
    "howlongtobeat": "100251",
    "igdb": "tentacular",
+   "metacritic": "tentacular",
    "mobygames": "188719",
    "steam": "1220100"
   },
@@ -348,6 +359,7 @@
   "ids": {
    "epic": "c64-and-amiga-classix-remakes-sixpack-b52bda",
    "igdb": "c64-and-amiga-classix-remakes-sixpack",
+   "metacritic": "c64-amiga-classix-remakes-sixpack",
    "pcgamingwiki": "C64_&_AMIGA_Classix_Remakes_Sixpack",
    "steam": "679640"
   },
@@ -361,6 +373,7 @@
    "gog": "game/backpack_hero",
    "howlongtobeat": "107522",
    "igdb": "backpack-hero",
+   "metacritic": "backpack-hero",
    "mobygames": "189679",
    "pcgamingwiki": "Backpack_Hero",
    "steam": "1970580"
@@ -801,6 +814,7 @@
    "epic": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited",
    "howlongtobeat": "81771",
    "igdb": "saviors-of-sapphire-wings-slash-stranger-of-sword-city-revisited",
+   "metacritic": "saviors-of-sapphire-wings-and-stranger-of-sword",
    "mobygames": "160713",
    "pcgamingwiki": "Saviors_of_Sapphire_Wings_/_Stranger_of_Sword_City_Revisited",
    "steam": "1363840"
@@ -1074,6 +1088,7 @@
  {
   "ids": {
    "igdb": "spectro",
+   "pcgamingwiki": "Spectro",
    "steam": "719520"
   },
   "label_en": "Spectro",
@@ -1116,6 +1131,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Pratfall",
    "steam": "4244510"
   },
   "label_en": "Pratfall",

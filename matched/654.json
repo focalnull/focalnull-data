@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "664",
    "igdb": "assassins-creed-revelations",
+   "metacritic": "assassins-creed-revelations",
    "mobygames": "53605",
    "pcgamingwiki": "Assassin's_Creed:_Revelations",
    "steam": "201870"
@@ -55,6 +56,7 @@
   "ids": {
    "howlongtobeat": "4502",
    "igdb": "hopkins-fbi",
+   "metacritic": "hopkins-fbi",
    "mobygames": "3994",
    "pcgamingwiki": "Hopkins_FBI"
   },
@@ -74,6 +76,7 @@
   "ids": {
    "howlongtobeat": "4950",
    "igdb": "kelly-slater-s-pro-surfer",
+   "metacritic": "kelly-slaters-pro-surfer",
    "mobygames": "7431",
    "pcgamingwiki": "Kelly_Slater's_Pro_Surfer"
   },
@@ -85,6 +88,7 @@
   "ids": {
    "howlongtobeat": "12064",
    "igdb": "cartoon-network-racing",
+   "metacritic": "cartoon-network-racing",
    "mobygames": "81782"
   },
   "label_en": "Cartoon Network Racing",
@@ -123,6 +127,7 @@
   "ids": {
    "howlongtobeat": "1252",
    "igdb": "bomberman-ultra",
+   "metacritic": "bomberman-ultra",
    "mobygames": "46541"
   },
   "label_en": "Bomberman Ultra",
@@ -150,6 +155,7 @@
   "enwiki": "NBA Ballers: Rebound",
   "ids": {
    "igdb": "nba-ballers-rebound",
+   "metacritic": "nba-ballers-rebound",
    "mobygames": "35974"
   },
   "label_en": "NBA Ballers: Rebound",
@@ -160,6 +166,7 @@
   "ids": {
    "howlongtobeat": "58335",
    "igdb": "spyparty",
+   "metacritic": "spyparty",
    "mobygames": "107909",
    "pcgamingwiki": "SpyParty",
    "steam": "329070"
@@ -201,6 +208,7 @@
   "ids": {
    "howlongtobeat": "22904",
    "igdb": "secret-ponchos",
+   "metacritic": "secret-ponchos",
    "mobygames": "76471",
    "pcgamingwiki": "Secret_Ponchos:_Most_Wanted_Edition",
    "steam": "265750"
@@ -213,6 +221,7 @@
   "ids": {
    "howlongtobeat": "24707",
    "igdb": "dragon-quest-heroes-the-world-trees-woe-and-the-blight-below--1",
+   "metacritic": "dragon-quest-heroes",
    "mobygames": "82010",
    "pcgamingwiki": "Dragon_Quest_Heroes",
    "steam": "410850"
@@ -244,6 +253,7 @@
   "ids": {
    "howlongtobeat": "46306",
    "igdb": "lydia",
+   "metacritic": "lydia",
    "mobygames": "94631",
    "pcgamingwiki": "Lydia",
    "steam": "629000"
@@ -256,6 +266,7 @@
    "gog": "game/staxel",
    "howlongtobeat": "52922",
    "igdb": "staxel",
+   "metacritic": "staxel",
    "mobygames": "101832",
    "pcgamingwiki": "Staxel",
    "steam": "405710"
@@ -274,6 +285,7 @@
  },
  {
   "ids": {
+   "metacritic": "hooked-again-real-motion-fishing",
    "mobygames": "142541"
   },
   "label_en": "Hooked! Again: Real Motion Fishing",
@@ -291,6 +303,7 @@
   "ids": {
    "howlongtobeat": "68328",
    "igdb": "anonymous-agony",
+   "metacritic": "anonymous-agony",
    "mobygames": "174520",
    "pcgamingwiki": "Anonymous_Agony:_File",
    "steam": "1081840"
@@ -660,6 +673,7 @@
  {
   "ids": {
    "igdb": "plank-builders",
+   "metacritic": "plank-builders",
    "steam": "1774860"
   },
   "label_en": "Plank Builders",
@@ -839,6 +853,7 @@
   "enwiki": "Solasta II",
   "ids": {
    "igdb": "solasta-ii",
+   "metacritic": "solasta-ii",
    "mobygames": "247909",
    "pcgamingwiki": "Solasta_II",
    "steam": "2975950"

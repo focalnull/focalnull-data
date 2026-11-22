@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7355",
    "igdb": "project-snowblind",
+   "metacritic": "project-snowblind",
    "mobygames": "16731",
    "pcgamingwiki": "Project_Snowblind",
    "steam": "7010"
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "5122",
    "igdb": "marble-saga-kororinpa",
+   "metacritic": "kororinpa-marble-mania",
    "mobygames": "27610"
   },
   "label_en": "Kororinpa",
@@ -43,6 +45,7 @@
   "ids": {
    "howlongtobeat": "7093",
    "igdb": "planescape-torment",
+   "metacritic": "planescape-torment",
    "mobygames": "648",
    "pcgamingwiki": "Planescape:_Torment"
   },
@@ -54,6 +57,7 @@
   "ids": {
    "howlongtobeat": "4946",
    "igdb": "keepsake",
+   "metacritic": "keepsake",
    "mobygames": "21329",
    "pcgamingwiki": "Keepsake",
    "steam": "704860"
@@ -65,6 +69,7 @@
   "enwiki": "Alvin and the Chipmunks (video game)",
   "ids": {
    "igdb": "alvin-and-the-chipmunks",
+   "metacritic": "alvin-and-the-chipmunks",
    "mobygames": "61233",
    "pcgamingwiki": "Alvin_and_the_Chipmunks"
   },
@@ -98,6 +103,7 @@
   "ids": {
    "howlongtobeat": "11091",
    "igdb": "warriors-orochi-2",
+   "metacritic": "warriors-orochi-2",
    "mobygames": "46781"
   },
   "label_en": "Warriors Orochi 2",
@@ -138,6 +144,7 @@
   "enwiki": "Reality Fighters",
   "ids": {
    "igdb": "reality-fighters",
+   "metacritic": "reality-fighters",
    "mobygames": "57704"
   },
   "label_en": "Reality Fighters",
@@ -157,6 +164,7 @@
   "ids": {
    "howlongtobeat": "14345",
    "igdb": "ryse-son-of-rome",
+   "metacritic": "ryse-son-of-rome",
    "mobygames": "62268",
    "pcgamingwiki": "Ryse:_Son_of_Rome",
    "steam": "302510"
@@ -169,6 +177,7 @@
   "ids": {
    "howlongtobeat": "1231",
    "igdb": "bomberman-93",
+   "metacritic": "bomberman-93",
    "mobygames": "16518"
   },
   "label_en": "Bomberman '93",
@@ -178,6 +187,7 @@
   "enwiki": "Kingdom of Paradise",
   "ids": {
    "igdb": "kingdom-of-paradise",
+   "metacritic": "kingdom-of-paradise",
    "mobygames": "22385"
   },
   "label_en": "Kingdom of Paradise",
@@ -205,6 +215,7 @@
   "ids": {
    "howlongtobeat": "11273",
    "igdb": "world-destruction-league-thunder-tanks--1",
+   "metacritic": "world-destruction-league-thunder-tanks",
    "mobygames": "6441"
   },
   "label_en": "World Destruction League: Thunder Tanks",
@@ -218,6 +229,7 @@
   "enwiki": "Plants vs. Zombies: Garden Warfare",
   "ids": {
    "igdb": "plants-vs-zombies-garden-warfare-2e561d33-2b92-408a-92f2-ec79ddcc6c2b",
+   "metacritic": "plants-vs-zombies-garden-warfare",
    "mobygames": "67481",
    "pcgamingwiki": "Plants_vs._Zombies:_Garden_Warfare"
   },
@@ -230,6 +242,7 @@
    "gog": "game/rebuild_3_gangs_of_deadsville",
    "howlongtobeat": "26579",
    "igdb": "rebuild-3-gangs-of-deadsville",
+   "metacritic": "rebuild-3-gangs-of-deadsville",
    "mobygames": "98082",
    "pcgamingwiki": "Rebuild_3:_Gangs_of_Deadsville",
    "steam": "257170"
@@ -277,6 +290,7 @@
   "ids": {
    "howlongtobeat": "20150",
    "igdb": "only-if",
+   "metacritic": "only-if",
    "mobygames": "82388",
    "pcgamingwiki": "Only_If",
    "steam": "298260"
@@ -289,6 +303,7 @@
    "epic": "darkestville-castle-cf4a56",
    "howlongtobeat": "50478",
    "igdb": "darkestville-castle",
+   "metacritic": "darkestville-castle",
    "mobygames": "95959",
    "pcgamingwiki": "Darkestville_Castle",
    "steam": "689900"
@@ -302,6 +317,7 @@
    "epic": "world-war-z",
    "howlongtobeat": "64828",
    "igdb": "world-war-z",
+   "metacritic": "world-war-z",
    "mobygames": "125210",
    "pcgamingwiki": "World_War_Z",
    "steam": "699130"
@@ -315,6 +331,7 @@
    "epic": "red-dead-redemption-2",
    "howlongtobeat": "81866",
    "igdb": "red-dead-online",
+   "metacritic": "red-dead-online",
    "mobygames": "155119",
    "steam": "1404210"
   },
@@ -354,6 +371,7 @@
    "gog": "game/thymesia",
    "howlongtobeat": "90117",
    "igdb": "thymesia",
+   "metacritic": "thymesia",
    "mobygames": "189070",
    "pcgamingwiki": "Thymesia",
    "steam": "1343240"
@@ -383,6 +401,7 @@
  {
   "ids": {
    "igdb": "sqr-2",
+   "pcgamingwiki": "SQR_2",
    "steam": "1509180"
   },
   "label_en": "Sqr(2)",
@@ -860,6 +879,7 @@
   "enwiki": "Rematch (video game)",
   "ids": {
    "igdb": "rematch--1",
+   "metacritic": "rematch",
    "pcgamingwiki": "Rematch",
    "steam": "2138720"
   },
@@ -1165,6 +1185,7 @@
  {
   "ids": {
    "igdb": "heavens-grave",
+   "pcgamingwiki": "Heaven's_Grave",
    "steam": "1132110"
   },
   "label_en": "Heaven's Grave",

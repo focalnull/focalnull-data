@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "837",
    "igdb": "banjo-tooie",
+   "metacritic": "banjo-tooie",
    "mobygames": "3993"
   },
   "label_en": "Banjo-Tooie",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "2465",
    "igdb": "desert-strike-return-to-the-gulf",
+   "metacritic": "desert-strike-advance",
    "mobygames": "1461"
   },
   "label_en": "Desert Strike",
@@ -75,6 +77,7 @@
   "enwiki": "Ecks vs. Sever",
   "ids": {
    "igdb": "ecks-vs-sever",
+   "metacritic": "ecks-vs-sever",
    "mobygames": "6857"
   },
   "label_en": "Ecks vs. Sever",
@@ -94,6 +97,7 @@
   "ids": {
    "howlongtobeat": "8013",
    "igdb": "run-like-hell-hunt-or-be-hunted",
+   "metacritic": "rlh-run-like-hell",
    "mobygames": "7346"
   },
   "label_en": "Run Like Hell",
@@ -104,6 +108,7 @@
   "ids": {
    "howlongtobeat": "28388",
    "igdb": "skyforge",
+   "metacritic": "skyforge",
    "mobygames": "86761",
    "pcgamingwiki": "Skyforge",
    "steam": "414530"
@@ -141,6 +146,7 @@
   "ids": {
    "howlongtobeat": "4362",
    "igdb": "headhunter-redemption--1",
+   "metacritic": "headhunter-redemption",
    "mobygames": "19834"
   },
   "label_en": "Headhunter Redemption",
@@ -150,6 +156,7 @@
   "enwiki": "Ketzal's Corridors",
   "ids": {
    "igdb": "ketzals-corridors--1",
+   "metacritic": "ketzals-corridors",
    "mobygames": "55685"
   },
   "label_en": "Ketzal's Corridors",
@@ -159,6 +166,7 @@
   "enwiki": "Metal Dungeon",
   "ids": {
    "igdb": "metal-dungeon",
+   "metacritic": "metal-dungeon",
    "mobygames": "31853"
   },
   "label_en": "Metal Dungeon",
@@ -239,6 +247,7 @@
   "enwiki": "Stretchmo",
   "ids": {
    "igdb": "stretchmo",
+   "metacritic": "stretchmo",
    "mobygames": "86526"
   },
   "label_en": "Stretchmo",
@@ -250,6 +259,7 @@
    "gog": "game/dead_synchronicity_tomorrow_comes_today",
    "howlongtobeat": "25565",
    "igdb": "dead-synchronicity-tomorrow-comes-today",
+   "metacritic": "dead-synchronicity-tomorrow-comes-today",
    "mobygames": "72111",
    "pcgamingwiki": "Dead_Synchronicity:_The_Longest_Night",
    "steam": "339190"
@@ -281,6 +291,7 @@
   "ids": {
    "howlongtobeat": "17894",
    "igdb": "the-secret-of-hildegards",
+   "metacritic": "the-secret-of-hildegards",
    "mobygames": "135311",
    "pcgamingwiki": "The_Secret_of_Hildegards",
    "steam": "283470"
@@ -316,6 +327,7 @@
   "enwiki": "After Dark Games",
   "ids": {
    "igdb": "after-dark-games",
+   "metacritic": "after-dark-games",
    "mobygames": "4821"
   },
   "label_en": "After Dark Games",
@@ -326,6 +338,7 @@
   "ids": {
    "howlongtobeat": "98260",
    "igdb": "fifa-22",
+   "metacritic": "fifa-22",
    "mobygames": "172806",
    "pcgamingwiki": "FIFA_22",
    "steam": "1506830"
@@ -338,6 +351,7 @@
   "ids": {
    "howlongtobeat": "94703",
    "igdb": "samurai-warriors-5",
+   "metacritic": "samurai-warriors-5",
    "mobygames": "168229",
    "pcgamingwiki": "Samurai_Warriors_5",
    "steam": "1591530"
@@ -380,6 +394,7 @@
   "ids": {
    "howlongtobeat": "109435",
    "igdb": "crisis-core-final-fantasy-vii-reunion",
+   "metacritic": "crisis-core-final-fantasy-vii-reunion",
    "mobygames": "196381",
    "pcgamingwiki": "Crisis_Core:_Final_Fantasy_VII_Reunion",
    "steam": "1608070"
@@ -428,6 +443,7 @@
   "ids": {
    "howlongtobeat": "87148",
    "igdb": "tank-battle",
+   "metacritic": "gratuitous-tank-battles",
    "pcgamingwiki": "Tank_battle",
    "steam": "1054630"
   },

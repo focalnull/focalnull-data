@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "4810",
    "igdb": "james-cameron-s-avatar-the-game",
+   "metacritic": "james-camerons-avatar-the-game",
    "mobygames": "43903",
    "pcgamingwiki": "James_Cameron's_Avatar:_The_Game",
    "steam": "33280"
@@ -54,6 +55,7 @@
   "ids": {
    "howlongtobeat": "5397",
    "igdb": "lost-planet-extreme-condition",
+   "metacritic": "lost-planet-extreme-condition",
    "mobygames": "25955",
    "pcgamingwiki": "Lost_Planet:_Extreme_Condition",
    "steam": "6510"
@@ -149,6 +151,7 @@
   "ids": {
    "howlongtobeat": "7057",
    "igdb": "pineapple-smash-crew",
+   "metacritic": "pineapple-smash-crew",
    "mobygames": "102092",
    "pcgamingwiki": "Pineapple_Smash_Crew",
    "steam": "204390"
@@ -194,6 +197,7 @@
   "enwiki": "The Sly Collection",
   "ids": {
    "howlongtobeat": "10206",
+   "metacritic": "the-sly-collection",
    "mobygames": "49141"
   },
   "label_en": "The Sly Trilogy",
@@ -211,6 +215,7 @@
   "ids": {
    "howlongtobeat": "32070",
    "igdb": "citadels",
+   "metacritic": "citadels",
    "mobygames": "61391",
    "pcgamingwiki": "Citadels",
    "steam": "238870"
@@ -232,6 +237,7 @@
    "gog": "game/olliolli2_welcome_to_olliwood",
    "howlongtobeat": "24459",
    "igdb": "olliolli2-welcome-to-olliwood",
+   "metacritic": "olliolli2-welcome-to-olliwood",
    "mobygames": "86731",
    "pcgamingwiki": "OlliOlli2:_Welcome_to_Olliwood",
    "steam": "365660"
@@ -257,6 +263,7 @@
    "gog": "game/slain",
    "howlongtobeat": "25005",
    "igdb": "slain-back-from-hell",
+   "metacritic": "slain-back-from-hell",
    "mobygames": "84380",
    "pcgamingwiki": "Slain:_Back_from_Hell",
    "steam": "369070"
@@ -269,6 +276,7 @@
    "gog": "game/fossil_echo",
    "howlongtobeat": "38441",
    "igdb": "fossil-echo",
+   "metacritic": "fossil-echo",
    "mobygames": "93511",
    "pcgamingwiki": "Fossil_Echo",
    "steam": "466350"
@@ -313,6 +321,7 @@
  {
   "ids": {
    "igdb": "ultimate-coaster-x",
+   "metacritic": "ultimate-coaster-x",
    "pcgamingwiki": "Ultimate_Coaster_X",
    "steam": "734330"
   },
@@ -323,6 +332,7 @@
   "ids": {
    "igdb": "living-books-arthurs-birthday",
    "mobygames": "63198",
+   "pcgamingwiki": "Arthur's_Birthday",
    "steam": "2471140"
   },
   "label_en": "Living Books Presents: Arthur's Birthday",
@@ -343,6 +353,7 @@
    "gog": "game/it_lurks_below",
    "howlongtobeat": "56403",
    "igdb": "it-lurks-below",
+   "metacritic": "it-lurks-below",
    "mobygames": "108228",
    "pcgamingwiki": "It_Lurks_Below",
    "steam": "697550"
@@ -360,6 +371,7 @@
    "gog": "game/dont_escape_4_days_to_survive",
    "howlongtobeat": "66175",
    "igdb": "dont-escape-4-days-to-survive",
+   "metacritic": "dont-escape-4-days-to-survive",
    "mobygames": "124521",
    "pcgamingwiki": "Don't_Escape:_4_Days_in_a_Wasteland",
    "steam": "611760"
@@ -514,6 +526,7 @@
    "howlongtobeat": "135371",
    "igdb": "marauder-of-dystopia-the-weakest-go-to-the-wall",
    "mobygames": "207720",
+   "pcgamingwiki": "Marauder_of_Dystopia:_The_weakest_go_to_the_wall",
    "steam": "2386350"
   },
   "label_en": "Marauder of Dystopia: The weakest go to the wall",
@@ -852,6 +865,7 @@
   "ids": {
    "howlongtobeat": "141569",
    "igdb": "crown-wars-the-black-prince",
+   "metacritic": "crown-wars-the-black-prince",
    "mobygames": "224568",
    "steam": "1658920"
   },

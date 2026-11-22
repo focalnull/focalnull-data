@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9371",
    "igdb": "super-mario-bros",
+   "metacritic": "super-mario-bros",
    "mobygames": "7298"
   },
   "label_en": "Super Mario Bros.",
@@ -76,6 +77,7 @@
   "ids": {
    "howlongtobeat": "9805",
    "igdb": "the-chronicles-of-narnia-prince-caspian",
+   "metacritic": "the-chronicles-of-narnia-prince-caspian",
    "mobygames": "36158",
    "pcgamingwiki": "The_Chronicles_of_Narnia:_Prince_Caspian",
    "steam": "320890"
@@ -97,6 +99,7 @@
   "ids": {
    "howlongtobeat": "4901",
    "igdb": "jurassic-park-the-game",
+   "metacritic": "jurassic-park-the-game",
    "mobygames": "53879",
    "pcgamingwiki": "Jurassic_Park:_The_Game",
    "steam": "201830"
@@ -108,6 +111,7 @@
   "enwiki": "Totaled!",
   "ids": {
    "igdb": "totaled",
+   "metacritic": "totaled",
    "mobygames": "29970"
   },
   "label_en": "Totaled!",
@@ -117,6 +121,7 @@
   "enwiki": "The Lost Files of Sherlock Holmes: The Case of the Rose Tattoo",
   "ids": {
    "igdb": "the-lost-files-of-sherlock-holmes-the-case-of-the-rose-tattoo",
+   "metacritic": "the-lost-files-of-sherlock-holmes-case-of-the-rose-tattoo",
    "mobygames": "4407",
    "pcgamingwiki": "The_Lost_Files_of_Sherlock_Holmes:_Case_of_the_Rose_Tattoo"
   },
@@ -135,6 +140,7 @@
   "ids": {
    "howlongtobeat": "15478",
    "igdb": "sniper-art-of-victory",
+   "metacritic": "sniper-art-of-victory",
    "mobygames": "52015",
    "pcgamingwiki": "Sniper:_Art_of_Victory",
    "steam": "271500"
@@ -156,6 +162,7 @@
   "enwiki": "Touch Detective",
   "ids": {
    "igdb": "touch-detective",
+   "metacritic": "touch-detective",
    "mobygames": "24821"
   },
   "label_en": "Touch Detective",
@@ -210,6 +217,7 @@
   "ids": {
    "howlongtobeat": "16815",
    "igdb": "world-series-baseball-2k1",
+   "metacritic": "world-series-baseball-2k1",
    "mobygames": "30669"
   },
   "label_en": "World Series Baseball 2K1",
@@ -227,6 +235,7 @@
  {
   "ids": {
    "igdb": "disneys-american-dragon-jake-long-rise-of-the-huntsclan",
+   "metacritic": "disneys-american-dragon-jake-long-rise-of-the-huntsclan",
    "mobygames": "24571"
   },
   "label_en": "Disney's American Dragon: Jake Long - Rise of the Huntsclan!",
@@ -245,6 +254,7 @@
   "ids": {
    "howlongtobeat": "43344",
    "igdb": "yu-gi-oh-duel-links",
+   "metacritic": "yu-gi-oh-duel-links",
    "mobygames": "83441",
    "pcgamingwiki": "Yu-Gi-Oh!_Duel_Links",
    "steam": "601510"
@@ -271,6 +281,9 @@
   "wikidata": "Q60755168"
  },
  {
+  "ids": {
+   "metacritic": "inkou-karen-doukoukai"
+  },
   "label_en": "Inkou Karen Doukoukai",
   "wikidata": "Q60990168"
  },
@@ -787,7 +800,8 @@
  {
   "ids": {
    "howlongtobeat": "29006",
-   "igdb": "canvaleon"
+   "igdb": "canvaleon",
+   "metacritic": "canvaleon"
   },
   "label_en": "Canvaleon",
   "wikidata": "Q125703168"

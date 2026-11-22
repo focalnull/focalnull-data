@@ -17,6 +17,7 @@
   "ids": {
    "howlongtobeat": "7243",
    "igdb": "postal-iii",
+   "metacritic": "postal-iii",
    "mobygames": "54281",
    "pcgamingwiki": "Postal_III",
    "steam": "10220"
@@ -30,6 +31,7 @@
    "gog": "game/post_mortem",
    "howlongtobeat": "7238",
    "igdb": "post-mortem",
+   "metacritic": "post-mortem",
    "mobygames": "7823",
    "pcgamingwiki": "Post_Mortem",
    "steam": "46550"
@@ -61,6 +63,7 @@
   "ids": {
    "howlongtobeat": "1875",
    "igdb": "company-of-heroes-2",
+   "metacritic": "company-of-heroes-2",
    "mobygames": "61341",
    "pcgamingwiki": "Company_of_Heroes_2",
    "steam": "231430"
@@ -126,6 +129,7 @@
   "enwiki": "Finny the Fish & the Seven Waters",
   "ids": {
    "igdb": "finny-the-fish-and-the-seven-waters",
+   "metacritic": "finny-the-fish-the-seven-waters",
    "mobygames": "65675"
   },
   "label_en": "Finny the Fish & the Seven Waters",
@@ -147,6 +151,7 @@
   "ids": {
    "howlongtobeat": "4721",
    "igdb": "intrusion-2",
+   "metacritic": "intrusion-2",
    "mobygames": "57866",
    "pcgamingwiki": "Intrusion_2",
    "steam": "214970"
@@ -166,6 +171,7 @@
   "ids": {
    "howlongtobeat": "21503",
    "igdb": "minimum",
+   "metacritic": "minimum",
    "mobygames": "131766",
    "pcgamingwiki": "Minimum",
    "steam": "214190"
@@ -184,6 +190,7 @@
  {
   "ids": {
    "igdb": "king-tongue",
+   "metacritic": "king-tongue",
    "mobygames": "148941"
   },
   "label_en": "King Tongue",
@@ -191,6 +198,7 @@
  },
  {
   "ids": {
+   "metacritic": "g-i-combat",
    "mobygames": "18806"
   },
   "label_en": "G.I. Combat",
@@ -226,6 +234,7 @@
   "ids": {
    "howlongtobeat": "25406",
    "igdb": "ihf-handball-challenge-14",
+   "metacritic": "handball-challenge-14",
    "mobygames": "64693",
    "pcgamingwiki": "IHF_Handball_Challenge_14",
    "steam": "279460"
@@ -250,6 +259,7 @@
    "gog": "game/bad_dream_fever",
    "howlongtobeat": "62243",
    "igdb": "bad-dream-fever",
+   "metacritic": "bad-dream-fever",
    "mobygames": "118494",
    "pcgamingwiki": "Bad_Dream:_Fever",
    "steam": "769970"
@@ -258,6 +268,9 @@
   "wikidata": "Q97362469"
  },
  {
+  "ids": {
+   "metacritic": "winters-wish-spirits-of-edo"
+  },
   "label_en": "Winter's Wish: Spirits of Edo",
   "wikidata": "Q104522469"
  },
@@ -273,6 +286,7 @@
   "ids": {
    "howlongtobeat": "68385",
    "igdb": "citizens-of-space",
+   "metacritic": "citizens-of-space",
    "mobygames": "128492",
    "pcgamingwiki": "Citizens_of_Space",
    "steam": "1016760"
@@ -318,6 +332,7 @@
   "ids": {
    "howlongtobeat": "107072",
    "igdb": "cyphers-game",
+   "pcgamingwiki": "Cyphers_Game",
    "steam": "1945760"
   },
   "label_en": "Cyphers Game",
@@ -625,6 +640,7 @@
    "gog": "game/indika",
    "howlongtobeat": "139446",
    "igdb": "indika",
+   "metacritic": "indika",
    "mobygames": "223223",
    "pcgamingwiki": "Indika",
    "steam": "1373960"
@@ -727,6 +743,7 @@
   "ids": {
    "howlongtobeat": "132112",
    "igdb": "balatro",
+   "metacritic": "balatro",
    "mobygames": "217980",
    "pcgamingwiki": "Balatro",
    "steam": "2379780"
@@ -752,11 +769,17 @@
   "wikidata": "Q124655469"
  },
  {
+  "ids": {
+   "metacritic": "hurkle-hunt"
+  },
   "label_en": "Hurkle Hunt",
   "wikidata": "Q125799469"
  },
  {
   "enwiki": "Faunasphere",
+  "ids": {
+   "metacritic": "faunasphere"
+  },
   "label_en": "Faunasphere",
   "wikidata": "Q125864469"
  },
@@ -1141,6 +1164,7 @@
   "ids": {
    "igdb": "hentai-match-fantasy-stories",
    "mobygames": "138819",
+   "pcgamingwiki": "Hentai_Match_Fantasy_Stories",
    "steam": "1196750"
   },
   "label_en": "Hentai Match Fantasy Stories",

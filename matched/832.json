@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "892",
    "igdb": "battalion-wars-2",
+   "metacritic": "battalion-wars-2",
    "mobygames": "31216"
   },
   "label_en": "Battalion Wars 2",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "11090",
    "igdb": "warriors-orochi",
+   "metacritic": "warriors-orochi",
    "mobygames": "32079",
    "pcgamingwiki": "Warriors_Orochi"
   },
@@ -34,6 +36,7 @@
   "ids": {
    "howlongtobeat": "8822",
    "igdb": "soulcalibur-ii",
+   "metacritic": "soulcalibur-ii",
    "mobygames": "10183"
   },
   "label_en": "Soulcalibur II",
@@ -44,6 +47,7 @@
   "ids": {
    "howlongtobeat": "1572",
    "igdb": "castlevania-ii-simon-s-quest",
+   "metacritic": "castlevania-ii-simons-quest",
    "mobygames": "10125"
   },
   "label_en": "Castlevania II: Simon's Quest",
@@ -62,6 +66,7 @@
   "enwiki": "Guitar Hero Smash Hits",
   "ids": {
    "igdb": "guitar-hero-smash-hits",
+   "metacritic": "guitar-hero-smash-hits",
    "mobygames": "43103"
   },
   "label_en": "Guitar Hero Smash Hits",
@@ -85,6 +90,7 @@
   "ids": {
    "gog": "game/forgotten_realms_demon_stone",
    "igdb": "forgotten-realms-demon-stone",
+   "metacritic": "forgotten-realms-demon-stone",
    "mobygames": "16193",
    "pcgamingwiki": "Forgotten_Realms:_Demon_Stone",
    "steam": "3843530"
@@ -149,6 +155,7 @@
   "ids": {
    "howlongtobeat": "5760",
    "igdb": "mechassault-2-lone-wolf",
+   "metacritic": "mechassault-2-lone-wolf",
    "mobygames": "16430"
   },
   "label_en": "MechAssault 2: Lone Wolf",
@@ -213,6 +220,7 @@
   "enwiki": "EverQuest Online Adventures",
   "ids": {
    "igdb": "everquest-online-adventures",
+   "metacritic": "everquest-online-adventures",
    "mobygames": "9418"
   },
   "label_en": "EverQuest Online Adventures",
@@ -299,6 +307,7 @@
   "ids": {
    "howlongtobeat": "101500",
    "igdb": "bakumatsu-renka-shinsengumi",
+   "metacritic": "bakumatsu-renka-shinsengumi",
    "mobygames": "165985",
    "steam": "1451160"
   },
@@ -309,6 +318,7 @@
   "enwiki": "SpongeBob SquarePants: Plankton's Robotic Revenge",
   "ids": {
    "igdb": "spongebob-squarepants-planktons-robotic-revenge",
+   "metacritic": "spongebob-squarepants-planktons-robotic-revenge",
    "mobygames": "74054"
   },
   "label_en": "SpongeBob SquarePants: Plankton's Robotic Revenge",
@@ -320,6 +330,7 @@
    "gog": "game/risk_of_rain",
    "howlongtobeat": "14499",
    "igdb": "risk-of-rain",
+   "metacritic": "risk-of-rain",
    "mobygames": "69362",
    "pcgamingwiki": "Risk_of_Rain",
    "steam": "248820"
@@ -333,6 +344,7 @@
    "gog": "game/99_levels_to_hell",
    "howlongtobeat": "110",
    "igdb": "99-levels-to-hell",
+   "metacritic": "99-levels-to-hell",
    "mobygames": "61684",
    "pcgamingwiki": "99_Levels_to_Hell",
    "steam": "264280"
@@ -346,6 +358,7 @@
    "gog": "game/crawl",
    "howlongtobeat": "21168",
    "igdb": "crawl",
+   "metacritic": "crawl",
    "mobygames": "86742",
    "pcgamingwiki": "Crawl",
    "steam": "293780"
@@ -368,6 +381,7 @@
    "gog": "game/total_war_three_kingdoms",
    "howlongtobeat": "53677",
    "igdb": "total-war-three-kingdoms",
+   "metacritic": "total-war-three-kingdoms",
    "mobygames": "127464",
    "pcgamingwiki": "Total_War:_Three_Kingdoms",
    "steam": "779340"
@@ -400,6 +414,7 @@
    "gog": "game/terminator_resistance",
    "howlongtobeat": "71948",
    "igdb": "terminator-resistance",
+   "metacritic": "terminator-resistance",
    "mobygames": "137270",
    "pcgamingwiki": "Terminator:_Resistance",
    "steam": "954740"
@@ -424,6 +439,7 @@
    "gog": "game/virtual_rides_3_funfair_simulator",
    "howlongtobeat": "139774",
    "igdb": "virtual-rides-3",
+   "metacritic": "virtual-rides-3",
    "mobygames": "85735",
    "pcgamingwiki": "Virtual_Rides_3",
    "steam": "515260"
@@ -445,6 +461,7 @@
    "gog": "game/fallen_enchantress_legendary_heroes",
    "howlongtobeat": "12679",
    "igdb": "fallen-enchantress-legendary-heroes",
+   "metacritic": "fallen-enchantress-legendary-heroes",
    "mobygames": "91515",
    "pcgamingwiki": "Fallen_Enchantress:_Legendary_Heroes",
    "steam": "228260"
@@ -563,6 +580,7 @@
   "ids": {
    "howlongtobeat": "68688",
    "igdb": "zach-like",
+   "metacritic": "zach-like",
    "mobygames": "128533",
    "pcgamingwiki": "Zach-Like",
    "steam": "1098840"
@@ -651,7 +669,9 @@
   "ids": {
    "howlongtobeat": "128546",
    "igdb": "a-fishermans-tale-2",
+   "metacritic": "another-fishermans-tale",
    "mobygames": "206034",
+   "pcgamingwiki": "A_Fisherman's_Tale_2",
    "steam": "2096570"
   },
   "label_en": "Another Fisherman's Tale",
@@ -877,6 +897,7 @@
   "ids": {
    "howlongtobeat": "26683",
    "igdb": "bunker-the-underground-game",
+   "metacritic": "bunker-the-underground-game",
    "mobygames": "135282",
    "pcgamingwiki": "Bunker_-_The_Underground_Game",
    "steam": "354180"

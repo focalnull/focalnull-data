@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1834",
    "igdb": "command-conquer-4-tiberian-twilight",
+   "metacritic": "command-conquer-4-tiberian-twilight",
    "mobygames": "45630",
    "pcgamingwiki": "Command_&_Conquer_4:_Tiberian_Twilight",
    "steam": "47700"
@@ -36,6 +37,7 @@
    "gog": "game/lucius",
    "howlongtobeat": "5416",
    "igdb": "lucius",
+   "metacritic": "lucius",
    "mobygames": "59283",
    "pcgamingwiki": "Lucius",
    "steam": "218640"
@@ -60,6 +62,7 @@
   "enwiki": "Mystical Ninja Starring Goemon",
   "ids": {
    "igdb": "mystical-ninja-starring-goemon",
+   "metacritic": "mystical-ninja-starring-goemon",
    "mobygames": "21284"
   },
   "label_en": "Mystical Ninja Starring Goemon",
@@ -70,6 +73,7 @@
   "ids": {
    "howlongtobeat": "5681",
    "igdb": "marvel-nemesis-rise-of-the-imperfects",
+   "metacritic": "marvel-nemesis-rise-of-the-imperfects",
    "mobygames": "19493"
   },
   "label_en": "Marvel Nemesis: Rise of the Imperfects",
@@ -112,6 +116,7 @@
  {
   "enwiki": "Legion (video game)",
   "ids": {
+   "metacritic": "legion",
    "mobygames": "14995"
   },
   "label_en": "Legion",
@@ -122,6 +127,7 @@
   "ids": {
    "howlongtobeat": "6917",
    "igdb": "papo-yo",
+   "metacritic": "papo-yo",
    "mobygames": "62700",
    "pcgamingwiki": "Papo_&_Yo",
    "steam": "227080"
@@ -200,6 +206,7 @@
   "ids": {
    "howlongtobeat": "48101",
    "igdb": "polybius",
+   "metacritic": "polybius",
    "mobygames": "88393",
    "pcgamingwiki": "POLYBIUS",
    "steam": "906120"
@@ -233,6 +240,7 @@
   "ids": {
    "howlongtobeat": "65549",
    "igdb": "octopath-traveler-champions-of-the-continent",
+   "metacritic": "octopath-traveler-champions-of-the-continent",
    "mobygames": "190956"
   },
   "label_en": "Octopath Traveler: Champions of the Continent",
@@ -269,6 +277,7 @@
  {
   "ids": {
    "igdb": "breakdown--2",
+   "metacritic": "breakdown-quickbobber",
    "mobygames": "189410",
    "steam": "1807920"
   },
@@ -301,6 +310,7 @@
    "gog": "game/cursed_to_golf",
    "howlongtobeat": "93251",
    "igdb": "cursed-to-golf",
+   "metacritic": "cursed-to-golf",
    "mobygames": "189790",
    "pcgamingwiki": "Cursed_to_Golf",
    "steam": "1726120"
@@ -418,6 +428,7 @@
   "ids": {
    "igdb": "telestians",
    "mobygames": "224433",
+   "pcgamingwiki": "Telestians",
    "steam": "1869510"
   },
   "label_en": "Telestians",
@@ -638,6 +649,7 @@
   "ids": {
    "howlongtobeat": "7274",
    "igdb": "pressure",
+   "metacritic": "pressure",
    "mobygames": "67126",
    "pcgamingwiki": "Pressure",
    "steam": "224220"
@@ -812,6 +824,7 @@
   "ids": {
    "howlongtobeat": "124385",
    "igdb": "voices-of-the-void--1",
+   "metacritic": "voices-of-the-void",
    "pcgamingwiki": "Voices_of_the_void"
   },
   "label_en": "Voices of the Void",
@@ -836,6 +849,7 @@
    "gog": "game/echoes_of_the_end_enhanced_edition",
    "howlongtobeat": "111173",
    "igdb": "echoes-of-the-end",
+   "metacritic": "echoes-of-the-end",
    "pcgamingwiki": "Echoes_of_the_End",
    "steam": "2821610"
   },
@@ -1146,6 +1160,7 @@
  {
   "ids": {
    "igdb": "twinkles-galactic-tour",
+   "pcgamingwiki": "Twinkle’s_Galactic_Tour",
    "steam": "3938440"
   },
   "label_en": "Twinkle's Galactic Tour",

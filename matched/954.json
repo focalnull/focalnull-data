@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4985",
    "igdb": "killzone-2",
+   "metacritic": "killzone-2",
    "mobygames": "40888"
   },
   "label_en": "Killzone 2",
@@ -13,6 +14,7 @@
   "enwiki": "Raw Danger!",
   "ids": {
    "igdb": "raw-danger",
+   "metacritic": "raw-danger",
    "mobygames": "31819"
   },
   "label_en": "Raw Danger!",
@@ -85,6 +87,7 @@
   "ids": {
    "howlongtobeat": "23074",
    "igdb": "asphalt-4-elite-racing",
+   "metacritic": "asphalt-4-elite-racing",
    "mobygames": "41336"
   },
   "label_en": "Asphalt 4: Elite Racing",
@@ -122,6 +125,7 @@
   "ids": {
    "igdb": "mystic-midway-rest-in-pieces",
    "mobygames": "20376",
+   "pcgamingwiki": "Mystic_Midway:_Rest_in_Pieces",
    "steam": "1382890"
   },
   "label_en": "Mystic Midway: Rest in Pieces",
@@ -141,6 +145,7 @@
   "ids": {
    "howlongtobeat": "6373",
    "igdb": "nano-breaker",
+   "metacritic": "nanobreaker",
    "mobygames": "35016"
   },
   "label_en": "Nano Breaker",
@@ -155,6 +160,7 @@
   "ids": {
    "howlongtobeat": "13723",
    "igdb": "marlow-briggs-and-the-mask-of-death",
+   "metacritic": "marlow-briggs-and-the-mask-of-death",
    "mobygames": "65077",
    "pcgamingwiki": "Marlow_Briggs_and_the_Mask_of_Death",
    "steam": "249680"
@@ -175,6 +181,7 @@
   "ids": {
    "howlongtobeat": "19873",
    "igdb": "battleborn",
+   "metacritic": "battleborn",
    "mobygames": "80719",
    "pcgamingwiki": "Battleborn",
    "steam": "394230"
@@ -190,6 +197,7 @@
   "enwiki": "BoxBoxBoy!",
   "ids": {
    "igdb": "boxboxboy",
+   "metacritic": "boxboxboy",
    "mobygames": "86337"
   },
   "label_en": "BoxBoxBoy!",
@@ -208,6 +216,7 @@
    "gog": "game/forgotton_anne",
    "howlongtobeat": "45170",
    "igdb": "forgotton-anne",
+   "metacritic": "forgotton-anne",
    "mobygames": "106008",
    "pcgamingwiki": "Forgotton_Anne",
    "steam": "542050"
@@ -226,7 +235,8 @@
  },
  {
   "ids": {
-   "igdb": "bombarika"
+   "igdb": "bombarika",
+   "metacritic": "bombarika"
   },
   "label_en": "BOMBARIKA",
   "wikidata": "Q62022954"
@@ -287,6 +297,7 @@
    "epic": "blood-of-steel-5326f7",
    "howlongtobeat": "85021",
    "igdb": "blood-of-steel",
+   "metacritic": "blood-of-steel",
    "mobygames": "171691",
    "pcgamingwiki": "Blood_of_Steel",
    "steam": "567630"
@@ -358,6 +369,7 @@
   "ids": {
    "howlongtobeat": "117180",
    "igdb": "saomi",
+   "metacritic": "saomi",
    "mobygames": "185808",
    "steam": "1885670"
   },
@@ -553,6 +565,7 @@
    "gog": "game/everdream_valley",
    "howlongtobeat": "127927",
    "igdb": "everdream-valley",
+   "metacritic": "everdream-valley",
    "mobygames": "203668",
    "pcgamingwiki": "Everdream_Valley",
    "steam": "1403650"
@@ -614,6 +627,7 @@
   "ids": {
    "howlongtobeat": "106873",
    "igdb": "milf-city",
+   "metacritic": "milf-city",
    "mobygames": "209197",
    "steam": "1706820"
   },
@@ -722,6 +736,7 @@
   "ids": {
    "howlongtobeat": "141835",
    "igdb": "no-rest-for-the-wicked--1",
+   "metacritic": "no-rest-for-the-wicked",
    "mobygames": "222205",
    "pcgamingwiki": "No_Rest_for_the_Wicked",
    "steam": "1371980"
@@ -796,6 +811,7 @@
   "ids": {
    "howlongtobeat": "45446",
    "igdb": "under-leaves",
+   "metacritic": "under-leaves",
    "mobygames": "141306",
    "pcgamingwiki": "Under_Leaves",
    "steam": "567030"
@@ -1177,6 +1193,7 @@
   "ids": {
    "howlongtobeat": "176030",
    "igdb": "fever-meme",
+   "metacritic": "fever-meme",
    "steam": "3110070"
   },
   "label_en": "Fever Meme",

@@ -3,6 +3,7 @@
   "enwiki": "Dreamkiller (video game)",
   "ids": {
    "igdb": "dreamkiller",
+   "metacritic": "dreamkiller",
    "mobygames": "42946",
    "pcgamingwiki": "Dreamkiller",
    "steam": "24500"
@@ -24,6 +25,7 @@
   "enwiki": "International Track & Field 2000",
   "ids": {
    "igdb": "international-track-field-2000",
+   "metacritic": "espn-international-track-field",
    "mobygames": "8800"
   },
   "label_en": "International Track & Field 2000",
@@ -34,6 +36,7 @@
   "ids": {
    "howlongtobeat": "5788",
    "igdb": "medal-of-honor-rising-sun",
+   "metacritic": "medal-of-honor-rising-sun",
    "mobygames": "11377"
   },
   "label_en": "Medal of Honor: Rising Sun",
@@ -56,6 +59,7 @@
   "enwiki": "Jackass: The Game",
   "ids": {
    "igdb": "jackass-the-game",
+   "metacritic": "jackass-the-game",
    "mobygames": "31272"
   },
   "label_en": "Jackass: The Game",
@@ -75,6 +79,7 @@
   "ids": {
    "howlongtobeat": "1574",
    "igdb": "castlevania-judgment",
+   "metacritic": "castlevania-judgment",
    "mobygames": "37932"
   },
   "label_en": "Castlevania Judgment",
@@ -88,6 +93,7 @@
   "enwiki": "Bomberman Online",
   "ids": {
    "igdb": "bomberman-online",
+   "metacritic": "bomberman-online",
    "mobygames": "6636"
   },
   "label_en": "Bomberman Online",
@@ -98,6 +104,7 @@
   "ids": {
    "howlongtobeat": "1679",
    "igdb": "chime",
+   "metacritic": "chime",
    "mobygames": "45095",
    "pcgamingwiki": "Chime",
    "steam": "62100"
@@ -130,6 +137,7 @@
   "enwiki": "Tecmo Classic Arcade",
   "ids": {
    "igdb": "tecmo-classic-arcade",
+   "metacritic": "tecmo-classic-arcade",
    "mobygames": "19308"
   },
   "label_en": "Tecmo Classic Arcade",
@@ -147,6 +155,7 @@
   "ids": {
    "howlongtobeat": "11451",
    "igdb": "you-dont-know-jack-vol-2",
+   "metacritic": "you-dont-know-jack-volume-2",
    "mobygames": "1333",
    "pcgamingwiki": "You_Don't_Know_Jack:_Volume_2",
    "steam": "259940"
@@ -167,6 +176,7 @@
   "enwiki": "Kidz Sports International Soccer",
   "ids": {
    "igdb": "kidz-sports-international-football",
+   "metacritic": "kidz-sports-international-soccer",
    "mobygames": "91490"
   },
   "label_en": "Kidz Sports International Soccer",
@@ -178,6 +188,7 @@
    "epic": "dead-island-2",
    "howlongtobeat": "21273",
    "igdb": "dead-island-2",
+   "metacritic": "dead-island-2",
    "mobygames": "202074",
    "pcgamingwiki": "Dead_Island_2",
    "steam": "934700"
@@ -200,6 +211,7 @@
    "gog": "game/overcooked_gourmet_edition",
    "howlongtobeat": "39030",
    "igdb": "overcooked",
+   "metacritic": "overcooked",
    "mobygames": "83985",
    "pcgamingwiki": "Overcooked",
    "steam": "448510"
@@ -221,6 +233,7 @@
    "gog": "game/necrobarista",
    "howlongtobeat": "62984",
    "igdb": "necrobarista",
+   "metacritic": "necrobarista",
    "mobygames": "148295",
    "pcgamingwiki": "Necrobarista",
    "steam": "725270"
@@ -266,6 +279,7 @@
   "ids": {
    "howlongtobeat": "67558",
    "igdb": "bannermen",
+   "metacritic": "bannermen",
    "mobygames": "122714",
    "pcgamingwiki": "Bannermen",
    "steam": "699740"
@@ -277,6 +291,7 @@
   "enwiki": "Super Mario Bros. 35",
   "ids": {
    "igdb": "super-mario-bros-35",
+   "metacritic": "super-mario-bros-35",
    "mobygames": "150229"
   },
   "label_en": "Super Mario Bros. 35",
@@ -308,6 +323,7 @@
    "gog": "game/oceans_heart",
    "howlongtobeat": "83493",
    "igdb": "oceans-heart",
+   "metacritic": "oceans-heart",
    "mobygames": "157789",
    "pcgamingwiki": "Ocean's_Heart",
    "steam": "1393750"
@@ -364,7 +380,8 @@
   "enwiki": "Ace Angler: Fishing Spirits",
   "ids": {
    "howlongtobeat": "114132",
-   "igdb": "ace-angler-fishing-spirits"
+   "igdb": "ace-angler-fishing-spirits",
+   "metacritic": "ace-angler-fishing-spirits"
   },
   "label_en": "Ace Angler: Fishing Spirits",
   "wikidata": "Q113560727"
@@ -692,6 +709,7 @@
   "ids": {
    "howlongtobeat": "39480",
    "igdb": "fibbage-xl",
+   "metacritic": "fibbage-xl",
    "mobygames": "93172",
    "pcgamingwiki": "Fibbage_XL",
    "steam": "448080"

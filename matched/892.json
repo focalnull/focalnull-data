@@ -15,6 +15,7 @@
    "gog": "game/prince_of_persia_the_two_thrones",
    "howlongtobeat": "7298",
    "igdb": "prince-of-persia-the-two-thrones",
+   "metacritic": "prince-of-persia-the-two-thrones",
    "mobygames": "20384",
    "pcgamingwiki": "Prince_of_Persia:_The_Two_Thrones",
    "steam": "13530"
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "47671",
    "igdb": "the-matrix-online",
+   "metacritic": "the-matrix-online",
    "mobygames": "17101",
    "pcgamingwiki": "The_Matrix_Online"
   },
@@ -70,6 +72,7 @@
   "ids": {
    "howlongtobeat": "597",
    "igdb": "armored-core-3-portable",
+   "metacritic": "armored-core-3",
    "mobygames": "9231"
   },
   "label_en": "Armored Core 3",
@@ -120,6 +123,7 @@
   "enwiki": "SpongeBob SquarePants: The Yellow Avenger",
   "ids": {
    "igdb": "spongebob-squarepants-the-yellow-avenger",
+   "metacritic": "spongebob-squarepants-the-yellow-avenger",
    "mobygames": "20475"
   },
   "label_en": "SpongeBob SquarePants: The Yellow Avenger",
@@ -137,6 +141,7 @@
   "ids": {
    "howlongtobeat": "21916",
    "igdb": "spore-creatures--1",
+   "metacritic": "spore-creatures",
    "mobygames": "36674"
   },
   "label_en": "Spore Creatures",
@@ -146,6 +151,7 @@
   "enwiki": "Spectrobes: Beyond the Portals",
   "ids": {
    "igdb": "spectrobes-beyond-the-portals",
+   "metacritic": "spectrobes-beyond-the-portals",
    "mobygames": "45159"
   },
   "label_en": "Spectrobes: Beyond the Portals",
@@ -174,6 +180,7 @@
   "ids": {
    "howlongtobeat": "4745",
    "igdb": "iron-warriors-t-72-tank-command",
+   "metacritic": "iron-warriors-t-72-tank-command",
    "mobygames": "20546",
    "pcgamingwiki": "Iron_Warriors:_T-72_Tank_Command",
    "steam": "1670"
@@ -227,6 +234,7 @@
    "gog": "game/tharsis",
    "howlongtobeat": "33590",
    "igdb": "tharsis",
+   "metacritic": "tharsis",
    "mobygames": "80244",
    "pcgamingwiki": "Tharsis",
    "steam": "323060"
@@ -328,6 +336,7 @@
  {
   "ids": {
    "igdb": "driftence",
+   "metacritic": "driftence",
    "mobygames": "189399",
    "steam": "1786570"
   },
@@ -353,6 +362,7 @@
    "gog": "game/tin_hearts",
    "howlongtobeat": "73035",
    "igdb": "tin-hearts",
+   "metacritic": "tin-hearts",
    "mobygames": "204830",
    "pcgamingwiki": "Tin_Hearts",
    "steam": "1831700"
@@ -382,6 +392,7 @@
    "epic": "harry-potter-quidditch-champions",
    "howlongtobeat": "127235",
    "igdb": "harry-potter-quidditch-champions",
+   "metacritic": "harry-potter-quidditch-champions",
    "mobygames": "229918",
    "pcgamingwiki": "Harry_Potter:_Quidditch_Champions",
    "steam": "2878600"
@@ -620,6 +631,7 @@
    "gog": "game/cryogear",
    "howlongtobeat": "77349",
    "igdb": "cryogear",
+   "metacritic": "cryogear",
    "mobygames": "132174",
    "steam": "600520"
   },
@@ -704,6 +716,7 @@
   "ids": {
    "howlongtobeat": "134812",
    "igdb": "dome-king-cabbage",
+   "metacritic": "dome-king-cabbage",
    "steam": "2092510"
   },
   "label_en": "Dome-King Cabbage",
@@ -837,6 +850,7 @@
   "ids": {
    "howlongtobeat": "145005",
    "igdb": "silent-hill-the-short-message",
+   "metacritic": "silent-hill-the-short-message",
    "mobygames": "216817"
   },
   "label_en": "Silent Hill: The Short Message",
@@ -1232,6 +1246,7 @@
   "ids": {
    "gog": "game/riddle_of_the_sphinx_the_awakening",
    "igdb": "riddle-of-the-sphinx-the-awakening-enhanced-edition",
+   "pcgamingwiki": "Riddle_of_the_Sphinx:_The_Awakening_(Enhanced_Edition)",
    "steam": "1521870"
   },
   "label_en": "Riddle of the Sphinx™ The Awakening (Enhanced Edition)",

@@ -24,6 +24,7 @@
    "gog": "game/sacred_2_gold",
    "howlongtobeat": "12412",
    "igdb": "sacred-2-fallen-angel",
+   "metacritic": "sacred-2-fallen-angel",
    "mobygames": "36551",
    "pcgamingwiki": "Sacred_2:_Fallen_Angel",
    "steam": "225640"
@@ -44,6 +45,7 @@
   "enwiki": "Dungeons & Dragons: Heroes",
   "ids": {
    "igdb": "dungeons-dragons-heroes",
+   "metacritic": "dungeons-and-dragons-heroes",
    "mobygames": "11852"
   },
   "label_en": "Dungeons & Dragons: Heroes",
@@ -66,6 +68,7 @@
   "ids": {
    "howlongtobeat": "5464",
    "igdb": "max-2-mechanized-assault-and-exploration",
+   "metacritic": "max-2",
    "mobygames": "6907",
    "pcgamingwiki": "M.A.X.:_Mechanized_Assault_and_Exploration_2",
    "steam": "756810"
@@ -77,6 +80,7 @@
   "ids": {
    "howlongtobeat": "6878",
    "igdb": "painkiller-recurring-evil",
+   "metacritic": "painkiller-recurring-evil",
    "mobygames": "55767",
    "pcgamingwiki": "Painkiller:_Recurring_Evil",
    "steam": "206760"
@@ -115,6 +119,7 @@
   "enwiki": "Terrawars: New York Invasion",
   "ids": {
    "igdb": "terrawars-ny-invasion",
+   "metacritic": "terrawars-new-york-invasion",
    "pcgamingwiki": "Terrawars:_New_York_Invasion"
   },
   "label_en": "Terrawars: New York Invasion",
@@ -151,6 +156,7 @@
  {
   "ids": {
    "igdb": "seduce-me",
+   "metacritic": "seduce-me",
    "mobygames": "78122"
   },
   "label_en": "Seduce Me",
@@ -178,6 +184,7 @@
    "gog": "game/little_misfortune",
    "howlongtobeat": "62978",
    "igdb": "little-misfortune",
+   "metacritic": "little-misfortune",
    "mobygames": "134885",
    "pcgamingwiki": "Little_Misfortune",
    "steam": "714120"
@@ -208,6 +215,7 @@
    "gog": "game/battlezone_combat_commander",
    "howlongtobeat": "54121",
    "igdb": "battlezone-combat-commander",
+   "metacritic": "battlezone-combat-commander",
    "mobygames": "104403",
    "pcgamingwiki": "Battlezone:_Combat_Commander",
    "steam": "624970"
@@ -220,6 +228,7 @@
    "epic": "submerged-hidden-depths-6065a1",
    "howlongtobeat": "85736",
    "igdb": "submerged-hidden-depths",
+   "metacritic": "submerged-hidden-depths",
    "mobygames": "155069",
    "pcgamingwiki": "Submerged:_Hidden_Depths",
    "steam": "1614270"
@@ -289,6 +298,7 @@
    "gog": "game/deadlink",
    "howlongtobeat": "115034",
    "igdb": "deadlink",
+   "metacritic": "deadlink",
    "mobygames": "193599",
    "pcgamingwiki": "Deadlink",
    "steam": "1676130"
@@ -300,6 +310,7 @@
   "ids": {
    "howlongtobeat": "113545",
    "igdb": "story-of-seasons-a-wonderful-life",
+   "metacritic": "story-of-seasons-a-wonderful-life",
    "mobygames": "204991",
    "pcgamingwiki": "Story_of_Seasons:_A_Wonderful_Life",
    "steam": "2111170"
@@ -681,6 +692,7 @@
    "gog": "game/skald_against_the_black_priory",
    "howlongtobeat": "95534",
    "igdb": "skald-against-the-black-priory",
+   "metacritic": "skald-against-the-black-priory",
    "mobygames": "224876",
    "pcgamingwiki": "Skald:_Against_the_Black_Priory",
    "steam": "1069160"
@@ -1017,6 +1029,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Rideshare_\"Stimulator\"",
    "steam": "2366590"
   },
   "label_en": "Rideshare \"Stimulator\"",

@@ -45,6 +45,7 @@
   "enwiki": "Dr. Mario Online Rx",
   "ids": {
    "igdb": "dr-mario-online-rx",
+   "metacritic": "dr-mario-online-rx",
    "mobygames": "34325"
   },
   "label_en": "Dr. Mario Online Rx",
@@ -84,6 +85,7 @@
   "enwiki": "Caller's Bane",
   "ids": {
    "igdb": "callers-bane",
+   "metacritic": "scrolls",
    "mobygames": "74940"
   },
   "label_en": "Caller's Bane",
@@ -93,6 +95,7 @@
   "enwiki": "The Witch and the Hundred Knight",
   "ids": {
    "igdb": "the-witch-and-the-hundred-knight",
+   "metacritic": "the-witch-and-the-hundred-knight",
    "mobygames": "65919"
   },
   "label_en": "The Witch and the Hundred Knight",
@@ -117,6 +120,7 @@
    "gog": "game/still_life_2",
    "howlongtobeat": "9212",
    "igdb": "still-life-2",
+   "metacritic": "still-life-2",
    "mobygames": "40802",
    "pcgamingwiki": "Still_Life_2",
    "steam": "46490"
@@ -137,6 +141,7 @@
   "ids": {
    "howlongtobeat": "18145",
    "igdb": "running-with-rifles",
+   "metacritic": "running-with-rifles",
    "mobygames": "73998",
    "pcgamingwiki": "Running_with_Rifles",
    "steam": "270150"
@@ -148,6 +153,7 @@
   "ids": {
    "howlongtobeat": "30174",
    "igdb": "lieat",
+   "metacritic": "lieat",
    "mobygames": "84708",
    "pcgamingwiki": "LiEat",
    "steam": "373770"
@@ -179,6 +185,7 @@
   "ids": {
    "howlongtobeat": "36538",
    "igdb": "rbi-baseball-16",
+   "metacritic": "rbi-baseball-16",
    "mobygames": "84001",
    "pcgamingwiki": "R.B.I._Baseball_16",
    "steam": "407690"
@@ -270,6 +277,7 @@
    "gog": "game/bioshock_remastered",
    "howlongtobeat": "1065",
    "igdb": "bioshock-remastered",
+   "metacritic": "bioshock-remastered",
    "mobygames": "80836",
    "pcgamingwiki": "BioShock_Remastered",
    "steam": "409710"
@@ -665,6 +673,7 @@
  {
   "ids": {
    "igdb": "greenguardiansvr",
+   "metacritic": "greenguardiansvr",
    "pcgamingwiki": "GreenGuardiansVR",
    "steam": "3061520"
   },

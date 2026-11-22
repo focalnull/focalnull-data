@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9402",
    "igdb": "super-monkey-ball-banana-blitz",
+   "metacritic": "super-monkey-ball-banana-blitz",
    "mobygames": "25117"
   },
   "label_en": "Super Monkey Ball: Banana Blitz",
@@ -67,6 +68,7 @@
   "enwiki": "Miami Law",
   "ids": {
    "igdb": "miami-law",
+   "metacritic": "miami-law",
    "mobygames": "55409"
   },
   "label_en": "Miami Law",
@@ -84,6 +86,7 @@
   "enwiki": "Rave Master (video game)",
   "ids": {
    "igdb": "rave-master",
+   "metacritic": "rave-master",
    "mobygames": "40788"
   },
   "label_en": "Rave Master",
@@ -161,6 +164,7 @@
   "ids": {
    "howlongtobeat": "116530",
    "igdb": "mystery-lover-nonexistent-summer",
+   "metacritic": "love-qitan",
    "mobygames": "211530",
    "pcgamingwiki": "Mystery_Lover_Nonexistent_Summer",
    "steam": "1345740"
@@ -173,6 +177,7 @@
    "gog": "game/serin_fate",
    "howlongtobeat": "77913",
    "igdb": "serin-fate",
+   "metacritic": "serin-fate",
    "mobygames": "146140",
    "pcgamingwiki": "Serin_Fate",
    "steam": "1070860"
@@ -185,6 +190,7 @@
   "ids": {
    "howlongtobeat": "94069",
    "igdb": "the-wandering-village",
+   "metacritic": "the-wandering-village",
    "mobygames": "191431",
    "pcgamingwiki": "The_Wandering_Village",
    "steam": "1121640"
@@ -205,6 +211,7 @@
   "ids": {
    "howlongtobeat": "87156",
    "igdb": "100-hidden-aliens",
+   "metacritic": "100-hidden-aliens",
    "mobygames": "156036",
    "steam": "1493300"
   },
@@ -271,6 +278,7 @@
    "howlongtobeat": "113286",
    "igdb": "counterside",
    "mobygames": "186923",
+   "pcgamingwiki": "CounterSide",
    "steam": "1976440"
   },
   "label_en": "Counter:Side",
@@ -558,6 +566,7 @@
   "ids": {
    "howlongtobeat": "138018",
    "igdb": "bluey-the-videogame",
+   "metacritic": "bluey-the-videogame",
    "mobygames": "212221",
    "pcgamingwiki": "Bluey:_The_Videogame",
    "steam": "2078350"
@@ -1049,6 +1058,7 @@
  {
   "ids": {
    "igdb": "hentai-2-plus-2-equals-4",
+   "pcgamingwiki": "Hentai_2+2=4",
    "steam": "946800"
   },
   "label_en": "Hentai 2+2=4",

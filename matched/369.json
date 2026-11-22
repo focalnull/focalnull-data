@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3974",
    "igdb": "god-of-war",
+   "metacritic": "god-of-war-2005",
    "mobygames": "17344"
   },
   "label_en": "God of War",
@@ -26,6 +27,7 @@
    "gog": "game/fatal_fury_special",
    "howlongtobeat": "3402",
    "igdb": "fatal-fury-special",
+   "metacritic": "fatal-fury-special",
    "mobygames": "10591",
    "pcgamingwiki": "Fatal_Fury_Special"
   },
@@ -46,6 +48,7 @@
   "ids": {
    "howlongtobeat": "7692",
    "igdb": "red-orchestra-ostfront-41-45",
+   "metacritic": "red-orchestra-ostfront-41-45",
    "mobygames": "23327",
    "pcgamingwiki": "Red_Orchestra:_Ostfront_41-45",
    "steam": "1200"
@@ -57,6 +60,7 @@
   "enwiki": "Silent Hill: Book of Memories",
   "ids": {
    "igdb": "silent-hill-book-of-memories",
+   "metacritic": "silent-hill-book-of-memories",
    "mobygames": "74389"
   },
   "label_en": "Silent Hill: Book of Memories",
@@ -67,6 +71,7 @@
   "ids": {
    "howlongtobeat": "12950",
    "igdb": "speedball-2-brutal-deluxe--1",
+   "metacritic": "speedball-2-brutal-deluxe",
    "mobygames": "273"
   },
   "label_en": "Speedball 2: Brutal Deluxe",
@@ -76,6 +81,7 @@
   "enwiki": "Kingdom Hearts 3D: Dream Drop Distance",
   "ids": {
    "igdb": "kingdom-hearts-3d-dream-drop-distance",
+   "metacritic": "kingdom-hearts-3d-dream-drop-distance",
    "mobygames": "62804"
   },
   "label_en": "Kingdom Hearts 3D: Dream Drop Distance",
@@ -125,6 +131,7 @@
   "enwiki": "Lemmings (2006 video game)",
   "ids": {
    "igdb": "lemmings--1",
+   "metacritic": "lemmings",
    "mobygames": "22610"
   },
   "label_en": "Lemmings",
@@ -194,6 +201,7 @@
    "gog": "game/unepic",
    "howlongtobeat": "10810",
    "igdb": "unepic",
+   "metacritic": "unepic",
    "mobygames": "53724",
    "pcgamingwiki": "Unepic",
    "steam": "233980"
@@ -211,6 +219,7 @@
   "ids": {
    "howlongtobeat": "41725",
    "igdb": "time-machine-vr",
+   "metacritic": "time-machine-vr",
    "mobygames": "87375",
    "pcgamingwiki": "Time_Machine_VR",
    "steam": "356180"
@@ -244,6 +253,7 @@
    "gog": "game/werewolf_the_apocalypse_earthblood",
    "howlongtobeat": "68267",
    "igdb": "werewolf-the-apocalypse-earthblood",
+   "metacritic": "werewolf-the-apocalypse-earthblood",
    "mobygames": "159408",
    "pcgamingwiki": "Werewolf:_The_Apocalypse_-_Earthblood",
    "steam": "679110"
@@ -266,6 +276,7 @@
   "ids": {
    "howlongtobeat": "45161",
    "igdb": "joan-jade-and-the-gates-of-xibalba",
+   "metacritic": "joan-jade-and-the-gates-of-xibalba",
    "mobygames": "45081",
    "pcgamingwiki": "Joan_Jade_and_the_Gates_of_Xibalba",
    "steam": "1038640"
@@ -300,6 +311,7 @@
   "ids": {
    "howlongtobeat": "26444",
    "igdb": "the-charnel-house-trilogy",
+   "metacritic": "the-charnel-house-trilogy",
    "mobygames": "77266",
    "pcgamingwiki": "The_Charnel_House_Trilogy",
    "steam": "288930"
@@ -334,6 +346,7 @@
   "ids": {
    "howlongtobeat": "104790",
    "igdb": "farthest-frontier",
+   "metacritic": "farthest-frontier",
    "mobygames": "189087",
    "pcgamingwiki": "Farthest_Frontier",
    "steam": "1044720"
@@ -396,7 +409,8 @@
  },
  {
   "ids": {
-   "igdb": "the-legend-of-neverland"
+   "igdb": "the-legend-of-neverland",
+   "metacritic": "the-legend-of-neverland"
   },
   "label_en": "The Legend of Neverland",
   "wikidata": "Q120872369"
@@ -641,6 +655,7 @@
  {
   "ids": {
    "igdb": "project-wingman",
+   "metacritic": "project-wingman-frontline-59",
    "mobygames": "154964",
    "steam": "895870"
   },
@@ -752,7 +767,8 @@
  {
   "enwiki": "Monopoly Go!",
   "ids": {
-   "igdb": "monopoly-go"
+   "igdb": "monopoly-go",
+   "metacritic": "monopoly-go"
   },
   "label_en": "Monopoly Go!",
   "wikidata": "Q124179369"
@@ -1108,6 +1124,7 @@
  {
   "ids": {
    "igdb": "sexy-futa-mecha-battles-of-islands",
+   "pcgamingwiki": "Sexy_Futa:_Mecha_Battles_of_Islands🍓",
    "steam": "2975250"
   },
   "label_en": "Sexy Futa: Mecha Battles of Islands🍓",

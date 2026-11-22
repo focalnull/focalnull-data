@@ -20,6 +20,7 @@
   "enwiki": "Incredible Crisis",
   "ids": {
    "igdb": "incredible-crisis",
+   "metacritic": "incredible-crisis",
    "mobygames": "10066"
   },
   "label_en": "Incredible Crisis",
@@ -29,6 +30,7 @@
   "enwiki": "Ice Age 2: The Meltdown (video game)",
   "ids": {
    "igdb": "ice-age-2-the-meltdown",
+   "metacritic": "ice-age-2-the-meltdown",
    "mobygames": "28470",
    "pcgamingwiki": "Ice_Age_2:_The_Meltdown"
   },
@@ -54,6 +56,7 @@
   "enwiki": "Die Hard: Vendetta",
   "ids": {
    "igdb": "die-hard-vendetta",
+   "metacritic": "die-hard-vendetta",
    "mobygames": "8266"
   },
   "label_en": "Die Hard: Vendetta",
@@ -64,6 +67,7 @@
   "ids": {
    "howlongtobeat": "4882",
    "igdb": "juiced-2-hot-import-nights",
+   "metacritic": "juiced-2-hot-import-nights",
    "mobygames": "36785",
    "pcgamingwiki": "Juiced_2:_Hot_Import_Nights",
    "steam": "9400"
@@ -75,6 +79,7 @@
   "enwiki": "Deadly Creatures",
   "ids": {
    "igdb": "deadly-creatures",
+   "metacritic": "deadly-creatures",
    "mobygames": "39276"
   },
   "label_en": "Deadly Creatures",
@@ -85,6 +90,7 @@
   "ids": {
    "howlongtobeat": "4164",
    "igdb": "guilty-gear-judgment",
+   "metacritic": "guilty-gear-judgment",
    "mobygames": "62317"
   },
   "label_en": "Guilty Gear Judgment",
@@ -94,6 +100,7 @@
   "enwiki": "Sega Genesis Collection",
   "ids": {
    "igdb": "sega-genesis-collection",
+   "metacritic": "sega-genesis-collection",
    "mobygames": "24975"
   },
   "label_en": "Sega Genesis Collection",
@@ -144,6 +151,7 @@
   "ids": {
    "howlongtobeat": "28980",
    "igdb": "fish-tycoon",
+   "metacritic": "fish-tycoon",
    "mobygames": "31941",
    "pcgamingwiki": "Fish_Tycoon",
    "steam": "16130"
@@ -155,6 +163,7 @@
   "enwiki": "Haunt (video game)",
   "ids": {
    "igdb": "haunt",
+   "metacritic": "haunt-2012",
    "mobygames": "125591"
   },
   "label_en": "Haunt",
@@ -215,6 +224,7 @@
  {
   "ids": {
    "igdb": "go-series-earth-saver",
+   "metacritic": "go-series-earth-saver",
    "mobygames": "88186"
   },
   "label_en": "Earth Saver",
@@ -229,6 +239,7 @@
   "ids": {
    "howlongtobeat": "19853",
    "igdb": "quantum-break",
+   "metacritic": "quantum-break",
    "mobygames": "78021",
    "pcgamingwiki": "Quantum_Break",
    "steam": "474960"
@@ -240,6 +251,7 @@
   "enwiki": "Hugo: The Evil Mirror",
   "ids": {
    "igdb": "hugo-the-evil-mirror",
+   "metacritic": "hugo-the-evil-mirror",
    "mobygames": "81302"
   },
   "label_en": "Hugo: The Evil Mirror",
@@ -250,6 +262,7 @@
   "ids": {
    "howlongtobeat": "4210",
    "igdb": "gunman-clive",
+   "metacritic": "gunman-clive",
    "mobygames": "61667",
    "pcgamingwiki": "Gunman_Clive",
    "steam": "262550"
@@ -262,6 +275,7 @@
   "ids": {
    "howlongtobeat": "33284",
    "igdb": "street-fighter-v",
+   "metacritic": "street-fighter-v",
    "mobygames": "77245",
    "pcgamingwiki": "Street_Fighter_V",
    "steam": "310950"
@@ -298,6 +312,7 @@
    "gog": "game/yesterday_origins",
    "howlongtobeat": "41268",
    "igdb": "yesterday-origins",
+   "metacritic": "yesterday-origins",
    "mobygames": "84025",
    "pcgamingwiki": "Yesterday_Origins",
    "steam": "465280"
@@ -347,6 +362,7 @@
    "gog": "game/another_lost_phone_lauras_story",
    "howlongtobeat": "49280",
    "igdb": "another-lost-phone-lauras-story",
+   "metacritic": "another-lost-phone-lauras-story",
    "mobygames": "96277",
    "pcgamingwiki": "Another_Lost_Phone:_Laura's_Story",
    "steam": "689910"
@@ -385,6 +401,7 @@
   "ids": {
    "howlongtobeat": "70732",
    "igdb": "groundhog-day-like-father-like-son",
+   "metacritic": "groundhog-day-like-father-like-son",
    "mobygames": "134856",
    "pcgamingwiki": "Groundhog_Day:_Like_Father_Like_Son",
    "steam": "1087500"
@@ -396,7 +413,8 @@
   "enwiki": "Dragon Quest Tact",
   "ids": {
    "howlongtobeat": "84232",
-   "igdb": "dragon-quest-tact"
+   "igdb": "dragon-quest-tact",
+   "metacritic": "dragon-quest-tact"
   },
   "label_en": "Dragon Quest Tact",
   "wikidata": "Q97613589"
@@ -407,6 +425,7 @@
    "epic": "disc-room",
    "gog": "game/disc_room",
    "igdb": "disc-room--1",
+   "metacritic": "disc-room",
    "mobygames": "151511",
    "pcgamingwiki": "Disc_Room_(2020)",
    "steam": "1229580"
@@ -516,6 +535,7 @@
   "ids": {
    "howlongtobeat": "80350",
    "igdb": "ninja-shodown",
+   "metacritic": "ninja-shodown",
    "mobygames": "96575",
    "pcgamingwiki": "Ninja_Shodown",
    "steam": "598840"
@@ -537,6 +557,7 @@
    "gog": "game/arcadia_fallen",
    "howlongtobeat": "100759",
    "igdb": "arcadia-fallen",
+   "metacritic": "arcadia-fallen",
    "mobygames": "176149",
    "pcgamingwiki": "Arcadia_Fallen",
    "steam": "1174640"
@@ -573,6 +594,7 @@
    "epic": "ultros",
    "howlongtobeat": "129248",
    "igdb": "ultros",
+   "metacritic": "ultros",
    "mobygames": "217523",
    "steam": "2386310"
   },
@@ -735,6 +757,7 @@
   "ids": {
    "howlongtobeat": "57492",
    "igdb": "infernium",
+   "metacritic": "infernium",
    "mobygames": "106509",
    "pcgamingwiki": "Infernium",
    "steam": "789950"
@@ -908,7 +931,8 @@
  },
  {
   "ids": {
-   "igdb": "uwordsmith"
+   "igdb": "uwordsmith",
+   "metacritic": "uwordsmith"
   },
   "label_en": "uWordsmith",
   "wikidata": "Q127503589"

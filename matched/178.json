@@ -12,6 +12,7 @@
   "ids": {
    "howlongtobeat": "1803",
    "igdb": "colin-mcrae-dirt",
+   "metacritic": "dirt",
    "mobygames": "28597",
    "pcgamingwiki": "Colin_McRae:_DiRT"
   },
@@ -60,6 +61,7 @@
   "enwiki": "Guitar Hero: Metallica",
   "ids": {
    "igdb": "guitar-hero-metallica",
+   "metacritic": "guitar-hero-metallica",
    "mobygames": "40299"
   },
   "label_en": "Guitar Hero: Metallica",
@@ -69,6 +71,7 @@
   "enwiki": "Fable: The Journey",
   "ids": {
    "igdb": "fable-the-journey",
+   "metacritic": "fable-the-journey",
    "mobygames": "58417"
   },
   "label_en": "Fable: The Journey",
@@ -80,6 +83,7 @@
    "gog": "game/transport_giant",
    "howlongtobeat": "29787",
    "igdb": "transport-giant",
+   "metacritic": "transport-giant",
    "mobygames": "14682",
    "pcgamingwiki": "Transport_Giant",
    "steam": "271370"
@@ -130,6 +134,7 @@
   "enwiki": "Growlanser Generations",
   "ids": {
    "igdb": "growlanser-generations",
+   "metacritic": "growlanser-generations",
    "mobygames": "23587"
   },
   "label_en": "Growlanser Generations",
@@ -139,6 +144,7 @@
   "enwiki": "Blair Witch Volume I: Rustin Parr",
   "ids": {
    "igdb": "blair-witch-volume-1-rustin-parr",
+   "metacritic": "blair-witch-volume-i-rustin-parr",
    "mobygames": "2521",
    "pcgamingwiki": "Blair_Witch_Volume_1:_Rustin_Parr"
   },
@@ -150,6 +156,7 @@
   "ids": {
    "howlongtobeat": "2424",
    "igdb": "delta-force-urban-warfare",
+   "metacritic": "delta-force-urban-warfare",
    "mobygames": "24217"
   },
   "label_en": "Delta Force: Urban Warfare",
@@ -220,6 +227,7 @@
   "enwiki": "Magic & Mayhem: The Art of Magic",
   "ids": {
    "igdb": "magic-and-mayhem-the-art-of-magic",
+   "metacritic": "magic-and-mayhem-the-art-of-magic",
    "mobygames": "5173"
   },
   "label_en": "Magic and Mayhem: The Art of Magic",
@@ -239,6 +247,7 @@
   "ids": {
    "howlongtobeat": "52342",
    "igdb": "overkills-the-walking-dead",
+   "metacritic": "overkills-the-walking-dead",
    "mobygames": "116450",
    "pcgamingwiki": "Overkill's_The_Walking_Dead",
    "steam": "717690"
@@ -268,6 +277,7 @@
   "ids": {
    "howlongtobeat": "65004",
    "igdb": "super-mario-maker-2",
+   "metacritic": "super-mario-maker-2",
    "mobygames": "122207"
   },
   "label_en": "Super Mario Maker 2",
@@ -277,6 +287,7 @@
   "ids": {
    "howlongtobeat": "20222",
    "igdb": "a-wizards-lizard",
+   "metacritic": "a-wizards-lizard",
    "mobygames": "99743",
    "pcgamingwiki": "A_Wizard's_Lizard",
    "steam": "280040"
@@ -300,7 +311,9 @@
  {
   "ids": {
    "igdb": "fairy-fencer-f-advent-dark-force",
+   "metacritic": "fairy-fencer-f-advent-dark-force",
    "mobygames": "83242",
+   "pcgamingwiki": "Fairy_Fencer_F:_Advent_Dark_Force",
    "steam": "524580"
   },
   "label_en": "Fairy Fencer F: Advent Dark Force",
@@ -312,6 +325,7 @@
    "epic": "axiom-verge-2",
    "howlongtobeat": "72785",
    "igdb": "axiom-verge-2",
+   "metacritic": "axiom-verge-2",
    "mobygames": "169257",
    "pcgamingwiki": "Axiom_Verge_2",
    "steam": "946030"
@@ -323,6 +337,7 @@
   "ids": {
    "howlongtobeat": "29975",
    "igdb": "farm-frenzy-3",
+   "metacritic": "farm-frenzy-3",
    "mobygames": "76242",
    "pcgamingwiki": "Farm_Frenzy_3",
    "steam": "38150"
@@ -385,6 +400,7 @@
  {
   "ids": {
    "igdb": "fragments-note-plus",
+   "metacritic": "fragments-note-plus",
    "steam": "2808250"
   },
   "label_en": "Fragment’s Note+",
@@ -735,6 +751,7 @@
   "ids": {
    "howlongtobeat": "19094",
    "igdb": "the-2d-adventures-of-rotating-octopus-character",
+   "metacritic": "the-2d-adventures-of-rotating-octopus-character",
    "mobygames": "95639"
   },
   "label_en": "The 2D Adventures of Rotating Octopus Character",
@@ -777,7 +794,8 @@
  },
  {
   "ids": {
-   "igdb": "kemono-dash"
+   "igdb": "kemono-dash",
+   "metacritic": "kemono-dash"
   },
   "label_en": "Kemono Dash!",
   "wikidata": "Q128180178"
@@ -1139,6 +1157,7 @@
  {
   "ids": {
    "igdb": "luna",
+   "pcgamingwiki": "Luna",
    "steam": "666810"
   },
   "label_en": "Luna",
@@ -1183,5 +1202,12 @@
   },
   "label_en": "Love Battle Spirit",
   "wikidata": "Q141481178"
+ },
+ {
+  "ids": {
+   "igdb": "409397"
+  },
+  "label_en": "Clairvoyage: The Lighthouse",
+  "wikidata": "Q142192178"
  }
 ]

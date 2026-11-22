@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8742",
    "igdb": "sonic-sega-all-stars-racing",
+   "metacritic": "sonic-sega-all-stars-racing-with-banjo-kazooie",
    "mobygames": "45568",
    "pcgamingwiki": "Sonic_&_Sega_All-Stars_Racing",
    "steam": "34190"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "3734",
    "igdb": "frontlines-fuel-of-war",
+   "metacritic": "frontlines-fuel-of-war",
    "mobygames": "32940",
    "pcgamingwiki": "Frontlines:_Fuel_of_War",
    "steam": "9460"
@@ -27,6 +29,7 @@
   "enwiki": "Professor Layton and the Azran Legacy",
   "ids": {
    "igdb": "professor-layton-and-the-azran-legacy",
+   "metacritic": "professor-layton-and-the-azran-legacy",
    "mobygames": "65219"
   },
   "label_en": "Professor Layton and the Azran Legacy",
@@ -38,6 +41,7 @@
    "gog": "game/hitman_contracts",
    "howlongtobeat": "4479",
    "igdb": "hitman-contracts",
+   "metacritic": "hitman-contracts",
    "mobygames": "12998",
    "pcgamingwiki": "Hitman:_Contracts",
    "steam": "247430"
@@ -59,6 +63,7 @@
   "ids": {
    "howlongtobeat": "5637",
    "igdb": "mario-kart-wii",
+   "metacritic": "mario-kart-wii",
    "mobygames": "33820"
   },
   "label_en": "Mario Kart Wii",
@@ -81,6 +86,7 @@
   "enwiki": "Professor Layton and the Miracle Mask",
   "ids": {
    "igdb": "professor-layton-and-the-miracle-mask",
+   "metacritic": "professor-layton-and-the-miracle-mask",
    "mobygames": "52417"
   },
   "label_en": "Professor Layton and the Miracle Mask",
@@ -95,6 +101,7 @@
   "ids": {
    "howlongtobeat": "7044",
    "igdb": "pikmin-3",
+   "metacritic": "pikmin-3",
    "mobygames": "61532"
   },
   "label_en": "Pikmin 3",
@@ -112,6 +119,7 @@
   "enwiki": "Dragon Ball Z: Budokai 3",
   "ids": {
    "igdb": "dragon-ball-z-budokai-3",
+   "metacritic": "dragon-ball-z-budokai-3",
    "mobygames": "16128"
   },
   "label_en": "Dragon Ball Z: Budokai 3",
@@ -122,6 +130,7 @@
   "ids": {
    "howlongtobeat": "18970",
    "igdb": "the-cameron-files-the-secret-at-loch-ness",
+   "metacritic": "the-cameron-files-the-secret-at-loch-ness",
    "mobygames": "5539",
    "pcgamingwiki": "The_Cameron_Files:_The_Secret_at_Loch_Ness",
    "steam": "302170"
@@ -149,6 +158,7 @@
  {
   "ids": {
    "igdb": "sega-casino",
+   "metacritic": "sega-casino",
    "mobygames": "20662"
   },
   "label_en": "Sega Casino",
@@ -195,6 +205,7 @@
   "ids": {
    "howlongtobeat": "5241",
    "igdb": "legends-of-pegasus",
+   "metacritic": "legends-of-pegasus",
    "mobygames": "65007",
    "pcgamingwiki": "Legends_of_Pegasus",
    "steam": "205590"
@@ -277,6 +288,7 @@
   "ids": {
    "howlongtobeat": "6715",
    "igdb": "offspring-fling",
+   "metacritic": "offspring-fling",
    "mobygames": "56000",
    "pcgamingwiki": "Offspring_Fling!",
    "steam": "211360"
@@ -306,6 +318,7 @@
   "ids": {
    "howlongtobeat": "32715",
    "igdb": "devilian",
+   "metacritic": "devilian",
    "pcgamingwiki": "Devilian",
    "steam": "407510"
   },
@@ -337,6 +350,7 @@
   "ids": {
    "howlongtobeat": "19686",
    "igdb": "yars-revenge--1",
+   "metacritic": "yars-revenge",
    "mobygames": "52794",
    "pcgamingwiki": "Yar's_Revenge",
    "steam": "99120"
@@ -348,6 +362,7 @@
   "ids": {
    "howlongtobeat": "44432",
    "igdb": "lost-grimoires-2-shard-of-mystery",
+   "metacritic": "lost-grimoires-2-shard-of-mystery",
    "mobygames": "99495",
    "pcgamingwiki": "Lost_Grimoires_2:_Shard_of_Mystery",
    "steam": "574270"
@@ -357,6 +372,7 @@
  },
  {
   "ids": {
+   "metacritic": "aids-simulator",
    "pcgamingwiki": "AIDS_Simulator",
    "steam": "875280"
   },
@@ -370,6 +386,7 @@
    "gog": "game/wanderlust_travel_stories",
    "howlongtobeat": "69703",
    "igdb": "wanderlust-travel-stories",
+   "metacritic": "wanderlust-travel-stories",
    "mobygames": "142716",
    "pcgamingwiki": "Wanderlust:_Travel_Stories",
    "steam": "1051410"
@@ -399,6 +416,7 @@
    "gog": "game/drox_operative",
    "howlongtobeat": "17453",
    "igdb": "drox-operative",
+   "metacritic": "drox-operative",
    "mobygames": "73357",
    "pcgamingwiki": "Drox_Operative",
    "steam": "274480"
@@ -413,6 +431,7 @@
    "gog": "game/metamorphosis",
    "howlongtobeat": "81788",
    "igdb": "metamorphosis",
+   "metacritic": "metamorphosis",
    "mobygames": "149254",
    "pcgamingwiki": "Metamorphosis",
    "steam": "1025410"
@@ -425,6 +444,7 @@
    "gog": "game/okinawa_rush",
    "howlongtobeat": "95535",
    "igdb": "okinawa-rush",
+   "metacritic": "okinawa-rush",
    "mobygames": "174119",
    "pcgamingwiki": "Okinawa_Rush",
    "steam": "777670"
@@ -443,6 +463,7 @@
   "ids": {
    "howlongtobeat": "66939",
    "igdb": "detective-di-the-silk-rose-murders",
+   "metacritic": "detective-di-the-silk-rose-murders",
    "mobygames": "126412",
    "pcgamingwiki": "Detective_Di:_The_Silk_Rose_Murders",
    "steam": "792040"
@@ -573,6 +594,7 @@
   "ids": {
    "howlongtobeat": "37908",
    "igdb": "hole-in-the-wall",
+   "metacritic": "hole-in-the-wall",
    "mobygames": "157539"
   },
   "label_en": "Hole in the Wall",
@@ -648,6 +670,7 @@
  {
   "ids": {
    "igdb": "vaporwave-simulator",
+   "metacritic": "vaporwave-simulator",
    "pcgamingwiki": "Vaporwave_Simulator",
    "steam": "766850"
   },
@@ -771,6 +794,7 @@
   "ids": {
    "howlongtobeat": "55393",
    "igdb": "stone",
+   "metacritic": "stone",
    "mobygames": "115866",
    "pcgamingwiki": "STONE",
    "steam": "907770"
@@ -960,6 +984,7 @@
    "epic": "ruffy-and-the-riverside-ea542a",
    "howlongtobeat": "129883",
    "igdb": "ruffy-and-the-riverside",
+   "metacritic": "ruffy-and-the-riverside",
    "pcgamingwiki": "Ruffy_and_the_Riverside",
    "steam": "1002260"
   },
@@ -1009,6 +1034,7 @@
   "ids": {
    "howlongtobeat": "21659",
    "igdb": "planes-fire-and-rescue--1",
+   "metacritic": "disney-planes-fire-and-rescue",
    "mobygames": "99336"
   },
   "label_en": "Planes: Fire & Rescue",

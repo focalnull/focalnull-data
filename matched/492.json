@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11157",
    "igdb": "wii-play",
+   "metacritic": "wii-play",
    "mobygames": "25416"
   },
   "label_en": "Wii Play",
@@ -15,6 +16,7 @@
    "epic": "splinter-cell-double-agent",
    "howlongtobeat": "10463",
    "igdb": "tom-clancy-s-splinter-cell-double-agent",
+   "metacritic": "tom-clancys-splinter-cell-double-agent",
    "mobygames": "24562",
    "pcgamingwiki": "Tom_Clancy's_Splinter_Cell:_Double_Agent",
    "steam": "13580"
@@ -66,6 +68,7 @@
    "epic": "rayman-legends",
    "howlongtobeat": "12655",
    "igdb": "rayman-legends",
+   "metacritic": "rayman-legends",
    "mobygames": "64620",
    "pcgamingwiki": "Rayman_Legends",
    "steam": "242550"
@@ -78,6 +81,7 @@
   "ids": {
    "howlongtobeat": "7912",
    "igdb": "rock-band-2",
+   "metacritic": "rock-band-2",
    "mobygames": "39411"
   },
   "label_en": "Rock Band 2",
@@ -115,6 +119,7 @@
   "ids": {
    "howlongtobeat": "24722",
    "igdb": "cradle-of-rome",
+   "metacritic": "cradle-of-rome",
    "pcgamingwiki": "Cradle_of_Rome",
    "steam": "38170"
   },
@@ -156,6 +161,7 @@
   "ids": {
    "howlongtobeat": "11140",
    "igdb": "where-the-wild-things-are",
+   "metacritic": "where-the-wild-things-are",
    "mobygames": "85688"
   },
   "label_en": "Where the Wild Things Are",
@@ -176,6 +182,7 @@
   "enwiki": "Dungeon Travelers 2",
   "ids": {
    "igdb": "dungeon-travelers-2-the-royal-library-and-the-monster-seal",
+   "metacritic": "dungeon-travelers-2-the-royal-library-the-monster-seal",
    "mobygames": "87950"
   },
   "label_en": "Dungeon Travelers 2",
@@ -186,6 +193,7 @@
   "ids": {
    "howlongtobeat": "10153",
    "igdb": "the-room--1",
+   "metacritic": "the-room",
    "mobygames": "60395",
    "pcgamingwiki": "The_Room",
    "steam": "288160"
@@ -211,6 +219,7 @@
    "gog": "game/democracy_3",
    "howlongtobeat": "14501",
    "igdb": "democracy-3",
+   "metacritic": "democracy-3",
    "mobygames": "72163",
    "pcgamingwiki": "Democracy_3",
    "steam": "245470"
@@ -246,6 +255,7 @@
   "enwiki": "Project X Zone 2",
   "ids": {
    "igdb": "project-x-zone-2",
+   "metacritic": "project-x-zone-2",
    "mobygames": "77250"
   },
   "label_en": "Project X Zone 2",
@@ -267,6 +277,7 @@
    "gog": "game/revolution_1979_black_friday",
    "howlongtobeat": "36527",
    "igdb": "1979-revolution-black-friday",
+   "metacritic": "1979-revolution-black-friday",
    "mobygames": "78276",
    "pcgamingwiki": "1979_Revolution:_Black_Friday",
    "steam": "388320"
@@ -331,6 +342,7 @@
   "ids": {
    "howlongtobeat": "82206",
    "igdb": "puyo-puyo-tetris-2",
+   "metacritic": "puyo-puyo-tetris-2",
    "mobygames": "155360",
    "pcgamingwiki": "Puyo_Puyo_Tetris_2",
    "steam": "1259790"
@@ -353,6 +365,7 @@
   "ids": {
    "howlongtobeat": "93035",
    "igdb": "sumire",
+   "metacritic": "sumire",
    "mobygames": "165278",
    "pcgamingwiki": "Sumire",
    "steam": "1335230"
@@ -533,6 +546,7 @@
   "ids": {
    "howlongtobeat": "115731",
    "igdb": "half-past-fate-romantic-distancing",
+   "metacritic": "half-past-fate-romantic-distancing",
    "mobygames": "158583",
    "steam": "1492480"
   },

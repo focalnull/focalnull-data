@@ -3,6 +3,7 @@
   "enwiki": "Star Wars Battlefront: Renegade Squadron",
   "ids": {
    "igdb": "star-wars-battlefront-renegade-squadron",
+   "metacritic": "star-wars-battlefront-renegade-squadron",
    "mobygames": "36799"
   },
   "label_en": "Star Wars Battlefront: Renegade Squadron",
@@ -15,6 +16,7 @@
    "gog": "game/assassins_creed_directors_cut",
    "howlongtobeat": "649",
    "igdb": "assassin-s-creed",
+   "metacritic": "assassins-creed-directors-cut-edition",
    "mobygames": "31218",
    "pcgamingwiki": "Assassin's_Creed",
    "steam": "15100"
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "7742",
    "igdb": "resident-evil-revelations",
+   "metacritic": "resident-evil-revelations",
    "mobygames": "54663",
    "pcgamingwiki": "Resident_Evil:_Revelations",
    "steam": "222480"
@@ -48,6 +51,7 @@
   "ids": {
    "howlongtobeat": "2601",
    "igdb": "disgaea-hour-of-darkness",
+   "metacritic": "disgaea-hour-of-darkness",
    "mobygames": "10160"
   },
   "label_en": "Disgaea: Hour of Darkness",
@@ -57,6 +61,7 @@
   "enwiki": "Genji: Dawn of the Samurai",
   "ids": {
    "igdb": "genji-dawn-of-the-samurai",
+   "metacritic": "genji-dawn-of-the-samurai",
    "mobygames": "20657"
   },
   "label_en": "Genji: Dawn of the Samurai",
@@ -83,6 +88,7 @@
   "ids": {
    "howlongtobeat": "6375",
    "igdb": "nanostray-2",
+   "metacritic": "nanostray-2",
    "mobygames": "34311"
   },
   "label_en": "Nanostray 2",
@@ -101,6 +107,7 @@
   "enwiki": "Gladius (video game)",
   "ids": {
    "igdb": "gladius",
+   "metacritic": "gladius-2003",
    "mobygames": "11835"
   },
   "label_en": "Gladius",
@@ -121,6 +128,7 @@
   "ids": {
    "howlongtobeat": "13477",
    "igdb": "galaga-legions-dx",
+   "metacritic": "galaga-legions-dx",
    "mobygames": "83595"
   },
   "label_en": "Galaga Legions DX",
@@ -187,6 +195,7 @@
    "epic": "verdun",
    "howlongtobeat": "18125",
    "igdb": "verdun",
+   "metacritic": "verdun",
    "mobygames": "83475",
    "pcgamingwiki": "Verdun",
    "steam": "242860"
@@ -200,6 +209,7 @@
    "gog": "game/jalopy",
    "howlongtobeat": "37164",
    "igdb": "jalopy",
+   "metacritic": "jalopy",
    "mobygames": "87773",
    "pcgamingwiki": "Jalopy",
    "steam": "446020"
@@ -227,6 +237,7 @@
    "gog": "game/lilycle_rainbow_stage",
    "howlongtobeat": "65599",
    "igdb": "lilycle-rainbow-stage",
+   "metacritic": "lilycle-rainbow-stage",
    "mobygames": "167320",
    "pcgamingwiki": "Lilycle_Rainbow_Stage!!!",
    "steam": "978870"
@@ -248,6 +259,7 @@
  {
   "ids": {
    "howlongtobeat": "31660",
+   "metacritic": "living-world-racing",
    "mobygames": "87710",
    "pcgamingwiki": "Living_World_Racing"
   },
@@ -278,6 +290,7 @@
   "ids": {
    "howlongtobeat": "24927",
    "igdb": "winx-club-magical-fairy-party",
+   "metacritic": "winx-club-magical-fairy-party",
    "mobygames": "90525"
   },
   "label_en": "Winx Club: Magical Fairy Party",
@@ -287,6 +300,7 @@
   "ids": {
    "howlongtobeat": "107430",
    "igdb": "mx-vs-atv-legends",
+   "metacritic": "mx-vs-atv-legends",
    "mobygames": "187447",
    "pcgamingwiki": "MX_vs._ATV_Legends",
    "steam": "1205970"
@@ -341,6 +355,7 @@
   "ids": {
    "howlongtobeat": "40383",
    "igdb": "heroes-of-normandie",
+   "metacritic": "heroes-of-normandie",
    "mobygames": "83000",
    "pcgamingwiki": "Heroes_of_Normandie",
    "steam": "365890"
@@ -849,6 +864,7 @@
   "enwiki": "CloverPit",
   "ids": {
    "igdb": "cloverpit",
+   "metacritic": "cloverpit",
    "mobygames": "248447",
    "pcgamingwiki": "CloverPit",
    "steam": "3314790"

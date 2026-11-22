@@ -3,6 +3,7 @@
   "enwiki": "Dark Messiah of Might and Magic",
   "ids": {
    "igdb": "dark-messiah-of-might-and-magic",
+   "metacritic": "dark-messiah-of-might-and-magic",
    "mobygames": "24996",
    "pcgamingwiki": "Dark_Messiah_of_Might_and_Magic",
    "steam": "2100"
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "1911",
    "igdb": "contra",
+   "metacritic": "contra",
    "mobygames": "4863",
    "pcgamingwiki": "Contra"
   },
@@ -44,6 +46,7 @@
   "enwiki": "Rayman Raving Rabbids 2",
   "ids": {
    "igdb": "rayman-raving-rabbids-2",
+   "metacritic": "rayman-raving-rabbids-2",
    "mobygames": "34406",
    "pcgamingwiki": "Rayman_Raving_Rabbids_2"
   },
@@ -55,6 +58,7 @@
   "ids": {
    "howlongtobeat": "18920",
    "igdb": "tycoon-city-new-york",
+   "metacritic": "tycoon-city-new-york",
    "mobygames": "33756",
    "pcgamingwiki": "Tycoon_City:_New_York",
    "steam": "9730"
@@ -76,6 +80,7 @@
   "ids": {
    "howlongtobeat": "2585",
    "igdb": "disciples-iii-renaissance--1",
+   "metacritic": "disciples-iii-renaissance",
    "mobygames": "49041",
    "pcgamingwiki": "Disciples_III:_Renaissance",
    "steam": "33670"
@@ -88,6 +93,7 @@
   "ids": {
    "howlongtobeat": "5613",
    "igdb": "marble-blast-ultra",
+   "metacritic": "marble-blast-ultra",
    "mobygames": "31327"
   },
   "label_en": "Marble Blast Ultra",
@@ -98,6 +104,7 @@
   "ids": {
    "howlongtobeat": "5469",
    "igdb": "mud-tv",
+   "metacritic": "mud-tv",
    "mobygames": "45434",
    "pcgamingwiki": "M.U.D._TV",
    "steam": "43500"
@@ -120,6 +127,7 @@
   "enwiki": "Let's Fish! Hooked On",
   "ids": {
    "igdb": "lets-fish-hooked-on",
+   "metacritic": "lets-fish-hooked-on",
    "mobygames": "87943"
   },
   "label_en": "Let's Fish! Hooked On",
@@ -138,6 +146,7 @@
   "enwiki": "Winter Sports 2: The Next Challenge",
   "ids": {
    "igdb": "winter-sports-2009-the-next-challenge",
+   "metacritic": "winter-sports-2-the-next-challenge",
    "mobygames": "42317",
    "pcgamingwiki": "Winter_Sports_2009:_The_Next_Challenge"
   },
@@ -147,7 +156,8 @@
  {
   "enwiki": "Break 'Em All",
   "ids": {
-   "igdb": "break-em-all"
+   "igdb": "break-em-all",
+   "metacritic": "break-em-all"
   },
   "label_en": "Break 'Em All",
   "wikidata": "Q16259328"
@@ -183,6 +193,7 @@
    "gog": "game/legend_of_heroes_trails_in_the_sky_the_3rd_the",
    "howlongtobeat": "10013",
    "igdb": "the-legend-of-heroes-trails-in-the-sky-the-3rd",
+   "metacritic": "the-legend-of-heroes-trails-in-the-sky-the-3rd",
    "mobygames": "87960",
    "pcgamingwiki": "The_Legend_of_Heroes:_Trails_in_the_Sky_the_3rd",
    "steam": "436670"
@@ -203,6 +214,7 @@
    "gog": "game/lords_of_xulima",
    "howlongtobeat": "22844",
    "igdb": "lords-of-xulima",
+   "metacritic": "lords-of-xulima",
    "mobygames": "78784",
    "pcgamingwiki": "Lords_of_Xulima",
    "steam": "296570"
@@ -223,6 +235,7 @@
   "ids": {
    "howlongtobeat": "13836",
    "igdb": "6180-the-moon",
+   "metacritic": "6180-the-moon",
    "mobygames": "69721",
    "pcgamingwiki": "6180_the_moon",
    "steam": "299660"
@@ -239,7 +252,8 @@
  },
  {
   "ids": {
-   "igdb": "you-are-hope"
+   "igdb": "you-are-hope",
+   "metacritic": "one-hour-one-life"
   },
   "label_en": "You are Hope",
   "wikidata": "Q61983328"
@@ -248,6 +262,7 @@
   "ids": {
    "howlongtobeat": "27573",
    "igdb": "last-word",
+   "metacritic": "last-word",
    "mobygames": "92107",
    "pcgamingwiki": "Last_Word",
    "steam": "355530"
@@ -295,6 +310,7 @@
    "gog": "game/cyber_complex",
    "howlongtobeat": "152129",
    "igdb": "cyber-complex",
+   "metacritic": "cyber-complex",
    "mobygames": "135397",
    "pcgamingwiki": "Cyber_Complex",
    "steam": "600440"
@@ -314,6 +330,7 @@
   "ids": {
    "howlongtobeat": "64901",
    "igdb": "degrees-of-separation",
+   "metacritic": "degrees-of-separation",
    "mobygames": "121819",
    "pcgamingwiki": "Degrees_of_Separation",
    "steam": "809880"
@@ -336,6 +353,7 @@
   "ids": {
    "howlongtobeat": "23255",
    "igdb": "dragons-and-titans",
+   "metacritic": "dragons-and-titans",
    "mobygames": "72548",
    "pcgamingwiki": "Dragons_and_Titans",
    "steam": "263500"
@@ -362,6 +380,7 @@
  {
   "ids": {
    "howlongtobeat": "22914",
+   "metacritic": "picross-e5",
    "mobygames": "88462"
   },
   "label_en": "Picross e5",
@@ -398,6 +417,7 @@
   "ids": {
    "howlongtobeat": "65025",
    "igdb": "kartkraft",
+   "metacritic": "kartkraft",
    "mobygames": "116424",
    "pcgamingwiki": "KartKraft",
    "steam": "406350"
@@ -786,6 +806,7 @@
   "ids": {
    "howlongtobeat": "45452",
    "igdb": "neverend",
+   "metacritic": "neverend",
    "mobygames": "95150",
    "pcgamingwiki": "NeverEnd",
    "steam": "575840"
@@ -911,6 +932,7 @@
  {
   "ids": {
    "igdb": "painkiller--1",
+   "metacritic": "painkiller",
    "pcgamingwiki": "Painkiller_(2025)",
    "steam": "2300120"
   },
@@ -1207,6 +1229,7 @@
   "ids": {
    "howlongtobeat": "172979",
    "igdb": "la-divina-commedia",
+   "metacritic": "la-divina-commedia",
    "pcgamingwiki": "La_Divina_Commedia",
    "steam": "3883910"
   },

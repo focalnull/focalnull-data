@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "290",
    "igdb": "aion",
+   "metacritic": "aion",
    "mobygames": "43485",
    "pcgamingwiki": "Aion"
   },
@@ -38,6 +39,7 @@
   "ids": {
    "howlongtobeat": "1883",
    "igdb": "conduit-2",
+   "metacritic": "conduit-2",
    "mobygames": "70207"
   },
   "label_en": "Conduit 2",
@@ -154,6 +156,7 @@
   "ids": {
    "howlongtobeat": "25310",
    "igdb": "the-settlers-online",
+   "metacritic": "the-settlers-online",
    "mobygames": "62221",
    "pcgamingwiki": "The_Settlers_Online",
    "steam": "354640"
@@ -211,6 +214,7 @@
   "ids": {
    "howlongtobeat": "24124",
    "igdb": "emergency-2012",
+   "metacritic": "emergency-2012",
    "mobygames": "49093",
    "pcgamingwiki": "Emergency_2012",
    "steam": "40370"
@@ -225,6 +229,7 @@
    "gog": "game/epistory_typing_chronicles",
    "howlongtobeat": "33974",
    "igdb": "epistory-typing-chronicles",
+   "metacritic": "epistory-typing-chronicles",
    "mobygames": "77978",
    "pcgamingwiki": "Epistory_-_Typing_Chronicles",
    "steam": "398850"
@@ -237,6 +242,7 @@
   "ids": {
    "howlongtobeat": "44847",
    "igdb": "brawlout",
+   "metacritic": "brawlout",
    "mobygames": "99718",
    "pcgamingwiki": "Brawlout",
    "steam": "263720"
@@ -253,6 +259,7 @@
   "ids": {
    "howlongtobeat": "32039",
    "igdb": "flywrench",
+   "metacritic": "flywrench",
    "mobygames": "82656",
    "pcgamingwiki": "Flywrench",
    "steam": "337350"
@@ -274,6 +281,7 @@
   "ids": {
    "howlongtobeat": "51200",
    "igdb": "wrc-7",
+   "metacritic": "wrc-7",
    "mobygames": "96028",
    "pcgamingwiki": "WRC_7:_FIA_World_Rally_Championship",
    "steam": "621830"
@@ -325,6 +333,7 @@
   "ids": {
    "howlongtobeat": "72127",
    "igdb": "millidor",
+   "metacritic": "millidor",
    "mobygames": "105410",
    "pcgamingwiki": "Millidor",
    "steam": "699040"
@@ -345,6 +354,7 @@
    "gog": "game/mr_prepper",
    "howlongtobeat": "67677",
    "igdb": "mr-prepper",
+   "metacritic": "mr-prepper",
    "mobygames": "120289",
    "pcgamingwiki": "Mr._Prepper",
    "steam": "761830"
@@ -423,6 +433,7 @@
   "ids": {
    "howlongtobeat": "107429",
    "igdb": "fobia-st-dinfna-hotel",
+   "metacritic": "fobia-st-dinfna-hotel",
    "mobygames": "187354",
    "pcgamingwiki": "Fobia_-_St._Dinfna_Hotel",
    "steam": "1298140"
@@ -735,6 +746,7 @@
    "gog": "game/crookz_the_big_heist",
    "howlongtobeat": "29855",
    "igdb": "crookz-the-big-heist--1",
+   "metacritic": "crookz-the-big-heist",
    "mobygames": "84483",
    "pcgamingwiki": "Crookz_-_The_Big_Heist",
    "steam": "310490"

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6909",
    "igdb": "paper-mario",
+   "metacritic": "paper-mario",
    "mobygames": "5498"
   },
   "label_en": "Paper Mario",
@@ -22,6 +23,7 @@
   "ids": {
    "howlongtobeat": "32011",
    "igdb": "the-devil-on-g-string",
+   "metacritic": "g-senjou-no-maou",
    "mobygames": "106770",
    "pcgamingwiki": "The_Devil_on_G-String",
    "steam": "377670"
@@ -55,6 +57,7 @@
   "ids": {
    "howlongtobeat": "9280",
    "igdb": "stronghold-3",
+   "metacritic": "stronghold-3",
    "mobygames": "53829",
    "pcgamingwiki": "Stronghold_3",
    "steam": "47400"
@@ -68,6 +71,7 @@
    "gog": "game/shadowgrounds",
    "howlongtobeat": "8358",
    "igdb": "shadowgrounds",
+   "metacritic": "shadowgrounds",
    "mobygames": "20183",
    "pcgamingwiki": "Shadowgrounds",
    "steam": "2500"
@@ -79,6 +83,7 @@
   "enwiki": "Everybody's Golf 5",
   "ids": {
    "igdb": "hot-shots-golf-out-of-bounds",
+   "metacritic": "hot-shots-golf-out-of-bounds",
    "mobygames": "36383"
   },
   "label_en": "Everybody's Golf 5",
@@ -92,6 +97,7 @@
   "enwiki": "Spider-Man: Edge of Time",
   "ids": {
    "igdb": "spider-man-edge-of-time",
+   "metacritic": "spider-man-edge-of-time",
    "mobygames": "53138"
   },
   "label_en": "Spider-Man: Edge of Time",
@@ -120,6 +126,7 @@
   "enwiki": "Cocoto Magic Circus",
   "ids": {
    "igdb": "cocoto-magic-circus",
+   "metacritic": "cocoto-magic-circus",
    "mobygames": "85157"
   },
   "label_en": "Cocoto Magic Circus",
@@ -137,6 +144,7 @@
   "enwiki": "Monster 4x4: World Circuit",
   "ids": {
    "igdb": "monster-4x4-world-circuit",
+   "metacritic": "monster-4x4-world-circuit",
    "mobygames": "22310"
   },
   "label_en": "Monster 4x4: World Circuit",
@@ -197,6 +205,9 @@
  },
  {
   "enwiki": "Spin Up",
+  "ids": {
+   "metacritic": "spin-up"
+  },
   "label_en": "Spin Up",
   "wikidata": "Q18215998"
  },
@@ -204,6 +215,7 @@
   "ids": {
    "howlongtobeat": "32282",
    "igdb": "the-men-of-yoshiwara-kikuya",
+   "metacritic": "the-men-of-yoshiwara-kikuya",
    "mobygames": "83523",
    "pcgamingwiki": "The_Men_of_Yoshiwara:_Kikuya",
    "steam": "381100"
@@ -227,6 +239,7 @@
    "gog": "game/skyhill",
    "howlongtobeat": "30768",
    "igdb": "skyhill",
+   "metacritic": "skyhill",
    "mobygames": "82406",
    "pcgamingwiki": "Skyhill",
    "steam": "382140"
@@ -257,7 +270,8 @@
  {
   "enwiki": "Persona 3: Dancing in Moonlight and Persona 5: Dancing in Starlight",
   "ids": {
-   "igdb": "persona-3-dancing-in-moonlight"
+   "igdb": "persona-3-dancing-in-moonlight",
+   "metacritic": "persona-3-dancing-in-moonlight"
   },
   "label_en": "Persona 3: Dancing in Moonlight",
   "wikidata": "Q47473998"
@@ -280,6 +294,7 @@
    "epic": "worms-rumble",
    "howlongtobeat": "85497",
    "igdb": "worms-rumble",
+   "metacritic": "worms-rumble",
    "mobygames": "154857",
    "pcgamingwiki": "Worms_Rumble",
    "steam": "1186040"
@@ -290,7 +305,8 @@
  {
   "enwiki": "Super QuickHook",
   "ids": {
-   "igdb": "super-quickhook--1"
+   "igdb": "super-quickhook--1",
+   "metacritic": "super-quickhook"
   },
   "label_en": "Super QuickHook",
   "wikidata": "Q104541998"
@@ -320,6 +336,7 @@
   "ids": {
    "howlongtobeat": "98276",
    "igdb": "voice-of-cards-the-isle-dragon-roars",
+   "metacritic": "voice-of-cards-the-isle-dragon-roars",
    "mobygames": "174403",
    "pcgamingwiki": "Voice_of_Cards:_The_Isle_Dragon_Roars",
    "steam": "1113570"
@@ -331,6 +348,7 @@
   "enwiki": "James Bond 007: Everything or Nothing (GBA video game)",
   "ids": {
    "igdb": "james-bond-007-everything-or-nothing--1",
+   "metacritic": "james-bond-007-everything-or-nothing",
    "mobygames": "11741"
   },
   "label_en": "James Bond 007: Everything or Nothing",
@@ -381,6 +399,7 @@
    "howlongtobeat": "132713",
    "igdb": "beecarbonize",
    "mobygames": "206946",
+   "pcgamingwiki": "Beecarbonize",
    "steam": "2486750"
   },
   "label_en": "Beecarbonize",
@@ -391,6 +410,7 @@
   "ids": {
    "howlongtobeat": "129947",
    "igdb": "south-of-midnight",
+   "metacritic": "south-of-midnight",
    "mobygames": "240054",
    "pcgamingwiki": "South_of_Midnight",
    "steam": "1934570"
@@ -404,6 +424,7 @@
    "epic": "eternights-c2fbca",
    "howlongtobeat": "108858",
    "igdb": "eternights",
+   "metacritic": "eternights",
    "mobygames": "208666",
    "pcgamingwiki": "Eternights",
    "steam": "1402110"
@@ -416,6 +437,7 @@
   "ids": {
    "howlongtobeat": "129242",
    "igdb": "greyhill-incident",
+   "metacritic": "greyhill-incident",
    "mobygames": "204194",
    "steam": "1905020"
   },
@@ -749,6 +771,7 @@
    "epic": "kill-knight-e981b3",
    "howlongtobeat": "148487",
    "igdb": "kill-knight",
+   "metacritic": "kill-knight",
    "mobygames": "231441",
    "pcgamingwiki": "Kill_Knight",
    "steam": "2694420"

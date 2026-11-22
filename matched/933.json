@@ -5,6 +5,7 @@
    "gog": "game/swat_4_gold_edition",
    "howlongtobeat": "9498",
    "igdb": "swat-4",
+   "metacritic": "swat-4",
    "mobygames": "17218",
    "pcgamingwiki": "SWAT_4"
   },
@@ -15,6 +16,7 @@
   "enwiki": "Lupin the 3rd: Treasure of the Sorcerer King",
   "ids": {
    "igdb": "lupin-the-3rd-treasure-of-the-sorcerer-king",
+   "metacritic": "lupin-the-3rd-treasure-of-the-sorcerer-king",
    "mobygames": "16011"
   },
   "label_en": "Lupin the 3rd: Treasure of the Sorcerer King",
@@ -24,6 +26,7 @@
   "enwiki": "Sonic Rivals",
   "ids": {
    "igdb": "sonic-rivals",
+   "metacritic": "sonic-rivals",
    "mobygames": "25589"
   },
   "label_en": "Sonic Rivals",
@@ -33,6 +36,7 @@
   "enwiki": "Fatal Frame (video game)",
   "ids": {
    "igdb": "fatal-frame",
+   "metacritic": "fatal-frame",
    "mobygames": "5961"
   },
   "label_en": "Fatal Frame",
@@ -42,6 +46,7 @@
   "enwiki": "Football Manager 2010",
   "ids": {
    "igdb": "football-manager-2010",
+   "metacritic": "football-manager-2010",
    "mobygames": "46646",
    "pcgamingwiki": "Football_Manager_2010",
    "steam": "34000"
@@ -54,6 +59,7 @@
   "ids": {
    "howlongtobeat": "10497",
    "igdb": "tony-hawk-s-pro-skater-hd",
+   "metacritic": "tony-hawks-pro-skater-hd",
    "mobygames": "65209",
    "pcgamingwiki": "Tony_Hawk's_Pro_Skater_HD",
    "steam": "207210"
@@ -76,6 +82,7 @@
   "ids": {
    "howlongtobeat": "8709",
    "igdb": "socom-us-navy-seals-fireteam-bravo-3",
+   "metacritic": "socom-u-s-navy-seals-fireteam-bravo-3",
    "mobygames": "83672"
   },
   "label_en": "SOCOM U.S. Navy SEALs: Fireteam Bravo 3",
@@ -85,6 +92,7 @@
   "enwiki": "Fuse (video game)",
   "ids": {
    "igdb": "fuse",
+   "metacritic": "fuse-2013",
    "mobygames": "60723"
   },
   "label_en": "Fuse",
@@ -95,6 +103,7 @@
   "ids": {
    "howlongtobeat": "10344",
    "igdb": "time-crisis-ii",
+   "metacritic": "time-crisis-ii",
    "mobygames": "5080"
   },
   "label_en": "Time Crisis II",
@@ -104,6 +113,7 @@
   "enwiki": "Cooking Mama 3: Shop & Chop",
   "ids": {
    "igdb": "cooking-mama-3-shop-chop",
+   "metacritic": "cooking-mama-3-shop-and-chop",
    "mobygames": "68440"
   },
   "label_en": "Cooking Mama 3: Shop & Chop",
@@ -113,6 +123,7 @@
   "enwiki": "Trioncube",
   "ids": {
    "igdb": "trioncube",
+   "metacritic": "trioncube",
    "mobygames": "85459"
   },
   "label_en": "Trioncube",
@@ -205,7 +216,8 @@
   "enwiki": "Mage Gauntlet",
   "ids": {
    "howlongtobeat": "5520",
-   "igdb": "mage-gauntlet"
+   "igdb": "mage-gauntlet",
+   "metacritic": "mage-gauntlet"
   },
   "label_en": "Mage Gauntlet",
   "wikidata": "Q18215933"
@@ -215,6 +227,7 @@
   "ids": {
    "howlongtobeat": "24671",
    "igdb": "final-fantasy-type-0-hd",
+   "metacritic": "final-fantasy-type-0-hd",
    "mobygames": "59658",
    "pcgamingwiki": "Final_Fantasy_Type-0_HD",
    "steam": "340170"
@@ -242,6 +255,7 @@
   "ids": {
    "howlongtobeat": "58369",
    "igdb": "ao-international-tennis",
+   "metacritic": "ao-international-tennis",
    "mobygames": "107944",
    "pcgamingwiki": "AO_International_Tennis",
    "steam": "758410"
@@ -284,6 +298,7 @@
    "gog": "game/automachef",
    "howlongtobeat": "69296",
    "igdb": "automachef",
+   "metacritic": "automachef",
    "mobygames": "130062",
    "pcgamingwiki": "Automachef",
    "steam": "984800"
@@ -305,6 +320,7 @@
    "gog": "game/mages_initiation_reign_of_the_elements",
    "howlongtobeat": "66853",
    "igdb": "mages-initiation",
+   "metacritic": "mages-initiation-reign-of-the-elements",
    "mobygames": "121392",
    "pcgamingwiki": "Mage's_Initiation:_Reign_of_the_Elements",
    "steam": "270610"
@@ -343,7 +359,9 @@
   "ids": {
    "howlongtobeat": "96717",
    "igdb": "mayhem-brawler",
+   "metacritic": "mayhem-brawler",
    "mobygames": "169544",
+   "pcgamingwiki": "Mayhem_Brawler",
    "steam": "1306720"
   },
   "label_en": "Mayhem Brawler",
@@ -387,6 +405,9 @@
  },
  {
   "enwiki": "Diggin' Dogs",
+  "ids": {
+   "metacritic": "diggin-dogs"
+  },
   "label_en": "Diggin' Dogs",
   "wikidata": "Q122145933"
  },
@@ -637,6 +658,7 @@
   "ids": {
    "howlongtobeat": "90300",
    "igdb": "scrabdackle",
+   "metacritic": "scrabdackle",
    "mobygames": "254846",
    "steam": "1578720"
   },
@@ -765,6 +787,7 @@
    "epic": "until-dawn",
    "howlongtobeat": "21924",
    "igdb": "until-dawn--1",
+   "metacritic": "until-dawn",
    "mobygames": "231438",
    "pcgamingwiki": "Until_Dawn",
    "steam": "2172010"
@@ -834,6 +857,7 @@
    "gog": "game/giana_sisters_rise_of_the_owlverlord",
    "howlongtobeat": "13718",
    "igdb": "giana-sisters-twisted-dreams-rise-of-the-owlverlord--1",
+   "metacritic": "giana-sisters-twisted-dreams-rise-of-the-owlver",
    "mobygames": "84774",
    "pcgamingwiki": "Giana_Sisters:_Twisted_Dreams_-_Rise_of_the_Owlverlord",
    "steam": "246960"
@@ -842,6 +866,9 @@
   "wikidata": "Q133248933"
  },
  {
+  "ids": {
+   "metacritic": "chickenhare-and-the-treasure-of-spiking-beard"
+  },
   "label_en": "Chickenhare and the Treasure of Spiking Beard",
   "wikidata": "Q134070933"
  },

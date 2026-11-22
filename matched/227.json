@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "21973",
    "igdb": "star-wars-super-bombad-racing",
+   "metacritic": "star-wars-super-bombad-racing",
    "mobygames": "3926"
   },
   "label_en": "Star Wars: Super Bombad Racing",
@@ -42,6 +43,7 @@
   "ids": {
    "howlongtobeat": "15218",
    "igdb": "fifa-street-3",
+   "metacritic": "fifa-street-3",
    "mobygames": "35511"
   },
   "label_en": "FIFA Street 3",
@@ -52,6 +54,7 @@
   "ids": {
    "howlongtobeat": "7161",
    "igdb": "pokemon-platinum-version",
+   "metacritic": "pokemon-platinum-version",
    "mobygames": "41397"
   },
   "label_en": "Pokémon Platinum",
@@ -138,6 +141,7 @@
   "ids": {
    "howlongtobeat": "37250",
    "igdb": "root-double-before-crime-star-after-days",
+   "metacritic": "root-double-before-crime-after-days-xtend-edition",
    "mobygames": "105259",
    "pcgamingwiki": "Root_Double_-Before_Crime_*_After_Days-",
    "steam": "438130"
@@ -208,6 +212,7 @@
   "ids": {
    "howlongtobeat": "31114",
    "igdb": "marine-park-empire",
+   "metacritic": "marine-park-empire",
    "mobygames": "39410",
    "pcgamingwiki": "Marine_Park_Empire",
    "steam": "294730"
@@ -228,6 +233,7 @@
    "epic": "motogp-21",
    "howlongtobeat": "91298",
    "igdb": "motogp-21",
+   "metacritic": "motogp-21",
    "mobygames": "161872",
    "pcgamingwiki": "MotoGP_21",
    "steam": "1447000"
@@ -237,6 +243,7 @@
  },
  {
   "ids": {
+   "metacritic": "airforce-delta-storm",
    "mobygames": "8976"
   },
   "label_en": "Airforce Delta Storm",
@@ -246,6 +253,7 @@
   "ids": {
    "howlongtobeat": "40498",
    "igdb": "sakura-nova",
+   "metacritic": "sakura-nova",
    "mobygames": "82776",
    "pcgamingwiki": "Sakura_Nova",
    "steam": "539670"
@@ -319,6 +327,7 @@
   "ids": {
    "howlongtobeat": "106193",
    "igdb": "lunacid",
+   "metacritic": "lunacid",
    "mobygames": "195905",
    "pcgamingwiki": "Lunacid",
    "steam": "1745510"
@@ -390,6 +399,7 @@
   "ids": {
    "howlongtobeat": "20285",
    "igdb": "chessmaster-live",
+   "metacritic": "chessmaster-live",
    "mobygames": "45816"
   },
   "label_en": "Chessmaster Live",
@@ -448,6 +458,7 @@
    "gog": "game/rough_justice_84",
    "howlongtobeat": "127797",
    "igdb": "rough-justice-84",
+   "metacritic": "rough-justice-84",
    "mobygames": "200444",
    "pcgamingwiki": "Rough_Justice:_'84",
    "steam": "1291860"
@@ -486,6 +497,7 @@
   "ids": {
    "howlongtobeat": "70177",
    "igdb": "sisters-royale-five-sisters-under-fire",
+   "metacritic": "sisters-royale-five-sisters-under-fire",
    "mobygames": "130275",
    "pcgamingwiki": "Sisters_Royale:_Five_Sisters_Under_Fire",
    "steam": "1133300"
@@ -682,6 +694,9 @@
   "wikidata": "Q124074227"
  },
  {
+  "ids": {
+   "metacritic": "amakano-2"
+  },
   "label_en": "Amakano 2",
   "wikidata": "Q126067227"
  },

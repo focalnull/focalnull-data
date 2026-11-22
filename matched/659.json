@@ -37,6 +37,7 @@
   "ids": {
    "howlongtobeat": "3486",
    "igdb": "final-fantasy-crystal-chronicles-my-life-as-a-darklord",
+   "metacritic": "final-fantasy-crystal-chronicles-my-life-as-a-dar",
    "mobygames": "91062"
   },
   "label_en": "Final Fantasy Crystal Chronicles: My Life as a Darklord",
@@ -127,6 +128,7 @@
   "enwiki": "Silent Scope 3",
   "ids": {
    "igdb": "silent-scope-3",
+   "metacritic": "silent-scope-3",
    "mobygames": "7421"
   },
   "label_en": "Silent Scope 3",
@@ -161,6 +163,7 @@
   "enwiki": "Pokémon Battle Trozei",
   "ids": {
    "igdb": "pokemon-battle-trozei",
+   "metacritic": "pokemon-battle-trozei",
    "mobygames": "69509"
   },
   "label_en": "Pokémon Battle Trozei",
@@ -171,6 +174,7 @@
   "ids": {
    "howlongtobeat": "20586",
    "igdb": "hohokum",
+   "metacritic": "hohokum",
    "mobygames": "72094",
    "steam": "1210550"
   },
@@ -183,6 +187,7 @@
    "epic": "borderlands-the-pre-sequel",
    "howlongtobeat": "21248",
    "igdb": "borderlands-the-pre-sequel",
+   "metacritic": "borderlands-the-pre-sequel",
    "mobygames": "69548",
    "pcgamingwiki": "Borderlands:_The_Pre-Sequel",
    "steam": "261640"
@@ -207,6 +212,7 @@
   "ids": {
    "howlongtobeat": "4935",
    "igdb": "karateka--1",
+   "metacritic": "karateka",
    "mobygames": "63174",
    "pcgamingwiki": "Karateka_(2012)",
    "steam": "217270"
@@ -217,6 +223,7 @@
  {
   "ids": {
    "igdb": "dc-comics-legends",
+   "metacritic": "dc-legends",
    "mobygames": "81458"
   },
   "label_en": "DC Legends",
@@ -248,6 +255,7 @@
    "epic": "remnant-from-the-ashes",
    "howlongtobeat": "68318",
    "igdb": "remnant-from-the-ashes",
+   "metacritic": "remnant-from-the-ashes",
    "mobygames": "133346",
    "pcgamingwiki": "Remnant:_From_the_Ashes",
    "steam": "617290"
@@ -268,6 +276,7 @@
   "ids": {
    "howlongtobeat": "30952",
    "igdb": "extreme-exorcism",
+   "metacritic": "extreme-exorcism",
    "mobygames": "86882",
    "pcgamingwiki": "Extreme_Exorcism",
    "steam": "334100"
@@ -333,6 +342,7 @@
   "ids": {
    "howlongtobeat": "49524",
    "igdb": "trivia-vault-mini-mixed-trivia-3",
+   "metacritic": "trivia-vault-mini-mixed-trivia-3",
    "pcgamingwiki": "Trivia_Vault:_Mini_Mixed_Trivia_3",
    "steam": "710110"
   },
@@ -373,6 +383,7 @@
  {
   "ids": {
    "igdb": "don-king-boxing",
+   "metacritic": "don-king-boxing",
    "mobygames": "54499"
   },
   "label_en": "Don King Boxing",
@@ -810,6 +821,7 @@
    "gog": "game/abaddon_princess_of_the_decay",
    "howlongtobeat": "99237",
    "igdb": "abaddon-princess-of-the-decay",
+   "metacritic": "abaddon-princess-of-the-decay",
    "mobygames": "177259",
    "pcgamingwiki": "Abaddon:_Princess_of_the_Decay"
   },

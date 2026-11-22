@@ -45,6 +45,7 @@
   "enwiki": "XCar: Experimental Racing",
   "ids": {
    "igdb": "xcar-experimental-racing",
+   "metacritic": "xcar-experimental-racing",
    "mobygames": "6481"
   },
   "label_en": "XCar: Experimental Racing",
@@ -64,6 +65,7 @@
   "ids": {
    "howlongtobeat": "5092",
    "igdb": "klonoa-2-dream-champ-tournament",
+   "metacritic": "klonoa-2-dream-champ-tournament",
    "mobygames": "20568"
   },
   "label_en": "Klonoa 2: Dream Champ Tournament",
@@ -83,6 +85,7 @@
   "ids": {
    "howlongtobeat": "3012",
    "igdb": "dynasty-warriors-gundam-3",
+   "metacritic": "dynasty-warriors-gundam-3",
    "mobygames": "83536"
   },
   "label_en": "Dynasty Warriors: Gundam 3",
@@ -93,6 +96,7 @@
   "ids": {
    "howlongtobeat": "24895",
    "igdb": "operation-vietnam",
+   "metacritic": "operation-vietnam",
    "mobygames": "42435"
   },
   "label_en": "Operation: Vietnam",
@@ -179,6 +183,7 @@
   "ids": {
    "howlongtobeat": "7095",
    "igdb": "planet-explorers",
+   "metacritic": "planet-explorers",
    "mobygames": "84302",
    "pcgamingwiki": "Planet_Explorers",
    "steam": "237870"
@@ -192,6 +197,7 @@
    "gog": "game/odallus_the_dark_call",
    "howlongtobeat": "22545",
    "igdb": "odallus-the-dark-call",
+   "metacritic": "odallus-the-dark-call",
    "mobygames": "82501",
    "pcgamingwiki": "Odallus:_The_Dark_Call",
    "steam": "319480"
@@ -222,6 +228,7 @@
   "ids": {
    "howlongtobeat": "29165",
    "igdb": "ink",
+   "metacritic": "ink",
    "mobygames": "96134",
    "pcgamingwiki": "INK",
    "steam": "385710"
@@ -268,6 +275,7 @@
   "ids": {
    "howlongtobeat": "95410",
    "igdb": "heavenly-bodies",
+   "metacritic": "heavenly-bodies",
    "mobygames": "176383",
    "pcgamingwiki": "Heavenly_Bodies",
    "steam": "1138850"
@@ -278,6 +286,7 @@
  {
   "ids": {
    "igdb": "color-flash",
+   "metacritic": "color-flash",
    "mobygames": "189417",
    "steam": "1832230"
   },
@@ -305,6 +314,7 @@
    "gog": "game/fury_unleashed",
    "howlongtobeat": "46993",
    "igdb": "fury-unleashed",
+   "metacritic": "fury-unleashed",
    "mobygames": "99742",
    "pcgamingwiki": "Fury_Unleashed",
    "steam": "465200"
@@ -327,6 +337,7 @@
   "ids": {
    "howlongtobeat": "48848",
    "igdb": "windscape",
+   "metacritic": "windscape",
    "mobygames": "107620",
    "pcgamingwiki": "Windscape",
    "steam": "363950"
@@ -339,6 +350,7 @@
   "ids": {
    "howlongtobeat": "118230",
    "igdb": "armored-core-vi-fires-of-rubicon",
+   "metacritic": "armored-core-vi-fires-of-rubicon",
    "mobygames": "207710",
    "pcgamingwiki": "Armored_Core_VI:_Fires_of_Rubicon",
    "steam": "1888160"
@@ -623,6 +635,7 @@
    "gog": "game/rising_lords",
    "howlongtobeat": "142934",
    "igdb": "rising-lords",
+   "metacritic": "rising-lords",
    "mobygames": "146023",
    "pcgamingwiki": "Rising_Lords",
    "steam": "835650"
@@ -836,6 +849,7 @@
  {
   "ids": {
    "igdb": "toon-tanks",
+   "metacritic": "toon-tanks",
    "mobygames": "100974"
   },
   "label_en": "Toon Tanks",

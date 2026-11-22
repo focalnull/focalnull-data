@@ -5,6 +5,7 @@
    "gog": "game/sid_meiers_alpha_centauri",
    "howlongtobeat": "8497",
    "igdb": "sid-meier-s-alpha-centauri",
+   "metacritic": "sid-meiers-alpha-centauri",
    "mobygames": "4",
    "pcgamingwiki": "Sid_Meier's_Alpha_Centauri",
    "steam": "2204130"
@@ -45,6 +46,7 @@
    "gog": "game/secret_files_tunguska",
    "howlongtobeat": "8210",
    "igdb": "secret-files-tunguska",
+   "metacritic": "secret-files-tunguska",
    "mobygames": "23910",
    "pcgamingwiki": "Secret_Files:_Tunguska",
    "steam": "40330"
@@ -57,6 +59,7 @@
   "ids": {
    "howlongtobeat": "4725",
    "igdb": "inversion",
+   "metacritic": "inversion",
    "mobygames": "56458",
    "pcgamingwiki": "Inversion",
    "steam": "212410"
@@ -92,6 +95,7 @@
  {
   "ids": {
    "igdb": "flatout-head-on",
+   "metacritic": "flatout-head-on",
    "mobygames": "36659"
   },
   "label_en": "FlatOut: Head On",
@@ -119,6 +123,7 @@
   "enwiki": "PlayStation Move Heroes",
   "ids": {
    "igdb": "playstation-move-heroes",
+   "metacritic": "playstation-move-heroes",
    "mobygames": "84889"
   },
   "label_en": "PlayStation Move Heroes",
@@ -152,6 +157,7 @@
    "gog": "game/alien_breed_3_descent",
    "howlongtobeat": "347",
    "igdb": "alien-breed-3-descent",
+   "metacritic": "alien-breed-3-descent",
    "mobygames": "53339",
    "pcgamingwiki": "Alien_Breed_3:_Descent",
    "steam": "22670"
@@ -162,7 +168,8 @@
  {
   "enwiki": "FusionFall",
   "ids": {
-   "igdb": "cartoon-network-universe-fusionfall"
+   "igdb": "cartoon-network-universe-fusionfall",
+   "metacritic": "cartoon-network-universe-fusionfall"
   },
   "label_en": "FusionFall",
   "wikidata": "Q5047412"
@@ -189,6 +196,7 @@
   "enwiki": "Fire Pro Wrestling 2",
   "ids": {
    "igdb": "fire-pro-wrestling-2",
+   "metacritic": "fire-pro-wrestling-2",
    "mobygames": "23535"
   },
   "label_en": "Fire Pro Wrestling 2",
@@ -230,6 +238,7 @@
   "ids": {
    "howlongtobeat": "14393",
    "igdb": "deadfall-adventures",
+   "metacritic": "deadfall-adventures",
    "mobygames": "63544",
    "pcgamingwiki": "Deadfall_Adventures",
    "steam": "231330"
@@ -252,6 +261,7 @@
    "gog": "game/donut_county",
    "howlongtobeat": "51323",
    "igdb": "donut-county",
+   "metacritic": "donut-county",
    "mobygames": "112927",
    "pcgamingwiki": "Donut_County",
    "steam": "702670"
@@ -285,6 +295,7 @@
    "gog": "game/everything",
    "howlongtobeat": "45196",
    "igdb": "everything",
+   "metacritic": "everything",
    "mobygames": "85799",
    "pcgamingwiki": "Everything",
    "steam": "582270"
@@ -307,6 +318,7 @@
    "gog": "game/wolfenstein_ii_the_new_colossus",
    "howlongtobeat": "46420",
    "igdb": "wolfenstein-ii-the-new-colossus",
+   "metacritic": "wolfenstein-ii-the-new-colossus",
    "mobygames": "97559",
    "pcgamingwiki": "Wolfenstein_II:_The_New_Colossus",
    "steam": "612880"
@@ -362,6 +374,7 @@
   "ids": {
    "howlongtobeat": "65849",
    "igdb": "rhythm-doctor",
+   "metacritic": "rhythm-doctor",
    "mobygames": "159429",
    "pcgamingwiki": "Rhythm_Doctor",
    "steam": "774181"
@@ -375,6 +388,7 @@
    "gog": "game/overboard",
    "howlongtobeat": "93626",
    "igdb": "overboard--2",
+   "metacritic": "overboard-2021",
    "mobygames": "165815",
    "pcgamingwiki": "Overboard!_(2021)",
    "steam": "1546920"
@@ -415,6 +429,7 @@
   "ids": {
    "howlongtobeat": "107029",
    "igdb": "ganryu-2",
+   "metacritic": "ganryu-2-hakuma-kojiro",
    "mobygames": "197957",
    "pcgamingwiki": "Ganryu_2",
    "steam": "1856910"
@@ -438,6 +453,7 @@
    "epic": "rez-plz-324485",
    "howlongtobeat": "87538",
    "igdb": "rez-plz",
+   "metacritic": "rez-plz",
    "mobygames": "147829",
    "pcgamingwiki": "Rez_Plz",
    "steam": "911680"
@@ -470,6 +486,7 @@
    "gog": "game/bioshock_2_remastered",
    "howlongtobeat": "1066",
    "igdb": "bioshock-2-remastered",
+   "metacritic": "bioshock-2-remastered",
    "mobygames": "80835",
    "pcgamingwiki": "BioShock_2_Remastered",
    "steam": "409720"
@@ -480,6 +497,7 @@
  {
   "ids": {
    "igdb": "eqqo--1",
+   "metacritic": "eqqo",
    "steam": "2940170"
   },
   "label_en": "EQQO",
@@ -1262,13 +1280,5 @@
  {
   "label_en": "Lunatic Dawn: 3rd Book",
   "wikidata": "Q141008412"
- },
- {
-  "ids": {
-   "igdb": "strings-of-fate-xi-magic-dream",
-   "steam": "2965220"
-  },
-  "label_en": "Strings of Fate XI: Magic dream",
-  "wikidata": "Q142109412"
  }
 ]

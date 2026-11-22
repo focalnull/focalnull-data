@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "655",
    "igdb": "assassin-s-creed-iii",
+   "metacritic": "assassins-creed-iii",
    "mobygames": "58716",
    "pcgamingwiki": "Assassin's_Creed_III",
    "steam": "208480"
@@ -15,6 +16,7 @@
   "enwiki": "G-Darius",
   "ids": {
    "igdb": "g-darius",
+   "metacritic": "g-darius-hd",
    "mobygames": "4301",
    "pcgamingwiki": "G-Darius"
   },
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "11009",
    "igdb": "wall-e",
+   "metacritic": "wall-e",
    "mobygames": "37197",
    "pcgamingwiki": "WALL-E",
    "steam": "331750"
@@ -66,6 +69,7 @@
   "ids": {
    "howlongtobeat": "2806",
    "igdb": "dragon-blade-wrath-of-fire",
+   "metacritic": "dragon-blade-wrath-of-fire",
    "mobygames": "47681"
   },
   "label_en": "Dragon Blade: Wrath of Fire",
@@ -75,6 +79,7 @@
   "enwiki": "Dual Hearts",
   "ids": {
    "igdb": "dual-hearts",
+   "metacritic": "dual-hearts",
    "mobygames": "21763"
   },
   "label_en": "Dual Hearts",
@@ -85,6 +90,7 @@
   "ids": {
    "howlongtobeat": "16155",
    "igdb": "kirikou--1",
+   "metacritic": "kirikou-2001",
    "mobygames": "12287",
    "pcgamingwiki": "Kirikou"
   },
@@ -189,6 +195,7 @@
    "epic": "assassins-creed-syndicate",
    "howlongtobeat": "26706",
    "igdb": "assassins-creed-syndicate",
+   "metacritic": "assassins-creed-syndicate",
    "mobygames": "75473",
    "pcgamingwiki": "Assassin's_Creed_Syndicate",
    "steam": "368500"
@@ -200,6 +207,7 @@
   "ids": {
    "howlongtobeat": "24665",
    "igdb": "hektor",
+   "metacritic": "hektor",
    "mobygames": "71995",
    "pcgamingwiki": "Hektor",
    "steam": "334070"
@@ -222,6 +230,7 @@
    "epic": "mordhau",
    "howlongtobeat": "66786",
    "igdb": "mordhau",
+   "metacritic": "mordhau",
    "mobygames": "126134",
    "pcgamingwiki": "Mordhau",
    "steam": "629760"
@@ -256,6 +265,7 @@
   "ids": {
    "howlongtobeat": "69535",
    "igdb": "boneworks",
+   "metacritic": "boneworks",
    "mobygames": "138351",
    "pcgamingwiki": "Boneworks",
    "steam": "823500"
@@ -266,6 +276,7 @@
  {
   "ids": {
    "igdb": "archimedes-eureka",
+   "pcgamingwiki": "Archimedes:_Eureka!",
    "steam": "667030"
   },
   "label_en": "Archimedes: Eureka!",
@@ -427,6 +438,7 @@
    "howlongtobeat": "102681",
    "igdb": "fears-to-fathom-norwood-hitchhike",
    "mobygames": "177643",
+   "pcgamingwiki": "Fears_to_Fathom:_Nordwood_Hitchhike",
    "steam": "1763050"
   },
   "label_en": "Fears to Fathom - Norwood Hitchhike",
@@ -653,6 +665,7 @@
   "ids": {
    "howlongtobeat": "46691",
    "igdb": "bedfellows-frenzy",
+   "metacritic": "bedfellows-frenzy",
    "pcgamingwiki": "Bedfellows_Frenzy",
    "steam": "545430"
   },
@@ -802,6 +815,7 @@
   "ids": {
    "howlongtobeat": "165843",
    "igdb": "tamagotchi-plaza",
+   "metacritic": "tamagotchi-plaza",
    "mobygames": "244347"
   },
   "label_en": "Tamagotchi Plaza",
@@ -1146,6 +1160,13 @@
   },
   "label_en": "Hentai Shinobi",
   "wikidata": "Q141481166"
+ },
+ {
+  "ids": {
+   "mobygames": "182052"
+  },
+  "label_en": "Crayon Shin-chan - Puzzle dai maō no nazo",
+  "wikidata": "Q141787166"
  },
  {
   "ids": {

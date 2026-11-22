@@ -26,6 +26,7 @@
   "enwiki": "Brothers in Arms: D-Day",
   "ids": {
    "igdb": "brothers-in-arms-d-day",
+   "metacritic": "brothers-in-arms-d-day",
    "mobygames": "26401"
   },
   "label_en": "Brothers in Arms: D-Day",
@@ -35,6 +36,7 @@
   "enwiki": "Rock Revolution",
   "ids": {
    "igdb": "rock-revolution",
+   "metacritic": "rock-revolution",
    "mobygames": "45919"
   },
   "label_en": "Rock Revolution",
@@ -96,6 +98,7 @@
   "enwiki": "NBA Street Showdown",
   "ids": {
    "igdb": "nba-street-showdown",
+   "metacritic": "nba-street-showdown",
    "mobygames": "18886"
   },
   "label_en": "NBA Street Showdown",
@@ -103,7 +106,8 @@
  },
  {
   "ids": {
-   "igdb": "blitzkrieg-2-fall-of-the-reich"
+   "igdb": "blitzkrieg-2-fall-of-the-reich",
+   "metacritic": "blitzkrieg-ii-fall-of-the-reich"
   },
   "label_en": "Blitzkrieg 2: Fall Of The Reich",
   "wikidata": "Q4088251"
@@ -122,6 +126,7 @@
   "ids": {
    "howlongtobeat": "34006",
    "igdb": "bcv-battle-construction-vehicles",
+   "metacritic": "bcv-battle-construction-vehicles",
    "mobygames": "55556"
   },
   "label_en": "BCV: Battle Construction Vehicles",
@@ -158,6 +163,7 @@
   "ids": {
    "howlongtobeat": "30476",
    "igdb": "fifa-16",
+   "metacritic": "fifa-16",
    "mobygames": "78352",
    "pcgamingwiki": "FIFA_16"
   },
@@ -169,6 +175,7 @@
   "ids": {
    "howlongtobeat": "52455",
    "igdb": "psychedelica-of-the-black-butterfly",
+   "metacritic": "psychedelica-of-the-black-butterfly",
    "mobygames": "107787",
    "pcgamingwiki": "Psychedelica_of_the_Black_Butterfly",
    "steam": "865820"
@@ -221,6 +228,7 @@
   "ids": {
    "howlongtobeat": "60399",
    "igdb": "emily-wants-to-play-too",
+   "metacritic": "emily-wants-to-play-too",
    "mobygames": "99469",
    "pcgamingwiki": "Emily_Wants_to_Play_Too",
    "steam": "652190"
@@ -244,6 +252,7 @@
    "gog": "game/vaporum",
    "howlongtobeat": "49521",
    "igdb": "vaporum",
+   "metacritic": "vaporum",
    "mobygames": "96563",
    "pcgamingwiki": "Vaporum",
    "steam": "629690"
@@ -257,6 +266,7 @@
    "gog": "game/darksiders_warmastered_edition",
    "howlongtobeat": "2243",
    "igdb": "darksiders-warmastered-edition",
+   "metacritic": "darksiders-warmastered-edition",
    "mobygames": "81734",
    "pcgamingwiki": "Darksiders_Warmastered_Edition",
    "steam": "462780"
@@ -279,6 +289,7 @@
   "enwiki": "Supercross (2000 video game)",
   "ids": {
    "igdb": "supercross",
+   "metacritic": "supercross",
    "mobygames": "37576"
   },
   "label_en": "Supercross",
@@ -289,6 +300,7 @@
    "gog": "game/nelly_cootalot_the_fowl_fleet",
    "howlongtobeat": "36004",
    "igdb": "nelly-cootalot-the-fowl-fleet",
+   "metacritic": "nelly-cootalot-the-fowl-fleet",
    "mobygames": "84669",
    "pcgamingwiki": "Nelly_Cootalot:_The_Fowl_Fleet",
    "steam": "317320"
@@ -326,6 +338,7 @@
    "gog": "game/backbone",
    "howlongtobeat": "62990",
    "igdb": "tails-noir--1",
+   "metacritic": "backbone",
    "mobygames": "166033",
    "pcgamingwiki": "Backbone",
    "steam": "865610"
@@ -347,6 +360,7 @@
   "enwiki": "Street Supremacy",
   "ids": {
    "igdb": "street-supremacy",
+   "metacritic": "street-supremacy",
    "mobygames": "35996"
   },
   "label_en": "Street Supremacy",
@@ -457,6 +471,7 @@
    "howlongtobeat": "131935",
    "igdb": "demon-lord-reincarnation",
    "mobygames": "206130",
+   "pcgamingwiki": "Demon_Lord_Reincarnation",
    "steam": "2395150"
   },
   "label_en": "Demon Lord Reincarnation",
@@ -787,6 +802,7 @@
   "ids": {
    "howlongtobeat": "94615",
    "igdb": "mountain-bike-adrenaline",
+   "metacritic": "mountain-bike-adrenaline",
    "mobygames": "33652",
    "pcgamingwiki": "Mountain_Bike_Adrenaline"
   },
@@ -1098,6 +1114,7 @@
  {
   "ids": {
    "igdb": "darkwood-ii",
+   "pcgamingwiki": "Darkwood_2",
    "steam": "3708010"
   },
   "label_en": "Darkwood 2",

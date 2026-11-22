@@ -4,6 +4,7 @@
   "ids": {
    "gog": "game/1nsane",
    "igdb": "1nsane",
+   "metacritic": "1nsane",
    "mobygames": "2933",
    "pcgamingwiki": "1nsane"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "8387",
    "igdb": "shatter",
+   "metacritic": "shatter",
    "mobygames": "41864",
    "pcgamingwiki": "Shatter",
    "steam": "20820"
@@ -26,6 +28,7 @@
   "enwiki": "Driver 76",
   "ids": {
    "igdb": "driver-76",
+   "metacritic": "driver-76",
    "mobygames": "28163"
   },
   "label_en": "Driver 76",
@@ -37,6 +40,7 @@
    "gog": "game/xcom_enforcer",
    "howlongtobeat": "11364",
    "igdb": "x-com-enforcer",
+   "metacritic": "x-com-enforcer",
    "mobygames": "3922",
    "pcgamingwiki": "X-COM:_Enforcer",
    "steam": "7770"
@@ -50,6 +54,7 @@
    "gog": "game/gray_matter",
    "howlongtobeat": "4088",
    "igdb": "gray-matter",
+   "metacritic": "gray-matter",
    "mobygames": "49129",
    "pcgamingwiki": "Gray_Matter",
    "steam": "260570"
@@ -63,6 +68,7 @@
    "gog": "game/timeshift",
    "howlongtobeat": "10361",
    "igdb": "timeshift",
+   "metacritic": "timeshift",
    "mobygames": "30907",
    "pcgamingwiki": "TimeShift",
    "steam": "10130"
@@ -102,6 +108,7 @@
   "enwiki": "Lander (video game)",
   "ids": {
    "igdb": "lander",
+   "metacritic": "lander",
    "mobygames": "7429",
    "pcgamingwiki": "Lander"
   },
@@ -148,6 +155,7 @@
   "enwiki": "Dragon's Crown",
   "ids": {
    "igdb": "dragon-s-crown",
+   "metacritic": "dragons-crown",
    "mobygames": "61582"
   },
   "label_en": "Dragon's Crown",
@@ -174,6 +182,7 @@
   "enwiki": "Superbike 2001",
   "ids": {
    "igdb": "superbike-2001",
+   "metacritic": "superbike-2001",
    "mobygames": "3039",
    "pcgamingwiki": "Superbike_2001"
   },
@@ -222,6 +231,7 @@
   "ids": {
    "howlongtobeat": "20787",
    "igdb": "infamous-first-light",
+   "metacritic": "infamous-first-light",
    "mobygames": "68538"
   },
   "label_en": "Infamous First Light",
@@ -233,6 +243,7 @@
    "gog": "game/strafe",
    "howlongtobeat": "33340",
    "igdb": "strafe",
+   "metacritic": "strafe",
    "mobygames": "88299",
    "pcgamingwiki": "Strafe",
    "steam": "442780"
@@ -258,6 +269,7 @@
    "gog": "game/subterrain",
    "howlongtobeat": "26152",
    "igdb": "subterrain",
+   "metacritic": "subterrain",
    "mobygames": "87589",
    "pcgamingwiki": "Subterrain",
    "steam": "340490"
@@ -270,6 +282,7 @@
   "ids": {
    "howlongtobeat": "39815",
    "igdb": "voez",
+   "metacritic": "voez",
    "mobygames": "84890"
   },
   "label_en": "VOEZ",
@@ -279,6 +292,7 @@
   "enwiki": "Raiden V",
   "ids": {
    "igdb": "raiden-v",
+   "metacritic": "raiden-v",
    "mobygames": "97200",
    "pcgamingwiki": "Raiden_V:_Director's_Cut"
   },
@@ -301,6 +315,7 @@
   "ids": {
    "howlongtobeat": "50618",
    "igdb": "danger-zone",
+   "metacritic": "danger-zone",
    "mobygames": "89580",
    "pcgamingwiki": "Danger_Zone",
    "steam": "604740"
@@ -323,6 +338,7 @@
    "gog": "game/attentat_1942",
    "howlongtobeat": "55338",
    "igdb": "attentat-1942",
+   "metacritic": "attentat-1942",
    "mobygames": "98087",
    "pcgamingwiki": "Attentat_1942",
    "steam": "676630"
@@ -358,7 +374,7 @@
    "igdb": "f24-stealth-fighter",
    "mobygames": "85452"
   },
-  "label_en": "F24: Stealth Fighter",
+  "label_en": "F-24: Stealth Fighter",
   "wikidata": "Q92039045"
  },
  {
@@ -367,6 +383,7 @@
    "gog": "game/neo_cab",
    "howlongtobeat": "57334",
    "igdb": "neo-cab",
+   "metacritic": "neo-cab",
    "mobygames": "126020",
    "pcgamingwiki": "Neo_Cab",
    "steam": "794540"
@@ -377,6 +394,7 @@
  {
   "ids": {
    "igdb": "principia-master-of-science",
+   "pcgamingwiki": "Principia:_Master_of_Science",
    "steam": "491470"
   },
   "label_en": "PRINCIPIA: Master of Science",
@@ -439,6 +457,7 @@
   "ids": {
    "howlongtobeat": "98216",
    "igdb": "super-squidlit",
+   "metacritic": "super-squidlit",
    "mobygames": "168286",
    "steam": "1813100"
   },
@@ -463,6 +482,7 @@
    "gog": "game/song_of_nunu_a_league_of_legends_story",
    "howlongtobeat": "100440",
    "igdb": "song-of-nunu-a-league-of-legends-story",
+   "metacritic": "song-of-nunu-a-league-of-legends-story",
    "mobygames": "211215",
    "pcgamingwiki": "Song_of_Nunu:_A_League_of_Legends_Story",
    "steam": "1333200"
@@ -870,6 +890,7 @@
   "ids": {
    "howlongtobeat": "40575",
    "igdb": "spiritsphere",
+   "metacritic": "spiritsphere",
    "mobygames": "110366",
    "pcgamingwiki": "SpiritSphere",
    "steam": "458170"
@@ -932,6 +953,7 @@
  {
   "ids": {
    "igdb": "quadcopter-pilot-challenge",
+   "metacritic": "quadcopter-pilot-challenge",
    "mobygames": "88459"
   },
   "label_en": "Quadcopter Pilot Challenge",
@@ -1276,6 +1298,7 @@
  {
   "ids": {
    "igdb": "night-runners-prologue--1",
+   "pcgamingwiki": "Night-Runners_Prologue",
    "steam": "2707900"
   },
   "label_en": "NIGHT-RUNNERS™ PROLOGUE",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "41",
    "igdb": "1080-snowboarding",
+   "metacritic": "1080-teneighty-snowboarding",
    "mobygames": "8384"
   },
   "label_en": "1080° Snowboarding",
@@ -12,7 +13,8 @@
  {
   "enwiki": "Kinect Sesame Street TV",
   "ids": {
-   "igdb": "kinect-sesame-street-tv"
+   "igdb": "kinect-sesame-street-tv",
+   "metacritic": "kinect-sesame-street-tv"
   },
   "label_en": "Kinect Sesame Street TV",
   "wikidata": "Q511615"
@@ -31,6 +33,7 @@
   "enwiki": "Pushmo",
   "ids": {
    "igdb": "pushmo",
+   "metacritic": "pushmo",
    "mobygames": "53890"
   },
   "label_en": "Pushmo",
@@ -51,6 +54,7 @@
   "ids": {
    "howlongtobeat": "1126",
    "igdb": "bladestorm-the-hundred-years-war",
+   "metacritic": "bladestorm-the-hundred-years-war",
    "mobygames": "32444"
   },
   "label_en": "Bladestorm: The Hundred Years' War",
@@ -200,6 +204,7 @@
   "enwiki": "Combat Elite: WWII Paratroopers",
   "ids": {
    "igdb": "combat-elite-wwii-paratroopers",
+   "metacritic": "combat-elite-wwii-paratroopers",
    "mobygames": "85874"
   },
   "label_en": "Combat Elite: WWII Paratroopers",
@@ -209,6 +214,7 @@
   "enwiki": "Emergency Mayhem",
   "ids": {
    "igdb": "emergency-mayhem",
+   "metacritic": "emergency-mayhem",
    "mobygames": "34678"
   },
   "label_en": "Emergency Mayhem",
@@ -237,6 +243,7 @@
   "ids": {
    "howlongtobeat": "13720",
    "igdb": "scribblenauts-unmasked-a-dc-comics-adventure",
+   "metacritic": "scribblenauts-unmasked-a-dc-comics-adventure",
    "mobygames": "91586",
    "pcgamingwiki": "Scribblenauts_Unmasked:_A_DC_Comics_Adventure",
    "steam": "249870"
@@ -255,6 +262,7 @@
    "gog": "game/icewind_dale_enhanced_edition",
    "howlongtobeat": "21060",
    "igdb": "icewind-dale-enhanced-edition",
+   "metacritic": "icewind-dale-enhanced-edition",
    "mobygames": "70285",
    "pcgamingwiki": "Icewind_Dale:_Enhanced_Edition",
    "steam": "321800"
@@ -271,6 +279,7 @@
    "gog": "game/transport_fever",
    "howlongtobeat": "40862",
    "igdb": "transport-fever",
+   "metacritic": "transport-fever",
    "mobygames": "83256",
    "pcgamingwiki": "Transport_Fever",
    "steam": "446800"
@@ -285,6 +294,7 @@
  {
   "ids": {
    "igdb": "anglers-club-ultimate-bass-fishing-3d",
+   "metacritic": "anglers-club-ultimate-bass-fishing-3d",
    "mobygames": "90254"
   },
   "label_en": "Angler's Club: Ultimate Bass Fishing 3D",
@@ -299,6 +309,9 @@
   "wikidata": "Q63195615"
  },
  {
+  "ids": {
+   "metacritic": "hyperforma"
+  },
   "label_en": "Hyperforma",
   "wikidata": "Q97658615"
  },
@@ -315,6 +328,7 @@
   "ids": {
    "howlongtobeat": "19158",
    "igdb": "dead-bits",
+   "metacritic": "dead-bits",
    "mobygames": "84936",
    "pcgamingwiki": "Dead_Bits",
    "steam": "303390"
@@ -357,6 +371,7 @@
   "ids": {
    "howlongtobeat": "109852",
    "igdb": "little-noah-scion-of-paradise",
+   "metacritic": "little-noah-scion-of-paradise",
    "mobygames": "187439",
    "pcgamingwiki": "Little_Noah:_Scion_of_Paradise",
    "steam": "1883260"
@@ -378,6 +393,7 @@
   "ids": {
    "howlongtobeat": "17930",
    "igdb": "0rbitalis",
+   "metacritic": "0rbitalis",
    "mobygames": "78848",
    "pcgamingwiki": "0rbitalis",
    "steam": "278440"
@@ -430,6 +446,7 @@
   "ids": {
    "howlongtobeat": "124979",
    "igdb": "crossfire-sierra-squad",
+   "metacritic": "crossfire-sierra-squad",
    "mobygames": "209741",
    "steam": "1636030"
   },
@@ -843,6 +860,7 @@
    "gog": "game/rogue_waters",
    "howlongtobeat": "155716",
    "igdb": "rogue-waters",
+   "metacritic": "rogue-waters",
    "mobygames": "231317",
    "pcgamingwiki": "Rogue_Waters",
    "steam": "1691190"
@@ -863,6 +881,7 @@
  {
   "ids": {
    "igdb": "finnish-cottage-simulator",
+   "metacritic": "finnish-cottage-simulator",
    "steam": "1723780"
   },
   "label_en": "Finnish Cottage Simulator",
@@ -1153,6 +1172,7 @@
  {
   "ids": {
    "igdb": "18-plus-memory",
+   "pcgamingwiki": "18+_MEMORY",
    "steam": "1222470"
   },
   "label_en": "18+ Memory",

@@ -3,6 +3,7 @@
   "enwiki": "Futurama (video game)",
   "ids": {
    "igdb": "futurama",
+   "metacritic": "futurama",
    "mobygames": "10076"
   },
   "label_en": "Futurama",
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "10041",
    "igdb": "the-legend-of-zelda-phantom-hourglass",
+   "metacritic": "the-legend-of-zelda-phantom-hourglass",
    "mobygames": "30522"
   },
   "label_en": "The Legend of Zelda: Phantom Hourglass",
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "7029",
    "igdb": "phoenix-wright-ace-attorney-justice-for-all",
+   "metacritic": "phoenix-wright-ace-attorney-trials-and",
    "mobygames": "29944"
   },
   "label_en": "Phoenix Wright: Ace Attorney – Trials and Tribulations",
@@ -46,6 +49,7 @@
   "ids": {
    "howlongtobeat": "339",
    "igdb": "alice-in-wonderland",
+   "metacritic": "alice-in-wonderland",
    "mobygames": "46770",
    "pcgamingwiki": "Alice_in_Wonderland",
    "steam": "316030"
@@ -110,6 +114,7 @@
   "enwiki": "Tarr Chronicles",
   "ids": {
    "igdb": "tarr-chronicles",
+   "metacritic": "tarr-chronicles",
    "mobygames": "44590"
   },
   "label_en": "Tarr Chronicles",
@@ -228,6 +233,7 @@
   "ids": {
    "howlongtobeat": "13810",
    "igdb": "disneys-chicken-little--1",
+   "metacritic": "disneys-chicken-little",
    "mobygames": "20102",
    "pcgamingwiki": "Disney's_Chicken_Little",
    "steam": "339040"
@@ -241,6 +247,7 @@
    "gog": "game/jazzpunk",
    "howlongtobeat": "11865",
    "igdb": "jazzpunk",
+   "metacritic": "jazzpunk",
    "mobygames": "65274",
    "pcgamingwiki": "Jazzpunk",
    "steam": "250260"
@@ -253,6 +260,7 @@
   "ids": {
    "howlongtobeat": "15694",
    "igdb": "maia",
+   "metacritic": "maia",
    "mobygames": "117617",
    "pcgamingwiki": "Maia",
    "steam": "252250"
@@ -265,6 +273,7 @@
   "ids": {
    "howlongtobeat": "39319",
    "igdb": "attack-on-titan",
+   "metacritic": "attack-on-titan",
    "mobygames": "87305",
    "pcgamingwiki": "Attack_on_Titan",
    "steam": "449800"
@@ -284,6 +293,7 @@
   "ids": {
    "howlongtobeat": "20949",
    "igdb": "orion-prelude",
+   "metacritic": "orion-dino-horde",
    "mobygames": "78693",
    "pcgamingwiki": "Orion:_Prelude",
    "steam": "104900"
@@ -297,6 +307,7 @@
    "gog": "game/moon_hunters",
    "howlongtobeat": "33004",
    "igdb": "moon-hunters--1",
+   "metacritic": "moon-hunters",
    "mobygames": "82930",
    "pcgamingwiki": "Moon_Hunters",
    "steam": "320040"
@@ -309,6 +320,7 @@
    "gog": "game/tetrobot_and_co",
    "howlongtobeat": "14502",
    "igdb": "tetrobot-and-co",
+   "metacritic": "tetrobot-and-co",
    "mobygames": "69894",
    "pcgamingwiki": "Tetrobot_and_Co.",
    "steam": "235980"
@@ -432,6 +444,7 @@
    "epic": "redout-2",
    "howlongtobeat": "105621",
    "igdb": "redout-2",
+   "metacritic": "redout-2",
    "mobygames": "185986",
    "pcgamingwiki": "Redout_2",
    "steam": "1799930"
@@ -444,6 +457,7 @@
   "ids": {
    "howlongtobeat": "113596",
    "igdb": "synduality-echo-of-ada",
+   "metacritic": "synduality-echo-of-ada",
    "pcgamingwiki": "Synduality:_Echo_of_Ada",
    "steam": "1245480"
   },
@@ -454,6 +468,7 @@
   "enwiki": "Who's That Flying?!",
   "ids": {
    "igdb": "whos-that-flying",
+   "metacritic": "whos-that-flying",
    "pcgamingwiki": "Who's_That_Flying?!",
    "steam": "57700"
   },
@@ -729,6 +744,7 @@
   "ids": {
    "howlongtobeat": "131635",
    "igdb": "elrentaros-wanderings--1",
+   "metacritic": "rear-sekai",
    "steam": "2904100"
   },
   "label_en": "Elrentaros Wanderings",
@@ -740,6 +756,7 @@
    "epic": "ebenezer-and-the-invisible-world-9241e7",
    "howlongtobeat": "129968",
    "igdb": "ebenezer-and-the-invisible-world",
+   "metacritic": "ebenezer-and-the-invisible-world",
    "mobygames": "211398",
    "steam": "2351120"
   },
@@ -761,6 +778,7 @@
   "ids": {
    "howlongtobeat": "25906",
    "igdb": "dogfight-battle-for-the-pacific",
+   "metacritic": "dogfight-battle-for-the-pacific",
    "mobygames": "38852"
   },
   "label_en": "Dogfight: Battle for the Pacific",

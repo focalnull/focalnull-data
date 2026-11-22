@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1768",
    "igdb": "clubhouse-games",
+   "metacritic": "clubhouse-games",
    "mobygames": "24366"
   },
   "label_en": "Clubhouse Games",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "5393",
    "igdb": "lost-odyssey",
+   "metacritic": "lost-odyssey",
    "mobygames": "33332"
   },
   "label_en": "Lost Odyssey",
@@ -37,6 +39,7 @@
   "ids": {
    "howlongtobeat": "6931",
    "igdb": "passage",
+   "metacritic": "passage-2007",
    "mobygames": "31454",
    "pcgamingwiki": "Passage"
   },
@@ -52,6 +55,7 @@
    "gog": "game/myst_masterpiece_edition",
    "howlongtobeat": "6312",
    "igdb": "myst-masterpiece-edition",
+   "metacritic": "myst-masterpiece-edition",
    "mobygames": "1253",
    "pcgamingwiki": "Myst",
    "steam": "63660"
@@ -130,6 +134,7 @@
   "ids": {
    "howlongtobeat": "1103",
    "igdb": "black-rock-shooter-the-game",
+   "metacritic": "black-rock-shooter-the-game",
    "mobygames": "53663"
   },
   "label_en": "Black Rock Shooter: The Game",
@@ -180,6 +185,7 @@
   "enwiki": "NFL Street",
   "ids": {
    "igdb": "nfl-street",
+   "metacritic": "nfl-street",
    "mobygames": "12193"
   },
   "label_en": "NFL Street",
@@ -258,6 +264,7 @@
   "ids": {
    "howlongtobeat": "3601",
    "igdb": "flipnic-ultimate-pinball",
+   "metacritic": "flipnic-ultimate-pinball",
    "mobygames": "20205"
   },
   "label_en": "Flipnic: Ultimate Pinball",
@@ -310,6 +317,7 @@
   "ids": {
    "howlongtobeat": "17552",
    "igdb": "wonderputt",
+   "metacritic": "wonderputt",
    "mobygames": "61589"
   },
   "label_en": "Wonderputt",
@@ -350,6 +358,7 @@
    "gog": "game/clash_artifacts_of_chaos",
    "howlongtobeat": "123683",
    "igdb": "clash-artifacts-of-chaos",
+   "metacritic": "clash-artifacts-of-chaos",
    "mobygames": "200272",
    "pcgamingwiki": "Clash:_Artifacts_of_Chaos",
    "steam": "1430680"
@@ -872,7 +881,8 @@
  },
  {
   "ids": {
-   "igdb": "funky-physics"
+   "igdb": "funky-physics",
+   "metacritic": "funky-physics"
   },
   "label_en": "Funky Physics",
   "wikidata": "Q128693753"
@@ -880,6 +890,7 @@
  {
   "ids": {
    "igdb": "with-my-past",
+   "metacritic": "with-my-past",
    "steam": "2524360"
   },
   "label_en": "With My Past",

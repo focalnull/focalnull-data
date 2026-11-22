@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "2404",
    "igdb": "defender",
+   "metacritic": "defender",
    "mobygames": "140",
    "pcgamingwiki": "Defender"
   },
@@ -60,6 +61,7 @@
   "ids": {
    "howlongtobeat": "3897",
    "igdb": "geometry-wars-retro-evolved",
+   "metacritic": "geometry-wars-retro-evolved",
    "mobygames": "23390",
    "pcgamingwiki": "Geometry_Wars:_Retro_Evolved",
    "steam": "8400"
@@ -94,6 +96,7 @@
   "ids": {
    "howlongtobeat": "4346",
    "igdb": "hasbro-family-game-night",
+   "metacritic": "hasbro-family-game-night",
    "mobygames": "88247"
   },
   "label_en": "Hasbro Family Game Night",
@@ -112,6 +115,7 @@
    "gog": "game/etherlords",
    "howlongtobeat": "3190",
    "igdb": "etherlords",
+   "metacritic": "etherlords",
    "mobygames": "5546",
    "pcgamingwiki": "Etherlords",
    "steam": "270770"
@@ -137,7 +141,8 @@
   "enwiki": "Furmins",
   "ids": {
    "howlongtobeat": "21740",
-   "igdb": "furmins"
+   "igdb": "furmins",
+   "metacritic": "furmins"
   },
   "label_en": "Furmins",
   "wikidata": "Q5509593"
@@ -219,6 +224,7 @@
   "ids": {
    "howlongtobeat": "18939",
    "igdb": "mind-zero",
+   "metacritic": "mind-zero",
    "mobygames": "87946",
    "pcgamingwiki": "Mind_Zero",
    "steam": "322630"
@@ -231,6 +237,7 @@
   "ids": {
    "howlongtobeat": "28652",
    "igdb": "magic-duels",
+   "metacritic": "magic-duels-origins",
    "mobygames": "103660",
    "pcgamingwiki": "Magic_Duels",
    "steam": "316010"
@@ -243,6 +250,7 @@
   "ids": {
    "howlongtobeat": "46485",
    "igdb": "god-wars-future-past",
+   "metacritic": "god-wars-future-past",
    "mobygames": "90922"
   },
   "label_en": "God Wars: Future Past",
@@ -278,7 +286,9 @@
  {
   "ids": {
    "igdb": "bouncy-ducks",
-   "mobygames": "93481"
+   "metacritic": "bouncy-ducks",
+   "mobygames": "93481",
+   "pcgamingwiki": "Bouncy_Ducks"
   },
   "label_en": "Bouncy Ducks",
   "wikidata": "Q55091593"
@@ -287,6 +297,7 @@
   "ids": {
    "howlongtobeat": "51751",
    "igdb": "accounting-plus",
+   "metacritic": "accounting-plus",
    "mobygames": "99970",
    "pcgamingwiki": "Accounting+",
    "steam": "927270"
@@ -296,12 +307,16 @@
  },
  {
   "ids": {
-   "howlongtobeat": "15141"
+   "howlongtobeat": "15141",
+   "metacritic": "dead-rising-2-case-zero"
   },
   "label_en": "Dead Rising 2: Case Zero",
   "wikidata": "Q63195593"
  },
  {
+  "ids": {
+   "metacritic": "star-wars-pinball-balance-of-the-force"
+  },
   "label_en": "Star Wars Pinball: Balance of the Force",
   "wikidata": "Q66762593"
  },
@@ -310,6 +325,7 @@
   "ids": {
    "howlongtobeat": "64424",
    "igdb": "a-fishermans-tale",
+   "metacritic": "a-fishermans-tale",
    "mobygames": "120866",
    "pcgamingwiki": "A_Fisherman's_Tale",
    "steam": "559330"
@@ -325,6 +341,9 @@
   "wikidata": "Q108032593"
  },
  {
+  "ids": {
+   "metacritic": "an-npcs-odyssey"
+  },
   "label_en": "An NPC's Odyssey",
   "wikidata": "Q111051593"
  },
@@ -404,6 +423,7 @@
    "epic": "aces-of-the-luftwaffe-squadron-97086d",
    "howlongtobeat": "58557",
    "igdb": "aces-of-the-luftwaffe-squadron",
+   "metacritic": "aces-of-the-luftwaffe-squadron",
    "mobygames": "98637",
    "pcgamingwiki": "Aces_of_the_Luftwaffe_-_Squadron",
    "steam": "859350"
@@ -413,6 +433,7 @@
  },
  {
   "ids": {
+   "metacritic": "midnight-nowhere",
    "mobygames": "12880"
   },
   "label_en": "Midnight Nowhere",
@@ -1087,6 +1108,7 @@
  {
   "ids": {
    "igdb": "gnomes--1",
+   "pcgamingwiki": "Gnomes",
    "steam": "3133060"
   },
   "label_en": "Gnomes",
@@ -1106,6 +1128,7 @@
  {
   "ids": {
    "igdb": "bad-magpie",
+   "metacritic": "bad-magpie",
    "mobygames": "262496",
    "pcgamingwiki": "Bad_Magpie",
    "steam": "4278970"

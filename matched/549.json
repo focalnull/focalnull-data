@@ -3,6 +3,7 @@
   "enwiki": "Resistance: Fall of Man",
   "ids": {
    "igdb": "resistance-fall-of-man",
+   "metacritic": "resistance-fall-of-man",
    "mobygames": "25088"
   },
   "label_en": "Resistance: Fall of Man",
@@ -23,6 +24,7 @@
    "gog": "game/stronghold",
    "howlongtobeat": "9277",
    "igdb": "stronghold",
+   "metacritic": "stronghold",
    "mobygames": "5212",
    "pcgamingwiki": "Stronghold_(2001)",
    "steam": "40950"
@@ -60,6 +62,7 @@
   "ids": {
    "howlongtobeat": "9542",
    "igdb": "syphon-filter-dark-mirror",
+   "metacritic": "syphon-filter-dark-mirror",
    "mobygames": "22121"
   },
   "label_en": "Syphon Filter: Dark Mirror",
@@ -84,6 +87,7 @@
    "gog": "game/independence_war_2",
    "howlongtobeat": "4660",
    "igdb": "independence-war-2-edge-of-chaos",
+   "metacritic": "independence-war-2-edge-of-chaos",
    "mobygames": "4416",
    "pcgamingwiki": "Independence_War_2:_Edge_of_Chaos",
    "steam": "359630"
@@ -138,6 +142,7 @@
   "ids": {
    "howlongtobeat": "1400",
    "igdb": "burn-zombie-burn",
+   "metacritic": "burn-zombie-burn",
    "mobygames": "42634",
    "pcgamingwiki": "Burn_Zombie_Burn!",
    "steam": "50510"
@@ -170,6 +175,7 @@
   "enwiki": "EA Sports Active 2",
   "ids": {
    "igdb": "ea-sports-active-2",
+   "metacritic": "ea-sports-active-2",
    "mobygames": "53043"
   },
   "label_en": "EA Sports Active 2",
@@ -187,6 +193,7 @@
   "enwiki": "Golf: Tee It Up!",
   "ids": {
    "igdb": "golf-tee-it-up",
+   "metacritic": "golf-tee-it-up",
    "mobygames": "47672"
   },
   "label_en": "Golf: Tee It Up!",
@@ -196,6 +203,7 @@
   "enwiki": "RedCard 2003",
   "ids": {
    "igdb": "redcard-2003",
+   "metacritic": "redcard-20-03",
    "mobygames": "6329"
   },
   "label_en": "RedCard 2003",
@@ -214,6 +222,7 @@
   "ids": {
    "howlongtobeat": "8057",
    "igdb": "safecracker-the-ultimate-puzzle-adventure",
+   "metacritic": "safecracker-the-ultimate-puzzle-adventure",
    "mobygames": "24244",
    "pcgamingwiki": "Safecracker:_The_Ultimate_Puzzle_Adventure",
    "steam": "3260"
@@ -230,6 +239,7 @@
   "wikidata": "Q7977549"
  },
  {
+  "label_en": "Makikou: Mystery Adventure",
   "wikidata": "Q11247549"
  },
  {
@@ -247,6 +257,7 @@
   "enwiki": "NHL 14",
   "ids": {
    "igdb": "nhl-14",
+   "metacritic": "nhl-14",
    "mobygames": "65199"
   },
   "label_en": "NHL 14",
@@ -256,6 +267,7 @@
   "enwiki": "Fret Nice",
   "ids": {
    "igdb": "fret-nice",
+   "metacritic": "fret-nice",
    "mobygames": "47634"
   },
   "label_en": "Fret Nice",
@@ -287,6 +299,7 @@
   "ids": {
    "howlongtobeat": "38286",
    "igdb": "fable-fortune",
+   "metacritic": "fable-fortune",
    "mobygames": "103972",
    "pcgamingwiki": "Fable_Fortune",
    "steam": "469830"
@@ -357,6 +370,7 @@
   "ids": {
    "howlongtobeat": "105537",
    "igdb": "wwe-2k22",
+   "metacritic": "wwe-2k22",
    "mobygames": "181175",
    "pcgamingwiki": "WWE_2K22",
    "steam": "1255630"
@@ -430,6 +444,7 @@
    "epic": "final-fantasy-vii-remake-intergrade",
    "howlongtobeat": "57686",
    "igdb": "final-fantasy-vii-remake-intergrade",
+   "metacritic": "final-fantasy-vii-remake-intergrade",
    "mobygames": "163363",
    "pcgamingwiki": "Final_Fantasy_VII_Remake_Intergrade",
    "steam": "1462040"
@@ -844,6 +859,7 @@
    "epic": "suicide-guy-9f7963",
    "howlongtobeat": "47380",
    "igdb": "suicide-guy",
+   "metacritic": "suicide-guy",
    "mobygames": "92653",
    "pcgamingwiki": "Suicide_Guy",
    "steam": "303610"
@@ -1206,6 +1222,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Prinny_Party:_Going_Overboard!",
    "steam": "4509300"
   },
   "label_en": "Prinny Party: Going Overboard!",

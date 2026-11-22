@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1802",
    "igdb": "colin-mcrae-rally-3",
+   "metacritic": "colin-mcrae-rally-3",
    "mobygames": "8684",
    "pcgamingwiki": "Colin_McRae_Rally_3"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "5636",
    "igdb": "mario-kart-ds",
+   "metacritic": "mario-kart-ds",
    "mobygames": "20164"
   },
   "label_en": "Mario Kart DS",
@@ -34,6 +36,7 @@
   "enwiki": "Midnight Club: Street Racing",
   "ids": {
    "igdb": "midnight-club-street-racing",
+   "metacritic": "midnight-club-street-racing",
    "mobygames": "5164"
   },
   "label_en": "Midnight Club: Street Racing",
@@ -54,6 +57,7 @@
   "ids": {
    "howlongtobeat": "11834",
    "igdb": "atv-offroad-fury-blazin-trails",
+   "metacritic": "atv-offroad-fury-blazin-trails",
    "mobygames": "35053"
   },
   "label_en": "ATV Offroad Fury: Blazin' Trails",
@@ -105,6 +109,7 @@
    "gog": "game/among_the_sleep",
    "howlongtobeat": "441",
    "igdb": "among-the-sleep",
+   "metacritic": "among-the-sleep",
    "mobygames": "66637",
    "pcgamingwiki": "Among_the_Sleep",
    "steam": "250620"
@@ -116,7 +121,8 @@
   "enwiki": "Dash of Destruction",
   "ids": {
    "howlongtobeat": "2262",
-   "igdb": "dash-of-destruction"
+   "igdb": "dash-of-destruction",
+   "metacritic": "dash-of-destruction"
   },
   "label_en": "Dash of Destruction",
   "wikidata": "Q5226564"
@@ -234,6 +240,7 @@
   "ids": {
    "howlongtobeat": "36377",
    "igdb": "mlb-the-show-16",
+   "metacritic": "mlb-the-show-16",
    "mobygames": "83312"
   },
   "label_en": "MLB: The Show 16",
@@ -245,6 +252,7 @@
    "gog": "game/dungeon_souls",
    "howlongtobeat": "28421",
    "igdb": "dungeon-souls",
+   "metacritic": "dungeon-souls",
    "mobygames": "99071",
    "pcgamingwiki": "Dungeon_Souls",
    "steam": "383230"
@@ -256,6 +264,7 @@
   "ids": {
    "howlongtobeat": "36469",
    "igdb": "out-of-the-park-baseball-17",
+   "metacritic": "out-of-the-park-baseball-17",
    "mobygames": "84729",
    "pcgamingwiki": "Out_of_the_Park_Baseball_17",
    "steam": "402430"
@@ -270,6 +279,7 @@
    "gog": "game/days_gone",
    "howlongtobeat": "38003",
    "igdb": "days-gone",
+   "metacritic": "days-gone",
    "mobygames": "125834",
    "pcgamingwiki": "Days_Gone",
    "steam": "1259420"
@@ -295,6 +305,7 @@
   "ids": {
    "howlongtobeat": "37972",
    "igdb": "trials-of-the-blood-dragon",
+   "metacritic": "trials-of-the-blood-dragon",
    "mobygames": "79459",
    "pcgamingwiki": "Trials_of_the_Blood_Dragon",
    "steam": "435480"
@@ -331,6 +342,7 @@
   "ids": {
    "howlongtobeat": "52825",
    "igdb": "an-aspie-life",
+   "metacritic": "an-aspie-life",
    "mobygames": "216386",
    "pcgamingwiki": "An_Aspie_Life",
    "steam": "786410"
@@ -357,6 +369,7 @@
    "gog": "game/dicey_dungeons",
    "howlongtobeat": "69646",
    "igdb": "dicey-dungeons",
+   "metacritic": "dicey-dungeons",
    "mobygames": "132640",
    "pcgamingwiki": "Dicey_Dungeons",
    "steam": "861540"
@@ -377,7 +390,8 @@
  },
  {
   "ids": {
-   "igdb": "saint-seiya-awakening"
+   "igdb": "saint-seiya-awakening",
+   "metacritic": "saint-seiya-awakening-knights-of-the-zodiac"
   },
   "label_en": "Saint Seiya Awakening",
   "wikidata": "Q68314564"
@@ -388,6 +402,7 @@
    "gog": "game/postal_4_no_regerts",
    "howlongtobeat": "71441",
    "igdb": "postal-4-no-regerts",
+   "metacritic": "postal-4-no-regerts",
    "mobygames": "136068",
    "pcgamingwiki": "Postal_4:_No_Regerts",
    "steam": "707030"
@@ -418,6 +433,7 @@
  {
   "ids": {
    "igdb": "flotilla-2",
+   "metacritic": "flotilla-2",
    "pcgamingwiki": "Flotilla_2",
    "steam": "592100"
   },
@@ -439,6 +455,7 @@
  {
   "ids": {
    "igdb": "basketball-pinball",
+   "metacritic": "basketball-pinball",
    "mobygames": "165957",
    "steam": "2311540"
   },
@@ -523,7 +540,8 @@
  {
   "enwiki": "The Last Hope: Dead Zone Survival",
   "ids": {
-   "igdb": "the-last-hope-dead-zone-survival"
+   "igdb": "the-last-hope-dead-zone-survival",
+   "metacritic": "the-last-hope-dead-zone-survival"
   },
   "label_en": "The Last Hope: Dead Zone Survival",
   "wikidata": "Q121097564"
@@ -651,6 +669,7 @@
   "ids": {
    "howlongtobeat": "109533",
    "igdb": "alien-shooter-2-new-era",
+   "metacritic": "alien-shooter-vengeance",
    "steam": "2013300"
   },
   "label_en": "Alien Shooter 2 - New Era",
@@ -877,6 +896,7 @@
   "ids": {
    "howlongtobeat": "40024",
    "igdb": "unbox",
+   "metacritic": "unbox",
    "mobygames": "91744",
    "pcgamingwiki": "Unbox",
    "steam": "512300"
@@ -975,6 +995,7 @@
   "ids": {
    "epic": "kejora-da7e6f",
    "igdb": "kejora",
+   "metacritic": "kejora",
    "pcgamingwiki": "Kejora",
    "steam": "1410400"
   },

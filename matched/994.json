@@ -24,6 +24,7 @@
   "ids": {
    "howlongtobeat": "20016",
    "igdb": "swine",
+   "metacritic": "s-w-i-n-e",
    "mobygames": "5708",
    "pcgamingwiki": "S.W.I.N.E."
   },
@@ -72,6 +73,7 @@
   "enwiki": "Elements of Destruction",
   "ids": {
    "igdb": "elements-of-destruction",
+   "metacritic": "elements-of-destruction",
    "mobygames": "40418",
    "pcgamingwiki": "Elements_of_Destruction"
   },
@@ -83,6 +85,7 @@
   "ids": {
    "howlongtobeat": "6364",
    "igdb": "nancy-drew-the-captive-curse",
+   "metacritic": "nancy-drew-the-captive-curse",
    "mobygames": "52427",
    "pcgamingwiki": "Nancy_Drew:_The_Captive_Curse",
    "steam": "42220"
@@ -126,6 +129,7 @@
   "ids": {
    "howlongtobeat": "3606",
    "igdb": "flotilla",
+   "metacritic": "flotilla",
    "mobygames": "46410",
    "pcgamingwiki": "Flotilla",
    "steam": "55000"
@@ -165,6 +169,7 @@
   "ids": {
    "howlongtobeat": "9062",
    "igdb": "star-trek-shattered-universe",
+   "metacritic": "star-trek-shattered-universe",
    "mobygames": "16850"
   },
   "label_en": "Star Trek: Shattered Universe",
@@ -242,6 +247,7 @@
    "epic": "the-crew-2",
    "howlongtobeat": "46427",
    "igdb": "the-crew-2",
+   "metacritic": "the-crew-2",
    "mobygames": "110233",
    "pcgamingwiki": "The_Crew_2",
    "steam": "646910"
@@ -265,6 +271,7 @@
   "ids": {
    "howlongtobeat": "29089",
    "igdb": "shmadow",
+   "metacritic": "shmadow",
    "mobygames": "207540",
    "pcgamingwiki": "Shmadow",
    "steam": "397570"
@@ -309,6 +316,7 @@
   "ids": {
    "howlongtobeat": "4804",
    "igdb": "jake-hunter-detective-chronicles",
+   "metacritic": "jake-hunter-detective-chronicles",
    "mobygames": "34649"
   },
   "label_en": "Jake Hunter: Detective Chronicles",
@@ -317,6 +325,7 @@
  {
   "ids": {
    "igdb": "paralily",
+   "pcgamingwiki": "ParaLily",
    "steam": "1156760"
   },
   "label_en": "ParaLily",
@@ -607,6 +616,7 @@
   "ids": {
    "howlongtobeat": "128121",
    "igdb": "enshrouded",
+   "metacritic": "enshrouded",
    "mobygames": "216463",
    "pcgamingwiki": "Enshrouded",
    "steam": "1203620"
@@ -934,6 +944,7 @@
  {
   "ids": {
    "igdb": "eclipse-echo-of-dimension",
+   "metacritic": "eclipse-echo-of-dimension",
    "steam": "2771730"
   },
   "label_en": "Eclipse: Echo of Dimension",

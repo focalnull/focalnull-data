@@ -23,6 +23,7 @@
   "enwiki": "Buzz! Junior: Jungle Party",
   "ids": {
    "igdb": "buzz-junior-jungle-party",
+   "metacritic": "buzz-junior-jungle-party",
    "mobygames": "85237"
   },
   "label_en": "Buzz! Junior: Jungle Party",
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "12635",
    "igdb": "shootmania-storm",
+   "metacritic": "shootmania-storm",
    "mobygames": "60264",
    "pcgamingwiki": "ShootMania:_Storm",
    "steam": "229870"
@@ -53,6 +55,7 @@
   "enwiki": "NBA Live 10",
   "ids": {
    "igdb": "nba-live-10",
+   "metacritic": "nba-live-10",
    "mobygames": "47573"
   },
   "label_en": "NBA Live 10",
@@ -144,6 +147,7 @@
   "ids": {
    "howlongtobeat": "3860",
    "igdb": "gear-up",
+   "metacritic": "gear-up",
    "mobygames": "98664",
    "pcgamingwiki": "Gear_Up",
    "steam": "214420"
@@ -155,6 +159,7 @@
   "ids": {
    "howlongtobeat": "21908",
    "igdb": "new-zealand-story-revolution",
+   "metacritic": "new-zealand-story-revolution",
    "mobygames": "46696"
   },
   "label_en": "New Zealand Story Revolution",
@@ -166,6 +171,7 @@
    "gog": "game/serpent_in_the_staglands",
    "howlongtobeat": "26662",
    "igdb": "serpent-in-the-staglands",
+   "metacritic": "serpent-in-the-staglands",
    "mobygames": "109753",
    "pcgamingwiki": "Serpent_in_the_Staglands",
    "steam": "335120"
@@ -178,6 +184,7 @@
   "ids": {
    "howlongtobeat": "68387",
    "igdb": "raging-loop",
+   "metacritic": "raging-loop",
    "mobygames": "136189",
    "pcgamingwiki": "Raging_Loop",
    "steam": "648100"
@@ -189,6 +196,7 @@
   "enwiki": "Layton's Mystery Journey",
   "ids": {
    "igdb": "laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy",
+   "metacritic": "laytons-mystery-journey-katrielle-and-the",
    "mobygames": "93077"
   },
   "label_en": "Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy",
@@ -199,6 +207,7 @@
   "ids": {
    "howlongtobeat": "43428",
    "igdb": "super-bomberman-r",
+   "metacritic": "super-bomberman-r",
    "mobygames": "84825",
    "pcgamingwiki": "Super_Bomberman_R",
    "steam": "702700"
@@ -212,6 +221,7 @@
    "gog": "game/fear_effect_sedna",
    "howlongtobeat": "43539",
    "igdb": "fear-effect-sedna",
+   "metacritic": "fear-effect-sedna",
    "mobygames": "103930",
    "pcgamingwiki": "Fear_Effect_Sedna",
    "steam": "546900"
@@ -224,6 +234,7 @@
    "gog": "game/escapists_the_walking_dead_the",
    "howlongtobeat": "30643",
    "igdb": "the-escapists-the-walking-dead--1",
+   "metacritic": "the-escapists-the-walking-dead",
    "mobygames": "84695",
    "pcgamingwiki": "The_Escapists:_The_Walking_Dead",
    "steam": "388060"
@@ -289,6 +300,7 @@
   "ids": {
    "howlongtobeat": "11580",
    "igdb": "zombie-tycoon-2-brainhovs-revenge",
+   "metacritic": "zombie-tycoon-2-brainhovs-revenge",
    "mobygames": "63233",
    "pcgamingwiki": "Zombie_Tycoon_2:_Brainhov's_Revenge",
    "steam": "252270"
@@ -306,6 +318,7 @@
   "ids": {
    "howlongtobeat": "107255",
    "igdb": "dune-spice-wars",
+   "metacritic": "dune-spice-wars",
    "mobygames": "183482",
    "pcgamingwiki": "Dune:_Spice_Wars",
    "steam": "1605220"
@@ -391,6 +404,7 @@
    "gog": "game/ambition_a_minuet_in_power",
    "howlongtobeat": "96677",
    "igdb": "ambition-a-minuet-in-power",
+   "metacritic": "ambition-a-minuet-in-power",
    "mobygames": "169970",
    "pcgamingwiki": "Ambition:_A_Minuet_in_Power",
    "steam": "949200"
@@ -588,6 +602,7 @@
    "gog": "game/virgo_versus_the_zodiac",
    "howlongtobeat": "72896",
    "igdb": "virgo-versus-the-zodiac",
+   "metacritic": "virgo-vs-the-zodiac",
    "mobygames": "138384",
    "pcgamingwiki": "Virgo_versus_the_Zodiac",
    "steam": "920320"
@@ -690,6 +705,7 @@
    "epic": "thank-goodness-youre-here-aac813",
    "howlongtobeat": "134545",
    "igdb": "thank-goodness-youre-here",
+   "metacritic": "thank-goodness-youre-here",
    "mobygames": "228659",
    "pcgamingwiki": "Thank_Goodness_You're_Here!",
    "steam": "2366980"
@@ -871,6 +887,7 @@
   "ids": {
    "howlongtobeat": "24180",
    "igdb": "house-md",
+   "metacritic": "house-m-d",
    "mobygames": "48549"
   },
   "label_en": "House M.D.",
@@ -882,6 +899,7 @@
    "epic": "nancy-drew-mystery-of-the-seven-keys-a4c5fb",
    "howlongtobeat": "150134",
    "igdb": "nancy-drew-mystery-of-the-seven-keys",
+   "metacritic": "nancy-drew-mystery-of-the-seven-keys",
    "pcgamingwiki": "Nancy_Drew:_Mystery_of_the_Seven_Keys",
    "steam": "1926590"
   },
@@ -1207,6 +1225,7 @@
  {
   "ids": {
    "igdb": "stranded",
+   "pcgamingwiki": "Stranded",
    "steam": "295250"
   },
   "label_en": "Stranded",

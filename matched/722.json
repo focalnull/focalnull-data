@@ -24,6 +24,7 @@
   "enwiki": "Chaos League",
   "ids": {
    "igdb": "chaos-league",
+   "metacritic": "chaos-league",
    "mobygames": "17615",
    "pcgamingwiki": "Chaos_League"
   },
@@ -34,6 +35,7 @@
   "enwiki": "Wild Arms 3",
   "ids": {
    "igdb": "wild-arms-3",
+   "metacritic": "wild-arms-3",
    "mobygames": "6229"
   },
   "label_en": "Wild Arms 3",
@@ -44,6 +46,7 @@
   "ids": {
    "howlongtobeat": "520",
    "igdb": "ape-escape-3",
+   "metacritic": "ape-escape-3",
    "mobygames": "21522"
   },
   "label_en": "Ape Escape 3",
@@ -108,6 +111,7 @@
   "enwiki": "Dokapon Journey",
   "ids": {
    "igdb": "dokapon-journey",
+   "metacritic": "dokapon-journey",
    "mobygames": "86939"
   },
   "label_en": "Dokapon Journey",
@@ -117,6 +121,7 @@
   "enwiki": "Hubert the Teddy Bear: Winter Games",
   "ids": {
    "igdb": "hubert-the-teddy-bear-winter-games",
+   "metacritic": "hubert-the-teddy-bear-winter-games",
    "mobygames": "91402"
   },
   "label_en": "Hubert the Teddy Bear: Winter Games",
@@ -127,6 +132,7 @@
   "ids": {
    "howlongtobeat": "14264",
    "igdb": "jasf-jane-s-advanced-strike-fighters",
+   "metacritic": "jasf-janes-advanced-strike-fighters",
    "mobygames": "53865",
    "pcgamingwiki": "Jane's_Advanced_Strike_Fighters",
    "steam": "207790"
@@ -147,6 +153,7 @@
   "ids": {
    "howlongtobeat": "5641",
    "igdb": "mario-party",
+   "metacritic": "mario-party",
    "mobygames": "3537"
   },
   "label_en": "Mario Party",
@@ -184,7 +191,8 @@
  {
   "ids": {
    "howlongtobeat": "9887",
-   "igdb": "the-game-of-life-slash-yahtzee-slash-payday"
+   "igdb": "the-game-of-life-slash-yahtzee-slash-payday",
+   "metacritic": "the-game-of-life-yahtzee-payday"
   },
   "label_en": "The Game of Life/Yahtzee/Payday",
   "wikidata": "Q7735722"
@@ -224,6 +232,7 @@
  {
   "ids": {
    "igdb": "metal-gear-solid-3-subsistence",
+   "metacritic": "metal-gear-solid-3-subsistence",
    "mobygames": "21633"
   },
   "label_en": "Metal Gear Solid 3: Subsistence",
@@ -249,6 +258,7 @@
    "gog": "game/shadowrun_hong_kong_extended_edition",
    "howlongtobeat": "28017",
    "igdb": "shadowrun-hong-kong",
+   "metacritic": "shadowrun-hong-kong",
    "mobygames": "74585",
    "pcgamingwiki": "Shadowrun:_Hong_Kong",
    "steam": "346940"
@@ -279,6 +289,7 @@
   "ids": {
    "howlongtobeat": "31977",
    "igdb": "pokemon-super-mystery-dungeon--1",
+   "metacritic": "pokemon-super-mystery-dungeon",
    "mobygames": "77044"
   },
   "label_en": "Pokémon Super Mystery Dungeon",
@@ -298,6 +309,7 @@
   "ids": {
    "howlongtobeat": "43208",
    "igdb": "ride-2",
+   "metacritic": "ride-2",
    "mobygames": "83772",
    "pcgamingwiki": "Ride_2",
    "steam": "477770"
@@ -309,6 +321,7 @@
   "ids": {
    "howlongtobeat": "46033",
    "igdb": "impact-winter",
+   "metacritic": "impact-winter",
    "mobygames": "89339",
    "pcgamingwiki": "Impact_Winter",
    "steam": "468000"
@@ -320,6 +333,7 @@
   "ids": {
    "howlongtobeat": "34322",
    "igdb": "freezeme",
+   "metacritic": "freezeme",
    "mobygames": "87372",
    "pcgamingwiki": "FreezeME",
    "steam": "390210"
@@ -332,6 +346,7 @@
   "ids": {
    "howlongtobeat": "68135",
    "igdb": "ary-and-the-secret-of-seasons",
+   "metacritic": "ary-and-the-secret-of-seasons",
    "mobygames": "150039",
    "pcgamingwiki": "Ary_and_the_Secret_of_Seasons",
    "steam": "935570"
@@ -360,6 +375,7 @@
  {
   "ids": {
    "igdb": "picross-s5",
+   "metacritic": "picross-s-5",
    "mobygames": "154058"
   },
   "label_en": "Picross S5",
@@ -370,6 +386,7 @@
    "epic": "cyanide-happiness-freakpocalypse",
    "howlongtobeat": "78612",
    "igdb": "cyanide-and-happiness-freakpocalypse",
+   "metacritic": "cyanide-and-happiness-freakpocalypse",
    "mobygames": "160020",
    "pcgamingwiki": "Cyanide_&_Happiness_-_Freakpocalypse",
    "steam": "869880"
@@ -422,6 +439,7 @@
   "ids": {
    "howlongtobeat": "100406",
    "igdb": "marsupilami-hoobadventure",
+   "metacritic": "marsupilami-hoobadventure",
    "mobygames": "175680",
    "pcgamingwiki": "Marsupilami:_Hoobadventure",
    "steam": "1586700"
@@ -440,6 +458,7 @@
   "ids": {
    "howlongtobeat": "119579",
    "igdb": "super-lesbian-animal-rpg",
+   "metacritic": "super-lesbian-animal-rpg",
    "mobygames": "196633",
    "pcgamingwiki": "Super_Lesbian_Animal_RPG",
    "steam": "2124380"
@@ -835,6 +854,7 @@
   "ids": {
    "howlongtobeat": "22599",
    "igdb": "sfinx",
+   "metacritic": "sfinx",
    "mobygames": "42915",
    "pcgamingwiki": "Sfinx"
   },
@@ -846,6 +866,7 @@
    "gog": "game/quilts_and_cats_of_calico",
    "howlongtobeat": "118585",
    "igdb": "quilts-and-cats-of-calico",
+   "metacritic": "quilts-and-cats-of-calico",
    "mobygames": "218854",
    "steam": "1993180"
   },
@@ -854,7 +875,8 @@
  },
  {
   "ids": {
-   "igdb": "defense-dome"
+   "igdb": "defense-dome",
+   "metacritic": "defense-dome"
   },
   "label_en": "Defense Dome",
   "wikidata": "Q125504722"
@@ -898,6 +920,7 @@
  {
   "ids": {
    "igdb": "my-femboy-roommate",
+   "metacritic": "my-femboy-roommate",
    "mobygames": "237892",
    "pcgamingwiki": "My_Femboy_Roommate"
   },
@@ -1143,6 +1166,7 @@
  {
   "ids": {
    "igdb": "hunter-the-reckoning-the-beast-of-glenkildove",
+   "pcgamingwiki": "Hunter:_The_Reckoning_-_The_Beast_of_Glenkildove",
    "steam": "2417000"
   },
   "label_en": "Hunter: The Reckoning — The Beast of Glenkildove",

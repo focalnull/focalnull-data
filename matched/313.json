@@ -5,6 +5,7 @@
    "gog": "game/star_wars_xwing_alliance",
    "howlongtobeat": "9143",
    "igdb": "star-wars-x-wing-alliance",
+   "metacritic": "star-wars-x-wing-alliance",
    "mobygames": "1126",
    "pcgamingwiki": "Star_Wars:_X-Wing_Alliance",
    "steam": "361670"
@@ -19,6 +20,7 @@
    "gog": "game/men_of_war",
    "howlongtobeat": "5881",
    "igdb": "men-of-war",
+   "metacritic": "men-of-war",
    "mobygames": "41775",
    "pcgamingwiki": "Men_of_War",
    "steam": "7830"
@@ -31,6 +33,7 @@
   "ids": {
    "howlongtobeat": "2243",
    "igdb": "darksiders",
+   "metacritic": "darksiders",
    "mobygames": "45562",
    "pcgamingwiki": "Darksiders",
    "steam": "50620"
@@ -64,6 +67,7 @@
   "enwiki": "EyeToy: Groove",
   "ids": {
    "igdb": "eyetoy-groove",
+   "metacritic": "eyetoy-groove",
    "mobygames": "11785"
   },
   "label_en": "EyeToy: Groove",
@@ -118,6 +122,7 @@
    "gog": "game/star_trek_25th_anniversary",
    "howlongtobeat": "22887",
    "igdb": "star-trek-25th-anniversary",
+   "metacritic": "star-trek-25th-anniversary",
    "mobygames": "952",
    "pcgamingwiki": "Star_Trek:_25th_Anniversary",
    "steam": "359650"
@@ -139,6 +144,7 @@
   "ids": {
    "howlongtobeat": "6273",
    "igdb": "mushroom-men-the-spore-wars",
+   "metacritic": "mushroom-men-the-spore-wars",
    "mobygames": "38535"
   },
   "label_en": "Mushroom Men: The Spore Wars",
@@ -167,6 +173,7 @@
  {
   "ids": {
    "igdb": "tour-de-france-2014",
+   "metacritic": "tour-de-france-2014",
    "mobygames": "86736"
   },
   "label_en": "Tour de France 2014",
@@ -178,6 +185,7 @@
    "gog": "game/blackwood_crossing",
    "howlongtobeat": "44240",
    "igdb": "blackwood-crossing",
+   "metacritic": "blackwood-crossing",
    "mobygames": "86451",
    "pcgamingwiki": "Blackwood_Crossing",
    "steam": "453310"
@@ -198,6 +206,7 @@
    "gog": "game/feudal_alloy",
    "howlongtobeat": "60694",
    "igdb": "feudal-alloy",
+   "metacritic": "feudal-alloy",
    "mobygames": "103889",
    "pcgamingwiki": "Feudal_Alloy",
    "steam": "699670"
@@ -210,6 +219,7 @@
   "ids": {
    "howlongtobeat": "67297",
    "igdb": "team-sonic-racing",
+   "metacritic": "team-sonic-racing",
    "mobygames": "127324",
    "pcgamingwiki": "Team_Sonic_Racing",
    "steam": "785260"
@@ -225,6 +235,7 @@
  {
   "ids": {
    "igdb": "cooking-mama-sweet-shop",
+   "metacritic": "cooking-mama-sweet-shop",
    "mobygames": "88829"
   },
   "label_en": "Cooking Mama: Sweet Shop",
@@ -258,6 +269,7 @@
    "gog": "game/predynastic_egypt_demo",
    "howlongtobeat": "46006",
    "igdb": "predynastic-egypt",
+   "metacritic": "predynastic-egypt",
    "mobygames": "113132",
    "pcgamingwiki": "Predynastic_Egypt",
    "steam": "461620"
@@ -271,6 +283,7 @@
    "epic": "warhammer-age-of-sigmar-storm-ground",
    "howlongtobeat": "92827",
    "igdb": "warhammer-age-of-sigmar-storm-ground",
+   "metacritic": "warhammer-age-of-sigmar-storm-ground",
    "mobygames": "165438",
    "pcgamingwiki": "Warhammer_Age_of_Sigmar:_Storm_Ground",
    "steam": "1233590"
@@ -282,6 +295,7 @@
   "ids": {
    "howlongtobeat": "124850",
    "igdb": "bake-n-switch",
+   "metacritic": "bake-n-switch",
    "mobygames": "149983",
    "pcgamingwiki": "Bake_'n_Switch",
    "steam": "1080410"
@@ -295,6 +309,7 @@
    "epic": "grindstone",
    "howlongtobeat": "70715",
    "igdb": "grindstone",
+   "metacritic": "grindstone",
    "mobygames": "135344",
    "pcgamingwiki": "Grindstone",
    "steam": "1818690"
@@ -307,6 +322,7 @@
    "gog": "game/the_house_of_the_dead_remake",
    "howlongtobeat": "94254",
    "igdb": "the-house-of-the-dead-remake",
+   "metacritic": "the-house-of-the-dead-remake",
    "mobygames": "184026",
    "pcgamingwiki": "The_House_of_the_Dead:_Remake",
    "steam": "1694600"
@@ -347,6 +363,7 @@
   "ids": {
    "howlongtobeat": "47403",
    "igdb": "war-tech-fighters",
+   "metacritic": "war-tech-fighters",
    "mobygames": "94630",
    "pcgamingwiki": "War_Tech_Fighters",
    "steam": "630030"
@@ -430,6 +447,7 @@
    "gog": "game/dr_fetus_mean_meat_machine",
    "howlongtobeat": "127941",
    "igdb": "dr-fetus-mean-meat-machine",
+   "metacritic": "dr-fetus-mean-meat-machine",
    "mobygames": "204774",
    "pcgamingwiki": "Dr._Fetus'_Mean_Meat_Machine",
    "steam": "2228030"
@@ -457,6 +475,7 @@
   "enwiki": "Chessmaster 8000",
   "ids": {
    "igdb": "chessmaster-8000",
+   "metacritic": "chessmaster-8000",
    "mobygames": "3185"
   },
   "label_en": "Chessmaster 8000",
@@ -513,6 +532,7 @@
  {
   "ids": {
    "igdb": "detuned",
+   "metacritic": "detuned",
    "steam": "2325040"
   },
   "label_en": "DETUNED",

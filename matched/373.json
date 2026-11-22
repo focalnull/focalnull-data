@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6644",
    "igdb": "nintendo-land",
+   "metacritic": "nintendo-land",
    "mobygames": "59121"
   },
   "label_en": "Nintendo Land",
@@ -13,6 +14,7 @@
   "enwiki": "Sonic Riders",
   "ids": {
    "igdb": "sonic-riders",
+   "metacritic": "sonic-riders",
    "mobygames": "21419",
    "pcgamingwiki": "Sonic_Riders"
   },
@@ -24,6 +26,7 @@
   "ids": {
    "howlongtobeat": "5426",
    "igdb": "lumines",
+   "metacritic": "lumines",
    "mobygames": "17231",
    "pcgamingwiki": "Lumines",
    "steam": "11900"
@@ -36,6 +39,7 @@
   "ids": {
    "howlongtobeat": "3484",
    "igdb": "final-fantasy-crystal-chronicles",
+   "metacritic": "final-fantasy-crystal-chronicles",
    "mobygames": "10741"
   },
   "label_en": "Final Fantasy Crystal Chronicles",
@@ -68,6 +72,7 @@
    "gog": "game/incredipede",
    "howlongtobeat": "4655",
    "igdb": "incredipede",
+   "metacritic": "incredipede",
    "mobygames": "61148",
    "pcgamingwiki": "Incredipede",
    "steam": "230150"
@@ -115,6 +120,7 @@
    "gog": "game/puddle",
    "howlongtobeat": "7378",
    "igdb": "puddle",
+   "metacritic": "puddle",
    "mobygames": "56076",
    "pcgamingwiki": "Puddle",
    "steam": "222140"
@@ -136,6 +142,7 @@
   "ids": {
    "howlongtobeat": "5968",
    "igdb": "miami-nights-singles-in-the-city",
+   "metacritic": "miami-nights-singles-in-the-city",
    "mobygames": "25963"
   },
   "label_en": "Miami Nights: Singles in the City",
@@ -175,6 +182,7 @@
   "ids": {
    "howlongtobeat": "26788",
    "igdb": "gears-of-war-4",
+   "metacritic": "gears-of-war-4",
    "mobygames": "81083",
    "pcgamingwiki": "Gears_of_War_4"
   },
@@ -240,6 +248,7 @@
   "ids": {
    "igdb": "tiles",
    "mobygames": "103812",
+   "pcgamingwiki": "Tiles",
    "steam": "594750"
   },
   "label_en": "Tiles",
@@ -269,7 +278,9 @@
   "ids": {
    "howlongtobeat": "144356",
    "igdb": "hamidashi-creative",
+   "metacritic": "hamidashi-creative",
    "mobygames": "190898",
+   "pcgamingwiki": "Hamidashi_Creative",
    "steam": "1604380"
   },
   "label_en": "Hamidashi Creative",
@@ -350,6 +361,7 @@
  {
   "ids": {
    "igdb": "dreamin-her-boku-ha-kanojo-no-yume-wo-miru",
+   "metacritic": "dreamin-her",
    "mobygames": "218723",
    "steam": "1920540"
   },
@@ -369,7 +381,9 @@
   "ids": {
    "howlongtobeat": "24010",
    "igdb": "raiden-iv-x-mikado-remix",
+   "metacritic": "raiden-iv-x-mikado-remix",
    "mobygames": "163838",
+   "pcgamingwiki": "Raiden_IV_x_MIKADO_remix",
    "steam": "2002850"
   },
   "label_en": "Raiden IV x MIKADO remix",
@@ -739,7 +753,8 @@
  },
  {
   "ids": {
-   "igdb": "endless-golf"
+   "igdb": "endless-golf",
+   "metacritic": "endless-golf"
   },
   "label_en": "Endless Golf",
   "wikidata": "Q125342373"
@@ -937,6 +952,7 @@
  {
   "ids": {
    "igdb": "oblin-party",
+   "metacritic": "oblin-party",
    "mobygames": "248245",
    "pcgamingwiki": "Oblin_Party208737",
    "steam": "2643290"

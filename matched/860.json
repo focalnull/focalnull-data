@@ -14,6 +14,7 @@
    "gog": "game/tomb_raider_underworld",
    "howlongtobeat": "10482",
    "igdb": "tomb-raider-underworld",
+   "metacritic": "tomb-raider-underworld",
    "mobygames": "37816",
    "pcgamingwiki": "Tomb_Raider:_Underworld",
    "steam": "8140"
@@ -25,6 +26,7 @@
   "enwiki": "Really? Really!",
   "ids": {
    "igdb": "really-really",
+   "metacritic": "really-really",
    "mobygames": "77092"
   },
   "label_en": "Really? Really!",
@@ -35,6 +37,7 @@
    "epic": "doom-1993",
    "howlongtobeat": "10238",
    "igdb": "the-ultimate-doom",
+   "metacritic": "the-ultimate-doom",
    "mobygames": "707",
    "pcgamingwiki": "Doom_(1993)#The_Ultimate_Doom"
   },
@@ -47,6 +50,7 @@
    "gog": "game/tales_of_monkey_island",
    "howlongtobeat": "9594",
    "igdb": "tales-of-monkey-island",
+   "metacritic": "tales-of-monkey-island",
    "mobygames": "44099",
    "pcgamingwiki": "Tales_of_Monkey_Island",
    "steam": "31170"
@@ -58,6 +62,7 @@
   "enwiki": "Grabbed by the Ghoulies",
   "ids": {
    "igdb": "grabbed-by-the-ghoulies",
+   "metacritic": "grabbed-by-the-ghoulies",
    "mobygames": "10747"
   },
   "label_en": "Grabbed by the Ghoulies",
@@ -68,6 +73,7 @@
   "ids": {
    "howlongtobeat": "7393",
    "igdb": "pure",
+   "metacritic": "pure",
    "mobygames": "36377",
    "pcgamingwiki": "Pure",
    "steam": "322600"
@@ -108,6 +114,7 @@
   "ids": {
    "howlongtobeat": "1537",
    "igdb": "carmageddon-reincarnation",
+   "metacritic": "carmageddon-reincarnation",
    "mobygames": "74299",
    "pcgamingwiki": "Carmageddon:_Reincarnation",
    "steam": "249380"
@@ -128,6 +135,7 @@
   "enwiki": "Bliss Island",
   "ids": {
    "igdb": "bliss-island",
+   "metacritic": "bliss-island",
    "mobygames": "31647"
   },
   "label_en": "Bliss Island",
@@ -223,6 +231,7 @@
    "gog": "game/train_fever",
    "howlongtobeat": "28208",
    "igdb": "train-fever",
+   "metacritic": "train-fever",
    "mobygames": "83974",
    "pcgamingwiki": "Train_Fever",
    "steam": "304730"
@@ -242,6 +251,7 @@
   "ids": {
    "howlongtobeat": "28393",
    "igdb": "cradle",
+   "metacritic": "cradle",
    "mobygames": "100973",
    "pcgamingwiki": "Cradle",
    "steam": "361550"
@@ -255,6 +265,7 @@
    "gog": "game/memoria",
    "howlongtobeat": "13484",
    "igdb": "the-dark-eye-memoria",
+   "metacritic": "memoria",
    "mobygames": "62706",
    "pcgamingwiki": "Memoria",
    "steam": "243200"
@@ -267,6 +278,7 @@
   "ids": {
    "howlongtobeat": "21287",
    "igdb": "xenoblade-chronicles-x",
+   "metacritic": "xenoblade-chronicles-x",
    "mobygames": "77161"
   },
   "label_en": "Xenoblade Chronicles X",
@@ -305,6 +317,7 @@
   "enwiki": "The Tomorrow Children",
   "ids": {
    "igdb": "the-tomorrow-children",
+   "metacritic": "the-tomorrow-children",
    "mobygames": "85463"
   },
   "label_en": "The Tomorrow Children",
@@ -314,6 +327,7 @@
   "ids": {
    "howlongtobeat": "52936",
    "igdb": "true-love-confide-to-the-maple",
+   "pcgamingwiki": "True_Love:_Confide_to_the_Maple",
    "steam": "495990"
   },
   "label_en": "True Love ～Confide to the Maple～",
@@ -324,6 +338,7 @@
   "ids": {
    "howlongtobeat": "64617",
    "igdb": "badiya-desert-survival",
+   "metacritic": "badiya",
    "mobygames": "105399",
    "pcgamingwiki": "Badiya:_Desert_Survival",
    "steam": "545050"
@@ -340,6 +355,7 @@
   "ids": {
    "howlongtobeat": "62610",
    "igdb": "assassins-creed-rebellion",
+   "metacritic": "assassins-creed-rebellion",
    "mobygames": "117437"
   },
   "label_en": "Assassin's Creed: Rebellion",
@@ -349,6 +365,7 @@
   "ids": {
    "howlongtobeat": "14239",
    "igdb": "haunted-memories",
+   "metacritic": "haunted-memories",
    "pcgamingwiki": "Haunted_Memories",
    "steam": "241640"
   },
@@ -448,6 +465,7 @@
    "gog": "game/hell_pie",
    "howlongtobeat": "106966",
    "igdb": "hell-pie",
+   "metacritic": "hell-pie",
    "mobygames": "188395",
    "pcgamingwiki": "Hell_Pie",
    "steam": "889910"
@@ -602,6 +620,7 @@
   "ids": {
    "howlongtobeat": "120354",
    "igdb": "winds-and-leaves",
+   "metacritic": "winds-and-leaves",
    "mobygames": "168596",
    "steam": "1783750"
   },
@@ -780,6 +799,7 @@
   "ids": {
    "howlongtobeat": "87974",
    "igdb": "geometry-arena",
+   "metacritic": "geometry-arena",
    "mobygames": "169760",
    "steam": "1255650"
   },
@@ -924,6 +944,7 @@
   "ids": {
    "howlongtobeat": "137345",
    "igdb": "dark-auction",
+   "metacritic": "dark-auction-hitlers-estate",
    "steam": "2363180"
   },
   "label_en": "Dark Auction",
@@ -990,6 +1011,7 @@
    "gog": "game/evenicle_2",
    "howlongtobeat": "102216",
    "igdb": "evenicle-2",
+   "metacritic": "evenicle-2",
    "mobygames": "180354",
    "pcgamingwiki": "Evenicle_2"
   },
@@ -1353,6 +1375,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Feed_It",
    "steam": "4370990"
   },
   "label_en": "Feed It",

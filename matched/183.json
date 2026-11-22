@@ -3,6 +3,7 @@
   "enwiki": "Age of Conan",
   "ids": {
    "igdb": "age-of-conan-unchained",
+   "metacritic": "age-of-conan-hyborian-adventures",
    "mobygames": "34173",
    "pcgamingwiki": "Age_of_Conan:_Unchained",
    "steam": "217750"
@@ -25,6 +26,7 @@
    "gog": "game/dreamfall_chapters_season_pass",
    "howlongtobeat": "24662",
    "igdb": "dreamfall-chapters",
+   "metacritic": "dreamfall-chapters",
    "mobygames": "69404",
    "pcgamingwiki": "Dreamfall_Chapters",
    "steam": "237850"
@@ -38,6 +40,7 @@
    "gog": "game/dethkarz",
    "howlongtobeat": "77806",
    "igdb": "dethkarz",
+   "metacritic": "dethkarz",
    "mobygames": "3167",
    "pcgamingwiki": "DethKarz",
    "steam": "1257910"
@@ -77,6 +80,7 @@
   "enwiki": "FIFA Football 2002",
   "ids": {
    "igdb": "fifa-soccer-2002",
+   "metacritic": "fifa-soccer-2002",
    "mobygames": "5278",
    "pcgamingwiki": "FIFA_Football_2002"
   },
@@ -115,6 +119,7 @@
   "ids": {
    "howlongtobeat": "4460",
    "igdb": "high-school-musical-3-senior-year-dance",
+   "metacritic": "high-school-musical-3-senior-year-dance",
    "mobygames": "59528",
    "pcgamingwiki": "High_School_Musical_3:_Senior_Year_Dance",
    "steam": "346060"
@@ -126,6 +131,7 @@
   "enwiki": "Growlanser: Wayfarer of Time",
   "ids": {
    "igdb": "growlanser-iv-wayfarer-of-the-time",
+   "metacritic": "growlanser-wayfarer-of-time",
    "mobygames": "105201"
   },
   "label_en": "Growlanser Wayfarer of Time",
@@ -153,6 +159,7 @@
   "enwiki": "Dungeons & Dragons Tactics",
   "ids": {
    "igdb": "dungeons-and-dragons-tactics",
+   "metacritic": "dungeons-and-dragons-tactics",
    "mobygames": "59705"
   },
   "label_en": "Dungeons & Dragons Tactics",
@@ -278,6 +285,7 @@
   "ids": {
    "howlongtobeat": "40204",
    "igdb": "nba-2k17",
+   "metacritic": "nba-2k17",
    "mobygames": "85861",
    "pcgamingwiki": "NBA_2K17",
    "steam": "385760"
@@ -290,6 +298,7 @@
   "ids": {
    "howlongtobeat": "36893",
    "igdb": "alienation",
+   "metacritic": "alienation",
    "mobygames": "80667"
   },
   "label_en": "Alienation",
@@ -300,6 +309,7 @@
   "ids": {
    "howlongtobeat": "36381",
    "igdb": "chronicles-of-teddy-harmony-of-exidus",
+   "metacritic": "chronicles-of-teddy-harmony-of-exidus",
    "mobygames": "86976",
    "pcgamingwiki": "Chronicles_of_Teddy",
    "steam": "341020"
@@ -322,6 +332,7 @@
   "enwiki": "Fist of the North Star: Lost Paradise",
   "ids": {
    "igdb": "fist-of-the-north-star-lost-paradise",
+   "metacritic": "fist-of-the-north-star-lost-paradise",
    "mobygames": "105218"
   },
   "label_en": "Fist of the North Star: Lost Paradise",
@@ -331,6 +342,7 @@
   "ids": {
    "howlongtobeat": "57050",
    "igdb": "adventure-of-a-lifetime",
+   "metacritic": "adventure-of-a-lifetime",
    "mobygames": "116802",
    "pcgamingwiki": "Adventure_of_a_Lifetime",
    "steam": "820730"
@@ -354,6 +366,7 @@
   "ids": {
    "howlongtobeat": "52429",
    "igdb": "mecho-tales",
+   "metacritic": "mecho-tales",
    "mobygames": "96140",
    "pcgamingwiki": "Mecho_Tales",
    "steam": "714840"
@@ -455,6 +468,7 @@
   "ids": {
    "howlongtobeat": "43266",
    "igdb": "dreii",
+   "metacritic": "dreii",
    "mobygames": "86563",
    "pcgamingwiki": "Dreii",
    "steam": "298420"
@@ -497,6 +511,7 @@
   "ids": {
    "howlongtobeat": "130195",
    "igdb": "tevi",
+   "metacritic": "tevi",
    "mobygames": "212996",
    "pcgamingwiki": "Tevi",
    "steam": "2230650"

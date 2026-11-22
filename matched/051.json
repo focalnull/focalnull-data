@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "8348",
    "igdb": "shadow-of-the-colossus--1",
+   "metacritic": "shadow-of-the-colossus",
    "mobygames": "19875"
   },
   "label_en": "Shadow of the Colossus",
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "2687",
    "igdb": "donkey-kong-country-2-diddy-s-kong-quest",
+   "metacritic": "donkey-kong-country-2",
    "mobygames": "6587"
   },
   "label_en": "Donkey Kong Country 2: Diddy's Kong Quest",
@@ -60,6 +62,7 @@
   "enwiki": "Phoenix Wright: Ace Attorney – Dual Destinies",
   "ids": {
    "igdb": "phoenix-wright-ace-attorney-dual-destinies",
+   "metacritic": "phoenix-wright-ace-attorney-dual-destinies",
    "mobygames": "73455"
   },
   "label_en": "Phoenix Wright: Ace Attorney – Dual Destinies",
@@ -82,6 +85,7 @@
   "enwiki": "Archer Maclean's Mercury",
   "ids": {
    "igdb": "archer-macleans-mercury",
+   "metacritic": "archer-macleans-mercury",
    "mobygames": "17399"
   },
   "label_en": "Archer Maclean's Mercury",
@@ -109,6 +113,7 @@
   "enwiki": "Shade: Wrath of Angels",
   "ids": {
    "igdb": "shade-wrath-of-angels",
+   "metacritic": "shade-wrath-of-angels",
    "mobygames": "15145",
    "pcgamingwiki": "Shade:_Wrath_of_Angels"
   },
@@ -129,6 +134,7 @@
   "enwiki": "Strike Fighters: Project 1",
   "ids": {
    "igdb": "strike-fighters-project-1",
+   "metacritic": "strike-fighters-project-1",
    "mobygames": "30734"
   },
   "label_en": "Strike Fighters: Project 1",
@@ -159,6 +165,7 @@
   "enwiki": "Driving Emotion Type-S",
   "ids": {
    "igdb": "driving-emotion-type-s",
+   "metacritic": "driving-emotion-type-s",
    "mobygames": "3928"
   },
   "label_en": "Driving Emotion Type-S",
@@ -234,6 +241,7 @@
  {
   "ids": {
    "igdb": "once",
+   "pcgamingwiki": "Once'",
    "steam": "411880"
   },
   "label_en": "Once'",
@@ -299,6 +307,7 @@
    "gog": "game/aquamarine",
    "howlongtobeat": "104245",
    "igdb": "aquamarine--1",
+   "metacritic": "aquamarine",
    "mobygames": "187792",
    "pcgamingwiki": "Aquamarine",
    "steam": "1280750"
@@ -332,6 +341,7 @@
    "gog": "game/hrot",
    "howlongtobeat": "85353",
    "igdb": "hrot",
+   "metacritic": "hrot",
    "mobygames": "158020",
    "pcgamingwiki": "Hrot",
    "steam": "824600"
@@ -347,6 +357,7 @@
   "enwiki": "Dohna Dohna: Let's Do Bad Things Together",
   "ids": {
    "howlongtobeat": "99606",
+   "metacritic": "dohna-dohna-issho-ni-warui-koto-o-shiyou-",
    "mobygames": "197958",
    "pcgamingwiki": "Dohna_Dohna:_Let's_Do_Bad_Things_Together"
   },
@@ -357,6 +368,7 @@
   "ids": {
    "howlongtobeat": "29288",
    "igdb": "sakura-beach",
+   "metacritic": "sakura-beach",
    "mobygames": "82769",
    "pcgamingwiki": "Sakura_Beach",
    "steam": "377680"
@@ -425,6 +437,7 @@
    "gog": "game/eiyuden_chronicle_rising",
    "howlongtobeat": "93968",
    "igdb": "eiyuden-chronicle-rising",
+   "metacritic": "eiyuden-chronicle-rising",
    "mobygames": "184060",
    "pcgamingwiki": "Eiyuden_Chronicle:_Rising",
    "steam": "1658290"
@@ -1238,7 +1251,8 @@
  {
   "ids": {
    "howlongtobeat": "172970",
-   "igdb": "project-spectrum"
+   "igdb": "project-spectrum",
+   "metacritic": "project-spectrum"
   },
   "label_en": "Project Spectrum",
   "wikidata": "Q135910051"

@@ -3,6 +3,7 @@
   "enwiki": "Deca Sports (video game)",
   "ids": {
    "igdb": "deca-sports",
+   "metacritic": "deca-sports",
    "mobygames": "36248"
   },
   "label_en": "Deca Sports",
@@ -57,6 +58,7 @@
   "enwiki": "Guitar Hero: Van Halen",
   "ids": {
    "igdb": "guitar-hero-van-halen",
+   "metacritic": "guitar-hero-van-halen",
    "mobygames": "46493"
   },
   "label_en": "Guitar Hero: Van Halen",
@@ -123,6 +125,7 @@
   "ids": {
    "howlongtobeat": "6100",
    "igdb": "mlb-08-the-show",
+   "metacritic": "mlb-08-the-show",
    "mobygames": "36485"
   },
   "label_en": "MLB 08: The Show",
@@ -161,6 +164,7 @@
   "ids": {
    "howlongtobeat": "5296",
    "igdb": "lifesigns-surgical-unit",
+   "metacritic": "lifesigns-surgical-unit",
    "mobygames": "34299"
   },
   "label_en": "LifeSigns: Surgical Unit",
@@ -175,6 +179,7 @@
   "ids": {
    "howlongtobeat": "76072",
    "igdb": "the-sting",
+   "metacritic": "the-sting",
    "mobygames": "4295",
    "pcgamingwiki": "The_Sting!"
   },
@@ -192,6 +197,7 @@
   "enwiki": "Magus (video game)",
   "ids": {
    "igdb": "magus",
+   "metacritic": "magus",
    "mobygames": "83784"
   },
   "label_en": "Magus",
@@ -211,6 +217,7 @@
   "ids": {
    "howlongtobeat": "22021",
    "igdb": "deadcore",
+   "metacritic": "deadcore",
    "mobygames": "85966",
    "pcgamingwiki": "DeadCore",
    "steam": "284460"
@@ -232,6 +239,7 @@
   "ids": {
    "howlongtobeat": "24871",
    "igdb": "distance",
+   "metacritic": "distance",
    "mobygames": "92090",
    "pcgamingwiki": "Distance",
    "steam": "233610"
@@ -269,6 +277,7 @@
   "enwiki": "NBA ShootOut 2002",
   "ids": {
    "igdb": "nba-shootout-2002",
+   "metacritic": "nba-shootout-2002",
    "mobygames": "39910"
   },
   "label_en": "NBA ShootOut 2002",
@@ -301,6 +310,7 @@
   "ids": {
    "howlongtobeat": "71289",
    "igdb": "very-little-nightmares",
+   "metacritic": "very-little-nightmares",
    "mobygames": "143267"
   },
   "label_en": "Very Little Nightmares",
@@ -327,6 +337,7 @@
   "ids": {
    "howlongtobeat": "34499",
    "igdb": "paradox-factor",
+   "metacritic": "paradox-factor",
    "mobygames": "89242",
    "steam": "1838830"
   },
@@ -812,6 +823,7 @@
    "epic": "high-on-life-2-fd5c96",
    "howlongtobeat": "169405",
    "igdb": "high-on-life-2",
+   "metacritic": "high-on-life-2",
    "pcgamingwiki": "High_on_Life_2",
    "steam": "2069250"
   },

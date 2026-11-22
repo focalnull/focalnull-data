@@ -17,6 +17,7 @@
   "enwiki": "Harry Potter and the Goblet of Fire (video game)",
   "ids": {
    "igdb": "harry-potter-and-the-goblet-of-fire",
+   "metacritic": "harry-potter-and-the-goblet-of-fire",
    "mobygames": "20610",
    "pcgamingwiki": "Harry_Potter_and_the_Goblet_of_Fire"
   },
@@ -36,6 +37,7 @@
   "enwiki": "Ōkamiden",
   "ids": {
    "igdb": "okamiden",
+   "metacritic": "okamiden",
    "mobygames": "52196"
   },
   "label_en": "Ōkamiden",
@@ -57,6 +59,7 @@
   "enwiki": "Theatrhythm Final Fantasy",
   "ids": {
    "igdb": "theatrhythm-final-fantasy",
+   "metacritic": "theatrhythm-final-fantasy",
    "mobygames": "56953"
   },
   "label_en": "Theatrhythm Final Fantasy",
@@ -68,6 +71,7 @@
    "gog": "game/age_of_wonders_2_the_wizards_throne",
    "howlongtobeat": "282",
    "igdb": "age-of-wonders-ii-the-wizard-s-throne",
+   "metacritic": "age-of-wonders-ii-the-wizards-throne",
    "mobygames": "6708",
    "pcgamingwiki": "Age_of_Wonders_II:_The_Wizard's_Throne",
    "steam": "61510"
@@ -79,6 +83,7 @@
   "enwiki": "Ar Tonelico: Melody of Elemia",
   "ids": {
    "igdb": "ar-tonelico-melody-of-elemia",
+   "metacritic": "ar-tonelico-melody-of-elemia",
    "mobygames": "27259"
   },
   "label_en": "Ar Tonelico: Melody of Elemia",
@@ -115,6 +120,7 @@
   "enwiki": "Pirates vs. Ninjas Dodgeball",
   "ids": {
    "igdb": "pirates-vs-ninjas-dodgeball",
+   "metacritic": "pirates-vs-ninjas-dodgeball",
    "mobygames": "85188"
   },
   "label_en": "Pirates vs. Ninjas Dodgeball",
@@ -124,6 +130,7 @@
   "enwiki": "Race Driver 2006",
   "ids": {
    "igdb": "race-driver-2006",
+   "metacritic": "race-driver-2006",
    "mobygames": "209414"
   },
   "label_en": "Race Driver 2006",
@@ -133,6 +140,7 @@
   "enwiki": "Ruff Trigger: The Vanocore Conspiracy",
   "ids": {
    "igdb": "ruff-trigger-the-vanocore-conspiracy",
+   "metacritic": "ruff-trigger-the-vanocore-conspiracy",
    "mobygames": "34741"
   },
   "label_en": "Ruff Trigger: The Vanocore Conspiracy",
@@ -164,6 +172,7 @@
   "ids": {
    "howlongtobeat": "10339",
    "igdb": "time-ace",
+   "metacritic": "time-ace",
    "mobygames": "36848"
   },
   "label_en": "Time Ace",
@@ -211,6 +220,7 @@
   "ids": {
    "howlongtobeat": "30662",
    "igdb": "warhammer-end-times-vermintide",
+   "metacritic": "warhammer-end-times-vermintide",
    "mobygames": "82198",
    "pcgamingwiki": "Warhammer:_End_Times_-_Vermintide",
    "steam": "235540"
@@ -223,6 +233,7 @@
   "ids": {
    "howlongtobeat": "39477",
    "igdb": "steins-gate-0",
+   "metacritic": "steinsgate-0",
    "mobygames": "86394",
    "pcgamingwiki": "Steins;Gate_0",
    "steam": "825630"
@@ -287,6 +298,7 @@
   "ids": {
    "howlongtobeat": "29962",
    "igdb": "heart-and-slash",
+   "metacritic": "heartslash",
    "mobygames": "85128",
    "pcgamingwiki": "Heart&Slash",
    "steam": "326840"
@@ -321,6 +333,7 @@
    "gog": "game/field_of_glory_ii",
    "howlongtobeat": "63773",
    "igdb": "field-of-glory-ii",
+   "metacritic": "field-of-glory-ii",
    "mobygames": "97076",
    "pcgamingwiki": "Field_of_Glory_II",
    "steam": "660160"
@@ -345,6 +358,7 @@
    "epic": "dragon-age-the-veilguard",
    "howlongtobeat": "82090",
    "igdb": "dragon-age-the-veilguard",
+   "metacritic": "dragon-age-the-veilguard",
    "mobygames": "232711",
    "pcgamingwiki": "Dragon_Age:_The_Veilguard",
    "steam": "1845910"
@@ -415,6 +429,9 @@
   "wikidata": "Q111669901"
  },
  {
+  "ids": {
+   "metacritic": "kyokugen-chikan-tokuiten"
+  },
   "label_en": "Kyokugen Chikan Tokuiten",
   "wikidata": "Q111874901"
  },
@@ -457,6 +474,7 @@
   "ids": {
    "howlongtobeat": "109851",
    "igdb": "dragon-quest-treasures",
+   "metacritic": "dragon-quest-treasures",
    "mobygames": "196241",
    "pcgamingwiki": "Dragon_Quest_Treasures",
    "steam": "2021210"
@@ -632,6 +650,7 @@
  {
   "ids": {
    "igdb": "porkotylers-captain-dodger",
+   "metacritic": "captain-dodger",
    "steam": "2343090"
   },
   "label_en": "Captain Dodger",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8162",
    "igdb": "saw",
+   "metacritic": "saw",
    "mobygames": "43152",
    "pcgamingwiki": "Saw"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "7784",
    "igdb": "rez",
+   "metacritic": "project-eden",
    "mobygames": "5613"
   },
   "label_en": "Rez",
@@ -24,6 +26,7 @@
   "enwiki": "Frogger's Adventures: The Rescue",
   "ids": {
    "igdb": "frogger-s-adventures-the-rescue",
+   "metacritic": "froggers-adventures-the-rescue",
    "mobygames": "14035",
    "pcgamingwiki": "Frogger's_Adventures:_The_Rescue"
   },
@@ -42,6 +45,7 @@
   "enwiki": "Zoo Keeper (2003 video game)",
   "ids": {
    "igdb": "zoo-keeper--2",
+   "metacritic": "zoo-keeper",
    "mobygames": "16463"
   },
   "label_en": "Zoo Keeper",
@@ -78,6 +82,7 @@
   "ids": {
    "howlongtobeat": "2156",
    "igdb": "dance-dance-revolution",
+   "metacritic": "dance-dance-revolution",
    "mobygames": "3794"
   },
   "label_en": "Dance Dance Revolution",
@@ -159,6 +164,7 @@
   "ids": {
    "howlongtobeat": "19013",
    "igdb": "monochroma",
+   "metacritic": "monochroma",
    "mobygames": "70705",
    "pcgamingwiki": "Monochroma",
    "steam": "265830"
@@ -171,6 +177,7 @@
   "ids": {
    "howlongtobeat": "45517",
    "igdb": "operation-babel-new-tokyo-legacy",
+   "metacritic": "operation-babel-new-tokyo-legacy",
    "mobygames": "88710",
    "pcgamingwiki": "Operation_Babel:_New_Tokyo_Legacy",
    "steam": "548810"
@@ -184,6 +191,7 @@
    "gog": "game/battletech_game",
    "howlongtobeat": "55977",
    "igdb": "battletech",
+   "metacritic": "battletech",
    "mobygames": "107579",
    "pcgamingwiki": "BattleTech",
    "steam": "637090"
@@ -202,6 +210,7 @@
   "ids": {
    "howlongtobeat": "46036",
    "igdb": "heliborne",
+   "metacritic": "heliborne",
    "mobygames": "97055",
    "pcgamingwiki": "Heliborne"
   },
@@ -213,6 +222,7 @@
   "ids": {
    "howlongtobeat": "57524",
    "igdb": "starlink-battle-for-atlas",
+   "metacritic": "starlink-battle-for-atlas",
    "mobygames": "110102",
    "pcgamingwiki": "Starlink:_Battle_for_Atlas",
    "steam": "950050"
@@ -224,6 +234,7 @@
   "enwiki": "Azur Lane",
   "ids": {
    "igdb": "azur-lane",
+   "metacritic": "azur-lane",
    "mobygames": "117969"
   },
   "label_en": "Azur Lane",
@@ -249,6 +260,7 @@
  {
   "ids": {
    "igdb": "aw-phoenix-festa",
+   "metacritic": "aw-phoenix-festa",
    "mobygames": "82852"
   },
   "label_en": "A.W.: Phoenix Festa",
@@ -291,6 +303,7 @@
    "gog": "game/spacebase_startopia",
    "howlongtobeat": "71506",
    "igdb": "spacebase-startopia",
+   "metacritic": "spacebase-startopia",
    "mobygames": "164819",
    "pcgamingwiki": "Spacebase_Startopia",
    "steam": "840390"
@@ -404,6 +417,7 @@
   "ids": {
    "howlongtobeat": "106029",
    "igdb": "potato-flowers-in-full-bloom",
+   "metacritic": "potato-flowers-in-full-bloom",
    "mobygames": "181821",
    "steam": "1601280"
   },
@@ -442,6 +456,7 @@
   "ids": {
    "howlongtobeat": "76969",
    "igdb": "baldurs-gate-dark-alliance",
+   "metacritic": "baldurs-gate-dark-alliance",
    "mobygames": "51784"
   },
   "label_en": "Baldur's Gate: Dark Alliance",
@@ -514,6 +529,7 @@
    "howlongtobeat": "110495",
    "igdb": "automaton-lung",
    "mobygames": "193062",
+   "pcgamingwiki": "Automaton_Lung",
    "steam": "2158900"
   },
   "label_en": "Automaton Lung",
@@ -833,7 +849,8 @@
  },
  {
   "ids": {
-   "igdb": "candy-please"
+   "igdb": "candy-please",
+   "metacritic": "candy-please"
   },
   "label_en": "Candy, Please!",
   "wikidata": "Q126414311"
@@ -876,6 +893,7 @@
   "ids": {
    "howlongtobeat": "139114",
    "igdb": "tavern-talk",
+   "metacritic": "tavern-talk",
    "mobygames": "226634",
    "pcgamingwiki": "Tavern_Talk",
    "steam": "2076140"

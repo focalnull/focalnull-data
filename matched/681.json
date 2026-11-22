@@ -73,6 +73,7 @@
   "enwiki": "Mat Hoffman's Pro BMX",
   "ids": {
    "igdb": "mat-hoffman-s-pro-bmx",
+   "metacritic": "mat-hoffmans-pro-bmx",
    "mobygames": "5362",
    "pcgamingwiki": "Mat_Hoffman's_Pro_BMX"
   },
@@ -101,6 +102,7 @@
   "ids": {
    "howlongtobeat": "1688",
    "igdb": "chocolatier-decadence-by-design",
+   "metacritic": "chocolatier-decadence-by-design",
    "mobygames": "44947",
    "pcgamingwiki": "Chocolatier:_Decadence_by_Design",
    "steam": "37210"
@@ -129,7 +131,8 @@
  {
   "enwiki": "NBA Jam 2002",
   "ids": {
-   "igdb": "nba-jam-2002"
+   "igdb": "nba-jam-2002",
+   "metacritic": "nba-jam-2002"
   },
   "label_en": "NBA Jam 2002",
   "wikidata": "Q6952681"
@@ -147,6 +150,7 @@
   "enwiki": "Racing Gears Advance",
   "ids": {
    "igdb": "racing-gears-advance",
+   "metacritic": "racing-gears-advance",
    "mobygames": "23665"
   },
   "label_en": "Racing Gears Advance",
@@ -193,6 +197,7 @@
   "ids": {
    "howlongtobeat": "38407",
    "igdb": "romance-of-the-three-kingdoms-xiii--1",
+   "metacritic": "romance-of-the-three-kingdoms-xiii",
    "mobygames": "83732",
    "pcgamingwiki": "Romance_of_the_Three_Kingdoms_13",
    "steam": "363150"
@@ -230,6 +235,7 @@
   "ids": {
    "howlongtobeat": "51964",
    "igdb": "starblood-arena",
+   "metacritic": "starblood-arena",
    "mobygames": "86757"
   },
   "label_en": "StarBlood Arena",
@@ -342,6 +348,7 @@
   "ids": {
    "howlongtobeat": "118233",
    "igdb": "after-us",
+   "metacritic": "after-us",
    "mobygames": "203994",
    "pcgamingwiki": "After_Us",
    "steam": "1406810"
@@ -353,6 +360,7 @@
   "ids": {
    "howlongtobeat": "38819",
    "igdb": "space-run-galaxy",
+   "metacritic": "space-run-galaxy",
    "mobygames": "106312",
    "pcgamingwiki": "Space_Run_Galaxy",
    "steam": "355800"
@@ -366,6 +374,7 @@
    "gog": "game/skate_story",
    "howlongtobeat": "109111",
    "igdb": "skate-story",
+   "pcgamingwiki": "Skate_Story",
    "steam": "1263240"
   },
   "label_en": "Skate Story",
@@ -398,6 +407,7 @@
    "howlongtobeat": "83706",
    "igdb": "fate-of-kai",
    "mobygames": "173988",
+   "pcgamingwiki": "Fate_of_Kai",
    "steam": "1426480"
   },
   "label_en": "Fate of Kai",
@@ -629,6 +639,7 @@
   "ids": {
    "howlongtobeat": "143046",
    "igdb": "fish-game--1",
+   "metacritic": "fish-game",
    "mobygames": "236750",
    "steam": "1372150"
   },
@@ -739,6 +750,7 @@
  },
  {
   "ids": {
+   "metacritic": "angry-birds-dream-blast",
    "mobygames": "121201"
   },
   "label_en": "Angry Birds Dream Blast",
@@ -792,7 +804,8 @@
  {
   "ids": {
    "howlongtobeat": "118783",
-   "igdb": "roller-angels"
+   "igdb": "roller-angels",
+   "metacritic": "roller-angels"
   },
   "label_en": "Roller Angels",
   "wikidata": "Q127830681"
@@ -1083,6 +1096,7 @@
  {
   "ids": {
    "igdb": "wrecker",
+   "pcgamingwiki": "Wrecker",
    "steam": "1206270"
   },
   "label_en": "Wrecker",
@@ -1110,6 +1124,7 @@
   "ids": {
    "howlongtobeat": "174718",
    "igdb": "road-to-empress-i",
+   "metacritic": "road-to-empress-i",
    "mobygames": "247689",
    "pcgamingwiki": "Road_to_Empress_I",
    "steam": "3478050"

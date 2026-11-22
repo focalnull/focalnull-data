@@ -3,6 +3,7 @@
   "enwiki": "Sonic Chronicles: The Dark Brotherhood",
   "ids": {
    "igdb": "sonic-chronicles-the-dark-brotherhood",
+   "metacritic": "sonic-chronicles-the-dark-brotherhood",
    "mobygames": "37752"
   },
   "label_en": "Sonic Chronicles: The Dark Brotherhood",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "2959",
    "igdb": "dungeon-siege-iii",
+   "metacritic": "dungeon-siege-iii",
    "mobygames": "52197",
    "pcgamingwiki": "Dungeon_Siege_III",
    "steam": "39160"
@@ -34,6 +36,7 @@
   "ids": {
    "howlongtobeat": "3398",
    "igdb": "fatal-frame-mask-of-the-lunar-eclipse",
+   "metacritic": "fatal-frame-mask-of-the-lunar-eclipse",
    "mobygames": "38005",
    "pcgamingwiki": "Fatal_Frame:_Mask_of_the_Lunar_Eclipse",
    "steam": "2130460"
@@ -112,6 +115,7 @@
   "enwiki": "Scene It? Twilight",
   "ids": {
    "igdb": "scene-it-twilight",
+   "metacritic": "scene-it-twilight",
    "mobygames": "86171"
   },
   "label_en": "Scene It? Twilight",
@@ -146,6 +150,7 @@
   "ids": {
    "howlongtobeat": "23580",
    "igdb": "invizimals-shadow-zone",
+   "metacritic": "invizimals-shadow-zone",
    "mobygames": "86225"
   },
   "label_en": "Invizimals: Shadow Zone",
@@ -158,6 +163,7 @@
    "gog": "game/superhot",
    "howlongtobeat": "21723",
    "igdb": "superhot",
+   "metacritic": "superhot",
    "mobygames": "77336",
    "pcgamingwiki": "Superhot",
    "steam": "322500"
@@ -179,6 +185,7 @@
    "gog": "game/steamworld_heist",
    "howlongtobeat": "24012",
    "igdb": "steamworld-heist",
+   "metacritic": "steamworld-heist",
    "mobygames": "84419",
    "pcgamingwiki": "SteamWorld_Heist",
    "steam": "322190"
@@ -201,6 +208,7 @@
    "gog": "game/future_unfolding",
    "howlongtobeat": "44423",
    "igdb": "future-unfolding",
+   "metacritic": "future-unfolding",
    "mobygames": "88718",
    "pcgamingwiki": "Future_Unfolding",
    "steam": "539340"
@@ -235,6 +243,7 @@
    "gog": "game/exapunks",
    "howlongtobeat": "59202",
    "igdb": "exapunks",
+   "metacritic": "exapunks",
    "mobygames": "112308",
    "pcgamingwiki": "Exapunks",
    "steam": "716490"
@@ -262,6 +271,7 @@
   "ids": {
    "howlongtobeat": "77922",
    "igdb": "the-ascent",
+   "metacritic": "the-ascent",
    "mobygames": "168483",
    "pcgamingwiki": "The_Ascent",
    "steam": "979690"
@@ -314,6 +324,7 @@
   "ids": {
    "howlongtobeat": "44620",
    "igdb": "nickelodeon-dance",
+   "metacritic": "nickelodeon-dance",
    "mobygames": "92015"
   },
   "label_en": "Nickelodeon Dance",
@@ -387,6 +398,7 @@
   "ids": {
    "howlongtobeat": "67020",
    "igdb": "ninjin-clash-of-carrots",
+   "metacritic": "ninjin-clash-of-carrots",
    "mobygames": "112265",
    "pcgamingwiki": "Ninjin:_Clash_of_Carrots",
    "steam": "809870"
@@ -409,6 +421,7 @@
    "howlongtobeat": "123743",
    "igdb": "jojo-siwa-worldwide-party",
    "mobygames": "193983",
+   "pcgamingwiki": "JoJo_Siwa:_Worldwide_Party",
    "steam": "1910300"
   },
   "label_en": "JoJo Siwa: Worldwide Party",
@@ -667,6 +680,7 @@
   "ids": {
    "howlongtobeat": "94401",
    "igdb": "wobbly-life",
+   "metacritic": "wobbly-life",
    "mobygames": "167821",
    "pcgamingwiki": "Wobbly_Life",
    "steam": "1211020"
@@ -912,6 +926,7 @@
   "ids": {
    "howlongtobeat": "2450",
    "igdb": "depth-hunter",
+   "metacritic": "depth-hunter",
    "mobygames": "71175"
   },
   "label_en": "Depth Hunter",

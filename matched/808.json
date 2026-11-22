@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1976",
    "igdb": "crash-bash",
+   "metacritic": "crash-bash",
    "mobygames": "9515"
   },
   "label_en": "Crash Bash",
@@ -24,6 +25,7 @@
   "enwiki": "Fire Blade (video game)",
   "ids": {
    "igdb": "fire-blade",
+   "metacritic": "fire-blade",
    "mobygames": "9282"
   },
   "label_en": "Fire Blade",
@@ -88,6 +90,7 @@
   "ids": {
    "howlongtobeat": "11741",
    "igdb": "game-wario",
+   "metacritic": "game-wario",
    "mobygames": "62672"
   },
   "label_en": "Game & Wario",
@@ -150,6 +153,7 @@
   "ids": {
    "howlongtobeat": "13775",
    "igdb": "rune-factory-4",
+   "metacritic": "rune-factory-4",
    "mobygames": "63808"
   },
   "label_en": "Rune Factory 4",
@@ -163,6 +167,7 @@
   "enwiki": "Super Puzzle Bobble 2",
   "ids": {
    "igdb": "super-bust-a-move-2",
+   "metacritic": "super-bust-a-move-2",
    "mobygames": "39006"
   },
   "label_en": "Super Puzzle Bobble 2",
@@ -180,6 +185,7 @@
   "enwiki": "Tenchu: Stealth Assassins",
   "ids": {
    "igdb": "tenchu-stealth-assassins",
+   "metacritic": "tenchu-stealth-assassins",
    "mobygames": "3674"
   },
   "label_en": "Tenchu: Stealth Assassins",
@@ -216,6 +222,7 @@
   "enwiki": "Mario vs. Donkey Kong: Tipping Stars",
   "ids": {
    "igdb": "mario-vs-donkey-kong-tipping-stars",
+   "metacritic": "mario-vs-donkey-kong-tipping-stars",
    "mobygames": "74522"
   },
   "label_en": "Mario vs. Donkey Kong: Tipping Stars",
@@ -226,6 +233,7 @@
   "ids": {
    "howlongtobeat": "40492",
    "igdb": "manual-samuel",
+   "metacritic": "manual-samuel",
    "mobygames": "86345",
    "pcgamingwiki": "Manual_Samuel",
    "steam": "504130"
@@ -242,6 +250,7 @@
   "ids": {
    "howlongtobeat": "32627",
    "igdb": "poncho",
+   "metacritic": "poncho",
    "mobygames": "86078",
    "pcgamingwiki": "Poncho",
    "steam": "332620"
@@ -251,6 +260,7 @@
  },
  {
   "ids": {
+   "metacritic": "holly-a-christmas-tale",
    "mobygames": "89587"
   },
   "label_en": "Holly: A Christmas Tale",
@@ -259,6 +269,7 @@
  {
   "ids": {
    "igdb": "radar-defense",
+   "metacritic": "radar-defense",
    "mobygames": "100333",
    "pcgamingwiki": "Radar_Defense",
    "steam": "685130"
@@ -270,6 +281,7 @@
   "ids": {
    "howlongtobeat": "45878",
    "igdb": "ambition-of-the-slimes",
+   "metacritic": "ambition-of-the-slimes",
    "mobygames": "100496",
    "pcgamingwiki": "Ambition_of_the_Slimes",
    "steam": "568910"
@@ -296,6 +308,7 @@
   "ids": {
    "howlongtobeat": "44510",
    "igdb": "factory-engineer",
+   "metacritic": "factory-engineer",
    "mobygames": "108438",
    "pcgamingwiki": "Factory_Engineer",
    "steam": "514290"
@@ -309,6 +322,7 @@
    "howlongtobeat": "64055",
    "igdb": "russian-fishing-4",
    "mobygames": "110218",
+   "pcgamingwiki": "Russian_Fishing_4",
    "steam": "766570"
   },
   "label_en": "Russian Fishing 4",
@@ -331,6 +345,7 @@
    "gog": "game/the_real_texas",
    "howlongtobeat": "10144",
    "igdb": "the-real-texas",
+   "metacritic": "the-real-texas",
    "mobygames": "59043",
    "pcgamingwiki": "The_Real_Texas",
    "steam": "261900"
@@ -342,6 +357,7 @@
   "enwiki": "Mario Kart Live: Home Circuit",
   "ids": {
    "igdb": "mario-kart-live-home-circuit",
+   "metacritic": "mario-kart-live-home-circuit",
    "mobygames": "150899"
   },
   "label_en": "Mario Kart Live: Home Circuit",
@@ -850,6 +866,7 @@
   "ids": {
    "howlongtobeat": "145828",
    "igdb": "ender-magnolia-bloom-in-the-mist",
+   "metacritic": "ender-magnolia-bloom-in-the-mist",
    "mobygames": "220371",
    "pcgamingwiki": "Ender_Magnolia:_Bloom_in_the_Mist",
    "steam": "2725260"
@@ -1272,6 +1289,7 @@
  {
   "ids": {
    "igdb": "rat-hunter",
+   "pcgamingwiki": "Rat_Hunter",
    "steam": "3341450"
   },
   "label_en": "Rat Hunter",
@@ -1280,6 +1298,7 @@
  {
   "ids": {
    "igdb": "flapp-and-zegeta",
+   "metacritic": "flapp-zegeta",
    "mobygames": "100457"
   },
   "label_en": "Flapp & Zegeta",

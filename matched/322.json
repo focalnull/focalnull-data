@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "414",
    "igdb": "alundra",
+   "metacritic": "alundra",
    "mobygames": "5928"
   },
   "label_en": "Alundra",
@@ -40,6 +41,7 @@
   "enwiki": "EA Sports F1 2001",
   "ids": {
    "igdb": "ea-sports-f1-2001",
+   "metacritic": "f1-2001",
    "mobygames": "5746",
    "pcgamingwiki": "F1_2001"
   },
@@ -51,6 +53,7 @@
   "ids": {
    "howlongtobeat": "2427",
    "igdb": "dementium-ii",
+   "metacritic": "dementium-ii",
    "mobygames": "50757",
    "pcgamingwiki": "Dementium_II_HD",
    "steam": "217100"
@@ -62,6 +65,7 @@
   "enwiki": "Need for Speed: Nitro",
   "ids": {
    "igdb": "need-for-speed-nitro",
+   "metacritic": "need-for-speed-nitro",
    "mobygames": "64695"
   },
   "label_en": "Need for Speed: Nitro",
@@ -72,6 +76,7 @@
   "ids": {
    "howlongtobeat": "9999",
    "igdb": "the-last-remnant",
+   "metacritic": "the-last-remnant",
    "mobygames": "39202",
    "pcgamingwiki": "The_Last_Remnant",
    "steam": "23310"
@@ -120,6 +125,7 @@
   "enwiki": "Crash 'n' Burn (2004 video game)",
   "ids": {
    "igdb": "crash-n-burn",
+   "metacritic": "crash-n-burn",
    "mobygames": "30812"
   },
   "label_en": "Crash 'N' Burn",
@@ -130,6 +136,7 @@
   "ids": {
    "howlongtobeat": "2410",
    "igdb": "defenders-of-ardania",
+   "metacritic": "defenders-of-ardania",
    "mobygames": "57577",
    "pcgamingwiki": "Defenders_of_Ardania",
    "steam": "73060"
@@ -213,6 +220,7 @@
   "ids": {
    "howlongtobeat": "17571",
    "igdb": "mlb-14-the-show",
+   "metacritic": "mlb-14-the-show",
    "mobygames": "92275"
   },
   "label_en": "MLB 14: The Show",
@@ -221,6 +229,7 @@
  {
   "ids": {
    "igdb": "iron-combat-war-in-the-air",
+   "metacritic": "iron-combat-war-in-the-air",
    "mobygames": "96506"
   },
   "label_en": "Iron Combat: War in the Air",
@@ -240,6 +249,7 @@
    "gog": "game/into_the_stars",
    "howlongtobeat": "28751",
    "igdb": "into-the-stars",
+   "metacritic": "into-the-stars",
    "mobygames": "84570",
    "pcgamingwiki": "Into_the_Stars",
    "steam": "360510"
@@ -280,7 +290,8 @@
  },
  {
   "ids": {
-   "igdb": "chocobos-mystery-dungeon-every-buddy"
+   "igdb": "chocobos-mystery-dungeon-every-buddy",
+   "metacritic": "chocobos-mystery-dungeon-every-buddy"
   },
   "label_en": "Chocobo's Mystery Dungeon: Every Buddy!",
   "wikidata": "Q63190322"
@@ -312,6 +323,7 @@
   "ids": {
    "howlongtobeat": "79530",
    "igdb": "re-zero-starting-life-in-another-world-the-prophecy-of-the-throne",
+   "metacritic": "rezero-starting-life-in-another-world-the-prophecy",
    "mobygames": "158111",
    "pcgamingwiki": "Re:ZERO_-Starting_Life_in_Another_World-_The_Prophecy_of_the_Throne",
    "steam": "1277510"
@@ -329,6 +341,7 @@
    "gog": "game/genesis_noir",
    "howlongtobeat": "49812",
    "igdb": "genesis-noir",
+   "metacritic": "genesis-noir",
    "mobygames": "161329",
    "pcgamingwiki": "Genesis_Noir",
    "steam": "735290"
@@ -341,6 +354,7 @@
    "gog": "game/a_little_golf_journey",
    "howlongtobeat": "94104",
    "igdb": "a-little-golf-journey",
+   "metacritic": "a-little-golf-journey",
    "mobygames": "173718",
    "pcgamingwiki": "A_Little_Golf_Journey",
    "steam": "1232150"
@@ -351,6 +365,7 @@
  {
   "ids": {
    "igdb": "picross-e2",
+   "metacritic": "picross-e2",
    "mobygames": "88446"
   },
   "label_en": "Picross e2",

@@ -13,6 +13,7 @@
   "enwiki": "Yoshi's Island DS",
   "ids": {
    "igdb": "yoshis-island-ds",
+   "metacritic": "yoshis-island-ds",
    "mobygames": "25175"
   },
   "label_en": "Yoshi's Island DS",
@@ -202,6 +203,7 @@
    "gog": "game/hyper_light_drifter",
    "howlongtobeat": "13557",
    "igdb": "hyper-light-drifter",
+   "metacritic": "hyper-light-drifter",
    "mobygames": "78147",
    "pcgamingwiki": "Hyper_Light_Drifter",
    "steam": "257850"
@@ -214,6 +216,7 @@
   "ids": {
    "howlongtobeat": "37305",
    "igdb": "battle-of-the-bulge",
+   "metacritic": "battle-of-the-bulge",
    "mobygames": "80718",
    "pcgamingwiki": "Battle_of_the_Bulge",
    "steam": "365560"
@@ -314,6 +317,7 @@
    "gog": "game/metrocide",
    "howlongtobeat": "25171",
    "igdb": "metrocide",
+   "metacritic": "metrocide",
    "mobygames": "96724",
    "pcgamingwiki": "Metrocide",
    "steam": "313130"
@@ -363,6 +367,7 @@
    "gog": "game/irony_curtain_from_matryoshka_with_love",
    "howlongtobeat": "67275",
    "igdb": "irony-curtain-from-matryoshka-with-love",
+   "metacritic": "irony-curtain-from-matryoshka-with-love",
    "mobygames": "127081",
    "pcgamingwiki": "Irony_Curtain:_From_Matryoshka_with_Love",
    "steam": "866190"
@@ -770,6 +775,9 @@
   "wikidata": "Q125589556"
  },
  {
+  "ids": {
+   "metacritic": "otome-no-ken-to-himegoto-concerto"
+  },
   "label_en": "Otome no Ken to Himegoto Concerto",
   "wikidata": "Q125845556"
  },
@@ -824,6 +832,7 @@
  {
   "ids": {
    "igdb": "indenture",
+   "metacritic": "indenture",
    "mobygames": "227096",
    "steam": "2010510"
   },

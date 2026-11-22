@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1982",
    "igdb": "crash-team-racing",
+   "metacritic": "crash-team-racing",
    "mobygames": "7525"
   },
   "label_en": "Crash Team Racing",
@@ -65,6 +66,7 @@
   "enwiki": "Image Fight",
   "ids": {
    "igdb": "image-fight",
+   "metacritic": "arcade-archives-image-fight",
    "mobygames": "27229"
   },
   "label_en": "Image Fight",
@@ -96,6 +98,7 @@
   "ids": {
    "howlongtobeat": "19985",
    "igdb": "zombie-panic-in-wonderland",
+   "metacritic": "zombie-panic-in-wonderland",
    "pcgamingwiki": "Zombie_Panic_In_Wonderland_DX"
   },
   "label_en": "Zombie Panic in Wonderland",
@@ -264,6 +267,7 @@
   "ids": {
    "howlongtobeat": "82420",
    "igdb": "struggling",
+   "metacritic": "struggling",
    "mobygames": "149819",
    "pcgamingwiki": "Struggling",
    "steam": "1035560"
@@ -296,6 +300,7 @@
  {
   "ids": {
    "igdb": "garden-magic",
+   "metacritic": "garden-magic",
    "mobygames": "189381",
    "steam": "1604370"
   },
@@ -758,7 +763,8 @@
  },
  {
   "ids": {
-   "igdb": "neko-golf-anime-golf"
+   "igdb": "neko-golf-anime-golf",
+   "metacritic": "neko-golf-anime-golf"
   },
   "label_en": "NEKO GOLF -Anime GOLF-",
   "wikidata": "Q124855872"
@@ -766,6 +772,7 @@
  {
   "ids": {
    "igdb": "night-to-meet-chu",
+   "metacritic": "night-to-meet-you-obake-no-mare-to-iyashi-no",
    "mobygames": "234360",
    "steam": "3326910"
   },
@@ -814,6 +821,7 @@
   "ids": {
    "howlongtobeat": "162277",
    "igdb": "mario-kart-world",
+   "metacritic": "mario-kart-world",
    "mobygames": "243068"
   },
   "label_en": "Mario Kart World",
@@ -824,6 +832,7 @@
    "gog": "game/care_bears_to_the_rescue",
    "howlongtobeat": "158580",
    "igdb": "care-bears-to-the-rescue",
+   "metacritic": "care-bears-to-the-rescue",
    "mobygames": "232477",
    "steam": "2999510"
   },
@@ -1141,6 +1150,7 @@
  {
   "ids": {
    "igdb": "backyard-sports-sandlot-sluggers",
+   "metacritic": "backyard-sports-sandlot-sluggers",
    "mobygames": "88504"
   },
   "label_en": "Backyard Sports: Sandlot Sluggers",

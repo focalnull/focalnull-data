@@ -14,6 +14,7 @@
    "gog": "game/beyond_divinity",
    "howlongtobeat": "1017",
    "igdb": "beyond-divinity",
+   "metacritic": "beyond-divinity",
    "mobygames": "13465",
    "pcgamingwiki": "Beyond_Divinity",
    "steam": "219760"
@@ -84,6 +85,7 @@
   "ids": {
    "howlongtobeat": "165",
    "igdb": "ace-attorney-investigations-miles-edgeworth",
+   "metacritic": "ace-attorney-investigations-miles-edgeworth",
    "mobygames": "45325"
   },
   "label_en": "Ace Attorney Investigations: Miles Edgeworth",
@@ -106,7 +108,8 @@
   "enwiki": "Dragonball Evolution (video game)",
   "ids": {
    "howlongtobeat": "24004",
-   "igdb": "dragonball-evolution-the-game"
+   "igdb": "dragonball-evolution-the-game",
+   "metacritic": "dragon-ball-evolution"
   },
   "label_en": "Dragonball Evolution",
   "wikidata": "Q2761032"
@@ -144,6 +147,7 @@
   "ids": {
    "howlongtobeat": "158",
    "igdb": "abba-you-can-dance",
+   "metacritic": "abba-you-can-dance",
    "mobygames": "90565"
   },
   "label_en": "ABBA: You Can Dance",
@@ -153,6 +157,7 @@
   "enwiki": "Akimi Village",
   "ids": {
    "igdb": "akimi-village",
+   "metacritic": "akimi-village",
    "mobygames": "138308"
   },
   "label_en": "Akimi Village",
@@ -163,6 +168,7 @@
   "ids": {
    "howlongtobeat": "707",
    "igdb": "atelier-totori-the-adventurer-of-arland",
+   "metacritic": "atelier-totori-the-adventurer-of-arland",
    "mobygames": "55541"
   },
   "label_en": "Atelier Totori: The Adventurer of Arland",
@@ -182,6 +188,7 @@
   "ids": {
    "howlongtobeat": "18698",
    "igdb": "kao-the-kangaroo",
+   "metacritic": "kao-the-kangaroo-2000",
    "mobygames": "3486",
    "pcgamingwiki": "Kao_the_Kangaroo"
   },
@@ -227,6 +234,7 @@
   "enwiki": "Tokyo Xtreme Racer: Drift",
   "ids": {
    "igdb": "tokyo-xtreme-racer-drift",
+   "metacritic": "tokyo-xtreme-racer-drift",
    "mobygames": "35968"
   },
   "label_en": "Tokyo Xtreme Racer: Drift",
@@ -280,6 +288,7 @@
   "ids": {
    "howlongtobeat": "26952",
    "igdb": "inside-my-radio--1",
+   "metacritic": "inside-my-radio",
    "mobygames": "86925",
    "pcgamingwiki": "Inside_My_Radio",
    "steam": "357720"
@@ -312,6 +321,7 @@
   "ids": {
    "howlongtobeat": "455",
    "igdb": "ancients-of-ooga",
+   "metacritic": "ancients-of-ooga",
    "mobygames": "47351",
    "pcgamingwiki": "Ancients_of_Ooga",
    "steam": "91810"
@@ -348,6 +358,7 @@
    "gog": "game/iron_danger",
    "howlongtobeat": "76128",
    "igdb": "iron-danger",
+   "metacritic": "iron-danger",
    "mobygames": "143770",
    "pcgamingwiki": "Iron_Danger",
    "steam": "899310"
@@ -360,6 +371,7 @@
   "ids": {
    "howlongtobeat": "68922",
    "igdb": "kind-words",
+   "metacritic": "kind-words-lo-fi-chill-beats-to-write-to",
    "mobygames": "134616",
    "pcgamingwiki": "Kind_Words",
    "steam": "1070710"
@@ -385,6 +397,7 @@
    "gog": "game/rogue_wizards",
    "howlongtobeat": "40216",
    "igdb": "rogue-wizards",
+   "metacritic": "rogue-wizards",
    "mobygames": "100529",
    "pcgamingwiki": "Rogue_Wizards",
    "steam": "392260"
@@ -410,6 +423,7 @@
    "gog": "game/rebel_cops",
    "howlongtobeat": "70806",
    "igdb": "rebel-cops",
+   "metacritic": "rebel-cops",
    "mobygames": "134826",
    "pcgamingwiki": "Rebel_Cops",
    "steam": "970960"
@@ -422,6 +436,9 @@
   "wikidata": "Q106651032"
  },
  {
+  "ids": {
+   "metacritic": "asa-okitara-bishoujo-ni-natteta-boku-ni-onegai-ga"
+  },
   "label_en": "Asa Okitara Bishoujo ni Natteta Boku ni Onegai ga Arundatte? Shouganai nyaa.. Ii yo.",
   "wikidata": "Q108752032"
  },
@@ -469,6 +486,7 @@
    "epic": "placid-plastic-duck-simulator-b65716",
    "howlongtobeat": "110301",
    "igdb": "placid-plastic-duck-simulator",
+   "metacritic": "placid-plastic-duck-simulator",
    "mobygames": "196605",
    "steam": "1999360"
   },
@@ -538,6 +556,7 @@
  {
   "ids": {
    "igdb": "pecaminosa",
+   "metacritic": "pecaminosa",
    "mobygames": "165559",
    "steam": "1366770"
   },
@@ -752,6 +771,7 @@
   "ids": {
    "howlongtobeat": "42251",
    "igdb": "downward",
+   "metacritic": "downward",
    "mobygames": "92599",
    "pcgamingwiki": "Downward",
    "steam": "506900"
@@ -1180,6 +1200,7 @@
    "epic": "lego-batman-legacy-of-the-dark-knight-c82b6b",
    "howlongtobeat": "172962",
    "igdb": "lego-batman-legacy-of-the-dark-knight",
+   "metacritic": "lego-batman-legacy-of-the-dark-knight",
    "mobygames": "246782",
    "pcgamingwiki": "Lego_Batman:_Legacy_of_the_Dark_Knight",
    "steam": "2215200"

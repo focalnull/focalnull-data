@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5381",
    "igdb": "lords-of-the-realm-ii",
+   "metacritic": "lords-of-the-realm-ii",
    "mobygames": "998",
    "pcgamingwiki": "Lords_of_the_Realm_II",
    "steam": "397350"
@@ -24,6 +25,7 @@
   "enwiki": "Castlevania: Harmony of Dissonance",
   "ids": {
    "igdb": "castlevania-harmony-of-dissonance",
+   "metacritic": "castlevania-harmony-of-dissonance",
    "mobygames": "7232"
   },
   "label_en": "Castlevania: Harmony of Dissonance",
@@ -34,6 +36,7 @@
   "ids": {
    "howlongtobeat": "4728",
    "igdb": "ion-assault",
+   "metacritic": "ion-assault",
    "mobygames": "47699",
    "pcgamingwiki": "Ion_Assault",
    "steam": "41730"
@@ -46,6 +49,7 @@
   "ids": {
    "howlongtobeat": "43872",
    "igdb": "simcoaster--1",
+   "metacritic": "simcoaster",
    "mobygames": "3397",
    "pcgamingwiki": "Theme_Park_Inc."
   },
@@ -66,6 +70,7 @@
   "ids": {
    "howlongtobeat": "6131",
    "igdb": "monaco-whats-yours-is-mine",
+   "metacritic": "monaco-whats-yours-is-mine",
    "mobygames": "61104",
    "pcgamingwiki": "Monaco:_What's_Yours_Is_Mine",
    "steam": "113020"
@@ -77,6 +82,7 @@
   "enwiki": "Phantom Brave",
   "ids": {
    "igdb": "phantom-brave",
+   "metacritic": "phantom-brave",
    "mobygames": "17611",
    "pcgamingwiki": "Phantom_Brave_PC"
   },
@@ -127,6 +133,7 @@
   "enwiki": "Dance Dance Revolution Hottest Party",
   "ids": {
    "igdb": "dance-dance-revolution-hottest-party",
+   "metacritic": "dance-dance-revolution-hottest-party",
    "mobygames": "30981"
   },
   "label_en": "Dance Dance Revolution Hottest Party",
@@ -137,6 +144,7 @@
   "ids": {
    "howlongtobeat": "2386",
    "igdb": "deep-black",
+   "metacritic": "deep-black-reloaded",
    "mobygames": "52195",
    "pcgamingwiki": "Deep_Black:_Reloaded",
    "steam": "204760"
@@ -193,6 +201,7 @@
   "ids": {
    "howlongtobeat": "412",
    "igdb": "alternativa",
+   "metacritic": "alternativa",
    "mobygames": "52715",
    "pcgamingwiki": "Alternativa",
    "steam": "33990"
@@ -236,6 +245,7 @@
   "enwiki": "SimCity: BuildIt",
   "ids": {
    "igdb": "simcity-buildit",
+   "metacritic": "simcity-buildit",
    "mobygames": "70660"
   },
   "label_en": "SimCity BuildIt",
@@ -247,6 +257,7 @@
    "howlongtobeat": "64279",
    "igdb": "summer-pockets",
    "mobygames": "142097",
+   "pcgamingwiki": "Summer_Pockets",
    "steam": "897220"
   },
   "label_en": "Summer Pockets",
@@ -266,6 +277,7 @@
    "gog": "game/feist",
    "howlongtobeat": "24972",
    "igdb": "feist",
+   "metacritic": "feist",
    "mobygames": "76307",
    "pcgamingwiki": "Feist",
    "steam": "327060"
@@ -303,6 +315,7 @@
    "gog": "game/observer_system_redux",
    "howlongtobeat": "82626",
    "igdb": "observer-system-redux",
+   "metacritic": "observer-system-redux",
    "mobygames": "153168",
    "pcgamingwiki": "Observer:_System_Redux",
    "steam": "1386900"
@@ -329,6 +342,7 @@
    "gog": "game/the_uncertain_last_quiet_day",
    "howlongtobeat": "39759",
    "igdb": "the-uncertain-last-quiet-day",
+   "metacritic": "the-uncertain-episode-1-the-last-quiet-day",
    "mobygames": "92768",
    "pcgamingwiki": "The_Uncertain:_Last_Quiet_Day",
    "steam": "406970"
@@ -340,6 +354,7 @@
   "ids": {
    "howlongtobeat": "107442",
    "igdb": "cuckold-simulator",
+   "metacritic": "cuckold-simulator-life-as-a-beta-male-cuck",
    "mobygames": "179817",
    "pcgamingwiki": "Cuckold_Simulator:_Life_as_a_Beta_Male_Cuck",
    "steam": "1141550"
@@ -460,6 +475,7 @@
   "ids": {
    "howlongtobeat": "49084",
    "igdb": "island-flight-simulator",
+   "metacritic": "island-flight-simulator",
    "mobygames": "90924",
    "pcgamingwiki": "Island_Flight_Simulator",
    "steam": "363660"
@@ -1166,6 +1182,7 @@
  {
   "ids": {
    "igdb": "kidnapped",
+   "pcgamingwiki": "Kidnapped",
    "steam": "382300"
   },
   "label_en": "Kidnapped",

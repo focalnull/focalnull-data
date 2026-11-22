@@ -63,7 +63,8 @@
   "enwiki": "Rune Factory 3",
   "ids": {
    "howlongtobeat": "8020",
-   "igdb": "rune-factory-3-a-fantasy-harvest-moon"
+   "igdb": "rune-factory-3-a-fantasy-harvest-moon",
+   "metacritic": "rune-factory-3-a-fantasy-harvest-moon"
   },
   "label_en": "Rune Factory 3",
   "wikidata": "Q5968518"
@@ -87,7 +88,8 @@
  {
   "enwiki": "Yoshi's Island: Super Mario Advance 3",
   "ids": {
-   "igdb": "yoshis-island-super-mario-advance-3"
+   "igdb": "yoshis-island-super-mario-advance-3",
+   "metacritic": "yoshis-island-super-mario-advance-3"
   },
   "label_en": "Yoshi's Island: Super Mario Advance 3",
   "wikidata": "Q9383518"
@@ -145,6 +147,7 @@
   "enwiki": "Magical Starsign",
   "ids": {
    "igdb": "magical-starsign",
+   "metacritic": "magical-starsign",
    "mobygames": "26721"
   },
   "label_en": "Magical Starsign",
@@ -155,6 +158,7 @@
   "ids": {
    "howlongtobeat": "34075",
    "igdb": "digimon-story-cyber-sleuth",
+   "metacritic": "digimon-story-cyber-sleuth",
    "mobygames": "82877"
   },
   "label_en": "Digimon Story: Cyber Sleuth",
@@ -174,6 +178,7 @@
    "gog": "game/indivisible",
    "howlongtobeat": "27434",
    "igdb": "indivisible",
+   "metacritic": "indivisible",
    "mobygames": "135357",
    "pcgamingwiki": "Indivisible",
    "steam": "421170"
@@ -188,6 +193,7 @@
    "gog": "game/the_surge",
    "howlongtobeat": "44914",
    "igdb": "the-surge",
+   "metacritic": "the-surge",
    "mobygames": "88713",
    "pcgamingwiki": "The_Surge",
    "steam": "378540"
@@ -211,6 +217,7 @@
   "ids": {
    "howlongtobeat": "64159",
    "igdb": "tales-of-vesperia-definitive-edition",
+   "metacritic": "tales-of-vesperia-definitive-edition",
    "mobygames": "120198",
    "pcgamingwiki": "Tales_of_Vesperia:_Definitive_Edition",
    "steam": "738540"
@@ -223,6 +230,7 @@
   "ids": {
    "howlongtobeat": "78187",
    "igdb": "paper-mario-the-origami-king",
+   "metacritic": "paper-mario-the-origami-king",
    "mobygames": "145527"
   },
   "label_en": "Paper Mario: The Origami King",
@@ -235,7 +243,8 @@
  {
   "enwiki": "Space Channel 5: Ulala's Cosmic Attack",
   "ids": {
-   "igdb": "space-channel-5-ulalas-cosmic-attack"
+   "igdb": "space-channel-5-ulalas-cosmic-attack",
+   "metacritic": "space-channel-5-ulalas-cosmic-attack"
   },
   "label_en": "Space Channel 5: Ulala's Cosmic Attack",
   "wikidata": "Q95678518"
@@ -254,6 +263,7 @@
   "ids": {
    "howlongtobeat": "86421",
    "igdb": "cupid-parasite",
+   "metacritic": "cupid-parasite",
    "steam": "4245590"
   },
   "label_en": "Cupid Parasite",
@@ -282,6 +292,7 @@
    "gog": "game/nightmare_reaper",
    "howlongtobeat": "69056",
    "igdb": "nightmare-reaper",
+   "metacritic": "nightmare-reaper",
    "mobygames": "130092",
    "pcgamingwiki": "Nightmare_Reaper",
    "steam": "1051690"
@@ -336,6 +347,7 @@
    "gog": "game/warhammer_40000_boltgun",
    "howlongtobeat": "115660",
    "igdb": "warhammer-40000-boltgun",
+   "metacritic": "warhammer-40000-boltgun",
    "mobygames": "203527",
    "pcgamingwiki": "Warhammer_40,000:_Boltgun",
    "steam": "2005010"

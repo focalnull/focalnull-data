@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4265",
    "igdb": "halo-4",
+   "metacritic": "halo-4",
    "mobygames": "58779",
    "pcgamingwiki": "Halo_4",
    "steam": "1064273"
@@ -28,6 +29,7 @@
    "gog": "game/giants_citizen_kabuto",
    "howlongtobeat": "3931",
    "igdb": "giants-citizen-kabuto",
+   "metacritic": "giants-citizen-kabuto",
    "mobygames": "2800",
    "pcgamingwiki": "Giants:_Citizen_Kabuto",
    "steam": "557750"
@@ -41,6 +43,7 @@
    "gog": "game/boiling_point_road_to_hell",
    "howlongtobeat": "1219",
    "igdb": "boiling-point-road-to-hell",
+   "metacritic": "boiling-point",
    "mobygames": "17950",
    "pcgamingwiki": "Boiling_Point:_Road_to_Hell",
    "steam": "2000760"
@@ -75,6 +78,7 @@
   "ids": {
    "howlongtobeat": "4497",
    "igdb": "homeworld-2",
+   "metacritic": "homeworld-2",
    "mobygames": "10403",
    "pcgamingwiki": "Homeworld_2"
   },
@@ -95,6 +99,7 @@
   "ids": {
    "howlongtobeat": "11478",
    "igdb": "yu-gi-oh-forbidden-memories",
+   "metacritic": "yu-gi-oh-forbidden-memories",
    "mobygames": "6324"
   },
   "label_en": "Yu-Gi-Oh! Forbidden Memories",
@@ -106,6 +111,7 @@
    "gog": "game/sniper_elite_berlin_1945",
    "howlongtobeat": "8678",
    "igdb": "sniper-elite",
+   "metacritic": "sniper-elite",
    "mobygames": "20695",
    "pcgamingwiki": "Sniper_Elite",
    "steam": "3700"
@@ -145,6 +151,7 @@
   "ids": {
    "howlongtobeat": "2599",
    "igdb": "disgaea-infinite",
+   "metacritic": "disgaea-infinite",
    "mobygames": "49153"
   },
   "label_en": "Disgaea Infinite",
@@ -154,6 +161,7 @@
   "enwiki": "Supersonic Acrobatic Rocket-Powered Battle-Cars",
   "ids": {
    "igdb": "supersonic-acrobatic-rocket-powered-battle-cars",
+   "metacritic": "supersonic-acrobatic-rocket-powered-battle-cars",
    "mobygames": "47879"
   },
   "label_en": "Supersonic Acrobatic Rocket-Powered Battle-Cars",
@@ -165,6 +173,7 @@
    "gog": "game/dark_fall_3_lost_souls",
    "howlongtobeat": "2208",
    "igdb": "dark-fall-lost-souls",
+   "metacritic": "dark-fall-3-lost-souls",
    "mobygames": "45771",
    "pcgamingwiki": "Dark_Fall_3:_Lost_Souls",
    "steam": "46750"
@@ -186,6 +195,7 @@
   "ids": {
    "howlongtobeat": "14547",
    "igdb": "hellboy-the-science-of-evil",
+   "metacritic": "hellboy-the-science-of-evil",
    "mobygames": "45619"
   },
   "label_en": "Hellboy: The Science of Evil",
@@ -258,6 +268,7 @@
   "enwiki": "Taiko: Drum Master",
   "ids": {
    "igdb": "taiko-drum-master--1",
+   "metacritic": "taiko-drum-master",
    "mobygames": "55119"
   },
   "label_en": "Taiko: Drum Master",
@@ -278,6 +289,7 @@
   "enwiki": "World Series Baseball 2K2",
   "ids": {
    "igdb": "world-series-baseball-2k2",
+   "metacritic": "world-series-baseball-2k2",
    "mobygames": "10228"
   },
   "label_en": "World Series Baseball 2K2",
@@ -294,7 +306,8 @@
  },
  {
   "ids": {
-   "igdb": "powerup-heroes"
+   "igdb": "powerup-heroes",
+   "metacritic": "powerup-heroes"
   },
   "label_en": "PowerUp Heroes",
   "wikidata": "Q17637028"
@@ -371,6 +384,7 @@
   "ids": {
    "howlongtobeat": "51662",
    "igdb": "tiny-metal",
+   "metacritic": "tiny-metal",
    "mobygames": "99932",
    "pcgamingwiki": "Tiny_Metal",
    "steam": "751500"
@@ -395,6 +409,7 @@
    "gog": "game/the_swords_of_ditto",
    "howlongtobeat": "48469",
    "igdb": "the-swords-of-ditto",
+   "metacritic": "the-swords-of-ditto",
    "mobygames": "106966",
    "pcgamingwiki": "The_Swords_of_Ditto",
    "steam": "619780"
@@ -416,6 +431,7 @@
    "gog": "game/mousecraft",
    "howlongtobeat": "19735",
    "igdb": "mousecraft",
+   "metacritic": "mousecraft",
    "mobygames": "69896",
    "pcgamingwiki": "MouseCraft",
    "steam": "252750"
@@ -535,6 +551,7 @@
   "ids": {
    "howlongtobeat": "113548",
    "igdb": "rise-of-the-ronin",
+   "metacritic": "rise-of-the-ronin",
    "mobygames": "220050",
    "pcgamingwiki": "Rise_of_the_Ronin",
    "steam": "1340990"
@@ -571,6 +588,7 @@
   "ids": {
    "howlongtobeat": "75807",
    "igdb": "nancy-drew-midnight-in-salem",
+   "metacritic": "nancy-drew-midnight-in-salem",
    "mobygames": "138097",
    "pcgamingwiki": "Nancy_Drew:_Midnight_in_Salem",
    "steam": "1038450"
@@ -823,6 +841,7 @@
   "ids": {
    "howlongtobeat": "132257",
    "igdb": "yasha-legends-of-the-demon-blade",
+   "metacritic": "yasha-legends-of-the-demon-blade",
    "steam": "2169950"
   },
   "label_en": "Yasha: Legends of the Demon Blade",
@@ -842,6 +861,7 @@
   "ids": {
    "howlongtobeat": "19438",
    "igdb": "bravada",
+   "metacritic": "bravada",
    "mobygames": "131521",
    "pcgamingwiki": "Bravada",
    "steam": "315930"
@@ -957,6 +977,7 @@
  {
   "ids": {
    "igdb": "storm-chaser-tornado-alley",
+   "metacritic": "storm-chaser-tornado-alley",
    "mobygames": "109275"
   },
   "label_en": "Storm Chaser: Tornado Alley",
@@ -1009,6 +1030,7 @@
  {
   "ids": {
    "igdb": "snow-bros-dot-nick-and-tom-special",
+   "metacritic": "snow-bros-nick-and-tom-special",
    "mobygames": "188396"
   },
   "label_en": "Snow Bros. Nick and Tom Special",
@@ -1291,6 +1313,7 @@
   "ids": {
    "igdb": "hashihime-of-the-old-book-town",
    "mobygames": "135217",
+   "pcgamingwiki": "Hashihime_of_the_Old_Book_Town",
    "steam": "1039940"
   },
   "label_en": "Hashihime of the Old Book Town",

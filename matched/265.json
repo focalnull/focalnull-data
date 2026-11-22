@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "4073",
    "igdb": "grand-theft-auto-san-andreas",
+   "metacritic": "grand-theft-auto-san-andreas",
    "mobygames": "15393",
    "pcgamingwiki": "Grand_Theft_Auto:_San_Andreas",
    "steam": "12120"
@@ -25,7 +26,8 @@
  {
   "enwiki": "Steel Battalion: Heavy Armor",
   "ids": {
-   "igdb": "steel-battalion-heavy-armor"
+   "igdb": "steel-battalion-heavy-armor",
+   "metacritic": "steel-battalion-heavy-armor"
   },
   "label_en": "Steel Battalion: Heavy Armor",
   "wikidata": "Q2073265"
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "7168",
    "igdb": "pokemon-ranger-shadows-of-almia--1",
+   "metacritic": "pokemon-ranger-shadows-of-almia",
    "mobygames": "38538"
   },
   "label_en": "Pokémon Ranger: Shadows of Almia",
@@ -62,6 +65,7 @@
   "ids": {
    "howlongtobeat": "10037",
    "igdb": "the-legend-of-zelda-ocarina-of-time-master-quest",
+   "metacritic": "the-legend-of-zelda-ocarina-of-time-master-quest",
    "mobygames": "21968"
   },
   "label_en": "The Legend of Zelda: Ocarina of Time Master Quest",
@@ -154,6 +158,7 @@
    "gog": "game/space_engineers",
    "howlongtobeat": "16007",
    "igdb": "space-engineers",
+   "metacritic": "space-engineers",
    "mobygames": "85118",
    "pcgamingwiki": "Space_Engineers",
    "steam": "244850"
@@ -173,6 +178,7 @@
   "enwiki": "Angry Birds Action!",
   "ids": {
    "igdb": "angry-birds-action",
+   "metacritic": "angry-birds-action",
    "mobygames": "79813"
   },
   "label_en": "Angry Birds Action!",
@@ -207,7 +213,8 @@
  {
   "ids": {
    "howlongtobeat": "53180",
-   "igdb": "gal-metal"
+   "igdb": "gal-metal",
+   "metacritic": "gal-metal"
   },
   "label_en": "Gal Metal",
   "wikidata": "Q86729265"
@@ -215,6 +222,7 @@
  {
   "ids": {
    "igdb": "cursed-castilla-ex",
+   "metacritic": "maldita-castilla-ex-cursed-castilla",
    "mobygames": "84648",
    "pcgamingwiki": "Cursed_Castilla_(Maldita_Castilla_EX)",
    "steam": "534290"
@@ -249,6 +257,7 @@
   "ids": {
    "howlongtobeat": "104489",
    "igdb": "sol-cresta",
+   "metacritic": "sol-cresta",
    "mobygames": "180281",
    "pcgamingwiki": "Sol_Cresta",
    "steam": "1575640"
@@ -291,6 +300,7 @@
    "howlongtobeat": "90112",
    "igdb": "evil-inside",
    "mobygames": "161227",
+   "pcgamingwiki": "Evil_Inside",
    "steam": "1243880"
   },
   "label_en": "Evil Inside",
@@ -683,6 +693,7 @@
   "ids": {
    "howlongtobeat": "160831",
    "igdb": "awaria",
+   "metacritic": "awaria",
    "mobygames": "234691",
    "pcgamingwiki": "Awaria",
    "steam": "3274300"
@@ -709,6 +720,7 @@
   "ids": {
    "howlongtobeat": "137444",
    "igdb": "astronaut-the-best",
+   "metacritic": "astronaut-the-best",
    "mobygames": "207305",
    "steam": "1239950"
   },

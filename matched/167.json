@@ -3,6 +3,7 @@
   "enwiki": "V-Rally 3",
   "ids": {
    "igdb": "v-rally-3",
+   "metacritic": "v-rally-3",
    "mobygames": "7034",
    "pcgamingwiki": "V-Rally_3"
   },
@@ -13,6 +14,7 @@
   "enwiki": "Harry Potter and the Chamber of Secrets (video game)",
   "ids": {
    "igdb": "harry-potter-and-the-chamber-of-secrets",
+   "metacritic": "harry-potter-and-the-chamber-of-secrets",
    "mobygames": "7726",
    "pcgamingwiki": "Harry_Potter_and_the_Chamber_of_Secrets"
   },
@@ -24,6 +26,7 @@
   "ids": {
    "howlongtobeat": "6657",
    "igdb": "no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way",
+   "metacritic": "no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way",
    "mobygames": "7391",
    "pcgamingwiki": "No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way"
   },
@@ -35,6 +38,7 @@
   "ids": {
    "howlongtobeat": "19795",
    "igdb": "star-wars-the-force-unleashed",
+   "metacritic": "star-wars-the-force-unleashed",
    "mobygames": "36408",
    "pcgamingwiki": "Star_Wars:_The_Force_Unleashed"
   },
@@ -46,6 +50,7 @@
   "ids": {
    "howlongtobeat": "5916",
    "igdb": "metal-gear-solid-4-guns-of-the-patriots",
+   "metacritic": "metal-gear-solid-4-guns-of-the-patriots",
    "mobygames": "34773"
   },
   "label_en": "Metal Gear Solid 4: Guns of the Patriots",
@@ -57,6 +62,7 @@
    "gog": "game/just_cause_2_complete_edition",
    "howlongtobeat": "4905",
    "igdb": "just-cause-2",
+   "metacritic": "just-cause-2",
    "mobygames": "45758",
    "pcgamingwiki": "Just_Cause_2",
    "steam": "8190"
@@ -69,6 +75,7 @@
   "ids": {
    "howlongtobeat": "9892",
    "igdb": "the-godfather-ii",
+   "metacritic": "the-godfather-ii",
    "mobygames": "40203",
    "pcgamingwiki": "The_Godfather_II",
    "steam": "24830"
@@ -113,6 +120,7 @@
    "gog": "game/lego_city_undercover",
    "howlongtobeat": "5248",
    "igdb": "lego-city-undercover",
+   "metacritic": "lego-city-undercover",
    "mobygames": "75092",
    "pcgamingwiki": "Lego_City_Undercover",
    "steam": "578330"
@@ -134,6 +142,7 @@
   "ids": {
    "howlongtobeat": "3980",
    "igdb": "god-of-war-ascension",
+   "metacritic": "god-of-war-ascension",
    "mobygames": "60789"
   },
   "label_en": "God of War: Ascension",
@@ -155,6 +164,7 @@
    "gog": "game/red_faction_armageddon",
    "howlongtobeat": "7685",
    "igdb": "red-faction-armageddon",
+   "metacritic": "red-faction-armageddon",
    "mobygames": "53001",
    "pcgamingwiki": "Red_Faction:_Armageddon",
    "steam": "55110"
@@ -166,6 +176,7 @@
   "enwiki": "Snoopy vs. the Red Baron (video game)",
   "ids": {
    "igdb": "snoopy-vs-the-red-baron",
+   "metacritic": "snoopy-vs-the-red-baron",
    "mobygames": "28620",
    "pcgamingwiki": "Snoopy_vs._the_Red_Baron"
   },
@@ -207,6 +218,7 @@
   "ids": {
    "howlongtobeat": "6339",
    "igdb": "n-dot-o-v-dot-a-near-orbit-vanguard-alliance",
+   "metacritic": "n-o-v-a-near-orbit-vanguard-alliance",
    "mobygames": "46451"
   },
   "label_en": "N.O.V.A. Near Orbit Vanguard Alliance",
@@ -229,6 +241,7 @@
   "enwiki": "Sega Smash Pack",
   "ids": {
    "igdb": "sega-smash-pack-volume-1",
+   "metacritic": "sega-smash-pack",
    "pcgamingwiki": "Sega_Puzzle_Pack"
   },
   "label_en": "Sega Smash Pack",
@@ -247,6 +260,7 @@
   "ids": {
    "howlongtobeat": "7986",
    "igdb": "roogoo",
+   "metacritic": "roogoo",
    "mobygames": "34765",
    "pcgamingwiki": "Roogoo",
    "steam": "38210"
@@ -286,6 +300,7 @@
   "ids": {
    "howlongtobeat": "10377",
    "igdb": "tiny-troopers",
+   "metacritic": "tiny-troopers",
    "mobygames": "71791",
    "pcgamingwiki": "Tiny_Troopers",
    "steam": "216110"
@@ -343,6 +358,7 @@
    "epic": "phantom-brigade",
    "howlongtobeat": "67608",
    "igdb": "phantom-brigade",
+   "metacritic": "phantom-brigade",
    "mobygames": "154041",
    "pcgamingwiki": "Phantom_Brigade",
    "steam": "553540"
@@ -371,6 +387,7 @@
    "gog": "game/fae_tactics",
    "howlongtobeat": "74290",
    "igdb": "fae-tactics",
+   "metacritic": "fae-tactics",
    "mobygames": "148755",
    "pcgamingwiki": "Fae_Tactics",
    "steam": "995980"
@@ -384,6 +401,7 @@
    "epic": "death-stranding-directors-cut",
    "howlongtobeat": "93457",
    "igdb": "death-stranding-directors-cut",
+   "metacritic": "death-stranding-directors-cut",
    "mobygames": "172725",
    "pcgamingwiki": "Death_Stranding_Director's_Cut",
    "steam": "1850570"
@@ -415,6 +433,7 @@
   "ids": {
    "howlongtobeat": "77860",
    "igdb": "arietta-of-spirits",
+   "metacritic": "arietta-of-spirits",
    "mobygames": "169560",
    "pcgamingwiki": "Arietta_of_Spirits",
    "steam": "1140170"
@@ -488,6 +507,7 @@
    "gog": "game/rustler_grand_theft_horse",
    "howlongtobeat": "85842",
    "igdb": "rustler",
+   "metacritic": "rustler",
    "mobygames": "159363",
    "pcgamingwiki": "Rustler",
    "steam": "844260"
@@ -499,6 +519,7 @@
   "ids": {
    "howlongtobeat": "103055",
    "igdb": "please-touch-the-artwork",
+   "metacritic": "please-touch-the-artwork",
    "mobygames": "179136",
    "pcgamingwiki": "Please,_Touch_The_Artwork",
    "steam": "1097100"
@@ -605,6 +626,7 @@
   "ids": {
    "howlongtobeat": "69778",
    "igdb": "ooo-ascension",
+   "metacritic": "ooo-ascension",
    "pcgamingwiki": "OOo:_Ascension",
    "steam": "905330"
   },
@@ -764,6 +786,7 @@
  {
   "ids": {
    "igdb": "9th-sentinel-sisters",
+   "metacritic": "9th-sentinel-sisters",
    "mobygames": "209862",
    "steam": "2134560"
   },
@@ -1197,6 +1220,7 @@
  {
   "ids": {
    "igdb": "the-village",
+   "pcgamingwiki": "The_Village",
    "steam": "632050"
   },
   "label_en": "The Village",
@@ -1209,6 +1233,7 @@
  {
   "ids": {
    "igdb": "erdetspill",
+   "metacritic": "erdetspill",
    "steam": "4887360"
   },
   "label_en": "erdetspill",

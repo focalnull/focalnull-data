@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "10547",
    "igdb": "total-war-rome-ii",
+   "metacritic": "total-war-rome-ii",
    "mobygames": "65903",
    "pcgamingwiki": "Total_War:_Rome_II",
    "steam": "214950"
@@ -64,6 +65,7 @@
   "enwiki": "Superstars V8 Racing",
   "ids": {
    "igdb": "superstars-v8-racing",
+   "metacritic": "superstars-v8-racing",
    "mobygames": "46611",
    "pcgamingwiki": "Superstars_V8_Racing"
   },
@@ -116,6 +118,7 @@
   "ids": {
    "howlongtobeat": "4357",
    "igdb": "haven-call-of-the-king",
+   "metacritic": "haven-call-of-the-king",
    "mobygames": "14049"
   },
   "label_en": "Haven: Call of the King",
@@ -125,6 +128,7 @@
   "enwiki": "Monday Night Combat",
   "ids": {
    "igdb": "monday-night-combat",
+   "metacritic": "monday-night-combat",
    "mobygames": "47775",
    "pcgamingwiki": "Monday_Night_Combat",
    "steam": "63200"
@@ -188,6 +192,7 @@
   "ids": {
    "howlongtobeat": "18990",
    "igdb": "rise-of-incarnates",
+   "metacritic": "rise-of-incarnates",
    "mobygames": "177005",
    "pcgamingwiki": "Rise_of_Incarnates",
    "steam": "258160"
@@ -234,6 +239,7 @@
  {
   "ids": {
    "igdb": "enchanted-cavern",
+   "metacritic": "enchanted-cavern",
    "mobygames": "89842"
   },
   "label_en": "Enchanted Cavern",
@@ -245,6 +251,7 @@
    "gog": "game/battlestar_galactica_deadlock",
    "howlongtobeat": "49382",
    "igdb": "battlestar-galactica-deadlock",
+   "metacritic": "battlestar-galactica-deadlock",
    "mobygames": "95476",
    "pcgamingwiki": "Battlestar_Galactica_Deadlock",
    "steam": "544610"
@@ -254,7 +261,8 @@
  },
  {
   "ids": {
-   "igdb": "3d-thunder-blade"
+   "igdb": "3d-thunder-blade",
+   "metacritic": "3d-thunder-blade"
   },
   "label_en": "3D Thunder Blade",
   "wikidata": "Q58210643"
@@ -270,6 +278,7 @@
   "ids": {
    "howlongtobeat": "45393",
    "igdb": "whats-under-your-blanket-2",
+   "metacritic": "whats-under-your-blanket-2-",
    "mobygames": "132320",
    "pcgamingwiki": "What's_under_Your_Blanket_2_!?",
    "steam": "605500"
@@ -281,6 +290,7 @@
   "ids": {
    "gog": "game/zombie_dinos_from_planet_zeltoid",
    "igdb": "zombie-dinos-from-planet-zeltoid",
+   "pcgamingwiki": "Zombie_Dinos_from_Planet_Zeltoid",
    "steam": "1749720"
   },
   "label_en": "Zombie Dinos from Planet Zeltoid",
@@ -292,6 +302,7 @@
    "gog": "game/overland",
    "howlongtobeat": "53303",
    "igdb": "overland",
+   "metacritic": "overland",
    "mobygames": "125515",
    "pcgamingwiki": "Overland",
    "steam": "355680"
@@ -305,6 +316,7 @@
    "epic": "outriders",
    "howlongtobeat": "68276",
    "igdb": "outriders",
+   "metacritic": "outriders",
    "mobygames": "161281",
    "pcgamingwiki": "Outriders",
    "steam": "680420"
@@ -317,6 +329,7 @@
   "ids": {
    "howlongtobeat": "26459",
    "igdb": "a-date-in-the-park",
+   "metacritic": "a-date-in-the-park",
    "mobygames": "70196",
    "pcgamingwiki": "A_Date_in_the_Park",
    "steam": "468530"
@@ -349,6 +362,7 @@
   "ids": {
    "howlongtobeat": "44522",
    "igdb": "balancity",
+   "metacritic": "balancity",
    "mobygames": "113759",
    "pcgamingwiki": "BalanCity",
    "steam": "462680"
@@ -371,6 +385,7 @@
   "ids": {
    "howlongtobeat": "106994",
    "igdb": "headland",
+   "metacritic": "headland",
    "mobygames": "163426",
    "steam": "1834110"
   },
@@ -425,6 +440,7 @@
   "ids": {
    "howlongtobeat": "4587",
    "igdb": "ib--1",
+   "metacritic": "ib",
    "mobygames": "182800",
    "pcgamingwiki": "Ib_(2022)",
    "steam": "1901370"
@@ -446,6 +462,7 @@
    "epic": "crash-drive-3",
    "howlongtobeat": "98268",
    "igdb": "crash-drive-3",
+   "metacritic": "crash-drive-3",
    "mobygames": "167408",
    "pcgamingwiki": "Crash_Drive_3",
    "steam": "346820"
@@ -478,6 +495,7 @@
   "ids": {
    "howlongtobeat": "137736",
    "igdb": "super-bomberman-r-2",
+   "metacritic": "super-bomberman-r-2",
    "mobygames": "208683",
    "pcgamingwiki": "Super_Bomberman_R_2",
    "steam": "1913740"
@@ -510,6 +528,7 @@
   "ids": {
    "howlongtobeat": "118219",
    "igdb": "bayonetta-origins-cereza-and-the-lost-demon",
+   "metacritic": "bayonetta-origins-cereza-and-the-lost-demon",
    "mobygames": "201277"
   },
   "label_en": "Bayonetta Origins: Cereza and the Lost Demon",
@@ -968,6 +987,7 @@
  {
   "ids": {
    "howlongtobeat": "81447",
+   "metacritic": "jerezs-arena",
    "mobygames": "148406",
    "steam": "1333360"
   },

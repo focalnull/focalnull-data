@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "17301",
    "igdb": "the-sims-life-stories",
+   "metacritic": "the-sims-life-stories",
    "mobygames": "29325",
    "pcgamingwiki": "The_Sims_Life_Stories"
   },
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "9462",
    "igdb": "super-street-fighter-iv",
+   "metacritic": "super-street-fighter-iv",
    "mobygames": "47408"
   },
   "label_en": "Super Street Fighter IV",
@@ -81,6 +83,7 @@
   "enwiki": "MotoGP 3",
   "ids": {
    "igdb": "motogp-3",
+   "metacritic": "motogp-3",
    "mobygames": "8700"
   },
   "label_en": "MotoGP 3",
@@ -100,6 +103,7 @@
   "ids": {
    "howlongtobeat": "828",
    "igdb": "band-of-bugs",
+   "metacritic": "band-of-bugs",
    "mobygames": "31955"
   },
   "label_en": "Band of Bugs",
@@ -182,6 +186,7 @@
    "gog": "game/silence",
    "howlongtobeat": "39922",
    "igdb": "silence",
+   "metacritic": "silence-the-whispered-world-2",
    "mobygames": "87470",
    "pcgamingwiki": "Silence_-_The_Whispered_World_2",
    "steam": "314790"
@@ -194,6 +199,7 @@
   "ids": {
    "howlongtobeat": "41378",
    "igdb": "cartoon-network-battle-crashers",
+   "metacritic": "cartoon-network-battle-crashers",
    "mobygames": "83573"
   },
   "label_en": "Cartoon Network: Battle Crashers",
@@ -204,6 +210,7 @@
   "ids": {
    "howlongtobeat": "44781",
    "igdb": "has-been-heroes",
+   "metacritic": "has-been-heroes",
    "mobygames": "86132",
    "pcgamingwiki": "Has-Been_Heroes",
    "steam": "492290"
@@ -217,6 +224,7 @@
    "gog": "game/greedfall",
    "howlongtobeat": "62519",
    "igdb": "greedfall",
+   "metacritic": "greedfall",
    "mobygames": "133805",
    "pcgamingwiki": "Greedfall",
    "steam": "606880"
@@ -235,6 +243,7 @@
  {
   "ids": {
    "igdb": "meteos-disney-magic",
+   "metacritic": "meteos-disney-magic",
    "mobygames": "27412"
   },
   "label_en": "Meteos: Disney Magic",
@@ -293,6 +302,7 @@
   "ids": {
    "howlongtobeat": "71968",
    "igdb": "tell-me-why",
+   "metacritic": "tell-me-why",
    "mobygames": "149656",
    "pcgamingwiki": "Tell_Me_Why",
    "steam": "1180660"
@@ -313,6 +323,7 @@
   "ids": {
    "howlongtobeat": "42549",
    "igdb": "surgeon-simulator-experience-reality",
+   "metacritic": "surgeon-simulator-experience-reality",
    "mobygames": "87548",
    "pcgamingwiki": "Surgeon_Simulator:_Experience_Reality",
    "steam": "518920"
@@ -357,6 +368,7 @@
    "epic": "draw-and-guess-cfd5fc",
    "howlongtobeat": "96247",
    "igdb": "draw-and-guess",
+   "metacritic": "draw-guess",
    "mobygames": "193252",
    "steam": "1483870"
   },
@@ -682,6 +694,7 @@
   "ids": {
    "howlongtobeat": "18872",
    "igdb": "redux-dark-matters",
+   "metacritic": "redux-dark-matters",
    "mobygames": "99553",
    "pcgamingwiki": "Redux:_Dark_Matters",
    "steam": "336930"
@@ -723,6 +736,7 @@
   "ids": {
    "howlongtobeat": "14530",
    "igdb": "you-dont-know-jack-sports",
+   "metacritic": "you-dont-know-jack-sports",
    "mobygames": "14480",
    "pcgamingwiki": "You_Don't_Know_Jack_Sports",
    "steam": "260020"
@@ -779,6 +793,7 @@
  {
   "ids": {
    "igdb": "resonance-solstice",
+   "metacritic": "resonance-solstice",
    "steam": "3882350"
   },
   "label_en": "Resonance Solstice",
@@ -1111,6 +1126,7 @@
   "enwiki": "EA Sports College Football 26",
   "ids": {
    "igdb": "ea-sports-college-football-26",
+   "metacritic": "ea-sports-college-football-26",
    "mobygames": "244799"
   },
   "label_en": "EA Sports College Football 26",
@@ -1127,6 +1143,7 @@
  {
   "ids": {
    "igdb": "hexaluga-dungeons-and-hunting",
+   "pcgamingwiki": "Hexaluga:_Dungeons_and_Hunting",
    "steam": "860670"
   },
   "label_en": "❂ Hexaluga ❂ Dungeons and Hunting ☠",
@@ -1165,6 +1182,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Encryption",
    "steam": "3348610"
   },
   "label_en": "Encryption",

@@ -3,6 +3,7 @@
   "enwiki": "Star Wars: Episode III – Revenge of the Sith (video game)",
   "ids": {
    "igdb": "star-wars-episode-iii-revenge-of-the-sith",
+   "metacritic": "star-wars-episode-iii-revenge-of-the-sith",
    "mobygames": "17831"
   },
   "label_en": "Star Wars: Episode III – Revenge of the Sith",
@@ -34,6 +35,7 @@
   "enwiki": "Star Trek: Klingon Academy",
   "ids": {
    "igdb": "star-trek-klingon-academy",
+   "metacritic": "star-trek-klingon-academy",
    "mobygames": "2802",
    "pcgamingwiki": "Star_Trek:_Klingon_Academy"
   },
@@ -64,6 +66,7 @@
   "ids": {
    "howlongtobeat": "11424",
    "igdb": "yakuza-4",
+   "metacritic": "yakuza-4",
    "mobygames": "50955",
    "pcgamingwiki": "Yakuza_4",
    "steam": "1105500"
@@ -85,6 +88,7 @@
   "ids": {
    "howlongtobeat": "16771",
    "igdb": "earth-defense-force-2025",
+   "metacritic": "earth-defense-force-2025",
    "mobygames": "83709"
   },
   "label_en": "Earth Defense Force 2025",
@@ -94,6 +98,7 @@
   "enwiki": "Silent Scope (video game)",
   "ids": {
    "igdb": "silent-scope",
+   "metacritic": "silent-scope",
    "mobygames": "3829"
   },
   "label_en": "Silent Scope",
@@ -103,6 +108,7 @@
   "enwiki": "American Dragon: Jake Long – Attack of the Dark Dragon",
   "ids": {
    "igdb": "disneys-american-dragon-jake-long-attack-of-the-dark-dragon",
+   "metacritic": "disneys-american-dragon-jake-long-attack-of-the-dark-dragon",
    "mobygames": "26245"
   },
   "label_en": "American Dragon: Jake Long – Attack of the Dark Dragon",
@@ -177,6 +183,7 @@
   "enwiki": "Alfred Hitchcock Presents: The Final Cut",
   "ids": {
    "igdb": "alfred-hitchcock-presents-the-final-cut",
+   "metacritic": "alfred-hitchcock-presents-the-final-cut",
    "mobygames": "5552"
   },
   "label_en": "Alfred Hitchcock Presents: The Final Cut",
@@ -186,6 +193,7 @@
   "enwiki": "Kirby Battle Royale",
   "ids": {
    "igdb": "kirby-battle-royale",
+   "metacritic": "kirby-battle-royale",
    "mobygames": "96128"
   },
   "label_en": "Kirby Battle Royale",
@@ -194,6 +202,7 @@
  {
   "ids": {
    "igdb": "adventure-bar-labyrinth",
+   "metacritic": "adventure-labyrinth-story",
    "mobygames": "98862"
   },
   "label_en": "Adventure Bar Labyrinth",
@@ -203,6 +212,7 @@
   "ids": {
    "howlongtobeat": "49293",
    "igdb": "caligo",
+   "metacritic": "caligo",
    "mobygames": "100846",
    "pcgamingwiki": "Caligo",
    "steam": "629840"
@@ -255,6 +265,7 @@
    "epic": "hazel-sky-478373",
    "howlongtobeat": "76154",
    "igdb": "hazel-sky",
+   "metacritic": "hazel-sky",
    "mobygames": "187811",
    "pcgamingwiki": "Hazel_Sky",
    "steam": "1094920"
@@ -300,6 +311,7 @@
   "ids": {
    "howlongtobeat": "118226",
    "igdb": "crash-team-rumble",
+   "metacritic": "crash-team-rumble",
    "mobygames": "204712"
   },
   "label_en": "Crash Team Rumble",
@@ -344,6 +356,7 @@
    "gog": "game/the_pale_beyond",
    "howlongtobeat": "107652",
    "igdb": "the-pale-beyond",
+   "metacritic": "the-pale-beyond",
    "mobygames": "199795",
    "pcgamingwiki": "The_Pale_Beyond",
    "steam": "1266030"
@@ -378,6 +391,7 @@
    "gog": "game/daydream_forgotten_sorrow",
    "howlongtobeat": "127943",
    "igdb": "daydream-forgotten-sorrow",
+   "metacritic": "daydream-forgotten-sorrow",
    "mobygames": "204401",
    "pcgamingwiki": "Daydream:_Forgotten_Sorrow",
    "steam": "1542110"
@@ -817,6 +831,7 @@
    "gog": "game/vambrace_dungeon_monarch",
    "howlongtobeat": "147635",
    "igdb": "vambrace-dungeon-monarch",
+   "metacritic": "vambrace-dungeon-monarch",
    "mobygames": "236252",
    "pcgamingwiki": "Vambrace:_Dungeon_Monarch",
    "steam": "2753600"
@@ -856,6 +871,7 @@
    "gog": "game/pools",
    "howlongtobeat": "149391",
    "igdb": "pools",
+   "metacritic": "pools",
    "mobygames": "223432",
    "pcgamingwiki": "Pools",
    "steam": "2663530"

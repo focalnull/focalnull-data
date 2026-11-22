@@ -5,6 +5,7 @@
    "gog": "game/jade_empire_special_edition",
    "howlongtobeat": "4789",
    "igdb": "jade-empire-special-edition",
+   "metacritic": "jade-empire-special-edition",
    "mobygames": "17863",
    "pcgamingwiki": "Jade_Empire:_Special_Edition",
    "steam": "7110"
@@ -36,6 +37,7 @@
   "ids": {
    "howlongtobeat": "3319",
    "igdb": "facade",
+   "metacritic": "facade",
    "mobygames": "18212",
    "pcgamingwiki": "Façade"
   },
@@ -54,6 +56,7 @@
   "enwiki": "Mystic Heroes",
   "ids": {
    "igdb": "mystic-heroes",
+   "metacritic": "mystic-heroes",
    "mobygames": "47803"
   },
   "label_en": "Mystic Heroes",
@@ -110,6 +113,7 @@
   "enwiki": "Monster Jam: Maximum Destruction",
   "ids": {
    "igdb": "monster-jam-maximum-destruction",
+   "metacritic": "monster-jam-maximum-destruction",
    "mobygames": "10671"
   },
   "label_en": "Monster Jam: Maximum Destruction",
@@ -128,6 +132,7 @@
   "enwiki": "The Tower SP",
   "ids": {
    "igdb": "the-tower-sp",
+   "metacritic": "the-tower-sp",
    "mobygames": "43242"
   },
   "label_en": "The Tower SP",
@@ -150,6 +155,7 @@
  {
   "ids": {
    "igdb": "rummel-and-rabalder-dr-franks-mask",
+   "metacritic": "rummel-and-rabalder-dr-franks-mask",
    "mobygames": "37990"
   },
   "label_en": "Rummel & Rabalder: Dr. Franks mask",
@@ -189,6 +195,7 @@
   "ids": {
    "howlongtobeat": "5311",
    "igdb": "links-2004",
+   "metacritic": "links-2004",
    "mobygames": "12341"
   },
   "label_en": "Links 2004",
@@ -246,6 +253,7 @@
   "ids": {
    "howlongtobeat": "50528",
    "igdb": "steven-universe-save-the-light",
+   "metacritic": "steven-universe-save-the-light",
    "mobygames": "97758",
    "pcgamingwiki": "Steven_Universe:_Save_the_Light",
    "steam": "821890"
@@ -267,6 +275,7 @@
   "ids": {
    "howlongtobeat": "52505",
    "igdb": "attack-on-titan-2",
+   "metacritic": "attack-on-titan-2",
    "pcgamingwiki": "Attack_on_Titan_2",
    "steam": "601050"
   },
@@ -278,6 +287,7 @@
   "ids": {
    "igdb": "katharsis",
    "mobygames": "41400",
+   "pcgamingwiki": "Katharsis",
    "steam": "675730"
   },
   "label_en": "Katharsis",
@@ -302,6 +312,7 @@
   "ids": {
    "howlongtobeat": "56450",
    "igdb": "asset-flip-simulator",
+   "metacritic": "asset-flip-simulator",
    "pcgamingwiki": "Asset_Flip_Simulator",
    "steam": "847880"
   },
@@ -330,6 +341,7 @@
    "gog": "game/the_medium",
    "howlongtobeat": "78037",
    "igdb": "the-medium",
+   "metacritic": "the-medium",
    "mobygames": "157143",
    "pcgamingwiki": "The_Medium",
    "steam": "1293160"
@@ -355,6 +367,7 @@
    "gog": "game/as_far_as_the_eye",
    "howlongtobeat": "82604",
    "igdb": "as-far-as-the-eye",
+   "metacritic": "as-far-as-the-eye",
    "mobygames": "150323",
    "pcgamingwiki": "As_Far_As_The_Eye",
    "steam": "1119700"
@@ -365,7 +378,8 @@
  {
   "enwiki": "Girls' Frontline: Neural Cloud",
   "ids": {
-   "igdb": "neural-cloud"
+   "igdb": "neural-cloud",
+   "metacritic": "neural-cloud"
   },
   "label_en": "Neural Cloud",
   "wikidata": "Q108822738"
@@ -626,6 +640,7 @@
    "epic": "ride-5",
    "howlongtobeat": "127040",
    "igdb": "ride-5--1",
+   "metacritic": "ride-5",
    "mobygames": "207753",
    "pcgamingwiki": "Ride_5",
    "steam": "1650010"
@@ -667,6 +682,7 @@
   "ids": {
    "howlongtobeat": "13091",
    "igdb": "particulars",
+   "metacritic": "particulars",
    "mobygames": "144694",
    "pcgamingwiki": "Particulars",
    "steam": "259470"
@@ -1268,6 +1284,7 @@
    "epic": "the-hive-f5c2c8",
    "gog": "game/the_hive",
    "igdb": "the-hive",
+   "pcgamingwiki": "The_Hive",
    "steam": "325730"
   },
   "label_en": "The Hive",

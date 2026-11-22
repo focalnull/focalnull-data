@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2282",
    "igdb": "day-of-defeat",
+   "metacritic": "day-of-defeat",
    "mobygames": "9240",
    "pcgamingwiki": "Day_of_Defeat",
    "steam": "30"
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "2084",
    "igdb": "csi-deadly-intent",
+   "metacritic": "csi-crime-scene-investigation-deadly-intent",
    "mobygames": "46424",
    "pcgamingwiki": "CSI:_Deadly_Intent"
   },
@@ -55,6 +57,7 @@
   "enwiki": "Enthusia Professional Racing",
   "ids": {
    "igdb": "enthusia-professional-racing",
+   "metacritic": "enthusia-professional-racing",
    "mobygames": "17339"
   },
   "label_en": "Enthusia Professional Racing",
@@ -66,6 +69,7 @@
    "gog": "game/dracula_origin",
    "howlongtobeat": "2751",
    "igdb": "dracula-origin",
+   "metacritic": "dracula-origin",
    "mobygames": "34151",
    "pcgamingwiki": "Dracula_Origin",
    "steam": "11050"
@@ -129,6 +133,7 @@
   "ids": {
    "howlongtobeat": "14338",
    "igdb": "sorcery-saga-curse-of-the-great-curry-god",
+   "metacritic": "sorcery-saga-the-curse-of-the-great-curry-god",
    "mobygames": "87945",
    "pcgamingwiki": "Sorcery_Saga:_Curse_of_the_Great_Curry_God",
    "steam": "836760"
@@ -210,6 +215,7 @@
    "epic": "the-spectrum-retreat",
    "howlongtobeat": "58531",
    "igdb": "the-spectrum-retreat",
+   "metacritic": "the-spectrum-retreat",
    "mobygames": "111135",
    "pcgamingwiki": "The_Spectrum_Retreat",
    "steam": "763250"
@@ -224,6 +230,7 @@
    "gog": "game/7_billion_humans",
    "howlongtobeat": "60259",
    "igdb": "7-billion-humans",
+   "metacritic": "7-billion-humans",
    "mobygames": "112844",
    "pcgamingwiki": "7_Billion_Humans",
    "steam": "792100"
@@ -235,6 +242,7 @@
   "enwiki": "Fisherman's Challenge",
   "ids": {
    "igdb": "fishermans-challenge",
+   "metacritic": "fishermans-challenge",
    "mobygames": "34761"
   },
   "label_en": "Fisherman's Challenge",
@@ -255,6 +263,7 @@
   "ids": {
    "howlongtobeat": "91386",
    "igdb": "enlisted",
+   "metacritic": "enlisted",
    "mobygames": "163022",
    "pcgamingwiki": "Enlisted",
    "steam": "2051620"
@@ -322,6 +331,7 @@
    "epic": "loopmancer",
    "howlongtobeat": "94153",
    "igdb": "loopmancer",
+   "metacritic": "loopmancer",
    "mobygames": "188115",
    "pcgamingwiki": "Loopmancer",
    "steam": "1650810"
@@ -335,6 +345,7 @@
    "gog": "game/broken_pieces",
    "howlongtobeat": "93685",
    "igdb": "broken-pieces",
+   "metacritic": "broken-pieces",
    "mobygames": "190871",
    "pcgamingwiki": "Broken_Pieces",
    "steam": "1293730"
@@ -376,6 +387,7 @@
   "ids": {
    "howlongtobeat": "109601",
    "igdb": "sd-gundam-battle-alliance",
+   "metacritic": "sd-gundam-battle-alliance",
    "mobygames": "190117",
    "pcgamingwiki": "SD_Gundam_Battle_Alliance",
    "steam": "824550"
@@ -395,6 +407,7 @@
   "enwiki": "Lunark",
   "ids": {
    "igdb": "lunark",
+   "metacritic": "lunark",
    "mobygames": "201197",
    "pcgamingwiki": "Lunark",
    "steam": "1050370"
@@ -427,6 +440,7 @@
    "howlongtobeat": "120976",
    "igdb": "fears-to-fathom-carson-house",
    "mobygames": "200111",
+   "pcgamingwiki": "Fears_to_Fathom:_Carson_House",
    "steam": "2120900"
   },
   "label_en": "Fears to Fathom - Carson House",

@@ -22,6 +22,7 @@
   "ids": {
    "howlongtobeat": "7526",
    "igdb": "rage",
+   "metacritic": "rage",
    "mobygames": "53208",
    "pcgamingwiki": "RAGE",
    "steam": "9200"
@@ -46,6 +47,7 @@
    "epic": "defense-grid",
    "howlongtobeat": "2412",
    "igdb": "defense-grid-the-awakening",
+   "metacritic": "defense-grid-the-awakening",
    "mobygames": "39581",
    "pcgamingwiki": "Defense_Grid:_The_Awakening",
    "steam": "18500"
@@ -74,6 +76,7 @@
   "enwiki": "Resident Evil Outbreak: File 2",
   "ids": {
    "igdb": "resident-evil-outbreak-file-2",
+   "metacritic": "resident-evil-outbreak-file-2",
    "mobygames": "19009"
   },
   "label_en": "Resident Evil Outbreak: File 2",
@@ -111,6 +114,7 @@
   "ids": {
    "howlongtobeat": "3238",
    "igdb": "everyday-shooter",
+   "metacritic": "everyday-shooter",
    "mobygames": "30798",
    "pcgamingwiki": "Everyday_Shooter",
    "steam": "16300"
@@ -123,6 +127,7 @@
   "ids": {
    "howlongtobeat": "12600",
    "igdb": "dracula-2-the-last-sanctuary",
+   "metacritic": "dracula-the-last-sanctuary",
    "mobygames": "3374",
    "pcgamingwiki": "Dracula_2:_The_Last_Sanctuary",
    "steam": "289820"
@@ -139,6 +144,7 @@
    "gog": "game/spellforce_2_anniversary_edition",
    "howlongtobeat": "8924",
    "igdb": "spellforce-2-shadow-wars",
+   "metacritic": "spellforce-2-shadow-wars",
    "mobygames": "22349",
    "pcgamingwiki": "SpellForce_2:_Shadow_Wars"
   },
@@ -150,6 +156,7 @@
   "ids": {
    "howlongtobeat": "790",
    "igdb": "backyard-wrestling-don-t-try-this-at-home",
+   "metacritic": "backyard-wrestling-dont-try-this-at-home",
    "mobygames": "10972"
   },
   "label_en": "Backyard Wrestling: Don't Try This at Home",
@@ -191,6 +198,7 @@
   "ids": {
    "howlongtobeat": "17536",
    "igdb": "goat-simulator",
+   "metacritic": "goat-simulator",
    "mobygames": "64790",
    "pcgamingwiki": "Goat_Simulator",
    "steam": "265930"
@@ -204,6 +212,7 @@
    "gog": "game/pixel_piracy",
    "howlongtobeat": "16846",
    "igdb": "pixel-piracy",
+   "metacritic": "pixel-piracy",
    "mobygames": "62473",
    "pcgamingwiki": "Pixel_Piracy",
    "steam": "264140"
@@ -385,6 +394,7 @@
  {
   "ids": {
    "igdb": "in-shape",
+   "metacritic": "in-shape",
    "mobygames": "189397",
    "steam": "1781330"
   },
@@ -437,6 +447,7 @@
    "gog": "game/paper_trail",
    "howlongtobeat": "125083",
    "igdb": "paper-trail",
+   "metacritic": "paper-trail",
    "mobygames": "224329",
    "pcgamingwiki": "Paper_Trail",
    "steam": "1889740"
@@ -459,6 +470,7 @@
   "ids": {
    "howlongtobeat": "108886",
    "igdb": "mothergunship-forge",
+   "metacritic": "mothergunship-forge",
    "mobygames": "188836",
    "steam": "1931240"
   },
@@ -913,7 +925,8 @@
  },
  {
   "ids": {
-   "igdb": "raccoon-adventure"
+   "igdb": "raccoon-adventure",
+   "metacritic": "raccoon-adventure-animal-city-simulator-3d-farm-super-deluxe"
   },
   "label_en": "Raccoon Adventure: Animal City Simulator 3D Farm Super Deluxe",
   "wikidata": "Q131416890"

@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "58828",
    "igdb": "dwarf-fortress",
+   "metacritic": "dwarf-fortress",
    "mobygames": "34655",
    "pcgamingwiki": "Dwarf_Fortress"
   },
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "1163",
    "igdb": "bleach-the-blade-of-fate",
+   "metacritic": "bleach-the-blade-of-fate",
    "mobygames": "30600"
   },
   "label_en": "Bleach: The Blade of Fate",
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "4835",
    "igdb": "jet-set-radio-future",
+   "metacritic": "jsrf-jet-set-radio-future",
    "mobygames": "5856"
   },
   "label_en": "Jet Set Radio Future",
@@ -45,6 +48,7 @@
   "ids": {
    "howlongtobeat": "6762",
    "igdb": "onimusha-2-samurais-destiny",
+   "metacritic": "onimusha-2-samurais-destiny",
    "mobygames": "7351"
   },
   "label_en": "Onimusha 2: Samurai's Destiny",
@@ -55,6 +59,7 @@
   "ids": {
    "howlongtobeat": "13392",
    "igdb": "mortal-kombat-special-forces",
+   "metacritic": "mortal-kombat-special-forces",
    "mobygames": "5483"
   },
   "label_en": "Mortal Kombat: Special Forces",
@@ -70,6 +75,7 @@
   "enwiki": "Heroes Over Europe",
   "ids": {
    "igdb": "heroes-over-europe",
+   "metacritic": "heroes-over-europe",
    "mobygames": "42247",
    "pcgamingwiki": "Heroes_Over_Europe",
    "steam": "33260"
@@ -99,6 +105,7 @@
   "enwiki": "Myth III: The Wolf Age",
   "ids": {
    "igdb": "myth-iii-the-wolf-age",
+   "metacritic": "myth-iii-the-wolf-age",
    "mobygames": "5295",
    "pcgamingwiki": "Myth_III:_The_Wolf_Age"
   },
@@ -119,6 +126,7 @@
   "ids": {
    "howlongtobeat": "10656",
    "igdb": "trinity-souls-of-zill-o-ll",
+   "metacritic": "trinity-souls-of-zill-oll",
    "mobygames": "61328"
   },
   "label_en": "Trinity: Souls of Zill Ơll",
@@ -129,6 +137,7 @@
   "ids": {
    "howlongtobeat": "26927",
    "igdb": "word-rescue",
+   "metacritic": "word-rescue",
    "mobygames": "912",
    "pcgamingwiki": "Word_Rescue",
    "steam": "358340"
@@ -167,6 +176,7 @@
   "enwiki": "Animal Genius",
   "ids": {
    "igdb": "animal-genius",
+   "metacritic": "animal-genius",
    "mobygames": "79818"
   },
   "label_en": "Animal Genius",
@@ -177,6 +187,7 @@
   "ids": {
    "howlongtobeat": "16021",
    "igdb": "left-behind-eternal-forces",
+   "metacritic": "left-behind-eternal-forces",
    "mobygames": "24406",
    "pcgamingwiki": "Left_Behind:_Eternal_Forces"
   },
@@ -196,6 +207,7 @@
   "enwiki": "Sydney 2000 (video game)",
   "ids": {
    "igdb": "sydney-2000",
+   "metacritic": "sydney-2000",
    "mobygames": "2213",
    "pcgamingwiki": "Sydney_2000"
   },
@@ -276,6 +288,7 @@
   "ids": {
    "howlongtobeat": "11023",
    "igdb": "war-of-the-human-tanks",
+   "metacritic": "war-of-the-human-tanks",
    "mobygames": "68999",
    "pcgamingwiki": "War_of_the_Human_Tanks",
    "steam": "263400"
@@ -360,6 +373,9 @@
   "wikidata": "Q111650810"
  },
  {
+  "ids": {
+   "metacritic": "disney-princess"
+  },
   "label_en": "Disney Princess",
   "wikidata": "Q114347810"
  },
@@ -445,6 +461,7 @@
    "howlongtobeat": "77640",
    "igdb": "a-summers-end-hong-kong-1986",
    "mobygames": "144820",
+   "pcgamingwiki": "A_Summer's_End:_Hong_Kong_1986",
    "steam": "1111370"
   },
   "label_en": "A Summer's End - Hong Kong 1986",
@@ -507,12 +524,13 @@
   "wikidata": "Q122363810"
  },
  {
-  "enwiki": "Revita",
+  "enwiki": "Revita (video game)",
   "ids": {
    "epic": "revita-d8ff55",
    "gog": "game/revita",
    "howlongtobeat": "85708",
    "igdb": "revita",
+   "metacritic": "revita",
    "mobygames": "160011",
    "pcgamingwiki": "Revita",
    "steam": "1175460"
@@ -1211,6 +1229,7 @@
    "epic": "remothered-red-nuns-legacy-65d7b9",
    "gog": "game/remothered_red_nuns_legacy",
    "igdb": "remothered-red-nuns-legacy",
+   "metacritic": "remothered-red-nuns-legacy",
    "pcgamingwiki": "Remothered:_Red_Nun's_Legacy",
    "steam": "3335310"
   },

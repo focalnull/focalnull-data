@@ -42,6 +42,7 @@
   "ids": {
    "howlongtobeat": "4619",
    "igdb": "il-2-sturmovik-cliffs-of-dover",
+   "metacritic": "il-2-sturmovik-cliffs-of-dover",
    "mobygames": "51970",
    "pcgamingwiki": "IL-2_Sturmovik:_Cliffs_of_Dover",
    "steam": "63950"
@@ -62,6 +63,7 @@
    "gog": "game/urban_chaos",
    "howlongtobeat": "10847",
    "igdb": "urban-chaos",
+   "metacritic": "urban-chaos",
    "mobygames": "1332",
    "pcgamingwiki": "Urban_Chaos",
    "steam": "243060"
@@ -118,6 +120,7 @@
   "enwiki": "Up (video game)",
   "ids": {
    "igdb": "up--4",
+   "metacritic": "disney-pixar-up-2009",
    "mobygames": "46642",
    "pcgamingwiki": "Up"
   },
@@ -148,6 +151,7 @@
   "ids": {
    "howlongtobeat": "3641",
    "igdb": "forever-kingdom",
+   "metacritic": "forever-kingdom",
    "mobygames": "49116"
   },
   "label_en": "Forever Kingdom",
@@ -199,6 +203,7 @@
   "enwiki": "Pou (video game)",
   "ids": {
    "igdb": "pou",
+   "metacritic": "pou",
    "mobygames": "66058"
   },
   "label_en": "Pou",
@@ -263,6 +268,7 @@
    "gog": "game/legrand_legacy",
    "howlongtobeat": "52715",
    "igdb": "legrand-legacy",
+   "metacritic": "legrand-legacy-tale-of-the-fatebounds",
    "mobygames": "101882",
    "pcgamingwiki": "Legrand_Legacy:_Tale_of_the_Fatebounds",
    "steam": "556740"
@@ -274,6 +280,7 @@
   "ids": {
    "howlongtobeat": "21600",
    "igdb": "arcana-heart-3-love-max",
+   "metacritic": "arcana-heart-3-love-max",
    "mobygames": "87947",
    "pcgamingwiki": "Arcana_Heart_3_LOVE_MAX!!!!!",
    "steam": "370460"
@@ -298,6 +305,7 @@
   "ids": {
    "howlongtobeat": "71737",
    "igdb": "fairy-tail",
+   "metacritic": "fairy-tail",
    "mobygames": "148661",
    "pcgamingwiki": "Fairy_Tail",
    "steam": "1233260"
@@ -315,6 +323,7 @@
    "epic": "echo-generation-midnight-edition-069026",
    "howlongtobeat": "81126",
    "igdb": "echo-generation",
+   "metacritic": "echo-generation",
    "mobygames": "178236",
    "pcgamingwiki": "Echo_Generation",
    "steam": "1072300"
@@ -450,6 +459,7 @@
    "gog": "game/shadowman_darque_legacy",
    "howlongtobeat": "128343",
    "igdb": "shadowman-darque-legacy",
+   "metacritic": "shadowman-darque-legacy",
    "steam": "1578870"
   },
   "label_en": "Shadowman: Darque Legacy",
@@ -652,6 +662,7 @@
   "ids": {
    "howlongtobeat": "69719",
    "igdb": "witcheye",
+   "metacritic": "witcheye",
    "mobygames": "142947",
    "pcgamingwiki": "Witcheye",
    "steam": "1284950"
@@ -733,6 +744,7 @@
   "ids": {
    "howlongtobeat": "149944",
    "igdb": "gray-zone-warfare",
+   "metacritic": "gray-zone-warfare",
    "mobygames": "223052",
    "pcgamingwiki": "Gray_Zone_Warfare",
    "steam": "2479810"
@@ -825,6 +837,7 @@
   "ids": {
    "howlongtobeat": "47016",
    "igdb": "no70-eye-of-basir",
+   "metacritic": "no70-eye-of-basir",
    "pcgamingwiki": "No70:_Eye_of_Basir",
    "steam": "370440"
   },

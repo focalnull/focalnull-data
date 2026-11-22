@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5358",
    "igdb": "london-2012-the-official-video-game",
+   "metacritic": "london-2012-the-official-video-game-of-the-olymp",
    "mobygames": "57741",
    "pcgamingwiki": "London_2012"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "457",
    "igdb": "and-yet-it-moves--1",
+   "metacritic": "and-yet-it-moves",
    "mobygames": "40114",
    "pcgamingwiki": "And_Yet_It_Moves",
    "steam": "18700"
@@ -28,6 +30,7 @@
    "gog": "game/baldurs_gate_the_original_saga",
    "howlongtobeat": "808",
    "igdb": "baldur-s-gate",
+   "metacritic": "baldurs-gate",
    "mobygames": "712",
    "pcgamingwiki": "Baldur's_Gate"
   },
@@ -54,6 +57,7 @@
   "enwiki": "Scribblenauts (video game)",
   "ids": {
    "igdb": "scribblenauts",
+   "metacritic": "scribblenauts",
    "mobygames": "42471"
   },
   "label_en": "Scribblenauts",
@@ -84,6 +88,7 @@
   "enwiki": "Galerians: Ash",
   "ids": {
    "igdb": "galerians-ash",
+   "metacritic": "galerians-ash",
    "mobygames": "14924"
   },
   "label_en": "Galerians: Ash",
@@ -149,6 +154,7 @@
   "ids": {
    "howlongtobeat": "11627",
    "igdb": "dragon-age-inquisition",
+   "metacritic": "dragon-age-inquisition",
    "mobygames": "70317",
    "pcgamingwiki": "Dragon_Age:_Inquisition",
    "steam": "1222690"
@@ -196,6 +202,7 @@
   "enwiki": "2 Fast 4 Gnomz",
   "ids": {
    "igdb": "2-fast-4-gnomz",
+   "metacritic": "2-fast-4-gnomz",
    "mobygames": "85108"
   },
   "label_en": "2 Fast 4 Gnomz",
@@ -234,6 +241,7 @@
   "enwiki": "Sonic Runners Adventure",
   "ids": {
    "igdb": "sonic-runners-adventure",
+   "metacritic": "sonic-runners-adventure",
    "mobygames": "100869"
   },
   "label_en": "Sonic Runners Adventure",
@@ -242,6 +250,7 @@
  {
   "ids": {
    "igdb": "happy-dungeons",
+   "metacritic": "happy-dungeons",
    "mobygames": "95890"
   },
   "label_en": "Happy Dungeons",
@@ -252,6 +261,7 @@
   "ids": {
    "howlongtobeat": "45379",
    "igdb": "sairento-vr",
+   "metacritic": "sairento-vr",
    "mobygames": "94654",
    "pcgamingwiki": "Sairento_VR",
    "steam": "555880"
@@ -269,6 +279,9 @@
   "wikidata": "Q56298583"
  },
  {
+  "ids": {
+   "metacritic": "space"
+  },
   "label_en": "Space",
   "wikidata": "Q61977583"
  },
@@ -285,6 +298,7 @@
   "enwiki": "Ashes of Creation",
   "ids": {
    "igdb": "ashes-of-creation",
+   "metacritic": "ashes-of-creation",
    "mobygames": "252536",
    "steam": "4124950"
   },
@@ -298,6 +312,7 @@
    "gog": "game/the_legend_of_bumbo",
    "howlongtobeat": "56089",
    "igdb": "the-legend-of-bum-bo",
+   "metacritic": "the-legend-of-bum-bo",
    "mobygames": "137214",
    "pcgamingwiki": "The_Legend_of_Bum-Bo",
    "steam": "1148650"
@@ -310,6 +325,7 @@
   "ids": {
    "howlongtobeat": "87225",
    "igdb": "olympia-soiree",
+   "metacritic": "olympia-soiree",
    "mobygames": "171750"
   },
   "label_en": "Olympia Soirée",
@@ -342,6 +358,7 @@
    "gog": "game/the_world_next_door",
    "howlongtobeat": "65840",
    "igdb": "the-world-next-door",
+   "metacritic": "the-world-next-door",
    "mobygames": "123636",
    "pcgamingwiki": "The_World_Next_Door",
    "steam": "755470"
@@ -364,6 +381,7 @@
    "gog": "game/they_always_run",
    "howlongtobeat": "94915",
    "igdb": "they-always-run",
+   "metacritic": "they-always-run",
    "mobygames": "174032",
    "pcgamingwiki": "They_Always_Run",
    "steam": "1585440"
@@ -616,6 +634,7 @@
   "ids": {
    "howlongtobeat": "89081",
    "igdb": "some-some-convenience-store",
+   "metacritic": "some-some-convenience-store",
    "mobygames": "178938",
    "pcgamingwiki": "Some_some_convenience_store_썸썸_편의점",
    "steam": "1217390"
@@ -810,7 +829,8 @@
  },
  {
   "ids": {
-   "igdb": "bakumatsu-jinchuu-houkoku-resshiden-miburo"
+   "igdb": "bakumatsu-jinchuu-houkoku-resshiden-miburo",
+   "metacritic": "bakumatsu-jinchuu-houkoku-resshiden-miburo"
   },
   "label_en": "Bakumatsu Jinchuu Houkoku Resshiden Miburo",
   "wikidata": "Q126032583"
@@ -842,6 +862,7 @@
  {
   "ids": {
    "igdb": "lost-judgment-the-kaito-files",
+   "metacritic": "lost-judgment-the-kaito-files",
    "mobygames": "183668",
    "steam": "2060280"
   },
@@ -1196,6 +1217,7 @@
  {
   "ids": {
    "igdb": "nelli-the-seer",
+   "metacritic": "nelli-the-seer",
    "steam": "3801320"
   },
   "label_en": "Nelli The Seer",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8523",
    "igdb": "silent-hill-2",
+   "metacritic": "silent-hill-2-2001",
    "mobygames": "5870",
    "pcgamingwiki": "Silent_Hill_2:_Director's_Cut"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "612",
    "igdb": "army-men-air-attack",
+   "metacritic": "army-men-air-combat",
    "mobygames": "3863"
   },
   "label_en": "Army Men: Air Attack",
@@ -91,7 +93,9 @@
   "enwiki": "Lit (video game)",
   "ids": {
    "igdb": "lit",
+   "metacritic": "lit",
    "mobygames": "91498",
+   "pcgamingwiki": "Lit",
    "steam": "582960"
   },
   "label_en": "LIT",
@@ -136,6 +140,7 @@
   "ids": {
    "howlongtobeat": "15300",
    "igdb": "football-manager-2014",
+   "metacritic": "football-manager-2014",
    "mobygames": "80181",
    "pcgamingwiki": "Football_Manager_2014",
    "steam": "231670"
@@ -161,6 +166,7 @@
   "ids": {
    "howlongtobeat": "15287",
    "igdb": "the-novelist",
+   "metacritic": "the-novelist",
    "mobygames": "71705",
    "pcgamingwiki": "The_Novelist",
    "steam": "245150"
@@ -182,6 +188,7 @@
   "ids": {
    "howlongtobeat": "14265",
    "igdb": "how-to-survive",
+   "metacritic": "how-to-survive",
    "mobygames": "64460",
    "pcgamingwiki": "How_to_Survive",
    "steam": "250400"
@@ -196,6 +203,7 @@
    "gog": "game/kings_bounty_dark_side",
    "howlongtobeat": "21035",
    "igdb": "kings-bounty-dark-side",
+   "metacritic": "kings-bounty-dark-side",
    "mobygames": "66630",
    "pcgamingwiki": "King's_Bounty:_Dark_Side",
    "steam": "289520"
@@ -208,6 +216,7 @@
   "ids": {
    "howlongtobeat": "25256",
    "igdb": "the-flock",
+   "metacritic": "the-flock",
    "mobygames": "101721",
    "pcgamingwiki": "The_Flock",
    "steam": "290490"
@@ -228,6 +237,7 @@
   "ids": {
    "howlongtobeat": "39484",
    "igdb": "yakuza-kiwami",
+   "metacritic": "yakuza-kiwami",
    "mobygames": "95330",
    "pcgamingwiki": "Yakuza_Kiwami",
    "steam": "834530"
@@ -265,6 +275,7 @@
   "ids": {
    "howlongtobeat": "36972",
    "igdb": "pang-adventures",
+   "metacritic": "pang-adventures",
    "mobygames": "85218",
    "pcgamingwiki": "Pang_Adventures",
    "steam": "415150"
@@ -298,6 +309,7 @@
   "ids": {
    "howlongtobeat": "104196",
    "igdb": "eco-hole",
+   "metacritic": "eco-hole",
    "mobygames": "200968",
    "steam": "1676870"
   },
@@ -309,6 +321,7 @@
    "epic": "ranch-simulator",
    "howlongtobeat": "89349",
    "igdb": "ranch-simulator",
+   "metacritic": "ranch-simulator",
    "mobygames": "160164",
    "pcgamingwiki": "Ranch_Simulator",
    "steam": "1119730"
@@ -324,6 +337,7 @@
   "ids": {
    "howlongtobeat": "51957",
    "igdb": "steel-armor-blaze-of-war",
+   "metacritic": "steel-armor-blaze-of-war",
    "mobygames": "65805",
    "pcgamingwiki": "Steel_Armor:_Blaze_of_War",
    "steam": "286280"
@@ -363,6 +377,7 @@
   "ids": {
    "howlongtobeat": "109901",
    "igdb": "monochrome-mobius-rights-and-wrongs-forgotten",
+   "metacritic": "monochrome-mobius-rights-and-wrongs-forgotten",
    "mobygames": "195347",
    "pcgamingwiki": "Monochrome_Mobius:_Rights_and_Wrongs_Forgotten",
    "steam": "1962430"
@@ -434,6 +449,7 @@
    "gog": "game/wrestlequest",
    "howlongtobeat": "109319",
    "igdb": "wrestlequest",
+   "metacritic": "wrestlequest",
    "mobygames": "207601",
    "pcgamingwiki": "WrestleQuest",
    "steam": "1867510"
@@ -474,6 +490,7 @@
    "howlongtobeat": "76119",
    "igdb": "without-a-voice",
    "mobygames": "182499",
+   "pcgamingwiki": "Without_a_Voice",
    "steam": "1262190"
   },
   "label_en": "Without A Voice",
@@ -682,6 +699,7 @@
    "gog": "game/smelter",
    "howlongtobeat": "80963",
    "igdb": "smelter",
+   "metacritic": "smelter",
    "mobygames": "163011",
    "pcgamingwiki": "Smelter",
    "steam": "1094540"
@@ -747,7 +765,8 @@
  },
  {
   "ids": {
-   "igdb": "driveclub-vr"
+   "igdb": "driveclub-vr",
+   "metacritic": "driveclub-vr"
   },
   "label_en": "DriveClub VR",
   "wikidata": "Q122997835"
@@ -807,6 +826,7 @@
   "ids": {
    "howlongtobeat": "49453",
    "igdb": "hyperbrawl-tournament",
+   "metacritic": "hyperbrawl-tournament",
    "mobygames": "135657",
    "pcgamingwiki": "HyperBrawl",
    "steam": "591760"
@@ -910,6 +930,7 @@
    "epic": "disco-elysium",
    "gog": "game/disco_elysium",
    "igdb": "disco-elysium-the-final-cut",
+   "metacritic": "disco-elysium-the-final-cut",
    "mobygames": "136046",
    "steam": "632470"
   },
@@ -1211,6 +1232,7 @@
  {
   "ids": {
    "igdb": "sacred-2-remaster",
+   "metacritic": "sacred-2-fallen-angel-remaster",
    "mobygames": "245866",
    "pcgamingwiki": "Sacred_2:_Remaster",
    "steam": "3906660"

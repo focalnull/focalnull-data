@@ -3,6 +3,7 @@
   "enwiki": "Richard Burns Rally",
   "ids": {
    "igdb": "richard-burns-rally",
+   "metacritic": "richard-burns-rally",
    "mobygames": "15389",
    "pcgamingwiki": "Richard_Burns_Rally"
   },
@@ -43,6 +44,7 @@
   "ids": {
    "howlongtobeat": "10909",
    "igdb": "velvet-assassin",
+   "metacritic": "velvet-assassin",
    "mobygames": "40510",
    "pcgamingwiki": "Velvet_Assassin",
    "steam": "16720"
@@ -56,6 +58,7 @@
    "epic": "battlefield-4-412248",
    "howlongtobeat": "942",
    "igdb": "battlefield-4",
+   "metacritic": "battlefield-4",
    "mobygames": "62835",
    "pcgamingwiki": "Battlefield_4",
    "steam": "1238860"
@@ -96,6 +99,7 @@
   "ids": {
    "howlongtobeat": "10624",
    "igdb": "trauma-center-under-the-knife-2",
+   "metacritic": "trauma-center-under-the-knife-2",
    "mobygames": "35048"
   },
   "label_en": "Trauma Center: Under the Knife 2",
@@ -105,6 +109,7 @@
   "enwiki": "Ready 2 Rumble Boxing: Round 2",
   "ids": {
    "igdb": "ready-2-rumble-boxing-round-2",
+   "metacritic": "ready-2-rumble-boxing-round-2",
    "mobygames": "4388"
   },
   "label_en": "Ready 2 Rumble Boxing: Round 2",
@@ -123,6 +128,7 @@
   "enwiki": "Teen Titans (2006 video game)",
   "ids": {
    "igdb": "teen-titans",
+   "metacritic": "teen-titans",
    "mobygames": "26100"
   },
   "label_en": "Teen Titans",
@@ -132,6 +138,7 @@
   "enwiki": "The History Channel: Great Battles of Rome",
   "ids": {
    "igdb": "the-history-channel-great-battles-of-rome",
+   "metacritic": "the-history-channel-great-battles-of-rome",
    "mobygames": "39295",
    "pcgamingwiki": "The_History_Channel:_Great_Battles_of_Rome"
   },
@@ -142,6 +149,7 @@
   "enwiki": "Arctic Thunder",
   "ids": {
    "igdb": "arctic-thunder",
+   "metacritic": "arctic-thunder",
    "mobygames": "8901"
   },
   "label_en": "Arctic Thunder",
@@ -161,6 +169,7 @@
   "enwiki": "Gran Turismo 6",
   "ids": {
    "igdb": "gran-turismo-6",
+   "metacritic": "gran-turismo-6",
    "mobygames": "62212"
   },
   "label_en": "Gran Turismo 6",
@@ -170,7 +179,8 @@
   "enwiki": "Lego Friends (2013 video game)",
   "ids": {
    "howlongtobeat": "28534",
-   "igdb": "lego-friends-heartlake-rush"
+   "igdb": "lego-friends-heartlake-rush",
+   "metacritic": "lego-friends"
   },
   "label_en": "Lego Friends",
   "wikidata": "Q6518557"
@@ -188,6 +198,7 @@
   "enwiki": "Silpheed: The Lost Planet",
   "ids": {
    "igdb": "silpheed-the-lost-planet",
+   "metacritic": "silpheed-the-lost-planet",
    "mobygames": "3988"
   },
   "label_en": "Silpheed: The Lost Planet",
@@ -236,6 +247,7 @@
   "ids": {
    "howlongtobeat": "48879",
    "igdb": "tokyo-dark",
+   "metacritic": "tokyo-dark",
    "mobygames": "95725",
    "pcgamingwiki": "Tokyo_Dark",
    "steam": "687260"
@@ -248,6 +260,7 @@
   "ids": {
    "howlongtobeat": "22950",
    "igdb": "trove",
+   "metacritic": "trove",
    "mobygames": "86881",
    "pcgamingwiki": "Trove",
    "steam": "304050"
@@ -259,6 +272,7 @@
   "ids": {
    "howlongtobeat": "22716",
    "igdb": "fractured-space",
+   "metacritic": "fractured-space",
    "pcgamingwiki": "Fractured_Space",
    "steam": "310380"
   },
@@ -270,6 +284,7 @@
   "ids": {
    "howlongtobeat": "21686",
    "igdb": "get-even",
+   "metacritic": "get-even",
    "mobygames": "90998",
    "pcgamingwiki": "Get_Even",
    "steam": "299950"
@@ -290,6 +305,7 @@
   "ids": {
    "howlongtobeat": "33470",
    "igdb": "toto-temple-deluxe",
+   "metacritic": "toto-temple-deluxe",
    "mobygames": "86884",
    "pcgamingwiki": "Toto_Temple_Deluxe",
    "steam": "342920"
@@ -311,6 +327,7 @@
   "enwiki": "Pokémon Y",
   "ids": {
    "igdb": "pokemon-y",
+   "metacritic": "pokemon-y",
    "mobygames": "62270"
   },
   "label_en": "Pokémon Y",
@@ -320,7 +337,8 @@
   "enwiki": "StarCraft 64",
   "ids": {
    "howlongtobeat": "9152",
-   "igdb": "starcraft-64"
+   "igdb": "starcraft-64",
+   "metacritic": "starcraft-64"
   },
   "label_en": "StarCraft 64",
   "wikidata": "Q60029557"
@@ -329,6 +347,7 @@
   "ids": {
    "howlongtobeat": "89079",
    "igdb": "sanator-scarlet-scarf",
+   "metacritic": "sanator-scarlet-scarf",
    "mobygames": "201931",
    "pcgamingwiki": "Sanator:_Scarlet_Scarf",
    "steam": "650330"
@@ -357,6 +376,7 @@
   "ids": {
    "howlongtobeat": "127585",
    "igdb": "inazuma-eleven-victory-road",
+   "pcgamingwiki": "Inazuma_Eleven:_Victory_Road",
    "steam": "2799860"
   },
   "label_en": "Inazuma Eleven: Victory Road",
@@ -377,6 +397,7 @@
   "ids": {
    "howlongtobeat": "19815",
    "igdb": "militant",
+   "metacritic": "militant",
    "mobygames": "87143",
    "pcgamingwiki": "MilitAnt",
    "steam": "454520"
@@ -391,6 +412,7 @@
    "gog": "game/warhammer_40000_battlesector",
    "howlongtobeat": "96256",
    "igdb": "warhammer-40000-battlesector",
+   "metacritic": "warhammer-40000-battlesector",
    "mobygames": "168082",
    "pcgamingwiki": "Warhammer_40,000:_Battlesector",
    "steam": "1295500"
@@ -695,6 +717,7 @@
  {
   "ids": {
    "howlongtobeat": "66380",
+   "metacritic": "rush",
    "mobygames": "128064",
    "pcgamingwiki": "Rush_(2018)",
    "steam": "844040"
@@ -759,6 +782,7 @@
  {
   "ids": {
    "igdb": "war-operation-full-contact",
+   "metacritic": "war-operation-full-contact",
    "steam": "1932950"
   },
   "label_en": "War Operation: Full Contact",

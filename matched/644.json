@@ -12,6 +12,7 @@
   "enwiki": "Starlancer",
   "ids": {
    "igdb": "starlancer",
+   "metacritic": "starlancer",
    "mobygames": "1842",
    "pcgamingwiki": "StarLancer"
   },
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "10567",
    "igdb": "tourist-trophy",
+   "metacritic": "tourist-trophy",
    "mobygames": "24227"
   },
   "label_en": "Tourist Trophy",
@@ -42,6 +44,7 @@
   "enwiki": "Pro Evolution Soccer 2012",
   "ids": {
    "igdb": "pro-evolution-soccer-2012",
+   "metacritic": "pro-evolution-soccer-2012",
    "mobygames": "92907",
    "pcgamingwiki": "Pro_Evolution_Soccer_2012"
   },
@@ -61,6 +64,7 @@
   "ids": {
    "howlongtobeat": "6939",
    "igdb": "pathologic",
+   "metacritic": "pathologic",
    "mobygames": "23724",
    "pcgamingwiki": "Pathologic"
   },
@@ -71,6 +75,7 @@
   "enwiki": "Steel Diver",
   "ids": {
    "igdb": "steel-diver",
+   "metacritic": "steel-diver",
    "mobygames": "50994"
   },
   "label_en": "Steel Diver",
@@ -97,6 +102,7 @@
   "ids": {
    "howlongtobeat": "29048",
    "igdb": "anna",
+   "metacritic": "anna-extended-edition",
    "mobygames": "56977",
    "pcgamingwiki": "Anna_-_Extended_Edition",
    "steam": "217690"
@@ -108,6 +114,7 @@
   "enwiki": "Backbreaker (video game)",
   "ids": {
    "igdb": "backbreaker",
+   "metacritic": "backbreaker",
    "mobygames": "69317"
   },
   "label_en": "Backbreaker",
@@ -143,6 +150,7 @@
   "ids": {
    "howlongtobeat": "13613",
    "igdb": "voodoo-dice",
+   "metacritic": "voodoo-dice",
    "mobygames": "88925",
    "pcgamingwiki": "Voodoo_Dice",
    "steam": "48150"
@@ -197,6 +205,7 @@
   "ids": {
    "howlongtobeat": "43478",
    "igdb": "1-2-switch",
+   "metacritic": "1-2-switch",
    "mobygames": "84540"
   },
   "label_en": "1-2-Switch",
@@ -216,6 +225,7 @@
   "ids": {
    "howlongtobeat": "49053",
    "igdb": "nba-2k18",
+   "metacritic": "nba-2k18",
    "mobygames": "95994",
    "pcgamingwiki": "NBA_2K18",
    "steam": "577800"
@@ -280,6 +290,7 @@
    "gog": "game/cobra_kai_the_karate_kid_saga_continues",
    "howlongtobeat": "86840",
    "igdb": "cobra-kai-the-karate-kid-saga-continues",
+   "metacritic": "cobra-kai-the-karate-kid-saga-continues",
    "mobygames": "152107",
    "pcgamingwiki": "Cobra_Kai:_The_Karate_Kid_Saga_Continues",
    "steam": "1279920"
@@ -308,6 +319,7 @@
    "gog": "game/heroes_of_loot",
    "howlongtobeat": "13899",
    "igdb": "heroes-of-loot",
+   "metacritic": "heroes-of-loot",
    "mobygames": "68408",
    "pcgamingwiki": "Heroes_of_Loot",
    "steam": "359280"
@@ -328,6 +340,7 @@
   "ids": {
    "howlongtobeat": "81950",
    "igdb": "the-stanley-parable-ultra-deluxe",
+   "metacritic": "the-stanley-parable-ultra-deluxe",
    "mobygames": "183562",
    "pcgamingwiki": "The_Stanley_Parable:_Ultra_Deluxe",
    "steam": "1703340"
@@ -340,6 +353,7 @@
    "howlongtobeat": "99813",
    "igdb": "aquarium-designer",
    "mobygames": "173976",
+   "pcgamingwiki": "Aquarium_Designer",
    "steam": "1339000"
   },
   "label_en": "Aquarium Designer",
@@ -376,6 +390,7 @@
    "epic": "centipede-recharged",
    "howlongtobeat": "98572",
    "igdb": "centipede-recharged",
+   "metacritic": "centipede-recharged",
    "mobygames": "172965",
    "pcgamingwiki": "Centipede:_Recharged",
    "steam": "1630960"
@@ -410,6 +425,7 @@
   "ids": {
    "howlongtobeat": "49529",
    "igdb": "trivia-vault-science-and-history-trivia",
+   "metacritic": "trivia-vault-science-amp-history-trivia",
    "pcgamingwiki": "Trivia_Vault:_Science_&_History_Trivia",
    "steam": "687480"
   },
@@ -455,6 +471,7 @@
   "enwiki": "Ghostbusters: Rise of the Ghost Lord",
   "ids": {
    "igdb": "ghostbusters-rise-of-the-ghost-lord",
+   "metacritic": "ghostbusters-rise-of-the-ghost-lord",
    "mobygames": "221831"
   },
   "label_en": "Ghostbusters: Rise of the Ghost Lord",
@@ -753,6 +770,7 @@
   "ids": {
    "howlongtobeat": "29464",
    "igdb": "luckslinger",
+   "metacritic": "luckslinger",
    "mobygames": "117182",
    "pcgamingwiki": "Luckslinger",
    "steam": "358810"
@@ -1072,6 +1090,7 @@
   "ids": {
    "howlongtobeat": "172920",
    "igdb": "quarantine-zone-the-last-check",
+   "metacritic": "quarantine-zone-the-last-check",
    "mobygames": "253008",
    "pcgamingwiki": "Quarantine_Zone:_The_Last_Check",
    "steam": "3419520"

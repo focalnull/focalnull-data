@@ -22,6 +22,7 @@
   "enwiki": "Terminator 3: War of the Machines",
   "ids": {
    "igdb": "terminator-3-war-of-the-machines",
+   "metacritic": "terminator-3-war-of-the-machines",
    "mobygames": "11201",
    "pcgamingwiki": "Terminator_3:_War_of_the_Machines"
   },
@@ -56,6 +57,7 @@
    "gog": "game/star_trek_hidden_evil",
    "howlongtobeat": "31416",
    "igdb": "star-trek-hidden-evil",
+   "metacritic": "star-trek-hidden-evil",
    "mobygames": "2562",
    "pcgamingwiki": "Star_Trek:_Hidden_Evil"
   },
@@ -82,6 +84,7 @@
   "enwiki": "Bodycount (video game)",
   "ids": {
    "igdb": "bodycount",
+   "metacritic": "bodycount-2011",
    "mobygames": "54183"
   },
   "label_en": "Bodycount",
@@ -144,6 +147,7 @@
    "epic": "rainbow-six-siege",
    "howlongtobeat": "21279",
    "igdb": "rainbow-six-siege",
+   "metacritic": "tom-clancys-rainbow-six-siege",
    "mobygames": "75778",
    "pcgamingwiki": "Tom_Clancy's_Rainbow_Six_Siege",
    "steam": "359550"
@@ -164,6 +168,7 @@
   "ids": {
    "howlongtobeat": "30531",
    "igdb": "euclidean",
+   "metacritic": "euclidean",
    "mobygames": "107610",
    "pcgamingwiki": "Euclidean",
    "steam": "398180"
@@ -198,6 +203,7 @@
    "gog": "game/outward",
    "howlongtobeat": "65947",
    "igdb": "outward",
+   "metacritic": "outward",
    "mobygames": "124255",
    "pcgamingwiki": "Outward",
    "steam": "794260"
@@ -373,6 +379,7 @@
    "gog": "game/curved_space",
    "howlongtobeat": "92843",
    "igdb": "curved-space",
+   "metacritic": "curved-space",
    "mobygames": "166992",
    "pcgamingwiki": "Curved_Space",
    "steam": "1320230"
@@ -412,6 +419,7 @@
   "ids": {
    "howlongtobeat": "81975",
    "igdb": "best-friend-forever",
+   "metacritic": "best-friend-forever",
    "mobygames": "146976",
    "pcgamingwiki": "Best_Friend_Forever",
    "steam": "1034850"
@@ -628,6 +636,7 @@
   "ids": {
    "howlongtobeat": "18592",
    "igdb": "rockos-quest",
+   "metacritic": "rockos-quest",
    "mobygames": "6509",
    "pcgamingwiki": "Rocko's_Quest",
    "steam": "297620"
@@ -674,6 +683,7 @@
    "gog": "game/kingdom_come_deliverance_ii",
    "howlongtobeat": "148973",
    "igdb": "kingdom-come-deliverance-ii",
+   "metacritic": "kingdom-come-deliverance-ii",
    "mobygames": "236887",
    "pcgamingwiki": "Kingdom_Come:_Deliverance_II",
    "steam": "1771300"
@@ -686,6 +696,7 @@
   "ids": {
    "epic": "rennsport-3776b8",
    "igdb": "rennsport--1",
+   "metacritic": "rennsport",
    "pcgamingwiki": "Rennsport",
    "steam": "2077750"
   },
@@ -772,7 +783,8 @@
  },
  {
   "ids": {
-   "igdb": "yuukoku-no-femme-fatale"
+   "igdb": "yuukoku-no-femme-fatale",
+   "metacritic": "yuukoku-no-femme-fatale"
   },
   "label_en": "Yuukoku no Femme Fatale",
   "wikidata": "Q133855996"
@@ -1128,6 +1140,7 @@
  {
   "ids": {
    "igdb": "the-pines",
+   "pcgamingwiki": "The_Pines",
    "steam": "4271520"
   },
   "label_en": "The Pines",

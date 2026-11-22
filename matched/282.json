@@ -162,6 +162,7 @@
   "enwiki": "ESPN X Games Skateboarding",
   "ids": {
    "igdb": "espn-x-games-skateboarding",
+   "metacritic": "espn-x-games-skateboarding",
    "mobygames": "39680"
   },
   "label_en": "ESPN X Games Skateboarding",
@@ -171,6 +172,7 @@
   "enwiki": "The Gladiators of Rome",
   "ids": {
    "igdb": "the-gladiators-of-rome",
+   "metacritic": "gladiators-of-rome",
    "mobygames": "14133",
    "pcgamingwiki": "The_Gladiators_of_Rome"
   },
@@ -190,6 +192,7 @@
   "ids": {
    "howlongtobeat": "10136",
    "igdb": "powerpuff-girls-mojo-jojo-a-go-go",
+   "metacritic": "the-powerpuff-girls-mojo-jojo-a-go-go",
    "mobygames": "6310"
   },
   "label_en": "The Powerpuff Girls: Mojo Jojo A-Go-Go",
@@ -222,6 +225,7 @@
   "ids": {
    "howlongtobeat": "62379",
    "igdb": "vikings-war-of-clans",
+   "metacritic": "vikings-war-of-clans",
    "mobygames": "93762"
   },
   "label_en": "Vikings: War of Clans",
@@ -240,6 +244,7 @@
   "ids": {
    "howlongtobeat": "46387",
    "igdb": "anthem",
+   "metacritic": "anthem",
    "mobygames": "122652",
    "pcgamingwiki": "Anthem"
   },
@@ -293,6 +298,7 @@
  {
   "ids": {
    "igdb": "nfl-blitz-20-02",
+   "metacritic": "nfl-blitz-20-02",
    "mobygames": "5314"
   },
   "label_en": "NFL Blitz 20-02",
@@ -303,6 +309,7 @@
   "ids": {
    "howlongtobeat": "97704",
    "igdb": "vampire-the-masquerade-bloodhunt",
+   "metacritic": "vampire-the-masquerade-bloodhunt",
    "mobygames": "171619",
    "pcgamingwiki": "Vampire:_The_Masquerade_-_Bloodhunt",
    "steam": "760160"
@@ -317,6 +324,7 @@
    "gog": "game/tales_of_the_neon_sea",
    "howlongtobeat": "62997",
    "igdb": "tales-of-the-neon-sea",
+   "metacritic": "tales-of-the-neon-sea",
    "mobygames": "126154",
    "pcgamingwiki": "Tales_of_the_Neon_Sea",
    "steam": "828740"
@@ -340,6 +348,7 @@
    "epic": "time-trap-8a9725",
    "howlongtobeat": "54423",
    "igdb": "time-trap-hidden-objects",
+   "metacritic": "time-trap",
    "mobygames": "93459",
    "pcgamingwiki": "Time_Trap_-_Hidden_Objects",
    "steam": "661040"
@@ -402,6 +411,7 @@
   "ids": {
    "howlongtobeat": "51673",
    "igdb": "i-fell-from-grace",
+   "metacritic": "i-fell-from-grace",
    "mobygames": "114335",
    "pcgamingwiki": "I_Fell_from_Grace",
    "steam": "672230"
@@ -439,6 +449,7 @@
    "gog": "game/ultragoodness_2",
    "howlongtobeat": "117392",
    "igdb": "ultragoodness-2",
+   "metacritic": "ultragoodness-2",
    "mobygames": "158386",
    "pcgamingwiki": "UltraGoodness_2",
    "steam": "1136070"
@@ -1081,6 +1092,7 @@
  {
   "ids": {
    "igdb": "black-powder-red-earth",
+   "pcgamingwiki": "Black_Powder_Red_Earth",
    "steam": "988490"
   },
   "label_en": "Black Powder Red Earth®",

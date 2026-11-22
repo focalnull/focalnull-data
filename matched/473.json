@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4435",
    "igdb": "heroes-of-might-and-magic-v-tribes-of-the-east",
+   "metacritic": "heroes-of-might-and-magic-v-tribes-of-the-east",
    "mobygames": "30569",
    "pcgamingwiki": "Heroes_of_Might_and_Magic_V:_Tribes_of_the_East",
    "steam": "15370"
@@ -17,6 +18,7 @@
    "gog": "game/hearts_of_iron_iii",
    "howlongtobeat": "4368",
    "igdb": "hearts-of-iron-iii",
+   "metacritic": "hearts-of-iron-iii",
    "mobygames": "42155",
    "pcgamingwiki": "Hearts_of_Iron_III",
    "steam": "25890"
@@ -30,6 +32,7 @@
    "gog": "game/lego_pirates_of_the_caribbean_the_video_game",
    "howlongtobeat": "5256",
    "igdb": "lego-pirates-of-the-caribbean-the-video-game",
+   "metacritic": "lego-pirates-of-the-caribbean-the-video-game",
    "mobygames": "51830",
    "pcgamingwiki": "Lego_Pirates_of_the_Caribbean:_The_Video_Game",
    "steam": "311770"
@@ -60,6 +63,7 @@
   "enwiki": "Giga Wing 2",
   "ids": {
    "igdb": "giga-wing-2",
+   "metacritic": "giga-wing-2",
    "mobygames": "22245"
   },
   "label_en": "Giga Wing 2",
@@ -70,6 +74,7 @@
   "ids": {
    "howlongtobeat": "3277",
    "igdb": "extreme-g",
+   "metacritic": "extreme-g",
    "mobygames": "9195"
   },
   "label_en": "Extreme-G",
@@ -120,6 +125,7 @@
   "ids": {
    "howlongtobeat": "7950",
    "igdb": "rogue-warrior",
+   "metacritic": "rogue-warrior",
    "mobygames": "44438",
    "pcgamingwiki": "Rogue_Warrior",
    "steam": "22310"
@@ -150,6 +156,7 @@
    "gog": "game/desktop_dungeons",
    "howlongtobeat": "2467",
    "igdb": "desktop-dungeons",
+   "metacritic": "desktop-dungeons",
    "mobygames": "63976",
    "pcgamingwiki": "Desktop_Dungeons",
    "steam": "226620"
@@ -192,6 +199,7 @@
   "enwiki": "Novastrike",
   "ids": {
    "igdb": "novastrike",
+   "metacritic": "novastrike",
    "mobygames": "86323"
   },
   "label_en": "Novastrike",
@@ -211,6 +219,7 @@
   "enwiki": "Prey the Stars",
   "ids": {
    "igdb": "prey-the-stars",
+   "metacritic": "prey-the-stars",
    "mobygames": "85497"
   },
   "label_en": "Prey the Stars",
@@ -238,6 +247,7 @@
   "enwiki": "Stretch Panic",
   "ids": {
    "igdb": "stretch-panic",
+   "metacritic": "stretch-panic",
    "mobygames": "7903"
   },
   "label_en": "Stretch Panic",
@@ -256,6 +266,7 @@
   "ids": {
    "howlongtobeat": "1862",
    "igdb": "commander-conquest-of-the-americas",
+   "metacritic": "commander-conquest-of-the-americas",
    "mobygames": "48133",
    "pcgamingwiki": "Commander:_Conquest_of_the_Americas",
    "steam": "49300"
@@ -268,6 +279,7 @@
   "ids": {
    "howlongtobeat": "7614",
    "igdb": "rayman",
+   "metacritic": "rayman-advance",
    "mobygames": "2247",
    "pcgamingwiki": "Rayman"
   },
@@ -279,6 +291,7 @@
   "ids": {
    "howlongtobeat": "6050",
    "igdb": "mighty-switch-force",
+   "metacritic": "mighty-switch-force",
    "mobygames": "59512",
    "pcgamingwiki": "Mighty_Switch_Force!_Hyper_Drive_Edition",
    "steam": "366970"
@@ -293,6 +306,7 @@
    "gog": "game/men_of_war_red_tide",
    "howlongtobeat": "5884",
    "igdb": "men-of-war-red-tide",
+   "metacritic": "men-of-war-red-tide",
    "mobygames": "44486",
    "pcgamingwiki": "Men_of_War:_Red_Tide",
    "steam": "3130"
@@ -341,7 +355,8 @@
  },
  {
   "ids": {
-   "igdb": "tetris--31"
+   "igdb": "tetris--31",
+   "metacritic": "tetris-2009"
   },
   "label_en": "Tetris",
   "wikidata": "Q88654473"
@@ -368,6 +383,7 @@
    "gog": "game/ikenfell",
    "howlongtobeat": "80165",
    "igdb": "ikenfell",
+   "metacritic": "ikenfell",
    "mobygames": "150933",
    "pcgamingwiki": "Ikenfell",
    "steam": "854940"
@@ -470,6 +486,7 @@
    "gog": "game/desert_law",
    "howlongtobeat": "28331",
    "igdb": "desert-law",
+   "metacritic": "desert-law",
    "mobygames": "41190",
    "pcgamingwiki": "Desert_Law",
    "steam": "356280"
@@ -846,7 +863,8 @@
   "enwiki": "Rengoku: The Tower of Purgatory",
   "ids": {
    "howlongtobeat": "17178",
-   "igdb": "rengoku-the-tower-of-purgatory"
+   "igdb": "rengoku-the-tower-of-purgatory",
+   "metacritic": "rengoku-the-tower-of-purgatory"
   },
   "label_en": "Rengoku: The Tower of Purgatory",
   "wikidata": "Q133255473"
@@ -1130,6 +1148,7 @@
  {
   "ids": {
    "igdb": "voodoo-chronicles-the-first-sign-hd-directors-cut-edition",
+   "pcgamingwiki": "Voodoo_Chronicles:_The_First_Sign_HD_-_Director's_Cut_Edition",
    "steam": "304750"
   },
   "label_en": "Voodoo Chronicles: The First Sign HD - Director’s Cut Edition",

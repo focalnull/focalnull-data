@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "4633",
    "igdb": "immortal-cities-children-of-the-nile",
+   "metacritic": "immortal-cities-children-of-the-nile",
    "mobygames": "16480",
    "pcgamingwiki": "Children_of_the_Nile"
   },
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "2684",
    "igdb": "donkey-kong-64",
+   "metacritic": "donkey-kong-64",
    "mobygames": "4599"
   },
   "label_en": "Donkey Kong 64",
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "518",
    "igdb": "ape-escape",
+   "metacritic": "ape-escape",
    "mobygames": "3760"
   },
   "label_en": "Ape Escape",
@@ -45,6 +48,7 @@
   "ids": {
    "howlongtobeat": "4046",
    "igdb": "gran-turismo-3-a-spec",
+   "metacritic": "gran-turismo-3-a-spec",
    "mobygames": "3910"
   },
   "label_en": "Gran Turismo 3: A-Spec",
@@ -93,6 +97,7 @@
   "ids": {
    "howlongtobeat": "5785",
    "igdb": "medal-of-honor-heroes-2",
+   "metacritic": "medal-of-honor-heroes-2",
    "mobygames": "31998"
   },
   "label_en": "Medal of Honor: Heroes 2",
@@ -103,6 +108,7 @@
   "ids": {
    "howlongtobeat": "2065",
    "igdb": "cryostasis",
+   "metacritic": "cryostasis-the-sleep-of-reason",
    "mobygames": "38269",
    "pcgamingwiki": "Cryostasis",
    "steam": "7850"
@@ -115,6 +121,7 @@
   "ids": {
    "howlongtobeat": "10521",
    "igdb": "top-spin-2",
+   "metacritic": "top-spin-2",
    "mobygames": "22184",
    "pcgamingwiki": "Top_Spin_2"
   },
@@ -125,6 +132,7 @@
   "enwiki": "Castlevania: Harmony of Despair",
   "ids": {
    "igdb": "castlevania-harmony-of-despair",
+   "metacritic": "castlevania-harmony-of-despair",
    "mobygames": "47654"
   },
   "label_en": "Castlevania: Harmony of Despair",
@@ -159,7 +167,8 @@
  {
   "enwiki": "Naruto Shippūden 3D: The New Era",
   "ids": {
-   "igdb": "naruto-shippuden-3d-the-new-era"
+   "igdb": "naruto-shippuden-3d-the-new-era",
+   "metacritic": "naruto-shippuden-the-new-era"
   },
   "label_en": "Naruto Shippūden 3D: The New Era",
   "wikidata": "Q3239773"
@@ -219,6 +228,7 @@
   "enwiki": "Raiden Fighters Aces",
   "ids": {
    "igdb": "raiden-fighters-aces",
+   "metacritic": "raiden-fighters-aces",
    "mobygames": "40648"
   },
   "label_en": "Raiden Fighters Aces",
@@ -277,6 +287,7 @@
   "ids": {
    "howlongtobeat": "29174",
    "igdb": "il-2-sturmovik-battle-of-stalingrad--1",
+   "metacritic": "il-2-sturmovik-battle-of-stalingrad",
    "mobygames": "88507",
    "pcgamingwiki": "IL-2_Sturmovik:_Battle_of_Stalingrad",
    "steam": "307960"
@@ -289,6 +300,7 @@
   "ids": {
    "howlongtobeat": "13656",
    "igdb": "foul-play",
+   "metacritic": "foul-play",
    "mobygames": "86935",
    "pcgamingwiki": "Foul_Play",
    "steam": "244810"
@@ -301,6 +313,7 @@
   "ids": {
    "howlongtobeat": "21257",
    "igdb": "persona-4-arena-ultimax",
+   "metacritic": "persona-4-arena-ultimax",
    "mobygames": "84004",
    "pcgamingwiki": "Persona_4_Arena_Ultimax",
    "steam": "1602010"
@@ -321,6 +334,7 @@
   "ids": {
    "howlongtobeat": "17535",
    "igdb": "yet-another-zombie-defense",
+   "metacritic": "yet-another-zombie-defense",
    "mobygames": "74930",
    "pcgamingwiki": "Yet_Another_Zombie_Defense",
    "steam": "270550"
@@ -332,6 +346,7 @@
   "ids": {
    "howlongtobeat": "39379",
    "igdb": "the-gods-chain",
+   "metacritic": "the-gods-chain",
    "mobygames": "143609",
    "pcgamingwiki": "The_God's_Chain",
    "steam": "504490"
@@ -344,6 +359,7 @@
   "ids": {
    "howlongtobeat": "60379",
    "igdb": "punch-line",
+   "metacritic": "punch-line",
    "mobygames": "112990",
    "pcgamingwiki": "Punch_Line",
    "steam": "766680"
@@ -368,6 +384,7 @@
   "ids": {
    "howlongtobeat": "67462",
    "igdb": "atelier-lulua-the-scion-of-arland",
+   "metacritic": "atelier-lulua-the-scion-of-arland",
    "mobygames": "127327",
    "pcgamingwiki": "Atelier_Lulua:_The_Scion_of_Arland",
    "steam": "1045620"
@@ -381,6 +398,7 @@
    "epic": "ghost-recon-breakpoint",
    "howlongtobeat": "67987",
    "igdb": "tom-clancys-ghost-recon-breakpoint",
+   "metacritic": "tom-clancys-ghost-recon-breakpoint",
    "mobygames": "135593",
    "pcgamingwiki": "Tom_Clancy's_Ghost_Recon_Breakpoint",
    "steam": "2231380"
@@ -415,6 +433,7 @@
   "ids": {
    "howlongtobeat": "72419",
    "igdb": "narcos-rise-of-the-cartels",
+   "metacritic": "narcos-rise-of-the-cartels",
    "mobygames": "137532",
    "pcgamingwiki": "Narcos:_Rise_of_the_Cartels",
    "steam": "914110"
@@ -472,6 +491,7 @@
    "gog": "game/jagged_alliance_rage",
    "howlongtobeat": "60601",
    "igdb": "jagged-alliance-rage",
+   "metacritic": "jagged-alliance-rage",
    "mobygames": "118470",
    "pcgamingwiki": "Jagged_Alliance:_Rage!",
    "steam": "463170"
@@ -551,6 +571,7 @@
    "epic": "the-many-pieces-of-mr-coo-a9a1f8",
    "howlongtobeat": "109001",
    "igdb": "the-many-pieces-of-mr-coo",
+   "metacritic": "the-many-pieces-of-mr-coo",
    "mobygames": "211115",
    "pcgamingwiki": "The_Many_Pieces_of_Mr._Coo",
    "steam": "1602560"
@@ -582,6 +603,7 @@
    "gog": "game/urban_trial_playground",
    "howlongtobeat": "59910",
    "igdb": "urban-trial-playground",
+   "metacritic": "urban-trial-playground",
    "mobygames": "106078",
    "pcgamingwiki": "Urban_Trial_Playground",
    "steam": "988240"
@@ -752,6 +774,7 @@
   "ids": {
    "howlongtobeat": "73963",
    "igdb": "hotel-sowls",
+   "metacritic": "hotel-sowls",
    "mobygames": "146304",
    "pcgamingwiki": "Hotel_Sowls",
    "steam": "968350"
@@ -918,6 +941,7 @@
  {
   "ids": {
    "igdb": "journey-to-foundation",
+   "metacritic": "journey-to-foundation",
    "mobygames": "211507",
    "steam": "2950330"
   },
@@ -959,6 +983,7 @@
    "epic": "pipistrello-and-the-cursed-yoyo-59cd8c",
    "howlongtobeat": "147439",
    "igdb": "pipistrello-and-the-cursed-yoyo",
+   "metacritic": "pipistrello-and-the-cursed-yoyo",
    "mobygames": "242779",
    "pcgamingwiki": "Pipistrello_and_the_Cursed_Yoyo",
    "steam": "2870350"
@@ -1257,6 +1282,7 @@
   "ids": {
    "howlongtobeat": "173026",
    "igdb": "kaidan",
+   "metacritic": "kaidan",
    "pcgamingwiki": "Kaidan",
    "steam": "3744040"
   },

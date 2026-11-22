@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4438",
    "igdb": "heroes-of-newerth",
+   "metacritic": "heroes-of-newerth",
    "mobygames": "47061",
    "pcgamingwiki": "Heroes_of_Newerth"
   },
@@ -36,6 +37,7 @@
   "ids": {
    "gog": "game/dungeons_dragons_dragonshard",
    "igdb": "dungeons-dragons-dragonshard",
+   "metacritic": "dungeons-and-dragons-dragonshard",
    "mobygames": "19289",
    "pcgamingwiki": "Dungeons_&_Dragons:_Dragonshard",
    "steam": "3843540"
@@ -64,6 +66,7 @@
   "ids": {
    "howlongtobeat": "4053",
    "igdb": "grand-prix-3",
+   "metacritic": "grand-prix-3",
    "mobygames": "2266",
    "pcgamingwiki": "Grand_Prix_3",
    "steam": "3603730"
@@ -103,6 +106,7 @@
   "ids": {
    "howlongtobeat": "10725",
    "igdb": "twisted-metal-black",
+   "metacritic": "twisted-metal-black",
    "mobygames": "4456"
   },
   "label_en": "Twisted Metal: Black",
@@ -138,6 +142,7 @@
   "enwiki": "NHL Hitz 2002",
   "ids": {
    "igdb": "nhl-hitz-2002",
+   "metacritic": "nhl-hitz-20-02",
    "mobygames": "5089"
   },
   "label_en": "NHL Hitz 2002",
@@ -162,6 +167,7 @@
  },
  {
   "ids": {
+   "metacritic": "mean-girls",
    "mobygames": "39805"
   },
   "label_en": "Mean Girls",
@@ -171,6 +177,7 @@
   "enwiki": "Terminator 3: Rise of the Machines (video game)",
   "ids": {
    "igdb": "terminator-3-rise-of-the-machines",
+   "metacritic": "terminator-3-rise-of-the-machines",
    "mobygames": "21122"
   },
   "label_en": "Terminator 3: Rise of the Machines",
@@ -237,6 +244,7 @@
   "enwiki": "Starsky & Hutch (video game)",
   "ids": {
    "igdb": "starsky-hutch",
+   "metacritic": "starsky-and-hutch",
    "mobygames": "9615",
    "pcgamingwiki": "Starsky_&_Hutch"
   },
@@ -247,7 +255,8 @@
   "enwiki": "TV Superstars",
   "ids": {
    "howlongtobeat": "22756",
-   "igdb": "tv-superstars"
+   "igdb": "tv-superstars",
+   "metacritic": "tv-superstars"
   },
   "label_en": "TV Superstars",
   "wikidata": "Q7672434"
@@ -310,6 +319,7 @@
   "ids": {
    "howlongtobeat": "6974",
    "igdb": "persona-4-golden",
+   "metacritic": "persona-4-golden",
    "mobygames": "59294",
    "pcgamingwiki": "Persona_4_Golden",
    "steam": "1113000"
@@ -330,6 +340,7 @@
   "ids": {
    "howlongtobeat": "63637",
    "igdb": "arelite-core",
+   "metacritic": "arelite-core",
    "mobygames": "95957",
    "pcgamingwiki": "Arelite_Core",
    "steam": "466160"
@@ -352,6 +363,7 @@
   "ids": {
    "howlongtobeat": "81985",
    "igdb": "5d-chess-with-multiverse-time-travel",
+   "metacritic": "5d-chess-with-multiverse-time-travel",
    "mobygames": "148540",
    "pcgamingwiki": "5D_Chess_With_Multiverse_Time_Travel",
    "steam": "1349230"
@@ -456,6 +468,7 @@
  },
  {
   "ids": {
+   "metacritic": "hix-puzzle-islands",
    "mobygames": "171186"
   },
   "label_en": "HIX: Puzzle Islands",
@@ -472,7 +485,8 @@
   "enwiki": "Pokémon Smile",
   "ids": {
    "howlongtobeat": "86920",
-   "igdb": "pokemon-smile"
+   "igdb": "pokemon-smile",
+   "metacritic": "pokemon-smile"
   },
   "label_en": "Pokémon Smile",
   "wikidata": "Q118499434"
@@ -491,7 +505,9 @@
   "ids": {
    "howlongtobeat": "130448",
    "igdb": "dragon-quest-monsters-the-dark-prince",
+   "metacritic": "dragon-quest-monsters-the-dark-prince",
    "mobygames": "230415",
+   "pcgamingwiki": "Dragon_Quest_Monsters:_The_Dark_Prince",
    "steam": "2175540"
   },
   "label_en": "Dragon Quest Monsters: The Dark Prince",
@@ -930,6 +946,7 @@
   "ids": {
    "gog": "game/fantasy_tavern_sextet_vol3_postlude_days",
    "igdb": "fantasy-tavern-sextet-vol-dot-3-postlude-days",
+   "metacritic": "fantasy-tavern-sextet-vol-3-postlude-days-",
    "mobygames": "160812",
    "steam": "1523390"
   },

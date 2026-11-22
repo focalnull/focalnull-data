@@ -9,6 +9,7 @@
   "ids": {
    "howlongtobeat": "3087",
    "igdb": "elite-beat-agents",
+   "metacritic": "elite-beat-agents",
    "mobygames": "25505"
   },
   "label_en": "Elite Beat Agents",
@@ -19,6 +20,7 @@
   "ids": {
    "howlongtobeat": "6306",
    "igdb": "mysims--2",
+   "metacritic": "mysims",
    "mobygames": "30511",
    "pcgamingwiki": "MySims",
    "steam": "3328900"
@@ -108,6 +110,7 @@
   "enwiki": "Create (video game)",
   "ids": {
    "igdb": "create",
+   "metacritic": "create",
    "mobygames": "51898",
    "pcgamingwiki": "Create"
   },
@@ -135,6 +138,7 @@
   "ids": {
    "howlongtobeat": "4774",
    "igdb": "izuna-2-the-unemployed-ninja-returns",
+   "metacritic": "izuna-2-the-unemployed-ninja-returns",
    "mobygames": "44336"
   },
   "label_en": "Izuna 2: The Unemployed Ninja Returns",
@@ -195,6 +199,7 @@
  {
   "ids": {
    "igdb": "glory-days-2",
+   "metacritic": "glory-days-2",
    "mobygames": "34461"
   },
   "label_en": "Glory Days 2",
@@ -246,6 +251,7 @@
   "ids": {
    "howlongtobeat": "101251",
    "igdb": "sonic-frontiers",
+   "metacritic": "sonic-frontiers",
    "mobygames": "194283",
    "pcgamingwiki": "Sonic_Frontiers",
    "steam": "1237320"
@@ -619,6 +625,7 @@
    "gog": "game/bzzzt",
    "howlongtobeat": "140534",
    "igdb": "bzzzt",
+   "metacritic": "bzzzt",
    "mobygames": "211718",
    "pcgamingwiki": "Bzzzt",
    "steam": "1293170"
@@ -702,6 +709,7 @@
  {
   "ids": {
    "igdb": "desperadrops",
+   "metacritic": "despera-drops",
    "mobygames": "242723",
    "pcgamingwiki": "Despera_Drops",
    "steam": "3291080"
@@ -730,6 +738,7 @@
    "gog": "game/beyond_the_ice_palace_2",
    "howlongtobeat": "148555",
    "igdb": "beyond-the-ice-palace-ii",
+   "metacritic": "beyond-the-ice-palace-2",
    "pcgamingwiki": "Beyond_the_Ice_Palace_II",
    "steam": "2384730"
   },
@@ -782,6 +791,7 @@
   "ids": {
    "howlongtobeat": "26565",
    "igdb": "sportsball",
+   "metacritic": "sportsball",
    "mobygames": "100898"
   },
   "label_en": "Sportsball",
@@ -1118,6 +1128,7 @@
  {
   "ids": {
    "igdb": "hentai-chessknight",
+   "pcgamingwiki": "Hentai_ChessKnight",
    "steam": "1132010"
   },
   "label_en": "Hentai ChessKnight",

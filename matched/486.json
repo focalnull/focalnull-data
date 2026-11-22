@@ -21,6 +21,7 @@
   "ids": {
    "howlongtobeat": "9246",
    "igdb": "street-fighter-x-tekken",
+   "metacritic": "street-fighter-x-tekken",
    "mobygames": "55602",
    "pcgamingwiki": "Street_Fighter_X_Tekken",
    "steam": "209120"
@@ -52,6 +53,7 @@
   "ids": {
    "howlongtobeat": "1330",
    "igdb": "britney-s-dance-beat",
+   "metacritic": "britneys-dance-beat",
    "mobygames": "7497",
    "pcgamingwiki": "Britney's_Dance_Beat"
   },
@@ -97,6 +99,7 @@
   "enwiki": "Speed Racer: The Videogame",
   "ids": {
    "igdb": "speed-racer-the-videogame",
+   "metacritic": "speed-racer",
    "mobygames": "34017"
   },
   "label_en": "Speed Racer: The Videogame",
@@ -115,6 +118,7 @@
   "enwiki": "Buffy the Vampire Slayer (2002 video game)",
   "ids": {
    "igdb": "buffy-the-vampire-slayer",
+   "metacritic": "buffy-the-vampire-slayer",
    "mobygames": "7352"
   },
   "label_en": "Buffy the Vampire Slayer",
@@ -193,6 +197,7 @@
    "epic": "kingdom-hearts-hd-2-8-final-chapter-prologue",
    "howlongtobeat": "37863",
    "igdb": "kingdom-hearts-hd-2-dot-8-final-chapter-prologue",
+   "metacritic": "kingdom-hearts-hd-28-final-chapter-prologue",
    "mobygames": "83208",
    "pcgamingwiki": "Kingdom_Hearts_HD_2.8_Final_Chapter_Prologue",
    "steam": "2552440"
@@ -214,6 +219,7 @@
    "gog": "game/runner3",
    "howlongtobeat": "56122",
    "igdb": "runner3",
+   "metacritic": "runner3",
    "mobygames": "107996",
    "pcgamingwiki": "Runner3",
    "steam": "516130"
@@ -238,6 +244,7 @@
   "ids": {
    "howlongtobeat": "32175",
    "igdb": "megamind-mega-team-unite",
+   "metacritic": "megamind-mega-team-unite",
    "mobygames": "100527"
   },
   "label_en": "Megamind: Mega Team Unite",
@@ -250,6 +257,7 @@
    "gog": "game/black_book",
    "howlongtobeat": "72957",
    "igdb": "black-book",
+   "metacritic": "black-book",
    "mobygames": "169187",
    "pcgamingwiki": "Black_Book",
    "steam": "1138660"
@@ -263,6 +271,7 @@
    "epic": "lost-in-random-1804af",
    "howlongtobeat": "71958",
    "igdb": "lost-in-random",
+   "metacritic": "lost-in-random",
    "mobygames": "166503",
    "pcgamingwiki": "Lost_in_Random",
    "steam": "1462570"
@@ -328,6 +337,7 @@
   "ids": {
    "howlongtobeat": "109264",
    "igdb": "wo-long-fallen-dynasty",
+   "metacritic": "wo-long-fallen-dynasty",
    "mobygames": "200023",
    "pcgamingwiki": "Wo_Long:_Fallen_Dynasty",
    "steam": "1448440"
@@ -390,6 +400,7 @@
   "ids": {
    "howlongtobeat": "59596",
    "igdb": "impulsion",
+   "metacritic": "impulsion",
    "mobygames": "113284",
    "pcgamingwiki": "Impulsion",
    "steam": "811270"
@@ -899,6 +910,7 @@
  {
   "ids": {
    "igdb": "might-and-magic-heroes-vi-shades-of-darkness",
+   "metacritic": "might-and-magic-heroes-vi-shades-of-darkness",
    "mobygames": "65159",
    "pcgamingwiki": "Might_&_Magic_Heroes_VI:_Shades_of_Darkness",
    "steam": "229790"

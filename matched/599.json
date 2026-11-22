@@ -19,6 +19,7 @@
    "gog": "game/wings_of_prey_complete",
    "howlongtobeat": "4618",
    "igdb": "il-2-sturmovik-birds-of-prey",
+   "metacritic": "wings-of-prey",
    "mobygames": "44720",
    "pcgamingwiki": "Wings_of_Prey",
    "steam": "45300"
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "7325",
    "igdb": "world-soccer-winning-eleven-7-international",
+   "metacritic": "pro-evolution-soccer-3",
    "pcgamingwiki": "Pro_Evolution_Soccer_3"
   },
   "label_en": "Pro Evolution Soccer 3",
@@ -91,6 +93,7 @@
   "ids": {
    "howlongtobeat": "45479",
    "igdb": "men-in-black-the-series-crashdown",
+   "metacritic": "men-in-black-the-series-crashdown",
    "mobygames": "6520"
   },
   "label_en": "Men in Black: The Series – Crashdown",
@@ -151,6 +154,7 @@
   "enwiki": "Trauma Center: Second Opinion",
   "ids": {
    "igdb": "trauma-center-second-opinion",
+   "metacritic": "trauma-center-second-opinion",
    "mobygames": "25357"
   },
   "label_en": "Trauma Center: Second Opinion",
@@ -163,6 +167,7 @@
  {
   "ids": {
    "igdb": "company-of-heroes-2-ardennes-assault-fox-company-rangers",
+   "metacritic": "company-of-heroes-2-the-western-front-armies",
    "mobygames": "66886",
    "pcgamingwiki": "Company_of_Heroes_2_-_The_Western_Front_Armies",
    "steam": "260309"
@@ -209,6 +214,7 @@
   "ids": {
    "howlongtobeat": "56678",
    "igdb": "bloodstained-curse-of-the-moon",
+   "metacritic": "bloodstained-curse-of-the-moon",
    "mobygames": "109281",
    "pcgamingwiki": "Bloodstained:_Curse_of_the_Moon",
    "steam": "838310"
@@ -219,6 +225,7 @@
  {
   "ids": {
    "igdb": "looney-tunes-world-of-mayhem",
+   "metacritic": "looney-tunes-world-of-mayhem",
    "mobygames": "119285"
   },
   "label_en": "Looney Tunes World of Mayhem",
@@ -293,6 +300,7 @@
   "ids": {
    "howlongtobeat": "113569",
    "igdb": "tekken-8",
+   "metacritic": "tekken-8",
    "mobygames": "216563",
    "pcgamingwiki": "Tekken_8",
    "steam": "1778820"
@@ -307,6 +315,7 @@
    "gog": "game/turnip_boy_commits_tax_evasion",
    "howlongtobeat": "80383",
    "igdb": "turnip-boy-commits-tax-evasion",
+   "metacritic": "turnip-boy-commits-tax-evasion",
    "mobygames": "163053",
    "pcgamingwiki": "Turnip_Boy_Commits_Tax_Evasion",
    "steam": "1205450"
@@ -320,6 +329,7 @@
    "epic": "operation-tango",
    "howlongtobeat": "84033",
    "igdb": "operation-tango",
+   "metacritic": "operation-tango",
    "mobygames": "165622",
    "pcgamingwiki": "Operation:_Tango",
    "steam": "1335790"
@@ -333,6 +343,7 @@
    "epic": "fist-forged-in-shadow-torch",
    "howlongtobeat": "83127",
    "igdb": "f-dot-i-s-dot-t-forged-in-shadow-torch",
+   "metacritic": "fist-forged-in-shadow-torch",
    "mobygames": "172229",
    "pcgamingwiki": "F.I.S.T.:_Forged_In_Shadow_Torch",
    "steam": "1330470"
@@ -402,6 +413,7 @@
   "ids": {
    "howlongtobeat": "114905",
    "igdb": "silent-hill-2--1",
+   "metacritic": "silent-hill-2",
    "mobygames": "231515",
    "pcgamingwiki": "Silent_Hill_2",
    "steam": "2124490"
@@ -682,6 +694,7 @@
   "ids": {
    "howlongtobeat": "30322",
    "igdb": "under-night-in-birth-exe-late",
+   "metacritic": "under-night-in-birth-exelate",
    "mobygames": "84475",
    "pcgamingwiki": "Under_Night_In-Birth_Exe:Late",
    "steam": "452510"
@@ -702,6 +715,7 @@
   "ids": {
    "howlongtobeat": "89279",
    "igdb": "micoach-by-adidas",
+   "metacritic": "adidas-micoach",
    "mobygames": "85147"
   },
   "label_en": "Adidas miCoach",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "17251",
    "igdb": "firefall",
+   "metacritic": "firefall",
    "mobygames": "76260",
    "pcgamingwiki": "Firefall",
    "steam": "227700"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "11107",
    "igdb": "wave-race-blue-storm",
+   "metacritic": "wave-race-blue-storm",
    "mobygames": "5495"
   },
   "label_en": "Wave Race: Blue Storm",
@@ -70,6 +72,7 @@
   "ids": {
    "howlongtobeat": "4208",
    "igdb": "gungriffon-blaze",
+   "metacritic": "gungriffon-blaze",
    "mobygames": "7917"
   },
   "label_en": "Gungriffon Blaze",
@@ -91,6 +94,7 @@
   "ids": {
    "howlongtobeat": "66406",
    "igdb": "nurse-love-syndrome",
+   "metacritic": "nurse-love-syndrome-retherapy",
    "mobygames": "125415",
    "pcgamingwiki": "Nurse_Love_Syndrome",
    "steam": "1023690"
@@ -104,6 +108,7 @@
    "gog": "game/crypt_of_the_necrodancer",
    "howlongtobeat": "20810",
    "igdb": "crypt-of-the-necrodancer",
+   "metacritic": "crypt-of-the-necrodancer-nintendo-switch-edition",
    "mobygames": "77143",
    "pcgamingwiki": "Crypt_of_the_Necrodancer",
    "steam": "247080"
@@ -120,6 +125,7 @@
    "gog": "game/punch_club",
    "howlongtobeat": "33292",
    "igdb": "punch-club",
+   "metacritic": "punch-club",
    "mobygames": "78893",
    "pcgamingwiki": "Punch_Club",
    "steam": "394310"
@@ -150,6 +156,7 @@
   "ids": {
    "howlongtobeat": "51421",
    "igdb": "past-cure",
+   "metacritic": "past-cure",
    "mobygames": "103035",
    "pcgamingwiki": "Past_Cure",
    "steam": "646050"

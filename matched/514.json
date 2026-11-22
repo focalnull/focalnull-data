@@ -69,6 +69,7 @@
   "ids": {
    "howlongtobeat": "3438",
    "igdb": "field-commander",
+   "metacritic": "field-commander",
    "mobygames": "22485"
   },
   "label_en": "Field Commander",
@@ -128,6 +129,7 @@
  {
   "ids": {
    "igdb": "senran-kagura-2-deep-crimson",
+   "metacritic": "senran-kagura-2-deep-crimson",
    "mobygames": "68562"
   },
   "label_en": "Senran Kagura 2: Deep Crimson",
@@ -149,6 +151,7 @@
   "ids": {
    "howlongtobeat": "40500",
    "igdb": "thumper",
+   "metacritic": "thumper",
    "mobygames": "81073",
    "pcgamingwiki": "Thumper",
    "steam": "356400"
@@ -174,6 +177,7 @@
   "ids": {
    "howlongtobeat": "22728",
    "igdb": "sneaky-sneaky",
+   "metacritic": "sneaky-sneaky",
    "mobygames": "106782",
    "pcgamingwiki": "Sneaky_Sneaky",
    "steam": "259410"
@@ -185,7 +189,8 @@
   "enwiki": "StarCraft: Remastered",
   "ids": {
    "howlongtobeat": "48222",
-   "igdb": "starcraft-remastered"
+   "igdb": "starcraft-remastered",
+   "metacritic": "starcraft-remastered"
   },
   "label_en": "StarCraft: Remastered",
   "wikidata": "Q29032514"
@@ -232,6 +237,7 @@
    "gog": "game/conga_master",
    "howlongtobeat": "39958",
    "igdb": "conga-master",
+   "metacritic": "conga-master",
    "mobygames": "93171",
    "pcgamingwiki": "Conga_Master",
    "steam": "489720"
@@ -243,6 +249,7 @@
   "ids": {
    "howlongtobeat": "81720",
    "igdb": "the-henry-stickmin-collection",
+   "metacritic": "the-henry-stickmin-collection",
    "mobygames": "149077",
    "pcgamingwiki": "The_Henry_Stickmin_Collection",
    "steam": "1089980"
@@ -319,7 +326,8 @@
  {
   "ids": {
    "howlongtobeat": "15652",
-   "igdb": "the-very-organized-thief"
+   "igdb": "the-very-organized-thief",
+   "metacritic": "the-very-organized-thief"
   },
   "label_en": "The Very Organized Thief",
   "wikidata": "Q118559514"
@@ -626,6 +634,7 @@
  {
   "ids": {
    "igdb": "chigau",
+   "metacritic": "meta-meet-cute-plus",
    "steam": "1739160"
   },
   "label_en": "Meta Meet Cute!!!",
@@ -646,6 +655,7 @@
    "gog": "game/savant_ascent_remix",
    "howlongtobeat": "133111",
    "igdb": "savant-ascent-remix",
+   "metacritic": "savant-ascent-remix",
    "mobygames": "209576",
    "pcgamingwiki": "Savant_Ascent_REMIX",
    "steam": "2279330"
@@ -656,6 +666,7 @@
  {
   "ids": {
    "igdb": "one-week-with-the-mafia",
+   "metacritic": "one-week-with-the-mafia",
    "steam": "2656310"
   },
   "label_en": "One Week With The Mafia",
@@ -852,6 +863,7 @@
   "ids": {
    "howlongtobeat": "152031",
    "igdb": "undusted-letters-from-the-past",
+   "metacritic": "undusted-letters-from-the-past",
    "steam": "2891020"
   },
   "label_en": "Undusted: Letters from the Past",

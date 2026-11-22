@@ -3,6 +3,7 @@
   "enwiki": "Pirates of the Caribbean: Dead Man's Chest (video game)",
   "ids": {
    "igdb": "pirates-of-the-caribbean-dead-mans-chest",
+   "metacritic": "pirates-of-the-caribbean-dead-mans-chest",
    "mobygames": "22942"
   },
   "label_en": "Pirates of the Caribbean: Dead Man's Chest",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "9663",
    "igdb": "tekken-2",
+   "metacritic": "tekken-2",
    "mobygames": "4779"
   },
   "label_en": "Tekken 2",
@@ -23,6 +25,7 @@
   "ids": {
    "howlongtobeat": "10470",
    "igdb": "tomb-raider-chronicles",
+   "metacritic": "tomb-raider-chronicles",
    "mobygames": "2969",
    "pcgamingwiki": "Tomb_Raider_Chronicles",
    "steam": "225000"
@@ -36,6 +39,7 @@
    "gog": "game/sherlock_holmes_versus_jack_the_ripper",
    "howlongtobeat": "8403",
    "igdb": "sherlock-holmes-versus-jack-the-ripper",
+   "metacritic": "sherlock-holmes-vs-jack-the-ripper",
    "mobygames": "42017",
    "pcgamingwiki": "Sherlock_Holmes_versus_Jack_the_Ripper",
    "steam": "11190"
@@ -50,6 +54,7 @@
    "gog": "game/the_witness",
    "howlongtobeat": "10273",
    "igdb": "the-witness",
+   "metacritic": "the-witness",
    "mobygames": "76709",
    "pcgamingwiki": "The_Witness",
    "steam": "210970"
@@ -61,6 +66,7 @@
   "enwiki": "X-Men: Reign of Apocalypse",
   "ids": {
    "igdb": "x-men-reign-of-apocalypse",
+   "metacritic": "x-men-reign-of-apocalypse",
    "mobygames": "5062"
   },
   "label_en": "X-Men: Reign of Apocalypse",
@@ -81,6 +87,7 @@
   "ids": {
    "howlongtobeat": "29463",
    "igdb": "god-eater-2-rage-burst",
+   "metacritic": "god-eater-2-rage-burst",
    "mobygames": "83604",
    "pcgamingwiki": "God_Eater_2:_Rage_Burst",
    "steam": "438490"
@@ -128,6 +135,7 @@
   "ids": {
    "howlongtobeat": "4246",
    "igdb": "half-minute-hero",
+   "metacritic": "half-minute-hero-super-mega-neo-climax-ultimate-boy",
    "mobygames": "45751",
    "pcgamingwiki": "Half-Minute_Hero:_Super_Mega_Neo_Climax_Ultimate_Boy",
    "steam": "214830"
@@ -178,6 +186,7 @@
  {
   "ids": {
    "igdb": "great-invasions-the-darkages-350-1066-ad",
+   "metacritic": "great-invasions-the-darkages-350-1066-ad",
    "mobygames": "35333"
   },
   "label_en": "Great Invasions",
@@ -200,6 +209,7 @@
   "enwiki": "Toxic Grind",
   "ids": {
    "igdb": "toxic-grind",
+   "metacritic": "toxic-grind",
    "mobygames": "31055"
   },
   "label_en": "Toxic Grind",
@@ -209,6 +219,7 @@
   "enwiki": "Samurai Warriors: State of War",
   "ids": {
    "igdb": "samurai-warriors-state-of-war",
+   "metacritic": "samurai-warriors-state-of-war",
    "mobygames": "36060"
   },
   "label_en": "Samurai Warriors: State of War",
@@ -246,6 +257,7 @@
    "epic": "far-cry-4",
    "howlongtobeat": "19310",
    "igdb": "far-cry-4",
+   "metacritic": "far-cry-4",
    "mobygames": "69805",
    "pcgamingwiki": "Far_Cry_4",
    "steam": "298110"
@@ -284,6 +296,7 @@
   "ids": {
    "howlongtobeat": "13357",
    "igdb": "red-johnsons-chronicles-one-against-all",
+   "metacritic": "red-johnsons-chronicles-one-against-all",
    "mobygames": "120894"
   },
   "label_en": "Red Johnson's Chronicles: One Against All",
@@ -293,6 +306,7 @@
   "ids": {
    "howlongtobeat": "59633",
    "igdb": "mega-man-x-legacy-collection-2",
+   "metacritic": "mega-man-x-legacy-collection-2",
    "mobygames": "110648",
    "pcgamingwiki": "Mega_Man_X_Legacy_Collection_2",
    "steam": "743900"
@@ -304,6 +318,7 @@
   "ids": {
    "howlongtobeat": "45526",
    "igdb": "dawn-of-andromeda",
+   "metacritic": "dawn-of-andromeda",
    "mobygames": "88038",
    "pcgamingwiki": "Dawn_of_Andromeda",
    "steam": "427570"
@@ -325,6 +340,7 @@
    "gog": "game/papetura",
    "howlongtobeat": "91972",
    "igdb": "papetura",
+   "metacritic": "papetura",
    "mobygames": "164447",
    "pcgamingwiki": "Papetura",
    "steam": "593640"
@@ -339,6 +355,7 @@
    "gog": "game/tails_of_iron",
    "howlongtobeat": "96877",
    "igdb": "tails-of-iron",
+   "metacritic": "tails-of-iron",
    "mobygames": "172396",
    "pcgamingwiki": "Tails_of_Iron",
    "steam": "1283410"
@@ -361,6 +378,7 @@
   "ids": {
    "howlongtobeat": "10574",
    "igdb": "tower-wars",
+   "metacritic": "tower-wars",
    "mobygames": "78505",
    "pcgamingwiki": "Tower_Wars",
    "steam": "214360"
@@ -372,7 +390,9 @@
   "ids": {
    "howlongtobeat": "100461",
    "igdb": "100-hidden-frogs",
+   "metacritic": "100-hidden-frogs",
    "mobygames": "177686",
+   "pcgamingwiki": "100_hidden_frogs",
    "steam": "1806840"
   },
   "label_en": "100 hidden frogs",
@@ -381,6 +401,7 @@
  {
   "ids": {
    "igdb": "hidden-objects-sleeping-beauty",
+   "metacritic": "hidden-objects-sleeping-beauty",
    "steam": "1740050"
   },
   "label_en": "Sleeping Beauty",
@@ -441,7 +462,9 @@
   "ids": {
    "howlongtobeat": "115733",
    "igdb": "this-way-madness-lies",
+   "metacritic": "this-way-madness-lies",
    "mobygames": "195366",
+   "pcgamingwiki": "This_Way_Madness_Lies",
    "steam": "1318970"
   },
   "label_en": "This Way Madness Lies",
@@ -452,6 +475,7 @@
    "howlongtobeat": "90303",
    "igdb": "annalynn",
    "mobygames": "160845",
+   "pcgamingwiki": "Annalynn",
    "steam": "1508460"
   },
   "label_en": "Annalynn",
@@ -574,6 +598,7 @@
   "ids": {
    "howlongtobeat": "80877",
    "igdb": "bounty-battle",
+   "metacritic": "bounty-battle",
    "mobygames": "150361",
    "pcgamingwiki": "Bounty_Battle",
    "steam": "860900"
@@ -709,6 +734,7 @@
   "ids": {
    "howlongtobeat": "126279",
    "igdb": "infinity-strash-dragon-quest-the-adventure-of-dai",
+   "metacritic": "infinity-strash-dragon-quest-the-adventure-of-dai",
    "mobygames": "209618",
    "pcgamingwiki": "Infinity_Strash:_Dragon_Quest_The_Adventure_of_Dai",
    "steam": "1895810"
@@ -1220,6 +1246,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "The_Grinch_2:_Saving_Christmas",
    "steam": "3470930"
   },
   "label_en": "The Grinch 2: Saving Christmas",

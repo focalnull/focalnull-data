@@ -5,6 +5,7 @@
    "epic": "doom-3",
    "howlongtobeat": "2704",
    "igdb": "doom-3",
+   "metacritic": "doom-3",
    "mobygames": "14320",
    "pcgamingwiki": "Doom_3",
    "steam": "9050"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "30373",
    "igdb": "shogun-total-war",
+   "metacritic": "shogun-total-war",
    "mobygames": "1692",
    "pcgamingwiki": "Shogun:_Total_War",
    "steam": "345240"
@@ -29,6 +31,7 @@
   "ids": {
    "howlongtobeat": "10943",
    "igdb": "vindictus",
+   "metacritic": "vindictus",
    "mobygames": "101873",
    "pcgamingwiki": "Vindictus",
    "steam": "212160"
@@ -41,6 +44,7 @@
   "ids": {
    "howlongtobeat": "15936",
    "igdb": "indiana-jones-greatest-adventures",
+   "metacritic": "indiana-jones-greatest-adventures",
    "mobygames": "6785"
   },
   "label_en": "Indiana Jones' Greatest Adventures",
@@ -51,6 +55,7 @@
   "ids": {
    "howlongtobeat": "10345",
    "igdb": "time-crisis-project-titan",
+   "metacritic": "time-crisis-project-titan",
    "mobygames": "3918"
   },
   "label_en": "Time Crisis: Project Titan",
@@ -69,6 +74,7 @@
   "enwiki": "Yu-Gi-Oh! The Falsebound Kingdom",
   "ids": {
    "igdb": "yu-gi-oh-the-falsebound-kingdom",
+   "metacritic": "yu-gi-oh-the-falsebound-kingdom",
    "mobygames": "14912"
   },
   "label_en": "Yu-Gi-Oh! The Falsebound Kingdom",
@@ -97,6 +103,7 @@
   "ids": {
    "gog": "game/journey_to_the_center_of_the_earth",
    "igdb": "journey-to-the-center-of-the-earth--1",
+   "metacritic": "journey-to-the-center-of-the-earth",
    "mobygames": "10766",
    "pcgamingwiki": "Journey_to_the_Center_of_the_Earth",
    "steam": "474240"
@@ -206,6 +213,7 @@
   "ids": {
    "howlongtobeat": "4558",
    "igdb": "hydro-thunder-hurricane",
+   "metacritic": "hydro-thunder-hurricane",
    "mobygames": "47553",
    "pcgamingwiki": "Hydro_Thunder_Hurricane"
   },
@@ -252,6 +260,7 @@
   "ids": {
    "howlongtobeat": "36833",
    "igdb": "heartomics-slime-and-friends",
+   "metacritic": "heartomics",
    "pcgamingwiki": "Heartomics",
    "steam": "456660"
   },
@@ -281,6 +290,7 @@
    "gog": "game/jupiter_hell",
    "howlongtobeat": "74479",
    "igdb": "jupiter-hell",
+   "metacritic": "jupiter-hell",
    "mobygames": "131302",
    "pcgamingwiki": "Jupiter_Hell",
    "steam": "811320"
@@ -292,6 +302,7 @@
   "ids": {
    "howlongtobeat": "65836",
    "igdb": "pacify",
+   "metacritic": "pacify",
    "mobygames": "123034",
    "pcgamingwiki": "Pacify",
    "steam": "967050"
@@ -306,6 +317,7 @@
    "gog": "game/bug_fables_the_everlasting_sapling",
    "howlongtobeat": "72078",
    "igdb": "bug-fables-the-everlasting-sapling",
+   "metacritic": "bug-fables-the-everlasting-sapling",
    "mobygames": "137581",
    "pcgamingwiki": "Bug_Fables:_The_Everlasting_Sapling",
    "steam": "1082710"
@@ -317,6 +329,7 @@
   "ids": {
    "howlongtobeat": "91093",
    "igdb": "labyrinth-city-pierre-the-maze-detective",
+   "metacritic": "labyrinth-city-pierre-the-maze-detective",
    "mobygames": "166678",
    "pcgamingwiki": "Labyrinth_City:_Pierre_the_Maze_Detective",
    "steam": "1421790"
@@ -327,17 +340,20 @@
  {
   "ids": {
    "igdb": "disneys-kim-possible-kimmunicator",
+   "metacritic": "disneys-kim-possible-kimmunicator",
    "mobygames": "21098"
   },
   "label_en": "Kim Possible: Kimmunicator",
   "wikidata": "Q106620310"
  },
  {
+  "enwiki": "My Memory of Us",
   "ids": {
    "epic": "my-memory-of-us-709675",
    "gog": "game/my_memory_of_us",
    "howlongtobeat": "56789",
    "igdb": "my-memory-of-us",
+   "metacritic": "my-memory-of-us",
    "mobygames": "114894",
    "pcgamingwiki": "My_Memory_of_Us",
    "steam": "651500"
@@ -417,6 +433,7 @@
    "epic": "wanted-dead-798c3c",
    "howlongtobeat": "109484",
    "igdb": "wanted-dead",
+   "metacritic": "wanted-dead",
    "mobygames": "199653",
    "pcgamingwiki": "Wanted:_Dead",
    "steam": "1981610"
@@ -692,7 +709,8 @@
  },
  {
   "ids": {
-   "igdb": "witchspring2"
+   "igdb": "witchspring2",
+   "metacritic": "witchspring2"
   },
   "label_en": "WitchSpring2",
   "wikidata": "Q123668310"
@@ -873,6 +891,7 @@
   "ids": {
    "howlongtobeat": "169255",
    "igdb": "game-of-thrones-war-for-westeros",
+   "metacritic": "game-of-thrones-war-for-westeros",
    "mobygames": "243267",
    "pcgamingwiki": "Game_of_Thrones:_War_For_Westeros",
    "steam": "2838950"
@@ -1138,6 +1157,7 @@
  {
   "ids": {
    "igdb": "baby-shark-sing-and-swim-party",
+   "pcgamingwiki": "Baby_Shark:_Sing_&_Swim_Party",
    "steam": "2075240"
   },
   "label_en": "Baby Shark™: Sing & Swim Party",
@@ -1155,6 +1175,7 @@
   "enwiki": "Backyard Baseball (2026 video game)",
   "ids": {
    "igdb": "backyard-baseball--3",
+   "metacritic": "backyard-baseball",
    "pcgamingwiki": "Backyard_Baseball_(2026)",
    "steam": "3935020"
   },

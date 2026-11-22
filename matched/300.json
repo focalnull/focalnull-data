@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4675",
    "igdb": "infamous-2",
+   "metacritic": "infamous-2",
    "mobygames": "65194"
   },
   "label_en": "InFamous 2",
@@ -58,6 +59,7 @@
   "ids": {
    "howlongtobeat": "5671",
    "igdb": "mark-of-the-ninja",
+   "metacritic": "mark-of-the-ninja",
    "mobygames": "58280",
    "pcgamingwiki": "Mark_of_the_Ninja",
    "steam": "214560"
@@ -102,6 +104,7 @@
    "gog": "game/men_of_war_assault_squad",
    "howlongtobeat": "5882",
    "igdb": "men-of-war-assault-squad",
+   "metacritic": "men-of-war-assault-squad",
    "mobygames": "51974",
    "pcgamingwiki": "Men_of_War:_Assault_Squad",
    "steam": "64000"
@@ -167,6 +170,7 @@
   "ids": {
    "howlongtobeat": "614",
    "igdb": "army-men-green-rogue",
+   "metacritic": "army-men-green-rogue",
    "mobygames": "6455"
   },
   "label_en": "Army Men: Green Rogue",
@@ -180,6 +184,7 @@
   "enwiki": "Metal Knight",
   "ids": {
    "igdb": "metal-knight-mission-terminate-resistance--1",
+   "metacritic": "metal-knight-mission-terminate-resistance",
    "mobygames": "41811"
   },
   "label_en": "Metal Knight",
@@ -198,6 +203,7 @@
    "epic": "blazerush-bd9a28",
    "howlongtobeat": "23635",
    "igdb": "blazerush",
+   "metacritic": "blazerush",
    "mobygames": "70883",
    "pcgamingwiki": "BlazeRush",
    "steam": "302710"
@@ -209,6 +215,7 @@
   "ids": {
    "howlongtobeat": "32885",
    "igdb": "eiyu-star-senki-the-world-conquest",
+   "metacritic": "eiyuu-senki-the-world-conquest",
    "mobygames": "114256",
    "pcgamingwiki": "Eiyu*Senki_-_The_World_Conquest",
    "steam": "691770"
@@ -258,6 +265,7 @@
   "ids": {
    "howlongtobeat": "99248",
    "igdb": "save-me-mr-tako-definitive-edition",
+   "metacritic": "save-me-mr-tako-definitive-edition",
    "mobygames": "163714",
    "steam": "1472540"
   },
@@ -268,6 +276,7 @@
   "ids": {
    "howlongtobeat": "58651",
    "igdb": "captain-nemo",
+   "metacritic": "hidden-object-adventure-captain-nemo",
    "pcgamingwiki": "Hidden_Object_Adventure:_Captain_Nemo",
    "steam": "788970"
   },
@@ -360,6 +369,7 @@
   "ids": {
    "howlongtobeat": "72974",
    "igdb": "sd-gundam-g-generation-cross-rays",
+   "metacritic": "sd-gundam-g-generation-cross-rays",
    "mobygames": "140153",
    "pcgamingwiki": "SD_Gundam_G_Generation_Cross_Rays",
    "steam": "728530"
@@ -381,6 +391,7 @@
  {
   "ids": {
    "igdb": "alex-gordon",
+   "metacritic": "alex-gordon",
    "mobygames": "56528"
   },
   "label_en": "Alex Gordon",
@@ -1177,6 +1188,7 @@
  {
   "ids": {
    "igdb": "side-effects",
+   "pcgamingwiki": "Side_Effects",
    "steam": "3799100"
   },
   "label_en": "SIDE EFFECTS",

@@ -45,6 +45,7 @@
   "enwiki": "Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon",
   "ids": {
    "igdb": "shin-megami-tensei-devil-summoner-2-raidou-kuzunoha-vs-king-abaddon",
+   "metacritic": "shin-megami-tensei-devil-summoner-2-raidou-kuzunoha-vs-king-abaddon",
    "mobygames": "41057"
   },
   "label_en": "Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon",
@@ -80,6 +81,7 @@
   "ids": {
    "howlongtobeat": "5285",
    "igdb": "let-s-tap",
+   "metacritic": "lets-tap",
    "mobygames": "40160"
   },
   "label_en": "Let's Tap",
@@ -90,6 +92,7 @@
   "ids": {
    "howlongtobeat": "3951",
    "igdb": "global-agenda",
+   "metacritic": "global-agenda",
    "mobygames": "48197",
    "pcgamingwiki": "Global_Agenda:_Free_Agent",
    "steam": "17020"
@@ -111,6 +114,7 @@
   "ids": {
    "gog": "game/dark_reign_2",
    "igdb": "dark-reign-2",
+   "metacritic": "dark-reign-2",
    "mobygames": "2270",
    "pcgamingwiki": "Dark_Reign_2"
   },
@@ -143,6 +147,7 @@
   "ids": {
    "howlongtobeat": "31756",
    "igdb": "vertigo--8",
+   "metacritic": "vertigo-2009",
    "mobygames": "36483"
   },
   "label_en": "Vertigo",
@@ -153,6 +158,7 @@
   "ids": {
    "howlongtobeat": "76033",
    "igdb": "espn-nba-2night-2002",
+   "metacritic": "espn-nba-2night-2002",
    "mobygames": "34743"
   },
   "label_en": "ESPN NBA 2Night 2002",
@@ -163,6 +169,7 @@
   "ids": {
    "howlongtobeat": "3717",
    "igdb": "frogger-2-swampys-revenge",
+   "metacritic": "frogger-2-swampys-revenge",
    "mobygames": "2492",
    "pcgamingwiki": "Frogger_2:_Swampy's_Revenge"
   },
@@ -274,6 +281,7 @@
   "ids": {
    "howlongtobeat": "47387",
    "igdb": "mark-mcmorris-infinite-air",
+   "metacritic": "mark-mcmorris-infinite-air",
    "mobygames": "118732",
    "pcgamingwiki": "Infinite_Air_with_Mark_McMorris",
    "steam": "488300"
@@ -301,6 +309,7 @@
  {
   "ids": {
    "igdb": "chewbrick",
+   "metacritic": "chewbrick",
    "pcgamingwiki": "Chewbrick",
    "steam": "709390"
   },
@@ -312,6 +321,7 @@
    "gog": "game/phoning_home",
    "howlongtobeat": "43490",
    "igdb": "phoning-home",
+   "metacritic": "phoning-home",
    "mobygames": "83967",
    "pcgamingwiki": "Phoning_Home",
    "steam": "431650"
@@ -324,6 +334,7 @@
   "ids": {
    "howlongtobeat": "93119",
    "igdb": "weaving-tides",
+   "metacritic": "weaving-tides",
    "mobygames": "165360",
    "pcgamingwiki": "Weaving_Tides",
    "steam": "1075170"
@@ -354,6 +365,7 @@
   "ids": {
    "howlongtobeat": "72653",
    "igdb": "arrog",
+   "metacritic": "arrog",
    "mobygames": "140081",
    "pcgamingwiki": "Arrog",
    "steam": "1185700"
@@ -453,6 +465,7 @@
   "ids": {
    "howlongtobeat": "88794",
    "igdb": "a-tale-of-paper",
+   "metacritic": "a-tale-of-paper",
    "mobygames": "151847"
   },
   "label_en": "A Tale of Paper",
@@ -476,6 +489,7 @@
   "ids": {
    "howlongtobeat": "30304",
    "igdb": "swords-and-soldiers-ii",
+   "metacritic": "swords-and-soldiers-ii",
    "mobygames": "74388"
   },
   "label_en": "Swords & Soldiers II",
@@ -777,6 +791,7 @@
   "ids": {
    "howlongtobeat": "11767",
    "igdb": "king-arthur-fallen-champions",
+   "metacritic": "king-arthur-fallen-champions",
    "mobygames": "84790",
    "pcgamingwiki": "King_Arthur:_Fallen_Champions",
    "steam": "24460"
@@ -839,6 +854,7 @@
    "gog": "game/lollipop_chainsaw_repop",
    "howlongtobeat": "128035",
    "igdb": "lollipop-chainsaw-repop",
+   "metacritic": "lollipop-chainsaw-repop",
    "mobygames": "230413",
    "pcgamingwiki": "Lollipop_Chainsaw_RePOP",
    "steam": "2658450"
@@ -1212,6 +1228,7 @@
  {
   "ids": {
    "igdb": "project-z",
+   "pcgamingwiki": "Project_Z",
    "steam": "919730"
   },
   "label_en": "Project Z",

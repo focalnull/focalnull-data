@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "2698",
    "igdb": "donkey-konga",
+   "metacritic": "donkey-konga",
    "mobygames": "15033"
   },
   "label_en": "Donkey Konga",
@@ -31,6 +32,7 @@
   "ids": {
    "howlongtobeat": "3540",
    "igdb": "final-fight",
+   "metacritic": "final-fight",
    "mobygames": "5088"
   },
   "label_en": "Final Fight",
@@ -41,6 +43,7 @@
   "ids": {
    "howlongtobeat": "11112",
    "igdb": "way-of-the-samurai",
+   "metacritic": "way-of-the-samurai",
    "mobygames": "7243"
   },
   "label_en": "Way of the Samurai",
@@ -51,6 +54,7 @@
   "ids": {
    "howlongtobeat": "10878",
    "igdb": "valkyria-chronicles-2",
+   "metacritic": "valkyria-chronicles-ii",
    "mobygames": "67732"
   },
   "label_en": "Valkyria Chronicles II",
@@ -72,6 +76,7 @@
   "ids": {
    "howlongtobeat": "11333",
    "igdb": "wwe-legends-of-wrestlemania",
+   "metacritic": "wwe-legends-of-wrestlemania",
    "mobygames": "47707"
   },
   "label_en": "WWE Legends of WrestleMania",
@@ -139,7 +144,8 @@
  },
  {
   "ids": {
-   "igdb": "lost-memory-of-angel-frane"
+   "igdb": "lost-memory-of-angel-frane",
+   "metacritic": "lost-memory-of-angel-story-frane"
   },
   "label_en": "Lost Memory of Angel Frane",
   "wikidata": "Q10941946"
@@ -175,6 +181,7 @@
   "ids": {
    "howlongtobeat": "30455",
    "igdb": "desync",
+   "metacritic": "desync",
    "mobygames": "150860",
    "pcgamingwiki": "Desync",
    "steam": "390030"
@@ -189,6 +196,7 @@
    "gog": "game/gunslugs",
    "howlongtobeat": "16882",
    "igdb": "gunslugs",
+   "metacritic": "gunslugs",
    "mobygames": "76073",
    "pcgamingwiki": "Gunslugs",
    "steam": "371890"
@@ -200,6 +208,7 @@
   "ids": {
    "howlongtobeat": "5879",
    "igdb": "memento-mori-2",
+   "metacritic": "memento-mori-2",
    "mobygames": "56450",
    "pcgamingwiki": "Memento_Mori_2",
    "steam": "237970"
@@ -594,6 +603,7 @@
   "ids": {
    "howlongtobeat": "115058",
    "igdb": "the-first-descendant",
+   "metacritic": "the-first-descendant",
    "mobygames": "227132",
    "pcgamingwiki": "The_First_Descendant",
    "steam": "2074920"
@@ -717,6 +727,7 @@
   "ids": {
    "howlongtobeat": "145791",
    "igdb": "please-touch-the-artwork-2",
+   "metacritic": "please-touch-the-artwork-2",
    "mobygames": "217928",
    "pcgamingwiki": "Please,_Touch_The_Artwork_2",
    "steam": "2600140"
@@ -727,6 +738,7 @@
  {
   "ids": {
    "igdb": "paranormal-records",
+   "metacritic": "paranormal-records",
    "steam": "2404960"
   },
   "label_en": "Paranormal Records",

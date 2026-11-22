@@ -24,6 +24,7 @@
   "enwiki": "Digimon World DS",
   "ids": {
    "igdb": "digimon-world-ds",
+   "metacritic": "digimon-world-ds",
    "mobygames": "38637"
   },
   "label_en": "Digimon World DS",
@@ -33,6 +34,7 @@
   "enwiki": "The Simpsons Game",
   "ids": {
    "igdb": "the-simpsons-game",
+   "metacritic": "the-simpsons-game",
    "mobygames": "31062"
   },
   "label_en": "The Simpsons Game",
@@ -118,6 +120,7 @@
   "enwiki": "Red Dog: Superior Firepower",
   "ids": {
    "igdb": "red-dog-superior-firepower",
+   "metacritic": "red-dog-superior-firepower",
    "mobygames": "28692"
   },
   "label_en": "Red Dog: Superior Firepower",
@@ -143,6 +146,7 @@
   "ids": {
    "howlongtobeat": "22399",
    "igdb": "nba-live-15",
+   "metacritic": "nba-live-15",
    "mobygames": "80197"
   },
   "label_en": "NBA Live 15",
@@ -152,6 +156,7 @@
   "enwiki": "WWE SuperCard",
   "ids": {
    "igdb": "wwe-supercard",
+   "metacritic": "wwe-supercard",
    "mobygames": "83439"
   },
   "label_en": "WWE SuperCard",
@@ -163,6 +168,7 @@
  {
   "ids": {
    "igdb": "madden-nfl-arcade",
+   "metacritic": "madden-nfl-arcade",
    "mobygames": "44679"
   },
   "label_en": "Madden NFL Arcade",
@@ -173,6 +179,7 @@
   "ids": {
    "howlongtobeat": "38800",
    "igdb": "bound",
+   "metacritic": "bound",
    "mobygames": "80271"
   },
   "label_en": "Bound",
@@ -203,6 +210,7 @@
   "ids": {
    "howlongtobeat": "70012",
    "igdb": "monster-sanctuary",
+   "metacritic": "monster-sanctuary",
    "mobygames": "137740",
    "pcgamingwiki": "Monster_Sanctuary",
    "steam": "814370"
@@ -230,6 +238,7 @@
    "gog": "game/niko_through_the_dream",
    "howlongtobeat": "27435",
    "igdb": "niko-through-the-dream",
+   "metacritic": "niko-through-the-dream",
    "mobygames": "208622",
    "pcgamingwiki": "Niko:_Through_the_Dream",
    "steam": "296550"
@@ -247,6 +256,7 @@
    "epic": "far-changing-tides",
    "howlongtobeat": "94066",
    "igdb": "far-changing-tides",
+   "metacritic": "far-changing-tides",
    "mobygames": "180604",
    "pcgamingwiki": "FAR:_Changing_Tides",
    "steam": "1570010"
@@ -258,6 +268,7 @@
   "ids": {
    "howlongtobeat": "106196",
    "igdb": "rhythm-fighter",
+   "metacritic": "rhythm-fighter",
    "mobygames": "146068",
    "steam": "1198400"
   },
@@ -314,6 +325,7 @@
  {
   "ids": {
    "igdb": "8-ball-pocket",
+   "metacritic": "8-ball-pocket",
    "steam": "2311510"
   },
   "label_en": "8-Ball Pocket",
@@ -325,6 +337,7 @@
    "gog": "game/horticular_build_a_garden_attract_wildlife",
    "howlongtobeat": "150236",
    "igdb": "horticular",
+   "pcgamingwiki": "Horticular",
    "steam": "1928540"
   },
   "label_en": "Horticular",
@@ -416,6 +429,7 @@
    "gog": "game/coffee_talk_episode_2_hibiscus_butterfly",
    "howlongtobeat": "106984",
    "igdb": "coffee-talk-episode-2-hibiscus-and-butterfly",
+   "metacritic": "coffee-talk-episode-2-hibiscus-and-butterfly",
    "mobygames": "201980",
    "pcgamingwiki": "Coffee_Talk_Episode_2:_Hibiscus_&_Butterfly",
    "steam": "1663220"

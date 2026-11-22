@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9396",
    "igdb": "super-monkey-ball",
+   "metacritic": "super-monkey-ball",
    "mobygames": "5502"
   },
   "label_en": "Super Monkey Ball",
@@ -23,6 +24,7 @@
   "ids": {
    "gog": "game/wing_commander_prophecy",
    "igdb": "wing-commander-prophecy",
+   "metacritic": "wing-commander-prophecy",
    "mobygames": "486",
    "pcgamingwiki": "Wing_Commander:_Prophecy",
    "steam": "3067120"
@@ -84,6 +86,7 @@
   "ids": {
    "howlongtobeat": "12426",
    "igdb": "phantasy-star-online",
+   "metacritic": "phantasy-star-online",
    "mobygames": "3573"
   },
   "label_en": "Phantasy Star Online",
@@ -94,6 +97,7 @@
   "ids": {
    "howlongtobeat": "2400",
    "igdb": "def-jam-fight-for-ny",
+   "metacritic": "def-jam-fight-for-ny",
    "mobygames": "15047"
   },
   "label_en": "Def Jam",
@@ -104,6 +108,7 @@
   "ids": {
    "howlongtobeat": "1090",
    "igdb": "black-white-2",
+   "metacritic": "black-white-2",
    "mobygames": "19486",
    "pcgamingwiki": "Black_&_White_2"
   },
@@ -138,6 +143,7 @@
    "gog": "game/ghost_master",
    "howlongtobeat": "3912",
    "igdb": "ghost-master",
+   "metacritic": "ghost-master-2003",
    "mobygames": "9400",
    "pcgamingwiki": "Ghost_Master",
    "steam": "6200"
@@ -166,6 +172,7 @@
   "enwiki": "Arena Football (2006 video game)",
   "ids": {
    "igdb": "arena-football",
+   "metacritic": "arena-football-2006",
    "mobygames": "26449"
   },
   "label_en": "Arena Football",
@@ -230,6 +237,7 @@
   "ids": {
    "howlongtobeat": "7470",
    "igdb": "quantz",
+   "metacritic": "quantz",
    "mobygames": "42269",
    "pcgamingwiki": "Quantz",
    "steam": "37800"
@@ -242,6 +250,7 @@
   "ids": {
    "howlongtobeat": "5741",
    "igdb": "maximo-vs-army-of-zin",
+   "metacritic": "maximo-vs-army-of-zin",
    "mobygames": "12040"
   },
   "label_en": "Maximo vs. Army of Zin",
@@ -259,6 +268,7 @@
   "ids": {
    "howlongtobeat": "41848",
    "igdb": "let-it-die",
+   "metacritic": "let-it-die",
    "mobygames": "87547",
    "pcgamingwiki": "Let_It_Die",
    "steam": "794600"
@@ -284,6 +294,7 @@
   "enwiki": "Sonic Boom: Shattered Crystal",
   "ids": {
    "igdb": "sonic-boom-shattered-crystal",
+   "metacritic": "sonic-boom-shattered-crystal",
    "mobygames": "84858"
   },
   "label_en": "Sonic Boom: Shattered Crystal",
@@ -325,6 +336,7 @@
    "gog": "game/ghost_1_0",
    "howlongtobeat": "37834",
    "igdb": "ghost-1-dot-0",
+   "metacritic": "ghost-10",
    "mobygames": "89071",
    "pcgamingwiki": "Ghost_1.0",
    "steam": "463270"
@@ -338,6 +350,7 @@
    "gog": "game/the_sexy_brutale",
    "howlongtobeat": "43037",
    "igdb": "the-sexy-brutale",
+   "metacritic": "the-sexy-brutale",
    "mobygames": "86755",
    "pcgamingwiki": "The_Sexy_Brutale",
    "steam": "552590"
@@ -359,6 +372,7 @@
   "ids": {
    "howlongtobeat": "46557",
    "igdb": "mirage-arcane-warfare",
+   "metacritic": "mirage-arcane-warfare",
    "mobygames": "89424",
    "pcgamingwiki": "Mirage:_Arcane_Warfare",
    "steam": "368420"
@@ -374,6 +388,7 @@
  {
   "enwiki": "Active Shooter",
   "ids": {
+   "metacritic": "active-shooter",
    "mobygames": "245289",
    "pcgamingwiki": "Standoff",
    "steam": "866890"
@@ -427,6 +442,7 @@
  {
   "ids": {
    "igdb": "reball--1",
+   "metacritic": "reball",
    "mobygames": "189392",
    "steam": "1646600"
   },
@@ -446,6 +462,7 @@
    "epic": "penko-park-9b97cf",
    "howlongtobeat": "81535",
    "igdb": "penko-park",
+   "metacritic": "penko-park",
    "mobygames": "192248",
    "pcgamingwiki": "Penko_Park",
    "steam": "852090"
@@ -484,6 +501,7 @@
   "ids": {
    "howlongtobeat": "120328",
    "igdb": "i-commissioned-some-bees-6",
+   "metacritic": "i-commissioned-some-bees-6",
    "mobygames": "211708",
    "pcgamingwiki": "I_commissioned_some_bees_6",
    "steam": "2087480"
@@ -801,6 +819,7 @@
   "ids": {
    "howlongtobeat": "48219",
    "igdb": "icy-frostbite-edition",
+   "metacritic": "icy-frostbite-edition",
    "mobygames": "101669",
    "pcgamingwiki": "ICY:_Frostbite_Edition",
    "steam": "680480"

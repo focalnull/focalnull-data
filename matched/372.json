@@ -37,6 +37,7 @@
   "enwiki": "Football Manager 2005",
   "ids": {
    "igdb": "football-manager-2005",
+   "metacritic": "worldwide-soccer-manager-2005",
    "mobygames": "21662",
    "pcgamingwiki": "Football_Manager_2005"
   },
@@ -274,6 +275,7 @@
    "gog": "game/call_of_cthulhu",
    "howlongtobeat": "62073",
    "igdb": "call-of-cthulhu",
+   "metacritic": "call-of-cthulhu-the-official-video-game",
    "mobygames": "116082",
    "pcgamingwiki": "Call_of_Cthulhu:_The_Official_Video_Game",
    "steam": "399810"
@@ -334,6 +336,7 @@
    "gog": "game/hell_architect",
    "howlongtobeat": "97141",
    "igdb": "hell-architect",
+   "metacritic": "hell-architect",
    "mobygames": "169525",
    "pcgamingwiki": "Hell_Architect",
    "steam": "1063980"
@@ -345,6 +348,7 @@
   "ids": {
    "howlongtobeat": "70731",
    "igdb": "tamarin",
+   "metacritic": "tamarin",
    "mobygames": "139654",
    "pcgamingwiki": "Tamarin",
    "steam": "1064840"
@@ -408,6 +412,7 @@
    "epic": "still-wakes-the-deep-698c81",
    "howlongtobeat": "129960",
    "igdb": "still-wakes-the-deep",
+   "metacritic": "still-wakes-the-deep",
    "mobygames": "225982",
    "pcgamingwiki": "Still_Wakes_the_Deep",
    "steam": "1622910"
@@ -654,6 +659,7 @@
    "epic": "commandos-origins-ec78ba",
    "howlongtobeat": "138798",
    "igdb": "commandos-origins",
+   "metacritic": "commandos-origins",
    "mobygames": "240248",
    "pcgamingwiki": "Commandos:_Origins",
    "steam": "1479730"
@@ -707,6 +713,7 @@
   "ids": {
    "howlongtobeat": "50237",
    "igdb": "shadow-bug",
+   "metacritic": "shadow-bug",
    "mobygames": "105414",
    "pcgamingwiki": "Shadow_Bug",
    "steam": "656550"
@@ -1118,6 +1125,7 @@
  {
   "ids": {
    "igdb": "crasher",
+   "pcgamingwiki": "Crasher",
    "steam": "90800"
   },
   "label_en": "Crasher",

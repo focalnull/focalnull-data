@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "5777",
    "igdb": "medal-of-honor-airborne",
+   "metacritic": "medal-of-honor-airborne",
    "mobygames": "30102",
    "pcgamingwiki": "Medal_of_Honor:_Airborne",
    "steam": "24840"
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "4860",
    "igdb": "joint-operations-typhoon-rising",
+   "metacritic": "joint-operations-typhoon-rising",
    "mobygames": "15934",
    "pcgamingwiki": "Joint_Operations:_Typhoon_Rising",
    "steam": "32690"
@@ -61,6 +63,7 @@
   "enwiki": "Godzilla: Destroy All Monsters Melee",
   "ids": {
    "igdb": "godzilla-destroy-all-monsters-melee",
+   "metacritic": "godzilla-destroy-all-monsters-melee",
    "mobygames": "7452"
   },
   "label_en": "Godzilla: Destroy All Monsters Melee",
@@ -70,6 +73,7 @@
   "enwiki": "Dragon Ball Z: Burst Limit",
   "ids": {
    "igdb": "dragon-ball-z-burst-limit",
+   "metacritic": "dragon-ball-z-burst-limit",
    "mobygames": "34992"
   },
   "label_en": "Dragon Ball Z: Burst Limit",
@@ -90,6 +94,7 @@
    "gog": "game/aquanox",
    "howlongtobeat": "530",
    "igdb": "aquanox",
+   "metacritic": "aquanox",
    "mobygames": "5169",
    "pcgamingwiki": "AquaNox",
    "steam": "39630"
@@ -120,6 +125,7 @@
   "enwiki": "Gangstar 2: Kings of L.A.",
   "ids": {
    "igdb": "gangstar-2-kings-of-la",
+   "metacritic": "gangstar-2-kings-of-la",
    "mobygames": "88174"
   },
   "label_en": "Gangstar 2: Kings of L.A.",
@@ -159,7 +165,8 @@
   "enwiki": "Rubik's Puzzle World",
   "ids": {
    "howlongtobeat": "68546",
-   "igdb": "rubik-s-puzzle-world"
+   "igdb": "rubik-s-puzzle-world",
+   "metacritic": "rubiks-world"
   },
   "label_en": "Rubik's Puzzle World",
   "wikidata": "Q7376113"
@@ -170,6 +177,7 @@
    "gog": "game/unmechanical",
    "howlongtobeat": "10822",
    "igdb": "unmechanical",
+   "metacritic": "unmechanical",
    "mobygames": "60832",
    "pcgamingwiki": "Unmechanical",
    "steam": "211180"
@@ -195,6 +203,7 @@
  {
   "ids": {
    "igdb": "empire-four-kingdoms",
+   "metacritic": "empire--four-kingdoms",
    "mobygames": "66657"
   },
   "label_en": "Empire: Four Kingdoms",
@@ -204,6 +213,7 @@
   "enwiki": "Hired Guns: The Jagged Edge",
   "ids": {
    "igdb": "hired-guns-the-jagged-edge",
+   "metacritic": "hired-guns-the-jagged-edge",
    "mobygames": "33716",
    "pcgamingwiki": "Hired_Guns:_The_Jagged_Edge"
   },
@@ -243,6 +253,7 @@
   "ids": {
    "howlongtobeat": "45523",
    "igdb": "academagia-the-making-of-mages",
+   "metacritic": "academagia-the-making-of-mages",
    "mobygames": "87237",
    "pcgamingwiki": "Academagia:_The_Making_of_Mages",
    "steam": "533480"
@@ -254,6 +265,7 @@
   "ids": {
    "gog": "game/deadlight_directors_cut",
    "igdb": "deadlight-directors-cut",
+   "metacritic": "deadlight-directors-cut",
    "mobygames": "81147",
    "pcgamingwiki": "Deadlight:_Director's_Cut",
    "steam": "423950"
@@ -264,6 +276,7 @@
  {
   "ids": {
    "igdb": "submersed",
+   "metacritic": "submersed",
    "mobygames": "130072",
    "pcgamingwiki": "Submersed",
    "steam": "1210060"
@@ -299,6 +312,7 @@
    "epic": "dark-deity-0b08d1",
    "howlongtobeat": "94190",
    "igdb": "dark-deity",
+   "metacritic": "dark-deity",
    "mobygames": "166408",
    "pcgamingwiki": "Dark_Deity",
    "steam": "1374840"
@@ -842,6 +856,7 @@
   "ids": {
    "howlongtobeat": "158662",
    "igdb": "jumping-jazz-cats",
+   "metacritic": "jumpin-jazz-cats",
    "mobygames": "244751",
    "pcgamingwiki": "Jumping_Jazz_Cats",
    "steam": "1951780"
@@ -1167,6 +1182,7 @@
  {
   "ids": {
    "igdb": "island-359",
+   "pcgamingwiki": "Island_359",
    "steam": "476700"
   },
   "label_en": "Island 359™",
@@ -1176,6 +1192,7 @@
   "enwiki": "Order of the Sinking Star",
   "ids": {
    "igdb": "order-of-the-sinking-star",
+   "pcgamingwiki": "Order_of_the_Sinking_Star",
    "steam": "499170"
   },
   "label_en": "Order of the Sinking Star",
@@ -1186,6 +1203,7 @@
   "ids": {
    "howlongtobeat": "179976",
    "igdb": "sister-other-paranoia",
+   "metacritic": "sister-other-paranoia",
    "mobygames": "254103",
    "steam": "4240150"
   },
@@ -1206,5 +1224,9 @@
   },
   "label_en": "Japanese Dominatrixes Are the Best",
   "wikidata": "Q141481113"
+ },
+ {
+  "label_en": "Nangoku Shōnen Papuwa-kun",
+  "wikidata": "Q142204113"
  }
 ]

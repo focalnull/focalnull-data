@@ -5,6 +5,7 @@
    "gog": "game/star_wars_jedi_knight_dark_forces_ii",
    "howlongtobeat": "9086",
    "igdb": "star-wars-jedi-knight-dark-forces-ii",
+   "metacritic": "star-wars-jedi-knight-dark-forces-ii",
    "mobygames": "372",
    "pcgamingwiki": "Star_Wars:_Jedi_Knight_-_Dark_Forces_II",
    "steam": "32380"
@@ -18,6 +19,7 @@
    "epic": "anno-2070",
    "howlongtobeat": "491",
    "igdb": "anno-2070",
+   "metacritic": "anno-2070",
    "mobygames": "55366",
    "pcgamingwiki": "Anno_2070",
    "steam": "48240"
@@ -39,6 +41,7 @@
   "ids": {
    "howlongtobeat": "7749",
    "igdb": "resistance-burning-skies",
+   "metacritic": "resistance-burning-skies",
    "mobygames": "56347"
   },
   "label_en": "Resistance: Burning Skies",
@@ -68,6 +71,7 @@
   "enwiki": "Dinotopia: The Sunstone Odyssey",
   "ids": {
    "igdb": "dinotopia-the-sunstone-odyssey",
+   "metacritic": "dinotopia-the-sunstone-odyssey",
    "mobygames": "81376"
   },
   "label_en": "Dinotopia: The Sunstone Odyssey",
@@ -79,6 +83,7 @@
    "gog": "game/lego_the_lord_of_the_rings",
    "howlongtobeat": "5265",
    "igdb": "lego-the-lord-of-the-rings",
+   "metacritic": "lego-the-lord-of-the-rings",
    "mobygames": "59853",
    "pcgamingwiki": "Lego_The_Lord_of_the_Rings",
    "steam": "214510"
@@ -91,6 +96,7 @@
   "ids": {
    "howlongtobeat": "6429",
    "igdb": "nba-2k12",
+   "metacritic": "nba-2k12",
    "mobygames": "53156",
    "pcgamingwiki": "NBA_2K12",
    "steam": "201020"
@@ -127,6 +133,7 @@
   "ids": {
    "howlongtobeat": "51595",
    "igdb": "and-1-streetball",
+   "metacritic": "and-1-streetball",
    "mobygames": "22692"
   },
   "label_en": "AND 1 Streetball",
@@ -154,6 +161,7 @@
   "ids": {
    "howlongtobeat": "2521",
    "igdb": "diddy-kong-racing-ds",
+   "metacritic": "diddy-kong-racing-ds",
    "mobygames": "26746"
   },
   "label_en": "Diddy Kong Racing DS",
@@ -171,6 +179,7 @@
   "enwiki": "Mytran Wars",
   "ids": {
    "igdb": "mytran-wars",
+   "metacritic": "mytran-wars",
    "mobygames": "105746"
   },
   "label_en": "Mytran Wars",
@@ -227,6 +236,7 @@
    "gog": "game/avernum_2_crystal_souls",
    "howlongtobeat": "23695",
    "igdb": "avernum-2-crystal-souls",
+   "metacritic": "avernum-2-crystal-souls",
    "mobygames": "70954",
    "pcgamingwiki": "Avernum_2:_Crystal_Souls",
    "steam": "337850"
@@ -240,6 +250,7 @@
    "epic": "far-cry-primal",
    "howlongtobeat": "31054",
    "igdb": "far-cry-primal",
+   "metacritic": "far-cry-primal",
    "mobygames": "77262",
    "pcgamingwiki": "Far_Cry_Primal",
    "steam": "371660"
@@ -275,6 +286,7 @@
    "gog": "game/sinking_city",
    "howlongtobeat": "51111",
    "igdb": "the-sinking-city",
+   "metacritic": "the-sinking-city",
    "mobygames": "128925",
    "pcgamingwiki": "The_Sinking_City",
    "steam": "750130"
@@ -305,6 +317,7 @@
    "gog": "game/beat_cop",
    "howlongtobeat": "41028",
    "igdb": "beat-cop",
+   "metacritic": "beat-cop",
    "mobygames": "86215",
    "pcgamingwiki": "Beat_Cop",
    "steam": "461950"
@@ -322,6 +335,7 @@
  {
   "ids": {
    "igdb": "enigma-of-fear",
+   "pcgamingwiki": "Enigma_of_Fear",
    "steam": "1507580"
   },
   "label_en": "Enigma of Fear",
@@ -332,6 +346,7 @@
   "ids": {
    "howlongtobeat": "80427",
    "igdb": "treachery-in-beatdown-city",
+   "metacritic": "treachery-in-beatdown-city",
    "mobygames": "143951",
    "pcgamingwiki": "Treachery_in_Beatdown_City",
    "steam": "762180"
@@ -433,6 +448,7 @@
   "ids": {
    "howlongtobeat": "18840",
    "igdb": "obludia",
+   "metacritic": "obludia",
    "mobygames": "82079",
    "pcgamingwiki": "Obludia",
    "steam": "314290"
@@ -642,6 +658,7 @@
   "ids": {
    "howlongtobeat": "137790",
    "igdb": "spy-x-anya-operation-memories",
+   "metacritic": "spyxanya-operation-memories",
    "mobygames": "227109",
    "pcgamingwiki": "SPYxANYA:_Operation_Memories",
    "steam": "2170370"
@@ -821,6 +838,7 @@
    "gog": "game/revival_recolonization",
    "howlongtobeat": "97973",
    "igdb": "revival-recolonization",
+   "metacritic": "revival-recolonization",
    "mobygames": "205110",
    "pcgamingwiki": "Revival:_Recolonization",
    "steam": "1306770"
@@ -849,6 +867,7 @@
  {
   "ids": {
    "igdb": "horizon-zero-dawn-remastered",
+   "metacritic": "horizon-zero-dawn-remastered",
    "mobygames": "232747",
    "pcgamingwiki": "Horizon_Zero_Dawn_Remastered",
    "steam": "2561580"
@@ -1197,6 +1216,7 @@
   "ids": {
    "howlongtobeat": "172960",
    "igdb": "cinder-city",
+   "metacritic": "cinder-city",
    "steam": "4651830"
   },
   "label_en": "Cinder City",
@@ -1215,6 +1235,7 @@
   "ids": {
    "howlongtobeat": "7857",
    "igdb": "river-king-mystic-valley",
+   "metacritic": "river-king-mystic-valley",
    "mobygames": "46170"
   },
   "label_en": "River King: Mystic Valley",
@@ -1230,6 +1251,7 @@
  {
   "ids": {
    "igdb": "unraveled-tale-of-the-shipbreakers-daughter",
+   "pcgamingwiki": "Unraveled:_Tale_of_the_Shipbreaker's_Daughter",
    "steam": "341110"
   },
   "label_en": "Unraveled: Tale of the Shipbreaker's Daughter",

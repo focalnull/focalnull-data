@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9150",
    "igdb": "starcraft",
+   "metacritic": "starcraft",
    "mobygames": "378",
    "pcgamingwiki": "StarCraft"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "8819",
    "igdb": "soul-sacrifice",
+   "metacritic": "soul-sacrifice",
    "mobygames": "83477"
   },
   "label_en": "Soul Sacrifice",
@@ -42,6 +44,7 @@
   "enwiki": "Hunter Hunted (video game)",
   "ids": {
    "igdb": "hunter-hunted",
+   "metacritic": "hunter-hunted",
    "mobygames": "656"
   },
   "label_en": "Hunter Hunted",
@@ -62,6 +65,7 @@
   "ids": {
    "howlongtobeat": "7103",
    "igdb": "planetside",
+   "metacritic": "planetside",
    "mobygames": "10186",
    "pcgamingwiki": "PlanetSide"
   },
@@ -82,6 +86,7 @@
   "ids": {
    "howlongtobeat": "3443",
    "igdb": "fifa-06-road-to-fifa-world-cup",
+   "metacritic": "fifa-06-road-to-fifa-world-cup",
    "mobygames": "19347"
   },
   "label_en": "FIFA 06: Road to FIFA World Cup",
@@ -128,6 +133,7 @@
    "gog": "game/brigade_e5_new_jagged_union",
    "howlongtobeat": "17834",
    "igdb": "brigade-e5-new-jagged-union",
+   "metacritic": "brigade-e5-new-jagged-union",
    "mobygames": "26921",
    "pcgamingwiki": "Brigade_E5:_New_Jagged_Union",
    "steam": "296210"
@@ -149,6 +155,7 @@
   "ids": {
    "howlongtobeat": "20602",
    "igdb": "echelon-wind-warriors",
+   "metacritic": "echelon-wind-warriors",
    "mobygames": "13920",
    "pcgamingwiki": "Echelon:_Wind_Warriors",
    "steam": "311100"
@@ -200,6 +207,7 @@
   "enwiki": "Law & Order: Double or Nothing",
   "ids": {
    "igdb": "law-and-order-ii-double-or-nothing",
+   "metacritic": "law-and-order-ii-double-or-nothing",
    "mobygames": "14416"
   },
   "label_en": "Law & Order: Double or Nothing",
@@ -217,6 +225,7 @@
   "enwiki": "Your Shape: Fitness Evolved",
   "ids": {
    "igdb": "your-shape-fitness-evolved",
+   "metacritic": "your-shape-fitness-evolved",
    "mobygames": "49709"
   },
   "label_en": "Your Shape: Fitness Evolved",
@@ -254,6 +263,7 @@
    "epic": "hitman",
    "howlongtobeat": "26831",
    "igdb": "hitman",
+   "metacritic": "hitman",
    "mobygames": "85180",
    "pcgamingwiki": "Hitman",
    "steam": "236870"
@@ -299,6 +309,7 @@
  {
   "ids": {
    "igdb": "disneys-atlantis-the-lost-empire",
+   "metacritic": "disneys-atlantis-the-lost-empire-2001",
    "mobygames": "48824"
   },
   "label_en": "Atlantis: The Lost Empire",
@@ -327,6 +338,7 @@
   "ids": {
    "howlongtobeat": "28629",
    "igdb": "to-be-or-not-to-be",
+   "metacritic": "ryan-norths-to-be-or-not-to-be",
    "mobygames": "89673",
    "pcgamingwiki": "To_Be_or_Not_To_Be",
    "steam": "324710"
@@ -392,6 +404,7 @@
   "ids": {
    "howlongtobeat": "47548",
    "igdb": "a-hole-new-world",
+   "metacritic": "a-hole-new-world",
    "mobygames": "88965",
    "pcgamingwiki": "A_Hole_New_World",
    "steam": "434160"
@@ -505,6 +518,7 @@
   "ids": {
    "howlongtobeat": "113547",
    "igdb": "fire-emblem-engage",
+   "metacritic": "fire-emblem-engage",
    "mobygames": "198202"
   },
   "label_en": "Fire Emblem Engage",
@@ -524,6 +538,7 @@
   "ids": {
    "howlongtobeat": "5330",
    "igdb": "little-racers-street",
+   "metacritic": "little-racers-street",
    "mobygames": "66527",
    "pcgamingwiki": "Little_Racers_Street",
    "steam": "262690"
@@ -540,6 +555,7 @@
    "epic": "soccer-story-c2fe73",
    "howlongtobeat": "116749",
    "igdb": "soccer-story",
+   "metacritic": "soccer-story",
    "mobygames": "195408",
    "pcgamingwiki": "Soccer_Story",
    "steam": "1912380"
@@ -562,7 +578,8 @@
   "enwiki": "Quake Arena Arcade",
   "ids": {
    "howlongtobeat": "15263",
-   "igdb": "quake-arena-arcade"
+   "igdb": "quake-arena-arcade",
+   "metacritic": "quake-arena-arcade"
   },
   "label_en": "Quake Arena Arcade",
   "wikidata": "Q120897929"
@@ -1012,6 +1029,7 @@
  {
   "ids": {
    "igdb": "qual",
+   "metacritic": "qual",
    "steam": "1237170"
   },
   "label_en": "Qual",
@@ -1040,6 +1058,7 @@
    "gog": "game/keeper",
    "howlongtobeat": "44583",
    "igdb": "keeper--5",
+   "metacritic": "keeper",
    "pcgamingwiki": "Keeper",
    "steam": "3043580"
   },
@@ -1075,6 +1094,7 @@
   "ids": {
    "howlongtobeat": "163535",
    "igdb": "peak--1",
+   "metacritic": "peak",
    "mobygames": "243696",
    "pcgamingwiki": "PEAK",
    "steam": "3527290"

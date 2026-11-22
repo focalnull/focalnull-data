@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9830",
    "igdb": "the-darkness-ii",
+   "metacritic": "the-darkness-ii",
    "mobygames": "55230",
    "pcgamingwiki": "The_Darkness_II",
    "steam": "67370"
@@ -27,6 +28,7 @@
    "gog": "game/fallout_new_vegas_ultimate_edition",
    "howlongtobeat": "3351",
    "igdb": "fallout-new-vegas",
+   "metacritic": "fallout-new-vegas",
    "mobygames": "48717",
    "pcgamingwiki": "Fallout:_New_Vegas",
    "steam": "22380"
@@ -59,6 +61,7 @@
   "enwiki": "Lost in Blue (video game)",
   "ids": {
    "igdb": "lost-in-blue",
+   "metacritic": "lost-in-blue",
    "mobygames": "22260"
   },
   "label_en": "Lost in Blue",
@@ -97,6 +100,7 @@
   "enwiki": "1893: A World's Fair Mystery",
   "ids": {
    "igdb": "1893-a-worlds-fair-mystery",
+   "metacritic": "1893-a-worlds-fair-mystery",
    "mobygames": "20633"
   },
   "label_en": "1893: A World's Fair Mystery",
@@ -126,6 +130,7 @@
    "gog": "game/omerta_city_of_gangsters",
    "howlongtobeat": "6731",
    "igdb": "omerta-city-of-gangsters--1",
+   "metacritic": "omerta-city-of-gangsters",
    "mobygames": "60795",
    "pcgamingwiki": "Omerta_-_City_of_Gangsters",
    "steam": "208520"
@@ -138,6 +143,7 @@
   "ids": {
    "howlongtobeat": "11532",
    "igdb": "zeit-2",
+   "metacritic": "zeit-squared",
    "mobygames": "50394",
    "pcgamingwiki": "Zeit²",
    "steam": "33390"
@@ -200,6 +206,7 @@
   "ids": {
    "howlongtobeat": "27619",
    "igdb": "secrets-of-raetikon",
+   "metacritic": "secrets-of-raetikon",
    "mobygames": "66685",
    "pcgamingwiki": "Secrets_of_Rætikon",
    "steam": "246680"
@@ -212,6 +219,7 @@
   "ids": {
    "howlongtobeat": "22466",
    "igdb": "wwe-2k15",
+   "metacritic": "wwe-2k15",
    "mobygames": "73939",
    "pcgamingwiki": "WWE_2K15",
    "steam": "240460"
@@ -224,6 +232,7 @@
   "ids": {
    "howlongtobeat": "13601",
    "igdb": "the-impossible-game",
+   "metacritic": "the-impossible-game",
    "mobygames": "46828",
    "pcgamingwiki": "The_Impossible_Game",
    "steam": "251630"
@@ -236,6 +245,7 @@
   "ids": {
    "howlongtobeat": "45539",
    "igdb": "tumbleseed",
+   "metacritic": "tumbleseed",
    "mobygames": "87888",
    "pcgamingwiki": "TumbleSeed",
    "steam": "457890"
@@ -257,6 +267,7 @@
   "ids": {
    "howlongtobeat": "45016",
    "igdb": "new-frontier-days-founding-pioneers",
+   "metacritic": "new-frontier-days-founding-pioneers",
    "mobygames": "85929",
    "pcgamingwiki": "New_Frontier_Days:_Founding_Pioneers",
    "steam": "570790"
@@ -270,6 +281,7 @@
    "gog": "game/four_last_things",
    "howlongtobeat": "43961",
    "igdb": "four-last-things",
+   "metacritic": "four-last-things",
    "mobygames": "84450",
    "pcgamingwiki": "Four_Last_Things",
    "steam": "503400"
@@ -284,6 +296,7 @@
    "gog": "game/basingstoke",
    "howlongtobeat": "56039",
    "igdb": "basingstoke",
+   "metacritic": "basingstoke",
    "mobygames": "119148",
    "pcgamingwiki": "Basingstoke",
    "steam": "336940"
@@ -316,6 +329,7 @@
   "ids": {
    "howlongtobeat": "60454",
    "igdb": "pro-evolution-soccer-2019",
+   "metacritic": "pro-evolution-soccer-2019",
    "mobygames": "108955",
    "pcgamingwiki": "Pro_Evolution_Soccer_2019",
    "steam": "770240"
@@ -327,6 +341,7 @@
   "ids": {
    "howlongtobeat": "6384",
    "igdb": "naruto-powerful-shippuden",
+   "metacritic": "naruto-powerful-shippuden",
    "mobygames": "84824"
   },
   "label_en": "Naruto Powerful Shippūden",
@@ -400,6 +415,7 @@
   "enwiki": "Ducati World Racing Challenge",
   "ids": {
    "igdb": "ducati-world-racing-challenge",
+   "metacritic": "ducati-world-racing-challenge",
    "mobygames": "32743"
   },
   "label_en": "Ducati World Racing Challenge",
@@ -430,6 +446,7 @@
   "ids": {
    "howlongtobeat": "95555",
    "igdb": "f1-2021",
+   "metacritic": "f1-2021",
    "mobygames": "167678",
    "pcgamingwiki": "F1_2021",
    "steam": "1134570"
@@ -452,6 +469,7 @@
   "ids": {
    "howlongtobeat": "95040",
    "igdb": "ayo-the-clown",
+   "metacritic": "ayo-the-clown",
    "mobygames": "168429",
    "pcgamingwiki": "Ayo_the_Clown",
    "steam": "1114900"
@@ -530,6 +548,7 @@
   "ids": {
    "howlongtobeat": "101280",
    "igdb": "frog-detective-3-corruption-at-cowboy-county",
+   "metacritic": "frog-detective-3-corruption-at-cowboy-county",
    "mobygames": "194097",
    "pcgamingwiki": "Frog_Detective_3:_Corruption_at_Cowboy_County",
    "steam": "1171320"
@@ -568,7 +587,8 @@
  },
  {
   "ids": {
-   "igdb": "grimgrimoire-oncemore"
+   "igdb": "grimgrimoire-oncemore",
+   "metacritic": "grimgrimoire"
   },
   "label_en": "GrimGrimoire OnceMore",
   "wikidata": "Q115788749"
@@ -588,6 +608,7 @@
    "epic": "gift-of-parthax-67ee4f",
    "howlongtobeat": "71993",
    "igdb": "gift-of-parthax",
+   "metacritic": "gift-of-parthax",
    "mobygames": "133587",
    "pcgamingwiki": "Gift_of_Parthax",
    "steam": "795610"
@@ -721,6 +742,7 @@
    "gog": "game/company_of_crime",
    "howlongtobeat": "83182",
    "igdb": "company-of-crime",
+   "metacritic": "company-of-crime",
    "mobygames": "149012",
    "pcgamingwiki": "Company_of_Crime",
    "steam": "1229420"
@@ -1000,6 +1022,9 @@
   "wikidata": "Q124382749"
  },
  {
+  "ids": {
+   "metacritic": "dragon-saikyou-ou-zukan-battle-colosseum"
+  },
   "label_en": "Dragon Saikyō Ō Zukan: Battle Colosseum",
   "wikidata": "Q125341749"
  },
@@ -1021,6 +1046,7 @@
  {
   "ids": {
    "igdb": "scribble",
+   "metacritic": "scribble-2016",
    "mobygames": "101506"
   },
   "label_en": "Scribble",
@@ -1078,6 +1104,7 @@
   "ids": {
    "howlongtobeat": "45680",
    "igdb": "pic-a-pix-color",
+   "metacritic": "pic-a-pix-color",
    "mobygames": "91846"
   },
   "label_en": "Pic-a-Pix Colour",
@@ -1097,6 +1124,7 @@
   "ids": {
    "howlongtobeat": "140804",
    "igdb": "kaiserpunk",
+   "metacritic": "kaiserpunk",
    "pcgamingwiki": "Kaiserpunk",
    "steam": "2012190"
   },

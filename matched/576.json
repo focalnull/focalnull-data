@@ -6,6 +6,7 @@
    "gog": "game/faces_of_war",
    "howlongtobeat": "3322",
    "igdb": "faces-of-war",
+   "metacritic": "faces-of-war",
    "mobygames": "24415",
    "pcgamingwiki": "Faces_of_War",
    "steam": "289300"
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "6868",
    "igdb": "pacific-storm",
+   "metacritic": "pacific-storm",
    "mobygames": "33538",
    "pcgamingwiki": "Pacific_Storm",
    "steam": "11250"
@@ -38,6 +40,7 @@
   "enwiki": "Sonic Rivals 2",
   "ids": {
    "igdb": "sonic-rivals-2",
+   "metacritic": "sonic-rivals-2",
    "mobygames": "46825"
   },
   "label_en": "Sonic Rivals 2",
@@ -46,7 +49,8 @@
  {
   "enwiki": "Let's Catch",
   "ids": {
-   "igdb": "lets-catch"
+   "igdb": "lets-catch",
+   "metacritic": "lets-catch"
   },
   "label_en": "Let's Catch",
   "wikidata": "Q3284576"
@@ -56,6 +60,7 @@
   "ids": {
    "howlongtobeat": "8033",
    "igdb": "rusty-hearts",
+   "metacritic": "rusty-hearts",
    "pcgamingwiki": "Rusty_Hearts",
    "steam": "36630"
   },
@@ -99,6 +104,7 @@
   "ids": {
    "howlongtobeat": "7985",
    "igdb": "rondo-of-swords",
+   "metacritic": "rondo-of-swords",
    "mobygames": "44334"
   },
   "label_en": "Rondo of Swords",
@@ -152,6 +158,7 @@
   "ids": {
    "howlongtobeat": "26404",
    "igdb": "just-cause-3",
+   "metacritic": "just-cause-3",
    "mobygames": "76383",
    "pcgamingwiki": "Just_Cause_3",
    "steam": "225540"
@@ -173,6 +180,7 @@
    "gog": "game/deathtrap",
    "howlongtobeat": "21681",
    "igdb": "deathtrap",
+   "metacritic": "world-of-van-helsing-deathtrap",
    "mobygames": "92350",
    "pcgamingwiki": "Deathtrap",
    "steam": "310510"
@@ -184,6 +192,7 @@
   "enwiki": "Matterfall",
   "ids": {
    "igdb": "matterfall",
+   "metacritic": "matterfall",
    "mobygames": "94482"
   },
   "label_en": "Matterfall",
@@ -224,6 +233,7 @@
   "ids": {
    "howlongtobeat": "47456",
    "igdb": "last-dream-world-unknown",
+   "metacritic": "last-dream-world-unknown",
    "mobygames": "162792",
    "pcgamingwiki": "Last_Dream:_World_Unknown",
    "steam": "448170"
@@ -250,6 +260,7 @@
    "gog": "game/narita_boy",
    "howlongtobeat": "88140",
    "igdb": "narita-boy",
+   "metacritic": "narita-boy",
    "mobygames": "160697",
    "pcgamingwiki": "Narita_Boy",
    "steam": "1069530"
@@ -259,6 +270,7 @@
  },
  {
   "ids": {
+   "metacritic": "over-the-hedge-hammy-goes-nuts",
    "mobygames": "27565"
   },
   "label_en": "Over the Hedge: Hammy Goes Nuts!",
@@ -413,6 +425,7 @@
    "gog": "game/black_legend",
    "howlongtobeat": "87687",
    "igdb": "black-legend",
+   "metacritic": "black-legend",
    "mobygames": "161221",
    "pcgamingwiki": "Black_Legend",
    "steam": "1094730"
@@ -703,6 +716,7 @@
   "ids": {
    "howlongtobeat": "40874",
    "igdb": "slayaway-camp",
+   "metacritic": "slayaway-camp",
    "mobygames": "81359",
    "pcgamingwiki": "Slayaway_Camp",
    "steam": "530390"

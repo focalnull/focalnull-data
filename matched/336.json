@@ -10,6 +10,7 @@
    "gog": "game/far_cry_2_fortunes_edition",
    "howlongtobeat": "3377",
    "igdb": "far-cry-2",
+   "metacritic": "far-cry-2",
    "mobygames": "37038",
    "pcgamingwiki": "Far_Cry_2",
    "steam": "19900"
@@ -41,6 +42,7 @@
    "gog": "game/secret_files_3",
    "howlongtobeat": "8209",
    "igdb": "secret-files-3",
+   "metacritic": "secret-files-3",
    "mobygames": "62112",
    "pcgamingwiki": "Secret_Files_3",
    "steam": "216210"
@@ -53,6 +55,7 @@
   "ids": {
    "howlongtobeat": "22906",
    "igdb": "resident-evil--1",
+   "metacritic": "resident-evil-hd-remaster",
    "mobygames": "12847",
    "pcgamingwiki": "Resident_Evil_HD_Remaster",
    "steam": "304240"
@@ -65,6 +68,7 @@
   "ids": {
    "howlongtobeat": "2326",
    "igdb": "dead-rising",
+   "metacritic": "dead-rising",
    "mobygames": "23514",
    "pcgamingwiki": "Dead_Rising",
    "steam": "427190"
@@ -78,6 +82,7 @@
    "gog": "game/hidden_dangerous_2_courage_under_fire",
    "howlongtobeat": "4454",
    "igdb": "hidden-dangerous-2",
+   "metacritic": "hidden-and-dangerous-2",
    "mobygames": "11982",
    "pcgamingwiki": "Hidden_&_Dangerous_2",
    "steam": "703320"
@@ -141,7 +146,8 @@
  {
   "enwiki": "Cabela's GrandSlam Hunting: 2004 Trophies",
   "ids": {
-   "igdb": "cabelas-grandslam-hunting-2004-trophies"
+   "igdb": "cabelas-grandslam-hunting-2004-trophies",
+   "metacritic": "cabelas-grandslam-hunting-2004-trophies"
   },
   "label_en": "Cabela's GrandSlam Hunting: 2004 Trophies",
   "wikidata": "Q5015336"
@@ -215,6 +221,7 @@
   "ids": {
    "howlongtobeat": "62538",
    "igdb": "mushroom-wars-2",
+   "metacritic": "mushroom-wars-2",
    "mobygames": "96890",
    "pcgamingwiki": "Mushroom_Wars_2",
    "steam": "457730"
@@ -260,6 +267,7 @@
   "ids": {
    "howlongtobeat": "44316",
    "igdb": "hiragana-pixel-party",
+   "metacritic": "hiragana-pixel-party",
    "mobygames": "99442",
    "pcgamingwiki": "Hiragana_Pixel_Party",
    "steam": "417310"
@@ -286,6 +294,7 @@
   "ids": {
    "howlongtobeat": "90840",
    "igdb": "in-my-shadow",
+   "metacritic": "in-my-shadow",
    "mobygames": "172772",
    "steam": "1406200"
   },
@@ -324,6 +333,7 @@
   "ids": {
    "howlongtobeat": "114785",
    "igdb": "pga-tour-2k23",
+   "metacritic": "pga-tour-2k23",
    "mobygames": "193443",
    "pcgamingwiki": "PGA_Tour_2K23",
    "steam": "1588010"
@@ -649,6 +659,7 @@
   "ids": {
    "howlongtobeat": "14556",
    "igdb": "kraven-manor",
+   "metacritic": "kraven-manor",
    "mobygames": "73718",
    "pcgamingwiki": "Kraven_Manor",
    "steam": "296630"
@@ -713,6 +724,7 @@
  {
   "ids": {
    "igdb": "spek",
+   "metacritic": "spek",
    "mobygames": "135650",
    "pcgamingwiki": "Spek."
   },
@@ -1032,7 +1044,8 @@
  {
   "ids": {
    "howlongtobeat": "175414",
-   "igdb": "junji-ito-maniac-an-infinite-gaol"
+   "igdb": "junji-ito-maniac-an-infinite-gaol",
+   "metacritic": "junji-ito-maniac-an-infinite-gaol"
   },
   "wikidata": "Q136877336"
  },
@@ -1040,6 +1053,7 @@
   "enwiki": "Taimanin Squad",
   "ids": {
    "igdb": "taimanin-squad",
+   "metacritic": "taimanin-squad",
    "steam": "4195470"
   },
   "label_en": "Taimanin Squad",

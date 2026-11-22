@@ -3,6 +3,7 @@
   "enwiki": "FIFA Street 2",
   "ids": {
    "igdb": "fifa-street-2",
+   "metacritic": "fifa-street-2",
    "mobygames": "23281"
   },
   "label_en": "FIFA Street 2",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "3854",
    "igdb": "gauntlet",
+   "metacritic": "gauntlet-1985",
    "mobygames": "1837",
    "pcgamingwiki": "Gauntlet"
   },
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "23824",
    "igdb": "vietcong-2",
+   "metacritic": "vietcong-2",
    "mobygames": "21527",
    "pcgamingwiki": "Vietcong_2"
   },
@@ -66,6 +69,7 @@
   "ids": {
    "howlongtobeat": "9506",
    "igdb": "sword-of-mana",
+   "metacritic": "sword-of-mana",
    "mobygames": "11202"
   },
   "label_en": "Sword of Mana",
@@ -91,6 +95,9 @@
   "wikidata": "Q2985758"
  },
  {
+  "ids": {
+   "metacritic": "you-dont-know-jack-6-the-lost-gold"
+  },
   "label_en": "You Don't Know Jack 6: The Lost Gold",
   "wikidata": "Q3091758"
  },
@@ -173,6 +180,7 @@
   "enwiki": "Nike+ Kinect Training",
   "ids": {
    "igdb": "nike-plus-kinect-training",
+   "metacritic": "nike-kinect-training",
    "mobygames": "58486"
   },
   "label_en": "Nike+ Kinect Training",
@@ -272,6 +280,7 @@
    "gog": "game/larva_mortus",
    "howlongtobeat": "5182",
    "igdb": "larva-mortus",
+   "metacritic": "larva-mortus",
    "mobygames": "35368",
    "pcgamingwiki": "Larva_Mortus",
    "steam": "11340"
@@ -294,6 +303,7 @@
    "gog": "game/pro_pinball_fantastic_journey",
    "howlongtobeat": "20618",
    "igdb": "pro-pinball-fantastic-journey",
+   "metacritic": "pro-pinball-fantastic-journey",
    "mobygames": "705",
    "pcgamingwiki": "Pro_Pinball:_Fantastic_Journey"
   },
@@ -305,6 +315,7 @@
   "ids": {
    "howlongtobeat": "26060",
    "igdb": "bloodsports-dot-tv",
+   "metacritic": "bloodsportstv",
    "mobygames": "83213",
    "pcgamingwiki": "Bloodsports.TV",
    "steam": "336420"
@@ -350,7 +361,8 @@
  {
   "enwiki": "Just Sing",
   "ids": {
-   "igdb": "just-sing"
+   "igdb": "just-sing",
+   "metacritic": "just-sing"
   },
   "label_en": "Just Sing",
   "wikidata": "Q26164758"
@@ -363,6 +375,7 @@
   "enwiki": "MLB Slugfest 2004",
   "ids": {
    "igdb": "mlb-slugfest-2004",
+   "metacritic": "mlb-slugfest-20-04",
    "mobygames": "9635"
   },
   "label_en": "MLB Slugfest 20-04",
@@ -397,6 +410,7 @@
    "gog": "game/metal_hellsinger",
    "howlongtobeat": "79897",
    "igdb": "metal-hellsinger",
+   "metacritic": "metal-hellsinger",
    "mobygames": "191054",
    "pcgamingwiki": "Metal:_Hellsinger",
    "steam": "1061910"
@@ -409,6 +423,7 @@
   "ids": {
    "howlongtobeat": "70032",
    "igdb": "ice-age-scrats-nutty-adventure",
+   "metacritic": "ice-age-scrats-nutty-adventure",
    "mobygames": "136152",
    "pcgamingwiki": "Ice_Age:_Scrat's_Nutty_Adventure",
    "steam": "751060"
@@ -431,6 +446,7 @@
    "epic": "stranger-of-paradise-final-fantasy-origin",
    "howlongtobeat": "93954",
    "igdb": "stranger-of-paradise-final-fantasy-origin",
+   "metacritic": "stranger-of-paradise-final-fantasy-origin",
    "mobygames": "181690",
    "pcgamingwiki": "Stranger_of_Paradise:_Final_Fantasy_Origin",
    "steam": "1358700"
@@ -645,6 +661,7 @@
   "ids": {
    "howlongtobeat": "76604",
    "igdb": "buildings-have-feelings-too",
+   "metacritic": "buildings-have-feelings-too",
    "mobygames": "162936",
    "pcgamingwiki": "Buildings_Have_Feelings_Too!",
    "steam": "945740"
@@ -915,6 +932,7 @@
   "ids": {
    "howlongtobeat": "48914",
    "igdb": "defenders-of-time",
+   "metacritic": "defenders-of-time",
    "mobygames": "103691",
    "pcgamingwiki": "Defenders_of_Time",
    "steam": "317330"
@@ -957,6 +975,7 @@
   "ids": {
    "howlongtobeat": "7818",
    "igdb": "rigonauts",
+   "metacritic": "rigonauts",
    "mobygames": "92823",
    "pcgamingwiki": "Rigonauts",
    "steam": "214100"

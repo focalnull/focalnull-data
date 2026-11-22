@@ -117,6 +117,7 @@
   "enwiki": "Blade (2000 video game)",
   "ids": {
    "igdb": "blade",
+   "metacritic": "blade-2000",
    "mobygames": "4189"
   },
   "label_en": "Blade",
@@ -234,6 +235,7 @@
  {
   "ids": {
    "igdb": "mma-simulator",
+   "metacritic": "mma-simulator",
    "pcgamingwiki": "MMA_Simulator",
    "steam": "913820"
   },
@@ -262,6 +264,7 @@
    "epic": "story-of-seasons-friends-of-mineral-town",
    "howlongtobeat": "71741",
    "igdb": "story-of-seasons-friends-of-mineral-town",
+   "metacritic": "story-of-seasons-friends-of-mineral-town",
    "mobygames": "147787",
    "pcgamingwiki": "Story_of_Seasons:_Friends_of_Mineral_Town",
    "steam": "978780"
@@ -273,6 +276,7 @@
   "ids": {
    "howlongtobeat": "60629",
    "igdb": "snow-moto-racing-freedom",
+   "metacritic": "snow-moto-racing-freedom",
    "mobygames": "86760",
    "pcgamingwiki": "Snow_Moto_Racing_Freedom",
    "steam": "587400"
@@ -286,6 +290,7 @@
    "epic": "assassins-creed-valhalla",
    "howlongtobeat": "77729",
    "igdb": "assassins-creed-valhalla",
+   "metacritic": "assassins-creed-valhalla",
    "mobygames": "153392",
    "pcgamingwiki": "Assassin's_Creed_Valhalla",
    "steam": "2208920"
@@ -306,6 +311,9 @@
  },
  {
   "enwiki": "To-Fu: The Trials of Chi",
+  "ids": {
+   "metacritic": "to-fu-the-trials-of-chi"
+  },
   "label_en": "To-Fu: The Trials of Chi",
   "wikidata": "Q106009687"
  },
@@ -313,6 +321,7 @@
   "ids": {
    "howlongtobeat": "75532",
    "igdb": "broken-lines",
+   "metacritic": "broken-lines",
    "mobygames": "141127",
    "pcgamingwiki": "Broken_Lines",
    "steam": "926580"
@@ -342,7 +351,8 @@
  {
   "enwiki": "Pokémon Violet",
   "ids": {
-   "igdb": "pokemon-violet"
+   "igdb": "pokemon-violet",
+   "metacritic": "pokemon-violet"
   },
   "label_en": "Pokémon Violet",
   "wikidata": "Q111031687"
@@ -414,7 +424,8 @@
  },
  {
   "ids": {
-   "igdb": "zoo-disc-golf"
+   "igdb": "zoo-disc-golf",
+   "metacritic": "zoo-disc-golf"
   },
   "label_en": "Zoo Disc Golf",
   "wikidata": "Q112613687"
@@ -434,6 +445,7 @@
   "ids": {
    "howlongtobeat": "49517",
    "igdb": "trivia-vault-mixed-trivia",
+   "metacritic": "trivia-vault-mixed-trivia",
    "pcgamingwiki": "Trivia_Vault:_Mixed_Trivia",
    "steam": "686550"
   },
@@ -849,6 +861,7 @@
   "enwiki": "Monster Jam Showdown",
   "ids": {
    "igdb": "monster-jam-showdown",
+   "metacritic": "monster-jam-showdown",
    "pcgamingwiki": "Monster_Jam_Showdown",
    "steam": "2350280"
   },

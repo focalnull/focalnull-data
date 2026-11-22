@@ -6,6 +6,7 @@
    "gog": "game/doom_1993",
    "howlongtobeat": "2701",
    "igdb": "doom",
+   "metacritic": "doom",
    "mobygames": "1068",
    "pcgamingwiki": "Doom_(1993)",
    "steam": "2280"
@@ -18,7 +19,9 @@
   "ids": {
    "howlongtobeat": "129788",
    "igdb": "throne-and-liberty",
+   "metacritic": "throne-and-liberty",
    "mobygames": "231444",
+   "pcgamingwiki": "THRONE_and_Liberty",
    "steam": "2429640"
   },
   "label_en": "Throne and Liberty",
@@ -40,6 +43,7 @@
    "gog": "game/resident_evil_3",
    "howlongtobeat": "7719",
    "igdb": "resident-evil-3-nemesis",
+   "metacritic": "resident-evil-3-nemesis",
    "mobygames": "3321",
    "pcgamingwiki": "Biohazard_3:_Last_Escape_(Sourcenext)",
    "steam": "4249120"
@@ -91,6 +95,7 @@
   "ids": {
    "howlongtobeat": "14607",
    "igdb": "soldner-x-himmelssturmer",
+   "metacritic": "soldner-x-himmelssturmer",
    "mobygames": "31634",
    "pcgamingwiki": "Söldner-X:_Himmelsstürmer"
   },
@@ -105,6 +110,7 @@
   "enwiki": "Disaster: Day of Crisis",
   "ids": {
    "igdb": "disaster-day-of-crisis",
+   "metacritic": "disaster-day-of-crisis",
    "mobygames": "38530"
   },
   "label_en": "Disaster: Day of Crisis",
@@ -115,6 +121,7 @@
   "ids": {
    "howlongtobeat": "25269",
    "igdb": "the-black-eyed-peas-experience",
+   "metacritic": "the-black-eyed-peas-experience",
    "mobygames": "71138"
   },
   "label_en": "The Black Eyed Peas Experience",
@@ -123,7 +130,8 @@
  {
   "enwiki": "Gravity Crash",
   "ids": {
-   "igdb": "gravity-crash-portable"
+   "igdb": "gravity-crash-portable",
+   "metacritic": "gravity-crash"
   },
   "label_en": "Gravity Crash",
   "wikidata": "Q3115784"
@@ -156,6 +164,7 @@
    "epic": "the-unfinished-swan",
    "howlongtobeat": "10243",
    "igdb": "the-unfinished-swan",
+   "metacritic": "the-unfinished-swan",
    "mobygames": "58363",
    "pcgamingwiki": "The_Unfinished_Swan",
    "steam": "1206430"
@@ -177,6 +186,7 @@
   "ids": {
    "howlongtobeat": "45134",
    "igdb": "massive-assault-network-2",
+   "metacritic": "massive-assault-network-2",
    "mobygames": "44100",
    "pcgamingwiki": "Massive_Assault_Network_2",
    "steam": "34650"
@@ -198,6 +208,7 @@
   "ids": {
    "howlongtobeat": "10872",
    "igdb": "valhalla-knights-eldar-saga",
+   "metacritic": "valhalla-knights-eldar-saga",
    "mobygames": "65918"
   },
   "label_en": "Valhalla Knights: Eldar Saga",
@@ -236,6 +247,7 @@
   "ids": {
    "howlongtobeat": "14121",
    "igdb": "hearthstone",
+   "metacritic": "hearthstone-heroes-of-warcraft",
    "mobygames": "65001",
    "pcgamingwiki": "Hearthstone"
   },
@@ -331,6 +343,7 @@
   "ids": {
    "howlongtobeat": "82113",
    "igdb": "project-cars-3",
+   "metacritic": "project-cars-3",
    "mobygames": "149693",
    "pcgamingwiki": "Project_CARS_3",
    "steam": "958400"
@@ -342,6 +355,7 @@
   "ids": {
    "howlongtobeat": "52663",
    "igdb": "morphite",
+   "metacritic": "morphite",
    "mobygames": "96133",
    "pcgamingwiki": "Morphite",
    "steam": "661740"
@@ -352,6 +366,7 @@
  {
   "ids": {
    "igdb": "wipeout-3--1",
+   "metacritic": "wipeout-3",
    "mobygames": "78553"
   },
   "label_en": "Wipeout 3",
@@ -372,6 +387,7 @@
   "ids": {
    "howlongtobeat": "14663",
    "igdb": "king-oddball",
+   "metacritic": "king-oddball",
    "mobygames": "62765",
    "pcgamingwiki": "King_Oddball",
    "steam": "525450"
@@ -527,6 +543,7 @@
    "epic": "islets-5f2670",
    "gog": "game/islets",
    "igdb": "islets",
+   "metacritic": "islets",
    "mobygames": "189828",
    "pcgamingwiki": "Islets",
    "steam": "1669420"
@@ -554,6 +571,7 @@
   "ids": {
    "howlongtobeat": "130552",
    "igdb": "nobunagas-ambition-awakening",
+   "metacritic": "nobunagas-ambition-awakening",
    "mobygames": "203134",
    "pcgamingwiki": "Nobunaga's_Ambition:_Awakening",
    "steam": "1336980"
@@ -1363,6 +1381,7 @@
  {
   "ids": {
    "igdb": "hentai-shooter-2-world-tour",
+   "pcgamingwiki": "Hentai_Shooter_2:_World_Tour",
    "steam": "1015660"
   },
   "label_en": "Hentai Shooter 2: World Tour",

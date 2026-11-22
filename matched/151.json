@@ -89,6 +89,7 @@
   "enwiki": "5 Spots Party",
   "ids": {
    "igdb": "5-spots-party",
+   "metacritic": "5-spots-party",
    "mobygames": "90564"
   },
   "label_en": "5 Spots Party",
@@ -134,6 +135,7 @@
   "enwiki": "SWAT: Global Strike Team",
   "ids": {
    "igdb": "swat-global-strike-team",
+   "metacritic": "swat-global-strike-team",
    "mobygames": "40822"
   },
   "label_en": "SWAT: Global Strike Team",
@@ -162,6 +164,7 @@
    "epic": "state-of-decay-2-juggernaut-edition",
    "howlongtobeat": "46403",
    "igdb": "state-of-decay-2",
+   "metacritic": "state-of-decay-2",
    "mobygames": "112599",
    "pcgamingwiki": "State_of_Decay_2",
    "steam": "495420"
@@ -196,6 +199,7 @@
   "ids": {
    "howlongtobeat": "41339",
    "igdb": "lethal-vr",
+   "metacritic": "lethal-vr",
    "mobygames": "83829",
    "pcgamingwiki": "Lethal_VR",
    "steam": "532270"
@@ -209,6 +213,7 @@
    "gog": "game/lair_of_the_clockwork_god",
    "howlongtobeat": "75423",
    "igdb": "lair-of-the-clockwork-god",
+   "metacritic": "lair-of-the-clockwork-god",
    "mobygames": "142809",
    "pcgamingwiki": "Lair_of_the_Clockwork_God",
    "steam": "1060600"
@@ -222,6 +227,7 @@
    "epic": "moving-out",
    "howlongtobeat": "75031",
    "igdb": "moving-out",
+   "metacritic": "moving-out",
    "mobygames": "143757",
    "pcgamingwiki": "Moving_Out",
    "steam": "996770"
@@ -232,6 +238,7 @@
  {
   "ids": {
    "igdb": "cmt-presents-karaoke-revolution-country",
+   "metacritic": "cmt-presents-karaoke-revolution-country",
    "mobygames": "30377"
   },
   "label_en": "CMT Presents: Karaoke Revolution Country",
@@ -243,6 +250,7 @@
    "gog": "game/orwells_animal_farm",
    "howlongtobeat": "81951",
    "igdb": "orwells-animal-farm",
+   "metacritic": "orwells-animal-farm",
    "mobygames": "155489",
    "pcgamingwiki": "Orwell's_Animal_Farm",
    "steam": "1398100"
@@ -277,6 +285,7 @@
   "ids": {
    "howlongtobeat": "93446",
    "igdb": "monark",
+   "metacritic": "monark",
    "mobygames": "174004",
    "pcgamingwiki": "Monark",
    "steam": "1539620"
@@ -313,6 +322,7 @@
    "epic": "nivalis-nights",
    "howlongtobeat": "106740",
    "igdb": "nivalis-nights",
+   "pcgamingwiki": "Nivalis_Nights",
    "steam": "1488490"
   },
   "label_en": "Nivalis Nights",
@@ -322,6 +332,7 @@
   "ids": {
    "howlongtobeat": "241",
    "igdb": "aero-porter",
+   "metacritic": "aero-porter",
    "mobygames": "92510"
   },
   "label_en": "Aero Porter",
@@ -331,6 +342,7 @@
   "ids": {
    "howlongtobeat": "7759",
    "igdb": "retrovirus",
+   "metacritic": "retrovirus",
    "mobygames": "64878",
    "pcgamingwiki": "Retrovirus",
    "steam": "227800"
@@ -345,6 +357,7 @@
    "gog": "game/the_entropy_centre",
    "howlongtobeat": "109185",
    "igdb": "the-entropy-centre",
+   "metacritic": "the-entropy-centre",
    "mobygames": "194574",
    "pcgamingwiki": "The_Entropy_Centre",
    "steam": "1730590"
@@ -356,6 +369,7 @@
   "ids": {
    "howlongtobeat": "63977",
    "igdb": "elevator-action-deluxe",
+   "metacritic": "elevator-action-deluxe",
    "mobygames": "60428"
   },
   "label_en": "Elevator Action Deluxe",
@@ -431,6 +445,7 @@
  {
   "ids": {
    "igdb": "spuds-unearthed",
+   "metacritic": "spuds-unearthed",
    "mobygames": "145605",
    "pcgamingwiki": "Spuds_Unearthed",
    "steam": "909570"
@@ -542,6 +557,7 @@
   "ids": {
    "howlongtobeat": "72463",
    "igdb": "monster-energy-supercross-the-official-videogame",
+   "metacritic": "monster-energy-supercross-the-official-videogame",
    "mobygames": "103166",
    "pcgamingwiki": "Monster_Energy_Supercross",
    "steam": "711750"
@@ -554,6 +570,7 @@
   "ids": {
    "howlongtobeat": "137787",
    "igdb": "another-code-recollection",
+   "metacritic": "another-code-recollection",
    "mobygames": "215925"
   },
   "label_en": "Another Code: Recollection",

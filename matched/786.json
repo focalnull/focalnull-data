@@ -24,6 +24,7 @@
    "gog": "game/sleeping_dogs_definitive_edition",
    "howlongtobeat": "8640",
    "igdb": "sleeping-dogs",
+   "metacritic": "sleeping-dogs",
    "mobygames": "57297",
    "pcgamingwiki": "Sleeping_Dogs",
    "steam": "202170"
@@ -46,6 +47,7 @@
    "gog": "game/war_for_the_overworld",
    "howlongtobeat": "25538",
    "igdb": "war-for-the-overworld",
+   "metacritic": "war-for-the-overworld",
    "mobygames": "80434",
    "pcgamingwiki": "War_for_the_Overworld",
    "steam": "230190"
@@ -75,6 +77,7 @@
   "enwiki": "Galleon (video game)",
   "ids": {
    "igdb": "galleon",
+   "metacritic": "galleon-islands-of-mystery",
    "mobygames": "16201"
   },
   "label_en": "Galleon",
@@ -93,6 +96,7 @@
   "enwiki": "Mega Man Anniversary Collection",
   "ids": {
    "igdb": "mega-man-anniversary-collection",
+   "metacritic": "mega-man-anniversary-collection",
    "mobygames": "13776"
   },
   "label_en": "Mega Man Anniversary Collection",
@@ -139,6 +143,7 @@
   "enwiki": "Future Tactics: The Uprising",
   "ids": {
    "igdb": "future-tactics-the-uprising",
+   "metacritic": "future-tactics-the-uprising",
    "mobygames": "16098"
   },
   "label_en": "Future Tactics: The Uprising",
@@ -148,6 +153,7 @@
   "enwiki": "Guitar Rock Tour",
   "ids": {
    "igdb": "guitar-rock-tour",
+   "metacritic": "guitar-rock-tour",
    "mobygames": "40097"
   },
   "label_en": "Guitar Rock Tour",
@@ -180,6 +186,7 @@
   "enwiki": "Persona Q: Shadow of the Labyrinth",
   "ids": {
    "igdb": "persona-q-shadow-of-the-labyrinth",
+   "metacritic": "persona-q-shadow-of-the-labyrinth",
    "mobygames": "84853"
   },
   "label_en": "Persona Q: Shadow of the Labyrinth",
@@ -221,6 +228,7 @@
    "epic": "battlefield-v-definitive-edition",
    "howlongtobeat": "57352",
    "igdb": "battlefield-v",
+   "metacritic": "battlefield-v",
    "mobygames": "117430",
    "pcgamingwiki": "Battlefield_V",
    "steam": "1238810"
@@ -304,6 +312,7 @@
    "epic": "poi-08959d",
    "howlongtobeat": "34230",
    "igdb": "poi",
+   "metacritic": "poi",
    "mobygames": "83125",
    "pcgamingwiki": "Poi",
    "steam": "401810"
@@ -331,6 +340,7 @@
   "enwiki": "Warhammer 40,000: Freeblade",
   "ids": {
    "igdb": "warhammer-40000-freeblade",
+   "metacritic": "warhammer-40000-freeblade",
    "mobygames": "185854",
    "pcgamingwiki": "Warhammer_40,000:_Freeblade"
   },
@@ -399,6 +409,7 @@
   "ids": {
    "howlongtobeat": "23581",
    "igdb": "nanofights",
+   "metacritic": "nanofights",
    "mobygames": "135293",
    "pcgamingwiki": "Nanofights",
    "steam": "335890"
@@ -1170,6 +1181,7 @@
   "ids": {
    "epic": "hot-wheels-monster-trucks-stunt-mayhem-f209c0",
    "igdb": "hot-wheels-monster-trucks-stunt-mayhem",
+   "pcgamingwiki": "Hot_Wheels_Monster_Trucks:_Stunt_Mayhem",
    "steam": "2468400"
   },
   "label_en": "Hot Wheels Monster Trucks: Stunt Mayhem™",

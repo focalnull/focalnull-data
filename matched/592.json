@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3663",
    "igdb": "forza-motorsport-2",
+   "metacritic": "forza-motorsport-2",
    "mobygames": "29294"
   },
   "label_en": "Forza Motorsport 2",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "836",
    "igdb": "banjo-kazooie-nuts-bolts",
+   "metacritic": "banjo-kazooie-nuts-bolts",
    "mobygames": "37770"
   },
   "label_en": "Banjo-Kazooie: Nuts & Bolts",
@@ -45,6 +47,7 @@
    "gog": "game/massive_assault",
    "howlongtobeat": "5718",
    "igdb": "massive-assault",
+   "metacritic": "massive-assault",
    "mobygames": "11676",
    "pcgamingwiki": "Massive_Assault",
    "steam": "34630"
@@ -69,6 +72,7 @@
   "enwiki": "AeroWings 2: Airstrike",
   "ids": {
    "igdb": "aerowings-2-airstrike",
+   "metacritic": "aerowings-2-air-strike",
    "mobygames": "11624"
   },
   "label_en": "AeroWings 2: Airstrike",
@@ -79,6 +83,7 @@
   "ids": {
    "howlongtobeat": "303",
    "igdb": "airforce-delta-storm",
+   "metacritic": "airforce-delta-storm",
    "mobygames": "25249"
   },
   "label_en": "AirForce Delta Storm",
@@ -106,6 +111,7 @@
   "enwiki": "Top Gun: Combat Zones",
   "ids": {
    "igdb": "top-gun-combat-zones",
+   "metacritic": "top-gun-combat-zones",
    "mobygames": "20111"
   },
   "label_en": "Top Gun: Combat Zones",
@@ -115,6 +121,7 @@
   "enwiki": "Axis & Allies (2004 video game)",
   "ids": {
    "igdb": "axis-and-allies--2",
+   "metacritic": "axis-and-allies",
    "pcgamingwiki": "Axis_&_Allies_(2004)"
   },
   "label_en": "Axis & Allies",
@@ -240,6 +247,7 @@
   "ids": {
    "howlongtobeat": "10658",
    "igdb": "triple-play-baseball",
+   "metacritic": "triple-play-baseball",
    "mobygames": "4353",
    "pcgamingwiki": "Triple_Play_Baseball"
   },
@@ -252,6 +260,7 @@
    "gog": "game/hollow_knight",
    "howlongtobeat": "26286",
    "igdb": "hollow-knight",
+   "metacritic": "hollow-knight",
    "mobygames": "84194",
    "pcgamingwiki": "Hollow_Knight",
    "steam": "367520"
@@ -265,6 +274,7 @@
    "gog": "game/aarklash_legacy",
    "howlongtobeat": "13693",
    "igdb": "aarklash-legacy",
+   "metacritic": "aarklash-legacy",
    "mobygames": "95756",
    "pcgamingwiki": "Aarklash:_Legacy",
    "steam": "222640"
@@ -295,6 +305,7 @@
  },
  {
   "ids": {
+   "metacritic": "interactive-storybook-ds-series-1",
    "mobygames": "88762"
   },
   "label_en": "Interactive Storybook DS Series 1",
@@ -312,6 +323,7 @@
   "ids": {
    "howlongtobeat": "50177",
    "igdb": "the-letter",
+   "metacritic": "the-letter-a-horror-visual-novel",
    "mobygames": "93311",
    "pcgamingwiki": "The_Letter",
    "steam": "460430"
@@ -325,7 +337,8 @@
  },
  {
   "ids": {
-   "igdb": "cel-damage-hd"
+   "igdb": "cel-damage-hd",
+   "metacritic": "cel-damage-hd"
   },
   "label_en": "Cel Damage HD",
   "wikidata": "Q72396592"
@@ -346,6 +359,7 @@
   "ids": {
    "howlongtobeat": "96326",
    "igdb": "storyteller--1",
+   "metacritic": "storyteller",
    "mobygames": "200879",
    "pcgamingwiki": "Storyteller",
    "steam": "1624540"
@@ -358,6 +372,7 @@
    "gog": "game/neptunia_x_senran_kagura_ninja_wars",
    "howlongtobeat": "98355",
    "igdb": "neptunia-x-senran-kagura-ninja-wars",
+   "metacritic": "neptunia-x-senran-kagura-ninja-wars",
    "mobygames": "184443",
    "pcgamingwiki": "Neptunia_x_Senran_Kagura:_Ninja_Wars",
    "steam": "1836860"
@@ -635,6 +650,7 @@
   "ids": {
    "howlongtobeat": "128907",
    "igdb": "number-blud",
+   "metacritic": "blud",
    "mobygames": "226630",
    "steam": "1921480"
   },
@@ -746,6 +762,7 @@
   "ids": {
    "howlongtobeat": "109303",
    "igdb": "rotwood",
+   "metacritic": "rotwood",
    "mobygames": "222810",
    "pcgamingwiki": "Rotwood",
    "steam": "2015270"
@@ -812,6 +829,7 @@
   "ids": {
    "howlongtobeat": "119188",
    "igdb": "pro-fishing-challenge",
+   "metacritic": "pro-fishing-challenge",
    "mobygames": "143512"
   },
   "label_en": "Pro Fishing Challenge",

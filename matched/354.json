@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8400",
    "igdb": "shenmue",
+   "metacritic": "shenmue-ii",
    "mobygames": "3558",
    "pcgamingwiki": "Shenmue_I_&_II",
    "steam": "758330"
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "4738",
    "igdb": "iron-man",
+   "metacritic": "iron-man-2008",
    "mobygames": "34264",
    "pcgamingwiki": "Iron_Man",
    "steam": "10490"
@@ -37,6 +39,7 @@
   "ids": {
    "howlongtobeat": "8811",
    "igdb": "soul-edge",
+   "metacritic": "soul-blade",
    "mobygames": "3676"
   },
   "label_en": "Soul Edge",
@@ -48,6 +51,7 @@
    "gog": "game/yakuza_3_remastered",
    "howlongtobeat": "11423",
    "igdb": "yakuza-3",
+   "metacritic": "yakuza-3",
    "mobygames": "42253",
    "steam": "1088710"
   },
@@ -58,6 +62,7 @@
   "enwiki": "Dr. Mario 64",
   "ids": {
    "igdb": "dr-mario-64",
+   "metacritic": "dr-mario-64",
    "mobygames": "3898"
   },
   "label_en": "Dr. Mario 64",
@@ -74,6 +79,7 @@
   "enwiki": "Pokémon XD: Gale of Darkness",
   "ids": {
    "igdb": "pokemon-xd-gale-of-darkness",
+   "metacritic": "pokemon-xd-gale-of-darkness",
    "mobygames": "19895"
   },
   "label_en": "Pokémon XD: Gale of Darkness",
@@ -84,6 +90,7 @@
   "ids": {
    "howlongtobeat": "7933",
    "igdb": "rockstar-games-presents-table-tennis",
+   "metacritic": "rockstar-games-presents-table-tennis",
    "mobygames": "22531"
   },
   "label_en": "Rockstar Games presents Table Tennis",
@@ -94,6 +101,7 @@
   "ids": {
    "howlongtobeat": "8147",
    "igdb": "sanctum",
+   "metacritic": "sanctum-2011",
    "mobygames": "52012",
    "pcgamingwiki": "Sanctum",
    "steam": "91600"
@@ -105,6 +113,7 @@
   "enwiki": "Castlevania: Curse of Darkness",
   "ids": {
    "igdb": "castlevania-curse-of-darkness",
+   "metacritic": "castlevania-curse-of-darkness",
    "mobygames": "20314"
   },
   "label_en": "Castlevania: Curse of Darkness",
@@ -115,6 +124,7 @@
   "ids": {
    "howlongtobeat": "1262",
    "igdb": "bonsai-barber",
+   "metacritic": "bonsai-barber",
    "mobygames": "90664"
   },
   "label_en": "Bonsai Barber",
@@ -126,6 +136,7 @@
    "gog": "game/iridion_ii",
    "howlongtobeat": "4731",
    "igdb": "iridion-ii",
+   "metacritic": "iridion-ii",
    "mobygames": "16528",
    "pcgamingwiki": "Iridion_II",
    "steam": "1132230"
@@ -161,6 +172,7 @@
   "ids": {
    "howlongtobeat": "9316",
    "igdb": "sumotori-dreams-classic",
+   "pcgamingwiki": "Sumotori_Dreams_Classic",
    "steam": "1604240"
   },
   "label_en": "Sumotori Dreams Classic",
@@ -184,6 +196,7 @@
    "epic": "prince-of-qin-3bb44c",
    "gog": "game/prince_of_qin",
    "igdb": "prince-of-qin",
+   "metacritic": "prince-of-qin",
    "mobygames": "8958",
    "pcgamingwiki": "Prince_of_Qin",
    "steam": "1717410"
@@ -242,6 +255,7 @@
   "ids": {
    "howlongtobeat": "34798",
    "igdb": "nascar-15",
+   "metacritic": "nascar-15",
    "mobygames": "140716",
    "pcgamingwiki": "NASCAR_'15",
    "steam": "345890"
@@ -264,6 +278,7 @@
    "gog": "game/deadbolt",
    "howlongtobeat": "26297",
    "igdb": "deadbolt",
+   "metacritic": "deadbolt",
    "mobygames": "83032",
    "pcgamingwiki": "Deadbolt",
    "steam": "394970"
@@ -289,6 +304,7 @@
    "gog": "game/hidden_folks",
    "howlongtobeat": "43852",
    "igdb": "hidden-folks",
+   "metacritic": "hidden-folks",
    "mobygames": "93081",
    "pcgamingwiki": "Hidden_Folks",
    "steam": "435400"
@@ -331,6 +347,7 @@
   "ids": {
    "howlongtobeat": "18678",
    "igdb": "life-goes-on-done-to-death",
+   "metacritic": "life-goes-on-done-to-death",
    "mobygames": "80412",
    "pcgamingwiki": "Life_Goes_On:_Done_to_Death",
    "steam": "250050"
@@ -343,6 +360,7 @@
   "ids": {
    "howlongtobeat": "60754",
    "igdb": "judgment",
+   "metacritic": "judgment",
    "mobygames": "121814",
    "pcgamingwiki": "Judgment",
    "steam": "2058180"
@@ -353,6 +371,7 @@
  {
   "ids": {
    "igdb": "indiana-jones-and-the-infernal-machine--1",
+   "metacritic": "indiana-jones-and-the-infernal-machine",
    "mobygames": "23267"
   },
   "label_en": "Indiana Jones and the Infernal Machine",
@@ -378,6 +397,7 @@
    "gog": "game/simulacra_2",
    "howlongtobeat": "73727",
    "igdb": "simulacra-2",
+   "metacritic": "simulacra-2",
    "mobygames": "138686",
    "pcgamingwiki": "Simulacra_2",
    "steam": "1011190"
@@ -389,6 +409,7 @@
   "ids": {
    "howlongtobeat": "67669",
    "igdb": "voxel-tycoon",
+   "metacritic": "voxel-tycoon",
    "mobygames": "162558",
    "pcgamingwiki": "Voxel_Tycoon",
    "steam": "732050"
@@ -418,6 +439,7 @@
   "ids": {
    "howlongtobeat": "85047",
    "igdb": "mystery-hotel-hidden-object-detective-game",
+   "metacritic": "mystery-hotel-hidden-object-detective-game",
    "mobygames": "181332",
    "steam": "1356530"
   },
@@ -483,6 +505,7 @@
   "ids": {
    "howlongtobeat": "23810",
    "igdb": "number-killallzombies",
+   "metacritic": "killallzombies",
    "mobygames": "78809",
    "pcgamingwiki": "Kill_All_Zombies",
    "steam": "303720"
@@ -1202,6 +1225,8 @@
  {
   "ids": {
    "igdb": "kotama-and-academy-citadel",
+   "metacritic": "kotama-and-academy-citadel",
+   "pcgamingwiki": "Kotama_and_Academy_Citadel",
    "steam": "3639650"
   },
   "label_en": "Kotama & Academy Citadel",

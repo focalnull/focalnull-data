@@ -3,6 +3,7 @@
   "enwiki": "The Emperor's New Groove (video game)",
   "ids": {
    "igdb": "disneys-the-emperors-new-groove--2",
+   "metacritic": "disneys-the-emperors-new-groove",
    "mobygames": "37534",
    "pcgamingwiki": "The_Emperor's_New_Groove"
   },
@@ -19,6 +20,7 @@
   "ids": {
    "howlongtobeat": "9672",
    "igdb": "tekken-tag-tournament",
+   "metacritic": "tekken-hybrid",
    "mobygames": "3542"
   },
   "label_en": "Tekken Tag Tournament",
@@ -29,6 +31,7 @@
   "ids": {
    "howlongtobeat": "9409",
    "igdb": "super-princess-peach",
+   "metacritic": "super-princess-peach",
    "mobygames": "21486"
   },
   "label_en": "Super Princess Peach",
@@ -49,6 +52,7 @@
    "gog": "game/the_suffering_ties_that_bind",
    "howlongtobeat": "10219",
    "igdb": "the-suffering-ties-that-bind",
+   "metacritic": "the-suffering-ties-that-bind",
    "mobygames": "20140",
    "pcgamingwiki": "The_Suffering:_Ties_That_Bind"
   },
@@ -61,6 +65,7 @@
    "gog": "game/bad_mojo_redux",
    "howlongtobeat": "793",
    "igdb": "bad-mojo-redux",
+   "metacritic": "bad-mojo-redux",
    "mobygames": "2238",
    "pcgamingwiki": "Bad_Mojo_Redux",
    "steam": "255960"
@@ -71,7 +76,8 @@
  {
   "enwiki": "NCAA Basketball 10",
   "ids": {
-   "igdb": "ncaa-basketball-10"
+   "igdb": "ncaa-basketball-10",
+   "metacritic": "ncaa-basketball-10"
   },
   "label_en": "NCAA Basketball 10",
   "wikidata": "Q3250527"
@@ -80,6 +86,7 @@
   "enwiki": "Patapon 3",
   "ids": {
    "igdb": "patapon-3",
+   "metacritic": "patapon-3",
    "mobygames": "60190"
   },
   "label_en": "Patapon 3",
@@ -125,6 +132,7 @@
   "ids": {
    "howlongtobeat": "5159",
    "igdb": "lady-sia",
+   "metacritic": "lady-sia",
    "mobygames": "5294"
   },
   "label_en": "Lady Sia",
@@ -136,6 +144,7 @@
    "gog": "game/metal_gear_solid",
    "howlongtobeat": "5908",
    "igdb": "metal-gear-solid",
+   "metacritic": "metal-gear-solid",
    "mobygames": "2511",
    "pcgamingwiki": "Metal_Gear_Solid:_Integral"
   },
@@ -146,7 +155,8 @@
   "enwiki": "MLB 13: The Show",
   "ids": {
    "howlongtobeat": "6104",
-   "igdb": "mlb-13-the-show"
+   "igdb": "mlb-13-the-show",
+   "metacritic": "mlb-13-the-show"
   },
   "label_en": "MLB 13: The Show",
   "wikidata": "Q6716527"
@@ -173,6 +183,7 @@
   "enwiki": "BlazBlue: Continuum Shift",
   "ids": {
    "howlongtobeat": "1143",
+   "metacritic": "blazblue-continuum-shift",
    "mobygames": "71144"
   },
   "label_en": "BlazBlue: Continuum Shift",
@@ -182,6 +193,7 @@
   "enwiki": "Virtua Athlete 2K",
   "ids": {
    "igdb": "virtua-athlete-2000",
+   "metacritic": "virtua-athlete-2000",
    "mobygames": "15855"
   },
   "label_en": "Virtua Athlete 2K",
@@ -193,6 +205,7 @@
    "epic": "doom-3",
    "howlongtobeat": "2705",
    "igdb": "doom-3-bfg-edition",
+   "metacritic": "doom-3-bfg-edition",
    "mobygames": "58263",
    "pcgamingwiki": "Doom_3:_BFG_Edition",
    "steam": "208200"
@@ -235,6 +248,7 @@
   "ids": {
    "howlongtobeat": "137497",
    "igdb": "tetrageddon-games",
+   "metacritic": "tetrageddon-games",
    "steam": "354130"
   },
   "label_en": "Tetrageddon",
@@ -245,6 +259,7 @@
   "ids": {
    "howlongtobeat": "68383",
    "igdb": "sky-children-of-the-light",
+   "metacritic": "sky",
    "mobygames": "130106",
    "pcgamingwiki": "Sky:_Children_of_the_Light",
    "steam": "2325290"
@@ -257,6 +272,7 @@
   "ids": {
    "howlongtobeat": "74073",
    "igdb": "tokyo-ghoul-re-call-to-exist",
+   "metacritic": "tokyo-ghoul-re-call-to-exist",
    "mobygames": "137294",
    "pcgamingwiki": "Tokyo_Ghoul:_re_Call_to_Exist",
    "steam": "756530"
@@ -268,6 +284,7 @@
   "ids": {
    "howlongtobeat": "42418",
    "igdb": "superhot-vr",
+   "metacritic": "superhot-vr",
    "mobygames": "92888",
    "pcgamingwiki": "Superhot_VR",
    "steam": "617830"
@@ -331,6 +348,7 @@
   "ids": {
    "howlongtobeat": "129232",
    "igdb": "helldivers-2",
+   "metacritic": "helldivers-ii",
    "mobygames": "217251",
    "pcgamingwiki": "Helldivers_2",
    "steam": "553850"
@@ -785,6 +803,7 @@
   "ids": {
    "howlongtobeat": "15465",
    "igdb": "wolfschanze-ii",
+   "metacritic": "wolfschanze-2",
    "mobygames": "56422"
   },
   "label_en": "Wolfschanze II",
@@ -796,6 +815,7 @@
    "gog": "game/nighthawks",
    "howlongtobeat": "94224",
    "igdb": "nighthawks",
+   "metacritic": "nighthawks",
    "pcgamingwiki": "Nighthawks",
    "steam": "1221950"
   },
@@ -1068,6 +1088,9 @@
   "wikidata": "Q135453527"
  },
  {
+  "ids": {
+   "metacritic": "the-king-of-fighters-collection-the-orochi-saga"
+  },
   "label_en": "The King of Fighters Collection: The Orochi Saga",
   "wikidata": "Q139791527"
  },

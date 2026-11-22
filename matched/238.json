@@ -3,6 +3,7 @@
   "enwiki": "KOF: Maximum Impact",
   "ids": {
    "igdb": "the-king-of-fighters-maximum-impact",
+   "metacritic": "king-of-fighters-maximum-impact",
    "mobygames": "21609"
   },
   "label_en": "KOF: Maximum Impact",
@@ -10,6 +11,9 @@
  },
  {
   "enwiki": "Tick! Tack!",
+  "ids": {
+   "metacritic": "tick-tack"
+  },
   "label_en": "Tick! Tack!",
   "wikidata": "Q1155238"
  },
@@ -64,6 +68,7 @@
   "ids": {
    "howlongtobeat": "9399",
    "igdb": "super-monkey-ball-adventure",
+   "metacritic": "super-monkey-ball-adventure",
    "mobygames": "23600"
   },
   "label_en": "Super Monkey Ball Adventure",
@@ -218,6 +223,7 @@
    "gog": "game/lego_dc_supervillains",
    "howlongtobeat": "61868",
    "igdb": "lego-dc-super-villains",
+   "metacritic": "lego-dc-super-villains",
    "mobygames": "110208",
    "pcgamingwiki": "Lego_DC_Super-Villains",
    "steam": "829110"
@@ -246,6 +252,7 @@
   "enwiki": "Mortal Kombat Mobile",
   "ids": {
    "igdb": "mortal-kombat-x-mobile",
+   "metacritic": "mortal-kombat-mobile",
    "mobygames": "73659"
   },
   "label_en": "Mortal Kombat Mobile",
@@ -272,6 +279,7 @@
   "ids": {
    "howlongtobeat": "101161",
    "igdb": "the-matrix-awakens-an-unreal-engine-5-experience",
+   "metacritic": "the-matrix-awakens-an-unreal-engine-5-experience",
    "mobygames": "176618"
   },
   "label_en": "The Matrix Awakens",
@@ -319,6 +327,7 @@
   "ids": {
    "howlongtobeat": "75021",
    "igdb": "azur-lane-crosswave",
+   "metacritic": "azur-lane-crosswave",
    "mobygames": "142449",
    "pcgamingwiki": "Azur_Lane:_Crosswave",
    "steam": "1150080"
@@ -956,6 +965,7 @@
  {
   "ids": {
    "igdb": "fishing-sim-world-pro-tour",
+   "pcgamingwiki": "Fishing_Sim_World:_Pro_Tour",
    "steam": "834280"
   },
   "label_en": "Fishing Sim World®: Pro Tour",
@@ -964,6 +974,7 @@
  {
   "ids": {
    "igdb": "draw-2-survive",
+   "metacritic": "draw-2-survive",
    "mobygames": "101313"
   },
   "label_en": "Draw 2 Survive",

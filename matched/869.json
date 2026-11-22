@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "270",
    "igdb": "age-of-empires-iii",
+   "metacritic": "age-of-empires-iii",
    "mobygames": "20272",
    "pcgamingwiki": "Age_of_Empires_III",
    "steam": "105450"
@@ -17,6 +18,7 @@
    "gog": "game/crusader_kings_ii",
    "howlongtobeat": "2058",
    "igdb": "crusader-kings-ii",
+   "metacritic": "crusader-kings-ii",
    "mobygames": "56783",
    "pcgamingwiki": "Crusader_Kings_II",
    "steam": "203770"
@@ -38,6 +40,7 @@
   "enwiki": "F-Zero: Maximum Velocity",
   "ids": {
    "igdb": "f-zero-maximum-velocity",
+   "metacritic": "f-zero-maximum-velocity",
    "mobygames": "4533"
   },
   "label_en": "F-Zero: Maximum Velocity",
@@ -48,6 +51,7 @@
   "ids": {
    "howlongtobeat": "9479",
    "igdb": "superman-shadow-of-apokolips",
+   "metacritic": "superman-shadow-of-apokolips",
    "mobygames": "9251"
   },
   "label_en": "Superman: Shadow of Apokolips",
@@ -58,6 +62,7 @@
   "ids": {
    "howlongtobeat": "1937",
    "igdb": "cortex-command",
+   "metacritic": "cortex-command",
    "mobygames": "63211",
    "pcgamingwiki": "Cortex_Command",
    "steam": "209670"
@@ -144,6 +149,7 @@
   "ids": {
    "howlongtobeat": "16649",
    "igdb": "wrc-powerslide",
+   "metacritic": "wrc-powerslide",
    "mobygames": "65004",
    "pcgamingwiki": "WRC_Powerslide",
    "steam": "256350"
@@ -159,6 +165,7 @@
   "enwiki": "Beam Breakers",
   "ids": {
    "igdb": "beam-breakers",
+   "metacritic": "beam-breakers",
    "mobygames": "12095"
   },
   "label_en": "Beam Breakers",
@@ -183,6 +190,7 @@
    "gog": "game/the_dream_machine",
    "howlongtobeat": "9841",
    "igdb": "the-dream-machine",
+   "metacritic": "the-dream-machine",
    "mobygames": "49954",
    "pcgamingwiki": "The_Dream_Machine",
    "steam": "94300"
@@ -195,6 +203,7 @@
   "ids": {
    "howlongtobeat": "48875",
    "igdb": "yomawari-midnight-shadows",
+   "metacritic": "yomawari-midnight-shadows",
    "mobygames": "97474",
    "pcgamingwiki": "Yomawari:_Midnight_Shadows",
    "steam": "625980"
@@ -218,6 +227,7 @@
  {
   "ids": {
    "igdb": "oh-deer",
+   "metacritic": "oh-deer",
    "mobygames": "88428",
    "pcgamingwiki": "Oh,_Deer!"
   },
@@ -271,6 +281,7 @@
    "gog": "game/the_procession_to_calvary",
    "howlongtobeat": "76920",
    "igdb": "the-procession-to-calvary",
+   "metacritic": "the-procession-to-calvary",
    "mobygames": "144358",
    "pcgamingwiki": "The_Procession_to_Calvary",
    "steam": "1071130"
@@ -355,6 +366,7 @@
   "ids": {
    "howlongtobeat": "124558",
    "igdb": "naruto-x-boruto-ultimate-ninja-storm-connections",
+   "metacritic": "naruto-x-boruto-ultimate-ninja-storm-connections",
    "mobygames": "213053",
    "pcgamingwiki": "Naruto_X_Boruto:_Ultimate_Ninja_Storm_Connections",
    "steam": "1020790"
@@ -852,6 +864,7 @@
   "ids": {
    "howlongtobeat": "156002",
    "igdb": "atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land",
+   "metacritic": "atelier-yumia-the-alchemist-of-memories-and-the",
    "pcgamingwiki": "Atelier_Yumia:_The_Alchemist_of_Memories_&_the_Envisioned_Land",
    "steam": "3123410"
   },

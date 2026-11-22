@@ -35,6 +35,7 @@
   "ids": {
    "howlongtobeat": "3400",
    "igdb": "fatal-fury-2",
+   "metacritic": "fatal-fury-2",
    "mobygames": "6600",
    "pcgamingwiki": "Fatal_Fury_2"
   },
@@ -46,6 +47,7 @@
   "ids": {
    "howlongtobeat": "4078",
    "igdb": "grandia-ii-hd-remaster",
+   "metacritic": "grandia-ii",
    "mobygames": "4091",
    "pcgamingwiki": "Grandia_II",
    "steam": "330390"
@@ -101,6 +103,7 @@
   "enwiki": "Mega Man X Collection",
   "ids": {
    "igdb": "mega-man-x-collection",
+   "metacritic": "mega-man-x-collection",
    "mobygames": "21092"
   },
   "label_en": "Mega Man X Collection",
@@ -110,6 +113,7 @@
   "enwiki": "Alvin and the Chipmunks: The Squeakquel (video game)",
   "ids": {
    "igdb": "alvin-and-the-chipmunks-the-squeakquel",
+   "metacritic": "alvin-and-the-chipmunks-the-squeakquel",
    "mobygames": "90570"
   },
   "label_en": "Alvin and the Chipmunks: The Squeakquel",
@@ -147,6 +151,7 @@
   "ids": {
    "howlongtobeat": "1938",
    "igdb": "corvette",
+   "metacritic": "corvette",
    "mobygames": "14283",
    "pcgamingwiki": "Corvette"
   },
@@ -203,6 +208,7 @@
   "enwiki": "Tank! Tank! Tank!",
   "ids": {
    "igdb": "tank-tank-tank",
+   "metacritic": "tank-tank-tank",
    "mobygames": "60685"
   },
   "label_en": "Tank! Tank! Tank!",
@@ -236,6 +242,7 @@
   "enwiki": "Top Darts",
   "ids": {
    "igdb": "top-darts",
+   "metacritic": "top-darts",
    "mobygames": "77932"
   },
   "label_en": "Top Darts",
@@ -325,6 +332,7 @@
   "ids": {
    "howlongtobeat": "71480",
    "igdb": "wwe-2k20",
+   "metacritic": "wwe-2k20",
    "mobygames": "135896",
    "pcgamingwiki": "WWE_2K20",
    "steam": "1015500"
@@ -337,6 +345,7 @@
   "ids": {
    "howlongtobeat": "69989",
    "igdb": "sayonara-wild-hearts",
+   "metacritic": "sayonara-wild-hearts",
    "mobygames": "134890",
    "pcgamingwiki": "Sayonara_Wild_Hearts",
    "steam": "1122720"
@@ -356,6 +365,7 @@
    "gog": "game/alice_vr",
    "howlongtobeat": "40784",
    "igdb": "alice-vr",
+   "metacritic": "alice-vr",
    "mobygames": "90636",
    "pcgamingwiki": "Alice_VR",
    "steam": "513320"
@@ -368,6 +378,7 @@
   "ids": {
    "howlongtobeat": "80652",
    "igdb": "f1-2020",
+   "metacritic": "f1-2020",
    "mobygames": "146928",
    "pcgamingwiki": "F1_2020",
    "steam": "1080110"
@@ -471,6 +482,7 @@
   "ids": {
    "howlongtobeat": "34363",
    "igdb": "jet-set-knights",
+   "metacritic": "jet-set-knights",
    "mobygames": "85427",
    "pcgamingwiki": "Jet_Set_Knights",
    "steam": "405550"
@@ -523,6 +535,8 @@
  {
   "ids": {
    "igdb": "neptunia-gamemaker-r-evolution",
+   "metacritic": "neptunia-game-maker-revolution",
+   "pcgamingwiki": "Neptunia_Game_Maker_R:Evolution",
    "steam": "3341510"
   },
   "label_en": "Neptunia Game Maker R:Evolution",
@@ -697,6 +711,7 @@
   "ids": {
    "howlongtobeat": "100719",
    "igdb": "journey-for-elysium",
+   "metacritic": "journey-for-elysium",
    "mobygames": "137308",
    "pcgamingwiki": "Journey_For_Elysium",
    "steam": "1036260"
@@ -766,6 +781,7 @@
    "epic": "kaku-ancient-seal-f0bbc9",
    "howlongtobeat": "117793",
    "igdb": "kaku-ancient-seal",
+   "metacritic": "kaku-ancient-seal",
    "mobygames": "208515",
    "pcgamingwiki": "Kaku_Ancient_Seal_/_卡库远古封印",
    "steam": "1179580"
@@ -901,6 +917,7 @@
  {
   "ids": {
    "igdb": "samurai-g",
+   "metacritic": "samurai-g",
    "mobygames": "99968"
   },
   "label_en": "Samurai G",
@@ -919,6 +936,7 @@
   "ids": {
    "howlongtobeat": "145790",
    "igdb": "billy-bumbum-a-cheeky-puzzler",
+   "metacritic": "billy-bumbum-a-cheeky-puzzler",
    "mobygames": "222707",
    "steam": "1752730"
   },
@@ -980,6 +998,7 @@
   "ids": {
    "howlongtobeat": "164568",
    "igdb": "white-knuckle",
+   "metacritic": "white-knuckle",
    "mobygames": "244825",
    "pcgamingwiki": "White_Knuckle",
    "steam": "3195790"

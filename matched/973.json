@@ -65,6 +65,7 @@
   "enwiki": "Ratchet & Clank: All 4 One",
   "ids": {
    "igdb": "ratchet-clank-all-4-one",
+   "metacritic": "ratchet-clank-all-4-one",
    "mobygames": "53831"
   },
   "label_en": "Ratchet & Clank: All 4 One",
@@ -74,6 +75,7 @@
   "enwiki": "F1 Career Challenge",
   "ids": {
    "igdb": "f1-career-challenge",
+   "metacritic": "f1-challenge-99-02",
    "mobygames": "13962",
    "pcgamingwiki": "F1_Challenge_'99-'02"
   },
@@ -92,6 +94,7 @@
   "enwiki": "Bass Strike",
   "ids": {
    "igdb": "bass-strike",
+   "metacritic": "bass-strike",
    "mobygames": "39911"
   },
   "label_en": "Bass Strike",
@@ -120,6 +123,7 @@
   "ids": {
    "howlongtobeat": "33628",
    "igdb": "dariusburst",
+   "metacritic": "dariusburst-chronicle-saviours",
    "mobygames": "46531",
    "pcgamingwiki": "Dariusburst_Chronicle_Saviours",
    "steam": "377870"
@@ -131,7 +135,8 @@
   "enwiki": "Gregory Horror Show (video game)",
   "ids": {
    "howlongtobeat": "4108",
-   "igdb": "gregory-horror-show"
+   "igdb": "gregory-horror-show",
+   "metacritic": "gregory-horror-show"
   },
   "label_en": "Gregory Horror Show",
   "wikidata": "Q5606973"
@@ -201,6 +206,7 @@
   "ids": {
    "howlongtobeat": "16927",
    "igdb": "conception-ii-children-of-the-seven-stars",
+   "metacritic": "conception-ii-children-of-the-seven-stars",
    "mobygames": "65091",
    "pcgamingwiki": "Conception_II:_Children_of_the_Seven_Stars",
    "steam": "458730"
@@ -240,6 +246,7 @@
   "ids": {
    "howlongtobeat": "45944",
    "igdb": "domina",
+   "metacritic": "domina",
    "mobygames": "86395",
    "pcgamingwiki": "Domina",
    "steam": "535230"
@@ -264,6 +271,7 @@
   "ids": {
    "howlongtobeat": "58333",
    "igdb": "crying-is-not-enough",
+   "metacritic": "crying-is-not-enough",
    "mobygames": "110606",
    "pcgamingwiki": "Crying_Is_Not_Enough",
    "steam": "850690"
@@ -306,6 +314,7 @@
   "ids": {
    "howlongtobeat": "83485",
    "igdb": "trollhunters-defenders-of-arcadia",
+   "metacritic": "trollhunters-defenders-of-arcadia",
    "mobygames": "150885",
    "pcgamingwiki": "Trollhunters:_Defenders_of_Arcadia",
    "steam": "1344070"
@@ -321,6 +330,7 @@
   "ids": {
    "howlongtobeat": "81632",
    "igdb": "doom-eternal-the-ancient-gods-part-one",
+   "metacritic": "doom-eternal-the-ancient-gods-part-one",
    "mobygames": "151814",
    "steam": "1098292"
   },
@@ -340,6 +350,7 @@
   "enwiki": "UFL (video game)",
   "ids": {
    "igdb": "ufl",
+   "metacritic": "ufl",
    "mobygames": "234683",
    "steam": "3023930"
   },
@@ -777,6 +788,7 @@
  {
   "ids": {
    "igdb": "free-balling",
+   "metacritic": "free-balling",
    "pcgamingwiki": "Free_Balling",
    "steam": "495770"
   },
@@ -848,6 +860,7 @@
   "ids": {
    "howlongtobeat": "145926",
    "igdb": "2xko",
+   "metacritic": "2xko",
    "pcgamingwiki": "2XKO"
   },
   "label_en": "2XKO",
@@ -1231,6 +1244,7 @@
   "ids": {
    "howlongtobeat": "26562",
    "igdb": "badland-game-of-the-year-edition",
+   "metacritic": "badland-game-of-the-year-edition",
    "mobygames": "80706",
    "pcgamingwiki": "Badland:_Game_of_the_Year_Edition",
    "steam": "269670"
@@ -1246,6 +1260,7 @@
   "enwiki": "Spyro: A Realm Beyond",
   "ids": {
    "igdb": "spyro-a-realm-beyond",
+   "metacritic": "spyro-a-realm-beyond",
    "pcgamingwiki": "Spyro:_A_Realm_Beyond",
    "steam": "4245560"
   },

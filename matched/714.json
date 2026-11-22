@@ -3,6 +3,7 @@
   "enwiki": "MAG (video game)",
   "ids": {
    "igdb": "mag",
+   "metacritic": "mag",
    "mobygames": "45125"
   },
   "label_en": "MAG",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "11401",
    "igdb": "xenoblade-chronicles",
+   "metacritic": "xenoblade-chronicles",
    "mobygames": "52226"
   },
   "label_en": "Xenoblade Chronicles",
@@ -23,6 +25,7 @@
   "ids": {
    "howlongtobeat": "8753",
    "igdb": "sonic-and-the-secret-rings",
+   "metacritic": "sonic-and-the-secret-rings",
    "mobygames": "26692"
   },
   "label_en": "Sonic and the Secret Rings",
@@ -40,6 +43,7 @@
   "enwiki": "MotoGP: Ultimate Racing Technology 3",
   "ids": {
    "igdb": "motogp-ultimate-racing-technology-3",
+   "metacritic": "motogp-3-ultimate-racing-technology",
    "mobygames": "26992",
    "pcgamingwiki": "MotoGP_3:_Ultimate_Racing_Technology"
   },
@@ -78,6 +82,7 @@
   "ids": {
    "howlongtobeat": "5116",
    "igdb": "kohan-immortal-sovereigns",
+   "metacritic": "kohan-immortal-sovereigns",
    "mobygames": "4989",
    "pcgamingwiki": "Kohan:_Immortal_Sovereigns",
    "steam": "97110"
@@ -191,6 +196,7 @@
   "ids": {
    "howlongtobeat": "23899",
    "igdb": "i-am-bread",
+   "metacritic": "i-am-bread",
    "mobygames": "73819",
    "pcgamingwiki": "I_Am_Bread",
    "steam": "327890"
@@ -205,6 +211,7 @@
    "gog": "game/layers_of_fear",
    "howlongtobeat": "29851",
    "igdb": "layers-of-fear",
+   "metacritic": "layers-of-fear",
    "mobygames": "77042",
    "pcgamingwiki": "Layers_of_Fear",
    "steam": "391720"
@@ -226,6 +233,7 @@
    "gog": "game/banner_saga_3",
    "howlongtobeat": "54142",
    "igdb": "the-banner-saga-3",
+   "metacritic": "the-banner-saga-3",
    "mobygames": "109904",
    "pcgamingwiki": "The_Banner_Saga_3",
    "steam": "485460"
@@ -256,6 +264,7 @@
  },
  {
   "ids": {
+   "metacritic": "defender",
    "mobygames": "37106"
   },
   "label_en": "Defender",
@@ -276,6 +285,7 @@
   "ids": {
    "howlongtobeat": "25172",
    "igdb": "la-cops",
+   "metacritic": "la-cops",
    "mobygames": "86808",
    "pcgamingwiki": "LA_Cops",
    "steam": "278810"
@@ -288,6 +298,7 @@
   "ids": {
    "epic": "kingdom-hearts-melody-of-memory",
    "igdb": "kingdom-hearts-melody-of-memory",
+   "metacritic": "kingdom-hearts-melody-of-memory",
    "mobygames": "153512",
    "pcgamingwiki": "Kingdom_Hearts_Melody_of_Memory"
   },
@@ -298,6 +309,7 @@
   "enwiki": "The Benza RPG",
   "ids": {
    "igdb": "the-benza-rpg",
+   "metacritic": "the-benza-rpg",
    "mobygames": "187310",
    "steam": "1449370"
   },
@@ -428,6 +440,7 @@
   "ids": {
    "howlongtobeat": "81899",
    "igdb": "the-revenant-prince",
+   "metacritic": "the-revenant-prince",
    "mobygames": "208681",
    "steam": "432210"
   },
@@ -440,6 +453,7 @@
    "gog": "game/gravity_circuit",
    "howlongtobeat": "94203",
    "igdb": "gravity-circuit",
+   "metacritic": "gravity-circuit",
    "mobygames": "205667",
    "pcgamingwiki": "Gravity_Circuit",
    "steam": "858710"
@@ -463,6 +477,7 @@
    "epic": "snowbreak-containment-zone-abc820",
    "howlongtobeat": "131943",
    "igdb": "snowbreak-containment-zone",
+   "metacritic": "snowbreak-containment-zone",
    "mobygames": "214445",
    "pcgamingwiki": "Snowbreak:_Containment_Zone",
    "steam": "2668080"
@@ -794,6 +809,7 @@
   "ids": {
    "howlongtobeat": "146374",
    "igdb": "luma-island",
+   "metacritic": "luma-island",
    "mobygames": "233673",
    "pcgamingwiki": "Luma_Island",
    "steam": "2408820"
@@ -1217,6 +1233,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Pegfinity",
    "steam": "3947040"
   },
   "label_en": "Pegfinity",
@@ -1239,6 +1256,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Sker:_The_Bleeding_Veil",
    "steam": "4119440"
   },
   "label_en": "Sker: The Bleeding Veil",
@@ -1247,6 +1265,7 @@
  {
   "ids": {
    "igdb": "cyndy",
+   "pcgamingwiki": "Cyndy",
    "steam": "1014730"
   },
   "label_en": "Cyndy",

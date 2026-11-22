@@ -3,6 +3,7 @@
   "enwiki": "The Incredible Hulk: Ultimate Destruction",
   "ids": {
    "igdb": "the-incredible-hulk-ultimate-destruction",
+   "metacritic": "the-incredible-hulk-ultimate-destruction",
    "mobygames": "19359"
   },
   "label_en": "The Incredible Hulk: Ultimate Destruction",
@@ -15,6 +16,7 @@
    "gog": "game/quake_the_offering",
    "howlongtobeat": "7452",
    "igdb": "quake",
+   "metacritic": "quake",
    "mobygames": "374",
    "pcgamingwiki": "Quake",
    "steam": "2310"
@@ -29,6 +31,7 @@
    "gog": "game/avencast_rise_of_the_mage",
    "howlongtobeat": "744",
    "igdb": "avencast-rise-of-the-mage",
+   "metacritic": "avencast-rise-of-the-mage",
    "mobygames": "31361",
    "pcgamingwiki": "Avencast:_Rise_of_the_Mage",
    "steam": "46410"
@@ -41,6 +44,7 @@
   "ids": {
    "howlongtobeat": "1273",
    "igdb": "borderlands",
+   "metacritic": "borderlands",
    "mobygames": "43378",
    "pcgamingwiki": "Borderlands",
    "steam": "8980"
@@ -53,6 +57,7 @@
   "ids": {
    "howlongtobeat": "2357",
    "igdb": "deadpool",
+   "metacritic": "deadpool",
    "mobygames": "61107",
    "pcgamingwiki": "Deadpool",
    "steam": "224060"
@@ -69,6 +74,7 @@
   "ids": {
    "howlongtobeat": "29306",
    "igdb": "the-sims-2-apartment-pets",
+   "metacritic": "the-sims-2-apartment-pets",
    "mobygames": "38578"
   },
   "label_en": "The Sims 2: Apartment Pets",
@@ -88,6 +94,7 @@
   "ids": {
    "howlongtobeat": "9243",
    "igdb": "street-fighter-iii-new-generation",
+   "metacritic": "street-fighter-iii-double-impact",
    "mobygames": "3779"
   },
   "label_en": "Street Fighter III",
@@ -105,6 +112,7 @@
   "ids": {
    "howlongtobeat": "24325",
    "igdb": "dr-mario-and-puzzle-league",
+   "metacritic": "dr-mario-puzzle-league",
    "mobygames": "21337"
   },
   "label_en": "Dr. Mario & Puzzle League",
@@ -137,6 +145,7 @@
   "ids": {
    "howlongtobeat": "11214",
    "igdb": "wipeout-fusion",
+   "metacritic": "wipeout-fusion",
    "mobygames": "5948"
   },
   "label_en": "Wipeout Fusion",
@@ -147,6 +156,7 @@
   "ids": {
    "howlongtobeat": "75677",
    "igdb": "red-eclipse",
+   "metacritic": "red-eclipse",
    "mobygames": "80768",
    "pcgamingwiki": "Red_Eclipse",
    "steam": "967460"
@@ -245,6 +255,7 @@
   "ids": {
    "howlongtobeat": "12703",
    "igdb": "farming-simulator-2013",
+   "metacritic": "farming-simulator-2013",
    "mobygames": "58079",
    "pcgamingwiki": "Farming_Simulator_2013",
    "steam": "220260"
@@ -263,6 +274,7 @@
   "enwiki": "Deception IV: Blood Ties",
   "ids": {
    "igdb": "deception-iv-the-nightmare-princess",
+   "metacritic": "deception-iv-blood-ties",
    "mobygames": "84359"
   },
   "label_en": "Deception IV: Blood Ties",
@@ -349,6 +361,7 @@
   "ids": {
    "epic": "legends-of-runeterra",
    "igdb": "legends-of-runeterra",
+   "metacritic": "legends-of-runeterra",
    "mobygames": "146377",
    "pcgamingwiki": "Legends_of_Runeterra"
   },
@@ -376,6 +389,7 @@
  {
   "ids": {
    "igdb": "3d-retro-dungeon-puzzle-challenge",
+   "metacritic": "3d-retro-dungeon-puzzle-challenge",
    "mobygames": "108069"
   },
   "label_en": "3D Retro Dungeon Puzzle Challenge",
@@ -457,6 +471,7 @@
    "epic": "garten-of-banban-13ddcd",
    "howlongtobeat": "120932",
    "igdb": "garten-of-banban",
+   "metacritic": "garten-of-banban",
    "mobygames": "197580",
    "pcgamingwiki": "Garten_of_Banban",
    "steam": "2232840"
@@ -469,6 +484,7 @@
   "ids": {
    "howlongtobeat": "125315",
    "igdb": "contraband-police",
+   "metacritic": "contraband-police",
    "mobygames": "200238",
    "pcgamingwiki": "Contraband_Police",
    "steam": "756800"
@@ -506,6 +522,7 @@
   "ids": {
    "howlongtobeat": "120775",
    "igdb": "armored-lab-force-vulvehicles",
+   "metacritic": "armored-lab-force-vulvehicles",
    "mobygames": "197343",
    "steam": "1957590"
   },

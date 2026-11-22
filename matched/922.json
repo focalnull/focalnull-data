@@ -16,6 +16,7 @@
   "enwiki": "Race Driver: Create & Race",
   "ids": {
    "igdb": "race-driver-create-and-race",
+   "metacritic": "race-driver-create-and-race",
    "mobygames": "144437"
   },
   "label_en": "Race Driver: Create & Race",
@@ -27,6 +28,7 @@
    "gog": "game/rayman_raving_rabbids",
    "howlongtobeat": "7620",
    "igdb": "rayman-raving-rabbids",
+   "metacritic": "rayman-raving-rabbids",
    "mobygames": "25485",
    "pcgamingwiki": "Rayman_Raving_Rabbids",
    "steam": "15080"
@@ -76,6 +78,7 @@
   "enwiki": "World Series of Poker: Tournament of Champions",
   "ids": {
    "igdb": "world-series-of-poker-tournament-of-champions",
+   "metacritic": "world-series-of-poker-tournament-of-champions",
    "mobygames": "24448",
    "pcgamingwiki": "World_Series_of_Poker:_Tournament_of_Champions",
    "steam": "2670"
@@ -98,6 +101,7 @@
    "gog": "game/distant_worlds_universe",
    "howlongtobeat": "19964",
    "igdb": "distant-worlds-universe",
+   "metacritic": "distant-worlds-universe",
    "mobygames": "51170",
    "pcgamingwiki": "Distant_Worlds:_Universe",
    "steam": "261470"
@@ -224,6 +228,7 @@
    "gog": "game/kurt_der_fussballmanager",
    "igdb": "kurt-der-fussballmanager",
    "mobygames": "41556",
+   "pcgamingwiki": "Kurt:_Der_Fussballmanager",
    "steam": "853320"
   },
   "label_en": "Kurt: Der Fussballmanager",
@@ -235,6 +240,7 @@
    "gog": "game/victor_vran",
    "howlongtobeat": "25238",
    "igdb": "victor-vran",
+   "metacritic": "victor-vran",
    "mobygames": "80066",
    "pcgamingwiki": "Victor_Vran",
    "steam": "345180"
@@ -263,6 +269,9 @@
   "wikidata": "Q55602922"
  },
  {
+  "ids": {
+   "metacritic": "tinker-island-survival-adventure"
+  },
   "label_en": "Tinker Island",
   "wikidata": "Q55635922"
  },
@@ -283,6 +292,7 @@
    "gog": "game/supreme_league_of_patriots_season_pass",
    "howlongtobeat": "25741",
    "igdb": "supreme-league-of-patriots",
+   "metacritic": "supreme-league-of-patriots",
    "mobygames": "117515",
    "pcgamingwiki": "Supreme_League_of_Patriots",
    "steam": "331760"
@@ -295,6 +305,7 @@
   "ids": {
    "howlongtobeat": "47050",
    "igdb": "earthfall",
+   "metacritic": "earthfall",
    "mobygames": "87525",
    "pcgamingwiki": "Earthfall",
    "steam": "415590"
@@ -319,6 +330,7 @@
    "gog": "game/metal_slug_tactics",
    "howlongtobeat": "93937",
    "igdb": "metal-slug-tactics",
+   "metacritic": "metal-slug-tactics",
    "mobygames": "232862",
    "pcgamingwiki": "Metal_Slug_Tactics",
    "steam": "1590760"
@@ -347,6 +359,7 @@
   "ids": {
    "howlongtobeat": "70042",
    "igdb": "hustle-kings-vr",
+   "metacritic": "hustle-kings-vr",
    "mobygames": "84013"
   },
   "label_en": "Hustle Kings VR",
@@ -389,6 +402,7 @@
   "ids": {
    "howlongtobeat": "80236",
    "igdb": "mini-motor-racing-x",
+   "metacritic": "mini-motor-racing-x",
    "mobygames": "139276",
    "steam": "1303990"
   },
@@ -480,6 +494,7 @@
   "ids": {
    "howlongtobeat": "60762",
    "igdb": "the-american-dream",
+   "metacritic": "the-american-dream",
    "mobygames": "105302",
    "pcgamingwiki": "The_American_Dream",
    "steam": "456180"
@@ -559,6 +574,7 @@
   "ids": {
    "howlongtobeat": "128221",
    "igdb": "protodroid-delta",
+   "metacritic": "protodroid-delta",
    "mobygames": "203984",
    "steam": "1276740"
   },
@@ -880,6 +896,7 @@
   "ids": {
    "howlongtobeat": "89529",
    "igdb": "sensorium",
+   "metacritic": "sensorium",
    "mobygames": "166722",
    "pcgamingwiki": "Sensorium",
    "steam": "1307870"

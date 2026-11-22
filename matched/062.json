@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "277",
    "igdb": "age-of-mythology",
+   "metacritic": "age-of-mythology",
    "mobygames": "7662",
    "pcgamingwiki": "Age_of_Mythology"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "4341",
    "igdb": "harvest-moon-save-the-homeland",
+   "metacritic": "harvest-moon-save-the-homeland",
    "mobygames": "6325"
   },
   "label_en": "Harvest Moon: Save the Homeland",
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "9986",
    "igdb": "the-king-of-fighters-xii",
+   "metacritic": "the-king-of-fighters-xii",
    "mobygames": "44225"
   },
   "label_en": "The King of Fighters XII",
@@ -54,6 +57,7 @@
   "ids": {
    "howlongtobeat": "5795",
    "igdb": "medieval-total-war",
+   "metacritic": "medieval-total-war",
    "mobygames": "7921",
    "pcgamingwiki": "Medieval:_Total_War",
    "steam": "345260"
@@ -86,6 +90,7 @@
   "enwiki": "Yu-Gi-Oh! The Sacred Cards",
   "ids": {
    "igdb": "yu-gi-oh-the-sacred-cards",
+   "metacritic": "yu-gi-oh-the-sacred-cards",
    "mobygames": "11146"
   },
   "label_en": "Yu-Gi-Oh! The Sacred Cards",
@@ -103,6 +108,7 @@
   "ids": {
    "howlongtobeat": "22476",
    "igdb": "big-mutha-truckers",
+   "metacritic": "big-mutha-truckers",
    "mobygames": "8964",
    "pcgamingwiki": "Big_Mutha_Truckers",
    "steam": "12364"
@@ -217,7 +223,8 @@
  {
   "enwiki": "Naruto: Clash of Ninja (video game)",
   "ids": {
-   "igdb": "naruto-clash-of-ninja"
+   "igdb": "naruto-clash-of-ninja",
+   "metacritic": "naruto-clash-of-ninja"
   },
   "label_en": "Naruto: Clash of Ninja",
   "wikidata": "Q16201062"
@@ -236,6 +243,7 @@
   "ids": {
    "howlongtobeat": "10603",
    "igdb": "traitors-gate",
+   "metacritic": "traitors-gate",
    "mobygames": "1863"
   },
   "label_en": "Traitors Gate",
@@ -250,6 +258,7 @@
   "ids": {
    "howlongtobeat": "58540",
    "igdb": "bomb-chicken",
+   "metacritic": "bomb-chicken",
    "pcgamingwiki": "Bomb_Chicken",
    "steam": "658780"
   },
@@ -273,6 +282,7 @@
   "ids": {
    "howlongtobeat": "82040",
    "igdb": "madden-nfl-21",
+   "metacritic": "madden-nfl-21",
    "mobygames": "149842",
    "pcgamingwiki": "Madden_NFL_21",
    "steam": "1239520"
@@ -286,6 +296,7 @@
    "epic": "far-cry-6",
    "howlongtobeat": "80870",
    "igdb": "far-cry-6",
+   "metacritic": "far-cry-6",
    "mobygames": "173341",
    "pcgamingwiki": "Far_Cry_6",
    "steam": "2369390"
@@ -300,6 +311,7 @@
    "gog": "game/gamedec",
    "howlongtobeat": "70865",
    "igdb": "gamedec",
+   "metacritic": "gamedec",
    "mobygames": "172317",
    "pcgamingwiki": "Gamedec",
    "steam": "917720"
@@ -338,6 +350,7 @@
    "gog": "game/popslinger",
    "howlongtobeat": "112940",
    "igdb": "popslinger",
+   "metacritic": "popslinger",
    "mobygames": "178810",
    "steam": "1928320"
   },
@@ -442,6 +455,7 @@
   "ids": {
    "howlongtobeat": "113583",
    "igdb": "like-a-dragon-infinite-wealth",
+   "metacritic": "like-a-dragon-infinite-wealth",
    "mobygames": "216560",
    "pcgamingwiki": "Like_a_Dragon:_Infinite_Wealth",
    "steam": "2072450"
@@ -1123,6 +1137,7 @@
   "ids": {
    "howlongtobeat": "145041",
    "igdb": "swords-of-legends",
+   "metacritic": "swords-of-legends",
    "pcgamingwiki": "Swords_of_Legends",
    "steam": "4729320"
   },

@@ -17,6 +17,7 @@
    "epic": "warface",
    "howlongtobeat": "19016",
    "igdb": "warface",
+   "metacritic": "warface",
    "mobygames": "66098",
    "pcgamingwiki": "Warface",
    "steam": "291480"
@@ -99,7 +100,8 @@
   "enwiki": "Around the World in 80 Days (video game)",
   "ids": {
    "howlongtobeat": "625",
-   "igdb": "around-the-world-in-80-days"
+   "igdb": "around-the-world-in-80-days",
+   "metacritic": "around-the-world-in-80-days-2004"
   },
   "label_en": "Around the World in 80 Days",
   "wikidata": "Q4795646"
@@ -120,6 +122,7 @@
    "gog": "game/brothers_a_tale_of_two_sons",
    "howlongtobeat": "12660",
    "igdb": "brothers-a-tale-of-two-sons",
+   "metacritic": "brothers-a-tale-of-two-sons",
    "mobygames": "61635",
    "pcgamingwiki": "Brothers:_A_Tale_of_Two_Sons",
    "steam": "225080"
@@ -146,6 +149,7 @@
   "ids": {
    "howlongtobeat": "6304",
    "igdb": "my-word-coach",
+   "metacritic": "my-word-coach",
    "mobygames": "32005"
   },
   "label_en": "My Word Coach",
@@ -155,6 +159,7 @@
   "enwiki": "Steel Beasts",
   "ids": {
    "igdb": "steel-beasts",
+   "metacritic": "steel-beasts",
    "mobygames": "2461"
   },
   "label_en": "Steel Beasts",
@@ -165,6 +170,7 @@
   "ids": {
    "howlongtobeat": "36980",
    "igdb": "table-top-racing-world-tour",
+   "metacritic": "table-top-racing-world-tour",
    "mobygames": "79234",
    "pcgamingwiki": "Table_Top_Racing:_World_Tour",
    "steam": "450670"
@@ -190,6 +196,7 @@
    "gog": "game/sniper_ghost_warrior_3",
    "howlongtobeat": "45277",
    "igdb": "sniper-ghost-warrior-3",
+   "metacritic": "sniper-ghost-warrior-3",
    "mobygames": "87460",
    "pcgamingwiki": "Sniper:_Ghost_Warrior_3",
    "steam": "368070"
@@ -221,6 +228,7 @@
   "ids": {
    "howlongtobeat": "94137",
    "igdb": "overwatch--1",
+   "metacritic": "overwatch-2",
    "mobygames": "192943",
    "pcgamingwiki": "Overwatch_2",
    "steam": "2357570"
@@ -231,7 +239,8 @@
  {
   "enwiki": "Song of Bloom",
   "ids": {
-   "igdb": "song-of-bloom"
+   "igdb": "song-of-bloom",
+   "metacritic": "song-of-bloom"
   },
   "label_en": "Song of Bloom",
   "wikidata": "Q86686646"
@@ -241,6 +250,7 @@
    "gog": "game/ori_and_the_blind_forest_definitive_edition",
    "howlongtobeat": "36755",
    "igdb": "ori-and-the-blind-forest-definitive-edition",
+   "metacritic": "ori-and-the-blind-forest-definitive-edition",
    "mobygames": "78427",
    "pcgamingwiki": "Ori_and_the_Blind_Forest:_Definitive_Edition",
    "steam": "387290"
@@ -252,6 +262,7 @@
   "ids": {
    "howlongtobeat": "7800",
    "igdb": "ricochet-hd",
+   "metacritic": "ricochet-hd",
    "mobygames": "120999"
   },
   "label_en": "Ricochet HD",
@@ -260,6 +271,7 @@
  {
   "ids": {
    "igdb": "scene-it-movie-night",
+   "metacritic": "scene-it-movie-night",
    "mobygames": "133662"
   },
   "label_en": "Scene It?: Movie Night",
@@ -324,6 +336,7 @@
    "gog": "game/monster_jam_steel_titans_2",
    "howlongtobeat": "89149",
    "igdb": "monster-jam-steel-titans-2",
+   "metacritic": "monster-jam-steel-titans-2",
    "mobygames": "159943",
    "pcgamingwiki": "Monster_Jam_Steel_Titans_2",
    "steam": "1205480"
@@ -410,7 +423,8 @@
  {
   "ids": {
    "howlongtobeat": "80747",
-   "igdb": "void-terrarium-plus-plus"
+   "igdb": "void-terrarium-plus-plus",
+   "metacritic": "void-trrlm-void-terrarium"
   },
   "label_en": "void tRrLM(); //Void Terrarium",
   "wikidata": "Q114253646"
@@ -819,6 +833,7 @@
  {
   "ids": {
    "igdb": "erenshor",
+   "metacritic": "erenshor",
    "steam": "2382520"
   },
   "label_en": "Erenshor",

@@ -22,6 +22,7 @@
    "gog": "game/gothic",
    "howlongtobeat": "4024",
    "igdb": "gothic",
+   "metacritic": "gothic",
    "mobygames": "3785",
    "pcgamingwiki": "Gothic",
    "steam": "65540"
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "3664",
    "igdb": "forza-motorsport-3",
+   "metacritic": "forza-motorsport-3",
    "mobygames": "45585"
   },
   "label_en": "Forza Motorsport 3",
@@ -43,6 +45,7 @@
   "enwiki": "Kirby Super Star Ultra",
   "ids": {
    "igdb": "kirby-super-star-ultra",
+   "metacritic": "kirby-super-star-ultra",
    "mobygames": "36500"
   },
   "label_en": "Kirby Super Star Ultra",
@@ -70,6 +73,7 @@
   "ids": {
    "howlongtobeat": "3397",
    "igdb": "fatal-frame-iii-the-tormented",
+   "metacritic": "fatal-frame-iii-the-tormented",
    "mobygames": "21520"
   },
   "label_en": "Fatal Frame III: The Tormented",
@@ -80,6 +84,7 @@
   "ids": {
    "howlongtobeat": "10749",
    "igdb": "ufc-undisputed-2010",
+   "metacritic": "ufc-undisputed-2010",
    "mobygames": "102596"
   },
   "label_en": "UFC Undisputed 2010",
@@ -109,6 +114,7 @@
   "enwiki": "Gauntlet: Seven Sorrows",
   "ids": {
    "igdb": "gauntlet-seven-sorrows",
+   "metacritic": "gauntlet",
    "mobygames": "20420"
   },
   "label_en": "Gauntlet: Seven Sorrows",
@@ -119,6 +125,7 @@
   "ids": {
    "howlongtobeat": "48384",
    "igdb": "disney-infinity-1-dot-0-gold-edition",
+   "metacritic": "disney-infinity",
    "mobygames": "62974",
    "pcgamingwiki": "Disney_Infinity_1.0:_Gold_Edition",
    "steam": "541640"
@@ -149,6 +156,7 @@
   "ids": {
    "howlongtobeat": "3853",
    "igdb": "gatling-gears",
+   "metacritic": "gatling-gears",
    "mobygames": "51486",
    "pcgamingwiki": "Gatling_Gears",
    "steam": "102810"
@@ -184,6 +192,7 @@
   "enwiki": "UFC: Tapout 2",
   "ids": {
    "igdb": "ufc-tapout-2",
+   "metacritic": "ufc-tapout-2",
    "mobygames": "34840"
   },
   "label_en": "UFC: Tapout 2",
@@ -202,6 +211,7 @@
   "enwiki": "Young Thor",
   "ids": {
    "igdb": "young-thor",
+   "metacritic": "young-thor",
    "mobygames": "79311"
   },
   "label_en": "Young Thor",
@@ -225,6 +235,7 @@
   "ids": {
    "howlongtobeat": "3684",
    "igdb": "freddi-fish-and-the-case-of-the-missing-kelp-seeds",
+   "metacritic": "freddi-fish-and-the-case-of-the-missing-kelp-seeds",
    "mobygames": "1199",
    "pcgamingwiki": "Freddi_Fish_and_the_Case_of_the_Missing_Kelp_Seeds",
    "steam": "283940"
@@ -236,6 +247,7 @@
   "enwiki": "The Caligula Effect",
   "ids": {
    "igdb": "the-caligula-effect",
+   "metacritic": "the-caligula-effect",
    "mobygames": "88655"
   },
   "label_en": "The Caligula Effect",
@@ -267,6 +279,7 @@
    "gog": "game/distrust",
    "howlongtobeat": "49078",
    "igdb": "distrust",
+   "metacritic": "distrust",
    "mobygames": "94895",
    "pcgamingwiki": "Distrust",
    "steam": "635200"
@@ -294,6 +307,7 @@
    "gog": "game/mutant_year_zero_road_to_eden",
    "howlongtobeat": "62811",
    "igdb": "mutant-year-zero-road-to-eden",
+   "metacritic": "mutant-year-zero-road-to-eden",
    "mobygames": "118169",
    "pcgamingwiki": "Mutant_Year_Zero:_Road_to_Eden",
    "steam": "760060"
@@ -319,6 +333,7 @@
    "gog": "game/9_monkeys_of_shaolin",
    "howlongtobeat": "71374",
    "igdb": "9-monkeys-of-shaolin",
+   "metacritic": "9-monkeys-of-shaolin",
    "mobygames": "151492",
    "pcgamingwiki": "9_Monkeys_of_Shaolin",
    "steam": "739080"
@@ -332,6 +347,7 @@
    "gog": "game/gods_trigger",
    "howlongtobeat": "65581",
    "igdb": "gods-trigger",
+   "metacritic": "gods-trigger",
    "mobygames": "125386",
    "pcgamingwiki": "God's_Trigger",
    "steam": "488730"
@@ -365,6 +381,7 @@
   "ids": {
    "howlongtobeat": "47093",
    "igdb": "bombslinger",
+   "metacritic": "bombslinger",
    "mobygames": "99738",
    "pcgamingwiki": "Bombslinger",
    "steam": "475960"
@@ -387,6 +404,7 @@
   "ids": {
    "howlongtobeat": "90981",
    "igdb": "what-the-dub",
+   "metacritic": "what-the-dub",
    "mobygames": "161925",
    "steam": "1495860"
   },
@@ -476,6 +494,7 @@
    "gog": "game/ghost_on_the_shore",
    "howlongtobeat": "96732",
    "igdb": "ghost-on-the-shore",
+   "metacritic": "ghost-on-the-shore",
    "mobygames": "142476",
    "pcgamingwiki": "Ghost_on_the_Shore",
    "steam": "1211930"

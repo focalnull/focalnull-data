@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9093",
    "igdb": "star-wars-rogue-squadron-iii-rebel-strike",
+   "metacritic": "star-wars-rogue-squadron-iii-rebel-strike",
    "mobygames": "10746"
   },
   "label_en": "Star Wars Rogue Squadron III: Rebel Strike",
@@ -15,6 +16,7 @@
    "epic": "splinter-cell-chaos-theory",
    "howlongtobeat": "10461",
    "igdb": "tom-clancy-s-splinter-cell-chaos-theory",
+   "metacritic": "tom-clancys-splinter-cell-chaos-theory",
    "mobygames": "47752",
    "pcgamingwiki": "Tom_Clancy's_Splinter_Cell:_Chaos_Theory",
    "steam": "13570"
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "1370",
    "igdb": "bugs-bunny-taz-time-busters",
+   "metacritic": "bugs-bunny-taz-time-busters",
    "mobygames": "3477",
    "pcgamingwiki": "Bugs_Bunny_&_Taz:_Time_Busters"
   },
@@ -57,6 +60,7 @@
   "ids": {
    "howlongtobeat": "6069",
    "igdb": "miner-wars-2081",
+   "metacritic": "miner-wars-2081",
    "mobygames": "63697",
    "pcgamingwiki": "Miner_Wars_2081",
    "steam": "223430"
@@ -69,6 +73,7 @@
   "ids": {
    "howlongtobeat": "5631",
    "igdb": "mario-hoops-3-on-3",
+   "metacritic": "mario-hoops-3-on-3",
    "mobygames": "24103"
   },
   "label_en": "Mario Hoops 3-on-3",
@@ -79,6 +84,7 @@
   "ids": {
    "howlongtobeat": "5691",
    "igdb": "marvel-ultimate-alliance",
+   "metacritic": "marvel-ultimate-alliance",
    "mobygames": "25234",
    "pcgamingwiki": "Marvel:_Ultimate_Alliance",
    "steam": "433300"
@@ -130,6 +136,7 @@
   "enwiki": "Earth Defense Force 2017",
   "ids": {
    "igdb": "earth-defense-force-2017",
+   "metacritic": "earth-defense-force-2017",
    "mobygames": "27388"
   },
   "label_en": "Earth Defense Force 2017",
@@ -162,6 +169,7 @@
   "ids": {
    "howlongtobeat": "756",
    "igdb": "awesomenauts",
+   "metacritic": "awesomenauts",
    "mobygames": "61149",
    "pcgamingwiki": "Awesomenauts",
    "steam": "204300"
@@ -173,6 +181,7 @@
   "enwiki": "Outcry (video game)",
   "ids": {
    "igdb": "outcry",
+   "metacritic": "outcry",
    "mobygames": "36607",
    "pcgamingwiki": "Outcry"
   },
@@ -204,6 +213,7 @@
   "enwiki": "Cy Girls (video game)",
   "ids": {
    "igdb": "cy-girls",
+   "metacritic": "cy-girls",
    "mobygames": "16255"
   },
   "label_en": "Cy Girls",
@@ -277,6 +287,7 @@
    "gog": "game/blackhole",
    "howlongtobeat": "21163",
    "igdb": "blackhole",
+   "metacritic": "blackhole",
    "mobygames": "94085",
    "pcgamingwiki": "Blackhole",
    "steam": "322680"
@@ -298,6 +309,7 @@
    "gog": "game/battlefleet_gothic_armada_1",
    "howlongtobeat": "36586",
    "igdb": "battlefleet-gothic-armada",
+   "metacritic": "battlefleet-gothic-armada",
    "mobygames": "80745",
    "pcgamingwiki": "Battlefleet_Gothic:_Armada",
    "steam": "363680"
@@ -323,6 +335,7 @@
   "ids": {
    "howlongtobeat": "109295",
    "igdb": "bail-or-jail",
+   "metacritic": "obakeidoro",
    "mobygames": "133939",
    "pcgamingwiki": "Bail_or_Jail",
    "steam": "1715980"
@@ -332,7 +345,8 @@
  },
  {
   "ids": {
-   "howlongtobeat": "8728"
+   "howlongtobeat": "8728",
+   "metacritic": "soldner-x-2-final-prototype"
   },
   "label_en": "Soldner-X 2: Final Prototype",
   "wikidata": "Q107424304"
@@ -344,6 +358,7 @@
  {
   "ids": {
    "igdb": "picross-e",
+   "metacritic": "picross-e",
    "mobygames": "88443"
   },
   "label_en": "Picross e",
@@ -353,6 +368,7 @@
   "ids": {
    "howlongtobeat": "129829",
    "igdb": "hidden-animals-photo-hunt",
+   "metacritic": "hidden-animals-photo-hunt-seek-and-find-game",
    "pcgamingwiki": "Hidden_Animals_:_Photo_Hunt._Seek_and_Find_Game",
    "steam": "922700"
   },
@@ -563,6 +579,7 @@
   "ids": {
    "howlongtobeat": "100002",
    "igdb": "natsuki-chronicles",
+   "metacritic": "natsuki-chronicles",
    "mobygames": "139459",
    "pcgamingwiki": "Natsuki_Chronicles",
    "steam": "1175190"
@@ -792,7 +809,8 @@
  {
   "ids": {
    "howlongtobeat": "52496",
-   "igdb": "radiant-historia-perfect-chronology"
+   "igdb": "radiant-historia-perfect-chronology",
+   "metacritic": "radiant-historia-perfect-chronology"
   },
   "label_en": "Radiant Historia: Perfect Chronology",
   "wikidata": "Q124463304"

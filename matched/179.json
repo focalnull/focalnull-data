@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7408",
    "igdb": "puyo-pop-fever",
+   "metacritic": "puyo-pop-fever",
    "mobygames": "18065",
    "pcgamingwiki": "Puyo_Puyo_Fever"
   },
@@ -28,6 +29,7 @@
    "gog": "game/crimsonland",
    "howlongtobeat": "2031",
    "igdb": "crimsonland",
+   "metacritic": "crimsonland",
    "mobygames": "13077",
    "pcgamingwiki": "Crimsonland",
    "steam": "262830"
@@ -49,6 +51,7 @@
   "enwiki": "EyePet",
   "ids": {
    "igdb": "eyepet",
+   "metacritic": "eyepet",
    "mobygames": "90079"
   },
   "label_en": "EyePet",
@@ -73,6 +76,7 @@
   "ids": {
    "howlongtobeat": "1827",
    "igdb": "comet-crash",
+   "metacritic": "comet-crash",
    "mobygames": "48477"
   },
   "label_en": "Comet Crash",
@@ -92,6 +96,7 @@
   "ids": {
    "howlongtobeat": "1110",
    "igdb": "blackwater",
+   "metacritic": "blackwater",
    "mobygames": "69823"
   },
   "label_en": "Blackwater",
@@ -137,7 +142,8 @@
   "enwiki": "KORG DS-10",
   "ids": {
    "howlongtobeat": "32505",
-   "igdb": "korg-ds-10"
+   "igdb": "korg-ds-10",
+   "metacritic": "korg-ds-10-synthesizer"
   },
   "label_en": "KORG DS-10",
   "wikidata": "Q6335179"
@@ -224,6 +230,7 @@
   "ids": {
    "howlongtobeat": "14962",
    "igdb": "contagion",
+   "metacritic": "contagion",
    "mobygames": "70626",
    "pcgamingwiki": "Contagion",
    "steam": "238430"
@@ -251,6 +258,7 @@
    "gog": "game/expeditions_viking",
    "howlongtobeat": "43605",
    "igdb": "expeditions-viking",
+   "metacritic": "expeditions-viking",
    "mobygames": "87516",
    "pcgamingwiki": "Expeditions:_Viking",
    "steam": "445190"
@@ -264,6 +272,7 @@
    "gog": "game/warhammer_40000_armageddon",
    "howlongtobeat": "28963",
    "igdb": "warhammer-40000-armageddon",
+   "metacritic": "warhammer-40000-armageddon",
    "mobygames": "83746",
    "pcgamingwiki": "Warhammer_40,000:_Armageddon",
    "steam": "312370"
@@ -275,7 +284,8 @@
   "enwiki": "Mom Hid My Game!",
   "ids": {
    "howlongtobeat": "66386",
-   "igdb": "mom-hid-my-game"
+   "igdb": "mom-hid-my-game",
+   "metacritic": "mom-hid-my-game"
   },
   "label_en": "Mom Hid My Game",
   "wikidata": "Q48759179"
@@ -284,6 +294,7 @@
   "enwiki": "Yo-kai Watch 3",
   "ids": {
    "igdb": "yo-kai-watch-3-sukiyaki",
+   "metacritic": "yo-kai-watch-3",
    "mobygames": "114658"
   },
   "label_en": "Yo-kai Watch 3",
@@ -294,6 +305,7 @@
   "ids": {
    "howlongtobeat": "57351",
    "igdb": "fifa-19",
+   "metacritic": "fifa-19",
    "mobygames": "114385",
    "pcgamingwiki": "FIFA_19"
   },
@@ -315,6 +327,7 @@
   "ids": {
    "howlongtobeat": "15658",
    "igdb": "art-of-balance-touch",
+   "metacritic": "art-of-balance-touch",
    "mobygames": "59317"
   },
   "label_en": "Art of Balance TOUCH!",
@@ -347,6 +360,7 @@
    "gog": "game/the_dark_crystal_age_of_resistance_tactics",
    "howlongtobeat": "69525",
    "igdb": "the-dark-crystal-age-of-resistance-tactics",
+   "metacritic": "the-dark-crystal-age-of-resistance-tactics",
    "mobygames": "141151",
    "pcgamingwiki": "The_Dark_Crystal:_Age_of_Resistance_Tactics",
    "steam": "1097790"
@@ -366,6 +380,7 @@
   "ids": {
    "howlongtobeat": "3545",
    "igdb": "final-fight-double-impact",
+   "metacritic": "final-fight-double-impact",
    "mobygames": "46072"
   },
   "label_en": "Final Fight: Double Impact",
@@ -441,6 +456,7 @@
    "epic": "the-great-war-western-front",
    "howlongtobeat": "113004",
    "igdb": "the-great-war-western-front",
+   "metacritic": "the-great-war-western-front",
    "mobygames": "201207",
    "pcgamingwiki": "The_Great_War:_Western_Front",
    "steam": "2109370"
@@ -824,6 +840,7 @@
  {
   "ids": {
    "howlongtobeat": "142424",
+   "metacritic": "peeping-dorm-manager",
    "mobygames": "213997",
    "steam": "2273420"
   },

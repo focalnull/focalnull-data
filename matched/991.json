@@ -5,6 +5,7 @@
    "gog": "game/ufo_aftermath",
    "howlongtobeat": "10752",
    "igdb": "ufo-aftermath",
+   "metacritic": "ufo-aftermath",
    "mobygames": "10575",
    "pcgamingwiki": "UFO:_Aftermath",
    "steam": "292160"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "5125",
    "igdb": "krater-shadows-over-solside",
+   "metacritic": "krater",
    "mobygames": "57702",
    "pcgamingwiki": "Krater",
    "steam": "42170"
@@ -68,6 +70,7 @@
   "ids": {
    "howlongtobeat": "13526",
    "igdb": "test-drive-ferrari-racing-legends",
+   "metacritic": "test-drive-ferrari-racing-legends",
    "mobygames": "57195",
    "pcgamingwiki": "Test_Drive:_Ferrari_Racing_Legends",
    "steam": "211970"
@@ -182,6 +185,7 @@
   "enwiki": "The SpongeBob SquarePants Movie (video game)",
   "ids": {
    "igdb": "the-spongebob-squarepants-movie",
+   "metacritic": "the-spongebob-squarepants-movie",
    "mobygames": "16000",
    "pcgamingwiki": "The_SpongeBob_SquarePants_Movie"
   },
@@ -192,6 +196,7 @@
   "enwiki": "Undead Knights",
   "ids": {
    "igdb": "undead-knights",
+   "metacritic": "undead-knights",
    "mobygames": "42760"
   },
   "label_en": "Undead Knights",
@@ -242,6 +247,7 @@
   "ids": {
    "howlongtobeat": "16703",
    "igdb": "magicka-wizard-wars",
+   "metacritic": "magicka-wizard-wars",
    "mobygames": "78164",
    "pcgamingwiki": "Magicka:_Wizard_Wars",
    "steam": "202090"
@@ -289,6 +295,7 @@
   "ids": {
    "howlongtobeat": "40179",
    "igdb": "battlerite",
+   "metacritic": "battlerite",
    "mobygames": "98038",
    "pcgamingwiki": "Battlerite",
    "steam": "504370"
@@ -305,6 +312,7 @@
   "ids": {
    "howlongtobeat": "58555",
    "igdb": "road-rage",
+   "metacritic": "road-rage",
    "mobygames": "98200",
    "pcgamingwiki": "Road_Rage",
    "steam": "499210"
@@ -317,6 +325,7 @@
   "ids": {
    "howlongtobeat": "52480",
    "igdb": "full-metal-furies",
+   "metacritic": "full-metal-furies",
    "mobygames": "101402",
    "pcgamingwiki": "Full_Metal_Furies",
    "steam": "416600"
@@ -326,6 +335,7 @@
  },
  {
   "ids": {
+   "metacritic": "inkub",
    "mobygames": "91415"
   },
   "label_en": "Inkub",
@@ -336,6 +346,7 @@
   "ids": {
    "howlongtobeat": "51918",
    "igdb": "fight-of-gods",
+   "metacritic": "fight-of-gods",
    "mobygames": "95657",
    "pcgamingwiki": "Fight_of_Gods",
    "steam": "612930"
@@ -368,6 +379,7 @@
   "ids": {
    "howlongtobeat": "73585",
    "igdb": "palace-of-cards",
+   "metacritic": "palace-of-cards",
    "pcgamingwiki": "Palace_of_Cards",
    "steam": "347950"
   },
@@ -378,6 +390,7 @@
   "ids": {
    "epic": "rollercoaster-tycoon-adventures",
    "igdb": "rollercoaster-tycoon-adventures--1",
+   "metacritic": "rollercoaster-tycoon-adventures",
    "mobygames": "118867",
    "pcgamingwiki": "RollerCoaster_Tycoon_Adventures"
   },
@@ -388,6 +401,7 @@
   "ids": {
    "howlongtobeat": "72216",
    "igdb": "artificial-iridescence",
+   "metacritic": "artificial-iridescence",
    "pcgamingwiki": "Artificial_Iridescence",
    "steam": "1144740"
   },
@@ -400,6 +414,7 @@
    "gog": "game/death_and_taxes",
    "howlongtobeat": "75335",
    "igdb": "death-and-taxes",
+   "metacritic": "death-and-taxes",
    "mobygames": "142771",
    "pcgamingwiki": "Death_and_Taxes",
    "steam": "1166290"
@@ -445,6 +460,7 @@
    "gog": "game/the_forgotten_city",
    "howlongtobeat": "52194",
    "igdb": "the-forgotten-city",
+   "metacritic": "the-forgotten-city",
    "mobygames": "168414",
    "pcgamingwiki": "The_Forgotten_City",
    "steam": "874260"
@@ -456,6 +472,7 @@
   "ids": {
    "howlongtobeat": "72836",
    "igdb": "3000th-duel",
+   "metacritic": "3000th-duel",
    "mobygames": "142209",
    "pcgamingwiki": "3000th_Duel",
    "steam": "1098080"
@@ -905,6 +922,7 @@
    "epic": "subnautica-2-d27f94",
    "howlongtobeat": "158248",
    "igdb": "subnautica-2",
+   "metacritic": "subnautica-2",
    "mobygames": "256234",
    "pcgamingwiki": "Subnautica_2",
    "steam": "1962700"

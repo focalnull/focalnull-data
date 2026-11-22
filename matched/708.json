@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8793",
    "igdb": "sonic-cd",
+   "metacritic": "sonic-cd",
    "mobygames": "3316",
    "pcgamingwiki": "Sonic_CD_(2012)",
    "steam": "200940"
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "11039",
    "igdb": "warhammer-40-000-dawn-of-war",
+   "metacritic": "warhammer-40000-dawn-of-war",
    "mobygames": "15117",
    "pcgamingwiki": "Warhammer_40,000:_Dawn_of_War",
    "steam": "4570"
@@ -47,6 +49,7 @@
   "ids": {
    "howlongtobeat": "2439",
    "igdb": "demon-s-souls",
+   "metacritic": "demons-souls-2009",
    "mobygames": "43104"
   },
   "label_en": "Demon's Souls",
@@ -75,6 +78,7 @@
   "enwiki": "Game Party",
   "ids": {
    "igdb": "game-party",
+   "metacritic": "game-party",
    "mobygames": "31398"
   },
   "label_en": "Game Party",
@@ -103,6 +107,7 @@
   "ids": {
    "howlongtobeat": "1823",
    "igdb": "microsoft-combat-flight-simulator-3-battle-for-europe",
+   "metacritic": "combat-flight-simulator-3-battle-for-europe",
    "mobygames": "8083",
    "pcgamingwiki": "Microsoft_Combat_Flight_Simulator_3:_Battle_for_Europe"
   },
@@ -146,6 +151,7 @@
   "ids": {
    "howlongtobeat": "2024",
    "igdb": "crimson-sea",
+   "metacritic": "crimson-sea",
    "mobygames": "17227"
   },
   "label_en": "Crimson Sea",
@@ -168,6 +174,7 @@
   "enwiki": "Shinobido 2: Revenge of Zen",
   "ids": {
    "igdb": "shinobido-2-revenge-of-zen",
+   "metacritic": "shinobido-2-revenge-of-zen",
    "mobygames": "58679"
   },
   "label_en": "Shinobido 2: Tales of the Ninja",
@@ -319,6 +326,7 @@
   "ids": {
    "howlongtobeat": "54003",
    "igdb": "glitch-simulator-2018",
+   "metacritic": "glitch-simulator-2018",
    "pcgamingwiki": "Glitch_Simulator_2018",
    "steam": "702090"
   },
@@ -338,6 +346,7 @@
   "ids": {
    "howlongtobeat": "20075",
    "igdb": "pavilion",
+   "metacritic": "pavilion",
    "mobygames": "92502",
    "pcgamingwiki": "Pavilion",
    "steam": "417150"
@@ -349,6 +358,7 @@
   "ids": {
    "howlongtobeat": "37078",
    "igdb": "north",
+   "metacritic": "north",
    "mobygames": "103931",
    "pcgamingwiki": "North",
    "steam": "461890"
@@ -361,6 +371,7 @@
   "ids": {
    "howlongtobeat": "67410",
    "igdb": "five-nights-at-freddys-help-wanted",
+   "metacritic": "five-nights-at-freddys-help-wanted",
    "mobygames": "127656",
    "pcgamingwiki": "Five_Nights_at_Freddy's:_Help_Wanted",
    "steam": "732690"
@@ -453,6 +464,7 @@
   "ids": {
    "howlongtobeat": "107930",
    "igdb": "wrc-generations",
+   "metacritic": "wrc-generations",
    "mobygames": "194576",
    "pcgamingwiki": "WRC_Generations",
    "steam": "1953520"
@@ -496,6 +508,7 @@
  {
   "ids": {
    "igdb": "into-the-backrooms",
+   "metacritic": "into-the-backrooms",
    "steam": "1234330"
   },
   "label_en": "INTO THE BACKROOMS",

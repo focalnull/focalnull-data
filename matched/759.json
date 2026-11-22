@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "13490",
    "igdb": "touhou-fuujinroku-mountain-of-faith",
+   "metacritic": "touhou-fuujinroku-mountain-of-faith",
    "mobygames": "70625",
    "pcgamingwiki": "Mountain_of_Faith",
    "steam": "1100140"
@@ -77,6 +78,7 @@
    "epic": "culpa-innata-8997ac",
    "howlongtobeat": "2103",
    "igdb": "culpa-innata",
+   "metacritic": "culpa-innata",
    "mobygames": "31106",
    "pcgamingwiki": "Culpa_Innata",
    "steam": "12310"
@@ -89,6 +91,7 @@
   "ids": {
    "howlongtobeat": "72309",
    "igdb": "bonetown",
+   "metacritic": "bonetown",
    "mobygames": "44821",
    "pcgamingwiki": "BoneTown",
    "steam": "288080"
@@ -122,6 +125,7 @@
   "enwiki": "NFL Tour",
   "ids": {
    "igdb": "nfl-tour",
+   "metacritic": "nfl-tour",
    "mobygames": "34276"
   },
   "label_en": "NFL Tour",
@@ -178,6 +182,7 @@
   "ids": {
    "howlongtobeat": "10952",
    "igdb": "virtua-fighter-4-evolution",
+   "metacritic": "virtua-fighter-4-evolution",
    "mobygames": "10162"
   },
   "label_en": "Virtua Fighter 4 Evolution",
@@ -216,6 +221,7 @@
   "ids": {
    "howlongtobeat": "63561",
    "igdb": "v-rally-4",
+   "metacritic": "v-rally-4",
    "mobygames": "113185",
    "pcgamingwiki": "V-Rally_4",
    "steam": "658700"
@@ -235,6 +241,7 @@
   "enwiki": "MLB Slugfest 2003",
   "ids": {
    "igdb": "mlb-slugfest-2003",
+   "metacritic": "mlb-slugfest-20-03",
    "mobygames": "6836"
   },
   "label_en": "MLB Slugfest 2003",
@@ -249,6 +256,7 @@
    "epic": "the-red-lantern",
    "howlongtobeat": "83981",
    "igdb": "the-red-lantern",
+   "metacritic": "the-red-lantern",
    "mobygames": "124061",
    "pcgamingwiki": "The_Red_Lantern",
    "steam": "1053710"
@@ -282,6 +290,7 @@
    "gog": "game/everspace_2",
    "howlongtobeat": "69806",
    "igdb": "everspace-2",
+   "metacritic": "everspace-2",
    "mobygames": "157560",
    "pcgamingwiki": "Everspace_2",
    "steam": "1128920"
@@ -316,6 +325,7 @@
    "gog": "game/the_great_perhaps",
    "howlongtobeat": "69692",
    "igdb": "the-great-perhaps",
+   "metacritic": "the-great-perhaps",
    "mobygames": "132762",
    "pcgamingwiki": "The_Great_Perhaps",
    "steam": "1016930"
@@ -328,6 +338,7 @@
   "ids": {
    "howlongtobeat": "91348",
    "igdb": "lemnis-gate",
+   "metacritic": "lemnis-gate",
    "mobygames": "172919",
    "pcgamingwiki": "Lemnis_Gate",
    "steam": "950180"
@@ -414,6 +425,7 @@
   "ids": {
    "howlongtobeat": "20254",
    "igdb": "pineview-drive",
+   "metacritic": "pineview-drive",
    "mobygames": "100453",
    "pcgamingwiki": "Pineview_Drive",
    "steam": "288880"
@@ -808,6 +820,7 @@
   "ids": {
    "howlongtobeat": "37820",
    "igdb": "fated-the-silent-oath",
+   "metacritic": "fated-the-silent-oath",
    "mobygames": "86143",
    "pcgamingwiki": "Fated:_The_Silent_Oath",
    "steam": "401820"
@@ -872,6 +885,7 @@
   "ids": {
    "howlongtobeat": "12288",
    "igdb": "nhl-rivals-2004",
+   "metacritic": "nhl-rivals-2004",
    "mobygames": "22100"
   },
   "label_en": "NHL Rivals 2004",
@@ -1255,6 +1269,7 @@
  {
   "ids": {
    "igdb": "hentai-eroshojo",
+   "pcgamingwiki": "Hentai_Eroshojo",
    "steam": "1155990"
   },
   "label_en": "Hentai Eroshojo",

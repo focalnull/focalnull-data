@@ -5,6 +5,7 @@
    "gog": "game/robin_hood",
    "howlongtobeat": "7877",
    "igdb": "robin-hood-the-legend-of-sherwood",
+   "metacritic": "robin-hood-the-legend-of-sherwood",
    "mobygames": "7907",
    "pcgamingwiki": "Robin_Hood:_The_Legend_of_Sherwood",
    "steam": "46560"
@@ -19,6 +20,7 @@
    "gog": "game/rayman_origins",
    "howlongtobeat": "7619",
    "igdb": "rayman-origins",
+   "metacritic": "rayman-origins",
    "mobygames": "53772",
    "pcgamingwiki": "Rayman_Origins",
    "steam": "207490"
@@ -91,6 +93,7 @@
   "enwiki": "Nicktoons Unite!",
   "ids": {
    "igdb": "nicktoons-unite",
+   "metacritic": "nicktoons-unite",
    "mobygames": "81572"
   },
   "label_en": "Nicktoons Unite!",
@@ -147,6 +150,7 @@
   "enwiki": "Bang! Gunship Elite",
   "ids": {
    "igdb": "bang-gunship-elite",
+   "metacritic": "bang-gunship-elite",
    "mobygames": "2586",
    "pcgamingwiki": "Bang!_Gunship_Elite"
   },
@@ -262,6 +266,7 @@
   "ids": {
    "howlongtobeat": "71763",
    "igdb": "crusader-kings-iii",
+   "metacritic": "crusader-kings-iii-console-edition",
    "mobygames": "149534",
    "pcgamingwiki": "Crusader_Kings_III",
    "steam": "1158310"
@@ -295,6 +300,7 @@
    "gog": "game/asterigos_curse_of_the_stars",
    "howlongtobeat": "97918",
    "igdb": "asterigos-curse-of-the-stars",
+   "metacritic": "asterigos-curse-of-the-stars",
    "mobygames": "193050",
    "pcgamingwiki": "Asterigos:_Curse_of_the_Stars",
    "steam": "1731070"
@@ -317,6 +323,7 @@
    "gog": "game/forgotten_fields",
    "howlongtobeat": "90470",
    "igdb": "forgotten-fields",
+   "metacritic": "forgotten-fields",
    "mobygames": "165371",
    "pcgamingwiki": "Forgotten_Fields",
    "steam": "1296980"
@@ -344,6 +351,7 @@
  {
   "ids": {
    "igdb": "color-ball--1",
+   "metacritic": "color-ball",
    "mobygames": "189414",
    "steam": "1810720"
   },
@@ -355,6 +363,7 @@
   "ids": {
    "howlongtobeat": "89154",
    "igdb": "wobbledogs",
+   "metacritic": "wobbledogs",
    "mobygames": "181323",
    "pcgamingwiki": "Wobbledogs",
    "steam": "1424330"
@@ -386,6 +395,7 @@
    "gog": "game/final_vendetta",
    "howlongtobeat": "109478",
    "igdb": "final-vendetta",
+   "metacritic": "final-vendetta",
    "mobygames": "185389",
    "pcgamingwiki": "Final_Vendetta",
    "steam": "1891090"
@@ -749,6 +759,7 @@
    "epic": "botany-manor-e7c456",
    "howlongtobeat": "116071",
    "igdb": "botany-manor",
+   "metacritic": "botany-manor",
    "mobygames": "221443",
    "pcgamingwiki": "Botany_Manor",
    "steam": "1425350"
@@ -762,6 +773,7 @@
    "epic": "house-flipper-2-f3bb66",
    "howlongtobeat": "130305",
    "igdb": "house-flipper-2",
+   "metacritic": "house-flipper-2",
    "mobygames": "213893",
    "pcgamingwiki": "House_Flipper_2",
    "steam": "1190970"
@@ -1219,6 +1231,7 @@
   "ids": {
    "howlongtobeat": "97706",
    "igdb": "star-wars-pinball-vr",
+   "metacritic": "star-wars-pinball-vr",
    "mobygames": "163448",
    "steam": "1530770"
   },
@@ -1278,6 +1291,7 @@
  {
   "ids": {
    "igdb": "police-chief-simulator",
+   "pcgamingwiki": "Police_Chief_Simulator",
    "steam": "2938460"
   },
   "label_en": "Police Chief Simulator",

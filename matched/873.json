@@ -21,6 +21,7 @@
   "ids": {
    "howlongtobeat": "7589",
    "igdb": "ratchet-clank-future-tools-of-destruction",
+   "metacritic": "ratchet-clank-future-tools-of-destruction",
    "mobygames": "30817"
   },
   "label_en": "Ratchet & Clank Future: Tools of Destruction",
@@ -44,6 +45,7 @@
   "ids": {
    "howlongtobeat": "31243",
    "igdb": "falcon-4-dot-0",
+   "metacritic": "falcon-40",
    "mobygames": "1670",
    "pcgamingwiki": "Falcon_4.0",
    "steam": "429530"
@@ -67,6 +69,7 @@
   "ids": {
    "howlongtobeat": "6413",
    "igdb": "nascar-08",
+   "metacritic": "nascar-08",
    "mobygames": "31443"
   },
   "label_en": "NASCAR 08",
@@ -132,7 +135,8 @@
  {
   "enwiki": "Body and Brain Connection",
   "ids": {
-   "igdb": "body-and-brain-connection"
+   "igdb": "body-and-brain-connection",
+   "metacritic": "body-and-brain-connection"
   },
   "label_en": "Body and Brain Connection",
   "wikidata": "Q4936873"
@@ -150,6 +154,7 @@
   "ids": {
    "howlongtobeat": "3193",
    "igdb": "etrian-odyssey-ii-heroes-of-lagaard",
+   "metacritic": "etrian-odyssey-ii-heroes-of-lagaard",
    "mobygames": "44681",
    "pcgamingwiki": "Etrian_Odyssey_II_HD",
    "steam": "1868170"
@@ -228,6 +233,7 @@
   "ids": {
    "howlongtobeat": "18226",
    "igdb": "endless-legend",
+   "metacritic": "endless-legend",
    "mobygames": "76729",
    "pcgamingwiki": "Endless_Legend",
    "steam": "289130"
@@ -240,6 +246,7 @@
   "ids": {
    "howlongtobeat": "70918",
    "igdb": "aokana-four-rhythms-across-the-blue",
+   "metacritic": "aokana-four-rhythms-across-the-blue",
    "mobygames": "78035",
    "pcgamingwiki": "Aokana_-_Four_Rhythms_Across_the_Blue",
    "steam": "1044620"
@@ -253,6 +260,7 @@
    "gog": "game/demetrios_the_big_cynical_adventure",
    "howlongtobeat": "37420",
    "igdb": "demetrios-the-big-cynical-adventure",
+   "metacritic": "demetrios-the-big-cynical-adventure",
    "mobygames": "79712",
    "pcgamingwiki": "Demetrios_-_The_Big_Cynical_Adventure",
    "steam": "451570"
@@ -265,6 +273,7 @@
   "ids": {
    "howlongtobeat": "112771",
    "igdb": "beach-head-2002",
+   "metacritic": "beach-head-2002",
    "mobygames": "5438",
    "pcgamingwiki": "Beach_Head_2002",
    "steam": "511660"
@@ -299,6 +308,7 @@
   "ids": {
    "howlongtobeat": "39302",
    "igdb": "call-of-duty-modern-warfare-remastered",
+   "metacritic": "call-of-duty-modern-warfare-remastered",
    "mobygames": "93434",
    "pcgamingwiki": "Call_of_Duty:_Modern_Warfare_Remastered",
    "steam": "393080"
@@ -356,6 +366,7 @@
    "gog": "game/ostriv",
    "howlongtobeat": "67588",
    "igdb": "ostriv",
+   "metacritic": "ostriv",
    "mobygames": "144161",
    "pcgamingwiki": "Ostriv",
    "steam": "773790"
@@ -381,6 +392,7 @@
    "epic": "a-monsters-expedition",
    "howlongtobeat": "82946",
    "igdb": "a-monsters-expedition",
+   "metacritic": "a-monsters-expedition-through-puzzling-exhibitions",
    "mobygames": "150359",
    "pcgamingwiki": "A_Monster's_Expedition",
    "steam": "1052990"
@@ -410,6 +422,7 @@
  {
   "ids": {
    "igdb": "upside",
+   "metacritic": "upside",
    "mobygames": "189382",
    "steam": "1605530"
   },
@@ -568,6 +581,7 @@
  {
   "ids": {
    "igdb": "race-me-now",
+   "metacritic": "race-me-now",
    "steam": "1588700"
   },
   "label_en": "Race me now",
@@ -972,6 +986,7 @@
  {
   "ids": {
    "igdb": "rico",
+   "metacritic": "rico",
    "mobygames": "122227",
    "pcgamingwiki": "RICO",
    "steam": "656700"

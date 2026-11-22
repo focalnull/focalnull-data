@@ -206,6 +206,7 @@
    "gog": "game/shelter_2",
    "howlongtobeat": "24642",
    "igdb": "shelter-2",
+   "metacritic": "shelter-2",
    "mobygames": "83356",
    "pcgamingwiki": "Shelter_2",
    "steam": "275100"
@@ -219,6 +220,7 @@
    "gog": "game/ys_viii_lacrimosa_of_dana",
    "howlongtobeat": "39002",
    "igdb": "ys-viii-lacrimosa-of-dana",
+   "metacritic": "ys-viii-lacrimosa-of-dana",
    "mobygames": "95841",
    "pcgamingwiki": "Ys_VIII:_Lacrimosa_of_DANA",
    "steam": "579180"
@@ -244,6 +246,7 @@
    "epic": "the-bunker-03b712",
    "howlongtobeat": "39830",
    "igdb": "the-bunker",
+   "metacritic": "the-bunker",
    "mobygames": "80767",
    "pcgamingwiki": "The_Bunker",
    "steam": "481110"
@@ -256,6 +259,7 @@
   "ids": {
    "howlongtobeat": "46117",
    "igdb": "emily-is-away-too",
+   "metacritic": "emily-is-away-too",
    "mobygames": "89336",
    "pcgamingwiki": "Emily_is_Away_Too",
    "steam": "523780"
@@ -269,6 +273,7 @@
    "gog": "game/star_control_origins",
    "howlongtobeat": "50145",
    "igdb": "star-control-origins",
+   "metacritic": "star-control-origins",
    "mobygames": "113957",
    "pcgamingwiki": "Star_Control:_Origins",
    "steam": "271260"
@@ -300,6 +305,7 @@
   "ids": {
    "igdb": "arthurs-thinking-games",
    "mobygames": "79747",
+   "pcgamingwiki": "Arthur's_Thinking_Games",
    "steam": "3461500"
   },
   "label_en": "Arthur's Thinking Games",
@@ -338,7 +344,8 @@
  {
   "enwiki": "NHL 22",
   "ids": {
-   "igdb": "nhl-22"
+   "igdb": "nhl-22",
+   "metacritic": "nhl-22"
   },
   "label_en": "NHL 22",
   "wikidata": "Q107487824"
@@ -864,6 +871,7 @@
   "ids": {
    "howlongtobeat": "30686",
    "igdb": "the-weaponographist",
+   "metacritic": "the-weaponographist",
    "mobygames": "109310",
    "pcgamingwiki": "The_Weaponographist",
    "steam": "329240"
@@ -1245,7 +1253,8 @@
  {
   "ids": {
    "howlongtobeat": "125491",
-   "igdb": "transformers-beyond-reality"
+   "igdb": "transformers-beyond-reality",
+   "metacritic": "transformers-beyond-reality"
   },
   "label_en": "Transformers Beyond Reality",
   "wikidata": "Q136348824"
@@ -1254,7 +1263,8 @@
   "enwiki": "Petit Planet",
   "ids": {
    "epic": "petit-planet-5f821d",
-   "igdb": "petit-planet"
+   "igdb": "petit-planet",
+   "metacritic": "petit-planet"
   },
   "label_en": "Petit Planet",
   "wikidata": "Q136373824"
@@ -1263,6 +1273,7 @@
   "ids": {
    "epic": "junkster-37d3df",
    "igdb": "junkster",
+   "pcgamingwiki": "Junkster",
    "steam": "1675860"
   },
   "label_en": "Junkster",

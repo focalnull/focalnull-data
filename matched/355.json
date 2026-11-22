@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1547",
    "igdb": "cars-2",
+   "metacritic": "cars-2-the-video-game",
    "mobygames": "66589",
    "pcgamingwiki": "Cars_2",
    "steam": "301760"
@@ -16,6 +17,7 @@
   "ids": {
    "igdb": "icy-tower",
    "mobygames": "27688",
+   "pcgamingwiki": "Icy_Tower_(2026)",
    "steam": "3014860"
   },
   "label_en": "Icy Tower",
@@ -27,6 +29,7 @@
    "epic": "space-empires-iv-74dacf",
    "howlongtobeat": "8845",
    "igdb": "space-empires-iv-deluxe",
+   "metacritic": "space-empires-iv",
    "mobygames": "3836",
    "pcgamingwiki": "Space_Empires_IV",
    "steam": "1610"
@@ -39,6 +42,7 @@
   "ids": {
    "howlongtobeat": "11043",
    "igdb": "warhammer-40-000-dawn-of-war-ii",
+   "metacritic": "warhammer-40000-dawn-of-war-ii",
    "mobygames": "39383",
    "pcgamingwiki": "Warhammer_40,000:_Dawn_of_War_II",
    "steam": "15620"
@@ -56,6 +60,7 @@
    "gog": "game/iridion_3d",
    "howlongtobeat": "4730",
    "igdb": "iridion-3d",
+   "metacritic": "iridion-3d",
    "mobygames": "11283",
    "pcgamingwiki": "Iridion_3D",
    "steam": "1132220"
@@ -91,6 +96,7 @@
   "enwiki": "Kuma\\War",
   "ids": {
    "igdb": "kuma-slash-war",
+   "metacritic": "kumawar",
    "mobygames": "38631"
   },
   "label_en": "Kuma\\War",
@@ -138,6 +144,7 @@
   "ids": {
    "howlongtobeat": "7758",
    "igdb": "retro-slash-grade",
+   "metacritic": "retro-grade",
    "mobygames": "102796",
    "pcgamingwiki": "Retro/Grade",
    "steam": "222660"
@@ -186,6 +193,7 @@
   "ids": {
    "howlongtobeat": "11995",
    "igdb": "comanche-4",
+   "metacritic": "comanche-4",
    "mobygames": "5553",
    "pcgamingwiki": "Comanche_4",
    "steam": "32750"
@@ -198,6 +206,7 @@
   "ids": {
    "howlongtobeat": "6607",
    "igdb": "nightsky",
+   "metacritic": "nightsky",
    "mobygames": "49868",
    "pcgamingwiki": "NightSky",
    "steam": "99700"
@@ -209,6 +218,7 @@
   "enwiki": "Fire Emblem Warriors",
   "ids": {
    "igdb": "fire-emblem-warriors",
+   "metacritic": "fire-emblem-warriors",
    "mobygames": "96451"
   },
   "label_en": "Fire Emblem Warriors",
@@ -219,6 +229,7 @@
   "ids": {
    "howlongtobeat": "50016",
    "igdb": "a-morticians-tale",
+   "metacritic": "a-morticians-tale",
    "mobygames": "97278",
    "pcgamingwiki": "A_Mortician's_Tale",
    "steam": "578720"
@@ -253,6 +264,7 @@
   "ids": {
    "howlongtobeat": "30357",
    "igdb": "stray-cat-crossing",
+   "metacritic": "stray-cat-crossing",
    "mobygames": "109082",
    "pcgamingwiki": "Stray_Cat_Crossing",
    "steam": "385330"
@@ -275,6 +287,7 @@
    "gog": "game/planet_of_lana",
    "howlongtobeat": "93459",
    "igdb": "planet-of-lana",
+   "metacritic": "planet-of-lana",
    "mobygames": "203488",
    "pcgamingwiki": "Planet_of_Lana",
    "steam": "1608230"
@@ -286,6 +299,7 @@
   "ids": {
    "howlongtobeat": "97167",
    "igdb": "100-hidden-rams",
+   "metacritic": "100-hidden-rams",
    "mobygames": "171519",
    "steam": "1708190"
   },
@@ -305,6 +319,7 @@
   "ids": {
    "howlongtobeat": "147671",
    "igdb": "time-machine--1",
+   "metacritic": "time-machine-hidden-object-game",
    "steam": "1496320"
   },
   "label_en": "Time Machine",
@@ -316,6 +331,7 @@
    "gog": "game/immortal_realms_vampire_wars",
    "howlongtobeat": "75230",
    "igdb": "immortal-realms-vampire-wars",
+   "metacritic": "immortal-realms-vampire-wars",
    "mobygames": "143313",
    "pcgamingwiki": "Immortal_Realms:_Vampire_Wars",
    "steam": "1024480"
@@ -367,7 +383,9 @@
    "gog": "game/voltaire_the_vegan_vampire",
    "howlongtobeat": "124797",
    "igdb": "voltaire-the-vegan-vampire",
+   "metacritic": "voltaire-the-vegan-vampire",
    "mobygames": "200024",
+   "pcgamingwiki": "Voltaire:_The_Vegan_Vampire",
    "steam": "1952540"
   },
   "label_en": "Voltaire: The Vegan Vampire",
@@ -577,6 +595,7 @@
   "ids": {
    "howlongtobeat": "124598",
    "igdb": "raccoo-venture",
+   "metacritic": "raccoo-venture",
    "mobygames": "213940",
    "pcgamingwiki": "Raccoo_Venture",
    "steam": "849210"
@@ -615,9 +634,11 @@
   "wikidata": "Q122826355"
  },
  {
+  "enwiki": "Selaco",
   "ids": {
    "howlongtobeat": "92132",
    "igdb": "selaco",
+   "metacritic": "selaco",
    "mobygames": "224913",
    "pcgamingwiki": "Selaco",
    "steam": "1592280"
@@ -1159,6 +1180,7 @@
  },
  {
   "ids": {
+   "metacritic": "v-rally-edition-99",
    "mobygames": "7015"
   },
   "label_en": "V-Rally: Edition 99",
@@ -1168,6 +1190,7 @@
   "enwiki": "Senua (video game)",
   "ids": {
    "igdb": "senua",
+   "metacritic": "senua",
    "pcgamingwiki": "Senua",
    "steam": "3676410"
   },

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6212",
    "igdb": "mortal-kombat-deadly-alliance",
+   "metacritic": "mortal-kombat-deadly-alliance",
    "mobygames": "7787"
   },
   "label_en": "Mortal Kombat: Deadly Alliance",
@@ -22,6 +23,7 @@
   "enwiki": "Ghosthunter (video game)",
   "ids": {
    "igdb": "ghosthunter--2",
+   "metacritic": "ghosthunter-2003",
    "mobygames": "12608"
   },
   "label_en": "Ghosthunter",
@@ -40,6 +42,7 @@
   "enwiki": "Case Closed: The Mirapolis Investigation",
   "ids": {
    "igdb": "case-closed-the-mirapolis-investigation",
+   "metacritic": "case-closed-one-truth-prevails-the-mirapolis-in",
    "mobygames": "47905"
   },
   "label_en": "Case Closed: The Mirapolis Investigation",
@@ -59,6 +62,7 @@
   "ids": {
    "howlongtobeat": "260",
    "igdb": "agatha-christie-and-then-there-were-none",
+   "metacritic": "agatha-christie-and-then-there-were-none",
    "mobygames": "19864",
    "pcgamingwiki": "Agatha_Christie:_And_Then_There_Were_None",
    "steam": "39600"
@@ -109,6 +113,7 @@
   "ids": {
    "howlongtobeat": "1434",
    "igdb": "c-12-final-resistance",
+   "metacritic": "c-12-final-resistance",
    "mobygames": "6204"
   },
   "label_en": "C-12: Final Resistance",
@@ -119,6 +124,7 @@
   "ids": {
    "howlongtobeat": "1001",
    "igdb": "bejeweled-3",
+   "metacritic": "bejeweled-3",
    "mobygames": "53258",
    "pcgamingwiki": "Bejeweled_3",
    "steam": "78000"
@@ -140,6 +146,7 @@
   "ids": {
    "howlongtobeat": "5249",
    "igdb": "lego-city-undercover-the-chase-begins",
+   "metacritic": "lego-city-undercover-the-chase-begins",
    "mobygames": "67162"
   },
   "label_en": "Lego City Undercover: The Chase Begins",
@@ -149,6 +156,7 @@
   "enwiki": "Nicktoons: Battle for Volcano Island",
   "ids": {
    "igdb": "nicktoons-battle-for-volcano-island",
+   "metacritic": "nicktoons-battle-for-volcano-island",
    "mobygames": "81580"
   },
   "label_en": "Nicktoons: Battle for Volcano Island",
@@ -158,6 +166,7 @@
   "enwiki": "The Gunstringer",
   "ids": {
    "igdb": "the-gunstringer",
+   "metacritic": "the-gunstringer",
    "mobygames": "52899"
   },
   "label_en": "The Gunstringer",
@@ -168,6 +177,9 @@
    "mobygames": "54254"
   },
   "wikidata": "Q11252543"
+ },
+ {
+  "wikidata": "Q11304543"
  },
  {
   "label_en": "Navel*Plus",
@@ -184,6 +196,7 @@
    "gog": "game/lovers_in_a_dangerous_spacetime",
    "howlongtobeat": "21703",
    "igdb": "lovers-in-a-dangerous-spacetime",
+   "metacritic": "lovers-in-a-dangerous-spacetime",
    "mobygames": "75711",
    "pcgamingwiki": "Lovers_in_a_Dangerous_Spacetime",
    "steam": "252110"
@@ -214,6 +227,7 @@
  {
   "ids": {
    "igdb": "4rc4n01d-2-retro-edition",
+   "metacritic": "4rc4n01d-2-retro-edition",
    "pcgamingwiki": "!4RC4N01D!_2:_Retro_Edition",
    "steam": "791550"
   },
@@ -321,6 +335,7 @@
   "ids": {
    "howlongtobeat": "45913",
    "igdb": "hacktag",
+   "metacritic": "hacktag",
    "mobygames": "103737",
    "pcgamingwiki": "Hacktag",
    "steam": "622770"
@@ -442,6 +457,7 @@
   "ids": {
    "howlongtobeat": "139737",
    "igdb": "monster-energy-supercross-6-the-official-videogame",
+   "metacritic": "monster-energy-supercross-the-official-videogame-6",
    "mobygames": "206037",
    "pcgamingwiki": "Monster_Energy_Supercross_6",
    "steam": "2058750"
@@ -532,6 +548,7 @@
   "ids": {
    "howlongtobeat": "70065",
    "igdb": "riftstar-raiders",
+   "metacritic": "riftstar-raiders",
    "mobygames": "104231",
    "pcgamingwiki": "RiftStar_Raiders",
    "steam": "462630"
@@ -712,6 +729,7 @@
  {
   "ids": {
    "igdb": "the-war-of-the-worlds-siberia",
+   "metacritic": "the-war-of-the-worlds-siberia",
    "pcgamingwiki": "The_War_of_the_Worlds:_Siberia",
    "steam": "3276190"
   },
@@ -790,7 +808,8 @@
  {
   "enwiki": "Katamari Damacy Rolling Live",
   "ids": {
-   "igdb": "katamari-damacy-rolling-live"
+   "igdb": "katamari-damacy-rolling-live",
+   "metacritic": "katamari-damacy-rolling-live"
   },
   "label_en": "Katamari Damacy Rolling Live",
   "wikidata": "Q133893543"
@@ -874,6 +893,7 @@
   "ids": {
    "howlongtobeat": "152079",
    "igdb": "the-fancy-pants-adventures-classic-pack",
+   "metacritic": "the-fancy-pants-adventures-classic-pack",
    "mobygames": "221992",
    "pcgamingwiki": "The_Fancy_Pants_Adventures:_Classic_Pack",
    "steam": "1668460"

@@ -32,6 +32,7 @@
   "ids": {
    "howlongtobeat": "38144",
    "igdb": "the-great-escape--1",
+   "metacritic": "the-great-escape",
    "mobygames": "3521",
    "pcgamingwiki": "The_Great_Escape",
    "steam": "814570"
@@ -54,6 +55,7 @@
   "ids": {
    "howlongtobeat": "2536",
    "igdb": "digimon-battle-spirit-2",
+   "metacritic": "digimon-battle-spirit-2",
    "mobygames": "113482"
   },
   "label_en": "Digimon Battle Spirit 2",
@@ -73,6 +75,7 @@
   "enwiki": "The Incredibles (video game)",
   "ids": {
    "igdb": "the-incredibles",
+   "metacritic": "the-incredibles",
    "mobygames": "15595",
    "pcgamingwiki": "The_Incredibles"
   },
@@ -100,6 +103,7 @@
   "enwiki": "Barbarian (2002 video game)",
   "ids": {
    "igdb": "barbarian",
+   "metacritic": "barbarian",
    "mobygames": "73303"
   },
   "label_en": "Barbarian",
@@ -260,6 +264,7 @@
   "ids": {
    "howlongtobeat": "51912",
    "igdb": "light-fall",
+   "metacritic": "light-fall",
    "mobygames": "106048",
    "pcgamingwiki": "Light_Fall",
    "steam": "416830"
@@ -279,6 +284,7 @@
   "ids": {
    "howlongtobeat": "85417",
    "igdb": "story-of-seasons-pioneers-of-olive-town",
+   "metacritic": "story-of-seasons-pioneers-of-olive-town",
    "mobygames": "159619",
    "pcgamingwiki": "Story_of_Seasons:_Pioneers_of_Olive_Town",
    "steam": "1392960"
@@ -291,6 +297,7 @@
   "ids": {
    "howlongtobeat": "103118",
    "igdb": "worlds-end-club--1",
+   "metacritic": "worlds-end-club",
    "pcgamingwiki": "World's_End_Club",
    "steam": "1570020"
   },
@@ -331,6 +338,7 @@
   "ids": {
    "howlongtobeat": "111141",
    "igdb": "river-city-saga-three-kingdoms",
+   "metacritic": "river-city-saga-three-kingdoms",
    "mobygames": "176814",
    "pcgamingwiki": "River_City_Saga:_Three_Kingdoms",
    "steam": "1013220"
@@ -404,6 +412,9 @@
   "wikidata": "Q116041093"
  },
  {
+  "ids": {
+   "metacritic": "membrane"
+  },
   "label_en": "Membrane",
   "wikidata": "Q116196093"
  },
@@ -422,6 +433,7 @@
   "ids": {
    "howlongtobeat": "47134",
    "igdb": "balthazars-dream",
+   "metacritic": "balthazars-dream",
    "mobygames": "89663",
    "pcgamingwiki": "Balthazar's_Dream",
    "steam": "583890"
@@ -516,6 +528,7 @@
    "epic": "nova-strike",
    "howlongtobeat": "132132",
    "igdb": "nova-strike",
+   "pcgamingwiki": "Nova_Strike",
    "steam": "2320280"
   },
   "label_en": "Nova Strike",
@@ -878,7 +891,8 @@
   "enwiki": "1-bit Ninja",
   "ids": {
    "howlongtobeat": "50706",
-   "igdb": "1-bit-ninja"
+   "igdb": "1-bit-ninja",
+   "metacritic": "1-bit-ninja"
   },
   "label_en": "1-bit Ninja",
   "wikidata": "Q125910093"
@@ -891,6 +905,7 @@
   "ids": {
    "howlongtobeat": "121954",
    "igdb": "baila-latino",
+   "metacritic": "baila-latino",
    "mobygames": "91720"
   },
   "label_en": "Baila Latino",

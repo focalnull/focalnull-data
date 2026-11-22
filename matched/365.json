@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6477",
    "igdb": "need-for-speed-most-wanted",
+   "metacritic": "need-for-speed-most-wanted-2005",
    "mobygames": "20125",
    "pcgamingwiki": "Need_for_Speed:_Most_Wanted"
   },
@@ -16,6 +17,7 @@
    "gog": "game/thief_2_the_metal_age",
    "howlongtobeat": "10298",
    "igdb": "thief-ii-the-metal-age",
+   "metacritic": "thief-ii-the-metal-age",
    "mobygames": "1261",
    "pcgamingwiki": "Thief_II:_The_Metal_Age",
    "steam": "211740"
@@ -28,6 +30,7 @@
   "ids": {
    "howlongtobeat": "2089",
    "igdb": "ct-special-forces",
+   "metacritic": "ct-special-forces",
    "mobygames": "28167"
   },
   "label_en": "CT Special Forces",
@@ -48,6 +51,7 @@
    "gog": "game/agarest_generations_of_war",
    "howlongtobeat": "7668",
    "igdb": "agarest-generations-of-war",
+   "metacritic": "agarest-generations-of-war",
    "mobygames": "66517",
    "pcgamingwiki": "Agarest:_Generations_of_War",
    "steam": "237890"
@@ -59,6 +63,7 @@
   "enwiki": "Star Fox Command",
   "ids": {
    "igdb": "star-fox-command",
+   "metacritic": "star-fox-command",
    "mobygames": "23814"
   },
   "label_en": "Star Fox Command",
@@ -68,6 +73,7 @@
   "enwiki": "NBA Street V3",
   "ids": {
    "igdb": "nba-street-v3",
+   "metacritic": "nba-street-v3",
    "mobygames": "23801"
   },
   "label_en": "NBA Street V3",
@@ -85,6 +91,7 @@
   "enwiki": "Wipeout HD",
   "ids": {
    "igdb": "wipeout-hd",
+   "metacritic": "wipeout-hd",
    "mobygames": "38330"
   },
   "label_en": "Wipeout HD",
@@ -182,6 +189,9 @@
  },
  {
   "enwiki": "Xbox Music Mixer",
+  "ids": {
+   "metacritic": "xbox-music-mixer"
+  },
   "label_en": "Xbox Music Mixer",
   "wikidata": "Q8043365"
  },
@@ -195,6 +205,7 @@
  {
   "ids": {
    "igdb": "american-conquest-divided-nation",
+   "metacritic": "american-conquest-divided-nation",
    "mobygames": "42054",
    "pcgamingwiki": "American_Conquest:_Divided_Nation"
   },
@@ -216,6 +227,7 @@
    "gog": "game/80_days",
    "howlongtobeat": "21838",
    "igdb": "80-days",
+   "metacritic": "80-days-2015",
    "mobygames": "72226",
    "pcgamingwiki": "80_Days_(2015)",
    "steam": "381780"
@@ -227,6 +239,7 @@
   "enwiki": "Shadow of the Beast (2016 video game)",
   "ids": {
    "igdb": "shadow-of-the-beast--1",
+   "metacritic": "shadow-of-the-beast",
    "mobygames": "80120"
   },
   "label_en": "Shadow of the Beast",
@@ -238,6 +251,7 @@
    "epic": "ghost-recon-wildlands",
    "howlongtobeat": "43499",
    "igdb": "tom-clancys-ghost-recon-wildlands",
+   "metacritic": "tom-clancys-ghost-recon-wildlands",
    "mobygames": "84785",
    "pcgamingwiki": "Tom_Clancy's_Ghost_Recon_Wildlands",
    "steam": "460930"
@@ -259,6 +273,7 @@
   "ids": {
    "howlongtobeat": "13365",
    "igdb": "elliot-quest",
+   "metacritic": "elliot-quest",
    "mobygames": "88302",
    "pcgamingwiki": "Elliot_Quest",
    "steam": "293440"
@@ -302,6 +317,7 @@
    "epic": "the-battle-of-polytopia-12fed6",
    "howlongtobeat": "50694",
    "igdb": "the-battle-of-polytopia",
+   "metacritic": "the-battle-of-polytopia",
    "mobygames": "118869",
    "pcgamingwiki": "The_Battle_of_Polytopia",
    "steam": "874390"
@@ -313,6 +329,7 @@
   "ids": {
    "howlongtobeat": "63541",
    "igdb": "anomalies",
+   "metacritic": "anomalies",
    "mobygames": "150439",
    "pcgamingwiki": "Anomalies",
    "steam": "546780"
@@ -325,6 +342,7 @@
    "gog": "game/serment_contract_with_a_devil",
    "howlongtobeat": "65133",
    "igdb": "serment-contract-with-a-devil",
+   "metacritic": "serment-contract-with-a-devil",
    "mobygames": "121526",
    "pcgamingwiki": "Serment_-_Contract_with_a_Devil",
    "steam": "632900"
@@ -339,6 +357,7 @@
    "gog": "game/blair_witch",
    "howlongtobeat": "68319",
    "igdb": "blair-witch",
+   "metacritic": "blair-witch",
    "mobygames": "134043",
    "pcgamingwiki": "Blair_Witch",
    "steam": "1092660"
@@ -351,6 +370,7 @@
   "ids": {
    "howlongtobeat": "48138",
    "igdb": "gorn",
+   "metacritic": "gorn",
    "mobygames": "98444",
    "pcgamingwiki": "Gorn",
    "steam": "578620"
@@ -362,6 +382,7 @@
   "enwiki": "All-Star Baseball 2003",
   "ids": {
    "igdb": "all-star-baseball-2003",
+   "metacritic": "all-star-baseball-2003",
    "mobygames": "6419"
   },
   "label_en": "All-Star Baseball 2003",
@@ -371,6 +392,7 @@
   "ids": {
    "howlongtobeat": "28385",
    "igdb": "dynasty-warriors-8-empires",
+   "metacritic": "dynasty-warriors-8-empires",
    "mobygames": "83540",
    "pcgamingwiki": "Dynasty_Warriors_8:_Empires",
    "steam": "322520"
@@ -407,6 +429,7 @@
    "gog": "game/what_lies_in_the_multiverse",
    "howlongtobeat": "99199",
    "igdb": "what-lies-in-the-multiverse",
+   "metacritic": "what-lies-in-the-multiverse",
    "mobygames": "181197",
    "pcgamingwiki": "What_Lies_in_the_Multiverse",
    "steam": "1721170"
@@ -793,6 +816,7 @@
   "ids": {
    "howlongtobeat": "38084",
    "igdb": "seraph",
+   "metacritic": "seraph",
    "mobygames": "87363",
    "pcgamingwiki": "Seraph",
    "steam": "425670"
@@ -832,6 +856,7 @@
    "gog": "game/ready_steady_ship",
    "howlongtobeat": "145373",
    "igdb": "ready-steady-ship",
+   "metacritic": "ready-steady-ship",
    "mobygames": "222284",
    "pcgamingwiki": "Ready,_Steady,_Ship!",
    "steam": "2225610"
@@ -1188,6 +1213,7 @@
   "enwiki": "The Legend of Zelda: Ocarina of Time (2026 video game)",
   "ids": {
    "igdb": "the-legend-of-zelda-ocarina-of-time--1",
+   "metacritic": "the-legend-of-zelda-ocarina-of-time-2026",
    "mobygames": "269737"
   },
   "label_en": "The Legend of Zelda: Ocarina of Time",

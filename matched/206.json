@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1242",
    "igdb": "bomberman-generation",
+   "metacritic": "bomberman-generation",
    "mobygames": "6651"
   },
   "label_en": "Bomberman Generation",
@@ -19,6 +20,7 @@
    "gog": "game/serious_sam_the_second_encounter",
    "howlongtobeat": "8322",
    "igdb": "serious-sam-the-second-encounter",
+   "metacritic": "serious-sam-the-second-encounter",
    "mobygames": "5623",
    "pcgamingwiki": "Serious_Sam:_The_Second_Encounter",
    "steam": "41060"
@@ -31,6 +33,7 @@
   "ids": {
    "howlongtobeat": "13800",
    "igdb": "dark-age-of-camelot",
+   "metacritic": "dark-age-of-camelot",
    "mobygames": "5403",
    "pcgamingwiki": "Dark_Age_of_Camelot"
   },
@@ -73,6 +76,7 @@
   "ids": {
    "howlongtobeat": "3199",
    "igdb": "euro-truck-simulator-2",
+   "metacritic": "euro-truck-simulator-2",
    "mobygames": "62541",
    "pcgamingwiki": "Euro_Truck_Simulator_2",
    "steam": "227300"
@@ -85,6 +89,7 @@
   "ids": {
    "howlongtobeat": "4333",
    "igdb": "harvest-moon-animal-parade",
+   "metacritic": "harvest-moon-animal-parade",
    "mobygames": "84957"
   },
   "label_en": "Harvest Moon: Animal Parade",
@@ -107,6 +112,7 @@
   "ids": {
    "howlongtobeat": "11219",
    "igdb": "wipeout-xl",
+   "metacritic": "wipeout-xl",
    "mobygames": "3134",
    "pcgamingwiki": "Wipeout_2097"
   },
@@ -117,6 +123,7 @@
   "enwiki": "WarJetz",
   "ids": {
    "igdb": "warjetz",
+   "metacritic": "warjetz",
    "mobygames": "6453"
   },
   "label_en": "WarJetz",
@@ -126,6 +133,7 @@
   "enwiki": "Dog's Life",
   "ids": {
    "igdb": "dogs-life",
+   "metacritic": "dogs-life",
    "mobygames": "11786"
   },
   "label_en": "Dog's Life",
@@ -151,7 +159,8 @@
  {
   "enwiki": "Planet Minigolf",
   "ids": {
-   "igdb": "planet-minigolf"
+   "igdb": "planet-minigolf",
+   "metacritic": "planet-minigolf"
   },
   "label_en": "Planet Minigolf",
   "wikidata": "Q3906206"
@@ -213,6 +222,7 @@
   "ids": {
    "howlongtobeat": "13716",
    "igdb": "alien-rage-unlimited",
+   "metacritic": "alien-rage",
    "mobygames": "62383",
    "pcgamingwiki": "Alien_Rage_-_Unlimited",
    "steam": "217920"
@@ -233,6 +243,7 @@
   "ids": {
    "howlongtobeat": "19539",
    "igdb": "strike-vector",
+   "metacritic": "strike-vector",
    "mobygames": "87292",
    "pcgamingwiki": "Strike_Vector",
    "steam": "246700"
@@ -290,6 +301,7 @@
   "ids": {
    "howlongtobeat": "89568",
    "igdb": "siralim-ultimate",
+   "metacritic": "siralim-ultimate",
    "mobygames": "160117",
    "steam": "1289810"
   },
@@ -311,7 +323,8 @@
  {
   "enwiki": "Crusty Demons (video game)",
   "ids": {
-   "igdb": "crusty-demons"
+   "igdb": "crusty-demons",
+   "metacritic": "crusty-demons"
   },
   "label_en": "Crusty Demons",
   "wikidata": "Q108710206"
@@ -402,6 +415,7 @@
    "gog": "game/flat_eye",
    "howlongtobeat": "107109",
    "igdb": "flat-eye",
+   "metacritic": "flat-eye",
    "mobygames": "195215",
    "pcgamingwiki": "Flat_Eye",
    "steam": "1358840"
@@ -1122,6 +1136,7 @@
  {
   "ids": {
    "igdb": "cyber-warrior",
+   "pcgamingwiki": "Cyber_Warrior",
    "steam": "726980"
   },
   "label_en": "Cyber Warrior",
@@ -1142,6 +1157,7 @@
  {
   "ids": {
    "igdb": "fearwoods",
+   "pcgamingwiki": "Fearwoods",
    "steam": "3296990"
   },
   "label_en": "Fearwoods",

@@ -5,6 +5,7 @@
    "gog": "game/to_the_moon",
    "howlongtobeat": "10387",
    "igdb": "to-the-moon",
+   "metacritic": "to-the-moon",
    "mobygames": "53654",
    "pcgamingwiki": "To_the_Moon",
    "steam": "206440"
@@ -28,6 +29,7 @@
   "ids": {
    "howlongtobeat": "389",
    "igdb": "all-pro-football-2k8",
+   "metacritic": "all-pro-football-2k8",
    "mobygames": "31077"
   },
   "label_en": "All-Pro Football 2K8",
@@ -37,6 +39,7 @@
   "enwiki": "Chick Chick Boom",
   "ids": {
    "igdb": "chick-chick-boom",
+   "metacritic": "chick-chick-boom",
    "mobygames": "39086"
   },
   "label_en": "Chick Chick Boom",
@@ -75,6 +78,7 @@
   "ids": {
    "howlongtobeat": "61511",
    "igdb": "cross-racing-championship-extreme-2005",
+   "metacritic": "cross-racing-championship-2005",
    "mobygames": "18029",
    "pcgamingwiki": "Cross_Racing_Championship_2005",
    "steam": "925550"
@@ -107,6 +111,7 @@
   "ids": {
    "howlongtobeat": "10274",
    "igdb": "the-wizard-of-oz-beyond-the-yellow-brick-road",
+   "metacritic": "the-wizard-of-oz-beyond-the-yellow-brick-road",
    "mobygames": "47133"
   },
   "label_en": "The Wizard of Oz: Beyond the Yellow Brick Road",
@@ -116,6 +121,7 @@
   "enwiki": "Warhammer: Battle for Atluma",
   "ids": {
    "igdb": "warhammer-battle-for-atluma",
+   "metacritic": "warhammer-battle-for-atluma",
    "mobygames": "26567"
   },
   "label_en": "Warhammer: Battle for Atluma",
@@ -157,6 +163,7 @@
    "gog": "game/jack_keane_2_the_fire_within",
    "howlongtobeat": "11756",
    "igdb": "jack-keane-2-the-fire-within",
+   "metacritic": "jack-keane-2-the-fire-within",
    "mobygames": "62287",
    "pcgamingwiki": "Jack_Keane_2:_The_Fire_Within",
    "steam": "236970"
@@ -197,6 +204,7 @@
    "gog": "game/interstellaria",
    "howlongtobeat": "28068",
    "igdb": "interstellaria",
+   "metacritic": "interstellaria",
    "mobygames": "99209",
    "pcgamingwiki": "Interstellaria",
    "steam": "280360"
@@ -327,6 +335,7 @@
   "ids": {
    "howlongtobeat": "89608",
    "igdb": "a-train-all-aboard-tourism",
+   "metacritic": "a-train-all-aboard-tourism",
    "steam": "1685460"
   },
   "label_en": "A-Train: All Aboard! Tourism",
@@ -783,7 +792,8 @@
   "enwiki": "Far Cry Classic",
   "ids": {
    "howlongtobeat": "16640",
-   "igdb": "far-cry-classic"
+   "igdb": "far-cry-classic",
+   "metacritic": "far-cry-classic"
   },
   "label_en": "Far Cry Classic",
   "wikidata": "Q130431379"
@@ -1088,6 +1098,7 @@
    "gog": "game/split",
    "howlongtobeat": "170286",
    "igdb": "split--4",
+   "metacritic": "split-2",
    "mobygames": "245539",
    "pcgamingwiki": "S.p.l.i.t",
    "steam": "3684610"

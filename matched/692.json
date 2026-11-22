@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "11587",
    "igdb": "zone-of-the-enders-the-2nd-runner",
+   "metacritic": "zone-of-the-enders-the-2nd-runner",
    "mobygames": "9221"
   },
   "label_en": "Zone of the Enders: The 2nd Runner",
@@ -43,6 +44,7 @@
   "enwiki": "Tatsunoko vs. Capcom",
   "ids": {
    "igdb": "tatsunoko-vs-capcom-ultimate-all-stars",
+   "metacritic": "tatsunoko-vs-capcom-ultimate-all-stars",
    "mobygames": "45850"
   },
   "label_en": "Tatsunoko vs. Capcom: Ultimate All-Stars",
@@ -94,6 +96,7 @@
    "gog": "game/deponia",
    "howlongtobeat": "2448",
    "igdb": "deponia",
+   "metacritic": "deponia",
    "mobygames": "57472",
    "pcgamingwiki": "Deponia",
    "steam": "214340"
@@ -109,6 +112,7 @@
   "enwiki": "My Horse & Me",
   "ids": {
    "igdb": "my-horse-me",
+   "metacritic": "my-horse-and-me",
    "mobygames": "38597"
   },
   "label_en": "My Horse and Me",
@@ -117,7 +121,8 @@
  {
   "enwiki": "Puzzle Guzzle",
   "ids": {
-   "igdb": "puzzle-guzzle"
+   "igdb": "puzzle-guzzle",
+   "metacritic": "puzzle-guzzle"
   },
   "label_en": "Puzzle Guzzle",
   "wikidata": "Q7262692"
@@ -126,6 +131,7 @@
   "enwiki": "Seaman (video game)",
   "ids": {
    "igdb": "seaman",
+   "metacritic": "seaman",
    "mobygames": "5545"
   },
   "label_en": "Seaman",
@@ -162,6 +168,7 @@
   "enwiki": "The Plan (video game)",
   "ids": {
    "igdb": "th3-plan",
+   "metacritic": "th3-plan",
    "mobygames": "21887",
    "pcgamingwiki": "Th3_Plan"
   },
@@ -199,6 +206,7 @@
    "gog": "game/the_solus_project",
    "howlongtobeat": "34750",
    "igdb": "the-solus-project",
+   "metacritic": "the-solus-project",
    "mobygames": "79829",
    "pcgamingwiki": "The_Solus_Project",
    "steam": "313630"
@@ -221,6 +229,7 @@
    "gog": "game/rusty_lake_roots",
    "howlongtobeat": "40902",
    "igdb": "rusty-lake-roots",
+   "metacritic": "rusty-lake-roots",
    "mobygames": "100209",
    "pcgamingwiki": "Rusty_Lake:_Roots",
    "steam": "532110"
@@ -234,6 +243,7 @@
    "gog": "game/kingdoms_castles",
    "howlongtobeat": "46505",
    "igdb": "kingdoms-and-castles",
+   "metacritic": "kingdoms-and-castles",
    "mobygames": "92962",
    "pcgamingwiki": "Kingdoms_and_Castles",
    "steam": "569480"
@@ -246,6 +256,7 @@
   "ids": {
    "howlongtobeat": "65961",
    "igdb": "oninaki",
+   "metacritic": "oninaki",
    "mobygames": "122231",
    "pcgamingwiki": "Oninaki",
    "steam": "987720"
@@ -262,6 +273,7 @@
   "ids": {
    "howlongtobeat": "80097",
    "igdb": "jump-rope-challenge",
+   "metacritic": "jump-rope-challenge",
    "mobygames": "146893"
   },
   "label_en": "Jump Rope Challenge",
@@ -348,6 +360,7 @@
   "ids": {
    "howlongtobeat": "66818",
    "igdb": "trivia-vault-movie-trivia",
+   "metacritic": "trivia-vault-movie-trivia",
    "pcgamingwiki": "Trivia_Vault:_Movie_Trivia",
    "steam": "845970"
   },
@@ -407,6 +420,7 @@
   "ids": {
    "howlongtobeat": "109778",
    "igdb": "lone-ruin",
+   "metacritic": "lone-ruin",
    "mobygames": "197819",
    "steam": "1452070"
   },
@@ -800,6 +814,7 @@
  {
   "ids": {
    "igdb": "spirit-valley",
+   "metacritic": "spirit-valley",
    "mobygames": "232701",
    "pcgamingwiki": "Spirit_Valley",
    "steam": "2649480"

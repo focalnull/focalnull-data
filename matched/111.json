@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2630",
    "igdb": "dissidia-final-fantasy",
+   "metacritic": "dissidia-final-fantasy",
    "mobygames": "42166"
   },
   "label_en": "Dissidia Final Fantasy",
@@ -15,6 +16,7 @@
    "gog": "game/aquaria",
    "howlongtobeat": "532",
    "igdb": "aquaria",
+   "metacritic": "aquaria",
    "mobygames": "31533",
    "pcgamingwiki": "Aquaria",
    "steam": "24420"
@@ -26,6 +28,7 @@
   "enwiki": "Enigma: Rising Tide",
   "ids": {
    "igdb": "enigma-rising-tide",
+   "metacritic": "enigma-rising-tide",
    "mobygames": "13257"
   },
   "label_en": "Enigma: Rising Tide",
@@ -46,6 +49,7 @@
   "ids": {
    "howlongtobeat": "1404",
    "igdb": "burnout-2-point-of-impact",
+   "metacritic": "burnout-2-point-of-impact",
    "mobygames": "8895"
   },
   "label_en": "Burnout 2: Point of Impact",
@@ -93,6 +97,7 @@
   "enwiki": "Big Air Freestyle",
   "ids": {
    "igdb": "big-air-freestyle",
+   "metacritic": "big-air-freestyle",
    "mobygames": "14069"
   },
   "label_en": "Big Air Freestyle",
@@ -147,6 +152,7 @@
   "ids": {
    "howlongtobeat": "768",
    "igdb": "azurik-rise-of-perathia",
+   "metacritic": "azurik-rise-of-perathia",
    "mobygames": "5421"
   },
   "label_en": "Azurik: Rise of Perathia",
@@ -160,6 +166,7 @@
   "enwiki": "GoDai: Elemental Force",
   "ids": {
    "igdb": "godai-elemental-force",
+   "metacritic": "godai-elemental-force",
    "mobygames": "46835"
   },
   "label_en": "Godai Elemental Force",
@@ -191,6 +198,7 @@
   "enwiki": "RayCrisis",
   "ids": {
    "igdb": "ray-crisis",
+   "metacritic": "raycrisis",
    "mobygames": "35034",
    "pcgamingwiki": "RayCrisis"
   },
@@ -222,6 +230,7 @@
   "enwiki": "BlazBlue: Clone Phantasma",
   "ids": {
    "igdb": "blazblue-clone-phantasma",
+   "metacritic": "blazblue-clonephantasma",
    "mobygames": "100025"
   },
   "label_en": "BlazBlue: Clone Phantasma",
@@ -241,6 +250,7 @@
    "gog": "game/alekhines_gun",
    "howlongtobeat": "34662",
    "igdb": "alekhines-gun",
+   "metacritic": "alekhines-gun",
    "mobygames": "77775",
    "pcgamingwiki": "Alekhine's_Gun",
    "steam": "406720"
@@ -254,6 +264,7 @@
    "epic": "crashlands",
    "howlongtobeat": "34003",
    "igdb": "crashlands",
+   "metacritic": "crashlands",
    "mobygames": "87898",
    "pcgamingwiki": "Crashlands",
    "steam": "391730"
@@ -269,6 +280,7 @@
   "ids": {
    "howlongtobeat": "25033",
    "igdb": "12-is-better-than-6",
+   "metacritic": "12-is-better-than-6",
    "mobygames": "76417",
    "pcgamingwiki": "12_is_Better_Than_6",
    "steam": "410110"
@@ -291,6 +303,7 @@
    "gog": "game/ancestors_the_humankind_odyssey",
    "howlongtobeat": "69316",
    "igdb": "ancestors-the-humankind-odyssey",
+   "metacritic": "ancestors-the-humankind-odyssey",
    "mobygames": "133842",
    "pcgamingwiki": "Ancestors:_The_Humankind_Odyssey",
    "steam": "536270"
@@ -346,6 +359,7 @@
    "gog": "game/we_are_football",
    "howlongtobeat": "97382",
    "igdb": "we-are-football",
+   "metacritic": "we-are-football",
    "mobygames": "166150",
    "pcgamingwiki": "We_Are_Football",
    "steam": "1196470"
@@ -358,6 +372,7 @@
   "ids": {
    "howlongtobeat": "96884",
    "igdb": "madden-nfl-22",
+   "metacritic": "madden-nfl-22",
    "mobygames": "169566",
    "pcgamingwiki": "Madden_NFL_22",
    "steam": "1519350"
@@ -372,6 +387,7 @@
    "gog": "game/frostpunk_2",
    "howlongtobeat": "96821",
    "igdb": "frostpunk-2",
+   "metacritic": "frostpunk-2",
    "mobygames": "230832",
    "pcgamingwiki": "Frostpunk_2",
    "steam": "1601580"
@@ -421,6 +437,7 @@
   "ids": {
    "howlongtobeat": "17508",
    "igdb": "dusty-revenge-co-op-edition",
+   "metacritic": "dusty-revenge",
    "mobygames": "104193",
    "pcgamingwiki": "Dusty_Revenge:_Co-Op_Edition",
    "steam": "252430"
@@ -586,6 +603,7 @@
   "ids": {
    "howlongtobeat": "62812",
    "igdb": "black-bird",
+   "metacritic": "black-bird",
    "mobygames": "114886",
    "pcgamingwiki": "Black_Bird",
    "steam": "857500"
@@ -635,6 +653,7 @@
   "ids": {
    "howlongtobeat": "88877",
    "igdb": "viola-the-heroines-melody",
+   "metacritic": "viola",
    "pcgamingwiki": "Viola",
    "steam": "988310"
   },
@@ -760,6 +779,7 @@
   "ids": {
    "howlongtobeat": "94216",
    "igdb": "loddlenaut",
+   "metacritic": "loddlenaut",
    "mobygames": "212185",
    "pcgamingwiki": "Loddlenaut",
    "steam": "1644940"
@@ -1260,6 +1280,7 @@
   "ids": {
    "igdb": "muddy-heights-2",
    "mobygames": "80131",
+   "pcgamingwiki": "Muddy_Heights_2",
    "steam": "463850"
   },
   "label_en": "Muddy Heights® 2",

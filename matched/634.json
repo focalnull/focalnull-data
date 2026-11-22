@@ -21,6 +21,7 @@
   "enwiki": "Rise of Nations: Rise of Legends",
   "ids": {
    "igdb": "rise-of-nations-rise-of-legends",
+   "metacritic": "rise-of-nations-rise-of-legends",
    "mobygames": "22741",
    "pcgamingwiki": "Rise_of_Nations:_Rise_of_Legends"
   },
@@ -43,6 +44,7 @@
   "ids": {
    "howlongtobeat": "5917",
    "igdb": "metal-gear-solid-hd-collection",
+   "metacritic": "metal-gear-solid-hd-collection",
    "mobygames": "54052"
   },
   "label_en": "Metal Gear Solid HD Collection",
@@ -53,6 +55,7 @@
   "ids": {
    "howlongtobeat": "10179",
    "igdb": "the-simpsons-road-rage",
+   "metacritic": "the-simpsons-road-rage",
    "mobygames": "5569"
   },
   "label_en": "The Simpsons: Road Rage",
@@ -81,7 +84,9 @@
   "ids": {
    "howlongtobeat": "1714",
    "igdb": "cid-the-dummy",
+   "metacritic": "cid-the-dummy",
    "mobygames": "56471",
+   "pcgamingwiki": "CID_the_Dummy",
    "steam": "45900"
   },
   "label_en": "CID The Dummy",
@@ -100,6 +105,7 @@
   "ids": {
    "howlongtobeat": "12003",
    "igdb": "delta-force-xtreme-2",
+   "metacritic": "delta-force-xtreme-2",
    "mobygames": "42335",
    "pcgamingwiki": "Delta_Force:_Xtreme_2",
    "steam": "32610"
@@ -167,7 +173,8 @@
  {
   "enwiki": "Diggs Nightcrawler",
   "ids": {
-   "igdb": "wonderbook-diggs-nightcrawler"
+   "igdb": "wonderbook-diggs-nightcrawler",
+   "metacritic": "wonderbook-diggs-nightcrawler"
   },
   "label_en": "Diggs Nightcrawler",
   "wikidata": "Q16267634"
@@ -190,6 +197,7 @@
  {
   "ids": {
    "igdb": "photos-with-mario",
+   "metacritic": "photos-with-mario",
    "mobygames": "61965"
   },
   "label_en": "Photos with Mario",
@@ -231,6 +239,7 @@
   "enwiki": "Star Trek Fleet Command",
   "ids": {
    "igdb": "star-trek-fleet-command",
+   "metacritic": "star-trek-fleet-command",
    "mobygames": "117854"
   },
   "label_en": "Star Trek Fleet Command",
@@ -241,6 +250,7 @@
    "gog": "game/littlewood",
    "howlongtobeat": "68803",
    "igdb": "littlewood",
+   "metacritic": "littlewood",
    "mobygames": "128562",
    "pcgamingwiki": "Littlewood",
    "steam": "894940"
@@ -250,6 +260,7 @@
  },
  {
   "ids": {
+   "metacritic": "transformers-tactical-arena",
    "pcgamingwiki": "Transformers:_Tactical_Arena"
   },
   "label_en": "Transformers: Tactical Arena",
@@ -326,6 +337,7 @@
  {
   "ids": {
    "igdb": "acorn-tactics",
+   "metacritic": "acorn-tactics",
    "mobygames": "99127"
   },
   "label_en": "ACORN Tactics",
@@ -335,6 +347,7 @@
   "ids": {
    "howlongtobeat": "41942",
    "igdb": "crush-your-enemies",
+   "metacritic": "crush-your-enemies",
    "mobygames": "101447",
    "pcgamingwiki": "Crush_Your_Enemies",
    "steam": "406850"
@@ -573,6 +586,7 @@
    "epic": "paragon-the-overprime-0bca60",
    "howlongtobeat": "116647",
    "igdb": "paragon-the-overprime",
+   "metacritic": "paragon-the-overprime",
    "mobygames": "218693",
    "pcgamingwiki": "Paragon:_The_Overprime",
    "steam": "1531430"
@@ -714,6 +728,7 @@
    "gog": "game/yakuza_5_remastered",
    "howlongtobeat": "69827",
    "igdb": "yakuza-5-remastered",
+   "metacritic": "yakuza-5-remastered",
    "mobygames": "82703",
    "pcgamingwiki": "Yakuza_5_Remastered",
    "steam": "1105510"
@@ -793,7 +808,8 @@
  },
  {
   "ids": {
-   "igdb": "teri-mix"
+   "igdb": "teri-mix",
+   "metacritic": "teri-mix"
   },
   "label_en": "Teri ☆ Mix",
   "wikidata": "Q133855634"

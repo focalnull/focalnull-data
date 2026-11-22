@@ -3,6 +3,7 @@
   "enwiki": "Zatch Bell! Mamodo Fury",
   "ids": {
    "igdb": "zatch-bell-mamodo-fury",
+   "metacritic": "zatch-bell-mamodo-fury",
    "mobygames": "40647"
   },
   "label_en": "Zatch Bell! Mamodo Fury",
@@ -32,6 +33,7 @@
    "gog": "game/cities_in_motion",
    "howlongtobeat": "1717",
    "igdb": "cities-in-motion",
+   "metacritic": "cities-in-motion",
    "mobygames": "51892",
    "pcgamingwiki": "Cities_in_Motion",
    "steam": "73010"
@@ -103,6 +105,7 @@
   "enwiki": "Summer Heat Beach Volleyball",
   "ids": {
    "igdb": "summer-heat-beach-volleyball",
+   "metacritic": "summer-heat-beach-volleyball",
    "mobygames": "9787"
   },
   "label_en": "Summer Heat Beach Volleyball",
@@ -157,6 +160,7 @@
   "ids": {
    "howlongtobeat": "19433",
    "igdb": "silent-scope-2-dark-silhouette",
+   "metacritic": "silent-scope-2-dark-silhouette",
    "mobygames": "6997"
   },
   "label_en": "Silent Scope 2: Dark Silhouette",
@@ -167,6 +171,7 @@
   "ids": {
    "howlongtobeat": "20678",
    "igdb": "the-corporate-machine--1",
+   "metacritic": "the-corporate-machine",
    "mobygames": "3377",
    "pcgamingwiki": "The_Corporate_Machine",
    "steam": "351080"
@@ -178,6 +183,7 @@
   "enwiki": "The Political Machine",
   "ids": {
    "igdb": "the-political-machine-2004",
+   "metacritic": "the-political-machine",
    "mobygames": "14465",
    "pcgamingwiki": "The_Political_Machine"
   },
@@ -189,6 +195,7 @@
   "ids": {
    "howlongtobeat": "10555",
    "igdb": "touch-the-dead",
+   "metacritic": "touch-the-dead",
    "mobygames": "31560"
   },
   "label_en": "Touch the Dead",
@@ -216,6 +223,7 @@
    "gog": "game/unrest",
    "howlongtobeat": "20338",
    "igdb": "unrest",
+   "metacritic": "unrest",
    "mobygames": "74307",
    "pcgamingwiki": "Unrest",
    "steam": "292400"
@@ -237,6 +245,7 @@
   "ids": {
    "howlongtobeat": "39542",
    "igdb": "the-king-of-fighters-xiv",
+   "metacritic": "the-king-of-fighters-xiv",
    "mobygames": "80342",
    "pcgamingwiki": "The_King_of_Fighters_XIV",
    "steam": "571260"
@@ -260,6 +269,7 @@
   "ids": {
    "howlongtobeat": "46445",
    "igdb": "ni-no-kuni-ii-revenant-kingdom--1",
+   "metacritic": "ni-no-kuni-ii-revenant-kingdom",
    "mobygames": "105938",
    "pcgamingwiki": "Ni_no_Kuni_II:_Revenant_Kingdom",
    "steam": "589360"
@@ -316,6 +326,7 @@
    "gog": "game/afterparty",
    "howlongtobeat": "57456",
    "igdb": "afterparty",
+   "metacritic": "afterparty",
    "mobygames": "136678",
    "pcgamingwiki": "Afterparty",
    "steam": "762220"
@@ -326,6 +337,7 @@
  {
   "ids": {
    "igdb": "watch-paint-dry",
+   "metacritic": "watch-paint-dry-2016",
    "pcgamingwiki": "Watch_paint_dry",
    "steam": "445730"
   },
@@ -337,6 +349,7 @@
   "ids": {
    "howlongtobeat": "75382",
    "igdb": "rock-of-ages-3-make-and-break",
+   "metacritic": "rock-of-ages-3-make-break",
    "mobygames": "146930",
    "pcgamingwiki": "Rock_of_Ages_3:_Make_&_Break",
    "steam": "1101360"
@@ -348,6 +361,7 @@
   "ids": {
    "howlongtobeat": "60498",
    "igdb": "222-hearts",
+   "metacritic": "222-hearts",
    "mobygames": "99872",
    "pcgamingwiki": "222_Hearts",
    "steam": "729570"
@@ -374,6 +388,7 @@
    "epic": "wuchang-fallen-feathers-b73462",
    "howlongtobeat": "152015",
    "igdb": "wuchang-fallen-feathers",
+   "metacritic": "wuchang-fallen-feathers",
    "mobygames": "245525",
    "pcgamingwiki": "Wuchang:_Fallen_Feathers",
    "steam": "2277560"
@@ -388,6 +403,7 @@
    "gog": "game/songs_of_conquest",
    "howlongtobeat": "68272",
    "igdb": "songs-of-conquest--1",
+   "metacritic": "songs-of-conquest",
    "mobygames": "184207",
    "pcgamingwiki": "Songs_of_Conquest",
    "steam": "867210"
@@ -476,6 +492,7 @@
   "ids": {
    "howlongtobeat": "59686",
    "igdb": "trivia-vault-literature-trivia",
+   "metacritic": "trivia-vault-literature-trivia",
    "pcgamingwiki": "Trivia_Vault:_Literature_Trivia",
    "steam": "861740"
   },
@@ -529,6 +546,7 @@
    "gog": "game/trinity_trigger",
    "howlongtobeat": "108458",
    "igdb": "trinity-trigger",
+   "metacritic": "trinity-trigger",
    "mobygames": "202229",
    "pcgamingwiki": "Trinity_Trigger",
    "steam": "2176930"
@@ -728,6 +746,7 @@
   "ids": {
    "howlongtobeat": "126255",
    "igdb": "labyrinth-of-zangetsu",
+   "metacritic": "labyrinth-of-zangetsu",
    "mobygames": "192428",
    "steam": "1922960"
   },
@@ -1271,6 +1290,7 @@
  {
   "ids": {
    "igdb": "emojikara-a-clever-emoji-match-game",
+   "metacritic": "emojikara-a-clever-emoji-match-game",
    "mobygames": "101309"
   },
   "label_en": "Emojikara: A Clever Emoji Match Game",

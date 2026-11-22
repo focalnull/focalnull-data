@@ -3,6 +3,7 @@
   "enwiki": "Shattered Galaxy",
   "ids": {
    "igdb": "shattered-galaxy",
+   "metacritic": "shattered-galaxy",
    "mobygames": "5391"
   },
   "label_en": "Shattered Galaxy",
@@ -12,6 +13,7 @@
   "enwiki": "Formula One Championship Edition",
   "ids": {
    "igdb": "formula-one-championship-edition",
+   "metacritic": "formula-one-championship-edition",
    "mobygames": "26993"
   },
   "label_en": "Formula One Championship Edition",
@@ -21,6 +23,7 @@
   "enwiki": "Juiced (video game)",
   "ids": {
    "igdb": "juiced",
+   "metacritic": "juiced",
    "mobygames": "18351",
    "pcgamingwiki": "Juiced"
   },
@@ -51,6 +54,7 @@
    "epic": "space-empires-v-0319fd",
    "howlongtobeat": "8846",
    "igdb": "space-empires-v",
+   "metacritic": "space-empires-v",
    "mobygames": "25590",
    "pcgamingwiki": "Space_Empires_V",
    "steam": "1690"
@@ -101,6 +105,7 @@
    "gog": "game/gone_home",
    "howlongtobeat": "4010",
    "igdb": "gone-home-console-edition",
+   "metacritic": "gone-home",
    "mobygames": "61647",
    "pcgamingwiki": "Gone_Home",
    "steam": "232430"
@@ -145,6 +150,7 @@
   "enwiki": "Tom Clancy's Ghost Recon (2010 video game)",
   "ids": {
    "igdb": "tom-clancys-ghost-recon",
+   "metacritic": "tom-clancys-ghost-recon-wii",
    "mobygames": "77889"
   },
   "label_en": "Tom Clancy's Ghost Recon",
@@ -173,6 +179,7 @@
    "gog": "game/diluvion",
    "howlongtobeat": "40967",
    "igdb": "diluvion",
+   "metacritic": "diluvion",
    "mobygames": "83170",
    "pcgamingwiki": "Diluvion",
    "steam": "446790"
@@ -224,6 +231,7 @@
    "gog": "game/six_ages_ride_like_the_wind",
    "howlongtobeat": "71311",
    "igdb": "six-ages-ride-like-the-wind",
+   "metacritic": "six-ages-ride-like-the-wind",
    "mobygames": "113994",
    "pcgamingwiki": "Six_Ages:_Ride_Like_the_Wind",
    "steam": "881420"
@@ -287,6 +295,7 @@
    "gog": "game/as_dusk_falls",
    "howlongtobeat": "81122",
    "igdb": "as-dusk-falls",
+   "metacritic": "as-dusk-falls",
    "mobygames": "188217",
    "pcgamingwiki": "As_Dusk_Falls",
    "steam": "1341820"
@@ -319,6 +328,7 @@
   "ids": {
    "howlongtobeat": "132436",
    "igdb": "the-banished-vault",
+   "metacritic": "the-banished-vault",
    "mobygames": "206398",
    "steam": "2341070"
   },
@@ -435,6 +445,7 @@
   "ids": {
    "howlongtobeat": "126008",
    "igdb": "moons-of-darsalon",
+   "metacritic": "moons-of-darsalon",
    "mobygames": "201974",
    "steam": "1234180"
   },
@@ -689,6 +700,7 @@
    "gog": "game/order_of_the_thorne_the_kings_challenge",
    "howlongtobeat": "34445",
    "igdb": "the-order-of-the-thorne-the-kings-challenge",
+   "metacritic": "the-order-of-the-thorne-the-kings-challenge",
    "mobygames": "88993",
    "pcgamingwiki": "Order_of_the_Thorne:_The_King's_Challenge",
    "steam": "425600"

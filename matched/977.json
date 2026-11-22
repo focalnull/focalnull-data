@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3449",
    "igdb": "fifa-soccer-13",
+   "metacritic": "fifa-soccer-13",
    "mobygames": "57972",
    "pcgamingwiki": "FIFA_13"
   },
@@ -32,6 +33,7 @@
   "enwiki": "Forsaken (video game)",
   "ids": {
    "igdb": "forsaken",
+   "metacritic": "forsaken-64",
    "mobygames": "117",
    "pcgamingwiki": "Forsaken"
   },
@@ -42,6 +44,7 @@
   "enwiki": "Madagascar Kartz",
   "ids": {
    "igdb": "madagascar-kartz",
+   "metacritic": "dreamworks-madagascar-kartz",
    "mobygames": "88902"
   },
   "label_en": "Madagascar Kartz",
@@ -58,7 +61,8 @@
  {
   "enwiki": "Fist of the North Star: Ken's Rage",
   "ids": {
-   "igdb": "fist-of-the-north-star-ken-s-rage"
+   "igdb": "fist-of-the-north-star-ken-s-rage",
+   "metacritic": "fist-of-the-north-star-kens-rage"
   },
   "label_en": "Fist of the North Star: Ken's Rage",
   "wikidata": "Q2614977"
@@ -94,6 +98,7 @@
   "ids": {
    "howlongtobeat": "73768",
    "igdb": "new-rally-x",
+   "metacritic": "new-rally-x",
    "mobygames": "25768"
   },
   "label_en": "New Rally-X",
@@ -111,6 +116,7 @@
   "enwiki": "Coffeetime Crosswords",
   "ids": {
    "igdb": "coffeetime-crosswords",
+   "metacritic": "coffeetime-crosswords",
    "mobygames": "47417"
   },
   "label_en": "Coffeetime Crosswords",
@@ -152,6 +158,7 @@
   "enwiki": "Moto Racer DS",
   "ids": {
    "igdb": "moto-racer-ds",
+   "metacritic": "moto-racer-ds",
    "mobygames": "65461"
   },
   "label_en": "Moto Racer DS",
@@ -246,6 +253,7 @@
   "ids": {
    "howlongtobeat": "97445",
    "igdb": "nine-to-five",
+   "metacritic": "nine-to-five",
    "mobygames": "176646",
    "steam": "1408680"
   },
@@ -330,6 +338,7 @@
    "gog": "game/toy_tanks",
    "howlongtobeat": "110095",
    "igdb": "toy-tanks",
+   "pcgamingwiki": "Toy_Tanks",
    "steam": "1345440"
   },
   "label_en": "Toy Tanks",
@@ -756,6 +765,7 @@
  {
   "ids": {
    "igdb": "my-style-studio-hair-salon",
+   "metacritic": "my-style-studio-hair-salon",
    "mobygames": "100360"
   },
   "label_en": "My Style Studio: Hair Salon",

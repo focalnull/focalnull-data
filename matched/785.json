@@ -29,6 +29,7 @@
    "gog": "game/tomb_raider_legend",
    "howlongtobeat": "10477",
    "igdb": "tomb-raider-legend",
+   "metacritic": "tomb-raider-legend",
    "mobygames": "21999",
    "pcgamingwiki": "Tomb_Raider:_Legend",
    "steam": "7000"
@@ -41,6 +42,7 @@
   "ids": {
    "howlongtobeat": "11310",
    "igdb": "worms-a-space-oddity",
+   "metacritic": "worms-a-space-oddity",
    "mobygames": "36587"
   },
   "label_en": "Worms: A Space Oddity",
@@ -58,6 +60,7 @@
   "enwiki": "WWE Crush Hour",
   "ids": {
    "igdb": "wwe-crush-hour",
+   "metacritic": "wwe-crush-hour",
    "mobygames": "8701"
   },
   "label_en": "WWE Crush Hour",
@@ -110,6 +113,7 @@
   "enwiki": "Furu Furu Park",
   "ids": {
    "igdb": "furu-furu-park",
+   "metacritic": "furu-furu-park",
    "mobygames": "76075"
   },
   "label_en": "Furu Furu Park",
@@ -133,6 +137,9 @@
   "wikidata": "Q7746785"
  },
  {
+  "ids": {
+   "metacritic": "trudys-time-and-place-house"
+  },
   "label_en": "Trudy's Time & Place House",
   "wikidata": "Q10698785"
  },
@@ -156,6 +163,7 @@
   "enwiki": "9 Elefants",
   "ids": {
    "igdb": "9-elefants",
+   "metacritic": "9-elefants",
    "mobygames": "118072"
   },
   "label_en": "9 Elefants",
@@ -168,6 +176,7 @@
    "gog": "game/inside",
    "howlongtobeat": "21694",
    "igdb": "inside",
+   "metacritic": "inside",
    "mobygames": "79643",
    "pcgamingwiki": "Inside",
    "steam": "304430"
@@ -180,6 +189,7 @@
   "ids": {
    "howlongtobeat": "42014",
    "igdb": "astro-duel",
+   "metacritic": "astro-duel",
    "mobygames": "94116",
    "pcgamingwiki": "Astro_Duel",
    "steam": "429690"
@@ -201,6 +211,7 @@
    "gog": "game/someday_youll_return",
    "howlongtobeat": "77880",
    "igdb": "someday-youll-return",
+   "metacritic": "someday-youll-return",
    "mobygames": "143603",
    "pcgamingwiki": "Someday_You'll_Return",
    "steam": "840370"
@@ -211,6 +222,7 @@
  {
   "ids": {
    "igdb": "elf-bowling-7-1-slash-7-the-last-insult",
+   "metacritic": "elf-bowling-7-17-the-last-insult",
    "mobygames": "34717"
   },
   "label_en": "Elf Bowling 7 ⅐: The Last Insult",
@@ -255,6 +267,7 @@
    "gog": "game/sam_max_beyond_time_and_space",
    "howlongtobeat": "8111",
    "igdb": "sam-and-max-beyond-time-and-space",
+   "metacritic": "sam-max-beyond-time-and-space-remastered",
    "mobygames": "175705",
    "pcgamingwiki": "Sam_&_Max:_Beyond_Time_and_Space_(2021)",
    "steam": "1747050"
@@ -298,6 +311,7 @@
   "ids": {
    "howlongtobeat": "47185",
    "igdb": "blink",
+   "metacritic": "blink",
    "mobygames": "150862",
    "pcgamingwiki": "Blink",
    "steam": "447210"
@@ -1145,6 +1159,7 @@
  {
   "ids": {
    "igdb": "road-to-jukai--1",
+   "pcgamingwiki": "Road_to_Jukai",
    "steam": "4124320"
   },
   "label_en": "Road to Jukai",
@@ -1174,6 +1189,7 @@
   "ids": {
    "igdb": "ecchi-neko-girls-puzzle",
    "mobygames": "130060",
+   "pcgamingwiki": "ECCHI_NEKO_GIRLS_PUZZLE",
    "steam": "1019630"
   },
   "label_en": "Ecchi Neko Girls Puzzle",

@@ -3,7 +3,8 @@
   "enwiki": "Fate/Unlimited Codes",
   "ids": {
    "howlongtobeat": "3417",
-   "igdb": "fate-slash-unlimited-codes"
+   "igdb": "fate-slash-unlimited-codes",
+   "metacritic": "fateunlimited-codes"
   },
   "label_en": "Fate/unlimited codes",
   "wikidata": "Q427467"
@@ -41,6 +42,7 @@
   "ids": {
    "howlongtobeat": "10707",
    "igdb": "turok-dinosaur-hunter",
+   "metacritic": "turok-remastered",
    "mobygames": "2203",
    "pcgamingwiki": "Turok:_Dinosaur_Hunter"
   },
@@ -58,6 +60,7 @@
   "enwiki": "Disney's Aladdin (SNES video game)",
   "ids": {
    "igdb": "disney-s-aladdin",
+   "metacritic": "disneys-aladdin",
    "mobygames": "43932"
   },
   "label_en": "Disney's Aladdin",
@@ -79,7 +82,8 @@
  {
   "enwiki": "Raving Rabbids: Alive & Kicking",
   "ids": {
-   "igdb": "raving-rabbids-alive-and-kicking"
+   "igdb": "raving-rabbids-alive-and-kicking",
+   "metacritic": "raving-rabbids-alive-and-kicking"
   },
   "label_en": "Raving Rabbids: Alive & Kicking",
   "wikidata": "Q3928467"
@@ -121,6 +125,7 @@
   "ids": {
    "howlongtobeat": "7993",
    "igdb": "rpg-maker-3",
+   "metacritic": "rpg-maker-3",
    "mobygames": "24896"
   },
   "label_en": "RPG Maker 3",
@@ -187,6 +192,7 @@
    "gog": "game/elite_warriors_vietnam",
    "howlongtobeat": "28463",
    "igdb": "elite-warriors-vietnam",
+   "metacritic": "elite-warriors-vietnam",
    "mobygames": "23953",
    "pcgamingwiki": "Elite_Warriors:_Vietnam",
    "steam": "514140"
@@ -198,6 +204,7 @@
   "enwiki": "Persona 2: Eternal Punishment",
   "ids": {
    "igdb": "persona-2-eternal-punishment",
+   "metacritic": "persona-2-eternal-punishment",
    "mobygames": "5033"
   },
   "label_en": "Persona 2: Eternal Punishment",
@@ -209,6 +216,7 @@
    "gog": "game/kingdom",
    "howlongtobeat": "31216",
    "igdb": "kingdom-classic--1",
+   "metacritic": "kingdom",
    "mobygames": "75495",
    "pcgamingwiki": "Kingdom:_Classic",
    "steam": "368230"
@@ -221,6 +229,7 @@
   "ids": {
    "howlongtobeat": "28657",
    "igdb": "move-or-die",
+   "metacritic": "move-or-die",
    "mobygames": "84803",
    "pcgamingwiki": "Move_or_Die",
    "steam": "323850"
@@ -233,6 +242,7 @@
    "epic": "kingdom-hearts-hd-1-5-2-5-remix",
    "howlongtobeat": "42802",
    "igdb": "kingdom-hearts-hd-1-dot-5-plus-2-dot-5-remix",
+   "metacritic": "kingdom-hearts-hd-i5-plus-ii5-remix",
    "mobygames": "85079",
    "pcgamingwiki": "Kingdom_Hearts_HD_1.5_+_2.5_ReMIX",
    "steam": "2552430"
@@ -247,6 +257,7 @@
    "gog": "game/biomutant",
    "howlongtobeat": "48568",
    "igdb": "biomutant",
+   "metacritic": "biomutant",
    "mobygames": "165105",
    "pcgamingwiki": "Biomutant",
    "steam": "597820"
@@ -267,6 +278,7 @@
   "ids": {
    "howlongtobeat": "57504",
    "igdb": "wolfenstein-youngblood",
+   "metacritic": "wolfenstein-youngblood",
    "mobygames": "130645",
    "pcgamingwiki": "Wolfenstein:_Youngblood",
    "steam": "1056960"
@@ -277,6 +289,7 @@
  {
   "ids": {
    "igdb": "furry-chronicles",
+   "metacritic": "furry-chronicles",
    "pcgamingwiki": "Furry_Chronicles",
    "steam": "1035270"
   },
@@ -306,6 +319,7 @@
   "ids": {
    "howlongtobeat": "6418",
    "igdb": "nation-red",
+   "metacritic": "nation-red",
    "mobygames": "54554",
    "pcgamingwiki": "Nation_Red",
    "steam": "39800"
@@ -319,6 +333,7 @@
    "epic": "fuser",
    "howlongtobeat": "84693",
    "igdb": "fuser",
+   "metacritic": "fuser",
    "mobygames": "153182",
    "pcgamingwiki": "Fuser",
    "steam": "1331440"
@@ -330,6 +345,7 @@
   "ids": {
    "howlongtobeat": "37858",
    "igdb": "waltz-of-the-wizard--1",
+   "metacritic": "waltz-of-the-wizard",
    "mobygames": "106544",
    "pcgamingwiki": "Waltz_of_the_Wizard",
    "steam": "436820"
@@ -349,6 +365,7 @@
   "ids": {
    "howlongtobeat": "105221",
    "igdb": "its-six-random-characters-and-a-single-floor-dungeon-thats-the-whole-game",
+   "metacritic": "its-six-random-characters-and-a-single-floor-dungeon-thats-the-whole-game",
    "steam": "1452000"
   },
   "label_en": "It's Six Random Characters and a Single Floor Dungeon, That's the Whole Game",
@@ -681,6 +698,7 @@
   "ids": {
    "howlongtobeat": "26299",
    "igdb": "lemma",
+   "metacritic": "lemma",
    "mobygames": "76858",
    "pcgamingwiki": "Lemma",
    "steam": "300340"
@@ -733,6 +751,7 @@
  {
   "ids": {
    "igdb": "coqui-the-game",
+   "metacritic": "coqui-the-game",
    "mobygames": "101445"
   },
   "label_en": "Coqui The Game",
@@ -1045,6 +1064,7 @@
   "ids": {
    "howlongtobeat": "184261",
    "igdb": "red-chat-ritual-tsumimi-time",
+   "metacritic": "red-chat-ritual-tsumimi-time",
    "steam": "4413070"
   },
   "label_en": "Red Chat Ritual: Tsumimi Time",

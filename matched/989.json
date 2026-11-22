@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "6563",
    "igdb": "nhl-13",
+   "metacritic": "nhl-13",
    "mobygames": "80172"
   },
   "label_en": "NHL 13",
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "37366",
    "igdb": "roblox",
+   "metacritic": "roblox",
    "mobygames": "74075",
    "pcgamingwiki": "Roblox"
   },
@@ -46,6 +48,7 @@
   "ids": {
    "howlongtobeat": "3863",
    "igdb": "gears-of-war-2",
+   "metacritic": "gears-of-war-2",
    "mobygames": "38697"
   },
   "label_en": "Gears of War 2",
@@ -55,6 +58,7 @@
   "enwiki": "Crush (video game)",
   "ids": {
    "igdb": "crush",
+   "metacritic": "crush",
    "mobygames": "28554"
   },
   "label_en": "Crush",
@@ -113,6 +117,7 @@
   "enwiki": "Fur Fighters",
   "ids": {
    "igdb": "fur-fighters-viggos-revenge",
+   "metacritic": "fur-fighters",
    "mobygames": "3267",
    "pcgamingwiki": "Fur_Fighters"
   },
@@ -195,6 +200,7 @@
    "gog": "game/goodbye_deponia",
    "howlongtobeat": "14153",
    "igdb": "goodbye-deponia",
+   "metacritic": "goodbye-deponia",
    "mobygames": "64134",
    "pcgamingwiki": "Goodbye_Deponia",
    "steam": "241910"
@@ -266,6 +272,7 @@
    "gog": "game/neversong",
    "howlongtobeat": "78624",
    "igdb": "neversong",
+   "metacritic": "neversong",
    "mobygames": "145423",
    "pcgamingwiki": "Neversong",
    "steam": "733210"
@@ -286,6 +293,7 @@
   "ids": {
    "howlongtobeat": "56088",
    "igdb": "the-gardens-between",
+   "metacritic": "the-gardens-between",
    "mobygames": "112664",
    "pcgamingwiki": "The_Gardens_Between",
    "steam": "600990"
@@ -311,6 +319,7 @@
   "ids": {
    "howlongtobeat": "94536",
    "igdb": "red-solstice-2-survivors",
+   "metacritic": "red-solstice-2-survivors",
    "mobygames": "166394",
    "pcgamingwiki": "Red_Solstice_2:_Survivors",
    "steam": "768520"
@@ -339,6 +348,7 @@
   "ids": {
    "howlongtobeat": "108267",
    "igdb": "yurukill-the-calumniation-games",
+   "metacritic": "yurukill-the-calumniation-games",
    "mobygames": "187795",
    "pcgamingwiki": "Yurukill:_The_Calumniation_Games",
    "steam": "1733840"
@@ -362,6 +372,7 @@
   "ids": {
    "howlongtobeat": "24921",
    "igdb": "the-treasures-of-montezuma",
+   "metacritic": "the-treasures-of-montezuma",
    "mobygames": "54770"
   },
   "label_en": "The Treasures of Montezuma",
@@ -661,6 +672,7 @@
    "epic": "football-manager-2024",
    "howlongtobeat": "137711",
    "igdb": "football-manager-2024",
+   "metacritic": "football-manager-2024",
    "mobygames": "211475",
    "pcgamingwiki": "Football_Manager_2024",
    "steam": "2252570"
@@ -672,6 +684,7 @@
   "ids": {
    "howlongtobeat": "112001",
    "igdb": "aka",
+   "metacritic": "aka",
    "mobygames": "196387",
    "pcgamingwiki": "Aka",
    "steam": "1591450"
@@ -792,6 +805,7 @@
    "gog": "game/bunny_garden",
    "howlongtobeat": "147423",
    "igdb": "bunny-garden",
+   "metacritic": "bunny-garden",
    "mobygames": "222203",
    "pcgamingwiki": "Bunny_Garden",
    "steam": "2654470"
@@ -1166,6 +1180,7 @@
  {
   "ids": {
    "igdb": "simplemovie",
+   "pcgamingwiki": "SimpleMovie",
    "steam": "997370"
   },
   "label_en": "SimpleMovie",
@@ -1200,6 +1215,7 @@
  {
   "enwiki": "Atelier Karia: The Night Kingdom & the Guide of Memories",
   "ids": {
+   "pcgamingwiki": "Atelier_Karia:_The_Night_Kingdom_&_the_Guide_of_Memories",
    "steam": "4532500"
   },
   "label_en": "Atelier Karia: The Night Kingdom & the Guide of Memories",

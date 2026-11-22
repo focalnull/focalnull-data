@@ -3,6 +3,7 @@
   "enwiki": "Spirit Camera",
   "ids": {
    "igdb": "spirit-camera-the-cursed-memoir",
+   "metacritic": "spirit-camera-the-cursed-memoir",
    "mobygames": "82886"
   },
   "label_en": "Spirit Camera: The Cursed Memoir",
@@ -22,6 +23,7 @@
   "enwiki": "Iron Man 2 (video game)",
   "ids": {
    "igdb": "iron-man-2--1",
+   "metacritic": "iron-man-2",
    "mobygames": "77123"
   },
   "label_en": "Iron Man 2",
@@ -31,6 +33,7 @@
   "enwiki": "Ninja Spirit",
   "ids": {
    "igdb": "ninja-spirit",
+   "metacritic": "ninja-spirit",
    "mobygames": "18643"
   },
   "label_en": "Ninja Spirit",
@@ -42,6 +45,7 @@
    "epic": "max-mechanized-assault-and-exploration-0722cb",
    "howlongtobeat": "5466",
    "igdb": "m-a-x-mechanized-assault-exploration",
+   "metacritic": "max-mechanized-assault-exploration",
    "mobygames": "2180",
    "pcgamingwiki": "M.A.X.:_Mechanized_Assault_and_Exploration",
    "steam": "615250"
@@ -88,6 +92,7 @@
   "ids": {
    "howlongtobeat": "7813",
    "igdb": "ridge-racer-v",
+   "metacritic": "ridge-racer-v",
    "mobygames": "3632"
   },
   "label_en": "Ridge Racer V",
@@ -98,6 +103,7 @@
   "ids": {
    "howlongtobeat": "1774",
    "igdb": "cocoto-fishing-master",
+   "metacritic": "cocoto-fishing-master",
    "mobygames": "41219"
   },
   "label_en": "Cocoto Fishing Master",
@@ -157,6 +163,7 @@
    "gog": "game/london_detective_mysteria",
    "howlongtobeat": "62920",
    "igdb": "london-detective-mysteria",
+   "metacritic": "london-detective-mysteria",
    "mobygames": "114211",
    "pcgamingwiki": "London_Detective_Mysteria",
    "steam": "627350"
@@ -201,6 +208,7 @@
    "gog": "game/iconoclasts",
    "howlongtobeat": "9939",
    "igdb": "iconoclasts",
+   "metacritic": "iconoclasts",
    "mobygames": "101724",
    "pcgamingwiki": "Iconoclasts",
    "steam": "393520"
@@ -242,6 +250,7 @@
   "ids": {
    "howlongtobeat": "59258",
    "igdb": "pool-panic",
+   "metacritic": "pool-panic",
    "mobygames": "111200",
    "pcgamingwiki": "Pool_Panic",
    "steam": "522240"
@@ -253,6 +262,7 @@
   "ids": {
    "howlongtobeat": "17512",
    "igdb": "melodys-escape",
+   "metacritic": "melodys-escape",
    "mobygames": "80240",
    "pcgamingwiki": "Melody's_Escape",
    "steam": "270210"
@@ -272,6 +282,7 @@
    "epic": "ghostbusters-the-video-game-remastered",
    "howlongtobeat": "67957",
    "igdb": "ghostbusters-the-video-game-remastered",
+   "metacritic": "ghostbusters-the-video-game-remastered",
    "mobygames": "135566",
    "pcgamingwiki": "Ghostbusters:_The_Video_Game_Remastered",
    "steam": "1449280"
@@ -354,6 +365,7 @@
    "epic": "roots-of-pacha",
    "howlongtobeat": "110132",
    "igdb": "roots-of-pacha",
+   "metacritic": "roots-of-pacha",
    "mobygames": "202230",
    "pcgamingwiki": "Roots_of_Pacha",
    "steam": "1245560"
@@ -421,6 +433,7 @@
   "ids": {
    "howlongtobeat": "125203",
    "igdb": "dcs-justice-league-cosmic-chaos",
+   "metacritic": "dcs-justice-league-cosmic-chaos",
    "mobygames": "201373",
    "pcgamingwiki": "DC's_Justice_League:_Cosmic_Chaos",
    "steam": "1944850"
@@ -441,7 +454,8 @@
  },
  {
   "ids": {
-   "igdb": "fragments-note-2"
+   "igdb": "fragments-note-2",
+   "metacritic": "fragments-note2-sideyudzuki"
   },
   "label_en": "Fragment’s Note 2 Side: Yukitsuki",
   "wikidata": "Q119850903"
@@ -499,6 +513,7 @@
    "gog": "game/road_96_mile_0",
    "howlongtobeat": "122955",
    "igdb": "road-96-mile-0",
+   "metacritic": "road-96-mile-0",
    "mobygames": "201269",
    "pcgamingwiki": "Road_96:_Mile_0",
    "steam": "2095340"
@@ -512,6 +527,7 @@
    "gog": "game/welcome_to_elk",
    "howlongtobeat": "83200",
    "igdb": "welcome-to-elk",
+   "metacritic": "welcome-to-elk",
    "mobygames": "150639",
    "pcgamingwiki": "Elk",
    "steam": "1015940"

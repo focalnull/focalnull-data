@@ -32,6 +32,7 @@
   "ids": {
    "howlongtobeat": "10209",
    "igdb": "the-spiderwick-chronicles",
+   "metacritic": "the-spiderwick-chronicles",
    "mobygames": "32809",
    "pcgamingwiki": "The_Spiderwick_Chronicles"
   },
@@ -44,6 +45,7 @@
    "gog": "game/xiii",
    "howlongtobeat": "11413",
    "igdb": "xiii",
+   "metacritic": "xiii",
    "mobygames": "11251",
    "pcgamingwiki": "XIII",
    "steam": "1170760"
@@ -57,6 +59,7 @@
    "epic": "rainbow-six-vegas",
    "howlongtobeat": "10455",
    "igdb": "tom-clancy-s-rainbow-six-vegas",
+   "metacritic": "tom-clancys-rainbow-six-vegas",
    "mobygames": "25557",
    "pcgamingwiki": "Tom_Clancy's_Rainbow_Six:_Vegas",
    "steam": "13540"
@@ -68,6 +71,7 @@
   "enwiki": "Mega Man Powered Up",
   "ids": {
    "igdb": "mega-man-powered-up",
+   "metacritic": "mega-man-powered-up",
    "mobygames": "22090"
   },
   "label_en": "Mega Man Powered Up",
@@ -110,6 +114,7 @@
   "ids": {
    "howlongtobeat": "2077",
    "igdb": "crystal-quest-classic",
+   "metacritic": "crystal-quest",
    "mobygames": "30781",
    "pcgamingwiki": "Crystal_Quest_Classic",
    "steam": "497510"
@@ -146,6 +151,7 @@
   "enwiki": "Robot Alchemic Drive",
   "ids": {
    "igdb": "robot-alchemic-drive",
+   "metacritic": "robot-alchemic-drive",
    "mobygames": "9568"
   },
   "label_en": "Robot Alchemic Drive",
@@ -155,6 +161,7 @@
   "enwiki": "Sanity: Aiken's Artifact",
   "ids": {
    "igdb": "sanity-aikens-artifact",
+   "metacritic": "sanity-aikens-artifact",
    "pcgamingwiki": "Sanity:_Aiken's_Artifact"
   },
   "label_en": "Sanity: Aiken's Artifact",
@@ -164,6 +171,7 @@
   "enwiki": "Shox",
   "ids": {
    "igdb": "shox",
+   "metacritic": "shox",
    "mobygames": "47818"
   },
   "label_en": "Shox",
@@ -182,6 +190,7 @@
   "enwiki": "Winter Sports: The Ultimate Challenge",
   "ids": {
    "igdb": "winter-sports-the-ultimate-challenge",
+   "metacritic": "winter-sports-the-ultimate-challenge",
    "mobygames": "32168"
   },
   "label_en": "Winter Sports: The Ultimate Challenge",
@@ -201,6 +210,7 @@
   "ids": {
    "howlongtobeat": "24992",
    "igdb": "mini-desktop-racing",
+   "metacritic": "mini-desktop-racing",
    "mobygames": "91621"
   },
   "label_en": "Mini Desktop Racing",
@@ -252,6 +262,7 @@
    "gog": "game/lumino_city",
    "howlongtobeat": "23212",
    "igdb": "lumino-city",
+   "metacritic": "lumino-city",
    "mobygames": "79252",
    "pcgamingwiki": "Lumino_City",
    "steam": "205020"
@@ -277,6 +288,7 @@
   "enwiki": "Ninjala",
   "ids": {
    "igdb": "ninjala",
+   "metacritic": "ninjala",
    "mobygames": "147311"
   },
   "label_en": "Ninjala",
@@ -287,6 +299,7 @@
   "ids": {
    "howlongtobeat": "34243",
    "igdb": "airscape-the-fall-of-gravity",
+   "metacritic": "airscape-the-fall-of-gravity",
    "mobygames": "84599",
    "pcgamingwiki": "Airscape:_The_Fall_of_Gravity",
    "steam": "317250"
@@ -339,6 +352,7 @@
    "gog": "game/ring_runner_flight_of_the_sages",
    "howlongtobeat": "12996",
    "igdb": "ring-runner-flight-of-the-sages",
+   "metacritic": "ring-runner-flight-of-the-sages",
    "mobygames": "63787",
    "pcgamingwiki": "Ring_Runner:_Flight_of_the_Sages",
    "steam": "258010"
@@ -351,6 +365,7 @@
   "ids": {
    "howlongtobeat": "84026",
    "igdb": "ride-4",
+   "metacritic": "ride-4",
    "mobygames": "151139",
    "pcgamingwiki": "Ride_4",
    "steam": "1259980"
@@ -373,7 +388,8 @@
   "enwiki": "Hook Worlds",
   "ids": {
    "howlongtobeat": "50707",
-   "igdb": "hook-worlds"
+   "igdb": "hook-worlds",
+   "metacritic": "hook-worlds"
   },
   "label_en": "Hook Worlds",
   "wikidata": "Q104839327"
@@ -383,6 +399,7 @@
   "ids": {
    "howlongtobeat": "87873",
    "igdb": "valheim",
+   "metacritic": "valheim",
    "mobygames": "158408",
    "pcgamingwiki": "Valheim",
    "steam": "892970"
@@ -405,6 +422,7 @@
   "ids": {
    "howlongtobeat": "109084",
    "igdb": "metal-max-xeno-reborn",
+   "metacritic": "metal-max-xeno-reborn",
    "mobygames": "185803",
    "steam": "1637230"
   },
@@ -420,7 +438,8 @@
  },
  {
   "ids": {
-   "igdb": "luminos"
+   "igdb": "luminos",
+   "pcgamingwiki": "Luminos"
   },
   "label_en": "Luminos",
   "wikidata": "Q110749327"
@@ -430,6 +449,7 @@
   "ids": {
    "howlongtobeat": "104608",
    "igdb": "aperture-desk-job",
+   "metacritic": "aperture-desk-job",
    "mobygames": "180442",
    "pcgamingwiki": "Aperture_Desk_Job",
    "steam": "1902490"
@@ -509,6 +529,7 @@
   "ids": {
    "howlongtobeat": "113854",
    "igdb": "gundam-evolution",
+   "metacritic": "gundam-evolution",
    "mobygames": "191936",
    "pcgamingwiki": "Gundam_Evolution",
    "steam": "1816670"
@@ -562,6 +583,7 @@
    "gog": "game/shadow_gambit_the_cursed_crew",
    "howlongtobeat": "129339",
    "igdb": "shadow-gambit-the-cursed-crew",
+   "metacritic": "shadow-gambit-the-cursed-crew",
    "mobygames": "207379",
    "pcgamingwiki": "Shadow_Gambit:_The_Cursed_Crew",
    "steam": "1545560"
@@ -574,6 +596,7 @@
    "gog": "game/sticky_business",
    "howlongtobeat": "129859",
    "igdb": "sticky-business",
+   "metacritic": "sticky-business",
    "mobygames": "205878",
    "pcgamingwiki": "Sticky_Business",
    "steam": "2303350"
@@ -908,7 +931,8 @@
  {
   "enwiki": "EA Sports College Football 25",
   "ids": {
-   "igdb": "ea-sports-college-football-25"
+   "igdb": "ea-sports-college-football-25",
+   "metacritic": "ea-sports-college-football-25"
   },
   "label_en": "EA Sports College Football 25",
   "wikidata": "Q124570327"

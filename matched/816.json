@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "10199",
    "igdb": "the-sims-medieval",
+   "metacritic": "the-sims-medieval",
    "mobygames": "52045",
    "pcgamingwiki": "The_Sims_Medieval"
   },
@@ -28,6 +29,7 @@
    "gog": "game/worms_world_party_remastered",
    "howlongtobeat": "11309",
    "igdb": "worms-world-party",
+   "metacritic": "worms-world-party",
    "mobygames": "3713",
    "pcgamingwiki": "Worms_World_Party",
    "steam": "270910"
@@ -39,6 +41,7 @@
   "enwiki": "WWE '12",
   "ids": {
    "igdb": "wwe-12",
+   "metacritic": "wwe-12",
    "mobygames": "85042"
   },
   "label_en": "WWE '12",
@@ -49,6 +52,7 @@
   "ids": {
    "howlongtobeat": "7338",
    "igdb": "professor-layton-and-the-diabolical-box",
+   "metacritic": "professor-layton-and-the-diabolical-box",
    "mobygames": "42715"
   },
   "label_en": "Professor Layton and the Diabolical Box",
@@ -79,6 +83,7 @@
   "ids": {
    "howlongtobeat": "1642",
    "igdb": "chaos-legion",
+   "metacritic": "chaos-legion",
    "mobygames": "12754",
    "pcgamingwiki": "Chaos_Legion"
   },
@@ -89,6 +94,7 @@
   "enwiki": "Ninja Gaiden Sigma",
   "ids": {
    "igdb": "ninja-gaiden-sigma",
+   "metacritic": "ninja-gaiden-sigma",
    "mobygames": "29021"
   },
   "label_en": "Ninja Gaiden Sigma",
@@ -115,6 +121,7 @@
   "enwiki": "Rogue Galaxy",
   "ids": {
    "igdb": "rogue-galaxy",
+   "metacritic": "rogue-galaxy",
    "mobygames": "27934"
   },
   "label_en": "Rogue Galaxy",
@@ -134,6 +141,7 @@
   "ids": {
    "howlongtobeat": "352",
    "igdb": "alien-front-online",
+   "metacritic": "alien-front-online",
    "mobygames": "9941"
   },
   "label_en": "Alien Front Online",
@@ -173,6 +181,7 @@
   "enwiki": "Gretzky NHL 2005",
   "ids": {
    "igdb": "gretzky-nhl-2005",
+   "metacritic": "gretzky-nhl-2005",
    "mobygames": "35026"
   },
   "label_en": "Gretzky NHL 2005",
@@ -192,6 +201,7 @@
   "ids": {
    "howlongtobeat": "6317",
    "igdb": "mystery-case-files-return-to-ravenhearst",
+   "metacritic": "mystery-case-files-return-to-ravenhearst",
    "mobygames": "38132",
    "pcgamingwiki": "Mystery_Case_Files:_Return_to_Ravenhearst",
    "steam": "51000"
@@ -236,6 +246,7 @@
   "ids": {
    "howlongtobeat": "29836",
    "igdb": "act-of-aggression",
+   "metacritic": "act-of-aggression",
    "mobygames": "76763",
    "pcgamingwiki": "Act_of_Aggression",
    "steam": "318020"
@@ -259,6 +270,7 @@
   "ids": {
    "howlongtobeat": "49840",
    "igdb": "aftercharge",
+   "metacritic": "aftercharge",
    "mobygames": "120325",
    "pcgamingwiki": "Aftercharge",
    "steam": "492760"
@@ -286,6 +298,7 @@
   "ids": {
    "howlongtobeat": "68799",
    "igdb": "mushroom-cats",
+   "metacritic": "mushroom-cats",
    "mobygames": "128169",
    "pcgamingwiki": "Mushroom_Cats",
    "steam": "1071120"
@@ -295,6 +308,7 @@
  },
  {
   "ids": {
+   "metacritic": "kao-the-kangaroo-2001",
    "mobygames": "48674"
   },
   "label_en": "Kao the Kangaroo",
@@ -305,6 +319,7 @@
   "ids": {
    "howlongtobeat": "11768",
    "igdb": "leviathan-warships",
+   "metacritic": "leviathan-warships",
    "mobygames": "62333",
    "pcgamingwiki": "Leviathan:_Warships",
    "steam": "202270"
@@ -659,6 +674,7 @@
    "gog": "game/out_of_line",
    "howlongtobeat": "94633",
    "igdb": "out-of-line",
+   "metacritic": "out-of-line",
    "mobygames": "167354",
    "pcgamingwiki": "Out_of_Line",
    "steam": "1419290"
@@ -878,6 +894,7 @@
   "ids": {
    "howlongtobeat": "144900",
    "igdb": "dungeonborne--4",
+   "metacritic": "dungeonborne",
    "mobygames": "227987",
    "pcgamingwiki": "Dungeonborne",
    "steam": "2448970"

@@ -34,6 +34,7 @@
   "ids": {
    "howlongtobeat": "6966",
    "igdb": "perfect-dark",
+   "metacritic": "perfect-dark-2000",
    "mobygames": "4034",
    "pcgamingwiki": "Perfect_Dark_(2000)"
   },
@@ -53,6 +54,7 @@
   "enwiki": "Scooby-Doo! Mystery Mayhem",
   "ids": {
    "igdb": "scooby-doo-mystery-mayhem",
+   "metacritic": "scooby-doo-mystery-mayhem",
    "mobygames": "34860"
   },
   "label_en": "Scooby-Doo! Mystery Mayhem",
@@ -82,6 +84,7 @@
   "ids": {
    "howlongtobeat": "5754",
    "igdb": "me-my-katamari",
+   "metacritic": "me-and-my-katamari",
    "mobygames": "22379"
   },
   "label_en": "Me & My Katamari",
@@ -130,6 +133,7 @@
   "ids": {
    "howlongtobeat": "1620",
    "igdb": "celebrity-deathmatch",
+   "metacritic": "mtvs-celebrity-deathmatch",
    "mobygames": "13489",
    "pcgamingwiki": "MTV_Celebrity_Deathmatch"
   },
@@ -140,6 +144,7 @@
   "enwiki": "NFL Fever 2002",
   "ids": {
    "igdb": "nfl-fever-2002",
+   "metacritic": "nfl-fever-2002",
    "mobygames": "5370"
   },
   "label_en": "NFL Fever 2002",
@@ -230,6 +235,7 @@
    "gog": "game/masquerada_songs_and_shadows",
    "howlongtobeat": "39828",
    "igdb": "masquerada-songs-and-shadows",
+   "metacritic": "masquerada-songs-and-shadows",
    "mobygames": "94109",
    "pcgamingwiki": "Masquerada:_Songs_and_Shadows",
    "steam": "459090"
@@ -311,6 +317,7 @@
   "ids": {
    "epic": "ravenlok-bcabbc",
    "igdb": "ravenlok",
+   "metacritic": "ravenlok",
    "mobygames": "202809",
    "pcgamingwiki": "Ravenlok",
    "steam": "1072290"
@@ -368,6 +375,7 @@
  {
   "enwiki": "Air Penguin",
   "ids": {
+   "metacritic": "air-penguin",
    "mobygames": "123364"
   },
   "label_en": "Air Penguin",
@@ -692,6 +700,7 @@
  {
   "ids": {
    "igdb": "wall-street-tycoon",
+   "metacritic": "wall-street-tycoon",
    "pcgamingwiki": "Wall_Street_Tycoon",
    "steam": "985710"
   },

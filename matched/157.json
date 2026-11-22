@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11078",
    "igdb": "warioware-twisted",
+   "metacritic": "warioware-twisted",
    "mobygames": "18021"
   },
   "label_en": "WarioWare: Twisted!",
@@ -15,6 +16,7 @@
    "epic": "rainbow-six-lockdown",
    "howlongtobeat": "10451",
    "igdb": "tom-clancy-s-rainbow-six-lockdown",
+   "metacritic": "tom-clancys-rainbow-six-lockdown",
    "mobygames": "19428",
    "pcgamingwiki": "Tom_Clancy's_Rainbow_Six:_Lockdown",
    "steam": "15000"
@@ -27,6 +29,7 @@
   "ids": {
    "howlongtobeat": "4335",
    "igdb": "harvest-moon-back-to-nature",
+   "metacritic": "harvest-moon-back-to-nature",
    "mobygames": "5871"
   },
   "label_en": "Harvest Moon: Back to Nature",
@@ -37,6 +40,7 @@
   "ids": {
    "howlongtobeat": "2581",
    "igdb": "disciples-ii-galleans-return",
+   "metacritic": "disciples-ii-dark-prophecy",
    "mobygames": "5964",
    "pcgamingwiki": "Disciples_II:_Dark_Prophecy",
    "steam": "1640"
@@ -49,6 +53,7 @@
   "ids": {
    "howlongtobeat": "444",
    "igdb": "amped-freestyle-snowboarding",
+   "metacritic": "amped-freestyle-snowboarding",
    "mobygames": "5407"
   },
   "label_en": "Amped: Freestyle Snowboarding",
@@ -58,6 +63,7 @@
   "enwiki": "Ape Escape Academy",
   "ids": {
    "igdb": "ape-escape-academy",
+   "metacritic": "ape-escape-academy",
    "mobygames": "24074"
   },
   "label_en": "Ape Escape Academy",
@@ -111,6 +117,7 @@
   "enwiki": "Dual Blades",
   "ids": {
    "igdb": "dual-blades",
+   "metacritic": "dual-blades",
    "mobygames": "14015"
   },
   "label_en": "Dual Blades",
@@ -120,6 +127,7 @@
   "enwiki": "Sakura Wars: So Long, My Love",
   "ids": {
    "igdb": "sakura-wars-so-long-my-love",
+   "metacritic": "sakura-wars-so-long-my-love",
    "mobygames": "18542"
   },
   "label_en": "Sakura Wars: So Long, My Love",
@@ -129,6 +137,7 @@
   "enwiki": "Micro Commandos",
   "ids": {
    "igdb": "micro-commandos",
+   "metacritic": "micro-commandos",
    "mobygames": "12568"
   },
   "label_en": "Micro Commandos",
@@ -173,6 +182,7 @@
   "enwiki": "Rock N' Roll Climber",
   "ids": {
    "igdb": "rock-n-roll-climber",
+   "metacritic": "rock-n-roll-climber",
    "mobygames": "92187"
   },
   "label_en": "Rock N’ Roll Climber",
@@ -182,6 +192,7 @@
   "ids": {
    "howlongtobeat": "25045",
    "igdb": "forza-horizon-2-presents-fast-and-furious",
+   "metacritic": "forza-horizon-2-presents-fast-furious",
    "mobygames": "71927"
   },
   "label_en": "Forza Horizon 2 Presents Fast & Furious",
@@ -194,6 +205,7 @@
   "ids": {
    "howlongtobeat": "7499",
    "igdb": "r-dot-a-w-realms-of-ancient-war",
+   "metacritic": "realms-of-ancient-war",
    "mobygames": "65292",
    "pcgamingwiki": "R.A.W._Realms_of_Ancient_War",
    "steam": "209730"
@@ -207,6 +219,7 @@
    "gog": "game/banner_saga_2_the",
    "howlongtobeat": "28018",
    "igdb": "the-banner-saga-2",
+   "metacritic": "the-banner-saga-2",
    "mobygames": "80709",
    "pcgamingwiki": "The_Banner_Saga_2",
    "steam": "281640"
@@ -240,6 +253,7 @@
   "ids": {
    "howlongtobeat": "521",
    "igdb": "ape-escape-on-the-loose",
+   "metacritic": "ape-escape-on-the-loose",
    "mobygames": "22733"
   },
   "label_en": "Ape Escape: On the Loose",
@@ -247,6 +261,7 @@
  },
  {
   "ids": {
+   "metacritic": "99bullets",
    "mobygames": "51824"
   },
   "label_en": "99Bullets",
@@ -257,6 +272,7 @@
   "ids": {
    "howlongtobeat": "54188",
    "igdb": "lobotomy-corporation",
+   "metacritic": "lobotomy-corporation-monster-management-simulation",
    "mobygames": "102248",
    "pcgamingwiki": "Lobotomy_Corporation",
    "steam": "568220"
@@ -288,6 +304,7 @@
    "gog": "game/disjunction",
    "howlongtobeat": "70302",
    "igdb": "disjunction",
+   "metacritic": "disjunction",
    "mobygames": "157632",
    "pcgamingwiki": "Disjunction",
    "steam": "979310"
@@ -299,6 +316,7 @@
   "ids": {
    "howlongtobeat": "30390",
    "igdb": "bards-gold",
+   "metacritic": "bards-gold",
    "mobygames": "87049",
    "pcgamingwiki": "Bard's_Gold",
    "steam": "381900"
@@ -313,6 +331,7 @@
   "ids": {
    "howlongtobeat": "66570",
    "igdb": "zup-xs",
+   "metacritic": "zup-xs",
    "mobygames": "130023",
    "pcgamingwiki": "Zup!_XS",
    "steam": "673800"
@@ -570,6 +589,7 @@
   "ids": {
    "howlongtobeat": "84549",
    "igdb": "gleamlight",
+   "metacritic": "gleamlight",
    "mobygames": "149207",
    "pcgamingwiki": "Gleamlight",
    "steam": "1199370"
@@ -750,6 +770,7 @@
   "ids": {
    "howlongtobeat": "52440",
    "igdb": "sports-bar-vr",
+   "metacritic": "sportsbarvr",
    "mobygames": "84754",
    "pcgamingwiki": "SportsBar_VR",
    "steam": "269170"
@@ -1150,6 +1171,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Sesame_Street:_Friends_&_Fun",
    "steam": "3930330"
   },
   "label_en": "Sesame Street: Friends & Fun",

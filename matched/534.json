@@ -14,6 +14,7 @@
    "gog": "game/quake_4",
    "howlongtobeat": "7453",
    "igdb": "quake-4",
+   "metacritic": "quake-4",
    "mobygames": "19650",
    "pcgamingwiki": "Quake_4",
    "steam": "2210"
@@ -25,6 +26,7 @@
   "enwiki": "Looney Tunes: Acme Arsenal",
   "ids": {
    "igdb": "looney-tunes-acme-arsenal",
+   "metacritic": "looney-tunes-acme-arsenal",
    "mobygames": "34522"
   },
   "label_en": "Looney Tunes: Acme Arsenal",
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "3807",
    "igdb": "arcade-game-series-galaga",
+   "metacritic": "galaga",
    "mobygames": "8402",
    "pcgamingwiki": "Arcade_Game_Series:_Galaga",
    "steam": "403430"
@@ -46,6 +49,7 @@
   "enwiki": "The King of Fighters Neowave",
   "ids": {
    "igdb": "the-king-of-fighters-neowave",
+   "metacritic": "the-king-of-fighters-neowave",
    "mobygames": "26772"
   },
   "label_en": "The King of Fighters Neowave",
@@ -66,6 +70,7 @@
   "ids": {
    "howlongtobeat": "25552",
    "igdb": "after-burner-black-falcon",
+   "metacritic": "after-burner-black-falcon",
    "mobygames": "35867"
   },
   "label_en": "After Burner: Black Falcon",
@@ -94,6 +99,7 @@
   "ids": {
    "howlongtobeat": "33646",
    "igdb": "gobliiins-4",
+   "metacritic": "gobliiins-4",
    "mobygames": "40608"
   },
   "label_en": "Gobliiins 4",
@@ -138,6 +144,7 @@
   "enwiki": "My Frogger Toy Trials",
   "ids": {
    "igdb": "my-frogger-toy-trials",
+   "metacritic": "my-frogger-toy-trials",
    "mobygames": "86102"
   },
   "label_en": "My Frogger Toy Trials",
@@ -207,6 +214,7 @@
    "gog": "game/human_resource_machine",
    "howlongtobeat": "31008",
    "igdb": "human-resource-machine",
+   "metacritic": "human-resource-machine",
    "mobygames": "75512",
    "pcgamingwiki": "Human_Resource_Machine",
    "steam": "375820"
@@ -249,6 +257,7 @@
   "ids": {
    "howlongtobeat": "43512",
    "igdb": "porno-studio-tycoon",
+   "metacritic": "porno-studio-tycoon",
    "mobygames": "88206",
    "pcgamingwiki": "Porno_Studio_Tycoon",
    "steam": "535490"
@@ -275,6 +284,7 @@
    "epic": "the-eternal-cylinder",
    "howlongtobeat": "80034",
    "igdb": "the-eternal-cylinder",
+   "metacritic": "the-eternal-cylinder",
    "mobygames": "173069",
    "pcgamingwiki": "The_Eternal_Cylinder",
    "steam": "865680"
@@ -305,6 +315,7 @@
   "ids": {
    "howlongtobeat": "44034",
    "igdb": "semispheres",
+   "metacritic": "semispheres",
    "mobygames": "83787",
    "pcgamingwiki": "Semispheres",
    "steam": "448800"
@@ -337,6 +348,7 @@
   "ids": {
    "howlongtobeat": "52341",
    "igdb": "a-raven-monologue",
+   "metacritic": "a-raven-monologue",
    "mobygames": "101294",
    "pcgamingwiki": "A_Raven_Monologue",
    "steam": "744810"
@@ -358,6 +370,7 @@
   "ids": {
    "howlongtobeat": "100069",
    "igdb": "v-rising",
+   "metacritic": "v-rising",
    "mobygames": "184776",
    "pcgamingwiki": "V_Rising",
    "steam": "1604030"
@@ -370,6 +383,7 @@
   "ids": {
    "howlongtobeat": "114823",
    "igdb": "nickelodeon-kart-racers-3-slime-speedway",
+   "metacritic": "nickelodeon-kart-racers-3-slime-speedway",
    "mobygames": "192063",
    "pcgamingwiki": "Nickelodeon_Kart_Racers_3:_Slime_Speedway",
    "steam": "1620040"
@@ -384,6 +398,7 @@
    "gog": "game/endling_extinction_is_forever",
    "howlongtobeat": "87488",
    "igdb": "endling-extinction-is-forever",
+   "metacritic": "endling-extinction-is-forever",
    "mobygames": "188241",
    "pcgamingwiki": "Endling:_Extinction_Is_Forever",
    "steam": "898890"
@@ -435,6 +450,7 @@
    "howlongtobeat": "143411",
    "igdb": "super-woden-gp-2",
    "mobygames": "211717",
+   "pcgamingwiki": "Super_Woden_GP_2",
    "steam": "2083210"
   },
   "label_en": "Super Woden GP 2",
@@ -729,6 +745,7 @@
   "ids": {
    "howlongtobeat": "40534",
    "igdb": "headmaster",
+   "metacritic": "headmaster",
    "mobygames": "84000",
    "pcgamingwiki": "Headmaster",
    "steam": "621010"
@@ -830,6 +847,7 @@
   "ids": {
    "howlongtobeat": "169263",
    "igdb": "towa-and-the-guardians-of-the-sacred-tree",
+   "metacritic": "towa-and-the-guardians-of-the-sacred-tree",
    "mobygames": "248161",
    "pcgamingwiki": "Towa_and_the_Guardians_of_the_Sacred_Tree",
    "steam": "1910090"

@@ -13,6 +13,7 @@
   "enwiki": "NBA Live 2005",
   "ids": {
    "igdb": "nba-live-2005",
+   "metacritic": "nba-live-2005",
    "mobygames": "22070",
    "pcgamingwiki": "NBA_Live_2005"
   },
@@ -35,6 +36,7 @@
    "gog": "game/fallout_2",
    "howlongtobeat": "3339",
    "igdb": "fallout-2",
+   "metacritic": "fallout-2",
    "mobygames": "239",
    "pcgamingwiki": "Fallout_2",
    "steam": "38410"
@@ -47,6 +49,7 @@
   "ids": {
    "howlongtobeat": "4177",
    "igdb": "guitar-hero-iii-legends-of-rock",
+   "metacritic": "guitar-hero-iii-legends-of-rock",
    "mobygames": "30809",
    "pcgamingwiki": "Guitar_Hero_III:_Legends_of_Rock"
   },
@@ -57,6 +60,7 @@
   "enwiki": "SSX Blur",
   "ids": {
    "igdb": "ssx-blur",
+   "metacritic": "ssx-blur",
    "mobygames": "27064"
   },
   "label_en": "SSX Blur",
@@ -76,6 +80,7 @@
   "enwiki": "Tales of the World: Radiant Mythology",
   "ids": {
    "igdb": "tales-of-the-world-radiant-mythology",
+   "metacritic": "tales-of-the-world-radiant-mythology",
    "mobygames": "67585"
   },
   "label_en": "Tales of the World: Radiant Mythology",
@@ -85,6 +90,7 @@
   "enwiki": "Ace Ventura: The CD-Rom Game",
   "ids": {
    "igdb": "ace-ventura",
+   "metacritic": "ace-ventura",
    "mobygames": "4757",
    "pcgamingwiki": "Ace_Ventura"
   },
@@ -147,6 +153,7 @@
   "enwiki": "Critter Round-Up",
   "ids": {
    "igdb": "critter-round-up",
+   "metacritic": "critter-round-up",
    "mobygames": "34908"
   },
   "label_en": "Critter Round-Up",
@@ -169,6 +176,7 @@
    "gog": "game/wolf_among_us_the",
    "howlongtobeat": "14013",
    "igdb": "the-wolf-among-us",
+   "metacritic": "the-wolf-among-us-episode-1-faith",
    "mobygames": "63185",
    "pcgamingwiki": "The_Wolf_Among_Us",
    "steam": "250320"
@@ -236,6 +244,7 @@
    "epic": "tetris-effect",
    "howlongtobeat": "84923",
    "igdb": "tetris-effect",
+   "metacritic": "tetris-effect",
    "mobygames": "115729",
    "pcgamingwiki": "Tetris_Effect",
    "steam": "1003590"
@@ -280,6 +289,7 @@
   "ids": {
    "howlongtobeat": "82087",
    "igdb": "test-drive-unlimited-solar-crown",
+   "metacritic": "test-drive-unlimited-solar-crown",
    "pcgamingwiki": "Test_Drive_Unlimited_Solar_Crown",
    "steam": "1249970"
   },
@@ -292,6 +302,7 @@
    "gog": "game/bomb_rush_cyberfunk",
    "howlongtobeat": "81093",
    "igdb": "bomb-rush-cyberfunk",
+   "metacritic": "bomb-rush-cyberfunk",
    "mobygames": "207427",
    "pcgamingwiki": "Bomb_Rush_Cyberfunk",
    "steam": "1353230"
@@ -331,6 +342,7 @@
   "ids": {
    "howlongtobeat": "101234",
    "igdb": "star-wars-eclipse",
+   "metacritic": "star-wars-eclipse",
    "pcgamingwiki": "Star_Wars_Eclipse"
   },
   "label_en": "Star Wars Eclipse",
@@ -386,6 +398,7 @@
   "ids": {
    "howlongtobeat": "52043",
    "igdb": "ebony-spire-heresy",
+   "metacritic": "ebony-spire-heresy",
    "mobygames": "186197",
    "pcgamingwiki": "Ebony_Spire:_Heresy",
    "steam": "725040"
@@ -420,6 +433,7 @@
    "gog": "game/shotgun_king_the_final_checkmate",
    "howlongtobeat": "107754",
    "igdb": "shotgun-king-the-final-checkmate",
+   "metacritic": "shotgun-king-the-final-checkmate",
    "mobygames": "183592",
    "pcgamingwiki": "Shotgun_King:_The_Final_Checkmate",
    "steam": "1972440"
@@ -990,6 +1004,7 @@
   "ids": {
    "howlongtobeat": "160453",
    "igdb": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2",
+   "metacritic": "demon-slayer-kimetsu-no-yaiba-the-hinokami-2",
    "pcgamingwiki": "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles_2",
    "steam": "2928600"
   },
@@ -999,6 +1014,7 @@
  {
   "ids": {
    "igdb": "subterranauts",
+   "metacritic": "subterranauts",
    "steam": "3075800"
   },
   "label_en": "Subterranauts",

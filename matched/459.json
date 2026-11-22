@@ -24,6 +24,7 @@
   "enwiki": "Need for Speed: High Stakes",
   "ids": {
    "igdb": "need-for-speed-high-stakes",
+   "metacritic": "need-for-speed-high-stakes",
    "mobygames": "979",
    "pcgamingwiki": "Need_for_Speed:_High_Stakes"
   },
@@ -53,6 +54,7 @@
    "gog": "game/orb_offworld_resource_base",
    "howlongtobeat": "6689",
    "igdb": "o-dot-r-b-dot-off-world-resource-base",
+   "metacritic": "orb-off-world-resource-base",
    "mobygames": "7772",
    "pcgamingwiki": "O.R.B:_Off-World_Resource_Base",
    "steam": "281390"
@@ -70,7 +72,8 @@
  {
   "ids": {
    "howlongtobeat": "6412",
-   "igdb": "naruto-uzumaki-chronicles-2"
+   "igdb": "naruto-uzumaki-chronicles-2",
+   "metacritic": "naruto-uzumaki-chronicles-2"
   },
   "label_en": "Naruto: Uzumaki Chronicles 2",
   "wikidata": "Q3870459"
@@ -104,6 +107,7 @@
    "gog": "game/space_pirates_and_zombies",
    "howlongtobeat": "8861",
    "igdb": "space-pirates-and-zombies",
+   "metacritic": "space-pirates-and-zombies",
    "mobygames": "55884",
    "pcgamingwiki": "Space_Pirates_and_Zombies",
    "steam": "107200"
@@ -146,6 +150,7 @@
    "gog": "game/banished",
    "howlongtobeat": "16888",
    "igdb": "banished",
+   "metacritic": "banished",
    "mobygames": "63843",
    "pcgamingwiki": "Banished",
    "steam": "242920"
@@ -166,6 +171,7 @@
   "enwiki": "Hello Kitty: Roller Rescue",
   "ids": {
    "igdb": "hello-kitty-roller-rescue",
+   "metacritic": "hello-kitty-roller-rescue",
    "mobygames": "21096",
    "pcgamingwiki": "Hello_Kitty:_Roller_Rescue"
   },
@@ -177,6 +183,7 @@
   "ids": {
    "howlongtobeat": "22983",
    "igdb": "nfl-street-3",
+   "metacritic": "nfl-street-3",
    "mobygames": "25318"
   },
   "label_en": "NFL Street 3",
@@ -199,6 +206,7 @@
  {
   "ids": {
    "igdb": "master-of-meteor-blades",
+   "pcgamingwiki": "Master_of_Meteor_Blades",
    "steam": "295950"
   },
   "label_en": "Master of Meteor Blades",
@@ -246,6 +254,7 @@
    "gog": "game/uncertain_light_at_the_end",
    "howlongtobeat": "80211",
    "igdb": "the-uncertain-light-at-the-end",
+   "metacritic": "the-uncertain-light-at-the-end",
    "mobygames": "152452",
    "pcgamingwiki": "The_Uncertain:_Light_at_the_End",
    "steam": "925570"
@@ -257,6 +266,7 @@
   "ids": {
    "howlongtobeat": "26559",
    "igdb": "vagrant-hearts",
+   "metacritic": "vagrant-hearts",
    "mobygames": "87727",
    "pcgamingwiki": "Vagrant_Hearts",
    "steam": "337980"
@@ -302,6 +312,7 @@
    "epic": "gigabash",
    "howlongtobeat": "94916",
    "igdb": "gigabash",
+   "metacritic": "gigabash",
    "mobygames": "189064",
    "pcgamingwiki": "GigaBash",
    "steam": "1546400"
@@ -343,6 +354,7 @@
  {
   "ids": {
    "igdb": "there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns",
+   "metacritic": "there-may-be-ninety-nine-of-us-but-we-have-to-win",
    "steam": "1675410"
   },
   "label_en": "There May Be Ninety-Nine Of Us, But We Have To Win In Ninety-Nine Turns!",
@@ -373,6 +385,7 @@
   "ids": {
    "howlongtobeat": "50811",
    "igdb": "talent-not-included",
+   "metacritic": "talent-not-included",
    "mobygames": "87641",
    "pcgamingwiki": "Talent_Not_Included",
    "steam": "485260"
@@ -385,6 +398,7 @@
    "epic": "georifters-ead0bb",
    "howlongtobeat": "90169",
    "igdb": "georifters",
+   "metacritic": "georifters",
    "mobygames": "146059",
    "pcgamingwiki": "Georifters",
    "steam": "1080490"
@@ -818,6 +832,7 @@
   "enwiki": "Super Collapse 3",
   "ids": {
    "igdb": "super-collapse-3",
+   "metacritic": "super-collapse-3",
    "mobygames": "48908"
   },
   "label_en": "Super Collapse! 3",

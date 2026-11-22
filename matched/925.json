@@ -24,6 +24,7 @@
   "enwiki": "Urban Reign",
   "ids": {
    "igdb": "urban-reign",
+   "metacritic": "urban-reign",
    "mobygames": "31760"
   },
   "label_en": "Urban Reign",
@@ -90,6 +91,7 @@
   "ids": {
    "howlongtobeat": "976",
    "igdb": "beat-hazard",
+   "metacritic": "beat-hazard",
    "mobygames": "46217",
    "pcgamingwiki": "Beat_Hazard",
    "steam": "49600"
@@ -140,6 +142,7 @@
   "ids": {
    "howlongtobeat": "20489",
    "igdb": "everblue-2",
+   "metacritic": "everblue-2",
    "mobygames": "11967"
   },
   "label_en": "Everblue 2",
@@ -225,6 +228,7 @@
    "gog": "game/ghost_of_a_tale",
    "howlongtobeat": "21687",
    "igdb": "ghost-of-a-tale",
+   "metacritic": "ghost-of-a-tale",
    "mobygames": "101887",
    "pcgamingwiki": "Ghost_of_a_Tale",
    "steam": "417290"
@@ -259,6 +263,7 @@
   "ids": {
    "howlongtobeat": "45186",
    "igdb": "2dark",
+   "metacritic": "2dark",
    "mobygames": "85178",
    "pcgamingwiki": "2Dark",
    "steam": "435100"
@@ -272,6 +277,7 @@
    "epic": "rising-storm-2-vietnam",
    "howlongtobeat": "26793",
    "igdb": "rising-storm-2-vietnam",
+   "metacritic": "rising-storm-2-vietnam",
    "mobygames": "89452",
    "pcgamingwiki": "Rising_Storm_2:_Vietnam",
    "steam": "418460"
@@ -284,6 +290,7 @@
   "ids": {
    "howlongtobeat": "6984",
    "igdb": "petz-dogz-2",
+   "metacritic": "petz-dogz-2",
    "mobygames": "86150"
   },
   "label_en": "Petz: Dogz 2",
@@ -325,6 +332,7 @@
   "ids": {
    "howlongtobeat": "68118",
    "igdb": "tales-of-arise",
+   "metacritic": "tales-of-arise",
    "mobygames": "171514",
    "pcgamingwiki": "Tales_of_Arise",
    "steam": "740130"
@@ -357,6 +365,7 @@
    "epic": "back-4-blood",
    "howlongtobeat": "67709",
    "igdb": "back-4-blood",
+   "metacritic": "back-4-blood",
    "mobygames": "173640",
    "pcgamingwiki": "Back_4_Blood",
    "steam": "924970"
@@ -369,6 +378,7 @@
   "ids": {
    "howlongtobeat": "81474",
    "igdb": "fight-crab",
+   "metacritic": "fight-crab",
    "mobygames": "148645",
    "pcgamingwiki": "Fight_Crab",
    "steam": "1213750"
@@ -749,6 +759,7 @@
   "ids": {
    "howlongtobeat": "129570",
    "igdb": "crafty-survivors",
+   "metacritic": "crafty-survivors",
    "steam": "2137760"
   },
   "label_en": "Crafty Survivors",
@@ -1233,6 +1244,7 @@
  {
   "ids": {
    "igdb": "glyph",
+   "pcgamingwiki": "Glyph",
    "steam": "1569150"
   },
   "label_en": "Glyph☀️",

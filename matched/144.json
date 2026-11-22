@@ -3,6 +3,7 @@
   "enwiki": "Blade & Soul",
   "ids": {
    "igdb": "blade-and-soul",
+   "metacritic": "blade-and-soul",
    "mobygames": "82243",
    "pcgamingwiki": "Blade_&_Soul"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "21039",
    "igdb": "simearth-the-living-planet--2",
+   "metacritic": "simearth-the-living-planet",
    "mobygames": "1835",
    "pcgamingwiki": "SimEarth"
   },
@@ -45,6 +47,7 @@
    "gog": "game/septerra_core_legacy_of_the_creator",
    "howlongtobeat": "8307",
    "igdb": "septerra-core-legacy-of-the-creator",
+   "metacritic": "septerra-core-legacy-of-the-creator",
    "mobygames": "661",
    "pcgamingwiki": "Septerra_Core:_Legacy_of_the_Creator",
    "steam": "253940"
@@ -67,6 +70,7 @@
   "ids": {
    "howlongtobeat": "6399",
    "igdb": "naruto-ninja-council-2",
+   "metacritic": "naruto-ninja-council-2",
    "mobygames": "31108"
   },
   "label_en": "Naruto: Ninja Council 2",
@@ -77,6 +81,7 @@
   "ids": {
    "howlongtobeat": "7062",
    "igdb": "pirates-the-legend-of-black-kat",
+   "metacritic": "pirates-the-legend-of-black-kat",
    "mobygames": "5956"
   },
   "label_en": "Pirates: The Legend of Black Kat",
@@ -103,6 +108,7 @@
   "enwiki": "EverGrace",
   "ids": {
    "igdb": "evergrace",
+   "metacritic": "evergrace",
    "mobygames": "15940"
   },
   "label_en": "Evergrace",
@@ -150,6 +156,7 @@
    "gog": "game/sangfroid_tales_of_werewolves",
    "howlongtobeat": "8150",
    "igdb": "sang-froid-tales-of-werewolves",
+   "metacritic": "sang-froid-tales-of-werewolves",
    "mobygames": "63779",
    "pcgamingwiki": "Sang-Froid:_Tales_of_Werewolves",
    "steam": "227220"
@@ -202,6 +209,7 @@
   "ids": {
    "howlongtobeat": "63333",
    "igdb": "contagion-vr-outbreak",
+   "metacritic": "contagion-vr-outbreak",
    "mobygames": "110794",
    "pcgamingwiki": "Contagion_VR:_Outbreak",
    "steam": "676840"
@@ -221,6 +229,7 @@
   "ids": {
    "howlongtobeat": "144518",
    "igdb": "unforetold-witchstone",
+   "metacritic": "unforetold-witchstone",
    "mobygames": "216564",
    "pcgamingwiki": "Project_Witchstone",
    "steam": "1064120"
@@ -252,6 +261,7 @@
   "ids": {
    "howlongtobeat": "107354",
    "igdb": "rugby-20",
+   "metacritic": "rugby-20",
    "mobygames": "141153",
    "pcgamingwiki": "Rugby_20",
    "steam": "846730"
@@ -309,6 +319,7 @@
   "ids": {
    "howlongtobeat": "78724",
    "igdb": "before-i-forget",
+   "metacritic": "before-i-forget",
    "mobygames": "147097",
    "pcgamingwiki": "Before_I_Forget",
    "steam": "1126600"

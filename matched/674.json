@@ -5,6 +5,7 @@
    "gog": "game/divine_divinity",
    "howlongtobeat": "2632",
    "igdb": "divine-divinity",
+   "metacritic": "divine-divinity",
    "mobygames": "8080",
    "pcgamingwiki": "Divine_Divinity",
    "steam": "214170"
@@ -16,6 +17,7 @@
   "enwiki": "Midnight Club: Los Angeles",
   "ids": {
    "igdb": "midnight-club-los-angeles",
+   "metacritic": "midnight-club-los-angeles",
    "mobygames": "37562"
   },
   "label_en": "Midnight Club: Los Angeles",
@@ -47,6 +49,7 @@
    "gog": "game/myst_4",
    "howlongtobeat": "6310",
    "igdb": "myst-iv-revelation",
+   "metacritic": "myst-iv-revelation",
    "mobygames": "51334",
    "pcgamingwiki": "Myst_IV:_Revelation",
    "steam": "925940"
@@ -87,6 +90,7 @@
   "enwiki": "RF Online",
   "ids": {
    "igdb": "rf-online",
+   "metacritic": "rf-online",
    "mobygames": "28409",
    "pcgamingwiki": "RF_Online"
   },
@@ -118,6 +122,7 @@
   "ids": {
    "howlongtobeat": "7428",
    "igdb": "puzzle-quest-galactrix",
+   "metacritic": "puzzle-quest-galactrix",
    "mobygames": "39725",
    "pcgamingwiki": "Puzzle_Quest:_Galactrix",
    "steam": "23500"
@@ -149,6 +154,7 @@
   "enwiki": "Deca Sports Extreme",
   "ids": {
    "igdb": "deca-sports-extreme",
+   "metacritic": "deca-sports-extreme",
    "mobygames": "56527"
   },
   "label_en": "Deca Sports Extreme",
@@ -264,6 +270,7 @@
    "gog": "game/hotline_miami_2_wrong_number",
    "howlongtobeat": "4531",
    "igdb": "hotline-miami-2-wrong-number",
+   "metacritic": "hotline-miami-2-wrong-number",
    "mobygames": "71952",
    "pcgamingwiki": "Hotline_Miami_2:_Wrong_Number",
    "steam": "274170"
@@ -307,6 +314,7 @@
   "ids": {
    "howlongtobeat": "36344",
    "igdb": "nightcry",
+   "metacritic": "nightcry",
    "mobygames": "83987",
    "pcgamingwiki": "NightCry",
    "steam": "427660"
@@ -319,6 +327,7 @@
   "ids": {
    "howlongtobeat": "41753",
    "igdb": "the-last-of-us-part-ii",
+   "metacritic": "the-last-of-us-part-ii",
    "mobygames": "146798"
   },
   "label_en": "The Last of Us Part II",
@@ -349,6 +358,7 @@
   "ids": {
    "howlongtobeat": "71465",
    "igdb": "stigmatized-property",
+   "metacritic": "stigmatized-property",
    "mobygames": "138833",
    "pcgamingwiki": "Stigmatized_Property",
    "steam": "1162680"
@@ -359,6 +369,7 @@
  {
   "ids": {
    "igdb": "naruto-ninja-council",
+   "metacritic": "naruto-ninja-council",
    "mobygames": "29895"
   },
   "label_en": "Naruto: Ninja Council",
@@ -384,6 +395,7 @@
   "ids": {
    "howlongtobeat": "81912",
    "igdb": "quantum-error",
+   "metacritic": "quantum-error",
    "mobygames": "211308"
   },
   "label_en": "Quantum Error",
@@ -395,6 +407,7 @@
    "gog": "game/impostor_factory",
    "howlongtobeat": "72348",
    "igdb": "impostor-factory",
+   "metacritic": "impostor-factory",
    "mobygames": "173052",
    "pcgamingwiki": "Impostor_Factory",
    "steam": "1182620"
@@ -479,6 +492,7 @@
   "ids": {
    "howlongtobeat": "54668",
    "igdb": "antiquia-lost",
+   "metacritic": "antiquia-lost",
    "mobygames": "95680",
    "pcgamingwiki": "Antiquia_Lost",
    "steam": "648640"
@@ -490,6 +504,7 @@
   "ids": {
    "howlongtobeat": "59382",
    "igdb": "trivia-vault-art-trivia",
+   "metacritic": "trivia-vault-art-trivia",
    "pcgamingwiki": "Trivia_Vault:_Art_Trivia",
    "steam": "851710"
   },
@@ -767,6 +782,7 @@
   "ids": {
    "howlongtobeat": "77833",
    "igdb": "wonder-boy-returns-remix",
+   "metacritic": "wonder-boy-returns-remix",
    "mobygames": "133127",
    "pcgamingwiki": "Wonder_Boy_Returns_Remix",
    "steam": "1112240"
@@ -886,7 +902,8 @@
  },
  {
   "ids": {
-   "igdb": "super-hero-math"
+   "igdb": "super-hero-math",
+   "metacritic": "super-hero-math"
   },
   "label_en": "Super Hero Math",
   "wikidata": "Q125372674"
@@ -945,6 +962,15 @@
   },
   "label_en": "Riviera: The Promised Land Remaster",
   "wikidata": "Q127432674"
+ },
+ {
+  "ids": {
+   "howlongtobeat": "145375",
+   "igdb": "netcode-warriors",
+   "steam": "2823570"
+  },
+  "label_en": "Netcode Warriors",
+  "wikidata": "Q130270674"
  },
  {
   "label_en": "Rival Stars Horse Racing",
@@ -1225,6 +1251,7 @@
  {
   "ids": {
    "igdb": "metalizer",
+   "metacritic": "metalizer",
    "mobygames": "41462"
   },
   "label_en": "Metalizer",

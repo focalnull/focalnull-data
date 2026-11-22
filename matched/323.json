@@ -38,6 +38,7 @@
   "ids": {
    "howlongtobeat": "8666",
    "igdb": "smuggler-s-run",
+   "metacritic": "smugglers-run",
    "mobygames": "10209"
   },
   "label_en": "Smuggler's Run",
@@ -48,6 +49,7 @@
   "ids": {
    "howlongtobeat": "6934",
    "igdb": "patapon-2",
+   "metacritic": "patapon-2",
    "mobygames": "40814"
   },
   "label_en": "Patapon 2",
@@ -56,7 +58,8 @@
  {
   "enwiki": "Disney's Magical Mirror Starring Mickey Mouse",
   "ids": {
-   "igdb": "disney-s-magical-mirror-starring-mickey-mouse"
+   "igdb": "disney-s-magical-mirror-starring-mickey-mouse",
+   "metacritic": "disneys-magical-mirror-starring-mickey-mouse"
   },
   "label_en": "Disney's Magical Mirror Starring Mickey Mouse",
   "wikidata": "Q3030323"
@@ -95,6 +98,7 @@
   "ids": {
    "howlongtobeat": "6252",
    "igdb": "ms-saga-a-new-dawn",
+   "metacritic": "ms-saga-a-new-dawn",
    "mobygames": "24073"
   },
   "label_en": "MS Saga: A New Dawn",
@@ -131,6 +135,7 @@
   "ids": {
    "howlongtobeat": "3919",
    "igdb": "ghostbusters-sanctum-of-slime",
+   "metacritic": "ghostbusters-sanctum-of-slime",
    "mobygames": "50954",
    "pcgamingwiki": "Ghostbusters:_Sanctum_of_Slime",
    "steam": "9990"
@@ -151,7 +156,8 @@
   "enwiki": "The Sorcerer's Apprentice (video game)",
   "ids": {
    "howlongtobeat": "21341",
-   "igdb": "the-sorcerers-apprentice"
+   "igdb": "the-sorcerers-apprentice",
+   "metacritic": "the-sorcerers-apprentice"
   },
   "label_en": "The Sorcerer's Apprentice",
   "wikidata": "Q7765323"
@@ -170,7 +176,8 @@
  {
   "enwiki": "Chucky: Slash & Dash",
   "ids": {
-   "igdb": "chucky-slash-and-dash"
+   "igdb": "chucky-slash-and-dash",
+   "metacritic": "chucky-slash-dash"
   },
   "label_en": "Chucky: Slash & Dash",
   "wikidata": "Q16249323"
@@ -188,6 +195,7 @@
    "gog": "game/tower_hunter_erzas_trial",
    "howlongtobeat": "61852",
    "igdb": "tower-hunter-erzas-trial",
+   "metacritic": "tower-huntererzas-trial",
    "mobygames": "135945",
    "pcgamingwiki": "Tower_Hunter:_Erza's_Trial",
    "steam": "844850"
@@ -205,6 +213,7 @@
  },
  {
   "ids": {
+   "metacritic": "igor-the-game",
    "mobygames": "85279",
    "pcgamingwiki": "Igor:_The_Game"
   },
@@ -216,6 +225,7 @@
   "ids": {
    "howlongtobeat": "63115",
    "igdb": "crash-team-racing-nitro-fueled",
+   "metacritic": "crash-team-racing-nitro-fueled",
    "mobygames": "127153"
   },
   "label_en": "Crash Team Racing Nitro-Fueled",
@@ -226,6 +236,7 @@
   "ids": {
    "howlongtobeat": "63044",
    "igdb": "space-hulk-tactics",
+   "metacritic": "space-hulk-tactics",
    "mobygames": "114199",
    "pcgamingwiki": "Space_Hulk:_Tactics",
    "steam": "492230"
@@ -249,6 +260,7 @@
    "gog": "game/overfall",
    "howlongtobeat": "34549",
    "igdb": "overfall",
+   "metacritic": "overfall",
    "mobygames": "106016",
    "pcgamingwiki": "Overfall",
    "steam": "402310"
@@ -261,6 +273,7 @@
   "ids": {
    "epic": "the-wolf-among-us-2",
    "igdb": "the-wolf-among-us-2",
+   "metacritic": "the-wolf-among-us-2-a-telltale-series",
    "pcgamingwiki": "The_Wolf_Among_Us_2",
    "steam": "1884870"
   },
@@ -296,6 +309,7 @@
   "ids": {
    "howlongtobeat": "54941",
    "igdb": "touhou-scarlet-curiosity",
+   "metacritic": "touhou-scarlet-curiosity",
    "mobygames": "85811",
    "pcgamingwiki": "Touhou:_Scarlet_Curiosity",
    "steam": "845880"
@@ -319,6 +333,7 @@
   "ids": {
    "howlongtobeat": "139690",
    "igdb": "vigilance-2099",
+   "metacritic": "vigilance-2099",
    "steam": "1737960"
   },
   "label_en": "Vigilance 2099",
@@ -331,6 +346,7 @@
    "gog": "game/before_we_leave",
    "howlongtobeat": "71495",
    "igdb": "before-we-leave",
+   "metacritic": "before-we-leave",
    "mobygames": "145513",
    "pcgamingwiki": "Before_We_Leave",
    "steam": "1073910"
@@ -351,7 +367,9 @@
   "ids": {
    "howlongtobeat": "114136",
    "igdb": "stella-of-the-end",
+   "metacritic": "stella-of-the-end",
    "mobygames": "209366",
+   "pcgamingwiki": "Stella_of_The_End",
    "steam": "2510770"
   },
   "label_en": "Stella of The End",
@@ -419,6 +437,7 @@
   "ids": {
    "howlongtobeat": "9603",
    "igdb": "tales-of-symphonia--2",
+   "metacritic": "tales-of-symphonia-remastered",
    "steam": "372360"
   },
   "label_en": "Tales of Symphonia Remastered",
@@ -630,6 +649,7 @@
    "gog": "game/wizordum",
    "howlongtobeat": "114007",
    "igdb": "wizordum",
+   "metacritic": "wizordum",
    "mobygames": "212975",
    "pcgamingwiki": "Wizordum",
    "steam": "1715590"
@@ -1069,6 +1089,7 @@
   "ids": {
    "igdb": "putt-putt-and-fatty-bears-activity-pack",
    "mobygames": "21083",
+   "pcgamingwiki": "Putt-Putt_and_Fatty_Bear's_Activity_Pack",
    "steam": "294720"
   },
   "label_en": "Putt-Putt® and Fatty Bear's Activity Pack",
@@ -1104,6 +1125,7 @@
   "ids": {
    "howlongtobeat": "176710",
    "igdb": "z-dot-a-t-dot-o-i-love-the-world-and-everything-in-it",
+   "metacritic": "zato-i-love-the-world-and-everything-in-it",
    "mobygames": "253800",
    "pcgamingwiki": "Z.A.T.O._//_I_Love_the_World_and_Everything_In_It",
    "steam": "4122860"
@@ -1118,6 +1140,7 @@
  {
   "ids": {
    "igdb": "lighter-than-ar",
+   "pcgamingwiki": "Lighter_than_AR",
    "steam": "845820"
   },
   "label_en": "Lighter Than AR",

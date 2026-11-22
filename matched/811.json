@@ -6,6 +6,7 @@
    "gog": "game/batman_arkham_city_goty",
    "howlongtobeat": "882",
    "igdb": "batman-arkham-city",
+   "metacritic": "batman-arkham-city",
    "mobygames": "55403",
    "pcgamingwiki": "Batman:_Arkham_City",
    "steam": "200260"
@@ -37,6 +38,7 @@
   "enwiki": "Mortal Kombat: Deception",
   "ids": {
    "igdb": "mortal-kombat-deception",
+   "metacritic": "mortal-kombat-deception",
    "mobygames": "16715"
   },
   "label_en": "Mortal Kombat: Deception",
@@ -46,6 +48,7 @@
   "enwiki": "San Francisco Rush 2049",
   "ids": {
    "igdb": "san-francisco-rush-2049",
+   "metacritic": "san-francisco-rush-2049",
    "mobygames": "8898"
   },
   "label_en": "San Francisco Rush 2049",
@@ -65,6 +68,7 @@
   "enwiki": "Godzilla: Save the Earth",
   "ids": {
    "igdb": "godzilla-save-the-earth",
+   "metacritic": "godzilla-save-the-earth",
    "mobygames": "17700"
   },
   "label_en": "Godzilla: Save the Earth",
@@ -155,6 +159,7 @@
   "ids": {
    "howlongtobeat": "19547",
    "igdb": "sniper-elite-iii",
+   "metacritic": "sniper-elite-iii",
    "mobygames": "66826",
    "pcgamingwiki": "Sniper_Elite_III",
    "steam": "238090"
@@ -166,6 +171,7 @@
   "enwiki": "Terminator 3: The Redemption",
   "ids": {
    "igdb": "terminator-3-the-redemption",
+   "metacritic": "terminator-3-the-redemption",
    "mobygames": "19017"
   },
   "label_en": "Terminator 3: The Redemption",
@@ -191,6 +197,9 @@
   "wikidata": "Q11659811"
  },
  {
+  "ids": {
+   "metacritic": "the-activision-decathlon"
+  },
   "label_en": "The Activision Decathlon",
   "wikidata": "Q16141811"
  },
@@ -216,6 +225,7 @@
   "ids": {
    "howlongtobeat": "31193",
    "igdb": "guitar-hero-live",
+   "metacritic": "guitar-hero-live",
    "mobygames": "75375"
   },
   "label_en": "Guitar Hero Live",
@@ -255,6 +265,7 @@
    "gog": "game/the_surge_2_premium_edition",
    "howlongtobeat": "67880",
    "igdb": "the-surge-2",
+   "metacritic": "the-surge-2",
    "mobygames": "135038",
    "pcgamingwiki": "The_Surge_2",
    "steam": "644830"
@@ -287,6 +298,7 @@
   "ids": {
    "howlongtobeat": "68730",
    "igdb": "blush-blush",
+   "metacritic": "blush-blush",
    "mobygames": "128995",
    "pcgamingwiki": "Blush_Blush",
    "steam": "777130"
@@ -326,6 +338,7 @@
   "ids": {
    "howlongtobeat": "77622",
    "igdb": "yumeutsutsu-re-after",
+   "metacritic": "yumeutsutsu-reafter",
    "mobygames": "144588",
    "steam": "1267260"
   },
@@ -522,6 +535,7 @@
   "ids": {
    "howlongtobeat": "115929",
    "igdb": "sowon",
+   "pcgamingwiki": "SOWON",
    "steam": "2104560"
   },
   "label_en": "SOWON",

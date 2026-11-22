@@ -12,6 +12,7 @@
   "ids": {
    "howlongtobeat": "2476",
    "igdb": "destroy-all-humans-2",
+   "metacritic": "destroy-all-humans-2",
    "mobygames": "25319"
   },
   "label_en": "Destroy All Humans! 2",
@@ -71,6 +72,7 @@
   "enwiki": "Super Rub 'a' Dub",
   "ids": {
    "igdb": "super-rub-a-dub",
+   "metacritic": "super-rub-a-dub",
    "mobygames": "37224"
   },
   "label_en": "Super Rub 'a' Dub",
@@ -221,6 +223,7 @@
   "ids": {
    "howlongtobeat": "60420",
    "igdb": "concrete-genie",
+   "metacritic": "concrete-genie",
    "mobygames": "135358"
   },
   "label_en": "Concrete Genie",
@@ -230,6 +233,7 @@
   "ids": {
    "howlongtobeat": "22928",
    "igdb": "the-old-city-leviathan",
+   "metacritic": "the-old-city-leviathan",
    "mobygames": "70960",
    "pcgamingwiki": "The_Old_City:_Leviathan",
    "steam": "297350"
@@ -243,6 +247,7 @@
    "epic": "going-under",
    "howlongtobeat": "76552",
    "igdb": "going-under",
+   "metacritic": "going-under",
    "mobygames": "150646",
    "pcgamingwiki": "Going_Under",
    "steam": "1154810"
@@ -294,6 +299,7 @@
   "ids": {
    "howlongtobeat": "57459",
    "igdb": "projekt",
+   "metacritic": "projekt",
    "mobygames": "154374",
    "pcgamingwiki": ".Projekt",
    "steam": "759000"
@@ -650,7 +656,8 @@
  },
  {
   "ids": {
-   "igdb": "absolute-baseball"
+   "igdb": "absolute-baseball",
+   "metacritic": "absolute-baseball"
   },
   "label_en": "Absolute Baseball",
   "wikidata": "Q125790276"
@@ -1013,6 +1020,7 @@
   "ids": {
    "howlongtobeat": "180772",
    "igdb": "heartopia",
+   "metacritic": "heartopia",
    "steam": "4025700"
   },
   "label_en": "Heartopia",

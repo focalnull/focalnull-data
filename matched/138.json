@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10797",
    "igdb": "uncharted-3-drake-s-deception",
+   "metacritic": "uncharted-3-drakes-deception",
    "mobygames": "53611"
   },
   "label_en": "Uncharted 3: Drake's Deception",
@@ -59,6 +60,7 @@
   "ids": {
    "howlongtobeat": "4117",
    "igdb": "grid-2",
+   "metacritic": "grid-2",
    "mobygames": "60730",
    "pcgamingwiki": "GRID_2",
    "steam": "44350"
@@ -91,6 +93,7 @@
   "ids": {
    "howlongtobeat": "9046",
    "igdb": "star-ocean-the-last-hope",
+   "metacritic": "star-ocean-the-last-hope",
    "mobygames": "51424",
    "pcgamingwiki": "Star_Ocean:_The_Last_Hope_4K_&_Full_HD_Remaster",
    "steam": "609150"
@@ -103,6 +106,7 @@
   "ids": {
    "howlongtobeat": "1026",
    "igdb": "big-bang-mini",
+   "metacritic": "big-bang-mini",
    "mobygames": "69761"
   },
   "label_en": "Big Bang Mini",
@@ -137,6 +141,7 @@
   "enwiki": "Project Zero 2: Wii Edition",
   "ids": {
    "igdb": "project-zero-2-wii-edition",
+   "metacritic": "project-zero-2-wii-edition",
    "mobygames": "56847"
   },
   "label_en": "Project Zero 2: Wii Edition",
@@ -191,6 +196,7 @@
   "ids": {
    "howlongtobeat": "26497",
    "igdb": "carnivores-dinosaur-hunter-reborn",
+   "metacritic": "carnivores-dinosaur-hunter",
    "pcgamingwiki": "Carnivores:_Dinosaur_Hunter_Reborn",
    "steam": "293520"
   },
@@ -201,6 +207,7 @@
   "enwiki": "Dark Arena",
   "ids": {
    "igdb": "dark-arena",
+   "metacritic": "dark-arena",
    "mobygames": "10797",
    "pcgamingwiki": "Dark_Arena",
    "steam": "1150700"
@@ -225,6 +232,7 @@
  {
   "ids": {
    "igdb": "robot-arena",
+   "metacritic": "robot-arena",
    "mobygames": "4075",
    "pcgamingwiki": "Robot_Arena"
   },
@@ -247,6 +255,7 @@
   "ids": {
    "howlongtobeat": "6250",
    "igdb": "mr-robot",
+   "metacritic": "mr-robot",
    "mobygames": "25960",
    "pcgamingwiki": "Mr._Robot",
    "steam": "20710"
@@ -313,6 +322,7 @@
    "gog": "game/god_of_war",
    "howlongtobeat": "38050",
    "igdb": "god-of-war--1",
+   "metacritic": "god-of-war",
    "mobygames": "107419",
    "pcgamingwiki": "God_of_War",
    "steam": "1593500"
@@ -360,6 +370,7 @@
   "ids": {
    "howlongtobeat": "53453",
    "igdb": "the-station",
+   "metacritic": "the-station",
    "mobygames": "103808",
    "pcgamingwiki": "The_Station",
    "steam": "565120"
@@ -382,6 +393,7 @@
    "gog": "game/moonlighter",
    "howlongtobeat": "56787",
    "igdb": "moonlighter",
+   "metacritic": "moonlighter",
    "mobygames": "97803",
    "pcgamingwiki": "Moonlighter",
    "steam": "606150"
@@ -395,6 +407,7 @@
    "gog": "game/tanglewoodr",
    "howlongtobeat": "59948",
    "igdb": "tanglewood--1",
+   "metacritic": "tanglewood",
    "mobygames": "112365",
    "pcgamingwiki": "Tanglewood",
    "steam": "837190"
@@ -405,6 +418,7 @@
  {
   "ids": {
    "igdb": "rocket-blasters",
+   "metacritic": "rocket-blasters",
    "mobygames": "142390",
    "pcgamingwiki": "Rocket_Blasters",
    "steam": "755490"
@@ -416,6 +430,7 @@
   "ids": {
    "howlongtobeat": "31262",
    "igdb": "i-am-weapon-revival",
+   "metacritic": "i-am-weapon-revival",
    "mobygames": "83022",
    "pcgamingwiki": "I_am_Weapon:_Revival",
    "steam": "335700"
@@ -439,6 +454,7 @@
   "ids": {
    "howlongtobeat": "80317",
    "igdb": "crash-bandicoot-4-its-about-time",
+   "metacritic": "crash-bandicoot-4-its-about-time",
    "mobygames": "151114",
    "pcgamingwiki": "Crash_Bandicoot_4:_It's_About_Time",
    "steam": "1378990"
@@ -471,6 +487,7 @@
   "ids": {
    "howlongtobeat": "69408",
    "igdb": "fantasy-blacksmith",
+   "metacritic": "fantasy-blacksmith",
    "mobygames": "187421",
    "pcgamingwiki": "Fantasy_Blacksmith",
    "steam": "959520"
@@ -530,6 +547,7 @@
    "gog": "game/slipstream",
    "howlongtobeat": "57559",
    "igdb": "slipstream",
+   "metacritic": "slipstream",
    "mobygames": "109184",
    "pcgamingwiki": "Slipstream",
    "steam": "732810"
@@ -559,7 +577,8 @@
  {
   "ids": {
    "epic": "3-out-of-10-ep3",
-   "igdb": "3-out-of-10-ep-3-pivot-like-a-champion"
+   "igdb": "3-out-of-10-ep-3-pivot-like-a-champion",
+   "metacritic": "3-out-of-10-episode-3-pivot-like-a-champion"
   },
   "label_en": "3 out of 10, EP 3: \"Pivot Like A Champion\"",
   "wikidata": "Q113467138"
@@ -862,6 +881,7 @@
    "gog": "game/one",
    "howlongtobeat": "129497",
    "igdb": "one--6",
+   "metacritic": "one-2023",
    "mobygames": "214234",
    "pcgamingwiki": "ONE.",
    "steam": "2432100"
@@ -985,6 +1005,7 @@
   "ids": {
    "howlongtobeat": "147904",
    "igdb": "content-warning",
+   "metacritic": "content-warning",
    "mobygames": "220980",
    "pcgamingwiki": "Content_Warning",
    "steam": "2881650"
@@ -1310,6 +1331,7 @@
  {
   "ids": {
    "igdb": "deus-ex-breach",
+   "pcgamingwiki": "Deus_Ex:_Breach",
    "steam": "555450"
   },
   "label_en": "Deus Ex: Breach™",

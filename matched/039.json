@@ -33,6 +33,7 @@
   "ids": {
    "howlongtobeat": "2277",
    "igdb": "dawn-of-mana",
+   "metacritic": "dawn-of-mana",
    "mobygames": "33469"
   },
   "label_en": "Dawn of Mana",
@@ -42,6 +43,7 @@
   "enwiki": "Exit 2",
   "ids": {
    "igdb": "exit-2",
+   "metacritic": "exit-2-2006",
    "mobygames": "45993"
   },
   "label_en": "Exit 2",
@@ -116,6 +118,7 @@
   "enwiki": "NHL 2K11",
   "ids": {
    "igdb": "nhl-2k11",
+   "metacritic": "nhl-2k11",
    "mobygames": "80191"
   },
   "label_en": "NHL 2K11",
@@ -190,6 +193,7 @@
   "enwiki": "NCAA Football 2003",
   "ids": {
    "igdb": "ncaa-football-2003",
+   "metacritic": "ncaa-football-2003",
    "mobygames": "7043"
   },
   "label_en": "NCAA Football 2003",
@@ -218,6 +222,7 @@
   "ids": {
    "howlongtobeat": "74053",
    "igdb": "powerless",
+   "metacritic": "powerless",
    "pcgamingwiki": "Powerless",
    "steam": "775200"
   },
@@ -227,6 +232,7 @@
  {
   "ids": {
    "igdb": "of-mice-and-sand",
+   "metacritic": "of-mice-and-sand",
    "mobygames": "96261"
   },
   "label_en": "Of Mice and Sand",
@@ -237,6 +243,7 @@
    "epic": "1775-rebellion-aa5b41",
    "howlongtobeat": "56205",
    "igdb": "1775-rebellion",
+   "metacritic": "1775-rebellion",
    "mobygames": "87016",
    "pcgamingwiki": "1775:_Rebellion",
    "steam": "422610"
@@ -266,6 +273,7 @@
   "ids": {
    "howlongtobeat": "76406",
    "igdb": "nier-replicant-ver-dot-1-22474487139-dot-dot-dot",
+   "metacritic": "nier-replicant-ver122474487139",
    "mobygames": "161794",
    "pcgamingwiki": "NieR_Replicant",
    "steam": "1113560"
@@ -342,6 +350,7 @@
   "ids": {
    "howlongtobeat": "37225",
    "igdb": "ultimate-space-commando",
+   "metacritic": "ultimate-space-commando",
    "mobygames": "205905",
    "pcgamingwiki": "Ultimate_Space_Commando",
    "steam": "341910"
@@ -379,6 +388,7 @@
    "gog": "game/hard_west_2",
    "howlongtobeat": "111795",
    "igdb": "hard-west-2",
+   "metacritic": "hard-west-2",
    "mobygames": "189082",
    "pcgamingwiki": "Hard_West_2",
    "steam": "1282410"
@@ -402,6 +412,7 @@
    "gog": "game/miasma_chronicles",
    "howlongtobeat": "107893",
    "igdb": "miasma-chronicles",
+   "metacritic": "miasma-chronicles",
    "mobygames": "203542",
    "pcgamingwiki": "Miasma_Chronicles",
    "steam": "1649010"
@@ -432,7 +443,8 @@
  {
   "enwiki": "Fashion Dreamer",
   "ids": {
-   "igdb": "fashion-dreamer"
+   "igdb": "fashion-dreamer",
+   "metacritic": "fashion-dreamer"
   },
   "label_en": "Fashion Dreamer",
   "wikidata": "Q116734039"
@@ -723,6 +735,7 @@
   "ids": {
    "howlongtobeat": "69649",
    "igdb": "constructor-plus",
+   "metacritic": "constructor",
    "mobygames": "124286",
    "pcgamingwiki": "Constructor_Plus",
    "steam": "898800"
@@ -914,6 +927,7 @@
   "ids": {
    "howlongtobeat": "12315",
    "igdb": "deer-hunter-2005",
+   "metacritic": "deer-hunter-2005",
    "mobygames": "22717"
   },
   "label_en": "Deer Hunter 2005",

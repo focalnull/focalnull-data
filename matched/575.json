@@ -42,6 +42,7 @@
   "ids": {
    "howlongtobeat": "5488",
    "igdb": "madden-nfl-08",
+   "metacritic": "madden-nfl-08",
    "mobygames": "31860",
    "pcgamingwiki": "Madden_NFL_08"
   },
@@ -65,6 +66,7 @@
   "ids": {
    "howlongtobeat": "8849",
    "igdb": "space-giraffe",
+   "metacritic": "space-giraffe",
    "mobygames": "30799",
    "pcgamingwiki": "Space_Giraffe",
    "steam": "27800"
@@ -98,6 +100,7 @@
   "ids": {
    "howlongtobeat": "63",
    "igdb": "3-on-3-nhl-arcade",
+   "metacritic": "3-on-3-nhl-arcade",
    "mobygames": "46225"
   },
   "label_en": "3 on 3 NHL Arcade",
@@ -115,6 +118,7 @@
   "ids": {
    "howlongtobeat": "6343",
    "igdb": "nail-d",
+   "metacritic": "naild",
    "mobygames": "49361",
    "pcgamingwiki": "Nail'd",
    "steam": "40380"
@@ -150,6 +154,7 @@
   "ids": {
    "howlongtobeat": "15972",
    "igdb": "the-smurfs-2--1",
+   "metacritic": "the-smurfs-2",
    "mobygames": "85060"
   },
   "label_en": "The Smurfs 2",
@@ -160,6 +165,7 @@
   "ids": {
    "howlongtobeat": "16449",
    "igdb": "final-fantasy-x-slash-x-2-hd-remaster",
+   "metacritic": "final-fantasy-x-x-2-hd-remaster",
    "mobygames": "62684",
    "pcgamingwiki": "Final_Fantasy_X/X-2_HD_Remaster",
    "steam": "359870"
@@ -187,6 +193,7 @@
   "ids": {
    "howlongtobeat": "25311",
    "igdb": "dark-souls-ii-scholar-of-the-first-sin",
+   "metacritic": "dark-souls-ii-scholar-of-the-first-sin",
    "mobygames": "72129",
    "pcgamingwiki": "Dark_Souls_II:_Scholar_of_the_First_Sin",
    "steam": "335300"
@@ -198,6 +205,7 @@
   "enwiki": "Dynasty Warriors: Godseekers",
   "ids": {
    "igdb": "dynasty-warriors-godseekers",
+   "metacritic": "dynasty-warriors-godseekers",
    "mobygames": "84428"
   },
   "label_en": "Dynasty Warriors: Godseekers",
@@ -208,6 +216,7 @@
   "ids": {
    "howlongtobeat": "43204",
    "igdb": "bus-simulator-16",
+   "metacritic": "bus-simulator-16",
    "mobygames": "88671",
    "pcgamingwiki": "Bus_Simulator_16",
    "steam": "324310"
@@ -248,6 +257,7 @@
   "enwiki": "Princess Connect! Re:Dive",
   "ids": {
    "igdb": "princess-connect-re-dive",
+   "metacritic": "princess-connect-redive",
    "mobygames": "178069"
   },
   "label_en": "Princess Connect! Re:Dive",
@@ -257,6 +267,7 @@
   "ids": {
    "howlongtobeat": "50072",
    "igdb": "danmaku-unlimited-3",
+   "metacritic": "danmaku-unlimited-3",
    "mobygames": "85134",
    "pcgamingwiki": "Danmaku_Unlimited_3",
    "steam": "450950"
@@ -301,7 +312,9 @@
    "epic": "flintlock-the-siege-of-dawn-210044",
    "howlongtobeat": "105586",
    "igdb": "flintlock-the-siege-of-dawn",
+   "metacritic": "flintlock-the-siege-of-dawn",
    "mobygames": "227794",
+   "pcgamingwiki": "Flintlock:_The_Siege_of_Dawn",
    "steam": "1832040"
   },
   "label_en": "Flintlock: The Siege of Dawn",
@@ -312,6 +325,7 @@
    "howlongtobeat": "85180",
    "igdb": "wordle-3",
    "mobygames": "188639",
+   "pcgamingwiki": "Wordle_3",
    "steam": "1428820"
   },
   "label_en": "Wordle 3",
@@ -332,6 +346,7 @@
    "howlongtobeat": "96647",
    "igdb": "almost-my-floor",
    "mobygames": "172885",
+   "pcgamingwiki": "Almost_My_Floor",
    "steam": "1298080"
   },
   "label_en": "Almost My Floor",
@@ -351,6 +366,7 @@
   "enwiki": "Thunderbirds (2004 video game)",
   "ids": {
    "igdb": "thunderbirds--6",
+   "metacritic": "thunderbirds-2004",
    "mobygames": "18759"
   },
   "label_en": "Thunderbirds",
@@ -365,6 +381,7 @@
    "gog": "game/the_last_faith",
    "howlongtobeat": "80962",
    "igdb": "the-last-faith",
+   "metacritic": "the-last-faith",
    "mobygames": "211931",
    "pcgamingwiki": "The_Last_Faith",
    "steam": "1274600"
@@ -378,6 +395,7 @@
    "gog": "game/mega_city_police",
    "howlongtobeat": "132198",
    "igdb": "mega-city-force",
+   "metacritic": "mega-city-police",
    "mobygames": "206588",
    "steam": "2259210"
   },
@@ -692,6 +710,7 @@
   "ids": {
    "howlongtobeat": "75164",
    "igdb": "hellbound",
+   "metacritic": "hellbound",
    "mobygames": "154034",
    "pcgamingwiki": "Hellbound",
    "steam": "753590"
@@ -810,6 +829,7 @@
    "gog": "game/reanimal",
    "howlongtobeat": "155644",
    "igdb": "reanimal",
+   "metacritic": "reanimal",
    "mobygames": "255127",
    "pcgamingwiki": "Reanimal",
    "steam": "2129530"
@@ -841,7 +861,8 @@
  {
   "enwiki": "Drag x Drive",
   "ids": {
-   "igdb": "drag-x-drive"
+   "igdb": "drag-x-drive",
+   "metacritic": "drag-x-drive"
   },
   "label_en": "Drag x Drive",
   "wikidata": "Q133804575"
@@ -850,6 +871,7 @@
   "ids": {
    "howlongtobeat": "150942",
    "igdb": "playing-kafka",
+   "metacritic": "playing-kafka",
    "steam": "2911850"
   },
   "label_en": "Playing Kafka",

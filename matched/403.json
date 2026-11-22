@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "10548",
    "igdb": "total-war-shogun-2",
+   "metacritic": "total-war-shogun-2",
    "mobygames": "52057",
    "pcgamingwiki": "Total_War:_Shogun_2",
    "steam": "34330"
@@ -78,6 +79,7 @@
   "enwiki": "Strider 2 (1999 video game)",
   "ids": {
    "igdb": "strider-2",
+   "metacritic": "strider-2",
    "mobygames": "4441"
   },
   "label_en": "Strider 2",
@@ -99,6 +101,7 @@
   "enwiki": "Custom Robo (2004 video game)",
   "ids": {
    "igdb": "custom-robo--1",
+   "metacritic": "custom-robo",
    "mobygames": "18683"
   },
   "label_en": "Custom Robo",
@@ -144,6 +147,7 @@
   "ids": {
    "howlongtobeat": "38889",
    "igdb": "quadrilateral-cowboy",
+   "metacritic": "quadrilateral-cowboy",
    "mobygames": "100744",
    "pcgamingwiki": "Quadrilateral_Cowboy",
    "steam": "240440"
@@ -206,7 +210,8 @@
  {
   "enwiki": "Ant Raid",
   "ids": {
-   "igdb": "ant-raid"
+   "igdb": "ant-raid",
+   "metacritic": "ant-raid"
   },
   "label_en": "Ant Raid",
   "wikidata": "Q18209403"
@@ -237,6 +242,7 @@
    "gog": "game/cook_serve_delicious_2",
    "howlongtobeat": "49024",
    "igdb": "cook-serve-delicious-2",
+   "metacritic": "cook-serve-delicious-2",
    "mobygames": "95927",
    "pcgamingwiki": "Cook,_Serve,_Delicious!_2!!",
    "steam": "386620"
@@ -257,6 +263,7 @@
    "gog": "game/cultist_simulator",
    "howlongtobeat": "53548",
    "igdb": "cultist-simulator",
+   "metacritic": "cultist-simulator",
    "mobygames": "109517",
    "pcgamingwiki": "Cultist_Simulator",
    "steam": "718670"
@@ -269,6 +276,7 @@
    "gog": "game/party_hard_2",
    "howlongtobeat": "45945",
    "igdb": "party-hard-2",
+   "metacritic": "party-hard-2",
    "mobygames": "115934",
    "pcgamingwiki": "Party_Hard_2",
    "steam": "572430"
@@ -283,6 +291,7 @@
    "gog": "game/what_the_golf",
    "howlongtobeat": "70701",
    "igdb": "what-the-golf",
+   "metacritic": "what-the-golf",
    "mobygames": "135495",
    "pcgamingwiki": "What_the_Golf?",
    "steam": "785790"
@@ -295,6 +304,7 @@
   "ids": {
    "igdb": "arthurs-1st-grade",
    "mobygames": "120027",
+   "pcgamingwiki": "Arthur's_1st_Grade",
    "steam": "4056560"
   },
   "label_en": "Arthur's 1st Grade",
@@ -306,6 +316,7 @@
    "gog": "game/do_not_feed_the_monkeys",
    "howlongtobeat": "62048",
    "igdb": "do-not-feed-the-monkeys",
+   "metacritic": "do-not-feed-the-monkeys",
    "mobygames": "116156",
    "pcgamingwiki": "Do_Not_Feed_the_Monkeys",
    "steam": "658850"
@@ -330,6 +341,7 @@
   "enwiki": "Cruis'n Blast",
   "ids": {
    "igdb": "cruisn-blast",
+   "metacritic": "cruisn-blast",
    "mobygames": "88676"
   },
   "label_en": "Cruis'n Blast",
@@ -367,6 +379,7 @@
    "gog": "game/demon_turf",
    "howlongtobeat": "84030",
    "igdb": "demon-turf",
+   "metacritic": "demon-turf",
    "mobygames": "174640",
    "pcgamingwiki": "Demon_Turf",
    "steam": "1325900"
@@ -417,6 +430,7 @@
    "epic": "circus-electrique",
    "howlongtobeat": "113213",
    "igdb": "circus-electrique",
+   "metacritic": "circus-electrique",
    "mobygames": "190755",
    "pcgamingwiki": "Circus_Electrique",
    "steam": "1666250"
@@ -439,6 +453,7 @@
    "howlongtobeat": "113021",
    "igdb": "friends-vs-friends",
    "mobygames": "203816",
+   "pcgamingwiki": "Friends_vs_Friends",
    "steam": "1785150"
   },
   "label_en": "Friends vs. Friends",
@@ -493,6 +508,7 @@
   "ids": {
    "howlongtobeat": "32499",
    "igdb": "ash",
+   "metacritic": "ash",
    "mobygames": "100479"
   },
   "label_en": "Ash",
@@ -812,6 +828,7 @@
   "ids": {
    "howlongtobeat": "46363",
    "igdb": "nobunagas-ambition-sphere-of-influence-ascension",
+   "metacritic": "nobunagas-ambition-sphere-of-influence-ascension",
    "mobygames": "105309",
    "pcgamingwiki": "Nobunaga's_Ambition:_Sphere_of_Influence_-_Ascension",
    "steam": "375450"

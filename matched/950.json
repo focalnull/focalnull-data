@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7720",
    "igdb": "resident-evil-4",
+   "metacritic": "resident-evil-4",
    "mobygames": "16373",
    "pcgamingwiki": "Resident_Evil_4",
    "steam": "254700"
@@ -17,6 +18,7 @@
    "gog": "game/machinarium_collectors_edition",
    "howlongtobeat": "5478",
    "igdb": "machinarium",
+   "metacritic": "machinarium",
    "mobygames": "43013",
    "pcgamingwiki": "Machinarium",
    "steam": "40700"
@@ -44,6 +46,7 @@
   "enwiki": "Rabbids Go Home",
   "ids": {
    "igdb": "rabbids-go-home",
+   "metacritic": "rabbids-go-home",
    "mobygames": "56927",
    "pcgamingwiki": "Rabbids_Go_Home"
   },
@@ -69,6 +72,7 @@
   "ids": {
    "howlongtobeat": "142",
    "igdb": "a-vampyre-story",
+   "metacritic": "a-vampyre-story",
    "mobygames": "37758",
    "pcgamingwiki": "A_Vampyre_Story",
    "steam": "313870"
@@ -86,6 +90,7 @@
    "gog": "game/judge_dredd_dredd_vs_death",
    "howlongtobeat": "4881",
    "igdb": "judge-dredd-dredd-vs-death",
+   "metacritic": "judge-dredd-dredd-vs-death",
    "mobygames": "10742",
    "pcgamingwiki": "Judge_Dredd:_Dredd_vs._Death",
    "steam": "3710"
@@ -105,6 +110,7 @@
   "enwiki": "Power Stone Collection",
   "ids": {
    "igdb": "power-stone-collection",
+   "metacritic": "power-stone-collection",
    "mobygames": "25754"
   },
   "label_en": "Power Stone Collection",
@@ -182,6 +188,7 @@
   "enwiki": "Flock!",
   "ids": {
    "igdb": "flock--1",
+   "metacritic": "flock",
    "mobygames": "40283",
    "pcgamingwiki": "Flock!",
    "steam": "21640"
@@ -194,6 +201,7 @@
   "ids": {
    "howlongtobeat": "4038",
    "igdb": "gradius-rebirth",
+   "metacritic": "gradius-rebirth",
    "mobygames": "50442"
   },
   "label_en": "Gradius ReBirth",
@@ -203,6 +211,7 @@
   "enwiki": "The Walt Disney World Explorer",
   "ids": {
    "igdb": "the-walt-disney-world-explorer",
+   "metacritic": "the-walt-disney-world-explorer",
    "pcgamingwiki": "The_Walt_Disney_World_Explorer"
   },
   "label_en": "The Walt Disney World Explorer",
@@ -237,6 +246,7 @@
    "gog": "game/dragons_dogma_dark_arisen",
    "howlongtobeat": "2846",
    "igdb": "dragons-dogma-dark-arisen",
+   "metacritic": "dragons-dogma-dark-arisen",
    "mobygames": "83506",
    "pcgamingwiki": "Dragon's_Dogma:_Dark_Arisen",
    "steam": "367500"
@@ -247,6 +257,7 @@
  {
   "ids": {
    "igdb": "narc--1",
+   "metacritic": "narc",
    "mobygames": "18388",
    "pcgamingwiki": "Narc"
   },
@@ -269,6 +280,7 @@
   "ids": {
    "howlongtobeat": "26542",
    "igdb": "chibi-robo-zip-lash",
+   "metacritic": "chibi-robo-zip-lash",
    "mobygames": "77829"
   },
   "label_en": "Chibi-Robo! Zip Lash",
@@ -281,6 +293,7 @@
    "gog": "game/stick_it_to_the_man",
    "howlongtobeat": "14744",
    "igdb": "stick-it-to-the-man",
+   "metacritic": "stick-it-to-the-man",
    "mobygames": "65823",
    "pcgamingwiki": "Stick_It_to_the_Man!",
    "steam": "251830"
@@ -315,6 +328,7 @@
  {
   "ids": {
    "igdb": "mowin-and-throwin",
+   "metacritic": "mowin-throwin",
    "mobygames": "127540",
    "pcgamingwiki": "Mowin'_&_Throwin'",
    "steam": "762030"
@@ -334,6 +348,7 @@
   "ids": {
    "howlongtobeat": "72822",
    "igdb": "resident-evil-3",
+   "metacritic": "resident-evil-3",
    "mobygames": "140612",
    "pcgamingwiki": "Resident_Evil_3_(2020)",
    "steam": "952060"
@@ -368,6 +383,7 @@
  {
   "ids": {
    "igdb": "deal-or-no-deal-special-edition",
+   "metacritic": "deal-or-no-deal-special-edition",
    "mobygames": "125534"
   },
   "label_en": "Deal or No Deal: Special Edition",
@@ -397,6 +413,7 @@
    "epic": "battlefield-2042",
    "howlongtobeat": "93426",
    "igdb": "battlefield-2042",
+   "metacritic": "battlefield-2042",
    "mobygames": "175320",
    "pcgamingwiki": "Battlefield_2042",
    "steam": "1517290"
@@ -461,6 +478,7 @@
   "ids": {
    "howlongtobeat": "121463",
    "igdb": "dark-and-darker",
+   "metacritic": "dark-and-darker",
    "mobygames": "215981",
    "pcgamingwiki": "Dark_and_Darker",
    "steam": "2016590"
@@ -783,6 +801,7 @@
   "ids": {
    "howlongtobeat": "50735",
    "igdb": "divide",
+   "metacritic": "divide",
    "pcgamingwiki": "Divide",
    "steam": "687270"
   },
@@ -868,6 +887,7 @@
    "gog": "game/yogsothoths_yard",
    "howlongtobeat": "132348",
    "igdb": "yog-sothoths-yard",
+   "metacritic": "yog-sothoths-yard",
    "mobygames": "210522",
    "steam": "2194530"
   },
@@ -1222,6 +1242,7 @@
   "ids": {
    "howlongtobeat": "168186",
    "igdb": "minesweeper-rush",
+   "metacritic": "minesweeper-rush",
    "steam": "3665840"
   },
   "label_en": "MineSweeper Rush",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2529",
    "igdb": "dig-dug",
+   "metacritic": "dig-dug",
    "mobygames": "139",
    "pcgamingwiki": "Arcade_Game_Series:_Dig_Dug",
    "steam": "403400"
@@ -17,6 +18,7 @@
    "gog": "game/the_suffering",
    "howlongtobeat": "10218",
    "igdb": "the-suffering",
+   "metacritic": "the-suffering",
    "mobygames": "12511",
    "pcgamingwiki": "The_Suffering"
   },
@@ -83,6 +85,7 @@
   "ids": {
    "howlongtobeat": "1251",
    "igdb": "bomberman-tournament",
+   "metacritic": "bomberman-tournament",
    "mobygames": "4460"
   },
   "label_en": "Bomberman Tournament",
@@ -128,6 +131,7 @@
   "enwiki": "Dance Dance Revolution Universe 2",
   "ids": {
    "igdb": "dance-dance-revolution-universe-2",
+   "metacritic": "dance-dance-revolution-universe-2",
    "mobygames": "36856"
   },
   "label_en": "Dance Dance Revolution Universe 2",
@@ -138,6 +142,7 @@
   "ids": {
    "howlongtobeat": "2192",
    "igdb": "dangerous-high-school-girls-in-trouble",
+   "metacritic": "dangerous-high-school-girls-in-trouble",
    "mobygames": "38399",
    "pcgamingwiki": "Dangerous_High_School_Girls_in_Trouble!",
    "steam": "27400"
@@ -159,6 +164,7 @@
   "enwiki": "Reign of Fire (video game)",
   "ids": {
    "igdb": "reign-of-fire",
+   "metacritic": "reign-of-fire",
    "mobygames": "14594"
   },
   "label_en": "Reign of Fire",
@@ -192,6 +198,7 @@
  {
   "ids": {
    "igdb": "pokedex-3d-pro",
+   "metacritic": "pokedex-3d-pro",
    "mobygames": "60750"
   },
   "label_en": "Pokédex 3D pro",
@@ -206,6 +213,7 @@
   "ids": {
    "howlongtobeat": "13300",
    "igdb": "divekick",
+   "metacritic": "divekick",
    "mobygames": "62511",
    "pcgamingwiki": "Divekick",
    "steam": "244730"
@@ -228,6 +236,7 @@
    "gog": "game/clustertruck",
    "howlongtobeat": "40215",
    "igdb": "clustertruck",
+   "metacritic": "clustertruck",
    "mobygames": "80856",
    "pcgamingwiki": "Clustertruck",
    "steam": "397950"
@@ -244,6 +253,9 @@
   "wikidata": "Q24032105"
  },
  {
+  "ids": {
+   "metacritic": "edomono"
+  },
   "label_en": "Edomono",
   "wikidata": "Q30935105"
  },
@@ -261,6 +273,7 @@
  {
   "ids": {
    "igdb": "suchawira-world-traveler",
+   "metacritic": "suchawira-world-traveler",
    "pcgamingwiki": "Suchawira_World_Traveler",
    "steam": "1007380"
   },
@@ -274,6 +287,7 @@
    "gog": "game/the_lions_song",
    "howlongtobeat": "38571",
    "igdb": "the-lions-song",
+   "metacritic": "the-lions-song",
    "mobygames": "92688",
    "pcgamingwiki": "The_Lion's_Song",
    "steam": "437160"
@@ -294,6 +308,7 @@
   "ids": {
    "howlongtobeat": "26108",
    "igdb": "shiftlings",
+   "metacritic": "shiftlings",
    "mobygames": "75588",
    "pcgamingwiki": "Shiftlings",
    "steam": "310810"
@@ -314,6 +329,7 @@
   "ids": {
    "howlongtobeat": "83883",
    "igdb": "age-of-empires-iii-definitive-edition",
+   "metacritic": "age-of-empires-iii-definitive-edition",
    "mobygames": "151534",
    "pcgamingwiki": "Age_of_Empires_III:_Definitive_Edition",
    "steam": "933110"
@@ -373,6 +389,7 @@
    "gog": "game/winter_ember",
    "howlongtobeat": "89848",
    "igdb": "winter-ember",
+   "metacritic": "winter-ember",
    "mobygames": "183450",
    "pcgamingwiki": "Winter_Ember",
    "steam": "1417880"
@@ -424,6 +441,7 @@
   "ids": {
    "howlongtobeat": "2300",
    "igdb": "dead-horde",
+   "metacritic": "dead-horde",
    "mobygames": "73868",
    "pcgamingwiki": "Dead_Horde",
    "steam": "27940"
@@ -436,6 +454,7 @@
   "ids": {
    "howlongtobeat": "109137",
    "igdb": "american-arcadia",
+   "metacritic": "american-arcadia",
    "mobygames": "211925",
    "pcgamingwiki": "American_Arcadia",
    "steam": "1249040"
@@ -468,6 +487,7 @@
   "ids": {
    "howlongtobeat": "22943",
    "igdb": "space-hulk-ascension--1",
+   "metacritic": "space-hulk-ascension-edition",
    "mobygames": "69935",
    "pcgamingwiki": "Space_Hulk:_Ascension",
    "steam": "317620"
@@ -770,6 +790,7 @@
   "ids": {
    "howlongtobeat": "153294",
    "igdb": "the-legend-of-heroes-trails-beyond-the-horizon--1",
+   "metacritic": "the-legend-of-heroes-trails-beyond-the-horizon",
    "pcgamingwiki": "The_Legend_of_Heroes:_Trails_beyond_the_Horizon",
    "steam": "3319980"
   },

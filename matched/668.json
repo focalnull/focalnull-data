@@ -15,6 +15,7 @@
    "gog": "game/overlord_raising_hell",
    "howlongtobeat": "6848",
    "igdb": "overlord",
+   "metacritic": "overlord",
    "mobygames": "28862",
    "pcgamingwiki": "Overlord_(2007)",
    "steam": "11450"
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "2685",
    "igdb": "donkey-kong-barrel-blast",
+   "metacritic": "donkey-kong-barrel-blast",
    "mobygames": "34523"
   },
   "label_en": "Donkey Kong Barrel Blast",
@@ -37,6 +39,7 @@
   "ids": {
    "howlongtobeat": "4358",
    "igdb": "haze",
+   "metacritic": "haze",
    "mobygames": "34240"
   },
   "label_en": "Haze",
@@ -47,6 +50,7 @@
   "ids": {
    "howlongtobeat": "55820",
    "igdb": "star-trek-the-next-generation-birth-of-the-federation",
+   "metacritic": "star-trek-the-next-generation-birth-of-the-federa",
    "mobygames": "2508",
    "pcgamingwiki": "Star_Trek:_The_Next_Generation_-_Birth_of_the_Federation"
   },
@@ -75,6 +79,7 @@
   "enwiki": "Wild Arms XF",
   "ids": {
    "igdb": "wild-arms-xf",
+   "metacritic": "wild-arms-xf",
    "mobygames": "36612"
   },
   "label_en": "Wild Arms XF",
@@ -84,6 +89,7 @@
   "enwiki": "Magician's Quest: Mysterious Times",
   "ids": {
    "igdb": "magicians-quest-mysterious-times",
+   "metacritic": "magicians-quest-mysterious-times",
    "mobygames": "85742"
   },
   "label_en": "Magician's Quest: Mysterious Times",
@@ -94,6 +100,7 @@
   "ids": {
    "howlongtobeat": "3079",
    "igdb": "elemental-war-of-magic",
+   "metacritic": "elemental-war-of-magic",
    "mobygames": "48065"
   },
   "label_en": "Elemental: War of Magic",
@@ -124,6 +131,7 @@
   "ids": {
    "igdb": "venus-the-flytrap",
    "mobygames": "15315",
+   "pcgamingwiki": "Venus_the_Flytrap",
    "steam": "2337960"
   },
   "label_en": "Venus The Flytrap",
@@ -160,6 +168,7 @@
    "gog": "game/bittrip_core",
    "howlongtobeat": "1081",
    "igdb": "bit-dot-trip-core",
+   "metacritic": "bit-trip-core",
    "mobygames": "51756",
    "pcgamingwiki": "Bit.Trip_Core",
    "steam": "205060"
@@ -198,6 +207,7 @@
   "enwiki": "Ping Pals",
   "ids": {
    "igdb": "ping-pals",
+   "metacritic": "ping-pals",
    "mobygames": "31046"
   },
   "label_en": "Ping Pals",
@@ -209,6 +219,7 @@
    "gog": "game/stronghold_crusader_2",
    "howlongtobeat": "21468",
    "igdb": "stronghold-crusader-ii",
+   "metacritic": "stronghold-crusader-ii",
    "mobygames": "74056",
    "pcgamingwiki": "Stronghold_Crusader_2",
    "steam": "232890"
@@ -223,6 +234,7 @@
    "gog": "game/ticket_to_ride",
    "howlongtobeat": "10330",
    "igdb": "ticket-to-ride-classic-edition",
+   "metacritic": "ticket-to-ride-2008",
    "mobygames": "22136",
    "pcgamingwiki": "Ticket_to_Ride:_Classic_Edition",
    "steam": "108200"
@@ -236,6 +248,7 @@
    "gog": "game/ys_memories_of_celceta",
    "howlongtobeat": "11472",
    "igdb": "ys-memories-of-celceta",
+   "metacritic": "ys-memories-of-celceta",
    "mobygames": "78036",
    "pcgamingwiki": "Ys:_Memories_of_Celceta",
    "steam": "587110"
@@ -264,6 +277,7 @@
   "ids": {
    "howlongtobeat": "36937",
    "igdb": "rocketbirds-2-evolution",
+   "metacritic": "rocketbirds-2-evolution",
    "mobygames": "81704",
    "pcgamingwiki": "Rocketbirds_2_Evolution",
    "steam": "470210"
@@ -275,6 +289,7 @@
   "enwiki": "Phineas and Ferb: Quest for Cool Stuff",
   "ids": {
    "igdb": "phineas-and-ferb-quest-for-cool-stuff",
+   "metacritic": "phineas-and-ferb-quest-for-cool-stuff",
    "mobygames": "89881"
   },
   "label_en": "Phineas and Ferb: Quest for Cool Stuff",
@@ -292,6 +307,7 @@
   "enwiki": "Grand Kingdom",
   "ids": {
    "igdb": "grand-kingdom",
+   "metacritic": "grand-kingdom",
    "mobygames": "84083"
   },
   "label_en": "Grand Kingdom",
@@ -302,6 +318,7 @@
   "ids": {
    "howlongtobeat": "40116",
    "igdb": "metal-gear-survive",
+   "metacritic": "metal-gear-survive",
    "mobygames": "101676",
    "pcgamingwiki": "Metal_Gear_Survive",
    "steam": "543900"
@@ -322,6 +339,7 @@
   "ids": {
    "howlongtobeat": "40916",
    "igdb": "legend-of-the-skyfish",
+   "metacritic": "legend-of-the-skyfish",
    "mobygames": "95460",
    "pcgamingwiki": "Legend_of_the_Skyfish",
    "steam": "589300"
@@ -344,6 +362,7 @@
    "gog": "game/a_plague_tale_innocence",
    "howlongtobeat": "65080",
    "igdb": "a-plague-tale-innocence",
+   "metacritic": "a-plague-tale-innocence",
    "mobygames": "126856",
    "pcgamingwiki": "A_Plague_Tale:_Innocence",
    "steam": "752590"
@@ -369,6 +388,7 @@
   "ids": {
    "howlongtobeat": "81475",
    "igdb": "fun-with-ragdolls-the-game",
+   "metacritic": "fun-with-ragdolls-the-game",
    "mobygames": "170788",
    "pcgamingwiki": "Fun_with_Ragdolls:_The_Game",
    "steam": "1142500"
@@ -403,6 +423,7 @@
   "ids": {
    "howlongtobeat": "106222",
    "igdb": "one-piece-odyssey",
+   "metacritic": "one-piece-odyssey",
    "mobygames": "197854",
    "pcgamingwiki": "One_Piece_Odyssey",
    "steam": "814000"
@@ -435,6 +456,7 @@
    "gog": "game/silt",
    "howlongtobeat": "94068",
    "igdb": "silt",
+   "metacritic": "silt",
    "mobygames": "185232",
    "pcgamingwiki": "Silt",
    "steam": "1325890"
@@ -449,6 +471,7 @@
    "gog": "game/citizen_sleeper",
    "howlongtobeat": "94117",
    "igdb": "citizen-sleeper",
+   "metacritic": "citizen-sleeper",
    "mobygames": "183852",
    "pcgamingwiki": "Citizen_Sleeper",
    "steam": "1578650"
@@ -516,6 +539,7 @@
    "gog": "game/the_mageseeker_a_league_of_legends_story",
    "howlongtobeat": "124322",
    "igdb": "the-mageseeker-a-league-of-legends-story",
+   "metacritic": "the-mageseeker-a-league-of-legends-story",
    "mobygames": "201945",
    "pcgamingwiki": "The_Mageseeker:_A_League_of_Legends_Story",
    "steam": "1457080"
@@ -555,6 +579,7 @@
    "gog": "game/chants_of_sennaar",
    "howlongtobeat": "106929",
    "igdb": "chants-of-sennaar",
+   "metacritic": "chants-of-sennaar",
    "mobygames": "208271",
    "pcgamingwiki": "Chants_of_Sennaar",
    "steam": "1931770"

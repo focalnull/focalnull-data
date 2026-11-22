@@ -15,6 +15,7 @@
   "enwiki": "LocoRoco 2",
   "ids": {
    "igdb": "locoroco-2",
+   "metacritic": "locoroco-2",
    "mobygames": "37928"
   },
   "label_en": "LocoRoco 2",
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "413",
    "igdb": "altitude",
+   "metacritic": "altitude",
    "mobygames": "46631",
    "pcgamingwiki": "Altitude",
    "steam": "41300"
@@ -47,6 +49,7 @@
   "ids": {
    "howlongtobeat": "7324",
    "igdb": "pro-evolution-soccer-2013",
+   "metacritic": "pro-evolution-soccer-2013",
    "mobygames": "62181",
    "pcgamingwiki": "Pro_Evolution_Soccer_2013",
    "steam": "221430"
@@ -66,6 +69,7 @@
   "enwiki": "Pirates of the Caribbean: The Legend of Jack Sparrow",
   "ids": {
    "igdb": "pirates-of-the-caribbean-the-legend-of-jack-sparrow",
+   "metacritic": "pirates-of-the-caribbean-the-legend-of-jack-sparr",
    "mobygames": "24129",
    "pcgamingwiki": "Pirates_of_the_Caribbean:_The_Legend_of_Jack_Sparrow"
   },
@@ -77,6 +81,7 @@
   "ids": {
    "howlongtobeat": "10005",
    "igdb": "the-legend-of-dragoon",
+   "metacritic": "the-legend-of-dragoon",
    "mobygames": "4163",
    "pcgamingwiki": "The_Legend_of_Dragoon_(Severed_Chains)"
   },
@@ -87,6 +92,7 @@
   "enwiki": "Picross DS",
   "ids": {
    "igdb": "picross-ds",
+   "metacritic": "picross-ds",
    "mobygames": "26428"
   },
   "label_en": "Picross DS",
@@ -174,11 +180,6 @@
   "wikidata": "Q6419250"
  },
  {
-  "enwiki": "Papuwa",
-  "label_en": "Papuwa",
-  "wikidata": "Q7133250"
- },
- {
   "enwiki": "Purikura Daisakusen",
   "ids": {
    "igdb": "purikura-daisakusen",
@@ -199,6 +200,7 @@
   "enwiki": "Without Warning (video game)",
   "ids": {
    "igdb": "without-warning",
+   "metacritic": "without-warning",
    "mobygames": "21489"
   },
   "label_en": "Without Warning",
@@ -255,6 +257,7 @@
   "ids": {
    "howlongtobeat": "21474",
    "igdb": "flockers",
+   "metacritic": "flockers",
    "mobygames": "86739",
    "pcgamingwiki": "Flockers",
    "steam": "260330"
@@ -268,6 +271,7 @@
    "gog": "game/sunless_skies",
    "howlongtobeat": "48602",
    "igdb": "sunless-skies",
+   "metacritic": "sunless-skies",
    "mobygames": "121493",
    "pcgamingwiki": "Sunless_Skies",
    "steam": "596970"
@@ -281,6 +285,7 @@
    "gog": "game/stars_in_shadow",
    "howlongtobeat": "44601",
    "igdb": "stars-in-shadow",
+   "metacritic": "stars-in-shadow",
    "mobygames": "84569",
    "pcgamingwiki": "Stars_in_Shadow",
    "steam": "464880"
@@ -309,6 +314,7 @@
   "enwiki": "Bolsomito 2K18",
   "ids": {
    "igdb": "bolsomito",
+   "metacritic": "bolsomito-2k18",
    "mobygames": "114971",
    "pcgamingwiki": "Bolsomito_2K18",
    "steam": "930460"
@@ -329,6 +335,7 @@
    "gog": "game/ultimate_fishing_simulator",
    "howlongtobeat": "51066",
    "igdb": "ultimate-fishing-simulator",
+   "metacritic": "ultimate-fishing-simulator",
    "mobygames": "99990",
    "pcgamingwiki": "Ultimate_Fishing_Simulator",
    "steam": "468920"
@@ -384,6 +391,7 @@
   "ids": {
    "howlongtobeat": "40946",
    "igdb": "1917-the-alien-invasion",
+   "metacritic": "1917-the-alien-invasion-dx",
    "mobygames": "80464",
    "pcgamingwiki": "1917_-_The_Alien_Invasion",
    "steam": "470060"
@@ -407,6 +415,7 @@
   "ids": {
    "howlongtobeat": "91070",
    "igdb": "olliolli-world",
+   "metacritic": "olliolli-world",
    "mobygames": "179408",
    "pcgamingwiki": "OlliOlli_World",
    "steam": "1190170"
@@ -427,6 +436,9 @@
   "wikidata": "Q106804250"
  },
  {
+  "ids": {
+   "metacritic": "hatsune-miku-project-diva-megamix"
+  },
   "label_en": "Hatsune Miku: Project DIVA Mega Mix",
   "wikidata": "Q109344250"
  },
@@ -470,6 +482,7 @@
   "enwiki": "Call of Duty: Warzone Mobile",
   "ids": {
    "igdb": "call-of-duty-warzone-mobile",
+   "metacritic": "call-of-duty-warzone-mobile",
    "mobygames": "220119"
   },
   "label_en": "Call of Duty: Warzone Mobile",
@@ -498,6 +511,7 @@
   "ids": {
    "howlongtobeat": "21685",
    "igdb": "funk-of-titans",
+   "metacritic": "funk-of-titans",
    "mobygames": "87075",
    "pcgamingwiki": "Funk_of_Titans",
    "steam": "383750"
@@ -677,6 +691,7 @@
    "gog": "game/warhammer_40000_rogue_trader",
    "howlongtobeat": "108941",
    "igdb": "warhammer-40000-rogue-trader",
+   "metacritic": "warhammer-40000-rogue-trader",
    "mobygames": "213536",
    "pcgamingwiki": "Warhammer_40,000:_Rogue_Trader",
    "steam": "2186680"
@@ -745,6 +760,7 @@
   "ids": {
    "howlongtobeat": "139914",
    "igdb": "refind-self-the-personality-test-game",
+   "metacritic": "refind-self-the-personality-test-game",
    "mobygames": "219467",
    "pcgamingwiki": "Refind_Self:_The_Personality_Test_Game",
    "steam": "2514960"
@@ -904,6 +920,7 @@
    "gog": "game/neon_blood",
    "howlongtobeat": "149641",
    "igdb": "neon-blood",
+   "metacritic": "neon-blood",
    "mobygames": "234088",
    "steam": "2067310"
   },
@@ -1267,6 +1284,7 @@
  {
   "ids": {
    "igdb": "rage-of-the-dragons-neo",
+   "pcgamingwiki": "Rage_of_the_Dragons_NEO",
    "steam": "2892130"
   },
   "label_en": "Rage of the Dragons NEO",

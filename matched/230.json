@@ -24,6 +24,7 @@
   "enwiki": "The Warriors (video game)",
   "ids": {
    "igdb": "the-warriors",
+   "metacritic": "the-warriors",
    "mobygames": "19709"
   },
   "label_en": "The Warriors",
@@ -44,6 +45,7 @@
   "ids": {
    "howlongtobeat": "13803",
    "igdb": "socom-u-s-navy-seals-confrontation",
+   "metacritic": "socom-u-s-navy-seals-confrontation",
    "mobygames": "40846"
   },
   "label_en": "SOCOM: U.S. Navy SEALs Confrontation",
@@ -53,6 +55,7 @@
   "enwiki": "Sonic Shuffle",
   "ids": {
    "igdb": "sonic-shuffle",
+   "metacritic": "sonic-shuffle",
    "mobygames": "4604"
   },
   "label_en": "Sonic Shuffle",
@@ -124,6 +127,7 @@
    "gog": "game/dreadout",
    "howlongtobeat": "18680",
    "igdb": "dreadout",
+   "metacritic": "dreadout",
    "mobygames": "65781",
    "pcgamingwiki": "DreadOut",
    "steam": "269790"
@@ -198,6 +202,7 @@
   "ids": {
    "howlongtobeat": "2096",
    "igdb": "cubic-ninja",
+   "metacritic": "cubic-ninja",
    "mobygames": "53680"
   },
   "label_en": "Cubic Ninja",
@@ -227,6 +232,7 @@
   "ids": {
    "howlongtobeat": "3829",
    "igdb": "game-dev-tycoon",
+   "metacritic": "game-dev-tycoon",
    "mobygames": "82820",
    "pcgamingwiki": "Game_Dev_Tycoon",
    "steam": "239820"
@@ -239,6 +245,7 @@
   "ids": {
    "howlongtobeat": "12088",
    "igdb": "scourge-outbreak",
+   "metacritic": "scourge-outbreak",
    "mobygames": "61609",
    "pcgamingwiki": "Scourge:_Outbreak",
    "steam": "227560"
@@ -259,6 +266,7 @@
   "ids": {
    "howlongtobeat": "45149",
    "igdb": "mlb-the-show-17",
+   "metacritic": "mlb-the-show-17",
    "mobygames": "86131"
   },
   "label_en": "MLB: The Show 17",
@@ -276,6 +284,7 @@
   "ids": {
    "howlongtobeat": "21415",
    "igdb": "silence-of-the-sleep",
+   "metacritic": "silence-of-the-sleep",
    "mobygames": "84184",
    "pcgamingwiki": "Silence_of_the_Sleep",
    "steam": "321870"
@@ -295,6 +304,9 @@
   "wikidata": "Q45719230"
  },
  {
+  "ids": {
+   "pcgamingwiki": "Knives_Out"
+  },
   "label_en": "Knives Out",
   "wikidata": "Q48757230"
  },
@@ -308,6 +320,7 @@
   "ids": {
    "howlongtobeat": "40262",
    "igdb": "make-america-great-again-the-trump-presidency",
+   "metacritic": "make-america-great-again-the-trump-presidency",
    "mobygames": "96105",
    "pcgamingwiki": "Make_America_Great_Again:_The_Trump_Presidency",
    "steam": "515040"
@@ -330,6 +343,7 @@
   "ids": {
    "howlongtobeat": "141",
    "igdb": "a-valley-without-wind-2",
+   "metacritic": "a-valley-without-wind-2",
    "mobygames": "68449",
    "pcgamingwiki": "A_Valley_Without_Wind_2",
    "steam": "228320"
@@ -373,6 +387,7 @@
    "gog": "game/monster_jam_steel_titans",
    "howlongtobeat": "68738",
    "igdb": "monster-jam-steel-titans",
+   "metacritic": "monster-jam-steel-titans",
    "mobygames": "129034",
    "pcgamingwiki": "Monster_Jam_Steel_Titans",
    "steam": "824280"
@@ -430,6 +445,7 @@
   "ids": {
    "howlongtobeat": "108210",
    "igdb": "drainus",
+   "metacritic": "drainus",
    "mobygames": "184708",
    "pcgamingwiki": "Drainus",
    "steam": "1975360"
@@ -459,6 +475,7 @@
   "ids": {
    "howlongtobeat": "4198",
    "igdb": "guncraft",
+   "metacritic": "guncraft",
    "mobygames": "100884",
    "pcgamingwiki": "Guncraft",
    "steam": "241720"
@@ -470,6 +487,7 @@
   "ids": {
    "howlongtobeat": "67813",
    "igdb": "conan-unconquered",
+   "metacritic": "conan-unconquered",
    "mobygames": "127750",
    "pcgamingwiki": "Conan_Unconquered",
    "steam": "989690"
@@ -716,6 +734,7 @@
   "ids": {
    "howlongtobeat": "124010",
    "igdb": "baten-kaitos-i-and-ii-hd-remaster",
+   "metacritic": "baten-kaitos-i-and-ii-hd-remaster",
    "mobygames": "208480",
    "pcgamingwiki": "Baten_Kaitos_I_&_II_HD_Remaster",
    "steam": "2146170"
@@ -1187,6 +1206,7 @@
  {
   "ids": {
    "igdb": "metal-wolf-chaos-xd",
+   "metacritic": "metal-wolf-chaos-xd",
    "steam": "820630"
   },
   "label_en": "Metal Wolf Chaos XD",

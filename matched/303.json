@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "1570",
    "igdb": "castlevania-chronicles",
+   "metacritic": "castlevania-chronicles",
    "mobygames": "5004"
   },
   "label_en": "Castlevania Chronicles",
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "1698",
    "igdb": "chrome",
+   "metacritic": "chrome",
    "mobygames": "10521",
    "pcgamingwiki": "Chrome",
    "steam": "46420"
@@ -57,6 +59,7 @@
   "ids": {
    "howlongtobeat": "10277",
    "igdb": "the-world-ends-with-you",
+   "metacritic": "the-world-ends-with-you",
    "mobygames": "34746"
   },
   "label_en": "The World Ends with You",
@@ -66,6 +69,7 @@
   "enwiki": "Spartan: Total Warrior",
   "ids": {
    "igdb": "spartan-total-warrior",
+   "metacritic": "spartan-total-warrior",
    "mobygames": "23516"
   },
   "label_en": "Spartan: Total Warrior",
@@ -91,6 +95,7 @@
    "gog": "game/legacy_of_kain_defiance",
    "howlongtobeat": "5214",
    "igdb": "legacy-of-kain-defiance",
+   "metacritic": "legacy-of-kain-defiance",
    "mobygames": "11488",
    "pcgamingwiki": "Legacy_of_Kain:_Defiance",
    "steam": "224300"
@@ -119,6 +124,7 @@
   "ids": {
    "howlongtobeat": "596",
    "igdb": "armored-core-2-another-age",
+   "metacritic": "armored-core-2-another-age",
    "mobygames": "9225"
   },
   "label_en": "Armored Core 2: Another Age",
@@ -136,6 +142,7 @@
   "enwiki": "Kinect Joy Ride",
   "ids": {
    "igdb": "kinect-joy-ride",
+   "metacritic": "kinect-joy-ride",
    "mobygames": "49069"
   },
   "label_en": "Kinect Joy Ride",
@@ -155,6 +162,7 @@
   "ids": {
    "howlongtobeat": "4439",
    "igdb": "heroes-of-ruin",
+   "metacritic": "heroes-of-ruin",
    "mobygames": "56863"
   },
   "label_en": "Heroes of Ruin",
@@ -207,6 +215,7 @@
   "enwiki": "Mister Slime",
   "ids": {
    "igdb": "mister-slime",
+   "metacritic": "mister-slime",
    "mobygames": "89155"
   },
   "label_en": "Mister Slime",
@@ -294,6 +303,7 @@
   "ids": {
    "howlongtobeat": "55443",
    "igdb": "extinction",
+   "metacritic": "extinction",
    "mobygames": "106853",
    "pcgamingwiki": "Extinction",
    "steam": "570710"
@@ -318,6 +328,7 @@
    "gog": "game/tunic",
    "howlongtobeat": "52546",
    "igdb": "tunic",
+   "metacritic": "tunic",
    "mobygames": "181370",
    "pcgamingwiki": "Tunic",
    "steam": "553420"
@@ -339,6 +350,7 @@
    "epic": "predator-hunting-grounds",
    "howlongtobeat": "77687",
    "igdb": "predator-hunting-grounds",
+   "metacritic": "predator-hunting-grounds",
    "mobygames": "145021",
    "pcgamingwiki": "Predator:_Hunting_Grounds",
    "steam": "1556200"
@@ -360,6 +372,7 @@
    "gog": "game/heave_ho",
    "howlongtobeat": "70193",
    "igdb": "heave-ho",
+   "metacritic": "heave-ho",
    "mobygames": "132865",
    "pcgamingwiki": "Heave_Ho",
    "steam": "905340"
@@ -371,6 +384,7 @@
   "ids": {
    "howlongtobeat": "32153",
    "igdb": "paint-it-back",
+   "metacritic": "paint-it-back",
    "mobygames": "83781",
    "pcgamingwiki": "Paint_It_Back",
    "steam": "385250"
@@ -396,6 +410,7 @@
    "gog": "game/timberborn",
    "howlongtobeat": "90472",
    "igdb": "timberborn",
+   "metacritic": "timberborn",
    "mobygames": "172329",
    "pcgamingwiki": "Timberborn",
    "steam": "1062090"
@@ -429,6 +444,7 @@
   "ids": {
    "howlongtobeat": "120694",
    "igdb": "beauty-and-the-beast--2",
+   "metacritic": "beauty-and-the-beast-hidden-object-fairy-tale-hog",
    "mobygames": "112174",
    "pcgamingwiki": "Beauty_and_the_Beast:_Hidden_Object_Fairy_Tale._HOG",
    "steam": "892550"
@@ -490,6 +506,7 @@
    "epic": "gravitar-recharged-e606fe",
    "howlongtobeat": "127756",
    "igdb": "gravitar-recharged",
+   "metacritic": "gravitar-recharged",
    "mobygames": "185301",
    "pcgamingwiki": "Gravitar:_Recharged",
    "steam": "1905430"
@@ -559,6 +576,7 @@
   "ids": {
    "howlongtobeat": "106447",
    "igdb": "super-kiwi-64",
+   "metacritic": "super-kiwi-64",
    "mobygames": "193612",
    "pcgamingwiki": "Super_Kiwi_64",
    "steam": "1949960"
@@ -611,6 +629,7 @@
    "howlongtobeat": "101909",
    "igdb": "stuck-in-time",
    "mobygames": "176616",
+   "pcgamingwiki": "Stuck_In_Time",
    "steam": "1814010"
   },
   "label_en": "Stuck In Time",
@@ -825,6 +844,7 @@
    "epic": "popucom-3b79ee",
    "howlongtobeat": "137626",
    "igdb": "popucom",
+   "metacritic": "popucom",
    "pcgamingwiki": "POPUCOM",
    "steam": "2543180"
   },
@@ -894,6 +914,7 @@
   "ids": {
    "howlongtobeat": "46718",
    "igdb": "ovivo",
+   "metacritic": "ovivo",
    "mobygames": "100847",
    "pcgamingwiki": "Ovivo",
    "steam": "597700"
@@ -934,6 +955,9 @@
   "wikidata": "Q124075303"
  },
  {
+  "ids": {
+   "metacritic": "the-quintessential-quintuplets-gotopazu-story-2nd"
+  },
   "label_en": "The Quintessential Quintuplets: Gotopazu Story 2nd",
   "wikidata": "Q125693303"
  },
@@ -1323,6 +1347,7 @@
   "ids": {
    "howlongtobeat": "68083",
    "igdb": "nickelodeon-fit",
+   "metacritic": "nickelodeon-fit",
    "mobygames": "92016"
   },
   "label_en": "Nickelodeon Fit",

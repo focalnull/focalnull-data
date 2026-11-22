@@ -14,6 +14,7 @@
    "gog": "game/flatout",
    "howlongtobeat": "3586",
    "igdb": "flatout",
+   "metacritic": "flatout",
    "mobygames": "15632",
    "pcgamingwiki": "FlatOut",
    "steam": "6220"
@@ -47,6 +48,7 @@
   "ids": {
    "howlongtobeat": "3533",
    "igdb": "final-fantasy-xiii-2",
+   "metacritic": "final-fantasy-xiii-2",
    "mobygames": "56279",
    "pcgamingwiki": "Final_Fantasy_XIII-2",
    "steam": "292140"
@@ -75,6 +77,7 @@
   "enwiki": "NHL 08",
   "ids": {
    "igdb": "nhl-08",
+   "metacritic": "nhl-08",
    "mobygames": "32902"
   },
   "label_en": "NHL 08",
@@ -84,6 +87,7 @@
   "enwiki": "Mickey's Speedway USA",
   "ids": {
    "igdb": "mickey-s-speedway-usa",
+   "metacritic": "mickeys-speedway-usa",
    "mobygames": "23113"
   },
   "label_en": "Mickey's Speedway USA",
@@ -122,7 +126,8 @@
  {
   "enwiki": "Ankh: Curse of the Scarab King",
   "ids": {
-   "igdb": "ankh-curse-of-the-scarab-king"
+   "igdb": "ankh-curse-of-the-scarab-king",
+   "metacritic": "ankh-curse-of-the-scarab-king"
   },
   "label_en": "Ankh: Curse of the Scarab King",
   "wikidata": "Q4766043"
@@ -169,6 +174,9 @@
   "wikidata": "Q11323043"
  },
  {
+  "ids": {
+   "mobygames": "14039"
+  },
   "label_en": "Magna Braban: Henreki no Yusha",
   "wikidata": "Q11340043"
  },
@@ -178,6 +186,7 @@
    "gog": "game/no_mans_sky",
    "howlongtobeat": "20074",
    "igdb": "no-man-s-sky",
+   "metacritic": "no-mans-sky",
    "mobygames": "80257",
    "pcgamingwiki": "No_Man's_Sky",
    "steam": "275850"
@@ -265,6 +274,7 @@
    "gog": "game/gas_station_simulator",
    "howlongtobeat": "89898",
    "igdb": "gas-station-simulator",
+   "metacritic": "gas-station-simulator",
    "mobygames": "172330",
    "pcgamingwiki": "Gas_Station_Simulator",
    "steam": "1149620"
@@ -291,6 +301,7 @@
   "ids": {
    "howlongtobeat": "65272",
    "igdb": "gear-dot-club-unlimited-2",
+   "metacritic": "gearclub-unlimited-2",
    "mobygames": "117313"
   },
   "label_en": "Gear.Club Unlimited 2",
@@ -408,6 +419,7 @@
   "ids": {
    "howlongtobeat": "124012",
    "igdb": "professor-layton-and-the-new-world-of-steam",
+   "pcgamingwiki": "Professor_Layton_and_the_New_World_of_Steam",
    "steam": "3384600"
   },
   "label_en": "Professor Layton and the New World of Steam",
@@ -451,6 +463,7 @@
   "ids": {
    "howlongtobeat": "108360",
    "igdb": "yomawari-lost-in-the-dark",
+   "metacritic": "yomawari-lost-in-the-dark",
    "mobygames": "193997",
    "pcgamingwiki": "Yomawari:_Lost_in_the_Dark",
    "steam": "1998330"
@@ -748,6 +761,7 @@
   "ids": {
    "howlongtobeat": "18851",
    "igdb": "sparkle-2",
+   "metacritic": "sparkle-2",
    "mobygames": "68700",
    "pcgamingwiki": "Sparkle_2",
    "steam": "370550"
@@ -758,6 +772,7 @@
  {
   "ids": {
    "igdb": "ancient-aliens-the-game",
+   "metacritic": "ancient-aliens-the-game",
    "mobygames": "99247",
    "pcgamingwiki": "Ancient_Aliens:_The_Game",
    "steam": "1998260"

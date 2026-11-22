@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5261",
    "igdb": "lego-star-wars-ii-the-original-trilogy",
+   "metacritic": "lego-star-wars-ii-the-original-trilogy",
    "mobygames": "23874",
    "pcgamingwiki": "Lego_Star_Wars_II:_The_Original_Trilogy"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "6796",
    "igdb": "orcs-must-die-2",
+   "metacritic": "orcs-must-die-2",
    "mobygames": "60106",
    "pcgamingwiki": "Orcs_Must_Die!_2",
    "steam": "201790"
@@ -162,6 +164,7 @@
   "ids": {
    "howlongtobeat": "20975",
    "igdb": "totally-spies-2-undercover",
+   "metacritic": "totally-spies-2-undercover",
    "mobygames": "90457"
   },
   "label_en": "Totally Spies! 2: Undercover",
@@ -193,6 +196,7 @@
   "ids": {
    "howlongtobeat": "21286",
    "igdb": "splatoon",
+   "metacritic": "splatoon",
    "mobygames": "73389"
   },
   "label_en": "Splatoon",
@@ -233,6 +237,7 @@
   "ids": {
    "howlongtobeat": "44859",
    "igdb": "sonic-forces",
+   "metacritic": "sonic-forces",
    "mobygames": "97595",
    "pcgamingwiki": "Sonic_Forces",
    "steam": "637100"
@@ -300,6 +305,7 @@
   "ids": {
    "howlongtobeat": "75368",
    "igdb": "katana-kami-a-way-of-the-samurai-story",
+   "metacritic": "katana-kami-a-way-of-the-samurai-story",
    "mobygames": "141118",
    "pcgamingwiki": "Katana_Kami:_A_Way_of_the_Samurai_Story",
    "steam": "1062340"
@@ -331,6 +337,7 @@
   "ids": {
    "howlongtobeat": "15438",
    "igdb": "gravity-badgers",
+   "metacritic": "gravity-badgers",
    "mobygames": "70784",
    "pcgamingwiki": "Gravity_Badgers",
    "steam": "267060"
@@ -341,7 +348,8 @@
  {
   "enwiki": "Rich Diamond",
   "ids": {
-   "igdb": "rich-diamond"
+   "igdb": "rich-diamond",
+   "metacritic": "rich-diamond"
   },
   "label_en": "Rich Diamond",
   "wikidata": "Q102335239"
@@ -363,6 +371,7 @@
    "epic": "it-takes-two",
    "howlongtobeat": "80199",
    "igdb": "it-takes-two",
+   "metacritic": "it-takes-two",
    "mobygames": "161320",
    "pcgamingwiki": "It_Takes_Two",
    "steam": "1426210"
@@ -765,6 +774,7 @@
   "ids": {
    "howlongtobeat": "94438",
    "igdb": "citizens-unite-earth-x-space",
+   "metacritic": "citizens-unite-earth-x-space",
    "mobygames": "157750",
    "steam": "1369730"
   },
@@ -1044,6 +1054,7 @@
  {
   "ids": {
    "igdb": "metalborn",
+   "pcgamingwiki": "MetälBörn",
    "steam": "1986780"
   },
   "label_en": "MetälBörn",
@@ -1060,6 +1071,7 @@
  {
   "ids": {
    "igdb": "tony-slopes",
+   "pcgamingwiki": "Tony_Slopes",
    "steam": "835770"
   },
   "label_en": "Tony Slopes™",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "266",
    "igdb": "age-of-empires",
+   "metacritic": "age-of-empires",
    "mobygames": "384",
    "pcgamingwiki": "Age_of_Empires"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "128",
    "igdb": "a-game-of-thrones-genesis--1",
+   "metacritic": "a-game-of-thrones-genesis",
    "mobygames": "53844",
    "pcgamingwiki": "A_Game_of_Thrones_-_Genesis",
    "steam": "58550"
@@ -46,6 +48,7 @@
    "gog": "game/sniper_ghost_warrior",
    "howlongtobeat": "8686",
    "igdb": "sniper-ghost-warrior",
+   "metacritic": "sniper-ghost-warrior",
    "mobygames": "47149",
    "pcgamingwiki": "Sniper:_Ghost_Warrior",
    "steam": "34830"
@@ -59,6 +62,7 @@
    "gog": "game/startopia",
    "howlongtobeat": "9181",
    "igdb": "startopia",
+   "metacritic": "startopia",
    "mobygames": "4232",
    "pcgamingwiki": "Startopia",
    "steam": "243040"
@@ -151,6 +155,7 @@
    "gog": "game/shadowrun_returns",
    "howlongtobeat": "8367",
    "igdb": "shadowrun-returns",
+   "metacritic": "shadowrun-returns",
    "mobygames": "61418",
    "pcgamingwiki": "Shadowrun_Returns",
    "steam": "234650"
@@ -181,6 +186,7 @@
   "ids": {
    "howlongtobeat": "83862",
    "igdb": "yamaha-supercross",
+   "metacritic": "yamaha-supercross",
    "mobygames": "71108"
   },
   "label_en": "Yamaha Supercross",
@@ -212,6 +218,7 @@
    "howlongtobeat": "31467",
    "igdb": "lego-minifigures-online",
    "mobygames": "72346",
+   "pcgamingwiki": "Lego_Minifigures_Online",
    "steam": "324790"
   },
   "label_en": "Lego Minifigures Online",
@@ -363,6 +370,7 @@
    "gog": "game/highwater",
    "howlongtobeat": "109099",
    "igdb": "highwater",
+   "metacritic": "highwater",
    "mobygames": "214757",
    "pcgamingwiki": "Highwater",
    "steam": "2000960"
@@ -532,6 +540,7 @@
   "ids": {
    "howlongtobeat": "130066",
    "igdb": "high-sea-saga-dx",
+   "pcgamingwiki": "High_Sea_Saga_DX",
    "steam": "2431880"
   },
   "label_en": "High Sea Saga DX",
@@ -602,6 +611,7 @@
   "ids": {
    "howlongtobeat": "76743",
    "igdb": "iro-hero",
+   "metacritic": "iro-hero",
    "mobygames": "109671",
    "pcgamingwiki": "Iro_Hero",
    "steam": "709750"

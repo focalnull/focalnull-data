@@ -17,6 +17,7 @@
   "ids": {
    "howlongtobeat": "5918",
    "igdb": "metal-gear-solid-v-the-phantom-pain",
+   "metacritic": "metal-gear-solid-v-the-phantom-pain",
    "mobygames": "75522",
    "pcgamingwiki": "Metal_Gear_Solid_V:_The_Phantom_Pain",
    "steam": "287700"
@@ -38,6 +39,7 @@
   "enwiki": "Metal Slug Advance",
   "ids": {
    "igdb": "metal-slug-advance",
+   "metacritic": "metal-slug-advance",
    "mobygames": "15754"
   },
   "label_en": "Metal Slug Advance",
@@ -58,6 +60,7 @@
   "enwiki": "Soulcalibur III",
   "ids": {
    "igdb": "soulcalibur-iii",
+   "metacritic": "soulcalibur-iii",
    "mobygames": "21115"
   },
   "label_en": "Soulcalibur III",
@@ -116,6 +119,7 @@
   "ids": {
    "howlongtobeat": "8578",
    "igdb": "sin-and-punishment",
+   "metacritic": "sin-and-punishment",
    "mobygames": "17343"
   },
   "label_en": "Sin and Punishment",
@@ -132,6 +136,7 @@
   "enwiki": "Sled Storm (1999 video game)",
   "ids": {
    "igdb": "sled-storm--1",
+   "metacritic": "sled-storm",
    "mobygames": "3943"
   },
   "label_en": "Sled Storm",
@@ -141,6 +146,7 @@
   "enwiki": "Major League Baseball 2K6",
   "ids": {
    "igdb": "major-league-baseball-2k6",
+   "metacritic": "major-league-baseball-2k6",
    "mobygames": "35909"
   },
   "label_en": "Major League Baseball 2K6",
@@ -159,6 +165,7 @@
   "enwiki": "Super Robot Wars OG 2",
   "ids": {
    "igdb": "super-robot-taisen-original-generation-2",
+   "metacritic": "super-robot-taisen-original-generation-2",
    "mobygames": "33868"
   },
   "label_en": "Super Robot Taisen: Original Generation 2",
@@ -170,6 +177,7 @@
    "gog": "game/a_boy_and_his_blob",
    "howlongtobeat": "119",
    "igdb": "a-boy-and-his-blob--1",
+   "metacritic": "a-boy-and-his-blob",
    "mobygames": "44061",
    "pcgamingwiki": "A_Boy_and_His_Blob",
    "steam": "281200"
@@ -196,7 +204,8 @@
  {
   "enwiki": "Emergency Heroes",
   "ids": {
-   "igdb": "emergency-heroes"
+   "igdb": "emergency-heroes",
+   "metacritic": "emergency-heroes"
   },
   "label_en": "Emergency Heroes",
   "wikidata": "Q5370600"
@@ -290,6 +299,7 @@
   "ids": {
    "howlongtobeat": "23808",
    "igdb": "gravity-ghost",
+   "metacritic": "gravity-ghost",
    "mobygames": "107715",
    "pcgamingwiki": "Gravity_Ghost",
    "steam": "251490"
@@ -310,6 +320,7 @@
   "ids": {
    "howlongtobeat": "46316",
    "igdb": "monument-valley-ii",
+   "metacritic": "monument-valley-2",
    "mobygames": "90188",
    "pcgamingwiki": "Monument_Valley_2:_Panoramic_Edition",
    "steam": "1927740"
@@ -322,6 +333,7 @@
   "ids": {
    "howlongtobeat": "46440",
    "igdb": "metroid-samus-returns",
+   "metacritic": "metroid-samus-returns",
    "mobygames": "94240"
   },
   "label_en": "Metroid: Samus Returns",
@@ -377,6 +389,7 @@
   "ids": {
    "howlongtobeat": "56835",
    "igdb": "mosaic-game-of-gods",
+   "metacritic": "mosaic-game-of-gods",
    "mobygames": "209891",
    "pcgamingwiki": "Mosaic:_Game_of_Gods",
    "steam": "547390"
@@ -442,6 +455,7 @@
   "ids": {
    "howlongtobeat": "57207",
    "igdb": "gunheart",
+   "metacritic": "gunheart",
    "mobygames": "109768",
    "pcgamingwiki": "Gunheart",
    "steam": "551700"
@@ -466,6 +480,7 @@
  {
   "ids": {
    "igdb": "ancient-amuletor",
+   "metacritic": "ancient-amuletor",
    "mobygames": "91456",
    "pcgamingwiki": "Ancient_Amuletor_VR",
    "steam": "665340"
@@ -1209,6 +1224,7 @@
  {
   "ids": {
    "igdb": "noodle-jump",
+   "pcgamingwiki": "Noodle_Jump",
    "steam": "1050660"
   },
   "label_en": "Noodle Jump",
@@ -1241,6 +1257,7 @@
  {
   "ids": {
    "igdb": "the-aurora-chronicles",
+   "pcgamingwiki": "The_Aurora_Chronicles",
    "steam": "4262410"
   },
   "label_en": "The Aurora Chronicles",

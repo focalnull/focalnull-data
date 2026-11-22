@@ -3,6 +3,7 @@
   "enwiki": "Bible Black",
   "ids": {
    "howlongtobeat": "1025",
+   "metacritic": "bible-black",
    "mobygames": "27648"
   },
   "label_en": "Bible Black",
@@ -32,6 +33,7 @@
   "enwiki": "Forza Motorsport (2005 video game)",
   "ids": {
    "igdb": "forza-motorsport",
+   "metacritic": "forza-motorsport-2005",
    "mobygames": "18696"
   },
   "label_en": "Forza Motorsport",
@@ -42,6 +44,7 @@
   "ids": {
    "howlongtobeat": "3752",
    "igdb": "fullmetal-alchemist-dual-sympathy",
+   "metacritic": "fullmetal-alchemist-dual-sympathy",
    "mobygames": "22853"
   },
   "label_en": "Fullmetal Alchemist: Dual Sympathy",
@@ -65,6 +68,7 @@
   "enwiki": "Mega Man Network Transmission",
   "ids": {
    "igdb": "mega-man-network-transmission",
+   "metacritic": "mega-man-network-transmission",
    "mobygames": "9450"
   },
   "label_en": "Mega Man Network Transmission",
@@ -84,6 +88,7 @@
   "ids": {
    "howlongtobeat": "6880",
    "igdb": "painkiller-resurrection",
+   "metacritic": "painkiller-resurrection",
    "mobygames": "43457",
    "pcgamingwiki": "Painkiller:_Resurrection",
    "steam": "39560"
@@ -163,6 +168,7 @@
   "enwiki": "Rock Band 4",
   "ids": {
    "igdb": "rock-band-4",
+   "metacritic": "rock-band-4",
    "mobygames": "75383"
   },
   "label_en": "Rock Band 4",
@@ -173,6 +179,7 @@
   "ids": {
    "howlongtobeat": "47918",
    "igdb": "collar-x-malice",
+   "metacritic": "collar-x-malice",
    "mobygames": "93482"
   },
   "label_en": "Collar x Malice",
@@ -183,6 +190,7 @@
   "ids": {
    "howlongtobeat": "46372",
    "igdb": "dark-rose-valkyrie",
+   "metacritic": "dark-rose-valkyrie",
    "mobygames": "90021",
    "pcgamingwiki": "Dark_Rose_Valkyrie",
    "steam": "726950"
@@ -213,6 +221,7 @@
   "ids": {
    "howlongtobeat": "47330",
    "igdb": "use-your-words",
+   "metacritic": "use-your-words",
    "mobygames": "86454",
    "pcgamingwiki": "Use_Your_Words",
    "steam": "521350"
@@ -249,6 +258,7 @@
    "gog": "game/lake_ridden",
    "howlongtobeat": "56419",
    "igdb": "lake-ridden",
+   "metacritic": "lake-ridden",
    "mobygames": "113714",
    "pcgamingwiki": "Lake_Ridden",
    "steam": "696530"
@@ -292,6 +302,7 @@
  {
   "ids": {
    "igdb": "picross-e4",
+   "metacritic": "picross-e4",
    "mobygames": "88457"
   },
   "label_en": "Picross e4",
@@ -578,6 +589,7 @@
    "gog": "game/city_of_beats",
    "howlongtobeat": "101207",
    "igdb": "city-of-beats",
+   "metacritic": "city-of-beats",
    "mobygames": "206108",
    "steam": "1470390"
   },
@@ -772,6 +784,7 @@
   "ids": {
    "howlongtobeat": "169284",
    "igdb": "the-cube--4",
+   "metacritic": "the-cube",
    "mobygames": "243269",
    "pcgamingwiki": "The_Cube_(Mundfish)",
    "steam": "3230430"

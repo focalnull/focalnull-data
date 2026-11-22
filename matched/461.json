@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2230",
    "igdb": "dark-void",
+   "metacritic": "dark-void",
    "mobygames": "44899",
    "pcgamingwiki": "Dark_Void",
    "steam": "45710"
@@ -42,6 +43,7 @@
   "ids": {
    "howlongtobeat": "15915",
    "igdb": "shadow-man-2econd-coming",
+   "metacritic": "shadow-man-2econd-coming",
    "mobygames": "6763"
   },
   "label_en": "Shadow Man: 2econd Coming",
@@ -73,6 +75,7 @@
   "ids": {
    "howlongtobeat": "3465",
    "igdb": "fight-night-round-3",
+   "metacritic": "fight-night-round-3",
    "mobygames": "24001"
   },
   "label_en": "Fight Night Round 3",
@@ -87,6 +90,7 @@
   "ids": {
    "howlongtobeat": "12197",
    "igdb": "light-of-altair",
+   "metacritic": "light-of-altair",
    "mobygames": "41684",
    "pcgamingwiki": "Light_of_Altair",
    "steam": "34500"
@@ -114,6 +118,7 @@
   "enwiki": "Rise of Nightmares",
   "ids": {
    "igdb": "rise-of-nightmares",
+   "metacritic": "rise-of-nightmares",
    "mobygames": "52974"
   },
   "label_en": "Rise of Nightmares",
@@ -132,6 +137,7 @@
   "enwiki": "Arkanoid DS",
   "ids": {
    "igdb": "arkanoid-ds",
+   "metacritic": "arkanoid-ds",
    "mobygames": "38161"
   },
   "label_en": "Arkanoid DS",
@@ -157,6 +163,7 @@
    "gog": "game/tacoma_game",
    "howlongtobeat": "26799",
    "igdb": "tacoma",
+   "metacritic": "tacoma",
    "mobygames": "93730",
    "pcgamingwiki": "Tacoma",
    "steam": "343860"
@@ -169,6 +176,7 @@
   "ids": {
    "howlongtobeat": "26864",
    "igdb": "jumpjet-rex",
+   "metacritic": "jumpjet-rex",
    "mobygames": "88594",
    "pcgamingwiki": "JumpJet_Rex",
    "steam": "329460"
@@ -202,6 +210,7 @@
    "gog": "game/vampire_the_masquerade_swansong",
    "howlongtobeat": "80719",
    "igdb": "vampire-the-masquerade-swansong",
+   "metacritic": "vampire-the-masquerade-swansong",
    "mobygames": "184593",
    "pcgamingwiki": "Vampire:_The_Masquerade_-_Swansong",
    "steam": "1299510"
@@ -225,6 +234,7 @@
   "ids": {
    "howlongtobeat": "97019",
    "igdb": "espn-winter-x-games-snowboarding",
+   "metacritic": "espn-winter-x-games-snowboarding",
    "mobygames": "37498"
   },
   "label_en": "ESPN Winter X-Games Snowboarding",
@@ -253,6 +263,7 @@
   "ids": {
    "howlongtobeat": "6610",
    "igdb": "nimbus",
+   "metacritic": "nimbus",
    "mobygames": "49884",
    "pcgamingwiki": "Nimbus",
    "steam": "50000"
@@ -327,6 +338,7 @@
   "ids": {
    "howlongtobeat": "113309",
    "igdb": "taiji",
+   "metacritic": "taiji",
    "mobygames": "190870",
    "pcgamingwiki": "Taiji",
    "steam": "1141580"

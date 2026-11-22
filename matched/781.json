@@ -46,6 +46,7 @@
    "epic": "need-for-speed-most-wanted-ecf84d",
    "howlongtobeat": "6478",
    "igdb": "need-for-speed-most-wanted-53b9fef3-adb4-41a0-8ca0-ffcbb0060467",
+   "metacritic": "need-for-speed-most-wanted",
    "mobygames": "59097",
    "pcgamingwiki": "Need_for_Speed:_Most_Wanted_(2012)",
    "steam": "1262560"
@@ -69,6 +70,7 @@
   "ids": {
    "howlongtobeat": "10246",
    "igdb": "the-urbz-sims-in-the-city",
+   "metacritic": "the-urbz-sims-in-the-city",
    "mobygames": "15723"
   },
   "label_en": "The Urbz: Sims in the City",
@@ -158,6 +160,7 @@
   "ids": {
    "howlongtobeat": "16909",
    "igdb": "baja-edge-of-control",
+   "metacritic": "baja-edge-of-control",
    "mobygames": "39375"
   },
   "label_en": "Baja: Edge of Control",
@@ -177,6 +180,7 @@
   "ids": {
    "howlongtobeat": "24827",
    "igdb": "double-fine-happy-action-theater",
+   "metacritic": "double-fine-happy-action-theater",
    "mobygames": "54748"
   },
   "label_en": "Double Fine Happy Action Theater",
@@ -206,6 +210,7 @@
   "enwiki": "Stunt GP",
   "ids": {
    "igdb": "stunt-gp",
+   "metacritic": "stunt-gp",
    "mobygames": "5411",
    "pcgamingwiki": "Stunt_GP"
   },
@@ -228,7 +233,8 @@
  {
   "enwiki": "Saint Seiya: Brave Soldiers",
   "ids": {
-   "igdb": "saint-seiya-brave-soldiers"
+   "igdb": "saint-seiya-brave-soldiers",
+   "metacritic": "saint-seiya-brave-soldiers"
   },
   "label_en": "Saint Seiya: Brave Soldiers",
   "wikidata": "Q15132781"
@@ -260,6 +266,7 @@
    "epic": "costume-quest-2",
    "howlongtobeat": "21537",
    "igdb": "costume-quest-2--1",
+   "metacritic": "costume-quest-2",
    "mobygames": "71130",
    "pcgamingwiki": "Costume_Quest_2",
    "steam": "275180"
@@ -295,6 +302,7 @@
    "gog": "game/maize",
    "howlongtobeat": "41662",
    "igdb": "maize",
+   "metacritic": "maize",
    "mobygames": "83281",
    "pcgamingwiki": "Maize",
    "steam": "284240"
@@ -307,6 +315,7 @@
   "ids": {
    "howlongtobeat": "61973",
    "igdb": "the-path-of-motus",
+   "metacritic": "the-path-of-motus",
    "mobygames": "111366",
    "pcgamingwiki": "The_Path_of_Motus",
    "steam": "710690"
@@ -328,6 +337,7 @@
    "gog": "game/mainlining",
    "howlongtobeat": "43315",
    "igdb": "mainlining",
+   "metacritic": "mainlining",
    "mobygames": "100741",
    "pcgamingwiki": "Mainlining",
    "steam": "454950"
@@ -348,6 +358,7 @@
    "gog": "game/the_stillness_of_the_wind",
    "howlongtobeat": "64907",
    "igdb": "the-stillness-of-the-wind",
+   "metacritic": "the-stillness-of-the-wind",
    "mobygames": "121310",
    "pcgamingwiki": "The_Stillness_of_the_Wind",
    "steam": "828900"
@@ -362,6 +373,7 @@
    "gog": "game/sniper_ghost_warrior_contracts",
    "howlongtobeat": "68384",
    "igdb": "sniper-ghost-warrior-contracts",
+   "metacritic": "sniper-ghost-warrior-contracts",
    "mobygames": "137638",
    "pcgamingwiki": "Sniper:_Ghost_Warrior_Contracts",
    "steam": "973580"
@@ -926,6 +938,7 @@
  {
   "ids": {
    "igdb": "piano-teacher",
+   "metacritic": "piano-teacher",
    "mobygames": "95887"
   },
   "label_en": "Piano Teacher",
@@ -968,6 +981,7 @@
   "ids": {
    "howlongtobeat": "51769",
    "igdb": "faerie-solitaire-remastered",
+   "metacritic": "faerie-solitaire-remastered",
    "mobygames": "100342",
    "pcgamingwiki": "Faerie_Solitaire_Remastered",
    "steam": "583930"
@@ -988,6 +1002,7 @@
    "gog": "game/secret_agent_hd",
    "howlongtobeat": "94896",
    "igdb": "secret-agent-hd",
+   "metacritic": "secret-agent-hd",
    "mobygames": "166945",
    "pcgamingwiki": "Secret_Agent_HD",
    "steam": "1607670"
@@ -1266,6 +1281,7 @@
  {
   "ids": {
    "igdb": "backyard-baseball-01",
+   "metacritic": "backyard-baseball-01",
    "steam": "3104970"
   },
   "label_en": "Backyard Baseball '01",
@@ -1302,6 +1318,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Guns_of_Eschaton",
    "steam": "3734220"
   },
   "label_en": "Guns of Eschaton",
@@ -1310,6 +1327,7 @@
  {
   "ids": {
    "igdb": "mojo-xxx",
+   "pcgamingwiki": "Mojo_XXX",
    "steam": "975350"
   },
   "label_en": "Mojo XXX",

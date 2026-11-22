@@ -5,6 +5,7 @@
    "gog": "game/the_witcher",
    "howlongtobeat": "10267",
    "igdb": "the-witcher",
+   "metacritic": "the-witcher",
    "mobygames": "30752",
    "pcgamingwiki": "The_Witcher"
   },
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "1428",
    "igdb": "buzz-the-mega-quiz",
+   "metacritic": "buzz-the-mega-quiz",
    "mobygames": "28297"
   },
   "label_en": "Buzz!: The Mega Quiz",
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "187",
    "igdb": "action-bass",
+   "metacritic": "action-bass",
    "mobygames": "47274"
   },
   "label_en": "Action Bass",
@@ -56,6 +59,7 @@
    "gog": "game/colin_mcrae_rally_2005",
    "howlongtobeat": "1801",
    "igdb": "colin-mcrae-rally-2005",
+   "metacritic": "colin-mcrae-rally-2005",
    "mobygames": "15575",
    "pcgamingwiki": "Colin_McRae_Rally_2005"
   },
@@ -66,6 +70,7 @@
   "ids": {
    "howlongtobeat": "15029",
    "igdb": "fighter-destiny-2",
+   "metacritic": "fighter-destiny-2",
    "mobygames": "21498"
   },
   "label_en": "Fighter Destiny 2",
@@ -119,6 +124,7 @@
   "ids": {
    "howlongtobeat": "6361",
    "igdb": "nancy-drew-last-train-to-blue-moon-canyon",
+   "metacritic": "nancy-drew-last-train-to-blue-moon-canyon",
    "mobygames": "19217",
    "pcgamingwiki": "Nancy_Drew:_Last_Train_to_Blue_Moon_Canyon",
    "steam": "31810"
@@ -131,6 +137,7 @@
   "ids": {
    "howlongtobeat": "14213",
    "igdb": "bomberman--5",
+   "metacritic": "bomberman-2006",
    "mobygames": "42988"
   },
   "label_en": "Bomberman PSP",
@@ -142,6 +149,7 @@
    "gog": "game/drake_of_the_99_dragons",
    "howlongtobeat": "2860",
    "igdb": "drake-of-the-99-dragons",
+   "metacritic": "drake-of-the-99-dragons",
    "mobygames": "19163",
    "pcgamingwiki": "Drake_of_the_99_Dragons",
    "steam": "755630"
@@ -176,6 +184,7 @@
    "gog": "game/middleearth_shadow_of_mordor",
    "howlongtobeat": "18006",
    "igdb": "middle-earth-shadow-of-mordor",
+   "metacritic": "middle-earth-shadow-of-mordor",
    "mobygames": "68721",
    "pcgamingwiki": "Middle-earth:_Shadow_of_Mordor",
    "steam": "241930"
@@ -198,6 +207,7 @@
   "ids": {
    "howlongtobeat": "45292",
    "igdb": "rick-and-morty-virtual-rick-ality",
+   "metacritic": "rick-and-morty-virtual-rick-ality",
    "mobygames": "87212",
    "pcgamingwiki": "Rick_and_Morty_Simulator:_Virtual_Rick-ality",
    "steam": "469610"
@@ -220,6 +230,7 @@
   "enwiki": "Bye-Bye BoxBoy!",
   "ids": {
    "igdb": "bye-bye-boxboy",
+   "metacritic": "bye-bye-boxboy",
    "mobygames": "86977"
   },
   "label_en": "Bye-Bye BoxBoy!",
@@ -237,6 +248,7 @@
   "ids": {
    "howlongtobeat": "43231",
    "igdb": "nights-of-azure-2-bride-of-the-new-moon",
+   "metacritic": "nights-of-azure-2-bride-of-the-new-moon",
    "mobygames": "97478",
    "pcgamingwiki": "Nights_of_Azure_2:_Bride_of_the_New_Moon",
    "steam": "636570"
@@ -249,6 +261,7 @@
   "ids": {
    "howlongtobeat": "21452",
    "igdb": "super-win-the-game",
+   "metacritic": "super-win-the-game",
    "mobygames": "70940",
    "pcgamingwiki": "Super_Win_the_Game",
    "steam": "310700"
@@ -260,6 +273,7 @@
   "ids": {
    "howlongtobeat": "40535",
    "igdb": "rez-infinite",
+   "metacritic": "rez-infinite",
    "mobygames": "81134",
    "pcgamingwiki": "Rez_Infinite",
    "steam": "636450"
@@ -308,6 +322,7 @@
    "gog": "game/clid_the_snail",
    "howlongtobeat": "93405",
    "igdb": "clid-the-snail",
+   "metacritic": "clid-the-snail",
    "mobygames": "171648",
    "pcgamingwiki": "Clid_the_Snail",
    "steam": "1597580"
@@ -412,6 +427,7 @@
    "epic": "madden-nfl-24",
    "howlongtobeat": "130052",
    "igdb": "madden-nfl-24",
+   "metacritic": "madden-nfl-24",
    "mobygames": "207336",
    "pcgamingwiki": "Madden_NFL_24",
    "steam": "2140330"
@@ -1118,6 +1134,7 @@
  {
   "ids": {
    "igdb": "injection-p-23-no-name-no-number",
+   "pcgamingwiki": "Injection_π23_'No_Name,_No_Number'",
    "steam": "1131790"
   },
   "label_en": "Injection π23 'No Name, No Number'",
@@ -1144,5 +1161,13 @@
   },
   "label_en": "Space Treasure Hunters part 2",
   "wikidata": "Q141480637"
+ },
+ {
+  "ids": {
+   "igdb": "moon-sweepers",
+   "steam": "5335510"
+  },
+  "label_en": "Moon Sweepers",
+  "wikidata": "Q142236637"
  }
 ]

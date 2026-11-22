@@ -31,6 +31,7 @@
   "ids": {
    "howlongtobeat": "10403",
    "igdb": "toki-tori",
+   "metacritic": "toki-tori",
    "mobygames": "37359",
    "pcgamingwiki": "Toki_Tori",
    "steam": "38700"
@@ -52,6 +53,7 @@
   "enwiki": "WCW Backstage Assault",
   "ids": {
    "igdb": "wcw-backstage-assault",
+   "metacritic": "wcw-backstage-assault",
    "mobygames": "8946"
   },
   "label_en": "WCW Backstage Assault",
@@ -85,6 +87,7 @@
    "gog": "game/rhiannon_curse_of_the_four_branches",
    "howlongtobeat": "20477",
    "igdb": "rhiannon-curse-of-the-four-branches",
+   "metacritic": "rhiannon-curse-of-the-four-branches",
    "mobygames": "36964",
    "pcgamingwiki": "Rhiannon:_Curse_of_the_Four_Branches",
    "steam": "298140"
@@ -120,6 +123,7 @@
   "ids": {
    "howlongtobeat": "1669",
    "igdb": "chibi-robo-park-patrol",
+   "metacritic": "chibi-robo-park-patrol",
    "mobygames": "33794"
   },
   "label_en": "Chibi-Robo!: Park Patrol",
@@ -139,6 +143,7 @@
   "enwiki": "Mister Mosquito",
   "ids": {
    "igdb": "mister-mosquito",
+   "metacritic": "mister-mosquito",
    "mobygames": "6037"
   },
   "label_en": "Mister Mosquito",
@@ -225,6 +230,7 @@
   "ids": {
    "howlongtobeat": "23609",
    "igdb": "sakura-angels",
+   "metacritic": "sakura-angels",
    "mobygames": "82767",
    "pcgamingwiki": "Sakura_Angels",
    "steam": "342380"
@@ -238,6 +244,7 @@
    "gog": "game/15_days",
    "howlongtobeat": "46",
    "igdb": "15-days",
+   "metacritic": "15-days",
    "mobygames": "46713",
    "pcgamingwiki": "15_Days",
    "steam": "342990"
@@ -256,7 +263,8 @@
  },
  {
   "ids": {
-   "igdb": "cultivation"
+   "igdb": "cultivation",
+   "metacritic": "cultivation"
   },
   "label_en": "Cultivation",
   "wikidata": "Q58459334"
@@ -283,6 +291,7 @@
  {
   "ids": {
    "igdb": "king-of-the-hill",
+   "metacritic": "king-of-the-hill",
    "mobygames": "2977",
    "pcgamingwiki": "King_of_the_Hill"
   },
@@ -315,6 +324,7 @@
    "gog": "game/arise_a_simple_story",
    "howlongtobeat": "70900",
    "igdb": "arise-a-simple-story",
+   "metacritic": "arise-a-simple-story",
    "mobygames": "138195",
    "pcgamingwiki": "Arise:_A_Simple_Story",
    "steam": "866140"
@@ -329,6 +339,7 @@
    "gog": "game/spiritfarer",
    "howlongtobeat": "68189",
    "igdb": "spiritfarer",
+   "metacritic": "spiritfarer",
    "mobygames": "149458",
    "pcgamingwiki": "Spiritfarer",
    "steam": "972660"
@@ -342,6 +353,7 @@
    "gog": "game/attack_of_the_earthlings",
    "howlongtobeat": "53246",
    "igdb": "attack-of-the-earthlings",
+   "metacritic": "attack-of-the-earthlings",
    "mobygames": "102975",
    "pcgamingwiki": "Attack_of_the_Earthlings",
    "steam": "621930"
@@ -354,6 +366,7 @@
   "ids": {
    "howlongtobeat": "82091",
    "igdb": "call-of-duty-black-ops-cold-war",
+   "metacritic": "call-of-duty-black-ops-cold-war",
    "mobygames": "153502",
    "pcgamingwiki": "Call_of_Duty:_Black_Ops_Cold_War",
    "steam": "1985810"
@@ -365,6 +378,7 @@
   "ids": {
    "howlongtobeat": "42348",
    "igdb": "wild-guns-reloaded",
+   "metacritic": "wild-guns-reloaded",
    "mobygames": "82051",
    "pcgamingwiki": "Wild_Guns_Reloaded",
    "steam": "585910"
@@ -376,6 +390,7 @@
   "ids": {
    "howlongtobeat": "37132",
    "igdb": "last-days-of-old-earth",
+   "metacritic": "last-days-of-old-earth",
    "mobygames": "207852",
    "pcgamingwiki": "Last_Days_of_Old_Earth",
    "steam": "376450"
@@ -834,6 +849,7 @@
   "ids": {
    "howlongtobeat": "108164",
    "igdb": "jett-tailfin-racers",
+   "metacritic": "jett-tailfin",
    "mobygames": "92508"
   },
   "label_en": "Jett Tailfin",
@@ -1127,6 +1143,7 @@
  {
   "ids": {
    "igdb": "lego-harry-potter-collection--1",
+   "pcgamingwiki": "Lego_Harry_Potter_Collection",
    "steam": "2950340"
   },
   "label_en": "LEGO® Harry Potter™ Collection",

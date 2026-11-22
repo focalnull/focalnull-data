@@ -62,6 +62,7 @@
   "enwiki": "LiberoGrande",
   "ids": {
    "igdb": "liberogrande",
+   "metacritic": "liberogrande",
    "mobygames": "9162"
   },
   "label_en": "Libero Grande",
@@ -72,6 +73,7 @@
   "ids": {
    "howlongtobeat": "1708",
    "igdb": "chuchu-rocket",
+   "metacritic": "chuchu-rocket",
    "mobygames": "3725"
   },
   "label_en": "ChuChu Rocket!",
@@ -94,6 +96,7 @@
   "ids": {
    "howlongtobeat": "10073",
    "igdb": "the-lost-crown",
+   "metacritic": "the-lost-crown-a-ghost-hunting-adventure",
    "mobygames": "33388",
    "pcgamingwiki": "The_Lost_Crown",
    "steam": "291710"
@@ -104,7 +107,8 @@
  {
   "enwiki": "NCAA Football 10",
   "ids": {
-   "igdb": "ncaa-football-10"
+   "igdb": "ncaa-football-10",
+   "metacritic": "ncaa-football-10"
   },
   "label_en": "NCAA Football 10",
   "wikidata": "Q3334269"
@@ -121,7 +125,8 @@
  {
   "enwiki": "Battlezone (2008 video game)",
   "ids": {
-   "igdb": "battlezone--9"
+   "igdb": "battlezone--9",
+   "metacritic": "battlezone-2008"
   },
   "label_en": "Battlezone",
   "wikidata": "Q4873269"
@@ -159,6 +164,7 @@
  {
   "ids": {
    "igdb": "getsuei-gakuen-kou",
+   "pcgamingwiki": "Getsuei_Gakuen_-kou-",
    "steam": "411390"
   },
   "label_en": "getsuei gakuen:Kou",
@@ -178,6 +184,7 @@
   "ids": {
    "howlongtobeat": "45247",
    "igdb": "kamiko",
+   "metacritic": "kamiko",
    "mobygames": "87514",
    "pcgamingwiki": "Kamiko",
    "steam": "1022480"
@@ -214,6 +221,7 @@
   "ids": {
    "howlongtobeat": "63064",
    "igdb": "override-mech-city-brawl-super-charged-mega-edition",
+   "metacritic": "override-mech-city-brawl",
    "mobygames": "118173",
    "pcgamingwiki": "Override:_Mech_City_Brawl",
    "steam": "709440"
@@ -245,6 +253,7 @@
   "ids": {
    "howlongtobeat": "26616",
    "igdb": "qvadriga",
+   "metacritic": "qvadriga",
    "mobygames": "83270",
    "pcgamingwiki": "Qvadriga",
    "steam": "297760"
@@ -258,6 +267,7 @@
    "epic": "sense-cyberpunk-ghost-story-8547ca",
    "howlongtobeat": "82194",
    "igdb": "sense-a-cyberpunk-ghost-story",
+   "metacritic": "sense-a-cyberpunk-ghost-story",
    "mobygames": "149713",
    "pcgamingwiki": "Sense:_A_Cyberpunk_Ghost_Story",
    "steam": "1120560"
@@ -280,6 +290,7 @@
   "ids": {
    "howlongtobeat": "42027",
    "igdb": "laser-disco-defenders",
+   "metacritic": "laser-disco-defenders",
    "mobygames": "87504",
    "pcgamingwiki": "Laser_Disco_Defenders",
    "steam": "452920"
@@ -357,6 +368,7 @@
   "enwiki": "Exoprimal",
   "ids": {
    "igdb": "exoprimal",
+   "metacritic": "exoprimal",
    "pcgamingwiki": "Exoprimal",
    "steam": "1286320"
   },
@@ -499,6 +511,7 @@
  {
   "ids": {
    "igdb": "aqua-kitty-udx",
+   "metacritic": "aqua-kitty-udx",
    "steam": "2217420"
   },
   "label_en": "AQUA KITTY UDX",
@@ -673,6 +686,7 @@
   "ids": {
    "howlongtobeat": "138653",
    "igdb": "cricket-24",
+   "metacritic": "cricket-24",
    "pcgamingwiki": "Cricket_24",
    "steam": "2358260"
   },
@@ -837,6 +851,7 @@
  {
   "ids": {
    "igdb": "halcyon-6-starbase-commander-lightspeed-edition",
+   "metacritic": "halcyon-6-lightspeed-edition",
    "mobygames": "97944",
    "steam": "651660"
   },
@@ -1087,6 +1102,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "3dSen_VR",
    "steam": "954280"
   },
   "label_en": "3dSen VR",

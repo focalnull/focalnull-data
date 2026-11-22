@@ -5,6 +5,7 @@
    "epic": "league-of-legends",
    "howlongtobeat": "5203",
    "igdb": "league-of-legends",
+   "metacritic": "league-of-legends",
    "mobygames": "43647",
    "pcgamingwiki": "League_of_Legends"
   },
@@ -44,6 +45,7 @@
    "gog": "game/syberia_2",
    "howlongtobeat": "9522",
    "igdb": "syberia-ii",
+   "metacritic": "syberia-2",
    "mobygames": "12892",
    "pcgamingwiki": "Syberia_II",
    "steam": "46510"
@@ -63,6 +65,7 @@
   "ids": {
    "howlongtobeat": "9995",
    "igdb": "the-last-guardian",
+   "metacritic": "the-last-guardian",
    "mobygames": "81967"
   },
   "label_en": "The Last Guardian",
@@ -134,6 +137,7 @@
   "enwiki": "Bounty Hounds",
   "ids": {
    "igdb": "bounty-hounds",
+   "metacritic": "bounty-hounds",
    "mobygames": "27882"
   },
   "label_en": "Bounty Hounds",
@@ -173,6 +177,7 @@
   "enwiki": "Food Network: Cook or Be Cooked",
   "ids": {
    "igdb": "food-network-cook-or-be-cooked",
+   "metacritic": "food-network-cook-or-be-cooked",
    "mobygames": "55387"
   },
   "label_en": "Food Network: Cook or Be Cooked",
@@ -191,6 +196,7 @@
    "gog": "game/ys_the_oath_in_felghana",
    "howlongtobeat": "11474",
    "igdb": "ys-the-oath-in-felghana",
+   "metacritic": "ys-the-oath-in-felghana",
    "mobygames": "25673",
    "pcgamingwiki": "Ys:_The_Oath_in_Felghana",
    "steam": "207320"
@@ -202,6 +208,7 @@
   "enwiki": "Opoona",
   "ids": {
    "igdb": "opoona",
+   "metacritic": "opoona",
    "mobygames": "36690"
   },
   "label_en": "Opoona",
@@ -258,6 +265,7 @@
    "gog": "game/scanner_sombre",
    "howlongtobeat": "45386",
    "igdb": "scanner-sombre",
+   "metacritic": "scanner-sombre",
    "mobygames": "98181",
    "pcgamingwiki": "Scanner_Sombre",
    "steam": "475190"
@@ -307,6 +315,7 @@
   "ids": {
    "howlongtobeat": "92905",
    "igdb": "windjammers-2",
+   "metacritic": "windjammers-2",
    "mobygames": "178219",
    "pcgamingwiki": "Windjammers_2",
    "steam": "1114290"
@@ -330,6 +339,7 @@
   "ids": {
    "howlongtobeat": "57643",
    "igdb": "bus-simulator-18",
+   "metacritic": "bus-simulator",
    "mobygames": "110113",
    "pcgamingwiki": "Bus_Simulator_18",
    "steam": "515180"
@@ -390,6 +400,7 @@
   "ids": {
    "howlongtobeat": "28276",
    "igdb": "zenzizenzic",
+   "metacritic": "zenzizenzic",
    "mobygames": "138409",
    "pcgamingwiki": "Zenzizenzic",
    "steam": "327500"
@@ -430,6 +441,7 @@
   "enwiki": "JoJo's Bizarre Adventure: All Star Battle R",
   "ids": {
    "igdb": "jojos-bizarre-adventure-all-star-battle-r",
+   "metacritic": "jojos-bizarre-adventure-all-star-battle-r",
    "steam": "1372110"
   },
   "label_en": "JoJo's Bizarre Adventure: All-Star Battle R",
@@ -786,6 +798,7 @@
  {
   "ids": {
    "igdb": "asteroid-quarry",
+   "metacritic": "asteroid-quarry",
    "mobygames": "94236"
   },
   "label_en": "Asteroid Quarry",
@@ -1149,6 +1162,7 @@
  {
   "ids": {
    "igdb": "chosen-by-odin",
+   "pcgamingwiki": "Chosen_by_Odin",
    "steam": "1120230"
   },
   "label_en": "Chosen by Odin",

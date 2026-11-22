@@ -35,6 +35,7 @@
   "ids": {
    "howlongtobeat": "36787",
    "igdb": "amazing-alex",
+   "metacritic": "amazing-alex",
    "mobygames": "73799"
   },
   "label_en": "Amazing Alex",
@@ -45,6 +46,7 @@
   "ids": {
    "howlongtobeat": "10022",
    "igdb": "the-legend-of-spyro-dawn-of-the-dragon",
+   "metacritic": "the-legend-of-spyro-dawn-of-the-dragon",
    "mobygames": "58699"
   },
   "label_en": "The Legend of Spyro: Dawn of the Dragon",
@@ -64,6 +66,7 @@
   "ids": {
    "howlongtobeat": "11425",
    "igdb": "yakuza-dead-souls",
+   "metacritic": "yakuza-dead-souls",
    "mobygames": "55178"
   },
   "label_en": "Yakuza: Dead Souls",
@@ -73,6 +76,7 @@
   "enwiki": "Project Justice",
   "ids": {
    "igdb": "project-justice",
+   "metacritic": "project-justice",
    "mobygames": "9835"
   },
   "label_en": "Project Justice",
@@ -83,6 +87,7 @@
   "ids": {
    "howlongtobeat": "5786",
    "igdb": "medal-of-honor-infiltrator",
+   "metacritic": "medal-of-honor-infiltrator",
    "mobygames": "33258"
   },
   "label_en": "Medal of Honor: Infiltrator",
@@ -94,6 +99,7 @@
    "gog": "game/broken_sword_3__the_sleeping_dragon",
    "howlongtobeat": "1339",
    "igdb": "broken-sword-the-sleeping-dragon",
+   "metacritic": "broken-sword-the-sleeping-dragon",
    "mobygames": "11004",
    "pcgamingwiki": "Broken_Sword_3:_The_Sleeping_Dragon",
    "steam": "33610"
@@ -114,6 +120,7 @@
   "enwiki": "Fantasy Life",
   "ids": {
    "igdb": "fantasy-life",
+   "metacritic": "fantasy-life",
    "mobygames": "84848"
   },
   "label_en": "Fantasy Life",
@@ -132,6 +139,7 @@
   "enwiki": "Pool Paradise",
   "ids": {
    "igdb": "pool-paradise",
+   "metacritic": "pool-paradise",
    "mobygames": "34873"
   },
   "label_en": "Pool Paradise",
@@ -161,6 +169,7 @@
   "ids": {
    "howlongtobeat": "1812",
    "igdb": "colosseum-road-to-freedom",
+   "metacritic": "colosseum-road-to-freedom",
    "mobygames": "18840"
   },
   "label_en": "Colosseum: Road to Freedom",
@@ -171,6 +180,7 @@
   "ids": {
    "igdb": "bear-bovver",
    "mobygames": "14659",
+   "pcgamingwiki": "Bear_Bovver",
    "steam": "2094200"
   },
   "label_en": "Bear Bovver",
@@ -245,6 +255,7 @@
   "ids": {
    "howlongtobeat": "10242",
    "igdb": "the-undergarden",
+   "metacritic": "the-undergarden",
    "mobygames": "50430",
    "pcgamingwiki": "The_UnderGarden",
    "steam": "9980"
@@ -269,6 +280,7 @@
    "epic": "warframe",
    "howlongtobeat": "11037",
    "igdb": "warframe",
+   "metacritic": "warframe",
    "mobygames": "65285",
    "pcgamingwiki": "Warframe",
    "steam": "230410"
@@ -278,7 +290,8 @@
  },
  {
   "ids": {
-   "igdb": "go-jin-senki"
+   "igdb": "go-jin-senki",
+   "metacritic": "go-jin-senki"
   },
   "label_en": "Go-Jin Senki",
   "wikidata": "Q11650348"
@@ -308,6 +321,7 @@
    "epic": "submerged-041523",
    "howlongtobeat": "26175",
    "igdb": "submerged",
+   "metacritic": "submerged",
    "mobygames": "74166",
    "pcgamingwiki": "Submerged",
    "steam": "301860"
@@ -321,6 +335,7 @@
    "epic": "detroit-become-human",
    "howlongtobeat": "31388",
    "igdb": "detroit-become-human--1",
+   "metacritic": "detroit-become-human",
    "mobygames": "105139",
    "pcgamingwiki": "Detroit:_Become_Human",
    "steam": "1222140"
@@ -368,6 +383,7 @@
   "ids": {
    "howlongtobeat": "60107",
    "igdb": "gladiabots",
+   "metacritic": "gladiabots",
    "mobygames": "112334",
    "pcgamingwiki": "Gladiabots",
    "steam": "871930"
@@ -393,6 +409,7 @@
    "gog": "game/the_legend_of_heroes_trails_of_cold_steel_iv",
    "howlongtobeat": "69471",
    "igdb": "the-legend-of-heroes-trails-of-cold-steel-iv",
+   "metacritic": "the-legend-of-heroes-trails-of-cold-steel-iv",
    "mobygames": "143507",
    "pcgamingwiki": "The_Legend_of_Heroes:_Trails_of_Cold_Steel_IV",
    "steam": "1198090"
@@ -405,6 +422,7 @@
   "ids": {
    "howlongtobeat": "83066",
    "igdb": "dirt-5",
+   "metacritic": "dirt-5",
    "mobygames": "152840",
    "pcgamingwiki": "DIRT_5",
    "steam": "1038250"
@@ -416,6 +434,7 @@
   "enwiki": "NFL GameDay 2002",
   "ids": {
    "igdb": "nfl-gameday-2002",
+   "metacritic": "nfl-gameday-2002",
    "mobygames": "9658"
   },
   "label_en": "NFL GameDay 2002",
@@ -423,6 +442,7 @@
  },
  {
   "ids": {
+   "metacritic": "dragonology",
    "mobygames": "144050"
   },
   "label_en": "Dragonology",
@@ -432,6 +452,7 @@
   "ids": {
    "howlongtobeat": "33704",
    "igdb": "gemini-heroes-reborn",
+   "metacritic": "gemini-heroes-reborn",
    "mobygames": "86929",
    "pcgamingwiki": "Gemini:_Heroes_Reborn",
    "steam": "324650"
@@ -444,6 +465,7 @@
   "ids": {
    "howlongtobeat": "75443",
    "igdb": "record-of-lodoss-war-deedlit-in-wonder-labyrinth",
+   "metacritic": "record-of-lodoss-war-deedlit-in-wonder-labyrinth",
    "mobygames": "143369",
    "pcgamingwiki": "Record_of_Lodoss_War-Deedlit_in_Wonder_Labyrinth-",
    "steam": "1203630"
@@ -467,6 +489,7 @@
   "ids": {
    "howlongtobeat": "67603",
    "igdb": "necromunda-underhive-wars",
+   "metacritic": "necromunda-underhive-wars",
    "mobygames": "150303",
    "pcgamingwiki": "Necromunda:_Underhive_Wars",
    "steam": "566440"
@@ -480,6 +503,7 @@
    "epic": "the-expanse-a-telltale-series",
    "howlongtobeat": "101242",
    "igdb": "the-expanse-a-telltale-series",
+   "metacritic": "the-expanse-a-telltale-series",
    "mobygames": "206471",
    "pcgamingwiki": "The_Expanse:_A_Telltale_Series",
    "steam": "1708010"
@@ -491,6 +515,7 @@
   "ids": {
    "howlongtobeat": "90637",
    "igdb": "100-hidden-cupcakes",
+   "metacritic": "100-hidden-cupcakes",
    "mobygames": "161126",
    "steam": "1498310"
   },
@@ -570,7 +595,9 @@
   "ids": {
    "howlongtobeat": "127591",
    "igdb": "volcano-princess",
+   "metacritic": "volcano-princess",
    "mobygames": "202026",
+   "pcgamingwiki": "Volcano_Princess",
    "steam": "1669980"
   },
   "label_en": "Volcano Princess",
@@ -804,6 +831,7 @@
    "gog": "game/spells_secrets",
    "howlongtobeat": "127090",
    "igdb": "spells-and-secrets",
+   "metacritic": "spells-and-secrets",
    "mobygames": "211664",
    "steam": "1518220"
   },
@@ -913,6 +941,7 @@
   "ids": {
    "howlongtobeat": "25069",
    "igdb": "penny-racers-party-turbo-q-speedway",
+   "metacritic": "penny-racers-party-turbo-q-speedway",
    "mobygames": "92092"
   },
   "label_en": "Penny Racers Party: Turbo Q Speedway",
@@ -967,6 +996,7 @@
   "ids": {
    "howlongtobeat": "155643",
    "igdb": "king-of-meat",
+   "metacritic": "king-of-meat",
    "mobygames": "248709",
    "steam": "1926980"
   },
@@ -1275,6 +1305,7 @@
   "ids": {
    "epic": "beastro-d38e96",
    "igdb": "beastro",
+   "pcgamingwiki": "Beastro",
    "steam": "2417470"
   },
   "label_en": "Beastro",

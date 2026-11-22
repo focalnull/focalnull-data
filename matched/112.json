@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7973",
    "igdb": "romance-of-the-three-kingdoms-vii-with-power-up-kit",
+   "metacritic": "romance-of-the-three-kingdoms-vii",
    "mobygames": "9325",
    "pcgamingwiki": "Romance_of_the_Three_Kingdoms_VII",
    "steam": "628030"
@@ -25,6 +26,7 @@
    "gog": "game/imperial_glory",
    "howlongtobeat": "4635",
    "igdb": "imperial-glory",
+   "metacritic": "imperial-glory",
    "mobygames": "18175",
    "pcgamingwiki": "Imperial_Glory",
    "steam": "277450"
@@ -58,6 +60,7 @@
   "ids": {
    "howlongtobeat": "5174",
    "igdb": "lands-of-lore-guardians-of-destiny",
+   "metacritic": "lands-of-lore-guardians-of-destiny",
    "mobygames": "491",
    "pcgamingwiki": "Lands_of_Lore:_Guardians_of_Destiny"
   },
@@ -68,6 +71,7 @@
   "enwiki": "Downhill Domination",
   "ids": {
    "igdb": "downhill-domination",
+   "metacritic": "downhill-domination",
    "mobygames": "47783"
   },
   "label_en": "Downhill Domination",
@@ -119,6 +123,7 @@
   "ids": {
    "howlongtobeat": "14676",
    "igdb": "nancy-drew-the-white-wolf-of-icicle-creek",
+   "metacritic": "nancy-drew-the-white-wolf-of-icicle-creek",
    "mobygames": "29099",
    "pcgamingwiki": "Nancy_Drew:_The_White_Wolf_of_Icicle_Creek",
    "steam": "31930"
@@ -130,6 +135,7 @@
   "enwiki": "Kinetica",
   "ids": {
    "igdb": "kinetica",
+   "metacritic": "kinetica",
    "mobygames": "5350"
   },
   "label_en": "Kinetica",
@@ -149,6 +155,7 @@
   "enwiki": "Orgarhythm",
   "ids": {
    "igdb": "orgarhythm",
+   "metacritic": "orgarhythm",
    "mobygames": "90819"
   },
   "label_en": "Orgarhythm",
@@ -210,6 +217,7 @@
    "gog": "game/yakuza_6_the_song_of_life",
    "howlongtobeat": "42407",
    "igdb": "yakuza-6-the-song-of-life",
+   "metacritic": "yakuza-6-the-song-of-life",
    "mobygames": "105759",
    "pcgamingwiki": "Yakuza_6:_The_Song_of_Life",
    "steam": "1388590"
@@ -221,6 +229,7 @@
   "enwiki": "Disney's Stitch: Experiment 626",
   "ids": {
    "igdb": "disneys-stitch-experiment-626",
+   "metacritic": "disneys-stitch-experiment-626",
    "mobygames": "10673"
   },
   "label_en": "Disney's Stitch: Experiment 626",
@@ -230,6 +239,7 @@
   "ids": {
    "howlongtobeat": "28029",
    "igdb": "the-repopulation",
+   "metacritic": "the-repopulation",
    "mobygames": "84301",
    "pcgamingwiki": "The_Repopulation",
    "steam": "322300"
@@ -296,6 +306,7 @@
    "gog": "game/war_hospital",
    "howlongtobeat": "103557",
    "igdb": "war-hospital",
+   "metacritic": "war-hospital",
    "mobygames": "215333",
    "pcgamingwiki": "War_Hospital",
    "steam": "1553000"
@@ -339,6 +350,7 @@
    "howlongtobeat": "141612",
    "igdb": "fursan-al-aqsa-the-knights-of-the-al-aqsa-mosque",
    "mobygames": "183179",
+   "pcgamingwiki": "Fursan_al-Aqsa:_The_Knights_of_the_Al-Aqsa_Mosque",
    "steam": "1714420"
   },
   "label_en": "Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque",
@@ -358,7 +370,8 @@
   "ids": {
    "epic": "3-out-of-10-ep-2",
    "howlongtobeat": "81786",
-   "igdb": "3-out-of-10-ep-2-foundation-101"
+   "igdb": "3-out-of-10-ep-2-foundation-101",
+   "metacritic": "3-out-of-10-episode-2-foundation-101"
   },
   "label_en": "3 out of 10, EP 2: \"Foundation 101\"",
   "wikidata": "Q113467112"
@@ -386,6 +399,7 @@
    "gog": "game/don_duality",
    "howlongtobeat": "129754",
    "igdb": "don-duality",
+   "metacritic": "don-duality",
    "mobygames": "207755",
    "steam": "2247570"
   },
@@ -705,6 +719,7 @@
   "ids": {
    "howlongtobeat": "43897",
    "igdb": "drifting-lands",
+   "metacritic": "drifting-lands",
    "mobygames": "83180",
    "pcgamingwiki": "Drifting_Lands",
    "steam": "322750"
@@ -776,7 +791,8 @@
   "enwiki": "Kirby's Extra Epic Yarn",
   "ids": {
    "howlongtobeat": "65481",
-   "igdb": "kirbys-extra-epic-yarn"
+   "igdb": "kirbys-extra-epic-yarn",
+   "metacritic": "kirbys-extra-epic-yarn"
   },
   "label_en": "Kirby's Extra Epic Yarn",
   "wikidata": "Q124809112"
@@ -786,6 +802,7 @@
   "ids": {
    "howlongtobeat": "143372",
    "igdb": "no-case-should-remain-unsolved",
+   "metacritic": "no-case-should-remain-unsolved",
    "mobygames": "215869",
    "pcgamingwiki": "No_Case_Should_Remain_Unsolved",
    "steam": "2676840"
@@ -1111,6 +1128,7 @@
  {
   "ids": {
    "igdb": "ghost-haunting--1",
+   "pcgamingwiki": "Ghost_Haunting",
    "steam": "3594530"
   },
   "label_en": "Ghost Haunting",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5852",
    "igdb": "mega-man-x-command-mission",
+   "metacritic": "mega-man-x-command-mission",
    "mobygames": "18244"
   },
   "label_en": "Mega Man X: Command Mission",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "3447",
    "igdb": "fifa-soccer-11",
+   "metacritic": "fifa-soccer-11",
    "mobygames": "51961",
    "pcgamingwiki": "FIFA_11"
   },
@@ -25,6 +27,7 @@
   "ids": {
    "howlongtobeat": "2689",
    "igdb": "donkey-kong-country-returns",
+   "metacritic": "donkey-kong-country-returns",
    "mobygames": "49878"
   },
   "label_en": "Donkey Kong Country Returns",
@@ -35,6 +38,7 @@
   "ids": {
    "howlongtobeat": "647",
    "igdb": "asphalt-urban-gt",
+   "metacritic": "asphalt-urban-gt",
    "mobygames": "16476"
   },
   "label_en": "Asphalt: Urban GT",
@@ -117,6 +121,7 @@
   "ids": {
    "howlongtobeat": "20253",
    "igdb": "sacred-3",
+   "metacritic": "sacred-3",
    "mobygames": "67433",
    "pcgamingwiki": "Sacred_3",
    "steam": "247950"
@@ -129,6 +134,7 @@
   "ids": {
    "howlongtobeat": "15234",
    "igdb": "war-thunder",
+   "metacritic": "war-thunder",
    "mobygames": "73606",
    "pcgamingwiki": "War_Thunder",
    "steam": "236390"
@@ -166,6 +172,7 @@
   "enwiki": "Escape from Paradise City",
   "ids": {
    "igdb": "escape-from-paradise-city",
+   "metacritic": "escape-from-paradise-city",
    "mobygames": "30656",
    "pcgamingwiki": "Escape_from_Paradise_City"
   },
@@ -177,6 +184,7 @@
   "ids": {
    "howlongtobeat": "9395",
    "igdb": "super-monday-night-combat",
+   "metacritic": "super-monday-night-combat",
    "mobygames": "102029",
    "pcgamingwiki": "Super_Monday_Night_Combat",
    "steam": "104700"
@@ -208,6 +216,7 @@
   "ids": {
    "howlongtobeat": "19791",
    "igdb": "the-red-solstice",
+   "metacritic": "the-red-solstice",
    "mobygames": "101320",
    "pcgamingwiki": "The_Red_Solstice",
    "steam": "265590"
@@ -276,7 +285,8 @@
   "enwiki": "M.U.L.E. Returns",
   "ids": {
    "howlongtobeat": "20677",
-   "mobygames": "93647"
+   "mobygames": "93647",
+   "pcgamingwiki": "MULE_Returns"
   },
   "label_en": "M.U.L.E. Returns",
   "wikidata": "Q18705939"
@@ -305,6 +315,7 @@
   "ids": {
    "howlongtobeat": "48746",
    "igdb": "escape-from-tarkov",
+   "metacritic": "escape-from-tarkov",
    "mobygames": "241362",
    "pcgamingwiki": "Escape_from_Tarkov",
    "steam": "3932890"
@@ -336,6 +347,7 @@
  },
  {
   "ids": {
+   "metacritic": "today-i-die-again",
    "mobygames": "53723"
   },
   "label_en": "Today I Die Again",
@@ -357,6 +369,7 @@
   "ids": {
    "howlongtobeat": "17601",
    "igdb": "super-toy-cars",
+   "metacritic": "super-toy-cars",
    "mobygames": "70769",
    "pcgamingwiki": "Super_Toy_Cars",
    "steam": "116100"
@@ -380,6 +393,7 @@
   "ids": {
    "howlongtobeat": "9770",
    "igdb": "the-banner-saga-factions",
+   "metacritic": "the-banner-saga-factions",
    "mobygames": "63486",
    "pcgamingwiki": "The_Banner_Saga:_Factions",
    "steam": "219340"
@@ -464,6 +478,7 @@
   "ids": {
    "howlongtobeat": "69370",
    "igdb": "astro-bears",
+   "metacritic": "astro-bears",
    "mobygames": "130144"
   },
   "label_en": "Astro Bears",
@@ -710,6 +725,7 @@
   "enwiki": "Action in the North Atlantic (video game)",
   "ids": {
    "igdb": "action-in-the-north-atlantic",
+   "metacritic": "action-in-the-north-atlantic",
    "mobygames": "11078"
   },
   "label_en": "Action in The North Atlantic",

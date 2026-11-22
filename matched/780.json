@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "3478",
    "igdb": "final-doom",
+   "metacritic": "final-doom",
    "mobygames": "1561",
    "pcgamingwiki": "Final_Doom",
    "steam": "2290"
@@ -26,6 +27,7 @@
    "gog": "game/lego_harry_potter_years_57",
    "howlongtobeat": "5251",
    "igdb": "lego-harry-potter-years-5-7",
+   "metacritic": "lego-harry-potter-years-5-7",
    "mobygames": "56489",
    "pcgamingwiki": "Lego_Harry_Potter:_Years_5-7",
    "steam": "204120"
@@ -38,6 +40,7 @@
   "ids": {
    "howlongtobeat": "3739",
    "igdb": "fuel",
+   "metacritic": "fuel-2009",
    "mobygames": "41124",
    "pcgamingwiki": "Fuel",
    "steam": "12800"
@@ -51,6 +54,7 @@
    "gog": "game/obscure",
    "howlongtobeat": "6692",
    "igdb": "obscure",
+   "metacritic": "obscure",
    "mobygames": "17480",
    "pcgamingwiki": "ObsCure",
    "steam": "254460"
@@ -63,6 +67,7 @@
   "ids": {
    "howlongtobeat": "2891",
    "igdb": "driver-san-francisco",
+   "metacritic": "driver-san-francisco",
    "mobygames": "53655",
    "pcgamingwiki": "Driver:_San_Francisco",
    "steam": "33440"
@@ -81,7 +86,8 @@
  {
   "ids": {
    "howlongtobeat": "21425",
-   "igdb": "battle-assault-3-featuring-gundam-seed"
+   "igdb": "battle-assault-3-featuring-gundam-seed",
+   "metacritic": "battle-assault-3-featuring-gundam-seed"
   },
   "label_en": "Battle Assault 3: Featuring Mobile Suit Gundam Seed",
   "wikidata": "Q2891780"
@@ -128,6 +134,7 @@
  {
   "ids": {
    "igdb": "back-to-the-future-the-game-episode-2-get-tannen",
+   "metacritic": "back-to-the-future-ep-2-hd",
    "mobygames": "50493"
   },
   "label_en": "Back to the Future: The Game - Episode 2: Get Tannen!",
@@ -138,6 +145,7 @@
   "ids": {
    "howlongtobeat": "4224",
    "igdb": "gyromancer",
+   "metacritic": "gyromancer",
    "mobygames": "76385",
    "pcgamingwiki": "Gyromancer",
    "steam": "23380"
@@ -212,6 +220,7 @@
   "ids": {
    "howlongtobeat": "18932",
    "igdb": "monster-monpiece",
+   "metacritic": "genkai-totsuki-monster-monpiece",
    "mobygames": "85383",
    "pcgamingwiki": "Monster_Monpiece",
    "steam": "415300"
@@ -264,6 +273,7 @@
   "ids": {
    "howlongtobeat": "12193",
    "igdb": "age-of-empires-ii-hd-edition",
+   "metacritic": "age-of-empires-ii-hd-edition",
    "mobygames": "60252",
    "pcgamingwiki": "Age_of_Empires_II_HD",
    "steam": "221380"
@@ -275,7 +285,8 @@
   "enwiki": "Dragon Mania Legends",
   "ids": {
    "igdb": "dragon-mania-legends",
-   "mobygames": "75292"
+   "mobygames": "75292",
+   "pcgamingwiki": "Dragon_Mania_Legends"
   },
   "label_en": "Dragon Mania Legends",
   "wikidata": "Q18753780"
@@ -304,6 +315,7 @@
  {
   "enwiki": "Pokémon Let's Go, Pikachu!",
   "ids": {
+   "metacritic": "pokemon-lets-go-pikachu",
    "mobygames": "114379"
   },
   "label_en": "Pokémon Let's Go, Pikachu!",
@@ -337,6 +349,7 @@
   "ids": {
    "howlongtobeat": "68149",
    "igdb": "minecraft-dungeons",
+   "metacritic": "minecraft-dungeons",
    "mobygames": "145918",
    "pcgamingwiki": "Minecraft_Dungeons",
    "steam": "1672970"
@@ -349,6 +362,7 @@
   "ids": {
    "howlongtobeat": "56631",
    "igdb": "quarantine-circular",
+   "metacritic": "quarantine-circular",
    "mobygames": "109555",
    "pcgamingwiki": "Quarantine_Circular",
    "steam": "853500"
@@ -722,6 +736,7 @@
   "ids": {
    "howlongtobeat": "118793",
    "igdb": "a-highland-song",
+   "metacritic": "a-highland-song",
    "mobygames": "213429",
    "pcgamingwiki": "A_Highland_Song",
    "steam": "1240060"
@@ -835,6 +850,7 @@
  {
   "ids": {
    "igdb": "8bit-hero",
+   "metacritic": "8bit-hero",
    "mobygames": "94225"
   },
   "label_en": "8Bit Hero",
@@ -887,6 +903,7 @@
   "ids": {
    "howlongtobeat": "158224",
    "igdb": "webfishing",
+   "metacritic": "webfishing",
    "mobygames": "232054",
    "pcgamingwiki": "Webfishing",
    "steam": "3146520"
@@ -1182,6 +1199,7 @@
    "epic": "halloween-f3e2dd",
    "howlongtobeat": "173040",
    "igdb": "halloween-the-game",
+   "metacritic": "halloween",
    "pcgamingwiki": "Halloween",
    "steam": "3219630"
   },

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5687",
    "igdb": "marvel-vs-capcom-2-new-age-of-heroes",
+   "metacritic": "marvel-vs-capcom-2",
    "mobygames": "3680"
   },
   "label_en": "Marvel vs. Capcom 2: New Age of Heroes",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "4801",
    "igdb": "jak-ii",
+   "metacritic": "jak-ii",
    "mobygames": "10666",
    "pcgamingwiki": "Jak_II_(OpenGOAL)"
   },
@@ -24,6 +26,7 @@
   "enwiki": "Dead or Alive Paradise",
   "ids": {
    "igdb": "dead-or-alive-paradise",
+   "metacritic": "dead-or-alive-paradise",
    "mobygames": "67581"
   },
   "label_en": "Dead or Alive Paradise",
@@ -73,6 +76,7 @@
   "enwiki": "MVP Baseball 2005",
   "ids": {
    "igdb": "mvp-baseball-2005",
+   "metacritic": "mvp-baseball-2005",
    "mobygames": "18188",
    "pcgamingwiki": "MVP_Baseball_2005"
   },
@@ -83,6 +87,7 @@
   "enwiki": "Green Lantern: Rise of the Manhunters",
   "ids": {
    "igdb": "green-lantern-rise-of-the-manhunters",
+   "metacritic": "green-lantern-rise-of-the-manhunters",
    "mobygames": "85171"
   },
   "label_en": "Green Lantern: Rise of the Manhunters",
@@ -98,6 +103,7 @@
   "ids": {
    "howlongtobeat": "54815",
    "igdb": "bit-boy--1",
+   "metacritic": "bit-boy",
    "mobygames": "48591"
   },
   "label_en": "Bit Boy!!",
@@ -117,6 +123,7 @@
   "ids": {
    "howlongtobeat": "2374",
    "igdb": "deathrow",
+   "metacritic": "deathrow",
    "mobygames": "7745"
   },
   "label_en": "Deathrow",
@@ -175,7 +182,8 @@
  {
   "enwiki": "Wipeout in the Zone",
   "ids": {
-   "igdb": "wipeout-in-the-zone"
+   "igdb": "wipeout-in-the-zone",
+   "metacritic": "wipeout-in-the-zone"
   },
   "label_en": "Wipeout in the Zone",
   "wikidata": "Q8026700"
@@ -253,6 +261,7 @@
    "gog": "game/sublevel_zero",
    "howlongtobeat": "30699",
    "igdb": "sublevel-zero-redux",
+   "metacritic": "sublevel-zero",
    "mobygames": "76202",
    "pcgamingwiki": "Sublevel_Zero_Redux",
    "steam": "327880"
@@ -274,6 +283,7 @@
   "ids": {
    "howlongtobeat": "86361",
    "igdb": "bustafellows",
+   "metacritic": "bustafellows",
    "mobygames": "144385",
    "steam": "1494470"
   },
@@ -369,6 +379,7 @@
   "ids": {
    "howlongtobeat": "48832",
    "igdb": "a-robot-named-fight",
+   "metacritic": "a-robot-named-fight",
    "mobygames": "96107",
    "pcgamingwiki": "A_Robot_Named_Fight!",
    "steam": "603530"
@@ -590,6 +601,7 @@
    "epic": "atari-mania-702c68",
    "howlongtobeat": "115021",
    "igdb": "atari-mania",
+   "metacritic": "atari-mania",
    "mobygames": "193484",
    "pcgamingwiki": "Atari_Mania",
    "steam": "1911800"
@@ -796,6 +808,7 @@
   "ids": {
    "howlongtobeat": "151301",
    "igdb": "astro-bot",
+   "metacritic": "astro-bot",
    "mobygames": "230088"
   },
   "label_en": "Astro Bot",
@@ -849,6 +862,7 @@
   "ids": {
    "howlongtobeat": "56837",
    "igdb": "shantae-half-genie-hero-ultimate-edition",
+   "metacritic": "shantae-half-genie-hero-ultimate-edition",
    "mobygames": "107749",
    "steam": "764300"
   },

@@ -43,6 +43,7 @@
    "gog": "game/atlantis_evolution",
    "howlongtobeat": "19577",
    "igdb": "atlantis-evolution",
+   "metacritic": "atlantis-evolution",
    "mobygames": "15591",
    "pcgamingwiki": "Atlantis_Evolution"
   },
@@ -54,6 +55,7 @@
   "ids": {
    "howlongtobeat": "3424",
    "igdb": "fear-effect-2-retro-helix",
+   "metacritic": "fear-effect-2-retro-helix",
    "mobygames": "3682",
    "pcgamingwiki": "Fear_Effect_2:_Retro_Helix",
    "steam": "3509140"
@@ -98,6 +100,7 @@
   "enwiki": "Justice League: Injustice for All",
   "ids": {
    "igdb": "justice-league-injustice-for-all",
+   "metacritic": "justice-league-injustice-for-all",
    "mobygames": "9038"
   },
   "label_en": "Justice League: Injustice for All",
@@ -134,6 +137,7 @@
   "enwiki": "Onimusha Tactics",
   "ids": {
    "igdb": "onimusha-tactics",
+   "metacritic": "onimusha-tactics",
    "mobygames": "12206"
   },
   "label_en": "Onimusha Tactics",
@@ -143,6 +147,7 @@
   "enwiki": "Sudoku Gridmaster",
   "ids": {
    "igdb": "sudoku-gridmaster",
+   "metacritic": "sudoku-gridmaster",
    "mobygames": "86673"
   },
   "label_en": "Sudoku Gridmaster",
@@ -152,6 +157,7 @@
   "enwiki": "Summon Night 5",
   "ids": {
    "igdb": "summon-night-5",
+   "metacritic": "summon-night-5",
    "mobygames": "66482"
   },
   "label_en": "Summon Night 5",
@@ -171,6 +177,7 @@
   "enwiki": "The Eye of Judgment: Legends",
   "ids": {
    "igdb": "the-eye-of-judgment-legends",
+   "metacritic": "the-eye-of-judgment-legends",
    "mobygames": "67584"
   },
   "label_en": "The Eye of Judgment: Legends",
@@ -207,6 +214,7 @@
   "ids": {
    "howlongtobeat": "11936",
    "igdb": "adventure-time-explore-the-dungeon-because-i-don-t-know",
+   "metacritic": "adventure-time-explore-the-dungeon-because-i-don",
    "mobygames": "91443",
    "pcgamingwiki": "Adventure_Time:_Explore_the_Dungeon_Because_I_Don't_Know!",
    "steam": "243560"
@@ -233,6 +241,7 @@
    "gog": "game/guild_of_dungeoneering",
    "howlongtobeat": "27887",
    "igdb": "guild-of-dungeoneering",
+   "metacritic": "guild-of-dungeoneering",
    "mobygames": "92258",
    "pcgamingwiki": "Guild_of_Dungeoneering",
    "steam": "317820"
@@ -246,6 +255,7 @@
    "epic": "subnautica",
    "howlongtobeat": "23740",
    "igdb": "subnautica",
+   "metacritic": "subnautica",
    "mobygames": "77259",
    "pcgamingwiki": "Subnautica",
    "steam": "264710"
@@ -288,6 +298,7 @@
    "epic": "destiny-2",
    "howlongtobeat": "43894",
    "igdb": "destiny-2",
+   "metacritic": "destiny-2",
    "mobygames": "95462",
    "pcgamingwiki": "Destiny_2",
    "steam": "1085660"
@@ -309,6 +320,7 @@
  {
   "ids": {
    "igdb": "world-of-final-fantasy-maxima",
+   "metacritic": "world-of-final-fantasy-maxima",
    "mobygames": "116808",
    "steam": "896680"
   },
@@ -332,6 +344,7 @@
    "epic": "the-callisto-protocol",
    "howlongtobeat": "85967",
    "igdb": "the-callisto-protocol",
+   "metacritic": "the-callisto-protocol",
    "mobygames": "195967",
    "pcgamingwiki": "The_Callisto_Protocol",
    "steam": "1544020"
@@ -353,7 +366,8 @@
  },
  {
   "ids": {
-   "igdb": "the-swords"
+   "igdb": "the-swords",
+   "metacritic": "the-swords"
   },
   "label_en": "The Swords",
   "wikidata": "Q109566915"
@@ -370,6 +384,7 @@
  {
   "ids": {
    "igdb": "gamma-space",
+   "metacritic": "gamma-space",
    "mobygames": "189372",
    "steam": "1907620"
   },
@@ -465,6 +480,7 @@
    "howlongtobeat": "113560",
    "igdb": "i-am-sakuya-touhou-fps-game",
    "mobygames": "191484",
+   "pcgamingwiki": "I_Am_Sakuya:_Touhou_FPS_Game",
    "steam": "1960590"
   },
   "label_en": "I Am Sakuya: Touhou FPS Game",
@@ -836,6 +852,7 @@
   "ids": {
    "howlongtobeat": "140793",
    "igdb": "inzoi",
+   "metacritic": "inzoi",
    "mobygames": "239678",
    "pcgamingwiki": "InZOI",
    "steam": "2456740"
@@ -1257,5 +1274,9 @@
   },
   "label_en": "Card Wizard",
   "wikidata": "Q141480915"
+ },
+ {
+  "label_en": "4nin-uchi Mahjong Jantotsu",
+  "wikidata": "Q142236915"
  }
 ]

@@ -6,6 +6,7 @@
    "gog": "game/alan_wake",
    "howlongtobeat": "319",
    "igdb": "alan-wake",
+   "metacritic": "alan-wake",
    "mobygames": "46408",
    "pcgamingwiki": "Alan_Wake",
    "steam": "108710"
@@ -39,6 +40,7 @@
   "ids": {
    "howlongtobeat": "14774",
    "igdb": "armored-core-nine-breaker",
+   "metacritic": "armored-core-nine-breaker",
    "mobygames": "35601"
   },
   "label_en": "Armored Core: Nine Breaker",
@@ -58,6 +60,7 @@
   "ids": {
    "howlongtobeat": "12275",
    "igdb": "madden-nfl-2005",
+   "metacritic": "madden-nfl-2005",
    "mobygames": "15739"
   },
   "label_en": "Madden NFL 2005",
@@ -90,6 +93,7 @@
   "enwiki": "Everybody's Golf 4",
   "ids": {
    "igdb": "hot-shots-golf-fore",
+   "metacritic": "hot-shots-golf-fore",
    "mobygames": "18649"
   },
   "label_en": "Everybody's Golf 4",
@@ -119,6 +123,7 @@
   "enwiki": "Tiger Woods PGA Tour 11",
   "ids": {
    "igdb": "tiger-woods-pga-tour-11",
+   "metacritic": "tiger-woods-pga-tour-11",
    "mobygames": "206983"
   },
   "label_en": "Tiger Woods PGA Tour 11",
@@ -143,6 +148,7 @@
   "ids": {
    "howlongtobeat": "26789",
    "igdb": "recore--1",
+   "metacritic": "recore",
    "mobygames": "81196",
    "pcgamingwiki": "ReCore",
    "steam": "537450"
@@ -155,6 +161,7 @@
   "ids": {
    "howlongtobeat": "29441",
    "igdb": "white-day-a-labyrinth-named-school",
+   "metacritic": "white-day-a-labyrinth-named-school",
    "mobygames": "94813",
    "pcgamingwiki": "White_Day:_A_Labyrinth_Named_School",
    "steam": "466130"
@@ -189,6 +196,7 @@
   "ids": {
    "howlongtobeat": "36420",
    "igdb": "aegis-of-earth-protonovus-assault",
+   "metacritic": "aegis-of-earth-protonovus-assault",
    "mobygames": "79670",
    "pcgamingwiki": "Aegis_of_Earth:_Protonovus_Assault",
    "steam": "450250"
@@ -232,6 +240,7 @@
    "gog": "game/beholder_3",
    "howlongtobeat": "106735",
    "igdb": "beholder-3",
+   "metacritic": "beholder-3",
    "mobygames": "180692",
    "pcgamingwiki": "Beholder_3",
    "steam": "1570070"
@@ -273,7 +282,8 @@
  },
  {
   "ids": {
-   "igdb": "rally-point-2"
+   "igdb": "rally-point-2",
+   "metacritic": "rally-point-2"
   },
   "label_en": "Rally Point 2",
   "wikidata": "Q119442505"
@@ -479,6 +489,7 @@
    "epic": "we-were-here-expeditions-the-friendship-1e8fb2",
    "howlongtobeat": "137777",
    "igdb": "we-were-here-expeditions-the-friendship",
+   "metacritic": "we-were-here-expeditions-the-friendship",
    "mobygames": "208659",
    "pcgamingwiki": "We_Were_Here_Expeditions:_The_FriendShip",
    "steam": "2296990"
@@ -546,6 +557,7 @@
   "ids": {
    "howlongtobeat": "26521",
    "igdb": "epanalepsis",
+   "metacritic": "epanalepsis",
    "mobygames": "100808",
    "pcgamingwiki": "Epanalepsis",
    "steam": "333690"
@@ -599,6 +611,7 @@
   "ids": {
    "howlongtobeat": "48550",
    "igdb": "the-minims",
+   "metacritic": "the-minims",
    "mobygames": "236589",
    "pcgamingwiki": "The_Minims",
    "steam": "442770"
@@ -708,6 +721,7 @@
    "epic": "battlefield-6",
    "howlongtobeat": "171520",
    "igdb": "battlefield-6",
+   "metacritic": "battlefield-6",
    "mobygames": "245535",
    "pcgamingwiki": "Battlefield_6",
    "steam": "2807960"
@@ -990,6 +1004,7 @@
   "ids": {
    "igdb": "naughty-girl-2",
    "mobygames": "221573",
+   "pcgamingwiki": "Naughty_Girl_2",
    "steam": "1137730"
   },
   "label_en": "Naughty Girl 2",

@@ -26,6 +26,7 @@
   "ids": {
    "howlongtobeat": "4140",
    "igdb": "gt-legends",
+   "metacritic": "gt-legends",
    "mobygames": "21281",
    "pcgamingwiki": "GT_Legends",
    "steam": "44690"
@@ -38,6 +39,7 @@
   "ids": {
    "howlongtobeat": "1981",
    "igdb": "crash-tag-team-racing",
+   "metacritic": "crash-tag-team-racing",
    "mobygames": "38499"
   },
   "label_en": "Crash Tag Team Racing",
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "11392",
    "igdb": "x-beyond-the-frontier",
+   "metacritic": "x-beyond-the-frontier",
    "mobygames": "3240",
    "pcgamingwiki": "X:_Beyond_the_Frontier",
    "steam": "2840"
@@ -86,6 +89,7 @@
    "gog": "game/mdk_2",
    "howlongtobeat": "5752",
    "igdb": "mdk2",
+   "metacritic": "mdk2",
    "mobygames": "2499",
    "pcgamingwiki": "MDK_2",
    "steam": "38460"
@@ -119,6 +123,7 @@
   "enwiki": "Dead Block",
   "ids": {
    "igdb": "dead-block",
+   "metacritic": "dead-block",
    "mobygames": "52362",
    "pcgamingwiki": "Dead_Block"
   },
@@ -130,6 +135,7 @@
   "ids": {
    "howlongtobeat": "6818",
    "igdb": "otogi-2-immortal-warriors",
+   "metacritic": "otogi-2-immortal-warriors",
    "mobygames": "25498"
   },
   "label_en": "Otogi 2: Immortal Warriors",
@@ -140,6 +146,7 @@
   "ids": {
    "howlongtobeat": "3439",
    "igdb": "fieldrunners",
+   "metacritic": "fieldrunners",
    "mobygames": "44953",
    "pcgamingwiki": "Fieldrunners",
    "steam": "209690"
@@ -185,6 +192,7 @@
   "ids": {
    "howlongtobeat": "1227",
    "igdb": "bombastic",
+   "metacritic": "bombastic",
    "mobygames": "18633"
   },
   "label_en": "Bombastic",
@@ -220,6 +228,7 @@
   "ids": {
    "howlongtobeat": "6102",
    "igdb": "mlb-10-the-show",
+   "metacritic": "mlb-10-the-show",
    "mobygames": "45686"
   },
   "label_en": "MLB 10: The Show",
@@ -272,6 +281,7 @@
   "ids": {
    "howlongtobeat": "37236",
    "igdb": "megatagmension-blanc-plus-neptune-vs-zombies",
+   "metacritic": "megatagmension-blanc-plus-neptune-vs-zombies",
    "mobygames": "83273",
    "pcgamingwiki": "MegaTagmension_Blanc_+_Neptune_VS_Zombies",
    "steam": "496810"
@@ -298,6 +308,7 @@
  {
   "ids": {
    "igdb": "sword-mans",
+   "metacritic": "sword-mans",
    "mobygames": "107917",
    "pcgamingwiki": "Sword_Mans",
    "steam": "815840"
@@ -310,6 +321,7 @@
   "ids": {
    "howlongtobeat": "62097",
    "igdb": "deltarune-chapter-1",
+   "metacritic": "deltarune",
    "mobygames": "116150",
    "pcgamingwiki": "Deltarune",
    "steam": "1671210"
@@ -320,7 +332,8 @@
  {
   "enwiki": "BoxBoy! + BoxGirl!",
   "ids": {
-   "igdb": "box-boy-plus-box-girl"
+   "igdb": "box-boy-plus-box-girl",
+   "metacritic": "boxboy-plus-boxgirl"
   },
   "label_en": "BoxBoy! + BoxGirl!",
   "wikidata": "Q62083522"
@@ -338,6 +351,7 @@
   "ids": {
    "howlongtobeat": "18518",
    "igdb": "exile-ii-crystal-souls",
+   "metacritic": "exile-ii-crystal-souls",
    "mobygames": "764",
    "pcgamingwiki": "Exile_II:_Crystal_Souls"
   },
@@ -358,6 +372,7 @@
    "gog": "game/revenant_dogma",
    "howlongtobeat": "37297",
    "igdb": "revenant-dogma",
+   "metacritic": "revenant-dogma",
    "pcgamingwiki": "Revenant_Dogma",
    "steam": "860490"
   },
@@ -368,6 +383,7 @@
   "ids": {
    "howlongtobeat": "21789",
    "igdb": "1-moment-of-time-silentville",
+   "metacritic": "1-moment-of-time-silentville",
    "mobygames": "63968",
    "pcgamingwiki": "1_Moment_of_Time:_Silentville",
    "steam": "497400"
@@ -381,6 +397,7 @@
    "epic": "stranger-things-3-the-game",
    "howlongtobeat": "68766",
    "igdb": "stranger-things-3-the-game",
+   "metacritic": "stranger-things-3-the-game",
    "mobygames": "129233",
    "pcgamingwiki": "Stranger_Things_3:_The_Game",
    "steam": "1097800"
@@ -463,6 +480,7 @@
   "ids": {
    "howlongtobeat": "70932",
    "igdb": "vicious-circle",
+   "metacritic": "vicious-circle",
    "mobygames": "132647",
    "pcgamingwiki": "Vicious_Circle",
    "steam": "556440"
@@ -838,6 +856,7 @@
   "ids": {
    "howlongtobeat": "79031",
    "igdb": "skelattack",
+   "metacritic": "skelattack",
    "mobygames": "146269",
    "pcgamingwiki": "Skelattack",
    "steam": "605800"
@@ -858,6 +877,7 @@
   "ids": {
    "howlongtobeat": "38666",
    "igdb": "wailing-heights",
+   "metacritic": "wailing-heights",
    "mobygames": "100736",
    "pcgamingwiki": "Wailing_Heights",
    "steam": "443650"
@@ -910,6 +930,7 @@
  {
   "ids": {
    "igdb": "psyscrolr",
+   "metacritic": "psyscrolr",
    "mobygames": "92268"
   },
   "label_en": "Psyscrolr",
@@ -934,6 +955,7 @@
  {
   "ids": {
    "igdb": "ink--3",
+   "metacritic": "ink",
    "steam": "1213050"
   },
   "label_en": "Ink",
@@ -1203,6 +1225,7 @@
  {
   "ids": {
    "igdb": "hotpuzzle-video",
+   "pcgamingwiki": "HotPuzzle:Video",
    "steam": "1013120"
   },
   "label_en": "HotPuzzle: Video",

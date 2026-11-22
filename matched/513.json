@@ -24,6 +24,7 @@
   "ids": {
    "howlongtobeat": "4087",
    "igdb": "gravity-rush",
+   "metacritic": "gravity-rush",
    "mobygames": "57006"
   },
   "label_en": "Gravity Rush",
@@ -51,6 +52,7 @@
   "ids": {
    "howlongtobeat": "8010",
    "igdb": "rumble-roses",
+   "metacritic": "rumble-roses",
    "mobygames": "15927"
   },
   "label_en": "Rumble Roses",
@@ -101,6 +103,7 @@
   "enwiki": "Everybody's Tennis",
   "ids": {
    "igdb": "hot-shots-tennis",
+   "metacritic": "hot-shots-tennis",
    "mobygames": "47700"
   },
   "label_en": "Everybody's Tennis",
@@ -241,6 +244,7 @@
   "ids": {
    "howlongtobeat": "29198",
    "igdb": "badland-bandits",
+   "metacritic": "badland-bandits",
    "pcgamingwiki": "Badland_Bandits",
    "steam": "378480"
   },
@@ -255,6 +259,7 @@
   "enwiki": "Star Ocean: First Departure",
   "ids": {
    "igdb": "star-ocean-first-departure",
+   "metacritic": "star-ocean-first-departure",
    "mobygames": "37977"
   },
   "label_en": "Star Ocean: First Departure",
@@ -291,6 +296,7 @@
   "ids": {
    "howlongtobeat": "22697",
    "igdb": "pig-eat-ball",
+   "metacritic": "pig-eat-ball",
    "mobygames": "114347",
    "pcgamingwiki": "Pig_Eat_Ball",
    "steam": "339090"
@@ -312,6 +318,7 @@
   "ids": {
    "howlongtobeat": "11452",
    "igdb": "you-dont-know-jack-movies",
+   "metacritic": "you-dont-know-jack-movies",
    "mobygames": "4394",
    "pcgamingwiki": "You_Don't_Know_Jack_Movies",
    "steam": "260000"
@@ -335,6 +342,7 @@
   "ids": {
    "howlongtobeat": "83605",
    "igdb": "sands-of-salzaar",
+   "metacritic": "sands-of-salzaar",
    "mobygames": "151096",
    "pcgamingwiki": "Sands_of_Salzaar",
    "steam": "1094520"
@@ -850,7 +858,8 @@
  },
  {
   "ids": {
-   "igdb": "kleptodogs"
+   "igdb": "kleptodogs",
+   "metacritic": "kleptodogs"
   },
   "label_en": "KleptoDogs",
   "wikidata": "Q124377513"
@@ -1195,6 +1204,7 @@
    "epic": "terminull-brigade-ea43ed",
    "igdb": "terminull-brigade",
    "mobygames": "248335",
+   "pcgamingwiki": "Terminull_Brigade",
    "steam": "3104410"
   },
   "label_en": "Terminull Brigade",
@@ -1218,6 +1228,7 @@
   "ids": {
    "igdb": "kanojo-x-switch",
    "mobygames": "139275",
+   "pcgamingwiki": "Kanojo_x_Switch",
    "steam": "1208850"
   },
   "label_en": "Kanojo x Switch",

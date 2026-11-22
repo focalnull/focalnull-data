@@ -14,6 +14,7 @@
    "gog": "game/qube_directors_cut",
    "howlongtobeat": "18907",
    "igdb": "q-dot-u-b-dot-e-directors-cut",
+   "metacritic": "qube",
    "mobygames": "53953",
    "pcgamingwiki": "Q.U.B.E.",
    "steam": "239430"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "1383",
    "igdb": "bulletstorm",
+   "metacritic": "bulletstorm",
    "mobygames": "50566",
    "pcgamingwiki": "Bulletstorm",
    "steam": "99810"
@@ -71,7 +73,8 @@
  {
   "enwiki": "Dragon Ball Z: Shin Budokai",
   "ids": {
-   "igdb": "dragon-ball-z-shin-budokai"
+   "igdb": "dragon-ball-z-shin-budokai",
+   "metacritic": "dragon-ball-z-shin-budokai"
   },
   "label_en": "Dragon Ball Z: Shin Budokai",
   "wikidata": "Q2531561"
@@ -89,6 +92,7 @@
   "ids": {
    "howlongtobeat": "877",
    "igdb": "batman-begins",
+   "metacritic": "batman-begins",
    "mobygames": "18804"
   },
   "label_en": "Batman Begins",
@@ -108,6 +112,7 @@
   "ids": {
    "howlongtobeat": "11218",
    "igdb": "wipeout-pure",
+   "metacritic": "wipeout-pure",
    "mobygames": "17331"
   },
   "label_en": "Wipeout Pure",
@@ -129,6 +134,7 @@
   "ids": {
    "howlongtobeat": "9923",
    "igdb": "the-history-channel-civil-war-a-nation-divided",
+   "metacritic": "the-history-channel-civil-war-a-nation-divided",
    "mobygames": "31229",
    "pcgamingwiki": "The_History_Channel:_Civil_War_-_A_Nation_Divided",
    "steam": "2680"
@@ -179,6 +185,7 @@
   "ids": {
    "howlongtobeat": "4736",
    "igdb": "iron-grip-warlord",
+   "metacritic": "iron-grip-warlord",
    "mobygames": "47535",
    "pcgamingwiki": "Iron_Grip:_Warlord",
    "steam": "31700"
@@ -191,6 +198,7 @@
   "ids": {
    "howlongtobeat": "4891",
    "igdb": "junipers-knot",
+   "metacritic": "junipers-knot",
    "mobygames": "114531",
    "pcgamingwiki": "Juniper's_Knot",
    "steam": "687590"
@@ -221,6 +229,7 @@
   "ids": {
    "howlongtobeat": "8627",
    "igdb": "slam-bolt-scrappers",
+   "metacritic": "slam-bolt-scrappers",
    "mobygames": "102765",
    "pcgamingwiki": "Slam_Bolt_Scrappers",
    "steam": "96900"
@@ -241,6 +250,7 @@
   "enwiki": "The Guy Game",
   "ids": {
    "igdb": "the-guy-game",
+   "metacritic": "the-guy-game",
    "mobygames": "29522",
    "pcgamingwiki": "The_Guy_Game"
   },
@@ -270,6 +280,7 @@
   "enwiki": "Big Scale Racing",
   "ids": {
    "igdb": "big-scale-racing",
+   "metacritic": "big-scale-racing",
    "mobygames": "8963",
    "pcgamingwiki": "Big_Scale_Racing"
   },
@@ -294,6 +305,7 @@
   "ids": {
    "howlongtobeat": "30669",
    "igdb": "warhammer-40000-regicide",
+   "metacritic": "warhammer-40000-regicide",
    "mobygames": "92813",
    "pcgamingwiki": "Warhammer_40,000:_Regicide",
    "steam": "322910"
@@ -317,6 +329,7 @@
   "ids": {
    "howlongtobeat": "40329",
    "igdb": "langrisser-re-incarnation-tensei",
+   "metacritic": "langrisser-reincarnation-tensei-",
    "mobygames": "86521"
   },
   "label_en": "Langrisser Re:Incarnation Tensei",
@@ -342,6 +355,7 @@
   "ids": {
    "howlongtobeat": "29748",
    "igdb": "calvino-noir",
+   "metacritic": "calvino-noir",
    "mobygames": "86859",
    "pcgamingwiki": "Calvino_Noir",
    "steam": "316890"
@@ -351,6 +365,7 @@
  },
  {
   "ids": {
+   "metacritic": "scooby-doo",
    "mobygames": "23289"
   },
   "label_en": "Scooby-Doo",
@@ -369,6 +384,7 @@
    "gog": "game/black_mirror",
    "howlongtobeat": "50921",
    "igdb": "black-mirror--1",
+   "metacritic": "black-mirror",
    "mobygames": "98710",
    "pcgamingwiki": "Black_Mirror",
    "steam": "581300"
@@ -380,6 +396,7 @@
   "ids": {
    "howlongtobeat": "63865",
    "igdb": "the-awkward-steve-duology",
+   "metacritic": "the-awkward-steve-duology",
    "mobygames": "93310",
    "pcgamingwiki": "The_Awkward_Steve_Duology",
    "steam": "536770"
@@ -393,6 +410,7 @@
    "gog": "game/tesla_vs_lovecraft",
    "howlongtobeat": "52846",
    "igdb": "tesla-vs-lovecraft",
+   "metacritic": "tesla-vs-lovecraft",
    "mobygames": "102276",
    "pcgamingwiki": "Tesla_vs_Lovecraft",
    "steam": "636100"
@@ -418,6 +436,7 @@
   "ids": {
    "howlongtobeat": "19386",
    "igdb": "qbeh-1-the-atlas-cube",
+   "metacritic": "qbeh-1-the-atlas-cube",
    "mobygames": "114040",
    "pcgamingwiki": "Qbeh-1:_The_Atlas_Cube",
    "steam": "252550"
@@ -439,6 +458,7 @@
   "ids": {
    "howlongtobeat": "29673",
    "igdb": "machina-of-the-planet-tree-planet-ruler",
+   "metacritic": "machina-of-the-planet-tree-planet-ruler-",
    "mobygames": "103617",
    "pcgamingwiki": "Machina_of_the_Planet_Tree_-Planet_Ruler-",
    "steam": "383960"
@@ -486,6 +506,7 @@
   "ids": {
    "howlongtobeat": "46616",
    "igdb": "demons-crystals",
+   "metacritic": "demons-crystals",
    "mobygames": "78269",
    "pcgamingwiki": "Demon's_Crystals",
    "steam": "454610"
@@ -570,6 +591,7 @@
    "howlongtobeat": "120727",
    "igdb": "castles-and-catapults",
    "mobygames": "45063",
+   "pcgamingwiki": "Castles_&_Catapults",
    "steam": "1641060"
   },
   "label_en": "Castles & Catapults",
@@ -894,6 +916,7 @@
   "ids": {
    "howlongtobeat": "115861",
    "igdb": "sushi-ben",
+   "metacritic": "sushi-ben",
    "mobygames": "248093",
    "pcgamingwiki": "Sushi_Ben",
    "steam": "2419240"

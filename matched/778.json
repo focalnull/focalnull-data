@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4069",
    "igdb": "grand-theft-auto-liberty-city-stories",
+   "metacritic": "grand-theft-auto-liberty-city-stories",
    "mobygames": "19892",
    "pcgamingwiki": "Grand_Theft_Auto_Re:_Liberty_City_Stories"
   },
@@ -14,6 +15,7 @@
   "enwiki": "James Bond 007: Agent Under Fire",
   "ids": {
    "igdb": "james-bond-007-agent-under-fire",
+   "metacritic": "james-bond-007-agent-under-fire",
    "mobygames": "5798"
   },
   "label_en": "James Bond 007: Agent Under Fire",
@@ -25,6 +27,7 @@
    "gog": "game/tom_clancys_rainbow_six",
    "howlongtobeat": "10442",
    "igdb": "tom-clancy-s-rainbow-six",
+   "metacritic": "tom-clancys-rainbow-six",
    "mobygames": "962",
    "pcgamingwiki": "Tom_Clancy's_Rainbow_Six",
    "steam": "13650"
@@ -37,6 +40,7 @@
   "ids": {
    "howlongtobeat": "19141",
    "igdb": "desktop-tower-defense",
+   "metacritic": "desktop-tower-defense",
    "mobygames": "39338"
   },
   "label_en": "Desktop Tower Defense",
@@ -51,6 +55,7 @@
   "ids": {
    "howlongtobeat": "2886",
    "igdb": "driver",
+   "metacritic": "driver",
    "mobygames": "309",
    "pcgamingwiki": "Driver"
   },
@@ -87,6 +92,7 @@
   "enwiki": "GripShift",
   "ids": {
    "igdb": "gripshift",
+   "metacritic": "gripshift",
    "mobygames": "21925"
   },
   "label_en": "GripShift",
@@ -95,6 +101,7 @@
  {
   "ids": {
    "igdb": "muv-luv-alternative",
+   "metacritic": "muv-luv-alternative",
    "mobygames": "96119",
    "pcgamingwiki": "Muv-Luv_Alternative",
    "steam": "802890"
@@ -104,7 +111,8 @@
  },
  {
   "ids": {
-   "igdb": "back-to-the-future-the-game-episode-1-its-about-time"
+   "igdb": "back-to-the-future-the-game-episode-1-its-about-time",
+   "metacritic": "back-to-the-future-ep-1-hd"
   },
   "label_en": "Back to the Future: The Game - Episode 1: It's About Time",
   "wikidata": "Q4034778"
@@ -152,6 +160,7 @@
    "gog": "game/rollercoaster_tycoon_deluxe",
    "howlongtobeat": "7958",
    "igdb": "rollercoaster-tycoon",
+   "metacritic": "rollercoaster-tycoon",
    "mobygames": "288",
    "pcgamingwiki": "RollerCoaster_Tycoon",
    "steam": "285310"
@@ -244,6 +253,7 @@
   "ids": {
    "howlongtobeat": "15883",
    "igdb": "world-gone-sour",
+   "metacritic": "world-gone-sour",
    "mobygames": "94130",
    "pcgamingwiki": "World_Gone_Sour"
   },
@@ -263,6 +273,7 @@
   "ids": {
    "howlongtobeat": "10172",
    "igdb": "the-showdown-effect",
+   "metacritic": "the-showdown-effect",
    "mobygames": "61023",
    "pcgamingwiki": "The_Showdown_Effect",
    "steam": "204080"
@@ -293,6 +304,7 @@
   "ids": {
    "howlongtobeat": "16621",
    "igdb": "titanfall",
+   "metacritic": "titanfall",
    "mobygames": "64417",
    "pcgamingwiki": "Titanfall",
    "steam": "1454890"
@@ -315,6 +327,7 @@
    "epic": "assassins-creed-unity",
    "howlongtobeat": "21269",
    "igdb": "assassins-creed-unity",
+   "metacritic": "assassins-creed-unity",
    "mobygames": "69689",
    "pcgamingwiki": "Assassin's_Creed_Unity",
    "steam": "289650"
@@ -343,6 +356,7 @@
   "ids": {
    "howlongtobeat": "64234",
    "igdb": "travis-strikes-again-no-more-heroes",
+   "metacritic": "travis-strikes-again-no-more-heroes",
    "mobygames": "120726",
    "pcgamingwiki": "Travis_Strikes_Again:_No_More_Heroes",
    "steam": "961490"
@@ -386,6 +400,7 @@
    "gog": "game/cave_story",
    "howlongtobeat": "1618",
    "igdb": "cave-story-plus--1",
+   "metacritic": "cave-story-plus",
    "mobygames": "59981",
    "pcgamingwiki": "Cave_Story+",
    "steam": "200900"
@@ -1007,7 +1022,8 @@
  },
  {
   "ids": {
-   "howlongtobeat": "153440"
+   "howlongtobeat": "153440",
+   "metacritic": "disney-pixel-rpg"
   },
   "label_en": "Disney Pixel RPG",
   "wikidata": "Q130315778"
@@ -1264,6 +1280,7 @@
    "epic": "werewolf-the-apocalypse-purgatory-db8b1f",
    "gog": "game/werewolf_the_apocalypse_purgatory",
    "igdb": "werewolf-the-apocalypse-purgatory",
+   "pcgamingwiki": "Werewolf:_The_Apocalypse_-_Purgatory",
    "steam": "2463980"
   },
   "label_en": "Werewolf: The Apocalypse — Purgatory",

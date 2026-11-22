@@ -40,6 +40,7 @@
   "enwiki": "RollerCoaster Tycoon 3D",
   "ids": {
    "igdb": "rollercoaster-tycoon-3d",
+   "metacritic": "rollercoaster-tycoon-3d",
    "mobygames": "85176"
   },
   "label_en": "RollerCoaster Tycoon 3D",
@@ -49,6 +50,7 @@
   "enwiki": "One Piece: Grand Adventure",
   "ids": {
    "igdb": "one-piece-grand-adventure",
+   "metacritic": "one-piece-grand-adventure",
    "mobygames": "56760"
   },
   "label_en": "One Piece: Grand Adventure",
@@ -67,6 +69,7 @@
    "gog": "game/railroad_tycoon_2",
    "howlongtobeat": "7550",
    "igdb": "railroad-tycoon-ii",
+   "metacritic": "railroad-tycoon-ii",
    "mobygames": "238",
    "pcgamingwiki": "Railroad_Tycoon_II",
    "steam": "7620"
@@ -81,6 +84,7 @@
  {
   "ids": {
    "howlongtobeat": "5779",
+   "metacritic": "medal-of-honor-allied-assault-breakthrough",
    "mobygames": "10568"
   },
   "label_en": "Medal of Honor: Allied Assault – Breakthrough",
@@ -118,7 +122,8 @@
   "enwiki": "Flip's Twisted World",
   "ids": {
    "howlongtobeat": "69199",
-   "igdb": "flip-s-twisted-world"
+   "igdb": "flip-s-twisted-world",
+   "metacritic": "flips-twisted-world"
   },
   "label_en": "Flip's Twisted World",
   "wikidata": "Q5459631"
@@ -133,6 +138,7 @@
    "gog": "game/the_binding_of_isaac_rebirth",
    "howlongtobeat": "9782",
    "igdb": "the-binding-of-isaac-rebirth",
+   "metacritic": "the-binding-of-isaac-rebirth",
    "mobygames": "69433",
    "pcgamingwiki": "The_Binding_of_Isaac:_Rebirth",
    "steam": "250900"
@@ -149,6 +155,7 @@
   "ids": {
    "howlongtobeat": "34704",
    "igdb": "z1-battle-royale",
+   "metacritic": "h1z1",
    "mobygames": "85119",
    "pcgamingwiki": "H1Z1",
    "steam": "433850"
@@ -181,6 +188,7 @@
   "ids": {
    "howlongtobeat": "35251",
    "igdb": "melty-blood-actress-again-current-code",
+   "metacritic": "melty-blood-actress-again-current-code",
    "mobygames": "91667",
    "pcgamingwiki": "Melty_Blood_Actress_Again_Current_Code",
    "steam": "411370"
@@ -213,6 +221,7 @@
   "ids": {
    "howlongtobeat": "90247",
    "igdb": "circuit-superstars",
+   "metacritic": "circuit-superstars",
    "mobygames": "160149",
    "pcgamingwiki": "Circuit_Superstars",
    "steam": "1097130"
@@ -225,6 +234,7 @@
   "ids": {
    "howlongtobeat": "68277",
    "igdb": "contra-rogue-corps",
+   "metacritic": "contra-rogue-corps",
    "mobygames": "135039",
    "pcgamingwiki": "Contra:_Rogue_Corps",
    "steam": "1020540"
@@ -236,6 +246,7 @@
   "ids": {
    "howlongtobeat": "59772",
    "igdb": "black-clover-quartet-knights",
+   "metacritic": "black-clover-quartet-knights",
    "mobygames": "113564",
    "pcgamingwiki": "Black_Clover:_Quartet_Knights",
    "steam": "714080"
@@ -247,6 +258,7 @@
   "ids": {
    "howlongtobeat": "8025",
    "igdb": "runespell-overture",
+   "metacritic": "runespell-overture",
    "mobygames": "53290",
    "pcgamingwiki": "Runespell:_Overture",
    "steam": "102200"
@@ -597,6 +609,7 @@
   "ids": {
    "howlongtobeat": "138138",
    "igdb": "millennia",
+   "metacritic": "millennia",
    "mobygames": "220503",
    "pcgamingwiki": "Millennia",
    "steam": "1268590"
@@ -756,6 +769,7 @@
   "enwiki": "Tennis Masters Series (video game)",
   "ids": {
    "igdb": "tennis-masters-series",
+   "metacritic": "tennis-masters-series",
    "mobygames": "37544"
   },
   "label_en": "Tennis Masters Series",
@@ -826,6 +840,7 @@
   "ids": {
    "howlongtobeat": "93669",
    "igdb": "spirit-swap-lofi-beats-to-match-3-to",
+   "metacritic": "spirit-swap-lofi-beats-to-match-3-to",
    "mobygames": "236862",
    "steam": "1592170"
   },

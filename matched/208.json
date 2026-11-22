@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11373",
    "igdb": "x-men-legends-ii-rise-of-apocalypse",
+   "metacritic": "x-men-legends-ii-rise-of-apocalypse",
    "mobygames": "19785",
    "pcgamingwiki": "X-Men_Legends_II:_Rise_of_Apocalypse"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "9544",
    "igdb": "syphon-filter-the-omega-strain",
+   "metacritic": "syphon-filter-the-omega-strain",
    "mobygames": "18145"
   },
   "label_en": "Syphon Filter: The Omega Strain",
@@ -24,6 +26,7 @@
   "enwiki": "Mind Quiz",
   "ids": {
    "igdb": "mind-quiz",
+   "metacritic": "mind-quiz",
    "mobygames": "87234"
   },
   "label_en": "Mind Quiz",
@@ -43,6 +46,7 @@
   "ids": {
    "howlongtobeat": "4181",
    "igdb": "guitar-hero-world-tour",
+   "metacritic": "guitar-hero-world-tour-2009",
    "mobygames": "38712",
    "pcgamingwiki": "Guitar_Hero:_World_Tour"
   },
@@ -79,6 +83,7 @@
   "ids": {
    "howlongtobeat": "16016",
    "igdb": "bus-driver",
+   "metacritic": "bus-driver",
    "mobygames": "33071",
    "pcgamingwiki": "Bus_Driver",
    "steam": "302080"
@@ -90,6 +95,7 @@
   "enwiki": "Ragnarok DS",
   "ids": {
    "igdb": "ragnarok-ds",
+   "metacritic": "ragnarok-ds",
    "mobygames": "89811"
   },
   "label_en": "Ragnarok DS",
@@ -138,6 +144,7 @@
   "ids": {
    "howlongtobeat": "1523",
    "igdb": "car-battler-joe",
+   "metacritic": "car-battler-joe",
    "mobygames": "60360"
   },
   "label_en": "Car Battler Joe",
@@ -261,6 +268,7 @@
   "enwiki": "Pokémon Let's Go, Eevee!",
   "ids": {
    "igdb": "pokemon-lets-go-eevee",
+   "metacritic": "pokemon-lets-go-eevee",
    "mobygames": "114380"
   },
   "label_en": "Pokémon Let's Go, Eevee!",
@@ -270,6 +278,7 @@
   "ids": {
    "howlongtobeat": "57195",
    "igdb": "cat-burglar-a-tail-of-purrsuit",
+   "metacritic": "cat-burglar-a-tail-of-purrsuit",
    "mobygames": "110023",
    "pcgamingwiki": "Cat_Burglar:_A_Tail_of_Purrsuit",
    "steam": "760510"
@@ -283,6 +292,7 @@
    "epic": "chivalry-2",
    "howlongtobeat": "69351",
    "igdb": "chivalry-2",
+   "metacritic": "chivalry-ii",
    "mobygames": "166119",
    "pcgamingwiki": "Chivalry_2",
    "steam": "1824220"
@@ -295,6 +305,7 @@
    "epic": "jackbox-party-pack-6",
    "howlongtobeat": "71390",
    "igdb": "the-jackbox-party-pack-6",
+   "metacritic": "the-jackbox-party-pack-6",
    "mobygames": "136014",
    "pcgamingwiki": "The_Jackbox_Party_Pack_6",
    "steam": "1005300"
@@ -309,6 +320,7 @@
    "gog": "game/pathway",
    "howlongtobeat": "66299",
    "igdb": "pathway",
+   "metacritic": "pathway",
    "mobygames": "124829",
    "pcgamingwiki": "Pathway",
    "steam": "546430"
@@ -326,6 +338,7 @@
    "epic": "total-war-warhammer-3",
    "howlongtobeat": "92904",
    "igdb": "total-war-warhammer-iii",
+   "metacritic": "total-war-warhammer-iii",
    "mobygames": "180055",
    "pcgamingwiki": "Total_War:_Warhammer_III",
    "steam": "1142710"
@@ -340,6 +353,7 @@
    "gog": "game/fall_of_porcupine",
    "howlongtobeat": "112995",
    "igdb": "fall-of-porcupine",
+   "metacritic": "fall-of-porcupine",
    "mobygames": "204462",
    "pcgamingwiki": "Fall_of_Porcupine",
    "steam": "1710540"
@@ -510,6 +524,7 @@
   "ids": {
    "howlongtobeat": "81289",
    "igdb": "radical-rabbit-stew",
+   "metacritic": "radical-rabbit-stew",
    "mobygames": "147830",
    "steam": "1232010"
   },
@@ -741,6 +756,7 @@
  {
   "ids": {
    "igdb": "pandemommyum-hot-single-moms-in-my-area",
+   "metacritic": "pandemommyum-hot-single-moms-in-my-area",
    "mobygames": "210045",
    "pcgamingwiki": "Pandemommyum!_Hot_Single_Moms_in_My_Area",
    "steam": "2486030"

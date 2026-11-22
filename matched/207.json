@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1291",
    "igdb": "brain-age-2-more-training-in-minutes-a-day",
+   "metacritic": "brain-age-2-more-training-in-minutes-a-day",
    "mobygames": "29015"
   },
   "label_en": "Brain Age 2: More Training in Minutes a Day!",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "9697",
    "igdb": "tera",
+   "metacritic": "tera",
    "mobygames": "55355",
    "pcgamingwiki": "TERA",
    "steam": "212740"
@@ -27,6 +29,7 @@
    "gog": "game/xcom_terror_from_the_deep",
    "howlongtobeat": "11366",
    "igdb": "x-com-terror-from-the-deep",
+   "metacritic": "x-com-terror-from-the-deep",
    "mobygames": "543",
    "pcgamingwiki": "X-COM:_Terror_from_the_Deep",
    "steam": "7650"
@@ -40,6 +43,7 @@
    "gog": "game/lego_harry_potter_years_14",
    "howlongtobeat": "5250",
    "igdb": "lego-harry-potter-years-1-4",
+   "metacritic": "lego-harry-potter-years-1-4",
    "mobygames": "47534",
    "pcgamingwiki": "Lego_Harry_Potter:_Years_1-4",
    "steam": "21130"
@@ -129,6 +133,7 @@
   "ids": {
    "howlongtobeat": "16022",
    "igdb": "maelstrom-the-battle-for-earth-begins",
+   "metacritic": "maelstrom-the-battle-for-earth-begins",
    "mobygames": "29087",
    "pcgamingwiki": "Maelstrom:_The_Battle_for_Earth_Begins",
    "steam": "11560"
@@ -178,6 +183,7 @@
   "ids": {
    "howlongtobeat": "96",
    "igdb": "7-wonders-of-the-ancient-world-93a9164c-906f-4727-948a-14dade2fbfa2",
+   "metacritic": "7-wonders-of-the-ancient-world",
    "mobygames": "32004",
    "pcgamingwiki": "7_Wonders_of_the_Ancient_World",
    "steam": "275810"
@@ -202,6 +208,7 @@
    "gog": "game/ethan_meteor_hunter",
    "howlongtobeat": "15391",
    "igdb": "ethan-meteor-hunter",
+   "metacritic": "ethan-meteor-hunter",
    "mobygames": "94186",
    "pcgamingwiki": "Ethan:_Meteor_Hunter",
    "steam": "266330"
@@ -217,6 +224,7 @@
   "ids": {
    "howlongtobeat": "44848",
    "igdb": "tales",
+   "metacritic": "tales",
    "mobygames": "115197",
    "pcgamingwiki": "Tales",
    "steam": "416250"
@@ -240,6 +248,7 @@
   "enwiki": "Sno-Cross Championship Racing",
   "ids": {
    "igdb": "snocross-championship-racing",
+   "metacritic": "sno-cross-championship-racing",
    "mobygames": "12525",
    "pcgamingwiki": "Sno-Cross_Extreme"
   },
@@ -267,6 +276,7 @@
    "gog": "game/the_waylanders",
    "howlongtobeat": "67874",
    "igdb": "the-waylanders",
+   "metacritic": "the-waylanders",
    "mobygames": "146887",
    "pcgamingwiki": "The_Waylanders",
    "steam": "957710"
@@ -279,6 +289,7 @@
   "ids": {
    "howlongtobeat": "112692",
    "igdb": "teslagrad-2",
+   "metacritic": "teslagrad-2",
    "mobygames": "206122",
    "pcgamingwiki": "Teslagrad_2",
    "steam": "1698220"
@@ -295,6 +306,7 @@
    "epic": "snakebird-complete-e6f0ae",
    "howlongtobeat": "26870",
    "igdb": "snakebird",
+   "metacritic": "snakebird",
    "mobygames": "76361",
    "pcgamingwiki": "Snakebird",
    "steam": "357300"
@@ -317,6 +329,7 @@
   "ids": {
    "howlongtobeat": "71146",
    "igdb": "popup-dungeon",
+   "metacritic": "popup-dungeon",
    "mobygames": "149262",
    "pcgamingwiki": "Popup_Dungeon",
    "steam": "349730"
@@ -346,6 +359,7 @@
  {
   "ids": {
    "igdb": "lets-sing-abba",
+   "metacritic": "lets-sing-abba",
    "mobygames": "192853"
   },
   "label_en": "Let's Sing ABBA",
@@ -365,6 +379,7 @@
   "ids": {
    "howlongtobeat": "125158",
    "igdb": "sword-art-online-last-recollection",
+   "metacritic": "sword-art-online-last-recollection",
    "mobygames": "209876",
    "pcgamingwiki": "Sword_Art_Online:_Last_Recollection",
    "steam": "1566880"
@@ -641,6 +656,7 @@
   "ids": {
    "howlongtobeat": "13505",
    "igdb": "rush-bros",
+   "metacritic": "rush-bros",
    "mobygames": "61716",
    "pcgamingwiki": "Rush_Bros.",
    "steam": "234490"
@@ -694,6 +710,7 @@
  },
  {
   "ids": {
+   "metacritic": "americas-army-2002",
    "mobygames": "7640"
   },
   "label_en": "America's Army",
@@ -869,6 +886,7 @@
   "ids": {
    "howlongtobeat": "131628",
    "igdb": "jurassic-park-classic-games-collection",
+   "metacritic": "jurassic-park-classic-games-collection",
    "mobygames": "212456",
    "pcgamingwiki": "Jurassic_Park_Classic_Games_Collection",
    "steam": "2673080"
@@ -1019,6 +1037,7 @@
  {
   "ids": {
    "igdb": "heroes-of-hexaluga",
+   "pcgamingwiki": "Heroes_of_Hexaluga",
    "steam": "728050"
   },
   "label_en": "❂ Heroes of Hexaluga ❂",

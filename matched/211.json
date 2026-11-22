@@ -79,6 +79,7 @@
   "ids": {
    "howlongtobeat": "1302",
    "igdb": "brave-fencer-musashi",
+   "metacritic": "brave-fencer-musashi",
    "mobygames": "3695"
   },
   "label_en": "Brave Fencer Musashi",
@@ -109,6 +110,7 @@
    "gog": "game/dark_fall_the_journal",
    "howlongtobeat": "2209",
    "igdb": "dark-fall",
+   "metacritic": "dark-fall-the-journal",
    "mobygames": "7050",
    "pcgamingwiki": "Dark_Fall:_The_Journal",
    "steam": "260690"
@@ -245,6 +247,7 @@
   "enwiki": "Tao's Adventure: Curse of the Demon Seal",
   "ids": {
    "igdb": "taos-adventure-curse-of-the-demon-seal",
+   "metacritic": "taos-adventure-curse-of-the-demon-seal",
    "mobygames": "23720"
   },
   "label_en": "Tao's Adventure: Curse of the Demon Seal",
@@ -263,6 +266,7 @@
   "enwiki": "My World, My Way (video game)",
   "ids": {
    "igdb": "my-world-my-way",
+   "metacritic": "my-world-my-way",
    "mobygames": "89298"
   },
   "label_en": "My World, My Way",
@@ -328,6 +332,7 @@
    "epic": "skull-and-bones",
    "howlongtobeat": "57531",
    "igdb": "skull-and-bones",
+   "metacritic": "skull-and-bones",
    "mobygames": "217673",
    "pcgamingwiki": "Skull_and_Bones",
    "steam": "370010"
@@ -373,6 +378,7 @@
    "gog": "game/druidstone_the_secret_of_the_menhir_forest",
    "howlongtobeat": "66978",
    "igdb": "druidstone-the-secret-of-the-menhir-forest",
+   "metacritic": "druidstone-the-secret-of-the-menhir-forest",
    "mobygames": "126945",
    "pcgamingwiki": "Druidstone:_The_Secret_of_the_Menhir_Forest",
    "steam": "954650"
@@ -397,6 +403,7 @@
    "gog": "game/little_nightmares_ii",
    "howlongtobeat": "69805",
    "igdb": "little-nightmares-ii",
+   "metacritic": "little-nightmares-ii",
    "mobygames": "158147",
    "pcgamingwiki": "Little_Nightmares_II",
    "steam": "860510"
@@ -408,6 +415,7 @@
   "ids": {
    "howlongtobeat": "71483",
    "igdb": "mo-astray",
+   "metacritic": "moastray",
    "mobygames": "136510",
    "pcgamingwiki": "MO:_Astray",
    "steam": "1104660"
@@ -433,6 +441,7 @@
    "gog": "game/unbound_worlds_apart",
    "howlongtobeat": "93977",
    "igdb": "unbound-worlds-apart",
+   "metacritic": "unbound-worlds-apart",
    "mobygames": "168305",
    "pcgamingwiki": "Unbound:_Worlds_Apart",
    "steam": "814680"
@@ -508,6 +517,7 @@
    "gog": "game/not_another_weekend",
    "howlongtobeat": "100816",
    "igdb": "not-another-weekend",
+   "metacritic": "not-another-weekend",
    "mobygames": "165481",
    "steam": "1432200"
   },
@@ -618,6 +628,7 @@
    "gog": "game/pendragon",
    "howlongtobeat": "83380",
    "igdb": "pendragon",
+   "metacritic": "pendragon",
    "mobygames": "150692",
    "pcgamingwiki": "Pendragon",
    "steam": "1240050"
@@ -719,6 +730,7 @@
   "enwiki": "Rune Factory: Guardians of Azuma",
   "ids": {
    "igdb": "rune-factory-guardians-of-azuma--1",
+   "metacritic": "rune-factory-guardians-of-azuma",
    "pcgamingwiki": "Rune_Factory:_Guardians_of_Azuma",
    "steam": "2864560"
   },
@@ -1285,6 +1297,7 @@
  {
   "ids": {
    "igdb": "purple-heart",
+   "pcgamingwiki": "Purple_Heart",
    "steam": "745370"
   },
   "label_en": "Purple Heart",

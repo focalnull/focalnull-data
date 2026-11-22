@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "1751",
    "igdb": "clive-barker-s-jericho",
+   "metacritic": "clive-barkers-jericho",
    "mobygames": "30754",
    "pcgamingwiki": "Clive_Barker's_Jericho"
   },
@@ -23,6 +24,7 @@
   "enwiki": "FIFA Football 2004",
   "ids": {
    "igdb": "fifa-soccer-2004",
+   "metacritic": "fifa-soccer-2004",
    "mobygames": "10895",
    "pcgamingwiki": "FIFA_Football_2004"
   },
@@ -50,6 +52,7 @@
   "ids": {
    "howlongtobeat": "10615",
    "igdb": "transformers-war-for-cybertron",
+   "metacritic": "transformers-war-for-cybertron",
    "mobygames": "47267",
    "pcgamingwiki": "Transformers:_War_for_Cybertron",
    "steam": "42650"
@@ -79,6 +82,7 @@
   "ids": {
    "howlongtobeat": "1826",
    "igdb": "combat-of-giants-dinosaurs-3d",
+   "metacritic": "battle-of-giants-dinosaurs-strike",
    "mobygames": "92832"
   },
   "label_en": "Combat of Giants: Dinosaurs 3D",
@@ -87,6 +91,7 @@
  {
   "ids": {
    "igdb": "monster-4x4-masters-of-metal",
+   "metacritic": "monster-4x4-masters-of-metal",
    "mobygames": "21781"
   },
   "label_en": "Monster 4x4: Masters of Metal",
@@ -163,6 +168,7 @@
   "enwiki": "Angry Birds Blast",
   "ids": {
    "igdb": "angry-birds-blast",
+   "metacritic": "angry-birds-blast",
    "mobygames": "86186"
   },
   "label_en": "Angry Birds Blast!",
@@ -173,6 +179,7 @@
    "gog": "game/age_of_civilizations_ii",
    "howlongtobeat": "66096",
    "igdb": "age-of-history-ii",
+   "metacritic": "age-of-civilizations-ii",
    "mobygames": "117375",
    "pcgamingwiki": "Age_of_Civilizations_II",
    "steam": "603850"
@@ -208,6 +215,7 @@
   "ids": {
    "howlongtobeat": "44230",
    "igdb": "the-mooseman",
+   "metacritic": "the-mooseman",
    "mobygames": "111025",
    "pcgamingwiki": "The_Mooseman",
    "steam": "574310"
@@ -337,6 +345,7 @@
   "ids": {
    "howlongtobeat": "5158",
    "igdb": "labyrinthine-dreams",
+   "metacritic": "labyrinthine-dreams",
    "mobygames": "91769",
    "pcgamingwiki": "Labyrinthine_Dreams",
    "steam": "278570"
@@ -409,6 +418,7 @@
   "ids": {
    "igdb": "space-slash-mech-slash-pilot",
    "mobygames": "151838",
+   "pcgamingwiki": "SPACE/MECH/PILOT",
    "steam": "1398390"
   },
   "label_en": "SPACE / MECH / PILOT",
@@ -609,6 +619,7 @@
   "ids": {
    "howlongtobeat": "52383",
    "igdb": "inmates",
+   "metacritic": "inmates",
    "mobygames": "96858",
    "pcgamingwiki": "Inmates",
    "steam": "634120"
@@ -1007,6 +1018,7 @@
  {
   "ids": {
    "igdb": "a-few-quick-matches",
+   "pcgamingwiki": "A_Few_Quick_Matches",
    "steam": "3805420"
   },
   "label_en": "A Few Quick Matches",

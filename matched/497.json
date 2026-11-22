@@ -3,6 +3,7 @@
   "enwiki": "Kinect Adventures!",
   "ids": {
    "igdb": "kinect-adventures",
+   "metacritic": "kinect-adventures",
    "mobygames": "49012"
   },
   "label_en": "Kinect Adventures!",
@@ -14,6 +15,7 @@
    "howlongtobeat": "15460",
    "igdb": "air",
    "mobygames": "14179",
+   "pcgamingwiki": "Air_(Remaster)",
    "steam": "2983250"
   },
   "label_en": "Air",
@@ -43,6 +45,7 @@
   "ids": {
    "howlongtobeat": "3560",
    "igdb": "fire-emblem-radiant-dawn",
+   "metacritic": "fire-emblem-radiant-dawn",
    "mobygames": "26870"
   },
   "label_en": "Fire Emblem: Radiant Dawn",
@@ -53,6 +56,7 @@
   "ids": {
    "howlongtobeat": "3290",
    "igdb": "f-zero-x",
+   "metacritic": "f-zero-x",
    "mobygames": "4047"
   },
   "label_en": "F-Zero X",
@@ -63,6 +67,7 @@
   "ids": {
    "howlongtobeat": "3483",
    "igdb": "final-fantasy-chronicles",
+   "metacritic": "final-fantasy-chronicles",
    "mobygames": "4523"
   },
   "label_en": "Final Fantasy Chronicles",
@@ -120,6 +125,7 @@
    "gog": "game/puzzle_agent_2",
    "howlongtobeat": "7415",
    "igdb": "puzzle-agent-2",
+   "metacritic": "puzzle-agent-2",
    "mobygames": "52101",
    "pcgamingwiki": "Puzzle_Agent_2",
    "steam": "94590"
@@ -132,6 +138,7 @@
   "ids": {
    "howlongtobeat": "5331",
    "igdb": "little-red-riding-hoods-zombie-bbq",
+   "metacritic": "little-red-riding-hoods-zombie-bbq",
    "mobygames": "42514"
   },
   "label_en": "Little Red Riding Hood's Zombie BBQ",
@@ -194,6 +201,7 @@
   "ids": {
    "howlongtobeat": "21077",
    "igdb": "naruto-shippuden-ultimate-ninja-storm-revolution",
+   "metacritic": "naruto-shippuden-ultimate-ninja-storm-revolution",
    "mobygames": "69368",
    "pcgamingwiki": "Naruto_Shippuden:_Ultimate_Ninja_Storm_Revolution",
    "steam": "272510"
@@ -206,6 +214,7 @@
   "ids": {
    "howlongtobeat": "20803",
    "igdb": "velocity-2x",
+   "metacritic": "velocity-2x",
    "mobygames": "77887",
    "pcgamingwiki": "Velocity_2X",
    "steam": "337180"
@@ -254,6 +263,7 @@
   "ids": {
    "howlongtobeat": "56668",
    "igdb": "raft",
+   "metacritic": "raft",
    "mobygames": "88991",
    "pcgamingwiki": "Raft",
    "steam": "648800"
@@ -284,6 +294,7 @@
  {
   "ids": {
    "howlongtobeat": "30942",
+   "metacritic": "wild-season",
    "pcgamingwiki": "Wild_Season",
    "steam": "328220"
   },
@@ -295,6 +306,7 @@
    "gog": "game/altfrequencies",
    "howlongtobeat": "68102",
    "igdb": "alt-frequencies",
+   "metacritic": "alt-frequencies",
    "mobygames": "126961",
    "pcgamingwiki": "Alt-Frequencies",
    "steam": "1035050"
@@ -308,6 +320,7 @@
    "epic": "lego-builders-journey",
    "howlongtobeat": "73040",
    "igdb": "lego-builders-journey",
+   "metacritic": "lego-builders-journey",
    "mobygames": "139438",
    "pcgamingwiki": "Lego_Builder's_Journey",
    "steam": "1544360"
@@ -319,6 +332,7 @@
   "enwiki": "Monster Hunter World: Iceborne",
   "ids": {
    "igdb": "monster-hunter-world-iceborne",
+   "metacritic": "monster-hunter-world-iceborne",
    "mobygames": "135534",
    "steam": "1118010"
   },
@@ -425,6 +439,7 @@
    "gog": "game/stray_gods_the_roleplaying_musical",
    "howlongtobeat": "94116",
    "igdb": "stray-gods-the-roleplaying-musical",
+   "metacritic": "stray-gods-the-roleplaying-musical",
    "mobygames": "207094",
    "pcgamingwiki": "Stray_Gods:_The_Roleplaying_Musical",
    "steam": "1920780"
@@ -446,6 +461,7 @@
    "howlongtobeat": "127746",
    "igdb": "do-not-feed-the-monkeys-2099",
    "mobygames": "203664",
+   "pcgamingwiki": "Do_Not_Feed_the_Monkeys_2099",
    "steam": "1964040"
   },
   "label_en": "Do Not Feed the Monkeys 2099",
@@ -735,6 +751,7 @@
  {
   "ids": {
    "igdb": "the-last-human-go",
+   "metacritic": "the-last-human-go",
    "steam": "2717630"
   },
   "label_en": "The Last Human: GO!",
@@ -1153,6 +1170,7 @@
  {
   "ids": {
    "igdb": "my-hot-beach-vacation",
+   "pcgamingwiki": "My_hot_beach_vacation",
    "steam": "1188060"
   },
   "label_en": "My Hot Beach Vacation",

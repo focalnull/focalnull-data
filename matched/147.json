@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1407",
    "igdb": "burnout-dominator",
+   "metacritic": "burnout-dominator",
    "mobygames": "32272"
   },
   "label_en": "Burnout Dominator",
@@ -59,6 +60,7 @@
   "ids": {
    "howlongtobeat": "1927",
    "igdb": "cooking-mama-2-dinner-with-friends",
+   "metacritic": "cooking-mama-2-dinner-with-friends",
    "mobygames": "31226"
   },
   "label_en": "Cooking Mama 2: Dinner with Friends",
@@ -116,6 +118,7 @@
   "enwiki": "Onimusha: Dawn of Dreams",
   "ids": {
    "igdb": "onimusha-dawn-of-dreams",
+   "metacritic": "onimusha-dawn-of-dreams",
    "mobygames": "21611"
   },
   "label_en": "Onimusha: Dawn of Dreams",
@@ -133,7 +136,8 @@
  {
   "enwiki": "Naruto: Ultimate Ninja 3",
   "ids": {
-   "igdb": "naruto-ultimate-ninja-3"
+   "igdb": "naruto-ultimate-ninja-3",
+   "metacritic": "naruto-ultimate-ninja-3"
   },
   "label_en": "Naruto: Ultimate Ninja 3",
   "wikidata": "Q3336147"
@@ -245,6 +249,7 @@
   "enwiki": "Rugby 06",
   "ids": {
    "igdb": "rugby-06",
+   "metacritic": "rugby-06",
    "mobygames": "37277",
    "pcgamingwiki": "Rugby_06"
   },
@@ -260,6 +265,7 @@
   "ids": {
    "howlongtobeat": "19267",
    "igdb": "halo-5-guardians",
+   "metacritic": "halo-5-guardians",
    "mobygames": "75503"
   },
   "label_en": "Halo 5: Guardians",
@@ -279,6 +285,7 @@
   "ids": {
    "howlongtobeat": "25257",
    "igdb": "tembo-the-badass-elephant",
+   "metacritic": "tembo-the-badass-elephant",
    "mobygames": "73944",
    "pcgamingwiki": "Tembo_the_Badass_Elephant",
    "steam": "341870"
@@ -291,6 +298,7 @@
   "ids": {
    "howlongtobeat": "26474",
    "igdb": "car-mechanic-simulator-2015",
+   "metacritic": "car-mechanic-simulator-2015",
    "mobygames": "80695",
    "pcgamingwiki": "Car_Mechanic_Simulator_2015",
    "steam": "320300"
@@ -302,6 +310,7 @@
   "enwiki": "Robox",
   "ids": {
    "igdb": "robox",
+   "metacritic": "robox",
    "mobygames": "92181"
   },
   "label_en": "Robox",
@@ -312,6 +321,7 @@
   "ids": {
    "howlongtobeat": "67572",
    "igdb": "shadow-fight-2",
+   "metacritic": "shadow-fight-2",
    "mobygames": "94932",
    "pcgamingwiki": "Shadow_Fight_2"
   },
@@ -322,6 +332,7 @@
   "ids": {
    "howlongtobeat": "79570",
    "igdb": "witch-thief",
+   "metacritic": "witch-thief",
    "mobygames": "125464",
    "pcgamingwiki": "Witch_Thief",
    "steam": "675480"
@@ -343,6 +354,7 @@
   "ids": {
    "howlongtobeat": "40353",
    "igdb": "shu",
+   "metacritic": "shu",
    "mobygames": "87335",
    "pcgamingwiki": "Shu",
    "steam": "528720"
@@ -355,6 +367,7 @@
   "ids": {
    "howlongtobeat": "70408",
    "igdb": "ring-fit-adventure",
+   "metacritic": "ring-fit-adventure",
    "mobygames": "134558"
   },
   "label_en": "Ring Fit Adventure",
@@ -374,6 +387,7 @@
  {
   "ids": {
    "igdb": "risk-urban-assault",
+   "metacritic": "risk-urban-assault",
    "mobygames": "87162"
   },
   "label_en": "Risk: Urban Assault",
@@ -383,6 +397,7 @@
   "ids": {
    "howlongtobeat": "9524",
    "igdb": "syder-arcade",
+   "metacritic": "syder-arcade",
    "mobygames": "56769",
    "pcgamingwiki": "Syder_Arcade",
    "steam": "252310"
@@ -416,6 +431,7 @@
   "enwiki": "Lineage W",
   "ids": {
    "igdb": "lineage-w",
+   "metacritic": "lineage-w",
    "mobygames": "183042"
   },
   "label_en": "Lineage W",
@@ -769,6 +785,7 @@
   "ids": {
    "howlongtobeat": "144776",
    "igdb": "homicipher",
+   "metacritic": "homicipher",
    "mobygames": "241312",
    "steam": "2302660"
   },
@@ -1048,6 +1065,7 @@
  {
   "ids": {
    "igdb": "westard--1",
+   "pcgamingwiki": "Westard",
    "steam": "576950"
   },
   "label_en": "Westard",
@@ -1068,6 +1086,7 @@
  {
   "ids": {
    "igdb": "magicians-the-devils-deal",
+   "metacritic": "magicians-the-devils-deal",
    "pcgamingwiki": "Magicians:_The_Devil's_Deal",
    "steam": "3299300"
   },
@@ -1087,6 +1106,7 @@
   "ids": {
    "howlongtobeat": "187750",
    "igdb": "dressmaker--1",
+   "metacritic": "dressmaker",
    "mobygames": "266345",
    "pcgamingwiki": "Dressmaker",
    "steam": "4019220"

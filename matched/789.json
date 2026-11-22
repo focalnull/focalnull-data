@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "10438",
    "igdb": "tom-clancy-s-ghost-recon-shadow-wars",
+   "metacritic": "tom-clancys-ghost-recon-shadow-wars",
    "mobygames": "50996"
   },
   "label_en": "Tom Clancy's Ghost Recon: Shadow Wars",
@@ -49,6 +50,7 @@
   "ids": {
    "howlongtobeat": "66221",
    "igdb": "devil-may-cry-hd-collection",
+   "metacritic": "devil-may-cry-hd-collection",
    "mobygames": "55325",
    "pcgamingwiki": "Devil_May_Cry_HD_Collection",
    "steam": "631510"
@@ -172,6 +174,7 @@
    "gog": "game/through_the_woods",
    "howlongtobeat": "40770",
    "igdb": "through-the-woods",
+   "metacritic": "through-the-woods",
    "mobygames": "94398",
    "pcgamingwiki": "Through_the_Woods",
    "steam": "368430"
@@ -188,6 +191,7 @@
   "ids": {
    "howlongtobeat": "45752",
    "igdb": "nba-playgrounds",
+   "metacritic": "nba-playgrounds",
    "mobygames": "88067",
    "pcgamingwiki": "NBA_Playgrounds",
    "steam": "545270"
@@ -235,6 +239,7 @@
    "gog": "game/prison_princess",
    "howlongtobeat": "74681",
    "igdb": "prison-princess",
+   "metacritic": "prison-princess",
    "mobygames": "138986",
    "pcgamingwiki": "Prison_Princess",
    "steam": "1151740"
@@ -248,6 +253,7 @@
    "gog": "game/per_aspera",
    "howlongtobeat": "68206",
    "igdb": "per-aspera",
+   "metacritic": "per-aspera",
    "mobygames": "191533",
    "pcgamingwiki": "Per_Aspera",
    "steam": "803050"
@@ -259,6 +265,7 @@
   "ids": {
    "howlongtobeat": "66547",
    "igdb": "pagan-absent-gods",
+   "metacritic": "pagan-online",
    "mobygames": "149243",
    "pcgamingwiki": "Pagan_Online",
    "steam": "992640"
@@ -526,6 +533,7 @@
   "ids": {
    "howlongtobeat": "64640",
    "igdb": "twilight-path",
+   "metacritic": "twilight-path",
    "mobygames": "115301",
    "pcgamingwiki": "Twilight_Path",
    "steam": "770110"
@@ -1109,7 +1117,8 @@
   "enwiki": "Street Jam Basketball",
   "ids": {
    "howlongtobeat": "12364",
-   "igdb": "street-jam-basketball"
+   "igdb": "street-jam-basketball",
+   "metacritic": "street-jam-basketball"
   },
   "label_en": "Street Jam Basketball",
   "wikidata": "Q136064789"

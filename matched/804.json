@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "4262",
    "igdb": "halo-2",
+   "metacritic": "halo-2",
    "mobygames": "15499",
    "pcgamingwiki": "Halo_2"
   },
@@ -35,6 +36,7 @@
   "enwiki": "Glory of the Roman Empire",
   "ids": {
    "igdb": "glory-of-the-roman-empire",
+   "metacritic": "glory-of-the-roman-empire",
    "mobygames": "23695",
    "pcgamingwiki": "Glory_of_the_Roman_Empire"
   },
@@ -76,6 +78,7 @@
   "ids": {
    "howlongtobeat": "4161",
    "igdb": "guilty-gear-2-overture",
+   "metacritic": "guilty-gear-2-overture",
    "mobygames": "37342",
    "pcgamingwiki": "Guilty_Gear_2:_Overture",
    "steam": "437000"
@@ -88,6 +91,7 @@
   "ids": {
    "howlongtobeat": "52711",
    "igdb": "the-legend-of-zelda-a-link-to-the-past-and-four-swords",
+   "metacritic": "the-legend-of-zelda-a-link-to-the-past-four-swords",
    "mobygames": "51646"
   },
   "label_en": "The Legend of Zelda: A Link to the Past and Four Swords",
@@ -98,6 +102,7 @@
   "ids": {
    "howlongtobeat": "173",
    "igdb": "ace-combat-assault-horizon",
+   "metacritic": "ace-combat-assault-horizon",
    "mobygames": "57326",
    "pcgamingwiki": "Ace_Combat:_Assault_Horizon_-_Enhanced_Edition"
   },
@@ -140,6 +145,7 @@
   "ids": {
    "howlongtobeat": "1635",
    "igdb": "champions-online",
+   "metacritic": "champions-online",
    "mobygames": "44772",
    "pcgamingwiki": "Champions_Online:_Free_For_All",
    "steam": "9880"
@@ -151,6 +157,7 @@
   "enwiki": "Dr. Mario Express",
   "ids": {
    "igdb": "dr-mario-express",
+   "metacritic": "dr-mario-express",
    "mobygames": "45459"
   },
   "label_en": "Dr. Mario Express",
@@ -209,6 +216,7 @@
   "ids": {
    "howlongtobeat": "5528",
    "igdb": "magic-orbz",
+   "metacritic": "magic-orbz",
    "mobygames": "92021"
   },
   "label_en": "Magic Orbz",
@@ -218,6 +226,7 @@
   "enwiki": "Monster Rancher 2",
   "ids": {
    "igdb": "monster-rancher-2",
+   "metacritic": "monster-rancher-2",
    "mobygames": "5130"
   },
   "label_en": "Monster Rancher 2",
@@ -245,6 +254,7 @@
   "enwiki": "Wik and the Fable of Souls",
   "ids": {
    "igdb": "wik-the-fable-of-souls",
+   "metacritic": "wik-and-the-fable-of-souls",
    "mobygames": "15557",
    "pcgamingwiki": "Wik_and_the_Fable_of_Souls"
   },
@@ -286,6 +296,7 @@
    "gog": "game/convoy",
    "howlongtobeat": "26095",
    "igdb": "convoy",
+   "metacritic": "convoy",
    "mobygames": "98687",
    "pcgamingwiki": "Convoy",
    "steam": "318230"
@@ -297,6 +308,7 @@
   "ids": {
    "howlongtobeat": "39554",
    "igdb": "screeps-world",
+   "metacritic": "screeps",
    "mobygames": "100666",
    "pcgamingwiki": "Screeps",
    "steam": "464350"
@@ -310,6 +322,7 @@
    "gog": "game/prodeus",
    "howlongtobeat": "63072",
    "igdb": "prodeus",
+   "metacritic": "prodeus",
    "mobygames": "153160",
    "pcgamingwiki": "Prodeus",
    "steam": "964800"
@@ -326,6 +339,7 @@
   "ids": {
    "howlongtobeat": "23488",
    "igdb": "gems-of-war",
+   "metacritic": "gems-of-war",
    "mobygames": "76888",
    "pcgamingwiki": "Gems_of_War",
    "steam": "329110"
@@ -361,6 +375,7 @@
    "gog": "game/an_airport_for_aliens_currently_run_by_dogs",
    "howlongtobeat": "92825",
    "igdb": "an-airport-for-aliens-currently-run-by-dogs",
+   "metacritic": "an-airport-for-aliens-currently-run-by-dogs",
    "mobygames": "165143",
    "pcgamingwiki": "An_Airport_for_Aliens_Currently_Run_by_Dogs",
    "steam": "1246250"
@@ -376,6 +391,7 @@
   "ids": {
    "howlongtobeat": "37758",
    "igdb": "cat-girl-without-salad-amuse-bouche",
+   "metacritic": "cat-girl-without-salad-amuse-bouche",
    "steam": "3536870"
   },
   "label_en": "Cat Girl Without Salad: Amuse-Bouche",
@@ -423,6 +439,7 @@
    "howlongtobeat": "104342",
    "igdb": "popgoes-arcade--1",
    "mobygames": "187610",
+   "pcgamingwiki": "POPGOES_Arcade",
    "steam": "1986840"
   },
   "label_en": "POPGOES Arcade",

@@ -25,6 +25,7 @@
   "ids": {
    "howlongtobeat": "10198",
    "igdb": "the-sims-bustin-out",
+   "metacritic": "the-sims-bustin-out",
    "mobygames": "29784"
   },
   "label_en": "The Sims Bustin' Out",
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "3515",
    "igdb": "final-fantasy-type-0",
+   "metacritic": "final-fantasy-type-0-hd",
    "mobygames": "60194"
   },
   "label_en": "Final Fantasy Type-0",
@@ -53,6 +55,7 @@
   "enwiki": "N+",
   "ids": {
    "igdb": "n-plus",
+   "metacritic": "n",
    "mobygames": "36436"
   },
   "label_en": "N+",
@@ -79,6 +82,7 @@
   "ids": {
    "howlongtobeat": "6568",
    "igdb": "nhl-2k6",
+   "metacritic": "nhl-2k6",
    "mobygames": "24389"
   },
   "label_en": "NHL 2K6",
@@ -96,6 +100,7 @@
   "ids": {
    "howlongtobeat": "31202",
    "igdb": "starship-troopers-terran-ascendancy",
+   "metacritic": "starship-troopers-terran-ascendancy",
    "pcgamingwiki": "Starship_Troopers:_Terran_Ascendancy"
   },
   "label_en": "Starship Troopers: Terran Ascendancy",
@@ -132,6 +137,7 @@
   "enwiki": "Conspiracies (video game)",
   "ids": {
    "igdb": "conspiracies",
+   "metacritic": "conspiracies",
    "mobygames": "9948"
   },
   "label_en": "Conspiracies",
@@ -189,6 +195,7 @@
   "ids": {
    "howlongtobeat": "4914",
    "igdb": "kabuki-warriors",
+   "metacritic": "kabuki-warriors",
    "mobygames": "10791"
   },
   "label_en": "Kabuki Warriors",
@@ -198,6 +205,7 @@
   "enwiki": "Kung-Fu Live",
   "ids": {
    "igdb": "kung-fu-live",
+   "metacritic": "kung-fu-live",
    "mobygames": "62337"
   },
   "label_en": "Kung-Fu Live",
@@ -227,7 +235,8 @@
  {
   "enwiki": "Things on Wheels",
   "ids": {
-   "igdb": "things-on-wheels"
+   "igdb": "things-on-wheels",
+   "metacritic": "things-on-wheels"
   },
   "label_en": "Things on Wheels",
   "wikidata": "Q7784415"
@@ -274,6 +283,7 @@
  {
   "ids": {
    "igdb": "junglex",
+   "metacritic": "junglex",
    "mobygames": "194493",
    "pcgamingwiki": "Junglex",
    "steam": "1036600"
@@ -375,6 +385,7 @@
   "ids": {
    "howlongtobeat": "5752",
    "igdb": "mdk-2-hd",
+   "metacritic": "mdk2-hd",
    "mobygames": "58608",
    "pcgamingwiki": "MDK_2_HD",
    "steam": "213350"
@@ -411,6 +422,7 @@
  {
   "ids": {
    "igdb": "scholar",
+   "metacritic": "scholar",
    "steam": "1824260"
   },
   "label_en": "Scholar",
@@ -1005,6 +1017,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Pipes.exe",
    "steam": "3688240"
   },
   "label_en": "Pipes.exe",

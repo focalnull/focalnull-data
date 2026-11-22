@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1894",
    "igdb": "conker-s-bad-fur-day",
+   "metacritic": "conkers-bad-fur-day",
    "mobygames": "3622"
   },
   "label_en": "Conker's Bad Fur Day",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "7739",
    "igdb": "resident-evil-operation-raccoon-city",
+   "metacritic": "resident-evil-operation-raccoon-city",
    "mobygames": "55299",
    "pcgamingwiki": "Resident_Evil:_Operation_Raccoon_City",
    "steam": "209100"
@@ -34,6 +36,7 @@
   "enwiki": "WorldShift",
   "ids": {
    "igdb": "worldshift",
+   "metacritic": "worldshift",
    "mobygames": "33972",
    "pcgamingwiki": "Worldshift"
   },
@@ -75,6 +78,7 @@
   "ids": {
    "howlongtobeat": "11721",
    "igdb": "ride-to-hell-retribution",
+   "metacritic": "ride-to-hell-retribution",
    "mobygames": "61570",
    "pcgamingwiki": "Ride_to_Hell:_Retribution",
    "steam": "209340"
@@ -86,6 +90,7 @@
   "enwiki": "Yu-Gi-Oh! World Championship Tournament 2004",
   "ids": {
    "igdb": "yu-gi-oh-world-championship-tournament-2004",
+   "metacritic": "yu-gi-oh-world-championship-tournament-2004",
    "mobygames": "12083"
   },
   "label_en": "Yu-Gi-Oh! World Championship Tournament 2004",
@@ -114,6 +119,7 @@
   "ids": {
    "howlongtobeat": "4395",
    "igdb": "hell-yeah-wrath-of-the-dead-rabbit",
+   "metacritic": "hell-yeah-wrath-of-the-dead-rabbit",
    "mobygames": "70887",
    "pcgamingwiki": "Hell_Yeah!_Wrath_of_the_Dead_Rabbit",
    "steam": "205230"
@@ -318,6 +324,7 @@
   "ids": {
    "howlongtobeat": "109434",
    "igdb": "final-fantasy-vii-rebirth",
+   "metacritic": "final-fantasy-vii-rebirth",
    "pcgamingwiki": "Final_Fantasy_VII_Rebirth",
    "steam": "2909400"
   },
@@ -412,6 +419,7 @@
   "ids": {
    "howlongtobeat": "1997",
    "igdb": "crazy-machines-elements",
+   "metacritic": "crazy-machines-elements",
    "mobygames": "51895",
    "pcgamingwiki": "Crazy_Machines_Elements",
    "steam": "206410"
@@ -767,6 +775,7 @@
   "ids": {
    "howlongtobeat": "13524",
    "igdb": "super-splatters",
+   "metacritic": "super-splatters",
    "mobygames": "92825",
    "pcgamingwiki": "Super_Splatters",
    "steam": "95000"
@@ -826,6 +835,7 @@
   "ids": {
    "howlongtobeat": "170105",
    "igdb": "a-tithe-in-blood",
+   "metacritic": "a-tithe-in-blood",
    "steam": "2989270"
   },
   "label_en": "A Tithe in Blood",

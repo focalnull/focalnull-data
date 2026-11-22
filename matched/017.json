@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "451",
    "igdb": "analogue-a-hate-story",
+   "metacritic": "analogue-a-hate-story",
    "mobygames": "63759",
    "pcgamingwiki": "Analogue:_A_Hate_Story",
    "steam": "209370"
@@ -59,6 +60,7 @@
   "ids": {
    "howlongtobeat": "10412",
    "igdb": "tokobot",
+   "metacritic": "tokobot",
    "mobygames": "34715"
   },
   "label_en": "Tokobot",
@@ -69,6 +71,7 @@
   "ids": {
    "howlongtobeat": "22964",
    "igdb": "bet-on-soldier-blood-sport",
+   "metacritic": "bet-on-soldier-blood-sport",
    "mobygames": "19391",
    "pcgamingwiki": "Bet_on_Soldier:_Blood_Sport",
    "steam": "335320"
@@ -89,6 +92,7 @@
   "ids": {
    "gog": "game/corsairs_gold",
    "igdb": "corsairs-gold",
+   "metacritic": "corsairs-conquest-at-sea",
    "mobygames": "2022",
    "pcgamingwiki": "Corsairs:_Conquest_at_Sea"
   },
@@ -99,6 +103,7 @@
   "enwiki": "Medieval Lords: Build, Defend, Expand",
   "ids": {
    "igdb": "medieval-lords-build-defend-expand",
+   "metacritic": "medieval-lords-build-defend-expand",
    "mobygames": "15696",
    "pcgamingwiki": "Medieval_Lords:_Build,_Defend,_Expand"
   },
@@ -156,6 +161,7 @@
   "enwiki": "Gravitronix",
   "ids": {
    "igdb": "gravitronix",
+   "metacritic": "gravitronix",
    "mobygames": "91132"
   },
   "label_en": "Gravitronix",
@@ -212,6 +218,7 @@
   "ids": {
    "howlongtobeat": "17291",
    "igdb": "metal-gear-solid-v-ground-zeroes",
+   "metacritic": "metal-gear-solid-v-ground-zeroes",
    "mobygames": "64533",
    "pcgamingwiki": "Metal_Gear_Solid_V:_Ground_Zeroes",
    "steam": "311340"
@@ -243,6 +250,7 @@
   "ids": {
    "howlongtobeat": "38891",
    "igdb": "the-turing-test",
+   "metacritic": "the-turing-test",
    "mobygames": "92668",
    "pcgamingwiki": "The_Turing_Test",
    "steam": "499520"
@@ -255,6 +263,7 @@
   "ids": {
    "howlongtobeat": "55535",
    "igdb": "sometimes-always-monsters",
+   "metacritic": "sometimes-always-monsters",
    "mobygames": "190123",
    "pcgamingwiki": "Sometimes_Always_Monsters",
    "steam": "441440"
@@ -317,6 +326,7 @@
   "ids": {
    "howlongtobeat": "26424",
    "igdb": "temper-tantrum",
+   "metacritic": "temper-tantrum",
    "mobygames": "144019",
    "pcgamingwiki": "Temper_Tantrum",
    "steam": "373110"
@@ -326,7 +336,8 @@
  },
  {
   "ids": {
-   "igdb": "shin-megami-tensei-devil-survivor-overclocked"
+   "igdb": "shin-megami-tensei-devil-survivor-overclocked",
+   "metacritic": "shin-megami-tensei-devil-survivor-overclocked"
   },
   "label_en": "Shin Megami Tensei: Devil Survivor Overclocked",
   "wikidata": "Q63226017"
@@ -343,6 +354,7 @@
   "enwiki": "Amplitude (2016 video game)",
   "ids": {
    "igdb": "amplitude--1",
+   "metacritic": "amplitude",
    "mobygames": "78146"
   },
   "label_en": "Amplitude",
@@ -364,6 +376,7 @@
    "gog": "game/tesla_force",
    "howlongtobeat": "83183",
    "igdb": "tesla-force--1",
+   "metacritic": "tesla-force",
    "mobygames": "148971",
    "pcgamingwiki": "Tesla_Force",
    "steam": "1149710"
@@ -399,6 +412,7 @@
   "ids": {
    "howlongtobeat": "43900",
    "igdb": "zup-4",
+   "metacritic": "zup-4",
    "mobygames": "103490",
    "pcgamingwiki": "Zup!_4",
    "steam": "591420"
@@ -434,6 +448,7 @@
   "ids": {
    "howlongtobeat": "48363",
    "igdb": "original-journey",
+   "metacritic": "original-journey",
    "mobygames": "102575",
    "pcgamingwiki": "Original_Journey",
    "steam": "639470"
@@ -465,6 +480,7 @@
   "ids": {
    "howlongtobeat": "113544",
    "igdb": "fae-farm",
+   "metacritic": "fae-farm",
    "mobygames": "208431",
    "steam": "2230110"
   },
@@ -500,6 +516,7 @@
  },
  {
   "ids": {
+   "metacritic": "thegarden",
    "steam": "1364940"
   },
   "label_en": "TheGarden",
@@ -541,6 +558,7 @@
    "howlongtobeat": "150489",
    "igdb": "reus-2",
    "mobygames": "224840",
+   "pcgamingwiki": "Reus_2",
    "steam": "1875060"
   },
   "label_en": "Reus 2",
@@ -865,6 +883,7 @@
   "ids": {
    "howlongtobeat": "31727",
    "igdb": "rogue-state",
+   "metacritic": "rogue-state",
    "mobygames": "82543",
    "pcgamingwiki": "Rogue_State",
    "steam": "396090"
@@ -911,6 +930,7 @@
    "gog": "game/kingdoms_of_amalur_rereckoning",
    "howlongtobeat": "79015",
    "igdb": "kingdoms-of-amalur-re-reckoning",
+   "metacritic": "kingdoms-of-amalur-re-reckoning",
    "mobygames": "150309",
    "pcgamingwiki": "Kingdoms_of_Amalur:_Re-Reckoning",
    "steam": "1041720"

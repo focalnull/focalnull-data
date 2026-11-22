@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8290",
    "igdb": "sega-rally-revo",
+   "metacritic": "sega-rally-revo",
    "mobygames": "30449",
    "pcgamingwiki": "Sega_Rally_Revo"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "2541",
    "igdb": "digimon-world-3",
+   "metacritic": "digimon-world-3",
    "mobygames": "30886"
   },
   "label_en": "Digimon World 3",
@@ -50,6 +52,7 @@
    "gog": "game/earth_2160",
    "howlongtobeat": "3030",
    "igdb": "earth-2160",
+   "metacritic": "earth-2160",
    "mobygames": "18726",
    "pcgamingwiki": "Earth_2160",
    "steam": "1900"
@@ -78,6 +81,7 @@
   "ids": {
    "howlongtobeat": "18260",
    "igdb": "mobile-suit-gundam-gundam-vs-zeta-gundam",
+   "metacritic": "mobile-suit-gundam-gundam-vs-zeta-gundam",
    "mobygames": "35159"
   },
   "label_en": "Mobile Suit Gundam: Gundam vs. Zeta Gundam",
@@ -88,6 +92,7 @@
   "ids": {
    "howlongtobeat": "5320",
    "igdb": "little-deviants",
+   "metacritic": "little-deviants",
    "mobygames": "83436"
   },
   "label_en": "Little Deviants",
@@ -107,6 +112,7 @@
   "ids": {
    "howlongtobeat": "2021",
    "igdb": "crimson-alliance",
+   "metacritic": "crimson-alliance",
    "mobygames": "124032"
   },
   "label_en": "Crimson Alliance",
@@ -127,6 +133,7 @@
   "ids": {
    "howlongtobeat": "5221",
    "igdb": "legasista",
+   "metacritic": "legasista",
    "mobygames": "88942"
   },
   "label_en": "Legasista",
@@ -147,6 +154,7 @@
   "ids": {
    "howlongtobeat": "5440",
    "igdb": "lunar-legend",
+   "metacritic": "lunar-legend",
    "mobygames": "14060"
   },
   "label_en": "Lunar Legend",
@@ -203,6 +211,7 @@
   "ids": {
    "howlongtobeat": "4628",
    "igdb": "imagine-animal-doctor",
+   "metacritic": "imagine-animal-doctor",
    "mobygames": "33177"
   },
   "label_en": "Imagine: Animal Doctor",
@@ -229,6 +238,7 @@
   "ids": {
    "howlongtobeat": "29931",
    "igdb": "sword-coast-legends",
+   "metacritic": "sword-coast-legends",
    "mobygames": "82274",
    "pcgamingwiki": "Sword_Coast_Legends",
    "steam": "325600"
@@ -248,6 +258,7 @@
   "ids": {
    "howlongtobeat": "57795",
    "igdb": "life-is-strange-2",
+   "metacritic": "life-is-strange-2",
    "mobygames": "110842",
    "pcgamingwiki": "Life_Is_Strange_2",
    "steam": "532210"
@@ -261,6 +272,7 @@
    "epic": "shadow-of-the-tomb-raider",
    "howlongtobeat": "51233",
    "igdb": "shadow-of-the-tomb-raider",
+   "metacritic": "shadow-of-the-tomb-raider",
    "mobygames": "112862",
    "pcgamingwiki": "Shadow_of_the_Tomb_Raider",
    "steam": "750920"
@@ -272,6 +284,7 @@
   "ids": {
    "howlongtobeat": "76739",
    "igdb": "bow-to-blood",
+   "metacritic": "bow-to-blood",
    "mobygames": "112791",
    "pcgamingwiki": "Bow_to_Blood:_Last_Captain_Standing",
    "steam": "956500"
@@ -286,6 +299,7 @@
    "gog": "game/wrath_aeon_of_ruin",
    "howlongtobeat": "65476",
    "igdb": "wrath-aeon-of-ruin",
+   "metacritic": "wrath-aeon-of-ruin",
    "mobygames": "124081",
    "pcgamingwiki": "Wrath:_Aeon_of_Ruin",
    "steam": "1000410"
@@ -297,6 +311,7 @@
   "ids": {
    "howlongtobeat": "20",
    "igdb": "dot-hack-slash-slash-g-dot-u-vol-2-reminisce",
+   "metacritic": "hackgu-vol-2reminisce",
    "mobygames": "33604"
   },
   "label_en": ".hack//G.U. Vol. 2//Reminisce",
@@ -319,6 +334,7 @@
    "gog": "game/grim_legends_the_forsaken_bride",
    "howlongtobeat": "20045",
    "igdb": "grim-legends-the-forsaken-bride",
+   "metacritic": "grim-legends-the-forsaken-bride",
    "mobygames": "77890",
    "pcgamingwiki": "Grim_Legends:_The_Forsaken_Bride",
    "steam": "284850"
@@ -331,6 +347,7 @@
   "ids": {
    "howlongtobeat": "53627",
    "igdb": "part-time-ufo",
+   "metacritic": "part-time-ufo",
    "mobygames": "104247"
   },
   "label_en": "Part Time UFO",
@@ -662,7 +679,8 @@
  },
  {
   "ids": {
-   "igdb": "fragrance-tale"
+   "igdb": "fragrance-tale",
+   "metacritic": "fragrance-tale"
   },
   "label_en": "Fragrance Tale",
   "wikidata": "Q123989677"
@@ -683,6 +701,7 @@
   "ids": {
    "howlongtobeat": "46999",
    "igdb": "64-dot-0",
+   "metacritic": "640",
    "mobygames": "86550",
    "pcgamingwiki": "64.0",
    "steam": "578850"
@@ -857,7 +876,8 @@
  },
  {
   "ids": {
-   "igdb": "tested-with-robots"
+   "igdb": "tested-with-robots",
+   "metacritic": "tested-with-robots"
   },
   "label_en": "Tested with robots !",
   "wikidata": "Q131243677"
@@ -875,6 +895,7 @@
   "ids": {
    "howlongtobeat": "169134",
    "igdb": "nioh-3",
+   "metacritic": "nioh-3",
    "mobygames": "254690",
    "pcgamingwiki": "Nioh_3",
    "steam": "3681010"

@@ -21,6 +21,7 @@
   "ids": {
    "howlongtobeat": "5633",
    "igdb": "mario-kart-64",
+   "metacritic": "mario-kart-64",
    "mobygames": "3535"
   },
   "label_en": "Mario Kart 64",
@@ -47,6 +48,7 @@
   "enwiki": "Cartoon Network: Punch Time Explosion",
   "ids": {
    "igdb": "cartoon-network-punch-time-explosion",
+   "metacritic": "cartoon-network-punch-time-explosion-xl",
    "mobygames": "88024"
   },
   "label_en": "Cartoon Network: Punch Time Explosion",
@@ -57,6 +59,7 @@
   "ids": {
    "howlongtobeat": "1405",
    "igdb": "burnout-3-takedown",
+   "metacritic": "burnout-3-takedown",
    "mobygames": "14831"
   },
   "label_en": "Burnout 3: Takedown",
@@ -66,6 +69,7 @@
   "enwiki": "V-Rally 2",
   "ids": {
    "igdb": "need-for-speed-v-rally-2--1",
+   "metacritic": "test-drive-v-rally",
    "mobygames": "7016",
    "pcgamingwiki": "V-Rally_2_Expert_Edition"
   },
@@ -102,6 +106,7 @@
   "enwiki": "Dance Dance Revolution: Disney Channel Edition",
   "ids": {
    "igdb": "dance-dance-revolution-disney-channel-edition",
+   "metacritic": "dance-dance-revolution-disney-channel-edition",
    "mobygames": "32683"
   },
   "label_en": "Dance Dance Revolution Disney Channel Edition",
@@ -149,6 +154,7 @@
   "ids": {
    "epic": "dragon-throne-battle-of-red-cliffs-44ba6b",
    "igdb": "dragon-throne-battle-of-red-cliffs",
+   "metacritic": "dragon-throne-battle-of-red-cliffs",
    "mobygames": "15833",
    "pcgamingwiki": "Dragon_Throne:_Battle_of_Red_Cliffs",
    "steam": "2633500"
@@ -177,6 +183,7 @@
   "enwiki": "F-Zero: GP Legend",
   "ids": {
    "igdb": "f-zero-gp-legend",
+   "metacritic": "f-zero-gp-legend",
    "mobygames": "15753"
   },
   "label_en": "F-Zero: GP Legend",
@@ -215,6 +222,7 @@
   "enwiki": "Night at the Museum: Battle of the Smithsonian (video game)",
   "ids": {
    "igdb": "night-at-the-museum-battle-of-the-smithsonian-the-video-game",
+   "metacritic": "night-at-the-museum-battle-of-the-smithsonian",
    "mobygames": "89615",
    "pcgamingwiki": "Night_at_the_Museum:_Battle_of_the_Smithsonian"
   },
@@ -253,6 +261,7 @@
    "gog": "game/stealth_bastard_deluxe_complete_edition",
    "howlongtobeat": "9193",
    "igdb": "stealth-bastard-deluxe",
+   "metacritic": "stealth-bastard-deluxe",
    "mobygames": "72191",
    "pcgamingwiki": "Stealth_Bastard_Deluxe",
    "steam": "209190"
@@ -318,6 +327,7 @@
    "epic": "a-good-snowman-is-hard-to-build",
    "howlongtobeat": "24976",
    "igdb": "a-good-snowman-is-hard-to-build",
+   "metacritic": "a-good-snowman-is-hard-to-build",
    "mobygames": "85166",
    "pcgamingwiki": "A_Good_Snowman_Is_Hard_to_Build",
    "steam": "316610"
@@ -364,6 +374,7 @@
   "ids": {
    "howlongtobeat": "70075",
    "igdb": "the-dark-pictures-anthology-little-hope",
+   "metacritic": "the-dark-pictures-anthology-little-hope",
    "mobygames": "152257",
    "pcgamingwiki": "Little_Hope",
    "steam": "1194630"
@@ -395,6 +406,7 @@
    "gog": "game/eastward",
    "howlongtobeat": "45165",
    "igdb": "eastward",
+   "metacritic": "eastward",
    "mobygames": "172326",
    "pcgamingwiki": "Eastward",
    "steam": "977880"
@@ -490,6 +502,7 @@
   "ids": {
    "howlongtobeat": "129268",
    "igdb": "five-nights-at-freddys-help-wanted-2",
+   "metacritic": "five-nights-at-freddys-help-wanted-2",
    "mobygames": "213898",
    "pcgamingwiki": "Five_Nights_at_Freddy's:_Help_Wanted_2",
    "steam": "2287520"
@@ -501,6 +514,7 @@
   "ids": {
    "howlongtobeat": "113270",
    "igdb": "patch-quest",
+   "metacritic": "patch-quest",
    "mobygames": "200048",
    "pcgamingwiki": "Patch_Quest",
    "steam": "1347970"
@@ -758,7 +772,8 @@
  },
  {
   "ids": {
-   "igdb": "pacewar"
+   "igdb": "pacewar",
+   "metacritic": "pacewar"
   },
   "label_en": "Pacewar",
   "wikidata": "Q122898604"
@@ -939,6 +954,7 @@
  {
   "ids": {
    "igdb": "ectoplaza",
+   "metacritic": "ectoplaza",
    "mobygames": "91239"
   },
   "label_en": "Ectoplaza",
@@ -960,6 +976,7 @@
   "ids": {
    "howlongtobeat": "34418",
    "igdb": "sorcery-parts-1-and-2",
+   "metacritic": "sorcery-parts-1-and-2",
    "mobygames": "89700",
    "pcgamingwiki": "Sorcery!_Parts_1_and_2",
    "steam": "411000"
@@ -1247,6 +1264,7 @@
  {
   "ids": {
    "igdb": "h-rescue",
+   "pcgamingwiki": "H-Rescue",
    "steam": "1058530"
   },
   "label_en": "H-Rescue",

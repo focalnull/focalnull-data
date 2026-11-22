@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8824",
    "igdb": "soulcalibur-iv",
+   "metacritic": "soulcalibur-iv",
    "mobygames": "35422"
   },
   "label_en": "Soulcalibur IV",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "10681",
    "igdb": "true-crime-streets-of-la",
+   "metacritic": "true-crime-streets-of-la",
    "mobygames": "10894",
    "pcgamingwiki": "True_Crime:_Streets_of_LA"
   },
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "25331",
    "igdb": "hellboy-dogs-of-the-night",
+   "metacritic": "hellboy-asylum-seeker",
    "mobygames": "5560",
    "pcgamingwiki": "Hellboy:_Dogs_of_the_Night"
   },
@@ -47,6 +50,7 @@
   "ids": {
    "howlongtobeat": "5813",
    "igdb": "mega-man-legends",
+   "metacritic": "mega-man-64",
    "mobygames": "3322",
    "pcgamingwiki": "Mega_Man_Legends"
   },
@@ -65,7 +69,8 @@
   "enwiki": "Gangstar Rio: City of Saints",
   "ids": {
    "howlongtobeat": "36770",
-   "igdb": "gangstar-rio-city-of-saints"
+   "igdb": "gangstar-rio-city-of-saints",
+   "metacritic": "gangstar-rio-city-of-saints"
   },
   "label_en": "Gangstar Rio: City of Saints",
   "wikidata": "Q3285262"
@@ -92,7 +97,8 @@
  {
   "enwiki": "Dragon Rage",
   "ids": {
-   "igdb": "dragon-rage--1"
+   "igdb": "dragon-rage--1",
+   "metacritic": "dragon-rage-2001"
   },
   "label_en": "Dragon Rage",
   "wikidata": "Q5305262"
@@ -253,6 +259,7 @@
   "ids": {
    "howlongtobeat": "126395",
    "igdb": "canadian-football-2017",
+   "metacritic": "canadian-football-2017",
    "mobygames": "205734",
    "pcgamingwiki": "Canadian_Football_2017",
    "steam": "664650"
@@ -271,6 +278,7 @@
    "gog": "game/the_first_tree",
    "howlongtobeat": "49102",
    "igdb": "the-first-tree",
+   "metacritic": "the-first-tree",
    "mobygames": "117308",
    "pcgamingwiki": "The_First_Tree",
    "steam": "555150"
@@ -306,6 +314,7 @@
   "ids": {
    "howlongtobeat": "47451",
    "igdb": "out-of-the-park-baseball-18",
+   "metacritic": "out-of-the-park-baseball-18",
    "mobygames": "86011",
    "pcgamingwiki": "Out_of_the_Park_Baseball_18",
    "steam": "465650"
@@ -394,6 +403,7 @@
    "howlongtobeat": "107831",
    "igdb": "ultimate-epic-battle-simulator-2--1",
    "mobygames": "206200",
+   "pcgamingwiki": "Ultimate_Epic_Battle_Simulator_2",
    "steam": "1468720"
   },
   "label_en": "Ultimate Epic Battle Simulator 2",
@@ -1111,6 +1121,7 @@
  {
   "ids": {
    "igdb": "classic-card-games-3d",
+   "pcgamingwiki": "Classic_Card_Games_3D",
    "steam": "941920"
   },
   "label_en": "Classic Card Games 3D",

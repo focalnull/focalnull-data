@@ -2,7 +2,8 @@
  {
   "enwiki": "Yosuga no Sora",
   "ids": {
-   "igdb": "yosuga-no-sora--1"
+   "igdb": "yosuga-no-sora--1",
+   "metacritic": "yosuga-no-sora"
   },
   "label_en": "Yosuga no Sora",
   "wikidata": "Q1202075"
@@ -23,6 +24,7 @@
    "gog": "game/europa_universalis_iv",
    "howlongtobeat": "13304",
    "igdb": "europa-universalis-iv",
+   "metacritic": "europa-universalis-iv",
    "mobygames": "62023",
    "pcgamingwiki": "Europa_Universalis_IV",
    "steam": "236850"
@@ -63,6 +65,7 @@
   "enwiki": "Shaman King: Power of Spirit",
   "ids": {
    "igdb": "shaman-king-power-of-spirit",
+   "metacritic": "shaman-king-power-of-spirit",
    "mobygames": "15944"
   },
   "label_en": "Shaman King: Power of Spirit",
@@ -130,6 +133,7 @@
   "enwiki": "RocketBowl",
   "ids": {
    "igdb": "rocketbowl",
+   "metacritic": "rocketbowl",
    "mobygames": "16788"
   },
   "label_en": "RocketBowl",
@@ -147,6 +151,7 @@
   "ids": {
    "howlongtobeat": "55566",
    "igdb": "shining-resonance-refrain",
+   "metacritic": "shining-resonance-refrain",
    "mobygames": "109675",
    "pcgamingwiki": "Shining_Resonance_Refrain",
    "steam": "809890"
@@ -197,6 +202,7 @@
   "enwiki": "Your Shape: Fitness Evolved 2013",
   "ids": {
    "igdb": "your-shape-fitness-evolved-2013",
+   "metacritic": "your-shape-fitness-evolved-2013",
    "mobygames": "84971"
   },
   "label_en": "Your Shape: Fitness Evolved 2013",
@@ -206,6 +212,7 @@
   "enwiki": "Pokémon Sun",
   "ids": {
    "igdb": "pokemon-sun",
+   "metacritic": "pokemon-sun",
    "mobygames": "81798"
   },
   "label_en": "Pokémon Sun",
@@ -221,6 +228,7 @@
    "gog": "game/lovely_planet",
    "howlongtobeat": "20214",
    "igdb": "lovely-planet",
+   "metacritic": "lovely-planet",
    "mobygames": "72637",
    "pcgamingwiki": "Lovely_Planet",
    "steam": "298600"
@@ -247,6 +255,7 @@
  {
   "ids": {
    "igdb": "grid-gunner",
+   "metacritic": "grid-gunner",
    "pcgamingwiki": "Grid_Gunner",
    "steam": "898170"
   },
@@ -264,6 +273,7 @@
    "gog": "game/there_is_no_game_wrong_dimension",
    "howlongtobeat": "81637",
    "igdb": "there-is-no-game-wrong-dimension",
+   "metacritic": "there-is-no-game-wrong-dimension",
    "mobygames": "149044",
    "pcgamingwiki": "There_Is_No_Game:_Wrong_Dimension",
    "steam": "1240210"
@@ -361,6 +371,7 @@
    "epic": "stranded-alien-dawn",
    "howlongtobeat": "113020",
    "igdb": "stranded-alien-dawn",
+   "metacritic": "stranded-alien-dawn",
    "mobygames": "193340",
    "pcgamingwiki": "Stranded:_Alien_Dawn",
    "steam": "1324130"
@@ -375,6 +386,7 @@
    "gog": "game/amnesia_the_bunker",
    "howlongtobeat": "117559",
    "igdb": "amnesia-the-bunker",
+   "metacritic": "amnesia-the-bunker",
    "mobygames": "204084",
    "pcgamingwiki": "Amnesia:_The_Bunker",
    "steam": "1944430"
@@ -558,6 +570,7 @@
   "ids": {
    "howlongtobeat": "94201",
    "igdb": "fire-tonight",
+   "metacritic": "fire-tonight",
    "mobygames": "169297",
    "steam": "1188900"
   },
@@ -655,7 +668,8 @@
  {
   "enwiki": "C-Smash VRS",
   "ids": {
-   "igdb": "c-smash-vrs"
+   "igdb": "c-smash-vrs",
+   "metacritic": "c-smash-vrs"
   },
   "label_en": "C-Smash VRS",
   "wikidata": "Q123059075"
@@ -834,6 +848,7 @@
    "gog": "game/transport_fever_3",
    "howlongtobeat": "168488",
    "igdb": "transport-fever-3",
+   "metacritic": "transport-fever-3",
    "pcgamingwiki": "Transport_Fever_3",
    "steam": "3493540"
   },
@@ -1128,6 +1143,7 @@
  {
   "ids": {
    "igdb": "nightshift-legacy-the-jaguars-eye",
+   "pcgamingwiki": "Nightshift_Legacy:_The_Jaguar's_Eye",
    "steam": "37330"
   },
   "label_en": "Nightshift Legacy: The Jaguar's Eye™",
@@ -1146,6 +1162,7 @@
   "ids": {
    "howlongtobeat": "173224",
    "igdb": "cold-stone-creamery-scoop-it-up",
+   "metacritic": "cold-stone-creamery-scoop-it-up",
    "mobygames": "90686"
   },
   "label_en": "Cold Stone Creamery: Scoop It Up",
@@ -1158,6 +1175,7 @@
  {
   "ids": {
    "igdb": "congratulations-on-your-purchase",
+   "pcgamingwiki": "Congratulations_On_Your_Purchase",
    "steam": "4693030"
   },
   "label_en": "Congratulations On Your Purchase",

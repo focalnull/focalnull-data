@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10669",
    "igdb": "tron-evolution",
+   "metacritic": "tron-evolution",
    "mobygames": "50420",
    "pcgamingwiki": "Tron:_Evolution"
   },
@@ -24,6 +25,7 @@
    "gog": "game/just_cause",
    "howlongtobeat": "4904",
    "igdb": "just-cause",
+   "metacritic": "just-cause",
    "mobygames": "24152",
    "pcgamingwiki": "Just_Cause",
    "steam": "6880"
@@ -35,6 +37,7 @@
   "enwiki": "Daxter (video game)",
   "ids": {
    "igdb": "daxter",
+   "metacritic": "daxter",
    "mobygames": "21640"
   },
   "label_en": "Daxter",
@@ -55,6 +58,7 @@
   "ids": {
    "howlongtobeat": "8380",
    "igdb": "shank-2",
+   "metacritic": "shank-2",
    "mobygames": "55474",
    "pcgamingwiki": "Shank_2",
    "steam": "102840"
@@ -90,6 +94,7 @@
   "enwiki": "Kinectimals",
   "ids": {
    "igdb": "kinectimals",
+   "metacritic": "kinectimals",
    "mobygames": "49013"
   },
   "label_en": "Kinectimals",
@@ -126,6 +131,7 @@
   "ids": {
    "howlongtobeat": "4188",
    "igdb": "gumboy-crazy-adventures--1",
+   "metacritic": "gumboy-crazy-adventures",
    "mobygames": "42246",
    "pcgamingwiki": "Gumboy:_Crazy_Adventures",
    "steam": "2520"
@@ -197,6 +203,7 @@
   "enwiki": "Spartacus Legends",
   "ids": {
    "igdb": "spartacus-legends",
+   "metacritic": "spartacus-legends",
    "mobygames": "61135"
   },
   "label_en": "Spartacus Legends",
@@ -206,6 +213,7 @@
   "ids": {
    "howlongtobeat": "426",
    "igdb": "americas-army-3",
+   "metacritic": "americas-army-3",
    "mobygames": "42493",
    "pcgamingwiki": "America's_Army_3",
    "steam": "13140"
@@ -218,6 +226,7 @@
   "ids": {
    "howlongtobeat": "40239",
    "igdb": "pro-evolution-soccer-2017",
+   "metacritic": "pro-evolution-soccer-2017",
    "mobygames": "80933",
    "pcgamingwiki": "Pro_Evolution_Soccer_2017",
    "steam": "456610"
@@ -229,6 +238,7 @@
   "enwiki": "The King of Fighters EX: Neo Blood",
   "ids": {
    "igdb": "the-king-of-fighters-ex-neo-blood",
+   "metacritic": "the-king-of-fighters-ex-neo-blood",
    "mobygames": "20601"
   },
   "label_en": "The King of Fighters EX: Neo Blood",
@@ -239,6 +249,7 @@
   "ids": {
    "howlongtobeat": "77679",
    "igdb": "cleopatra-riddle-of-the-tomb",
+   "metacritic": "cleopatra-riddle-of-the-tomb",
    "mobygames": "28655"
   },
   "label_en": "Cleopatra: Riddle of the Tomb",
@@ -253,6 +264,7 @@
   "ids": {
    "howlongtobeat": "40313",
    "igdb": "i-and-me",
+   "metacritic": "i-and-me",
    "mobygames": "92498",
    "pcgamingwiki": "I_and_Me",
    "steam": "399600"
@@ -300,6 +312,7 @@
   "ids": {
    "howlongtobeat": "18848",
    "igdb": "soul-gambler",
+   "metacritic": "soul-gambler",
    "mobygames": "125211",
    "pcgamingwiki": "Soul_Gambler",
    "steam": "313020"
@@ -319,6 +332,7 @@
   "ids": {
    "howlongtobeat": "20355",
    "igdb": "war-in-a-box-paper-tanks",
+   "metacritic": "war-in-a-box-paper-tanks",
    "mobygames": "70420",
    "pcgamingwiki": "War_in_a_Box:_Paper_Tanks",
    "steam": "308460"

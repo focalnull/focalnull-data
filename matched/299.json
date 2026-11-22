@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "9807",
    "igdb": "the-chronicles-of-riddick-assault-on-dark-athena",
+   "metacritic": "the-chronicles-of-riddick-assault-on-dark-athena",
    "mobygames": "40540",
    "pcgamingwiki": "The_Chronicles_of_Riddick:_Assault_on_Dark_Athena",
    "steam": "9860"
@@ -67,6 +68,7 @@
   "ids": {
    "howlongtobeat": "9457",
    "igdb": "super-stardust-hd",
+   "metacritic": "super-stardust-hd",
    "mobygames": "33240"
   },
   "label_en": "Super Stardust HD",
@@ -84,6 +86,7 @@
   "enwiki": "Trainz Railway Simulator 2006",
   "ids": {
    "igdb": "trainz-railroad-simulator-2006",
+   "metacritic": "trainz-railroad-simulator-2006",
    "mobygames": "39431",
    "pcgamingwiki": "Trainz_Railroad_Simulator_2006"
   },
@@ -120,6 +123,7 @@
   "enwiki": "Super Dodgeball Brawlers",
   "ids": {
    "igdb": "super-dodgeball-brawlers",
+   "metacritic": "super-dodgeball-brawlers",
    "mobygames": "34435"
   },
   "label_en": "Super Dodgeball Brawlers",
@@ -138,6 +142,7 @@
   "enwiki": "The Grinch (video game)",
   "ids": {
    "igdb": "the-grinch",
+   "metacritic": "the-grinch",
    "mobygames": "2978",
    "pcgamingwiki": "The_Grinch"
   },
@@ -149,6 +154,7 @@
   "ids": {
    "howlongtobeat": "25117",
    "igdb": "wwii-aces",
+   "metacritic": "wwii-aces",
    "mobygames": "88528"
   },
   "label_en": "WWII Aces",
@@ -275,6 +281,7 @@
   "ids": {
    "howlongtobeat": "70636",
    "igdb": "mass-builder",
+   "metacritic": "mass-builder",
    "mobygames": "174759",
    "pcgamingwiki": "M.A.S.S._Builder",
    "steam": "956680"
@@ -286,6 +293,7 @@
   "ids": {
    "howlongtobeat": "625",
    "igdb": "around-the-world-in-80-days--1",
+   "metacritic": "hidden-object-around-the-world-in-80-days",
    "mobygames": "98877",
    "pcgamingwiki": "Hidden_Object:_Around_the_World_in_80_Days",
    "steam": "736860"
@@ -717,6 +725,7 @@
   "ids": {
    "howlongtobeat": "2593",
    "igdb": "disgaea-2-pc",
+   "metacritic": "disgaea-2-pc",
    "mobygames": "62766",
    "pcgamingwiki": "Disgaea_2_PC",
    "steam": "495280"
@@ -728,6 +737,7 @@
   "ids": {
    "howlongtobeat": "15144",
    "igdb": "block-zombies",
+   "metacritic": "block-zombies",
    "mobygames": "91240"
   },
   "label_en": "Block Zombies!",
@@ -760,7 +770,8 @@
  {
   "ids": {
    "howlongtobeat": "153432",
-   "igdb": "frenzies"
+   "igdb": "frenzies",
+   "metacritic": "frenzies"
   },
   "label_en": "Frenzies",
   "wikidata": "Q127357299"
@@ -1136,6 +1147,8 @@
   "ids": {
    "epic": "chicken-run-eggstraction-7d6ea3",
    "igdb": "chicken-run-eggstraction",
+   "metacritic": "chicken-run-eggstraction",
+   "pcgamingwiki": "Chicken_Run:_Eggstraction",
    "steam": "3419690"
   },
   "label_en": "Chicken Run: Eggstraction",

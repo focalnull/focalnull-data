@@ -23,6 +23,7 @@
   "enwiki": "Makai Kingdom: Chronicles of the Sacred Tome",
   "ids": {
    "igdb": "makai-kingdom-chronicles-of-the-sacred-tome",
+   "metacritic": "makai-kingdom-chronicles-of-the-sacred-tome",
    "mobygames": "22018"
   },
   "label_en": "Makai Kingdom: Chronicles of the Sacred Tome",
@@ -49,6 +50,7 @@
  {
   "ids": {
    "igdb": "seven-kingdoms-conquest",
+   "metacritic": "seven-kingdoms-conquest",
    "mobygames": "34643",
    "pcgamingwiki": "Seven_Kingdoms:_Conquest"
   },
@@ -109,6 +111,7 @@
   "ids": {
    "howlongtobeat": "12965",
    "igdb": "the-legend-of-zelda-a-link-between-worlds",
+   "metacritic": "the-legend-of-zelda-a-link-between-worlds",
    "mobygames": "62785"
   },
   "label_en": "The Legend of Zelda: A Link Between Worlds",
@@ -121,6 +124,7 @@
    "gog": "game/evoland",
    "howlongtobeat": "3250",
    "igdb": "evoland",
+   "metacritic": "evoland",
    "mobygames": "60925",
    "pcgamingwiki": "Evoland",
    "steam": "233470"
@@ -164,6 +168,7 @@
    "gog": "game/californium",
    "howlongtobeat": "34684",
    "igdb": "californium",
+   "metacritic": "californium",
    "mobygames": "79629",
    "pcgamingwiki": "Californium",
    "steam": "402060"
@@ -181,6 +186,7 @@
    "gog": "game/death_squared",
    "howlongtobeat": "47424",
    "igdb": "death-squared",
+   "metacritic": "death-squared",
    "mobygames": "85319",
    "pcgamingwiki": "Death_Squared",
    "steam": "471810"
@@ -199,7 +205,9 @@
  {
   "ids": {
    "igdb": "pile-of-cards",
-   "mobygames": "110147"
+   "metacritic": "pile-of-cards",
+   "mobygames": "110147",
+   "pcgamingwiki": "Pile_of_Cards"
   },
   "label_en": "Pile of Cards",
   "wikidata": "Q55091470"
@@ -210,6 +218,7 @@
    "gog": "game/gibbous_a_cthulhu_adventure",
    "howlongtobeat": "69609",
    "igdb": "gibbous-a-cthulhu-adventure",
+   "metacritic": "gibbous-a-cthulhu-adventure",
    "mobygames": "132092",
    "pcgamingwiki": "Gibbous_-_A_Cthulhu_Adventure",
    "steam": "914020"
@@ -252,6 +261,7 @@
    "gog": "game/steamworld_quest_hand_of_gilgamech",
    "howlongtobeat": "66603",
    "igdb": "steamworld-quest-hand-of-gilgamech",
+   "metacritic": "steamworld-quest-hand-of-gilgamech",
    "mobygames": "124060",
    "pcgamingwiki": "SteamWorld_Quest:_Hand_of_Gilgamech",
    "steam": "804010"
@@ -263,6 +273,7 @@
   "ids": {
    "howlongtobeat": "67329",
    "igdb": "granny",
+   "metacritic": "granny",
    "mobygames": "114231",
    "pcgamingwiki": "Granny",
    "steam": "962400"
@@ -309,6 +320,7 @@
   "ids": {
    "howlongtobeat": "77979",
    "igdb": "pga-tour-2k21",
+   "metacritic": "pga-tour-2k21",
    "mobygames": "149546",
    "pcgamingwiki": "PGA_Tour_2K21",
    "steam": "1016120"
@@ -381,6 +393,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-6",
+   "metacritic": "vacation-adventures-park-ranger-6",
    "steam": "1655850"
   },
   "label_en": "Vacation Adventures: Park Ranger 6",
@@ -418,6 +431,7 @@
   "ids": {
    "howlongtobeat": "21497",
    "igdb": "battle-academy-2-eastern-front",
+   "metacritic": "battle-academy-2",
    "mobygames": "68827",
    "pcgamingwiki": "Battle_Academy_2:_Eastern_Front",
    "steam": "306640"
@@ -443,6 +457,7 @@
  {
   "ids": {
    "igdb": "glory-to-the-heroes",
+   "pcgamingwiki": "Glory_of_the_Heroes",
    "steam": "2239670"
   },
   "label_en": "Glory to the Heroes",
@@ -556,6 +571,7 @@
   "ids": {
    "howlongtobeat": "86635",
    "igdb": "star-drift-evolution",
+   "metacritic": "star-drift-evolution",
    "mobygames": "152396",
    "pcgamingwiki": "Star_Drift_Evolution",
    "steam": "1005400"
@@ -628,6 +644,7 @@
    "gog": "game/batbarian_testament_of_the_primordials",
    "howlongtobeat": "84071",
    "igdb": "batbarian-testament-of-the-primordials",
+   "metacritic": "batbarian-testament-of-the-primordials",
    "mobygames": "151098",
    "pcgamingwiki": "Batbarian:_Testament_of_the_Primordials",
    "steam": "837460"
@@ -717,6 +734,7 @@
    "epic": "sker-ritual-aac702",
    "howlongtobeat": "110126",
    "igdb": "sker-ritual",
+   "metacritic": "sker-ritual",
    "mobygames": "192827",
    "pcgamingwiki": "Sker_Ritual",
    "steam": "1492070"
@@ -1232,6 +1250,7 @@
   "ids": {
    "howlongtobeat": "174354",
    "igdb": "pokemon-pokopia",
+   "metacritic": "pokemon-pokopia",
    "mobygames": "256226"
   },
   "label_en": "Pokémon Pokopia",
@@ -1244,6 +1263,7 @@
  {
   "ids": {
    "igdb": "hentai-matchup",
+   "pcgamingwiki": "Hentai_MatchUp",
    "steam": "1119640"
   },
   "label_en": "Hentai MatchUp",

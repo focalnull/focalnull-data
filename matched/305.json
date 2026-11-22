@@ -3,6 +3,7 @@
   "enwiki": "NBA Elite 11",
   "ids": {
    "igdb": "nba-elite-11",
+   "metacritic": "nba-elite-11",
    "mobygames": "50349"
   },
   "label_en": "NBA Elite 11",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "1196",
    "igdb": "bloody-roar-4",
+   "metacritic": "bloody-roar-4",
    "mobygames": "41378"
   },
   "label_en": "Bloody Roar 4",
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "3516",
    "igdb": "final-fantasy-v",
+   "metacritic": "final-fantasy-v-advance",
    "mobygames": "4876",
    "pcgamingwiki": "Final_Fantasy_V",
    "steam": "382890"
@@ -67,6 +70,7 @@
   "ids": {
    "howlongtobeat": "8792",
    "igdb": "sonic-the-hedgehog-4-episode-ii",
+   "metacritic": "sonic-the-hedgehog-4-episode-ii",
    "mobygames": "63326",
    "pcgamingwiki": "Sonic_the_Hedgehog_4:_Episode_II",
    "steam": "203650"
@@ -78,6 +82,7 @@
   "enwiki": "Nightshade (2003 video game)",
   "ids": {
    "igdb": "nightshade",
+   "metacritic": "nightshade",
    "mobygames": "21339"
   },
   "label_en": "Nightshade",
@@ -120,6 +125,7 @@
   "ids": {
    "howlongtobeat": "11921",
    "igdb": "trackmania-2-valley--1",
+   "metacritic": "trackmania-2-valley",
    "mobygames": "65922",
    "pcgamingwiki": "TrackMania_2:_Valley",
    "steam": "243360"
@@ -161,6 +167,7 @@
   "ids": {
    "howlongtobeat": "1166",
    "igdb": "blender-bros",
+   "metacritic": "blender-bros",
    "mobygames": "10730",
    "steam": "1137680"
   },
@@ -215,6 +222,7 @@
   "enwiki": "MX Unleashed",
   "ids": {
    "igdb": "mx-unleashed",
+   "metacritic": "mx-unleashed",
    "mobygames": "12609"
   },
   "label_en": "MX Unleashed",
@@ -291,6 +299,7 @@
    "gog": "game/frozen_synapse_2",
    "howlongtobeat": "60785",
    "igdb": "frozen-synapse-2",
+   "metacritic": "frozen-synapse-2",
    "mobygames": "113838",
    "pcgamingwiki": "Frozen_Synapse_2",
    "steam": "445020"
@@ -306,6 +315,7 @@
   "ids": {
    "howlongtobeat": "50656",
    "igdb": "tokyo-tattoo-girls",
+   "metacritic": "tokyo-tattoo-girls",
    "mobygames": "98174",
    "pcgamingwiki": "Tokyo_Tattoo_Girls",
    "steam": "552910"
@@ -336,6 +346,7 @@
    "gog": "game/road_96",
    "howlongtobeat": "85969",
    "igdb": "road-96",
+   "metacritic": "road-96",
    "mobygames": "169445",
    "pcgamingwiki": "Road_96",
    "steam": "1466640"
@@ -358,6 +369,7 @@
   "ids": {
    "howlongtobeat": "73837",
    "igdb": "detective-sherlock-pug",
+   "metacritic": "detective-sherlock-pug-hidden-object",
    "pcgamingwiki": "Detective_Sherlock_Pug",
    "steam": "966000"
   },
@@ -388,6 +400,7 @@
   "ids": {
    "howlongtobeat": "105615",
    "igdb": "touhou-mystias-izakaya",
+   "metacritic": "touhou-mystias-izakaya",
    "mobygames": "183784",
    "pcgamingwiki": "Touhou_Mystia's_Izakaya",
    "steam": "1584090"
@@ -399,6 +412,7 @@
   "ids": {
    "howlongtobeat": "97133",
    "igdb": "ultra-age",
+   "metacritic": "ultra-age",
    "mobygames": "171758",
    "pcgamingwiki": "Ultra_Age",
    "steam": "1683100"
@@ -430,6 +444,7 @@
    "epic": "where-winds-meet-58a176",
    "howlongtobeat": "112678",
    "igdb": "where-winds-meet",
+   "metacritic": "where-winds-meet",
    "pcgamingwiki": "Where_Winds_Meet",
    "steam": "3564740"
   },
@@ -823,6 +838,7 @@
  {
   "ids": {
    "igdb": "cat-palette-merging-colorful-kittens",
+   "metacritic": "cat-palette-merging-colorful-kittens",
    "steam": "2578280"
   },
   "label_en": "Cat Palette: Merging Colorful Kittens",
@@ -861,7 +877,8 @@
  },
  {
   "ids": {
-   "igdb": "re-d-cherish"
+   "igdb": "re-d-cherish",
+   "metacritic": "red-cherish"
   },
   "label_en": "RE:D Cherish!",
   "wikidata": "Q126890305"
@@ -904,6 +921,7 @@
   "ids": {
    "howlongtobeat": "151848",
    "igdb": "crisol-theater-of-idols",
+   "metacritic": "crisol-theater-of-idols",
    "pcgamingwiki": "Crisol:_Theater_of_Idols",
    "steam": "1790930"
   },
@@ -921,6 +939,7 @@
  {
   "ids": {
    "igdb": "namco-museum-archives-volume-1",
+   "metacritic": "namco-museum-archives-vol-1",
    "mobygames": "146704",
    "pcgamingwiki": "Namco_Museum_Archives_Vol._1",
    "steam": "1250250"

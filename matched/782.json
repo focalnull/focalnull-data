@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "5887",
    "igdb": "world-racing--1",
+   "metacritic": "world-racing",
    "mobygames": "40659",
    "pcgamingwiki": "Mercedes-Benz_World_Racing"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "8679",
    "igdb": "sniper-elite-v2",
+   "metacritic": "sniper-elite-v2",
    "mobygames": "55936",
    "pcgamingwiki": "Sniper_Elite_V2",
    "steam": "63380"
@@ -55,6 +57,7 @@
   "ids": {
    "howlongtobeat": "1726",
    "igdb": "city-life",
+   "metacritic": "city-life",
    "mobygames": "23297",
    "pcgamingwiki": "City_Life",
    "steam": "4400"
@@ -76,6 +79,7 @@
   "ids": {
    "howlongtobeat": "10491",
    "igdb": "tony-hawk-s-pro-skater",
+   "metacritic": "tony-hawks-pro-skater",
    "mobygames": "3567"
   },
   "label_en": "Tony Hawk's Pro Skater",
@@ -105,6 +109,7 @@
   "ids": {
    "howlongtobeat": "6746",
    "igdb": "one-piece-romance-dawn",
+   "metacritic": "one-piece-romance-dawn",
    "mobygames": "90027"
   },
   "label_en": "One Piece: Romance Dawn",
@@ -115,6 +120,7 @@
   "ids": {
    "howlongtobeat": "20627",
    "igdb": "buzz-master-quiz",
+   "metacritic": "buzz-master-quiz",
    "mobygames": "48334"
   },
   "label_en": "Buzz!: Master Quiz",
@@ -132,6 +138,7 @@
   "ids": {
    "howlongtobeat": "10114",
    "igdb": "the-nightmare-before-christmas-oogie-s-revenge",
+   "metacritic": "tim-burtons-the-nightmare-before-christmas-oogie",
    "mobygames": "19376"
   },
   "label_en": "The Nightmare Before Christmas: Oogie's Revenge",
@@ -172,6 +179,7 @@
    "gog": "game/recettear_an_item_shops_tale",
    "howlongtobeat": "7666",
    "igdb": "recettear-an-item-shops-tale",
+   "metacritic": "recettear-an-item-shops-tale",
    "mobygames": "49543",
    "pcgamingwiki": "Recettear:_An_Item_Shop's_Tale",
    "steam": "70400"
@@ -202,6 +210,7 @@
   "enwiki": "Supremacy MMA",
   "ids": {
    "igdb": "supremacy-mma",
+   "metacritic": "supremacy-mma",
    "mobygames": "206764"
   },
   "label_en": "Supremacy MMA",
@@ -285,6 +294,7 @@
    "epic": "death-stranding",
    "howlongtobeat": "38061",
    "igdb": "death-stranding",
+   "metacritic": "death-stranding",
    "mobygames": "136593",
    "pcgamingwiki": "Death_Stranding",
    "steam": "1190460"
@@ -306,6 +316,7 @@
   "ids": {
    "howlongtobeat": "55369",
    "igdb": "boulder-dash-xl",
+   "metacritic": "boulder-dash-xl",
    "mobygames": "71212"
   },
   "label_en": "Boulder Dash-XL",
@@ -315,7 +326,8 @@
   "enwiki": "Austin Powers Operation: Trivia",
   "ids": {
    "igdb": "austin-powers-operation-trivia",
-   "mobygames": "2878"
+   "mobygames": "2878",
+   "pcgamingwiki": "Austin_Powers_Operation:_Trivia"
   },
   "label_en": "Austin Powers: Operation Trivia",
   "wikidata": "Q63179782"
@@ -340,6 +352,7 @@
   "ids": {
    "howlongtobeat": "82724",
    "igdb": "super-bomberman-r-online",
+   "metacritic": "super-bomberman-r-online",
    "mobygames": "152017",
    "pcgamingwiki": "Super_Bomberman_R_Online",
    "steam": "1308380"
@@ -349,7 +362,8 @@
  },
  {
   "ids": {
-   "igdb": "out-of-the-park-baseball-13"
+   "igdb": "out-of-the-park-baseball-13",
+   "metacritic": "out-of-the-park-baseball-13"
   },
   "label_en": "Out of the Park Baseball 13",
   "wikidata": "Q106358782"
@@ -439,7 +453,8 @@
  {
   "enwiki": "Guilty Gear XX Accent Core",
   "ids": {
-   "igdb": "guilty-gear-xx-accent-core"
+   "igdb": "guilty-gear-xx-accent-core",
+   "metacritic": "guilty-gear-xx-accent-core"
   },
   "label_en": "Guilty Gear XX Accent Core",
   "wikidata": "Q121816782"
@@ -877,7 +892,8 @@
  },
  {
   "ids": {
-   "igdb": "slots-pharaohs-riches"
+   "igdb": "slots-pharaohs-riches",
+   "metacritic": "slots-pharaohs-riches"
   },
   "label_en": "Slots: Pharaoh's Riches",
   "wikidata": "Q125371782"
@@ -1256,6 +1272,7 @@
  },
  {
   "ids": {
+   "metacritic": "killzone-shadow-fall-intercept",
    "mobygames": "86738"
   },
   "label_en": "Killzone: Shadow Fall Intercept",
@@ -1276,6 +1293,7 @@
   "ids": {
    "igdb": "clickcells-office-lady",
    "mobygames": "259665",
+   "pcgamingwiki": "ClickCells:_Office_Lady",
    "steam": "1189460"
   },
   "label_en": "ClickCells: Office Lady",

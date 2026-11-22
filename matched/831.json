@@ -52,6 +52,7 @@
   "ids": {
    "howlongtobeat": "1804",
    "igdb": "colin-mcrae-dirt-2",
+   "metacritic": "dirt-2",
    "mobygames": "43936",
    "pcgamingwiki": "Colin_McRae:_DiRT_2",
    "steam": "12840"
@@ -82,6 +83,7 @@
   "ids": {
    "howlongtobeat": "952",
    "igdb": "battlestations-midway",
+   "metacritic": "battlestations-midway",
    "mobygames": "26736",
    "pcgamingwiki": "Battlestations:_Midway",
    "steam": "6870"
@@ -93,6 +95,7 @@
   "enwiki": "Midtown Madness 3",
   "ids": {
    "igdb": "midtown-madness-3",
+   "metacritic": "midtown-madness-3",
    "mobygames": "9464"
   },
   "label_en": "Midtown Madness 3",
@@ -121,6 +124,7 @@
   "enwiki": "London Taxi: Rush Hour",
   "ids": {
    "igdb": "london-taxi-rushour",
+   "metacritic": "london-taxi-rush-hour",
    "mobygames": "82555",
    "pcgamingwiki": "London_Taxi:_Rush_Hour"
   },
@@ -195,6 +199,7 @@
   "enwiki": "Bravely Second: End Layer",
   "ids": {
    "igdb": "bravely-second-end-layer",
+   "metacritic": "bravely-second",
    "mobygames": "84607"
   },
   "label_en": "Bravely Second: End Layer",
@@ -206,6 +211,7 @@
    "gog": "game/olliolli",
    "howlongtobeat": "16517",
    "igdb": "olliolli",
+   "metacritic": "olliolli",
    "mobygames": "67213",
    "pcgamingwiki": "OlliOlli",
    "steam": "274250"
@@ -216,6 +222,7 @@
  {
   "ids": {
    "igdb": "ship-simulator-2008",
+   "metacritic": "ship-simulator-2008",
    "mobygames": "36871",
    "pcgamingwiki": "Ship_Simulator_2008"
   },
@@ -227,6 +234,7 @@
   "ids": {
    "howlongtobeat": "20842",
    "igdb": "azure-striker-gunvolt",
+   "metacritic": "azure-striker-gunvolt",
    "mobygames": "72433",
    "pcgamingwiki": "Azure_Striker_Gunvolt",
    "steam": "388800"
@@ -243,6 +251,7 @@
   "ids": {
    "howlongtobeat": "26006",
    "igdb": "pillar",
+   "metacritic": "pillar",
    "mobygames": "86782",
    "pcgamingwiki": "Pillar",
    "steam": "371900"
@@ -262,6 +271,7 @@
   "enwiki": "Until Dawn: Rush of Blood",
   "ids": {
    "igdb": "until-dawn-rush-of-blood",
+   "metacritic": "until-dawn-rush-of-blood",
    "mobygames": "83211"
   },
   "label_en": "Until Dawn: Rush of Blood",
@@ -280,6 +290,7 @@
   "ids": {
    "howlongtobeat": "57193",
    "igdb": "totally-accurate-battlegrounds",
+   "metacritic": "totally-accurate-battlegrounds",
    "mobygames": "109964",
    "pcgamingwiki": "Totally_Accurate_Battlegrounds",
    "steam": "823130"
@@ -293,6 +304,7 @@
    "gog": "game/blood_fresh_supply",
    "howlongtobeat": "67506",
    "igdb": "blood-fresh-supply",
+   "metacritic": "blood-fresh-supply",
    "mobygames": "126608",
    "pcgamingwiki": "Blood:_Fresh_Supply",
    "steam": "1010750"
@@ -316,6 +328,7 @@
   "ids": {
    "howlongtobeat": "62216",
    "igdb": "oh-my-godheads--1",
+   "metacritic": "oh-my-godheads",
    "mobygames": "99034",
    "pcgamingwiki": "Oh_My_Godheads",
    "steam": "522740"
@@ -327,6 +340,7 @@
   "ids": {
    "howlongtobeat": "63192",
    "igdb": "bladed-fury",
+   "metacritic": "bladed-fury",
    "mobygames": "119187",
    "pcgamingwiki": "Bladed_Fury",
    "steam": "927250"
@@ -336,7 +350,8 @@
  },
  {
   "ids": {
-   "igdb": "digit-and-dash"
+   "igdb": "digit-and-dash",
+   "metacritic": "digit-dash"
   },
   "label_en": "Digit and Dash",
   "wikidata": "Q88577831"
@@ -385,6 +400,7 @@
   "ids": {
    "howlongtobeat": "67653",
    "igdb": "achtung-cthulhu-tactics",
+   "metacritic": "achtung-cthulhu-tactics",
    "mobygames": "114647",
    "pcgamingwiki": "Achtung!_Cthulhu_Tactics",
    "steam": "874460"
@@ -732,6 +748,7 @@
   "ids": {
    "howlongtobeat": "139029",
    "igdb": "monolith--2",
+   "metacritic": "monolith",
    "mobygames": "210091",
    "steam": "1542390"
   },
@@ -844,7 +861,8 @@
  {
   "ids": {
    "howlongtobeat": "30461",
-   "igdb": "dot-arcade"
+   "igdb": "dot-arcade",
+   "metacritic": "dot-arcade"
   },
   "label_en": "Dot Arcade",
   "wikidata": "Q125338831"
@@ -853,6 +871,7 @@
   "ids": {
    "howlongtobeat": "50911",
    "igdb": "monkey-pirates",
+   "metacritic": "monkey-pirates",
    "mobygames": "99204"
   },
   "label_en": "Monkey Pirates",
@@ -1219,6 +1238,7 @@
   "enwiki": "Village in the Shade",
   "ids": {
    "igdb": "village-in-the-shade",
+   "pcgamingwiki": "Village_in_the_Shade",
    "steam": "3934250"
   },
   "label_en": "Village in the Shade",

@@ -100,6 +100,7 @@
   "ids": {
    "howlongtobeat": "1236",
    "igdb": "bomberman-blast",
+   "metacritic": "bomberman-blast",
    "mobygames": "79597"
   },
   "label_en": "Bomberman Blast",
@@ -119,6 +120,7 @@
   "enwiki": "EA Sports Active",
   "ids": {
    "igdb": "ea-sports-active",
+   "metacritic": "ea-sports-active",
    "mobygames": "41363"
   },
   "label_en": "EA Sports Active",
@@ -178,6 +180,7 @@
   "enwiki": "Ratchet & Clank: Going Commando",
   "ids": {
    "igdb": "ratchet-clank-going-commando",
+   "metacritic": "ratchet-clank-going-commando",
    "mobygames": "12464"
   },
   "label_en": "Ratchet & Clank: Going Commando",
@@ -224,6 +227,7 @@
   "ids": {
    "howlongtobeat": "14343",
    "igdb": "dead-rising-3",
+   "metacritic": "dead-rising-3",
    "mobygames": "62286",
    "pcgamingwiki": "Dead_Rising_3",
    "steam": "265550"
@@ -237,6 +241,7 @@
    "gog": "game/blitzkrieg_3",
    "howlongtobeat": "51194",
    "igdb": "blitzkrieg-3",
+   "metacritic": "blitzkrieg-3",
    "mobygames": "89976",
    "pcgamingwiki": "Blitzkrieg_3",
    "steam": "235380"
@@ -266,6 +271,7 @@
   "ids": {
    "howlongtobeat": "28965",
    "igdb": "nancy-drew-labyrinth-of-lies",
+   "metacritic": "nancy-drew-labyrinth-of-lies",
    "mobygames": "117654",
    "pcgamingwiki": "Nancy_Drew:_Labyrinth_of_Lies",
    "steam": "572710"
@@ -313,6 +319,7 @@
    "gog": "game/dandara_trials_of_fear_edition",
    "howlongtobeat": "52985",
    "igdb": "dandara",
+   "metacritic": "dandara",
    "mobygames": "101189",
    "pcgamingwiki": "Dandara",
    "steam": "612390"
@@ -351,6 +358,7 @@
   "ids": {
    "howlongtobeat": "52805",
    "igdb": "isis-simulator",
+   "metacritic": "isis-simulator",
    "mobygames": "99475",
    "pcgamingwiki": "ISIS_Simulator",
    "steam": "705600"
@@ -362,6 +370,7 @@
   "ids": {
    "howlongtobeat": "42706",
    "igdb": "serious-sam-vr-the-first-encounter",
+   "metacritic": "serious-sam-vr-the-first-encounter",
    "mobygames": "98078",
    "pcgamingwiki": "Serious_Sam_VR:_The_First_Encounter",
    "steam": "552450"
@@ -381,6 +390,7 @@
   "ids": {
    "howlongtobeat": "17213",
    "igdb": "10-second-ninja",
+   "metacritic": "10-second-ninja",
    "mobygames": "79842",
    "pcgamingwiki": "10_Second_Ninja",
    "steam": "271670"
@@ -395,6 +405,7 @@
    "gog": "game/carto",
    "howlongtobeat": "80570",
    "igdb": "carto",
+   "metacritic": "carto",
    "mobygames": "152095",
    "pcgamingwiki": "Carto",
    "steam": "1172450"
@@ -422,6 +433,7 @@
   "ids": {
    "howlongtobeat": "99495",
    "igdb": "super-robot-wars-30",
+   "metacritic": "super-robot-wars-30",
    "mobygames": "174295",
    "pcgamingwiki": "Super_Robot_Wars_30",
    "steam": "898750"
@@ -434,6 +446,7 @@
   "ids": {
    "howlongtobeat": "96953",
    "igdb": "cultic",
+   "metacritic": "cultic",
    "mobygames": "193446",
    "pcgamingwiki": "Cultic",
    "steam": "1684930"
@@ -496,6 +509,7 @@
   "ids": {
    "howlongtobeat": "80752",
    "igdb": "mary-skelter-finale",
+   "metacritic": "mary-skelter-finale",
    "pcgamingwiki": "Mary_Skelter_Finale",
    "steam": "2357400"
   },
@@ -565,6 +579,7 @@
    "howlongtobeat": "143893",
    "igdb": "gobliiins5",
    "mobygames": "202606",
+   "pcgamingwiki": "Gobliiins_5",
    "steam": "2475980"
   },
   "label_en": "Gobliiins 5",
@@ -1269,6 +1284,7 @@
    "gog": "game/dysthanasia",
    "igdb": "dysthanasia",
    "mobygames": "250816",
+   "pcgamingwiki": "Dysthanasia",
    "steam": "3211490"
   },
   "label_en": "DYSTHANASIA",
@@ -1277,6 +1293,7 @@
  {
   "enwiki": "Yerba Buena (video game)",
   "ids": {
+   "pcgamingwiki": "Yerba_Buena",
    "steam": "2330110"
   },
   "label_en": "Yerba Buena",

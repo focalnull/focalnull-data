@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2069",
    "igdb": "crysis-2",
+   "metacritic": "crysis-2",
    "mobygames": "51477",
    "pcgamingwiki": "Crysis_2",
    "steam": "108800"
@@ -49,6 +50,7 @@
   "ids": {
    "howlongtobeat": "6815",
    "igdb": "osmos",
+   "metacritic": "osmos",
    "mobygames": "42079",
    "pcgamingwiki": "Osmos",
    "steam": "29180"
@@ -81,6 +83,7 @@
   "enwiki": "The Darkness (video game)",
   "ids": {
    "igdb": "the-darkness",
+   "metacritic": "the-darkness",
    "mobygames": "29038",
    "pcgamingwiki": "The_Darkness",
    "steam": "765390"
@@ -111,6 +114,7 @@
   "enwiki": "Naughty Bear",
   "ids": {
    "igdb": "naughty-bear",
+   "metacritic": "naughty-bear",
    "mobygames": "47687"
   },
   "label_en": "Naughty Bear",
@@ -151,6 +155,7 @@
   "ids": {
    "howlongtobeat": "5449",
    "igdb": "lux-pain",
+   "metacritic": "lux-pain",
    "mobygames": "65707"
   },
   "label_en": "Lux-Pain",
@@ -170,6 +175,7 @@
   "ids": {
    "howlongtobeat": "21445",
    "igdb": "sega-mega-drive-and-genesis-classics--1",
+   "metacritic": "sega-mega-drive-and-genesis-classics",
    "mobygames": "126287",
    "pcgamingwiki": "Sega_Mega_Drive_and_Genesis_Classics",
    "steam": "34270"
@@ -220,6 +226,7 @@
   "ids": {
    "howlongtobeat": "57686",
    "igdb": "final-fantasy-vii-remake",
+   "metacritic": "final-fantasy-vii-remake",
    "mobygames": "141485",
    "pcgamingwiki": "Final_Fantasy_VII_Remake_Intergrade"
   },
@@ -230,6 +237,7 @@
   "enwiki": "Disney Magical World 2",
   "ids": {
    "igdb": "disney-magical-world-2",
+   "metacritic": "disney-magical-world-2-enchanted-edition",
    "mobygames": "86800"
   },
   "label_en": "Disney Magical World 2",
@@ -245,6 +253,7 @@
    "gog": "game/volgarr_the_viking",
    "howlongtobeat": "13747",
    "igdb": "volgarr-the-viking",
+   "metacritic": "volgarr-the-viking",
    "mobygames": "62977",
    "pcgamingwiki": "Volgarr_the_Viking",
    "steam": "247240"
@@ -295,6 +304,7 @@
   "ids": {
    "howlongtobeat": "31622",
    "igdb": "sparkle-unleashed",
+   "metacritic": "sparkle-unleashed",
    "mobygames": "77930",
    "pcgamingwiki": "Sparkle_Unleashed",
    "steam": "550450"
@@ -308,6 +318,7 @@
    "gog": "game/jump_king",
    "howlongtobeat": "66968",
    "igdb": "jump-king",
+   "metacritic": "jump-king",
    "mobygames": "126727",
    "pcgamingwiki": "Jump_King",
    "steam": "1061090"
@@ -322,7 +333,8 @@
  {
   "ids": {
    "howlongtobeat": "12682",
-   "igdb": "anarchy-rush-hour"
+   "igdb": "anarchy-rush-hour",
+   "metacritic": "anarchy-rush-hour"
   },
   "label_en": "Anarchy: Rush Hour",
   "wikidata": "Q107424152"
@@ -334,6 +346,7 @@
    "gog": "game/the_legend_of_tianding",
    "howlongtobeat": "93368",
    "igdb": "the-legend-of-tianding",
+   "metacritic": "the-legend-of-tianding",
    "mobygames": "174561",
    "pcgamingwiki": "The_Legend_of_Tianding",
    "steam": "1406850"
@@ -344,7 +357,8 @@
  {
   "enwiki": "Master Detective Archives: Rain Code",
   "ids": {
-   "igdb": "master-detective-archives-rain-code"
+   "igdb": "master-detective-archives-rain-code",
+   "metacritic": "master-detective-archives-rain-code"
   },
   "label_en": "Master Detective Archives: Rain Code",
   "wikidata": "Q109797152"
@@ -353,6 +367,7 @@
   "ids": {
    "howlongtobeat": "63067",
    "igdb": "zup-s",
+   "metacritic": "zup-s",
    "mobygames": "130022",
    "pcgamingwiki": "Zup!_S",
    "steam": "617670"
@@ -564,6 +579,7 @@
   "ids": {
    "howlongtobeat": "137794",
    "igdb": "f-zero-99",
+   "metacritic": "f-zero-99",
    "mobygames": "208615"
   },
   "label_en": "F-Zero 99",
@@ -573,6 +589,7 @@
   "ids": {
    "howlongtobeat": "126315",
    "igdb": "ak-xolotl",
+   "metacritic": "ak-xolotl",
    "mobygames": "208660",
    "steam": "1479140"
   },
@@ -1098,6 +1115,7 @@
  {
   "ids": {
    "igdb": "crush--2",
+   "pcgamingwiki": "Crush",
    "steam": "588880"
   },
   "label_en": "Crush",
@@ -1137,6 +1155,7 @@
  {
   "enwiki": "Probably Stolen",
   "ids": {
+   "pcgamingwiki": "Probably_Stolen",
    "steam": "4348910"
   },
   "label_en": "Probably Stolen",

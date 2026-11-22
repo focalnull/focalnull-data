@@ -3,6 +3,7 @@
   "enwiki": "Soldier of Fortune (video game)",
   "ids": {
    "igdb": "soldier-of-fortune",
+   "metacritic": "soldier-of-fortune",
    "mobygames": "1331",
    "pcgamingwiki": "Soldier_of_Fortune"
   },
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "14069",
    "igdb": "7554-glorious-memories-revived",
+   "metacritic": "7554",
    "mobygames": "61136",
    "pcgamingwiki": "7554:_Glorious_Memories_Revived"
   },
@@ -47,6 +49,7 @@
   "enwiki": "Phantasy Star Portable",
   "ids": {
    "igdb": "phantasy-star-portable",
+   "metacritic": "phantasy-star-portable",
    "mobygames": "39672"
   },
   "label_en": "Phantasy Star Portable",
@@ -58,6 +61,7 @@
    "howlongtobeat": "4642",
    "igdb": "impossible-mission-ii",
    "mobygames": "2964",
+   "pcgamingwiki": "Impossible_Mission_II",
    "steam": "1400680"
   },
   "label_en": "Impossible Mission II",
@@ -103,6 +107,7 @@
   "enwiki": "Pinball FX (2007 video game)",
   "ids": {
    "igdb": "pinball-fx",
+   "metacritic": "pinball-fx-2007",
    "mobygames": "31758"
   },
   "label_en": "Pinball FX",
@@ -112,6 +117,7 @@
   "enwiki": "Yu-Gi-Oh! Nightmare Troubadour",
   "ids": {
    "igdb": "yu-gi-oh-nightmare-troubadour",
+   "metacritic": "yu-gi-oh-nightmare-troubadour",
    "mobygames": "67734"
   },
   "label_en": "Yu-Gi-Oh! Nightmare Troubadour",
@@ -121,6 +127,7 @@
   "enwiki": "Super Robot Wars OG Saga: Endless Frontier",
   "ids": {
    "igdb": "super-robot-taisen-og-saga-endless-frontier",
+   "metacritic": "super-robot-taisen-og-saga-endless-frontier",
    "mobygames": "53302"
   },
   "label_en": "Super Robot Taisen OG Saga: Endless Frontier",
@@ -156,6 +163,7 @@
   "ids": {
    "howlongtobeat": "12032",
    "igdb": "mr-driller-drill-spirits",
+   "metacritic": "mr-driller-drill-spirits",
    "mobygames": "15738"
   },
   "label_en": "Mr. Driller Drill Spirits",
@@ -165,6 +173,7 @@
   "enwiki": "Poker Smash",
   "ids": {
    "igdb": "poker-smash",
+   "metacritic": "poker-smash-2008",
    "mobygames": "36857"
   },
   "label_en": "Poker Smash",
@@ -239,6 +248,7 @@
   "ids": {
    "howlongtobeat": "12496",
    "igdb": "groove-coaster",
+   "metacritic": "groove-coaster",
    "mobygames": "92690",
    "pcgamingwiki": "Groove_Coaster",
    "steam": "744060"
@@ -262,6 +272,7 @@
   "ids": {
    "howlongtobeat": "25014",
    "igdb": "dyscourse",
+   "metacritic": "dyscourse",
    "mobygames": "73805",
    "pcgamingwiki": "Dyscourse",
    "steam": "234920"
@@ -332,6 +343,7 @@
   "ids": {
    "howlongtobeat": "36692",
    "igdb": "radiation-island",
+   "metacritic": "radiation-island",
    "mobygames": "95047",
    "pcgamingwiki": "Radiation_Island",
    "steam": "307940"
@@ -352,6 +364,7 @@
    "gog": "game/nantucket",
    "howlongtobeat": "52573",
    "igdb": "nantucket",
+   "metacritic": "nantucket",
    "mobygames": "101458",
    "pcgamingwiki": "Nantucket",
    "steam": "621220"
@@ -378,6 +391,7 @@
   "ids": {
    "howlongtobeat": "59668",
    "igdb": "apex-construct",
+   "metacritic": "apex-construct",
    "pcgamingwiki": "Apex_Construct",
    "steam": "694090"
   },
@@ -538,6 +552,7 @@
   "ids": {
    "howlongtobeat": "116059",
    "igdb": "deducto",
+   "pcgamingwiki": "Deducto",
    "steam": "1453490"
   },
   "label_en": "Deducto",
@@ -861,6 +876,7 @@
  {
   "ids": {
    "igdb": "dying-is-dangerous",
+   "metacritic": "dying-is-dangerous",
    "mobygames": "145555"
   },
   "label_en": "Dying Is Dangerous",

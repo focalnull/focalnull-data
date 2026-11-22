@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "1830",
    "igdb": "command-conquer",
+   "metacritic": "command-conquer",
    "mobygames": "338",
    "pcgamingwiki": "Command_&_Conquer",
    "steam": "2229830"
@@ -45,6 +46,7 @@
    "gog": "game/sengoku",
    "howlongtobeat": "18245",
    "igdb": "sengoku--1",
+   "metacritic": "sengoku",
    "mobygames": "56784",
    "pcgamingwiki": "Sengoku",
    "steam": "73210"
@@ -71,6 +73,7 @@
    "gog": "game/fez",
    "howlongtobeat": "3435",
    "igdb": "fez",
+   "metacritic": "fez",
    "mobygames": "55694",
    "pcgamingwiki": "Fez",
    "steam": "224760"
@@ -152,6 +155,7 @@
   "enwiki": "Dead to Rights II",
   "ids": {
    "igdb": "dead-to-rights-ii",
+   "metacritic": "dead-to-rights-ii",
    "mobygames": "21525",
    "pcgamingwiki": "Dead_to_Rights_II"
   },
@@ -173,6 +177,7 @@
   "ids": {
    "howlongtobeat": "14729",
    "igdb": "x-scape",
+   "metacritic": "x-scape",
    "mobygames": "90545"
   },
   "label_en": "X-Scape",
@@ -182,6 +187,7 @@
   "enwiki": "Zax: The Alien Hunter",
   "ids": {
    "igdb": "zax-the-alien-hunter",
+   "metacritic": "zax-the-alien-hunter",
    "pcgamingwiki": "Zax:_The_Alien_Hunter"
   },
   "label_en": "Zax: The Alien Hunter",
@@ -203,6 +209,7 @@
   "ids": {
    "howlongtobeat": "23081",
    "igdb": "deemo",
+   "metacritic": "deemo",
    "mobygames": "96966"
   },
   "label_en": "Deemo",
@@ -222,6 +229,7 @@
    "gog": "game/dungeons_2",
    "howlongtobeat": "26116",
    "igdb": "dungeons-2",
+   "metacritic": "dungeons-2",
    "mobygames": "87321",
    "pcgamingwiki": "Dungeons_2",
    "steam": "262280"
@@ -234,6 +242,7 @@
   "ids": {
    "howlongtobeat": "62006",
    "igdb": "kim-kardashian-hollywood",
+   "metacritic": "kim-kardashian-hollywood",
    "mobygames": "70408"
   },
   "label_en": "Kim Kardashian: Hollywood",
@@ -304,6 +313,7 @@
   "ids": {
    "howlongtobeat": "83328",
    "igdb": "explottens-the-time-is-meow",
+   "metacritic": "explottens",
    "mobygames": "95649",
    "pcgamingwiki": "Explottens",
    "steam": "630400"
@@ -324,6 +334,7 @@
   "ids": {
    "howlongtobeat": "72613",
    "igdb": "this-land-is-my-land",
+   "metacritic": "this-land-is-my-land",
    "mobygames": "137541",
    "pcgamingwiki": "This_Land_Is_My_Land",
    "steam": "1069640"
@@ -350,6 +361,7 @@
    "gog": "game/crystal_crisis",
    "howlongtobeat": "67579",
    "igdb": "crystal-crisis",
+   "metacritic": "crystal-crisis",
    "mobygames": "127632",
    "pcgamingwiki": "Crystal_Crisis",
    "steam": "447700"
@@ -367,6 +379,7 @@
    "epic": "bus-simulator-21",
    "howlongtobeat": "97879",
    "igdb": "bus-simulator-21--1",
+   "metacritic": "bus-simulator-21",
    "mobygames": "171219",
    "pcgamingwiki": "Bus_Simulator_21",
    "steam": "976590"
@@ -413,6 +426,7 @@
    "epic": "ducati-world-championship-0280d9",
    "howlongtobeat": "2903",
    "igdb": "ducati-world-championship",
+   "metacritic": "ducati-world-championship",
    "mobygames": "40383",
    "pcgamingwiki": "Ducati_World_Championship",
    "steam": "6270"
@@ -850,6 +864,7 @@
   "ids": {
    "howlongtobeat": "56674",
    "igdb": "skeleton-boomerang",
+   "metacritic": "skeleton-boomerang",
    "pcgamingwiki": "Skeleton_Boomerang",
    "steam": "658150"
   },

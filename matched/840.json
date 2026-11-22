@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9105",
    "igdb": "star-wars-episode-i-battle-for-naboo",
+   "metacritic": "star-wars-episode-i-battle-for-naboo",
    "mobygames": "3416",
    "pcgamingwiki": "Star_Wars:_Episode_I_-_Battle_for_Naboo"
   },
@@ -89,6 +90,9 @@
   "wikidata": "Q3636840"
  },
  {
+  "ids": {
+   "metacritic": "football-manager-handheld"
+  },
   "label_en": "Football Manager Handheld",
   "wikidata": "Q3747840"
  },
@@ -176,6 +180,7 @@
   "enwiki": "Target: Terror",
   "ids": {
    "igdb": "target-terror",
+   "metacritic": "target-terror",
    "mobygames": "34105"
   },
   "label_en": "Target: Terror",
@@ -241,6 +246,7 @@
   "ids": {
    "howlongtobeat": "8011",
    "igdb": "rumble-roses-xx",
+   "metacritic": "rumble-roses-xx",
    "mobygames": "30692"
   },
   "label_en": "Rumble Roses XX",
@@ -255,6 +261,7 @@
   "ids": {
    "howlongtobeat": "37161",
    "igdb": "pocket-card-jockey",
+   "metacritic": "pocket-card-jockey",
    "mobygames": "74281"
   },
   "label_en": "Pocket Card Jockey",
@@ -295,6 +302,7 @@
   "ids": {
    "howlongtobeat": "49721",
    "igdb": "nascar-heat-2",
+   "metacritic": "nascar-heat-2",
    "mobygames": "95846",
    "pcgamingwiki": "NASCAR_Heat_2",
    "steam": "670900"
@@ -306,6 +314,7 @@
   "ids": {
    "howlongtobeat": "49198",
    "igdb": "the-journey-down-chapter-three",
+   "metacritic": "the-journey-down-chapter-three",
    "mobygames": "96205",
    "pcgamingwiki": "The_Journey_Down:_Chapter_Three",
    "steam": "579760"
@@ -328,6 +337,7 @@
   "ids": {
    "howlongtobeat": "21718",
    "igdb": "siegecraft-commander",
+   "metacritic": "siegecraft-commander",
    "mobygames": "87384",
    "pcgamingwiki": "Siegecraft_Commander",
    "steam": "405340"
@@ -342,6 +352,7 @@
    "gog": "game/tangle_tower",
    "howlongtobeat": "70781",
    "igdb": "tangle-tower",
+   "metacritic": "tangle-tower",
    "mobygames": "135474",
    "pcgamingwiki": "Tangle_Tower",
    "steam": "359510"
@@ -354,6 +365,7 @@
   "ids": {
    "howlongtobeat": "70845",
    "igdb": "castlevania-grimoire-of-souls",
+   "metacritic": "castlevania-grimoire-of-souls",
    "mobygames": "139467",
    "pcgamingwiki": "Castlevania:_Grimoire_of_Souls"
   },
@@ -420,6 +432,7 @@
    "epic": "kill-it-with-fire",
    "howlongtobeat": "81789",
    "igdb": "kill-it-with-fire",
+   "metacritic": "kill-it-with-fire",
    "mobygames": "149312",
    "pcgamingwiki": "Kill_It_with_Fire",
    "steam": "1179210"
@@ -433,6 +446,7 @@
    "gog": "game/startup_panic",
    "howlongtobeat": "86333",
    "igdb": "startup-panic",
+   "metacritic": "startup-panic",
    "mobygames": "155135",
    "pcgamingwiki": "Startup_Panic",
    "steam": "1045610"
@@ -465,6 +479,7 @@
    "gog": "game/the_excavation_of_hobs_barrow",
    "howlongtobeat": "113470",
    "igdb": "the-excavation-of-hobs-barrow",
+   "metacritic": "the-excavation-of-hobs-barrow",
    "mobygames": "192096",
    "pcgamingwiki": "The_Excavation_of_Hob's_Barrow",
    "steam": "1182310"
@@ -510,6 +525,7 @@
    "howlongtobeat": "99296",
    "igdb": "interstate-drifter-1999",
    "mobygames": "183291",
+   "pcgamingwiki": "Interstate_Drifter_1999",
    "steam": "1383770"
   },
   "label_en": "Interstate Drifter 1999",
@@ -782,6 +798,7 @@
   "enwiki": "The World's Hardest Game",
   "ids": {
    "igdb": "the-worlds-hardest-game",
+   "metacritic": "the-worlds-hardest-game-on-steam",
    "mobygames": "53609"
   },
   "label_en": "The World's Hardest Game",
@@ -1233,6 +1250,7 @@
   "enwiki": "Spooky Express",
   "ids": {
    "igdb": "spooky-express",
+   "metacritic": "spooky-express",
    "steam": "3352310"
   },
   "label_en": "Spooky Express",

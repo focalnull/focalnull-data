@@ -12,6 +12,7 @@
   "ids": {
    "howlongtobeat": "5653",
    "igdb": "mario-power-tennis",
+   "metacritic": "mario-power-tennis",
    "mobygames": "15616"
   },
   "label_en": "Mario Power Tennis",
@@ -31,6 +32,7 @@
   "enwiki": "Bravely Default",
   "ids": {
    "igdb": "bravely-default",
+   "metacritic": "bravely-default-where-the-fairy-flies",
    "mobygames": "65078"
   },
   "label_en": "Bravely Default",
@@ -48,6 +50,7 @@
   "enwiki": "Guilty Gear X2",
   "ids": {
    "igdb": "guilty-gear-x2",
+   "metacritic": "guilty-gear-x2",
    "mobygames": "9147"
   },
   "label_en": "Guilty Gear XX",
@@ -58,6 +61,7 @@
   "ids": {
    "howlongtobeat": "3209",
    "igdb": "europa-universalis-crown-of-the-north",
+   "metacritic": "europa-universalis-crown-of-the-north",
    "mobygames": "13664"
   },
   "label_en": "Europa Universalis: Crown of the North",
@@ -193,7 +197,8 @@
  {
   "enwiki": "MVP 07: NCAA Baseball",
   "ids": {
-   "igdb": "mvp-07-ncaa-baseball"
+   "igdb": "mvp-07-ncaa-baseball",
+   "metacritic": "mvp-07-ncaa-baseball"
   },
   "label_en": "MVP 07: NCAA Baseball",
   "wikidata": "Q16258917"
@@ -217,6 +222,7 @@
    "gog": "game/darkwood",
    "howlongtobeat": "20102",
    "igdb": "darkwood",
+   "metacritic": "darkwood",
    "mobygames": "82245",
    "pcgamingwiki": "Darkwood",
    "steam": "274520"
@@ -246,6 +252,7 @@
  {
   "ids": {
    "igdb": "peace-restored",
+   "metacritic": "peace-restored",
    "mobygames": "133988",
    "pcgamingwiki": "Peace_Restored",
    "steam": "1135710"
@@ -258,6 +265,7 @@
   "ids": {
    "howlongtobeat": "74108",
    "igdb": "pokemon-mystery-dungeon-rescue-team-dx",
+   "metacritic": "pokemon-mystery-dungeon-rescue-team-dx",
    "mobygames": "141574"
   },
   "label_en": "Pokémon Mystery Dungeon: Rescue Team DX",
@@ -278,6 +286,7 @@
   "ids": {
    "howlongtobeat": "69226",
    "igdb": "space-junkies",
+   "metacritic": "space-junkies",
    "mobygames": "124235",
    "pcgamingwiki": "Space_Junkies",
    "steam": "647590"
@@ -288,6 +297,7 @@
  {
   "ids": {
    "igdb": "karaoke-revolution-presents-american-idol-encore",
+   "metacritic": "karaoke-revolution-presents-american-idol-encore",
    "mobygames": "36663"
   },
   "label_en": "Karaoke Revolution Presents: American Idol Encore",
@@ -297,6 +307,7 @@
   "ids": {
    "howlongtobeat": "62719",
    "igdb": "element-space",
+   "metacritic": "element-space",
    "mobygames": "122539",
    "pcgamingwiki": "Element:_Space",
    "steam": "887370"
@@ -317,6 +328,7 @@
    "epic": "terrorbane-437dd3",
    "howlongtobeat": "97384",
    "igdb": "terrorbane",
+   "metacritic": "terrorbane",
    "mobygames": "185480",
    "steam": "1617030"
   },
@@ -385,6 +397,7 @@
   "ids": {
    "howlongtobeat": "21087",
    "igdb": "company-of-heroes-2-ardennes-assault",
+   "metacritic": "company-of-heroes-2-ardennes-assault",
    "mobygames": "71828",
    "steam": "317850"
   },
@@ -1068,6 +1081,7 @@
  {
   "ids": {
    "igdb": "barter-empire",
+   "pcgamingwiki": "Barter_Empire",
    "steam": "346160"
   },
   "label_en": "Barter Empire",
@@ -1084,6 +1098,7 @@
   "enwiki": "God of War Sons of Sparta",
   "ids": {
    "igdb": "god-of-war-sons-of-sparta",
+   "metacritic": "god-of-war-sons-of-sparta",
    "mobygames": "255146"
   },
   "label_en": "God of War Sons of Sparta",

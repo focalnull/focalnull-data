@@ -3,6 +3,7 @@
   "enwiki": "DualPenSports",
   "ids": {
    "igdb": "dualpensports",
+   "metacritic": "dualpensports",
    "mobygames": "99638"
   },
   "label_en": "DualPenSports",
@@ -22,6 +23,7 @@
   "ids": {
    "howlongtobeat": "10498",
    "igdb": "tony-hawk-s-project-8",
+   "metacritic": "tony-hawks-project-8",
    "mobygames": "25133"
   },
   "label_en": "Tony Hawk's Project 8",
@@ -106,6 +108,7 @@
    "gog": "game/el_matador",
    "howlongtobeat": "3066",
    "igdb": "el-matador",
+   "metacritic": "el-matador",
    "mobygames": "27187",
    "pcgamingwiki": "El_Matador",
    "steam": "289280"
@@ -118,6 +121,7 @@
   "ids": {
    "howlongtobeat": "11051",
    "igdb": "warhammer-40000-squad-command",
+   "metacritic": "warhammer-40-000-squad-command",
    "mobygames": "31928"
   },
   "label_en": "Warhammer 40,000: Squad Command",
@@ -128,6 +132,7 @@
   "ids": {
    "howlongtobeat": "719",
    "igdb": "atv-offroad-fury-4",
+   "metacritic": "atv-offroad-fury-4",
    "mobygames": "41685"
   },
   "label_en": "ATV Offroad Fury 4",
@@ -191,6 +196,7 @@
   "ids": {
    "howlongtobeat": "14124",
    "igdb": "nancy-drew-the-silent-spy",
+   "metacritic": "nancy-drew-the-silent-spy",
    "mobygames": "117747",
    "pcgamingwiki": "Nancy_Drew:_The_Silent_Spy",
    "steam": "572730"
@@ -229,6 +235,7 @@
   "ids": {
    "howlongtobeat": "4951",
    "igdb": "kengo-legend-of-the-9",
+   "metacritic": "kengo-legend-of-the-9",
    "mobygames": "34580"
   },
   "label_en": "Kengo: Legend of the 9",
@@ -237,7 +244,8 @@
  {
   "ids": {
    "howlongtobeat": "67824",
-   "igdb": "eden-tomorrow"
+   "igdb": "eden-tomorrow",
+   "metacritic": "eden-tomorrow"
   },
   "label_en": "Eden Tomorrow",
   "wikidata": "Q60982952"
@@ -246,6 +254,7 @@
   "ids": {
    "howlongtobeat": "38138",
    "igdb": "neon-drive",
+   "metacritic": "neon-drive",
    "mobygames": "79073",
    "pcgamingwiki": "Neon_Drive",
    "steam": "433910"
@@ -259,6 +268,7 @@
    "gog": "game/the_white_door",
    "howlongtobeat": "74112",
    "igdb": "the-white-door",
+   "metacritic": "the-white-door",
    "mobygames": "140714",
    "pcgamingwiki": "The_White_Door",
    "steam": "1145960"
@@ -271,6 +281,7 @@
   "ids": {
    "howlongtobeat": "12006",
    "igdb": "f-22-lightning-3",
+   "metacritic": "f-22-lightning-3",
    "mobygames": "3743",
    "pcgamingwiki": "F-22_Lightning_3",
    "steam": "32730"
@@ -294,6 +305,7 @@
    "gog": "game/alphadia_genesis",
    "howlongtobeat": "20439",
    "igdb": "alphadia-genesis",
+   "metacritic": "alphadia-genesis",
    "mobygames": "88064",
    "pcgamingwiki": "Alphadia_Genesis",
    "steam": "323450"
@@ -314,6 +326,7 @@
    "gog": "game/kingdom_two_crowns",
    "howlongtobeat": "63099",
    "igdb": "kingdom-two-crowns",
+   "metacritic": "kingdom-two-crowns",
    "mobygames": "118598",
    "pcgamingwiki": "Kingdom:_Two_Crowns",
    "steam": "701160"
@@ -359,6 +372,7 @@
    "gog": "game/regiments",
    "howlongtobeat": "105503",
    "igdb": "regiments",
+   "metacritic": "regiments",
    "mobygames": "189681",
    "pcgamingwiki": "Regiments",
    "steam": "1109680"
@@ -779,7 +793,8 @@
  {
   "ids": {
    "howlongtobeat": "106753",
-   "igdb": "silver-falls-3-down-stars"
+   "igdb": "silver-falls-3-down-stars",
+   "metacritic": "silver-falls-3-down-stars"
   },
   "label_en": "Silver Falls: 3 Down Stars",
   "wikidata": "Q124363952"
@@ -789,6 +804,7 @@
   "ids": {
    "howlongtobeat": "132611",
    "igdb": "fatal-fury-city-of-the-wolves",
+   "metacritic": "fatal-fury-city-of-the-wolves",
    "mobygames": "240924",
    "pcgamingwiki": "Fatal_Fury:_City_of_the_Wolves",
    "steam": "2492040"
@@ -802,6 +818,7 @@
    "epic": "the-rogue-prince-of-persia",
    "howlongtobeat": "148485",
    "igdb": "the-rogue-prince-of-persia",
+   "metacritic": "the-rogue-prince-of-persia",
    "mobygames": "224787",
    "pcgamingwiki": "The_Rogue_Prince_of_Persia",
    "steam": "2717880"

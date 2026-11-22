@@ -34,6 +34,7 @@
   "enwiki": "Starhawk (2012 video game)",
   "ids": {
    "igdb": "starhawk",
+   "metacritic": "starhawk",
    "mobygames": "56463"
   },
   "label_en": "Starhawk",
@@ -44,6 +45,7 @@
   "ids": {
    "howlongtobeat": "1293",
    "igdb": "brain-age-train-your-brain-in-minutes-a-day",
+   "metacritic": "brain-age-train-your-brain-in-minutes-a-day",
    "mobygames": "21821"
   },
   "label_en": "Brain Age: Train Your Brain in Minutes a Day!",
@@ -54,6 +56,7 @@
   "ids": {
    "howlongtobeat": "5961",
    "igdb": "metroid-zero-mission",
+   "metacritic": "metroid-zero-mission",
    "mobygames": "12061"
   },
   "label_en": "Metroid: Zero Mission",
@@ -64,6 +67,7 @@
   "ids": {
    "howlongtobeat": "6693",
    "igdb": "obscure-the-aftermath",
+   "metacritic": "obscure-the-aftermath",
    "mobygames": "30343",
    "pcgamingwiki": "ObsCure_II",
    "steam": "254480"
@@ -76,6 +80,7 @@
   "ids": {
    "howlongtobeat": "8695",
    "igdb": "snk-vs-capcom-the-match-of-the-millennium",
+   "metacritic": "snk-vs-capcom-match-of-the-millennium",
    "mobygames": "18302",
    "pcgamingwiki": "SNK_vs._Capcom:_The_Match_of_the_Millennium",
    "steam": "1575670"
@@ -90,6 +95,7 @@
   "enwiki": "Suikoden III",
   "ids": {
    "igdb": "suikoden-iii",
+   "metacritic": "suikoden-iii",
    "mobygames": "9045"
   },
   "label_en": "Suikoden III",
@@ -100,6 +106,7 @@
   "ids": {
    "howlongtobeat": "9346",
    "igdb": "super-dodge-ball-advance",
+   "metacritic": "super-dodge-ball-advance",
    "mobygames": "5313"
   },
   "label_en": "Super Dodge Ball Advance",
@@ -255,6 +262,7 @@
   "ids": {
    "howlongtobeat": "50225",
    "igdb": "you-must-be-18-or-older-to-enter",
+   "metacritic": "you-must-be-18-or-older-to-enter",
    "mobygames": "98033",
    "pcgamingwiki": "You_Must_be_18_or_Older_to_Enter",
    "steam": "608510"
@@ -266,6 +274,7 @@
   "ids": {
    "howlongtobeat": "67600",
    "igdb": "taste-of-power",
+   "metacritic": "taste-of-power",
    "mobygames": "136063",
    "pcgamingwiki": "Taste_of_Power",
    "steam": "758250"
@@ -305,6 +314,7 @@
   "ids": {
    "howlongtobeat": "63228",
    "igdb": "hyper-princess-pitch",
+   "metacritic": "hyper-princess-pitch",
    "mobygames": "53885",
    "pcgamingwiki": "Hyper_Princess_Pitch"
   },
@@ -324,6 +334,7 @@
   "ids": {
    "howlongtobeat": "88750",
    "igdb": "triangle-strategy",
+   "metacritic": "triangle-strategy",
    "mobygames": "179656",
    "pcgamingwiki": "Triangle_Strategy",
    "steam": "1850510"
@@ -348,6 +359,7 @@
    "gog": "game/potion_craft_alchemist_simulator",
    "howlongtobeat": "92845",
    "igdb": "potion-craft",
+   "metacritic": "potion-craft",
    "mobygames": "172557",
    "pcgamingwiki": "Potion_Craft",
    "steam": "1210320"
@@ -420,6 +432,7 @@
   "enwiki": "Da New Guys: Day of the Jackass",
   "ids": {
    "howlongtobeat": "2139",
+   "metacritic": "da-new-guys-day-of-the-jackass",
    "mobygames": "64888"
   },
   "label_en": "Da New Guys: Day of the Jackass",
@@ -448,6 +461,7 @@
  },
  {
   "ids": {
+   "metacritic": "james-bond-007-nightfire",
    "mobygames": "51129"
   },
   "label_en": "007: Nightfire",
@@ -765,7 +779,8 @@
  {
   "enwiki": "MVP Baseball 2003",
   "ids": {
-   "igdb": "mvp-baseball-2003"
+   "igdb": "mvp-baseball-2003",
+   "metacritic": "mvp-baseball-2003"
   },
   "label_en": "MVP Baseball 2003",
   "wikidata": "Q125799171"

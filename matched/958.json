@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6785",
    "igdb": "operation-wolf",
+   "metacritic": "operation-wolf",
    "mobygames": "3475"
   },
   "label_en": "Operation Wolf",
@@ -15,6 +16,7 @@
    "gog": "game/of_orcs_and_men",
    "howlongtobeat": "6710",
    "igdb": "of-orcs-and-men",
+   "metacritic": "of-orcs-and-men",
    "mobygames": "60939",
    "pcgamingwiki": "Of_Orcs_and_Men",
    "steam": "216910"
@@ -45,6 +47,7 @@
   "enwiki": "EyeToy: Chat",
   "ids": {
    "igdb": "eyetoy-chat",
+   "metacritic": "eyetoy-chat",
    "mobygames": "18513"
   },
   "label_en": "EyeToy: Chat",
@@ -55,6 +58,7 @@
   "ids": {
    "howlongtobeat": "1781",
    "igdb": "code-of-princess",
+   "metacritic": "code-of-princess",
    "mobygames": "58388",
    "pcgamingwiki": "Code_of_Princess",
    "steam": "408640"
@@ -102,6 +106,7 @@
   "ids": {
    "howlongtobeat": "13831",
    "igdb": "world-war-iii-black-gold",
+   "metacritic": "world-war-iii-black-gold",
    "mobygames": "6643",
    "pcgamingwiki": "World_War_III:_Black_Gold",
    "steam": "254080"
@@ -125,6 +130,7 @@
   "ids": {
    "howlongtobeat": "1203",
    "igdb": "blue-dragon-plus",
+   "metacritic": "blue-dragon-plus",
    "mobygames": "49114"
   },
   "label_en": "Blue Dragon Plus",
@@ -134,6 +140,7 @@
   "enwiki": "Driven (video game)",
   "ids": {
    "igdb": "driven",
+   "metacritic": "driven",
    "mobygames": "10107"
   },
   "label_en": "Driven",
@@ -151,7 +158,8 @@
  {
   "enwiki": "Fairy Godmother Tycoon",
   "ids": {
-   "igdb": "fairy-godmother-tycoon"
+   "igdb": "fairy-godmother-tycoon",
+   "metacritic": "fairy-godmother-tycoon"
   },
   "label_en": "Fairy Godmother Tycoon",
   "wikidata": "Q5430958"
@@ -169,6 +177,7 @@
   "enwiki": "NCAA Football 13",
   "ids": {
    "igdb": "ncaa-football-13",
+   "metacritic": "ncaa-football-13",
    "mobygames": "68006"
   },
   "label_en": "NCAA Football 13",
@@ -196,6 +205,7 @@
   "enwiki": "Tak and the Guardians of Gross",
   "ids": {
    "igdb": "tak-and-the-guardians-of-gross",
+   "metacritic": "tak-and-the-guardians-of-gross",
    "mobygames": "81410"
   },
   "label_en": "Tak and the Guardians of Gross",
@@ -205,6 +215,7 @@
   "enwiki": "Takeda (video game)",
   "ids": {
    "igdb": "takeda",
+   "metacritic": "takeda",
    "mobygames": "5435",
    "pcgamingwiki": "Takeda"
   },
@@ -246,6 +257,7 @@
   "enwiki": "Monopoly Streets",
   "ids": {
    "igdb": "monopoly-streets",
+   "metacritic": "monopoly-streets",
    "mobygames": "128264"
   },
   "label_en": "Monopoly Streets",
@@ -256,6 +268,7 @@
   "ids": {
    "howlongtobeat": "14522",
    "igdb": "nba-ballers-chosen-one",
+   "metacritic": "nba-ballers-chosen-one",
    "mobygames": "34423"
   },
   "label_en": "NBA Ballers: Chosen One",
@@ -283,6 +296,7 @@
   "ids": {
    "howlongtobeat": "25193",
    "igdb": "mlb-15-the-show",
+   "metacritic": "mlb-15-the-show",
    "mobygames": "84044"
   },
   "label_en": "MLB 15: The Show",
@@ -316,6 +330,7 @@
   "ids": {
    "howlongtobeat": "29421",
    "igdb": "xing-the-land-beyond",
+   "metacritic": "xing-the-land-beyond",
    "mobygames": "114742",
    "pcgamingwiki": "XING:_The_Land_Beyond",
    "steam": "299400"
@@ -345,6 +360,7 @@
   "ids": {
    "howlongtobeat": "45313",
    "igdb": "alien-swarm-reactive-drop",
+   "metacritic": "alien-swarm-reactive-drop",
    "mobygames": "87238",
    "pcgamingwiki": "Alien_Swarm:_Reactive_Drop",
    "steam": "563560"
@@ -376,6 +392,7 @@
   "ids": {
    "howlongtobeat": "33406",
    "igdb": "suits-a-business-rpg",
+   "metacritic": "suits-a-business-rpg",
    "mobygames": "103506",
    "pcgamingwiki": "Suits:_A_Business_RPG",
    "steam": "410670"
@@ -407,6 +424,7 @@
    "gog": "game/postal_brain_damaged",
    "howlongtobeat": "98503",
    "igdb": "postal-brain-damaged",
+   "metacritic": "postal-brain-damaged",
    "mobygames": "185587",
    "pcgamingwiki": "Postal:_Brain_Damaged",
    "steam": "1359980"
@@ -500,6 +518,7 @@
   "ids": {
    "howlongtobeat": "107896",
    "igdb": "nine-sols",
+   "metacritic": "nine-sols",
    "mobygames": "225050",
    "pcgamingwiki": "Nine_Sols",
    "steam": "1809540"
@@ -520,7 +539,9 @@
    "gog": "game/disney_illusion_island_starring_mickey_and_friends",
    "howlongtobeat": "124051",
    "igdb": "disney-illusion-island",
+   "metacritic": "disney-illusion-island",
    "mobygames": "206559",
+   "pcgamingwiki": "Disney_Illusion_Island",
    "steam": "2054660"
   },
   "label_en": "Disney Illusion Island",
@@ -551,6 +572,7 @@
   "ids": {
    "howlongtobeat": "129805",
    "igdb": "persona-3-reload",
+   "metacritic": "persona-3-reload",
    "mobygames": "216878",
    "pcgamingwiki": "Persona_3_Reload",
    "steam": "2161700"
@@ -870,6 +892,7 @@
   "ids": {
    "howlongtobeat": "46133",
    "igdb": "the-fidelio-incident",
+   "metacritic": "the-fidelio-incident",
    "mobygames": "89225",
    "pcgamingwiki": "The_Fidelio_Incident",
    "steam": "632070"
@@ -901,6 +924,7 @@
   "ids": {
    "howlongtobeat": "5966",
    "igdb": "mevo-and-the-grooveriders",
+   "metacritic": "mevo-the-grooveriders",
    "pcgamingwiki": "Mevo_and_The_Grooveriders",
    "steam": "27600"
   },
@@ -1308,6 +1332,7 @@
  },
  {
   "ids": {
+   "metacritic": "virtualiron-immersive-yoga-practice",
    "pcgamingwiki": "VirtuaLiron_-_Immersive_YOGA_practice",
    "steam": "1156200"
   },

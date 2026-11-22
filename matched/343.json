@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "890",
    "igdb": "batman-vengeance",
+   "metacritic": "batman-vengeance",
    "mobygames": "5190",
    "pcgamingwiki": "Batman:_Vengeance"
   },
@@ -26,6 +27,7 @@
    "gog": "game/superpower_2",
    "howlongtobeat": "20666",
    "igdb": "superpower-2",
+   "metacritic": "superpower-2",
    "mobygames": "17550",
    "pcgamingwiki": "SuperPower_2",
    "steam": "282400"
@@ -37,6 +39,7 @@
   "enwiki": "Q*bert",
   "ids": {
    "igdb": "q-bert",
+   "metacritic": "qbert",
    "mobygames": "8853"
   },
   "label_en": "Q*bert",
@@ -52,6 +55,7 @@
    "gog": "game/freedom_force",
    "howlongtobeat": "3694",
    "igdb": "freedom-force",
+   "metacritic": "freedom-force",
    "mobygames": "6047",
    "pcgamingwiki": "Freedom_Force",
    "steam": "8880"
@@ -116,6 +120,7 @@
    "gog": "game/prey",
    "howlongtobeat": "44590",
    "igdb": "prey--1",
+   "metacritic": "prey",
    "mobygames": "88058",
    "pcgamingwiki": "Prey_(2017)",
    "steam": "480490"
@@ -137,6 +142,7 @@
   "ids": {
    "howlongtobeat": "1977",
    "igdb": "crash-commando",
+   "metacritic": "crash-commando",
    "mobygames": "55527"
   },
   "label_en": "Crash Commando",
@@ -203,6 +209,7 @@
   "ids": {
    "howlongtobeat": "13582",
    "igdb": "card-hunter",
+   "metacritic": "card-hunter",
    "mobygames": "92326",
    "pcgamingwiki": "Card_Hunter",
    "steam": "293260"
@@ -220,6 +227,7 @@
    "gog": "game/ittle_dew",
    "howlongtobeat": "11987",
    "igdb": "ittle-dew",
+   "metacritic": "ittle-dew",
    "mobygames": "64601",
    "pcgamingwiki": "Ittle_Dew",
    "steam": "241320"
@@ -282,6 +290,7 @@
   "ids": {
    "howlongtobeat": "75852",
    "igdb": "call-of-duty-warzone",
+   "metacritic": "call-of-duty-warzone",
    "mobygames": "143392"
   },
   "label_en": "Call of Duty: Warzone",
@@ -293,6 +302,7 @@
    "gog": "game/monster_train",
    "howlongtobeat": "78633",
    "igdb": "monster-train",
+   "metacritic": "monster-train",
    "mobygames": "145833",
    "pcgamingwiki": "Monster_Train",
    "steam": "1102190"
@@ -307,6 +317,7 @@
    "gog": "game/brok_the_investigator",
    "howlongtobeat": "85850",
    "igdb": "brok-the-investigator",
+   "metacritic": "brok-the-investigator",
    "mobygames": "190229",
    "pcgamingwiki": "Brok_the_InvestiGator",
    "steam": "949480"
@@ -336,6 +347,7 @@
    "gog": "game/ashwalkers",
    "howlongtobeat": "91004",
    "igdb": "ashwalkers-a-survival-journey",
+   "metacritic": "ashwalkers-a-survival-journey",
    "mobygames": "162614",
    "pcgamingwiki": "Ashwalkers",
    "steam": "1273690"
@@ -347,6 +359,7 @@
   "ids": {
    "howlongtobeat": "85683",
    "igdb": "100-hidden-snails",
+   "metacritic": "100-hidden-snails",
    "mobygames": "154719",
    "steam": "1446330"
   },
@@ -783,6 +796,7 @@
  {
   "ids": {
    "igdb": "blue-madonna",
+   "metacritic": "blue-madonna-a-carol-reed-story",
    "mobygames": "49831"
   },
   "label_en": "Blue Madonna",
@@ -1117,6 +1131,7 @@
   "ids": {
    "epic": "gearclub-unlimited-3-111087",
    "igdb": "gear-dot-club-unlimited-3--1",
+   "pcgamingwiki": "Gear.Club_Unlimited_3",
    "steam": "3659460"
   },
   "label_en": "Gear.Club Unlimited 3",
@@ -1138,6 +1153,7 @@
   "ids": {
    "gog": "game/pathogenic",
    "igdb": "pathogenic",
+   "pcgamingwiki": "Pathogenic",
    "steam": "3808690"
   },
   "label_en": "Pathogenic",

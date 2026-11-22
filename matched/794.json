@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "14491",
    "igdb": "afrika-korps-vs-desert-rats",
+   "metacritic": "desert-rats-vs-afrika-korps",
    "mobygames": "12373",
    "pcgamingwiki": "Desert_Rats_Vs._Afrika_Korps"
   },
@@ -25,6 +26,7 @@
    "gog": "game/brutal_legend",
    "howlongtobeat": "1345",
    "igdb": "brutal-legend",
+   "metacritic": "brutal-legend",
    "mobygames": "43185",
    "pcgamingwiki": "Brütal_Legend",
    "steam": "225260"
@@ -46,6 +48,7 @@
   "ids": {
    "howlongtobeat": "2498",
    "igdb": "devil-may-cry-3-dante-s-awakening",
+   "metacritic": "devil-may-cry-3-dantes-awakening",
    "mobygames": "18067",
    "pcgamingwiki": "Devil_May_Cry_3:_Dante's_Awakening",
    "steam": "6550"
@@ -69,6 +72,7 @@
   "ids": {
    "howlongtobeat": "10472",
    "igdb": "tomb-raider-iii-adventures-of-lara-croft",
+   "metacritic": "tomb-raider-iii-adventures-of-lara-croft",
    "mobygames": "1428",
    "pcgamingwiki": "Tomb_Raider_III:_Adventures_of_Lara_Croft",
    "steam": "225320"
@@ -80,6 +84,7 @@
   "enwiki": "Pokémon Conquest",
   "ids": {
    "igdb": "pokemon-conquest",
+   "metacritic": "pokemon-conquest",
    "mobygames": "60206"
   },
   "label_en": "Pokémon Conquest",
@@ -90,6 +95,7 @@
   "ids": {
    "howlongtobeat": "6087",
    "igdb": "missile-command",
+   "metacritic": "missile-command-1980",
    "mobygames": "9177"
   },
   "label_en": "Missile Command",
@@ -135,6 +141,7 @@
   "ids": {
    "howlongtobeat": "706",
    "igdb": "atelier-rorona-the-alchemist-of-arland",
+   "metacritic": "atelier-rorona-the-alchemist-of-arland",
    "mobygames": "55238"
   },
   "label_en": "Atelier Rorona: The Alchemist of Arland",
@@ -193,6 +200,7 @@
   "enwiki": "Karnaaj Rally",
   "ids": {
    "igdb": "karnaaj-rally",
+   "metacritic": "karnaaj-rally",
    "mobygames": "44232"
   },
   "label_en": "Karnaaj Rally",
@@ -264,6 +272,7 @@
    "gog": "game/gomo",
    "howlongtobeat": "15203",
    "igdb": "gomo",
+   "metacritic": "gomo",
    "mobygames": "64346",
    "pcgamingwiki": "Gomo",
    "steam": "265330"
@@ -346,6 +355,7 @@
   "ids": {
    "howlongtobeat": "33210",
    "igdb": "earth-defense-force-4-dot-1-the-shadow-of-new-despair",
+   "metacritic": "earth-defense-force-41-the-shadow-of-new-despair",
    "mobygames": "83710",
    "pcgamingwiki": "Earth_Defense_Force_4.1:_The_Shadow_of_New_Despair",
    "steam": "410320"
@@ -359,6 +369,7 @@
    "gog": "game/windbound",
    "howlongtobeat": "76551",
    "igdb": "windbound",
+   "metacritic": "windbound",
    "mobygames": "149711",
    "pcgamingwiki": "Windbound",
    "steam": "1162130"
@@ -962,6 +973,9 @@
   "wikidata": "Q124075794"
  },
  {
+  "ids": {
+   "metacritic": "sandship-crafting-factory"
+  },
   "label_en": "Sandship: Crafting Factory",
   "wikidata": "Q126034794"
  },

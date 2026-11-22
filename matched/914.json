@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "7165",
    "igdb": "pokemon-puzzle-league",
+   "metacritic": "pokemon-puzzle-league",
    "mobygames": "6869"
   },
   "label_en": "Pokémon Puzzle League",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "7504",
    "igdb": "r4-ridge-racer-type-4--1",
+   "metacritic": "r4-ridge-racer-type-4",
    "mobygames": "3701"
   },
   "label_en": "R4: Ridge Racer Type 4",
@@ -32,6 +34,7 @@
   "enwiki": "Odama",
   "ids": {
    "igdb": "odama",
+   "metacritic": "odama",
    "mobygames": "23284"
   },
   "label_en": "Odama",
@@ -62,6 +65,7 @@
   "enwiki": "Dragon Ball: Advanced Adventure",
   "ids": {
    "igdb": "dragon-ball-advanced-adventure",
+   "metacritic": "dragon-ball-advanced-adventure",
    "mobygames": "32885"
   },
   "label_en": "Dragon Ball: Advanced Adventure",
@@ -112,6 +116,7 @@
   "enwiki": "NCAA College Football 2K3",
   "ids": {
    "igdb": "ncaa-college-football-2k3",
+   "metacritic": "ncaa-college-football-2k3",
    "mobygames": "27912"
   },
   "label_en": "NCAA College Football 2K3",
@@ -140,6 +145,9 @@
   "wikidata": "Q11327914"
  },
  {
+  "ids": {
+   "metacritic": "world-of-cheese-hd"
+  },
   "label_en": "World of Cheese",
   "wikidata": "Q15726914"
  },
@@ -156,6 +164,7 @@
   "ids": {
    "howlongtobeat": "36676",
    "igdb": "junk-jack",
+   "metacritic": "junk-jack",
    "mobygames": "100518",
    "pcgamingwiki": "Junk_Jack",
    "steam": "414190"
@@ -179,6 +188,7 @@
   "enwiki": "Endgame (video game)",
   "ids": {
    "igdb": "endgame",
+   "metacritic": "endgame",
    "mobygames": "42887"
   },
   "label_en": "Endgame",
@@ -205,6 +215,7 @@
   "ids": {
    "howlongtobeat": "3197",
    "igdb": "eufloria-hd",
+   "metacritic": "eufloria-hd",
    "mobygames": "68942",
    "pcgamingwiki": "Eufloria_HD",
    "steam": "221180"
@@ -226,6 +237,7 @@
    "gog": "game/the_coma_recut",
    "howlongtobeat": "49417",
    "igdb": "the-coma-recut",
+   "metacritic": "the-coma-recut",
    "mobygames": "96131",
    "pcgamingwiki": "The_Coma:_Recut",
    "steam": "600090"
@@ -238,6 +250,7 @@
   "ids": {
    "howlongtobeat": "68244",
    "igdb": "trials-of-mana",
+   "metacritic": "trials-of-mana",
    "mobygames": "128146",
    "pcgamingwiki": "Trials_of_Mana",
    "steam": "924980"
@@ -281,6 +294,7 @@
    "gog": "game/objects_in_space",
    "howlongtobeat": "60881",
    "igdb": "objects-in-space",
+   "metacritic": "objects-in-space",
    "mobygames": "123156",
    "pcgamingwiki": "Objects_in_Space",
    "steam": "824070"
@@ -314,6 +328,7 @@
  {
   "ids": {
    "igdb": "stapel",
+   "metacritic": "stapel",
    "mobygames": "189373",
    "steam": "1863990"
   },
@@ -738,6 +753,7 @@
  {
   "ids": {
    "igdb": "jump-space",
+   "metacritic": "jump-space",
    "pcgamingwiki": "Jump_Space",
    "steam": "1757300"
   },
@@ -747,6 +763,7 @@
  {
   "ids": {
    "igdb": "now-i-know-my-abcs-2",
+   "metacritic": "now-i-know-my-abcs-2",
    "mobygames": "108811"
   },
   "label_en": "Now I Know My ABCs 2",
@@ -1072,6 +1089,7 @@
   "ids": {
    "howlongtobeat": "8579",
    "igdb": "sin-episodes-emergence",
+   "metacritic": "sin-episodes-emergence",
    "mobygames": "22457",
    "pcgamingwiki": "SiN_Episodes:_Emergence",
    "steam": "1300"

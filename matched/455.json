@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "833",
    "igdb": "bangai-o-spirits",
+   "metacritic": "bangai-o-spirits",
    "mobygames": "36363"
   },
   "label_en": "Bangai-O Spirits",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "8076",
    "igdb": "saints-row-the-third",
+   "metacritic": "saints-row-the-third",
    "mobygames": "53573",
    "pcgamingwiki": "Saints_Row:_The_Third",
    "steam": "55230"
@@ -101,6 +103,7 @@
   "ids": {
    "howlongtobeat": "5042",
    "igdb": "kingdom-hearts-hd-1-dot-5-remix",
+   "metacritic": "kingdom-hearts-hd-15-remix",
    "mobygames": "60820"
   },
   "label_en": "Kingdom Hearts HD 1.5 Remix",
@@ -112,6 +115,7 @@
    "gog": "game/cinders",
    "howlongtobeat": "12152",
    "igdb": "cinders",
+   "metacritic": "cinders",
    "mobygames": "65527",
    "pcgamingwiki": "Cinders",
    "steam": "293680"
@@ -133,6 +137,7 @@
   "enwiki": "Tokyo Xtreme Racer: Drift 2",
   "ids": {
    "igdb": "tokyo-xtreme-racer-drift-2",
+   "metacritic": "tokyo-xtreme-racer-drift-2",
    "mobygames": "138602"
   },
   "label_en": "Tokyo Xtreme Racer: Drift 2",
@@ -213,6 +218,7 @@
   "ids": {
    "howlongtobeat": "31916",
    "igdb": "stardust-galaxy-warriors-stellar-climax",
+   "metacritic": "stardust-galaxy-warriors-stellar-climax",
    "mobygames": "87297",
    "pcgamingwiki": "Stardust_Galaxy_Warriors",
    "steam": "389650"
@@ -242,6 +248,7 @@
   "ids": {
    "howlongtobeat": "48721",
    "igdb": "neighborhorde",
+   "metacritic": "neighborhorde",
    "mobygames": "90013",
    "pcgamingwiki": "Neighborhorde",
    "steam": "446760"
@@ -367,6 +374,7 @@
   "ids": {
    "howlongtobeat": "47003",
    "igdb": "the-takeover",
+   "metacritic": "the-takeover",
    "mobygames": "113914",
    "pcgamingwiki": "The_TakeOver",
    "steam": "418620"

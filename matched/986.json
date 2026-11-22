@@ -6,6 +6,7 @@
    "gog": "game/amnesia_the_dark_descent",
    "howlongtobeat": "440",
    "igdb": "amnesia-the-dark-descent",
+   "metacritic": "amnesia-the-dark-descent",
    "mobygames": "48288",
    "pcgamingwiki": "Amnesia:_The_Dark_Descent",
    "steam": "57300"
@@ -18,6 +19,7 @@
   "ids": {
    "howlongtobeat": "1471",
    "igdb": "call-of-duty-black-ops",
+   "metacritic": "call-of-duty-black-ops",
    "mobygames": "49001",
    "pcgamingwiki": "Call_of_Duty:_Black_Ops",
    "steam": "42700"
@@ -61,6 +63,7 @@
   "ids": {
    "howlongtobeat": "1988",
    "igdb": "crashday",
+   "metacritic": "crashday",
    "mobygames": "21581",
    "pcgamingwiki": "Crashday"
   },
@@ -92,6 +95,7 @@
   "ids": {
    "howlongtobeat": "15642",
    "igdb": "tony-hawk-s-downhill-jam",
+   "metacritic": "tony-hawks-downhill-jam",
    "mobygames": "25561"
   },
   "label_en": "Tony Hawk's Downhill Jam",
@@ -102,6 +106,7 @@
   "ids": {
    "howlongtobeat": "5230",
    "igdb": "legend-of-mana",
+   "metacritic": "legend-of-mana-remastered",
    "mobygames": "4165",
    "pcgamingwiki": "Legend_of_Mana"
   },
@@ -140,6 +145,7 @@
   "ids": {
    "howlongtobeat": "10541",
    "igdb": "total-annihilation-kingdoms",
+   "metacritic": "total-annihilation-kingdoms",
    "mobygames": "1953",
    "pcgamingwiki": "Total_Annihilation:_Kingdoms"
   },
@@ -160,6 +166,7 @@
   "ids": {
    "gog": "game/throne_of_darkness",
    "igdb": "throne-of-darkness",
+   "metacritic": "throne-of-darkness",
    "mobygames": "5118",
    "pcgamingwiki": "Throne_of_Darkness"
   },
@@ -239,6 +246,7 @@
   "enwiki": "Pushmo World",
   "ids": {
    "igdb": "pushmo-world",
+   "metacritic": "pushmo-world",
    "mobygames": "97315"
   },
   "label_en": "Pushmo World",
@@ -249,6 +257,7 @@
    "epic": "assassins-creed-chronicles-india",
    "howlongtobeat": "33522",
    "igdb": "assassins-creed-chronicles-india",
+   "metacritic": "assassins-creed-chronicles-india",
    "mobygames": "76469",
    "pcgamingwiki": "Assassin's_Creed_Chronicles:_India",
    "steam": "359610"
@@ -261,6 +270,7 @@
   "ids": {
    "howlongtobeat": "65861",
    "igdb": "paragon",
+   "metacritic": "paragon",
    "mobygames": "85313",
    "pcgamingwiki": "Paragon"
   },
@@ -282,6 +292,7 @@
    "gog": "game/the_house_of_da_vinci",
    "howlongtobeat": "50011",
    "igdb": "the-house-of-da-vinci",
+   "metacritic": "the-house-of-da-vinci",
    "mobygames": "94044",
    "pcgamingwiki": "The_House_of_Da_Vinci",
    "steam": "522470"
@@ -304,6 +315,7 @@
    "gog": "game/unavowed",
    "howlongtobeat": "54219",
    "igdb": "unavowed",
+   "metacritic": "unavowed",
    "mobygames": "112181",
    "pcgamingwiki": "Unavowed",
    "steam": "336140"
@@ -315,6 +327,7 @@
   "ids": {
    "howlongtobeat": "47803",
    "igdb": "lego-harry-potter-collection",
+   "metacritic": "lego-harry-potter-collection",
    "mobygames": "87449"
   },
   "label_en": "Lego Harry Potter Collection",
@@ -324,6 +337,7 @@
   "ids": {
    "howlongtobeat": "44464",
    "igdb": "pavlov-vr",
+   "metacritic": "pavlov",
    "mobygames": "108170",
    "pcgamingwiki": "Pavlov",
    "steam": "555160"
@@ -373,6 +387,7 @@
  {
   "ids": {
    "igdb": "gazmatera-return-of-the-generals",
+   "pcgamingwiki": "Gazmatera:_Return_of_the_Generals",
    "steam": "1629150"
   },
   "label_en": "Gazmatera: Return Of The Generals",
@@ -393,6 +408,7 @@
    "howlongtobeat": "114331",
    "igdb": "way-down",
    "mobygames": "178615",
+   "pcgamingwiki": "Way_Down",
    "steam": "1867260"
   },
   "label_en": "Way Down",
@@ -410,6 +426,7 @@
   "ids": {
    "howlongtobeat": "46036",
    "igdb": "heliborne-collection",
+   "metacritic": "heliborne",
    "mobygames": "97055",
    "pcgamingwiki": "Heliborne",
    "steam": "433530"

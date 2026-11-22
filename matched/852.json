@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "268",
    "igdb": "age-of-empires-ii-the-age-of-kings",
+   "metacritic": "age-of-empires-ii-the-age-of-kings",
    "mobygames": "368",
    "pcgamingwiki": "Age_of_Empires_II:_The_Age_of_Kings"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "7365",
    "igdb": "prototype",
+   "metacritic": "prototype",
    "mobygames": "41128",
    "pcgamingwiki": "Prototype",
    "steam": "10150"
@@ -27,6 +29,7 @@
   "ids": {
    "howlongtobeat": "5169",
    "igdb": "land-of-the-dead-road-to-fiddler-s-green",
+   "metacritic": "land-of-the-dead-road-to-fiddlers-green",
    "mobygames": "19780",
    "pcgamingwiki": "Land_of_the_Dead:_Road_to_Fiddler's_Green"
   },
@@ -55,6 +58,7 @@
   "enwiki": "Kessen",
   "ids": {
    "igdb": "kessen",
+   "metacritic": "kessen",
    "mobygames": "4241"
   },
   "label_en": "Kessen",
@@ -207,6 +211,7 @@
   "ids": {
    "howlongtobeat": "12286",
    "igdb": "nfl-fever-2003",
+   "metacritic": "nfl-fever-2003",
    "mobygames": "76600"
   },
   "label_en": "NFL Fever 2003",
@@ -249,6 +254,7 @@
    "gog": "game/xmorph_defense_complete_edition",
    "howlongtobeat": "52418",
    "igdb": "x-morph-defense",
+   "metacritic": "x-morph-defense",
    "mobygames": "95422",
    "pcgamingwiki": "X-Morph:_Defense",
    "steam": "408410"
@@ -260,6 +266,7 @@
   "ids": {
    "howlongtobeat": "68603",
    "igdb": "moe-ninja-girls",
+   "metacritic": "moe-ninja-girls",
    "mobygames": "114724",
    "pcgamingwiki": "Moe!_Ninja_Girls",
    "steam": "793150"
@@ -275,6 +282,7 @@
   "ids": {
    "howlongtobeat": "43075",
    "igdb": "sethian",
+   "metacritic": "sethian",
    "mobygames": "211577",
    "pcgamingwiki": "Sethian",
    "steam": "432370"
@@ -288,6 +296,7 @@
    "gog": "game/shadows_awakening",
    "howlongtobeat": "55396",
    "igdb": "shadows-awakening",
+   "metacritic": "shadows-awakening",
    "mobygames": "113036",
    "pcgamingwiki": "Shadows:_Awakening",
    "steam": "585450"
@@ -308,6 +317,7 @@
    "gog": "game/battle_worlds_kronos",
    "howlongtobeat": "16189",
    "igdb": "battle-worlds-kronos",
+   "metacritic": "battle-worlds-kronos",
    "mobygames": "62240",
    "pcgamingwiki": "Battle_Worlds:_Kronos",
    "steam": "237470"
@@ -320,6 +330,7 @@
    "gog": "game/sunrider_mask_of_arcadius",
    "howlongtobeat": "23246",
    "igdb": "sunrider-mask-of-arcadius",
+   "metacritic": "sunrider-mask-of-arcadius",
    "mobygames": "74948",
    "pcgamingwiki": "Sunrider:_Mask_of_Arcadius",
    "steam": "313730"
@@ -332,6 +343,7 @@
   "ids": {
    "howlongtobeat": "83169",
    "igdb": "monster-hunter-rise",
+   "metacritic": "monster-hunter-rise",
    "mobygames": "160124",
    "pcgamingwiki": "Monster_Hunter_Rise",
    "steam": "1446780"
@@ -417,6 +429,7 @@
    "gog": "game/black_future_88",
    "howlongtobeat": "69842",
    "igdb": "black-future-88",
+   "metacritic": "black-future-88",
    "mobygames": "137529",
    "pcgamingwiki": "Black_Future_'88",
    "steam": "751820"
@@ -429,6 +442,7 @@
   "ids": {
    "howlongtobeat": "96594",
    "igdb": "trigger-witch",
+   "metacritic": "trigger-witch",
    "pcgamingwiki": "Trigger_Witch",
    "steam": "1880230"
   },
@@ -464,6 +478,7 @@
  {
   "ids": {
    "igdb": "blake-the-visual-novel",
+   "metacritic": "blake-the-visual-novel",
    "mobygames": "173545",
    "steam": "1538680"
   },
@@ -811,6 +826,7 @@
   "ids": {
    "howlongtobeat": "40209",
    "igdb": "road-to-ballhalla",
+   "metacritic": "road-to-ballhalla",
    "mobygames": "104491",
    "pcgamingwiki": "Road_to_Ballhalla",
    "steam": "425410"
@@ -855,6 +871,7 @@
   "ids": {
    "howlongtobeat": "151309",
    "igdb": "guayota",
+   "metacritic": "guayota",
    "mobygames": "229421",
    "steam": "2506450"
   },
@@ -1213,6 +1230,7 @@
   "ids": {
    "gog": "game/eclipse",
    "igdb": "eclipse",
+   "pcgamingwiki": "Eclipse",
    "steam": "1464380"
   },
   "label_en": "Eclipse",

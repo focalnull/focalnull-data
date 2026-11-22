@@ -18,6 +18,7 @@
    "epic": "red-dead-redemption",
    "howlongtobeat": "7676",
    "igdb": "red-dead-redemption",
+   "metacritic": "red-dead-redemption",
    "mobygames": "46614",
    "pcgamingwiki": "Red_Dead_Redemption",
    "steam": "2668510"
@@ -39,6 +40,7 @@
   "ids": {
    "howlongtobeat": "1190",
    "igdb": "bloodrayne-2",
+   "metacritic": "bloodrayne-2",
    "mobygames": "18287",
    "pcgamingwiki": "BloodRayne_2",
    "steam": "3820"
@@ -50,6 +52,7 @@
   "enwiki": "Boktai: The Sun Is in Your Hand",
   "ids": {
    "igdb": "boktai-the-sun-is-in-your-hand",
+   "metacritic": "boktai-the-sun-is-in-your-hand",
    "mobygames": "10627"
   },
   "label_en": "Boktai: The Sun Is in Your Hand",
@@ -93,6 +96,7 @@
   "enwiki": "Family Party: 30 Great Games Obstacle Arcade",
   "ids": {
    "igdb": "family-party-30-great-games-obstacle-arcade",
+   "metacritic": "family-party-30-great-games-obstacle-arcade",
    "mobygames": "84972"
   },
   "label_en": "Family Party: 30 Great Games Obstacle Arcade",
@@ -111,6 +115,7 @@
   "enwiki": "Marvel Trading Card Game",
   "ids": {
    "igdb": "marvel-trading-card-game",
+   "metacritic": "marvel-trading-card-game",
    "mobygames": "27441"
   },
   "label_en": "Marvel Trading Card Game",
@@ -128,6 +133,7 @@
   "enwiki": "Ultimate I Spy",
   "ids": {
    "igdb": "ultimate-i-spy",
+   "metacritic": "ultimate-i-spy",
    "mobygames": "93757"
   },
   "label_en": "Ultimate I Spy",
@@ -151,6 +157,7 @@
   "ids": {
    "howlongtobeat": "99055",
    "igdb": "spongebob-moves-in",
+   "metacritic": "spongebob-moves-in",
    "mobygames": "93723"
   },
   "label_en": "SpongeBob Moves In!",
@@ -175,6 +182,7 @@
    "gog": "game/besiege",
    "howlongtobeat": "23963",
    "igdb": "besiege",
+   "metacritic": "besiege",
    "mobygames": "84523",
    "pcgamingwiki": "Besiege",
    "steam": "346010"
@@ -185,6 +193,7 @@
  {
   "ids": {
    "igdb": "ratchet-and-clank-before-the-nexus",
+   "metacritic": "ratchet-clank-before-the-nexus",
    "mobygames": "76063"
   },
   "label_en": "Ratchet & Clank: Before the Nexus",
@@ -195,6 +204,7 @@
   "ids": {
    "howlongtobeat": "65722",
    "igdb": "sid-meiers-civilization-vi-rise-and-fall",
+   "metacritic": "sid-meiers-civilization-vi-rise-and-fall",
    "mobygames": "102932",
    "steam": "645402"
   },
@@ -233,7 +243,8 @@
  },
  {
   "ids": {
-   "howlongtobeat": "35665"
+   "howlongtobeat": "35665",
+   "metacritic": "gumby-vs-the-astrobots"
   },
   "wikidata": "Q94580203"
  },
@@ -261,6 +272,7 @@
   "ids": {
    "howlongtobeat": "22056",
    "igdb": "jagged-alliance-flashback",
+   "metacritic": "jagged-alliance-flashback",
    "mobygames": "77010",
    "pcgamingwiki": "Jagged_Alliance_Flashback",
    "steam": "256010"
@@ -361,6 +373,7 @@
    "epic": "hot-wheels-unleashed-2",
    "howlongtobeat": "129536",
    "igdb": "hot-wheels-unleashed-2-turbocharged",
+   "metacritic": "hot-wheels-unleashed-2-turbocharged",
    "mobygames": "210426",
    "pcgamingwiki": "Hot_Wheels_Unleashed_2:_Turbocharged",
    "steam": "2051120"
@@ -372,6 +385,7 @@
   "ids": {
    "howlongtobeat": "7625",
    "igdb": "razor2-hidden-skies",
+   "metacritic": "razor-2-hidden-skies",
    "mobygames": "52896",
    "pcgamingwiki": "Razor2:_Hidden_Skies",
    "steam": "34920"
@@ -482,6 +496,7 @@
   "ids": {
    "howlongtobeat": "86658",
    "igdb": "island-time-vr",
+   "metacritic": "island-time-vr",
    "mobygames": "106510",
    "pcgamingwiki": "Island_Time_VR",
    "steam": "774441"
@@ -586,6 +601,7 @@
    "epic": "hot-lap-racing-586d8a",
    "howlongtobeat": "137628",
    "igdb": "hot-lap-racing",
+   "metacritic": "hot-lap-racing",
    "mobygames": "228656",
    "steam": "2322830"
   },
@@ -712,6 +728,7 @@
  {
   "ids": {
    "igdb": "railway-life",
+   "metacritic": "railway-life",
    "steam": "2868520"
   },
   "label_en": "Railway Life",
@@ -756,6 +773,7 @@
   "ids": {
    "howlongtobeat": "42557",
    "igdb": "gotta-protectors",
+   "metacritic": "gotta-protectors",
    "mobygames": "100495"
   },
   "label_en": "Gotta Protectors",
@@ -764,6 +782,7 @@
  {
   "ids": {
    "igdb": "hurry-up-bird-hunter",
+   "metacritic": "hurry-up-bird-hunter",
    "mobygames": "92897"
   },
   "label_en": "Hurry Up! Bird Hunter",
@@ -773,6 +792,7 @@
   "ids": {
    "howlongtobeat": "31699",
    "igdb": "the-incredible-adventures-of-van-helsing-final-cut",
+   "metacritic": "the-incredible-adventures-of-van-helsing-final-cut",
    "mobygames": "203637",
    "pcgamingwiki": "The_Incredible_Adventures_of_Van_Helsing:_Final_Cut",
    "steam": "400170"
@@ -1017,6 +1037,7 @@
  {
   "ids": {
    "igdb": "last-berserker-endless-war",
+   "pcgamingwiki": "Last_Berserker:_Endless_War",
    "steam": "722890"
   },
   "label_en": "Last Berserker™ : Endless War",

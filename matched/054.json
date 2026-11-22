@@ -25,6 +25,7 @@
    "gog": "game/retro_city_rampage_dx",
    "howlongtobeat": "7756",
    "igdb": "retro-city-rampage",
+   "metacritic": "retro-city-rampage",
    "mobygames": "58235",
    "pcgamingwiki": "Retro_City_Rampage",
    "steam": "204630"
@@ -65,6 +66,7 @@
   "ids": {
    "howlongtobeat": "17500",
    "igdb": "the-sims-2-castaway",
+   "metacritic": "the-sims-2-castaway",
    "mobygames": "36797"
   },
   "label_en": "The Sims 2: Castaway",
@@ -82,7 +84,8 @@
  {
   "enwiki": "Musashi: Samurai Legend",
   "ids": {
-   "igdb": "musashi-samurai-legend"
+   "igdb": "musashi-samurai-legend",
+   "metacritic": "musashi-samurai-legend"
   },
   "label_en": "Musashi: Samurai Legend",
   "wikidata": "Q2538054"
@@ -92,6 +95,7 @@
   "ids": {
    "howlongtobeat": "20396",
    "igdb": "eyetoy-play",
+   "metacritic": "eyetoy-play",
    "mobygames": "11685"
   },
   "label_en": "EyeToy: Play",
@@ -120,6 +124,7 @@
   "ids": {
    "howlongtobeat": "10323",
    "igdb": "thunder-force-v",
+   "metacritic": "thunder-force-v",
    "mobygames": "3978"
   },
   "label_en": "Thunder Force V",
@@ -129,6 +134,7 @@
   "enwiki": "Namco Museum Battle Collection",
   "ids": {
    "igdb": "namco-museum-battle-collection",
+   "metacritic": "namco-museum-battle-collection",
    "mobygames": "18938"
   },
   "label_en": "Namco Museum Battle Collection",
@@ -138,6 +144,7 @@
   "enwiki": "WRC 2: FIA World Rally Championship",
   "ids": {
    "igdb": "wrc-2-fia-world-rally-championship-2011",
+   "metacritic": "wrc-2-fia-world-rally-championship-2011",
    "mobygames": "149433",
    "pcgamingwiki": "WRC_2:_FIA_World_Rally_Championship"
   },
@@ -175,6 +182,7 @@
   "ids": {
    "howlongtobeat": "4345",
    "igdb": "harvey-birdman-attorney-at-law",
+   "metacritic": "harvey-birdman-attorney-at-law",
    "mobygames": "34273"
   },
   "label_en": "Harvey Birdman: Attorney at Law",
@@ -248,7 +256,8 @@
  {
   "enwiki": "Super Monkey Ball: Banana Splitz",
   "ids": {
-   "igdb": "super-monkey-ball-banana-splitz"
+   "igdb": "super-monkey-ball-banana-splitz",
+   "metacritic": "super-monkey-ball-banana-splitz"
   },
   "label_en": "Super Monkey Ball: Banana Splitz",
   "wikidata": "Q16743054"
@@ -277,6 +286,7 @@
   "enwiki": "Carnivores: Cityscape",
   "ids": {
    "igdb": "carnivores-cityscape",
+   "metacritic": "carnivores-cityscape",
    "mobygames": "6659",
    "pcgamingwiki": "Carnivores:_Cityscape"
   },
@@ -337,6 +347,7 @@
    "epic": "bugsnax",
    "howlongtobeat": "80122",
    "igdb": "bugsnax",
+   "metacritic": "bugsnax",
    "mobygames": "153454",
    "pcgamingwiki": "Bugsnax",
    "steam": "674140"
@@ -349,6 +360,7 @@
    "gog": "game/the_raven_remastered",
    "howlongtobeat": "54254",
    "igdb": "the-raven-remastered",
+   "metacritic": "the-raven-remastered",
    "mobygames": "105244",
    "pcgamingwiki": "The_Raven_Remastered",
    "steam": "736810"
@@ -422,6 +434,7 @@
   "ids": {
    "howlongtobeat": "112672",
    "igdb": "moonbreaker",
+   "metacritic": "moonbreaker",
    "mobygames": "192206",
    "pcgamingwiki": "Moonbreaker",
    "steam": "845890"
@@ -454,6 +467,7 @@
    "howlongtobeat": "110131",
    "igdb": "how-to-say-goodbye",
    "mobygames": "193578",
+   "pcgamingwiki": "How_to_Say_Goodbye",
    "steam": "1709700"
   },
   "label_en": "How to Say Goodbye",
@@ -465,6 +479,7 @@
    "howlongtobeat": "128124",
    "igdb": "scarlet-deer-inn",
    "mobygames": "264891",
+   "pcgamingwiki": "Scarlet_Deer_Inn",
    "steam": "1553260"
   },
   "label_en": "Scarlet Deer Inn",
@@ -476,6 +491,7 @@
    "epic": "33-immortals-9873a2",
    "howlongtobeat": "129952",
    "igdb": "33-immortals",
+   "metacritic": "33-immortals",
    "mobygames": "239220",
    "pcgamingwiki": "33_Immortals",
    "steam": "958520"
@@ -488,6 +504,7 @@
   "ids": {
    "howlongtobeat": "129956",
    "igdb": "metaphor-refantazio",
+   "metacritic": "metaphor-refantazio",
    "mobygames": "231733",
    "pcgamingwiki": "Metaphor:_ReFantazio",
    "steam": "2679460"
@@ -750,6 +767,7 @@
    "epic": "tales-of-kenzera",
    "howlongtobeat": "141842",
    "igdb": "tales-of-kenzera-zau",
+   "metacritic": "tales-of-kenzera-zau",
    "mobygames": "222622",
    "pcgamingwiki": "Tales_of_Kenzera:_ZAU",
    "steam": "2316580"
@@ -903,6 +921,7 @@
   "ids": {
    "howlongtobeat": "122029",
    "igdb": "evofish",
+   "metacritic": "evofish",
    "mobygames": "97691"
   },
   "label_en": "Evofish",
@@ -1191,6 +1210,7 @@
  {
   "ids": {
    "igdb": "steel-panthers-world-at-war",
+   "metacritic": "steel-panthers-world-at-war",
    "mobygames": "2776"
   },
   "label_en": "Steel Panthers: World at War",
@@ -1207,6 +1227,7 @@
  {
   "ids": {
    "igdb": "battlefield-redsec",
+   "pcgamingwiki": "Battlefield_REDSEC",
    "steam": "3028330"
   },
   "label_en": "Battlefield REDSEC",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5625",
    "igdb": "mario-bros",
+   "metacritic": "arcade-archives-mario-bros",
    "mobygames": "7301"
   },
   "label_en": "Mario Bros.",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "15834",
    "igdb": "sports-champions-2",
+   "metacritic": "sports-champions-2",
    "mobygames": "66003"
   },
   "label_en": "Sports Champions 2",
@@ -32,6 +34,7 @@
   "ids": {
    "howlongtobeat": "10121",
    "igdb": "the-operative-no-one-lives-forever",
+   "metacritic": "the-operative-no-one-lives-forever",
    "mobygames": "2617",
    "pcgamingwiki": "The_Operative:_No_One_Lives_Forever"
   },
@@ -51,6 +54,7 @@
    "gog": "game/postal_2",
    "howlongtobeat": "7240",
    "igdb": "postal-2",
+   "metacritic": "postal-2-share-the-pain",
    "mobygames": "8952",
    "pcgamingwiki": "Postal_2",
    "steam": "223470"
@@ -74,6 +78,7 @@
   "enwiki": "Jonny Moseley Mad Trix",
   "ids": {
    "igdb": "jonny-moseley-mad-trix",
+   "metacritic": "jonny-moseley-mad-trix",
    "mobygames": "7336"
   },
   "label_en": "Jonny Moseley Mad Trix",
@@ -91,6 +96,7 @@
   "enwiki": "Fight Night Round 4",
   "ids": {
    "igdb": "fight-night-round-4",
+   "metacritic": "fight-night-round-4",
    "mobygames": "41441"
   },
   "label_en": "Fight Night Round 4",
@@ -100,6 +106,7 @@
   "enwiki": "Tenchu: Shadow Assassins",
   "ids": {
    "igdb": "tenchu-shadow-assassins",
+   "metacritic": "tenchu-shadow-assassins",
    "mobygames": "59866"
   },
   "label_en": "Tenchu: Shadow Assassins",
@@ -152,6 +159,7 @@
   "ids": {
    "howlongtobeat": "18829",
    "igdb": "sportsfriends",
+   "metacritic": "sportsfriends",
    "mobygames": "70550",
    "pcgamingwiki": "Sportsfriends",
    "steam": "277850"
@@ -163,6 +171,7 @@
   "enwiki": "Stacked with Daniel Negreanu",
   "ids": {
    "igdb": "stacked-with-daniel-negreanu",
+   "metacritic": "stacked-with-daniel-negreanu",
    "mobygames": "44151"
   },
   "label_en": "Stacked with Daniel Negreanu",
@@ -196,6 +205,7 @@
   "ids": {
    "howlongtobeat": "3660",
    "igdb": "fortune-summoners-secret-of-the-elemental-stone",
+   "metacritic": "fortune-summoners-secret-of-the-elemental-stone",
    "mobygames": "100918",
    "pcgamingwiki": "Fortune_Summoners:_Secret_of_the_Elemental_Stone",
    "steam": "203510"
@@ -212,6 +222,7 @@
   "ids": {
    "howlongtobeat": "20067",
    "igdb": "the-order-1886",
+   "metacritic": "the-order-1886",
    "mobygames": "71330"
   },
   "label_en": "The Order: 1886",
@@ -232,7 +243,8 @@
  {
   "enwiki": "Temple of Yog",
   "ids": {
-   "igdb": "temple-of-yog"
+   "igdb": "temple-of-yog",
+   "metacritic": "temple-of-yog"
   },
   "label_en": "Temple of Yog",
   "wikidata": "Q55381968"
@@ -244,6 +256,7 @@
    "gog": "game/empires_of_the_undergrowth",
    "howlongtobeat": "56441",
    "igdb": "empires-of-the-undergrowth",
+   "metacritic": "empires-of-the-undergrowth",
    "mobygames": "99046",
    "pcgamingwiki": "Empires_of_the_Undergrowth",
    "steam": "463530"
@@ -268,6 +281,7 @@
    "gog": "game/yakuza_like_a_dragon_hero_edition",
    "howlongtobeat": "71931",
    "igdb": "yakuza-like-a-dragon",
+   "metacritic": "yakuza-like-a-dragon",
    "mobygames": "153150",
    "pcgamingwiki": "Yakuza:_Like_a_Dragon",
    "steam": "1235140"
@@ -291,6 +305,7 @@
   "ids": {
    "howlongtobeat": "92511",
    "igdb": "powerwash-simulator",
+   "metacritic": "powerwash-simulator",
    "mobygames": "188039",
    "pcgamingwiki": "PowerWash_Simulator",
    "steam": "1290000"
@@ -784,6 +799,7 @@
    "epic": "dying-light-the-beast-60a36c",
    "howlongtobeat": "155650",
    "igdb": "dying-light-the-beast",
+   "metacritic": "dying-light-the-beast",
    "mobygames": "248088",
    "pcgamingwiki": "Dying_Light:_The_Beast",
    "steam": "3008130"

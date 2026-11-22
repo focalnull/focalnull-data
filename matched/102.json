@@ -6,6 +6,7 @@
    "gog": "game/fallout",
    "howlongtobeat": "3338",
    "igdb": "fallout-a-post-nuclear-role-playing-game",
+   "metacritic": "fallout",
    "mobygames": "223",
    "pcgamingwiki": "Fallout",
    "steam": "38400"
@@ -18,6 +19,7 @@
   "ids": {
    "howlongtobeat": "14293",
    "igdb": "zoo-tycoon",
+   "metacritic": "zoo-tycoon-2001",
    "mobygames": "5524",
    "pcgamingwiki": "Zoo_Tycoon"
   },
@@ -28,6 +30,7 @@
   "enwiki": "Outtrigger (video game)",
   "ids": {
    "igdb": "outtrigger",
+   "metacritic": "outtrigger",
    "mobygames": "20683"
   },
   "label_en": "Outtrigger",
@@ -54,6 +57,7 @@
   "ids": {
    "howlongtobeat": "5086",
    "igdb": "kirby-squeak-squad",
+   "metacritic": "kirby-squeak-squad",
    "mobygames": "25241"
   },
   "label_en": "Kirby: Squeak Squad",
@@ -63,6 +67,7 @@
   "enwiki": "Rayman Raving Rabbids: TV Party",
   "ids": {
    "igdb": "rayman-raving-rabbids-tv-party",
+   "metacritic": "rayman-raving-rabbids-tv-party",
    "mobygames": "38248"
   },
   "label_en": "Rayman Raving Rabbids: TV Party",
@@ -109,6 +114,7 @@
   "ids": {
    "howlongtobeat": "2182",
    "igdb": "dance-dance-revolution-ultramix-3",
+   "metacritic": "dance-dance-revolution-ultramix-3",
    "mobygames": "20681"
   },
   "label_en": "Dance Dance Revolution Ultramix 3",
@@ -156,6 +162,7 @@
   "ids": {
    "howlongtobeat": "28566",
    "igdb": "adr1ft",
+   "metacritic": "adr1ft",
    "mobygames": "79646",
    "pcgamingwiki": "Adrift",
    "steam": "300060"
@@ -168,6 +175,7 @@
   "ids": {
    "howlongtobeat": "49881",
    "igdb": "cube-life-island-survival",
+   "metacritic": "cube-life-island-survival",
    "mobygames": "100684",
    "pcgamingwiki": "Cube_Life:_Island_Survival",
    "steam": "760800"
@@ -179,6 +187,7 @@
   "ids": {
    "howlongtobeat": "34935",
    "igdb": "dungelot-shattered-lands",
+   "metacritic": "dungelot-shattered-lands",
    "mobygames": "101424",
    "pcgamingwiki": "Dungelot:_Shattered_Lands",
    "steam": "403940"
@@ -198,6 +207,7 @@
   "enwiki": "Lilo & Stitch: Trouble in Paradise",
   "ids": {
    "igdb": "disneys-lilo-and-stitch-trouble-in-paradise",
+   "metacritic": "disneys-lilo-stitch",
    "mobygames": "41300",
    "pcgamingwiki": "Lilo_&_Stitch:_Trouble_in_Paradise"
   },
@@ -219,6 +229,7 @@
   "ids": {
    "howlongtobeat": "3076",
    "igdb": "element4l",
+   "metacritic": "element4l",
    "mobygames": "70522",
    "pcgamingwiki": "Element4l",
    "steam": "235820"
@@ -237,6 +248,7 @@
    "gog": "game/mafia_definitive_edition",
    "howlongtobeat": "78135",
    "igdb": "mafia-definitive-edition",
+   "metacritic": "mafia-definitive-edition",
    "mobygames": "150805",
    "pcgamingwiki": "Mafia:_Definitive_Edition",
    "steam": "1030840"
@@ -273,6 +285,7 @@
    "gog": "game/jack_move",
    "howlongtobeat": "76611",
    "igdb": "jack-move",
+   "metacritic": "jack-move",
    "mobygames": "190829",
    "pcgamingwiki": "Jack_Move",
    "steam": "1099640"
@@ -296,6 +309,7 @@
    "epic": "omno",
    "howlongtobeat": "86978",
    "igdb": "omno",
+   "metacritic": "omno",
    "mobygames": "168463",
    "pcgamingwiki": "Omno",
    "steam": "969760"
@@ -307,6 +321,7 @@
   "enwiki": "Big Brain Academy: Brain vs. Brain",
   "ids": {
    "igdb": "big-brain-academy-brain-vs-brain",
+   "metacritic": "big-brain-academy-brain-vs-brain",
    "mobygames": "176393"
   },
   "label_en": "Big Brain Academy: Brain vs. Brain",

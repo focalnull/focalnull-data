@@ -13,6 +13,7 @@
   "enwiki": "Dead or Alive Xtreme Beach Volleyball",
   "ids": {
    "igdb": "dead-or-alive-xtreme-beach-volleyball",
+   "metacritic": "dead-or-alive-xtreme-beach-volleyball",
    "mobygames": "8242"
   },
   "label_en": "Dead or Alive Xtreme Beach Volleyball",
@@ -66,6 +67,7 @@
   "ids": {
    "howlongtobeat": "10737",
    "igdb": "ty-the-tasmanian-tiger",
+   "metacritic": "ty-the-tasmanian-tiger",
    "mobygames": "10595",
    "pcgamingwiki": "TY_the_Tasmanian_Tiger",
    "steam": "411960"
@@ -77,6 +79,7 @@
   "enwiki": "Forgotten Worlds",
   "ids": {
    "igdb": "forgotten-worlds",
+   "metacritic": "forgotten-worlds",
    "mobygames": "3871"
   },
   "label_en": "Forgotten Worlds",
@@ -87,6 +90,7 @@
   "ids": {
    "howlongtobeat": "15026",
    "igdb": "trackmania-turbo-build-to-race",
+   "metacritic": "trackmania-build-to-race",
    "mobygames": "51100"
   },
   "label_en": "TrackMania",
@@ -181,6 +185,7 @@
    "gog": "game/leisure_suit_larry_reloaded",
    "howlongtobeat": "5272",
    "igdb": "leisure-suit-larry-reloaded",
+   "metacritic": "leisure-suit-larry-reloaded",
    "mobygames": "61088",
    "pcgamingwiki": "Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards:_Reloaded",
    "steam": "231910"
@@ -255,6 +260,7 @@
   "ids": {
    "howlongtobeat": "6585",
    "igdb": "ni-no-kuni-wrath-of-the-white-witch",
+   "metacritic": "ni-no-kuni-wrath-of-the-white-witch",
    "mobygames": "59783"
   },
   "label_en": "Ni no Kuni: Wrath of the White Witch",
@@ -264,6 +270,7 @@
   "enwiki": "Naruto Shippuden: Ultimate Ninja Impact",
   "ids": {
    "igdb": "naruto-shippuden-ultimate-ninja-impact",
+   "metacritic": "naruto-shippuden-ultimate-ninja-impact",
    "mobygames": "83458"
   },
   "label_en": "Naruto Shippūden: Ultimate Ninja Impact",
@@ -298,6 +305,7 @@
    "epic": "hue",
    "howlongtobeat": "38008",
    "igdb": "hue",
+   "metacritic": "hue",
    "mobygames": "80494",
    "pcgamingwiki": "Hue",
    "steam": "383270"
@@ -342,6 +350,7 @@
   "ids": {
    "howlongtobeat": "59465",
    "igdb": "mega-man-x-legacy-collection",
+   "metacritic": "mega-man-x-legacy-collection",
    "mobygames": "110647",
    "pcgamingwiki": "Mega_Man_X_Legacy_Collection",
    "steam": "743890"
@@ -354,6 +363,7 @@
   "ids": {
    "howlongtobeat": "70152",
    "igdb": "little-town-hero",
+   "metacritic": "little-town-hero",
    "pcgamingwiki": "Little_Town_Hero",
    "steam": "1183510"
   },
@@ -364,6 +374,7 @@
   "ids": {
    "howlongtobeat": "60245",
    "igdb": "night-trap-25th-anniversary-edition",
+   "metacritic": "night-trap-25th-anniversary-edition",
    "mobygames": "94520",
    "pcgamingwiki": "Night_Trap_-_25th_Anniversary_Edition",
    "steam": "643620"
@@ -397,7 +408,9 @@
   "ids": {
    "howlongtobeat": "112774",
    "igdb": "blade-and-sword--1",
+   "metacritic": "blade-and-sword",
    "mobygames": "17175",
+   "pcgamingwiki": "Blade&Sword",
    "steam": "1792820"
   },
   "label_en": "Blade & Sword",
@@ -411,6 +424,7 @@
   "ids": {
    "howlongtobeat": "64895",
    "igdb": "alices-adventures",
+   "metacritic": "alices-adventures-hidden-object",
    "pcgamingwiki": "Alice's_Adventures._Hidden_Object",
    "steam": "839670"
   },
@@ -838,6 +852,9 @@
   "wikidata": "Q125693302"
  },
  {
+  "ids": {
+   "metacritic": "train-sim-world-founders-edition"
+  },
   "label_en": "Train Sim World: Founders Edition",
   "wikidata": "Q125697302"
  },
@@ -1145,6 +1162,7 @@
  {
   "ids": {
    "igdb": "nonograms-prophecy",
+   "pcgamingwiki": "Nonograms_Prophecy",
    "steam": "751100"
   },
   "label_en": "Nonograms Prophecy",

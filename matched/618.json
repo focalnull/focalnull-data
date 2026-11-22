@@ -48,6 +48,7 @@
   "enwiki": "Nervous Brickdown",
   "ids": {
    "igdb": "nervous-brickdown",
+   "metacritic": "nervous-brickdown",
    "mobygames": "35154"
   },
   "label_en": "Nervous Brickdown",
@@ -74,6 +75,7 @@
   "enwiki": "Evolution Skateboarding",
   "ids": {
    "igdb": "evolution-skateboarding",
+   "metacritic": "evolution-skateboarding",
    "mobygames": "147376"
   },
   "label_en": "Evolution Skateboarding",
@@ -102,6 +104,7 @@
   "ids": {
    "howlongtobeat": "14344",
    "igdb": "nba-2k14",
+   "metacritic": "nba-2k14",
    "mobygames": "62805",
    "pcgamingwiki": "NBA_2K14",
    "steam": "255480"
@@ -132,6 +135,7 @@
    "gog": "game/paranautical_activity",
    "howlongtobeat": "6920",
    "igdb": "paranautical-activity",
+   "metacritic": "paranautical-activity",
    "mobygames": "69114",
    "pcgamingwiki": "Paranautical_Activity",
    "steam": "250580"
@@ -144,6 +148,7 @@
   "ids": {
    "howlongtobeat": "23872",
    "igdb": "tearaway-unfolded",
+   "metacritic": "tearaway-unfolded",
    "mobygames": "75002"
   },
   "label_en": "Tearaway Unfolded",
@@ -153,6 +158,7 @@
   "ids": {
    "howlongtobeat": "34717",
    "igdb": "prospekt",
+   "metacritic": "prospekt",
    "mobygames": "130177",
    "pcgamingwiki": "Prospekt",
    "steam": "399120"
@@ -182,6 +188,7 @@
   "enwiki": "Pokémon Diamond",
   "ids": {
    "igdb": "pokemon-diamond-version",
+   "metacritic": "pokemon-diamond-version",
    "mobygames": "27727"
   },
   "label_en": "Pokémon Diamond",
@@ -191,6 +198,7 @@
   "ids": {
    "howlongtobeat": "57647",
    "igdb": "wild-west-online",
+   "metacritic": "wild-west-online",
    "mobygames": "108527",
    "pcgamingwiki": "Wild_West_Online",
    "steam": "743860"
@@ -219,6 +227,7 @@
   "ids": {
    "howlongtobeat": "31910",
    "igdb": "void-and-meddler",
+   "metacritic": "void-and-meddler",
    "mobygames": "83285",
    "pcgamingwiki": "Void_and_Meddler",
    "steam": "377970"
@@ -231,6 +240,7 @@
    "gog": "game/orphan",
    "howlongtobeat": "62316",
    "igdb": "orphan",
+   "metacritic": "orphan",
    "pcgamingwiki": "Orphan",
    "steam": "549700"
   },
@@ -242,6 +252,7 @@
   "ids": {
    "howlongtobeat": "80855",
    "igdb": "nascar-heat-5",
+   "metacritic": "nascar-heat-5",
    "mobygames": "148002",
    "pcgamingwiki": "NASCAR_Heat_5",
    "steam": "1265860"
@@ -261,6 +272,7 @@
   "ids": {
    "howlongtobeat": "93959",
    "igdb": "soulstice",
+   "metacritic": "soulstice",
    "mobygames": "191448",
    "pcgamingwiki": "Soulstice",
    "steam": "1602080"
@@ -300,6 +312,7 @@
    "epic": "the-magnificent-trufflepigs",
    "howlongtobeat": "89602",
    "igdb": "the-magnificent-trufflepigs",
+   "metacritic": "the-magnificent-trufflepigs",
    "mobygames": "165902",
    "pcgamingwiki": "The_Magnificent_Trufflepigs",
    "steam": "1529550"
@@ -320,6 +333,7 @@
   "ids": {
    "howlongtobeat": "12207",
    "igdb": "bridge-project",
+   "metacritic": "bridge-project",
    "mobygames": "61083",
    "pcgamingwiki": "Bridge_Project",
    "steam": "232950"
@@ -359,6 +373,7 @@
   "ids": {
    "howlongtobeat": "61986",
    "igdb": "headliner-novinews",
+   "metacritic": "headliner-novinews",
    "mobygames": "116665",
    "pcgamingwiki": "Headliner:_NoviNews",
    "steam": "918820"
@@ -393,6 +408,7 @@
   "ids": {
    "howlongtobeat": "113567",
    "igdb": "rune-factory-3-special",
+   "metacritic": "rune-factory-3-special",
    "mobygames": "208287",
    "pcgamingwiki": "Rune_Factory_3_Special",
    "steam": "2243710"
@@ -472,6 +488,7 @@
   "ids": {
    "howlongtobeat": "77386",
    "igdb": "deemo-reborn",
+   "metacritic": "deemo-reborn",
    "steam": "1282210"
   },
   "label_en": "DEEMO -Reborn-",
@@ -715,6 +732,7 @@
   "ids": {
    "howlongtobeat": "26302",
    "igdb": "lost-orbit",
+   "metacritic": "lost-orbit",
    "mobygames": "86831",
    "pcgamingwiki": "Lost_Orbit",
    "steam": "282640"
@@ -801,6 +819,7 @@
   "ids": {
    "howlongtobeat": "154069",
    "igdb": "hollow-home",
+   "metacritic": "hollow-home",
    "steam": "2362070"
   },
   "label_en": "Hollow Home",
@@ -1131,6 +1150,7 @@
  {
   "ids": {
    "igdb": "football-manager-2020-touch",
+   "pcgamingwiki": "Football_Manager_2020_Touch",
    "steam": "1100620"
   },
   "label_en": "Football Manager 2020 Touch",

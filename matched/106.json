@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "4061",
    "igdb": "grand-theft-auto-iii",
+   "metacritic": "grand-theft-auto-iii",
    "mobygames": "5189",
    "pcgamingwiki": "Grand_Theft_Auto_III",
    "steam": "12100"
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "9664",
    "igdb": "tekken-3",
+   "metacritic": "tekken-3",
    "mobygames": "3569"
   },
   "label_en": "Tekken 3",
@@ -50,6 +52,7 @@
   "enwiki": "Pro Evolution Soccer 2011",
   "ids": {
    "igdb": "pro-evolution-soccer-2011",
+   "metacritic": "pro-evolution-soccer-2011",
    "mobygames": "49186",
    "pcgamingwiki": "Pro_Evolution_Soccer_2011"
   },
@@ -70,6 +73,7 @@
   "ids": {
    "howlongtobeat": "5220",
    "igdb": "legaia-2-duel-saga",
+   "metacritic": "legaia-2-duel-saga",
    "mobygames": "7576"
   },
   "label_en": "Legaia 2: Duel Saga",
@@ -104,6 +108,7 @@
   "enwiki": "Open Season (video game)",
   "ids": {
    "igdb": "open-season",
+   "metacritic": "open-season",
    "mobygames": "23780",
    "pcgamingwiki": "Open_Season"
   },
@@ -150,7 +155,8 @@
  {
   "enwiki": "Dance Dance Revolution Universe",
   "ids": {
-   "igdb": "dance-dance-revolution-universe"
+   "igdb": "dance-dance-revolution-universe",
+   "metacritic": "dance-dance-revolution-universe"
   },
   "label_en": "Dance Dance Revolution Universe",
   "wikidata": "Q5215106"
@@ -185,6 +191,7 @@
   "ids": {
    "howlongtobeat": "5635",
    "igdb": "mario-kart-8",
+   "metacritic": "mario-kart-8",
    "mobygames": "65975"
   },
   "label_en": "Mario Kart 8",
@@ -195,6 +202,7 @@
   "ids": {
    "howlongtobeat": "46467",
    "igdb": "black-desert",
+   "metacritic": "black-desert",
    "mobygames": "89191",
    "pcgamingwiki": "Black_Desert_Online",
    "steam": "582660"
@@ -229,6 +237,7 @@
   "ids": {
    "howlongtobeat": "53186",
    "igdb": "sword-art-online-fatal-bullet",
+   "metacritic": "sword-art-online-fatal-bullet",
    "mobygames": "103987",
    "pcgamingwiki": "Sword_Art_Online:_Fatal_Bullet",
    "steam": "626690"
@@ -258,6 +267,7 @@
   "ids": {
    "howlongtobeat": "18235",
    "igdb": "tiny-barbarian-dx",
+   "metacritic": "tiny-barbarian-dx",
    "mobygames": "64032",
    "pcgamingwiki": "Tiny_Barbarian_DX",
    "steam": "253350"
@@ -300,6 +310,7 @@
    "howlongtobeat": "127199",
    "igdb": "little-league-world-series-baseball-2022",
    "mobygames": "189315",
+   "pcgamingwiki": "Little_League_World_Series_Baseball_2022",
    "steam": "1681890"
   },
   "label_en": "Little League World Series Baseball 2022",
@@ -341,6 +352,7 @@
    "gog": "game/idoldays",
    "howlongtobeat": "112047",
    "igdb": "idol-days",
+   "metacritic": "idoldays",
    "mobygames": "166456",
    "steam": "1576130"
   },
@@ -624,7 +636,8 @@
  {
   "enwiki": "Temirana: The Lucky Princess and the Tragic Knights",
   "ids": {
-   "igdb": "temirana-the-lucky-princess-and-the-tragic-knights"
+   "igdb": "temirana-the-lucky-princess-and-the-tragic-knights",
+   "metacritic": "temirana-the-lucky-princess-and-the-tragic-knights"
   },
   "label_en": "Temirana: The Lucky Princess and the Tragic Knights",
   "wikidata": "Q123174106"

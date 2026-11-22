@@ -17,6 +17,7 @@
    "gog": "game/psychonauts",
    "howlongtobeat": "7372",
    "igdb": "psychonauts",
+   "metacritic": "psychonauts",
    "mobygames": "17451",
    "pcgamingwiki": "Psychonauts",
    "steam": "3830"
@@ -28,6 +29,7 @@
   "enwiki": "Monopoly Tycoon",
   "ids": {
    "igdb": "monopoly-tycoon",
+   "metacritic": "monopoly-tycoon-2001",
    "mobygames": "5151",
    "pcgamingwiki": "Monopoly_Tycoon"
   },
@@ -43,6 +45,7 @@
   "ids": {
    "howlongtobeat": "635",
    "igdb": "arthur-and-the-invisibles",
+   "metacritic": "arthur-and-the-invisibles",
    "mobygames": "43266",
    "pcgamingwiki": "Arthur_and_the_Invisibles"
   },
@@ -138,6 +141,7 @@
   "ids": {
    "howlongtobeat": "80410",
    "igdb": "the-powder-toy",
+   "pcgamingwiki": "The_Powder_Toy",
    "steam": "1148350"
   },
   "label_en": "The Powder Toy",
@@ -170,6 +174,7 @@
    "epic": "mount-and-blade-2",
    "howlongtobeat": "32401",
    "igdb": "mount-and-blade-ii-bannerlord",
+   "metacritic": "mount-blade-ii-bannerlord",
    "mobygames": "144059",
    "pcgamingwiki": "Mount_&_Blade_II:_Bannerlord",
    "steam": "261550"
@@ -181,6 +186,7 @@
   "ids": {
    "howlongtobeat": "77160",
    "igdb": "cia-operative-solo-missions",
+   "metacritic": "cia-operative-solo-missions",
    "mobygames": "5384",
    "pcgamingwiki": "CIA_Operative:_Solo_Missions"
   },
@@ -219,6 +225,7 @@
    "gog": "game/seum_speedrunners_from_hell",
    "howlongtobeat": "38997",
    "igdb": "seum-speedrunners-from-hell",
+   "metacritic": "seum-speedrunners-from-hell",
    "mobygames": "96266",
    "pcgamingwiki": "Seum:_Speedrunners_from_Hell",
    "steam": "457210"
@@ -237,7 +244,8 @@
  {
   "ids": {
    "igdb": "riding-champion-legacy-of-rosemond-hill",
-   "mobygames": "44358"
+   "mobygames": "44358",
+   "pcgamingwiki": "Riding_Champion:_Legacy_of_Rosemond_Hill"
   },
   "label_en": "Riding Champion: Legacy of Rosemond Hill",
   "wikidata": "Q53678009"
@@ -247,6 +255,7 @@
   "ids": {
    "howlongtobeat": "39325",
    "igdb": "spaceplan",
+   "metacritic": "spaceplan",
    "mobygames": "89072",
    "pcgamingwiki": "Spaceplan",
    "steam": "616110"
@@ -289,6 +298,7 @@
   "ids": {
    "howlongtobeat": "77546",
    "igdb": "112-operator",
+   "metacritic": "112-operator",
    "mobygames": "144816",
    "pcgamingwiki": "112_Operator",
    "steam": "793460"
@@ -374,13 +384,17 @@
   "wikidata": "Q116320009"
  },
  {
+  "ids": {
+   "metacritic": "charadium-ii-hd"
+  },
   "label_en": "Draw Mania",
   "wikidata": "Q120581009"
  },
  {
   "enwiki": "Kard Combat",
   "ids": {
-   "igdb": "kard-combat"
+   "igdb": "kard-combat",
+   "metacritic": "kard-combat"
   },
   "label_en": "Kard Combat",
   "wikidata": "Q121579009"
@@ -686,6 +700,7 @@
   "ids": {
    "howlongtobeat": "21817",
    "igdb": "frozen-synapse-prime",
+   "metacritic": "frozen-synapse-prime",
    "mobygames": "70580",
    "pcgamingwiki": "Frozen_Synapse_Prime",
    "steam": "328600"
@@ -748,6 +763,7 @@
   "ids": {
    "howlongtobeat": "35534",
    "igdb": "swapquest",
+   "metacritic": "swapquest",
    "mobygames": "88448",
    "pcgamingwiki": "SwapQuest",
    "steam": "679690"
@@ -760,6 +776,7 @@
   "ids": {
    "howlongtobeat": "146391",
    "igdb": "terminator-survivors",
+   "metacritic": "terminator-survivors",
    "pcgamingwiki": "Terminator:_Survivors",
    "steam": "2617340"
   },
@@ -798,6 +815,7 @@
  {
   "ids": {
    "igdb": "skorb",
+   "metacritic": "skorb",
    "mobygames": "101457"
   },
   "label_en": "SKORB",
@@ -1174,6 +1192,7 @@
  {
   "ids": {
    "igdb": "don-pepe-and-his-balloons",
+   "metacritic": "don-pepe-y-sus-globos",
    "steam": "4079810"
   },
   "label_en": "Don Pepe y sus globos",

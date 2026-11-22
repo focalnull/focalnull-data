@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "6486",
    "igdb": "need-for-speed-underground-2",
+   "metacritic": "need-for-speed-underground-2",
    "mobygames": "15699",
    "pcgamingwiki": "Need_for_Speed:_Underground_2"
   },
@@ -64,6 +65,7 @@
   "enwiki": "Unreal Championship",
   "ids": {
    "igdb": "unreal-championship",
+   "metacritic": "unreal-championship",
    "mobygames": "7786"
   },
   "label_en": "Unreal Championship",
@@ -74,6 +76,7 @@
   "ids": {
    "howlongtobeat": "1676",
    "igdb": "children-of-mana",
+   "metacritic": "children-of-mana",
    "mobygames": "21619"
   },
   "label_en": "Children of Mana",
@@ -126,6 +129,7 @@
   "ids": {
    "howlongtobeat": "6844",
    "igdb": "over-g-fighters",
+   "metacritic": "over-g-fighters",
    "mobygames": "23160"
   },
   "label_en": "Over G Fighters",
@@ -214,6 +218,7 @@
   "ids": {
    "howlongtobeat": "38",
    "igdb": "10000000",
+   "metacritic": "10000000",
    "mobygames": "60208",
    "pcgamingwiki": "10000000",
    "steam": "227580"
@@ -226,6 +231,7 @@
   "ids": {
    "howlongtobeat": "12959",
    "igdb": "might-and-magic-x-legacy--1",
+   "metacritic": "might-magic-x-legacy",
    "mobygames": "63116",
    "pcgamingwiki": "Might_&_Magic_X_-_Legacy",
    "steam": "238750"
@@ -241,6 +247,7 @@
   "ids": {
    "howlongtobeat": "30891",
    "igdb": "lara-croft-relic-run",
+   "metacritic": "lara-croft-relic-run",
    "mobygames": "73751"
   },
   "label_en": "Lara Croft: Relic Run",
@@ -259,6 +266,7 @@
   "ids": {
    "howlongtobeat": "24468",
    "igdb": "motocross-maniacs-advance",
+   "metacritic": "motocross-maniacs-advance",
    "mobygames": "34755"
   },
   "label_en": "Motocross Maniacs Advance",
@@ -270,6 +278,7 @@
    "gog": "game/crosscode",
    "howlongtobeat": "24970",
    "igdb": "crosscode",
+   "metacritic": "crosscode",
    "mobygames": "84453",
    "pcgamingwiki": "CrossCode",
    "steam": "368340"
@@ -304,6 +313,7 @@
   "ids": {
    "howlongtobeat": "59423",
    "igdb": "dere-evil-dot-exe",
+   "metacritic": "dere-evil-exe",
    "pcgamingwiki": "Dere_Evil_.exe",
    "steam": "871950"
   },
@@ -342,6 +352,7 @@
    "gog": "game/undungeon",
    "howlongtobeat": "78610",
    "igdb": "undungeon",
+   "metacritic": "undungeon",
    "mobygames": "175706",
    "pcgamingwiki": "Undungeon",
    "steam": "928990"
@@ -398,6 +409,7 @@
  {
   "ids": {
    "igdb": "c64-and-amiga-classix-remakes-sixpack-2",
+   "metacritic": "c64-amiga-classix-remakes-sixpack-2",
    "mobygames": "222098",
    "pcgamingwiki": "C64_&_AMIGA_Classix_Remakes_Sixpack_2",
    "steam": "751680"
@@ -411,6 +423,7 @@
    "gog": "game/shadowrun_dragonfall_directors_cut",
    "howlongtobeat": "21118",
    "igdb": "shadowrun-dragonfall-directors-cut",
+   "metacritic": "shadowrun-dragonfall-directors-cut",
    "mobygames": "69986",
    "pcgamingwiki": "Shadowrun:_Dragonfall_-_Director's_Cut",
    "steam": "300550"
@@ -423,6 +436,7 @@
   "ids": {
    "howlongtobeat": "108882",
    "igdb": "the-walking-dead-saints-and-sinners-ch-2-retribution",
+   "metacritic": "the-walking-dead-saints-and-sinners-chapter-2",
    "mobygames": "195740",
    "pcgamingwiki": "The_Walking_Dead:_Saints_&_Sinners_-_Chapter_2:_Retribution",
    "steam": "1947500"
@@ -670,6 +684,7 @@
   "ids": {
    "howlongtobeat": "128999",
    "igdb": "beat-banger",
+   "metacritic": "beat-banger",
    "mobygames": "224817",
    "pcgamingwiki": "Beat_Banger",
    "steam": "1813430"
@@ -1102,6 +1117,7 @@
  {
   "ids": {
    "igdb": "vulture",
+   "pcgamingwiki": "Vulture",
    "steam": "689000"
   },
   "label_en": "Vulture",
@@ -1154,5 +1170,9 @@
   },
   "label_en": "Les Visiteurs : La Relique de Sainte Rolande",
   "wikidata": "Q142082190"
+ },
+ {
+  "label_en": "Kita e: Photo Memories",
+  "wikidata": "Q142211190"
  }
 ]

@@ -3,6 +3,7 @@
   "enwiki": "Sonic Colors",
   "ids": {
    "igdb": "sonic-colors",
+   "metacritic": "sonic-colors",
    "mobygames": "49866"
   },
   "label_en": "Sonic Colors",
@@ -22,6 +23,7 @@
   "ids": {
    "howlongtobeat": "10006",
    "igdb": "the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch",
+   "metacritic": "the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch",
    "mobygames": "23223"
   },
   "label_en": "The Legend of Heroes II: Prophecy of the Moonlight Witch",
@@ -39,6 +41,7 @@
   "ids": {
    "howlongtobeat": "9670",
    "igdb": "tekken-advance",
+   "metacritic": "tekken-advance",
    "mobygames": "5723"
   },
   "label_en": "Tekken Advance",
@@ -97,7 +100,8 @@
   "enwiki": "Rugrats: Royal Ransom",
   "ids": {
    "howlongtobeat": "8005",
-   "igdb": "rugrats-royal-ransom"
+   "igdb": "rugrats-royal-ransom",
+   "metacritic": "rugrats-royal-ransom"
   },
   "label_en": "Rugrats: Royal Ransom",
   "wikidata": "Q7378614"
@@ -182,6 +186,7 @@
   "ids": {
    "howlongtobeat": "17340",
    "igdb": "dominique-pamplemousse",
+   "metacritic": "dominique-pamplemousse",
    "mobygames": "60887",
    "pcgamingwiki": "Dominique_Pamplemousse",
    "steam": "270310"
@@ -202,6 +207,7 @@
   "ids": {
    "howlongtobeat": "66124",
    "igdb": "rune-factory-5",
+   "metacritic": "rune-factory-5",
    "mobygames": "182369",
    "pcgamingwiki": "Rune_Factory_5",
    "steam": "1702330"
@@ -214,6 +220,7 @@
   "ids": {
    "howlongtobeat": "72333",
    "igdb": "olympic-games-tokyo-2020-the-official-video-game",
+   "metacritic": "olympic-games-tokyo-2020-the-official-video-game",
    "mobygames": "166492",
    "pcgamingwiki": "Olympic_Games_Tokyo_2020_–_The_Official_Video_Game",
    "steam": "981890"
@@ -225,6 +232,7 @@
   "ids": {
    "howlongtobeat": "196",
    "igdb": "actual-sunlight",
+   "metacritic": "actual-sunlight",
    "mobygames": "82835",
    "pcgamingwiki": "Actual_Sunlight",
    "steam": "288040"
@@ -242,7 +250,8 @@
  {
   "ids": {
    "howlongtobeat": "18209",
-   "igdb": "winter-stars"
+   "igdb": "winter-stars",
+   "metacritic": "winter-stars"
   },
   "label_en": "Winter Stars",
   "wikidata": "Q102440614"
@@ -273,6 +282,7 @@
  {
   "ids": {
    "igdb": "figure-fantasy",
+   "metacritic": "figure-fantasy",
    "mobygames": "248063"
   },
   "label_en": "Figure Fantasy",
@@ -319,6 +329,7 @@
    "gog": "game/tinytopia",
    "howlongtobeat": "91057",
    "igdb": "tinytopia",
+   "metacritic": "tinytopia",
    "mobygames": "170478",
    "pcgamingwiki": "Tinytopia",
    "steam": "968550"
@@ -377,6 +388,7 @@
  {
   "ids": {
    "igdb": "writhe--1",
+   "metacritic": "writhe",
    "mobygames": "157019"
   },
   "label_en": "Writhe",
@@ -413,6 +425,7 @@
   "ids": {
    "howlongtobeat": "129004",
    "igdb": "innchanted",
+   "metacritic": "innchanted",
    "mobygames": "201219",
    "pcgamingwiki": "Innchanted",
    "steam": "1369720"
@@ -670,6 +683,7 @@
   "ids": {
    "howlongtobeat": "131648",
    "igdb": "stronghold-definitive-edition",
+   "metacritic": "stronghold-definitive-edition",
    "mobygames": "211495",
    "pcgamingwiki": "Stronghold:_Definitive_Edition",
    "steam": "2140020"
@@ -788,7 +802,8 @@
  },
  {
   "ids": {
-   "igdb": "kleptocorns"
+   "igdb": "kleptocorns",
+   "metacritic": "kleptocorns"
   },
   "label_en": "KleptoCorns",
   "wikidata": "Q124377614"
@@ -862,6 +877,7 @@
   "ids": {
    "howlongtobeat": "166176",
    "igdb": "pal-world-more-than-just-pals",
+   "metacritic": "palworld-more-than-just-pals",
    "pcgamingwiki": "Pal♡world!_More_Than_Just_Pals",
    "steam": "3620480"
   },

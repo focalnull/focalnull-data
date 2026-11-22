@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "936",
    "igdb": "battlefield-2142",
+   "metacritic": "battlefield-2142",
    "mobygames": "24635",
    "pcgamingwiki": "Battlefield_2142"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "3314",
    "igdb": "fable-ii",
+   "metacritic": "fable-ii",
    "mobygames": "38461"
   },
   "label_en": "Fable II",
@@ -24,6 +26,7 @@
   "enwiki": "Resident Evil: The Umbrella Chronicles",
   "ids": {
    "igdb": "resident-evil-the-umbrella-chronicles",
+   "metacritic": "resident-evil-the-umbrella-chronicles",
    "mobygames": "31396"
   },
   "label_en": "Resident Evil: The Umbrella Chronicles",
@@ -34,6 +37,7 @@
   "ids": {
    "howlongtobeat": "5634",
    "igdb": "mario-kart-7",
+   "metacritic": "mario-kart-7",
    "mobygames": "54347"
   },
   "label_en": "Mario Kart 7",
@@ -43,6 +47,7 @@
   "enwiki": "Rugby 08",
   "ids": {
    "igdb": "rugby-08",
+   "metacritic": "rugby-08",
    "mobygames": "38644",
    "pcgamingwiki": "Rugby_08"
   },
@@ -74,6 +79,7 @@
   "enwiki": "Rocky Legends",
   "ids": {
    "igdb": "rocky-legends",
+   "metacritic": "rocky-legends",
    "mobygames": "15450"
   },
   "label_en": "Rocky Legends",
@@ -110,6 +116,7 @@
   "enwiki": "Mario and Donkey Kong: Minis on the Move",
   "ids": {
    "igdb": "mario-and-donkey-kong-minis-on-the-move",
+   "metacritic": "mario-and-donkey-kong-minis-on-the-move",
    "mobygames": "70424"
   },
   "label_en": "Mario and Donkey Kong: Minis on the Move",
@@ -119,6 +126,7 @@
   "enwiki": "Panzer General III: Scorched Earth",
   "ids": {
    "igdb": "panzer-general-iii-scorched-earth",
+   "metacritic": "panzer-general-iii-scorched-earth",
    "mobygames": "3040",
    "pcgamingwiki": "Panzer_General_III:_Scorched_Earth"
   },
@@ -151,6 +159,7 @@
   "enwiki": "Game & Watch Gallery 4",
   "ids": {
    "igdb": "game-and-watch-gallery-4",
+   "metacritic": "game-watch-gallery-4",
    "mobygames": "7672"
   },
   "label_en": "Game & Watch Gallery 4",
@@ -170,6 +179,7 @@
   "enwiki": "Wii Karaoke U",
   "ids": {
    "igdb": "wii-karaoke-u-by-joysound",
+   "metacritic": "wii-karaoke-u",
    "mobygames": "152658"
   },
   "label_en": "Wii Karaoke U by JOYSOUND",
@@ -180,6 +190,7 @@
   "ids": {
    "howlongtobeat": "19852",
    "igdb": "forza-horizon-2",
+   "metacritic": "forza-horizon-2",
    "mobygames": "68893"
   },
   "label_en": "Forza Horizon 2",
@@ -192,6 +203,7 @@
    "gog": "game/whispering_willows",
    "howlongtobeat": "19502",
    "igdb": "whispering-willows",
+   "metacritic": "whispering-willows",
    "mobygames": "73618",
    "pcgamingwiki": "Whispering_Willows",
    "steam": "288060"
@@ -204,6 +216,7 @@
   "ids": {
    "howlongtobeat": "39321",
    "igdb": "eisenhorn-xenos",
+   "metacritic": "eisenhorn-xenos",
    "pcgamingwiki": "Eisenhorn:_Xenos",
    "steam": "373920"
   },
@@ -225,6 +238,7 @@
   "enwiki": "Ultra Street Fighter II",
   "ids": {
    "igdb": "ultra-street-fighter-ii-the-final-challengers",
+   "metacritic": "ultra-street-fighter-ii-the-final-challengers",
    "mobygames": "89310"
   },
   "label_en": "Ultra Street Fighter II: The Final Challengers",
@@ -236,6 +250,7 @@
    "epic": "assassins-creed-origins",
    "howlongtobeat": "46402",
    "igdb": "assassins-creed-origins",
+   "metacritic": "assassins-creed-origins",
    "mobygames": "97558",
    "pcgamingwiki": "Assassin's_Creed_Origins",
    "steam": "582160"
@@ -279,6 +294,7 @@
   "ids": {
    "howlongtobeat": "78535",
    "igdb": "if-found-dot-dot-dot",
+   "metacritic": "if-found",
    "mobygames": "145742",
    "pcgamingwiki": "If_Found...",
    "steam": "1041920"
@@ -293,6 +309,7 @@
    "gog": "game/martha_is_dead",
    "howlongtobeat": "81995",
    "igdb": "martha-is-dead",
+   "metacritic": "martha-is-dead",
    "mobygames": "180291",
    "pcgamingwiki": "Martha_Is_Dead",
    "steam": "515960"
@@ -366,6 +383,7 @@
    "howlongtobeat": "105087",
    "igdb": "rush-rally-origins",
    "mobygames": "169603",
+   "pcgamingwiki": "Rush_Rally_Origins",
    "steam": "1728660"
   },
   "label_en": "Rush Rally Origins",
@@ -387,6 +405,7 @@
    "gog": "game/the_last_show_of_mr_chardish",
    "howlongtobeat": "82702",
    "igdb": "the-last-show-of-mr-chardish",
+   "metacritic": "the-last-show-of-mr-chardish",
    "mobygames": "157123",
    "pcgamingwiki": "The_Last_Show_of_Mr._Chardish",
    "steam": "1164060"
@@ -399,6 +418,7 @@
   "ids": {
    "howlongtobeat": "113571",
    "igdb": "atelier-ryza-3-alchemist-of-the-end-and-the-secret-key",
+   "metacritic": "atelier-ryza-3-alchemist-of-the-end-the-secret-key",
    "pcgamingwiki": "Atelier_Ryza_3:_Alchemist_of_the_End_&_the_Secret_Key",
    "steam": "1999770"
   },
@@ -606,7 +626,8 @@
   "enwiki": "Unicorn Overlord",
   "ids": {
    "howlongtobeat": "137780",
-   "igdb": "unicorn-overlord--1"
+   "igdb": "unicorn-overlord--1",
+   "metacritic": "unicorn-overlord"
   },
   "label_en": "Unicorn Overlord",
   "wikidata": "Q122561024"
@@ -712,6 +733,7 @@
   "ids": {
    "howlongtobeat": "23803",
    "igdb": "interloper",
+   "metacritic": "interloper",
    "mobygames": "128132",
    "pcgamingwiki": "Interloper",
    "steam": "356420"
@@ -781,6 +803,7 @@
  {
   "ids": {
    "igdb": "bomb-bowling",
+   "metacritic": "bomb-bowling",
    "mobygames": "151349",
    "pcgamingwiki": "Bomb_Bowling",
    "steam": "1121230"

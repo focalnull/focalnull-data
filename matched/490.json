@@ -9,6 +9,7 @@
   "ids": {
    "howlongtobeat": "289",
    "igdb": "aidyn-chronicles-the-first-mage",
+   "metacritic": "aidyn-chronicles-the-first-mage",
    "mobygames": "8444"
   },
   "label_en": "Aidyn Chronicles: The First Mage",
@@ -19,6 +20,7 @@
   "ids": {
    "howlongtobeat": "6493",
    "igdb": "nemesis-of-the-roman-empire",
+   "metacritic": "nemesis-of-the-roman-empire",
    "mobygames": "17917",
    "pcgamingwiki": "Nemesis_of_the_Roman_Empire",
    "steam": "433290"
@@ -50,6 +52,7 @@
    "gog": "game/amnesia_a_machine_for_pigs",
    "howlongtobeat": "438",
    "igdb": "amnesia-a-machine-for-pigs",
+   "metacritic": "amnesia-a-machine-for-pigs",
    "mobygames": "61918",
    "pcgamingwiki": "Amnesia:_A_Machine_for_Pigs",
    "steam": "239200"
@@ -147,6 +150,7 @@
   "ids": {
    "howlongtobeat": "737",
    "igdb": "avalon-code",
+   "metacritic": "avalon-code",
    "mobygames": "39806"
   },
   "label_en": "Avalon Code",
@@ -157,6 +161,7 @@
   "ids": {
    "howlongtobeat": "14755",
    "igdb": "muscle-march",
+   "metacritic": "muscle-march",
    "mobygames": "59755"
   },
   "label_en": "Muscle March",
@@ -191,6 +196,7 @@
   "enwiki": "Girls' Frontline",
   "ids": {
    "igdb": "girls-frontline",
+   "metacritic": "girls-frontline",
    "pcgamingwiki": "Girls'_Frontline",
    "steam": "3347970"
   },
@@ -202,6 +208,7 @@
   "ids": {
    "howlongtobeat": "40528",
    "igdb": "batman-arkham-vr",
+   "metacritic": "batman-arkham-vr",
    "mobygames": "82561",
    "pcgamingwiki": "Batman:_Arkham_VR",
    "steam": "502820"
@@ -223,6 +230,7 @@
    "epic": "city-of-brass",
    "howlongtobeat": "51203",
    "igdb": "city-of-brass",
+   "metacritic": "city-of-brass",
    "mobygames": "108179",
    "pcgamingwiki": "City_of_Brass",
    "steam": "301840"
@@ -252,6 +260,7 @@
  {
   "ids": {
    "igdb": "buy-low-sell-high",
+   "metacritic": "buy-low-sell-high",
    "pcgamingwiki": "Buy_Low_Sell_High",
    "steam": "934220"
   },
@@ -300,6 +309,7 @@
   "ids": {
    "howlongtobeat": "104621",
    "igdb": "asciill",
+   "metacritic": "asciill",
    "steam": "1878770"
   },
   "label_en": "ASCIILL",
@@ -351,6 +361,7 @@
    "gog": "game/astral_ascent",
    "howlongtobeat": "109042",
    "igdb": "astral-ascent--1",
+   "metacritic": "astral-ascent",
    "mobygames": "183107",
    "pcgamingwiki": "Astral_Ascent",
    "steam": "1280930"
@@ -381,6 +392,7 @@
  {
   "ids": {
    "igdb": "the-first-backrooms",
+   "metacritic": "the-first-backrooms",
    "steam": "1433020"
   },
   "label_en": "The First Backrooms",
@@ -432,6 +444,7 @@
    "epic": "the-crew-motorfest",
    "howlongtobeat": "130044",
    "igdb": "the-crew-motorfest",
+   "metacritic": "the-crew-motorfest",
    "mobygames": "208608",
    "pcgamingwiki": "The_Crew_Motorfest",
    "steam": "2698940"
@@ -531,6 +544,7 @@
    "epic": "mia-and-the-dragon-princess-f4e1d0",
    "howlongtobeat": "123927",
    "igdb": "mia-and-the-dragon-princess",
+   "metacritic": "mia-and-the-dragon-princess",
    "mobygames": "202246",
    "steam": "1837580"
   },
@@ -779,6 +793,7 @@
    "gog": "game/nikoderiko",
    "howlongtobeat": "151979",
    "igdb": "nikoderiko-the-magical-world",
+   "metacritic": "nikoderiko-the-magical-world",
    "mobygames": "231993",
    "pcgamingwiki": "Nikoderiko:_The_Magical_World",
    "steam": "2374190"

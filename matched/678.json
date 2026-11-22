@@ -21,6 +21,7 @@
   "ids": {
    "howlongtobeat": "7691",
    "igdb": "red-orchestra-2-heroes-of-stalingrad",
+   "metacritic": "red-orchestra-2-heroes-of-stalingrad",
    "mobygames": "53676",
    "pcgamingwiki": "Red_Orchestra_2:_Heroes_of_Stalingrad",
    "steam": "35450"
@@ -67,6 +68,7 @@
   "enwiki": "One Piece: Pirates' Carnival",
   "ids": {
    "igdb": "one-piece-pirates-carnival",
+   "metacritic": "one-piece-pirates-carnival",
    "mobygames": "26688"
   },
   "label_en": "One Piece: Pirates' Carnival",
@@ -76,6 +78,7 @@
   "enwiki": "Unlimited Saga",
   "ids": {
    "igdb": "unlimited-saga",
+   "metacritic": "unlimited-saga",
    "mobygames": "9356"
   },
   "label_en": "Unlimited Saga",
@@ -109,6 +112,7 @@
   "ids": {
    "howlongtobeat": "2949",
    "igdb": "dungeon-lords-steam-edition",
+   "metacritic": "dungeon-lords-2005",
    "mobygames": "17747",
    "pcgamingwiki": "Dungeon_Lords",
    "steam": "271760"
@@ -139,6 +143,7 @@
   "ids": {
    "howlongtobeat": "10618",
    "igdb": "trapt",
+   "metacritic": "trapt",
    "mobygames": "20974"
   },
   "label_en": "Trapt",
@@ -169,6 +174,7 @@
   "ids": {
    "howlongtobeat": "25094",
    "igdb": "aaru-s-awakening",
+   "metacritic": "aarus-awakening",
    "mobygames": "82748",
    "pcgamingwiki": "Aaru's_Awakening",
    "steam": "294060"
@@ -181,6 +187,7 @@
   "ids": {
    "howlongtobeat": "26697",
    "igdb": "sylvio",
+   "metacritic": "sylvio",
    "mobygames": "87574",
    "pcgamingwiki": "Sylvio",
    "steam": "362860"
@@ -218,6 +225,7 @@
   "ids": {
    "howlongtobeat": "21",
    "igdb": "dot-hack-slash-slash-g-dot-u-vol-3-redemption",
+   "metacritic": "hackgu-vol-3redemption",
    "mobygames": "33606"
   },
   "label_en": ".hack//G.U. Vol. 3//Redemption",
@@ -235,6 +243,7 @@
   "ids": {
    "howlongtobeat": "50930",
    "igdb": "ping-pong-league",
+   "metacritic": "ping-pong-league",
    "mobygames": "191581",
    "pcgamingwiki": "Ping_Pong_League",
    "steam": "495520"
@@ -275,6 +284,7 @@
    "epic": "pupperazzi",
    "howlongtobeat": "102900",
    "igdb": "pupperazzi",
+   "metacritic": "pupperazzi",
    "mobygames": "178473",
    "pcgamingwiki": "Pupperazzi",
    "steam": "1028350"
@@ -308,6 +318,7 @@
   "ids": {
    "howlongtobeat": "83177",
    "igdb": "dandy-ace",
+   "metacritic": "dandy-ace",
    "mobygames": "161325",
    "pcgamingwiki": "Dandy_Ace",
    "steam": "1037130"
@@ -377,6 +388,7 @@
   "ids": {
    "howlongtobeat": "76401",
    "igdb": "pagan-autogeny",
+   "metacritic": "pagan-autogeny",
    "pcgamingwiki": "PAGAN:_Autogeny",
    "steam": "1165750"
   },
@@ -511,6 +523,7 @@
    "gog": "game/plebby_quest_the_crusades",
    "howlongtobeat": "78632",
    "igdb": "plebby-quest-the-crusades",
+   "metacritic": "plebby-quest-the-crusades",
    "mobygames": "144279",
    "pcgamingwiki": "Plebby_Quest:_The_Crusades",
    "steam": "334310"
@@ -747,6 +760,7 @@
    "gog": "game/born_of_bread",
    "howlongtobeat": "91798",
    "igdb": "born-of-bread",
+   "metacritic": "born-of-bread",
    "mobygames": "213378",
    "pcgamingwiki": "Born_of_Bread",
    "steam": "1555140"
@@ -765,6 +779,7 @@
  {
   "ids": {
    "igdb": "solitaire-antics-deluxe",
+   "metacritic": "solitaire-antics-deluxe",
    "mobygames": "2448"
   },
   "label_en": "Solitaire Antics: Deluxe",
@@ -1092,6 +1107,7 @@
  {
   "ids": {
    "igdb": "pinata-attack",
+   "pcgamingwiki": "Piñata_Attack",
    "steam": "1199740"
   },
   "label_en": "Piñata Attack",
@@ -1111,6 +1127,7 @@
  {
   "ids": {
    "igdb": "wardens-of-avalon",
+   "metacritic": "wardens-of-avalon",
    "steam": "2409660"
   },
   "label_en": "Wardens of Avalon",

@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "10292",
    "igdb": "sim-theme-park--1",
+   "metacritic": "theme-park-roller-coaster",
    "mobygames": "1152",
    "pcgamingwiki": "Theme_Park_World"
   },
@@ -53,6 +54,7 @@
   "ids": {
    "howlongtobeat": "1185",
    "igdb": "blood-wake",
+   "metacritic": "blood-wake",
    "mobygames": "5574"
   },
   "label_en": "Blood Wake",
@@ -96,6 +98,7 @@
   "ids": {
    "howlongtobeat": "17430",
    "igdb": "niki-rock-n-ball",
+   "metacritic": "niki-rock-n-ball",
    "mobygames": "92018"
   },
   "label_en": "Niki – Rock 'n' Ball",
@@ -106,6 +109,7 @@
   "ids": {
    "howlongtobeat": "16222",
    "igdb": "ninjabread-man",
+   "metacritic": "ninjabread-man",
    "mobygames": "56454",
    "pcgamingwiki": "Ninjabread_Man"
   },
@@ -126,6 +130,7 @@
   "ids": {
    "howlongtobeat": "78678",
    "igdb": "playstation-move-ape-escape",
+   "metacritic": "playstation-move-ape-escape",
    "mobygames": "68473"
   },
   "label_en": "PlayStation Move Ape Escape",
@@ -192,6 +197,7 @@
   "ids": {
    "howlongtobeat": "38616",
    "igdb": "bug-n-out",
+   "metacritic": "bug-n-out",
    "mobygames": "135175",
    "pcgamingwiki": "Bug_N_Out",
    "steam": "463130"
@@ -206,6 +212,7 @@
  {
   "ids": {
    "igdb": "left-behind-tribulation-forces",
+   "metacritic": "left-behind-tribulation-forces",
    "pcgamingwiki": "Left_Behind:_Tribulation_Forces"
   },
   "label_en": "Left Behind: Tribulation Forces",
@@ -249,6 +256,7 @@
   "ids": {
    "howlongtobeat": "31314",
    "igdb": "200-percent-mixed-juice",
+   "metacritic": "200-mixed-juice",
    "mobygames": "82450",
    "pcgamingwiki": "200%_Mixed_Juice!",
    "steam": "335190"
@@ -278,6 +286,7 @@
    "gog": "game/conway_disappearance_at_dahlia_view",
    "howlongtobeat": "93987",
    "igdb": "dahlia-view",
+   "metacritic": "conway-disappearance-at-dahlia-view",
    "mobygames": "174630",
    "pcgamingwiki": "Conway:_Disappearance_at_Dahlia_View",
    "steam": "1548750"
@@ -308,6 +317,7 @@
   "ids": {
    "howlongtobeat": "104084",
    "igdb": "moss-book-ii",
+   "metacritic": "moss-book-ii",
    "mobygames": "182643",
    "pcgamingwiki": "Moss:_Book_II",
    "steam": "2059670"
@@ -318,6 +328,7 @@
  {
   "ids": {
    "igdb": "the-backrooms-simulator",
+   "metacritic": "the-backrooms-simulator",
    "pcgamingwiki": "The_Backrooms_Simulator",
    "steam": "1119430"
   },
@@ -432,6 +443,7 @@
   "ids": {
    "howlongtobeat": "72037",
    "igdb": "fallback",
+   "metacritic": "fallback",
    "mobygames": "151639",
    "pcgamingwiki": "Fallback",
    "steam": "864540"
@@ -525,6 +537,7 @@
   "ids": {
    "howlongtobeat": "68969",
    "igdb": "conflict-of-nations-world-war-3",
+   "metacritic": "conflict-of-nations-ww3",
    "mobygames": "105369",
    "pcgamingwiki": "Conflict_of_Nations:_Modern_War",
    "steam": "784950"
@@ -616,6 +629,7 @@
   "ids": {
    "howlongtobeat": "141855",
    "igdb": "dragon-ball-sparking-zero",
+   "metacritic": "dragon-ball-sparking-zero",
    "mobygames": "231762",
    "pcgamingwiki": "Dragon_Ball:_Sparking!_Zero",
    "steam": "1790600"

@@ -5,6 +5,7 @@
    "gog": "game/the_temple_of_elemental_evil",
    "howlongtobeat": "10225",
    "igdb": "the-temple-of-elemental-evil",
+   "metacritic": "the-temple-of-elemental-evil",
    "mobygames": "10490",
    "pcgamingwiki": "The_Temple_of_Elemental_Evil",
    "steam": "3843520"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "3306",
    "igdb": "f1-2011",
+   "metacritic": "f1-2011",
    "mobygames": "53686",
    "pcgamingwiki": "F1_2011",
    "steam": "44360"
@@ -28,6 +30,7 @@
   "enwiki": "Scrapland",
   "ids": {
    "igdb": "american-mcgee-presents-scrapland",
+   "metacritic": "scrapland",
    "mobygames": "15814",
    "pcgamingwiki": "Scrapland"
   },
@@ -39,6 +42,7 @@
   "ids": {
    "howlongtobeat": "6234",
    "igdb": "motorstorm",
+   "metacritic": "motorstorm",
    "mobygames": "27951"
   },
   "label_en": "MotorStorm",
@@ -59,6 +63,7 @@
    "gog": "game/ys_origin",
    "howlongtobeat": "11466",
    "igdb": "ys-origin",
+   "metacritic": "ys-origin",
    "mobygames": "25671",
    "pcgamingwiki": "Ys_Origin",
    "steam": "207350"
@@ -80,6 +85,7 @@
   "ids": {
    "howlongtobeat": "3503",
    "igdb": "final-fantasy-iv-the-after-years",
+   "metacritic": "final-fantasy-iv-the-after-years",
    "mobygames": "59693",
    "pcgamingwiki": "Final_Fantasy_IV:_The_After_Years",
    "steam": "346830"
@@ -92,6 +98,7 @@
   "ids": {
    "howlongtobeat": "2155",
    "igdb": "dance-central-3",
+   "metacritic": "dance-central-3",
    "mobygames": "61590"
   },
   "label_en": "Dance Central 3",
@@ -170,6 +177,7 @@
   "ids": {
    "howlongtobeat": "1942",
    "igdb": "cosmic-osmo-and-the-worlds-beyond-the-mackerel",
+   "metacritic": "cosmic-osmo-and-the-worlds-beyond-the-mackerel",
    "mobygames": "44036",
    "pcgamingwiki": "Cosmic_Osmo_and_the_Worlds_Beyond_the_Mackerel",
    "steam": "63620"
@@ -200,6 +208,7 @@
   "ids": {
    "howlongtobeat": "6437",
    "igdb": "nba-jam",
+   "metacritic": "nba-jam-2010",
    "mobygames": "49707"
   },
   "label_en": "NBA Jam",
@@ -211,6 +220,7 @@
    "gog": "game/tesla_effect_a_tex_murphy_adventure",
    "howlongtobeat": "15873",
    "igdb": "tesla-effect-a-tex-murphy-adventure",
+   "metacritic": "tesla-effect-a-tex-murphy-adventure",
    "mobygames": "65513",
    "pcgamingwiki": "Tesla_Effect:_A_Tex_Murphy_Adventure",
    "steam": "261510"
@@ -263,6 +273,7 @@
    "gog": "game/the_house_in_fata_morgana",
    "howlongtobeat": "38360",
    "igdb": "the-house-in-fata-morgana",
+   "metacritic": "the-house-in-fata-morgana",
    "mobygames": "108568",
    "pcgamingwiki": "The_House_in_Fata_Morgana",
    "steam": "303310"
@@ -284,6 +295,7 @@
   "enwiki": "Golf Story",
   "ids": {
    "igdb": "golf-story",
+   "metacritic": "golf-story",
    "mobygames": "96493"
   },
   "label_en": "Golf Story",
@@ -296,6 +308,7 @@
    "gog": "game/the_outer_worlds",
    "howlongtobeat": "62935",
    "igdb": "the-outer-worlds",
+   "metacritic": "the-outer-worlds",
    "mobygames": "119143",
    "pcgamingwiki": "The_Outer_Worlds",
    "steam": "578650"
@@ -315,6 +328,7 @@
  {
   "ids": {
    "igdb": "karaoke-revolution-volume-2",
+   "metacritic": "karaoke-revolution-volume-2",
    "mobygames": "16163"
   },
   "label_en": "Karaoke Revolution: Volume 2",
@@ -348,6 +362,7 @@
   "ids": {
    "howlongtobeat": "81986",
    "igdb": "necronator-dead-wrong",
+   "metacritic": "necronator-dead-wrong",
    "mobygames": "148737",
    "pcgamingwiki": "Necronator:_Dead_Wrong",
    "steam": "1144970"
@@ -398,6 +413,7 @@
    "gog": "game/pioneers_of_pagonia",
    "howlongtobeat": "131008",
    "igdb": "pioneers-of-pagonia",
+   "metacritic": "pioneers-of-pagonia",
    "mobygames": "213896",
    "pcgamingwiki": "Pioneers_of_Pagonia",
    "steam": "2155180"
@@ -746,6 +762,7 @@
    "gog": "game/montagues_mount",
    "howlongtobeat": "15858",
    "igdb": "montagues-mount",
+   "metacritic": "montagues-mount",
    "mobygames": "95809",
    "pcgamingwiki": "Montague's_Mount",
    "steam": "258950"
@@ -1061,6 +1078,7 @@
   "ids": {
    "howlongtobeat": "159747",
    "igdb": "kotas-new-journey",
+   "metacritic": "kotas-new-journey",
    "pcgamingwiki": "Kota`s_New_Journey",
    "steam": "3270680"
   },

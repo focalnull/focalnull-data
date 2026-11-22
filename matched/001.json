@@ -17,6 +17,7 @@
    "gog": "game/battle_realms_winter_of_the_wolf",
    "howlongtobeat": "925",
    "igdb": "battle-realms",
+   "metacritic": "battle-realms",
    "mobygames": "5326",
    "pcgamingwiki": "Battle_Realms",
    "steam": "1025600"
@@ -49,6 +50,7 @@
   "enwiki": "Civilization IV: Colonization",
   "ids": {
    "igdb": "sid-meier-s-civilization-iv-colonization",
+   "metacritic": "sid-meiers-civilization-iv-colonization",
    "mobygames": "36443",
    "pcgamingwiki": "Civilization_IV:_Colonization",
    "steam": "16810"
@@ -60,6 +62,7 @@
   "enwiki": "Gauntlet Dark Legacy",
   "ids": {
    "igdb": "gauntlet-dark-legacy--1",
+   "metacritic": "gauntlet-dark-legacy",
    "mobygames": "3982"
   },
   "label_en": "Gauntlet Dark Legacy",
@@ -75,6 +78,7 @@
   "ids": {
    "howlongtobeat": "85",
    "igdb": "50-cent-blood-on-the-sand",
+   "metacritic": "50-cent-blood-on-the-sand",
    "mobygames": "40480"
   },
   "label_en": "50 Cent: Blood on the Sand",
@@ -93,6 +97,7 @@
   "enwiki": "Samurai Warriors: Chronicles",
   "ids": {
    "igdb": "samurai-warriors-chronicles",
+   "metacritic": "samurai-warriors-chronicles",
    "mobygames": "86100"
   },
   "label_en": "Samurai Warriors: Chronicles",
@@ -129,6 +134,7 @@
   "enwiki": "Heatseeker (video game)",
   "ids": {
    "igdb": "heatseeker",
+   "metacritic": "heatseeker",
    "mobygames": "27389"
   },
   "label_en": "Heatseeker",
@@ -165,6 +171,7 @@
   "ids": {
    "howlongtobeat": "6943",
    "igdb": "patrician-iv",
+   "metacritic": "patrician-iv",
    "mobygames": "51978",
    "pcgamingwiki": "Patrician_IV:_Conquest_by_Trade",
    "steam": "57620"
@@ -176,6 +183,7 @@
   "enwiki": "Lips: Number One Hits",
   "ids": {
    "igdb": "lips-number-one-hits",
+   "metacritic": "lips-number-one-hits",
    "mobygames": "47418"
   },
   "label_en": "Lips: Number One Hits",
@@ -195,6 +203,7 @@
   "ids": {
    "howlongtobeat": "8394",
    "igdb": "shaun-white-skateboarding",
+   "metacritic": "shaun-white-skateboarding",
    "mobygames": "62576",
    "pcgamingwiki": "Shaun_White_Skateboarding"
   },
@@ -228,6 +237,7 @@
   "enwiki": "Tales of Symphonia Chronicles",
   "ids": {
    "igdb": "tales-of-symphonia-chronicles",
+   "metacritic": "tales-of-symphonia-chronicles",
    "mobygames": "63956"
   },
   "label_en": "Tales of Symphonia Chronicles",
@@ -255,6 +265,7 @@
    "epic": "brawlhalla",
    "howlongtobeat": "22766",
    "igdb": "brawlhalla",
+   "metacritic": "brawlhalla",
    "mobygames": "91446",
    "pcgamingwiki": "Brawlhalla",
    "steam": "291550"
@@ -285,6 +296,7 @@
   "ids": {
    "howlongtobeat": "55358",
    "igdb": "spyro-reignited-trilogy",
+   "metacritic": "spyro-reignited-trilogy",
    "mobygames": "111451",
    "pcgamingwiki": "Spyro_Reignited_Trilogy",
    "steam": "996580"
@@ -312,6 +324,7 @@
   "ids": {
    "howlongtobeat": "84680",
    "igdb": "madness",
+   "metacritic": "madness",
    "pcgamingwiki": "Madness",
    "steam": "555930"
   },
@@ -325,6 +338,7 @@
    "gog": "game/chorus",
    "howlongtobeat": "76181",
    "igdb": "chorus",
+   "metacritic": "chorus",
    "mobygames": "176258",
    "pcgamingwiki": "Chorus",
    "steam": "1153640"
@@ -338,6 +352,7 @@
    "epic": "alan-wake-2",
    "howlongtobeat": "101237",
    "igdb": "alan-wake-ii",
+   "metacritic": "alan-wake-ii",
    "mobygames": "210927",
    "pcgamingwiki": "Alan_Wake_II"
   },
@@ -421,6 +436,7 @@
    "gog": "game/octopath_traveler_ii",
    "howlongtobeat": "113582",
    "igdb": "octopath-traveler-ii",
+   "metacritic": "octopath-traveler-ii",
    "mobygames": "199652",
    "pcgamingwiki": "Octopath_Traveler_II",
    "steam": "1971650"
@@ -434,6 +450,7 @@
    "gog": "game/undetected",
    "howlongtobeat": "113283",
    "igdb": "undetected",
+   "metacritic": "undetected",
    "mobygames": "192221",
    "pcgamingwiki": "Undetected",
    "steam": "1715350"
@@ -484,6 +501,7 @@
    "epic": "star-wars-outlaws",
    "howlongtobeat": "129948",
    "igdb": "star-wars-outlaws",
+   "metacritic": "star-wars-outlaws",
    "mobygames": "229776",
    "pcgamingwiki": "Star_Wars_Outlaws",
    "steam": "2842040"
@@ -515,6 +533,7 @@
   "ids": {
    "howlongtobeat": "139049",
    "igdb": "deep-rock-galactic-survivor",
+   "metacritic": "deep-rock-galactic-survivor",
    "mobygames": "217602",
    "pcgamingwiki": "Deep_Rock_Galactic:_Survivor",
    "steam": "2321470"
@@ -914,6 +933,7 @@
    "epic": "lunar-lander-beyond-30b7a0",
    "howlongtobeat": "131646",
    "igdb": "lunar-lander-beyond",
+   "metacritic": "lunar-lander-beyond",
    "mobygames": "222596",
    "pcgamingwiki": "Lunar_Lander_Beyond",
    "steam": "2376270"
@@ -932,7 +952,8 @@
  },
  {
   "ids": {
-   "igdb": "picross-records-of-the-shield-hero"
+   "igdb": "picross-records-of-the-shield-hero",
+   "metacritic": "picross-records-of-the-shield-hero"
   },
   "label_en": "Picross Records of the Shield Hero",
   "wikidata": "Q130425001"

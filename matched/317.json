@@ -13,6 +13,7 @@
   "enwiki": "Jurassic Park III: The DNA Factor",
   "ids": {
    "igdb": "jurassic-park-iii-the-dna-factor",
+   "metacritic": "jurassic-park-iii-the-dna-factor",
    "mobygames": "6158"
   },
   "label_en": "Jurassic Park III: The DNA Factor",
@@ -24,6 +25,7 @@
    "gog": "game/return_to_castle_wolfenstein",
    "howlongtobeat": "7764",
    "igdb": "return-to-castle-wolfenstein",
+   "metacritic": "return-to-castle-wolfenstein",
    "mobygames": "5385",
    "pcgamingwiki": "Return_to_Castle_Wolfenstein",
    "steam": "9010"
@@ -35,6 +37,7 @@
   "enwiki": "Thor: God of Thunder",
   "ids": {
    "igdb": "thor-god-of-thunder",
+   "metacritic": "thor-god-of-thunder",
    "mobygames": "69656"
   },
   "label_en": "Thor: God of Thunder",
@@ -64,6 +67,7 @@
   "ids": {
    "howlongtobeat": "20044",
    "igdb": "code-lyoko-quest-for-infinity",
+   "metacritic": "code-lyoko-quest-for-infinity",
    "mobygames": "41687"
   },
   "label_en": "Code Lyoko: Quest for Infinity",
@@ -97,6 +101,7 @@
   "ids": {
    "howlongtobeat": "7705",
    "igdb": "renegade-ops",
+   "metacritic": "renegade-ops",
    "mobygames": "53850",
    "pcgamingwiki": "Renegade_Ops",
    "steam": "99300"
@@ -109,6 +114,7 @@
   "ids": {
    "howlongtobeat": "9813",
    "igdb": "the-club",
+   "metacritic": "the-club",
    "mobygames": "32786",
    "pcgamingwiki": "The_Club",
    "steam": "10460"
@@ -121,6 +127,7 @@
   "ids": {
    "howlongtobeat": "54017",
    "igdb": "star-trek-starfleet-command-volume-ii-empires-at-war",
+   "metacritic": "starfleet-command-volume-ii-empires-at-war",
    "mobygames": "2875",
    "pcgamingwiki": "Star_Trek:_Starfleet_Command_II_-_Empires_at_War"
   },
@@ -139,6 +146,7 @@
   "ids": {
    "howlongtobeat": "1266",
    "igdb": "bookworm",
+   "metacritic": "bookworm",
    "mobygames": "8639",
    "pcgamingwiki": "Bookworm",
    "steam": "3370"
@@ -210,6 +218,7 @@
   "enwiki": "Vegas Tycoon",
   "ids": {
    "igdb": "vegas-make-it-big",
+   "metacritic": "vegas-tycoon",
    "pcgamingwiki": "Vegas:_Make_It_Big"
   },
   "label_en": "Vegas Tycoon",
@@ -239,6 +248,7 @@
   "ids": {
    "howlongtobeat": "65055",
    "igdb": "king-of-the-hat",
+   "metacritic": "king-of-the-hat",
    "mobygames": "113481",
    "pcgamingwiki": "King_of_the_Hat",
    "steam": "837350"
@@ -267,6 +277,7 @@
    "gog": "game/dawn_of_man",
    "howlongtobeat": "65681",
    "igdb": "dawn-of-man",
+   "metacritic": "dawn-of-man",
    "mobygames": "123055",
    "pcgamingwiki": "Dawn_of_Man",
    "steam": "858810"
@@ -280,6 +291,7 @@
    "gog": "game/draugen",
    "howlongtobeat": "67550",
    "igdb": "draugen",
+   "metacritic": "draugen",
    "mobygames": "127737",
    "pcgamingwiki": "Draugen",
    "steam": "770390"
@@ -291,6 +303,7 @@
   "ids": {
    "howlongtobeat": "40685",
    "igdb": "fabulous-food-truck",
+   "metacritic": "fabulous-food-truck",
    "mobygames": "158827",
    "pcgamingwiki": "Fabulous_Food_Truck",
    "steam": "497260"
@@ -325,6 +338,7 @@
   "ids": {
    "howlongtobeat": "82742",
    "igdb": "lovingly-evil",
+   "metacritic": "lovingly-evil",
    "mobygames": "166725",
    "steam": "1247020"
   },
@@ -363,6 +377,7 @@
   "ids": {
    "howlongtobeat": "65228",
    "igdb": "blind",
+   "metacritic": "blind-2018",
    "mobygames": "113843",
    "pcgamingwiki": "Blind",
    "steam": "406860"
@@ -432,6 +447,7 @@
    "gog": "game/control_resonant",
    "howlongtobeat": "116190",
    "igdb": "control-resonant--1",
+   "metacritic": "control-resonant",
    "pcgamingwiki": "Control_2",
    "steam": "3669870"
   },
@@ -698,6 +714,7 @@
   "ids": {
    "howlongtobeat": "11929",
    "igdb": "bad-bots",
+   "metacritic": "bad-bots",
    "mobygames": "129454",
    "pcgamingwiki": "Bad_Bots",
    "steam": "235070"
@@ -792,7 +809,8 @@
  },
  {
   "ids": {
-   "igdb": "pixel-slime-u"
+   "igdb": "pixel-slime-u",
+   "metacritic": "pixel-slime-u"
   },
   "label_en": "Pixel Slime U",
   "wikidata": "Q125351317"
@@ -800,6 +818,7 @@
  {
   "ids": {
    "igdb": "lohotronshchik-crazy-loto",
+   "metacritic": "lohotronshhik-crazy-loto",
    "mobygames": "162270"
   },
   "label_en": "Lohotronshhik: Crazy Loto",

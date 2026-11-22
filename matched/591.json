@@ -33,6 +33,7 @@
   "ids": {
    "howlongtobeat": "12597",
    "igdb": "need-for-speed-world",
+   "metacritic": "need-for-speed-world",
    "mobygames": "47612",
    "pcgamingwiki": "Need_for_Speed:_World"
   },
@@ -76,6 +77,7 @@
    "gog": "game/myst_3_exile",
    "howlongtobeat": "6309",
    "igdb": "myst-iii-exile",
+   "metacritic": "myst-iii-exile",
    "mobygames": "4024",
    "pcgamingwiki": "Myst_III:_Exile",
    "steam": "925930"
@@ -104,6 +106,7 @@
   "ids": {
    "howlongtobeat": "14775",
    "igdb": "airforce-delta-strike",
+   "metacritic": "airforce-delta-strike",
    "mobygames": "47411"
   },
   "label_en": "Airforce Delta Strike",
@@ -140,6 +143,7 @@
   "ids": {
    "howlongtobeat": "5534",
    "igdb": "magic-the-gathering-duels-of-the-planeswalkers",
+   "metacritic": "magic-the-gathering-duels-of-the-planeswalkers",
    "mobygames": "41508",
    "pcgamingwiki": "Magic:_The_Gathering_-_Duels_of_the_Planeswalkers",
    "steam": "49400"
@@ -179,6 +183,7 @@
   "ids": {
    "howlongtobeat": "8711",
    "igdb": "sol-survivor",
+   "metacritic": "sol-survivor",
    "mobygames": "48587",
    "pcgamingwiki": "Sol_Survivor",
    "steam": "45000"
@@ -249,6 +254,7 @@
  {
   "ids": {
    "igdb": "intrude",
+   "pcgamingwiki": "Intrude",
    "steam": "495720"
   },
   "label_en": "Intrude",
@@ -261,6 +267,7 @@
    "gog": "game/project_highrise",
    "howlongtobeat": "39490",
    "igdb": "project-highrise",
+   "metacritic": "project-highrise",
    "mobygames": "86907",
    "pcgamingwiki": "Project_Highrise",
    "steam": "423580"
@@ -274,6 +281,7 @@
    "gog": "game/renegade_the_battle_for_jacobs_star",
    "igdb": "renegade-the-battle-for-jacobs-star",
    "mobygames": "701",
+   "pcgamingwiki": "Renegade:_Battle_for_Jacob's_Star",
    "steam": "2702130"
   },
   "label_en": "Renegade: The Battle for Jacob's Star",
@@ -293,6 +301,7 @@
   "ids": {
    "howlongtobeat": "48441",
    "igdb": "moss",
+   "metacritic": "moss",
    "mobygames": "104184",
    "pcgamingwiki": "Moss",
    "steam": "846470"
@@ -303,6 +312,7 @@
  {
   "ids": {
    "igdb": "gunhouse",
+   "metacritic": "gunhouse",
    "mobygames": "88429",
    "steam": "704110"
   },
@@ -351,6 +361,7 @@
   "ids": {
    "howlongtobeat": "13710",
    "igdb": "oknytt",
+   "metacritic": "oknytt",
    "mobygames": "70002",
    "pcgamingwiki": "Oknytt",
    "steam": "286320"
@@ -384,6 +395,7 @@
   "ids": {
    "howlongtobeat": "23927",
    "igdb": "squirreltopia",
+   "metacritic": "squirreltopia",
    "mobygames": "107682",
    "pcgamingwiki": "Squirreltopia",
    "steam": "334690"
@@ -1214,6 +1226,7 @@
   "ids": {
    "howlongtobeat": "96298",
    "igdb": "wappy-dog",
+   "metacritic": "wappy-dog",
    "mobygames": "90518"
   },
   "label_en": "Wappy Dog",
@@ -1228,6 +1241,7 @@
  },
  {
   "ids": {
+   "metacritic": "star-trek-outposts-unknown",
    "mobygames": "262499",
    "pcgamingwiki": "Star_Trek:_Outposts_Unknown",
    "steam": "3469910"

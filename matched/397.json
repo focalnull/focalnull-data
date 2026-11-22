@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "6475",
    "igdb": "need-for-speed-hot-pursuit-2",
+   "metacritic": "need-for-speed-hot-pursuit-2",
    "mobygames": "7459",
    "pcgamingwiki": "Need_for_Speed:_Hot_Pursuit_2"
   },
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "2283",
    "igdb": "day-of-defeat-source",
+   "metacritic": "day-of-defeat-source",
    "mobygames": "20104",
    "pcgamingwiki": "Day_of_Defeat:_Source",
    "steam": "300"
@@ -37,6 +39,7 @@
   "ids": {
    "howlongtobeat": "8314",
    "igdb": "serious-sam-ii",
+   "metacritic": "serious-sam-ii",
    "mobygames": "19973",
    "pcgamingwiki": "Serious_Sam_2",
    "steam": "204340"
@@ -49,6 +52,7 @@
   "ids": {
    "howlongtobeat": "7702",
    "igdb": "remember-me",
+   "metacritic": "remember-me",
    "mobygames": "60787",
    "pcgamingwiki": "Remember_Me",
    "steam": "228300"
@@ -115,6 +119,7 @@
    "gog": "game/king_arthur_ii_the_roleplaying_wargame_dead_legions",
    "howlongtobeat": "5005",
    "igdb": "king-arthur-ii-the-role-playing-wargame",
+   "metacritic": "king-arthur-ii-the-role-playing-wargame",
    "mobygames": "57476",
    "pcgamingwiki": "King_Arthur_II:_The_Role-Playing_Wargame",
    "steam": "24480"
@@ -146,6 +151,7 @@
   "enwiki": "Dave Mirra Freestyle BMX 3",
   "ids": {
    "igdb": "dave-mirra-freestyle-bmx-3",
+   "metacritic": "dave-mirra-freestyle-bmx-3",
    "mobygames": "10798"
   },
   "label_en": "Dave Mirra Freestyle BMX 3",
@@ -203,6 +209,9 @@
   "wikidata": "Q11290397"
  },
  {
+  "ids": {
+   "metacritic": "hachimitsu-otome-blossom-days"
+  },
   "label_en": "Hachimitsu Otome Blossomdays",
   "wikidata": "Q11326397"
  },
@@ -300,6 +309,7 @@
   "ids": {
    "howlongtobeat": "40680",
    "igdb": "24-hours",
+   "metacritic": "24-hours",
    "pcgamingwiki": "24_Hours"
   },
   "label_en": "24 HOURS",
@@ -323,6 +333,7 @@
   "enwiki": "The Witcher: Monster Slayer",
   "ids": {
    "igdb": "the-witcher-monster-slayer",
+   "metacritic": "the-witcher-monster-slayer",
    "mobygames": "168126"
   },
   "label_en": "The Witcher: Monster Slayer",
@@ -423,6 +434,7 @@
   "ids": {
    "howlongtobeat": "4425",
    "igdb": "heroes-of-might-and-magic-iii-hd-edition--1",
+   "metacritic": "heroes-of-might-and-magic-iii-hd-edition",
    "mobygames": "79281",
    "pcgamingwiki": "Heroes_of_Might_and_Magic_III_-_HD_Edition",
    "steam": "297000"
@@ -446,7 +458,9 @@
    "epic": "biomorph-281d6e",
    "howlongtobeat": "116847",
    "igdb": "biomorph",
+   "metacritic": "biomorph",
    "mobygames": "221339",
+   "pcgamingwiki": "Biomorph",
    "steam": "1430220"
   },
   "label_en": "Biomorph",

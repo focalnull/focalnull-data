@@ -3,6 +3,7 @@
   "enwiki": "Tekken Tag Tournament 2",
   "ids": {
    "igdb": "tekken-tag-tournament-2",
+   "metacritic": "tekken-tag-tournament-2",
    "mobygames": "61883"
   },
   "label_en": "Tekken Tag Tournament 2",
@@ -14,6 +15,7 @@
    "gog": "game/x3_terran_war_pack",
    "howlongtobeat": "11391",
    "igdb": "x3-terran-conflict",
+   "metacritic": "x3-terran-conflict",
    "mobygames": "36883",
    "pcgamingwiki": "X3:_Terran_Conflict",
    "steam": "2820"
@@ -25,6 +27,7 @@
   "enwiki": "Need for Speed: Porsche Unleashed",
   "ids": {
    "igdb": "need-for-speed-porsche-unleashed",
+   "metacritic": "need-for-speed-porsche-unleashed",
    "mobygames": "1398",
    "pcgamingwiki": "Need_for_Speed:_Porsche_Unleashed"
   },
@@ -54,6 +57,7 @@
   "ids": {
    "howlongtobeat": "4961",
    "igdb": "kessen-ii",
+   "metacritic": "kessen-ii",
    "mobygames": "5081"
   },
   "label_en": "Kessen II",
@@ -81,6 +85,7 @@
   "enwiki": "The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies",
   "ids": {
    "igdb": "the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies",
+   "metacritic": "the-adventures-of-jimmy-neutron-boy-genius-attack",
    "mobygames": "23662"
   },
   "label_en": "The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies",
@@ -111,6 +116,7 @@
   "ids": {
    "howlongtobeat": "16673",
    "igdb": "art-of-murder-fbi-confidential",
+   "metacritic": "art-of-murder-fbi-confidential",
    "mobygames": "34282",
    "pcgamingwiki": "Art_of_Murder_-_FBI_Confidential",
    "steam": "809000"
@@ -131,7 +137,9 @@
   "ids": {
    "howlongtobeat": "134271",
    "igdb": "spartan--2",
+   "metacritic": "spartan-2004",
    "mobygames": "38373",
+   "pcgamingwiki": "Spartan_(2004)",
    "steam": "1804710"
   },
   "label_en": "Spartan",
@@ -158,6 +166,7 @@
   "enwiki": "Raven Squad: Operation Hidden Dagger",
   "ids": {
    "igdb": "raven-squad-operation-hidden-dagger",
+   "metacritic": "raven-squad-operation-hidden-dagger",
    "mobygames": "42422"
   },
   "label_en": "Raven Squad: Operation Hidden Dagger",
@@ -207,6 +216,7 @@
   "enwiki": "NHL Eastside Hockey Manager 2005",
   "ids": {
    "igdb": "nhl-eastside-hockey-manager-2005",
+   "metacritic": "nhl-eastside-hockey-manager-2005",
    "mobygames": "21476"
   },
   "label_en": "NHL Eastside Hockey Manager 2005",
@@ -255,6 +265,7 @@
    "gog": "game/leisure_suit_larry_wet_dreams_dont_dry",
    "howlongtobeat": "62244",
    "igdb": "leisure-suit-larry-wet-dreams-dont-dry",
+   "metacritic": "leisure-suit-larry-wet-dreams-dont-dry",
    "mobygames": "116522",
    "pcgamingwiki": "Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry",
    "steam": "765870"
@@ -272,6 +283,7 @@
    "gog": "game/golf_peaks",
    "howlongtobeat": "63170",
    "igdb": "golf-peaks",
+   "metacritic": "golf-peaks",
    "mobygames": "123208",
    "pcgamingwiki": "Golf_Peaks",
    "steam": "923260"
@@ -283,6 +295,7 @@
   "ids": {
    "howlongtobeat": "68948",
    "igdb": "1-screen-platformer",
+   "metacritic": "1-screen-platformer",
    "mobygames": "157615",
    "pcgamingwiki": "1_Screen_Platformer",
    "steam": "791180"
@@ -295,6 +308,7 @@
    "gog": "game/decay_of_logos",
    "howlongtobeat": "67879",
    "igdb": "decay-of-logos",
+   "metacritic": "decay-of-logos",
    "mobygames": "133797",
    "pcgamingwiki": "Decay_of_Logos",
    "steam": "759570"
@@ -314,6 +328,7 @@
    "gog": "game/grow_song_of_the_evertree",
    "howlongtobeat": "94204",
    "igdb": "grow-song-of-the-evertree",
+   "metacritic": "grow-song-of-the-evertree",
    "mobygames": "175555",
    "pcgamingwiki": "Grow:_Song_of_the_Evertree",
    "steam": "1380420"
@@ -334,7 +349,8 @@
  },
  {
   "ids": {
-   "igdb": "relayer"
+   "igdb": "relayer",
+   "metacritic": "relayer"
   },
   "label_en": "Relayer",
   "wikidata": "Q111190049"
@@ -381,6 +397,7 @@
    "epic": "blossom-tales-ii-the-minotaur-prince-e74c95",
    "howlongtobeat": "112716",
    "igdb": "blossom-tales-2-the-minotaur-prince",
+   "metacritic": "blossom-tales-ii-the-minotaur-prince",
    "mobygames": "187248",
    "pcgamingwiki": "Blossom_Tales_2:_The_Minotaur_Prince",
    "steam": "1747830"
@@ -393,6 +410,7 @@
   "ids": {
    "howlongtobeat": "108998",
    "igdb": "azure-striker-gunvolt-3",
+   "metacritic": "azure-striker-gunvolt-3",
    "mobygames": "188259",
    "steam": "1931690"
   },
@@ -424,6 +442,7 @@
    "gog": "game/gordian_quest",
    "howlongtobeat": "77800",
    "igdb": "gordian-quest",
+   "metacritic": "gordian-quest",
    "mobygames": "150691",
    "pcgamingwiki": "Gordian_Quest",
    "steam": "981430"
@@ -797,6 +816,7 @@
    "epic": "totally-spies-cyber-mission-051599",
    "howlongtobeat": "151060",
    "igdb": "totally-spies-cyber-mission",
+   "metacritic": "totally-spies-cyber-mission",
    "mobygames": "232750",
    "pcgamingwiki": "Totally_Spies!_Cyber_Mission",
    "steam": "2793950"
@@ -835,6 +855,9 @@
   "wikidata": "Q126695049"
  },
  {
+  "ids": {
+   "metacritic": "alex-the-allegator-3-radioactive-racers"
+  },
   "label_en": "Alex the Allegator 3",
   "wikidata": "Q126888049"
  },
@@ -842,6 +865,7 @@
   "enwiki": "Stella Sora",
   "ids": {
    "igdb": "stella-sora",
+   "metacritic": "stella-sora",
    "steam": "4813850"
   },
   "label_en": "Stella Sora",

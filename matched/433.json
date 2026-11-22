@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10704",
    "igdb": "turok",
+   "metacritic": "turok",
    "mobygames": "33060",
    "pcgamingwiki": "Turok_(2008)"
   },
@@ -39,6 +40,7 @@
   "enwiki": "Ju-On: The Grudge (video game)",
   "ids": {
    "igdb": "ju-on-the-grudge",
+   "metacritic": "ju-on-the-grudge",
    "mobygames": "49965"
   },
   "label_en": "Ju-on: The Grudge",
@@ -81,6 +83,7 @@
   "ids": {
    "howlongtobeat": "273",
    "igdb": "age-of-empires-mythologies",
+   "metacritic": "age-of-empires-mythologies",
    "mobygames": "37820"
   },
   "label_en": "Age of Empires: Mythologies",
@@ -106,6 +109,7 @@
   "enwiki": "NHL Hitz Pro",
   "ids": {
    "igdb": "nhl-hitz-pro",
+   "metacritic": "nhl-hitz-pro",
    "mobygames": "11021"
   },
   "label_en": "NHL Hitz Pro",
@@ -202,6 +206,7 @@
  {
   "ids": {
    "igdb": "rikorisu-lycoris-radiata",
+   "metacritic": "lycoris-radiata",
    "mobygames": "252790"
   },
   "label_en": "Rikorisu ~Lycoris Radiata~",
@@ -298,6 +303,7 @@
  },
  {
   "ids": {
+   "metacritic": "crystareino",
    "mobygames": "95718"
   },
   "label_en": "Crystareino",
@@ -330,6 +336,7 @@
   "ids": {
    "howlongtobeat": "81096",
    "igdb": "atelier-ryza-2-lost-legends-and-the-secret-fairy",
+   "metacritic": "atelier-ryza-2-lost-legends-the-secret-fairy",
    "mobygames": "157842",
    "pcgamingwiki": "Atelier_Ryza_2:_Lost_Legends_&_the_Secret_Fairy",
    "steam": "1257290"
@@ -368,6 +375,7 @@
   "ids": {
    "howlongtobeat": "61880",
    "igdb": "a-winters-daydream",
+   "metacritic": "a-winters-daydream",
    "mobygames": "118503",
    "pcgamingwiki": "A_Winter's_Daydream",
    "steam": "925340"
@@ -418,6 +426,7 @@
   "ids": {
    "howlongtobeat": "90044",
    "igdb": "chronicle-of-innsmouth-mountains-of-madness",
+   "metacritic": "chronicle-of-innsmouth-mountains-of-madness",
    "mobygames": "169469",
    "pcgamingwiki": "Chronicle_of_Innsmouth:_Mountains_of_Madness",
    "steam": "962700"
@@ -717,6 +726,7 @@
   "ids": {
    "howlongtobeat": "130138",
    "igdb": "blazblue-entropy-effect",
+   "metacritic": "blazblue-entropy-effect",
    "mobygames": "207435",
    "pcgamingwiki": "BlazBlue:_Entropy_Effect",
    "steam": "2273430"
@@ -736,7 +746,8 @@
  },
  {
   "ids": {
-   "igdb": "mizen-tantei-the-protea-cases"
+   "igdb": "mizen-tantei-the-protea-cases",
+   "metacritic": "mizen-tantei-the-protea-cases"
   },
   "label_en": "Mizen Tantei: The Protea Cases",
   "wikidata": "Q123591433"
@@ -775,6 +786,7 @@
   "ids": {
    "howlongtobeat": "19716",
    "igdb": "gunpowder",
+   "metacritic": "gunpowder",
    "mobygames": "148283",
    "pcgamingwiki": "Gunpowder",
    "steam": "375170"
@@ -883,7 +895,8 @@
   "enwiki": "The Duskbloods",
   "ids": {
    "howlongtobeat": "166253",
-   "igdb": "the-duskbloods"
+   "igdb": "the-duskbloods",
+   "metacritic": "the-duskbloods"
   },
   "label_en": "The Duskbloods",
   "wikidata": "Q133804433"
@@ -892,6 +905,7 @@
   "ids": {
    "gog": "game/fantasy_tavern_sextet_vol2_adventurers_days",
    "igdb": "fantasy-tavern-sextet-vol-2-adventurers-days",
+   "metacritic": "fantasy-tavern-sextet-vol-2-adventurers-days-",
    "mobygames": "157399",
    "steam": "1461770"
   },
@@ -1222,6 +1236,7 @@
  },
  {
   "ids": {
+   "metacritic": "bermuda-triangle-saving-the-coral",
    "mobygames": "84965"
   },
   "label_en": "Bermuda Triangle: Saving the Coral",

@@ -55,6 +55,7 @@
   "ids": {
    "howlongtobeat": "103469",
    "igdb": "supremacy-1914",
+   "metacritic": "supremacy-1914",
    "mobygames": "129990",
    "pcgamingwiki": "Supremacy_1914",
    "steam": "979920"
@@ -121,6 +122,7 @@
   "enwiki": "MotoGP (2000 video game)",
   "ids": {
    "igdb": "motogp",
+   "metacritic": "motogp",
    "mobygames": "3927"
   },
   "label_en": "MotoGP",
@@ -130,6 +132,7 @@
   "enwiki": "Section 8 (video game)",
   "ids": {
    "igdb": "section-8",
+   "metacritic": "section-8",
    "mobygames": "42654",
    "pcgamingwiki": "Section_8",
    "steam": "38220"
@@ -141,7 +144,8 @@
   "enwiki": "The Punisher: No Mercy",
   "ids": {
    "howlongtobeat": "10141",
-   "igdb": "the-punisher-no-mercy"
+   "igdb": "the-punisher-no-mercy",
+   "metacritic": "the-punisher-no-mercy"
   },
   "label_en": "The Punisher: No Mercy",
   "wikidata": "Q4051247"
@@ -150,6 +154,7 @@
   "enwiki": "CSR Racing",
   "ids": {
    "igdb": "csr-racing",
+   "metacritic": "csr-racing",
    "mobygames": "65267",
    "pcgamingwiki": "CSR_Racing"
   },
@@ -170,6 +175,7 @@
   "ids": {
    "howlongtobeat": "2135",
    "igdb": "d-day--1",
+   "metacritic": "d-day",
    "mobygames": "16634",
    "pcgamingwiki": "D-Day"
   },
@@ -229,6 +235,7 @@
   "enwiki": "Yanya Caballista: City Skater",
   "ids": {
    "igdb": "yanya-caballista-city-skater",
+   "metacritic": "yanya-caballista-city-skater",
    "mobygames": "36476"
   },
   "label_en": "Yanya Caballista: City Skater",
@@ -255,6 +262,7 @@
   "ids": {
    "howlongtobeat": "51754",
    "igdb": "bury-me-my-love",
+   "metacritic": "bury-me-my-love",
    "mobygames": "97554",
    "pcgamingwiki": "Bury_Me,_My_Love",
    "steam": "808090"
@@ -266,6 +274,7 @@
   "ids": {
    "howlongtobeat": "29427",
    "igdb": "gryphon-knight-epic",
+   "metacritic": "gryphon-knight-epic",
    "mobygames": "83905",
    "pcgamingwiki": "Gryphon_Knight_Epic",
    "steam": "358650"
@@ -280,6 +289,7 @@
   "ids": {
    "howlongtobeat": "30380",
    "igdb": "afterlife-empire",
+   "metacritic": "afterlife-empire",
    "mobygames": "206788",
    "pcgamingwiki": "Afterlife_Empire",
    "steam": "367710"
@@ -292,6 +302,8 @@
   "ids": {
    "howlongtobeat": "102496",
    "igdb": "showa-american-story",
+   "metacritic": "showa-american-story",
+   "pcgamingwiki": "Showa_American_Story",
    "steam": "1687540"
   },
   "label_en": "Showa American Story",
@@ -334,6 +346,7 @@
   "ids": {
    "howlongtobeat": "13591",
    "igdb": "ship-simulator-extremes",
+   "metacritic": "ship-simulator-extremes",
    "mobygames": "52056",
    "pcgamingwiki": "Ship_Simulator_Extremes",
    "steam": "48800"
@@ -568,6 +581,7 @@
   "ids": {
    "howlongtobeat": "130856",
    "igdb": "hira-hira-hihiru",
+   "metacritic": "hira-hira-hihiru",
    "mobygames": "211976",
    "pcgamingwiki": "Hira_Hira_Hihiru",
    "steam": "2314820"
@@ -627,6 +641,7 @@
   "ids": {
    "howlongtobeat": "37746",
    "igdb": "kill-to-collect",
+   "metacritic": "kill-to-collect",
    "mobygames": "87906",
    "pcgamingwiki": "Kill_to_Collect",
    "steam": "241760"
@@ -1072,6 +1087,7 @@
  {
   "ids": {
    "igdb": "hexaluga-weapon-and-shield",
+   "pcgamingwiki": "Hexaluga:_Weapon_and_Shield",
    "steam": "845200"
   },
   "label_en": "❂ Hexaluga ❂ Weapon and Shield ☯",

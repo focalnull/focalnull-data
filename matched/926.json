@@ -15,6 +15,7 @@
    "gog": "game/earthworm_jim_2",
    "howlongtobeat": "3037",
    "igdb": "earthworm-jim-2",
+   "metacritic": "earthworm-jim-2",
    "mobygames": "373",
    "pcgamingwiki": "Earthworm_Jim_2",
    "steam": "38490"
@@ -33,6 +34,7 @@
    "gog": "game/dragon_age_origins",
    "howlongtobeat": "2760",
    "igdb": "dragon-age-origins",
+   "metacritic": "dragon-age-origins",
    "mobygames": "43297",
    "pcgamingwiki": "Dragon_Age:_Origins",
    "steam": "47810"
@@ -93,6 +95,7 @@
   "ids": {
    "howlongtobeat": "1720",
    "igdb": "cities-xl-2011",
+   "metacritic": "cities-xl-2011",
    "mobygames": "48766",
    "pcgamingwiki": "Cities_XL_2011",
    "steam": "58510"
@@ -146,6 +149,7 @@
   "ids": {
    "howlongtobeat": "7087",
    "igdb": "pixeljunk-sidescroller",
+   "metacritic": "pixeljunk-sidescroller",
    "mobygames": "69532"
   },
   "label_en": "PixelJunk SideScroller",
@@ -214,6 +218,7 @@
   "enwiki": "LocoRoco Midnight Carnival",
   "ids": {
    "igdb": "locoroco-midnight-carnival",
+   "metacritic": "locoroco-midnight-carnival",
    "mobygames": "46542"
   },
   "label_en": "LocoRoco Midnight Carnival",
@@ -223,6 +228,7 @@
   "enwiki": "Mamorukun Curse!",
   "ids": {
    "igdb": "mamorukun-curse",
+   "metacritic": "mamorukun-curse",
    "mobygames": "86065"
   },
   "label_en": "Mamorukun Curse!",
@@ -232,6 +238,7 @@
   "enwiki": "Prince of Persia Classic",
   "ids": {
    "igdb": "prince-of-persia-classic",
+   "metacritic": "prince-of-persia-classic",
    "mobygames": "30806"
   },
   "label_en": "Prince of Persia Classic",
@@ -280,6 +287,7 @@
   "ids": {
    "howlongtobeat": "16778",
    "igdb": "soltys",
+   "metacritic": "soltys",
    "mobygames": "19196",
    "pcgamingwiki": "Sołtys"
   },
@@ -319,6 +327,7 @@
    "gog": "game/stories_the_path_of_destinies",
    "howlongtobeat": "35878",
    "igdb": "stories-the-path-of-destinies",
+   "metacritic": "stories-the-path-of-destinies",
    "mobygames": "79271",
    "pcgamingwiki": "Stories:_The_Path_of_Destinies",
    "steam": "439190"
@@ -362,6 +371,7 @@
   "ids": {
    "howlongtobeat": "6983",
    "igdb": "petz-catz-2",
+   "metacritic": "petz-catz-2",
    "mobygames": "72632",
    "steam": "15150"
   },
@@ -388,6 +398,7 @@
   "ids": {
    "howlongtobeat": "43935",
    "igdb": "shadows-of-adam",
+   "metacritic": "shadows-of-adam",
    "mobygames": "126103",
    "pcgamingwiki": "Shadows_of_Adam",
    "steam": "506510"
@@ -411,6 +422,7 @@
    "gog": "game/mosaic",
    "howlongtobeat": "62986",
    "igdb": "mosaic",
+   "metacritic": "mosaic",
    "mobygames": "136791",
    "pcgamingwiki": "Mosaic",
    "steam": "349270"
@@ -439,6 +451,7 @@
   "ids": {
    "howlongtobeat": "70160",
    "igdb": "xenoblade-chronicles-definitive-edition",
+   "metacritic": "xenoblade-chronicles-definitive-edition",
    "mobygames": "145915"
   },
   "label_en": "Xenoblade Chronicles: Definitive Edition",
@@ -524,6 +537,7 @@
   "ids": {
    "howlongtobeat": "90656",
    "igdb": "super-cable-boy",
+   "metacritic": "super-cable-boy",
    "mobygames": "157076",
    "steam": "1304420"
   },
@@ -833,6 +847,7 @@
    "gog": "game/a_tiny_sticker_tale",
    "howlongtobeat": "129740",
    "igdb": "a-tiny-sticker-tale",
+   "metacritic": "a-tiny-sticker-tale",
    "mobygames": "209793",
    "steam": "2322180"
   },

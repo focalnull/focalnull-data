@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "5719",
    "igdb": "master-levels-for-doom-ii",
+   "metacritic": "master-levels-for-doom-ii",
    "mobygames": "5287",
    "steam": "9160"
   },
@@ -117,6 +118,7 @@
   "ids": {
    "howlongtobeat": "11611",
    "igdb": "zumas-revenge",
+   "metacritic": "zumas-revenge",
    "mobygames": "42509",
    "pcgamingwiki": "Zuma's_Revenge!",
    "steam": "3620"
@@ -159,6 +161,7 @@
   "ids": {
    "howlongtobeat": "36003",
    "igdb": "dead-secret",
+   "metacritic": "dead-secret",
    "mobygames": "95239",
    "pcgamingwiki": "Dead_Secret",
    "steam": "402260"
@@ -260,6 +263,7 @@
    "gog": "game/atomicrops",
    "howlongtobeat": "68636",
    "igdb": "atomicrops",
+   "metacritic": "atomicrops",
    "mobygames": "134450",
    "pcgamingwiki": "Atomicrops",
    "steam": "757320"
@@ -279,6 +283,7 @@
  },
  {
   "ids": {
+   "metacritic": "lode-runner",
    "mobygames": "40558"
   },
   "label_en": "Lode Runner",
@@ -310,6 +315,7 @@
    "epic": "vampire-survivors-f699a1",
    "howlongtobeat": "102750",
    "igdb": "vampire-survivors",
+   "metacritic": "vampire-survivors",
    "mobygames": "178788",
    "pcgamingwiki": "Vampire_Survivors",
    "steam": "1794680"
@@ -388,6 +394,7 @@
    "epic": "aliens-dark-descent",
    "howlongtobeat": "110158",
    "igdb": "aliens-dark-descent",
+   "metacritic": "aliens-dark-descent",
    "mobygames": "204681",
    "pcgamingwiki": "Aliens:_Dark_Descent",
    "steam": "1150440"
@@ -690,6 +697,7 @@
   "ids": {
    "howlongtobeat": "13972",
    "igdb": "global-ops-commando-libya",
+   "metacritic": "global-ops-commando-libya",
    "mobygames": "53747",
    "pcgamingwiki": "Global_Ops:_Commando_Libya",
    "steam": "200020"
@@ -762,6 +770,7 @@
   "ids": {
    "howlongtobeat": "32395",
    "igdb": "the-deer",
+   "metacritic": "the-deer-2015",
    "mobygames": "76615",
    "pcgamingwiki": "The_Deer",
    "steam": "400240"
@@ -773,6 +782,7 @@
   "enwiki": "AFK Journey",
   "ids": {
    "igdb": "afk-journey",
+   "metacritic": "afk-journey",
    "steam": "4195600"
   },
   "label_en": "AFK Journey",
@@ -781,6 +791,7 @@
  {
   "ids": {
    "igdb": "uncult",
+   "metacritic": "uncult",
    "steam": "2543320"
   },
   "label_en": "UNCULT",
@@ -903,6 +914,7 @@
    "gog": "game/liberte",
    "howlongtobeat": "104440",
    "igdb": "liberte",
+   "metacritic": "liberte",
    "mobygames": "197446",
    "pcgamingwiki": "Liberté",
    "steam": "1590160"

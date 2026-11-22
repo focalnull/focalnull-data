@@ -9,6 +9,7 @@
   "ids": {
    "howlongtobeat": "6483",
    "igdb": "need-for-speed-the-run",
+   "metacritic": "need-for-speed-the-run",
    "mobygames": "53576",
    "pcgamingwiki": "Need_for_Speed:_The_Run"
   },
@@ -42,6 +43,7 @@
    "gog": "game/anno_1404_gold_edition",
    "howlongtobeat": "485",
    "igdb": "anno-1404-gold-edition",
+   "metacritic": "dawn-of-discovery",
    "mobygames": "41307",
    "pcgamingwiki": "Anno_1404"
   },
@@ -80,6 +82,7 @@
   "ids": {
    "howlongtobeat": "10061",
    "igdb": "the-lord-of-the-rings-conquest",
+   "metacritic": "the-lord-of-the-rings-conquest",
    "mobygames": "38791",
    "pcgamingwiki": "The_Lord_of_the_Rings:_Conquest"
   },
@@ -125,6 +128,7 @@
    "gog": "game/sacrifice",
    "howlongtobeat": "8056",
    "igdb": "sacrifice",
+   "metacritic": "sacrifice",
    "mobygames": "2861",
    "pcgamingwiki": "Sacrifice",
    "steam": "38440"
@@ -138,6 +142,7 @@
    "gog": "game/industry_giant_2",
    "howlongtobeat": "30750",
    "igdb": "industry-giant-ii",
+   "metacritic": "industry-giant-ii",
    "mobygames": "8596",
    "pcgamingwiki": "Industry_Giant_2",
    "steam": "271360"
@@ -166,6 +171,7 @@
   "enwiki": "MotoGP: Ultimate Racing Technology 2",
   "ids": {
    "igdb": "motogp-2",
+   "metacritic": "motogp-2",
    "mobygames": "10092",
    "pcgamingwiki": "MotoGP_2"
   },
@@ -177,6 +183,7 @@
   "ids": {
    "howlongtobeat": "5419",
    "igdb": "lufia-curse-of-the-sinistrals",
+   "metacritic": "lufia-curse-of-the-sinistrals",
    "mobygames": "61234"
   },
   "label_en": "Lufia: Curse of the Sinistrals",
@@ -217,6 +224,7 @@
    "gog": "game/curse_the_eye_of_isis",
    "howlongtobeat": "16225",
    "igdb": "curse-the-eye-of-isis",
+   "metacritic": "curse-the-eye-of-isis",
    "mobygames": "11393",
    "pcgamingwiki": "Curse:_The_Eye_of_Isis",
    "steam": "302210"
@@ -246,6 +254,7 @@
   "ids": {
    "howlongtobeat": "21089",
    "igdb": "ar-nosurge-ode-to-an-unborn-star",
+   "metacritic": "ar-nosurge-ode-to-an-unborn-star",
    "mobygames": "73332",
    "pcgamingwiki": "Ar_Nosurge:_Ode_to_an_Unborn_Star_DX",
    "steam": "1477490"
@@ -267,6 +276,7 @@
   "ids": {
    "howlongtobeat": "797",
    "igdb": "bad-rats",
+   "metacritic": "bad-rats-the-rats-revenge",
    "mobygames": "41910",
    "pcgamingwiki": "Bad_Rats:_The_Rats'_Revenge",
    "steam": "34900"
@@ -291,6 +301,7 @@
   "ids": {
    "howlongtobeat": "62633",
    "igdb": "kursk",
+   "metacritic": "kursk",
    "mobygames": "116470",
    "pcgamingwiki": "Kursk",
    "steam": "860620"
@@ -304,6 +315,7 @@
    "gog": "game/pinstripe",
    "howlongtobeat": "44869",
    "igdb": "pinstripe",
+   "metacritic": "pinstripe",
    "mobygames": "87469",
    "pcgamingwiki": "Pinstripe",
    "steam": "331480"
@@ -315,6 +327,7 @@
   "ids": {
    "howlongtobeat": "61807",
    "igdb": "nobunagas-ambition-taishi",
+   "metacritic": "nobunagas-ambition-taishi",
    "mobygames": "98750",
    "pcgamingwiki": "Nobunaga's_Ambition:_Taishi",
    "steam": "628890"
@@ -339,6 +352,7 @@
   "ids": {
    "howlongtobeat": "37102",
    "igdb": "starlight-vega",
+   "metacritic": "starlight-vega",
    "mobygames": "95469",
    "pcgamingwiki": "Starlight_Vega",
    "steam": "377690"
@@ -352,6 +366,7 @@
    "epic": "rage-2",
    "howlongtobeat": "58031",
    "igdb": "rage-2",
+   "metacritic": "rage-2",
    "mobygames": "126851",
    "pcgamingwiki": "RAGE_2",
    "steam": "548570"
@@ -399,6 +414,7 @@
   "ids": {
    "igdb": "the-pillar",
    "mobygames": "157368",
+   "pcgamingwiki": "The_Pillar",
    "steam": "1126130"
   },
   "label_en": "The Pillar",

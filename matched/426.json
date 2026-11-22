@@ -29,6 +29,7 @@
    "epic": "star-trek-online",
    "howlongtobeat": "9055",
    "igdb": "star-trek-online",
+   "metacritic": "star-trek-online",
    "mobygames": "45051",
    "pcgamingwiki": "Star_Trek_Online",
    "steam": "9900"
@@ -50,6 +51,7 @@
   "ids": {
    "howlongtobeat": "6334",
    "igdb": "myth-the-fallen-lords",
+   "metacritic": "myth-the-fallen-lords",
    "mobygames": "113",
    "pcgamingwiki": "Myth:_The_Fallen_Lords"
   },
@@ -61,6 +63,7 @@
   "ids": {
    "howlongtobeat": "73417",
    "igdb": "gods-and-heroes-rome-rising",
+   "metacritic": "gods-and-heroes-rome-rising",
    "mobygames": "53645",
    "steam": "107000"
   },
@@ -99,6 +102,7 @@
   "enwiki": "MechAssault: Phantom War",
   "ids": {
    "igdb": "mechassault-phantom-war",
+   "metacritic": "mechassault-phantom-war",
    "mobygames": "24308"
   },
   "label_en": "MechAssault: Phantom War",
@@ -125,6 +129,7 @@
   "enwiki": "Disney Golf",
   "ids": {
    "igdb": "disney-golf",
+   "metacritic": "disney-golf",
    "mobygames": "109658"
   },
   "label_en": "Disney Golf",
@@ -184,6 +189,7 @@
   "enwiki": "Baseball Advance",
   "ids": {
    "igdb": "baseball-advance",
+   "metacritic": "baseball-advance",
    "mobygames": "6506"
   },
   "label_en": "Baseball Advance",
@@ -236,6 +242,7 @@
   "enwiki": "Order Up!",
   "ids": {
    "igdb": "order-up",
+   "metacritic": "order-up",
    "mobygames": "35391"
   },
   "label_en": "Order Up!",
@@ -277,6 +284,7 @@
    "gog": "game/the_night_of_the_rabbit",
    "howlongtobeat": "12205",
    "igdb": "the-night-of-the-rabbit",
+   "metacritic": "the-night-of-the-rabbit",
    "mobygames": "65210",
    "pcgamingwiki": "The_Night_of_the_Rabbit",
    "steam": "230820"
@@ -290,6 +298,7 @@
    "gog": "game/firewatch",
    "howlongtobeat": "26806",
    "igdb": "firewatch",
+   "metacritic": "firewatch",
    "mobygames": "76982",
    "pcgamingwiki": "Firewatch",
    "steam": "383870"
@@ -314,6 +323,7 @@
    "gog": "game/monster_prom",
    "howlongtobeat": "56420",
    "igdb": "monster-prom",
+   "metacritic": "monster-prom",
    "mobygames": "107841",
    "pcgamingwiki": "Monster_Prom",
    "steam": "743450"
@@ -351,6 +361,7 @@
    "gog": "game/no_longer_home",
    "howlongtobeat": "62983",
    "igdb": "no-longer-home",
+   "metacritic": "no-longer-home",
    "mobygames": "173235",
    "pcgamingwiki": "No_Longer_Home",
    "steam": "651490"
@@ -363,6 +374,7 @@
   "ids": {
    "epic": "rumbleverse",
    "igdb": "rumbleverse",
+   "metacritic": "rumbleverse",
    "pcgamingwiki": "Rumbleverse"
   },
   "label_en": "Rumbleverse",
@@ -387,6 +399,7 @@
   "ids": {
    "howlongtobeat": "40470",
    "igdb": "duke-nukem-3d-20th-anniversary-world-tour",
+   "metacritic": "duke-nukem-3d-20th-anniversary-world-tour",
    "mobygames": "81198",
    "pcgamingwiki": "Duke_Nukem_3D:_20th_Anniversary_World_Tour",
    "steam": "434050"
@@ -709,6 +722,7 @@
   "ids": {
    "howlongtobeat": "26157",
    "igdb": "sky-force-anniversary",
+   "metacritic": "sky-force-anniversary",
    "mobygames": "85440",
    "pcgamingwiki": "Sky_Force_Anniversary",
    "steam": "355050"
@@ -771,6 +785,7 @@
   "ids": {
    "howlongtobeat": "141122",
    "igdb": "the-last-of-us-part-ii-remastered",
+   "metacritic": "the-last-of-us-part-ii-remastered",
    "mobygames": "216448",
    "pcgamingwiki": "The_Last_of_Us_Part_II_Remastered",
    "steam": "2531310"
@@ -783,6 +798,7 @@
   "ids": {
    "howlongtobeat": "129334",
    "igdb": "hill-agency-purity-slash-decay",
+   "metacritic": "hill-agency-puritydecay",
    "mobygames": "201203",
    "steam": "1358370"
   },
@@ -886,6 +902,7 @@
   "ids": {
    "howlongtobeat": "18673",
    "igdb": "scram-kitty-and-his-buddy-on-rails",
+   "metacritic": "scram-kitty-and-his-buddy-on-rails",
    "mobygames": "86787"
   },
   "label_en": "Scram Kitty and his Buddy on Rails",

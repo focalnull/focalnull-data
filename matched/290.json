@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "8499",
    "igdb": "sid-meiers-civilization-ii",
+   "metacritic": "sid-meiers-civilization-ii",
    "mobygames": "15",
    "pcgamingwiki": "Civilization_II"
   },
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "11209",
    "igdb": "wipeout-2048",
+   "metacritic": "wipeout-2048",
    "mobygames": "57891"
   },
   "label_en": "Wipeout 2048",
@@ -112,6 +114,7 @@
   "enwiki": "Space Chimps (video game)",
   "ids": {
    "igdb": "space-chimps",
+   "metacritic": "space-chimps",
    "mobygames": "43463",
    "pcgamingwiki": "Space_Chimps"
   },
@@ -146,6 +149,7 @@
   "ids": {
    "howlongtobeat": "14623",
    "igdb": "major-league-baseball-2k10",
+   "metacritic": "major-league-baseball-2k10",
    "mobygames": "91581",
    "pcgamingwiki": "Major_League_Baseball_2K10",
    "steam": "50120"
@@ -159,6 +163,7 @@
    "gog": "game/gwent_the_witcher_card_game",
    "howlongtobeat": "38205",
    "igdb": "gwent-the-witcher-card-game",
+   "metacritic": "gwent-the-witcher-card-game",
    "mobygames": "112597",
    "pcgamingwiki": "Gwent:_The_Witcher_Card_Game",
    "steam": "1284410"
@@ -170,6 +175,7 @@
   "ids": {
    "howlongtobeat": "43520",
    "igdb": "bleed-2",
+   "metacritic": "bleed-2",
    "mobygames": "102866",
    "pcgamingwiki": "Bleed_2",
    "steam": "396350"
@@ -189,6 +195,7 @@
   "ids": {
    "howlongtobeat": "52100",
    "igdb": "ambers-magic-shop",
+   "metacritic": "ambers-magic-shop",
    "mobygames": "105723",
    "pcgamingwiki": "Amber's_Magic_Shop",
    "steam": "584940"
@@ -261,6 +268,7 @@
  },
  {
   "ids": {
+   "metacritic": "eyepet-and-friends",
    "mobygames": "90150"
   },
   "label_en": "EyePet & Friends",
@@ -281,6 +289,7 @@
   "ids": {
    "howlongtobeat": "14470",
    "igdb": "blazblue-continuum-shift-ii",
+   "metacritic": "blazblue-continuum-shift-ii",
    "mobygames": "71146"
   },
   "label_en": "BlazBlue: Continuum Shift II",
@@ -343,6 +352,7 @@
    "gog": "game/roadwarden",
    "howlongtobeat": "75561",
    "igdb": "roadwarden",
+   "metacritic": "roadwarden",
    "mobygames": "190842",
    "pcgamingwiki": "Roadwarden",
    "steam": "1155970"
@@ -355,6 +365,7 @@
   "ids": {
    "howlongtobeat": "116471",
    "igdb": "call-of-duty-warzone--2",
+   "metacritic": "call-of-duty-warzone-20",
    "mobygames": "195780",
    "pcgamingwiki": "Call_of_Duty:_Warzone_2.0",
    "steam": "1962663"
@@ -696,6 +707,7 @@
  {
   "ids": {
    "igdb": "chompy-chomp-chomp-party",
+   "metacritic": "chompy-chomp-chomp-party",
    "mobygames": "88018",
    "steam": "1479850"
   },
@@ -704,6 +716,9 @@
  },
  {
   "enwiki": "Covet Fashion",
+  "ids": {
+   "metacritic": "covet-fashion"
+  },
   "label_en": "Covet Fashion",
   "wikidata": "Q125534290"
  },
@@ -1101,6 +1116,7 @@
   "ids": {
    "howlongtobeat": "176192",
    "igdb": "halo-campaign-evolved",
+   "metacritic": "halo-campaign-evolved",
    "mobygames": "249442",
    "pcgamingwiki": "Halo:_Campaign_Evolved",
    "steam": "2806050"
@@ -1132,6 +1148,7 @@
  {
   "ids": {
    "igdb": "glory-warrior-lord-of-darkness",
+   "pcgamingwiki": "Glory_Warrior:_Lord_of_Darkness",
    "steam": "463140"
   },
   "label_en": "Glory Warrior: Lord of Darkness",

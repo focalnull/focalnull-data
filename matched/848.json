@@ -24,6 +24,7 @@
    "gog": "game/wizardry_8",
    "howlongtobeat": "11228",
    "igdb": "wizardry-8",
+   "metacritic": "wizardry-8",
    "mobygames": "5580",
    "pcgamingwiki": "Wizardry_8",
    "steam": "245450"
@@ -36,6 +37,7 @@
   "ids": {
    "howlongtobeat": "10607",
    "igdb": "transformers",
+   "metacritic": "transformers-2004",
    "mobygames": "12916"
   },
   "label_en": "Transformers",
@@ -57,6 +59,7 @@
    "gog": "game/bittrip_beat",
    "howlongtobeat": "1079",
    "igdb": "bit-dot-trip-beat",
+   "metacritic": "bit-trip-beat",
    "mobygames": "40928",
    "pcgamingwiki": "Bit.Trip_Beat",
    "steam": "63700"
@@ -103,6 +106,9 @@
   "wikidata": "Q10750848"
  },
  {
+  "ids": {
+   "metacritic": "seek-2-sadistic-babylon"
+  },
   "label_en": "Seek 2: Sadistic Babylon",
   "wikidata": "Q11242848"
  },
@@ -143,6 +149,7 @@
   "enwiki": "Freedom: First Resistance",
   "ids": {
    "igdb": "freedom-first-resistance",
+   "metacritic": "freedom-first-resistance",
    "mobygames": "2777",
    "pcgamingwiki": "Anne_McCaffrey's_Freedom:_First_Resistance"
   },
@@ -153,6 +160,7 @@
   "ids": {
    "howlongtobeat": "3675",
    "igdb": "fractured-soul",
+   "metacritic": "fractured-soul",
    "mobygames": "58569",
    "pcgamingwiki": "Fractured_Soul",
    "steam": "307030"
@@ -187,6 +195,7 @@
    "gog": "game/absolver",
    "howlongtobeat": "38126",
    "igdb": "absolver",
+   "metacritic": "absolver",
    "mobygames": "95332",
    "pcgamingwiki": "Absolver",
    "steam": "473690"
@@ -215,6 +224,9 @@
   "wikidata": "Q59008848"
  },
  {
+  "ids": {
+   "metacritic": "rabbids-invasion"
+  },
   "label_en": "Rabbids Invasion",
   "wikidata": "Q65945848"
  },
@@ -223,6 +235,7 @@
   "ids": {
    "howlongtobeat": "72838",
    "igdb": "bravely-default-ii",
+   "metacritic": "bravely-default-ii",
    "mobygames": "158897",
    "pcgamingwiki": "Bravely_Default_II",
    "steam": "1446650"
@@ -245,6 +258,7 @@
  {
   "ids": {
    "igdb": "street-fighter-v-champion-edition",
+   "metacritic": "street-fighter-v-champion-edition",
    "mobygames": "143195",
    "steam": "13444"
   },
@@ -256,6 +270,7 @@
    "epic": "marble-it-up-ultra-7b5692",
    "howlongtobeat": "61379",
    "igdb": "marble-it-up",
+   "metacritic": "marble-it-up",
    "pcgamingwiki": "Marble_It_Up!",
    "steam": "864060"
   },
@@ -266,6 +281,7 @@
   "enwiki": "Carnival Games: Mini-Golf",
   "ids": {
    "igdb": "carnival-games-mini-golf",
+   "metacritic": "carnival-games-mini-golf",
    "mobygames": "49974"
   },
   "label_en": "Carnival Games: Mini-Golf",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6856",
    "igdb": "pac-man--16",
+   "metacritic": "pac-man",
    "mobygames": "138",
    "pcgamingwiki": "Pac-Man"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "5792",
    "igdb": "medieval-ii-total-war",
+   "metacritic": "medieval-ii-total-war",
    "mobygames": "24995",
    "pcgamingwiki": "Medieval_II:_Total_War",
    "steam": "4700"
@@ -44,6 +46,7 @@
   "ids": {
    "howlongtobeat": "10866",
    "igdb": "vagrant-story",
+   "metacritic": "vagrant-story",
    "mobygames": "3728"
   },
   "label_en": "Vagrant Story",
@@ -111,6 +114,7 @@
   "ids": {
    "howlongtobeat": "14519",
    "igdb": "one-piece-pirate-warriors-2",
+   "metacritic": "one-piece-pirate-warriors-2",
    "mobygames": "83367"
   },
   "label_en": "One Piece: Pirate Warriors 2",
@@ -148,6 +152,7 @@
   "ids": {
    "howlongtobeat": "5421",
    "igdb": "lufia-the-ruins-of-lore",
+   "metacritic": "lufia-the-ruins-of-lore",
    "mobygames": "17432"
   },
   "label_en": "Lufia: The Ruins of Lore",
@@ -163,6 +168,7 @@
   "ids": {
    "howlongtobeat": "33353",
    "igdb": "rfactor-2",
+   "metacritic": "rfactor-2",
    "mobygames": "106352",
    "pcgamingwiki": "RFactor_2",
    "steam": "365960"
@@ -259,6 +265,7 @@
    "gog": "game/the_legend_of_heroes_trails_of_cold_steel_ii",
    "howlongtobeat": "23196",
    "igdb": "the-legend-of-heroes-trails-of-cold-steel-ii",
+   "metacritic": "the-legend-of-heroes-trails-of-cold-steel-ii",
    "mobygames": "81237",
    "pcgamingwiki": "The_Legend_of_Heroes:_Trails_of_Cold_Steel_II",
    "steam": "748490"
@@ -270,6 +277,7 @@
   "ids": {
    "howlongtobeat": "7810",
    "igdb": "ridge-racer-ds",
+   "metacritic": "ridge-racer-ds",
    "mobygames": "16054"
   },
   "label_en": "Ridge Racer DS",
@@ -294,6 +302,7 @@
    "epic": "farming-simulator-19",
    "howlongtobeat": "62587",
    "igdb": "farming-simulator-19",
+   "metacritic": "farming-simulator-19",
    "mobygames": "117283",
    "pcgamingwiki": "Farming_Simulator_19",
    "steam": "787860"
@@ -306,6 +315,7 @@
   "ids": {
    "howlongtobeat": "68152",
    "igdb": "twelve-minutes",
+   "metacritic": "twelve-minutes",
    "mobygames": "134265",
    "pcgamingwiki": "Twelve_Minutes",
    "steam": "1097200"
@@ -360,6 +370,7 @@
    "gog": "game/frozenheim",
    "howlongtobeat": "97622",
    "igdb": "frozenheim",
+   "metacritic": "frozenheim",
    "mobygames": "164887",
    "pcgamingwiki": "Frozenheim",
    "steam": "1134100"
@@ -381,6 +392,7 @@
   "ids": {
    "howlongtobeat": "60978",
    "igdb": "quanect",
+   "metacritic": "quanect",
    "pcgamingwiki": "Quanect",
    "steam": "745940"
   },
@@ -469,6 +481,7 @@
  },
  {
   "ids": {
+   "metacritic": "don-king-boxing",
    "mobygames": "90959"
   },
   "label_en": "Don King Boxing",
@@ -1171,6 +1184,7 @@
  {
   "ids": {
    "igdb": "bryces-movement-engine-1",
+   "pcgamingwiki": "Bryce's_Movement_Engine¹",
    "steam": "1117420"
   },
   "label_en": "Bryce's Movement Engine¹",

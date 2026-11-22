@@ -14,6 +14,7 @@
    "gog": "game/rollercoaster_tycoon_3",
    "howlongtobeat": "7960",
    "igdb": "rollercoaster-tycoon-3",
+   "metacritic": "rollercoaster-tycoon-3",
    "mobygames": "15734",
    "pcgamingwiki": "RollerCoaster_Tycoon_3",
    "steam": "2700"
@@ -34,6 +35,7 @@
   "enwiki": "Project Torque",
   "ids": {
    "igdb": "project-torque",
+   "metacritic": "project-torque",
    "mobygames": "62873",
    "pcgamingwiki": "Project_Torque"
   },
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "10831",
    "igdb": "unreal-tournament-2003",
+   "metacritic": "unreal-tournament-2003",
    "mobygames": "7364",
    "pcgamingwiki": "Unreal_Tournament_2003"
   },
@@ -56,6 +59,7 @@
   "ids": {
    "howlongtobeat": "6925",
    "igdb": "parasite-eve-ii",
+   "metacritic": "parasite-eve-ii",
    "mobygames": "3687"
   },
   "label_en": "Parasite Eve II",
@@ -65,6 +69,7 @@
   "enwiki": "Wing Island",
   "ids": {
    "igdb": "wing-island",
+   "metacritic": "wing-island",
    "mobygames": "27496"
   },
   "label_en": "Wing Island",
@@ -121,6 +126,7 @@
   "enwiki": "Evil Dead: Hail to the King",
   "ids": {
    "igdb": "evil-dead-hail-to-the-king",
+   "metacritic": "evil-dead-hail-to-the-king",
    "mobygames": "3473",
    "pcgamingwiki": "Evil_Dead:_Hail_to_the_King"
   },
@@ -132,6 +138,7 @@
   "ids": {
    "howlongtobeat": "9400",
    "igdb": "super-monkey-ball-deluxe",
+   "metacritic": "super-monkey-ball-deluxe",
    "mobygames": "17014"
   },
   "label_en": "Super Monkey Ball Deluxe",
@@ -210,6 +217,7 @@
   "enwiki": "Pilot Academy",
   "ids": {
    "igdb": "pilot-academy",
+   "metacritic": "pilot-academy",
    "mobygames": "41493"
   },
   "label_en": "Pilot Academy",
@@ -222,6 +230,7 @@
  {
   "ids": {
    "igdb": "mobile-suit-gundam-seed-never-ending-tomorrow",
+   "metacritic": "mobile-suit-gundam-seed-never-ending-tomorrow",
    "mobygames": "120877"
   },
   "label_en": "Mobile Suit Gundam SEED: Never Ending Tomorrow",
@@ -270,6 +279,7 @@
    "gog": "game/mushroom_11",
    "howlongtobeat": "30934",
    "igdb": "mushroom-11",
+   "metacritic": "mushroom-11",
    "mobygames": "76617",
    "pcgamingwiki": "Mushroom_11",
    "steam": "243160"
@@ -281,6 +291,7 @@
   "enwiki": "Mario & Sonic at the Rio 2016 Olympic Games",
   "ids": {
    "igdb": "mario-and-sonic-at-the-rio-2016-olympic-games--1",
+   "metacritic": "mario-sonic-at-the-rio-2016-olympic-games",
    "mobygames": "84850"
   },
   "label_en": "Mario & Sonic at the Rio 2016 Olympic Games",
@@ -291,6 +302,7 @@
   "ids": {
    "howlongtobeat": "32439",
    "igdb": "rwby-grimm-eclipse",
+   "metacritic": "rwby-grimm-eclipse",
    "mobygames": "83990",
    "pcgamingwiki": "RWBY:_Grimm_Eclipse",
    "steam": "418340"
@@ -311,6 +323,7 @@
    "gog": "game/rollercoaster_tycoon_classic",
    "howlongtobeat": "70168",
    "igdb": "rollercoaster-tycoon-classic",
+   "metacritic": "rollercoaster-tycoon-classic",
    "mobygames": "82019",
    "pcgamingwiki": "RollerCoaster_Tycoon_Classic",
    "steam": "683900"
@@ -330,6 +343,7 @@
   "ids": {
    "howlongtobeat": "49405",
    "igdb": "project-cars-2",
+   "metacritic": "project-cars-2",
    "mobygames": "96259",
    "pcgamingwiki": "Project_CARS_2",
    "steam": "378860"
@@ -342,6 +356,7 @@
   "ids": {
    "howlongtobeat": "51768",
    "igdb": "warhammer-vermintide-2",
+   "metacritic": "warhammer-vermintide-2",
    "mobygames": "104949",
    "pcgamingwiki": "Warhammer:_Vermintide_2",
    "steam": "552500"
@@ -353,6 +368,7 @@
   "ids": {
    "howlongtobeat": "44424",
    "igdb": "lost-grimoires-stolen-kingdom",
+   "metacritic": "lost-grimoires-stolen-kingdom",
    "mobygames": "99494",
    "pcgamingwiki": "Lost_Grimoires:_Stolen_Kingdom",
    "steam": "536780"
@@ -364,6 +380,7 @@
   "ids": {
    "igdb": "arthurs-camping-adventure",
    "mobygames": "71135",
+   "pcgamingwiki": "Arthur's_Camping_Adventure",
    "steam": "3461490"
   },
   "label_en": "Arthur's Camping Adventure",
@@ -393,6 +410,9 @@
   "wikidata": "Q104858405"
  },
  {
+  "ids": {
+   "metacritic": "shoujo-kyouiku"
+  },
   "label_en": "Shoujo Kyouiku",
   "wikidata": "Q107296405"
  },
@@ -466,6 +486,7 @@
   "ids": {
    "howlongtobeat": "33573",
    "igdb": "pixel-galaxy",
+   "metacritic": "pixel-galaxy",
    "mobygames": "83780",
    "pcgamingwiki": "Pixel_Galaxy",
    "steam": "370480"
@@ -750,6 +771,7 @@
   "ids": {
    "howlongtobeat": "21982",
    "igdb": "battleplan-american-civil-war",
+   "metacritic": "battleplan-american-civil-war",
    "mobygames": "87608",
    "pcgamingwiki": "Battleplan:_American_Civil_War",
    "steam": "285130"

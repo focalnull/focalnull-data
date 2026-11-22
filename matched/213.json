@@ -21,6 +21,7 @@
   "enwiki": "C.O.P. The Recruit",
   "ids": {
    "igdb": "cop-the-recruit",
+   "metacritic": "cop-the-recruit",
    "mobygames": "45067"
   },
   "label_en": "C.O.P. The Recruit",
@@ -31,6 +32,7 @@
   "ids": {
    "howlongtobeat": "10951",
    "igdb": "virtua-fighter-4",
+   "metacritic": "virtua-fighter-4",
    "mobygames": "6036"
   },
   "label_en": "Virtua Fighter 4",
@@ -48,6 +50,7 @@
   "enwiki": "PokéPark Wii: Pikachu's Adventure",
   "ids": {
    "igdb": "pokepark-wii-pikachu-s-adventure",
+   "metacritic": "pokepark-wii-pikachus-adventure",
    "mobygames": "59156"
   },
   "label_en": "PokéPark Wii: Pikachu's Adventure",
@@ -127,6 +130,7 @@
   "ids": {
    "howlongtobeat": "387",
    "igdb": "all-zombies-must-die--1",
+   "metacritic": "all-zombies-must-die",
    "mobygames": "54221",
    "pcgamingwiki": "All_Zombies_Must_Die!",
    "steam": "204140"
@@ -156,6 +160,7 @@
  {
   "ids": {
    "igdb": "back-at-the-barnyard-slop-bucket-games",
+   "metacritic": "back-at-the-barnyard-slop-bucket-games",
    "mobygames": "87273"
   },
   "label_en": "Back at the Barnyard: Slop Bucket Games",
@@ -224,6 +229,7 @@
   "enwiki": "Risk: Global Domination",
   "ids": {
    "igdb": "risk-global-domination",
+   "metacritic": "risk-global-domination-2003",
    "mobygames": "11856"
   },
   "label_en": "Risk: Global Domination",
@@ -277,6 +283,7 @@
   "enwiki": "2014 FIFA World Cup Brazil (video game)",
   "ids": {
    "igdb": "2014-fifa-world-cup-brazil",
+   "metacritic": "2014-fifa-world-cup-brazil",
    "mobygames": "66180"
   },
   "label_en": "2014 FIFA World Cup Brazil",
@@ -322,6 +329,7 @@
   "ids": {
    "howlongtobeat": "46400",
    "igdb": "forza-motorsport-7",
+   "metacritic": "forza-motorsport-7",
    "mobygames": "110528",
    "pcgamingwiki": "Forza_Motorsport_7"
   },
@@ -332,6 +340,7 @@
   "ids": {
    "howlongtobeat": "56239",
    "igdb": "tyde-pod-challenge",
+   "metacritic": "tyde-pod-challenge",
    "pcgamingwiki": "Tyde_Pod_Challenge",
    "steam": "797080"
   },
@@ -368,6 +377,7 @@
  {
   "ids": {
    "igdb": "animal-kingdom-wildlife-expedition",
+   "metacritic": "animal-kingdom-wildlife-expedition",
    "mobygames": "90573"
   },
   "label_en": "Animal Kingdom: Wildlife Expedition",
@@ -375,6 +385,7 @@
  },
  {
   "ids": {
+   "metacritic": "the-sims-3",
    "mobygames": "85177"
   },
   "label_en": "The Sims 3 (handheld)",
@@ -1132,6 +1143,7 @@
  {
   "ids": {
    "igdb": "air-hockey--1",
+   "pcgamingwiki": "Air_Hockey",
    "steam": "750330"
   },
   "label_en": "Air Hockey",
@@ -1149,6 +1161,7 @@
   "ids": {
    "howlongtobeat": "14976",
    "igdb": "windy-x-windam",
+   "metacritic": "windy-x-windam",
    "mobygames": "159908"
   },
   "label_en": "Windy x Windam",
@@ -1172,6 +1185,7 @@
  {
   "ids": {
    "igdb": "butcherman",
+   "pcgamingwiki": "Butcherman",
    "steam": "3979350"
   },
   "label_en": "Butcherman",

@@ -5,6 +5,7 @@
    "gog": "game/lego_indiana_jones_2_the_adventure_continues",
    "howlongtobeat": "5252",
    "igdb": "lego-indiana-jones-2-the-adventure-continues",
+   "metacritic": "lego-indiana-jones-2-the-adventure-continues",
    "mobygames": "77256",
    "pcgamingwiki": "Lego_Indiana_Jones_2:_The_Adventure_Continues",
    "steam": "32450"
@@ -16,6 +17,7 @@
   "enwiki": "Chromehounds",
   "ids": {
    "igdb": "chromehounds",
+   "metacritic": "chromehounds",
    "mobygames": "23153"
   },
   "label_en": "Chromehounds",
@@ -45,6 +47,7 @@
    "gog": "game/the_king_of_fighters_xiii",
    "howlongtobeat": "9987",
    "igdb": "the-king-of-fighters-xiii",
+   "metacritic": "the-king-of-fighters-xiii",
    "mobygames": "59411",
    "pcgamingwiki": "The_King_of_Fighters_XIII",
    "steam": "222940"
@@ -58,6 +61,7 @@
    "gog": "game/indiana_jones_and_the_infernal_machine",
    "howlongtobeat": "4665",
    "igdb": "indiana-jones-and-the-infernal-machine",
+   "metacritic": "indiana-jones-and-the-infernal-machine",
    "mobygames": "1442",
    "pcgamingwiki": "Indiana_Jones_and_the_Infernal_Machine",
    "steam": "904540"
@@ -78,6 +82,7 @@
   "enwiki": "Crazy Taxi: Catch a Ride",
   "ids": {
    "igdb": "crazy-taxi-catch-a-ride",
+   "metacritic": "crazy-taxi-catch-a-ride",
    "mobygames": "8894"
   },
   "label_en": "Crazy Taxi: Catch a Ride",
@@ -88,6 +93,7 @@
   "ids": {
    "howlongtobeat": "6253",
    "igdb": "ms-pac-man",
+   "metacritic": "ms-pac-man",
    "mobygames": "576",
    "pcgamingwiki": "Arcade_Game_Series:_Ms._Pac-Man",
    "steam": "403410"
@@ -107,6 +113,7 @@
   "enwiki": "Capcom vs. SNK: Millennium Fight 2000",
   "ids": {
    "igdb": "capcom-vs-snk-millennium-fight-2000",
+   "metacritic": "capcom-vs-snk",
    "mobygames": "4156"
   },
   "label_en": "Capcom vs. SNK: Millennium Fight 2000",
@@ -117,6 +124,7 @@
   "ids": {
    "howlongtobeat": "5799",
    "igdb": "medievil-resurrection",
+   "metacritic": "medievil-resurrection",
    "mobygames": "20887"
   },
   "label_en": "MediEvil: Resurrection",
@@ -145,6 +153,7 @@
   "ids": {
    "howlongtobeat": "4325",
    "igdb": "harvest-moon-ds-grand-bazaar",
+   "metacritic": "harvest-moon-ds-grand-bazaar",
    "mobygames": "142956"
   },
   "label_en": "Harvest Moon DS: Grand Bazaar",
@@ -182,6 +191,7 @@
   "ids": {
    "howlongtobeat": "5201",
    "igdb": "lead-and-gold-gangs-of-the-wild-west",
+   "metacritic": "lead-and-gold-gangs-of-the-wild-west",
    "mobygames": "46390",
    "pcgamingwiki": "Lead_and_Gold:_Gangs_of_the_Wild_West",
    "steam": "42120"
@@ -250,6 +260,7 @@
  {
   "ids": {
    "igdb": "chibi-robo-photo-finder",
+   "metacritic": "chibi-robo-photo-finder",
    "mobygames": "85401"
   },
   "label_en": "Chibi-Robo! Photo Finder",
@@ -263,6 +274,7 @@
   "ids": {
    "howlongtobeat": "26636",
    "igdb": "you-must-build-a-boat",
+   "metacritic": "you-must-build-a-boat",
    "mobygames": "76495",
    "pcgamingwiki": "You_Must_Build_A_Boat",
    "steam": "290890"
@@ -285,6 +297,7 @@
   "ids": {
    "howlongtobeat": "41491",
    "igdb": "my-summer-car",
+   "metacritic": "my-summer-car",
    "mobygames": "99978",
    "pcgamingwiki": "My_Summer_Car",
    "steam": "516750"
@@ -318,6 +331,7 @@
    "epic": "fe-3ecd8a",
    "howlongtobeat": "48468",
    "igdb": "fe",
+   "metacritic": "fe",
    "mobygames": "101191",
    "pcgamingwiki": "Fe",
    "steam": "1225580"
@@ -330,6 +344,7 @@
    "gog": "game/1849_the_gold_rush",
    "howlongtobeat": "17620",
    "igdb": "1849",
+   "metacritic": "1849",
    "mobygames": "73880",
    "pcgamingwiki": "1849",
    "steam": "290970"
@@ -377,6 +392,7 @@
    "gog": "game/werewolf_the_apocalypse_heart_of_the_forest",
    "howlongtobeat": "84435",
    "igdb": "werewolf-the-apocalypse-heart-of-the-forest",
+   "metacritic": "werewolf-the-apocalypse-heart-of-the-forest",
    "mobygames": "151522",
    "pcgamingwiki": "Werewolf:_The_Apocalypse_-_Heart_of_the_Forest",
    "steam": "1342620"
@@ -400,6 +416,7 @@
   "ids": {
    "howlongtobeat": "93948",
    "igdb": "forza-horizon-5",
+   "metacritic": "forza-horizon-5",
    "mobygames": "174940",
    "pcgamingwiki": "Forza_Horizon_5",
    "steam": "1551360"
@@ -441,6 +458,7 @@
   "ids": {
    "howlongtobeat": "85738",
    "igdb": "phogs",
+   "metacritic": "phogs",
    "mobygames": "154980",
    "pcgamingwiki": "PHOGS!",
    "steam": "850320"
@@ -452,6 +470,7 @@
   "ids": {
    "howlongtobeat": "53924",
    "igdb": "trivia-vault-football-trivia",
+   "metacritic": "trivia-vault-football-trivia",
    "pcgamingwiki": "Trivia_Vault:_Football_Trivia",
    "steam": "804600"
   },
@@ -582,6 +601,7 @@
    "gog": "game/six_ages_2_lights_going_out",
    "howlongtobeat": "137589",
    "igdb": "six-ages-2-lights-going-out",
+   "metacritic": "six-ages-2-lights-going-out",
    "mobygames": "207604",
    "steam": "2278010"
   },
@@ -1190,6 +1210,7 @@
  },
  {
   "ids": {
+   "metacritic": "alchemy-1997",
    "mobygames": "223571"
   },
   "label_en": "Alchemy",

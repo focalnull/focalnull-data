@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5913",
    "igdb": "metal-gear-solid-3-snake-eater",
+   "metacritic": "metal-gear-solid-3-snake-eater",
    "mobygames": "15735",
    "pcgamingwiki": "Metal_Gear_Solid_3:_Snake_Eater_-_Master_Collection_Version",
    "steam": "2131650"
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "8528",
    "igdb": "silent-hill-homecoming",
+   "metacritic": "silent-hill-homecoming",
    "mobygames": "37545",
    "pcgamingwiki": "Silent_Hill:_Homecoming",
    "steam": "19000"
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "5919",
    "igdb": "metal-gear-solid-peace-walker",
+   "metacritic": "metal-gear-solid-peace-walker",
    "mobygames": "46999"
   },
   "label_en": "Metal Gear Solid: Peace Walker",
@@ -89,6 +92,7 @@
    "gog": "game/de_blob_2",
    "howlongtobeat": "2296",
    "igdb": "de-blob-2",
+   "metacritic": "de-blob-2",
    "mobygames": "56103",
    "pcgamingwiki": "De_Blob_2",
    "steam": "563190"
@@ -109,6 +113,7 @@
   "enwiki": "Cruis'n Velocity",
   "ids": {
    "igdb": "cruisn-velocity",
+   "metacritic": "cruisn-velocity",
    "mobygames": "6157"
   },
   "label_en": "Cruis'n Velocity",
@@ -142,6 +147,7 @@
   "enwiki": "Shaun Palmer's Pro Snowboarder",
   "ids": {
    "igdb": "shaun-palmers-pro-snowboarder--1",
+   "metacritic": "shaun-palmers-pro-snowboarder",
    "mobygames": "39995"
   },
   "label_en": "Shaun Palmer's Pro Snowboarder",
@@ -151,6 +157,7 @@
   "enwiki": "Soltrio Solitaire",
   "ids": {
    "igdb": "soltrio-solitaire",
+   "metacritic": "soltrio-solitaire",
    "mobygames": "31238"
   },
   "label_en": "Soltrio Solitaire",
@@ -227,6 +234,7 @@
   "ids": {
    "howlongtobeat": "34667",
    "igdb": "madden-nfl-17",
+   "metacritic": "madden-nfl-17",
    "mobygames": "84075"
   },
   "label_en": "Madden NFL 17",
@@ -267,6 +275,7 @@
    "gog": "game/zed",
    "howlongtobeat": "67966",
    "igdb": "zed",
+   "metacritic": "zed",
    "mobygames": "128050",
    "pcgamingwiki": "ZED",
    "steam": "953370"
@@ -318,6 +327,7 @@
    "epic": "eximius-seize-the-frontline",
    "howlongtobeat": "63648",
    "igdb": "eximius-seize-the-frontline",
+   "metacritic": "eximius-seize-the-frontline",
    "mobygames": "114364",
    "pcgamingwiki": "Eximius:_Seize_the_Frontline",
    "steam": "505740"
@@ -388,7 +398,8 @@
  {
   "enwiki": "Squad Busters",
   "ids": {
-   "igdb": "squad-busters"
+   "igdb": "squad-busters",
+   "metacritic": "squad-busters"
   },
   "label_en": "Squad Busters",
   "wikidata": "Q116734935"
@@ -663,6 +674,7 @@
   "ids": {
    "howlongtobeat": "30504",
    "igdb": "gaben-the-final-decision",
+   "metacritic": "gaben-the-final-decision",
    "mobygames": "145880",
    "pcgamingwiki": "GabeN:_The_Final_Decision",
    "steam": "403740"
@@ -727,6 +739,7 @@
   "ids": {
    "howlongtobeat": "24731",
    "igdb": "disorder",
+   "metacritic": "disorder",
    "mobygames": "135905",
    "pcgamingwiki": "Disorder",
    "steam": "322080"
@@ -797,6 +810,7 @@
    "gog": "game/arsene_lupin_once_a_thief",
    "howlongtobeat": "151203",
    "igdb": "arsene-lupin-once-a-thief",
+   "metacritic": "arsene-lupin-once-a-thief",
    "mobygames": "232514",
    "steam": "2922980"
   },

@@ -36,6 +36,7 @@
    "gog": "game/eye_divine_cybermancy",
    "howlongtobeat": "3022",
    "igdb": "e-y-e-divine-cybermancy",
+   "metacritic": "eye-divine-cybermancy",
    "mobygames": "53036",
    "pcgamingwiki": "E.Y.E:_Divine_Cybermancy",
    "steam": "91700"
@@ -59,6 +60,7 @@
   "ids": {
    "howlongtobeat": "3476",
    "igdb": "fighting-vipers",
+   "metacritic": "fighting-vipers",
    "mobygames": "12693"
   },
   "label_en": "Fighting Vipers",
@@ -76,6 +78,7 @@
   "enwiki": "Boxing Fever",
   "ids": {
    "igdb": "boxing-fever",
+   "metacritic": "boxing-fever",
    "mobygames": "5152"
   },
   "label_en": "Boxing Fever",
@@ -111,6 +114,7 @@
   "enwiki": "Happy Feet (video game)",
   "ids": {
    "igdb": "happy-feet",
+   "metacritic": "happy-feet",
    "mobygames": "25863",
    "pcgamingwiki": "Happy_Feet"
   },
@@ -146,7 +150,8 @@
  {
   "enwiki": "Zombie Apocalypse: Never Die Alone",
   "ids": {
-   "igdb": "zombie-apocalypse-never-die-alone"
+   "igdb": "zombie-apocalypse-never-die-alone",
+   "metacritic": "zombie-apocalypse-never-die-alone"
   },
   "label_en": "Zombie Apocalypse: Never Die Alone",
   "wikidata": "Q8073731"
@@ -168,6 +173,7 @@
   "ids": {
    "howlongtobeat": "3900",
    "igdb": "get-medieval",
+   "metacritic": "get-medieval",
    "mobygames": "4738",
    "pcgamingwiki": "Get_Medieval"
   },
@@ -187,6 +193,7 @@
   "ids": {
    "howlongtobeat": "6226",
    "igdb": "motocross-mania-3",
+   "metacritic": "motocross-mania-3",
    "mobygames": "22456"
   },
   "label_en": "Motocross Mania 3",
@@ -250,6 +257,7 @@
   "ids": {
    "howlongtobeat": "65956",
    "igdb": "the-elder-scrolls-blades",
+   "metacritic": "the-elder-scrolls-blades",
    "mobygames": "124319",
    "pcgamingwiki": "The_Elder_Scrolls:_Blades"
   },
@@ -261,6 +269,7 @@
    "gog": "game/memoranda",
    "howlongtobeat": "43314",
    "igdb": "memoranda",
+   "metacritic": "memoranda",
    "mobygames": "97863",
    "pcgamingwiki": "Memoranda",
    "steam": "430410"
@@ -310,6 +319,8 @@
   "ids": {
    "howlongtobeat": "109665",
    "igdb": "taiko-no-tatsujin-rhythm-festival",
+   "metacritic": "taiko-no-tatsujin-rhythm-festival",
+   "pcgamingwiki": "Taiko_no_Tatsujin:_Rhythm_Festival",
    "steam": "2288630"
   },
   "label_en": "Taiko no Tatsujin: Rhythm Festival",
@@ -381,6 +392,7 @@
   "ids": {
    "howlongtobeat": "74244",
    "igdb": "mythic-ocean",
+   "metacritic": "mythic-ocean",
    "mobygames": "140289",
    "pcgamingwiki": "Mythic_Ocean",
    "steam": "814360"
@@ -674,6 +686,7 @@
   "ids": {
    "howlongtobeat": "27780",
    "igdb": "ares-extinction-agenda-ex",
+   "metacritic": "a-r-e-s-extinction-agenda-ex",
    "mobygames": "68812",
    "pcgamingwiki": "A.R.E.S.:_Extinction_Agenda_EX",
    "steam": "315340"
@@ -838,6 +851,7 @@
    "epic": "marvel-tokon-fighting-souls-a3ecbd",
    "howlongtobeat": "169171",
    "igdb": "marvel-tokon-fighting-souls",
+   "metacritic": "marvel-tokon-fighting-souls",
    "mobygames": "249046",
    "pcgamingwiki": "Marvel_Tōkon:_Fighting_Souls",
    "steam": "3787240"

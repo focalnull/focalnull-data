@@ -18,6 +18,7 @@
   "ids": {
    "howlongtobeat": "11610",
    "igdb": "zuma",
+   "metacritic": "zuma",
    "mobygames": "11509",
    "pcgamingwiki": "Zuma",
    "steam": "3330"
@@ -40,6 +41,7 @@
   "ids": {
    "howlongtobeat": "3321",
    "igdb": "facebreaker",
+   "metacritic": "facebreaker-ko-party",
    "mobygames": "36802"
   },
   "label_en": "FaceBreaker",
@@ -50,6 +52,7 @@
   "ids": {
    "howlongtobeat": "6433",
    "igdb": "nba-2k8",
+   "metacritic": "nba-2k8",
    "mobygames": "36782"
   },
   "label_en": "NBA 2K8",
@@ -71,6 +74,7 @@
   "enwiki": "Guinness World Records: The Videogame",
   "ids": {
    "igdb": "guinness-world-records-the-video-game",
+   "metacritic": "guinness-world-records-the-videogame",
    "mobygames": "50449"
   },
   "label_en": "Guinness World Records: The Videogame",
@@ -80,6 +84,7 @@
   "enwiki": "Skylanders: Spyro's Adventure",
   "ids": {
    "igdb": "skylanders-spyro-s-adventure",
+   "metacritic": "skylanders-spyros-adventure",
    "mobygames": "55612",
    "pcgamingwiki": "Skylanders:_Spyro's_Adventure"
   },
@@ -91,6 +96,7 @@
   "ids": {
    "howlongtobeat": "10784",
    "igdb": "ultimate-spider-man",
+   "metacritic": "ultimate-spider-man",
    "mobygames": "22927",
    "pcgamingwiki": "Ultimate_Spider-Man"
   },
@@ -135,6 +141,7 @@
   "ids": {
    "howlongtobeat": "8537",
    "igdb": "silent-hunter-iii",
+   "metacritic": "silent-hunter-iii",
    "mobygames": "17098",
    "pcgamingwiki": "Silent_Hunter_III",
    "steam": "15210"
@@ -206,6 +213,7 @@
    "gog": "game/the_age_of_decadence",
    "howlongtobeat": "28243",
    "igdb": "the-age-of-decadence",
+   "metacritic": "the-age-of-decadence",
    "mobygames": "80147",
    "pcgamingwiki": "The_Age_of_Decadence",
    "steam": "230070"
@@ -251,6 +259,7 @@
   "enwiki": "Geometry Wars: Galaxies",
   "ids": {
    "igdb": "geometry-wars-galaxies",
+   "metacritic": "geometry-wars-galaxies",
    "mobygames": "31480"
   },
   "label_en": "Geometry Wars: Galaxies",
@@ -277,7 +286,8 @@
  },
  {
   "ids": {
-   "igdb": "disciples-ii-servants-of-the-dark"
+   "igdb": "disciples-ii-servants-of-the-dark",
+   "metacritic": "disciples-ii-servants-of-the-dark"
   },
   "label_en": "Disciples II: Servants of the Dark",
   "wikidata": "Q20034842"
@@ -298,6 +308,7 @@
   "ids": {
    "howlongtobeat": "57522",
    "igdb": "jump-force",
+   "metacritic": "jump-force",
    "mobygames": "118079",
    "pcgamingwiki": "Jump_Force",
    "steam": "816020"
@@ -311,6 +322,7 @@
    "epic": "subnautica-below-zero",
    "howlongtobeat": "64768",
    "igdb": "subnautica-below-zero",
+   "metacritic": "subnautica-below-zero",
    "mobygames": "121371",
    "pcgamingwiki": "Subnautica:_Below_Zero",
    "steam": "848450"
@@ -338,6 +350,7 @@
   "enwiki": "Tom and Jerry in Infurnal Escape",
   "ids": {
    "igdb": "tom-and-jerry-in-infurnal-escape",
+   "metacritic": "tom-and-jerry-tales",
    "mobygames": "51951"
   },
   "label_en": "Tom and Jerry in Infurnal Escape",
@@ -404,6 +417,7 @@
    "epic": "helheim-hassle-ea806f",
    "howlongtobeat": "81846",
    "igdb": "helheim-hassle",
+   "metacritic": "helheim-hassle",
    "mobygames": "149304",
    "pcgamingwiki": "Helheim_Hassle",
    "steam": "1095120"
@@ -418,6 +432,7 @@
    "gog": "game/stargate_timekeepers",
    "howlongtobeat": "101450",
    "igdb": "stargate-timekeepers",
+   "metacritic": "stargate-timekeepers",
    "mobygames": "216406",
    "pcgamingwiki": "Stargate:_Timekeepers",
    "steam": "1523650"
@@ -456,6 +471,7 @@
   "ids": {
    "howlongtobeat": "47147",
    "igdb": "dystoria",
+   "metacritic": "dystoria",
    "mobygames": "116389",
    "pcgamingwiki": "Dystoria",
    "steam": "516580"
@@ -491,6 +507,7 @@
   "ids": {
    "howlongtobeat": "47139",
    "igdb": "kirbys-blowout-blast",
+   "metacritic": "kirbys-blowout-blast",
    "mobygames": "92039"
   },
   "label_en": "Kirby's Blowout Blast",
@@ -531,6 +548,7 @@
    "gog": "game/tennis_manager_2022",
    "howlongtobeat": "127840",
    "igdb": "tennis-manager-2022",
+   "metacritic": "tennis-manager-2022",
    "mobygames": "187342",
    "pcgamingwiki": "Tennis_Manager_2022",
    "steam": "1937620"
@@ -849,6 +867,7 @@
   "ids": {
    "howlongtobeat": "37536",
    "igdb": "detached",
+   "metacritic": "detached",
    "mobygames": "100578",
    "pcgamingwiki": "Detached",
    "steam": "436230"
@@ -1004,7 +1023,8 @@
  },
  {
   "ids": {
-   "igdb": "archery-by-thornbury-software"
+   "igdb": "archery-by-thornbury-software",
+   "metacritic": "archery-by-thornbury-software"
   },
   "label_en": "Archery by Thornbury Software",
   "wikidata": "Q130362842"

@@ -16,6 +16,7 @@
    "gog": "game/total_anihilation_commander_pack",
    "howlongtobeat": "10539",
    "igdb": "total-annihilation",
+   "metacritic": "total-annihilation",
    "mobygames": "904",
    "pcgamingwiki": "Total_Annihilation",
    "steam": "298030"
@@ -55,6 +56,7 @@
   "enwiki": "Razor Freestyle Scooter",
   "ids": {
    "igdb": "razor-freestyle-scooter",
+   "metacritic": "razor-freestyle-scooter",
    "mobygames": "6372"
   },
   "label_en": "Razor Freestyle Scooter",
@@ -75,6 +77,7 @@
    "gog": "game/the_i_of_the_dragon",
    "howlongtobeat": "20588",
    "igdb": "the-i-of-the-dragon",
+   "metacritic": "the-i-of-the-dragon",
    "mobygames": "11613",
    "pcgamingwiki": "The_I_of_the_Dragon",
    "steam": "279720"
@@ -129,6 +132,7 @@
   "enwiki": "Time of Defiance",
   "ids": {
    "igdb": "time-of-defiance",
+   "metacritic": "time-of-defiance",
    "mobygames": "23995"
   },
   "label_en": "Time of Defiance",
@@ -207,6 +211,7 @@
   "ids": {
    "howlongtobeat": "34189",
    "igdb": "lego-star-wars-the-force-awakens",
+   "metacritic": "lego-star-wars-the-force-awakens",
    "mobygames": "84181",
    "pcgamingwiki": "Lego_Star_Wars:_The_Force_Awakens",
    "steam": "438640"
@@ -297,6 +302,7 @@
    "gog": "game/desert_child",
    "howlongtobeat": "63173",
    "igdb": "desert-child",
+   "metacritic": "desert-child",
    "mobygames": "118591",
    "pcgamingwiki": "Desert_Child",
    "steam": "844050"
@@ -309,6 +315,7 @@
   "ids": {
    "howlongtobeat": "71350",
    "igdb": "atelier-ryza-ever-darkness-and-the-secret-hideout",
+   "metacritic": "atelier-ryza-ever-darkness-the-secret-hideout",
    "mobygames": "135216",
    "pcgamingwiki": "Atelier_Ryza:_Ever_Darkness_&_the_Secret_Hideout",
    "steam": "1121560"
@@ -319,6 +326,7 @@
  {
   "ids": {
    "igdb": "swordbreaker-back-to-the-castle",
+   "metacritic": "swordbreaker-back-to-the-castle",
    "mobygames": "202707",
    "pcgamingwiki": "Swordbreaker:_Back_to_The_Castle",
    "steam": "1005990"
@@ -332,6 +340,7 @@
    "epic": "kards-the-world-war-ii-card-game",
    "howlongtobeat": "68907",
    "igdb": "kids-kards",
+   "metacritic": "kards",
    "mobygames": "124927",
    "pcgamingwiki": "Kards",
    "steam": "544810"
@@ -800,6 +809,7 @@
   "ids": {
    "howlongtobeat": "152080",
    "igdb": "closer-the-distance",
+   "metacritic": "closer-the-distance",
    "mobygames": "229333",
    "pcgamingwiki": "Closer_the_Distance",
    "steam": "1991300"

@@ -5,6 +5,7 @@
    "gog": "game/the_ball",
    "howlongtobeat": "9768",
    "igdb": "the-ball",
+   "metacritic": "the-ball",
    "mobygames": "49313",
    "pcgamingwiki": "The_Ball",
    "steam": "35460"
@@ -27,6 +28,7 @@
   "ids": {
    "gog": "game/revenant",
    "igdb": "revenant",
+   "metacritic": "revenant",
    "mobygames": "1099",
    "pcgamingwiki": "Revenant"
   },
@@ -79,6 +81,7 @@
    "epic": "peggle-deluxe-9b4058",
    "howlongtobeat": "6947",
    "igdb": "peggle",
+   "metacritic": "peggle",
    "mobygames": "38459",
    "pcgamingwiki": "Peggle",
    "steam": "3480"
@@ -91,6 +94,7 @@
   "ids": {
    "howlongtobeat": "4004",
    "igdb": "goldeneye-007--2",
+   "metacritic": "goldeneye-007-2010",
    "mobygames": "48942"
   },
   "label_en": "GoldenEye 007",
@@ -158,6 +162,7 @@
   "enwiki": "Jetpac Refuelled",
   "ids": {
    "igdb": "jetpac-refuelled",
+   "metacritic": "jetpac-refuelled",
    "mobygames": "27344"
   },
   "label_en": "Jetpac Refuelled",
@@ -168,6 +173,7 @@
   "ids": {
    "epic": "rails-across-america-958ba8",
    "igdb": "rails-across-america",
+   "metacritic": "rails-across-america",
    "mobygames": "7752",
    "pcgamingwiki": "Rails_Across_America",
    "steam": "2680190"
@@ -241,6 +247,7 @@
   "ids": {
    "howlongtobeat": "20887",
    "igdb": "woolfe-the-red-hood-diaries",
+   "metacritic": "woolfe-the-redhood-diaries",
    "mobygames": "72839",
    "pcgamingwiki": "Woolfe_-_The_Red_Hood_Diaries",
    "steam": "281940"
@@ -254,6 +261,7 @@
    "epic": "for-honor",
    "howlongtobeat": "36385",
    "igdb": "for-honor",
+   "metacritic": "for-honor",
    "mobygames": "83670",
    "pcgamingwiki": "For_Honor",
    "steam": "304390"
@@ -266,6 +274,7 @@
   "ids": {
    "howlongtobeat": "34287",
    "igdb": "darkmaus",
+   "metacritic": "darkmaus",
    "mobygames": "106007",
    "pcgamingwiki": "DarkMaus",
    "steam": "406130"
@@ -278,6 +287,7 @@
    "gog": "game/cayne",
    "howlongtobeat": "43249",
    "igdb": "cayne",
+   "metacritic": "cayne",
    "mobygames": "82976",
    "pcgamingwiki": "Cayne",
    "steam": "532840"
@@ -289,6 +299,7 @@
   "enwiki": "Onrush",
   "ids": {
    "igdb": "onrush",
+   "metacritic": "onrush",
    "mobygames": "109752"
   },
   "label_en": "Onrush",
@@ -309,7 +320,8 @@
  {
   "enwiki": "Tekken Mobile",
   "ids": {
-   "igdb": "tekken-mobile"
+   "igdb": "tekken-mobile",
+   "metacritic": "tekken-mobile"
   },
   "label_en": "Tekken",
   "wikidata": "Q56863114"
@@ -318,6 +330,7 @@
   "ids": {
    "howlongtobeat": "49886",
    "igdb": "infinite-minigolf",
+   "metacritic": "infinite-minigolf",
    "mobygames": "93223",
    "pcgamingwiki": "Infinite_Minigolf",
    "steam": "446550"
@@ -731,6 +744,7 @@
    "gog": "game/yu_crossing_animals",
    "howlongtobeat": "106925",
    "igdb": "yu-crossing-animals--1",
+   "metacritic": "yu-crossing-animals",
    "mobygames": "200274",
    "pcgamingwiki": "Yu_Crossing_Animals",
    "steam": "1630290"
@@ -836,6 +850,7 @@
   "ids": {
    "howlongtobeat": "28400",
    "igdb": "vector-thrust",
+   "metacritic": "vector-thrust",
    "mobygames": "195507",
    "pcgamingwiki": "Vector_Thrust",
    "steam": "242130"
@@ -850,6 +865,7 @@
  {
   "ids": {
    "igdb": "zombie-skape",
+   "metacritic": "zombie-skape",
    "mobygames": "90553"
   },
   "label_en": "Zombie Skape",
@@ -898,7 +914,8 @@
  },
  {
   "ids": {
-   "igdb": "basketball-legends-24"
+   "igdb": "basketball-legends-24",
+   "metacritic": "basketball-legends-24"
   },
   "label_en": "Basketball Legends 24",
   "wikidata": "Q131405114"
@@ -1184,6 +1201,7 @@
  {
   "ids": {
    "igdb": "pinata",
+   "pcgamingwiki": "Piñata",
    "steam": "477800"
   },
   "label_en": "Piñata",

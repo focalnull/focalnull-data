@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10645",
    "igdb": "tribes-ascend",
+   "metacritic": "tribes-ascend",
    "mobygames": "55555",
    "pcgamingwiki": "Tribes:_Ascend",
    "steam": "17080"
@@ -40,6 +41,7 @@
   "ids": {
    "howlongtobeat": "7350",
    "igdb": "project-gotham-racing-3",
+   "metacritic": "project-gotham-racing-3",
    "mobygames": "21550"
   },
   "label_en": "Project Gotham Racing 3",
@@ -89,6 +91,7 @@
   "ids": {
    "howlongtobeat": "1211",
    "igdb": "blueberry-garden",
+   "metacritic": "blueberry-garden",
    "mobygames": "40996",
    "pcgamingwiki": "Blueberry_Garden",
    "steam": "29160"
@@ -146,6 +149,7 @@
    "gog": "game/warrior_kings",
    "howlongtobeat": "18581",
    "igdb": "warrior-kings",
+   "metacritic": "warrior-kings",
    "mobygames": "6074",
    "pcgamingwiki": "Warrior_Kings",
    "steam": "297570"
@@ -157,6 +161,7 @@
   "enwiki": "From the Abyss",
   "ids": {
    "igdb": "from-the-abyss",
+   "metacritic": "from-the-abyss",
    "mobygames": "37464"
   },
   "label_en": "From the Abyss",
@@ -191,6 +196,7 @@
  {
   "enwiki": "R-Type Tactics",
   "ids": {
+   "metacritic": "r-type-command",
    "mobygames": "36294"
   },
   "label_en": "R-Type Tactics",
@@ -232,6 +238,7 @@
   "enwiki": "Kirby and the Rainbow Curse",
   "ids": {
    "igdb": "kirby-and-the-rainbow-curse",
+   "metacritic": "kirby-and-the-rainbow-curse",
    "mobygames": "74413"
   },
   "label_en": "Kirby and the Rainbow Curse",
@@ -241,6 +248,7 @@
   "enwiki": "Pride FC: Fighting Championships",
   "ids": {
    "igdb": "pride-fc-fighting-championships",
+   "metacritic": "pride-fc-fighting-championships",
    "mobygames": "41502"
   },
   "label_en": "Pride Fighting Championships",
@@ -252,6 +260,7 @@
    "epic": "paladins",
    "howlongtobeat": "33021",
    "igdb": "paladins",
+   "metacritic": "paladins",
    "mobygames": "87890",
    "pcgamingwiki": "Paladins:_Champions_of_the_Realm",
    "steam": "444090"
@@ -303,6 +312,7 @@
    "gog": "game/detective_gallo",
    "howlongtobeat": "56986",
    "igdb": "detective-gallo",
+   "metacritic": "detective-gallo",
    "mobygames": "109639",
    "pcgamingwiki": "Detective_Gallo",
    "steam": "556060"
@@ -349,6 +359,7 @@
    "epic": "garden-story",
    "howlongtobeat": "77541",
    "igdb": "garden-story",
+   "metacritic": "garden-story",
    "mobygames": "169251",
    "pcgamingwiki": "Garden_Story",
    "steam": "1062140"
@@ -389,6 +400,7 @@
   "ids": {
    "howlongtobeat": "30162",
    "igdb": "alicemare",
+   "metacritic": "alicemare",
    "mobygames": "84709",
    "pcgamingwiki": "Alicemare",
    "steam": "524850"
@@ -429,7 +441,8 @@
  },
  {
   "ids": {
-   "igdb": "spirit-seasons-little-ghost-story"
+   "igdb": "spirit-seasons-little-ghost-story",
+   "metacritic": "spirit-seasons-little-ghost-story"
   },
   "label_en": "Spirit Seasons: Little Ghost Story",
   "wikidata": "Q116162279"
@@ -437,7 +450,8 @@
  {
   "enwiki": "Ground Divers!",
   "ids": {
-   "igdb": "ground-divers"
+   "igdb": "ground-divers",
+   "metacritic": "ground-divers"
   },
   "label_en": "Ground Divers!",
   "wikidata": "Q116838279"
@@ -447,6 +461,7 @@
    "gog": "game/stray_souls",
    "howlongtobeat": "130844",
    "igdb": "stray-souls",
+   "metacritic": "stray-souls",
    "mobygames": "210853",
    "pcgamingwiki": "Stray_Souls",
    "steam": "1807210"
@@ -622,6 +637,7 @@
   "ids": {
    "howlongtobeat": "109388",
    "igdb": "freuds-bones-the-game",
+   "metacritic": "freuds-bones-the-game",
    "mobygames": "195155",
    "steam": "1477980"
   },
@@ -721,6 +737,7 @@
   "ids": {
    "howlongtobeat": "50023",
    "igdb": "the-gallery-episode-2-heart-of-the-emberstone",
+   "metacritic": "the-gallery-episode-2-heart-of-the-emberstone",
    "mobygames": "98826",
    "pcgamingwiki": "The_Gallery_-_Episode_2:_Heart_of_the_Emberstone",
    "steam": "526140"
@@ -896,6 +913,7 @@
   "ids": {
    "howlongtobeat": "147758",
    "igdb": "captain-gazman-day-of-the-rage",
+   "metacritic": "grand-theft-auto-v",
    "pcgamingwiki": "Captain_Gazman:_Day_of_the_Rage",
    "steam": "1907400"
   },
@@ -1125,6 +1143,7 @@
  {
   "ids": {
    "igdb": "fallalypse-disconnect",
+   "pcgamingwiki": "★Fallalypse_★_Disconnect_❄",
    "steam": "978610"
   },
   "label_en": "★Fallalypse ★ Disconnect ❄",

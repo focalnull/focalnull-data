@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "261",
    "igdb": "agatha-christie-evil-under-the-sun",
+   "metacritic": "agatha-christie-evil-under-the-sun",
    "mobygames": "31107",
    "pcgamingwiki": "Agatha_Christie:_Evil_under_the_Sun",
    "steam": "39610"
@@ -29,6 +30,7 @@
   "ids": {
    "howlongtobeat": "11068",
    "igdb": "wario-world",
+   "metacritic": "wario-world",
    "mobygames": "9577"
   },
   "label_en": "Wario World",
@@ -49,6 +51,7 @@
   "ids": {
    "howlongtobeat": "25668",
    "igdb": "cobalt",
+   "metacritic": "cobalt",
    "mobygames": "88436",
    "pcgamingwiki": "Cobalt",
    "steam": "357340"
@@ -60,6 +63,7 @@
   "enwiki": "Alvin and the Chipmunks: Chipwrecked (video game)",
   "ids": {
    "igdb": "alvin-and-the-chipmunks-chipwrecked",
+   "metacritic": "alvin-and-the-chipmunks-chipwrecked",
    "mobygames": "87177"
   },
   "label_en": "Alvin and the Chipmunks: Chipwrecked",
@@ -122,6 +126,7 @@
   "enwiki": "Petz Sports: Dog Playground",
   "ids": {
    "igdb": "petz-sports",
+   "metacritic": "petz-sports-dog-playground",
    "mobygames": "40535"
   },
   "label_en": "Petz Sports: Dog Playground",
@@ -132,6 +137,7 @@
   "ids": {
    "howlongtobeat": "8676",
    "igdb": "sneak-king",
+   "metacritic": "sneak-king",
    "mobygames": "25162"
   },
   "label_en": "Sneak King",
@@ -141,6 +147,7 @@
   "enwiki": "UFC: Tapout",
   "ids": {
    "igdb": "ufc-tapout",
+   "metacritic": "ultimate-fighting-championship-tapout",
    "mobygames": "5867"
   },
   "label_en": "UFC: Tapout",
@@ -216,6 +223,7 @@
   "ids": {
    "howlongtobeat": "57577",
    "igdb": "lego-the-incredibles",
+   "metacritic": "lego-the-incredibles",
    "mobygames": "110100",
    "pcgamingwiki": "Lego_The_Incredibles",
    "steam": "818320"
@@ -228,6 +236,7 @@
    "gog": "game/regency_solitaire",
    "howlongtobeat": "28973",
    "igdb": "regency-solitaire",
+   "metacritic": "regency-solitaire",
    "mobygames": "70791",
    "pcgamingwiki": "Regency_Solitaire",
    "steam": "351090"
@@ -249,6 +258,7 @@
   "ids": {
    "howlongtobeat": "56271",
    "igdb": "band-of-defenders",
+   "metacritic": "band-of-defenders",
    "mobygames": "106736",
    "pcgamingwiki": "Band_of_Defenders",
    "steam": "644640"
@@ -287,6 +297,7 @@
   "ids": {
    "howlongtobeat": "65965",
    "igdb": "babylons-fall",
+   "metacritic": "babylons-fall",
    "mobygames": "180576",
    "pcgamingwiki": "Babylon's_Fall",
    "steam": "889750"
@@ -297,6 +308,7 @@
  {
   "ids": {
    "howlongtobeat": "2690",
+   "metacritic": "donkey-kong-country-returns-3d",
    "mobygames": "63983"
   },
   "label_en": "Donkey Kong Country Returns 3D",
@@ -360,6 +372,7 @@
    "epic": "flat-heroes-fec628",
    "howlongtobeat": "42805",
    "igdb": "flat-heroes",
+   "metacritic": "flat-heroes",
    "mobygames": "111023",
    "pcgamingwiki": "Flat_Heroes",
    "steam": "508790"
@@ -371,6 +384,7 @@
   "ids": {
    "howlongtobeat": "8332",
    "igdb": "shado--1",
+   "metacritic": "shado",
    "mobygames": "69213",
    "pcgamingwiki": "Shad'O",
    "steam": "215770"
@@ -383,6 +397,7 @@
   "ids": {
    "howlongtobeat": "130444",
    "igdb": "super-mario-bros-wonder",
+   "metacritic": "super-mario-bros-wonder",
    "mobygames": "210462"
   },
   "label_en": "Super Mario Bros. Wonder",
@@ -433,6 +448,7 @@
   "ids": {
    "howlongtobeat": "74568",
    "igdb": "monster-energy-supercross-the-official-videogame-3",
+   "metacritic": "monster-energy-supercross-the-official-videogame-3",
    "mobygames": "138369",
    "pcgamingwiki": "Monster_Energy_Supercross_3",
    "steam": "1089830"
@@ -1112,6 +1128,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Floor_Plan:_Slap_Out_Of_It!",
    "steam": "3564410"
   },
   "label_en": "Floor Plan: Slap Out Of It!",

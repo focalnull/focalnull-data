@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4062",
    "igdb": "grand-theft-auto-iv",
+   "metacritic": "grand-theft-auto-iv",
    "mobygames": "33867",
    "pcgamingwiki": "Grand_Theft_Auto_IV",
    "steam": "12210"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "1483",
    "igdb": "call-of-duty-world-at-war",
+   "metacritic": "call-of-duty-world-at-war",
    "mobygames": "37817",
    "pcgamingwiki": "Call_of_Duty:_World_at_War",
    "steam": "10090"
@@ -37,6 +39,7 @@
   "ids": {
    "howlongtobeat": "178",
    "igdb": "aces-spades",
+   "metacritic": "ace-of-spades",
    "mobygames": "59987",
    "pcgamingwiki": "Ace_of_Spades:_Battle_Builder",
    "steam": "224540"
@@ -162,6 +165,7 @@
   "ids": {
    "igdb": "the-fifth-disciple",
    "mobygames": "16275",
+   "pcgamingwiki": "The_Fifth_Disciple",
    "steam": "3487390"
   },
   "label_en": "The Fifth Disciple",
@@ -213,6 +217,7 @@
    "gog": "game/hard_reset_redux",
    "howlongtobeat": "37562",
    "igdb": "hard-reset-redux",
+   "metacritic": "hard-reset-redux",
    "mobygames": "79168",
    "pcgamingwiki": "Hard_Reset_Redux",
    "steam": "407810"
@@ -245,6 +250,7 @@
    "epic": "alan-wake-remastered",
    "howlongtobeat": "97692",
    "igdb": "alan-wake-remastered",
+   "metacritic": "alan-wake-remastered",
    "mobygames": "173289",
    "pcgamingwiki": "Alan_Wake_Remastered"
   },
@@ -587,6 +593,7 @@
    "epic": "gangs-of-sherwood",
    "howlongtobeat": "110661",
    "igdb": "gangs-of-sherwood",
+   "metacritic": "gangs-of-sherwood",
    "mobygames": "214383",
    "pcgamingwiki": "Gangs_of_Sherwood",
    "steam": "1351000"
@@ -766,6 +773,7 @@
  {
   "ids": {
    "igdb": "blades-of-jianghu-ballad-of-wind-and-dust",
+   "metacritic": "blades-of-jianghu-ballad-of-wind-and-dust",
    "mobygames": "210503",
    "pcgamingwiki": "Blades_of_Jianghu:_Ballad_of_Wind_and_Dust",
    "steam": "2179300"
@@ -782,7 +790,8 @@
  },
  {
   "ids": {
-   "igdb": "rhapsody-marl-kingdom-chronicles"
+   "igdb": "rhapsody-marl-kingdom-chronicles",
+   "metacritic": "rhapsody-marl-kingdom-chronicles"
   },
   "label_en": "Rhapsody: Marl Kingdom Chronicles",
   "wikidata": "Q133272797"
@@ -966,6 +975,15 @@
   },
   "label_en": "CatboyZOOM",
   "wikidata": "Q135052797"
+ },
+ {
+  "ids": {
+   "igdb": "strings-of-fate-xi-magic-dream",
+   "mobygames": "255957",
+   "steam": "2965220"
+  },
+  "label_en": "Strings of Fate XI: Magic dream",
+  "wikidata": "Q135053797"
  },
  {
   "ids": {

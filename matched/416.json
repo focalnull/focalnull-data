@@ -43,7 +43,8 @@
   "enwiki": "Rugby World Cup 2011 (video game)",
   "ids": {
    "howlongtobeat": "8001",
-   "igdb": "rugby-world-cup-2011"
+   "igdb": "rugby-world-cup-2011",
+   "metacritic": "rugby-world-cup-2011"
   },
   "label_en": "Rugby World Cup 2011",
   "wikidata": "Q3942416"
@@ -62,6 +63,7 @@
    "epic": "disciples-rise-of-the-elves-gold-669f54",
    "howlongtobeat": "2583",
    "igdb": "disciples-ii-rise-of-the-elves",
+   "metacritic": "disciples-ii-rise-of-the-elves",
    "mobygames": "12680",
    "steam": "1630"
   },
@@ -132,6 +134,7 @@
    "epic": "nioh-the-complete-edition",
    "howlongtobeat": "50419",
    "igdb": "nioh",
+   "metacritic": "nioh",
    "mobygames": "83462",
    "pcgamingwiki": "Nioh:_Complete_Edition",
    "steam": "485510"
@@ -142,7 +145,8 @@
  {
   "enwiki": "Pocket Pool",
   "ids": {
-   "igdb": "pocket-pool"
+   "igdb": "pocket-pool",
+   "metacritic": "pocket-pool-2007"
   },
   "label_en": "Pocket Pool",
   "wikidata": "Q7206416"
@@ -174,6 +178,7 @@
   "enwiki": "Splat Magazine Renegade Paintball",
   "ids": {
    "igdb": "splat-renegade-paintball",
+   "metacritic": "splat-renegade-paintball",
    "mobygames": "81920",
    "pcgamingwiki": "Renegade_Paintball"
   },
@@ -216,6 +221,7 @@
   "ids": {
    "howlongtobeat": "10929",
    "igdb": "victorious-boxers-ippos-road-to-glory",
+   "metacritic": "victorious-boxers-ippos-road-to-glory",
    "mobygames": "33311"
   },
   "label_en": "Victorious Boxers: Ippo's Road to Glory",
@@ -233,6 +239,7 @@
   "ids": {
    "howlongtobeat": "34877",
    "igdb": "sebastien-loeb-rally-evo",
+   "metacritic": "sebastien-loeb-rally-evo",
    "mobygames": "86079",
    "pcgamingwiki": "Sébastien_Loeb_Rally_EVO",
    "steam": "355060"
@@ -256,6 +263,7 @@
   "ids": {
    "howlongtobeat": "37327",
    "igdb": "ultimate-chicken-horse",
+   "metacritic": "ultimate-chicken-horse",
    "mobygames": "84580",
    "pcgamingwiki": "Ultimate_Chicken_Horse",
    "steam": "386940"
@@ -283,6 +291,7 @@
   "ids": {
    "howlongtobeat": "61191",
    "igdb": "high-cats",
+   "metacritic": "high-cats",
    "pcgamingwiki": "High_Cats",
    "steam": "897940"
   },
@@ -292,6 +301,7 @@
  {
   "ids": {
    "igdb": "naruto-clash-of-ninja-2",
+   "metacritic": "naruto-clash-of-ninja-2",
    "mobygames": "17038"
   },
   "label_en": "Naruto: Clash of Ninja 2",
@@ -314,6 +324,7 @@
    "gog": "game/sine_mora_ex",
    "howlongtobeat": "48048",
    "igdb": "sine-mora-ex",
+   "metacritic": "sine-mora-ex",
    "mobygames": "94106",
    "pcgamingwiki": "Sine_Mora_EX",
    "steam": "606730"
@@ -327,6 +338,7 @@
    "epic": "sonic-colors-ultimate",
    "howlongtobeat": "92789",
    "igdb": "sonic-colors-ultimate",
+   "metacritic": "sonic-colors-ultimate",
    "mobygames": "170000",
    "pcgamingwiki": "Sonic_Colors:_Ultimate",
    "steam": "2055290"

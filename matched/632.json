@@ -5,8 +5,7 @@
    "howlongtobeat": "12896",
    "igdb": "warzone-2100",
    "mobygames": "2869",
-   "pcgamingwiki": "Warzone_2100",
-   "steam": "1241950"
+   "pcgamingwiki": "Warzone_2100"
   },
   "label_en": "Warzone 2100",
   "wikidata": "Q386632"
@@ -15,6 +14,7 @@
   "enwiki": "Scurge: Hive",
   "ids": {
    "igdb": "scurge-hive",
+   "metacritic": "scurge-hive",
    "mobygames": "25128"
   },
   "label_en": "Scurge: Hive",
@@ -35,6 +35,7 @@
    "gog": "game/dino_crisis",
    "howlongtobeat": "2561",
    "igdb": "dino-crisis",
+   "metacritic": "dino-crisis",
    "mobygames": "2822",
    "pcgamingwiki": "Dino_Crisis",
    "steam": "4249130"
@@ -92,6 +93,7 @@
  {
   "ids": {
    "igdb": "one-piece-unlimited-cruise-sp",
+   "metacritic": "one-piece-unlimited-cruise-sp",
    "mobygames": "82373"
   },
   "label_en": "One Piece: Unlimited Cruise SP",
@@ -139,6 +141,7 @@
   "ids": {
    "howlongtobeat": "29423",
    "igdb": "clan-of-champions",
+   "metacritic": "clan-of-champions",
    "mobygames": "91201",
    "pcgamingwiki": "Clan_of_Champions",
    "steam": "206230"
@@ -194,6 +197,7 @@
   "enwiki": "The Mummy: Tomb of the Dragon Emperor (video game)",
   "ids": {
    "igdb": "the-mummy-tomb-of-the-dragon-emperor",
+   "metacritic": "the-mummy-tomb-of-the-dragon-emperor",
    "mobygames": "89653"
   },
   "label_en": "The Mummy: Tomb of the Dragon Emperor",
@@ -204,6 +208,7 @@
   "ids": {
    "howlongtobeat": "21924",
    "igdb": "until-dawn",
+   "metacritic": "until-dawn-2015",
    "mobygames": "74492"
   },
   "label_en": "Until Dawn",
@@ -231,6 +236,7 @@
    "gog": "game/the_legend_of_heroes_trails_of_cold_steel_iii",
    "howlongtobeat": "55663",
    "igdb": "the-legend-of-heroes-trails-of-cold-steel-iii",
+   "metacritic": "the-legend-of-heroes-trails-of-cold-steel-iii",
    "mobygames": "136487",
    "pcgamingwiki": "The_Legend_of_Heroes:_Trails_of_Cold_Steel_III",
    "steam": "991270"
@@ -244,6 +250,7 @@
    "gog": "game/life_is_strange_before_the_storm",
    "howlongtobeat": "46418",
    "igdb": "life-is-strange-before-the-storm",
+   "metacritic": "life-is-strange-before-the-storm",
    "mobygames": "95380",
    "pcgamingwiki": "Life_Is_Strange:_Before_the_Storm",
    "steam": "554620"
@@ -255,6 +262,7 @@
   "enwiki": "NHL 18",
   "ids": {
    "igdb": "nhl-18",
+   "metacritic": "nhl-18",
    "mobygames": "95847"
   },
   "label_en": "NHL 18",
@@ -266,6 +274,7 @@
    "gog": "game/the_lego_ninjago_movie_video_game",
    "howlongtobeat": "49226",
    "igdb": "the-lego-ninjago-movie-video-game",
+   "metacritic": "the-lego-ninjago-movie-video-game",
    "mobygames": "96260",
    "pcgamingwiki": "The_Lego_Ninjago_Movie_Video_Game",
    "steam": "640590"
@@ -282,6 +291,7 @@
   "ids": {
    "howlongtobeat": "57513",
    "igdb": "super-smash-bros-ultimate",
+   "metacritic": "super-smash-bros-ultimate",
    "mobygames": "110476"
   },
   "label_en": "Super Smash Bros. Ultimate",
@@ -294,7 +304,8 @@
  {
   "enwiki": "The Grand Tour Game",
   "ids": {
-   "igdb": "the-grand-tour-game"
+   "igdb": "the-grand-tour-game",
+   "metacritic": "the-grand-tour-game"
   },
   "label_en": "The Grand Tour Game",
   "wikidata": "Q63049632"
@@ -313,6 +324,7 @@
   "ids": {
    "howlongtobeat": "87088",
    "igdb": "hatsune-miku-colorful-stage",
+   "metacritic": "hatsune-miku-colorful-stage",
    "mobygames": "184740"
   },
   "label_en": "Hatsune Miku: Colorful Stage!",
@@ -321,7 +333,8 @@
  {
   "enwiki": "Love Live! School Idol Festival: After School Activity Wai-Wai! Home Meeting!!",
   "ids": {
-   "igdb": "love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting"
+   "igdb": "love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting",
+   "metacritic": "love-live-school-idol-festival-after-school-2"
   },
   "label_en": "Love Live! School Idol Festival: After School Activity Wai-Wai! Home Meeting!!",
   "wikidata": "Q104900632"
@@ -331,6 +344,7 @@
   "ids": {
    "howlongtobeat": "16899",
    "igdb": "weapon-shop-de-omasse",
+   "metacritic": "weapon-shop-de-omasse",
    "mobygames": "73418"
   },
   "label_en": "Weapon Shop de Omasse",
@@ -1049,6 +1063,7 @@
  {
   "ids": {
    "igdb": "fantasy-maiden-wars-dream-of-the-stray-dreamer",
+   "pcgamingwiki": "Fantasy_Maiden_Wars:_Dream_of_the_Stray_Dreamer",
    "steam": "3575980"
   },
   "label_en": "Fantasy Maiden Wars: Dream of the Stray Dreamer",
@@ -1057,6 +1072,7 @@
  {
   "ids": {
    "igdb": "balloon-fighter",
+   "pcgamingwiki": "Balloon_Fighter",
    "steam": "1123640"
   },
   "label_en": "Balloon Fighter",

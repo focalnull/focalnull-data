@@ -5,6 +5,7 @@
    "gog": "game/star_wars_dark_forces",
    "howlongtobeat": "9100",
    "igdb": "star-wars-dark-forces",
+   "metacritic": "star-wars-dark-forces",
    "mobygames": "500",
    "pcgamingwiki": "Star_Wars:_Dark_Forces",
    "steam": "32400"
@@ -57,6 +58,7 @@
   "ids": {
    "howlongtobeat": "1202",
    "igdb": "blue-dragon",
+   "metacritic": "blue-dragon",
    "mobygames": "28617"
   },
   "label_en": "Blue Dragon",
@@ -66,6 +68,7 @@
   "enwiki": "Goosebumps HorrorLand (video game)",
   "ids": {
    "igdb": "goosebumps-horrorland",
+   "metacritic": "goosebumps-horrorland",
    "mobygames": "88200"
   },
   "label_en": "Goosebumps HorrorLand",
@@ -76,6 +79,7 @@
   "ids": {
    "howlongtobeat": "8399",
    "igdb": "shellshock-nam-67",
+   "metacritic": "shellshock-nam-67",
    "mobygames": "14614",
    "pcgamingwiki": "Shellshock:_Nam_'67"
   },
@@ -87,6 +91,7 @@
   "ids": {
    "howlongtobeat": "1965",
    "igdb": "crackdown-2",
+   "metacritic": "crackdown-2",
    "mobygames": "47398"
   },
   "label_en": "Crackdown 2",
@@ -97,6 +102,7 @@
   "ids": {
    "howlongtobeat": "18354",
    "igdb": "descent-to-undermountain",
+   "metacritic": "descent-to-undermountain",
    "mobygames": "2859",
    "pcgamingwiki": "Descent_to_Undermountain"
   },
@@ -200,6 +206,7 @@
   "enwiki": "Hyrule Warriors",
   "ids": {
    "igdb": "hyrule-warriors",
+   "metacritic": "hyrule-warriors",
    "mobygames": "68628"
   },
   "label_en": "Hyrule Warriors",
@@ -209,6 +216,7 @@
   "enwiki": "Steel Horizon",
   "ids": {
    "igdb": "steel-horizon",
+   "metacritic": "steel-horizon",
    "mobygames": "85169"
   },
   "label_en": "Steel Horizon",
@@ -232,6 +240,7 @@
   "enwiki": "Pokémon Shuffle",
   "ids": {
    "igdb": "pokemon-shuffle",
+   "metacritic": "pokemon-shuffle-mobile",
    "mobygames": "73541"
   },
   "label_en": "Pokémon Shuffle",
@@ -256,7 +265,8 @@
   "enwiki": "Naked War",
   "ids": {
    "howlongtobeat": "19457",
-   "igdb": "naked-war"
+   "igdb": "naked-war",
+   "metacritic": "naked-war"
   },
   "label_en": "Naked War",
   "wikidata": "Q29884287"
@@ -265,6 +275,7 @@
   "enwiki": "MTV Sports: Skateboarding Featuring Andy Macdonald",
   "ids": {
    "igdb": "mtv-sports-skateboarding-featuring-andy-macdonald",
+   "metacritic": "mtv-sports-skateboarding-featuring-andy-macdonald",
    "mobygames": "3042"
   },
   "label_en": "MTV Sports: Skateboarding Featuring Andy Macdonald",
@@ -293,6 +304,7 @@
  {
   "ids": {
    "igdb": "zoids-battle-legends",
+   "metacritic": "zoids-battle-legends",
    "mobygames": "27222"
   },
   "label_en": "Zoids: Battle Legends",
@@ -304,6 +316,7 @@
    "epic": "blood-bowl-3",
    "howlongtobeat": "95411",
    "igdb": "blood-bowl-iii",
+   "metacritic": "blood-bowl-iii",
    "mobygames": "199965",
    "pcgamingwiki": "Blood_Bowl_3",
    "steam": "1016950"
@@ -338,6 +351,7 @@
   "ids": {
    "howlongtobeat": "41589",
    "igdb": "franchise-hockey-manager-3",
+   "metacritic": "franchise-hockey-manager-3",
    "mobygames": "84731",
    "pcgamingwiki": "Franchise_Hockey_Manager_3",
    "steam": "465660"
@@ -349,6 +363,7 @@
   "ids": {
    "howlongtobeat": "47471",
    "igdb": "fallen-legion-sins-of-an-empire",
+   "metacritic": "fallen-legion-sins-of-an-empire",
    "mobygames": "92814"
   },
   "label_en": "Fallen Legion: Sins of an Empire",
@@ -415,6 +430,7 @@
   "ids": {
    "howlongtobeat": "79870",
    "igdb": "gedonia",
+   "metacritic": "gedonia",
    "mobygames": "185655",
    "pcgamingwiki": "Gedonia",
    "steam": "1114220"
@@ -458,6 +474,7 @@
  {
   "ids": {
    "igdb": "the-backrooms-mass-extinction",
+   "metacritic": "the-backrooms-mass-extinction",
    "steam": "1486280"
   },
   "label_en": "The Backrooms: Mass Extinction",
@@ -468,6 +485,7 @@
   "ids": {
    "howlongtobeat": "93920",
    "igdb": "a-little-to-the-left",
+   "metacritic": "a-little-to-the-left",
    "mobygames": "194818",
    "pcgamingwiki": "A_Little_to_the_Left",
    "steam": "1629520"
@@ -689,6 +707,7 @@
    "epic": "ravenswatch-b0115d",
    "howlongtobeat": "124193",
    "igdb": "ravenswatch",
+   "metacritic": "ravenswatch",
    "mobygames": "201464",
    "pcgamingwiki": "Ravenswatch",
    "steam": "2071280"
@@ -822,6 +841,9 @@
   "wikidata": "Q124075287"
  },
  {
+  "ids": {
+   "metacritic": "nioh-2-the-complete-edition"
+  },
   "label_en": "Nioh 2 Remastered – The Complete Edition",
   "wikidata": "Q125937287"
  },
@@ -854,6 +876,7 @@
  {
   "ids": {
    "igdb": "frag-doch-mal-dot-dot-dot-die-maus",
+   "metacritic": "frag-doch-maldie-maus",
    "mobygames": "117423"
   },
   "label_en": "Frag doch mal...die Maus!",
@@ -863,6 +886,7 @@
   "ids": {
    "howlongtobeat": "140770",
    "igdb": "forza-customs--1",
+   "metacritic": "forza-customs-restore-cars",
    "mobygames": "223697"
   },
   "label_en": "Forza Customs",
@@ -1273,6 +1297,7 @@
  {
   "ids": {
    "igdb": "boozy-dwarf",
+   "pcgamingwiki": "Boozy_Dwarf",
    "steam": "562560"
   },
   "label_en": "Boozy Dwarf",
@@ -1288,6 +1313,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Dust_Till_Dawn",
    "steam": "4694470"
   },
   "label_en": "Dust till Dawn",

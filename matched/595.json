@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3532",
    "igdb": "final-fantasy-xiii",
+   "metacritic": "final-fantasy-xiii",
    "mobygames": "43866",
    "pcgamingwiki": "Final_Fantasy_XIII",
    "steam": "292120"
@@ -42,6 +43,7 @@
   "ids": {
    "howlongtobeat": "10505",
    "igdb": "tony-hawk-shred",
+   "metacritic": "tony-hawk-shred",
    "mobygames": "57070"
   },
   "label_en": "Tony Hawk: Shred",
@@ -52,6 +54,7 @@
   "ids": {
    "howlongtobeat": "2375",
    "igdb": "deathsmiles",
+   "metacritic": "deathsmiles",
    "mobygames": "49223",
    "pcgamingwiki": "Deathsmiles",
    "steam": "314180"
@@ -126,6 +129,7 @@
   "ids": {
    "howlongtobeat": "5190",
    "igdb": "last-rebellion",
+   "metacritic": "last-rebellion",
    "mobygames": "53710"
   },
   "label_en": "Last Rebellion",
@@ -136,6 +140,7 @@
   "ids": {
    "howlongtobeat": "5588",
    "igdb": "making-history-the-calm-and-the-storm",
+   "metacritic": "making-history-the-calm-and-the-storm",
    "mobygames": "27308",
    "pcgamingwiki": "Making_History:_The_Calm_&_the_Storm",
    "steam": "6250"
@@ -187,6 +192,7 @@
   "ids": {
    "howlongtobeat": "11713",
    "igdb": "magic-2014-duels-of-the-planeswalkers",
+   "metacritic": "magic-duels-of-the-planeswalkers-2014",
    "mobygames": "65033",
    "pcgamingwiki": "Magic:_The_Gathering_-_Duels_of_the_Planeswalkers_2014",
    "steam": "213850"
@@ -197,6 +203,7 @@
  {
   "ids": {
    "igdb": "godzilla-domination",
+   "metacritic": "godzilla-domination",
    "mobygames": "9061"
   },
   "label_en": "Godzilla: Domination!",
@@ -217,6 +224,7 @@
   "enwiki": "Miitopia",
   "ids": {
    "igdb": "miitopia",
+   "metacritic": "miitopia",
    "mobygames": "92799"
   },
   "label_en": "Miitopia",
@@ -260,6 +268,7 @@
   "ids": {
    "howlongtobeat": "57416",
    "igdb": "fallout-76",
+   "metacritic": "fallout-76",
    "mobygames": "115632",
    "pcgamingwiki": "Fallout_76",
    "steam": "1151340"
@@ -280,6 +289,7 @@
   "ids": {
    "howlongtobeat": "38225",
    "igdb": "polandball-can-into-space",
+   "metacritic": "polandball-can-into-space",
    "mobygames": "120110",
    "pcgamingwiki": "Polandball:_Can_into_Space!",
    "steam": "441050"
@@ -379,6 +389,7 @@
    "gog": "game/ash_of_gods_the_way",
    "howlongtobeat": "128914",
    "igdb": "ash-of-gods-the-way",
+   "metacritic": "ash-of-gods-the-way",
    "mobygames": "203167",
    "pcgamingwiki": "Ash_of_Gods:_The_Way",
    "steam": "1293460"
@@ -438,6 +449,7 @@
    "howlongtobeat": "142077",
    "igdb": "abel",
    "mobygames": "210746",
+   "pcgamingwiki": "Abel",
    "steam": "2439100"
   },
   "label_en": "ABEL",
@@ -562,6 +574,9 @@
   "wikidata": "Q122386595"
  },
  {
+  "ids": {
+   "metacritic": "worlds-hardest-game-2-addictinggames"
+  },
   "label_en": "The World's Hardest Game 2",
   "wikidata": "Q122686595"
  },

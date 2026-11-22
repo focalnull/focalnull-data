@@ -42,6 +42,7 @@
   "ids": {
    "howlongtobeat": "15123",
    "igdb": "wii-party",
+   "metacritic": "wii-party",
    "mobygames": "85030"
   },
   "label_en": "Wii Party",
@@ -52,6 +53,7 @@
   "ids": {
    "howlongtobeat": "3981",
    "igdb": "god-of-war-chains-of-olympus",
+   "metacritic": "god-of-war-chains-of-olympus",
    "mobygames": "33397"
   },
   "label_en": "God of War: Chains of Olympus",
@@ -61,6 +63,7 @@
   "enwiki": "Magnetica",
   "ids": {
    "igdb": "magnetica",
+   "metacritic": "magnetica-twist",
    "mobygames": "30585"
   },
   "label_en": "Actionloop",
@@ -108,6 +111,7 @@
   "enwiki": "Malicious (video game)",
   "ids": {
    "igdb": "malicious",
+   "metacritic": "malicious",
    "mobygames": "57080"
   },
   "label_en": "Malicious",
@@ -129,6 +133,7 @@
   "enwiki": "World Series of Poker (video game)",
   "ids": {
    "igdb": "world-series-of-poker",
+   "metacritic": "world-series-of-poker",
    "mobygames": "44116"
   },
   "label_en": "World Series of Poker",
@@ -139,6 +144,7 @@
   "ids": {
    "howlongtobeat": "3113",
    "igdb": "enchanted-arms",
+   "metacritic": "enchanted-arms",
    "mobygames": "25899"
   },
   "label_en": "Enchanted Arms",
@@ -161,6 +167,7 @@
   "ids": {
    "howlongtobeat": "2673",
    "igdb": "don-king-presents-prizefighter",
+   "metacritic": "don-king-presents-prizefighter",
    "mobygames": "45680"
   },
   "label_en": "Don King Presents: Prizefighter",
@@ -200,6 +207,7 @@
   "ids": {
    "howlongtobeat": "8639",
    "igdb": "sleep-is-death",
+   "metacritic": "sleep-is-death",
    "mobygames": "46094"
   },
   "label_en": "Sleep Is Death",
@@ -228,6 +236,7 @@
    "gog": "game/tahira_echoes_of_the_astral_empire",
    "howlongtobeat": "39399",
    "igdb": "tahira-echoes-of-the-astral-empire",
+   "metacritic": "tahira-echoes-of-the-astral-empire",
    "mobygames": "82270",
    "pcgamingwiki": "Tahira:_Echoes_of_the_Astral_Empire",
    "steam": "396660"
@@ -240,6 +249,7 @@
   "ids": {
    "howlongtobeat": "39560",
    "igdb": "valentino-rossi-the-game",
+   "metacritic": "valentino-rossi-the-game",
    "mobygames": "84414",
    "pcgamingwiki": "Valentino_Rossi:_The_Game_-_MotoGP_16",
    "steam": "438430"
@@ -250,6 +260,7 @@
  {
   "ids": {
    "igdb": "rock-n-racing-off-road-dx",
+   "metacritic": "rock-n-racing-off-road",
    "mobygames": "92797"
   },
   "label_en": "Rock 'N Racing Off Road",
@@ -264,6 +275,7 @@
   "ids": {
    "howlongtobeat": "65953",
    "igdb": "nelke-and-the-legendary-alchemists-ateliers-of-the-new-world",
+   "metacritic": "nelke-and-the-legendary-alchemists-ateliers-of-the",
    "mobygames": "124218",
    "pcgamingwiki": "Nelke_&_the_Legendary_Alchemists:_Ateliers_of_the_New_World",
    "steam": "886820"
@@ -284,6 +296,7 @@
   "ids": {
    "howlongtobeat": "62069",
    "igdb": "quest-room-hanon",
+   "metacritic": "quest-room-hanon",
    "pcgamingwiki": "Quest_Room:_Hanon",
    "steam": "950360"
   },
@@ -339,6 +352,7 @@
   "ids": {
    "howlongtobeat": "30161",
    "igdb": "1bitheart",
+   "metacritic": "1bitheart",
    "mobygames": "98556",
    "pcgamingwiki": "1bitHeart",
    "steam": "618720"
@@ -375,6 +389,7 @@
    "epic": "cozy-grove",
    "howlongtobeat": "86018",
    "igdb": "cozy-grove",
+   "metacritic": "cozy-grove",
    "mobygames": "161413",
    "pcgamingwiki": "Cozy_Grove",
    "steam": "1458100"
@@ -411,6 +426,7 @@
   "enwiki": "Fortune-499",
   "ids": {
    "igdb": "fortune-499",
+   "pcgamingwiki": "Fortune-499",
    "steam": "840610"
   },
   "label_en": "Fortune-499",
@@ -444,6 +460,7 @@
   "ids": {
    "howlongtobeat": "108880",
    "igdb": "the-last-clockwinder",
+   "metacritic": "the-last-clockwinder",
    "mobygames": "185344",
    "steam": "1755100"
   },
@@ -455,6 +472,7 @@
    "epic": "spellforce-3",
    "gog": "game/spellforce_3_reforced",
    "igdb": "spellforce-iii-reforced",
+   "metacritic": "spellforce-iii-reforced",
    "mobygames": "99118"
   },
   "label_en": "SpellForce III Reforced",
@@ -914,7 +932,8 @@
  {
   "ids": {
    "howlongtobeat": "73025",
-   "igdb": "warriors-orochi-4-ultimate"
+   "igdb": "warriors-orochi-4-ultimate",
+   "metacritic": "warriors-orochi-4-ultimate"
   },
   "label_en": "Warriors Orochi 4 Ultimate",
   "wikidata": "Q124309921"
@@ -1262,6 +1281,7 @@
  {
   "ids": {
    "igdb": "young-suns",
+   "pcgamingwiki": "Young_Suns",
    "steam": "4149610"
   },
   "label_en": "Young Suns",
@@ -1284,6 +1304,7 @@
  {
   "ids": {
    "igdb": "chop-chop-inc",
+   "pcgamingwiki": "Chop_Chop_Inc.",
    "steam": "4369130"
   },
   "label_en": "Chop Chop Inc.",

@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "11420",
    "igdb": "yager",
+   "metacritic": "yager",
    "mobygames": "9311"
   },
   "label_en": "Yager",
@@ -25,6 +26,7 @@
    "gog": "game/knights_of_honor",
    "howlongtobeat": "5102",
    "igdb": "knights-of-honor",
+   "metacritic": "knights-of-honor",
    "mobygames": "15440",
    "pcgamingwiki": "Knights_of_Honor",
    "steam": "25830"
@@ -43,6 +45,9 @@
  },
  {
   "enwiki": "Ayakashi (video game)",
+  "ids": {
+   "metacritic": "ayakashi"
+  },
   "label_en": "Ayakashi",
   "wikidata": "Q995530"
  },
@@ -86,6 +91,7 @@
   "ids": {
    "howlongtobeat": "10920",
    "igdb": "vexx",
+   "metacritic": "vexx",
    "mobygames": "9578"
   },
   "label_en": "Vexx",
@@ -115,6 +121,7 @@
   "ids": {
    "howlongtobeat": "11146",
    "igdb": "white-knight-chronicles-ii",
+   "metacritic": "white-knight-chronicles-ii",
    "mobygames": "52418"
   },
   "label_en": "White Knight Chronicles II",
@@ -158,6 +165,7 @@
   "enwiki": "Driift Mania",
   "ids": {
    "igdb": "driift-mania",
+   "metacritic": "driift-mania",
    "mobygames": "90966"
   },
   "label_en": "Driift Mania",
@@ -172,6 +180,7 @@
   "enwiki": "Go! Go! Break Steady",
   "ids": {
    "igdb": "go-go-break-steady",
+   "metacritic": "go-go-break-steady",
    "mobygames": "47670"
   },
   "label_en": "Go! Go! Break Steady",
@@ -195,6 +204,7 @@
   "enwiki": "Rogue Ops",
   "ids": {
    "igdb": "rogue-ops",
+   "metacritic": "rogue-ops",
    "mobygames": "12607"
   },
   "label_en": "Rogue Ops",
@@ -247,6 +257,7 @@
   "ids": {
    "howlongtobeat": "34326",
    "igdb": "assassins-creed-identity",
+   "metacritic": "assassins-creed-identity",
    "mobygames": "72539"
   },
   "label_en": "Assassin's Creed Identity",
@@ -257,6 +268,7 @@
   "ids": {
    "howlongtobeat": "43350",
    "igdb": "digimon-world-next-order",
+   "metacritic": "digimon-world-next-order",
    "mobygames": "83412",
    "pcgamingwiki": "Digimon_World:_Next_Order",
    "steam": "1530160"
@@ -297,6 +309,7 @@
   "ids": {
    "howlongtobeat": "46426",
    "igdb": "super-luckys-tale",
+   "metacritic": "super-luckys-tale",
    "mobygames": "98688",
    "pcgamingwiki": "Super_Lucky's_Tale",
    "steam": "847360"
@@ -308,6 +321,7 @@
   "ids": {
    "howlongtobeat": "64681",
    "igdb": "steam-prison",
+   "metacritic": "steam-prison",
    "mobygames": "122245",
    "pcgamingwiki": "Steam_Prison",
    "steam": "977460"
@@ -318,6 +332,7 @@
  {
   "ids": {
    "igdb": "top-gun-hard-lock",
+   "metacritic": "top-gun-hard-lock",
    "mobygames": "86209"
   },
   "label_en": "Top Gun: Hard Lock",
@@ -326,6 +341,7 @@
  {
   "ids": {
    "igdb": "lands-of-the-lost",
+   "metacritic": "lands-of-the-lost",
    "pcgamingwiki": "Lands_of_the_Lost",
    "steam": "868600"
   },
@@ -357,6 +373,7 @@
   "ids": {
    "howlongtobeat": "18816",
    "igdb": "clockwork-tales-of-glass-and-ink",
+   "metacritic": "clockwork-tales-of-glass-and-ink",
    "mobygames": "79078",
    "pcgamingwiki": "Clockwork_Tales:_Of_Glass_and_Ink",
    "steam": "284830"
@@ -379,6 +396,7 @@
   "ids": {
    "howlongtobeat": "5758",
    "igdb": "mechanic-master",
+   "metacritic": "mechanic-master",
    "mobygames": "81210"
   },
   "label_en": "Mechanic Master",
@@ -853,6 +871,7 @@
  {
   "ids": {
    "igdb": "dark-mass",
+   "metacritic": "dark-mass",
    "pcgamingwiki": "Dark_Mass",
    "steam": "1879940"
   },

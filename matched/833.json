@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "3865",
    "igdb": "gears-of-war-3",
+   "metacritic": "gears-of-war-3",
    "mobygames": "52918"
   },
   "label_en": "Gears of War 3",
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "9237",
    "igdb": "street-fighter-ex3",
+   "metacritic": "street-fighter-ex3",
    "mobygames": "3781"
   },
   "label_en": "Street Fighter EX3",
@@ -55,6 +57,7 @@
   "ids": {
    "howlongtobeat": "130135",
    "igdb": "shadows-of-the-damned",
+   "metacritic": "shadows-of-the-damned",
    "mobygames": "54155"
   },
   "label_en": "Shadows of the Damned",
@@ -74,6 +77,7 @@
   "ids": {
    "howlongtobeat": "616",
    "igdb": "army-men-sarge-s-heroes-2",
+   "metacritic": "army-men-sarges-heroes-2",
    "mobygames": "4188"
   },
   "label_en": "Army Men: Sarge's Heroes 2",
@@ -114,6 +118,7 @@
   "ids": {
    "howlongtobeat": "28999",
    "igdb": "the-asskickers",
+   "metacritic": "the-asskickers",
    "mobygames": "67970",
    "pcgamingwiki": "The_Asskickers",
    "steam": "348650"
@@ -150,6 +155,7 @@
   "enwiki": "Inuyasha: Secret of the Divine Jewel",
   "ids": {
    "igdb": "inuyasha-secret-of-the-divine-jewel",
+   "metacritic": "inuyasha-secret-of-the-divine-jewel",
    "mobygames": "26901"
   },
   "label_en": "Inuyasha: Secret of the Divine Jewel",
@@ -160,6 +166,7 @@
   "ids": {
    "howlongtobeat": "5742",
    "igdb": "maximo-ghosts-to-glory",
+   "metacritic": "maximo-ghosts-to-glory",
    "mobygames": "5806"
   },
   "label_en": "Maximo: Ghosts to Glory",
@@ -193,6 +200,7 @@
   "ids": {
    "howlongtobeat": "3887",
    "igdb": "genesis-rising-the-universal-crusade",
+   "metacritic": "genesis-rising-the-universal-crusade",
    "mobygames": "27578",
    "pcgamingwiki": "Genesis_Rising:_The_Universal_Crusade",
    "steam": "3230"
@@ -243,6 +251,7 @@
   "enwiki": "Marble Drop",
   "ids": {
    "igdb": "marble-drop",
+   "metacritic": "marble-drop",
    "mobygames": "1349",
    "pcgamingwiki": "Marble_Drop"
   },
@@ -266,6 +275,7 @@
   "ids": {
    "howlongtobeat": "21437",
    "igdb": "pix-the-cat",
+   "metacritic": "pix-the-cat",
    "mobygames": "71182",
    "pcgamingwiki": "Pix_the_Cat",
    "steam": "330180"
@@ -307,6 +317,7 @@
   "ids": {
    "howlongtobeat": "71679",
    "igdb": "hypnocult",
+   "metacritic": "hypnocult",
    "pcgamingwiki": "Hypnocult",
    "steam": "1127680"
   },
@@ -328,6 +339,7 @@
    "gog": "game/stardrive_2",
    "howlongtobeat": "28591",
    "igdb": "stardrive-2",
+   "metacritic": "stardrive-2",
    "mobygames": "84424",
    "pcgamingwiki": "StarDrive_2",
    "steam": "252450"
@@ -342,6 +354,7 @@
    "gog": "game/mortal_shell",
    "howlongtobeat": "76520",
    "igdb": "mortal-shell",
+   "metacritic": "mortal-shell",
    "mobygames": "149459",
    "pcgamingwiki": "Mortal_Shell",
    "steam": "1110910"
@@ -356,6 +369,7 @@
    "gog": "game/sable",
    "howlongtobeat": "59371",
    "igdb": "sable",
+   "metacritic": "sable",
    "mobygames": "172584",
    "pcgamingwiki": "Sable",
    "steam": "757310"
@@ -401,6 +415,7 @@
   "ids": {
    "howlongtobeat": "96908",
    "igdb": "the-ramp",
+   "metacritic": "the-ramp",
    "mobygames": "168746",
    "pcgamingwiki": "The_Ramp",
    "steam": "1506510"
@@ -423,7 +438,9 @@
   "ids": {
    "epic": "corsairs-legacy-44431c",
    "igdb": "corsairs-legacy",
+   "metacritic": "corsairs-legacy-pirate-action-rpg",
    "mobygames": "217122",
+   "pcgamingwiki": "Corsairs_Legacy",
    "steam": "1594880"
   },
   "label_en": "Corsairs Legacy",
@@ -480,6 +497,7 @@
   "ids": {
    "howlongtobeat": "94083",
    "igdb": "river-city-girls-zero",
+   "metacritic": "river-city-girls-zero",
    "mobygames": "24856",
    "pcgamingwiki": "River_City_Girls_Zero",
    "steam": "1851020"
@@ -1036,7 +1054,8 @@
  },
  {
   "ids": {
-   "igdb": "pandoland"
+   "igdb": "pandoland",
+   "metacritic": "pandoland"
   },
   "label_en": "Pand Land",
   "wikidata": "Q126761833"
@@ -1331,6 +1350,7 @@
   "ids": {
    "igdb": "monster-jam",
    "mobygames": "95293",
+   "pcgamingwiki": "Monster_Jam_Battlegrounds",
    "steam": "336250"
   },
   "label_en": "Monster Jam Battlegrounds",
@@ -1339,6 +1359,7 @@
  {
   "ids": {
    "igdb": "australia-did-it-end-of-the-world-railway-defense-business",
+   "pcgamingwiki": "Australia_Did_It",
    "steam": "2396130"
   },
   "label_en": "Australia Did It",
@@ -1362,6 +1383,7 @@
    "gog": "game/horses",
    "howlongtobeat": "164454",
    "igdb": "horses",
+   "metacritic": "horses",
    "mobygames": "251019",
    "pcgamingwiki": "Horses"
   },

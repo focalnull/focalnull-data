@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "13329",
    "igdb": "dragon-ball-z-supersonic-warriors",
+   "metacritic": "dragon-ball-z-supersonic-warriors",
    "mobygames": "14874"
   },
   "label_en": "Dragon Ball Z: Supersonic Warriors",
@@ -35,6 +36,7 @@
    "gog": "game/18_wheels_of_steel_haulin",
    "howlongtobeat": "44175",
    "igdb": "18-wheels-of-steel-haulin",
+   "metacritic": "18-wheels-of-steel-haulin",
    "mobygames": "40683",
    "pcgamingwiki": "18_Wheels_of_Steel:_Haulin'",
    "steam": "514180"
@@ -56,6 +58,7 @@
   "ids": {
    "howlongtobeat": "9975",
    "igdb": "the-king-of-fighters-99-millennium-battle",
+   "metacritic": "the-king-of-fighters-99-evolution",
    "mobygames": "4105",
    "pcgamingwiki": "The_King_of_Fighters_'99:_Evolution"
   },
@@ -79,6 +82,7 @@
   "enwiki": "Super Mario Advance 4: Super Mario Bros. 3",
   "ids": {
    "igdb": "super-mario-advance-4-super-mario-bros-3",
+   "metacritic": "super-mario-advance-4-super-mario-bros-3",
    "mobygames": "80877"
   },
   "label_en": "Super Mario Advance 4: Super Mario Bros. 3",
@@ -88,6 +92,7 @@
   "enwiki": "Mario & Luigi: Bowser's Inside Story",
   "ids": {
    "igdb": "mario-luigi-bowser-s-inside-story",
+   "metacritic": "mario-and-luigi-bowsers-inside-story",
    "mobygames": "42684"
   },
   "label_en": "Mario & Luigi: Bowser's Inside Story",
@@ -98,6 +103,7 @@
   "ids": {
    "howlongtobeat": "10060",
    "igdb": "the-lord-of-the-rings-aragorn-s-quest",
+   "metacritic": "the-lord-of-the-rings-aragorns-quest",
    "mobygames": "64345"
   },
   "label_en": "The Lord of the Rings: Aragorn's Quest",
@@ -133,6 +139,7 @@
   "enwiki": "ThruSpace",
   "ids": {
    "igdb": "thruspace",
+   "metacritic": "thruspace",
    "mobygames": "93675"
   },
   "label_en": "ThruSpace",
@@ -193,6 +200,7 @@
   "ids": {
    "howlongtobeat": "33537",
    "igdb": "vigilante-8-arcade",
+   "metacritic": "vigilante-8-arcade",
    "mobygames": "37523"
   },
   "label_en": "Vigilante 8 Arcade",
@@ -238,6 +246,7 @@
    "epic": "plants-vs-zombies-gw2-deluxe-edition-99b9fd",
    "howlongtobeat": "33632",
    "igdb": "plants-vs-zombies-garden-warfare-2",
+   "metacritic": "plants-vs-zombies-garden-warfare-2",
    "mobygames": "98451",
    "pcgamingwiki": "Plants_vs._Zombies:_Garden_Warfare_2",
    "steam": "1922560"
@@ -259,6 +268,7 @@
   "ids": {
    "howlongtobeat": "27871",
    "igdb": "sword-art-online-lost-song",
+   "metacritic": "sword-art-online-lost-song",
    "mobygames": "83644",
    "pcgamingwiki": "Sword_Art_Online:_Lost_Song",
    "steam": "840720"
@@ -271,6 +281,7 @@
   "ids": {
    "howlongtobeat": "41252",
    "igdb": "sword-art-online-hollow-realization",
+   "metacritic": "sword-art-online-hollow-realization",
    "mobygames": "84026",
    "pcgamingwiki": "Sword_Art_Online:_Hollow_Realization",
    "steam": "607890"
@@ -291,6 +302,7 @@
   "ids": {
    "howlongtobeat": "43232",
    "igdb": "blue-reflection",
+   "metacritic": "blue-reflection",
    "mobygames": "96425",
    "pcgamingwiki": "Blue_Reflection",
    "steam": "658260"
@@ -305,6 +317,7 @@
    "gog": "game/seven_the_days_long_gone",
    "howlongtobeat": "51056",
    "igdb": "seven-the-days-long-gone",
+   "metacritic": "seven-the-days-long-gone",
    "mobygames": "97124",
    "pcgamingwiki": "Seven:_The_Days_Long_Gone",
    "steam": "471010"
@@ -317,6 +330,7 @@
   "ids": {
    "howlongtobeat": "43485",
    "igdb": "panty-party",
+   "metacritic": "panty-party",
    "mobygames": "96855",
    "pcgamingwiki": "Panty_Party",
    "steam": "562410"
@@ -330,6 +344,7 @@
    "epic": "mudrunner",
    "howlongtobeat": "50209",
    "igdb": "mudrunner",
+   "metacritic": "spintires-mudrunner",
    "mobygames": "97745",
    "pcgamingwiki": "Spintires:_MudRunner",
    "steam": "675010"
@@ -341,6 +356,7 @@
   "ids": {
    "howlongtobeat": "52059",
    "igdb": "dont-make-love",
+   "metacritic": "dont-make-love",
    "mobygames": "108456",
    "pcgamingwiki": "Don't_Make_Love",
    "steam": "723890"
@@ -376,6 +392,7 @@
   "ids": {
    "howlongtobeat": "47162",
    "igdb": "2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly",
+   "metacritic": "20001a-space-felony",
    "mobygames": "128955",
    "pcgamingwiki": "2000:1:_A_Space_Felony"
   },
@@ -387,6 +404,7 @@
    "gog": "game/guns_gore_cannoli_2",
    "howlongtobeat": "53849",
    "igdb": "guns-gore-and-cannoli-2",
+   "metacritic": "guns-gore-cannoli-2",
    "mobygames": "104474",
    "pcgamingwiki": "Guns,_Gore_&_Cannoli_2",
    "steam": "525510"
@@ -399,6 +417,7 @@
   "ids": {
    "howlongtobeat": "99440",
    "igdb": "the-dark-pictures-anthology-the-devil-in-me",
+   "metacritic": "the-dark-pictures-anthology-the-devil-in-me",
    "mobygames": "195417",
    "pcgamingwiki": "The_Devil_in_Me",
    "steam": "1567020"
@@ -463,6 +482,7 @@
   "ids": {
    "howlongtobeat": "89864",
    "igdb": "chilloutvr",
+   "metacritic": "chilloutvr",
    "mobygames": "215320",
    "pcgamingwiki": "ChilloutVR",
    "steam": "661130"
@@ -477,6 +497,7 @@
   "ids": {
    "howlongtobeat": "124000",
    "igdb": "helvetii",
+   "metacritic": "helvetii",
    "mobygames": "198005",
    "pcgamingwiki": "Helvetii",
    "steam": "1094590"
@@ -892,6 +913,7 @@
   "ids": {
    "howlongtobeat": "118370",
    "igdb": "battle-teams-2",
+   "metacritic": "battle-teams-2",
    "mobygames": "35559",
    "pcgamingwiki": "Battle_Teams_2",
    "steam": "1969870"

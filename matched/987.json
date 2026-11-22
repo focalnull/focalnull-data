@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2686",
    "igdb": "donkey-kong-country",
+   "metacritic": "donkey-kong-country",
    "mobygames": "5199"
   },
   "label_en": "Donkey Kong Country",
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "2475",
    "igdb": "destroy-all-humans",
+   "metacritic": "destroy-all-humans-2005",
    "mobygames": "18398"
   },
   "label_en": "Destroy All Humans!",
@@ -43,6 +45,7 @@
   "enwiki": "Transformers: The Game",
   "ids": {
    "igdb": "transformers-the-game",
+   "metacritic": "transformers-the-game",
    "mobygames": "28833",
    "pcgamingwiki": "Transformers:_The_Game"
   },
@@ -55,6 +58,7 @@
    "gog": "game/gothic_2_gold_edition",
    "howlongtobeat": "4028",
    "igdb": "gothic-ii",
+   "metacritic": "gothic-ii",
    "mobygames": "7866",
    "pcgamingwiki": "Gothic_II",
    "steam": "39510"
@@ -80,6 +84,7 @@
    "gog": "game/red_faction",
    "howlongtobeat": "7681",
    "igdb": "red-faction",
+   "metacritic": "red-faction",
    "mobygames": "4194",
    "pcgamingwiki": "Red_Faction",
    "steam": "20530"
@@ -91,6 +96,7 @@
   "enwiki": "Ben 10: Alien Force – The Rise of Hex",
   "ids": {
    "igdb": "ben-10-alien-force-the-rise-of-hex",
+   "metacritic": "ben-10-alien-force-the-rise-of-hex",
    "mobygames": "47387"
   },
   "label_en": "Ben 10 Alien Force: The Rise of Hex",
@@ -101,6 +107,7 @@
   "ids": {
    "howlongtobeat": "48443",
    "igdb": "mysims-racing",
+   "metacritic": "mysims-racing",
    "mobygames": "89443"
   },
   "label_en": "MySims Racing",
@@ -137,6 +144,7 @@
   "ids": {
    "howlongtobeat": "1796",
    "igdb": "cold-war",
+   "metacritic": "cold-war",
    "mobygames": "26090",
    "pcgamingwiki": "Cold_War",
    "steam": "260650"
@@ -155,6 +163,7 @@
   "enwiki": "Smashing Drive",
   "ids": {
    "igdb": "smashing-drive",
+   "metacritic": "smashing-drive",
    "mobygames": "7085"
   },
   "label_en": "Smashing Drive",
@@ -185,6 +194,7 @@
   "ids": {
    "howlongtobeat": "3637",
    "igdb": "ford-racing-3",
+   "metacritic": "ford-racing-3",
    "mobygames": "18249",
    "pcgamingwiki": "Ford_Racing_3",
    "steam": "315600"
@@ -210,6 +220,7 @@
   "enwiki": "QuickSpot",
   "ids": {
    "igdb": "quickspot",
+   "metacritic": "quickspot-2006",
    "mobygames": "32903"
   },
   "label_en": "QuickSpot",
@@ -219,6 +230,7 @@
   "enwiki": "Hooked! Real Motion Fishing",
   "ids": {
    "igdb": "hooked-real-motion-fishing",
+   "metacritic": "hooked-real-motion-fishing",
    "mobygames": "85047"
   },
   "label_en": "Hooked! Real Motion Fishing",
@@ -228,6 +240,7 @@
   "enwiki": "Star Trek: New Worlds",
   "ids": {
    "igdb": "star-trek-new-worlds",
+   "metacritic": "star-trek-new-worlds",
    "mobygames": "2251",
    "pcgamingwiki": "Star_Trek:_New_Worlds"
   },
@@ -286,6 +299,7 @@
    "epic": "assassins-creed-chronicles-russia",
    "howlongtobeat": "33659",
    "igdb": "assassins-creed-chronicles-russia",
+   "metacritic": "assassins-creed-chronicles-russia",
    "mobygames": "77486",
    "pcgamingwiki": "Assassin's_Creed_Chronicles:_Russia",
    "steam": "359600"
@@ -309,6 +323,7 @@
   "ids": {
    "howlongtobeat": "37950",
    "igdb": "agents-of-mayhem",
+   "metacritic": "agents-of-mayhem",
    "mobygames": "94483",
    "pcgamingwiki": "Agents_of_Mayhem",
    "steam": "304530"
@@ -354,6 +369,7 @@
    "gog": "game/wandersong",
    "howlongtobeat": "61375",
    "igdb": "wandersong",
+   "metacritic": "wandersong",
    "mobygames": "113363",
    "pcgamingwiki": "Wandersong",
    "steam": "530320"
@@ -399,6 +415,7 @@
    "gog": "game/pathfinder_wrath_of_the_righteous",
    "howlongtobeat": "83856",
    "igdb": "pathfinder-wrath-of-the-righteous",
+   "metacritic": "pathfinder-wrath-of-the-righteous",
    "mobygames": "171127",
    "pcgamingwiki": "Pathfinder:_Wrath_of_the_Righteous",
    "steam": "1184370"
@@ -433,6 +450,7 @@
    "gog": "game/itta",
    "howlongtobeat": "77388",
    "igdb": "itta",
+   "metacritic": "itta",
    "mobygames": "144507",
    "pcgamingwiki": "Itta",
    "steam": "775580"
@@ -454,6 +472,7 @@
   "ids": {
    "howlongtobeat": "102290",
    "igdb": "operation-lovecraft-fallen-doll",
+   "metacritic": "operation-lovecraft-fallen-doll",
    "pcgamingwiki": "Operation_Lovecraft:_Fallen_Doll",
    "steam": "1685960"
   },
@@ -524,6 +543,7 @@
  {
   "enwiki": "Harry Potter and the Philosopher's Stone (GBA video game)",
   "ids": {
+   "metacritic": "harry-potter-and-the-sorcerers-stone",
    "mobygames": "21208"
   },
   "label_en": "Harry Potter and the Philosopher's Stone",
@@ -801,6 +821,7 @@
    "gog": "game/valfaris_mecha_therion",
    "howlongtobeat": "114522",
    "igdb": "valfaris-mecha-therion",
+   "metacritic": "valfaris-mecha-therion",
    "mobygames": "212848",
    "steam": "1647920"
   },
@@ -980,6 +1001,7 @@
   "ids": {
    "howlongtobeat": "157655",
    "igdb": "white-bridge",
+   "metacritic": "white-bridge",
    "steam": "3131910"
   },
   "label_en": "White Bridge",
@@ -994,6 +1016,7 @@
   "ids": {
    "epic": "samurai-pizza-cats-blast-from-the-past-f30676",
    "igdb": "samurai-pizza-cats-blast-from-the-past",
+   "metacritic": "samurai-pizza-cats-blast-from-the-past",
    "steam": "2413800"
   },
   "label_en": "Samurai Pizza Cats: Blast from the Past!",
@@ -1299,6 +1322,7 @@
   "ids": {
    "igdb": "super-president-how-to-rule-the-country",
    "mobygames": "187216",
+   "pcgamingwiki": "Super_president_How_to_rule_the_country",
    "steam": "995480"
   },
   "label_en": "Super president How to rule the country",
@@ -1353,5 +1377,12 @@
   },
   "label_en": "Hentai Desire",
   "wikidata": "Q141481987"
+ },
+ {
+  "ids": {
+   "igdb": "kita-he-white-illumination"
+  },
+  "label_en": "Kita e: White Illumination",
+  "wikidata": "Q142210987"
  }
 ]

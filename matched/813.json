@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10742",
    "igdb": "ubersoldier",
+   "metacritic": "ubersoldier",
    "mobygames": "22056",
    "pcgamingwiki": "ÜberSoldier"
   },
@@ -55,6 +56,7 @@
   "enwiki": "Dead or Alive 3",
   "ids": {
    "igdb": "dead-or-alive-3",
+   "metacritic": "dead-or-alive-3",
    "mobygames": "5371"
   },
   "label_en": "Dead or Alive 3",
@@ -118,6 +120,7 @@
   "enwiki": "Call of Duty: Black Ops – Zombies",
   "ids": {
    "igdb": "call-of-duty-black-ops-zombies",
+   "metacritic": "call-of-duty-black-ops-zombies",
    "mobygames": "93640"
   },
   "label_en": "Call of Duty: Black Ops – Zombies",
@@ -138,6 +141,7 @@
   "enwiki": "Gin Rummy (video game)",
   "ids": {
    "igdb": "gin-rummy--2",
+   "metacritic": "gin-rummy-2008",
    "mobygames": "47669"
   },
   "label_en": "Gin Rummy",
@@ -158,6 +162,7 @@
    "epic": "fallout-4",
    "howlongtobeat": "26729",
    "igdb": "fallout-4",
+   "metacritic": "fallout-4",
    "mobygames": "75861",
    "pcgamingwiki": "Fallout_4",
    "steam": "377160"
@@ -198,6 +203,7 @@
   "ids": {
    "howlongtobeat": "45564",
    "igdb": "sudden-strike",
+   "metacritic": "sudden-strike",
    "mobygames": "2610",
    "pcgamingwiki": "Sudden_Strike",
    "steam": "612300"
@@ -215,6 +221,7 @@
    "epic": "n-verlore-verstand-1d7f5b",
    "howlongtobeat": "38074",
    "igdb": "n-verlore-verstand",
+   "metacritic": "n-verlore-verstand",
    "mobygames": "78090",
    "pcgamingwiki": "'n_Verlore_Verstand",
    "steam": "439550"
@@ -228,6 +235,7 @@
    "epic": "titanfall-2-6231e2",
    "howlongtobeat": "38000",
    "igdb": "titanfall-2",
+   "metacritic": "titanfall-2",
    "mobygames": "81350",
    "pcgamingwiki": "Titanfall_2",
    "steam": "1237970"
@@ -240,6 +248,7 @@
   "ids": {
    "howlongtobeat": "58827",
    "igdb": "adventure-time-pirates-of-the-enchiridion",
+   "metacritic": "adventure-time-pirates-of-the-enchiridion",
    "mobygames": "110555",
    "pcgamingwiki": "Adventure_Time:_Pirates_of_the_Enchiridion",
    "steam": "728240"
@@ -250,6 +259,7 @@
  {
   "ids": {
    "howlongtobeat": "2025",
+   "metacritic": "crimson-sea-2",
    "mobygames": "17228"
   },
   "label_en": "Crimson Sea 2",
@@ -298,6 +308,7 @@
   "ids": {
    "howlongtobeat": "74072",
    "igdb": "the-walking-dead-saints-and-sinners",
+   "metacritic": "the-walking-dead-saints-and-sinners",
    "pcgamingwiki": "The_Walking_Dead:_Saints_&_Sinners",
    "steam": "916840"
   },
@@ -357,6 +368,7 @@
  {
   "ids": {
    "igdb": "wheres-my-water-2",
+   "metacritic": "wheres-my-water-2",
    "mobygames": "73578"
   },
   "label_en": "Where's My Water? 2",
@@ -469,6 +481,7 @@
    "epic": "lego-2k-drive",
    "howlongtobeat": "125974",
    "igdb": "lego-2k-drive",
+   "metacritic": "lego-2k-drive",
    "mobygames": "203303",
    "pcgamingwiki": "Lego_2K_Drive",
    "steam": "1451810"
@@ -854,6 +867,7 @@
   "ids": {
    "howlongtobeat": "50962",
    "igdb": "tartarus",
+   "metacritic": "tartarus",
    "mobygames": "100745",
    "pcgamingwiki": "Tartarus",
    "steam": "608530"
@@ -885,6 +899,7 @@
    "epic": "voidwrought-ce8f4b",
    "howlongtobeat": "147406",
    "igdb": "voidwrought",
+   "metacritic": "voidwrought",
    "pcgamingwiki": "Voidwrought",
    "steam": "2014550"
   },
@@ -916,6 +931,7 @@
   "ids": {
    "howlongtobeat": "151698",
    "igdb": "chained-together",
+   "metacritic": "chained-together",
    "mobygames": "230557",
    "pcgamingwiki": "Chained_Together",
    "steam": "2567870"

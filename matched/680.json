@@ -32,6 +32,7 @@
   "ids": {
    "howlongtobeat": "5494",
    "igdb": "madden-nfl-06",
+   "metacritic": "madden-nfl-06",
    "mobygames": "18905"
   },
   "label_en": "Madden NFL 06",
@@ -42,6 +43,7 @@
   "ids": {
    "howlongtobeat": "4249",
    "igdb": "half-life-2-deathmatch",
+   "metacritic": "half-life-2-deathmatch",
    "mobygames": "29092",
    "pcgamingwiki": "Half-Life_2:_Deathmatch",
    "steam": "320"
@@ -86,6 +88,7 @@
   "ids": {
    "howlongtobeat": "4196",
    "igdb": "gunbird-2",
+   "metacritic": "gunbird-2",
    "mobygames": "5054",
    "pcgamingwiki": "Gunbird_2",
    "steam": "1279410"
@@ -125,6 +128,7 @@
   "ids": {
    "howlongtobeat": "5730",
    "igdb": "mat-hoffman-s-pro-bmx-2",
+   "metacritic": "mat-hoffmans-pro-bmx-2",
    "mobygames": "7458"
   },
   "label_en": "Mat Hoffman's Pro BMX 2",
@@ -133,6 +137,7 @@
  {
   "ids": {
    "igdb": "zombie-infection",
+   "metacritic": "zombie-infection",
    "mobygames": "45308"
   },
   "label_en": "Zombie Infection",
@@ -151,6 +156,7 @@
   "ids": {
    "howlongtobeat": "5620",
    "igdb": "mario-luigi-dream-team",
+   "metacritic": "mario-luigi-dream-team",
    "mobygames": "62442"
   },
   "label_en": "Mario & Luigi: Dream Team",
@@ -160,6 +166,7 @@
   "enwiki": "Herdy Gerdy",
   "ids": {
    "igdb": "herdy-gerdy",
+   "metacritic": "herdy-gerdy",
    "mobygames": "9908"
   },
   "label_en": "Herdy Gerdy",
@@ -177,6 +184,7 @@
   "enwiki": "Majestic (video game)",
   "ids": {
    "igdb": "majestic",
+   "metacritic": "majestic",
    "mobygames": "4637",
    "pcgamingwiki": "Majestic"
   },
@@ -223,6 +231,7 @@
   "enwiki": "The Sky Crawlers: Innocent Aces",
   "ids": {
    "igdb": "the-sky-crawlers-innocent-aces",
+   "metacritic": "the-sky-crawlers-innocent-aces",
    "mobygames": "84815"
   },
   "label_en": "The Sky Crawlers: Innocent Aces",
@@ -258,6 +267,7 @@
   "enwiki": "Powerstar Golf",
   "ids": {
    "igdb": "powerstar-golf",
+   "metacritic": "powerstar-golf",
    "mobygames": "68513"
   },
   "label_en": "Powerstar Golf",
@@ -266,7 +276,8 @@
  {
   "enwiki": "ShadowFlare",
   "ids": {
-   "igdb": "shadowflare"
+   "igdb": "shadowflare",
+   "metacritic": "shadowflare"
   },
   "label_en": "Shadowflare",
   "wikidata": "Q16947680"
@@ -295,6 +306,7 @@
   "ids": {
    "howlongtobeat": "26239",
    "igdb": "toren",
+   "metacritic": "toren",
    "mobygames": "77648",
    "pcgamingwiki": "Toren",
    "steam": "320820"
@@ -325,6 +337,7 @@
   "ids": {
    "howlongtobeat": "47472",
    "igdb": "fallen-legion-flames-of-rebellion",
+   "metacritic": "fallen-legion-flames-of-rebellion",
    "mobygames": "92860"
   },
   "label_en": "Fallen Legion: Flames of Rebellion",
@@ -334,6 +347,7 @@
   "ids": {
    "howlongtobeat": "3329",
    "igdb": "fairy-bloom-freesia",
+   "metacritic": "fairy-bloom-freesia",
    "mobygames": "67865",
    "pcgamingwiki": "Fairy_Bloom_Freesia",
    "steam": "214590"
@@ -409,6 +423,7 @@
   "ids": {
    "howlongtobeat": "49530",
    "igdb": "trivia-vault-science-and-history-trivia-2",
+   "metacritic": "trivia-vault-science-amp-history-trivia-2",
    "mobygames": "221414",
    "pcgamingwiki": "Trivia_Vault:_Science_&_History_Trivia_2",
    "steam": "699590"
@@ -420,6 +435,7 @@
   "ids": {
    "howlongtobeat": "38192",
    "igdb": "sengoku-jidai-shadow-of-the-shogun",
+   "metacritic": "sengoku-jidai-shadow-of-the-shogun",
    "mobygames": "83919",
    "pcgamingwiki": "Sengoku_Jidai:_Shadow_of_the_Shogun",
    "steam": "397190"
@@ -434,6 +450,7 @@
    "gog": "game/bulwark_falconeer_chronicles",
    "howlongtobeat": "128671",
    "igdb": "bulwark-evolution-falconeer-chronicles",
+   "metacritic": "bulwark-falconeer-chronicles",
    "mobygames": "220505",
    "pcgamingwiki": "Bulwark:_Falconeer_Chronicles",
    "steam": "290100"
@@ -462,6 +479,7 @@
   "enwiki": "The Dark Pictures: Switchback VR",
   "ids": {
    "igdb": "the-dark-pictures-switchback-vr",
+   "metacritic": "the-dark-pictures-switchback-vr",
    "mobygames": "201017"
   },
   "label_en": "The Dark Pictures: Switchback VR",
@@ -558,6 +576,7 @@
  {
   "ids": {
    "igdb": "frogs-vs-storks",
+   "pcgamingwiki": "Frogs_vs._Storks",
    "steam": "2079080"
   },
   "label_en": "Frogs vs. Storks",
@@ -980,6 +999,7 @@
   "ids": {
    "howlongtobeat": "131632",
    "igdb": "gargoyles-remastered",
+   "metacritic": "gargoyles-remastered",
    "mobygames": "210445",
    "pcgamingwiki": "Gargoyles_Remastered",
    "steam": "1928020"
@@ -1204,6 +1224,7 @@
  {
   "ids": {
    "igdb": "hexon",
+   "pcgamingwiki": "Hexon",
    "steam": "1205800"
   },
   "label_en": "Hexon",
@@ -1248,6 +1269,7 @@
    "epic": "monopoly-star-wars-heroes-vs-villains",
    "howlongtobeat": "183310",
    "igdb": "monopoly-star-wars-heroes-vs-villains",
+   "metacritic": "monopoly-star-wars-heroes-vs-villains",
    "pcgamingwiki": "Monopoly:_Star_Wars_-_Heroes_vs._Villains",
    "steam": "3936610"
   },

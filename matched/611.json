@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "7932",
    "igdb": "rocksmith",
+   "metacritic": "rocksmith",
    "mobygames": "57978",
    "pcgamingwiki": "Rocksmith",
    "steam": "205190"
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "10680",
    "igdb": "true-crime-new-york-city",
+   "metacritic": "true-crime-new-york-city",
    "mobygames": "20275",
    "pcgamingwiki": "True_Crime:_New_York_City"
   },
@@ -44,6 +46,7 @@
   "enwiki": "Pro Evolution Soccer 2",
   "ids": {
    "igdb": "world-soccer-winning-eleven-6-international--1",
+   "metacritic": "pro-evolution-soccer-2",
    "mobygames": "8363"
   },
   "label_en": "Pro Evolution Soccer 2",
@@ -62,6 +65,7 @@
   "ids": {
    "howlongtobeat": "6432",
    "igdb": "nba-2k7",
+   "metacritic": "nba-2k7",
    "mobygames": "31934"
   },
   "label_en": "NBA 2K7",
@@ -142,6 +146,7 @@
   "enwiki": "Runabout 2",
   "ids": {
    "igdb": "runabout-2",
+   "metacritic": "runabout-2",
    "mobygames": "53892"
   },
   "label_en": "Runabout 2",
@@ -189,6 +194,7 @@
   "ids": {
    "howlongtobeat": "19879",
    "igdb": "defense-grid-2",
+   "metacritic": "dg2-defense-grid-2",
    "mobygames": "72171",
    "pcgamingwiki": "Defense_Grid_2",
    "steam": "221540"
@@ -221,6 +227,7 @@
   "ids": {
    "howlongtobeat": "40769",
    "igdb": "catch-canvas",
+   "metacritic": "catch-canvas",
    "mobygames": "82763",
    "pcgamingwiki": "Catch_Canvas",
    "steam": "459550"
@@ -255,6 +262,7 @@
    "gog": "game/lost_words_beyond_the_page",
    "howlongtobeat": "68134",
    "igdb": "lost-words-beyond-the-page",
+   "metacritic": "lost-words-beyond-the-page",
    "mobygames": "144061",
    "pcgamingwiki": "Lost_Words:_Beyond_the_Page",
    "steam": "599610"
@@ -283,6 +291,7 @@
   "ids": {
    "howlongtobeat": "50696",
    "igdb": "haunted-dungeons-hyakki-castle",
+   "metacritic": "hyakki-castle",
    "mobygames": "98778",
    "pcgamingwiki": "Hyakki_Castle",
    "steam": "686740"
@@ -361,7 +370,8 @@
  },
  {
   "ids": {
-   "igdb": "fragments-note-after-stories"
+   "igdb": "fragments-note-after-stories",
+   "metacritic": "fragments-note-after-stories-"
   },
   "label_en": "Fragment’s Note: After Stories",
   "wikidata": "Q119851611"
@@ -597,6 +607,7 @@
    "epic": "fabledom-6d35f7",
    "howlongtobeat": "129329",
    "igdb": "fabledom",
+   "metacritic": "fabledom",
    "mobygames": "201816",
    "pcgamingwiki": "Fabledom",
    "steam": "1651560"

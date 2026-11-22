@@ -5,6 +5,7 @@
    "gog": "game/darwinia",
    "howlongtobeat": "2259",
    "igdb": "darwinia",
+   "metacritic": "darwinia",
    "mobygames": "16696",
    "pcgamingwiki": "Darwinia",
    "steam": "1500"
@@ -16,6 +17,7 @@
   "enwiki": "Dragon Ball Z: Ultimate Tenkaichi",
   "ids": {
    "igdb": "dragon-ball-z-ultimate-tenkaichi",
+   "metacritic": "dragon-ball-z-ultimate-tenkaichi",
    "mobygames": "71367"
   },
   "label_en": "Dragon Ball Z: Ultimate Tenkaichi",
@@ -25,6 +27,7 @@
   "enwiki": "Riviera: The Promised Land",
   "ids": {
    "igdb": "riviera-the-promised-land",
+   "metacritic": "riviera-the-promised-land",
    "mobygames": "19619"
   },
   "label_en": "Riviera: The Promised Land",
@@ -44,6 +47,7 @@
   "ids": {
    "howlongtobeat": "22940",
    "igdb": "yakuza-5",
+   "metacritic": "yakuza-5",
    "mobygames": "82703"
   },
   "label_en": "Yakuza 5",
@@ -63,6 +67,7 @@
   "ids": {
    "howlongtobeat": "6963",
    "igdb": "penumbra-overture",
+   "metacritic": "penumbra-overture",
    "mobygames": "27347",
    "pcgamingwiki": "Penumbra:_Overture",
    "steam": "22180"
@@ -105,6 +110,7 @@
   "ids": {
    "howlongtobeat": "5085",
    "igdb": "kirby-nightmare-in-dream-land",
+   "metacritic": "kirby-nightmare-in-dream-land",
    "mobygames": "56651"
   },
   "label_en": "Kirby: Nightmare in Dream Land",
@@ -239,6 +245,7 @@
   "enwiki": "Dengeki Bunko: Fighting Climax",
   "ids": {
    "igdb": "dengeki-bunko-fighting-climax",
+   "metacritic": "dengeki-bunko-fighting-climax",
    "mobygames": "100028"
   },
   "label_en": "Dengeki Bunko Fighting Climax",
@@ -276,6 +283,7 @@
   "ids": {
    "howlongtobeat": "26802",
    "igdb": "mass-effect-andromeda--1",
+   "metacritic": "mass-effect-andromeda",
    "mobygames": "85797",
    "pcgamingwiki": "Mass_Effect:_Andromeda",
    "steam": "1238000"
@@ -309,6 +317,7 @@
   "enwiki": "Hyper Void",
   "ids": {
    "igdb": "hyper-void",
+   "metacritic": "hyper-void",
    "mobygames": "80848",
    "pcgamingwiki": "Hyper_Void",
    "steam": "568060"
@@ -332,6 +341,7 @@
   "ids": {
    "howlongtobeat": "64742",
    "igdb": "strange-telephone",
+   "metacritic": "strange-telephone",
    "mobygames": "120827",
    "pcgamingwiki": "Strange_Telephone",
    "steam": "705290"
@@ -343,6 +353,7 @@
   "ids": {
    "howlongtobeat": "53262",
    "igdb": "e-river-cabin-journal",
+   "metacritic": "e-river-cabin-journal",
    "pcgamingwiki": "E-River_Cabin_Journal",
    "steam": "485820"
   },
@@ -353,6 +364,7 @@
   "enwiki": "NCAA March Madness 2005",
   "ids": {
    "igdb": "ncaa-march-madness-2005",
+   "metacritic": "ncaa-march-madness-2005",
    "mobygames": "31288"
   },
   "label_en": "NCAA March Madness 2005",
@@ -382,6 +394,7 @@
   "ids": {
    "howlongtobeat": "55450",
    "igdb": "murderous-pursuits",
+   "metacritic": "murderous-pursuits",
    "mobygames": "107776",
    "pcgamingwiki": "Murderous_Pursuits",
    "steam": "638070"
@@ -432,6 +445,7 @@
   "ids": {
    "howlongtobeat": "100847",
    "igdb": "destropolis",
+   "metacritic": "destropolis",
    "mobygames": "154644",
    "steam": "1316800"
   },
@@ -624,6 +638,7 @@
  {
   "ids": {
    "igdb": "slime-san-creator",
+   "metacritic": "slime-san-creator",
    "pcgamingwiki": "Slime-san:_Creator",
    "steam": "924130"
   },
@@ -790,6 +805,7 @@
   "ids": {
    "howlongtobeat": "37558",
    "igdb": "heavens-hope",
+   "metacritic": "heavens-hope",
    "mobygames": "90159",
    "pcgamingwiki": "Heaven's_Hope_-_Special_Edition",
    "steam": "404510"
@@ -864,6 +880,7 @@
  {
   "ids": {
    "igdb": "inverse-ninjas-vs-the-public-domain",
+   "metacritic": "inverse-ninjas-vs-the-public-domain",
    "steam": "2668870"
   },
   "label_en": "Inverse Ninjas vs. The Public Domain",
@@ -979,6 +996,7 @@
   "ids": {
    "howlongtobeat": "109662",
    "igdb": "sanabi",
+   "metacritic": "sanabi",
    "mobygames": "186611",
    "pcgamingwiki": "Sanabi",
    "steam": "1562700"
@@ -1360,6 +1378,7 @@
   "ids": {
    "epic": "metro-2039-086260",
    "igdb": "metro-2039",
+   "metacritic": "metro-2039",
    "mobygames": "259397",
    "pcgamingwiki": "Metro_2039",
    "steam": "2590240"

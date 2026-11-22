@@ -31,6 +31,7 @@
   "ids": {
    "howlongtobeat": "16630",
    "igdb": "danganronpa-trigger-happy-havoc",
+   "metacritic": "danganronpa-trigger-happy-havoc",
    "mobygames": "73372",
    "pcgamingwiki": "Danganronpa:_Trigger_Happy_Havoc",
    "steam": "413410"
@@ -43,6 +44,7 @@
   "ids": {
    "howlongtobeat": "4039",
    "igdb": "gradius-v",
+   "metacritic": "gradius-v",
    "mobygames": "15365"
   },
   "label_en": "Gradius V",
@@ -53,6 +55,7 @@
   "ids": {
    "howlongtobeat": "48",
    "igdb": "18-wheeler-american-pro-trucker",
+   "metacritic": "18-wheeler-american-pro-trucker",
    "mobygames": "4325"
   },
   "label_en": "18 Wheeler: American Pro Trucker",
@@ -123,6 +126,7 @@
   "enwiki": "Street Hoops",
   "ids": {
    "igdb": "street-hoops",
+   "metacritic": "street-hoops",
    "mobygames": "17672"
   },
   "label_en": "Street Hoops",
@@ -132,6 +136,7 @@
   "enwiki": "Kingdom O' Magic",
   "ids": {
    "igdb": "kingdom-o-magic",
+   "metacritic": "kingdom-o-magic",
    "mobygames": "678"
   },
   "label_en": "Kingdom O' Magic",
@@ -156,6 +161,7 @@
   "ids": {
    "howlongtobeat": "10337",
    "igdb": "tiger-woods-pga-tour-2005",
+   "metacritic": "tiger-woods-pga-tour-2005",
    "mobygames": "15403"
   },
   "label_en": "Tiger Woods PGA Tour 2005",
@@ -191,6 +197,7 @@
    "gog": "game/men_of_war_condemned_heroes",
    "howlongtobeat": "5883",
    "igdb": "men-of-war-condemned-heroes",
+   "metacritic": "men-of-war-condemned-heroes",
    "mobygames": "65157",
    "pcgamingwiki": "Men_of_War:_Condemned_Heroes",
    "steam": "204860"
@@ -203,6 +210,7 @@
   "ids": {
    "howlongtobeat": "52343",
    "igdb": "hunt-showdown-1896",
+   "metacritic": "hunt-showdown",
    "mobygames": "103963",
    "pcgamingwiki": "Hunt:_Showdown",
    "steam": "594650"
@@ -236,6 +244,7 @@
   "ids": {
    "howlongtobeat": "44223",
    "igdb": "atelier-firis-the-alchemist-and-the-mysterious-journey",
+   "metacritic": "atelier-firis-the-alchemist-and-the-mysterious-journey",
    "mobygames": "84865",
    "pcgamingwiki": "Atelier_Firis:_The_Alchemist_and_the_Mysterious_Journey",
    "steam": "527290"
@@ -257,6 +266,7 @@
  {
   "ids": {
    "igdb": "iridium-runners",
+   "metacritic": "iridium-runners",
    "mobygames": "48115"
   },
   "label_en": "Iridium Runners",
@@ -280,7 +290,8 @@
  },
  {
   "ids": {
-   "igdb": "odin-sphere-leifthrasir"
+   "igdb": "odin-sphere-leifthrasir",
+   "metacritic": "odin-sphere-leifthrasir"
   },
   "label_en": "Odin Sphere Leifthrasir",
   "wikidata": "Q106996512"
@@ -302,6 +313,7 @@
    "epic": "youtubers-life-2-ed3cce",
    "howlongtobeat": "98725",
    "igdb": "youtubers-life-2",
+   "metacritic": "youtubers-life-2",
    "mobygames": "173773",
    "pcgamingwiki": "Youtubers_Life_2",
    "steam": "1493760"
@@ -370,6 +382,7 @@
    "epic": "pato-box-311c99",
    "howlongtobeat": "56667",
    "igdb": "pato-box",
+   "metacritic": "pato-box",
    "mobygames": "110629",
    "pcgamingwiki": "Pato_Box",
    "steam": "682080"
@@ -381,6 +394,7 @@
   "ids": {
    "howlongtobeat": "31206",
    "igdb": "coast-guard",
+   "metacritic": "coast-guard",
    "mobygames": "82812",
    "pcgamingwiki": "Coast_Guard",
    "steam": "361200"
@@ -415,6 +429,7 @@
   "ids": {
    "howlongtobeat": "94105",
    "igdb": "akatori",
+   "pcgamingwiki": "Akatori",
    "steam": "1442520"
   },
   "label_en": "Akatori",
@@ -675,6 +690,7 @@
   "ids": {
    "howlongtobeat": "22153",
    "igdb": "haunted",
+   "metacritic": "haunted",
    "mobygames": "52713",
    "pcgamingwiki": "Haunted",
    "steam": "260550"

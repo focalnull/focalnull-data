@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7231",
    "igdb": "portal-2",
+   "metacritic": "portal-2",
    "mobygames": "51233",
    "pcgamingwiki": "Portal_2",
    "steam": "620"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "10383",
    "igdb": "tmnt",
+   "metacritic": "tmnt",
    "mobygames": "27435",
    "pcgamingwiki": "TMNT",
    "steam": "21990"
@@ -27,6 +29,7 @@
   "enwiki": "Dead Nation",
   "ids": {
    "igdb": "dead-nation",
+   "metacritic": "dead-nation",
    "mobygames": "64615"
   },
   "label_en": "Dead Nation",
@@ -45,6 +48,7 @@
   "enwiki": "Earth & Beyond",
   "ids": {
    "igdb": "earth-and-beyond",
+   "metacritic": "earth-and-beyond",
    "mobygames": "7477",
    "pcgamingwiki": "Earth_&_Beyond"
   },
@@ -55,6 +59,7 @@
   "enwiki": "GT Pro Series",
   "ids": {
    "igdb": "gt-pro-series",
+   "metacritic": "gt-pro-series",
    "mobygames": "25125"
   },
   "label_en": "GT Pro Series",
@@ -63,6 +68,7 @@
  {
   "ids": {
    "howlongtobeat": "4584",
+   "metacritic": "i-fluid",
    "mobygames": "38062",
    "pcgamingwiki": "I-Fluid",
    "steam": "23200"
@@ -74,6 +80,7 @@
   "enwiki": "College Hoops 2K6",
   "ids": {
    "igdb": "college-hoops-2k6",
+   "metacritic": "college-hoops-2k6",
    "mobygames": "30774"
   },
   "label_en": "College Hoops 2K6",
@@ -146,6 +153,7 @@
   "ids": {
    "howlongtobeat": "18230",
    "igdb": "pixeljunk-nom-nom-galaxy",
+   "metacritic": "nom-nom-galaxy",
    "mobygames": "85959",
    "pcgamingwiki": "PixelJunk_Nom_Nom_Galaxy",
    "steam": "226100"
@@ -157,6 +165,7 @@
   "ids": {
    "howlongtobeat": "83726",
    "igdb": "iwaihime",
+   "metacritic": "iwaihime",
    "mobygames": "177566",
    "pcgamingwiki": "Iwaihime",
    "steam": "1372300"
@@ -198,6 +207,7 @@
    "epic": "omen-of-sorrow",
    "howlongtobeat": "62263",
    "igdb": "omen-of-sorrow",
+   "metacritic": "omen-of-sorrow",
    "mobygames": "116189",
    "pcgamingwiki": "Omen_of_Sorrow",
    "steam": "457260"
@@ -319,6 +329,7 @@
   "ids": {
    "howlongtobeat": "30806",
    "igdb": "masochisia",
+   "metacritic": "masochisia",
    "mobygames": "83118",
    "pcgamingwiki": "Masochisia",
    "steam": "396310"
@@ -648,6 +659,7 @@
    "gog": "game/critter_crops",
    "howlongtobeat": "154460",
    "igdb": "critter-crops",
+   "metacritic": "critter-crops",
    "pcgamingwiki": "Critter_Crops",
    "steam": "1641120"
   },
@@ -804,6 +816,7 @@
   "ids": {
    "howlongtobeat": "158891",
    "igdb": "isle-of-swaps--1",
+   "metacritic": "isle-of-swaps",
    "mobygames": "237112",
    "steam": "2294160"
   },
@@ -813,7 +826,8 @@
  {
   "enwiki": "Love and Deepspace",
   "ids": {
-   "igdb": "love-and-deepspace"
+   "igdb": "love-and-deepspace",
+   "metacritic": "love-and-deepspace"
   },
   "label_en": "Love and Deepspace",
   "wikidata": "Q130616446"
@@ -1068,6 +1082,7 @@
   "ids": {
    "gog": "game/theocracy",
    "igdb": "theocracy--1",
+   "pcgamingwiki": "Theocracy_(2022)",
    "steam": "2195530"
   },
   "label_en": "Theocracy",

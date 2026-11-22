@@ -3,6 +3,7 @@
   "enwiki": "Yie Ar Kung-Fu",
   "ids": {
    "igdb": "yie-ar-kung-fu",
+   "metacritic": "yie-ar-kung-fu",
    "mobygames": "13732"
   },
   "label_en": "Yie Ar Kung-Fu",
@@ -42,6 +43,7 @@
   "ids": {
    "howlongtobeat": "1891",
    "igdb": "confrontation",
+   "metacritic": "confrontation",
    "mobygames": "56015",
    "pcgamingwiki": "Confrontation",
    "steam": "204560"
@@ -70,6 +72,7 @@
  {
   "ids": {
    "igdb": "metal-gear-solid-vr-missions",
+   "metacritic": "metal-gear-solid",
    "mobygames": "3783"
   },
   "label_en": "Metal Gear Solid: VR Missions",
@@ -135,6 +138,7 @@
    "gog": "game/heretic_kingdoms_the_inquisition",
    "howlongtobeat": "13935",
    "igdb": "kult-heretic-kingdoms",
+   "metacritic": "heretic-kingdoms-the-inquisition",
    "mobygames": "15291",
    "pcgamingwiki": "Heretic_Kingdoms:_The_Inquisition",
    "steam": "277650"
@@ -163,6 +167,7 @@
   "enwiki": "Purge (video game)",
   "ids": {
    "igdb": "purge",
+   "metacritic": "purge",
    "mobygames": "42680",
    "pcgamingwiki": "Purge"
   },
@@ -227,6 +232,7 @@
    "gog": "game/the_vanishing_of_ethan_carter",
    "howlongtobeat": "21142",
    "igdb": "the-vanishing-of-ethan-carter",
+   "metacritic": "the-vanishing-of-ethan-carter",
    "mobygames": "68666",
    "pcgamingwiki": "The_Vanishing_of_Ethan_Carter",
    "steam": "258520"
@@ -278,6 +284,7 @@
   "ids": {
    "howlongtobeat": "3432",
    "igdb": "fester-mudd-curse-of-the-gold",
+   "metacritic": "fester-mudd-curse-of-the-gold-episode-1",
    "mobygames": "80490",
    "pcgamingwiki": "Fester_Mudd:_Curse_of_the_Gold_-_Episode_1",
    "steam": "253310"
@@ -290,6 +297,7 @@
   "ids": {
    "howlongtobeat": "20877",
    "igdb": "heroes-of-dragon-age",
+   "metacritic": "heroes-of-dragon-age",
    "mobygames": "71189"
   },
   "label_en": "Heroes of Dragon Age",
@@ -439,6 +447,7 @@
  {
   "ids": {
    "igdb": "eclipse-edge-of-light",
+   "metacritic": "eclipse-edge-of-light",
    "pcgamingwiki": "Eclipse:_Edge_of_Light",
    "steam": "406710"
   },
@@ -1053,6 +1062,7 @@
   "enwiki": "The Incident at Galley House",
   "ids": {
    "igdb": "the-incident-at-galley-house",
+   "metacritic": "the-incident-at-galley-house",
    "pcgamingwiki": "The_Incident_at_Galley_House",
    "steam": "3641000"
   },

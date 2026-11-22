@@ -13,6 +13,7 @@
   "enwiki": "Need for Speed: ProStreet",
   "ids": {
    "igdb": "need-for-speed-prostreet",
+   "metacritic": "need-for-speed-prostreet",
    "mobygames": "31242",
    "pcgamingwiki": "Need_for_Speed:_ProStreet"
   },
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "9270",
    "igdb": "strikers-1945",
+   "metacritic": "strikers-1945",
    "mobygames": "33453",
    "pcgamingwiki": "Strikers_1945",
    "steam": "1261960"
@@ -90,6 +92,7 @@
  },
  {
   "ids": {
+   "metacritic": "finding-nemo-escape-to-the-big-blue",
    "mobygames": "22522"
   },
   "label_en": "Finding Nemo: Escape to the Big Blue",
@@ -142,6 +145,7 @@
   "enwiki": "Arkadian Warriors",
   "ids": {
    "igdb": "arkadian-warriors",
+   "metacritic": "arkadian-warriors",
    "mobygames": "32945"
   },
   "label_en": "Arkadian Warriors",
@@ -211,6 +215,7 @@
   "ids": {
    "howlongtobeat": "18239",
    "igdb": "take-on-mars",
+   "metacritic": "take-on-mars",
    "mobygames": "63059",
    "pcgamingwiki": "Take_On_Mars",
    "steam": "244030"
@@ -223,6 +228,7 @@
   "ids": {
    "howlongtobeat": "14467",
    "igdb": "blood-knights",
+   "metacritic": "blood-knights",
    "mobygames": "71179",
    "pcgamingwiki": "Blood_Knights",
    "steam": "258220"
@@ -244,6 +250,7 @@
    "gog": "game/the_swindle",
    "howlongtobeat": "28542",
    "igdb": "the-swindle",
+   "metacritic": "the-swindle",
    "mobygames": "76357",
    "pcgamingwiki": "The_Swindle",
    "steam": "369110"
@@ -319,6 +326,7 @@
   "enwiki": "NCAA GameBreaker 2004",
   "ids": {
    "igdb": "ncaa-gamebreaker-2004",
+   "metacritic": "ncaa-gamebreaker-2004",
    "mobygames": "69954"
   },
   "label_en": "NCAA GameBreaker 2004",
@@ -328,6 +336,7 @@
   "ids": {
    "howlongtobeat": "30490",
    "igdb": "solar-shifter-ex",
+   "metacritic": "solar-shifter-ex",
    "mobygames": "82304",
    "pcgamingwiki": "Solar_Shifter_EX",
    "steam": "363940"
@@ -511,6 +520,7 @@
    "howlongtobeat": "81949",
    "igdb": "grey-skies-a-war-of-the-worlds-story",
    "mobygames": "153116",
+   "pcgamingwiki": "Grey_Skies:_A_War_of_the_Worlds_Story",
    "steam": "1283770"
   },
   "label_en": "Grey Skies: A War of the Worlds Story",

@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "5338",
    "igdb": "littlebigplanet-ps-vita",
+   "metacritic": "littlebigplanet-ps-vita",
    "mobygames": "74634"
   },
   "label_en": "LittleBigPlanet PS Vita",
@@ -34,6 +35,7 @@
    "gog": "game/broken_age",
    "howlongtobeat": "26791",
    "igdb": "broken-age",
+   "metacritic": "broken-age",
    "mobygames": "64596",
    "pcgamingwiki": "Broken_Age",
    "steam": "232790"
@@ -55,6 +57,7 @@
   "ids": {
    "howlongtobeat": "2922",
    "igdb": "duke-nukem-64",
+   "metacritic": "duke-nukem-64",
    "mobygames": "3677"
   },
   "label_en": "Duke Nukem 64",
@@ -95,6 +98,7 @@
   "ids": {
    "howlongtobeat": "4854",
    "igdb": "joe-danger-2-the-movie",
+   "metacritic": "joe-danger-2-the-movie",
    "mobygames": "62738",
    "pcgamingwiki": "Joe_Danger_2:_The_Movie",
    "steam": "242110"
@@ -168,6 +172,7 @@
   "ids": {
    "howlongtobeat": "8220",
    "igdb": "section-8-prejudice",
+   "metacritic": "section-8-prejudice",
    "mobygames": "52194",
    "pcgamingwiki": "Section_8:_Prejudice",
    "steam": "97100"
@@ -180,6 +185,7 @@
   "ids": {
    "howlongtobeat": "10296",
    "igdb": "they-bleed-pixels",
+   "metacritic": "they-bleed-pixels",
    "mobygames": "61187",
    "pcgamingwiki": "They_Bleed_Pixels",
    "steam": "211260"
@@ -228,6 +234,7 @@
   "enwiki": "Peggle 2",
   "ids": {
    "igdb": "peggle-2",
+   "metacritic": "peggle-2",
    "mobygames": "86525"
   },
   "label_en": "Peggle 2",
@@ -238,6 +245,7 @@
   "ids": {
    "howlongtobeat": "47291",
    "igdb": "kung-fu-panda-showdown-of-legendary-legends",
+   "metacritic": "dreamworks-kung-fu-panda-showdown-of-legendary-legends",
    "mobygames": "91297",
    "pcgamingwiki": "Kung_Fu_Panda:_Showdown_of_Legendary_Legends",
    "steam": "369230"
@@ -280,6 +288,7 @@
    "gog": "game/turmoil",
    "howlongtobeat": "10700",
    "igdb": "turmoil--1",
+   "metacritic": "turmoil",
    "mobygames": "103174",
    "pcgamingwiki": "Turmoil",
    "steam": "361280"
@@ -293,6 +302,7 @@
    "gog": "game/doom_eternal",
    "howlongtobeat": "57506",
    "igdb": "doom-eternal",
+   "metacritic": "doom-eternal",
    "mobygames": "143581",
    "pcgamingwiki": "Doom_Eternal",
    "steam": "782330"
@@ -305,6 +315,7 @@
   "ids": {
    "howlongtobeat": "54136",
    "igdb": "bravo-team",
+   "metacritic": "bravo-team",
    "mobygames": "104796"
   },
   "label_en": "Bravo Team",
@@ -324,6 +335,7 @@
   "ids": {
    "howlongtobeat": "62328",
    "igdb": "save-me-mr-tako-tasukete-tako-san",
+   "metacritic": "save-me-mr-tako-tasukete-tako-san",
    "pcgamingwiki": "Save_me_Mr_Tako:_Tasukete_Tako-San"
   },
   "label_en": "Save me Mr Tako: Tasukete Tako-San",
@@ -355,6 +367,7 @@
    "epic": "among-us",
    "howlongtobeat": "74207",
    "igdb": "among-us",
+   "metacritic": "among-us",
    "mobygames": "149316",
    "pcgamingwiki": "Among_Us",
    "steam": "945360"
@@ -372,6 +385,7 @@
    "epic": "avatar-frontiers-of-pandora",
    "howlongtobeat": "93907",
    "igdb": "avatar-frontiers-of-pandora",
+   "metacritic": "avatar-frontiers-of-pandora",
    "mobygames": "213552",
    "pcgamingwiki": "Avatar:_Frontiers_of_Pandora",
    "steam": "2840770"
@@ -388,6 +402,7 @@
   "ids": {
    "howlongtobeat": "96090",
    "igdb": "police-simulator-patrol-officers",
+   "metacritic": "police-simulator-patrol-officers",
    "mobygames": "195136",
    "pcgamingwiki": "Police_Simulator_Patrol_Officers",
    "steam": "997010"
@@ -459,6 +474,7 @@
   "ids": {
    "howlongtobeat": "49526",
    "igdb": "trivia-vault-1980-s-trivia",
+   "metacritic": "trivia-vault-1980s-trivia",
    "pcgamingwiki": "Trivia_Vault:_1980's_Trivia",
    "steam": "689180"
   },
@@ -492,6 +508,7 @@
   "ids": {
    "howlongtobeat": "57143",
    "igdb": "golem-gates",
+   "metacritic": "golem-gates",
    "mobygames": "106224",
    "pcgamingwiki": "Golem_Gates",
    "steam": "575970"
@@ -503,6 +520,8 @@
   "ids": {
    "howlongtobeat": "169412",
    "igdb": "mudang-two-hearts",
+   "metacritic": "mudang-two-hearts",
+   "pcgamingwiki": "Mudang:_Two_Hearts",
    "steam": "2889030"
   },
   "label_en": "Mudang: Two Hearts",
@@ -526,6 +545,7 @@
    "gog": "game/planescape_torment_enhanced_edition",
    "howlongtobeat": "7093",
    "igdb": "planescape-torment-enhanced-edition",
+   "metacritic": "planescape-torment-enhanced-edition",
    "mobygames": "86794",
    "pcgamingwiki": "Planescape:_Torment_Enhanced_Edition",
    "steam": "466300"
@@ -903,7 +923,8 @@
  },
  {
   "ids": {
-   "igdb": "6-hand-video-poker"
+   "igdb": "6-hand-video-poker",
+   "metacritic": "6-hand-video-poker"
   },
   "label_en": "6-Hand Video Poker",
   "wikidata": "Q125371649"
@@ -913,6 +934,7 @@
   "ids": {
    "howlongtobeat": "143594",
    "igdb": "summerhouse",
+   "metacritic": "summerhouse",
    "mobygames": "219236",
    "pcgamingwiki": "SUMMERHOUSE",
    "steam": "2533960"
@@ -1205,6 +1227,7 @@
  {
   "ids": {
    "igdb": "xenociders",
+   "pcgamingwiki": "Xenociders",
    "steam": "1146920"
   },
   "label_en": "Xenociders",

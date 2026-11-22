@@ -32,6 +32,7 @@
  },
  {
   "ids": {
+   "metacritic": "trains-and-trucks-tycoon",
    "mobygames": "42398"
   },
   "label_en": "Trains & Trucks Tycoon",
@@ -64,6 +65,7 @@
   "enwiki": "Space Force: Rogue Universe",
   "ids": {
    "igdb": "spaceforce-rogue-universe",
+   "metacritic": "spaceforce-rogue-universe",
    "mobygames": "44252",
    "pcgamingwiki": "Spaceforce:_Rogue_Universe",
    "steam": "372480"
@@ -76,6 +78,7 @@
   "ids": {
    "howlongtobeat": "1531",
    "igdb": "cargo-the-quest-for-gravity",
+   "metacritic": "cargo-the-quest-for-gravity",
    "mobygames": "51273",
    "pcgamingwiki": "Cargo!_The_Quest_for_Gravity",
    "steam": "41740"
@@ -87,6 +90,7 @@
   "enwiki": "Gormiti: The Lords of Nature",
   "ids": {
    "igdb": "gormiti-the-lords-of-nature",
+   "metacritic": "gormiti-the-lords-of-nature",
    "mobygames": "80233"
   },
   "label_en": "Gormiti: The Lords of Nature",
@@ -177,6 +181,7 @@
   "ids": {
    "howlongtobeat": "10714",
    "igdb": "twin-sector",
+   "metacritic": "twin-sector",
    "mobygames": "42285",
    "pcgamingwiki": "Twin_Sector",
    "steam": "27900"
@@ -224,6 +229,7 @@
    "gog": "game/iron_harvest",
    "howlongtobeat": "54336",
    "igdb": "iron-harvest",
+   "metacritic": "iron-harvest",
    "mobygames": "150054",
    "pcgamingwiki": "Iron_Harvest",
    "steam": "826630"
@@ -347,6 +353,7 @@
   "ids": {
    "howlongtobeat": "53744",
    "igdb": "hidden-dragon-legend",
+   "metacritic": "hidden-dragon-legend",
    "mobygames": "96122",
    "pcgamingwiki": "Hidden_Dragon:_Legend",
    "steam": "680390"
@@ -367,6 +374,7 @@
   "ids": {
    "howlongtobeat": "68660",
    "igdb": "monster-energy-supercross-the-official-videogame-2",
+   "metacritic": "monster-energy-supercross-the-official-videogame-2",
    "mobygames": "120423",
    "pcgamingwiki": "Monster_Energy_Supercross_2",
    "steam": "882020"
@@ -458,6 +466,7 @@
   "ids": {
    "howlongtobeat": "96238",
    "igdb": "bears-restaurant",
+   "metacritic": "bears-restaurant",
    "mobygames": "166467",
    "steam": "1687550"
   },
@@ -505,6 +514,7 @@
    "epic": "bud-spencer-and-terence-hill-slaps-and-beans-2-faab3a",
    "howlongtobeat": "138192",
    "igdb": "bud-spencer-and-terence-hill-slaps-and-beans-2",
+   "metacritic": "bud-spencer-and-terence-hill-slaps-and-beans-2",
    "mobygames": "210192",
    "pcgamingwiki": "Bud_Spencer_&_Terence_Hill:_Slaps_and_Beans_2",
    "steam": "2142330"
@@ -707,6 +717,7 @@
   "ids": {
    "howlongtobeat": "7766",
    "igdb": "return-to-castle-wolfenstein-tides-of-war",
+   "metacritic": "return-to-castle-wolfenstein",
    "mobygames": "9168"
   },
   "label_en": "Return to Castle Wolfenstein: Tides of War",

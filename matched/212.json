@@ -12,6 +12,7 @@
   "ids": {
    "howlongtobeat": "8949",
    "igdb": "spider-man-shattered-dimensions",
+   "metacritic": "spider-man-shattered-dimensions",
    "mobygames": "48519",
    "pcgamingwiki": "Spider-Man:_Shattered_Dimensions",
    "steam": "231990"
@@ -49,6 +50,7 @@
    "gog": "game/ai_war_fleet_command",
    "howlongtobeat": "288",
    "igdb": "ai-war-fleet-command",
+   "metacritic": "ai-war-fleet-command",
    "mobygames": "48278",
    "pcgamingwiki": "AI_War:_Fleet_Command",
    "steam": "40400"
@@ -70,6 +72,7 @@
   "enwiki": "NBA 2K3",
   "ids": {
    "igdb": "nba-2k3",
+   "metacritic": "nba-2k3",
    "mobygames": "7385"
   },
   "label_en": "NBA 2K3",
@@ -169,6 +172,7 @@
    "gog": "game/this_war_of_mine",
    "howlongtobeat": "22658",
    "igdb": "this-war-of-mine",
+   "metacritic": "this-war-of-mine",
    "mobygames": "70551",
    "pcgamingwiki": "This_War_of_Mine",
    "steam": "282070"
@@ -180,6 +184,7 @@
   "enwiki": "Star Fox Guard",
   "ids": {
    "igdb": "star-fox-guard",
+   "metacritic": "star-fox-guard",
    "mobygames": "86187"
   },
   "label_en": "Star Fox Guard",
@@ -194,6 +199,7 @@
   "ids": {
    "howlongtobeat": "131989",
    "igdb": "ghostbusters--1",
+   "metacritic": "ghostbusters",
    "mobygames": "80336",
    "pcgamingwiki": "Ghostbusters_(2016)",
    "steam": "425310"
@@ -205,6 +211,7 @@
   "ids": {
    "howlongtobeat": "21754",
    "igdb": "zombeer",
+   "metacritic": "zombeer",
    "mobygames": "76491",
    "pcgamingwiki": "Zombeer",
    "steam": "262190"
@@ -261,6 +268,7 @@
    "gog": "game/the_sojourn",
    "howlongtobeat": "69318",
    "igdb": "the-sojourn",
+   "metacritic": "the-sojourn",
    "mobygames": "134960",
    "pcgamingwiki": "The_Sojourn",
    "steam": "794960"
@@ -281,6 +289,7 @@
  {
   "ids": {
    "igdb": "yukis-tale",
+   "metacritic": "yukis-tale",
    "mobygames": "157206",
    "steam": "1023260"
   },
@@ -305,6 +314,7 @@
    "gog": "game/neon_abyss",
    "howlongtobeat": "77366",
    "igdb": "neon-abyss",
+   "metacritic": "neon-abyss",
    "mobygames": "147791",
    "pcgamingwiki": "Neon_Abyss",
    "steam": "788100"
@@ -333,6 +343,7 @@
    "gog": "game/stonefly",
    "howlongtobeat": "91929",
    "igdb": "stonefly",
+   "metacritic": "stonefly",
    "mobygames": "165756",
    "pcgamingwiki": "Stonefly",
    "steam": "1198590"
@@ -353,6 +364,7 @@
   "ids": {
    "howlongtobeat": "95927",
    "igdb": "dead-space--1",
+   "metacritic": "dead-space",
    "mobygames": "198508",
    "pcgamingwiki": "Dead_Space_(remake)",
    "steam": "1693980"
@@ -560,6 +572,7 @@
   "ids": {
    "howlongtobeat": "77863",
    "igdb": "follia-dear-father",
+   "metacritic": "follia-dear-father",
    "mobygames": "214517",
    "pcgamingwiki": "Follia_-_Dear_father",
    "steam": "434190"
@@ -668,6 +681,7 @@
    "epic": "time-flies-d2d42a",
    "howlongtobeat": "109127",
    "igdb": "time-flies",
+   "metacritic": "time-flies",
    "mobygames": "113675",
    "pcgamingwiki": "Time_Flies",
    "steam": "2000120"
@@ -779,6 +793,7 @@
  {
   "ids": {
    "igdb": "my-jurassic-farm-2018",
+   "metacritic": "my-jurassic-farm-2018",
    "mobygames": "148673"
   },
   "label_en": "My Jurassic Farm 2018",
@@ -1139,6 +1154,7 @@
  {
   "ids": {
    "igdb": "solitaire--1",
+   "pcgamingwiki": "Solitaire_(baKno_Games)",
    "steam": "748540"
   },
   "label_en": "Solitaire",
@@ -1146,6 +1162,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Shift_At_Midnight",
    "steam": "3722330"
   },
   "label_en": "Shift at Midnight",

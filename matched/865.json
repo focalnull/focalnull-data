@@ -5,6 +5,7 @@
    "gog": "game/star_wars_battlefront_ii",
    "howlongtobeat": "9098",
    "igdb": "star-wars-battlefront-ii",
+   "metacritic": "star-wars-battlefront-ii-2005",
    "mobygames": "21218",
    "pcgamingwiki": "Star_Wars:_Battlefront_II",
    "steam": "6060"
@@ -18,6 +19,7 @@
    "gog": "game/fate",
    "howlongtobeat": "3413",
    "igdb": "fate",
+   "metacritic": "fate",
    "mobygames": "22176",
    "pcgamingwiki": "FATE",
    "steam": "246840"
@@ -32,6 +34,7 @@
    "gog": "game/far_cry",
    "howlongtobeat": "3376",
    "igdb": "far-cry",
+   "metacritic": "far-cry",
    "mobygames": "12534",
    "pcgamingwiki": "Far_Cry",
    "steam": "13520"
@@ -54,6 +57,7 @@
    "gog": "game/zeus_poseidon",
    "howlongtobeat": "11562",
    "igdb": "zeus-master-of-olympus",
+   "metacritic": "zeus-master-of-olympus",
    "mobygames": "2640",
    "pcgamingwiki": "Zeus:_Master_of_Olympus",
    "steam": "566050"
@@ -88,6 +92,7 @@
   "enwiki": "Dragon Quest VII",
   "ids": {
    "igdb": "dragon-warrior-vii",
+   "metacritic": "dragon-warrior-vii",
    "mobygames": "5640"
   },
   "label_en": "Dragon Quest VII",
@@ -119,6 +124,7 @@
   "ids": {
    "howlongtobeat": "14107",
    "igdb": "cel-damage",
+   "metacritic": "cel-damage",
    "mobygames": "5644"
   },
   "label_en": "Cel Damage",
@@ -138,6 +144,7 @@
   "ids": {
    "howlongtobeat": "13944",
    "igdb": "check-vs-mate",
+   "metacritic": "check-vs-mate",
    "mobygames": "69569",
    "pcgamingwiki": "Battle_vs._Chess",
    "steam": "211070"
@@ -209,6 +216,7 @@
   "enwiki": "Pinball Hall of Fame: The Williams Collection",
   "ids": {
    "igdb": "pinball-hall-of-fame-the-williams-collection",
+   "metacritic": "pinball-hall-of-fame-the-williams-collection",
    "mobygames": "33931"
   },
   "label_en": "Pinball Hall of Fame: The Williams Collection",
@@ -218,6 +226,7 @@
   "enwiki": "Rage of the Gladiator",
   "ids": {
    "igdb": "rage-of-the-gladiator",
+   "metacritic": "rage-of-the-gladiator",
    "mobygames": "61996"
   },
   "label_en": "Rage of the Gladiator",
@@ -261,6 +270,7 @@
   "enwiki": "Midway Arcade Treasures: Extended Play",
   "ids": {
    "igdb": "midway-arcade-treasures-extended-play",
+   "metacritic": "midway-arcade-treasures-extended-play",
    "mobygames": "21545"
   },
   "label_en": "Midway Arcade Treasures: Extended Play",
@@ -273,6 +283,7 @@
    "gog": "game/read_only_memories",
    "howlongtobeat": "29142",
    "igdb": "2064-read-only-memories",
+   "metacritic": "2064-read-only-memories",
    "mobygames": "82321",
    "pcgamingwiki": "2064:_Read_Only_Memories",
    "steam": "330820"
@@ -294,6 +305,7 @@
   "enwiki": "Pac-Man and the Ghostly Adventures 2",
   "ids": {
    "igdb": "pac-man-and-the-ghostly-adventures-2",
+   "metacritic": "pac-man-and-the-ghostly-adventures-2",
    "mobygames": "74233"
   },
   "label_en": "Pac-Man and the Ghostly Adventures 2",
@@ -323,6 +335,7 @@
    "epic": "albion-online-7eb24d",
    "howlongtobeat": "57052",
    "igdb": "albion-online",
+   "metacritic": "albion-online",
    "mobygames": "108529",
    "pcgamingwiki": "Albion_Online",
    "steam": "761890"
@@ -335,6 +348,7 @@
   "ids": {
    "howlongtobeat": "40388",
    "igdb": "thoth",
+   "metacritic": "thoth",
    "mobygames": "81178",
    "pcgamingwiki": "Thoth",
    "steam": "510620"
@@ -374,6 +388,7 @@
    "gog": "game/blazing_beaks",
    "howlongtobeat": "52479",
    "igdb": "blazing-beaks",
+   "metacritic": "blazing-beaks",
    "mobygames": "126555",
    "pcgamingwiki": "Blazing_Beaks",
    "steam": "585710"
@@ -397,6 +412,7 @@
    "gog": "game/moero_chronicle",
    "howlongtobeat": "66712",
    "igdb": "moero-chronicle-hyper",
+   "metacritic": "moero-chronicle",
    "mobygames": "94568",
    "pcgamingwiki": "Moero_Chronicle",
    "steam": "638160"
@@ -462,6 +478,7 @@
    "gog": "game/imp_of_the_sun",
    "howlongtobeat": "106015",
    "igdb": "imp-of-the-sun",
+   "metacritic": "imp-of-the-sun",
    "mobygames": "183354",
    "pcgamingwiki": "Imp_of_the_Sun",
    "steam": "1535780"
@@ -524,6 +541,7 @@
    "gog": "game/paquerette_down_the_bunburrows",
    "howlongtobeat": "132419",
    "igdb": "paquerette-down-the-bunburrows",
+   "metacritic": "paquerette-down-the-bunburrows",
    "mobygames": "206794",
    "steam": "1628610"
   },
@@ -536,6 +554,7 @@
    "gog": "game/riven",
    "howlongtobeat": "147284",
    "igdb": "riven",
+   "metacritic": "riven",
    "mobygames": "226944",
    "pcgamingwiki": "Riven_(2024)",
    "steam": "1712350"
@@ -611,6 +630,7 @@
  {
   "ids": {
    "igdb": "kids-on-site-hard-hat-edition",
+   "pcgamingwiki": "Kids_On_Site:_Hard_Hat_Edition",
    "steam": "1955700"
   },
   "label_en": "Kids On Site - Hard Hat Edition",
@@ -831,6 +851,7 @@
   "ids": {
    "howlongtobeat": "129812",
    "igdb": "saltsea-chronicles",
+   "metacritic": "saltsea-chronicles",
    "mobygames": "212313",
    "steam": "1419620"
   },
@@ -965,6 +986,7 @@
  {
   "ids": {
    "igdb": "cutie-pets-pick-berries",
+   "metacritic": "cutie-pets-pick-berries",
    "mobygames": "101102"
   },
   "label_en": "Cutie Pets Pick Berries",
@@ -1389,7 +1411,8 @@
  },
  {
   "ids": {
-   "howlongtobeat": "172339"
+   "howlongtobeat": "172339",
+   "metacritic": "woochi-the-wayfarer"
   },
   "label_en": "Woochi the Wayfarer",
   "wikidata": "Q135725865"
@@ -1407,5 +1430,9 @@
   },
   "label_en": "Suri: The Seventh Note",
   "wikidata": "Q141620865"
+ },
+ {
+  "label_en": "Mabel's Doodleblaster",
+  "wikidata": "Q142227865"
  }
 ]

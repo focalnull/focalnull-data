@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3260",
    "igdb": "excite-truck",
+   "metacritic": "excite-truck",
    "mobygames": "25122"
   },
   "label_en": "Excite Truck",
@@ -59,6 +60,7 @@
   "ids": {
    "howlongtobeat": "3179",
    "igdb": "eternal-darkness-sanity-s-requiem",
+   "metacritic": "eternal-darkness-sanitys-requiem",
    "mobygames": "6825"
   },
   "label_en": "Eternal Darkness: Sanity's Requiem",
@@ -68,6 +70,7 @@
   "enwiki": "Galaga: Destination Earth",
   "ids": {
    "igdb": "galaga-destination-earth",
+   "metacritic": "galaga-destination-earth",
    "mobygames": "4340"
   },
   "label_en": "Galaga: Destination Earth",
@@ -77,6 +80,7 @@
   "enwiki": "Ben 10: Protector of Earth",
   "ids": {
    "igdb": "ben-10-protector-of-earth",
+   "metacritic": "ben-10-protector-of-earth",
    "mobygames": "30965"
   },
   "label_en": "Ben 10: Protector of Earth",
@@ -95,6 +99,7 @@
   "enwiki": "In the Groove (video game)",
   "ids": {
    "igdb": "in-the-groove",
+   "metacritic": "in-the-groove",
    "mobygames": "75204"
   },
   "label_en": "In the Groove",
@@ -160,6 +165,7 @@
   "ids": {
    "howlongtobeat": "7149",
    "igdb": "pokemon-dream-radar",
+   "metacritic": "pokemon-dream-radar",
    "mobygames": "60780"
   },
   "label_en": "Pokémon Dream Radar",
@@ -190,6 +196,7 @@
    "gog": "game/octodad_dadliest_catch",
    "howlongtobeat": "16380",
    "igdb": "octodad-dadliest-catch",
+   "metacritic": "octodad-dadliest-catch",
    "mobygames": "65282",
    "pcgamingwiki": "Octodad:_Dadliest_Catch",
    "steam": "224480"
@@ -210,6 +217,7 @@
   "ids": {
    "howlongtobeat": "22540",
    "igdb": "halo-spartan-strike",
+   "metacritic": "halo-spartan-strike",
    "mobygames": "73371",
    "pcgamingwiki": "Halo:_Spartan_Strike",
    "steam": "324570"
@@ -237,6 +245,7 @@
   "ids": {
    "howlongtobeat": "156049",
    "igdb": "mojika-truth-rears-its-ugly-head",
+   "metacritic": "mojika-truth-rears-its-ugly-head",
    "mobygames": "239846",
    "pcgamingwiki": "Mojika:_Truth_Rears_Its_Ugly_Head",
    "steam": "2697560"
@@ -256,6 +265,7 @@
    "gog": "game/hakuoki_edo_blossoms",
    "howlongtobeat": "52263",
    "igdb": "hakuoki-edo-blossoms",
+   "metacritic": "hakuoki-edo-blossoms",
    "mobygames": "105260",
    "pcgamingwiki": "Hakuoki:_Edo_Blossoms",
    "steam": "733340"
@@ -270,6 +280,7 @@
    "gog": "game/workers_resources_soviet_republic",
    "howlongtobeat": "65683",
    "igdb": "workers-and-resources-soviet-republic",
+   "metacritic": "workers-and-resources-soviet-republic",
    "mobygames": "121951",
    "pcgamingwiki": "Workers_&_Resources:_Soviet_Republic",
    "steam": "784150"
@@ -282,6 +293,7 @@
   "ids": {
    "howlongtobeat": "67480",
    "igdb": "wolfenstein-cyberpilot",
+   "metacritic": "wolfenstein-cyberpilot",
    "mobygames": "130646",
    "pcgamingwiki": "Wolfenstein:_Cyberpilot",
    "steam": "1056970"
@@ -305,6 +317,7 @@
   "ids": {
    "howlongtobeat": "40597",
    "igdb": "burly-men-at-sea",
+   "metacritic": "burly-men-at-sea",
    "mobygames": "82217",
    "pcgamingwiki": "Burly_Men_at_Sea",
    "steam": "403290"
@@ -314,6 +327,7 @@
  },
  {
   "ids": {
+   "metacritic": "coaster-crazy-deluxe",
    "mobygames": "96935"
   },
   "label_en": "Coaster Crazy: Deluxe",
@@ -339,6 +353,7 @@
   "ids": {
    "howlongtobeat": "69442",
    "igdb": "sonic-generations--1",
+   "metacritic": "sonic-generations",
    "mobygames": "59514"
   },
   "label_en": "Sonic Generations",
@@ -357,6 +372,7 @@
    "gog": "game/haven_park",
    "howlongtobeat": "90011",
    "igdb": "haven-park",
+   "metacritic": "haven-park",
    "mobygames": "168408",
    "pcgamingwiki": "Haven_Park",
    "steam": "1549550"
@@ -368,6 +384,7 @@
   "ids": {
    "howlongtobeat": "49471",
    "igdb": "a-second-before-us",
+   "metacritic": "a-second-before-us",
    "mobygames": "155650",
    "pcgamingwiki": "A_Second_Before_Us",
    "steam": "625370"
@@ -1278,6 +1295,7 @@
  {
   "ids": {
    "igdb": "positron",
+   "pcgamingwiki": "Positron",
    "steam": "374780"
   },
   "label_en": "Positron",

@@ -16,6 +16,7 @@
    "gog": "game/metal_slug_3",
    "howlongtobeat": "5932",
    "igdb": "metal-slug-3",
+   "metacritic": "metal-slug-3",
    "mobygames": "14043",
    "pcgamingwiki": "Metal_Slug_3",
    "steam": "250180"
@@ -84,6 +85,7 @@
   "ids": {
    "howlongtobeat": "1896",
    "igdb": "conker-live-reloaded",
+   "metacritic": "conker-live-and-reloaded",
    "mobygames": "20664",
    "pcgamingwiki": "Conker:_Live_and_Reloaded"
   },
@@ -94,6 +96,7 @@
   "enwiki": "Dragon Ball GT: Transformation",
   "ids": {
    "igdb": "dragon-ball-gt-transformation",
+   "metacritic": "dragon-ball-gt-transformation",
    "mobygames": "22418"
   },
   "label_en": "Dragon Ball GT: Transformation",
@@ -105,6 +108,7 @@
    "gog": "game/final_fantasy_iv_3d_remake",
    "howlongtobeat": "3500",
    "igdb": "final-fantasy-iv",
+   "metacritic": "final-fantasy-iv-3d-remake",
    "mobygames": "36654",
    "pcgamingwiki": "Final_Fantasy_IV",
    "steam": "312750"
@@ -116,6 +120,7 @@
   "enwiki": "James Cameron's Dark Angel",
   "ids": {
    "igdb": "james-camerons-dark-angel",
+   "metacritic": "dark-angel-2002",
    "mobygames": "8815"
   },
   "label_en": "Dark Angel",
@@ -124,6 +129,7 @@
  {
   "ids": {
    "igdb": "kyotokei",
+   "metacritic": "kyotokei",
    "mobygames": "91404"
   },
   "label_en": "Kyotokei",
@@ -184,6 +190,7 @@
   "enwiki": "Operation Blockade",
   "ids": {
    "igdb": "operation-blockade",
+   "metacritic": "operation-blockade",
    "mobygames": "6407",
    "pcgamingwiki": "Operation_Blockade"
   },
@@ -255,6 +262,7 @@
    "gog": "game/kero_blaster",
    "howlongtobeat": "18569",
    "igdb": "kero-blaster",
+   "metacritic": "kero-blaster",
    "mobygames": "80595",
    "pcgamingwiki": "Kero_Blaster",
    "steam": "292500"
@@ -285,6 +293,7 @@
    "gog": "game/antihero",
    "howlongtobeat": "47267",
    "igdb": "antihero",
+   "metacritic": "antihero",
    "mobygames": "92434",
    "pcgamingwiki": "Antihero",
    "steam": "505640"
@@ -298,6 +307,7 @@
    "gog": "game/serious_sams_bogus_detour",
    "howlongtobeat": "46750",
    "igdb": "serious-sams-bogus-detour",
+   "metacritic": "serious-sams-bogus-detour",
    "mobygames": "90928",
    "pcgamingwiki": "Serious_Sam's_Bogus_Detour",
    "steam": "272620"
@@ -316,6 +326,7 @@
   "ids": {
    "howlongtobeat": "46799",
    "igdb": "serious-sam-vr-the-second-encounter",
+   "metacritic": "serious-sam-vr-the-second-encounter",
    "mobygames": "86444",
    "pcgamingwiki": "Serious_Sam_VR:_The_Second_Encounter",
    "steam": "552460"
@@ -340,6 +351,7 @@
    "gog": "game/chronology",
    "howlongtobeat": "19784",
    "igdb": "chronology",
+   "metacritic": "chronology",
    "mobygames": "80158",
    "pcgamingwiki": "Chronology",
    "steam": "269330"
@@ -364,6 +376,7 @@
    "epic": "override-2-super-mech-league",
    "howlongtobeat": "90767",
    "igdb": "override-2-super-mech-league",
+   "metacritic": "override-2-super-mech-league",
    "mobygames": "155959",
    "pcgamingwiki": "Override_2:_Super_Mech_League",
    "steam": "1329790"
@@ -391,6 +404,7 @@
    "howlongtobeat": "114312",
    "igdb": "ultimate-fishing-simulator-2",
    "mobygames": "189855",
+   "pcgamingwiki": "Ultimate_Fishing_Simulator_2",
    "steam": "1136380"
   },
   "label_en": "Ultimate Fishing Simulator 2",
@@ -476,6 +490,7 @@
   "ids": {
    "howlongtobeat": "109254",
    "igdb": "minecraft-legends",
+   "metacritic": "minecraft-legends",
    "mobygames": "201954",
    "pcgamingwiki": "Minecraft_Legends",
    "steam": "1928870"
@@ -487,6 +502,7 @@
   "ids": {
    "howlongtobeat": "49527",
    "igdb": "trivia-vault-1980-s-trivia-2",
+   "metacritic": "trivia-vault-1980s-trivia-2",
    "pcgamingwiki": "Trivia_Vault:_1980's_Trivia_2",
    "steam": "693880"
   },
@@ -561,6 +577,7 @@
    "gog": "game/anvil_saga",
    "howlongtobeat": "96274",
    "igdb": "anvil-saga",
+   "metacritic": "anvil-saga",
    "mobygames": "189791",
    "pcgamingwiki": "Anvil_Saga",
    "steam": "1587540"

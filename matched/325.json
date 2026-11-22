@@ -13,6 +13,7 @@
   "enwiki": "Madden NFL Football",
   "ids": {
    "igdb": "madden-nfl-football",
+   "metacritic": "madden-nfl-football",
    "mobygames": "95607"
   },
   "label_en": "Madden NFL Football",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "2428",
    "igdb": "dementium-the-ward",
+   "metacritic": "dementium-the-ward",
    "mobygames": "33088",
    "pcgamingwiki": "Dementium:_The_Ward",
    "steam": "3909960"
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "5769",
    "igdb": "mechwarrior-4-vengeance",
+   "metacritic": "mechwarrior-4-vengeance",
    "mobygames": "2795",
    "pcgamingwiki": "MechWarrior_4:_Vengeance"
   },
@@ -86,6 +89,7 @@
   "enwiki": "Star Wars: Demolition",
   "ids": {
    "igdb": "star-wars-demolition",
+   "metacritic": "star-wars-demolition",
    "mobygames": "3856"
   },
   "label_en": "Star Wars: Demolition",
@@ -95,6 +99,7 @@
   "ids": {
    "howlongtobeat": "6879",
    "igdb": "painkiller-redemption",
+   "metacritic": "painkiller-redemption",
    "mobygames": "51976",
    "pcgamingwiki": "Painkiller:_Redemption",
    "steam": "65560"
@@ -133,7 +138,8 @@
  {
   "enwiki": "Fear Factor: Unleashed",
   "ids": {
-   "igdb": "fear-factor-unleashed"
+   "igdb": "fear-factor-unleashed",
+   "metacritic": "fear-factor-unleashed"
   },
   "label_en": "Fear Factor: Unleashed",
   "wikidata": "Q5439325"
@@ -206,6 +212,7 @@
   "enwiki": "Phoenix Wright: Ace Attorney – Spirit of Justice",
   "ids": {
    "igdb": "phoenix-wright-ace-attorney-spirit-of-justice",
+   "metacritic": "phoenix-wright-ace-attorney-spirit-of-justice",
    "mobygames": "84854"
   },
   "label_en": "Phoenix Wright: Ace Attorney – Spirit of Justice",
@@ -266,6 +273,7 @@
   "ids": {
    "howlongtobeat": "19390",
    "igdb": "siralim",
+   "metacritic": "siralim",
    "mobygames": "85323",
    "pcgamingwiki": "Siralim",
    "steam": "362090"
@@ -310,6 +318,7 @@
   "ids": {
    "howlongtobeat": "16303",
    "igdb": "picross-e3",
+   "metacritic": "picross-e3",
    "mobygames": "88450"
   },
   "label_en": "Picross e3",
@@ -337,6 +346,7 @@
   "ids": {
    "howlongtobeat": "44508",
    "igdb": "aliens-go-home-run",
+   "metacritic": "aliens-go-home-run",
    "mobygames": "91631",
    "pcgamingwiki": "Aliens_Go_Home_Run",
    "steam": "514340"

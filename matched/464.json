@@ -12,6 +12,7 @@
   "enwiki": "Fairytale Fights",
   "ids": {
    "igdb": "fairytale-fights",
+   "metacritic": "fairytale-fights",
    "mobygames": "43655"
   },
   "label_en": "Fairytale Fights",
@@ -31,6 +32,7 @@
   "ids": {
    "howlongtobeat": "445",
    "igdb": "amplitude",
+   "metacritic": "amplitude",
    "mobygames": "14371"
   },
   "label_en": "Amplitude",
@@ -45,6 +47,7 @@
  },
  {
   "ids": {
+   "metacritic": "naruto-shippuden-ultimate-ninja-heroes-3",
    "mobygames": "90007"
   },
   "label_en": "Naruto Shippūden: Ultimate Ninja Heroes 3",
@@ -70,6 +73,7 @@
   "ids": {
    "howlongtobeat": "24141",
    "igdb": "teenage-zombies-invasion-of-the-alien-brain-thingys",
+   "metacritic": "teenage-zombies-invasion-of-the-alien-brain-thing",
    "mobygames": "35170"
   },
   "label_en": "Teenage Zombies: Invasion of the Alien Brain Thingys!",
@@ -125,6 +129,7 @@
   "ids": {
    "howlongtobeat": "63028",
    "igdb": "preta-vendetta-rising",
+   "metacritic": "preta-vendetta-rising",
    "mobygames": "95408",
    "pcgamingwiki": "Preta:_Vendetta_Rising",
    "steam": "624870"
@@ -162,6 +167,7 @@
   "ids": {
    "howlongtobeat": "36840",
    "igdb": "loud-on-planet-x",
+   "metacritic": "loud-on-planet-x",
    "mobygames": "86987",
    "pcgamingwiki": "Loud_on_Planet_X",
    "steam": "365200"
@@ -186,6 +192,7 @@
    "gog": "game/not_for_broadcast",
    "howlongtobeat": "74860",
    "igdb": "not-for-broadcast",
+   "metacritic": "not-for-broadcast",
    "mobygames": "141682",
    "pcgamingwiki": "Not_for_Broadcast",
    "steam": "1147550"
@@ -219,6 +226,7 @@
   "enwiki": "Topolon",
   "ids": {
    "igdb": "g-mode-archives-25-topolon",
+   "metacritic": "g-mode-archives-25-topolon",
    "mobygames": "155436"
   },
   "label_en": "Topolon",

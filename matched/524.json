@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3361",
    "igdb": "family-guy-back-to-the-multiverse",
+   "metacritic": "family-guy-back-to-the-multiverse",
    "mobygames": "60822",
    "pcgamingwiki": "Family_Guy:_Back_to_the_Multiverse"
   },
@@ -14,6 +15,7 @@
   "enwiki": "Harry Potter and the Half-Blood Prince (video game)",
   "ids": {
    "igdb": "harry-potter-and-the-half-blood-prince",
+   "metacritic": "harry-potter-and-the-half-blood-prince",
    "mobygames": "46583",
    "pcgamingwiki": "Harry_Potter_and_the_Half-Blood_Prince"
   },
@@ -25,6 +27,7 @@
   "ids": {
    "howlongtobeat": "7046",
    "igdb": "pilotwings-64",
+   "metacritic": "pilotwings-64",
    "mobygames": "4691"
   },
   "label_en": "Pilotwings 64",
@@ -35,6 +38,7 @@
   "ids": {
    "howlongtobeat": "7509",
    "igdb": "race-07",
+   "metacritic": "race-07-official-wtcc-game",
    "mobygames": "30819",
    "pcgamingwiki": "RACE_07_-_Official_WTCC_Game",
    "steam": "8600"
@@ -56,6 +60,7 @@
   "ids": {
    "howlongtobeat": "17305",
    "igdb": "dominions-3-the-awakening",
+   "metacritic": "dominions-3-the-awakening",
    "mobygames": "27234",
    "pcgamingwiki": "Dominions_3:_The_Awakening",
    "steam": "248510"
@@ -76,6 +81,7 @@
   "ids": {
    "howlongtobeat": "5857",
    "igdb": "mega-man-zero-3",
+   "metacritic": "mega-man-zero-3",
    "mobygames": "15040"
   },
   "label_en": "Mega Man Zero 3",
@@ -86,6 +92,7 @@
   "ids": {
    "howlongtobeat": "7806",
    "igdb": "ridge-racer-3d",
+   "metacritic": "ridge-racer-3d",
    "mobygames": "55183"
   },
   "label_en": "Ridge Racer 3D",
@@ -112,6 +119,7 @@
   "enwiki": "Kingdom Under Fire: A War of Heroes",
   "ids": {
    "igdb": "kingdom-under-fire-a-war-of-heroes",
+   "metacritic": "kingdom-under-fire-a-war-of-heroes",
    "mobygames": "3156",
    "pcgamingwiki": "Kingdom_Under_Fire:_A_War_of_Heroes",
    "steam": "2183600"
@@ -161,6 +169,7 @@
   "enwiki": "Toy Shop",
   "ids": {
    "igdb": "toy-shop",
+   "metacritic": "toy-shop",
    "mobygames": "41747"
   },
   "label_en": "Toy Shop",
@@ -184,6 +193,7 @@
   "enwiki": "Galaga Legions",
   "ids": {
    "igdb": "galaga-legions",
+   "metacritic": "galaga-legions",
    "mobygames": "40795"
   },
   "label_en": "Galaga Legions",
@@ -212,6 +222,7 @@
   "ids": {
    "howlongtobeat": "52504",
    "igdb": "blazblue-cross-tag-battle",
+   "metacritic": "blazblue-cross-tag-battle",
    "mobygames": "109756",
    "pcgamingwiki": "BlazBlue:_Cross_Tag_Battle",
    "steam": "702890"
@@ -225,6 +236,7 @@
    "epic": "far-cry-new-dawn",
    "howlongtobeat": "64996",
    "igdb": "far-cry-new-dawn",
+   "metacritic": "far-cry-new-dawn",
    "mobygames": "118957",
    "pcgamingwiki": "Far_Cry_New_Dawn",
    "steam": "939960"
@@ -237,6 +249,7 @@
    "epic": "bad-rats-show-1b74cf",
    "howlongtobeat": "39056",
    "igdb": "bad-rats-show",
+   "metacritic": "bad-rats-show",
    "mobygames": "99886",
    "pcgamingwiki": "Bad_Rats_Show",
    "steam": "393200"
@@ -246,7 +259,8 @@
  },
  {
   "ids": {
-   "igdb": "norn9-last-era"
+   "igdb": "norn9-last-era",
+   "metacritic": "norn9-last-era"
   },
   "label_en": "Norn9: Last Era",
   "wikidata": "Q63225524"
@@ -284,6 +298,7 @@
   "enwiki": "Bouncy Bullets",
   "ids": {
    "igdb": "bouncy-bullets",
+   "metacritic": "bouncy-bullets",
    "mobygames": "129737"
   },
   "label_en": "Bouncy Bullets",
@@ -293,6 +308,7 @@
   "ids": {
    "howlongtobeat": "18065",
    "igdb": "abyss-the-wraiths-of-eden",
+   "metacritic": "abyss-the-wraiths-of-eden",
    "mobygames": "81732",
    "pcgamingwiki": "Abyss:_The_Wraiths_of_Eden",
    "steam": "284710"
@@ -339,6 +355,7 @@
   "ids": {
    "howlongtobeat": "99160",
    "igdb": "poppy-playtime",
+   "metacritic": "poppy-playtime",
    "mobygames": "173688",
    "pcgamingwiki": "Poppy_Playtime",
    "steam": "1721470"
@@ -407,6 +424,7 @@
    "gog": "game/crime_oclock",
    "howlongtobeat": "127271",
    "igdb": "crime-oclock",
+   "metacritic": "crime-oclock",
    "mobygames": "206257",
    "steam": "1736290"
   },
@@ -668,6 +686,7 @@
   "ids": {
    "howlongtobeat": "17235",
    "igdb": "line-of-defense-tactics--1",
+   "metacritic": "line-of-defense-tactics",
    "mobygames": "87718",
    "pcgamingwiki": "Line_of_Defense_Tactics_-_Tactical_Advantage",
    "steam": "267220"

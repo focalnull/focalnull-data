@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11115",
    "igdb": "way-of-the-samurai-4",
+   "metacritic": "way-of-the-samurai-4",
    "mobygames": "62344",
    "pcgamingwiki": "Way_of_the_Samurai_4",
    "steam": "312780"
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "5776",
    "igdb": "medal-of-honor",
+   "metacritic": "medal-of-honor",
    "mobygames": "48920",
    "pcgamingwiki": "Medal_of_Honor_(2010)",
    "steam": "47790"
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "4567",
    "igdb": "hyperdimension-neptunia-mk2",
+   "metacritic": "hyperdimension-neptunia-mk2",
    "mobygames": "83515"
   },
   "label_en": "Hyperdimension Neptunia Mk2",
@@ -54,6 +57,7 @@
   "enwiki": "Crash Boom Bang!",
   "ids": {
    "igdb": "crash-boom-bang",
+   "metacritic": "crash-boom-bang",
    "mobygames": "85744"
   },
   "label_en": "Crash Boom Bang!",
@@ -63,6 +67,7 @@
   "enwiki": "Saga: Rage of the Vikings",
   "ids": {
    "igdb": "saga-rage-of-the-vikings",
+   "metacritic": "saga-rage-of-the-vikings",
    "mobygames": "36107"
   },
   "label_en": "Saga: Rage of the Vikings",
@@ -145,7 +150,8 @@
  {
   "enwiki": "Shadow Assault: Tenchu",
   "ids": {
-   "igdb": "shadow-assault-tenchu"
+   "igdb": "shadow-assault-tenchu",
+   "metacritic": "shadow-assault-tenchu"
   },
   "label_en": "Shadow Assault: Tenchu",
   "wikidata": "Q7460445"
@@ -163,6 +169,7 @@
   "enwiki": "Whacked!",
   "ids": {
    "igdb": "whacked",
+   "metacritic": "whacked",
    "mobygames": "7692"
   },
   "label_en": "Whacked!",
@@ -268,6 +275,7 @@
   "ids": {
    "howlongtobeat": "68265",
    "igdb": "sniper-elite-vr",
+   "metacritic": "sniper-elite-vr",
    "mobygames": "167272",
    "pcgamingwiki": "Sniper_Elite_VR",
    "steam": "752480"
@@ -278,6 +286,7 @@
  {
   "ids": {
    "igdb": "hyrule-warriors-definitive-edition",
+   "metacritic": "hyrule-warriors-definitive-edition",
    "mobygames": "101186"
   },
   "label_en": "Hyrule Warriors: Definitive Edition",
@@ -309,6 +318,7 @@
    "gog": "game/olija_game",
    "howlongtobeat": "80811",
    "igdb": "olija",
+   "metacritic": "olija",
    "mobygames": "157766",
    "pcgamingwiki": "Olija",
    "steam": "1297330"
@@ -374,6 +384,7 @@
    "gog": "game/insurmountable",
    "howlongtobeat": "91814",
    "igdb": "insurmountable",
+   "metacritic": "insurmountable",
    "mobygames": "163513",
    "pcgamingwiki": "Insurmountable",
    "steam": "1385100"
@@ -841,6 +852,7 @@
  {
   "ids": {
    "igdb": "femdemic",
+   "metacritic": "femdemic-an-idle-world-feminization-game",
    "mobygames": "206586",
    "pcgamingwiki": "Femdemic",
    "steam": "2195390"
@@ -853,6 +865,7 @@
    "gog": "game/rise_of_the_triad_ludicrous_edition",
    "howlongtobeat": "129702",
    "igdb": "rise-of-the-triad-ludicrous-edition",
+   "metacritic": "rise-of-the-triad-ludicrous-edition",
    "mobygames": "206723",
    "pcgamingwiki": "Rise_of_the_Triad:_Ludicrous_Edition",
    "steam": "1421490"
@@ -1174,6 +1187,7 @@
   "enwiki": "Raccoin",
   "ids": {
    "mobygames": "258345",
+   "pcgamingwiki": "RACCOIN:_Coin_Pusher_Roguelike",
    "steam": "3784030"
   },
   "label_en": "Raccoin: Coin Pusher Roguelike",
@@ -1181,6 +1195,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Prove_You're_Human",
    "steam": "4533950"
   },
   "label_en": "Prove You're Human",

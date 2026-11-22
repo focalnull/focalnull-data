@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4494",
    "igdb": "homefront",
+   "metacritic": "homefront",
    "mobygames": "51190",
    "pcgamingwiki": "Homefront",
    "steam": "55100"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "2694",
    "igdb": "donkey-kong-jungle-beat",
+   "metacritic": "donkey-kong-jungle-beat",
    "mobygames": "18691"
   },
   "label_en": "Donkey Kong Jungle Beat",
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "6681",
    "igdb": "nuclear-dawn",
+   "metacritic": "nuclear-dawn",
    "mobygames": "53820",
    "pcgamingwiki": "Nuclear_Dawn",
    "steam": "17710"
@@ -77,6 +80,7 @@
    "gog": "game/fear_3",
    "howlongtobeat": "3296",
    "igdb": "f-e-a-r-3",
+   "metacritic": "fear-3",
    "mobygames": "51992",
    "pcgamingwiki": "F.E.A.R._3",
    "steam": "21100"
@@ -119,6 +123,7 @@
    "gog": "game/celtic_kings_rage_of_war",
    "howlongtobeat": "1622",
    "igdb": "celtic-kings-rage-of-war",
+   "metacritic": "celtic-kings-rage-of-war",
    "mobygames": "7821",
    "pcgamingwiki": "Celtic_Kings:_Rage_of_War",
    "steam": "827000"
@@ -141,6 +146,7 @@
   "ids": {
    "howlongtobeat": "2845",
    "igdb": "dragon-s-dogma",
+   "metacritic": "dragons-dogma",
    "mobygames": "56097",
    "pcgamingwiki": "Dragon's_Dogma:_Dark_Arisen",
    "steam": "367500"
@@ -177,6 +183,7 @@
   "ids": {
    "howlongtobeat": "7977",
    "igdb": "romancing-saga-3",
+   "metacritic": "romancing-saga-3",
    "mobygames": "9339",
    "pcgamingwiki": "Romancing_SaGa_3",
    "steam": "952540"
@@ -200,6 +207,7 @@
   "enwiki": "Blaster Master: Overdrive",
   "ids": {
    "igdb": "blaster-master-overdrive",
+   "metacritic": "blaster-master-overdrive",
    "mobygames": "45322"
   },
   "label_en": "Blaster Master: Overdrive",
@@ -280,6 +288,9 @@
   "wikidata": "Q10846413"
  },
  {
+  "ids": {
+   "metacritic": "sayonara-etranger"
+  },
   "label_en": "Sayonara Etranger",
   "wikidata": "Q11268413"
  },
@@ -299,6 +310,7 @@
    "gog": "game/hotel_giant_2",
    "howlongtobeat": "4528",
    "igdb": "hotel-giant-2",
+   "metacritic": "hotel-giant-2",
    "mobygames": "44878",
    "pcgamingwiki": "Hotel_Giant_2",
    "steam": "38230"
@@ -311,6 +323,7 @@
   "ids": {
    "howlongtobeat": "21135",
    "igdb": "chess-2-the-sequel",
+   "metacritic": "chess-2-the-sequel",
    "mobygames": "73066",
    "pcgamingwiki": "Chess_2:_The_Sequel",
    "steam": "314340"
@@ -371,6 +384,7 @@
   "ids": {
    "howlongtobeat": "88004",
    "igdb": "habroxia-2",
+   "metacritic": "habroxia-2",
    "mobygames": "157962",
    "steam": "1473550"
   },
@@ -380,7 +394,8 @@
  {
   "enwiki": "Game Builder Garage",
   "ids": {
-   "igdb": "game-builder-garage"
+   "igdb": "game-builder-garage",
+   "metacritic": "game-builder-garage"
   },
   "label_en": "Game Builder Garage",
   "wikidata": "Q106725413"
@@ -837,6 +852,7 @@
   "ids": {
    "howlongtobeat": "39834",
    "igdb": "shiny",
+   "metacritic": "shiny",
    "mobygames": "94399",
    "pcgamingwiki": "Shiny",
    "steam": "496390"
@@ -981,6 +997,7 @@
   "ids": {
    "epic": "relooted-89fdd7",
    "igdb": "relooted",
+   "metacritic": "relooted",
    "pcgamingwiki": "Relooted",
    "steam": "3255890"
   },
@@ -1307,6 +1324,7 @@
   "enwiki": "BlazBlue: Continuum Shift Extend",
   "ids": {
    "igdb": "blazblue-continuum-shift-extend",
+   "metacritic": "blazblue-continuum-shift-extend",
    "pcgamingwiki": "BlazBlue:_Continuum_Shift_Extend",
    "steam": "294810"
   },

@@ -5,6 +5,7 @@
    "gog": "game/star_wars_republic_commando",
    "howlongtobeat": "9119",
    "igdb": "star-wars-republic-commando",
+   "metacritic": "star-wars-republic-commando",
    "mobygames": "17003",
    "pcgamingwiki": "Star_Wars:_Republic_Commando",
    "steam": "6000"
@@ -38,6 +39,7 @@
   "enwiki": "Spider-Man 2 (2004 video game)",
   "ids": {
    "igdb": "spider-man-2--1",
+   "metacritic": "spider-man-2",
    "mobygames": "13848",
    "pcgamingwiki": "Spider-Man_2:_The_Game"
   },
@@ -48,6 +50,7 @@
   "enwiki": "Pinball Hall of Fame: The Gottlieb Collection",
   "ids": {
    "igdb": "pinball-hall-of-fame-the-gottlieb-collection",
+   "metacritic": "pinball-hall-of-fame-the-gottlieb-collection",
    "mobygames": "23668"
   },
   "label_en": "Pinball Hall of Fame: The Gottlieb Collection",
@@ -73,6 +76,7 @@
   "enwiki": "Shin Megami Tensei IV",
   "ids": {
    "igdb": "shin-megami-tensei-iv",
+   "metacritic": "shin-megami-tensei-iv",
    "mobygames": "61143"
   },
   "label_en": "Shin Megami Tensei IV",
@@ -126,6 +130,7 @@
   "enwiki": "Tony Hawk's Motion",
   "ids": {
    "igdb": "tony-hawks-motion",
+   "metacritic": "tony-hawks-motion-hue-pixel-painter",
    "mobygames": "75282"
   },
   "label_en": "Tony Hawk's Motion",
@@ -136,11 +141,15 @@
   "ids": {
    "howlongtobeat": "13978",
    "igdb": "combat-task-force-121",
+   "metacritic": "combat-task-force-121",
    "mobygames": "19782",
    "pcgamingwiki": "Combat:_Task_Force_121"
   },
   "label_en": "Combat Task Force 121",
   "wikidata": "Q9195542"
+ },
+ {
+  "wikidata": "Q11304542"
  },
  {
   "wikidata": "Q11328542"
@@ -153,6 +162,7 @@
   "enwiki": "Pokémon Black",
   "ids": {
    "igdb": "pokemon-black-version",
+   "metacritic": "pokemon-black-version",
    "mobygames": "50752"
   },
   "label_en": "Pokémon Black",
@@ -213,6 +223,7 @@
   "ids": {
    "howlongtobeat": "23027",
    "igdb": "ncaa-march-madness-07",
+   "metacritic": "ncaa-march-madness-07",
    "mobygames": "29106"
   },
   "label_en": "NCAA March Madness '07",
@@ -241,7 +252,8 @@
   "enwiki": "Crimson Shroud",
   "ids": {
    "howlongtobeat": "2026",
-   "igdb": "crimson-shroud"
+   "igdb": "crimson-shroud",
+   "metacritic": "crimson-shroud"
   },
   "label_en": "Crimson Shroud",
   "wikidata": "Q107490542"
@@ -251,6 +263,7 @@
    "gog": "game/ever_forward",
    "howlongtobeat": "81953",
    "igdb": "ever-forward",
+   "metacritic": "ever-forward",
    "mobygames": "146148",
    "pcgamingwiki": "Ever_Forward",
    "steam": "1220370"
@@ -263,6 +276,7 @@
   "ids": {
    "howlongtobeat": "92087",
    "igdb": "coral-island",
+   "metacritic": "coral-island",
    "mobygames": "193190",
    "pcgamingwiki": "Coral_Island",
    "steam": "1158160"
@@ -310,6 +324,7 @@
   "ids": {
    "howlongtobeat": "114155",
    "igdb": "kamiwaza-way-of-the-thief",
+   "metacritic": "kamiwaza-way-of-the-thief",
    "mobygames": "193089",
    "pcgamingwiki": "Kamiwaza:_Way_of_the_Thief",
    "steam": "1924810"
@@ -678,6 +693,7 @@
   "ids": {
    "howlongtobeat": "144953",
    "igdb": "witchhand",
+   "metacritic": "witchhand",
    "mobygames": "217267",
    "pcgamingwiki": "WitchHand",
    "steam": "2420880"
@@ -740,6 +756,7 @@
   "ids": {
    "howlongtobeat": "129620",
    "igdb": "chipper-and-sons-lumber-co",
+   "metacritic": "chipper-and-sons-lumber-co",
    "pcgamingwiki": "Chipper_and_Sons_Lumber_Co."
   },
   "label_en": "Chipper and Sons Lumber Co.",

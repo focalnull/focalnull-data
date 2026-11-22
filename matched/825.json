@@ -128,6 +128,7 @@
   "enwiki": "Undertow (video game)",
   "ids": {
    "igdb": "undertow",
+   "metacritic": "undertow",
    "mobygames": "32249"
   },
   "label_en": "Undertow",
@@ -138,6 +139,7 @@
   "ids": {
    "howlongtobeat": "9201",
    "igdb": "steel-panthers",
+   "metacritic": "steel-panthers",
    "mobygames": "2690"
   },
   "label_en": "Steel Panthers",
@@ -156,6 +158,7 @@
   "ids": {
    "howlongtobeat": "110633",
    "igdb": "catlateral-damage",
+   "metacritic": "catlateral-damage",
    "mobygames": "84154",
    "pcgamingwiki": "Catlateral_Damage",
    "steam": "329860"
@@ -181,6 +184,7 @@
    "gog": "game/jydge",
    "howlongtobeat": "50034",
    "igdb": "jydge",
+   "metacritic": "jydge",
    "mobygames": "96743",
    "pcgamingwiki": "Jydge",
    "steam": "654050"
@@ -196,6 +200,7 @@
    "gog": "game/starcomnexus",
    "howlongtobeat": "63174",
    "igdb": "starcom-nexus",
+   "metacritic": "starcom-nexus",
    "mobygames": "138405",
    "pcgamingwiki": "Starcom:_Nexus",
    "steam": "863590"
@@ -207,6 +212,7 @@
   "ids": {
    "howlongtobeat": "15594",
    "igdb": "steam-marines",
+   "metacritic": "steam-marines",
    "mobygames": "101685",
    "pcgamingwiki": "Steam_Marines",
    "steam": "253630"
@@ -220,6 +226,7 @@
    "epic": "roller-champions",
    "howlongtobeat": "68264",
    "igdb": "roller-champions",
+   "metacritic": "roller-champions",
    "mobygames": "184892",
    "pcgamingwiki": "Roller_Champions",
    "steam": "2211280"
@@ -232,6 +239,7 @@
   "ids": {
    "howlongtobeat": "80748",
    "igdb": "piofiore-no-banshou",
+   "metacritic": "piofiore-fated-memories",
    "mobygames": "151160"
   },
   "label_en": "Piofiore: Fated Memories",
@@ -259,6 +267,7 @@
    "gog": "game/disco_elysium",
    "howlongtobeat": "57335",
    "igdb": "disco-elysium",
+   "metacritic": "disco-elysium",
    "mobygames": "136046",
    "pcgamingwiki": "Disco_Elysium"
   },
@@ -291,6 +300,7 @@
    "gog": "game/underhero",
    "howlongtobeat": "31042",
    "igdb": "underhero",
+   "metacritic": "underhero",
    "mobygames": "114180",
    "pcgamingwiki": "Underhero",
    "steam": "573320"
@@ -334,6 +344,7 @@
   "ids": {
    "howlongtobeat": "9561",
    "igdb": "tactics-ogre-let-us-cling-together--1",
+   "metacritic": "tactics-ogre-let-us-cling-together",
    "mobygames": "60197"
   },
   "label_en": "Tactics Ogre: Wheel of Fortune",
@@ -931,6 +942,7 @@
   "enwiki": "Threefold Recital",
   "ids": {
    "igdb": "threefold-recital",
+   "metacritic": "threefold-recital",
    "mobygames": "237005",
    "pcgamingwiki": "Threefold_Recital",
    "steam": "3084280"
@@ -1225,6 +1237,7 @@
  {
   "ids": {
    "igdb": "space-empires-i",
+   "pcgamingwiki": "Space_Empires_I",
    "steam": "1425110"
   },
   "label_en": "Space Empires I",

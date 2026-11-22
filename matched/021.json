@@ -33,6 +33,7 @@
   "enwiki": "Digimon World Data Squad",
   "ids": {
    "igdb": "digimon-world-data-squad",
+   "metacritic": "digimon-world-data-squad",
    "mobygames": "120380"
   },
   "label_en": "Digimon World Data Squad",
@@ -58,6 +59,7 @@
   "ids": {
    "howlongtobeat": "86",
    "igdb": "50-cent-bulletproof",
+   "metacritic": "50-cent-bulletproof",
    "mobygames": "20457"
   },
   "label_en": "50 Cent: Bulletproof",
@@ -68,6 +70,7 @@
   "ids": {
    "howlongtobeat": "3588",
    "igdb": "flatout-3-chaos-destruction",
+   "metacritic": "flatout-3-chaos-destruction",
    "mobygames": "55798",
    "pcgamingwiki": "FlatOut_3:_Chaos_&_Destruction",
    "steam": "201510"
@@ -96,6 +99,7 @@
    "gog": "game/soldier_of_fortune_payback",
    "howlongtobeat": "8726",
    "igdb": "soldier-of-fortune-payback",
+   "metacritic": "soldier-of-fortune-payback",
    "mobygames": "31204",
    "pcgamingwiki": "Soldier_of_Fortune:_Payback",
    "steam": "7980"
@@ -118,6 +122,7 @@
   "ids": {
    "howlongtobeat": "5281",
    "igdb": "lemony-snicket-s-a-series-of-unfortunate-events",
+   "metacritic": "lemony-snickets-a-series-of-unfortunate-events",
    "mobygames": "16188",
    "pcgamingwiki": "Lemony_Snicket's_A_Series_of_Unfortunate_Events"
   },
@@ -147,6 +152,7 @@
   "ids": {
    "howlongtobeat": "28812",
    "igdb": "norn9-var-commons",
+   "metacritic": "norn9-var-commons",
    "mobygames": "87957",
    "steam": "952150"
   },
@@ -158,6 +164,7 @@
   "ids": {
    "howlongtobeat": "94222",
    "igdb": "transworld-surf",
+   "metacritic": "transworld-surf",
    "mobygames": "7667"
   },
   "label_en": "Transworld Surf",
@@ -199,6 +206,7 @@
   "enwiki": "Hexic 2",
   "ids": {
    "igdb": "hexic-2",
+   "metacritic": "hexic-2",
    "mobygames": "34766"
   },
   "label_en": "Hexic 2",
@@ -252,6 +260,7 @@
   "enwiki": "Virtual Pool 3",
   "ids": {
    "igdb": "virtual-pool-3",
+   "metacritic": "virtual-pool-3",
    "mobygames": "4914"
   },
   "label_en": "Virtual Pool 3",
@@ -275,6 +284,7 @@
   "ids": {
    "howlongtobeat": "21117",
    "igdb": "tales-of-zestiria",
+   "metacritic": "tales-of-zestiria",
    "mobygames": "82233",
    "pcgamingwiki": "Tales_of_Zestiria",
    "steam": "351970"
@@ -283,6 +293,9 @@
   "wikidata": "Q15303021"
  },
  {
+  "ids": {
+   "metacritic": "chessmaster"
+  },
   "label_en": "Chessmaster",
   "wikidata": "Q16539021"
  },
@@ -301,6 +314,7 @@
    "epic": "observer",
    "howlongtobeat": "38127",
    "igdb": "observer",
+   "metacritic": "observer",
    "mobygames": "94519",
    "pcgamingwiki": "Observer",
    "steam": "514900"
@@ -332,6 +346,7 @@
  {
   "ids": {
    "igdb": "tokyo-mirage-sessions-number-fe-encore",
+   "metacritic": "tokyo-mirage-sessions-fe-encore",
    "mobygames": "135221"
   },
   "label_en": "Tokyo Mirage Sessions ♯FE Encore",
@@ -344,6 +359,7 @@
    "gog": "game/mars_horizon",
    "howlongtobeat": "85154",
    "igdb": "mars-horizon",
+   "metacritic": "mars-horizon",
    "mobygames": "152579",
    "pcgamingwiki": "Mars_Horizon",
    "steam": "765810"
@@ -360,6 +376,7 @@
   "ids": {
    "howlongtobeat": "25044",
    "igdb": "steel-assault",
+   "metacritic": "steel-assault",
    "mobygames": "172915",
    "pcgamingwiki": "Steel_Assault",
    "steam": "1280300"
@@ -372,6 +389,7 @@
   "ids": {
    "howlongtobeat": "98557",
    "igdb": "blue-reflection-second-light",
+   "metacritic": "blue-reflection-second-light",
    "mobygames": "174880",
    "pcgamingwiki": "Blue_Reflection:_Second_Light",
    "steam": "1423600"
@@ -403,6 +421,7 @@
   "ids": {
    "howlongtobeat": "53583",
    "igdb": "zup-8",
+   "metacritic": "zup-8",
    "mobygames": "103493",
    "pcgamingwiki": "Zup!_8",
    "steam": "799070"
@@ -454,6 +473,7 @@
   "ids": {
    "howlongtobeat": "50288",
    "igdb": "dark-quest-2",
+   "metacritic": "dark-quest-2",
    "mobygames": "105109",
    "pcgamingwiki": "Dark_Quest_2",
    "steam": "453690"

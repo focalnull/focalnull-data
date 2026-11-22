@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "4037",
    "igdb": "gradius-iii",
+   "metacritic": "gradius-iii",
    "mobygames": "12034"
   },
   "label_en": "Gradius III",
@@ -23,6 +24,7 @@
   "enwiki": "Silent Hill: Shattered Memories",
   "ids": {
    "igdb": "silent-hill-shattered-memories",
+   "metacritic": "silent-hill-shattered-memories",
    "mobygames": "44053"
   },
   "label_en": "Silent Hill: Shattered Memories",
@@ -65,6 +67,7 @@
   "ids": {
    "howlongtobeat": "5855",
    "igdb": "mega-man-zero",
+   "metacritic": "mega-man-zero",
    "mobygames": "6427"
   },
   "label_en": "Mega Man Zero",
@@ -86,6 +89,7 @@
   "enwiki": "Littlest Pet Shop (video game)",
   "ids": {
    "igdb": "littlest-pet-shop",
+   "metacritic": "littlest-pet-shop",
    "mobygames": "55154",
    "pcgamingwiki": "Littlest_Pet_Shop"
   },
@@ -162,6 +166,7 @@
    "gog": "game/zwei_the_ilvard_insurrection",
    "howlongtobeat": "50232",
    "igdb": "zwei-the-ilvard-insurrection",
+   "metacritic": "zwei-the-ilvard-insurrection",
    "mobygames": "56561",
    "pcgamingwiki": "Zwei:_The_Ilvard_Insurrection",
    "steam": "427700"
@@ -266,6 +271,7 @@
    "gog": "game/senran_kagura_shinovi_versus",
    "howlongtobeat": "20163",
    "igdb": "senran-kagura-shinovi-versus",
+   "metacritic": "senran-kagura-shinovi-versus",
    "mobygames": "83265",
    "pcgamingwiki": "Senran_Kagura_Shinovi_Versus",
    "steam": "411830"
@@ -277,6 +283,7 @@
   "enwiki": "Sega 3D Classics Collection",
   "ids": {
    "igdb": "sega-3d-classics-collection",
+   "metacritic": "sega-3d-classics-collection",
    "mobygames": "79840"
   },
   "label_en": "Sega 3D Classics Collection",
@@ -297,6 +304,7 @@
    "gog": "game/pollen",
    "howlongtobeat": "36863",
    "igdb": "pollen",
+   "metacritic": "p-o-l-l-e-n",
    "mobygames": "115587",
    "pcgamingwiki": "Pollen",
    "steam": "393750"
@@ -339,6 +347,7 @@
   "enwiki": "Big Beach Sports 2",
   "ids": {
    "igdb": "big-beach-sports-2",
+   "metacritic": "big-beach-sports-2",
    "mobygames": "112848"
   },
   "label_en": "Big Beach Sports 2",
@@ -357,6 +366,7 @@
   "ids": {
    "howlongtobeat": "68260",
    "igdb": "age-of-empires-ii-definitive-edition",
+   "metacritic": "age-of-empires-ii-definitive-edition",
    "mobygames": "137199",
    "pcgamingwiki": "Age_of_Empires_II:_Definitive_Edition",
    "steam": "813780"
@@ -379,6 +389,7 @@
   "enwiki": "Just Dance 2023 Edition",
   "ids": {
    "igdb": "just-dance-2023-edition--1",
+   "metacritic": "just-dance-2023-edition",
    "mobygames": "195605"
   },
   "label_en": "Just Dance 2023 Edition",
@@ -406,6 +417,7 @@
    "epic": "scathe-ca258f",
    "howlongtobeat": "100057",
    "igdb": "scathe",
+   "metacritic": "scathe",
    "mobygames": "190672",
    "pcgamingwiki": "Scathe",
    "steam": "1154830"
@@ -487,6 +499,7 @@
    "epic": "love-money-rocknroll-b2e684",
    "howlongtobeat": "69325",
    "igdb": "love-money-rocknroll",
+   "metacritic": "love-money-rocknroll",
    "mobygames": "189200",
    "pcgamingwiki": "Love,_Money,_Rock'n'Roll",
    "steam": "615530"
@@ -556,6 +569,7 @@
   "ids": {
    "howlongtobeat": "141603",
    "igdb": "assassins-creed-nexus-vr",
+   "metacritic": "assassins-creed-nexus-vr",
    "mobygames": "212188"
   },
   "label_en": "Assassin's Creed Nexus VR",
@@ -760,6 +774,7 @@
   "ids": {
    "howlongtobeat": "129860",
    "igdb": "station-to-station",
+   "metacritic": "station-to-station",
    "mobygames": "209745",
    "pcgamingwiki": "Station_to_Station",
    "steam": "2272400"
@@ -909,6 +924,7 @@
  {
   "ids": {
    "igdb": "last-time-i-saw-you",
+   "metacritic": "last-time-i-saw-you",
    "mobygames": "231877",
    "steam": "1909750"
   },
@@ -1239,6 +1255,7 @@
  {
   "ids": {
    "igdb": "roadside-research",
+   "pcgamingwiki": "Roadside_Research",
    "steam": "3643170"
   },
   "label_en": "Roadside Research",

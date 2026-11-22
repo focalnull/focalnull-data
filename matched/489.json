@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9377",
    "igdb": "super-mario-galaxy",
+   "metacritic": "super-mario-galaxy",
    "mobygames": "31282"
   },
   "label_en": "Super Mario Galaxy",
@@ -46,6 +47,7 @@
   "ids": {
    "howlongtobeat": "11020",
    "igdb": "wanted-weapons-of-fate",
+   "metacritic": "wanted-weapons-of-fate",
    "mobygames": "40129",
    "pcgamingwiki": "Wanted:_Weapons_of_Fate",
    "steam": "21070"
@@ -57,7 +59,8 @@
   "enwiki": "Wario Land 4",
   "ids": {
    "howlongtobeat": "11064",
-   "igdb": "wario-land-4"
+   "igdb": "wario-land-4",
+   "metacritic": "wario-land-4"
   },
   "label_en": "Wario Land 4",
   "wikidata": "Q2357489"
@@ -67,6 +70,7 @@
   "ids": {
    "howlongtobeat": "10466",
    "igdb": "tom-clancy-s-rainbow-six-shadow-vanguard",
+   "metacritic": "tom-clancys-rainbow-six-shadow-vanguard",
    "mobygames": "124037"
   },
   "label_en": "Tom Clancy's Rainbow Six: Shadow Vanguard",
@@ -77,6 +81,7 @@
   "ids": {
    "howlongtobeat": "6282",
    "igdb": "muv-luv",
+   "metacritic": "muv-luv",
    "mobygames": "91158",
    "pcgamingwiki": "Muv-Luv",
    "steam": "802880"
@@ -99,6 +104,7 @@
   "ids": {
    "howlongtobeat": "17025",
    "igdb": "madden-nfl-97",
+   "metacritic": "madden-nfl-97",
    "mobygames": "3004"
   },
   "label_en": "Madden NFL 97",
@@ -118,6 +124,7 @@
   "ids": {
    "howlongtobeat": "1367",
    "igdb": "buffy-the-vampire-slayer-wrath-of-the-darkhul-king",
+   "metacritic": "buffy-the-vampire-slayer-wrath-of-the-darkhul-kin",
    "mobygames": "10811"
   },
   "label_en": "Buffy the Vampire Slayer: Wrath of the Darkhul King",
@@ -225,6 +232,7 @@
    "gog": "game/nostradamus_the_last_prophecy",
    "howlongtobeat": "18049",
    "igdb": "nostradamus-the-last-prophecy",
+   "metacritic": "nostradamus-the-last-prophecy",
    "mobygames": "31500",
    "pcgamingwiki": "Nostradamus:_The_Last_Prophecy",
    "steam": "287720"
@@ -250,6 +258,7 @@
    "epic": "rise-of-the-tomb-raider",
    "howlongtobeat": "19266",
    "igdb": "rise-of-the-tomb-raider",
+   "metacritic": "rise-of-the-tomb-raider",
    "mobygames": "75675",
    "pcgamingwiki": "Rise_of_the_Tomb_Raider",
    "steam": "391220"
@@ -294,6 +303,7 @@
   "ids": {
    "howlongtobeat": "14422",
    "igdb": "bad-hotel",
+   "metacritic": "bad-hotel",
    "mobygames": "119978",
    "pcgamingwiki": "Bad_Hotel",
    "steam": "231720"
@@ -305,6 +315,7 @@
   "enwiki": "Arcana Heart (video game)",
   "ids": {
    "igdb": "arcana-heart",
+   "metacritic": "arcana-heart",
    "mobygames": "124326"
   },
   "label_en": "Arcana Heart",
@@ -315,6 +326,7 @@
   "ids": {
    "howlongtobeat": "48280",
    "igdb": "accel-world-vs-sword-art-online-deluxe-edition",
+   "metacritic": "accel-world-vs-sword-art-online-millennium-twilight",
    "mobygames": "95896",
    "pcgamingwiki": "Accel_World_vs._Sword_Art_Online",
    "steam": "607880"
@@ -342,6 +354,7 @@
   "ids": {
    "howlongtobeat": "57533",
    "igdb": "border-of-her-heart",
+   "metacritic": "border-of-her-heart",
    "mobygames": "141969",
    "pcgamingwiki": "Border_of_her_Heart",
    "steam": "795680"
@@ -375,6 +388,7 @@
   "ids": {
    "howlongtobeat": "18060",
    "igdb": "out-of-the-park-baseball-15",
+   "metacritic": "out-of-the-park-baseball-15",
    "mobygames": "157502",
    "pcgamingwiki": "Out_of_the_Park_Baseball_15",
    "steam": "272670"
@@ -411,6 +425,7 @@
    "epic": "fifa-23",
    "howlongtobeat": "110878",
    "igdb": "fifa-23",
+   "metacritic": "fifa-23",
    "mobygames": "192194",
    "pcgamingwiki": "FIFA_23",
    "steam": "1811260"
@@ -492,6 +507,7 @@
    "epic": "state-of-decay-2-juggernaut-edition",
    "howlongtobeat": "46403",
    "igdb": "state-of-decay-2",
+   "metacritic": "state-of-decay-2",
    "mobygames": "143426",
    "pcgamingwiki": "State_of_Decay_2",
    "steam": "495420"
@@ -512,6 +528,7 @@
   "ids": {
    "howlongtobeat": "47111",
    "igdb": "strikers-edge",
+   "metacritic": "strikers-edge",
    "mobygames": "102286",
    "pcgamingwiki": "Strikers_Edge",
    "steam": "520670"
@@ -722,6 +739,7 @@
   "ids": {
    "howlongtobeat": "128531",
    "igdb": "sherwood-extreme",
+   "metacritic": "sherwood-extreme",
    "mobygames": "227724",
    "pcgamingwiki": "Sherwood_Extreme",
    "steam": "1340180"
@@ -761,6 +779,7 @@
   "ids": {
    "howlongtobeat": "137635",
    "igdb": "big-boy-boxing",
+   "metacritic": "big-boy-boxing",
    "steam": "1680780"
   },
   "label_en": "Big Boy Boxing",
@@ -789,6 +808,7 @@
   "ids": {
    "howlongtobeat": "29069",
    "igdb": "enki",
+   "metacritic": "enki",
    "mobygames": "94401",
    "pcgamingwiki": "ENKI",
    "steam": "377470"
@@ -867,6 +887,7 @@
   "ids": {
    "howlongtobeat": "146962",
    "igdb": "doronko-wanko",
+   "metacritic": "doronko-wanko",
    "mobygames": "221022",
    "pcgamingwiki": "Doronko_Wanko",
    "steam": "2512840"
@@ -933,6 +954,7 @@
    "gog": "game/the_midnight_walk",
    "howlongtobeat": "157305",
    "igdb": "the-midnight-walk",
+   "metacritic": "the-midnight-walk",
    "pcgamingwiki": "The_Midnight_Walk",
    "steam": "2863640"
   },
@@ -943,6 +965,7 @@
   "ids": {
    "howlongtobeat": "118115",
    "igdb": "hellcard",
+   "metacritic": "hellcard",
    "pcgamingwiki": "Hellcard",
    "steam": "1201540"
   },
@@ -1261,6 +1284,7 @@
   "ids": {
    "howlongtobeat": "29866",
    "igdb": "nobunagas-ambition-sphere-of-influence",
+   "metacritic": "nobunagas-ambition-sphere-of-influence",
    "mobygames": "82303",
    "pcgamingwiki": "Nobunaga's_Ambition:_Sphere_of_Influence",
    "steam": "392470"

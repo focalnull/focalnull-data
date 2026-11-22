@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "14915",
    "igdb": "one-piece-grand-battle",
+   "metacritic": "one-piece-grand-battle",
    "mobygames": "30430"
   },
   "label_en": "One Piece: Grand Battle!",
@@ -95,6 +96,7 @@
    "epic": "path-of-exile",
    "howlongtobeat": "6938",
    "igdb": "path-of-exile",
+   "metacritic": "path-of-exile",
    "mobygames": "65225",
    "pcgamingwiki": "Path_of_Exile",
    "steam": "238960"
@@ -142,6 +144,7 @@
   "ids": {
    "howlongtobeat": "77850",
    "igdb": "nascar-unleashed",
+   "metacritic": "nascar-unleashed",
    "mobygames": "53466"
   },
   "label_en": "NASCAR Unleashed",
@@ -151,6 +154,7 @@
   "enwiki": "Tiger Woods PGA Tour 2003",
   "ids": {
    "igdb": "tiger-woods-pga-tour-2003",
+   "metacritic": "tiger-woods-pga-tour-2003",
    "mobygames": "7808"
   },
   "label_en": "Tiger Woods PGA Tour 2003",
@@ -187,6 +191,7 @@
   "ids": {
    "howlongtobeat": "12716",
    "igdb": "ducktales-remastered",
+   "metacritic": "disney-ducktales-remastered",
    "mobygames": "61870",
    "pcgamingwiki": "DuckTales:_Remastered",
    "steam": "237630"
@@ -220,6 +225,7 @@
    "gog": "game/little_nightmares",
    "howlongtobeat": "39417",
    "igdb": "little-nightmares",
+   "metacritic": "little-nightmares",
    "mobygames": "87520",
    "pcgamingwiki": "Little_Nightmares",
    "steam": "424840"
@@ -232,6 +238,7 @@
   "ids": {
    "howlongtobeat": "46437",
    "igdb": "metroid-prime-4-beyond",
+   "metacritic": "metroid-prime-4-beyond",
    "mobygames": "245261"
   },
   "label_en": "Metroid Prime 4: Beyond",
@@ -241,6 +248,7 @@
   "ids": {
    "howlongtobeat": "31424",
    "igdb": "how-to-survive-2",
+   "metacritic": "how-to-survive-2",
    "mobygames": "83470",
    "pcgamingwiki": "How_to_Survive_2",
    "steam": "360170"
@@ -273,6 +281,7 @@
   "ids": {
    "howlongtobeat": "77857",
    "igdb": "grounded",
+   "metacritic": "grounded",
    "mobygames": "148628",
    "pcgamingwiki": "Grounded",
    "steam": "962130"
@@ -294,6 +303,7 @@
   "ids": {
    "howlongtobeat": "74725",
    "igdb": "mega-man-zero-slash-zx-legacy-collection",
+   "metacritic": "mega-man-zero-zx-legacy-collection",
    "mobygames": "142944",
    "pcgamingwiki": "Mega_Man_Zero/ZX_Legacy_Collection",
    "steam": "999020"
@@ -325,6 +335,7 @@
    "gog": "game/xel",
    "howlongtobeat": "109368",
    "igdb": "xel",
+   "metacritic": "xel",
    "mobygames": "188095",
    "pcgamingwiki": "XEL",
    "steam": "1674640"
@@ -391,6 +402,7 @@
    "epic": "season",
    "howlongtobeat": "85998",
    "igdb": "season-a-letter-to-the-future",
+   "metacritic": "season-a-letter-to-the-future",
    "mobygames": "198900",
    "pcgamingwiki": "Season",
    "steam": "695330"
@@ -817,6 +829,7 @@
    "epic": "five-nights-at-freddys-into-the-pit-99c563",
    "howlongtobeat": "151788",
    "igdb": "five-nights-at-freddys-into-the-pit",
+   "metacritic": "five-nights-at-freddys-into-the-pit",
    "mobygames": "228887",
    "pcgamingwiki": "Five_Nights_at_Freddy's:_Into_the_Pit",
    "steam": "2638370"
@@ -1220,6 +1233,8 @@
   "ids": {
    "howlongtobeat": "176100",
    "igdb": "rv-there-yet--1",
+   "metacritic": "rv-there-yet",
+   "pcgamingwiki": "RV_There_Yet?",
    "steam": "3949040"
   },
   "label_en": "RV There Yet?",

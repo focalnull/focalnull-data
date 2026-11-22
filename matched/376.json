@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7790",
    "igdb": "rhythm-heaven",
+   "metacritic": "rhythm-heaven",
    "mobygames": "40335"
   },
   "label_en": "Rhythm Heaven",
@@ -26,6 +27,7 @@
    "gog": "game/port_royale_2",
    "howlongtobeat": "7227",
    "igdb": "port-royale-2",
+   "metacritic": "port-royale-2",
    "mobygames": "16226",
    "pcgamingwiki": "Port_Royale_2",
    "steam": "12470"
@@ -39,6 +41,7 @@
    "gog": "game/braid",
    "howlongtobeat": "1290",
    "igdb": "braid",
+   "metacritic": "braid",
    "mobygames": "35529",
    "pcgamingwiki": "Braid",
    "steam": "26800"
@@ -59,6 +62,7 @@
   "ids": {
    "howlongtobeat": "8407",
    "igdb": "sherlock-holmes-the-awakened",
+   "metacritic": "sherlock-holmes-the-awakened-2007",
    "mobygames": "25745",
    "pcgamingwiki": "Sherlock_Holmes:_The_Awakened",
    "steam": "11140"
@@ -71,6 +75,7 @@
   "ids": {
    "howlongtobeat": "207",
    "igdb": "advance-wars-dual-strike",
+   "metacritic": "advance-wars-dual-strike",
    "mobygames": "19271"
   },
   "label_en": "Advance Wars: Dual Strike",
@@ -81,6 +86,7 @@
   "ids": {
    "howlongtobeat": "604",
    "igdb": "silent-line-armored-core",
+   "metacritic": "armored-core-silent-line-portable",
    "mobygames": "85041"
   },
   "label_en": "Silent Line: Armored Core",
@@ -91,6 +97,7 @@
   "ids": {
    "howlongtobeat": "5066",
    "igdb": "kirby-mass-attack",
+   "metacritic": "kirby-mass-attack",
    "mobygames": "52970"
   },
   "label_en": "Kirby Mass Attack",
@@ -116,6 +123,7 @@
   "enwiki": "Demon Gaze",
   "ids": {
    "igdb": "demon-gaze",
+   "metacritic": "demon-gaze",
    "mobygames": "87322"
   },
   "label_en": "Demon Gaze",
@@ -167,6 +175,7 @@
   "enwiki": "Phineas and Ferb: Across the 2nd Dimension (video game)",
   "ids": {
    "igdb": "phineas-and-ferb-across-the-second-dimension",
+   "metacritic": "phineas-and-ferb-across-the-2nd-dimension",
    "mobygames": "68088"
   },
   "label_en": "Phineas and Ferb: Across the 2nd Dimension",
@@ -195,6 +204,7 @@
   "ids": {
    "howlongtobeat": "25529",
    "igdb": "pokemon-rumble-world",
+   "metacritic": "pokemon-rumble-world",
    "mobygames": "84855"
   },
   "label_en": "Pokémon Rumble World",
@@ -207,6 +217,7 @@
    "gog": "game/the_fall",
    "howlongtobeat": "19475",
    "igdb": "the-fall",
+   "metacritic": "the-fall",
    "mobygames": "77523",
    "pcgamingwiki": "The_Fall",
    "steam": "290770"
@@ -250,6 +261,7 @@
    "gog": "game/no_greater_glory_the_american_civil_war",
    "igdb": "no-greater-glory-the-american-civil-war",
    "mobygames": "2895",
+   "pcgamingwiki": "No_Greater_Glory:_The_American_Civil_War",
    "steam": "3014490"
   },
   "label_en": "No Greater Glory: The American Civil War",
@@ -262,6 +274,7 @@
  {
   "ids": {
    "igdb": "robotek",
+   "metacritic": "robotek-hd",
    "mobygames": "73843",
    "pcgamingwiki": "Robotek"
   },
@@ -291,6 +304,7 @@
    "epic": "a-total-war-saga-troy",
    "howlongtobeat": "71762",
    "igdb": "a-total-war-saga-troy",
+   "metacritic": "a-total-war-saga-troy",
    "mobygames": "149284",
    "pcgamingwiki": "A_Total_War_Saga:_Troy",
    "steam": "1099410"
@@ -315,6 +329,7 @@
    "epic": "payday-3",
    "howlongtobeat": "96554",
    "igdb": "payday-3",
+   "metacritic": "payday-3",
    "mobygames": "208976",
    "pcgamingwiki": "Payday_3",
    "steam": "1272080"
@@ -338,6 +353,7 @@
   "ids": {
    "howlongtobeat": "106730",
    "igdb": "final-fantasy-vii-ever-crisis",
+   "metacritic": "final-fantasy-vii-ever-crisis",
    "mobygames": "208518",
    "pcgamingwiki": "Final_Fantasy_VII:_Ever_Crisis",
    "steam": "2484110"
@@ -423,6 +439,7 @@
    "gog": "game/arkanoid_eternal_battle",
    "howlongtobeat": "127664",
    "igdb": "arkanoid-eternal-battle",
+   "metacritic": "arkanoid-eternal-battle",
    "mobygames": "193543",
    "pcgamingwiki": "Arkanoid:_Eternal_Battle",
    "steam": "1717270"
@@ -489,6 +506,7 @@
    "howlongtobeat": "128903",
    "igdb": "homebody",
    "mobygames": "203978",
+   "pcgamingwiki": "Homebody",
    "steam": "1959350"
   },
   "label_en": "Homebody",
@@ -949,6 +967,7 @@
  {
   "ids": {
    "igdb": "cassette-boy",
+   "metacritic": "cassette-boy",
    "steam": "2334330"
   },
   "label_en": "CASSETTE BOY",
@@ -1135,6 +1154,7 @@
   "ids": {
    "howlongtobeat": "8029",
    "igdb": "rush",
+   "metacritic": "rush-2010",
    "mobygames": "50131",
    "pcgamingwiki": "Rush",
    "steam": "38720"

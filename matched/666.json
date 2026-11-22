@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "2111",
    "igdb": "cut-the-rope",
+   "metacritic": "cut-the-rope",
    "mobygames": "49034",
    "pcgamingwiki": "Cut_the_Rope",
    "steam": "223280"
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "5621",
    "igdb": "mario-luigi-partners-in-time",
+   "metacritic": "mario-luigi-partners-in-time",
    "mobygames": "20537"
   },
   "label_en": "Mario & Luigi: Partners in Time",
@@ -44,6 +46,7 @@
   "ids": {
    "howlongtobeat": "1403",
    "igdb": "burnout",
+   "metacritic": "burnout-2001",
    "mobygames": "6417"
   },
   "label_en": "Burnout",
@@ -75,7 +78,8 @@
   "enwiki": "AR Games",
   "ids": {
    "howlongtobeat": "533",
-   "igdb": "ar-games"
+   "igdb": "ar-games",
+   "metacritic": "ar-games"
   },
   "label_en": "AR Games",
   "wikidata": "Q2651666"
@@ -83,7 +87,8 @@
  {
   "enwiki": "Joy Ride Turbo",
   "ids": {
-   "igdb": "joy-ride-turbo"
+   "igdb": "joy-ride-turbo",
+   "metacritic": "joy-ride-turbo"
   },
   "label_en": "Joy Ride Turbo",
   "wikidata": "Q3810666"
@@ -133,6 +138,7 @@
   "ids": {
    "howlongtobeat": "12429",
    "igdb": "rymdkapsel",
+   "metacritic": "rymdkapsel",
    "mobygames": "64973",
    "pcgamingwiki": "Rymdkapsel",
    "steam": "253790"
@@ -143,6 +149,7 @@
  {
   "ids": {
    "igdb": "steel-diver-sub-wars",
+   "metacritic": "steel-diver-sub-wars",
    "mobygames": "93821"
   },
   "label_en": "Steel Diver: Sub Wars",
@@ -167,6 +174,7 @@
   "ids": {
    "howlongtobeat": "30491",
    "igdb": "blood-bowl-2",
+   "metacritic": "blood-bowl-2",
    "mobygames": "82226",
    "pcgamingwiki": "Blood_Bowl_2",
    "steam": "236690"
@@ -178,6 +186,7 @@
   "enwiki": "Crackdown 3",
   "ids": {
    "igdb": "crackdown-3",
+   "metacritic": "crackdown-3",
    "mobygames": "122612",
    "pcgamingwiki": "Crackdown_3"
   },
@@ -197,6 +206,7 @@
   "ids": {
    "howlongtobeat": "57454",
    "igdb": "halo-infinite",
+   "metacritic": "halo-infinite",
    "mobygames": "176543",
    "pcgamingwiki": "Halo_Infinite",
    "steam": "1708091"
@@ -214,6 +224,7 @@
   "ids": {
    "howlongtobeat": "52538",
    "igdb": "baba-is-you",
+   "metacritic": "baba-is-you",
    "mobygames": "112739",
    "pcgamingwiki": "Baba_Is_You",
    "steam": "736260"
@@ -237,6 +248,7 @@
    "gog": "game/say_no_more",
    "howlongtobeat": "90104",
    "igdb": "say-no-more",
+   "metacritic": "say-no-more",
    "mobygames": "161712",
    "pcgamingwiki": "Say_No!_More",
    "steam": "1191900"
@@ -316,6 +328,7 @@
    "gog": "game/kapital_sparks_of_revolution",
    "howlongtobeat": "109338",
    "igdb": "kapital-sparks-of-revolution",
+   "metacritic": "kapital-sparks-of-revolution",
    "mobygames": "193903",
    "pcgamingwiki": "Kapital:_Sparks_of_Revolution",
    "steam": "1399700"
@@ -968,6 +981,7 @@
   "enwiki": "Ukrainian Fight Drone Simulator",
   "ids": {
    "igdb": "ukrainian-fight-drone-simulator",
+   "metacritic": "ukrainian-fight-drone-simulator",
    "mobygames": "251525",
    "steam": "2862860"
   },

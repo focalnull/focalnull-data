@@ -14,6 +14,7 @@
   "enwiki": "Midtown Madness 2",
   "ids": {
    "igdb": "midtown-madness-2",
+   "metacritic": "midtown-madness-2",
    "mobygames": "2460",
    "pcgamingwiki": "Midtown_Madness_2"
   },
@@ -36,6 +37,7 @@
   "ids": {
    "howlongtobeat": "3730",
    "igdb": "front-mission-evolved",
+   "metacritic": "front-mission-evolved",
    "mobygames": "51965",
    "pcgamingwiki": "Front_Mission_Evolved",
    "steam": "43000"
@@ -75,6 +77,7 @@
    "epic": "smite",
    "howlongtobeat": "11986",
    "igdb": "smite",
+   "metacritic": "smite",
    "mobygames": "71180",
    "pcgamingwiki": "Smite",
    "steam": "386360"
@@ -117,6 +120,7 @@
   "enwiki": "Looney Tunes: Duck Amuck",
   "ids": {
    "igdb": "looney-tunes-duck-amuck",
+   "metacritic": "looney-tunes-duck-amuck",
    "mobygames": "88894"
   },
   "label_en": "Looney Tunes: Duck Amuck",
@@ -154,6 +158,7 @@
   "enwiki": "FIFA Manager 13",
   "ids": {
    "igdb": "fifa-manager-13",
+   "metacritic": "fifa-manager-13",
    "mobygames": "61441",
    "pcgamingwiki": "FIFA_Manager_13"
   },
@@ -217,6 +222,7 @@
   "enwiki": "Woody Woodpecker Racing",
   "ids": {
    "igdb": "woody-woodpecker-racing",
+   "metacritic": "woody-woodpecker-racing",
    "mobygames": "18416",
    "pcgamingwiki": "Woody_Woodpecker_Racing"
   },
@@ -231,6 +237,7 @@
   "enwiki": "Monster Rancher Advance",
   "ids": {
    "igdb": "monster-rancher-advance",
+   "metacritic": "monster-rancher-advance",
    "mobygames": "12000"
   },
   "label_en": "Monster Rancher Advance",
@@ -252,6 +259,7 @@
   "ids": {
    "howlongtobeat": "24464",
    "igdb": "helldivers",
+   "metacritic": "helldivers",
    "mobygames": "75917",
    "pcgamingwiki": "Helldivers",
    "steam": "394510"
@@ -277,6 +285,7 @@
   "ids": {
    "howlongtobeat": "31238",
    "igdb": "dragon-ball-z-extreme-butouden",
+   "metacritic": "dragon-ball-z-extreme-butoden",
    "mobygames": "99372"
   },
   "label_en": "Dragon Ball Z: Extreme Butōden",
@@ -288,6 +297,7 @@
    "gog": "game/hard_west",
    "howlongtobeat": "28907",
    "igdb": "hard-west",
+   "metacritic": "hard-west",
    "mobygames": "76504",
    "pcgamingwiki": "Hard_West",
    "steam": "307670"
@@ -312,6 +322,7 @@
    "gog": "game/virginia",
    "howlongtobeat": "39509",
    "igdb": "virginia",
+   "metacritic": "virginia",
    "mobygames": "80766",
    "pcgamingwiki": "Virginia",
    "steam": "374030"
@@ -368,6 +379,7 @@
  {
   "ids": {
    "igdb": "besieger",
+   "metacritic": "besieger",
    "mobygames": "38100"
   },
   "label_en": "Besieger",
@@ -379,6 +391,7 @@
    "epic": "plants-vs-zombies-bfn-deluxe-edition-80d6cb",
    "howlongtobeat": "70153",
    "igdb": "plants-vs-zombies-battle-for-neighborville",
+   "metacritic": "plants-vs-zombies-battle-for-neighborville",
    "mobygames": "136452",
    "pcgamingwiki": "Plants_vs._Zombies:_Battle_for_Neighborville",
    "steam": "1262240"
@@ -423,6 +436,7 @@
   "ids": {
    "howlongtobeat": "14365",
    "igdb": "the-typing-of-the-dead-overkill",
+   "metacritic": "the-typing-of-the-dead-overkill",
    "mobygames": "77990",
    "pcgamingwiki": "The_Typing_of_The_Dead:_Overkill",
    "steam": "246580"
@@ -442,6 +456,7 @@
   "ids": {
    "howlongtobeat": "113906",
    "igdb": "loop8-summer-of-gods",
+   "metacritic": "loop8-summer-of-gods",
    "mobygames": "204107",
    "steam": "2127430"
   },
@@ -944,6 +959,7 @@
   "ids": {
    "howlongtobeat": "155443",
    "igdb": "lockdown-protocol--2",
+   "metacritic": "lockdown-protocol",
    "pcgamingwiki": "Lockdown_Protocol",
    "steam": "2780980"
   },
@@ -955,6 +971,7 @@
   "ids": {
    "howlongtobeat": "130045",
    "igdb": "everhood-2",
+   "metacritic": "everhood-2",
    "mobygames": "238356",
    "steam": "1984020"
   },

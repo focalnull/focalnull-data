@@ -24,6 +24,7 @@
   "enwiki": "Soulcalibur V",
   "ids": {
    "igdb": "soulcalibur-v",
+   "metacritic": "soulcalibur-v",
    "mobygames": "71474"
   },
   "label_en": "Soulcalibur V",
@@ -50,6 +51,7 @@
   "enwiki": "Rainbow Moon",
   "ids": {
    "igdb": "rainbow-moon",
+   "metacritic": "rainbow-moon",
    "mobygames": "77877"
   },
   "label_en": "Rainbow Moon",
@@ -88,6 +90,7 @@
   "enwiki": "Excitebike: World Rally",
   "ids": {
    "igdb": "excitebike-world-rally",
+   "metacritic": "excitebike-world-rally",
    "mobygames": "84617"
   },
   "label_en": "Excitebike: World Rally",
@@ -97,6 +100,7 @@
   "enwiki": "Ready 2 Rumble: Revolution",
   "ids": {
    "igdb": "ready-2-rumble-revolution",
+   "metacritic": "ready-2-rumble-revolution",
    "mobygames": "56503"
   },
   "label_en": "Ready 2 Rumble: Revolution",
@@ -106,6 +110,7 @@
   "enwiki": "Spaceball Revolution",
   "ids": {
    "igdb": "spaceball-revolution",
+   "metacritic": "spaceball-revolution",
    "mobygames": "90320"
   },
   "label_en": "Spaceball Revolution",
@@ -205,6 +210,7 @@
   "ids": {
    "howlongtobeat": "69656",
    "igdb": "touhou-kikeijuu-wily-beast-and-weakest-creature",
+   "metacritic": "wily-beast-and-weakest-creature",
    "mobygames": "132310",
    "pcgamingwiki": "Wily_Beast_and_Weakest_Creature",
    "steam": "1079160"
@@ -218,6 +224,7 @@
    "epic": "raid-shadow-legends-b70e14",
    "howlongtobeat": "73426",
    "igdb": "raid-shadow-legends",
+   "metacritic": "raid-shadow-legends",
    "mobygames": "125493",
    "pcgamingwiki": "Raid:_Shadow_Legends",
    "steam": "2333480"
@@ -245,6 +252,7 @@
    "gog": "game/necromunda_hired_gun",
    "howlongtobeat": "90106",
    "igdb": "necromunda-hired-gun",
+   "metacritic": "necromunda-hired-gun",
    "mobygames": "165761",
    "pcgamingwiki": "Necromunda:_Hired_Gun",
    "steam": "1222370"

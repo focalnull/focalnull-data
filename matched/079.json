@@ -5,6 +5,7 @@
    "gog": "game/alpha_protocol",
    "howlongtobeat": "401",
    "igdb": "alpha-protocol",
+   "metacritic": "alpha-protocol",
    "mobygames": "46741",
    "pcgamingwiki": "Alpha_Protocol",
    "steam": "34010"
@@ -18,6 +19,7 @@
    "gog": "game/blazblue_calamity_trigger",
    "howlongtobeat": "1141",
    "igdb": "blazblue-calamity-trigger",
+   "metacritic": "blazblue-calamity-trigger",
    "mobygames": "51890",
    "pcgamingwiki": "BlazBlue:_Calamity_Trigger",
    "steam": "263300"
@@ -29,6 +31,7 @@
   "enwiki": "The Guided Fate Paradox",
   "ids": {
    "igdb": "the-guided-fate-paradox",
+   "metacritic": "the-guided-fate-paradox",
    "mobygames": "85720"
   },
   "label_en": "The Guided Fate Paradox",
@@ -93,6 +96,7 @@
   "enwiki": "The Ant Bully (video game)",
   "ids": {
    "igdb": "the-ant-bully",
+   "metacritic": "the-ant-bully",
    "mobygames": "31965",
    "pcgamingwiki": "The_Ant_Bully"
   },
@@ -165,6 +169,7 @@
    "gog": "game/mars_war_logs",
    "howlongtobeat": "5673",
    "igdb": "mars-war-logs",
+   "metacritic": "mars-war-logs",
    "mobygames": "60442",
    "pcgamingwiki": "Mars:_War_Logs",
    "steam": "232750"
@@ -236,6 +241,7 @@
    "gog": "game/forced_showdown",
    "howlongtobeat": "31993",
    "igdb": "forced-showdown",
+   "metacritic": "forced-showdown",
    "mobygames": "124256",
    "pcgamingwiki": "Forced_Showdown",
    "steam": "265000"
@@ -267,6 +273,7 @@
   "ids": {
    "howlongtobeat": "57511",
    "igdb": "super-mario-party",
+   "metacritic": "super-mario-party",
    "mobygames": "110087"
   },
   "label_en": "Super Mario Party",
@@ -275,7 +282,8 @@
  {
   "enwiki": "Black Hole (video game)",
   "ids": {
-   "igdb": "black-hole--2"
+   "igdb": "black-hole--2",
+   "metacritic": "black-hole"
   },
   "label_en": "Black Hole",
   "wikidata": "Q55382079"
@@ -284,6 +292,7 @@
   "ids": {
    "howlongtobeat": "26136",
    "igdb": "pro-rugby-manager-2015",
+   "metacritic": "pro-rugby-manager-2015",
    "mobygames": "93870",
    "pcgamingwiki": "Pro_Rugby_Manager_2015",
    "steam": "273030"
@@ -295,6 +304,7 @@
   "ids": {
    "howlongtobeat": "37353",
    "igdb": "dead-island-riptide-definitive-edition",
+   "metacritic": "dead-island-riptide-definitive-edition",
    "mobygames": "87585",
    "pcgamingwiki": "Dead_Island:_Riptide_Definitive_Edition",
    "steam": "383180"
@@ -314,6 +324,7 @@
    "gog": "game/the_samaritan_paradox",
    "howlongtobeat": "19861",
    "igdb": "the-samaritan-paradox",
+   "metacritic": "the-samaritan-paradox",
    "mobygames": "75871",
    "pcgamingwiki": "The_Samaritan_Paradox",
    "steam": "283180"
@@ -327,6 +338,7 @@
    "epic": "football-manager-2021",
    "howlongtobeat": "85405",
    "igdb": "football-manager-2021",
+   "metacritic": "football-manager-2021",
    "mobygames": "154451",
    "pcgamingwiki": "Football_Manager_2021",
    "steam": "1263850"
@@ -441,6 +453,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-14",
+   "metacritic": "vacation-adventures-park-ranger-14",
    "steam": "2088600"
   },
   "label_en": "Vacation Adventures: Park Ranger 14",
@@ -846,7 +859,8 @@
  },
  {
   "ids": {
-   "igdb": "percys-predicament-deluxe"
+   "igdb": "percys-predicament-deluxe",
+   "metacritic": "percys-predicament-deluxe"
   },
   "label_en": "Percy's Predicament Deluxe",
   "wikidata": "Q126685079"

@@ -3,6 +3,7 @@
   "enwiki": "Full Auto",
   "ids": {
    "igdb": "full-auto",
+   "metacritic": "full-auto",
    "mobygames": "23252"
   },
   "label_en": "Lil cal 64",
@@ -33,6 +34,7 @@
   "enwiki": "Ben 10: Alien Force – Vilgax Attacks",
   "ids": {
    "igdb": "ben-10-alien-force-vilgax-attacks",
+   "metacritic": "ben-10-alien-force-vilgax-attacks",
    "mobygames": "45344"
   },
   "label_en": "Ben 10 Alien Force: Vilgax Attacks",
@@ -89,6 +91,7 @@
   "enwiki": "Neopets: The Darkest Faerie",
   "ids": {
    "igdb": "neopets-the-darkest-faerie",
+   "metacritic": "neopets-the-darkest-faerie",
    "mobygames": "22289"
   },
   "label_en": "Neopets: The Darkest Faerie",
@@ -100,6 +103,7 @@
    "gog": "game/blackwell_bundle",
    "howlongtobeat": "1113",
    "igdb": "the-blackwell-legacy",
+   "metacritic": "the-blackwell-legacy",
    "mobygames": "25676",
    "pcgamingwiki": "Blackwell_Legacy",
    "steam": "80330"
@@ -134,6 +138,7 @@
   "ids": {
    "howlongtobeat": "699",
    "igdb": "atelier-ayesha-the-alchemist-of-dusk",
+   "metacritic": "atelier-ayesha-the-alchemist-of-dusk",
    "mobygames": "60790"
   },
   "label_en": "Atelier Ayesha: The Alchemist of Dusk",
@@ -175,6 +180,12 @@
   },
   "label_en": "Garfield's Mad About Cats",
   "wikidata": "Q5523026"
+ },
+ {
+  "ids": {
+   "mobygames": "28277"
+  },
+  "wikidata": "Q5938026"
  },
  {
   "enwiki": "Mountain King (video game)",
@@ -259,6 +270,7 @@
   "ids": {
    "howlongtobeat": "76473",
    "igdb": "resident-evil-resistance",
+   "metacritic": "project-resistance",
    "mobygames": "140612",
    "pcgamingwiki": "Resident_Evil_Resistance",
    "steam": "952070"
@@ -271,6 +283,7 @@
   "ids": {
    "howlongtobeat": "75537",
    "igdb": "hotshot-racing",
+   "metacritic": "hotshot-racing",
    "mobygames": "150144",
    "pcgamingwiki": "Hotshot_Racing",
    "steam": "609920"
@@ -305,6 +318,7 @@
   "ids": {
    "howlongtobeat": "108883",
    "igdb": "street-fighter-6",
+   "metacritic": "street-fighter-6",
    "mobygames": "203910",
    "pcgamingwiki": "Street_Fighter_6",
    "steam": "1364780"
@@ -383,6 +397,7 @@
   "ids": {
    "howlongtobeat": "113549",
    "igdb": "like-a-dragon-ishin",
+   "metacritic": "like-a-dragon-ishin",
    "mobygames": "199655",
    "pcgamingwiki": "Like_a_Dragon:_Ishin!",
    "steam": "1805480"
@@ -405,6 +420,7 @@
   "ids": {
    "howlongtobeat": "21732",
    "igdb": "wulverblade",
+   "metacritic": "wulverblade",
    "mobygames": "97030",
    "pcgamingwiki": "Wulverblade",
    "steam": "587180"
@@ -416,6 +432,7 @@
   "enwiki": "Arctic Escape",
   "ids": {
    "igdb": "arctic-escape",
+   "metacritic": "arctic-escape",
    "mobygames": "87256"
   },
   "label_en": "Arctic Escape",
@@ -426,6 +443,7 @@
   "ids": {
    "howlongtobeat": "121457",
    "igdb": "sand-land",
+   "metacritic": "sand-land",
    "mobygames": "222800",
    "pcgamingwiki": "Sand_Land",
    "steam": "1979440"

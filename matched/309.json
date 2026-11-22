@@ -38,6 +38,7 @@
   "ids": {
    "howlongtobeat": "11060",
    "igdb": "warhawk",
+   "metacritic": "warhawk",
    "mobygames": "30334"
   },
   "label_en": "Warhawk",
@@ -58,6 +59,7 @@
   "ids": {
    "howlongtobeat": "1576",
    "igdb": "castlevania-aria-of-sorrow",
+   "metacritic": "castlevania-aria-of-sorrow",
    "mobygames": "9237"
   },
   "label_en": "Castlevania: Aria of Sorrow",
@@ -68,6 +70,7 @@
   "ids": {
    "howlongtobeat": "5616",
    "igdb": "marc-eckos-getting-up-contents-under-pressure",
+   "metacritic": "marc-eckos-getting-up-contents-under-pressure",
    "mobygames": "21897",
    "pcgamingwiki": "Marc_Eckō's_Getting_Up:_Contents_Under_Pressure",
    "steam": "260190"
@@ -102,6 +105,7 @@
   "enwiki": "Tork: Prehistoric Punk",
   "ids": {
    "igdb": "tork-prehistoric-punk",
+   "metacritic": "tork-prehistoric-punk",
    "mobygames": "22419"
   },
   "label_en": "Tork: Prehistoric Punk",
@@ -122,6 +126,7 @@
   "ids": {
    "howlongtobeat": "8321",
    "igdb": "serious-sam-the-random-encounter",
+   "metacritic": "serious-sam-the-random-encounter",
    "mobygames": "53416",
    "pcgamingwiki": "Serious_Sam:_The_Random_Encounter",
    "steam": "201480"
@@ -206,6 +211,7 @@
   "enwiki": "Neopets: Petpet Adventures: The Wand of Wishing",
   "ids": {
    "igdb": "neopets-petpet-adventures-the-wand-of-wishing",
+   "metacritic": "neopets-petpet-adventures-the-wand-of-wishing",
    "mobygames": "83406"
   },
   "label_en": "Neopets: Petpet Adventures: The Wand of Wishing",
@@ -248,6 +254,7 @@
    "gog": "game/the_last_tinker_city_of_colors",
    "howlongtobeat": "18126",
    "igdb": "the-last-tinker-city-of-colors",
+   "metacritic": "the-last-tinker-city-of-colors",
    "mobygames": "80645",
    "pcgamingwiki": "The_Last_Tinker:_City_of_Colors",
    "steam": "260160"
@@ -260,6 +267,7 @@
   "ids": {
    "howlongtobeat": "29113",
    "igdb": "toy-soldiers-war-chest",
+   "metacritic": "toy-soldiers-war-chest",
    "mobygames": "84931",
    "pcgamingwiki": "Toy_Soldiers:_War_Chest",
    "steam": "276770"
@@ -280,6 +288,7 @@
   "ids": {
    "howlongtobeat": "38510",
    "igdb": "atlas-reactor",
+   "metacritic": "atlas-reactor",
    "mobygames": "80863",
    "pcgamingwiki": "Atlas_Reactor",
    "steam": "402570"
@@ -308,6 +317,7 @@
   "ids": {
    "howlongtobeat": "66633",
    "igdb": "muse-dash--1",
+   "metacritic": "muse-dash",
    "mobygames": "128030",
    "pcgamingwiki": "Muse_Dash",
    "steam": "774171"
@@ -340,6 +350,7 @@
   "ids": {
    "howlongtobeat": "59262",
    "igdb": "mugsters",
+   "metacritic": "mugsters",
    "mobygames": "111149",
    "pcgamingwiki": "Mugsters",
    "steam": "712180"
@@ -515,6 +526,7 @@
   "ids": {
    "howlongtobeat": "137783",
    "igdb": "wargroove-2",
+   "metacritic": "wargroove-2",
    "mobygames": "209828",
    "pcgamingwiki": "Wargroove_2",
    "steam": "1346020"
@@ -539,7 +551,8 @@
  },
  {
   "ids": {
-   "igdb": "world-championship-poker-2-featuring-howard-lederer"
+   "igdb": "world-championship-poker-2-featuring-howard-lederer",
+   "metacritic": "world-championship-poker-2-featuring-howard-leder"
   },
   "label_en": "World Championship Poker 2: Featuring Howard Lederer",
   "wikidata": "Q121009309"
@@ -643,6 +656,7 @@
  {
   "ids": {
    "igdb": "ktgame",
+   "metacritic": "ktgame",
    "steam": "1765320"
   },
   "label_en": "KTGAME",

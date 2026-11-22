@@ -5,6 +5,7 @@
    "gog": "game/diablo",
    "howlongtobeat": "2511",
    "igdb": "diablo",
+   "metacritic": "diablo",
    "mobygames": "339",
    "pcgamingwiki": "Diablo"
   },
@@ -17,6 +18,7 @@
    "epic": "mass-effect-effe55",
    "howlongtobeat": "5698",
    "igdb": "mass-effect",
+   "metacritic": "mass-effect",
    "mobygames": "31277",
    "pcgamingwiki": "Mass_Effect",
    "steam": "17460"
@@ -29,6 +31,7 @@
   "ids": {
    "howlongtobeat": "4315",
    "igdb": "harry-potter-and-the-sorcerer-s-stone",
+   "metacritic": "harry-potter-and-the-sorcerers-stone",
    "mobygames": "5416",
    "pcgamingwiki": "Harry_Potter_and_the_Philosopher's_Stone"
   },
@@ -39,6 +42,7 @@
   "enwiki": "Tekken 6",
   "ids": {
    "igdb": "tekken-6",
+   "metacritic": "tekken-6",
    "mobygames": "45692"
   },
   "label_en": "Tekken 6",
@@ -48,7 +52,8 @@
   "enwiki": "Bleach: Soul Resurrección",
   "ids": {
    "howlongtobeat": "1161",
-   "igdb": "bleach-soul-resurreccion"
+   "igdb": "bleach-soul-resurreccion",
+   "metacritic": "bleach-soul-resurreccion"
   },
   "label_en": "Bleach: Soul Resurrección",
   "wikidata": "Q1050960"
@@ -69,6 +74,7 @@
    "gog": "game/sinking_island",
    "howlongtobeat": "8587",
    "igdb": "sinking-island",
+   "metacritic": "sinking-island",
    "mobygames": "30685",
    "pcgamingwiki": "Sinking_Island",
    "steam": "333430"
@@ -91,6 +97,7 @@
    "gog": "game/the_mystery_of_the_druids",
    "howlongtobeat": "28378",
    "igdb": "the-mystery-of-the-druids",
+   "metacritic": "mystery-of-the-druids",
    "mobygames": "5047",
    "pcgamingwiki": "The_Mystery_of_the_Druids",
    "steam": "343000"
@@ -168,6 +175,7 @@
   "enwiki": "NCAA Football 2005",
   "ids": {
    "igdb": "ncaa-football-2005",
+   "metacritic": "ncaa-football-2005",
    "mobygames": "16406"
   },
   "label_en": "NCAA Football 2005",
@@ -252,6 +260,7 @@
    "gog": "game/legends_of_eisenwald",
    "howlongtobeat": "22636",
    "igdb": "legends-of-eisenwald",
+   "metacritic": "legends-of-eisenwald",
    "mobygames": "78201",
    "pcgamingwiki": "Legends_of_Eisenwald",
    "steam": "246760"
@@ -266,6 +275,7 @@
    "gog": "game/steamworld_dig_2",
    "howlongtobeat": "44062",
    "igdb": "steamworld-dig-2",
+   "metacritic": "steamworld-dig-2",
    "mobygames": "96204",
    "pcgamingwiki": "SteamWorld_Dig_2",
    "steam": "571310"
@@ -308,6 +318,7 @@
   "enwiki": "Fitness Boxing",
   "ids": {
    "igdb": "fitness-boxing",
+   "metacritic": "fitness-boxing",
    "mobygames": "114902"
   },
   "label_en": "Fitness Boxing",
@@ -423,6 +434,7 @@
    "epic": "bosorka-c0e6b6",
    "howlongtobeat": "127227",
    "igdb": "bosorka",
+   "metacritic": "bosorka",
    "mobygames": "206109",
    "pcgamingwiki": "Bosorka",
    "steam": "2118370"
@@ -873,7 +885,8 @@
  {
   "enwiki": "Mo.co",
   "ids": {
-   "igdb": "mo-dot-co--1"
+   "igdb": "mo-dot-co--1",
+   "metacritic": "moco"
   },
   "label_en": "Mo.co",
   "wikidata": "Q131437960"
@@ -1219,6 +1232,7 @@
  {
   "ids": {
    "igdb": "h-chan-girl",
+   "pcgamingwiki": "H_Chan:_Girl",
    "steam": "1081090"
   },
   "label_en": "H Chan: Girl",

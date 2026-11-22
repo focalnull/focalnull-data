@@ -13,6 +13,7 @@
   "enwiki": "Kingdom Hearts 358/2 Days",
   "ids": {
    "igdb": "kingdom-hearts-358-2-days",
+   "metacritic": "kingdom-hearts-3582-days",
    "mobygames": "47273"
   },
   "label_en": "Kingdom Hearts 358/2 Days",
@@ -38,6 +39,7 @@
  },
  {
   "ids": {
+   "metacritic": "heroes-in-the-sky",
    "mobygames": "108227"
   },
   "label_en": "Heroes in the Sky",
@@ -56,6 +58,7 @@
   "enwiki": "Master of Illusion (video game)",
   "ids": {
    "igdb": "master-of-illusion",
+   "metacritic": "master-of-illusion",
    "mobygames": "34321"
   },
   "label_en": "Master of Illusion",
@@ -85,6 +88,7 @@
   "enwiki": "The Secrets of Da Vinci: The Forbidden Manuscript",
   "ids": {
    "igdb": "the-secrets-of-da-vinci-the-forbidden-manuscript",
+   "metacritic": "the-secrets-of-da-vinci-the-forbidden-manuscript",
    "mobygames": "22209",
    "pcgamingwiki": "The_Secrets_of_da_Vinci:_The_Forbidden_Manuscript"
   },
@@ -110,6 +114,7 @@
  {
   "enwiki": "A Fairy Tale (video game)",
   "ids": {
+   "metacritic": "a-fairy-tale",
    "mobygames": "39773",
    "pcgamingwiki": "A_Fairy_Tale"
   },
@@ -125,6 +130,7 @@
   "enwiki": "Elefunk",
   "ids": {
    "igdb": "elefunk",
+   "metacritic": "elefunk",
    "mobygames": "48170"
   },
   "label_en": "Elefunk",
@@ -134,6 +140,7 @@
   "enwiki": "NBA 06",
   "ids": {
    "igdb": "nba-06",
+   "metacritic": "nba-06",
    "mobygames": "35805"
   },
   "label_en": "NBA 06",
@@ -153,6 +160,7 @@
   "ids": {
    "howlongtobeat": "8974",
    "igdb": "splice",
+   "metacritic": "splice",
    "mobygames": "73869",
    "pcgamingwiki": "Splice",
    "steam": "209790"
@@ -187,6 +195,7 @@
   "ids": {
    "howlongtobeat": "52432",
    "igdb": "mutant-football-league",
+   "metacritic": "mutant-football-league",
    "mobygames": "96488",
    "pcgamingwiki": "Mutant_Football_League",
    "steam": "529520"
@@ -223,6 +232,7 @@
    "epic": "007-first-light-182cea",
    "howlongtobeat": "85276",
    "igdb": "007-first-light",
+   "metacritic": "007-first-light",
    "mobygames": "246066",
    "pcgamingwiki": "007_First_Light",
    "steam": "3768760"
@@ -253,6 +263,7 @@
   "enwiki": "Star Wars: Hunters",
   "ids": {
    "igdb": "star-wars-hunters",
+   "metacritic": "star-wars-hunters",
    "pcgamingwiki": "Star_Wars:_Hunters",
    "steam": "2842320"
   },
@@ -270,6 +281,7 @@
   "ids": {
    "howlongtobeat": "58023",
    "igdb": "rainbow-skies",
+   "metacritic": "rainbow-skies",
    "mobygames": "110630"
   },
   "label_en": "Rainbow Skies",
@@ -282,6 +294,7 @@
    "gog": "game/a_plague_tale_requiem",
    "howlongtobeat": "93945",
    "igdb": "a-plague-tale-requiem",
+   "metacritic": "a-plague-tale-requiem",
    "mobygames": "193614",
    "pcgamingwiki": "A_Plague_Tale:_Requiem",
    "steam": "1182900"
@@ -325,6 +338,7 @@
    "epic": "foreclosed",
    "howlongtobeat": "96825",
    "igdb": "foreclosed",
+   "metacritic": "foreclosed",
    "mobygames": "169278",
    "pcgamingwiki": "Foreclosed",
    "steam": "1308880"
@@ -627,6 +641,7 @@
   "ids": {
    "howlongtobeat": "102027",
    "igdb": "legendary-tales",
+   "metacritic": "legendary-tales",
    "mobygames": "217389",
    "steam": "1465070"
   },
@@ -655,6 +670,7 @@
   "ids": {
    "howlongtobeat": "126119",
    "igdb": "the-coffin-of-andy-and-leyley",
+   "metacritic": "the-coffin-of-andy-and-leyley",
    "mobygames": "210169",
    "pcgamingwiki": "The_Coffin_of_Andy_and_Leyley",
    "steam": "2378900"

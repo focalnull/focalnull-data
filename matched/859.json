@@ -5,6 +5,7 @@
    "gog": "game/star_wars_battlefront",
    "howlongtobeat": "9097",
    "igdb": "star-wars-battlefront",
+   "metacritic": "star-wars-battlefront-2004",
    "mobygames": "15220",
    "pcgamingwiki": "Star_Wars:_Battlefront",
    "steam": "1058020"
@@ -19,6 +20,7 @@
    "gog": "game/trine_enchanted_edition",
    "howlongtobeat": "10651",
    "igdb": "trine",
+   "metacritic": "trine",
    "mobygames": "41466",
    "pcgamingwiki": "Trine",
    "steam": "35700"
@@ -30,6 +32,7 @@
   "enwiki": "Darkest of Days",
   "ids": {
    "igdb": "darkest-of-days",
+   "metacritic": "darkest-of-days",
    "mobygames": "42917",
    "pcgamingwiki": "Darkest_of_Days",
    "steam": "37700"
@@ -52,6 +55,7 @@
    "gog": "game/baldurs_gate_2_complete",
    "howlongtobeat": "810",
    "igdb": "baldurs-gate-ii-shadows-of-amn",
+   "metacritic": "baldurs-gate-ii-shadows-of-amn",
    "mobygames": "2465",
    "pcgamingwiki": "Baldur's_Gate_II:_Shadows_of_Amn"
   },
@@ -101,6 +105,7 @@
   "ids": {
    "howlongtobeat": "1879",
    "igdb": "conan--1",
+   "metacritic": "conan-2007",
    "mobygames": "32797"
   },
   "label_en": "Conan",
@@ -119,6 +124,7 @@
   "ids": {
    "howlongtobeat": "59488",
    "igdb": "johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama",
+   "metacritic": "johnny-bravo-date-o-rama",
    "mobygames": "88784"
   },
   "label_en": "Johnny Bravo: Date-o-Rama!",
@@ -165,6 +171,7 @@
   "ids": {
    "howlongtobeat": "14342",
    "igdb": "killzone-shadow-fall",
+   "metacritic": "killzone-shadow-fall",
    "mobygames": "62292"
   },
   "label_en": "Killzone: Shadow Fall",
@@ -242,6 +249,7 @@
   "enwiki": "Midway Arcade Treasures 2",
   "ids": {
    "igdb": "midway-arcade-treasures-2",
+   "metacritic": "midway-arcade-treasures-2",
    "mobygames": "15224"
   },
   "label_en": "Midway Arcade Treasures 2",
@@ -259,6 +267,7 @@
   "ids": {
    "howlongtobeat": "23235",
    "igdb": "the-legend-of-zelda-majoras-mask-3d",
+   "metacritic": "the-legend-of-zelda-majoras-mask-3d",
    "mobygames": "74464"
   },
   "label_en": "The Legend of Zelda: Majora's Mask 3D",
@@ -297,6 +306,7 @@
  {
   "ids": {
    "igdb": "malicious-fallen",
+   "metacritic": "malicious-fallen",
    "mobygames": "84019"
   },
   "label_en": "Malicious Fallen",
@@ -313,6 +323,7 @@
    "gog": "game/streets_of_rage_4",
    "howlongtobeat": "76482",
    "igdb": "streets-of-rage-4",
+   "metacritic": "streets-of-rage-4",
    "mobygames": "142906",
    "pcgamingwiki": "Streets_of_Rage_4",
    "steam": "985890"
@@ -325,6 +336,7 @@
   "ids": {
    "howlongtobeat": "10883",
    "igdb": "valkyrie-profile-lenneth",
+   "metacritic": "valkyrie-profile-lenneth",
    "mobygames": "23411"
   },
   "label_en": "Valkyrie Profile: Lenneth",
@@ -355,7 +367,8 @@
  },
  {
   "ids": {
-   "igdb": "midnight-race-club-supercharged--1"
+   "igdb": "midnight-race-club-supercharged--1",
+   "metacritic": "midnight-race-club-supercharged"
   },
   "label_en": "Midnight Race Club: Supercharged!",
   "wikidata": "Q106775859"
@@ -366,6 +379,7 @@
    "gog": "game/vaporum_lockdown",
    "howlongtobeat": "83331",
    "igdb": "vaporum-lockdown",
+   "metacritic": "vaporum-lockdown",
    "mobygames": "136712",
    "pcgamingwiki": "Vaporum:_Lockdown",
    "steam": "1161880"
@@ -454,6 +468,7 @@
    "howlongtobeat": "133839",
    "igdb": "whisker-squadron-survivor",
    "mobygames": "208295",
+   "pcgamingwiki": "Whisker_Squadron:_Survivor",
    "steam": "2140100"
   },
   "label_en": "Whisker Squadron: Survivor",
@@ -767,6 +782,7 @@
   "enwiki": "Suika Game",
   "ids": {
    "igdb": "suika-game",
+   "metacritic": "suika-game",
    "mobygames": "209919",
    "pcgamingwiki": "Suika_Game",
    "steam": "4572790"
@@ -806,6 +822,7 @@
   "ids": {
    "howlongtobeat": "46184",
    "igdb": "dexed",
+   "metacritic": "dexed",
    "mobygames": "84165",
    "pcgamingwiki": "DEXED",
    "steam": "510290"

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5423",
    "igdb": "luigi-s-mansion",
+   "metacritic": "luigis-mansion",
    "mobygames": "5501"
   },
   "label_en": "Luigi's Mansion",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "3531",
    "igdb": "final-fantasy-xii-revenant-wings",
+   "metacritic": "final-fantasy-xii-revenant-wings",
    "mobygames": "32289"
   },
   "label_en": "Final Fantasy XII: Revenant Wings",
@@ -33,6 +35,7 @@
   "ids": {
    "howlongtobeat": "5400",
    "igdb": "lostwinds",
+   "metacritic": "lostwinds",
    "mobygames": "39158",
    "pcgamingwiki": "LostWinds",
    "steam": "447780"
@@ -55,6 +58,7 @@
    "gog": "game/nancy_drew_curse_of_blackmoor_manor",
    "howlongtobeat": "6358",
    "igdb": "nancy-drew-curse-of-blackmoor-manor",
+   "metacritic": "nancy-drew-curse-of-blackmoor-manor",
    "mobygames": "15138",
    "pcgamingwiki": "Nancy_Drew:_Curse_of_Blackmoor_Manor",
    "steam": "31830"
@@ -98,6 +102,7 @@
    "gog": "game/dark_fall_lights_out",
    "howlongtobeat": "2207",
    "igdb": "dark-fall-2-lights-out",
+   "metacritic": "dark-fall-lights-out",
    "mobygames": "14625",
    "pcgamingwiki": "Dark_Fall_II:_Lights_Out",
    "steam": "260710"
@@ -121,6 +126,7 @@
   "enwiki": "Octomania",
   "ids": {
    "igdb": "octomania",
+   "metacritic": "octomania",
    "mobygames": "39576"
   },
   "label_en": "Octomania",
@@ -171,7 +177,8 @@
  {
   "enwiki": "Mario & Luigi: Superstar Saga + Bowser's Minions",
   "ids": {
-   "igdb": "mario-and-luigi-superstar-saga-plus-bowsers-minions"
+   "igdb": "mario-and-luigi-superstar-saga-plus-bowsers-minions",
+   "metacritic": "mario-and-luigi-superstar-saga-plus-bowsers"
   },
   "label_en": "Mario & Luigi: Superstar Saga + Bowser's Minions",
   "wikidata": "Q11341029"
@@ -206,6 +213,7 @@
   "ids": {
    "howlongtobeat": "44852",
    "igdb": "marvels-spider-man",
+   "metacritic": "marvels-spider-man",
    "mobygames": "113066"
   },
   "label_en": "Spider-Man",
@@ -223,6 +231,7 @@
   "ids": {
    "howlongtobeat": "52107",
    "igdb": "cattails",
+   "metacritic": "cattails",
    "mobygames": "99130",
    "steam": "634160"
   },
@@ -241,6 +250,7 @@
  {
   "ids": {
    "igdb": "animal-planet-vet-life",
+   "metacritic": "animal-planet-vet-life",
    "mobygames": "90574"
   },
   "label_en": "Animal Planet: Vet Life",
@@ -271,6 +281,7 @@
   "ids": {
    "howlongtobeat": "53787",
    "igdb": "squidlit",
+   "metacritic": "squidlit",
    "mobygames": "104552",
    "pcgamingwiki": "Squidlit",
    "steam": "799510"
@@ -392,6 +403,7 @@
   "ids": {
    "igdb": "project-waterfall",
    "mobygames": "201133",
+   "pcgamingwiki": "Project_WATERFALL",
    "steam": "2173910"
   },
   "label_en": "Project: WATERFALL",
@@ -798,6 +810,7 @@
  {
   "ids": {
    "igdb": "spot-the-differences-party",
+   "metacritic": "spot-the-differences-party",
    "mobygames": "95732"
   },
   "label_en": "Spot The Differences! Party",
@@ -805,7 +818,8 @@
  },
  {
   "ids": {
-   "igdb": "bid-battle-auction-war-simulator-storage-hunter"
+   "igdb": "bid-battle-auction-war-simulator-storage-hunter",
+   "metacritic": "bid-battle-auction-war-simulator-storage-hunter"
   },
   "label_en": "Bid Battle: Auction War Simulator Storage Hunter",
   "wikidata": "Q131405029"

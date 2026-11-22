@@ -41,7 +41,8 @@
   "enwiki": "Medieval Moves: Deadmund's Quest",
   "ids": {
    "howlongtobeat": "5794",
-   "igdb": "medieval-moves-deadmunds-quest"
+   "igdb": "medieval-moves-deadmunds-quest",
+   "metacritic": "medieval-moves-deadmunds-quest"
   },
   "label_en": "Medieval Moves: Deadmund's Quest",
   "wikidata": "Q6806829"
@@ -108,6 +109,7 @@
   "ids": {
    "howlongtobeat": "22547",
    "igdb": "rollercoaster-tycoon-world",
+   "metacritic": "rollercoaster-tycoon-world",
    "mobygames": "93813",
    "pcgamingwiki": "RollerCoaster_Tycoon_World",
    "steam": "282560"
@@ -172,6 +174,7 @@
   "ids": {
    "howlongtobeat": "24872",
    "igdb": "tennis-in-the-face",
+   "metacritic": "tennis-in-the-face",
    "mobygames": "77912",
    "pcgamingwiki": "Tennis_in_the_Face",
    "steam": "394290"
@@ -183,6 +186,7 @@
   "ids": {
    "howlongtobeat": "60665",
    "igdb": "the-spiral-scouts",
+   "metacritic": "the-spiral-scouts",
    "mobygames": "111213",
    "pcgamingwiki": "The_Spiral_Scouts",
    "steam": "862480"
@@ -194,6 +198,7 @@
   "ids": {
    "howlongtobeat": "11771",
    "igdb": "cannon-brawl",
+   "metacritic": "cannon-brawl",
    "mobygames": "87153",
    "pcgamingwiki": "Cannon_Brawl",
    "steam": "230860"
@@ -221,6 +226,7 @@
    "gog": "game/pilgrims",
    "howlongtobeat": "71090",
    "igdb": "pilgrims",
+   "metacritic": "pilgrims",
    "mobygames": "135703",
    "pcgamingwiki": "Pilgrims",
    "steam": "1049280"
@@ -300,7 +306,9 @@
   "ids": {
    "howlongtobeat": "112493",
    "igdb": "red-matter-2",
+   "metacritic": "red-matter-2",
    "mobygames": "189822",
+   "pcgamingwiki": "Red_Matter_2",
    "steam": "2081470"
   },
   "label_en": "Red Matter 2",
@@ -309,6 +317,7 @@
  {
   "ids": {
    "igdb": "the-backrooms",
+   "metacritic": "the-backrooms-2019",
    "pcgamingwiki": "The_Backrooms",
    "steam": "1116520"
   },
@@ -854,6 +863,7 @@
  },
  {
   "ids": {
+   "metacritic": "zefyr-prologue",
    "steam": "2320250"
   },
   "label_en": "Zefyr: Prologue",
@@ -865,6 +875,7 @@
    "gog": "game/motorslice",
    "howlongtobeat": "151745",
    "igdb": "motorslice",
+   "metacritic": "motorslice",
    "pcgamingwiki": "Motorslice",
    "steam": "2830030"
   },

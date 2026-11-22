@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "14297",
    "igdb": "iron-front-liberation-1944",
+   "metacritic": "iron-front-liberation-1944",
    "mobygames": "57611",
    "pcgamingwiki": "Iron_Front:_Digital_War_Edition",
    "steam": "91330"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "4047",
    "igdb": "gran-turismo-4",
+   "metacritic": "gran-turismo-4",
    "mobygames": "17689"
   },
   "label_en": "Gran Turismo 4",
@@ -51,6 +53,7 @@
   "ids": {
    "howlongtobeat": "1365",
    "igdb": "buffy-the-vampire-slayer-chaos-bleeds",
+   "metacritic": "buffy-the-vampire-slayer-chaos-bleeds",
    "mobygames": "10184"
   },
   "label_en": "Buffy the Vampire Slayer: Chaos Bleeds",
@@ -78,6 +81,7 @@
   "enwiki": "Metal Gear Acid",
   "ids": {
    "igdb": "metal-gear-acid",
+   "metacritic": "metal-gear-acid",
    "mobygames": "16662"
   },
   "label_en": "Metal Gear Acid",
@@ -102,6 +106,7 @@
   "ids": {
    "howlongtobeat": "8487",
    "igdb": "shoot-many-robots",
+   "metacritic": "shoot-many-robots",
    "mobygames": "55698",
    "pcgamingwiki": "Shoot_Many_Robots",
    "steam": "96400"
@@ -114,6 +119,7 @@
   "ids": {
    "howlongtobeat": "5427",
    "igdb": "lumines-electronic-symphony",
+   "metacritic": "lumines-electronic-symphony",
    "mobygames": "65136"
   },
   "label_en": "Lumines Electronic Symphony",
@@ -179,6 +185,7 @@
   "enwiki": "Sing Party",
   "ids": {
    "igdb": "sing-party",
+   "metacritic": "sing-party",
    "mobygames": "84974"
   },
   "label_en": "Sing Party",
@@ -252,6 +259,7 @@
    "gog": "game/always_sometimes_monsters",
    "howlongtobeat": "18896",
    "igdb": "always-sometimes-monsters",
+   "metacritic": "always-sometimes-monsters",
    "mobygames": "69781",
    "pcgamingwiki": "Always_Sometimes_Monsters",
    "steam": "274310"
@@ -280,6 +288,7 @@
    "gog": "game/return_of_the_obra_dinn",
    "howlongtobeat": "61882",
    "igdb": "return-of-the-obra-dinn",
+   "metacritic": "return-of-the-obra-dinn",
    "mobygames": "115348",
    "pcgamingwiki": "Return_of_the_Obra_Dinn",
    "steam": "653530"
@@ -299,6 +308,7 @@
   "ids": {
    "howlongtobeat": "50784",
    "igdb": "fallout-4-vr",
+   "metacritic": "fallout-4-vr",
    "mobygames": "99349",
    "pcgamingwiki": "Fallout_4_VR",
    "steam": "611660"
@@ -310,6 +320,7 @@
   "enwiki": "SeaBlade",
   "ids": {
    "igdb": "seablade",
+   "metacritic": "seablade",
    "mobygames": "10111"
   },
   "label_en": "SeaBlade",
@@ -414,6 +425,7 @@
   "ids": {
    "howlongtobeat": "53906",
    "igdb": "trivia-vault-video-game-trivia-deluxe",
+   "metacritic": "trivia-vault-video-game-trivia-deluxe",
    "pcgamingwiki": "Trivia_Vault:_Video_Game_Trivia_Deluxe",
    "steam": "730220"
   },
@@ -555,6 +567,7 @@
   "ids": {
    "howlongtobeat": "96030",
    "igdb": "tour-de-france-2020",
+   "metacritic": "tour-de-france-2020",
    "mobygames": "146303",
    "steam": "1287590"
   },

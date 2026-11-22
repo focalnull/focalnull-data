@@ -14,6 +14,7 @@
    "gog": "game/american_conquest",
    "howlongtobeat": "429",
    "igdb": "american-conquest",
+   "metacritic": "american-conquest",
    "mobygames": "8155",
    "pcgamingwiki": "American_Conquest",
    "steam": "115210"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "11376",
    "igdb": "x-men-children-of-the-atom",
+   "metacritic": "x-men-children-of-the-atom",
    "mobygames": "3753",
    "pcgamingwiki": "X-Men:_Children_of_the_Atom"
   },
@@ -37,6 +39,7 @@
   "ids": {
    "howlongtobeat": "8821",
    "igdb": "soulcalibur",
+   "metacritic": "soulcalibur",
    "mobygames": "4010"
   },
   "label_en": "Soulcalibur",
@@ -77,6 +80,7 @@
   "enwiki": "TOCA World Touring Cars",
   "ids": {
    "igdb": "toca-world-touring-cars",
+   "metacritic": "jarrett-labonte-stock-car-racing",
    "mobygames": "12564"
   },
   "label_en": "TOCA World Touring Cars",
@@ -130,6 +134,7 @@
   "ids": {
    "howlongtobeat": "5529",
    "igdb": "magic-pengel-the-quest-for-color",
+   "metacritic": "magic-pengel-the-quest-for-color",
    "mobygames": "11647"
   },
   "label_en": "Magic Pengel: The Quest for Color",
@@ -237,6 +242,7 @@
   "ids": {
    "howlongtobeat": "63244",
    "igdb": "earth-defense-force-5",
+   "metacritic": "earth-defense-force-5",
    "mobygames": "112127",
    "pcgamingwiki": "Earth_Defense_Force_5",
    "steam": "1007040"
@@ -253,6 +259,7 @@
   "ids": {
    "howlongtobeat": "41392",
    "igdb": "ittle-dew-2",
+   "metacritic": "ittle-dew-2",
    "mobygames": "84472",
    "pcgamingwiki": "Ittle_Dew_2",
    "steam": "395620"
@@ -277,6 +284,7 @@
   "ids": {
    "howlongtobeat": "28182",
    "igdb": "state-of-decay-year-one-survival-edition",
+   "metacritic": "state-of-decay-year-one-survival-edition",
    "mobygames": "72496",
    "pcgamingwiki": "State_of_Decay:_Year-One_Survival_Edition",
    "steam": "329430"
@@ -312,6 +320,7 @@
    "gog": "game/obscuritas",
    "howlongtobeat": "35982",
    "igdb": "obscuritas",
+   "metacritic": "obscuritas",
    "mobygames": "82212",
    "pcgamingwiki": "Obscuritas",
    "steam": "441680"
@@ -342,6 +351,7 @@
   "ids": {
    "howlongtobeat": "2655",
    "igdb": "doc-clock-the-toasted-sandwich-of-time",
+   "metacritic": "doc-clock-the-toasted-sandwich-of-time",
    "mobygames": "76953",
    "pcgamingwiki": "Doc_Clock:_The_Toasted_Sandwich_of_Time",
    "steam": "57800"
@@ -352,6 +362,7 @@
  {
   "ids": {
    "igdb": "rabbids-party-of-legends",
+   "metacritic": "rabbids-party-of-legends",
    "pcgamingwiki": "Rabbids:_Party_of_Legends"
   },
   "label_en": "Rabbids: Party of Legends",
@@ -563,6 +574,7 @@
   "ids": {
    "howlongtobeat": "94745",
    "igdb": "vertigo-2",
+   "metacritic": "vertigo-2",
    "mobygames": "201156",
    "pcgamingwiki": "Vertigo_2",
    "steam": "843390"
@@ -744,6 +756,7 @@
   "ids": {
    "howlongtobeat": "72151",
    "igdb": "quantum-league",
+   "metacritic": "quantum-league",
    "mobygames": "145924",
    "pcgamingwiki": "Quantum_League",
    "steam": "651150"
@@ -903,6 +916,7 @@
    "gog": "game/golden_lap",
    "howlongtobeat": "157606",
    "igdb": "golden-lap",
+   "metacritic": "golden-lap",
    "mobygames": "232206",
    "pcgamingwiki": "Golden_Lap",
    "steam": "2052040"
@@ -1045,6 +1059,7 @@
    "gog": "game/legend_of_the_master_baiter",
    "howlongtobeat": "152656",
    "igdb": "legend-of-the-master-baiter",
+   "metacritic": "legend-of-the-master-baiter",
    "mobygames": "226569",
    "steam": "2864830"
   },
@@ -1194,6 +1209,7 @@
    "epic": "people-of-note-e50325",
    "igdb": "people-of-note",
    "mobygames": "258817",
+   "pcgamingwiki": "People_of_Note",
    "steam": "1626170"
   },
   "label_en": "People of Note",
@@ -1213,6 +1229,7 @@
  {
   "ids": {
    "igdb": "star-trek-shadow-frontier",
+   "metacritic": "star-trek-shadow-frontier",
    "pcgamingwiki": "Star_Trek:_Shadow_Frontier",
    "steam": "4744030"
   },

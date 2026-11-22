@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9245",
    "igdb": "street-fighter-x-mega-man",
+   "metacritic": "street-fighter-x-mega-man",
    "mobygames": "59111",
    "pcgamingwiki": "Street_Fighter_X_Mega_Man"
   },
@@ -21,6 +22,7 @@
   "enwiki": "EyeToy: Kinetic",
   "ids": {
    "igdb": "eyetoy-kinetic",
+   "metacritic": "eyetoy-kinetic",
    "mobygames": "20261"
   },
   "label_en": "EyeToy: Kinetic",
@@ -39,6 +41,7 @@
   "ids": {
    "howlongtobeat": "3197",
    "igdb": "eufloria",
+   "metacritic": "eufloria",
    "mobygames": "44208",
    "pcgamingwiki": "Eufloria",
    "steam": "41210"
@@ -87,6 +90,7 @@
   "ids": {
    "howlongtobeat": "13943",
    "igdb": "armored-core-verdict-day",
+   "metacritic": "armored-core-verdict-day",
    "mobygames": "83494"
   },
   "label_en": "Armored Core: Verdict Day",
@@ -105,6 +109,7 @@
   "ids": {
    "howlongtobeat": "14339",
    "igdb": "zoo-tycoon--1",
+   "metacritic": "zoo-tycoon",
    "mobygames": "68521"
   },
   "label_en": "Zoo Tycoon",
@@ -115,6 +120,7 @@
   "ids": {
    "howlongtobeat": "4042",
    "igdb": "graffiti-kingdom",
+   "metacritic": "graffiti-kingdom",
    "mobygames": "27630"
   },
   "label_en": "Graffiti Kingdom",
@@ -160,6 +166,7 @@
   "ids": {
    "howlongtobeat": "144",
    "igdb": "a-walk-in-the-dark",
+   "metacritic": "a-walk-in-the-dark",
    "mobygames": "59118",
    "pcgamingwiki": "A_Walk_in_the_Dark",
    "steam": "248730"
@@ -196,6 +203,7 @@
   "enwiki": "The Alliance Alive",
   "ids": {
    "igdb": "the-alliance-alive",
+   "metacritic": "the-alliance-alive",
    "pcgamingwiki": "The_Alliance_Alive_HD_Remastered"
   },
   "label_en": "The Alliance Alive",
@@ -209,6 +217,7 @@
   "ids": {
    "howlongtobeat": "36718",
    "igdb": "that-bastard-is-trying-to-steal-our-gold",
+   "metacritic": "-that-bastard-is-trying-to-steal-our-gold-",
    "mobygames": "78808",
    "pcgamingwiki": "!_That_Bastard_Is_Trying_To_Steal_Our_Gold_!",
    "steam": "449940"
@@ -221,6 +230,7 @@
   "ids": {
    "howlongtobeat": "78271",
    "igdb": "captain-tsubasa-rise-of-new-champions",
+   "metacritic": "captain-tsubasa-rise-of-new-champions",
    "mobygames": "143299",
    "pcgamingwiki": "Captain_Tsubasa:_Rise_of_New_Champions",
    "steam": "1163550"
@@ -271,6 +281,7 @@
   "ids": {
    "howlongtobeat": "109060",
    "igdb": "call-of-duty-modern-warfare-ii",
+   "metacritic": "call-of-duty-modern-warfare-ii",
    "mobygames": "194349",
    "pcgamingwiki": "Call_of_Duty:_Modern_Warfare_II",
    "steam": "1962660"
@@ -291,7 +302,8 @@
  {
   "enwiki": "Disney Mirrorverse",
   "ids": {
-   "igdb": "disney-mirrorverse"
+   "igdb": "disney-mirrorverse",
+   "metacritic": "disney-mirrorverse"
   },
   "label_en": "Disney Mirrorverse",
   "wikidata": "Q111507584"
@@ -331,6 +343,7 @@
    "howlongtobeat": "90139",
    "igdb": "wordle-4",
    "mobygames": "188640",
+   "pcgamingwiki": "Wordle_4",
    "steam": "1477020"
   },
   "label_en": "Wordle 4",
@@ -403,7 +416,9 @@
    "gog": "game/cat_quest_iii",
    "howlongtobeat": "129264",
    "igdb": "cat-quest-iii",
+   "metacritic": "cat-quest-pirates-of-the-purribean",
    "mobygames": "228860",
+   "pcgamingwiki": "Cat_Quest_III",
    "steam": "2305840"
   },
   "label_en": "Cat Quest III",
@@ -716,6 +731,7 @@
   "ids": {
    "howlongtobeat": "71030",
    "igdb": "espire-1-vr-operative",
+   "metacritic": "espire-1-vr-operative",
    "mobygames": "138025",
    "pcgamingwiki": "Espire_1:_VR_Operative",
    "steam": "669290"
@@ -748,6 +764,7 @@
   "ids": {
    "howlongtobeat": "20456",
    "igdb": "orbital-gear",
+   "metacritic": "orbital-gear",
    "mobygames": "69218",
    "pcgamingwiki": "Orbital_Gear",
    "steam": "298520"
@@ -789,6 +806,7 @@
  {
   "ids": {
    "igdb": "crush-insects",
+   "metacritic": "crush-insects",
    "mobygames": "117352"
   },
   "label_en": "Crush Insects",
@@ -832,6 +850,7 @@
    "epic": "deliver-at-all-costs-a30c8d",
    "gog": "game/deliver_at_all_costs",
    "igdb": "deliver-at-all-costs",
+   "metacritic": "deliver-at-all-costs",
    "pcgamingwiki": "Deliver_At_All_Costs",
    "steam": "1880610"
   },
@@ -1137,6 +1156,7 @@
  {
   "ids": {
    "igdb": "the-secret-of-weepstone",
+   "pcgamingwiki": "The_Secret_of_Weepstone",
    "steam": "3702100"
   },
   "label_en": "The Secret of Weepstone",

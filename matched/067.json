@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "7397",
    "igdb": "pursuit-force",
+   "metacritic": "pursuit-force",
    "mobygames": "22813"
   },
   "label_en": "Pursuit Force",
@@ -52,6 +53,7 @@
   "ids": {
    "howlongtobeat": "5087",
    "igdb": "kiss-psycho-circus-the-nightmare-child",
+   "metacritic": "kiss-psycho-circus",
    "mobygames": "2419",
    "pcgamingwiki": "Kiss:_Psycho_Circus:_The_Nightmare_Child"
   },
@@ -84,6 +86,7 @@
  {
   "ids": {
    "igdb": "hot-brain",
+   "metacritic": "hot-brain",
    "mobygames": "85211"
   },
   "label_en": "Hot Brain",
@@ -110,7 +113,8 @@
  {
   "enwiki": "Start the Party!",
   "ids": {
-   "igdb": "start-the-party"
+   "igdb": "start-the-party",
+   "metacritic": "start-the-party"
   },
   "label_en": "Start the Party!",
   "wikidata": "Q4050067"
@@ -139,6 +143,7 @@
   "enwiki": "Casper: Spirit Dimensions",
   "ids": {
    "igdb": "casper-spirit-dimensions",
+   "metacritic": "casper-spirit-dimensions",
    "mobygames": "8292"
   },
   "label_en": "Casper: Spirit Dimensions",
@@ -180,6 +185,7 @@
  },
  {
   "ids": {
+   "metacritic": "irisu-syndrome",
    "mobygames": "74396"
   },
   "label_en": "Irisu Syndrome!",
@@ -207,6 +213,7 @@
    "gog": "game/sunless_sea",
    "howlongtobeat": "23113",
    "igdb": "sunless-sea",
+   "metacritic": "sunless-sea",
    "mobygames": "71093",
    "pcgamingwiki": "Sunless_Sea",
    "steam": "304650"
@@ -250,6 +257,7 @@
    "gog": "game/oriental_empires",
    "howlongtobeat": "45527",
    "igdb": "oriental-empires",
+   "metacritic": "oriental-empires",
    "mobygames": "96025",
    "pcgamingwiki": "Oriental_Empires",
    "steam": "357310"
@@ -334,6 +342,7 @@
   "enwiki": "Epifrog",
   "ids": {
    "igdb": "epifrog",
+   "metacritic": "epifrog",
    "pcgamingwiki": "Epifrog",
    "steam": "1156350"
   },
@@ -360,6 +369,7 @@
   "enwiki": "Miss Kobayashi's Dragon Maid: Burst Forth!! Choro-gon Breath",
   "ids": {
    "igdb": "miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath",
+   "pcgamingwiki": "Miss_Kobayashi's_Dragon_Maid_Burst_Forth!!_Choro-gon☆Breath_DIRECTOR'S_CUT",
    "steam": "2086380"
   },
   "label_en": "Miss Kobayashi's Dragon Maid: Sakuretsu!! Chorogon Breath",
@@ -370,6 +380,7 @@
   "ids": {
    "howlongtobeat": "74918",
    "igdb": "code-shifter",
+   "metacritic": "code-shifter",
    "mobygames": "140769",
    "pcgamingwiki": "Code_Shifter",
    "steam": "976570"
@@ -673,6 +684,9 @@
   "wikidata": "Q122826067"
  },
  {
+  "ids": {
+   "metacritic": "joshikousei-games-high"
+  },
   "label_en": "Joshi Kōsei Game's High",
   "wikidata": "Q123050067"
  },
@@ -1152,6 +1166,7 @@
  {
   "ids": {
    "igdb": "diaper-dash",
+   "pcgamingwiki": "Diaper_Dash",
    "steam": "37230"
   },
   "label_en": "Diaper Dash®",
@@ -1164,6 +1179,7 @@
  {
   "ids": {
    "igdb": "reblade-the-death-spiral",
+   "pcgamingwiki": "ReBlade:_The_Death_Spiral",
    "steam": "3489340"
   },
   "label_en": "ReBlade: The Death Spiral",

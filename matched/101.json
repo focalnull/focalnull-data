@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "65668",
    "igdb": "simanimals",
+   "metacritic": "simanimals",
    "mobygames": "44403"
   },
   "label_en": "SimAnimals",
@@ -43,6 +44,7 @@
    "gog": "game/desperados_2",
    "howlongtobeat": "2468",
    "igdb": "desperados-2-cooper-s-revenge",
+   "metacritic": "desperados-2-coopers-revenge",
    "mobygames": "23268",
    "pcgamingwiki": "Desperados_2:_Cooper's_Revenge",
    "steam": "9710"
@@ -54,6 +56,7 @@
   "enwiki": "Just Dance (video game)",
   "ids": {
    "igdb": "just-dance",
+   "metacritic": "just-dance",
    "mobygames": "48781"
   },
   "label_en": "Just Dance",
@@ -74,6 +77,7 @@
    "gog": "game/herald_an_interactive_period_drama_book_i_ii",
    "howlongtobeat": "45087",
    "igdb": "herald-an-interactive-period-drama-book-i-and-ii",
+   "metacritic": "herald-an-interactive-period-drama",
    "mobygames": "121314",
    "pcgamingwiki": "Herald:_An_Interactive_Period_Drama",
    "steam": "380810"
@@ -189,6 +193,7 @@
   "enwiki": "Supercar Street Challenge",
   "ids": {
    "igdb": "supercar-street-challenge",
+   "metacritic": "supercar-street-challenge",
    "mobygames": "5393",
    "pcgamingwiki": "Supercar_Street_Challenge"
   },
@@ -202,6 +207,7 @@
    "gog": "game/stalker_2_heart_of_chornobyl_ultimate_edition",
    "howlongtobeat": "81121",
    "igdb": "stalker-2-heart-of-chornobyl",
+   "metacritic": "stalker-2-heart-of-chernobyl",
    "pcgamingwiki": "S.T.A.L.K.E.R._2:_Heart_of_Chornobyl",
    "steam": "1643320"
   },
@@ -258,6 +264,7 @@
   "ids": {
    "howlongtobeat": "4291",
    "igdb": "happy-feet-two",
+   "metacritic": "happy-feet-two-the-videogame",
    "mobygames": "81143"
   },
   "label_en": "Happy Feet Two",
@@ -268,6 +275,7 @@
   "ids": {
    "howlongtobeat": "62277",
    "igdb": "11-11-memories-retold",
+   "metacritic": "11-11-memories-retold",
    "mobygames": "114698",
    "pcgamingwiki": "11-11_Memories_Retold",
    "steam": "735580"
@@ -741,6 +749,7 @@
  {
   "ids": {
    "igdb": "tilelicious-delicious-tiles",
+   "metacritic": "tilelicious-delicious-tiles",
    "mobygames": "86639"
   },
   "label_en": "Tilelicious: Delicious Tiles",
@@ -750,6 +759,7 @@
   "enwiki": "R.E.P.O.",
   "ids": {
    "igdb": "repo",
+   "metacritic": "repo",
    "mobygames": "238836",
    "pcgamingwiki": "R.E.P.O.",
    "steam": "3241660"
@@ -1063,6 +1073,7 @@
  {
   "ids": {
    "igdb": "shmups-skill-test",
+   "pcgamingwiki": "Shmups_Skill_Test",
    "steam": "430290"
   },
   "label_en": "Shmups Skill Test",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "14358",
    "igdb": "destiny",
+   "metacritic": "destiny",
    "mobygames": "68327"
   },
   "label_en": "Destiny",
@@ -59,6 +60,7 @@
   "enwiki": "Fragile Dreams: Farewell Ruins of the Moon",
   "ids": {
    "igdb": "fragile-dreams-farewell-ruins-of-the-moon",
+   "metacritic": "fragile-dreams-farewell-ruins-of-the-moon",
    "mobygames": "47214"
   },
   "label_en": "Fragile Dreams: Farewell Ruins of the Moon",
@@ -101,6 +103,7 @@
   "ids": {
    "howlongtobeat": "6368",
    "igdb": "nancy-drew-the-secret-of-shadow-ranch",
+   "metacritic": "nancy-drew-the-secret-of-shadow-ranch",
    "mobygames": "14155",
    "pcgamingwiki": "Nancy_Drew:_The_Secret_of_Shadow_Ranch",
    "steam": "572740"
@@ -120,6 +123,7 @@
   "enwiki": "Ape Escape: Pumped & Primed",
   "ids": {
    "igdb": "ape-escape-pumped-and-primed--1",
+   "metacritic": "ape-escape-pumped-primed",
    "mobygames": "62646"
   },
   "label_en": "Ape Escape: Pumped & Primed",
@@ -153,7 +157,8 @@
   "enwiki": "Nucleus (video game)",
   "ids": {
    "howlongtobeat": "15820",
-   "igdb": "nucleus"
+   "igdb": "nucleus",
+   "metacritic": "nucleus-2007"
   },
   "label_en": "Nucleus",
   "wikidata": "Q7068275"
@@ -195,6 +200,7 @@
   "ids": {
    "howlongtobeat": "11412",
    "igdb": "xiaolin-showdown",
+   "metacritic": "xiaolin-showdown",
    "mobygames": "30874"
   },
   "label_en": "Xiaolin Showdown",
@@ -221,6 +227,7 @@
   "enwiki": "ProStroke Golf: World Tour 2007",
   "ids": {
    "igdb": "prostroke-golf-world-tour-2007",
+   "metacritic": "prostroke-golf-world-tour-2007",
    "mobygames": "43690"
   },
   "label_en": "ProStroke Golf: World Tour 2007",
@@ -270,6 +277,7 @@
  {
   "ids": {
    "igdb": "the-vampire-diaries",
+   "metacritic": "the-vampire-diaries",
    "mobygames": "24234",
    "pcgamingwiki": "The_Vampire_Diaries"
   },
@@ -294,6 +302,7 @@
    "epic": "valorant",
    "howlongtobeat": "76906",
    "igdb": "valorant",
+   "metacritic": "valorant",
    "mobygames": "146290",
    "pcgamingwiki": "Valorant"
   },
@@ -304,6 +313,7 @@
   "ids": {
    "howlongtobeat": "63157",
    "igdb": "prey-typhon-hunter",
+   "metacritic": "prey-mooncrash",
    "mobygames": "121813",
    "pcgamingwiki": "Prey:_Typhon_Hunter",
    "steam": "741820"
@@ -338,6 +348,7 @@
    "epic": "lake",
    "howlongtobeat": "80207",
    "igdb": "lake",
+   "metacritic": "lake",
    "mobygames": "171352",
    "pcgamingwiki": "Lake",
    "steam": "1118240"
@@ -749,7 +760,8 @@
  },
  {
   "ids": {
-   "igdb": "setsuna-ni-kakeru-koi-hanabi"
+   "igdb": "setsuna-ni-kakeru-koi-hanabi",
+   "metacritic": "setsuna-ni-kakeru-koi-hanabi"
   },
   "label_en": "Setsuna ni Kakeru Koi Hanabi",
   "wikidata": "Q131343275"
@@ -1019,7 +1031,8 @@
  {
   "enwiki": "Unhinged (video game)",
   "ids": {
-   "igdb": "unhinged--4"
+   "igdb": "unhinged--4",
+   "metacritic": "unhinged"
   },
   "label_en": "Unhinged",
   "wikidata": "Q140933275"

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9207",
    "igdb": "steins-gate",
+   "metacritic": "steinsgate",
    "mobygames": "86393",
    "pcgamingwiki": "Steins;Gate",
    "steam": "412830"
@@ -63,6 +64,7 @@
   "enwiki": "Reservoir Dogs (video game)",
   "ids": {
    "igdb": "reservoir-dogs",
+   "metacritic": "reservoir-dogs",
    "mobygames": "23746",
    "pcgamingwiki": "Reservoir_Dogs",
    "steam": "419360"
@@ -118,6 +120,7 @@
   "enwiki": "Knack (video game)",
   "ids": {
    "igdb": "knack",
+   "metacritic": "knack",
    "mobygames": "63910"
   },
   "label_en": "Knack",
@@ -173,6 +176,7 @@
   "ids": {
    "howlongtobeat": "29671",
    "igdb": "danganronpa-another-episode-ultra-despair-girls",
+   "metacritic": "danganronpa-another-episode-ultra-despair-girls",
    "mobygames": "73373",
    "pcgamingwiki": "Danganronpa_Another_Episode:_Ultra_Despair_Girls",
    "steam": "555950"
@@ -192,10 +196,16 @@
   "wikidata": "Q24256494"
  },
  {
+  "ids": {
+   "metacritic": "dragon-ninjas"
+  },
   "label_en": "Dragon Ninjas",
   "wikidata": "Q54257494"
  },
  {
+  "ids": {
+   "metacritic": "frantics"
+  },
   "label_en": "Frantics",
   "wikidata": "Q56297494"
  },
@@ -203,7 +213,8 @@
   "enwiki": "MLB The Show 20",
   "ids": {
    "howlongtobeat": "71376",
-   "igdb": "mlb-the-show-20"
+   "igdb": "mlb-the-show-20",
+   "metacritic": "mlb-the-show-20"
   },
   "label_en": "MLB: The Show 20",
   "wikidata": "Q74120494"
@@ -212,6 +223,7 @@
   "ids": {
    "howlongtobeat": "1733",
    "igdb": "cladun-x2",
+   "metacritic": "cladun-x2",
    "mobygames": "85069",
    "pcgamingwiki": "Cladun_X2",
    "steam": "206250"
@@ -266,6 +278,7 @@
    "gog": "game/beacon_pines",
    "howlongtobeat": "94111",
    "igdb": "beacon-pines",
+   "metacritic": "beacon-pines",
    "mobygames": "191506",
    "pcgamingwiki": "Beacon_Pines",
    "steam": "1269640"
@@ -277,6 +290,7 @@
   "ids": {
    "howlongtobeat": "74233",
    "igdb": "dungeon-defenders-awakened",
+   "metacritic": "dungeon-defenders-awakened",
    "mobygames": "142824",
    "pcgamingwiki": "Dungeon_Defenders:_Awakened",
    "steam": "1101190"
@@ -605,6 +619,7 @@
   "ids": {
    "howlongtobeat": "163815",
    "igdb": "shinobi-art-of-vengeance",
+   "metacritic": "shinobi-art-of-vengeance",
    "mobygames": "245849",
    "pcgamingwiki": "Shinobi:_Art_of_Vengeance",
    "steam": "2361770"
@@ -701,6 +716,7 @@
    "gog": "game/airhead",
    "howlongtobeat": "87826",
    "igdb": "airhead",
+   "metacritic": "airhead",
    "mobygames": "218313",
    "pcgamingwiki": "Airhead",
    "steam": "771700"
@@ -745,6 +761,7 @@
  {
   "ids": {
    "igdb": "prank-tv",
+   "metacritic": "prank-tv",
    "mobygames": "29795"
   },
   "label_en": "Prank TV",

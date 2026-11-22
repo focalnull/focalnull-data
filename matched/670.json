@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "8560",
    "igdb": "simcity-4",
+   "metacritic": "simcity-4",
    "mobygames": "7999",
    "pcgamingwiki": "SimCity_4",
    "steam": "24780"
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "8494",
    "igdb": "shuffle",
+   "metacritic": "shuffle-on-the-stage",
    "mobygames": "91164",
    "pcgamingwiki": "Shuffle!",
    "steam": "537100"
@@ -47,6 +49,7 @@
    "gog": "game/jack_keane",
    "howlongtobeat": "4778",
    "igdb": "jack-keane",
+   "metacritic": "jack-keane",
    "mobygames": "29651",
    "pcgamingwiki": "Jack_Keane",
    "steam": "12340"
@@ -78,6 +81,7 @@
   "enwiki": "Yu-Gi-Oh! GX Tag Force",
   "ids": {
    "igdb": "yu-gi-oh-gx-tag-force",
+   "metacritic": "yu-gi-oh-gx-tag-force",
    "mobygames": "55372"
   },
   "label_en": "Yu-Gi-Oh! GX Tag Force",
@@ -87,6 +91,7 @@
   "enwiki": "SimCity Creator (Nintendo DS)",
   "ids": {
    "igdb": "simcity-creator",
+   "metacritic": "simcity-creator",
    "mobygames": "44337"
   },
   "label_en": "SimCity DS 2",
@@ -144,6 +149,7 @@
   "ids": {
    "howlongtobeat": "7419",
    "igdb": "puzzle-chronicles",
+   "metacritic": "puzzle-chronicles",
    "mobygames": "47277",
    "pcgamingwiki": "Puzzle_Chronicles",
    "steam": "19020"
@@ -165,6 +171,7 @@
   "ids": {
    "howlongtobeat": "305",
    "igdb": "airmech",
+   "metacritic": "airmech-arena",
    "mobygames": "77252",
    "pcgamingwiki": "AirMech_Strike",
    "steam": "206500"
@@ -188,6 +195,7 @@
    "gog": "game/bittrip_presents_runner2_future_legend_of_rhythm_alien",
    "howlongtobeat": "1084",
    "igdb": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien",
+   "metacritic": "bittrip-presentsrunner2-future-legend-of-rhythm-alien",
    "mobygames": "59875",
    "pcgamingwiki": "Bit.Trip_Presents..._Runner2:_Future_Legend_of_Rhythm_Alien",
    "steam": "218060"
@@ -200,6 +208,7 @@
   "ids": {
    "howlongtobeat": "4107",
    "igdb": "greg-hastings-tournament-paintball-max-d",
+   "metacritic": "greg-hastings-tournament-paintball-maxd",
    "mobygames": "88234"
   },
   "label_en": "Greg Hastings Tournament Paintball MAX'D",
@@ -219,6 +228,7 @@
   "ids": {
    "howlongtobeat": "4994",
    "igdb": "disneyland-adventures",
+   "metacritic": "kinect-disneyland-adventures",
    "mobygames": "54999",
    "pcgamingwiki": "Disneyland_Adventures",
    "steam": "630610"
@@ -230,6 +240,7 @@
   "enwiki": "Looney Tunes: Space Race",
   "ids": {
    "igdb": "looney-tunes-space-race",
+   "metacritic": "looney-tunes-space-race",
    "mobygames": "12412"
   },
   "label_en": "Looney Tunes: Space Race",
@@ -299,6 +310,7 @@
  {
   "ids": {
    "igdb": "yu-gi-oh-zexal-world-duel-carnival",
+   "metacritic": "yu-gi-oh-zexal-world-duel-carnival",
    "mobygames": "85727"
   },
   "label_en": "Yu-Gi-Oh! Zexal: World Duel Carnival",
@@ -324,7 +336,8 @@
   "enwiki": "Hell Cab",
   "ids": {
    "igdb": "hell-cab",
-   "mobygames": "4384"
+   "mobygames": "4384",
+   "pcgamingwiki": "Hell_Cab"
   },
   "label_en": "Hell Cab",
   "wikidata": "Q74108670"
@@ -346,6 +359,7 @@
    "gog": "game/unpacking",
    "howlongtobeat": "69666",
    "igdb": "unpacking",
+   "metacritic": "unpacking",
    "mobygames": "174628",
    "pcgamingwiki": "Unpacking",
    "steam": "1135690"
@@ -372,7 +386,8 @@
  {
   "enwiki": "Pokémon Scarlet",
   "ids": {
-   "igdb": "pokemon-scarlet"
+   "igdb": "pokemon-scarlet",
+   "metacritic": "pokemon-scarlet"
   },
   "label_en": "Pokémon Scarlet",
   "wikidata": "Q111031670"
@@ -415,6 +430,7 @@
   "ids": {
    "howlongtobeat": "72872",
    "igdb": "trivia-vault-toy-trivia",
+   "metacritic": "trivia-vault-toy-trivia",
    "pcgamingwiki": "Trivia_Vault:_Toy_Trivia",
    "steam": "860340"
   },
@@ -852,6 +868,7 @@
  {
   "ids": {
    "igdb": "battle-spirits-crossover",
+   "metacritic": "battle-spirits-crossover",
    "steam": "2752470"
   },
   "label_en": "Battle Spirits CrossOver",
@@ -1213,6 +1230,7 @@
  {
   "ids": {
    "igdb": "komori-fruit-rush",
+   "pcgamingwiki": "Kōmori_Fruit_Rush",
    "steam": "1179340"
   },
   "label_en": "Kōmori Fruit Rush",

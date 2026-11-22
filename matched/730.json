@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "6565",
    "igdb": "nhl-2001",
+   "metacritic": "nhl-2001",
    "mobygames": "2483",
    "pcgamingwiki": "NHL_2001"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "11303",
    "igdb": "worms-3d",
+   "metacritic": "worms-3d",
    "mobygames": "10822",
    "pcgamingwiki": "Worms_3D"
   },
@@ -54,6 +56,7 @@
   "ids": {
    "howlongtobeat": "10494",
    "igdb": "tony-hawk-s-pro-skater-3",
+   "metacritic": "tony-hawks-pro-skater-3",
    "mobygames": "5279",
    "pcgamingwiki": "Tony_Hawk's_Pro_Skater_3"
   },
@@ -84,6 +87,7 @@
   "ids": {
    "howlongtobeat": "15629",
    "igdb": "mario-sports-mix",
+   "metacritic": "mario-sports-mix",
    "mobygames": "52416"
   },
   "label_en": "Mario Sports Mix",
@@ -109,6 +113,7 @@
   "enwiki": "Johnny Kung Fu",
   "ids": {
    "igdb": "johnny-kung-fu",
+   "metacritic": "johnny-kung-fu",
    "mobygames": "99945"
   },
   "label_en": "Johnny Kung Fu",
@@ -163,6 +168,7 @@
    "gog": "game/shadowgrounds_survivor",
    "howlongtobeat": "8359",
    "igdb": "shadowgrounds-survivor",
+   "metacritic": "shadowgrounds-survivor",
    "mobygames": "31235",
    "pcgamingwiki": "Shadowgrounds:_Survivor",
    "steam": "11200"
@@ -179,6 +185,10 @@
   "wikidata": "Q7572730"
  },
  {
+  "label_en": "Novels ~Game Center Arashi R~",
+  "wikidata": "Q11325730"
+ },
+ {
   "enwiki": "Knight Moves (video game)",
   "ids": {
    "igdb": "knight-moves",
@@ -191,6 +201,7 @@
   "enwiki": "Planet of the Apes (video game)",
   "ids": {
    "igdb": "planet-of-the-apes--1",
+   "metacritic": "planet-of-the-apes",
    "mobygames": "9740",
    "pcgamingwiki": "Planet_of_the_Apes"
   },
@@ -202,6 +213,7 @@
   "ids": {
    "howlongtobeat": "17501",
    "igdb": "cloudbuilt",
+   "metacritic": "cloudbuilt",
    "mobygames": "93167",
    "pcgamingwiki": "Cloudbuilt",
    "steam": "262390"
@@ -215,6 +227,7 @@
    "gog": "game/we_are_the_dwarves",
    "howlongtobeat": "34949",
    "igdb": "we-are-the-dwarves",
+   "metacritic": "we-are-the-dwarves",
    "mobygames": "86146",
    "pcgamingwiki": "We_Are_the_Dwarves",
    "steam": "395570"
@@ -227,6 +240,7 @@
   "ids": {
    "howlongtobeat": "62911",
    "igdb": "nba-2k-playgrounds-2",
+   "metacritic": "nba-2k-playgrounds-2",
    "mobygames": "115008",
    "pcgamingwiki": "NBA_2K_Playgrounds_2",
    "steam": "726590"
@@ -237,6 +251,7 @@
  {
   "ids": {
    "igdb": "enadakina",
+   "metacritic": "enadakina",
    "pcgamingwiki": "Enadakina",
    "steam": "1004160"
   },
@@ -247,6 +262,7 @@
   "ids": {
    "howlongtobeat": "21197",
    "igdb": "zen-fish-sim",
+   "metacritic": "zen-fish-sim",
    "mobygames": "108393",
    "pcgamingwiki": "Zen_Fish_SIM",
    "steam": "321310"
@@ -264,6 +280,7 @@
   "ids": {
    "howlongtobeat": "77688",
    "igdb": "guilty-gear-strive",
+   "metacritic": "guilty-gear-strive-",
    "mobygames": "166087",
    "pcgamingwiki": "Guilty_Gear_Strive",
    "steam": "1384160"
@@ -392,6 +409,7 @@
   "ids": {
    "howlongtobeat": "127335",
    "igdb": "arcana-of-paradise-the-tower",
+   "metacritic": "arcana-of-paradise-the-tower-",
    "mobygames": "208831",
    "steam": "2089500"
   },
@@ -484,6 +502,7 @@
  {
   "ids": {
    "igdb": "morrow",
+   "pcgamingwiki": "Morrow",
    "steam": "2160230"
   },
   "label_en": "Morrow",
@@ -698,6 +717,7 @@
   "ids": {
    "howlongtobeat": "77724",
    "igdb": "deathtrap-dungeon-the-interactive-video-adventure",
+   "metacritic": "deathtrap-dungeon-the-interactive-video-adventure",
    "mobygames": "141087",
    "pcgamingwiki": "Deathtrap_Dungeon:_The_Interactive_Video_Adventure",
    "steam": "1191940"
@@ -775,6 +795,7 @@
   "ids": {
    "howlongtobeat": "25181",
    "igdb": "the-sun-and-moon",
+   "metacritic": "the-sun-and-moon",
    "mobygames": "82017",
    "pcgamingwiki": "The_Sun_and_Moon",
    "steam": "321560"
@@ -1024,6 +1045,7 @@
   "ids": {
    "howlongtobeat": "169791",
    "igdb": "idle-waters",
+   "metacritic": "idle-waters",
    "mobygames": "243722",
    "steam": "2963540"
   },

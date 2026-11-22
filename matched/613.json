@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10046",
    "igdb": "the-legend-of-zelda-twilight-princess",
+   "metacritic": "the-legend-of-zelda-twilight-princess",
    "mobygames": "25103"
   },
   "label_en": "The Legend of Zelda: Twilight Princess",
@@ -41,6 +42,7 @@
    "gog": "game/garou_mark_of_the_wolves",
    "howlongtobeat": "3405",
    "igdb": "garou-mark-of-the-wolves",
+   "metacritic": "fatal-fury-mark-of-the-wolves",
    "mobygames": "5467",
    "pcgamingwiki": "Garou:_Mark_of_the_Wolves",
    "steam": "366240"
@@ -133,6 +135,7 @@
   "ids": {
    "howlongtobeat": "6431",
    "igdb": "nba-2k6",
+   "metacritic": "nba-2k6",
    "mobygames": "35686"
   },
   "label_en": "NBA 2K6",
@@ -169,6 +172,7 @@
   "ids": {
    "howlongtobeat": "5232",
    "igdb": "legend-of-the-dragon",
+   "metacritic": "legend-of-the-dragon",
    "mobygames": "82464"
   },
   "label_en": "Legend of the Dragon",
@@ -188,6 +192,7 @@
   "enwiki": "Aqua Teen Hunger Force Zombie Ninja Pro-Am",
   "ids": {
    "igdb": "aqua-teen-hunger-force-zombie-ninja-pro-am",
+   "metacritic": "aqua-teen-hunger-force-zombie-ninja-pro-am",
    "mobygames": "34896"
   },
   "label_en": "Aqua Teen Hunger Force Zombie Ninja Pro-Am",
@@ -215,6 +220,7 @@
   "enwiki": "Hot Wheels: Stunt Track Challenge",
   "ids": {
    "igdb": "hot-wheels-stunt-track-challenge",
+   "metacritic": "hot-wheels-stunt-track-challenge",
    "mobygames": "15809",
    "pcgamingwiki": "Hot_Wheels:_Stunt_Track_Challenge"
   },
@@ -295,6 +301,7 @@
    "gog": "game/anodyne",
    "howlongtobeat": "492",
    "igdb": "anodyne",
+   "metacritic": "anodyne",
    "mobygames": "67102",
    "pcgamingwiki": "Anodyne",
    "steam": "234900"
@@ -313,6 +320,7 @@
   "ids": {
    "howlongtobeat": "30810",
    "igdb": "uncharted-the-nathan-drake-collection",
+   "metacritic": "uncharted-the-nathan-drake-collection",
    "mobygames": "75215"
   },
   "label_en": "Uncharted: The Nathan Drake Collection",
@@ -341,6 +349,7 @@
   "enwiki": "MonsterBag",
   "ids": {
    "igdb": "monsterbag--1",
+   "metacritic": "monsterbag",
    "mobygames": "88463"
   },
   "label_en": "MonsterBag",
@@ -370,6 +379,7 @@
   "enwiki": "Pokémon Sleep",
   "ids": {
    "igdb": "pokemon-sleep",
+   "metacritic": "pokemon-sleep",
    "mobygames": "206412"
   },
   "label_en": "Pokémon Sleep",
@@ -380,6 +390,7 @@
    "gog": "game/west_of_dead_path_of_the_crow_edition",
    "howlongtobeat": "77696",
    "igdb": "west-of-dead",
+   "metacritic": "west-of-dead",
    "mobygames": "146961",
    "pcgamingwiki": "West_of_Dead",
    "steam": "1016790"
@@ -699,6 +710,7 @@
   "ids": {
    "howlongtobeat": "89132",
    "igdb": "tens",
+   "metacritic": "tens",
    "mobygames": "128837",
    "steam": "1373290"
   },

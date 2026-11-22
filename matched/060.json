@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "10063",
    "igdb": "the-lord-of-the-rings-the-battle-for-middle-earth",
+   "metacritic": "the-lord-of-the-rings-the-battle-for-middle-earth",
    "mobygames": "15857",
    "pcgamingwiki": "The_Lord_of_the_Rings:_The_Battle_for_Middle-earth"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "7113",
    "igdb": "playboy-the-mansion",
+   "metacritic": "playboy-the-mansion",
    "mobygames": "16393",
    "pcgamingwiki": "Playboy:_The_Mansion"
   },
@@ -34,6 +36,7 @@
   "enwiki": "SimCity DS",
   "ids": {
    "igdb": "simcity-ds",
+   "metacritic": "simcity-ds",
    "mobygames": "28819"
   },
   "label_en": "SimCity DS",
@@ -44,6 +47,7 @@
   "ids": {
    "howlongtobeat": "19273",
    "igdb": "sid-meier-s-simgolf",
+   "metacritic": "sid-meiers-simgolf",
    "mobygames": "5700",
    "pcgamingwiki": "Sid_Meier's_SimGolf"
   },
@@ -55,6 +59,7 @@
   "ids": {
    "howlongtobeat": "12910",
    "igdb": "gauntlet-ii",
+   "metacritic": "gauntlet-ii",
    "mobygames": "3481",
    "pcgamingwiki": "Gauntlet_II"
   },
@@ -71,6 +76,7 @@
    "epic": "superbrothers-sword-and-sworcery-ep",
    "howlongtobeat": "9473",
    "igdb": "superbrothers-sword-sworcery-ep",
+   "metacritic": "superbrothers-sword-sworcery-ep",
    "mobygames": "53825",
    "pcgamingwiki": "Superbrothers:_Sword_&_Sworcery_EP",
    "steam": "204060"
@@ -96,6 +102,7 @@
   "ids": {
    "howlongtobeat": "8019",
    "igdb": "rune-factory-2-a-fantasy-harvest-moon",
+   "metacritic": "rune-factory-2-a-fantasy-harvest-moon",
    "mobygames": "43654"
   },
   "label_en": "Rune Factory 2",
@@ -114,6 +121,7 @@
   "enwiki": "Yu-Gi-Oh! The Dawn of Destiny",
   "ids": {
    "igdb": "yu-gi-oh-the-dawn-of-destiny",
+   "metacritic": "yu-gi-oh-the-dawn-of-destiny",
    "mobygames": "12719"
   },
   "label_en": "Yu-Gi-Oh! The Dawn of Destiny",
@@ -172,6 +180,7 @@
   "enwiki": "Pokémon White",
   "ids": {
    "igdb": "pokemon-white-version",
+   "metacritic": "pokemon-white-version",
    "mobygames": "50753"
   },
   "label_en": "Pokémon White",
@@ -186,6 +195,7 @@
   "ids": {
    "howlongtobeat": "14627",
    "igdb": "savage-moon",
+   "metacritic": "savage-moon",
    "mobygames": "89357"
   },
   "label_en": "Savage Moon",
@@ -196,6 +206,7 @@
   "ids": {
    "howlongtobeat": "13814",
    "igdb": "consortium",
+   "metacritic": "consortium",
    "mobygames": "78225",
    "pcgamingwiki": "Consortium",
    "steam": "264240"
@@ -248,6 +259,7 @@
   "ids": {
    "howlongtobeat": "25105",
    "igdb": "a-pixel-story",
+   "metacritic": "a-pixel-story",
    "mobygames": "84213",
    "pcgamingwiki": "A_Pixel_Story",
    "steam": "339460"
@@ -266,6 +278,7 @@
   "ids": {
    "howlongtobeat": "45397",
    "igdb": "cuit",
+   "metacritic": "cuit",
    "mobygames": "222403",
    "pcgamingwiki": "Cuit",
    "steam": "614890"
@@ -294,6 +307,7 @@
    "epic": "lawn-mowing-simulator-838bf3",
    "howlongtobeat": "100032",
    "igdb": "lawn-mowing-simulator",
+   "metacritic": "lawn-mowing-simulator",
    "mobygames": "169178",
    "pcgamingwiki": "Lawn_Mowing_Simulator",
    "steam": "1480560"
@@ -317,6 +331,7 @@
   "ids": {
    "howlongtobeat": "107689",
    "igdb": "the-centennial-case-a-shijima-story",
+   "metacritic": "the-centennial-case-a-shijima-story",
    "pcgamingwiki": "The_Centennial_Case:_A_Shijima_Story",
    "steam": "1612780"
   },

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11286",
    "igdb": "world-of-warcraft",
+   "metacritic": "world-of-warcraft",
    "mobygames": "15620",
    "pcgamingwiki": "World_of_Warcraft"
   },
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "6470",
    "igdb": "need-for-speed-iii-hot-pursuit",
+   "metacritic": "need-for-speed-iii-hot-pursuit",
    "mobygames": "636",
    "pcgamingwiki": "Need_for_Speed_III:_Hot_Pursuit"
   },
@@ -45,6 +47,7 @@
    "gog": "game/saboteur",
    "howlongtobeat": "10157",
    "igdb": "the-saboteur",
+   "metacritic": "the-saboteur",
    "mobygames": "43902",
    "pcgamingwiki": "The_Saboteur",
    "steam": "24880"
@@ -88,6 +91,7 @@
   "ids": {
    "howlongtobeat": "8594",
    "igdb": "siren-blood-curse",
+   "metacritic": "siren-blood-curse",
    "mobygames": "38017"
   },
   "label_en": "Siren: Blood Curse",
@@ -108,6 +112,7 @@
   "ids": {
    "howlongtobeat": "10066",
    "igdb": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+   "metacritic": "the-lord-of-the-rings-the-fellowship-of-the-ring",
    "mobygames": "7419",
    "pcgamingwiki": "The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(2002)"
   },
@@ -118,6 +123,7 @@
   "enwiki": "Eliminator (1998 video game)",
   "ids": {
    "igdb": "eliminator--3",
+   "metacritic": "eliminator",
    "mobygames": "3698"
   },
   "label_en": "Eliminator",
@@ -127,6 +133,7 @@
   "enwiki": "Matt Hazard: Blood Bath and Beyond",
   "ids": {
    "igdb": "matt-hazard-blood-bath-and-beyond",
+   "metacritic": "matt-hazard-blood-bath-and-beyond",
    "mobygames": "46035"
   },
   "label_en": "Matt Hazard: Blood Bath and Beyond",
@@ -161,6 +168,7 @@
    "gog": "game/full_metal_daemon_muramasa",
    "howlongtobeat": "98366",
    "igdb": "full-metal-daemon-muramasa",
+   "metacritic": "full-metal-daemon-muramasa",
    "mobygames": "179614",
    "pcgamingwiki": "Full_Metal_Daemon_Muramasa"
   },
@@ -203,6 +211,7 @@
    "gog": "game/the_book_of_unwritten_tales_2",
    "howlongtobeat": "21507",
    "igdb": "the-book-of-unwritten-tales-2",
+   "metacritic": "the-book-of-unwritten-tales-2",
    "mobygames": "71230",
    "pcgamingwiki": "The_Book_of_Unwritten_Tales_2",
    "steam": "279940"
@@ -218,6 +227,7 @@
   "ids": {
    "howlongtobeat": "41982",
    "igdb": "icey",
+   "metacritic": "icey",
    "mobygames": "84443",
    "pcgamingwiki": "ICEY",
    "steam": "553640"
@@ -230,6 +240,7 @@
   "ids": {
    "howlongtobeat": "56237",
    "igdb": "fishing-barents-sea",
+   "metacritic": "fishing-barents-sea",
    "mobygames": "102913",
    "pcgamingwiki": "Fishing:_Barents_Sea",
    "steam": "501080"
@@ -245,6 +256,7 @@
   "ids": {
    "howlongtobeat": "46923",
    "igdb": "pro-cycling-manager-2017",
+   "metacritic": "pro-cycling-manager-2017",
    "mobygames": "90637",
    "pcgamingwiki": "Pro_Cycling_Manager_2017",
    "steam": "525920"
@@ -256,6 +268,7 @@
   "enwiki": "High Heat Major League Baseball 2002",
   "ids": {
    "igdb": "high-heat-major-league-baseball-2002",
+   "metacritic": "high-heat-major-league-baseball-2002",
    "mobygames": "8223"
   },
   "label_en": "High Heat Major League Baseball 2002",
@@ -401,6 +414,7 @@
    "gog": "game/sovereign_syndicate",
    "howlongtobeat": "112911",
    "igdb": "sovereign-syndicate",
+   "metacritic": "sovereign-syndicate",
    "mobygames": "215748",
    "pcgamingwiki": "Sovereign_Syndicate",
    "steam": "1674920"
@@ -736,6 +750,7 @@
   "ids": {
    "howlongtobeat": "60640",
    "igdb": "unknown-fate",
+   "metacritic": "unknown-fate",
    "mobygames": "123185",
    "pcgamingwiki": "Unknown_Fate",
    "steam": "510390"
@@ -1156,5 +1171,13 @@
  {
   "label_en": "LibreCorsa",
   "wikidata": "Q142117007"
+ },
+ {
+  "ids": {
+   "igdb": "tome-of-ruin-the-word-dungeon",
+   "steam": "5559550"
+  },
+  "label_en": "Tome of Ruin: The Word Dungeon",
+  "wikidata": "Q142209007"
  }
 ]

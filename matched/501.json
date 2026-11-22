@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "4058",
    "igdb": "grand-theft-auto",
+   "metacritic": "grand-theft-auto",
    "mobygames": "417",
    "pcgamingwiki": "Grand_Theft_Auto"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "475",
    "igdb": "animal-crossing-wild-world",
+   "metacritic": "animal-crossing-wild-world",
    "mobygames": "20448"
   },
   "label_en": "Animal Crossing: Wild World",
@@ -34,6 +36,7 @@
   "ids": {
    "howlongtobeat": "8168",
    "igdb": "scarface-the-world-is-yours",
+   "metacritic": "scarface-the-world-is-yours",
    "mobygames": "25362",
    "pcgamingwiki": "Scarface:_The_World_Is_Yours"
   },
@@ -44,6 +47,7 @@
   "enwiki": "The World Is Not Enough (Nintendo 64 video game)",
   "ids": {
    "igdb": "james-bond-007-the-world-is-not-enough--1",
+   "metacritic": "007-the-world-is-not-enough",
    "mobygames": "3969"
   },
   "label_en": "The World Is Not Enough",
@@ -64,6 +68,7 @@
    "gog": "game/cold_fear",
    "howlongtobeat": "1795",
    "igdb": "cold-fear",
+   "metacritic": "cold-fear",
    "mobygames": "17599",
    "pcgamingwiki": "Cold_Fear",
    "steam": "15270"
@@ -75,6 +80,7 @@
   "enwiki": "Jak X: Combat Racing",
   "ids": {
    "igdb": "jak-x-combat-racing",
+   "metacritic": "jak-x-combat-racing",
    "mobygames": "20329"
   },
   "label_en": "Jak X: Combat Racing",
@@ -95,6 +101,7 @@
   "ids": {
    "howlongtobeat": "3233",
    "igdb": "every-extend-extra",
+   "metacritic": "every-extend-extra",
    "mobygames": "26531"
   },
   "label_en": "Every Extend Extra",
@@ -170,6 +177,7 @@
   "ids": {
    "howlongtobeat": "9336",
    "igdb": "super-bust-a-move",
+   "metacritic": "super-bust-a-move",
    "mobygames": "3551",
    "pcgamingwiki": "Super_Puzzle_Bobble"
   },
@@ -205,7 +213,8 @@
  {
   "enwiki": "Tiger Woods PGA Tour (video game)",
   "ids": {
-   "igdb": "tiger-woods-pga-tour--1"
+   "igdb": "tiger-woods-pga-tour--1",
+   "metacritic": "tiger-woods-pga-tour"
   },
   "label_en": "Tiger Woods PGA Tour",
   "wikidata": "Q7801501"
@@ -289,6 +298,7 @@
   "ids": {
    "howlongtobeat": "61143",
    "igdb": "shadowlings",
+   "metacritic": "shadowlings",
    "pcgamingwiki": "Shadowlings",
    "steam": "883020"
   },
@@ -312,6 +322,7 @@
    "epic": "genesis-alpha-one",
    "howlongtobeat": "63097",
    "igdb": "genesis",
+   "metacritic": "genesis-alpha-one",
    "mobygames": "132841",
    "pcgamingwiki": "Genesis_Alpha_One",
    "steam": "712190"
@@ -326,6 +337,7 @@
    "gog": "game/hypnospace_outlaw",
    "howlongtobeat": "65593",
    "igdb": "hypnospace-outlaw",
+   "metacritic": "hypnospace-outlaw",
    "mobygames": "123473",
    "pcgamingwiki": "Hypnospace_Outlaw",
    "steam": "844590"
@@ -378,6 +390,7 @@
   "enwiki": "Minecraft: New Nintendo 3DS Edition",
   "ids": {
    "igdb": "minecraft-new-nintendo-3ds-edition",
+   "metacritic": "minecraft-new-nintendo-3ds-edition",
    "mobygames": "95964"
   },
   "label_en": "Minecraft: New Nintendo 3DS Edition",
@@ -405,6 +418,7 @@
    "gog": "game/deaths_door",
    "howlongtobeat": "90590",
    "igdb": "deaths-door",
+   "metacritic": "deaths-door",
    "mobygames": "168005",
    "pcgamingwiki": "Death's_Door",
    "steam": "894020"
@@ -433,6 +447,7 @@
    "gog": "game/diplomacy_is_not_an_option",
    "howlongtobeat": "103886",
    "igdb": "diplomacy-is-not-an-option",
+   "metacritic": "diplomacy-is-not-an-option",
    "mobygames": "179803",
    "pcgamingwiki": "Diplomacy_Is_Not_an_Option",
    "steam": "1272320"
@@ -455,6 +470,7 @@
  {
   "ids": {
    "igdb": "warplan-pacific",
+   "pcgamingwiki": "WarPlan_Pacific",
    "steam": "1896160"
   },
   "label_en": "Warplan Pacific",
@@ -852,6 +868,7 @@
   "ids": {
    "howlongtobeat": "136426",
    "igdb": "blue-prince",
+   "metacritic": "blue-prince",
    "mobygames": "240176",
    "pcgamingwiki": "Blue_Prince",
    "steam": "1569580"

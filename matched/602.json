@@ -34,6 +34,7 @@
   "ids": {
    "howlongtobeat": "7351",
    "igdb": "project-gotham-racing-4",
+   "metacritic": "project-gotham-racing-4",
    "mobygames": "31650"
   },
   "label_en": "Project Gotham Racing 4",
@@ -57,6 +58,7 @@
   "enwiki": "Tony Hawk: Ride",
   "ids": {
    "igdb": "tony-hawk-ride",
+   "metacritic": "tony-hawk-ride",
    "mobygames": "75283"
   },
   "label_en": "Tony Hawk: Ride",
@@ -104,7 +106,8 @@
  {
   "enwiki": "Shred Nebula",
   "ids": {
-   "igdb": "shred-nebula"
+   "igdb": "shred-nebula",
+   "metacritic": "shred-nebula"
   },
   "label_en": "Shred Nebula",
   "wikidata": "Q3482602"
@@ -113,6 +116,7 @@
   "enwiki": "Major League Baseball 2K7",
   "ids": {
    "igdb": "major-league-baseball-2k7",
+   "metacritic": "major-league-baseball-2k7",
    "mobygames": "33944"
   },
   "label_en": "Major League Baseball 2K7",
@@ -123,6 +127,7 @@
   "ids": {
    "howlongtobeat": "13819",
    "igdb": "men-in-black-ii-alien-escape",
+   "metacritic": "men-in-black-ii-alien-escape",
    "mobygames": "8339"
   },
   "label_en": "Men in Black II: Alien Escape",
@@ -133,6 +138,7 @@
   "ids": {
    "howlongtobeat": "22750",
    "igdb": "rulers-of-nations",
+   "metacritic": "rulers-of-nations",
    "mobygames": "103535",
    "pcgamingwiki": "Rulers_of_Nations",
    "steam": "311040"
@@ -146,6 +152,7 @@
    "gog": "game/skulls_of_the_shogun",
    "howlongtobeat": "8610",
    "igdb": "skulls-of-the-shogun",
+   "metacritic": "skulls-of-the-shogun",
    "mobygames": "65676",
    "pcgamingwiki": "Skulls_of_the_Shogun",
    "steam": "228960"
@@ -219,6 +226,7 @@
   "enwiki": "Golf Resort Tycoon",
   "ids": {
    "igdb": "golf-resort-tycoon",
+   "metacritic": "golf-resort-tycoon",
    "mobygames": "5186",
    "pcgamingwiki": "Golf_Resort_Tycoon"
   },
@@ -288,6 +296,7 @@
   "enwiki": "NCAA Basketball 09",
   "ids": {
    "igdb": "ncaa-basketball-09",
+   "metacritic": "ncaa-basketball-09-march-madness-edition",
    "mobygames": "54482"
   },
   "label_en": "NCAA Basketball '09",
@@ -311,6 +320,7 @@
   "ids": {
    "howlongtobeat": "23761",
    "igdb": "armello",
+   "metacritic": "armello",
    "mobygames": "78688",
    "pcgamingwiki": "Armello",
    "steam": "290340"
@@ -333,6 +343,7 @@
    "gog": "game/sherlock_holmes_the_devils_daughter",
    "howlongtobeat": "37444",
    "igdb": "sherlock-holmes-the-devils-daughter",
+   "metacritic": "sherlock-holmes-the-devils-daughter",
    "mobygames": "81862",
    "pcgamingwiki": "Sherlock_Holmes:_The_Devil's_Daughter",
    "steam": "350640"
@@ -403,6 +414,7 @@
   "ids": {
    "howlongtobeat": "55598",
    "igdb": "descenders",
+   "metacritic": "descenders",
    "mobygames": "103007",
    "pcgamingwiki": "Descenders",
    "steam": "681280"
@@ -433,6 +445,7 @@
   "ids": {
    "howlongtobeat": "44465",
    "igdb": "president-erect-vr",
+   "metacritic": "president-erect-vr",
    "mobygames": "153114",
    "pcgamingwiki": "President_Erect_VR",
    "steam": "572000"
@@ -446,6 +459,7 @@
    "gog": "game/beyond_a_steel_sky",
    "howlongtobeat": "69840",
    "igdb": "beyond-a-steel-sky",
+   "metacritic": "beyond-a-steel-sky",
    "mobygames": "147438",
    "pcgamingwiki": "Beyond_a_Steel_Sky",
    "steam": "1146310"
@@ -490,6 +504,7 @@
   "ids": {
    "howlongtobeat": "76129",
    "igdb": "hatsune-miku-project-diva-mega-mix-plus",
+   "metacritic": "hatsune-miku-project-diva-megamix-plus",
    "mobygames": "184983",
    "pcgamingwiki": "Hatsune_Miku:_Project_DIVA_Mega_Mix+",
    "steam": "1761390"
@@ -532,6 +547,7 @@
   "ids": {
    "howlongtobeat": "103697",
    "igdb": "grapple-dog",
+   "metacritic": "grapple-dog",
    "mobygames": "179495",
    "pcgamingwiki": "Grapple_dog",
    "steam": "1345860"
@@ -544,6 +560,7 @@
   "ids": {
    "howlongtobeat": "111890",
    "igdb": "gal-guardians-demon-purge",
+   "metacritic": "gal-guardians-demon-purge",
    "mobygames": "199728",
    "pcgamingwiki": "Grim_Guardians:_Demon_Purge",
    "steam": "2081400"
@@ -567,7 +584,9 @@
   "ids": {
    "howlongtobeat": "124561",
    "igdb": "limbus-company",
+   "metacritic": "limbus-company",
    "mobygames": "200001",
+   "pcgamingwiki": "Limbus_Company",
    "steam": "1973530"
   },
   "label_en": "Limbus Company",
@@ -578,6 +597,7 @@
   "ids": {
    "howlongtobeat": "77704",
    "igdb": "minekos-night-market",
+   "metacritic": "minekos-night-market",
    "mobygames": "209086",
    "pcgamingwiki": "Mineko's_Night_Market",
    "steam": "762940"
@@ -870,6 +890,7 @@
    "gog": "game/ufo_robot_grendizer_the_feast_of_the_wolves",
    "howlongtobeat": "131871",
    "igdb": "ufo-robot-grendizer-the-feast-of-the-wolves",
+   "metacritic": "ufo-robot-grendizer-the-feast-of-the-wolves",
    "mobygames": "211923",
    "pcgamingwiki": "UFO_Robot_Grendizer:_The_Feast_of_the_Wolves",
    "steam": "2295970"
@@ -1033,6 +1054,7 @@
   "ids": {
    "howlongtobeat": "117867",
    "igdb": "elf-girl-pinball",
+   "metacritic": "elf-girl-pinball",
    "mobygames": "202645",
    "steam": "2074890"
   },
@@ -1335,6 +1357,7 @@
  {
   "ids": {
    "igdb": "code-of-princess-ex",
+   "metacritic": "code-of-princess-ex",
    "mobygames": "109083",
    "pcgamingwiki": "Code_of_Princess_EX",
    "steam": "711380"

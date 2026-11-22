@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "28951",
    "igdb": "dofus",
+   "metacritic": "dofus",
    "mobygames": "43752",
    "pcgamingwiki": "Dofus",
    "steam": "254300"
@@ -26,6 +27,7 @@
    "gog": "game/tropico_3_gold_edition",
    "howlongtobeat": "10672",
    "igdb": "tropico-3",
+   "metacritic": "tropico-3",
    "mobygames": "42587",
    "pcgamingwiki": "Tropico_3",
    "steam": "23490"
@@ -57,6 +59,7 @@
   "ids": {
    "howlongtobeat": "13523",
    "igdb": "overgrowth",
+   "metacritic": "overgrowth",
    "mobygames": "97163",
    "pcgamingwiki": "Overgrowth",
    "steam": "25000"
@@ -198,6 +201,7 @@
    "gog": "game/earthlock",
    "howlongtobeat": "40345",
    "igdb": "earthlock-festival-of-magic",
+   "metacritic": "earthlock-festival-of-magic",
    "mobygames": "83036",
    "pcgamingwiki": "Earthlock:_Festival_of_Magic",
    "steam": "761030"
@@ -210,6 +214,7 @@
   "ids": {
    "howlongtobeat": "21251",
    "igdb": "dragon-ball-xenoverse",
+   "metacritic": "dragon-ball-xenoverse",
    "mobygames": "83379",
    "pcgamingwiki": "Dragon_Ball_Xenoverse",
    "steam": "323470"
@@ -251,6 +256,7 @@
    "gog": "game/minecraft_story_mode_season_2",
    "howlongtobeat": "47324",
    "igdb": "minecraft-story-mode-season-two",
+   "metacritic": "minecraft-story-mode-season-two-the-telltale",
    "mobygames": "92423",
    "pcgamingwiki": "Minecraft:_Story_Mode_-_Season_Two",
    "steam": "639170"
@@ -263,6 +269,7 @@
   "ids": {
    "howlongtobeat": "42342",
    "igdb": "99vidas",
+   "metacritic": "99vidas",
    "mobygames": "87490",
    "pcgamingwiki": "99Vidas_-_The_Game",
    "steam": "557040"
@@ -276,6 +283,7 @@
    "epic": "wheels-of-aurelia",
    "howlongtobeat": "40120",
    "igdb": "wheels-of-aurelia",
+   "metacritic": "wheels-of-aurelia",
    "mobygames": "80831",
    "pcgamingwiki": "Wheels_of_Aurelia",
    "steam": "508740"
@@ -296,6 +304,7 @@
   "ids": {
    "howlongtobeat": "65013",
    "igdb": "hytale",
+   "metacritic": "hytale",
    "pcgamingwiki": "Hytale"
   },
   "label_en": "Hytale",
@@ -343,6 +352,7 @@
    "howlongtobeat": "89819",
    "igdb": "sizeable",
    "mobygames": "161065",
+   "pcgamingwiki": "Sizeable",
    "steam": "1333910"
   },
   "label_en": "Sizeable",
@@ -352,6 +362,7 @@
   "ids": {
    "howlongtobeat": "13122",
    "igdb": "questrun",
+   "metacritic": "questrun",
    "mobygames": "98182",
    "pcgamingwiki": "QuestRun",
    "steam": "286120"
@@ -361,7 +372,8 @@
  },
  {
   "ids": {
-   "igdb": "real-steel-world-robot-boxing--1"
+   "igdb": "real-steel-world-robot-boxing--1",
+   "metacritic": "real-steel-world-robot-boxing"
   },
   "label_en": "Real Steel World Robot Boxing",
   "wikidata": "Q108577866"
@@ -719,6 +731,7 @@
   "ids": {
    "howlongtobeat": "115513",
    "igdb": "i-told-you-so",
+   "metacritic": "i-told-you-so",
    "mobygames": "203191",
    "pcgamingwiki": "I_Told_You_So!",
    "steam": "1802700"
@@ -777,6 +790,7 @@
    "gog": "game/holy_potatoes_a_weapon_shop",
    "howlongtobeat": "28063",
    "igdb": "holy-potatoes-a-weapon-shop",
+   "metacritic": "holy-potatoes-a-weapon-shop",
    "mobygames": "93856",
    "pcgamingwiki": "Holy_Potatoes!_A_Weapon_Shop?!",
    "steam": "363600"
@@ -798,6 +812,7 @@
   "ids": {
    "howlongtobeat": "19084",
    "igdb": "cahors-sunset",
+   "metacritic": "cahors-sunset",
    "mobygames": "135916",
    "pcgamingwiki": "Cahors_Sunset",
    "steam": "341700"
@@ -905,7 +920,8 @@
   "enwiki": "Endless Ocean Luminous",
   "ids": {
    "howlongtobeat": "145832",
-   "igdb": "endless-ocean-luminous"
+   "igdb": "endless-ocean-luminous",
+   "metacritic": "endless-ocean-luminous"
   },
   "label_en": "Endless Ocean Luminous",
   "wikidata": "Q124628866"

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10589",
    "igdb": "toy-story-3-the-video-game",
+   "metacritic": "toy-story-3",
    "mobygames": "47618",
    "pcgamingwiki": "Toy_Story_3:_The_Video_Game",
    "steam": "300820"
@@ -15,6 +16,7 @@
   "enwiki": "FIFA 07",
   "ids": {
    "igdb": "fifa-soccer-07",
+   "metacritic": "fifa-07-soccer",
    "mobygames": "25508",
    "pcgamingwiki": "FIFA_07"
   },
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "5645",
    "igdb": "mario-party-5",
+   "metacritic": "mario-party-5",
    "mobygames": "11134"
   },
   "label_en": "Mario Party 5",
@@ -70,6 +73,7 @@
   "ids": {
    "howlongtobeat": "2327",
    "igdb": "dead-rising-2",
+   "metacritic": "dead-rising-2",
    "mobygames": "48368",
    "pcgamingwiki": "Dead_Rising_2",
    "steam": "45740"
@@ -81,6 +85,7 @@
   "enwiki": "Yoshi's Story",
   "ids": {
    "igdb": "yoshi-s-story",
+   "metacritic": "yoshis-story",
    "mobygames": "3540"
   },
   "label_en": "Yoshi's Story",
@@ -90,6 +95,7 @@
   "enwiki": "Ratchet: Deadlocked",
   "ids": {
    "igdb": "ratchet-deadlocked",
+   "metacritic": "ratchet-deadlocked",
    "mobygames": "20575"
   },
   "label_en": "Ratchet: Deadlocked",
@@ -110,6 +116,7 @@
    "gog": "game/worms_forts_under_siege",
    "howlongtobeat": "24179",
    "igdb": "worms-forts-under-siege",
+   "metacritic": "worms-forts-under-siege",
    "mobygames": "19064",
    "pcgamingwiki": "Worms_Forts:_Under_Siege"
   },
@@ -130,6 +137,7 @@
   "ids": {
    "howlongtobeat": "2482",
    "igdb": "destruction-derby-raw",
+   "metacritic": "destruction-derby-raw",
    "mobygames": "6299"
   },
   "label_en": "Destruction Derby Raw",
@@ -158,6 +166,7 @@
   "ids": {
    "howlongtobeat": "6239",
    "igdb": "motorstorm-rc",
+   "metacritic": "motorstorm-rc",
    "mobygames": "57941"
   },
   "label_en": "MotorStorm: RC",
@@ -168,6 +177,7 @@
   "ids": {
    "howlongtobeat": "8467",
    "igdb": "shinobi--2",
+   "metacritic": "shinobi",
    "mobygames": "53570"
   },
   "label_en": "Shinobi",
@@ -295,6 +305,7 @@
   "enwiki": "Detective Pikachu (video game)",
   "ids": {
    "igdb": "detective-pikachu",
+   "metacritic": "detective-pikachu",
    "mobygames": "101736"
   },
   "label_en": "Detective Pikachu",
@@ -320,6 +331,7 @@
  {
   "ids": {
    "igdb": "karaoke-revolution-party",
+   "metacritic": "karaoke-revolution-party",
    "mobygames": "21684"
   },
   "label_en": "Karaoke Revolution Party",
@@ -411,6 +423,7 @@
   "ids": {
    "howlongtobeat": "120573",
    "igdb": "heartworm",
+   "pcgamingwiki": "Heartworm",
    "steam": "1257030"
   },
   "label_en": "Heartworm",
@@ -622,6 +635,7 @@
   "ids": {
    "howlongtobeat": "30391",
    "igdb": "conflicks-revolutionary-space-battles",
+   "metacritic": "conflicks-revolutionary-space-battles",
    "mobygames": "134438",
    "pcgamingwiki": "Conflicks_-_Revolutionary_Space_Battles",
    "steam": "288260"
@@ -1040,6 +1054,7 @@
  {
   "ids": {
    "igdb": "flying-circus",
+   "pcgamingwiki": "Flying_Circus",
    "steam": "980770"
   },
   "label_en": "Flying Circus",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2574",
    "igdb": "dirt-3",
+   "metacritic": "dirt-3",
    "mobygames": "52121",
    "pcgamingwiki": "DiRT_3"
   },
@@ -16,6 +17,7 @@
    "gog": "game/the_bards_tale",
    "howlongtobeat": "9771",
    "igdb": "tales-of-the-unknown-volume-i-the-bard-s-tale",
+   "metacritic": "the-bards-tale",
    "mobygames": "819",
    "pcgamingwiki": "The_Bard's_Tale",
    "steam": "41900"
@@ -28,6 +30,7 @@
   "ids": {
    "howlongtobeat": "2088",
    "igdb": "csi-ny",
+   "metacritic": "csi-ny",
    "mobygames": "38088",
    "pcgamingwiki": "CSI:_NY_-_The_Game",
    "steam": "21750"
@@ -51,6 +54,7 @@
   "ids": {
    "howlongtobeat": "10434",
    "igdb": "tom-clancy-s-ghost-recon-future-soldier",
+   "metacritic": "tom-clancys-ghost-recon-future-soldier",
    "mobygames": "57315",
    "pcgamingwiki": "Tom_Clancy's_Ghost_Recon:_Future_Soldier",
    "steam": "212630"
@@ -63,6 +67,7 @@
   "ids": {
    "howlongtobeat": "5259",
    "igdb": "lego-rock-band",
+   "metacritic": "lego-rock-band",
    "mobygames": "88876"
   },
   "label_en": "Lego Rock Band",
@@ -89,6 +94,7 @@
  {
   "ids": {
    "igdb": "phantasy-star-online-ver-2",
+   "metacritic": "phantasy-star-online-ver-2",
    "mobygames": "5510"
   },
   "label_en": "Phantasy Star Online version 2",
@@ -98,6 +104,7 @@
   "enwiki": "Road Rash: Jailbreak",
   "ids": {
    "igdb": "road-rash-jailbreak",
+   "metacritic": "road-rash-jailbreak",
    "mobygames": "3555"
   },
   "label_en": "Road Rash: Jailbreak",
@@ -116,6 +123,7 @@
   "enwiki": "Dragon Valor",
   "ids": {
    "igdb": "dragon-valor",
+   "metacritic": "dragon-valor",
    "mobygames": "6575"
   },
   "label_en": "Dragon Valor",
@@ -130,6 +138,7 @@
   "ids": {
    "howlongtobeat": "47415",
    "igdb": "nancy-drew-message-in-a-haunted-mansion",
+   "metacritic": "nancy-drew-message-in-a-haunted-mansion",
    "mobygames": "4908",
    "pcgamingwiki": "Nancy_Drew:_Message_in_a_Haunted_Mansion",
    "steam": "615770"
@@ -142,6 +151,7 @@
   "ids": {
    "howlongtobeat": "1204",
    "igdb": "blue-dragon-awakened-shadow",
+   "metacritic": "blue-dragon-awakened-shadow",
    "mobygames": "71602"
   },
   "label_en": "Blue Dragon: Awakened Shadow",
@@ -175,6 +185,7 @@
   "ids": {
    "howlongtobeat": "20249",
    "igdb": "zoo-tycoon-2-ds",
+   "metacritic": "zoo-tycoon-2-ds",
    "mobygames": "80284"
   },
   "label_en": "Zoo Tycoon 2 DS",
@@ -211,6 +222,7 @@
    "epic": "killing-floor-2",
    "howlongtobeat": "25991",
    "igdb": "killing-floor-2",
+   "metacritic": "killing-floor-2",
    "mobygames": "77388",
    "pcgamingwiki": "Killing_Floor_2",
    "steam": "232090"
@@ -233,6 +245,7 @@
  },
  {
   "ids": {
+   "metacritic": "game-watch-flagman",
    "mobygames": "86467"
   },
   "label_en": "Game & Watch: Flagman",
@@ -279,6 +292,7 @@
    "gog": "game/halfway",
    "howlongtobeat": "20561",
    "igdb": "halfway",
+   "metacritic": "halfway",
    "mobygames": "78220",
    "pcgamingwiki": "Halfway",
    "steam": "253150"
@@ -380,6 +394,7 @@
    "gog": "game/the_planet_crafter",
    "howlongtobeat": "106188",
    "igdb": "planet-crafter",
+   "metacritic": "the-planet-crafter",
    "mobygames": "182136",
    "pcgamingwiki": "The_Planet_Crafter",
    "steam": "1284190"
@@ -436,6 +451,7 @@
   "ids": {
    "howlongtobeat": "121838",
    "igdb": "antonblast",
+   "metacritic": "antonblast",
    "pcgamingwiki": "Antonblast",
    "steam": "1887400"
   },
@@ -1193,6 +1209,7 @@
  {
   "ids": {
    "igdb": "zenerchi",
+   "pcgamingwiki": "Zenerchi",
    "steam": "37290"
   },
   "label_en": "Zenerchi®",
@@ -1233,6 +1250,7 @@
   "enwiki": "Wo Long 2: Wings of Ember",
   "ids": {
    "igdb": "wo-long-2-wings-of-ember",
+   "metacritic": "wo-long-2-wings-of-ember",
    "pcgamingwiki": "Wo_Long_2:_Wings_of_Ember",
    "steam": "4507990"
   },

@@ -17,6 +17,7 @@
   "ids": {
    "howlongtobeat": "4672",
    "igdb": "indigo-prophecy",
+   "metacritic": "indigo-prophecy",
    "mobygames": "19212",
    "pcgamingwiki": "Fahrenheit",
    "steam": "9740"
@@ -47,6 +48,7 @@
   "ids": {
    "howlongtobeat": "10097",
    "igdb": "the-misadventures-of-pb-winterbottom",
+   "metacritic": "the-misadventures-of-pb-winterbottom",
    "mobygames": "45439",
    "pcgamingwiki": "The_Misadventures_of_P.B._Winterbottom",
    "steam": "40930"
@@ -112,6 +114,7 @@
  },
  {
   "ids": {
+   "metacritic": "shifting-world",
    "mobygames": "99809"
   },
   "label_en": "Shifting World",
@@ -188,6 +191,7 @@
    "gog": "game/rogue_legacy",
    "howlongtobeat": "11774",
    "igdb": "rogue-legacy",
+   "metacritic": "rogue-legacy",
    "mobygames": "61110",
    "pcgamingwiki": "Rogue_Legacy",
    "steam": "241600"
@@ -200,6 +204,7 @@
   "ids": {
    "howlongtobeat": "20226",
    "igdb": "star-conflict",
+   "metacritic": "star-conflict",
    "mobygames": "83275",
    "pcgamingwiki": "Star_Conflict",
    "steam": "212070"
@@ -212,6 +217,7 @@
   "ids": {
    "howlongtobeat": "27409",
    "igdb": "karmaflow-the-rock-opera-videogame",
+   "metacritic": "karmaflow-the-rock-opera-videogame",
    "mobygames": "107348",
    "pcgamingwiki": "Karmaflow:_The_Rock_Opera_Videogame_-_Act_I_&_Act_II",
    "steam": "317940"
@@ -223,6 +229,7 @@
   "enwiki": "Prince of Persia: The Forgotten Sands (Wii)",
   "ids": {
    "igdb": "prince-of-persia-the-forgotten-sands--1",
+   "metacritic": "prince-of-persia-the-forgotten-sands",
    "mobygames": "66148"
   },
   "label_en": "Prince of Persia: The Forgotten Sands",
@@ -244,6 +251,7 @@
   "ids": {
    "howlongtobeat": "28952",
    "igdb": "yu-gi-oh-legacy-of-the-duelist",
+   "metacritic": "yu-gi-oh-legacy-of-the-duelist",
    "mobygames": "74528",
    "pcgamingwiki": "Yu-Gi-Oh!_Legacy_of_the_Duelist",
    "steam": "480650"
@@ -259,6 +267,7 @@
   "ids": {
    "howlongtobeat": "26168",
    "igdb": "olympia-rising",
+   "metacritic": "olympia-rising",
    "mobygames": "91619",
    "pcgamingwiki": "Olympia_Rising",
    "steam": "295910"
@@ -287,6 +296,7 @@
   "ids": {
    "howlongtobeat": "70951",
    "igdb": "efootball-pes-2020",
+   "metacritic": "efootball-pes-2020",
    "mobygames": "134518",
    "pcgamingwiki": "EFootball_PES_2020",
    "steam": "996470"
@@ -411,6 +421,7 @@
    "gog": "game/el_paso_elsewhere",
    "howlongtobeat": "95197",
    "igdb": "el-paso-elsewhere",
+   "metacritic": "el-paso-elsewhere",
    "mobygames": "209406",
    "pcgamingwiki": "El_Paso,_Elsewhere",
    "steam": "1546310"
@@ -630,6 +641,7 @@
   "ids": {
    "howlongtobeat": "59445",
    "igdb": "vandals",
+   "metacritic": "vandals",
    "mobygames": "117448",
    "pcgamingwiki": "Vandals",
    "steam": "809240"
@@ -754,6 +766,7 @@
   "ids": {
    "howlongtobeat": "145658",
    "igdb": "20-small-mazes",
+   "metacritic": "20-small-mazes",
    "mobygames": "220160",
    "pcgamingwiki": "20_Small_Mazes",
    "steam": "2570630"
@@ -1161,6 +1174,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Ninja_JaJaMaru:_Yokai_Night_Parade",
    "steam": "4173010"
   },
   "label_en": "Ninja JaJaMaru: Yokai Night Parade",

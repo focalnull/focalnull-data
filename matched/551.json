@@ -81,6 +81,7 @@
   "ids": {
    "howlongtobeat": "6205",
    "igdb": "mortal-kombat-advance",
+   "metacritic": "mortal-kombat-advance",
    "mobygames": "6593"
   },
   "label_en": "Mortal Kombat Advance",
@@ -104,6 +105,7 @@
   "ids": {
    "howlongtobeat": "2638",
    "igdb": "dj-hero-2",
+   "metacritic": "dj-hero-2",
    "mobygames": "52511"
   },
   "label_en": "DJ Hero 2",
@@ -135,7 +137,8 @@
  {
   "enwiki": "Spectral Force 3",
   "ids": {
-   "igdb": "spectral-force-3"
+   "igdb": "spectral-force-3",
+   "metacritic": "spectral-force-3"
   },
   "label_en": "Spectral Force 3",
   "wikidata": "Q6149551"
@@ -161,6 +164,7 @@
   "enwiki": "MLB Power Pros",
   "ids": {
    "igdb": "mlb-power-pros",
+   "metacritic": "mlb-power-pros",
    "mobygames": "81905"
   },
   "label_en": "MLB Power Pros",
@@ -170,6 +174,7 @@
   "enwiki": "Nicktoons MLB",
   "ids": {
    "igdb": "nicktoons-mlb",
+   "metacritic": "nicktoons-mlb",
    "mobygames": "92017"
   },
   "label_en": "Nicktoons MLB",
@@ -232,6 +237,7 @@
   "ids": {
    "howlongtobeat": "24167",
    "igdb": "forza-motorsport-6",
+   "metacritic": "forza-motorsport-6",
    "mobygames": "75709",
    "pcgamingwiki": "Forza_Motorsport_6:_Apex"
   },
@@ -244,6 +250,7 @@
    "gog": "game/huniepop",
    "howlongtobeat": "23645",
    "igdb": "huniepop",
+   "metacritic": "huniepop",
    "mobygames": "71331",
    "pcgamingwiki": "HuniePop",
    "steam": "339800"
@@ -301,6 +308,7 @@
   "ids": {
    "howlongtobeat": "35442",
    "igdb": "warden-melody-of-the-undergrowth",
+   "metacritic": "warden-melody-of-the-undergrowth",
    "mobygames": "125467",
    "pcgamingwiki": "Warden:_Melody_of_the_Undergrowth",
    "steam": "338310"
@@ -315,6 +323,7 @@
    "gog": "game/call_of_the_sea",
    "howlongtobeat": "77918",
    "igdb": "call-of-the-sea",
+   "metacritic": "call-of-the-sea",
    "mobygames": "154162",
    "pcgamingwiki": "Call_of_the_Sea",
    "steam": "1042490"
@@ -329,6 +338,7 @@
    "gog": "game/sherlock_holmes_chapter_one",
    "howlongtobeat": "82678",
    "igdb": "sherlock-holmes-chapter-one",
+   "metacritic": "sherlock-holmes-chapter-one",
    "mobygames": "175574",
    "pcgamingwiki": "Sherlock_Holmes:_Chapter_One",
    "steam": "1137300"
@@ -422,6 +432,7 @@
   "ids": {
    "howlongtobeat": "94136",
    "igdb": "made-in-abyss-binary-star-falling-into-darkness",
+   "metacritic": "made-in-abyss-binary-star-falling-into-darkness",
    "mobygames": "190136",
    "pcgamingwiki": "Made_in_Abyss:_Binary_Star_Falling_into_Darkness",
    "steam": "1324340"
@@ -455,6 +466,7 @@
   "ids": {
    "howlongtobeat": "91724",
    "igdb": "enter-the-backrooms",
+   "metacritic": "enter-the-backrooms",
    "steam": "1511670"
   },
   "label_en": "Enter The Backrooms",
@@ -463,7 +475,8 @@
  {
   "enwiki": "Final Fantasy VII: The First Soldier",
   "ids": {
-   "igdb": "final-fantasy-vii-the-first-soldier"
+   "igdb": "final-fantasy-vii-the-first-soldier",
+   "metacritic": "final-fantasy-vii-the-first-soldier"
   },
   "label_en": "Final Fantasy VII: The First Soldier",
   "wikidata": "Q115813551"
@@ -475,6 +488,7 @@
    "gog": "game/age_of_wonders_4",
    "howlongtobeat": "123146",
    "igdb": "age-of-wonders-4",
+   "metacritic": "age-of-wonders-4",
    "mobygames": "202495",
    "pcgamingwiki": "Age_of_Wonders_4",
    "steam": "1669000"
@@ -937,6 +951,7 @@
   "ids": {
    "howlongtobeat": "148588",
    "igdb": "border-bots-vr",
+   "metacritic": "border-bots-vr",
    "mobygames": "217634",
    "steam": "874440"
   },
@@ -948,6 +963,7 @@
   "ids": {
    "howlongtobeat": "163821",
    "igdb": "warriors-abyss",
+   "metacritic": "warriors-abyss",
    "pcgamingwiki": "Warriors:_Abyss",
    "steam": "3178350"
   },

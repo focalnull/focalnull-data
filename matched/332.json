@@ -5,6 +5,7 @@
    "gog": "game/the_moment_of_silence",
    "howlongtobeat": "10099",
    "igdb": "the-moment-of-silence",
+   "metacritic": "the-moment-of-silence",
    "mobygames": "15726",
    "pcgamingwiki": "The_Moment_of_Silence",
    "steam": "339840"
@@ -18,6 +19,7 @@
    "gog": "game/hogs_of_war",
    "howlongtobeat": "4485",
    "igdb": "hogs-of-war",
+   "metacritic": "hogs-of-war",
    "mobygames": "3443",
    "pcgamingwiki": "Hogs_of_War",
    "steam": "389900"
@@ -40,6 +42,7 @@
   "ids": {
    "howlongtobeat": "9610",
    "igdb": "tales-of-xillia",
+   "metacritic": "tales-of-xillia",
    "mobygames": "83600"
   },
   "label_en": "Tales of Xillia",
@@ -68,6 +71,7 @@
   "ids": {
    "howlongtobeat": "1445",
    "igdb": "cabela-s-dangerous-hunts-2011",
+   "metacritic": "cabelas-dangerous-hunts-2011",
    "mobygames": "142997"
   },
   "label_en": "Cabela's Dangerous Hunts 2011",
@@ -78,6 +82,7 @@
   "ids": {
    "howlongtobeat": "3326",
    "igdb": "faery-legends-of-avalon",
+   "metacritic": "faery-legends-of-avalon",
    "mobygames": "52167",
    "pcgamingwiki": "Faery:_Legends_of_Avalon",
    "steam": "303790"
@@ -99,6 +104,7 @@
   "ids": {
    "howlongtobeat": "9839",
    "igdb": "the-dishwasher-vampire-smile",
+   "metacritic": "the-dishwasher-vampire-smile",
    "mobygames": "65398",
    "pcgamingwiki": "The_Dishwasher:_Vampire_Smile",
    "steam": "268990"
@@ -111,6 +117,7 @@
   "ids": {
    "howlongtobeat": "9398",
    "igdb": "super-monkey-ball-3d",
+   "metacritic": "super-monkey-ball-3d",
    "mobygames": "74858"
   },
   "label_en": "Super Monkey Ball 3D",
@@ -142,6 +149,7 @@
   "ids": {
    "howlongtobeat": "23859",
    "igdb": "alone-in-the-dark-illumination",
+   "metacritic": "alone-in-the-dark-illumination",
    "mobygames": "74031",
    "pcgamingwiki": "Alone_in_the_Dark:_Illumination",
    "steam": "275060"
@@ -155,6 +163,7 @@
    "gog": "game/kitty_powers_matchmaker",
    "howlongtobeat": "28386",
    "igdb": "kitty-powers-matchmaker",
+   "metacritic": "kitty-powers-matchmaker",
    "mobygames": "83733",
    "pcgamingwiki": "Kitty_Powers'_Matchmaker",
    "steam": "285740"
@@ -167,6 +176,7 @@
   "ids": {
    "howlongtobeat": "31255",
    "igdb": "saint-seiya-soldiers-soul",
+   "metacritic": "saint-seiya-soldiers-soul",
    "mobygames": "81424",
    "pcgamingwiki": "Saint_Seiya:_Soldiers'_Soul",
    "steam": "348710"
@@ -178,6 +188,7 @@
   "ids": {
    "howlongtobeat": "25230",
    "igdb": "starwhal",
+   "metacritic": "starwhal",
    "mobygames": "72852",
    "pcgamingwiki": "Starwhal",
    "steam": "263020"
@@ -197,6 +208,7 @@
   "ids": {
    "howlongtobeat": "48206",
    "igdb": "dead-in-vinland",
+   "metacritic": "dead-in-vinland",
    "mobygames": "107040",
    "pcgamingwiki": "Dead_in_Vinland",
    "steam": "573120"
@@ -237,6 +249,7 @@
   "ids": {
    "howlongtobeat": "85703",
    "igdb": "vegas-party--1",
+   "metacritic": "vegas-party",
    "mobygames": "86029",
    "pcgamingwiki": "Vegas_Party",
    "steam": "389330"
@@ -269,6 +282,7 @@
  {
   "ids": {
    "igdb": "picross-e8",
+   "metacritic": "picross-e8",
    "mobygames": "99719"
   },
   "label_en": "Picross e8",
@@ -699,6 +713,7 @@
   "enwiki": "Pokémon Trading Card Game Pocket",
   "ids": {
    "igdb": "pokemon-trading-card-game-pocket",
+   "metacritic": "pokemon-trading-card-game-pocket",
    "mobygames": "232725"
   },
   "label_en": "Pokémon Trading Card Game Pocket",
@@ -709,6 +724,7 @@
    "gog": "game/heading_out",
    "howlongtobeat": "146358",
    "igdb": "heading-out",
+   "metacritic": "heading-out-a-narrative-road-movie-racing-game",
    "mobygames": "223616",
    "pcgamingwiki": "Heading_Out",
    "steam": "1640630"

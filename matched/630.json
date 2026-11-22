@@ -5,6 +5,7 @@
    "gog": "game/lego_indiana_jones_the_original_adventures",
    "howlongtobeat": "5253",
    "igdb": "lego-indiana-jones-the-original-adventures",
+   "metacritic": "lego-indiana-jones-the-original-adventures",
    "mobygames": "34444",
    "pcgamingwiki": "Lego_Indiana_Jones:_The_Original_Adventures",
    "steam": "32330"
@@ -28,6 +29,7 @@
   "ids": {
    "howlongtobeat": "5791",
    "igdb": "medal-of-honor-warfighter",
+   "metacritic": "medal-of-honor-warfighter",
    "mobygames": "58382",
    "pcgamingwiki": "Medal_of_Honor:_Warfighter"
   },
@@ -49,6 +51,7 @@
    "gog": "game/space_colony_hd",
    "howlongtobeat": "19904",
    "igdb": "space-colony",
+   "metacritic": "space-colony-steam-edition",
    "mobygames": "11011",
    "pcgamingwiki": "Space_Colony_HD",
    "steam": "297920"
@@ -238,6 +241,7 @@
    "epic": "the-end-is-nigh",
    "howlongtobeat": "47066",
    "igdb": "the-end-is-nigh",
+   "metacritic": "the-end-is-nigh",
    "mobygames": "92484",
    "pcgamingwiki": "The_End_Is_Nigh",
    "steam": "583470"
@@ -256,6 +260,7 @@
   "ids": {
    "howlongtobeat": "86605",
    "igdb": "orangeblood",
+   "metacritic": "orangeblood",
    "mobygames": "140578",
    "pcgamingwiki": "Orangeblood",
    "steam": "1042670"
@@ -267,6 +272,7 @@
   "ids": {
    "howlongtobeat": "88144",
    "igdb": "dadish-2",
+   "metacritic": "dadish-2",
    "mobygames": "157554",
    "steam": "1525320"
   },
@@ -354,6 +360,7 @@
   "ids": {
    "howlongtobeat": "29819",
    "igdb": "i-cant-escape-darkness--1",
+   "metacritic": "i-cant-escape-darkness",
    "mobygames": "107701",
    "pcgamingwiki": "I_Can't_Escape:_Darkness",
    "steam": "346090"
@@ -588,6 +595,7 @@
   "ids": {
    "howlongtobeat": "130019",
    "igdb": "pathfinder-gallowspire-survivors",
+   "metacritic": "pathfinder-gallowspire-survivors",
    "mobygames": "221463",
    "pcgamingwiki": "Pathfinder:_Gallowspire_Survivors",
    "steam": "2388460"
@@ -1079,6 +1087,7 @@
  {
   "ids": {
    "igdb": "front-page-sports-football",
+   "pcgamingwiki": "Front_Page_Sports_Football",
    "steam": "316700"
   },
   "label_en": "Front Page Sports Football",
@@ -1113,6 +1122,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Hope_in_the_City",
    "steam": "3610790"
   },
   "label_en": "Hope in the City",

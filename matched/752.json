@@ -3,6 +3,7 @@
   "enwiki": "Dragon Ball Z: Budokai (video game)",
   "ids": {
    "igdb": "dragon-ball-z-budokai",
+   "metacritic": "dragon-ball-z-budokai",
    "mobygames": "8988"
   },
   "label_en": "Dragon Ball Z: Budokai",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "20004",
    "igdb": "paraworld",
+   "metacritic": "paraworld",
    "mobygames": "24165",
    "pcgamingwiki": "ParaWorld"
   },
@@ -24,6 +26,7 @@
   "ids": {
    "howlongtobeat": "3311",
    "igdb": "fable-the-lost-chapters",
+   "metacritic": "fable",
    "mobygames": "14876"
   },
   "label_en": "Fable",
@@ -34,6 +37,7 @@
   "ids": {
    "howlongtobeat": "4217",
    "igdb": "gunstar-heroes",
+   "metacritic": "3d-gunstar-heroes",
    "mobygames": "6581",
    "pcgamingwiki": "Gunstar_Heroes",
    "steam": "71117"
@@ -46,6 +50,7 @@
   "ids": {
    "howlongtobeat": "4840",
    "igdb": "jewel-quest",
+   "metacritic": "jewel-quest",
    "mobygames": "16247",
    "pcgamingwiki": "Jewel_Quest",
    "steam": "37960"
@@ -57,6 +62,7 @@
   "enwiki": "Tales of Legendia",
   "ids": {
    "igdb": "tales-of-legendia",
+   "metacritic": "tales-of-legendia",
    "mobygames": "21528"
   },
   "label_en": "Tales of Legendia",
@@ -66,6 +72,7 @@
   "enwiki": "RalliSport Challenge",
   "ids": {
    "igdb": "rallisport-challenge",
+   "metacritic": "rallisport-challenge",
    "mobygames": "5677",
    "pcgamingwiki": "RalliSport_Challenge"
   },
@@ -88,6 +95,7 @@
   "enwiki": "Primal (video game)",
   "ids": {
    "igdb": "primal",
+   "metacritic": "primal",
    "mobygames": "9936"
   },
   "label_en": "Primal",
@@ -98,6 +106,7 @@
   "ids": {
    "howlongtobeat": "8223",
    "igdb": "sega-bass-fishing",
+   "metacritic": "sega-bass-fishing",
    "mobygames": "11518",
    "pcgamingwiki": "Sega_Bass_Fishing_(Steam)",
    "steam": "71240"
@@ -168,6 +177,7 @@
    "gog": "game/call_of_juarez_gunslinger",
    "howlongtobeat": "1487",
    "igdb": "call-of-juarez-gunslinger",
+   "metacritic": "call-of-juarez-gunslinger",
    "mobygames": "60739",
    "pcgamingwiki": "Call_of_Juarez:_Gunslinger",
    "steam": "204450"
@@ -206,6 +216,7 @@
   "enwiki": "Midnight Pool",
   "ids": {
    "igdb": "midnight-pool",
+   "metacritic": "midnight-pool",
    "mobygames": "23378"
   },
   "label_en": "Midnight Pool",
@@ -225,6 +236,7 @@
   "ids": {
    "gog": "game/pro_pinball_big_race_usa",
    "igdb": "pro-pinball-big-race-usa",
+   "metacritic": "pro-pinball-big-race-usa",
    "mobygames": "3394",
    "pcgamingwiki": "Pro_Pinball:_Big_Race_USA"
   },
@@ -244,6 +256,7 @@
   "enwiki": "Spyglass Board Games",
   "ids": {
    "igdb": "spyglass-board-games",
+   "metacritic": "spyglass-board-games",
    "mobygames": "47822"
   },
   "label_en": "Spyglass Board Games",
@@ -266,6 +279,7 @@
   "enwiki": "Puzzle & Action: Ichidant-R",
   "ids": {
    "igdb": "puzzle-and-action-ichidant-r",
+   "metacritic": "puzzle-and-action-ichidant-r",
    "mobygames": "44368"
   },
   "label_en": "Puzzle & Action: Ichidant-R",
@@ -314,6 +328,7 @@
   "ids": {
    "howlongtobeat": "34934",
    "igdb": "pocket-rumble",
+   "metacritic": "pocket-rumble",
    "mobygames": "99210",
    "pcgamingwiki": "Pocket_Rumble",
    "steam": "389050"
@@ -326,6 +341,7 @@
   "ids": {
    "howlongtobeat": "49681",
    "igdb": "getting-over-it-with-bennett-foddy",
+   "metacritic": "getting-over-it-with-bennett-foddy",
    "mobygames": "99109",
    "pcgamingwiki": "Getting_Over_It_with_Bennett_Foddy",
    "steam": "240720"
@@ -357,6 +373,7 @@
   "ids": {
    "howlongtobeat": "61976",
    "igdb": "the-golf-club-2019-featuring-pga-tour",
+   "metacritic": "the-golf-club-2019-featuring-pga-tour",
    "mobygames": "112883",
    "pcgamingwiki": "The_Golf_Club_2019_featuring_PGA_Tour",
    "steam": "695290"
@@ -370,6 +387,7 @@
    "gog": "game/blazing_chrome",
    "howlongtobeat": "65494",
    "igdb": "blazing-chrome",
+   "metacritic": "blazing-chrome",
    "mobygames": "129636",
    "pcgamingwiki": "Blazing_Chrome",
    "steam": "609110"
@@ -398,6 +416,7 @@
    "epic": "who-pressed-mute-on-uncle-marucs-ee90a4",
    "howlongtobeat": "105934",
    "igdb": "who-pressed-mute-on-uncle-marcus",
+   "metacritic": "who-pressed-mute-on-uncle-marcus",
    "mobygames": "183681",
    "steam": "1628130"
   },
@@ -783,6 +802,7 @@
  },
  {
   "ids": {
+   "metacritic": "gary-gadget-building-cars",
    "mobygames": "25762",
    "pcgamingwiki": "Bygg_Bilar_med_Mulle_Meck"
   },

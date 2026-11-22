@@ -5,6 +5,7 @@
    "gog": "game/lego_star_wars_the_clone_wars",
    "howlongtobeat": "5262",
    "igdb": "lego-star-wars-iii-the-clone-wars",
+   "metacritic": "lego-star-wars-iii-the-clone-wars",
    "mobygames": "51972",
    "pcgamingwiki": "Lego_Star_Wars_III:_The_Clone_Wars",
    "steam": "32510"
@@ -19,6 +20,7 @@
    "gog": "game/batman_arkham_asylum_goty",
    "howlongtobeat": "881",
    "igdb": "batman-arkham-asylum",
+   "metacritic": "batman-arkham-asylum",
    "mobygames": "42258",
    "pcgamingwiki": "Batman:_Arkham_Asylum",
    "steam": "35140"
@@ -40,6 +42,7 @@
   "ids": {
    "howlongtobeat": "4527",
    "igdb": "hotel-dusk-room-215",
+   "metacritic": "hotel-dusk-room-215",
    "mobygames": "26506"
   },
   "label_en": "Hotel Dusk: Room 215",
@@ -50,6 +53,7 @@
   "ids": {
    "howlongtobeat": "3008",
    "igdb": "dynasty-warriors-advance",
+   "metacritic": "dynasty-warriors-advance",
    "mobygames": "32808"
   },
   "label_en": "Dynasty Warriors Advance",
@@ -60,6 +64,7 @@
   "ids": {
    "howlongtobeat": "1578",
    "igdb": "castlevania-circle-of-the-moon",
+   "metacritic": "castlevania-circle-of-the-moon",
    "mobygames": "4304"
   },
   "label_en": "Castlevania: Circle of the Moon",
@@ -69,6 +74,7 @@
   "enwiki": "Blast Factor",
   "ids": {
    "igdb": "blast-factor",
+   "metacritic": "blast-factor",
    "mobygames": "43955"
   },
   "label_en": "Blast Factor",
@@ -125,6 +131,7 @@
   "ids": {
    "howlongtobeat": "250",
    "igdb": "afro-samurai",
+   "metacritic": "afro-samurai",
    "mobygames": "41060"
   },
   "label_en": "Afro Samurai",
@@ -135,6 +142,7 @@
   "ids": {
    "howlongtobeat": "710",
    "igdb": "atom-zombie-smasher",
+   "metacritic": "atom-zombie-smasher",
    "mobygames": "52106",
    "pcgamingwiki": "Atom_Zombie_Smasher",
    "steam": "55040"
@@ -146,6 +154,7 @@
   "enwiki": "Battleship: Surface Thunder",
   "ids": {
    "igdb": "battleship-surface-thunder",
+   "metacritic": "battleship-surface-thunder",
    "mobygames": "3357",
    "pcgamingwiki": "Battleship:_Surface_Thunder"
   },
@@ -174,6 +183,7 @@
   "ids": {
    "howlongtobeat": "7100",
    "igdb": "planetary-annihilation",
+   "metacritic": "planetary-annihilation",
    "mobygames": "70984",
    "pcgamingwiki": "Planetary_Annihilation",
    "steam": "233250"
@@ -269,6 +279,7 @@
   "enwiki": "The Climb (video game)",
   "ids": {
    "igdb": "the-climb--1",
+   "metacritic": "the-climb",
    "mobygames": "82694",
    "pcgamingwiki": "The_Climb"
   },
@@ -301,6 +312,7 @@
    "gog": "game/the_messenger",
    "howlongtobeat": "60176",
    "igdb": "the-messenger",
+   "metacritic": "the-messenger",
    "mobygames": "106052",
    "pcgamingwiki": "The_Messenger",
    "steam": "764790"
@@ -318,6 +330,7 @@
   "ids": {
    "howlongtobeat": "71191",
    "igdb": "projection-first-light",
+   "metacritic": "projection-first-light",
    "mobygames": "135424",
    "pcgamingwiki": "Projection:_First_Light",
    "steam": "726490"
@@ -330,6 +343,8 @@
   "ids": {
    "howlongtobeat": "54684",
    "igdb": "pode",
+   "metacritic": "pode",
+   "pcgamingwiki": "Pode",
    "steam": "944080"
   },
   "label_en": "Pode",
@@ -341,6 +356,7 @@
    "gog": "game/lost_horizon_2",
    "howlongtobeat": "30661",
    "igdb": "lost-horizon-2",
+   "metacritic": "lost-horizon-2",
    "mobygames": "75265",
    "pcgamingwiki": "Lost_Horizon_2",
    "steam": "395560"
@@ -352,6 +368,7 @@
   "ids": {
    "howlongtobeat": "51068",
    "igdb": "ben-10",
+   "metacritic": "ben-10",
    "mobygames": "98198",
    "pcgamingwiki": "Ben_10",
    "steam": "703180"
@@ -372,6 +389,7 @@
    "gog": "game/help_will_come_tomorrow",
    "howlongtobeat": "77684",
    "igdb": "help-will-come-tomorrow",
+   "metacritic": "help-will-come-tomorrow",
    "mobygames": "144746",
    "pcgamingwiki": "Help_Will_Come_Tomorrow",
    "steam": "1119600"
@@ -385,6 +403,7 @@
    "gog": "game/metro_last_light_redux",
    "howlongtobeat": "20883",
    "igdb": "metro-last-light-redux",
+   "metacritic": "metro-last-light-redux",
    "mobygames": "68064",
    "pcgamingwiki": "Metro:_Last_Light_Redux",
    "steam": "287390"
@@ -425,6 +444,7 @@
   "ids": {
    "howlongtobeat": "110138",
    "igdb": "stormgate",
+   "metacritic": "stormgate",
    "mobygames": "228530",
    "pcgamingwiki": "Stormgate",
    "steam": "2012510"
@@ -455,6 +475,7 @@
   "ids": {
    "howlongtobeat": "60443",
    "igdb": "creepy-road",
+   "metacritic": "creepy-road",
    "mobygames": "122390",
    "pcgamingwiki": "Creepy_Road",
    "steam": "735500"
@@ -506,6 +527,7 @@
    "gog": "game/space_accident",
    "howlongtobeat": "108275",
    "igdb": "space-accident",
+   "metacritic": "-space-accident-",
    "mobygames": "196020",
    "pcgamingwiki": "Space_Accident",
    "steam": "1852830"
@@ -565,6 +587,7 @@
    "gog": "game/the_future_youve_been_dreaming_of",
    "howlongtobeat": "108849",
    "igdb": "the-future-youve-been-dreaming-of",
+   "metacritic": "the-future-youve-been-dreaming-of",
    "mobygames": "184429",
    "steam": "1885130"
   },
@@ -707,6 +730,7 @@
   "ids": {
    "howlongtobeat": "137793",
    "igdb": "saga-emerald-beyond",
+   "metacritic": "saga-emerald-beyond",
    "mobygames": "222713",
    "pcgamingwiki": "SaGa_Emerald_Beyond",
    "steam": "2085000"
@@ -956,6 +980,7 @@
   "ids": {
    "howlongtobeat": "71701",
    "igdb": "disgaea-4-complete-plus",
+   "metacritic": "disgaea-4-complete-plus",
    "mobygames": "136200",
    "steam": "1233880"
   },
@@ -1229,6 +1254,7 @@
  {
   "ids": {
    "igdb": "whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for",
+   "pcgamingwiki": "Hexaluga:_Witch_Hunter's_Travelling_Castle",
    "steam": "809450"
   },
   "label_en": "❂ Hexaluga ❂ Witch Hunter's Travelling Castle ♉",

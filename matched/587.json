@@ -24,6 +24,7 @@
   "enwiki": "Shin Megami Tensei: Digital Devil Saga 2",
   "ids": {
    "igdb": "shin-megami-tensei-digital-devil-saga-2",
+   "metacritic": "shin-megami-tensei-digital-devil-saga-2",
    "mobygames": "17822"
   },
   "label_en": "Shin Megami Tensei: Digital Devil Saga 2",
@@ -33,6 +34,7 @@
   "enwiki": "Vampire Night",
   "ids": {
    "igdb": "vampire-night",
+   "metacritic": "vampire-night",
    "mobygames": "5349"
   },
   "label_en": "Vampire Night",
@@ -51,6 +53,7 @@
   "ids": {
    "howlongtobeat": "4902",
    "igdb": "trespasser",
+   "metacritic": "trespasser",
    "mobygames": "1048",
    "pcgamingwiki": "Jurassic_Park:_Trespasser"
   },
@@ -61,6 +64,7 @@
   "ids": {
    "howlongtobeat": "5237",
    "igdb": "legend-hand-of-god--1",
+   "metacritic": "legend-hand-of-god",
    "mobygames": "30657",
    "pcgamingwiki": "Legend:_Hand_of_God"
   },
@@ -103,6 +107,7 @@
   "ids": {
    "howlongtobeat": "5804",
    "igdb": "mega-man-bass",
+   "metacritic": "mega-man-and-bass",
    "mobygames": "6604"
   },
   "label_en": "Mega Man & Bass",
@@ -161,6 +166,7 @@
   "ids": {
    "howlongtobeat": "11183",
    "igdb": "winback-2-project-poseidon",
+   "metacritic": "winback-2-project-poseidon",
    "mobygames": "35275"
   },
   "label_en": "WinBack 2: Project Poseidon",
@@ -236,6 +242,7 @@
   "ids": {
    "howlongtobeat": "34280",
    "igdb": "circa-infinity",
+   "metacritic": "circa-infinity",
    "mobygames": "107675",
    "pcgamingwiki": "Circa_Infinity",
    "steam": "390610"
@@ -247,6 +254,7 @@
   "ids": {
    "howlongtobeat": "38710",
    "igdb": "siralim-2",
+   "metacritic": "siralim-2",
    "mobygames": "85324",
    "pcgamingwiki": "Siralim_2",
    "steam": "464620"
@@ -259,6 +267,7 @@
    "gog": "game/unholy_heights",
    "howlongtobeat": "15022",
    "igdb": "unholy-heights",
+   "metacritic": "unholy-heights",
    "mobygames": "76206",
    "pcgamingwiki": "Unholy_Heights",
    "steam": "249330"
@@ -271,6 +280,7 @@
   "ids": {
    "howlongtobeat": "46994",
    "igdb": "micro-machines-world-series",
+   "metacritic": "micro-machines-world-series",
    "mobygames": "91760",
    "pcgamingwiki": "Micro_Machines_World_Series",
    "steam": "535850"
@@ -298,6 +308,7 @@
    "gog": "game/late_shift",
    "howlongtobeat": "44239",
    "igdb": "late-shift",
+   "metacritic": "late-shift",
    "mobygames": "87078",
    "pcgamingwiki": "Late_Shift",
    "steam": "584980"
@@ -312,6 +323,7 @@
  {
   "ids": {
    "igdb": "secret-mysteries-in-new-york",
+   "metacritic": "secret-mysteries-in-new-york",
    "mobygames": "100254"
   },
   "label_en": "Secret Mysteries in New York",
@@ -327,6 +339,7 @@
  {
   "ids": {
    "igdb": "inherent-evil-the-haunted-hotel",
+   "metacritic": "inherent-evil-the-haunted-hotel",
    "mobygames": "3995"
   },
   "label_en": "Inherent Evil: The Haunted Hotel",
@@ -354,6 +367,7 @@
   "ids": {
    "howlongtobeat": "2945",
    "igdb": "dungeon-hearts",
+   "metacritic": "dungeon-hearts",
    "mobygames": "63713",
    "pcgamingwiki": "Dungeon_Hearts",
    "steam": "229520"
@@ -371,6 +385,7 @@
    "gog": "game/the_colonists",
    "howlongtobeat": "65335",
    "igdb": "the-colonists",
+   "metacritic": "the-colonists",
    "mobygames": "116557",
    "pcgamingwiki": "The_Colonists",
    "steam": "677340"
@@ -720,6 +735,7 @@
    "epic": "fera-48785f",
    "howlongtobeat": "134566",
    "igdb": "fera-the-sundered-tribes",
+   "metacritic": "fera-the-sundered-tribes",
    "steam": "2469200"
   },
   "label_en": "Fera: The Sundered Tribes",
@@ -869,6 +885,7 @@
   "ids": {
    "howlongtobeat": "169133",
    "igdb": "romeo-is-a-dead-man",
+   "metacritic": "romeo-is-a-dead-man",
    "mobygames": "252213",
    "pcgamingwiki": "Romeo_Is_a_Dead_Man",
    "steam": "3050900"
@@ -896,6 +913,7 @@
   "ids": {
    "howlongtobeat": "69339",
    "igdb": "the-bards-tale-iv-directors-cut",
+   "metacritic": "the-bards-tale-iv-directors-cut",
    "mobygames": "133793",
    "pcgamingwiki": "The_Bard's_Tale_IV:_Director's_Cut",
    "steam": "1091980"
@@ -1167,6 +1185,7 @@
  {
   "ids": {
    "igdb": "hentai-pazu",
+   "pcgamingwiki": "Hentai_Pazu",
    "steam": "1187620"
   },
   "label_en": "Hentai Pazu",

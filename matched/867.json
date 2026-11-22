@@ -3,6 +3,7 @@
   "enwiki": "Shiren the Wanderer (2008 video game)",
   "ids": {
    "igdb": "shiren-the-wanderer",
+   "metacritic": "shiren-the-wanderer",
    "mobygames": "92359"
   },
   "label_en": "Shiren the Wanderer",
@@ -14,6 +15,7 @@
    "gog": "game/doom_2016",
    "howlongtobeat": "2708",
    "igdb": "doom--1",
+   "metacritic": "doom",
    "mobygames": "78860",
    "pcgamingwiki": "Doom_(2016)",
    "steam": "379720"
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "8127",
    "igdb": "samurai-shodown",
+   "metacritic": "samurai-shodown",
    "mobygames": "7255",
    "pcgamingwiki": "Samurai_Shodown"
   },
@@ -45,6 +48,7 @@
   "enwiki": "Eternal Sonata",
   "ids": {
    "igdb": "eternal-sonata",
+   "metacritic": "eternal-sonata",
    "mobygames": "30620"
   },
   "label_en": "Eternal Sonata",
@@ -54,6 +58,7 @@
   "enwiki": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
   "ids": {
    "igdb": "teenage-mutant-ninja-turtles-3-mutant-nightmare",
+   "metacritic": "teenage-mutant-ninja-turtles-3-mutant-nightmare",
    "mobygames": "21521"
   },
   "label_en": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
@@ -96,6 +101,7 @@
   "ids": {
    "howlongtobeat": "1791",
    "igdb": "cogs",
+   "metacritic": "cogs",
    "mobygames": "40366",
    "pcgamingwiki": "Cogs",
    "steam": "26500"
@@ -125,6 +131,7 @@
   "enwiki": "Diner Dash: Flo on the Go",
   "ids": {
    "igdb": "diner-dash-flo-on-the-go",
+   "metacritic": "diner-dash-flo-on-the-go",
    "mobygames": "25452",
    "pcgamingwiki": "Diner_Dash:_Flo_on_the_Go"
   },
@@ -136,6 +143,7 @@
   "ids": {
    "howlongtobeat": "21362",
    "igdb": "spec-ops-ranger-elite",
+   "metacritic": "spec-ops-ranger-elite",
    "mobygames": "11268"
   },
   "label_en": "Spec Ops: Ranger Elite",
@@ -199,6 +207,7 @@
   "enwiki": "WRC 4",
   "ids": {
    "igdb": "wrc-4",
+   "metacritic": "wrc-4-fia-world-rally-championship-2004",
    "mobygames": "48494"
   },
   "label_en": "WRC 4",
@@ -207,7 +216,8 @@
  {
   "enwiki": "Screamride",
   "ids": {
-   "igdb": "screamride"
+   "igdb": "screamride",
+   "metacritic": "screamride"
   },
   "label_en": "Screamride",
   "wikidata": "Q18536867"
@@ -236,6 +246,7 @@
   "ids": {
    "howlongtobeat": "30648",
    "igdb": "the-beginners-guide",
+   "metacritic": "the-beginners-guide",
    "mobygames": "76046",
    "pcgamingwiki": "The_Beginner's_Guide",
    "steam": "303210"
@@ -253,7 +264,8 @@
  },
  {
   "ids": {
-   "igdb": "tales-of-the-rays"
+   "igdb": "tales-of-the-rays",
+   "metacritic": "tales-of-the-rays"
   },
   "label_en": "Tales of the Rays",
   "wikidata": "Q30933867"
@@ -263,6 +275,7 @@
   "ids": {
    "howlongtobeat": "10137",
    "igdb": "the-powerpuff-girls-relish-rampage",
+   "metacritic": "the-powerpuff-girls-relish-rampage",
    "mobygames": "8602"
   },
   "label_en": "The Powerpuff Girls: Relish Rampage",
@@ -282,6 +295,7 @@
   "ids": {
    "howlongtobeat": "62789",
    "igdb": "dead-or-alive-6",
+   "metacritic": "dead-or-alive-6",
    "mobygames": "123029",
    "pcgamingwiki": "Dead_or_Alive_6",
    "steam": "838380"
@@ -303,6 +317,7 @@
   "ids": {
    "howlongtobeat": "39839",
    "igdb": "the-warlock-of-firetop-mountain",
+   "metacritic": "the-warlock-of-firetop-mountain",
    "mobygames": "89755",
    "pcgamingwiki": "The_Warlock_of_Firetop_Mountain",
    "steam": "324740"
@@ -314,6 +329,7 @@
   "ids": {
    "howlongtobeat": "32036",
    "igdb": "yomi",
+   "metacritic": "yomi",
    "mobygames": "88820",
    "pcgamingwiki": "Yomi",
    "steam": "287960"
@@ -327,6 +343,7 @@
    "gog": "game/firmament",
    "howlongtobeat": "69034",
    "igdb": "firmament",
+   "metacritic": "firmament",
    "mobygames": "203262",
    "pcgamingwiki": "Firmament",
    "steam": "754890"
@@ -351,6 +368,8 @@
    "gog": "game/1428_shadows_over_silesia",
    "howlongtobeat": "109173",
    "igdb": "1428-shadows-over-silesia",
+   "metacritic": "1428-shadows-over-silesia",
+   "pcgamingwiki": "1428:_Shadows_over_Silesia",
    "steam": "1228500"
   },
   "label_en": "1428: Shadows over Silesia",
@@ -413,6 +432,7 @@
    "epic": "family-man-bbc679",
    "howlongtobeat": "68034",
    "igdb": "family-man",
+   "metacritic": "family-man",
    "mobygames": "145823",
    "pcgamingwiki": "Family_Man",
    "steam": "904360"
@@ -783,6 +803,7 @@
   "ids": {
    "howlongtobeat": "14956",
    "igdb": "i-zombie",
+   "metacritic": "i-zombie",
    "mobygames": "76173",
    "pcgamingwiki": "I,_Zombie",
    "steam": "307230"
@@ -842,6 +863,9 @@
   "wikidata": "Q124075867"
  },
  {
+  "ids": {
+   "metacritic": "old-gold-3d"
+  },
   "label_en": "Old Gold",
   "wikidata": "Q124327867"
  },

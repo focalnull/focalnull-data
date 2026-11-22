@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "59197",
    "igdb": "shot-online",
+   "metacritic": "shot-online",
    "pcgamingwiki": "Shot_Online",
    "steam": "390090"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "5817",
    "igdb": "mega-man-9",
+   "metacritic": "mega-man-9",
    "mobygames": "36554"
   },
   "label_en": "Mega Man 9",
@@ -32,6 +34,7 @@
  {
   "ids": {
    "igdb": "you-dont-know-jack-5th-dementia",
+   "metacritic": "you-dont-know-jack-5th-dementia",
    "mobygames": "2992"
   },
   "label_en": "You Don't Know Jack: 5th Dementia",
@@ -41,6 +44,7 @@
   "enwiki": "Paradise (video game)",
   "ids": {
    "igdb": "paradise",
+   "metacritic": "paradise-2006",
    "mobygames": "22233",
    "pcgamingwiki": "Paradise"
   },
@@ -62,6 +66,7 @@
   "enwiki": "ColorZ",
   "ids": {
    "igdb": "colorz",
+   "metacritic": "colorz",
    "mobygames": "90687"
   },
   "label_en": "ColorZ",
@@ -235,6 +240,7 @@
    "gog": "game/beholder",
    "howlongtobeat": "41878",
    "igdb": "beholder",
+   "metacritic": "beholder",
    "mobygames": "89890",
    "pcgamingwiki": "Beholder",
    "steam": "475550"
@@ -260,6 +266,7 @@
   "ids": {
    "howlongtobeat": "25041",
    "igdb": "heat-signature",
+   "metacritic": "heat-signature",
    "mobygames": "96207",
    "pcgamingwiki": "Heat_Signature",
    "steam": "268130"
@@ -273,6 +280,7 @@
    "gog": "game/imperator_rome",
    "howlongtobeat": "59970",
    "igdb": "imperator-rome",
+   "metacritic": "imperator-rome",
    "mobygames": "126319",
    "pcgamingwiki": "Imperator:_Rome",
    "steam": "859580"
@@ -291,6 +299,7 @@
   "ids": {
    "howlongtobeat": "140844",
    "igdb": "astral-party",
+   "metacritic": "astral-party",
    "mobygames": "218522",
    "pcgamingwiki": "Astral_Party",
    "steam": "2622000"
@@ -351,6 +360,7 @@
   "ids": {
    "howlongtobeat": "98799",
    "igdb": "100-hidden-birds-2",
+   "metacritic": "100-hidden-birds-2",
    "mobygames": "187848",
    "steam": "1766790"
   },
@@ -360,6 +370,7 @@
  {
   "ids": {
    "igdb": "wax-museum-seek-and-find-mystery-hidden-object-adventure",
+   "metacritic": "wax-museum",
    "steam": "1597440"
   },
   "label_en": "Wax Museum",
@@ -388,6 +399,7 @@
    "gog": "game/floppy_knights",
    "howlongtobeat": "77703",
    "igdb": "floppy-knights",
+   "metacritic": "floppy-knights",
    "mobygames": "184748",
    "pcgamingwiki": "Floppy_Knights",
    "steam": "1057800"
@@ -681,6 +693,7 @@
   "ids": {
    "howlongtobeat": "141499",
    "igdb": "the-exit-8",
+   "metacritic": "the-exit-8",
    "mobygames": "214200",
    "pcgamingwiki": "The_Exit_8",
    "steam": "2653790"
@@ -764,6 +777,7 @@
   "ids": {
    "howlongtobeat": "49227",
    "igdb": "senko-no-ronde-2",
+   "metacritic": "senko-no-ronde-2",
    "mobygames": "95723",
    "pcgamingwiki": "Senko_no_Ronde_2",
    "steam": "574160"

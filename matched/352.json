@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "1491",
    "igdb": "calling-all-cars",
+   "metacritic": "calling-all-cars",
    "mobygames": "83100"
   },
   "label_en": "Calling All Cars!",
@@ -33,6 +34,7 @@
    "gog": "game/ultima_8_gold_edition",
    "howlongtobeat": "10772",
    "igdb": "ultima-viii-pagan",
+   "metacritic": "ultima-viii-pagan",
    "mobygames": "723",
    "pcgamingwiki": "Ultima_VIII:_Pagan",
    "steam": "3067550"
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "10817",
    "igdb": "universal-studios-theme-parks-adventure",
+   "metacritic": "universal-studios-theme-parks-adventure",
    "mobygames": "6724"
   },
   "label_en": "Universal Studios Theme Parks Adventure",
@@ -62,6 +65,7 @@
   "ids": {
    "howlongtobeat": "501",
    "igdb": "another-code-r-a-journey-into-lost-memories",
+   "metacritic": "another-code-r-a-journey-into-lost-memories",
    "mobygames": "41365"
   },
   "label_en": "Another Code: R – A Journey into Lost Memories",
@@ -71,6 +75,7 @@
   "ids": {
    "howlongtobeat": "21823",
    "igdb": "cossacks-the-art-of-war",
+   "metacritic": "cossacks-the-art-of-war",
    "mobygames": "6108",
    "pcgamingwiki": "Cossacks:_The_Art_of_War",
    "steam": "4870"
@@ -94,6 +99,7 @@
   "ids": {
    "howlongtobeat": "3493",
    "igdb": "final-fantasy-fables-chocobos-dungeon",
+   "metacritic": "final-fantasy-fables-chocobos-dungeon",
    "mobygames": "36211"
   },
   "label_en": "Final Fantasy Fables: Chocobo's Dungeon",
@@ -187,6 +193,7 @@
    "gog": "game/amatsutsumi",
    "howlongtobeat": "99391",
    "igdb": "amatsutsumi",
+   "metacritic": "amatsutsumi",
    "mobygames": "189217",
    "pcgamingwiki": "Amatsutsumi"
   },
@@ -200,6 +207,7 @@
    "gog": "game/dungeons_3",
    "howlongtobeat": "48718",
    "igdb": "dungeons-3",
+   "metacritic": "dungeons-3",
    "mobygames": "97064",
    "pcgamingwiki": "Dungeons_3",
    "steam": "493900"
@@ -212,6 +220,7 @@
    "epic": "jackbox-party-pack-5",
    "howlongtobeat": "61888",
    "igdb": "the-jackbox-party-pack-5",
+   "metacritic": "the-jackbox-party-pack-5",
    "mobygames": "113613",
    "pcgamingwiki": "The_Jackbox_Party_Pack_5",
    "steam": "774461"
@@ -225,6 +234,7 @@
    "gog": "game/death_road_to_canada",
    "howlongtobeat": "39413",
    "igdb": "death-road-to-canada",
+   "metacritic": "death-road-to-canada",
    "mobygames": "79880",
    "pcgamingwiki": "Death_Road_to_Canada",
    "steam": "252610"
@@ -270,6 +280,9 @@
   "wikidata": "Q104415352"
  },
  {
+  "ids": {
+   "metacritic": "dragnboom"
+  },
   "label_en": "Drag'n'Boom",
   "wikidata": "Q105725352"
  },
@@ -277,6 +290,7 @@
   "ids": {
    "howlongtobeat": "29473",
    "igdb": "sacra-terra-angelic-night",
+   "metacritic": "sacra-terra-angelic-night",
    "mobygames": "61509",
    "pcgamingwiki": "Sacra_Terra:_Angelic_Night",
    "steam": "344440"
@@ -287,6 +301,7 @@
  {
   "ids": {
    "igdb": "disneys-lilo-and-stitch-2-hamsterviel-havoc",
+   "metacritic": "disneys-lilo-stitch-2-hamsterveil-havoc",
    "mobygames": "16001"
   },
   "label_en": "Lilo & Stitch 2: Hämsterviel Havoc",
@@ -324,6 +339,7 @@
   "ids": {
    "howlongtobeat": "93930",
    "igdb": "100-hidden-cats",
+   "metacritic": "100-hidden-cats",
    "mobygames": "162640",
    "steam": "1587560"
   },
@@ -334,6 +350,7 @@
   "ids": {
    "howlongtobeat": "27629",
    "igdb": "mystery-island-hidden-object-games",
+   "metacritic": "mystery-island-hidden-object-games",
    "mobygames": "136909",
    "pcgamingwiki": "Mystery_Island_-_Hidden_Object_Games",
    "steam": "1107620"
@@ -405,6 +422,7 @@
    "epic": "wild-hearts",
    "howlongtobeat": "114088",
    "igdb": "wild-hearts",
+   "metacritic": "wild-hearts",
    "mobygames": "199631",
    "pcgamingwiki": "Wild_Hearts",
    "steam": "1938010"
@@ -497,6 +515,7 @@
   "ids": {
    "howlongtobeat": "74280",
    "igdb": "miracle-snack-shop",
+   "metacritic": "miracle-snack-shop",
    "mobygames": "119951",
    "pcgamingwiki": "Miracle_snack_shop_기적의_분식집",
    "steam": "995460"
@@ -615,6 +634,7 @@
   "ids": {
    "howlongtobeat": "132385",
    "igdb": "witchspring-r",
+   "metacritic": "witchspring-r",
    "mobygames": "209357",
    "pcgamingwiki": "WitchSpring_R",
    "steam": "1958220"
@@ -737,6 +757,7 @@
   "ids": {
    "howlongtobeat": "12139",
    "igdb": "quiet-please",
+   "metacritic": "quiet-please",
    "mobygames": "119222"
   },
   "label_en": "Quiet, Please!",
@@ -950,6 +971,7 @@
    "gog": "game/wednesdays",
    "howlongtobeat": "165805",
    "igdb": "wednesdays",
+   "metacritic": "wednesdays",
    "mobygames": "239650",
    "pcgamingwiki": "Wednesdays",
    "steam": "2747770"
@@ -1081,6 +1103,7 @@
  {
   "ids": {
    "igdb": "hentai-plus-girl",
+   "pcgamingwiki": "Hentai_Plus_Girl",
    "steam": "970150"
   },
   "label_en": "Hentai Plus Girl",

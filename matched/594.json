@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3529",
    "igdb": "final-fantasy-xii",
+   "metacritic": "final-fantasy-xii-the-zodiac-age",
    "mobygames": "21692"
   },
   "label_en": "Final Fantasy XII",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "2408",
    "igdb": "defender-of-the-crown",
+   "metacritic": "defender-of-the-crown",
    "mobygames": "181",
    "pcgamingwiki": "Defender_of_the_Crown"
   },
@@ -26,6 +28,7 @@
    "gog": "game/resident_evil",
    "howlongtobeat": "7716",
    "igdb": "resident-evil-directors-cut",
+   "metacritic": "resident-evil-deadly-silence",
    "mobygames": "1195",
    "pcgamingwiki": "Resident_Evil",
    "steam": "4249100"
@@ -68,6 +71,7 @@
   "ids": {
    "howlongtobeat": "11134",
    "igdb": "wheelman",
+   "metacritic": "wheelman",
    "mobygames": "40374",
    "pcgamingwiki": "Wheelman",
    "steam": "21920"
@@ -98,6 +102,7 @@
   "enwiki": "Neo Geo Battle Coliseum",
   "ids": {
    "igdb": "neo-geo-battle-coliseum",
+   "metacritic": "neogeo-battle-coliseum",
    "mobygames": "32852"
   },
   "label_en": "NeoGeo Battle Coliseum",
@@ -139,6 +144,7 @@
   "ids": {
    "howlongtobeat": "1180",
    "igdb": "blood-drive",
+   "metacritic": "blood-drive",
    "mobygames": "71372"
   },
   "label_en": "Blood Drive",
@@ -183,6 +189,7 @@
   "ids": {
    "howlongtobeat": "19179",
    "igdb": "tengai",
+   "metacritic": "tengai-for-nintendo-switch",
    "mobygames": "105913",
    "pcgamingwiki": "Tengai",
    "steam": "1279370"
@@ -216,6 +223,7 @@
    "gog": "game/sir_you_are_being_hunted",
    "howlongtobeat": "15212",
    "igdb": "sir-you-are-being-hunted",
+   "metacritic": "sir-you-are-being-hunted",
    "mobygames": "62526",
    "pcgamingwiki": "Sir,_You_Are_Being_Hunted",
    "steam": "242880"
@@ -297,6 +305,9 @@
   "wikidata": "Q65080594"
  },
  {
+  "ids": {
+   "metacritic": "star-wars-pinball-heroes-within"
+  },
   "label_en": "Star Wars Pinball: Heroes Within",
   "wikidata": "Q66762594"
  },
@@ -304,6 +315,7 @@
   "ids": {
    "howlongtobeat": "17633",
    "igdb": "draw-slasher",
+   "metacritic": "draw-slasher",
    "mobygames": "89602",
    "pcgamingwiki": "Draw_Slasher",
    "steam": "418270"
@@ -316,6 +328,7 @@
    "epic": "zorya-the-celestial-sisters",
    "howlongtobeat": "103845",
    "igdb": "zorya-the-celestial-sisters",
+   "metacritic": "zorya-the-celestial-sisters",
    "mobygames": "179514",
    "pcgamingwiki": "Zorya:_The_Celestial_Sisters",
    "steam": "1332150"
@@ -370,6 +383,7 @@
    "gog": "game/greedfall_ii_the_dying_world",
    "howlongtobeat": "107927",
    "igdb": "greedfall-the-dying-world",
+   "metacritic": "greedfall-ii-the-dying-world",
    "mobygames": "231005",
    "pcgamingwiki": "GreedFall_II:_The_Dying_World",
    "steam": "1997660"
@@ -406,6 +420,7 @@
    "gog": "game/she_sees_red_interactive_movie",
    "howlongtobeat": "69095",
    "igdb": "she-sees-red",
+   "metacritic": "she-sees-red",
    "mobygames": "129857",
    "pcgamingwiki": "She_Sees_Red",
    "steam": "1081510"
@@ -1085,6 +1100,7 @@
  {
   "ids": {
    "igdb": "prism-pets",
+   "metacritic": "prism-pets",
    "mobygames": "101311"
   },
   "label_en": "Prism Pets",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3551",
    "igdb": "fire-emblem",
+   "metacritic": "fire-emblem",
    "mobygames": "11200"
   },
   "label_en": "Fire Emblem: The Blazing Blade",
@@ -24,6 +25,7 @@
    "gog": "game/serious_sam_the_first_encounter",
    "howlongtobeat": "8318",
    "igdb": "serious-sam-the-first-encounter",
+   "metacritic": "serious-sam-the-first-encounter",
    "mobygames": "3512",
    "pcgamingwiki": "Serious_Sam:_The_First_Encounter",
    "steam": "41050"
@@ -35,7 +37,8 @@
   "enwiki": "Battle Kid: Fortress of Peril",
   "ids": {
    "howlongtobeat": "920",
-   "igdb": "battle-kid-fortress-of-peril"
+   "igdb": "battle-kid-fortress-of-peril",
+   "metacritic": "battle-kid-fortress-of-peril"
   },
   "label_en": "Battle Kid: Fortress of Peril",
   "wikidata": "Q1098180"
@@ -65,6 +68,7 @@
   "ids": {
    "howlongtobeat": "3394",
    "igdb": "fat-princess",
+   "metacritic": "fat-princess",
    "mobygames": "41874"
   },
   "label_en": "Fat Princess",
@@ -82,6 +86,7 @@
   "ids": {
    "howlongtobeat": "10364",
    "igdb": "timesplitters-future-perfect",
+   "metacritic": "timesplitters-future-perfect",
    "mobygames": "17340"
   },
   "label_en": "TimeSplitters: Future Perfect",
@@ -101,6 +106,7 @@
   "ids": {
    "howlongtobeat": "12265",
    "igdb": "bmx-xxx",
+   "metacritic": "bmx-xxx",
    "mobygames": "8683"
   },
   "label_en": "BMX XXX",
@@ -161,6 +167,7 @@
   "enwiki": "SkyGunner",
   "ids": {
    "igdb": "skygunner",
+   "metacritic": "skygunner",
    "mobygames": "31617"
   },
   "label_en": "SkyGunner",
@@ -199,6 +206,7 @@
    "gog": "game/driftmoon",
    "howlongtobeat": "11613",
    "igdb": "driftmoon",
+   "metacritic": "driftmoon",
    "mobygames": "63785",
    "pcgamingwiki": "Driftmoon",
    "steam": "263380"
@@ -221,6 +229,7 @@
    "gog": "game/wasteland_3",
    "howlongtobeat": "42532",
    "igdb": "wasteland-3",
+   "metacritic": "wasteland-3",
    "mobygames": "149844",
    "pcgamingwiki": "Wasteland_3",
    "steam": "719040"
@@ -327,6 +336,7 @@
    "gog": "game/into_the_pit",
    "howlongtobeat": "97220",
    "igdb": "into-the-pit",
+   "metacritic": "into-the-pit",
    "mobygames": "173970",
    "pcgamingwiki": "Into_the_Pit",
    "steam": "1422410"
@@ -405,6 +415,7 @@
   "ids": {
    "igdb": "jumphead-battle4fun",
    "mobygames": "130152",
+   "pcgamingwiki": "JumpHead:_Battle4Fun!",
    "steam": "402080"
   },
   "label_en": "JumpHead: Battle4Fun!",
@@ -682,6 +693,7 @@
    "epic": "asemblance",
    "howlongtobeat": "38206",
    "igdb": "asemblance",
+   "metacritic": "asemblance",
    "mobygames": "80111",
    "pcgamingwiki": "Asemblance",
    "steam": "452970"
@@ -778,6 +790,7 @@
  {
   "ids": {
    "igdb": "santa-factory",
+   "metacritic": "santa-factory",
    "mobygames": "100989"
   },
   "label_en": "Santa Factory",
@@ -1150,6 +1163,7 @@
  {
   "ids": {
    "igdb": "no-escape--2",
+   "pcgamingwiki": "No_Escape",
    "steam": "667060"
   },
   "label_en": "No Escape",

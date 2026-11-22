@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3830",
    "igdb": "game-of-thrones",
+   "metacritic": "game-of-thrones",
    "mobygames": "56315",
    "pcgamingwiki": "Game_of_Thrones",
    "steam": "208730"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "9985",
    "igdb": "the-king-of-fighters-xi",
+   "metacritic": "the-king-of-fighters-xi",
    "mobygames": "30109"
   },
   "label_en": "The King of Fighters XI",
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "9667",
    "igdb": "tekken-5",
+   "metacritic": "tekken-5",
    "mobygames": "17104"
   },
   "label_en": "Tekken 5",
@@ -57,7 +60,8 @@
   "enwiki": "WWF Road to WrestleMania",
   "ids": {
    "howlongtobeat": "22450",
-   "igdb": "wwf-road-to-wrestlemania"
+   "igdb": "wwf-road-to-wrestlemania",
+   "metacritic": "wwf-road-to-wrestlemania"
   },
   "label_en": "WWF Road to WrestleMania",
   "wikidata": "Q2015488"
@@ -111,6 +115,7 @@
   "ids": {
    "howlongtobeat": "6859",
    "igdb": "pac-man-championship-edition",
+   "metacritic": "pac-man-championship-edition",
    "mobygames": "28473"
   },
   "label_en": "Pac-Man Championship Edition",
@@ -198,6 +203,7 @@
   "enwiki": "Over the Hedge (Nintendo DS video game)",
   "ids": {
    "igdb": "over-the-hedge--2",
+   "metacritic": "over-the-hedge",
    "mobygames": "33264"
   },
   "label_en": "Over the Hedge",
@@ -225,6 +231,7 @@
   "enwiki": "We Cheer 2",
   "ids": {
    "igdb": "we-cheer-2",
+   "metacritic": "we-cheer-2",
    "mobygames": "60172"
   },
   "label_en": "We Cheer 2",
@@ -256,6 +263,7 @@
    "gog": "game/chuchel",
    "howlongtobeat": "53975",
    "igdb": "chuchel",
+   "metacritic": "chuchel",
    "mobygames": "104859",
    "pcgamingwiki": "Chuchel",
    "steam": "711660"
@@ -268,6 +276,7 @@
   "ids": {
    "howlongtobeat": "55558",
    "igdb": "friday-the-13th-killer-puzzle",
+   "metacritic": "friday-the-13th-killer-puzzle",
    "mobygames": "107038",
    "pcgamingwiki": "Friday_the_13th:_Killer_Puzzle",
    "steam": "795100"
@@ -280,6 +289,7 @@
   "ids": {
    "howlongtobeat": "34329",
    "igdb": "scrap-mechanic",
+   "metacritic": "scrap-mechanic",
    "mobygames": "84884",
    "pcgamingwiki": "Scrap_Mechanic",
    "steam": "387990"
@@ -293,6 +303,7 @@
    "howlongtobeat": "70987",
    "igdb": "pixel-gun-3d",
    "mobygames": "221590",
+   "pcgamingwiki": "Pixel_Gun_3D:_PC_Edition",
    "steam": "2524890"
   },
   "label_en": "Pixel Gun 3D",
@@ -303,6 +314,7 @@
    "gog": "game/pizza_connection_3",
    "howlongtobeat": "55955",
    "igdb": "pizza-connection-3",
+   "metacritic": "pizza-connection-3",
    "mobygames": "105898",
    "pcgamingwiki": "Pizza_Connection_3",
    "steam": "588160"
@@ -325,6 +337,7 @@
   "ids": {
    "howlongtobeat": "29422",
    "igdb": "capsule-force",
+   "metacritic": "capsule-force",
    "mobygames": "86860",
    "pcgamingwiki": "Capsule_Force",
    "steam": "364060"
@@ -334,6 +347,7 @@
  },
  {
   "ids": {
+   "metacritic": "prince-of-persia-the-sands-of-time",
    "mobygames": "15749"
   },
   "label_en": "Prince of Persia: The Sands of Time",
@@ -398,6 +412,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-2",
+   "metacritic": "vacation-adventures-park-ranger-2",
    "pcgamingwiki": "Vacation_Adventures:_Park_Ranger_2",
    "steam": "1048420"
   },
@@ -426,6 +441,7 @@
   "ids": {
    "howlongtobeat": "88123",
    "igdb": "yuletide-legends-who-framed-santa-claus",
+   "metacritic": "yuletide-legends-who-framed-santa-claus",
    "mobygames": "138661",
    "pcgamingwiki": "Yuletide_Legends:_Who_Framed_Santa_Claus",
    "steam": "1174500"
@@ -450,6 +466,7 @@
    "gog": "game/howl",
    "howlongtobeat": "140766",
    "igdb": "howl",
+   "metacritic": "howl",
    "mobygames": "215331",
    "steam": "2172180"
   },
@@ -565,6 +582,7 @@
   "ids": {
    "howlongtobeat": "106237",
    "igdb": "this-means-warp",
+   "metacritic": "this-means-warp",
    "mobygames": "181499",
    "pcgamingwiki": "This_Means_Warp",
    "steam": "1269300"
@@ -720,6 +738,7 @@
    "gog": "game/paleo_pines",
    "howlongtobeat": "111986",
    "igdb": "paleo-pines",
+   "metacritic": "paleo-pines",
    "mobygames": "209410",
    "pcgamingwiki": "Paleo_Pines",
    "steam": "1202200"
@@ -813,6 +832,7 @@
  {
   "ids": {
    "igdb": "tsukis-odyssey",
+   "metacritic": "tsukis-odyssey",
    "mobygames": "245390"
   },
   "label_en": "Tsuki's Odyssey",
@@ -866,6 +886,7 @@
   "ids": {
    "howlongtobeat": "151068",
    "igdb": "starstruck-vagabond",
+   "metacritic": "starstruck-vagabond",
    "mobygames": "224578",
    "pcgamingwiki": "Starstruck_Vagabond",
    "steam": "2448930"
@@ -876,6 +897,7 @@
  {
   "ids": {
    "igdb": "mortar-melon",
+   "metacritic": "mortar-melon",
    "mobygames": "101051"
   },
   "label_en": "Mortar Melon",
@@ -1212,6 +1234,7 @@
   "ids": {
    "howlongtobeat": "59458",
    "igdb": "hellblade-senuas-sacrifice-vr-edition",
+   "metacritic": "hellblade-senuas-sacrifice-vr-edition",
    "mobygames": "112096",
    "pcgamingwiki": "Hellblade:_Senua's_Sacrifice_VR_Edition",
    "steam": "747350"

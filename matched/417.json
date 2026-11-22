@@ -25,6 +25,7 @@
    "gog": "game/the_black_mirror",
    "howlongtobeat": "9786",
    "igdb": "the-black-mirror",
+   "metacritic": "black-mirror",
    "mobygames": "9391",
    "pcgamingwiki": "The_Black_Mirror",
    "steam": "292930"
@@ -56,6 +57,7 @@
   "enwiki": "NHL 2003",
   "ids": {
    "igdb": "nhl-2003",
+   "metacritic": "nhl-2003",
    "mobygames": "9662"
   },
   "label_en": "NHL 2003",
@@ -96,6 +98,7 @@
   "ids": {
    "howlongtobeat": "351",
    "igdb": "alien-crush-returns",
+   "metacritic": "alien-crush-returns",
    "mobygames": "46883"
   },
   "label_en": "Alien Crush Returns",
@@ -125,6 +128,7 @@
    "gog": "game/moebius",
    "howlongtobeat": "17900",
    "igdb": "moebius-empire-rising",
+   "metacritic": "moebius-empire-rising",
    "mobygames": "67586",
    "pcgamingwiki": "Moebius:_Empire_Rising",
    "steam": "264520"
@@ -171,6 +175,7 @@
   "enwiki": "TNT Racers",
   "ids": {
    "igdb": "tnt-racers",
+   "metacritic": "tnt-racers",
    "mobygames": "85105"
   },
   "label_en": "TNT Racers",
@@ -181,6 +186,7 @@
   "ids": {
    "howlongtobeat": "22485",
    "igdb": "dance-central-spotlight",
+   "metacritic": "dance-central-spotlight",
    "mobygames": "70324"
   },
   "label_en": "Dance Central Spotlight",
@@ -208,7 +214,8 @@
  },
  {
   "ids": {
-   "igdb": "witchspring4"
+   "igdb": "witchspring4",
+   "metacritic": "witchspring4"
   },
   "label_en": "WitchSpring4",
   "wikidata": "Q85885417"
@@ -235,6 +242,7 @@
   "ids": {
    "howlongtobeat": "104215",
    "igdb": "vivid-knight",
+   "metacritic": "vivid-knight",
    "mobygames": "165552",
    "steam": "1569090"
   },
@@ -246,6 +254,7 @@
   "ids": {
    "howlongtobeat": "98841",
    "igdb": "atelier-sophie-2-the-alchemist-of-the-mysterious-dream",
+   "metacritic": "atelier-sophie-2-the-alchemist-of-the-mysterious-dream",
    "mobygames": "180427",
    "pcgamingwiki": "Atelier_Sophie_2:_The_Alchemist_of_the_Mysterious_Dream",
    "steam": "1621310"
@@ -268,6 +277,7 @@
    "epic": "disney-speedstorm",
    "howlongtobeat": "127042",
    "igdb": "disney-speedstorm",
+   "metacritic": "disney-speedstorm",
    "mobygames": "201953",
    "pcgamingwiki": "Disney_Speedstorm",
    "steam": "1537830"
@@ -765,6 +775,7 @@
   "ids": {
    "howlongtobeat": "10698",
    "igdb": "turba",
+   "metacritic": "turba",
    "mobygames": "106908",
    "pcgamingwiki": "Turba",
    "steam": "58400"
@@ -1087,6 +1098,7 @@
  {
   "ids": {
    "igdb": "wonder-cat",
+   "pcgamingwiki": "Wonder_Cat",
    "steam": "1193290"
   },
   "label_en": "Wonder Cat",

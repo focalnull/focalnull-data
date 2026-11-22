@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "10726",
    "igdb": "twisted-metal-head-on",
+   "metacritic": "twisted-metal-head-on",
    "mobygames": "17332"
   },
   "label_en": "Twisted Metal: Head-On",
@@ -34,6 +35,7 @@
   "ids": {
    "howlongtobeat": "5597",
    "igdb": "mana-khemia-2-fall-of-alchemy",
+   "metacritic": "mana-khemia-2-fall-of-alchemy",
    "mobygames": "105071"
   },
   "label_en": "Mana Khemia 2: Fall of Alchemy",
@@ -45,6 +47,7 @@
    "gog": "game/syberia_3_the_complete_journey",
    "howlongtobeat": "45367",
    "igdb": "syberia-3",
+   "metacritic": "syberia-3",
    "mobygames": "87225",
    "pcgamingwiki": "Syberia_3",
    "steam": "464340"
@@ -66,6 +69,7 @@
   "ids": {
    "howlongtobeat": "4838",
    "igdb": "jetpack-joyride",
+   "metacritic": "jetpack-joyride",
    "mobygames": "55840",
    "pcgamingwiki": "Jetpack_Joyride"
   },
@@ -85,6 +89,7 @@
   "enwiki": "Sands of Destruction",
   "ids": {
    "igdb": "sands-of-destruction",
+   "metacritic": "sands-of-destruction",
    "mobygames": "90133"
   },
   "label_en": "Sands of Destruction",
@@ -103,6 +108,7 @@
   "enwiki": "WWE Survivor Series (video game)",
   "ids": {
    "igdb": "wwe-survivor-series",
+   "metacritic": "wwe-survivor-series",
    "mobygames": "61711"
   },
   "label_en": "WWE Survivor Series",
@@ -112,6 +118,7 @@
   "enwiki": "Winx Club: Join the Club",
   "ids": {
    "igdb": "winx-club-join-the-club",
+   "metacritic": "winx-club-join-the-club",
    "mobygames": "42150"
   },
   "label_en": "Winx Club: Join the Club",
@@ -183,6 +190,7 @@
   "ids": {
    "howlongtobeat": "21173",
    "igdb": "dieselstormers",
+   "metacritic": "rogue-stormers",
    "mobygames": "86904",
    "pcgamingwiki": "Rogue_Stormers",
    "steam": "299480"
@@ -266,6 +274,7 @@
    "gog": "game/halcyon_6_starbase_commander",
    "howlongtobeat": "37829",
    "igdb": "halcyon-6-starbase-commander",
+   "metacritic": "halcyon-6-starbase-commander",
    "mobygames": "82931",
    "pcgamingwiki": "Halcyon_6:_Starbase_Commander",
    "steam": "371200"
@@ -279,6 +288,7 @@
    "gog": "game/the_final_station",
    "howlongtobeat": "39668",
    "igdb": "the-final-station",
+   "metacritic": "the-final-station",
    "mobygames": "84694",
    "pcgamingwiki": "The_Final_Station",
    "steam": "435530"
@@ -290,6 +300,7 @@
   "ids": {
    "howlongtobeat": "54850",
    "igdb": "pure-farming-2018",
+   "metacritic": "pure-farming-2018",
    "mobygames": "105203",
    "pcgamingwiki": "Pure_Farming_2018",
    "steam": "534370"
@@ -303,6 +314,7 @@
    "epic": "oceanhorn-2-knights-of-the-lost-realm-8f4eb9",
    "howlongtobeat": "70698",
    "igdb": "oceanhorn-2-knights-of-the-lost-realm",
+   "metacritic": "oceanhorn-2-knights-of-the-lost-realm",
    "mobygames": "135389",
    "pcgamingwiki": "Oceanhorn_2:_Knights_of_the_Lost_Realm",
    "steam": "1622710"
@@ -314,6 +326,7 @@
   "ids": {
    "howlongtobeat": "82114",
    "igdb": "efootball-pes-2021-season-update",
+   "metacritic": "efootball-pes-2021",
    "mobygames": "150453",
    "pcgamingwiki": "EFootball_PES_2021_Season_Update",
    "steam": "1259970"
@@ -339,7 +352,8 @@
  },
  {
   "ids": {
-   "igdb": "ex-astris"
+   "igdb": "ex-astris",
+   "metacritic": "ex-astris"
   },
   "label_en": "Ex Astris",
   "wikidata": "Q111496481"
@@ -374,6 +388,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-5",
+   "metacritic": "vacation-adventures-park-ranger-5",
    "steam": "1542160"
   },
   "label_en": "Vacation Adventures: Park Ranger 5",
@@ -413,6 +428,7 @@
   "ids": {
    "howlongtobeat": "24025",
    "igdb": "juju",
+   "metacritic": "juju",
    "mobygames": "88017",
    "pcgamingwiki": "Juju",
    "steam": "300840"
@@ -443,6 +459,7 @@
    "gog": "game/super_magbot",
    "howlongtobeat": "94933",
    "igdb": "super-magbot",
+   "metacritic": "super-magbot",
    "mobygames": "166581",
    "steam": "1205170"
   },
@@ -472,6 +489,7 @@
    "epic": "killing-floor-3",
    "howlongtobeat": "134560",
    "igdb": "killing-floor-iii",
+   "metacritic": "killing-floor-3",
    "mobygames": "245158",
    "pcgamingwiki": "Killing_Floor_3",
    "steam": "1430190"

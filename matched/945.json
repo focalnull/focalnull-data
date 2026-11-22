@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "5399",
    "igdb": "lostmagic",
+   "metacritic": "lost-magic",
    "mobygames": "22432"
   },
   "label_en": "LostMagic",
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "939",
    "igdb": "battlefield-2-modern-combat",
+   "metacritic": "battlefield-2-modern-combat",
    "mobygames": "19863"
   },
   "label_en": "Battlefield 2: Modern Combat",
@@ -68,6 +70,7 @@
    "gog": "game/edna_harvey_harveys_new_eyes",
    "howlongtobeat": "14535",
    "igdb": "edna-harvey-harvey-s-new-eyes",
+   "metacritic": "edna-harvey-harveys-new-eyes",
    "mobygames": "53648",
    "pcgamingwiki": "Edna_&_Harvey:_Harvey's_New_Eyes",
    "steam": "219910"
@@ -99,6 +102,7 @@
   "ids": {
    "howlongtobeat": "3318",
    "igdb": "fable-the-lost-chapters",
+   "metacritic": "fable-the-lost-chapters",
    "mobygames": "19218",
    "pcgamingwiki": "Fable:_The_Lost_Chapters",
    "steam": "204030"
@@ -111,6 +115,7 @@
   "ids": {
    "howlongtobeat": "4017",
    "igdb": "gore-ultimate-soldier",
+   "metacritic": "gore-ultimate-soldier",
    "mobygames": "6671",
    "pcgamingwiki": "Gore:_Ultimate_Soldier"
   },
@@ -206,6 +211,7 @@
   "enwiki": "Trade Empires",
   "ids": {
    "igdb": "trade-empires",
+   "metacritic": "trade-empires",
    "mobygames": "5965"
   },
   "label_en": "Trade Empires",
@@ -224,6 +230,7 @@
   "ids": {
    "howlongtobeat": "36416",
    "igdb": "orcs-must-die-unchained",
+   "metacritic": "orcs-must-die-unchained",
    "mobygames": "85529",
    "pcgamingwiki": "Orcs_Must_Die!_Unchained",
    "steam": "427270"
@@ -249,6 +256,7 @@
   "ids": {
    "howlongtobeat": "36773",
    "igdb": "ray-gigant",
+   "metacritic": "ray-gigant",
    "mobygames": "87954",
    "pcgamingwiki": "Ray_Gigant",
    "steam": "421600"
@@ -272,6 +280,7 @@
   "ids": {
    "howlongtobeat": "40668",
    "igdb": "farming-simulator-17",
+   "metacritic": "farming-simulator-17",
    "mobygames": "83466",
    "pcgamingwiki": "Farming_Simulator_17",
    "steam": "447020"
@@ -285,6 +294,7 @@
    "gog": "game/headlander",
    "howlongtobeat": "38906",
    "igdb": "headlander",
+   "metacritic": "headlander",
    "mobygames": "85830",
    "pcgamingwiki": "Headlander",
    "steam": "340000"
@@ -296,6 +306,7 @@
   "ids": {
    "howlongtobeat": "41426",
    "igdb": "karma-incarnation-1",
+   "metacritic": "karma-incarnation-1",
    "mobygames": "95123",
    "pcgamingwiki": "Karma._Incarnation_1",
    "steam": "394700"
@@ -314,6 +325,7 @@
   "ids": {
    "howlongtobeat": "54075",
    "igdb": "cubots-the-origins",
+   "metacritic": "cubots-the-origins",
    "mobygames": "142071",
    "pcgamingwiki": "Cubots:_The_Origins",
    "steam": "636400"
@@ -360,6 +372,7 @@
   "ids": {
    "howlongtobeat": "103446",
    "igdb": "maglam-lord",
+   "metacritic": "maglam-lord",
    "pcgamingwiki": "Maglam_Lord",
    "steam": "1799380"
   },
@@ -422,6 +435,7 @@
   "enwiki": "Sports Story",
   "ids": {
    "igdb": "sports-story",
+   "metacritic": "sports-story",
    "mobygames": "196201"
   },
   "label_en": "Sports Story",
@@ -477,6 +491,7 @@
    "gog": "game/9_years_of_shadows",
    "howlongtobeat": "100574",
    "igdb": "9-years-of-shadows",
+   "metacritic": "9-years-of-shadows",
    "mobygames": "201016",
    "pcgamingwiki": "9_Years_of_Shadows",
    "steam": "1402120"
@@ -488,6 +503,7 @@
   "ids": {
    "howlongtobeat": "106113",
    "igdb": "afterimage",
+   "metacritic": "afterimage",
    "mobygames": "202203",
    "pcgamingwiki": "Afterimage",
    "steam": "1701520"
@@ -800,6 +816,7 @@
    "epic": "karmazoo-616bd0",
    "howlongtobeat": "128021",
    "igdb": "karmazoo",
+   "metacritic": "karmazoo",
    "mobygames": "212349",
    "steam": "1661630"
   },

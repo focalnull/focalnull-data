@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "5309",
    "igdb": "link-s-crossbow-training",
+   "metacritic": "links-crossbow-training",
    "mobygames": "31284"
   },
   "label_en": "Link's Crossbow Training",
@@ -24,6 +25,7 @@
    "gog": "game/myst_5_end_of_ages",
    "howlongtobeat": "6311",
    "igdb": "myst-v-end-of-ages",
+   "metacritic": "myst-v-end-of-ages",
    "mobygames": "19234",
    "pcgamingwiki": "Myst_V:_End_of_Ages",
    "steam": "208110"
@@ -67,6 +69,7 @@
   "ids": {
    "howlongtobeat": "1149",
    "igdb": "blazing-angels-squadrons-of-wwii",
+   "metacritic": "blazing-angels-squadrons-of-wwii",
    "mobygames": "22119",
    "pcgamingwiki": "Blazing_Angels:_Squadrons_of_WWII",
    "steam": "15220"
@@ -101,6 +104,7 @@
   "ids": {
    "howlongtobeat": "29730",
    "igdb": "tom-and-jerry-in-fists-of-furry",
+   "metacritic": "tom-and-jerry-in-fists-of-furry",
    "mobygames": "9234",
    "pcgamingwiki": "Tom_and_Jerry_in_Fists_of_Furry"
   },
@@ -165,6 +169,7 @@
   "enwiki": "Top Trumps: NBA All Stars",
   "ids": {
    "igdb": "top-trumps-nba-all-stars",
+   "metacritic": "top-trumps-nba-all-stars",
    "mobygames": "143355"
   },
   "label_en": "Top Trumps: NBA All Stars",
@@ -205,6 +210,7 @@
   "ids": {
    "howlongtobeat": "90766",
    "igdb": "ark-park",
+   "metacritic": "ark-park",
    "pcgamingwiki": "ARK_Park",
    "steam": "529910"
   },
@@ -218,6 +224,7 @@
    "gog": "game/river_city_girls",
    "howlongtobeat": "69993",
    "igdb": "river-city-girls",
+   "metacritic": "river-city-girls",
    "mobygames": "134291",
    "pcgamingwiki": "River_City_Girls",
    "steam": "1049320"
@@ -230,6 +237,7 @@
    "gog": "game/18_wheels_of_steel_convoy",
    "howlongtobeat": "45704",
    "igdb": "18-wheels-of-steel-convoy",
+   "metacritic": "18-wheels-of-steel-convoy",
    "mobygames": "40787",
    "pcgamingwiki": "18_Wheels_of_Steel:_Convoy",
    "steam": "514170"
@@ -351,7 +359,8 @@
  },
  {
   "ids": {
-   "igdb": "road-to-guangdong"
+   "igdb": "road-to-guangdong",
+   "metacritic": "road-to-guangdong"
   },
   "label_en": "Road to Guangdong",
   "wikidata": "Q118496639"
@@ -1059,6 +1068,7 @@
  {
   "ids": {
    "igdb": "brutal-sports-football",
+   "pcgamingwiki": "Brutal_Sports_-_Football",
    "steam": "1134120"
   },
   "label_en": "Brutal Sports - Football",

@@ -12,6 +12,7 @@
   "enwiki": "Echo Night: Beyond",
   "ids": {
    "igdb": "echo-night-beyond",
+   "metacritic": "echo-night-beyond",
    "mobygames": "18880"
   },
   "label_en": "Echo Night: Beyond",
@@ -37,6 +38,7 @@
   "enwiki": "Space Invaders Extreme 2",
   "ids": {
    "igdb": "space-invaders-extreme-2",
+   "metacritic": "space-invaders-extreme-2",
    "mobygames": "54027"
   },
   "label_en": "Space Invaders Extreme 2",
@@ -47,6 +49,7 @@
   "ids": {
    "howlongtobeat": "20422",
    "igdb": "final-fight-streetwise",
+   "metacritic": "final-fight-streetwise",
    "mobygames": "21516"
   },
   "label_en": "Final Fight: Streetwise",
@@ -164,6 +167,7 @@
   "ids": {
    "howlongtobeat": "29717",
    "igdb": "lara-croft-go",
+   "metacritic": "lara-croft-go",
    "mobygames": "74996",
    "pcgamingwiki": "Lara_Croft_GO",
    "steam": "540840"
@@ -194,6 +198,7 @@
   "ids": {
    "howlongtobeat": "51164",
    "igdb": "mega-man-11",
+   "metacritic": "mega-man-11",
    "mobygames": "109581",
    "pcgamingwiki": "Mega_Man_11",
    "steam": "742300"
@@ -206,6 +211,7 @@
   "ids": {
    "howlongtobeat": "76874",
    "igdb": "motogp-18",
+   "metacritic": "motogp-18",
    "mobygames": "109468",
    "pcgamingwiki": "MotoGP_18",
    "steam": "775900"
@@ -217,6 +223,7 @@
   "ids": {
    "howlongtobeat": "60111",
    "igdb": "dive--2",
+   "metacritic": "dive-2018",
    "mobygames": "206360",
    "pcgamingwiki": "Dive_(Deothic)",
    "steam": "878950"
@@ -230,6 +237,7 @@
    "epic": "horizon-chase-turbo",
    "howlongtobeat": "57066",
    "igdb": "horizon-chase-turbo",
+   "metacritic": "horizon-chase-turbo",
    "mobygames": "108783",
    "pcgamingwiki": "Horizon_Chase_Turbo",
    "steam": "389140"
@@ -246,6 +254,7 @@
    "epic": "wattam",
    "howlongtobeat": "38197",
    "igdb": "wattam",
+   "metacritic": "wattam",
    "mobygames": "138595",
    "pcgamingwiki": "Wattam",
    "steam": "702680"
@@ -272,6 +281,7 @@
   "ids": {
    "howlongtobeat": "84527",
    "igdb": "nickelodeon-kart-racers-2-grand-prix",
+   "metacritic": "nickelodeon-kart-racers-2-grand-prix",
    "mobygames": "150894",
    "pcgamingwiki": "Nickelodeon_Kart_Racers_2:_Grand_Prix",
    "steam": "1383960"
@@ -285,6 +295,7 @@
    "howlongtobeat": "39925",
    "igdb": "mu-cartographer",
    "mobygames": "113755",
+   "pcgamingwiki": "Mu_Cartographer",
    "steam": "513360"
   },
   "label_en": "Mu Cartographer",
@@ -294,6 +305,7 @@
   "ids": {
    "howlongtobeat": "42412",
    "igdb": "a-magical-high-school-girl",
+   "metacritic": "a-magical-high-school-girl",
    "mobygames": "105449",
    "pcgamingwiki": "A_Magical_High_School_Girl",
    "steam": "555630"
@@ -342,6 +354,7 @@
   "enwiki": "Beeswing (video game)",
   "ids": {
    "igdb": "beeswing",
+   "pcgamingwiki": "Beeswing",
    "steam": "365580"
   },
   "label_en": "Beeswing",
@@ -407,6 +420,7 @@
    "gog": "game/the_wreck",
    "howlongtobeat": "125518",
    "igdb": "the-wreck",
+   "metacritic": "the-wreck",
    "mobygames": "200525",
    "steam": "1687960"
   },
@@ -418,6 +432,7 @@
    "gog": "game/cats_hidden_in_paris",
    "howlongtobeat": "131797",
    "igdb": "travellin-cats-in-paris",
+   "metacritic": "cats-hidden-in-paris",
    "mobygames": "205879",
    "steam": "2313250"
   },
@@ -812,6 +827,7 @@
  {
   "ids": {
    "igdb": "chubbins",
+   "metacritic": "chubbins",
    "mobygames": "98897"
   },
   "label_en": "Chubbins",
@@ -821,6 +837,7 @@
   "enwiki": "Saros (video game)",
   "ids": {
    "igdb": "saros",
+   "metacritic": "saros",
    "mobygames": "251831"
   },
   "label_en": "Saros",

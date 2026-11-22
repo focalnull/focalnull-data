@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1645",
    "igdb": "chaos-rings-ii",
+   "metacritic": "chaos-rings-ii",
    "mobygames": "95441"
   },
   "label_en": "Chaos Rings II",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "5056",
    "igdb": "kingdoms-of-amalur-reckoning",
+   "metacritic": "kingdoms-of-amalur-reckoning",
    "mobygames": "55437",
    "pcgamingwiki": "Kingdoms_of_Amalur:_Reckoning",
    "steam": "102500"
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "4984",
    "igdb": "killzone",
+   "metacritic": "killzone",
    "mobygames": "15915"
   },
   "label_en": "Killzone",
@@ -36,6 +39,7 @@
   "ids": {
    "howlongtobeat": "1986",
    "igdb": "crash-twinsanity",
+   "metacritic": "crash-twinsanity",
    "mobygames": "16120"
   },
   "label_en": "Crash Twinsanity",
@@ -54,6 +58,7 @@
   "enwiki": "NBA Street Homecourt",
   "ids": {
    "igdb": "nba-street-homecourt",
+   "metacritic": "nba-street-homecourt",
    "mobygames": "32733"
   },
   "label_en": "NBA Street Homecourt",
@@ -73,6 +78,7 @@
   "ids": {
    "howlongtobeat": "2535",
    "igdb": "digimon-battle-spirit",
+   "metacritic": "digimon-battle-spirit",
    "mobygames": "21274"
   },
   "label_en": "Digimon Battle Spirit",
@@ -83,6 +89,7 @@
   "ids": {
    "howlongtobeat": "727",
    "igdb": "aura-fate-of-the-ages",
+   "metacritic": "aura-fate-of-the-ages",
    "mobygames": "13916",
    "pcgamingwiki": "Aura:_Fate_of_the_Ages",
    "steam": "65500"
@@ -96,6 +103,7 @@
    "gog": "game/gun_metal",
    "howlongtobeat": "4192",
    "igdb": "gun-metal",
+   "metacritic": "gun-metal",
    "mobygames": "9741",
    "pcgamingwiki": "Gun_Metal",
    "steam": "267920"
@@ -126,6 +134,7 @@
   "ids": {
    "howlongtobeat": "315",
    "igdb": "al-emmo-and-the-lost-dutchmans-mine",
+   "metacritic": "al-emmo-and-the-lost-dutchmans-mine",
    "mobygames": "25432",
    "pcgamingwiki": "Al_Emmo_and_the_Lost_Dutchman's_Mine",
    "steam": "296850"
@@ -232,6 +241,7 @@
   "ids": {
    "howlongtobeat": "16010",
    "igdb": "arma-tactics",
+   "metacritic": "arma-tactics",
    "mobygames": "92338",
    "pcgamingwiki": "Arma_Tactics",
    "steam": "224860"
@@ -339,6 +349,7 @@
    "epic": "assassins-creed-3",
    "howlongtobeat": "65940",
    "igdb": "assassins-creed-iii-remastered",
+   "metacritic": "assassins-creed-iii-remastered",
    "mobygames": "124454",
    "pcgamingwiki": "Assassin's_Creed_III_Remastered",
    "steam": "911400"
@@ -348,7 +359,8 @@
  },
  {
   "ids": {
-   "igdb": "snail-bob"
+   "igdb": "snail-bob",
+   "metacritic": "snail-bob"
   },
   "label_en": "Snail Bob",
   "wikidata": "Q66818775"
@@ -372,6 +384,7 @@
   "ids": {
    "howlongtobeat": "71918",
    "igdb": "towaga-among-shadows",
+   "metacritic": "towaga-among-shadows",
    "mobygames": "135696",
    "pcgamingwiki": "Towaga:_Among_Shadows",
    "steam": "907600"
@@ -405,6 +418,7 @@
    "gog": "game/flynn_son_of_crimson",
    "howlongtobeat": "68580",
    "igdb": "flynn-son-of-crimson",
+   "metacritic": "flynn-son-of-crimson",
    "mobygames": "172311",
    "pcgamingwiki": "Flynn:_Son_of_Crimson",
    "steam": "737520"
@@ -510,6 +524,7 @@
   "ids": {
    "howlongtobeat": "119431",
    "igdb": "wayfinder--1",
+   "metacritic": "wayfinder",
    "mobygames": "207498",
    "pcgamingwiki": "Wayfinder",
    "steam": "1171690"
@@ -760,6 +775,7 @@
    "gog": "game/foregone",
    "howlongtobeat": "68371",
    "igdb": "foregone",
+   "metacritic": "foregone",
    "mobygames": "151301",
    "pcgamingwiki": "Foregone",
    "steam": "1000760"
@@ -798,6 +814,7 @@
   "ids": {
    "howlongtobeat": "75224",
    "igdb": "bookbound-brigade",
+   "metacritic": "bookbound-brigade",
    "mobygames": "140774",
    "pcgamingwiki": "Bookbound_Brigade",
    "steam": "1130710"
@@ -878,6 +895,7 @@
    "gog": "game/tribe_primitive_builder",
    "howlongtobeat": "139431",
    "igdb": "tribe-primitive-builder",
+   "metacritic": "tribe-primitive-builder",
    "mobygames": "210131",
    "pcgamingwiki": "Primitive_Builder_Simulator",
    "steam": "1059900"
@@ -889,6 +907,7 @@
   "ids": {
    "howlongtobeat": "29195",
    "igdb": "adams-venture-chronicles",
+   "metacritic": "adams-venture-chronicles",
    "mobygames": "60322",
    "pcgamingwiki": "Adam's_Venture_Chronicles",
    "steam": "362410"
@@ -1334,6 +1353,7 @@
  {
   "ids": {
    "igdb": "puffin-parcel-post",
+   "metacritic": "puffin-parcel-post",
    "steam": "3573440"
   },
   "label_en": "Puffin Parcel Post",
@@ -1369,6 +1389,7 @@
   "ids": {
    "gog": "game/the_interactive_adventures_of_dog_mendonca_and_pizzaboy",
    "igdb": "the-interactive-adventures-of-dog-mendonca-and-pizzaboy",
+   "pcgamingwiki": "The_Interactive_Adventures_of_Dog_Mendonça_and_Pizzaboy",
    "steam": "330420"
   },
   "label_en": "The Interactive Adventures of Dog Mendonça & Pizzaboy®",

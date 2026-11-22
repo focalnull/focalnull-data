@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1133",
    "igdb": "blast-corps",
+   "metacritic": "blast-corps",
    "mobygames": "3623"
   },
   "label_en": "Blast Corps",
@@ -15,6 +16,7 @@
    "gog": "game/chris_sawyers_locomotion",
    "howlongtobeat": "15744",
    "igdb": "chris-sawyers-locomotion",
+   "metacritic": "chris-sawyers-locomotion",
    "mobygames": "14741",
    "pcgamingwiki": "Chris_Sawyer's_Locomotion",
    "steam": "356430"
@@ -54,6 +56,7 @@
   "enwiki": "Pop (video game)",
   "ids": {
    "igdb": "pop",
+   "metacritic": "pop",
    "mobygames": "34601"
   },
   "label_en": "Pop",
@@ -73,6 +76,7 @@
   "ids": {
    "howlongtobeat": "16090",
    "igdb": "nitrobike",
+   "metacritic": "nitrobike",
    "mobygames": "35526"
   },
   "label_en": "Nitrobike",
@@ -101,6 +105,7 @@
   "ids": {
    "howlongtobeat": "7910",
    "igdb": "rock-n-roll-adventures",
+   "metacritic": "rock-n-roll-adventures",
    "mobygames": "92182",
    "pcgamingwiki": "Rock_'n'_Roll_Adventures"
   },
@@ -139,6 +144,7 @@
    "gog": "game/riot_civil_unrest",
    "howlongtobeat": "34405",
    "igdb": "riot-civil-unrest",
+   "metacritic": "riot-civil-unrest",
    "mobygames": "99190",
    "pcgamingwiki": "Riot:_Civil_Unrest",
    "steam": "342310"
@@ -173,6 +179,7 @@
   "enwiki": "Pokémon White 2",
   "ids": {
    "igdb": "pokemon-white-version-2",
+   "metacritic": "pokemon-white-version-2",
    "mobygames": "58348"
   },
   "label_en": "Pokémon White 2",
@@ -191,6 +198,7 @@
   "ids": {
    "howlongtobeat": "47008",
    "igdb": "steel-division-normandy-44",
+   "metacritic": "steel-division-normandy-44",
    "mobygames": "89085",
    "pcgamingwiki": "Steel_Division:_Normandy_44",
    "steam": "572410"
@@ -246,6 +254,7 @@
    "epic": "idle-champions-of-the-forgotten-realms",
    "howlongtobeat": "48446",
    "igdb": "idle-champions-of-the-forgotten-realms",
+   "metacritic": "idle-champions-of-the-forgotten-realms",
    "mobygames": "95740",
    "pcgamingwiki": "Idle_Champions_of_the_Forgotten_Realms",
    "steam": "627690"
@@ -267,6 +276,7 @@
   "ids": {
    "howlongtobeat": "65929",
    "igdb": "power-rangers-battle-for-the-grid",
+   "metacritic": "power-rangers-battle-for-the-grid",
    "mobygames": "123537",
    "pcgamingwiki": "Power_Rangers:_Battle_for_the_Grid",
    "steam": "1110100"
@@ -289,6 +299,7 @@
   "ids": {
    "howlongtobeat": "23915",
    "igdb": "zoo-hospital",
+   "metacritic": "zoo-hospital",
    "mobygames": "36664"
   },
   "label_en": "Zoo Hospital",
@@ -425,6 +436,7 @@
  {
   "ids": {
    "igdb": "traffic-racer",
+   "metacritic": "traffic-racer",
    "mobygames": "154145"
   },
   "label_en": "Traffic Racer",
@@ -434,7 +446,9 @@
   "ids": {
    "howlongtobeat": "130455",
    "igdb": "star-ocean-the-second-story-r",
+   "metacritic": "star-ocean-the-second-story-r",
    "mobygames": "211270",
+   "pcgamingwiki": "Star_Ocean:_The_Second_Story_R",
    "steam": "2238900"
   },
   "label_en": "Star Ocean: The Second Story R",

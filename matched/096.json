@@ -25,6 +25,7 @@
   "ids": {
    "howlongtobeat": "1464",
    "igdb": "call-of-duty",
+   "metacritic": "call-of-duty",
    "mobygames": "10826",
    "pcgamingwiki": "Call_of_Duty",
    "steam": "2620"
@@ -41,6 +42,7 @@
   "ids": {
    "howlongtobeat": "1189",
    "igdb": "bloodrayne",
+   "metacritic": "bloodrayne",
    "mobygames": "7490",
    "pcgamingwiki": "BloodRayne",
    "steam": "3810"
@@ -72,6 +74,7 @@
   "ids": {
    "howlongtobeat": "10987",
    "igdb": "voodoo-vince",
+   "metacritic": "voodoo-vince-remastered",
    "mobygames": "10882",
    "pcgamingwiki": "Voodoo_Vince_Remastered",
    "steam": "545980"
@@ -126,6 +129,7 @@
   "ids": {
    "howlongtobeat": "6827",
    "igdb": "outland",
+   "metacritic": "outland",
    "mobygames": "51525",
    "pcgamingwiki": "Outland",
    "steam": "305050"
@@ -164,6 +168,7 @@
   "ids": {
    "howlongtobeat": "18810",
    "igdb": "drakengard-3",
+   "metacritic": "drakengard-3",
    "mobygames": "77602"
   },
   "label_en": "Drakengard 3",
@@ -180,6 +185,7 @@
  {
   "ids": {
    "igdb": "battle-princess-of-arcadias",
+   "metacritic": "battle-princess-of-arcadias",
    "mobygames": "91563"
   },
   "label_en": "Battle Princess of Arcadias",
@@ -214,6 +220,7 @@
   "enwiki": "NCAA March Madness 2002",
   "ids": {
    "igdb": "ncaa-march-madness-2002",
+   "metacritic": "ncaa-march-madness-2002",
    "mobygames": "40806"
   },
   "label_en": "NCAA March Madness 2002",
@@ -237,6 +244,7 @@
    "gog": "game/webbed",
    "howlongtobeat": "83986",
    "igdb": "webbed",
+   "metacritic": "webbed",
    "mobygames": "171457",
    "pcgamingwiki": "Webbed",
    "steam": "1390350"
@@ -261,6 +269,7 @@
    "gog": "game/nebuchadnezzar",
    "howlongtobeat": "88614",
    "igdb": "nebuchadnezzar",
+   "metacritic": "nebuchadnezzar",
    "mobygames": "159208",
    "pcgamingwiki": "Nebuchadnezzar",
    "steam": "1157220"
@@ -272,6 +281,7 @@
   "ids": {
    "howlongtobeat": "98236",
    "igdb": "honey-i-joined-a-cult",
+   "metacritic": "honey-i-joined-a-cult",
    "mobygames": "173432",
    "pcgamingwiki": "Honey,_I_Joined_a_Cult",
    "steam": "841190"
@@ -293,6 +303,7 @@
   "ids": {
    "howlongtobeat": "103475",
    "igdb": "infernax",
+   "metacritic": "infernax",
    "mobygames": "179715",
    "pcgamingwiki": "Infernax",
    "steam": "374190"
@@ -557,6 +568,7 @@
    "gog": "game/land_of_the_vikings",
    "howlongtobeat": "129511",
    "igdb": "land-of-the-vikings",
+   "metacritic": "land-of-the-vikings",
    "mobygames": "194817",
    "pcgamingwiki": "Land_of_the_Vikings",
    "steam": "1981570"
@@ -1021,5 +1033,12 @@
   },
   "label_en": "Castles in the Sky",
   "wikidata": "Q136304096"
+ },
+ {
+  "ids": {
+   "steam": "3718190"
+  },
+  "label_en": "Stripjong - Super Real Mahjong Venus Returns",
+  "wikidata": "Q142200096"
  }
 ]

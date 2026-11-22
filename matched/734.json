@@ -8,6 +8,7 @@
   "ids": {
    "howlongtobeat": "10464",
    "igdb": "tom-clancys-splinter-cell-essentials",
+   "metacritic": "tom-clancys-splinter-cell-essentials",
    "mobygames": "36077"
   },
   "label_en": "Tom Clancy's Splinter Cell: Essentials",
@@ -25,6 +26,7 @@
   "ids": {
    "howlongtobeat": "1168",
    "igdb": "blinx-the-time-sweeper",
+   "metacritic": "blinx-the-time-sweeper",
    "mobygames": "7400",
    "pcgamingwiki": "Blinx:_The_Time_Sweeper"
   },
@@ -114,6 +116,7 @@
   "ids": {
    "howlongtobeat": "25222",
    "igdb": "magicka-2",
+   "metacritic": "magicka-2",
    "mobygames": "84369",
    "pcgamingwiki": "Magicka_2",
    "steam": "238370"
@@ -154,6 +157,7 @@
   "ids": {
    "howlongtobeat": "23155",
    "igdb": "xeodrifter",
+   "metacritic": "xeodrifter",
    "mobygames": "79301",
    "pcgamingwiki": "Xeodrifter",
    "steam": "319140"
@@ -165,6 +169,7 @@
   "enwiki": "Fast Racing Neo",
   "ids": {
    "igdb": "fast-racing-neo",
+   "metacritic": "fast-racing-neo",
    "mobygames": "88449"
   },
   "label_en": "FAST Racing Neo",
@@ -176,6 +181,7 @@
    "gog": "game/psychonauts_2",
    "howlongtobeat": "61442",
    "igdb": "psychonauts-2",
+   "metacritic": "psychonauts-2",
    "mobygames": "170037",
    "pcgamingwiki": "Psychonauts_2",
    "steam": "607080"
@@ -188,6 +194,7 @@
   "ids": {
    "howlongtobeat": "57556",
    "igdb": "labyrinth-of-refrain-coven-of-dusk",
+   "metacritic": "labyrinth-of-refrain-coven-of-dusk",
    "mobygames": "98509",
    "pcgamingwiki": "Labyrinth_of_Refrain:_Coven_of_Dusk",
    "steam": "566540"
@@ -201,6 +208,7 @@
    "gog": "game/agony",
    "howlongtobeat": "56879",
    "igdb": "agony--1",
+   "metacritic": "agony",
    "mobygames": "109509",
    "pcgamingwiki": "Agony",
    "steam": "487720"
@@ -213,6 +221,7 @@
   "ids": {
    "howlongtobeat": "14123",
    "igdb": "angry-video-game-nerd-adventures",
+   "metacritic": "angry-video-game-nerd-adventures",
    "mobygames": "62363",
    "pcgamingwiki": "Angry_Video_Game_Nerd_Adventures",
    "steam": "237740"
@@ -225,6 +234,7 @@
   "ids": {
    "howlongtobeat": "47725",
    "igdb": "behold-the-kickmen",
+   "metacritic": "behold-the-kickmen",
    "mobygames": "92992",
    "pcgamingwiki": "Behold_the_Kickmen",
    "steam": "529440"
@@ -236,6 +246,7 @@
   "ids": {
    "howlongtobeat": "39703",
    "igdb": "unearned-bounty",
+   "metacritic": "unearned-bounty",
    "mobygames": "112846",
    "pcgamingwiki": "Unearned_Bounty",
    "steam": "377260"
@@ -254,6 +265,7 @@
   "ids": {
    "howlongtobeat": "52138",
    "igdb": "transcend",
+   "metacritic": "transcend",
    "mobygames": "222629",
    "pcgamingwiki": "Transcend",
    "steam": "760860"
@@ -276,6 +288,7 @@
    "gog": "game/ministry_of_broadcast",
    "howlongtobeat": "74763",
    "igdb": "ministry-of-broadcast",
+   "metacritic": "ministry-of-broadcast",
    "mobygames": "141476",
    "pcgamingwiki": "Ministry_of_Broadcast",
    "steam": "874040"
@@ -307,6 +320,7 @@
   "enwiki": "MLB The Show 21",
   "ids": {
    "igdb": "mlb-the-show-21",
+   "metacritic": "mlb-the-show-21",
    "mobygames": "162879"
   },
   "label_en": "MLB: The Show 21",
@@ -396,6 +410,7 @@
   "ids": {
    "howlongtobeat": "111710",
    "igdb": "tactics-ogre-reborn",
+   "metacritic": "tactics-ogre-reborn",
    "mobygames": "193347",
    "pcgamingwiki": "Tactics_Ogre:_Reborn",
    "steam": "1451090"
@@ -705,6 +720,7 @@
  {
   "ids": {
    "igdb": "hardhat-wombat",
+   "metacritic": "hardhat-wombat",
    "mobygames": "215904",
    "steam": "2202750"
   },
@@ -813,6 +829,7 @@
  {
   "ids": {
    "igdb": "kiwie-vs-desert",
+   "metacritic": "kiwie-vs-desert",
    "steam": "2876790"
   },
   "label_en": "Kiwie vs Desert",

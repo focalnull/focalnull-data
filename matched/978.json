@@ -22,6 +22,7 @@
   "enwiki": "Demolition Racer",
   "ids": {
    "igdb": "demolition-racer",
+   "metacritic": "demolition-racer-no-exit",
    "mobygames": "5681",
    "pcgamingwiki": "Demolition_Racer"
   },
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "5661",
    "igdb": "mario-vs-donkey-kong-2-march-of-the-minis",
+   "metacritic": "mario-vs-donkey-kong-2-march-of-the-minis",
    "mobygames": "23822"
   },
   "label_en": "Mario vs. Donkey Kong 2: March of the Minis",
@@ -95,6 +97,7 @@
   "enwiki": "Ford Racing 2",
   "ids": {
    "igdb": "ford-racing-2",
+   "metacritic": "ford-racing-2",
    "mobygames": "14712",
    "pcgamingwiki": "Ford_Racing_2"
   },
@@ -151,6 +154,7 @@
   "enwiki": "Bakugan Battle Brawlers (video game)",
   "ids": {
    "igdb": "bakugan-battle-brawlers",
+   "metacritic": "bakugan-battle-brawlers",
    "mobygames": "85214"
   },
   "label_en": "Bakugan Battle Brawlers",
@@ -222,6 +226,7 @@
    "gog": "game/papers_please",
    "howlongtobeat": "6916",
    "igdb": "papers-please",
+   "metacritic": "papers-please",
    "mobygames": "62666",
    "pcgamingwiki": "Papers,_Please",
    "steam": "239030"
@@ -285,6 +290,7 @@
    "epic": "skul-the-hero-slayer",
    "howlongtobeat": "73152",
    "igdb": "skul-the-hero-slayer",
+   "metacritic": "skul-the-hero-slayer",
    "mobygames": "157788",
    "pcgamingwiki": "Skul:_The_Hero_Slayer",
    "steam": "1147560"
@@ -361,6 +367,7 @@
   "ids": {
    "howlongtobeat": "96466",
    "igdb": "the-wayward-realms",
+   "metacritic": "the-wayward-realms",
    "steam": "1685310"
   },
   "label_en": "The Wayward Realms",
@@ -789,6 +796,7 @@
    "gog": "game/lil_guardsman",
    "howlongtobeat": "129813",
    "igdb": "lil-guardsman",
+   "metacritic": "lil-guardsman",
    "mobygames": "216472",
    "steam": "1924360"
   },
@@ -1128,6 +1136,7 @@
  {
   "ids": {
    "igdb": "chocolat-rush",
+   "pcgamingwiki": "Chocolat_Rush",
    "steam": "987670"
   },
   "label_en": "Chocolat Rush",
@@ -1165,6 +1174,7 @@
   "ids": {
    "howlongtobeat": "24469",
    "igdb": "planet-monsters",
+   "metacritic": "planet-monsters",
    "mobygames": "230076"
   },
   "label_en": "Planet Monsters",

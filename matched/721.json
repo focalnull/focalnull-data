@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2104",
    "igdb": "curiosity-whats-inside-the-cube",
+   "metacritic": "curiosity-whats-inside-the-cube",
    "mobygames": "58667"
   },
   "label_en": "Curiosity – What's Inside the Cube?",
@@ -33,6 +34,7 @@
   "enwiki": "Harry Potter and the Deathly Hallows – Part 2 (video game)",
   "ids": {
    "igdb": "harry-potter-and-the-deathly-hallows-part-2",
+   "metacritic": "harry-potter-and-the-deathly-hallows-part-2",
    "mobygames": "52227",
    "pcgamingwiki": "Harry_Potter_and_the_Deathly_Hallows_Part_2"
   },
@@ -65,6 +67,7 @@
   "ids": {
    "howlongtobeat": "20483",
    "igdb": "bomberman-live-battlefest",
+   "metacritic": "bomberman-live-battlefest",
    "mobygames": "163605"
   },
   "label_en": "Bomberman Live: Battlefest",
@@ -75,6 +78,7 @@
   "ids": {
    "howlongtobeat": "16784",
    "igdb": "charge-n-blast",
+   "metacritic": "charge-n-blast",
    "mobygames": "41673"
   },
   "label_en": "Charge'n Blast",
@@ -85,6 +89,7 @@
   "ids": {
    "howlongtobeat": "2776",
    "igdb": "dragon-ball-z-for-kinect",
+   "metacritic": "dragon-ball-z-for-kinect",
    "mobygames": "68642"
   },
   "label_en": "Dragon Ball Z: For Kinect",
@@ -121,6 +126,7 @@
   "ids": {
    "howlongtobeat": "466",
    "igdb": "angry-birds",
+   "metacritic": "angry-birds",
    "mobygames": "46396",
    "pcgamingwiki": "Angry_Birds"
   },
@@ -132,6 +138,7 @@
   "ids": {
    "howlongtobeat": "14336",
    "igdb": "aquapazza-aquaplus-dream-match",
+   "metacritic": "aquapazza-aquaplus-dream-match",
    "mobygames": "84463",
    "steam": "3229260"
   },
@@ -169,6 +176,7 @@
   "ids": {
    "howlongtobeat": "14188",
    "igdb": "pro-evolution-soccer-2014",
+   "metacritic": "pro-evolution-soccer-2014",
    "mobygames": "65291",
    "pcgamingwiki": "Pro_Evolution_Soccer_2014",
    "steam": "250870"
@@ -181,6 +189,7 @@
   "ids": {
    "howlongtobeat": "9946",
    "igdb": "the-incredible-adventures-of-van-helsing",
+   "metacritic": "the-incredible-adventures-of-van-helsing",
    "mobygames": "63788",
    "pcgamingwiki": "The_Incredible_Adventures_of_Van_Helsing",
    "steam": "215530"
@@ -223,6 +232,7 @@
   "ids": {
    "howlongtobeat": "17892",
    "igdb": "warlock-ii-the-exiled",
+   "metacritic": "warlock-2-the-exiled",
    "mobygames": "91868",
    "pcgamingwiki": "Warlock_2:_The_Exiled",
    "steam": "205990"
@@ -303,7 +313,8 @@
  },
  {
   "ids": {
-   "igdb": "bad-dinos"
+   "igdb": "bad-dinos",
+   "metacritic": "bad-dinos"
   },
   "label_en": "Bad Dinos",
   "wikidata": "Q88577721"
@@ -314,6 +325,7 @@
    "gog": "game/biped",
    "howlongtobeat": "76246",
    "igdb": "biped",
+   "metacritic": "biped",
    "mobygames": "143832",
    "pcgamingwiki": "Biped",
    "steam": "1071870"
@@ -533,6 +545,7 @@
   "ids": {
    "howlongtobeat": "89414",
    "igdb": "mail-mole-plus-xpress-deliveries",
+   "metacritic": "mail-mole",
    "mobygames": "159795",
    "steam": "1273540"
   },
@@ -572,6 +585,7 @@
    "howlongtobeat": "128396",
    "igdb": "elypse",
    "mobygames": "203343",
+   "pcgamingwiki": "Elypse",
    "steam": "1725340"
   },
   "label_en": "Elypse",
@@ -767,6 +781,7 @@
   "ids": {
    "howlongtobeat": "146745",
    "igdb": "undercat",
+   "metacritic": "undercat",
    "steam": "1296340"
   },
   "label_en": "Undercat",
@@ -1225,6 +1240,7 @@
   "ids": {
    "howlongtobeat": "171499",
    "igdb": "clive-barkers-hellraiser-revival",
+   "metacritic": "clive-barkers-hellraiser-revival",
    "mobygames": "245410",
    "pcgamingwiki": "Clive_Barker's_Hellraiser:_Revival",
    "steam": "1551980"

@@ -25,6 +25,7 @@
   "enwiki": "Rally Challenge 2000",
   "ids": {
    "igdb": "rally-challenge-2000",
+   "metacritic": "rally-challenge-2000",
    "mobygames": "36823"
   },
   "label_en": "Rally Challenge 2000",
@@ -44,6 +45,7 @@
   "enwiki": "Dragon Ball Z: Shin Budokai - Another Road",
   "ids": {
    "igdb": "dragon-ball-z-shin-budokai-another-road",
+   "metacritic": "dragon-ball-z-shin-budokai-another-road",
    "mobygames": "29973"
   },
   "label_en": "Dragon Ball Z: Shin Budokai 2",
@@ -53,6 +55,7 @@
   "enwiki": "Big Beach Sports",
   "ids": {
    "igdb": "big-beach-sports",
+   "metacritic": "big-beach-sports",
    "mobygames": "37514"
   },
   "label_en": "Big Beach Sports",
@@ -106,6 +109,7 @@
   "ids": {
    "howlongtobeat": "232",
    "igdb": "aegis-wing",
+   "metacritic": "aegis-wing",
    "mobygames": "28294"
   },
   "label_en": "Aegis Wing",
@@ -130,6 +134,7 @@
   "enwiki": "Zumba Fitness: World Party",
   "ids": {
    "igdb": "zumba-fitness-world-party",
+   "metacritic": "zumba-fitness-world-party",
    "mobygames": "84964"
   },
   "label_en": "Zumba Fitness: World Party",
@@ -139,6 +144,7 @@
   "enwiki": "Gravity Rush 2",
   "ids": {
    "igdb": "gravity-rush-2",
+   "metacritic": "gravity-rush-2",
    "mobygames": "83417"
   },
   "label_en": "Gravity Rush 2",
@@ -151,6 +157,7 @@
    "gog": "game/orwell",
    "howlongtobeat": "40789",
    "igdb": "orwell-keeping-an-eye-on-you--1",
+   "metacritic": "orwell",
    "mobygames": "84583",
    "pcgamingwiki": "Orwell",
    "steam": "491950"
@@ -162,6 +169,7 @@
   "enwiki": "Lanota",
   "ids": {
    "igdb": "lanota",
+   "metacritic": "lanota",
    "mobygames": "109910"
   },
   "label_en": "Lanota",
@@ -170,7 +178,8 @@
  {
   "ids": {
    "howlongtobeat": "42685",
-   "igdb": "assassins-creed-the-ezio-collection"
+   "igdb": "assassins-creed-the-ezio-collection",
+   "metacritic": "assassins-creed-the-ezio-collection"
   },
   "label_en": "Assassin's Creed The Ezio Collection",
   "wikidata": "Q28686629"
@@ -190,6 +199,7 @@
    "gog": "game/sundered",
    "howlongtobeat": "46863",
    "igdb": "sundered",
+   "metacritic": "sundered",
    "mobygames": "93422",
    "pcgamingwiki": "Sundered",
    "steam": "535480"
@@ -202,6 +212,7 @@
   "ids": {
    "howlongtobeat": "43639",
    "igdb": "vrchat",
+   "metacritic": "vrchat",
    "mobygames": "83207",
    "pcgamingwiki": "VRChat",
    "steam": "438100"
@@ -213,6 +224,7 @@
   "enwiki": "Sushi Striker: The Way of Sushido",
   "ids": {
    "igdb": "sushi-striker-the-way-of-sushido",
+   "metacritic": "sushi-striker-the-way-of-sushido",
    "mobygames": "96091"
   },
   "label_en": "Sushi Striker: The Way of Sushido",
@@ -250,6 +262,7 @@
   "enwiki": "Disney's Math Quest with Aladdin",
   "ids": {
    "igdb": "disney-learning-math-quest-with-aladdin",
+   "metacritic": "disneys-math-quest-with-aladdin",
    "mobygames": "31202",
    "pcgamingwiki": "Disney's_Math_Quest_with_Aladdin"
   },
@@ -290,6 +303,7 @@
  },
  {
   "ids": {
+   "metacritic": "robot-champions",
    "pcgamingwiki": "Robot_Champions",
    "steam": "1016830"
   },
@@ -314,6 +328,7 @@
    "gog": "game/shadow_warrior_3",
    "howlongtobeat": "80698",
    "igdb": "shadow-warrior-3",
+   "metacritic": "shadow-warrior-3",
    "mobygames": "179172",
    "pcgamingwiki": "Shadow_Warrior_3",
    "steam": "1036890"
@@ -331,7 +346,8 @@
  },
  {
   "ids": {
-   "igdb": "happy-birthdays"
+   "igdb": "happy-birthdays",
+   "metacritic": "happy-birthdays"
   },
   "label_en": "Happy Birthdays",
   "wikidata": "Q106006629"
@@ -339,6 +355,7 @@
  {
   "ids": {
    "igdb": "whirlwind-of-vietnam",
+   "metacritic": "whirlwind-over-vietnam",
    "mobygames": "44250"
   },
   "label_en": "Whirlwind over Vietnam",
@@ -349,6 +366,7 @@
   "ids": {
    "howlongtobeat": "103829",
    "igdb": "fire-emblem-warriors-three-hopes",
+   "metacritic": "fire-emblem-warriors-three-hopes",
    "mobygames": "187102"
   },
   "label_en": "Fire Emblem Warriors: Three Hopes",
@@ -461,6 +479,7 @@
    "howlongtobeat": "82955",
    "igdb": "mists-of-noyah",
    "mobygames": "145988",
+   "pcgamingwiki": "Mists_of_Noyah",
    "steam": "1168870"
   },
   "label_en": "Mists of Noyah",
@@ -738,6 +757,7 @@
   "ids": {
    "howlongtobeat": "43537",
    "igdb": "darknet",
+   "metacritic": "darknet",
    "mobygames": "87605",
    "pcgamingwiki": "Darknet",
    "steam": "401910"

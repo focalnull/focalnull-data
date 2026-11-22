@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "7104",
    "igdb": "planetside-2",
+   "metacritic": "planetside-2",
    "mobygames": "59801",
    "pcgamingwiki": "PlanetSide_2",
    "steam": "218230"
@@ -15,6 +16,7 @@
   "enwiki": "Mortal Kombat vs. DC Universe",
   "ids": {
    "igdb": "mortal-kombat-vs-dc-universe",
+   "metacritic": "mortal-kombat-vs-dc-universe",
    "mobygames": "38544"
   },
   "label_en": "Mortal Kombat vs. DC Universe",
@@ -26,6 +28,7 @@
    "gog": "game/beyond_good_and_evil",
    "howlongtobeat": "1018",
    "igdb": "beyond-good-evil",
+   "metacritic": "beyond-good-evil",
    "mobygames": "11290",
    "pcgamingwiki": "Beyond_Good_&_Evil",
    "steam": "15130"
@@ -39,6 +42,7 @@
    "gog": "game/desperados_wanted_dead_or_alive",
    "howlongtobeat": "2469",
    "igdb": "desperados-wanted-dead-or-alive",
+   "metacritic": "desperados-wanted-dead-or-alive",
    "mobygames": "4726",
    "pcgamingwiki": "Desperados:_Wanted_Dead_or_Alive",
    "steam": "260730"
@@ -51,6 +55,7 @@
   "ids": {
    "howlongtobeat": "6658",
    "igdb": "no-time-to-explain",
+   "metacritic": "no-time-to-explain",
    "mobygames": "52923",
    "pcgamingwiki": "No_Time_to_Explain",
    "steam": "227280"
@@ -63,6 +68,7 @@
   "ids": {
    "howlongtobeat": "1885",
    "igdb": "conflict-denied-ops",
+   "metacritic": "conflict-denied-ops",
    "mobygames": "32619",
    "pcgamingwiki": "Conflict:_Denied_Ops",
    "steam": "8100"
@@ -83,6 +89,7 @@
   "ids": {
    "howlongtobeat": "10963",
    "igdb": "virtua-tennis",
+   "metacritic": "virtua-tennis",
    "mobygames": "3721",
    "pcgamingwiki": "Virtua_Tennis"
   },
@@ -94,6 +101,7 @@
   "ids": {
    "gog": "game/sam_max_beyond_time_and_space",
    "igdb": "sam-max-beyond-time-and-space",
+   "metacritic": "sam-max-beyond-time-and-space",
    "mobygames": "34133",
    "pcgamingwiki": "Sam_&_Max_Beyond_Time_and_Space",
    "steam": "901663"
@@ -106,6 +114,7 @@
   "ids": {
    "howlongtobeat": "2542",
    "igdb": "digimon-world-4",
+   "metacritic": "digimon-world-4",
    "mobygames": "65148"
   },
   "label_en": "Digimon World 4",
@@ -116,6 +125,7 @@
   "ids": {
    "howlongtobeat": "1718",
    "igdb": "cities-in-motion-2",
+   "metacritic": "cities-in-motion-2",
    "mobygames": "63172",
    "pcgamingwiki": "Cities_in_Motion_2",
    "steam": "225420"
@@ -144,6 +154,7 @@
   "enwiki": "Kung Fu Panda: Legendary Warriors",
   "ids": {
    "igdb": "kung-fu-panda-legendary-warriors",
+   "metacritic": "kung-fu-panda-legendary-warriors",
    "mobygames": "91303"
   },
   "label_en": "Kung Fu Panda: Legendary Warriors",
@@ -155,6 +166,7 @@
    "gog": "game/agarest_generations_of_war_2",
    "howlongtobeat": "7669",
    "igdb": "agarest-generations-of-war-2",
+   "metacritic": "record-of-agarest-war-2",
    "mobygames": "63598",
    "pcgamingwiki": "Agarest:_Generations_of_War_2",
    "steam": "312790"
@@ -225,6 +237,7 @@
    "gog": "game/grow_up",
    "howlongtobeat": "38012",
    "igdb": "grow-up",
+   "metacritic": "grow-up",
    "mobygames": "80304",
    "pcgamingwiki": "Grow_Up",
    "steam": "426790"
@@ -246,6 +259,7 @@
   "ids": {
    "howlongtobeat": "12338",
    "igdb": "ultratron",
+   "metacritic": "ultratron",
    "mobygames": "38479",
    "pcgamingwiki": "Ultratron",
    "steam": "219190"
@@ -258,6 +272,7 @@
   "ids": {
    "howlongtobeat": "32599",
    "igdb": "warhammer-40000-deathwatch-tyranids-invasion",
+   "metacritic": "warhammer-40000-deathwatch",
    "pcgamingwiki": "Warhammer_40,000:_Deathwatch_-_Enhanced_Edition"
   },
   "label_en": "Warhammer 40,000: Deathwatch",
@@ -285,6 +300,7 @@
    "gog": "game/maid_of_sker",
    "howlongtobeat": "62062",
    "igdb": "maid-of-sker",
+   "metacritic": "maid-of-sker",
    "mobygames": "146786",
    "pcgamingwiki": "Maid_of_Sker",
    "steam": "826940"
@@ -307,6 +323,7 @@
   "ids": {
    "howlongtobeat": "89360",
    "igdb": "idol-manager",
+   "metacritic": "idol-manager",
    "mobygames": "168382",
    "pcgamingwiki": "Idol_Manager",
    "steam": "821880"
@@ -329,6 +346,7 @@
   "ids": {
    "howlongtobeat": "54329",
    "igdb": "transroad-usa",
+   "metacritic": "transroad-usa",
    "mobygames": "98460",
    "pcgamingwiki": "TransRoad:_USA",
    "steam": "494670"
@@ -348,6 +366,7 @@
   "ids": {
    "howlongtobeat": "75016",
    "igdb": "tales-from-off-peak-city-vol-1",
+   "metacritic": "tales-from-off-peak-city-vol-1",
    "mobygames": "144115",
    "pcgamingwiki": "Tales_from_Off-Peak_City_Vol._1",
    "steam": "1129920"
@@ -393,6 +412,7 @@
    "gog": "game/flashback_2",
    "howlongtobeat": "109112",
    "igdb": "flashback-2",
+   "metacritic": "flashback-2",
    "mobygames": "211994",
    "pcgamingwiki": "Flashback_2",
    "steam": "2008420"
@@ -515,6 +535,7 @@
   "ids": {
    "howlongtobeat": "72481",
    "igdb": "balancelot",
+   "metacritic": "balancelot",
    "mobygames": "155948",
    "pcgamingwiki": "Balancelot",
    "steam": "1035850"
@@ -626,6 +647,7 @@
   "ids": {
    "howlongtobeat": "33440",
    "igdb": "basketball-pro-management-2015",
+   "metacritic": "basketball-pro-management-2015",
    "mobygames": "93915",
    "pcgamingwiki": "Basketball_Pro_Management_2015",
    "steam": "310880"
@@ -709,7 +731,8 @@
  },
  {
   "ids": {
-   "igdb": "grass-cutting-simulator-lawn-mooving-care"
+   "igdb": "grass-cutting-simulator-lawn-mooving-care",
+   "metacritic": "grass-cutting-simulator-lawn-mowing-care"
   },
   "label_en": "Grass Cutting Simulator: Lawn Mowing Care",
   "wikidata": "Q125954367"
@@ -756,7 +779,8 @@
   "enwiki": "Emio – The Smiling Man: Famicom Detective Club",
   "ids": {
    "howlongtobeat": "153735",
-   "igdb": "emio-the-smiling-man-famicom-detective-club--1"
+   "igdb": "emio-the-smiling-man-famicom-detective-club--1",
+   "metacritic": "emio-the-smiling-man-famicom-detective-club"
   },
   "label_en": "Emio – The Smiling Man: Famicom Detective Club",
   "wikidata": "Q127328367"
@@ -789,6 +813,7 @@
  },
  {
   "ids": {
+   "metacritic": "sheng-huo-chashao-haoguo-sheng-ni",
    "steam": "2540860"
   },
   "label_en": "Sheng Huo Chashao Haoguo Sheng ni",
@@ -1132,6 +1157,7 @@
   "ids": {
    "howlongtobeat": "88105",
    "igdb": "birushana-rising-flower-of-genpei",
+   "metacritic": "birushana-rising-flower-of-genpei",
    "mobygames": "187443"
   },
   "label_en": "Birushana: Rising Flower of Genpei",

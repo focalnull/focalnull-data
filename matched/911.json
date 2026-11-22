@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "10035",
    "igdb": "the-legend-of-zelda-ocarina-of-time",
+   "metacritic": "the-legend-of-zelda-ocarina-of-time",
    "mobygames": "3549",
    "pcgamingwiki": "The_Legend_of_Zelda:_Ocarina_of_Time_(Ship_of_Harkinian)"
   },
@@ -36,6 +37,7 @@
   "enwiki": "Dragon Ball Z: Ultimate Battle 22",
   "ids": {
    "igdb": "dragon-ball-z-ultimate-battle-22",
+   "metacritic": "dragon-ball-z-ultimate-battle-22",
    "mobygames": "6266"
   },
   "label_en": "Dragon Ball Z: Ultimate Battle 22",
@@ -45,6 +47,7 @@
   "enwiki": "Metal Gear Solid: Portable Ops",
   "ids": {
    "igdb": "metal-gear-solid-portable-ops",
+   "metacritic": "metal-gear-solid-portable-ops",
    "mobygames": "26050"
   },
   "label_en": "Metal Gear Solid: Portable Ops",
@@ -54,6 +57,7 @@
   "enwiki": "Teenage Mutant Ninja Turtles (GBA video game)",
   "ids": {
    "igdb": "teenage-mutant-ninja-turtles--1",
+   "metacritic": "teenage-mutant-ninja-turtles-game-boy-advance",
    "mobygames": "10771"
   },
   "label_en": "Teenage Mutant Ninja Turtles",
@@ -95,6 +99,7 @@
   "ids": {
    "howlongtobeat": "81529",
    "igdb": "magical-drop-ii",
+   "metacritic": "magical-drop-2",
    "mobygames": "17032",
    "pcgamingwiki": "Magical_Drop_II"
   },
@@ -235,6 +240,7 @@
   "ids": {
    "howlongtobeat": "20940",
    "igdb": "heavy-bullets",
+   "metacritic": "heavy-bullets",
    "mobygames": "68673",
    "pcgamingwiki": "Heavy_Bullets",
    "steam": "297120"
@@ -249,6 +255,7 @@
    "gog": "game/oxenfree",
    "howlongtobeat": "33620",
    "igdb": "oxenfree",
+   "metacritic": "oxenfree",
    "mobygames": "76588",
    "pcgamingwiki": "Oxenfree",
    "steam": "388880"
@@ -261,6 +268,7 @@
   "ids": {
    "howlongtobeat": "21684",
    "igdb": "fru",
+   "metacritic": "fru",
    "mobygames": "111241"
   },
   "label_en": "Fru",
@@ -271,6 +279,7 @@
   "ids": {
    "howlongtobeat": "43230",
    "igdb": "senran-kagura-peach-beach-splash",
+   "metacritic": "senran-kagura-peach-beach-splash",
    "mobygames": "96208",
    "pcgamingwiki": "Senran_Kagura_Peach_Beach_Splash",
    "steam": "696170"
@@ -300,6 +309,7 @@
   "ids": {
    "howlongtobeat": "108269",
    "igdb": "the-elder-scrolls-v-skyrim-vr",
+   "metacritic": "the-elder-scrolls-v-skyrim-vr",
    "mobygames": "98279",
    "pcgamingwiki": "The_Elder_Scrolls_V:_Skyrim_VR",
    "steam": "611670"
@@ -311,6 +321,7 @@
   "enwiki": "Dr. Mario World",
   "ids": {
    "igdb": "dr-mario-world",
+   "metacritic": "dr-mario-world",
    "mobygames": "129571"
   },
   "label_en": "Dr. Mario World",
@@ -321,6 +332,7 @@
   "ids": {
    "howlongtobeat": "60384",
    "igdb": "green-hell",
+   "metacritic": "green-hell",
    "mobygames": "112906",
    "pcgamingwiki": "Green_Hell",
    "steam": "815370"
@@ -330,7 +342,8 @@
  },
  {
   "ids": {
-   "igdb": "frost--1"
+   "igdb": "frost--1",
+   "metacritic": "frost"
   },
   "label_en": "Frost",
   "wikidata": "Q85857911"
@@ -341,6 +354,7 @@
    "epic": "evil-dead-the-game",
    "howlongtobeat": "85971",
    "igdb": "evil-dead-the-game--1",
+   "metacritic": "evil-dead-the-game",
    "mobygames": "184222",
    "pcgamingwiki": "Evil_Dead:_The_Game",
    "steam": "1493750"
@@ -352,6 +366,7 @@
   "ids": {
    "howlongtobeat": "18959",
    "igdb": "pixeljunk-shooter-ultimate",
+   "metacritic": "pixeljunk-shooter-ultimate",
    "mobygames": "69512",
    "pcgamingwiki": "PixelJunk_Shooter_Ultimate",
    "steam": "332330"
@@ -362,6 +377,7 @@
  {
   "ids": {
    "igdb": "the-backyardigans",
+   "metacritic": "the-backyardigans",
    "mobygames": "78199"
   },
   "label_en": "The Backyardigans",
@@ -379,6 +395,7 @@
  {
   "ids": {
    "igdb": "penball",
+   "metacritic": "penball",
    "mobygames": "189377",
    "steam": "1850620"
   },
@@ -408,6 +425,7 @@
   "ids": {
    "howlongtobeat": "73699",
    "igdb": "xploquest-2",
+   "metacritic": "xploquest-2",
    "pcgamingwiki": "Xploquest_2",
    "steam": "791370"
   },
@@ -472,7 +490,8 @@
  },
  {
   "ids": {
-   "igdb": "sonic-origins-plus"
+   "igdb": "sonic-origins-plus",
+   "metacritic": "sonic-origins-plus"
   },
   "label_en": "Sonic Origins Plus",
   "wikidata": "Q117311911"
@@ -832,6 +851,7 @@
    "epic": "exodus-67511f",
    "howlongtobeat": "141845",
    "igdb": "exodus--5",
+   "metacritic": "exodus",
    "mobygames": "249070",
    "pcgamingwiki": "Exodus_(2027)",
    "steam": "3230960"
@@ -1281,6 +1301,7 @@
  {
   "ids": {
    "igdb": "r-dot-i-p-dot-reincarnation-insurance-program",
+   "metacritic": "rip-reincarnation-insurance-program",
    "steam": "3985950"
   },
   "label_en": "R.I.P.: Reincarnation Insurance Program",

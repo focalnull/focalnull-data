@@ -16,6 +16,7 @@
    "gog": "game/darkstar_one",
    "howlongtobeat": "2255",
    "igdb": "darkstar-one",
+   "metacritic": "darkstar-one",
    "mobygames": "22561",
    "pcgamingwiki": "Darkstar_One",
    "steam": "12330"
@@ -39,6 +40,7 @@
    "gog": "game/indiana_jones_and_the_emperors_tomb",
    "howlongtobeat": "4663",
    "igdb": "indiana-jones-and-the-emperor-s-tomb",
+   "metacritic": "indiana-jones-and-the-emperors-tomb",
    "mobygames": "8521",
    "pcgamingwiki": "Indiana_Jones_and_the_Emperor's_Tomb",
    "steam": "560430"
@@ -79,6 +81,7 @@
   "ids": {
    "howlongtobeat": "17342",
    "igdb": "kirby-triple-deluxe",
+   "metacritic": "kirby-triple-deluxe",
    "mobygames": "67796"
   },
   "label_en": "Kirby: Triple Deluxe",
@@ -88,6 +91,7 @@
   "enwiki": "SPOGS Racing",
   "ids": {
    "igdb": "spogs-racing",
+   "metacritic": "spogs-racing",
    "mobygames": "35660"
   },
   "label_en": "SPOGS Racing",
@@ -101,6 +105,7 @@
   "ids": {
    "howlongtobeat": "21521",
    "igdb": "the-tomorrow-war",
+   "metacritic": "the-tomorrow-war",
    "mobygames": "27577",
    "pcgamingwiki": "The_Tomorrow_War",
    "steam": "289480"
@@ -114,6 +119,7 @@
    "gog": "game/sea_dogs",
    "howlongtobeat": "20979",
    "igdb": "sea-dogs",
+   "metacritic": "sea-dogs",
    "mobygames": "2794",
    "pcgamingwiki": "Sea_Dogs",
    "steam": "764670"
@@ -127,6 +133,7 @@
    "gog": "game/evil_islands",
    "howlongtobeat": "16891",
    "igdb": "evil-islands-curse-of-the-lost-soul",
+   "metacritic": "evil-islands-curse-of-the-lost-soul",
    "mobygames": "4093",
    "pcgamingwiki": "Evil_Islands:_Curse_of_the_Lost_Soul"
   },
@@ -175,6 +182,7 @@
   "enwiki": "Tournament of Legends",
   "ids": {
    "igdb": "tournament-of-legends",
+   "metacritic": "tournament-of-legends",
    "mobygames": "85687"
   },
   "label_en": "Tournament of Legends",
@@ -188,6 +196,7 @@
   "enwiki": "Shin Megami Tensei IV: Apocalypse",
   "ids": {
    "igdb": "shin-megami-tensei-iv-apocalypse",
+   "metacritic": "shin-megami-tensei-iv-apocalypse",
    "mobygames": "82708"
   },
   "label_en": "Shin Megami Tensei IV: Apocalypse",
@@ -211,6 +220,7 @@
    "gog": "game/anima_gate_of_memories",
    "howlongtobeat": "37821",
    "igdb": "anima-gate-of-memories",
+   "metacritic": "anima-gate-of-memories",
    "mobygames": "92415",
    "pcgamingwiki": "Anima:_Gate_of_Memories",
    "steam": "380750"
@@ -225,6 +235,7 @@
    "gog": "game/this_is_the_police",
    "howlongtobeat": "36888",
    "igdb": "this-is-the-police",
+   "metacritic": "this-is-the-police",
    "mobygames": "85904",
    "pcgamingwiki": "This_Is_the_Police",
    "steam": "443810"
@@ -237,6 +248,7 @@
   "ids": {
    "howlongtobeat": "46361",
    "igdb": "warriors-all-stars",
+   "metacritic": "warriors-all-stars",
    "mobygames": "95388",
    "pcgamingwiki": "Warriors_All-Stars",
    "steam": "610190"
@@ -249,6 +261,7 @@
   "ids": {
    "howlongtobeat": "22652",
    "igdb": "toybox-turbos",
+   "metacritic": "toybox-turbos",
    "mobygames": "78212",
    "pcgamingwiki": "Toybox_Turbos",
    "steam": "287260"
@@ -275,6 +288,7 @@
   "ids": {
    "howlongtobeat": "68527",
    "igdb": "tetraminos",
+   "metacritic": "tetraminos",
    "mobygames": "86969",
    "pcgamingwiki": "Tetraminos",
    "steam": "539280"
@@ -293,6 +307,7 @@
   "ids": {
    "igdb": "meme-run-2",
    "mobygames": "149375",
+   "pcgamingwiki": "Meme_Run_2",
    "steam": "1235120"
   },
   "label_en": "Meme Run 2",
@@ -731,6 +746,7 @@
   "ids": {
    "howlongtobeat": "43909",
    "igdb": "barbie-and-her-sisters-puppy-rescue",
+   "metacritic": "barbie-and-her-sisters-puppy-rescue",
    "mobygames": "84665",
    "pcgamingwiki": "Barbie_and_Her_Sisters_Puppy_Rescue"
   },

@@ -14,6 +14,7 @@
    "gog": "game/darkest_hour_a_hearts_of_iron_game",
    "howlongtobeat": "14161",
    "igdb": "darkest-hour-a-hearts-of-iron-game",
+   "metacritic": "darkest-hour",
    "mobygames": "62970",
    "pcgamingwiki": "Darkest_Hour:_A_Hearts_of_Iron_Game",
    "steam": "73170"
@@ -30,6 +31,7 @@
   "ids": {
    "howlongtobeat": "5240",
    "igdb": "legends-of-might-and-magic",
+   "metacritic": "legends-of-might-and-magic",
    "mobygames": "4291",
    "pcgamingwiki": "Legends_of_Might_and_Magic"
   },
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "2699",
    "igdb": "donkey-konga-2-hit-song-parade",
+   "metacritic": "donkey-konga-2",
    "mobygames": "18684"
   },
   "label_en": "Donkey Konga 2",
@@ -57,6 +60,7 @@
   "enwiki": "Ballistics (video game)",
   "ids": {
    "igdb": "ballistics",
+   "metacritic": "ballistics",
    "mobygames": "7945",
    "pcgamingwiki": "Ballistics"
   },
@@ -67,6 +71,7 @@
   "enwiki": "Mega Man Battle Network 5: Double Team DS",
   "ids": {
    "igdb": "mega-man-battle-network-5-double-team-ds",
+   "metacritic": "mega-man-battle-network-5-double-team-ds",
    "mobygames": "23356"
   },
   "label_en": "Mega Man Battle Network 5: Double Team DS",
@@ -98,6 +103,7 @@
   "ids": {
    "howlongtobeat": "55892",
    "igdb": "star-trek-starfleet-command-orion-pirates",
+   "metacritic": "star-trek-starfleet-command-orion-pirates",
    "mobygames": "4883",
    "pcgamingwiki": "Star_Trek:_Starfleet_Command_-_Orion_Pirates"
   },
@@ -109,6 +115,7 @@
   "ids": {
    "howlongtobeat": "11928",
    "igdb": "impire",
+   "metacritic": "impire",
    "mobygames": "64471",
    "pcgamingwiki": "Impire",
    "steam": "202130"
@@ -129,6 +136,7 @@
   "ids": {
    "howlongtobeat": "1264",
    "igdb": "bookworm-adventures",
+   "metacritic": "bookworm-adventures-deluxe",
    "mobygames": "25295",
    "pcgamingwiki": "Bookworm_Adventures",
    "steam": "3470"
@@ -194,6 +202,7 @@
   "enwiki": "Sumioni: Demon Arts",
   "ids": {
    "igdb": "sumioni-demon-arts",
+   "metacritic": "sumioni-demon-arts",
    "mobygames": "87287"
   },
   "label_en": "Sumioni: Demon Arts",
@@ -270,6 +279,7 @@
   "ids": {
    "howlongtobeat": "38145",
    "igdb": "super-cane-magic-zero",
+   "metacritic": "super-cane-magic-zero",
    "mobygames": "127029",
    "pcgamingwiki": "Super_Cane_Magic_ZERO",
    "steam": "336440"
@@ -289,6 +299,7 @@
   "ids": {
    "howlongtobeat": "69329",
    "igdb": "radio-commander",
+   "metacritic": "radio-commander",
    "mobygames": "135837",
    "pcgamingwiki": "Radio_Commander",
    "steam": "871530"
@@ -308,6 +319,7 @@
   "ids": {
    "howlongtobeat": "50810",
    "igdb": "pawarumi",
+   "metacritic": "pawarumi",
    "mobygames": "102327",
    "pcgamingwiki": "Pawarumi",
    "steam": "610410"
@@ -432,6 +444,7 @@
    "gog": "game/guard_duty",
    "howlongtobeat": "67614",
    "igdb": "guard-duty",
+   "metacritic": "guard-duty",
    "mobygames": "126273",
    "pcgamingwiki": "Guard_Duty",
    "steam": "872750"
@@ -670,6 +683,7 @@
   "ids": {
    "howlongtobeat": "138384",
    "igdb": "lizards-must-die",
+   "metacritic": "lizards-must-die",
    "mobygames": "213607",
    "steam": "2532550"
   },
@@ -803,6 +817,7 @@
    "epic": "lego-horizon-adventures",
    "howlongtobeat": "151821",
    "igdb": "lego-horizon-adventures",
+   "metacritic": "lego-horizon-adventures",
    "pcgamingwiki": "Lego_Horizon_Adventures",
    "steam": "2428810"
   },
@@ -833,6 +848,7 @@
   "ids": {
    "howlongtobeat": "143852",
    "igdb": "minami-lane",
+   "metacritic": "minami-lane",
    "mobygames": "223509",
    "pcgamingwiki": "Minami_Lane",
    "steam": "2678990"
@@ -1149,6 +1165,7 @@
   "ids": {
    "howlongtobeat": "15635",
    "igdb": "link-n-launch",
+   "metacritic": "link-n-launch",
    "mobygames": "88882"
   },
   "label_en": "Link 'n' Launch",

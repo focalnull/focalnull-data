@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10641",
    "igdb": "trials-evolution",
+   "metacritic": "trials-evolution-gold-edition",
    "mobygames": "64629",
    "pcgamingwiki": "Trials_Evolution:_Gold_Edition",
    "steam": "220160"
@@ -29,6 +30,7 @@
   "ids": {
    "howlongtobeat": "2688",
    "igdb": "donkey-kong-country-3-dixie-kong-s-double-trouble",
+   "metacritic": "donkey-kong-country-3-dixie-kongs-double-trouble",
    "mobygames": "6588"
   },
   "label_en": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
@@ -39,6 +41,7 @@
   "ids": {
    "howlongtobeat": "9204",
    "igdb": "steel-storm-burning-retribution",
+   "metacritic": "steel-storm-burning-retribution",
    "mobygames": "51727",
    "pcgamingwiki": "Steel_Storm:_Burning_Retribution",
    "steam": "96200"
@@ -124,6 +127,7 @@
    "gog": "game/the_settlers_rise_of_an_empire_gold_edition",
    "howlongtobeat": "17243",
    "igdb": "the-settlers-rise-of-an-empire",
+   "metacritic": "the-settlers-rise-of-an-empire",
    "mobygames": "30410",
    "pcgamingwiki": "The_Settlers:_Rise_of_an_Empire",
    "steam": "965310"
@@ -153,6 +157,7 @@
   "enwiki": "Prism: Light the Way",
   "ids": {
    "igdb": "prism-light-the-way",
+   "metacritic": "prism-light-the-way",
    "mobygames": "26949"
   },
   "label_en": "Prism: Light the Way",
@@ -171,6 +176,7 @@
   "ids": {
    "howlongtobeat": "8716",
    "igdb": "solar-2",
+   "metacritic": "solar-2",
    "mobygames": "85361",
    "pcgamingwiki": "Solar_2",
    "steam": "97000"
@@ -183,6 +189,7 @@
   "ids": {
    "howlongtobeat": "12416",
    "igdb": "mercenary-kings",
+   "metacritic": "mercenary-kings",
    "mobygames": "75656",
    "pcgamingwiki": "Mercenary_Kings",
    "steam": "218820"
@@ -204,6 +211,7 @@
   "ids": {
    "howlongtobeat": "23867",
    "igdb": "daredevil",
+   "metacritic": "daredevil-2003",
    "mobygames": "8877"
   },
   "label_en": "Daredevil",
@@ -223,6 +231,7 @@
    "gog": "game/darksiders_iii",
    "howlongtobeat": "45524",
    "igdb": "darksiders-iii",
+   "metacritic": "darksiders-iii",
    "mobygames": "117727",
    "pcgamingwiki": "Darksiders_III",
    "steam": "606280"
@@ -244,7 +253,8 @@
   "ids": {
    "howlongtobeat": "1021",
    "igdb": "beyond-time",
-   "mobygames": "5669"
+   "mobygames": "5669",
+   "pcgamingwiki": "Corridor_of_Time"
   },
   "label_en": "Beyond Time",
   "wikidata": "Q48809664"
@@ -259,6 +269,7 @@
    "gog": "game/the_fall_part_2_unbound",
    "howlongtobeat": "53283",
    "igdb": "the-fall-part-2-unbound",
+   "metacritic": "the-fall-part-2-unbound",
    "mobygames": "103242",
    "pcgamingwiki": "The_Fall_Part_2:_Unbound",
    "steam": "510490"
@@ -270,6 +281,7 @@
   "ids": {
    "howlongtobeat": "52963",
    "igdb": "foto-flash",
+   "metacritic": "foto-flash",
    "mobygames": "110514",
    "pcgamingwiki": "Foto_Flash",
    "steam": "778610"
@@ -281,6 +293,7 @@
   "ids": {
    "howlongtobeat": "33166",
    "igdb": "krai-mira",
+   "metacritic": "krai-mira",
    "mobygames": "207072",
    "pcgamingwiki": "Krai_Mira",
    "steam": "408920"
@@ -328,6 +341,7 @@
    "gog": "game/the_last_spell",
    "howlongtobeat": "93160",
    "igdb": "the-last-spell",
+   "metacritic": "the-last-spell",
    "mobygames": "166094",
    "pcgamingwiki": "The_Last_Spell",
    "steam": "1105670"
@@ -391,6 +405,7 @@
   "ids": {
    "howlongtobeat": "64428",
    "igdb": "trivia-vault-tennis-trivia",
+   "metacritic": "trivia-vault-tennis-trivia",
    "pcgamingwiki": "Trivia_Vault:_Tennis_Trivia",
    "steam": "840710"
   },
@@ -430,6 +445,9 @@
   "wikidata": "Q113587664"
  },
  {
+  "ids": {
+   "metacritic": "efootball-2023"
+  },
   "label_en": "eFootball 2023",
   "wikidata": "Q114167664"
  },
@@ -1128,6 +1146,7 @@
  {
   "ids": {
    "igdb": "rain-of-fire",
+   "pcgamingwiki": "Rain_of_Fire",
    "steam": "1170870"
   },
   "label_en": "Rain of Fire",

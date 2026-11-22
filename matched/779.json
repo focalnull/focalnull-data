@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3982",
    "igdb": "god-of-war-ghost-of-sparta",
+   "metacritic": "god-of-war-ghost-of-sparta",
    "mobygames": "49400"
   },
   "label_en": "God of War: Ghost of Sparta",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "7736",
    "igdb": "resident-evil-dead-aim",
+   "metacritic": "resident-evil-dead-aim",
    "mobygames": "9671"
   },
   "label_en": "Resident Evil: Dead Aim",
@@ -23,6 +25,7 @@
   "enwiki": "Bust-A-Move Bash!",
   "ids": {
    "igdb": "bust-a-move-bash",
+   "metacritic": "bust-a-move-bash",
    "mobygames": "64903"
   },
   "label_en": "Bust-A-Move Bash!",
@@ -54,6 +57,7 @@
  {
   "ids": {
    "igdb": "back-to-the-future-the-game-episode-3-citizen-brown",
+   "metacritic": "back-to-the-future-ep-3-hd",
    "mobygames": "51245"
   },
   "label_en": "Back to the Future: The Game - Episode 3: Citizen Brown",
@@ -76,6 +80,7 @@
   "ids": {
    "howlongtobeat": "7525",
    "igdb": "rag-doll-kung-fu",
+   "metacritic": "rag-doll-kung-fu",
    "mobygames": "19469",
    "pcgamingwiki": "Rag_Doll_Kung_Fu",
    "steam": "1002"
@@ -162,6 +167,7 @@
   "ids": {
    "howlongtobeat": "38633",
    "igdb": "song-of-the-deep",
+   "metacritic": "song-of-the-deep",
    "mobygames": "82692",
    "pcgamingwiki": "Song_of_the_Deep",
    "steam": "460700"
@@ -187,6 +193,7 @@
    "gog": "game/where_the_water_tastes_like_wine",
    "howlongtobeat": "53717",
    "igdb": "where-the-water-tastes-like-wine",
+   "metacritic": "where-the-water-tastes-like-wine",
    "mobygames": "105076",
    "pcgamingwiki": "Where_the_Water_Tastes_Like_Wine",
    "steam": "447120"
@@ -208,6 +215,7 @@
   "ids": {
    "howlongtobeat": "57560",
    "igdb": "yandere-school",
+   "metacritic": "yandere-school",
    "mobygames": "110063",
    "pcgamingwiki": "Yandere_School",
    "steam": "687750"
@@ -221,6 +229,7 @@
    "epic": "samurai-jack-battle-through-time",
    "howlongtobeat": "75489",
    "igdb": "samurai-jack-battle-through-time",
+   "metacritic": "samurai-jack-battle-through-time",
    "mobygames": "149570",
    "pcgamingwiki": "Samurai_Jack:_Battle_Through_Time",
    "steam": "1150590"
@@ -234,6 +243,7 @@
    "gog": "game/townsmen_a_kingdom_rebuilt",
    "howlongtobeat": "65529",
    "igdb": "townsmen-a-kingdom-rebuilt",
+   "metacritic": "townsmen-a-kingdom-rebuilt-2019",
    "mobygames": "115488",
    "pcgamingwiki": "Townsmen_-_A_Kingdom_Rebuilt",
    "steam": "938380"
@@ -247,6 +257,7 @@
    "gog": "game/baldo_the_guardian_owls",
    "howlongtobeat": "76543",
    "igdb": "baldo-the-guardian-owls",
+   "metacritic": "baldo",
    "mobygames": "170485",
    "pcgamingwiki": "Baldo:_The_Guardian_Owls",
    "steam": "1614890"
@@ -283,6 +294,7 @@
   "ids": {
    "howlongtobeat": "59616",
    "igdb": "gene-rain",
+   "metacritic": "gene-rain",
    "pcgamingwiki": "Gene_Rain",
    "steam": "781150"
   },
@@ -336,6 +348,7 @@
    "epic": "disney-dreamlight-valley",
    "howlongtobeat": "107141",
    "igdb": "disney-dreamlight-valley",
+   "metacritic": "disney-dreamlight-valley",
    "mobygames": "190207",
    "pcgamingwiki": "Disney_Dreamlight_Valley",
    "steam": "1401590"
@@ -393,6 +406,7 @@
   "ids": {
    "howlongtobeat": "97302",
    "igdb": "after-the-fall",
+   "metacritic": "after-the-fall",
    "mobygames": "176589",
    "pcgamingwiki": "After_the_Fall",
    "steam": "751630"
@@ -452,6 +466,7 @@
  {
   "ids": {
    "igdb": "adr1ft",
+   "metacritic": "adr1ft",
    "mobygames": "79646",
    "pcgamingwiki": "ADR1FT",
    "steam": "300060"
@@ -757,6 +772,7 @@
    "epic": "neon-city-riders",
    "howlongtobeat": "76698",
    "igdb": "neon-city-riders",
+   "metacritic": "neon-city-riders",
    "mobygames": "143418",
    "pcgamingwiki": "Neon_City_Riders",
    "steam": "1102650"
@@ -816,6 +832,7 @@
  {
   "ids": {
    "igdb": "the-dark-tower--1",
+   "metacritic": "the-dark-tower-ian-c-pook",
    "steam": "1738680"
   },
   "label_en": "The Dark Tower",
@@ -943,6 +960,7 @@
   "ids": {
    "howlongtobeat": "70713",
    "igdb": "cricket-through-the-ages",
+   "metacritic": "cricket-through-the-ages",
    "pcgamingwiki": "Cricket_through_the_Ages",
    "steam": "2657480"
   },
@@ -951,7 +969,8 @@
  },
  {
   "ids": {
-   "igdb": "pawfectly-designed"
+   "igdb": "pawfectly-designed",
+   "metacritic": "pawfectly-designed"
   },
   "label_en": "PAWfectly Designed",
   "wikidata": "Q124408779"
@@ -960,6 +979,7 @@
   "ids": {
    "howlongtobeat": "145330",
    "igdb": "cozy-caravan",
+   "metacritic": "cozy-caravan",
    "steam": "2788520"
   },
   "label_en": "Cozy Caravan",
@@ -970,6 +990,7 @@
    "gog": "game/rauniot",
    "howlongtobeat": "147641",
    "igdb": "rauniot",
+   "metacritic": "rauniot",
    "mobygames": "222487",
    "pcgamingwiki": "Rauniot",
    "steam": "1168490"

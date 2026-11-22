@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1945",
    "igdb": "cossacks-ii-napoleonic-wars",
+   "metacritic": "cossacks-ii-napoleonic-wars",
    "mobygames": "18267",
    "pcgamingwiki": "Cossacks_II:_Napoleonic_Wars",
    "steam": "115200"
@@ -57,6 +58,7 @@
    "gog": "game/mount_blade",
    "howlongtobeat": "6243",
    "igdb": "mount-blade",
+   "metacritic": "mount-blade",
    "mobygames": "37084",
    "pcgamingwiki": "Mount_&_Blade",
    "steam": "22100"
@@ -70,6 +72,7 @@
    "gog": "game/defcon",
    "howlongtobeat": "2402",
    "igdb": "defcon",
+   "metacritic": "defcon-everybody-dies",
    "mobygames": "24305",
    "pcgamingwiki": "DEFCON",
    "steam": "1520"
@@ -100,6 +103,7 @@
   "enwiki": "Jackie Chan Adventures (video game)",
   "ids": {
    "igdb": "jackie-chan-adventures",
+   "metacritic": "jackie-chan-adventures",
    "mobygames": "6309"
   },
   "label_en": "Jackie Chan Adventures",
@@ -138,6 +142,7 @@
   "ids": {
    "howlongtobeat": "13387",
    "igdb": "jojo-s-bizarre-adventure-all-star-battle",
+   "metacritic": "jojos-bizarre-adventure-all-star-battle",
    "mobygames": "76542",
    "pcgamingwiki": "JoJo's_Bizarre_Adventure:_All_Star_Battle_R"
   },
@@ -190,6 +195,7 @@
   "ids": {
    "howlongtobeat": "15776",
    "igdb": "fire-pro-wrestling-returns",
+   "metacritic": "fire-pro-wrestling-returns",
    "mobygames": "22508"
   },
   "label_en": "Fire Pro Wrestling Returns",
@@ -260,6 +266,7 @@
   "enwiki": "Moop and Dreadly in the Treasure on Bing Bong Island",
   "ids": {
    "igdb": "moop-and-dreadly-in-the-treasure-on-bing-bong-island",
+   "metacritic": "moop-and-dreadly-the-treasure-on-bing-bong-island",
    "mobygames": "15773"
   },
   "label_en": "Moop and Dreadly in the Treasure on Bing Bong Island",
@@ -271,6 +278,7 @@
    "epic": "conan-exiles",
    "howlongtobeat": "43414",
    "igdb": "conan-exiles",
+   "metacritic": "conan-exiles",
    "mobygames": "83131",
    "pcgamingwiki": "Conan_Exiles",
    "steam": "440900"
@@ -318,6 +326,7 @@
    "gog": "game/battlefleet_gothic_armada_2",
    "howlongtobeat": "64475",
    "igdb": "battlefleet-gothic-armada-2",
+   "metacritic": "battlefleet-gothic-armada-2",
    "mobygames": "121173",
    "pcgamingwiki": "Battlefleet_Gothic:_Armada_2",
    "steam": "573100"
@@ -329,6 +338,7 @@
   "ids": {
    "howlongtobeat": "67013",
    "igdb": "ride-3",
+   "metacritic": "ride-3",
    "mobygames": "116190",
    "pcgamingwiki": "Ride_3",
    "steam": "759740"
@@ -342,6 +352,7 @@
    "gog": "game/evil_west",
    "howlongtobeat": "85970",
    "igdb": "evil-west",
+   "metacritic": "evil-west",
    "mobygames": "195289",
    "pcgamingwiki": "Evil_West",
    "steam": "1065310"
@@ -810,7 +821,8 @@
  },
  {
   "ids": {
-   "igdb": "chimpuzzle-pro"
+   "igdb": "chimpuzzle-pro",
+   "metacritic": "chimpuzzle-pro"
   },
   "label_en": "Chimpuzzle Pro",
   "wikidata": "Q125338362"
@@ -831,6 +843,7 @@
   "ids": {
    "howlongtobeat": "92899",
    "igdb": "goblin-stone",
+   "metacritic": "goblin-stone",
    "mobygames": "219311",
    "pcgamingwiki": "Goblin_Stone",
    "steam": "1521970"

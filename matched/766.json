@@ -5,6 +5,7 @@
    "gog": "game/vvvvvv",
    "howlongtobeat": "10992",
    "igdb": "vvvvvv",
+   "metacritic": "vvvvvv",
    "mobygames": "44786",
    "pcgamingwiki": "VVVVVV",
    "steam": "70300"
@@ -49,6 +50,7 @@
   "ids": {
    "howlongtobeat": "167",
    "igdb": "ace-combat-2",
+   "metacritic": "ace-combat-2",
    "mobygames": "6574"
   },
   "label_en": "Ace Combat 2",
@@ -58,6 +60,7 @@
   "enwiki": "Ghost Rider (video game)",
   "ids": {
    "igdb": "ghost-rider",
+   "metacritic": "ghost-rider",
    "mobygames": "46282"
   },
   "label_en": "Ghost Rider",
@@ -67,6 +70,7 @@
   "enwiki": "Glitch (video game)",
   "ids": {
    "igdb": "glitch--4",
+   "metacritic": "glitch-2011",
    "mobygames": "68905"
   },
   "label_en": "Glitch",
@@ -76,6 +80,7 @@
   "enwiki": "TMNT: Mutant Melee",
   "ids": {
    "igdb": "tmnt-mutant-melee",
+   "metacritic": "tmnt-mutant-melee",
    "mobygames": "23633",
    "pcgamingwiki": "Teenage_Mutant_Ninja_Turtles:_Mutant_Melee"
   },
@@ -114,6 +119,7 @@
   "enwiki": "Barbie as the Island Princess (video game)",
   "ids": {
    "igdb": "barbie-as-the-island-princess",
+   "metacritic": "barbie-as-the-island-princess",
    "mobygames": "85485"
   },
   "label_en": "Barbie as the Island Princess",
@@ -192,6 +198,7 @@
   "enwiki": "Scrap Metal (video game)",
   "ids": {
    "igdb": "scrap-metal",
+   "metacritic": "scrap-metal",
    "mobygames": "46419"
   },
   "label_en": "Scrap Metal",
@@ -202,6 +209,7 @@
   "ids": {
    "howlongtobeat": "26574",
    "igdb": "shadowrun-chronicles-boston-lockdown",
+   "metacritic": "shadowrun-online",
    "mobygames": "72460",
    "pcgamingwiki": "Shadowrun_Chronicles_-_Boston_Lockdown",
    "steam": "267750"
@@ -239,6 +247,7 @@
   "ids": {
    "howlongtobeat": "44790",
    "igdb": "invizimals-the-lost-kingdom",
+   "metacritic": "invizimals-the-lost-kingdom",
    "mobygames": "94486"
   },
   "label_en": "Invizimals: The Lost Kingdom",
@@ -268,6 +277,7 @@
   "ids": {
    "howlongtobeat": "40891",
    "igdb": "101-ways-to-die",
+   "metacritic": "101-ways-to-die",
    "mobygames": "82744",
    "pcgamingwiki": "101_Ways_to_Die",
    "steam": "413480"
@@ -280,6 +290,7 @@
    "gog": "game/my_brother_rabbit",
    "howlongtobeat": "61257",
    "igdb": "my-brother-rabbit",
+   "metacritic": "my-brother-rabbit",
    "mobygames": "113959",
    "pcgamingwiki": "My_Brother_Rabbit",
    "steam": "855640"
@@ -298,6 +309,7 @@
    "gog": "game/rainswept",
    "howlongtobeat": "64743",
    "igdb": "rainswept",
+   "metacritic": "rainswept",
    "mobygames": "122021",
    "pcgamingwiki": "Rainswept",
    "steam": "772290"
@@ -852,6 +864,7 @@
    "gog": "game/the_hungry_lamb_traveling_in_the_late_ming_dynasty",
    "howlongtobeat": "149392",
    "igdb": "the-hungry-lamb-traveling-in-the-late-ming-dynasty",
+   "metacritic": "the-hungry-lamb-traveling-in-the-late-ming-dynasty",
    "mobygames": "222589",
    "pcgamingwiki": "The_Hungry_Lamb:_Traveling_in_the_Late_Ming_Dynasty",
    "steam": "2593370"
@@ -865,6 +878,7 @@
    "epic": "anno-117-pax-romana",
    "howlongtobeat": "152093",
    "igdb": "anno-117-pax-romana",
+   "metacritic": "anno-117-pax-romana",
    "mobygames": "243319",
    "pcgamingwiki": "Anno_117:_Pax_Romana",
    "steam": "3274580"
@@ -1259,7 +1273,8 @@
   "enwiki": "FIFA Heroes",
   "ids": {
    "howlongtobeat": "175337",
-   "igdb": "fifa-heroes"
+   "igdb": "fifa-heroes",
+   "metacritic": "fifa-heroes"
   },
   "label_en": "FIFA Heroes",
   "wikidata": "Q136459766"

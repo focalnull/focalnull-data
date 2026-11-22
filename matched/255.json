@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1468",
    "igdb": "call-of-duty-4-modern-warfare",
+   "metacritic": "call-of-duty-4-modern-warfare",
    "mobygames": "31074",
    "pcgamingwiki": "Call_of_Duty_4:_Modern_Warfare",
    "steam": "7940"
@@ -35,6 +36,7 @@
    "epic": "iracing",
    "howlongtobeat": "20194",
    "igdb": "iracing",
+   "metacritic": "iracing",
    "mobygames": "46135",
    "pcgamingwiki": "IRacing",
    "steam": "266410"
@@ -67,6 +69,7 @@
   "ids": {
    "howlongtobeat": "6911",
    "igdb": "paper-mario-the-thousand-year-door",
+   "metacritic": "paper-mario-the-thousand-year-door-2004",
    "mobygames": "15199"
   },
   "label_en": "Paper Mario: The Thousand-Year Door",
@@ -190,6 +193,7 @@
   "enwiki": "Frogger 3D",
   "ids": {
    "igdb": "frogger-3d",
+   "metacritic": "frogger-3d",
    "mobygames": "86346"
   },
   "label_en": "Frogger 3D",
@@ -249,6 +253,7 @@
   "ids": {
    "howlongtobeat": "43227",
    "igdb": "utawarerumono-mask-of-deception",
+   "metacritic": "utawarerumono-mask-of-deception",
    "mobygames": "89074",
    "pcgamingwiki": "Utawarerumono:_Mask_of_Deception",
    "steam": "1149550"
@@ -278,6 +283,7 @@
   "ids": {
    "howlongtobeat": "40879",
    "igdb": "root-letter",
+   "metacritic": "root-letter",
    "mobygames": "86392",
    "pcgamingwiki": "Root_Letter",
    "steam": "543240"
@@ -329,6 +335,7 @@
   "ids": {
    "howlongtobeat": "23432",
    "igdb": "cubot",
+   "metacritic": "cubot",
    "mobygames": "69707",
    "pcgamingwiki": "Cubot",
    "steam": "340280"
@@ -339,7 +346,8 @@
  {
   "enwiki": "Sakura Wars (2019 video game)",
   "ids": {
-   "igdb": "sakura-wars"
+   "igdb": "sakura-wars",
+   "metacritic": "sakura-wars"
   },
   "label_en": "Sakura Wars",
   "wikidata": "Q62633255"
@@ -359,6 +367,7 @@
    "gog": "game/the_lord_of_the_rings_gollum",
    "howlongtobeat": "82092",
    "igdb": "the-lord-of-the-rings-gollum",
+   "metacritic": "the-lord-of-the-rings-gollum",
    "mobygames": "203614",
    "pcgamingwiki": "The_Lord_of_the_Rings:_Gollum",
    "steam": "1265780"
@@ -371,6 +380,7 @@
   "ids": {
    "howlongtobeat": "79790",
    "igdb": "stray",
+   "metacritic": "stray",
    "mobygames": "188150",
    "pcgamingwiki": "Stray",
    "steam": "1332010"
@@ -396,6 +406,9 @@
   "wikidata": "Q107557255"
  },
  {
+  "ids": {
+   "metacritic": "nemureru-sono-no-shoujo-tachi"
+  },
   "label_en": "Nemureru Sono no Shoujo-tachi",
   "wikidata": "Q107632255"
  },
@@ -623,6 +636,7 @@
   "ids": {
    "howlongtobeat": "135852",
    "igdb": "custom-mech-wars",
+   "metacritic": "custom-mech-wars",
    "mobygames": "213900",
    "steam": "2328310"
   },
@@ -1070,6 +1084,7 @@
  {
   "ids": {
    "igdb": "marauder--2",
+   "pcgamingwiki": "Marauder",
    "steam": "289600"
   },
   "label_en": "Marauder",
@@ -1078,6 +1093,7 @@
  {
   "ids": {
    "igdb": "space-maze",
+   "pcgamingwiki": "Space_Maze_(Redox_Entertainment)",
    "steam": "908180"
   },
   "label_en": "Space Maze",

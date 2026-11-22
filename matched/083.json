@@ -25,6 +25,7 @@
   "ids": {
    "howlongtobeat": "1906",
    "igdb": "contact",
+   "metacritic": "contact-2006",
    "mobygames": "24784"
   },
   "label_en": "Contact",
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "1177",
    "igdb": "blood",
+   "metacritic": "blood",
    "mobygames": "980",
    "pcgamingwiki": "Blood"
   },
@@ -45,6 +47,7 @@
   "enwiki": "Ben 10: Ultimate Alien – Cosmic Destruction",
   "ids": {
    "igdb": "ben-10-ultimate-alien-cosmic-destruction",
+   "metacritic": "ben-10-ultimate-alien-cosmic-destruction",
    "mobygames": "81432"
   },
   "label_en": "Ben 10 Ultimate Alien: Cosmic Destruction",
@@ -65,6 +68,7 @@
   "ids": {
    "howlongtobeat": "9823",
    "igdb": "the-cursed-crusade",
+   "metacritic": "the-cursed-crusade",
    "mobygames": "53740",
    "pcgamingwiki": "The_Cursed_Crusade",
    "steam": "106000"
@@ -89,6 +93,7 @@
   "ids": {
    "howlongtobeat": "5850",
    "igdb": "mega-man-x7",
+   "metacritic": "mega-man-x7",
    "mobygames": "10716",
    "pcgamingwiki": "Rockman_X7"
   },
@@ -100,6 +105,7 @@
   "ids": {
    "howlongtobeat": "14495",
    "igdb": "apache-air-assault-24a49449-c450-4802-9f1b-ad292a998155",
+   "metacritic": "apache-air-assault",
    "mobygames": "49725"
   },
   "label_en": "Apache: Air Assault",
@@ -236,7 +242,8 @@
   "enwiki": "A Witch's Tale",
   "ids": {
    "howlongtobeat": "145",
-   "igdb": "a-witchs-tale"
+   "igdb": "a-witchs-tale",
+   "metacritic": "a-witchs-tale"
   },
   "label_en": "A Witch's Tale",
   "wikidata": "Q11288083"
@@ -272,6 +279,7 @@
   "enwiki": "SpongeBob HeroPants",
   "ids": {
    "igdb": "spongebob-heropants",
+   "metacritic": "spongebob-heropants",
    "mobygames": "74018"
   },
   "label_en": "SpongeBob HeroPants",
@@ -282,6 +290,7 @@
   "ids": {
    "howlongtobeat": "30384",
    "igdb": "tales-of-aravorn-seasons-of-the-wolf",
+   "metacritic": "tales-of-aravorn-seasons-of-the-wolf",
    "mobygames": "105720",
    "pcgamingwiki": "Tales_of_Aravorn:_Seasons_of_the_Wolf",
    "steam": "333390"
@@ -293,6 +302,7 @@
   "ids": {
    "howlongtobeat": "22767",
    "igdb": "rollers-of-the-realm",
+   "metacritic": "rollers-of-the-realm",
    "mobygames": "83267",
    "pcgamingwiki": "Rollers_of_the_Realm",
    "steam": "262470"
@@ -322,6 +332,7 @@
   "ids": {
    "howlongtobeat": "44770",
    "igdb": "astral-heroes",
+   "metacritic": "astral-heroes",
    "mobygames": "102300",
    "pcgamingwiki": "Astral_Heroes",
    "steam": "488910"
@@ -344,6 +355,7 @@
   "ids": {
    "howlongtobeat": "2112",
    "igdb": "cut-the-rope-experiments",
+   "metacritic": "cut-the-rope-experiments",
    "mobygames": "71360"
   },
   "label_en": "Cut the Rope: Experiments",
@@ -371,6 +383,7 @@
   "ids": {
    "howlongtobeat": "68565",
    "igdb": "lovely-planet-2-april-skies--1",
+   "metacritic": "lovely-planet-2-april-skies",
    "mobygames": "128763",
    "pcgamingwiki": "Lovely_Planet_2:_April_Skies",
    "steam": "1019590"
@@ -397,6 +410,7 @@
   "ids": {
    "howlongtobeat": "43466",
    "igdb": "save-the-ninja-clan",
+   "metacritic": "save-the-ninja-clan",
    "mobygames": "96913",
    "pcgamingwiki": "Save_the_Ninja_Clan",
    "steam": "566670"
@@ -454,6 +468,7 @@
    "epic": "sunday-gold-e572e6",
    "howlongtobeat": "110133",
    "igdb": "sunday-gold",
+   "metacritic": "sunday-gold",
    "mobygames": "190889",
    "pcgamingwiki": "Sunday_Gold",
    "steam": "1969440"
@@ -851,6 +866,7 @@
  {
   "ids": {
    "igdb": "trains-through-electric-storms",
+   "metacritic": "trains-electrostorm",
    "steam": "2150070"
   },
   "label_en": "Trains: Electrostorm",
@@ -1224,6 +1240,7 @@
  {
   "ids": {
    "igdb": "nomad--1",
+   "pcgamingwiki": "Nomad",
    "steam": "378370"
   },
   "label_en": "Nomad",

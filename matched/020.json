@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9689",
    "igdb": "tenchu-fatal-shadows",
+   "metacritic": "tenchu-fatal-shadow",
    "mobygames": "16264"
   },
   "label_en": "Tenchu: Fatal Shadows",
@@ -31,6 +32,7 @@
   "enwiki": "Noby Noby Boy",
   "ids": {
    "igdb": "noby-noby-boy",
+   "metacritic": "noby-noby-boy",
    "mobygames": "83411"
   },
   "label_en": "Noby Noby Boy",
@@ -49,6 +51,7 @@
   "ids": {
    "howlongtobeat": "9021",
    "igdb": "ssx-tricky",
+   "metacritic": "ssx-tricky",
    "mobygames": "5327"
   },
   "label_en": "SSX Tricky",
@@ -74,6 +77,7 @@
   "enwiki": "Kameo",
   "ids": {
    "igdb": "kameo-elements-of-power",
+   "metacritic": "kameo-elements-of-power",
    "mobygames": "20889"
   },
   "label_en": "Kameo",
@@ -95,6 +99,7 @@
   "ids": {
    "howlongtobeat": "10586",
    "igdb": "toy-soldiers-cold-war",
+   "metacritic": "toy-soldiers-cold-war",
    "mobygames": "70978"
   },
   "label_en": "Toy Soldiers: Cold War",
@@ -153,6 +158,7 @@
   "enwiki": "Pop Island",
   "ids": {
    "igdb": "pop-island",
+   "metacritic": "pop-island",
    "mobygames": "89791"
   },
   "label_en": "Pop Island",
@@ -161,7 +167,8 @@
  {
   "enwiki": "Snoopy Flying Ace",
   "ids": {
-   "igdb": "snoopy-flying-ace"
+   "igdb": "snoopy-flying-ace",
+   "metacritic": "snoopy-flying-ace"
   },
   "label_en": "Snoopy Flying Ace",
   "wikidata": "Q7548020"
@@ -200,6 +207,7 @@
   "enwiki": "Hatsune Miku: Project Diva F 2nd",
   "ids": {
    "igdb": "hatsune-miku-project-diva-f-2nd",
+   "metacritic": "hatsune-miku-project-diva-f-2nd",
    "mobygames": "64721"
   },
   "label_en": "Hatsune Miku: Project DIVA F 2nd",
@@ -221,6 +229,7 @@
   "ids": {
    "gog": "game/outlast_whistleblower",
    "igdb": "outlast-whistleblower",
+   "metacritic": "outlast-whistleblower",
    "mobygames": "65550"
   },
   "label_en": "Outlast: Whistleblower",
@@ -239,6 +248,7 @@
   "ids": {
    "howlongtobeat": "59264",
    "igdb": "i-hate-running-backwards",
+   "metacritic": "i-hate-running-backwards",
    "mobygames": "109126",
    "pcgamingwiki": "I_Hate_Running_Backwards",
    "steam": "575820"
@@ -303,7 +313,8 @@
  {
   "enwiki": "Ghost Giant",
   "ids": {
-   "igdb": "ghost-giant"
+   "igdb": "ghost-giant",
+   "metacritic": "ghost-giant"
   },
   "label_en": "Ghost Giant",
   "wikidata": "Q74108020"
@@ -336,6 +347,7 @@
   "ids": {
    "howlongtobeat": "51572",
    "igdb": "zup-7",
+   "metacritic": "zup-7",
    "mobygames": "103492",
    "pcgamingwiki": "Zup!_7",
    "steam": "658560"
@@ -357,6 +369,7 @@
   "enwiki": "Theatrhythm Final Bar Line",
   "ids": {
    "igdb": "theatrhythm-final-bar-line",
+   "metacritic": "theatrhythm-final-bar-line",
    "mobygames": "199777"
   },
   "label_en": "Theatrhythm: Final Bar Line",
@@ -368,6 +381,7 @@
    "gog": "game/silent_hill_f",
    "howlongtobeat": "114901",
    "igdb": "silent-hill-f",
+   "metacritic": "silent-hill-f",
    "mobygames": "248025",
    "pcgamingwiki": "Silent_Hill_f",
    "steam": "2947440"
@@ -575,6 +589,7 @@
   "ids": {
    "howlongtobeat": "96248",
    "igdb": "clea-2",
+   "metacritic": "clea-2",
    "mobygames": "160177",
    "steam": "1257860"
   },
@@ -797,6 +812,7 @@
   "ids": {
    "howlongtobeat": "92839",
    "igdb": "cherry-kisses",
+   "metacritic": "cherry-kisses",
    "mobygames": "206378",
    "pcgamingwiki": "Cherry_Kisses",
    "steam": "1259530"
@@ -886,6 +902,7 @@
  {
   "ids": {
    "igdb": "the-last-deathbound",
+   "metacritic": "deathbound",
    "pcgamingwiki": "The_Last_Deathbound",
    "steam": "1190060"
   },
@@ -1210,6 +1227,7 @@
   "ids": {
    "gog": "game/crash_time_undercover",
    "igdb": "crash-time-undercover",
+   "pcgamingwiki": "Crash_Time:_Undercover",
    "steam": "1687700"
   },
   "label_en": "Crash Time - Undercover",

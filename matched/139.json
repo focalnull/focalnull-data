@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "8401",
    "igdb": "shenmue-ii",
+   "metacritic": "shenmue-ii",
    "mobygames": "5405"
   },
   "label_en": "Shenmue II",
@@ -26,6 +27,7 @@
    "gog": "game/earthworm_jim",
    "howlongtobeat": "3036",
    "igdb": "earthworm-jim",
+   "metacritic": "earthworm-jim-hd",
    "mobygames": "2927",
    "pcgamingwiki": "Earthworm_Jim",
    "steam": "38480"
@@ -38,6 +40,7 @@
   "ids": {
    "howlongtobeat": "1514",
    "igdb": "captain-america-super-soldier",
+   "metacritic": "captain-america-super-soldier",
    "mobygames": "59692"
   },
   "label_en": "Captain America: Super Soldier",
@@ -48,6 +51,7 @@
   "ids": {
    "howlongtobeat": "2034",
    "igdb": "crisis-core-final-fantasy-vii",
+   "metacritic": "crisis-core-final-fantasy-vii",
    "mobygames": "32846"
   },
   "label_en": "Crisis Core: Final Fantasy VII",
@@ -58,6 +62,7 @@
   "ids": {
    "howlongtobeat": "20138",
    "igdb": "super-swing-golf",
+   "metacritic": "super-swing-golf",
    "mobygames": "36924"
   },
   "label_en": "Super Swing Golf",
@@ -95,6 +100,7 @@
   "enwiki": "WWE WrestleMania X8 (video game)",
   "ids": {
    "igdb": "wwe-wrestlemania-x8",
+   "metacritic": "wwe-wrestlemania-x8",
    "mobygames": "7403"
   },
   "label_en": "WWE WrestleMania X8",
@@ -133,6 +139,7 @@
    "gog": "game/the_evil_within",
    "howlongtobeat": "9866",
    "igdb": "the-evil-within",
+   "metacritic": "the-evil-within",
    "mobygames": "69002",
    "pcgamingwiki": "The_Evil_Within",
    "steam": "268050"
@@ -153,6 +160,7 @@
   "enwiki": "Cooking Mama: World Kitchen",
   "ids": {
    "igdb": "cooking-mama-world-kitchen",
+   "metacritic": "cooking-mama-world-kitchen",
    "mobygames": "90688"
   },
   "label_en": "Cooking Mama: World Kitchen",
@@ -171,6 +179,7 @@
   "enwiki": "Gangland (video game)",
   "ids": {
    "igdb": "gangland",
+   "metacritic": "gangland",
    "mobygames": "12379",
    "pcgamingwiki": "Gangland"
   },
@@ -212,6 +221,7 @@
   "ids": {
    "howlongtobeat": "4214",
    "igdb": "gunpoint",
+   "metacritic": "gunpoint",
    "mobygames": "60845",
    "pcgamingwiki": "Gunpoint",
    "steam": "206190"
@@ -239,6 +249,7 @@
  {
   "ids": {
    "igdb": "candy-crush-soda-saga",
+   "metacritic": "candy-crush-soda-saga",
    "mobygames": "69496"
   },
   "label_en": "Candy Crush Soda Saga",
@@ -248,6 +259,7 @@
   "enwiki": "Mario Sports Superstars",
   "ids": {
    "igdb": "mario-sports-superstars",
+   "metacritic": "mario-sports-superstars",
    "mobygames": "85971"
   },
   "label_en": "Mario Sports Superstars",
@@ -294,6 +306,7 @@
    "gog": "game/gnomoria",
    "howlongtobeat": "3957",
    "igdb": "gnomoria",
+   "metacritic": "gnomoria",
    "mobygames": "100705",
    "pcgamingwiki": "Gnomoria",
    "steam": "224500"
@@ -331,6 +344,7 @@
   "ids": {
    "howlongtobeat": "24514",
    "igdb": "mega-coin-squad",
+   "metacritic": "mega-coin-squad",
    "mobygames": "86893",
    "pcgamingwiki": "Mega_Coin_Squad",
    "steam": "312510"
@@ -344,6 +358,7 @@
    "epic": "alex-kidd-in-miracle-world-dx",
    "howlongtobeat": "90799",
    "igdb": "alex-kidd-in-miracle-world-dx",
+   "metacritic": "alex-kidd-in-miracle-world-dx",
    "mobygames": "166680",
    "pcgamingwiki": "Alex_Kidd_in_Miracle_World_DX",
    "steam": "1333470"
@@ -390,6 +405,7 @@
    "epic": "disciples-liberation",
    "howlongtobeat": "94124",
    "igdb": "disciples-liberation",
+   "metacritic": "disciples-liberation",
    "mobygames": "174134",
    "pcgamingwiki": "Disciples:_Liberation",
    "steam": "1287840"
@@ -412,6 +428,7 @@
    "gog": "game/unsighted",
    "howlongtobeat": "82539",
    "igdb": "unsighted",
+   "metacritic": "unsighted",
    "mobygames": "173006",
    "pcgamingwiki": "Unsighted",
    "steam": "1062110"
@@ -456,6 +473,7 @@
   "ids": {
    "howlongtobeat": "130020",
    "igdb": "invector-rhythm-galaxy",
+   "metacritic": "invector-rhythm-galaxy",
    "mobygames": "205768",
    "steam": "2009450"
   },
@@ -794,6 +812,7 @@
  {
   "ids": {
    "igdb": "lifeway",
+   "metacritic": "lifeway",
    "steam": "2004990"
   },
   "label_en": "Lifeway",
@@ -1175,6 +1194,7 @@
  {
   "ids": {
    "igdb": "eurgava-fight-for-haaria",
+   "pcgamingwiki": "EURGAVA_-_Fight_for_Haaria",
    "steam": "559350"
   },
   "label_en": "EURGAVA™: Fight for Haaria",

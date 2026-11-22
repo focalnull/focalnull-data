@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "935",
    "igdb": "battlefield-2",
+   "metacritic": "battlefield-2",
    "mobygames": "18194",
    "pcgamingwiki": "Battlefield_2"
   },
@@ -58,6 +59,7 @@
   "enwiki": "Sonic the Fighters",
   "ids": {
    "igdb": "sonic-the-fighters",
+   "metacritic": "sonic-the-fighters",
    "mobygames": "64013"
   },
   "label_en": "Sonic the Fighters",
@@ -129,6 +131,7 @@
   "ids": {
    "howlongtobeat": "6196",
    "igdb": "moonbase-alpha",
+   "metacritic": "moonbase-alpha",
    "mobygames": "48564",
    "pcgamingwiki": "Moonbase_Alpha",
    "steam": "39000"
@@ -160,6 +163,7 @@
   "enwiki": "SpyHunter 2",
   "ids": {
    "igdb": "spyhunter-2",
+   "metacritic": "spy-hunter-2",
    "mobygames": "17125"
   },
   "label_en": "SpyHunter 2",
@@ -198,7 +202,8 @@
  {
   "enwiki": "EA Sports UFC",
   "ids": {
-   "igdb": "ea-sports-ufc"
+   "igdb": "ea-sports-ufc",
+   "metacritic": "ea-sports-ufc"
   },
   "label_en": "EA Sports UFC",
   "wikidata": "Q14391653"
@@ -208,6 +213,7 @@
   "ids": {
    "howlongtobeat": "36955",
    "igdb": "hex-shards-of-fate",
+   "metacritic": "hex-shards-of-fate",
    "mobygames": "92303",
    "pcgamingwiki": "HEX:_Shards_of_Fate",
    "steam": "410380"
@@ -231,6 +237,7 @@
    "gog": "game/galak_z",
    "howlongtobeat": "27393",
    "igdb": "galak-z-the-dimensional",
+   "metacritic": "galak-z-the-dimensional",
    "mobygames": "82266",
    "pcgamingwiki": "Galak-Z:_The_Dimensional",
    "steam": "300580"
@@ -286,6 +293,7 @@
    "gog": "game/hegemony_iii_clash_of_the_ancients",
    "howlongtobeat": "34342",
    "igdb": "hegemony-iii-clash-of-the-ancients",
+   "metacritic": "hegemony-iii-clash-of-the-ancients",
    "mobygames": "105850",
    "pcgamingwiki": "Hegemony_III:_Clash_of_the_Ancients",
    "steam": "308173"
@@ -297,6 +305,7 @@
   "enwiki": "Jack Nicklaus 6: Golden Bear Challenge",
   "ids": {
    "igdb": "jack-nicklaus-6-golden-bear-challenge",
+   "metacritic": "jack-nicklaus-6-golden-bear-challenge",
    "mobygames": "4271"
   },
   "label_en": "Jack Nicklaus 6: Golden Bear Challenge",
@@ -306,6 +315,7 @@
   "ids": {
    "howlongtobeat": "68245",
    "igdb": "newfound-courage",
+   "metacritic": "newfound-courage",
    "mobygames": "167348",
    "pcgamingwiki": "Newfound_Courage",
    "steam": "893790"
@@ -341,6 +351,7 @@
    "gog": "game/kraken_academy",
    "howlongtobeat": "95427",
    "igdb": "kraken-academy",
+   "metacritic": "kraken-academy",
    "mobygames": "172203",
    "pcgamingwiki": "Kraken_Academy!!",
    "steam": "1158220"
@@ -409,6 +420,7 @@
   "ids": {
    "howlongtobeat": "59385",
    "igdb": "trivia-vault-business-trivia",
+   "metacritic": "trivia-vault-business-trivia",
    "pcgamingwiki": "Trivia_Vault:_Business_Trivia",
    "steam": "858420"
   },
@@ -486,6 +498,7 @@
   "ids": {
    "howlongtobeat": "109108",
    "igdb": "animal-well",
+   "metacritic": "animal-well",
    "mobygames": "223654",
    "pcgamingwiki": "Animal_Well",
    "steam": "813230"
@@ -928,6 +941,7 @@
   "enwiki": "IGPX: Immortal Grand Prix (video game)",
   "ids": {
    "igdb": "igpx-immortal-grand-prix",
+   "metacritic": "igpx-immortal-grand-prix",
    "mobygames": "39561"
   },
   "label_en": "IGPX: Immortal Grand Prix",

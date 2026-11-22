@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "219",
    "igdb": "adventure-time-hey-ice-king-why-d-you-steal-our-garbage",
+   "metacritic": "adventure-time-hey-ice-king-whyd-you-steal-our",
    "mobygames": "87135"
   },
   "label_en": "Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!!",
@@ -13,6 +14,7 @@
   "enwiki": "Harry Potter and the Deathly Hallows – Part 1 (video game)",
   "ids": {
    "igdb": "harry-potter-and-the-deathly-hallows-part-1",
+   "metacritic": "harry-potter-and-the-deathly-hallows-part-1",
    "mobygames": "51968",
    "pcgamingwiki": "Harry_Potter_and_the_Deathly_Hallows_Part_1"
   },
@@ -25,6 +27,7 @@
    "gog": "game/arx_fatalis",
    "howlongtobeat": "637",
    "igdb": "arx-fatalis",
+   "metacritic": "arx-fatalis",
    "mobygames": "7189",
    "pcgamingwiki": "Arx_Fatalis",
    "steam": "1700"
@@ -36,6 +39,7 @@
   "enwiki": "Disaster Report",
   "ids": {
    "igdb": "disaster-report",
+   "metacritic": "disaster-report",
    "mobygames": "8371"
   },
   "label_en": "Disaster Report",
@@ -46,6 +50,7 @@
   "ids": {
    "howlongtobeat": "5953",
    "igdb": "metroid-prime",
+   "metacritic": "metroid-prime",
    "mobygames": "7783",
    "pcgamingwiki": "Metroid_Prime"
   },
@@ -83,6 +88,7 @@
   "enwiki": "Dead or Alive 2",
   "ids": {
    "igdb": "dead-or-alive-2",
+   "metacritic": "doa2-hardcore",
    "mobygames": "3543"
   },
   "label_en": "Dead or Alive 2",
@@ -92,6 +98,7 @@
   "enwiki": "The Simpsons: Bart's House of Weirdness",
   "ids": {
    "igdb": "the-simpsons-bart-s-house-of-weirdness",
+   "metacritic": "the-simpsons-barts-house-of-weirdness",
    "mobygames": "15779"
   },
   "label_en": "The Simpsons: Bart's House of Weirdness",
@@ -131,6 +138,7 @@
    "gog": "game/resonance",
    "howlongtobeat": "7752",
    "igdb": "resonance",
+   "metacritic": "resonance",
    "mobygames": "56829",
    "pcgamingwiki": "Resonance",
    "steam": "212050"
@@ -142,6 +150,7 @@
   "enwiki": "The Naked Brothers Band (video game)",
   "ids": {
    "igdb": "the-naked-brothers-band-the-video-game",
+   "metacritic": "rock-university-presents-the-naked-brothers-band-the-video-game",
    "mobygames": "60478"
   },
   "label_en": "The Naked Brothers Band The Video Game",
@@ -207,6 +216,7 @@
    "gog": "game/heroes_of_annihilated_empires",
    "howlongtobeat": "14092",
    "igdb": "heroes-of-annihilated-empires",
+   "metacritic": "heroes-of-annihilated-empires",
    "mobygames": "29925",
    "pcgamingwiki": "Heroes_of_Annihilated_Empires",
    "steam": "4800"
@@ -232,6 +242,7 @@
   "ids": {
    "howlongtobeat": "19365",
    "igdb": "spintires",
+   "metacritic": "spintires",
    "mobygames": "75933",
    "pcgamingwiki": "Spintires",
    "steam": "263280"
@@ -253,6 +264,7 @@
    "gog": "game/owlboy",
    "howlongtobeat": "26278",
    "igdb": "owlboy",
+   "metacritic": "owlboy",
    "mobygames": "81173",
    "pcgamingwiki": "Owlboy",
    "steam": "115800"
@@ -282,6 +294,7 @@
    "epic": "the-abbey-b6fbc4",
    "howlongtobeat": "9742",
    "igdb": "the-abbey",
+   "metacritic": "murder-in-the-abbey",
    "mobygames": "34318",
    "pcgamingwiki": "The_Abbey",
    "steam": "313200"
@@ -294,6 +307,7 @@
   "ids": {
    "howlongtobeat": "40593",
    "igdb": "superhypercube",
+   "metacritic": "superhypercube",
    "mobygames": "84016",
    "pcgamingwiki": "SuperHyperCube",
    "steam": "554870"
@@ -395,6 +409,7 @@
    "gog": "game/dodgeball_academia",
    "howlongtobeat": "94477",
    "igdb": "dodgeball-academia",
+   "metacritic": "dodgeball-academia",
    "mobygames": "168409",
    "pcgamingwiki": "Dodgeball_Academia",
    "steam": "1422420"
@@ -716,6 +731,7 @@
   "ids": {
    "howlongtobeat": "115127",
    "igdb": "kingdom-eighties",
+   "metacritic": "kingdom-eighties",
    "mobygames": "204938",
    "pcgamingwiki": "Kingdom:_Eighties",
    "steam": "1956040"
@@ -859,6 +875,7 @@
   "ids": {
    "howlongtobeat": "18938",
    "igdb": "the-sun-at-night",
+   "metacritic": "the-sun-at-night",
    "mobygames": "70178",
    "pcgamingwiki": "The_Sun_at_Night",
    "steam": "314570"
@@ -887,6 +904,7 @@
   "ids": {
    "howlongtobeat": "13595",
    "igdb": "ascent-of-kings",
+   "metacritic": "ascent-of-kings",
    "mobygames": "89547"
   },
   "label_en": "Ascent of Kings",
@@ -954,7 +972,8 @@
  },
  {
   "ids": {
-   "igdb": "xxxholic-watanuki-no-izayoi-sowa"
+   "igdb": "xxxholic-watanuki-no-izayoi-sowa",
+   "metacritic": "xxxholic-watanuki-no-izayoi-souwa"
   },
   "label_en": "xxxHolic: Watanuki no Izayoi Souwa",
   "wikidata": "Q130417733"

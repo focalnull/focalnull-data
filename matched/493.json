@@ -3,6 +3,7 @@
   "enwiki": "Endless Ocean: Blue World",
   "ids": {
    "igdb": "endless-ocean-blue-world",
+   "metacritic": "endless-ocean-blue-world",
    "mobygames": "45806"
   },
   "label_en": "Endless Ocean 2: Adventures of the Deep",
@@ -32,6 +33,7 @@
   "ids": {
    "howlongtobeat": "2805",
    "igdb": "dragon-ball-revenge-of-king-piccolo",
+   "metacritic": "dragon-ball-revenge-of-king-piccolo",
    "mobygames": "86116"
   },
   "label_en": "Dragon Ball: Revenge of King Piccolo",
@@ -88,6 +90,7 @@
   "enwiki": "Rebelstar: Tactical Command",
   "ids": {
    "igdb": "rebelstar-tactical-command",
+   "metacritic": "rebelstar-tactical-command",
    "mobygames": "20166"
   },
   "label_en": "Rebelstar: Tactical Command",
@@ -118,6 +121,7 @@
   "ids": {
    "howlongtobeat": "28880",
    "igdb": "you-re-in-the-movies",
+   "metacritic": "youre-in-the-movies",
    "mobygames": "39241"
   },
   "label_en": "You're in the Movies",
@@ -128,6 +132,7 @@
   "ids": {
    "howlongtobeat": "263",
    "igdb": "agatha-christie-the-abc-murders",
+   "metacritic": "agatha-christie-the-abc-murders-2009",
    "mobygames": "47565"
   },
   "label_en": "Agatha Christie: The ABC Murders",
@@ -138,6 +143,7 @@
   "ids": {
    "howlongtobeat": "679",
    "igdb": "astro-boy",
+   "metacritic": "astro-boy",
    "mobygames": "16099"
   },
   "label_en": "Astro Boy",
@@ -155,6 +161,7 @@
   "enwiki": "NASCAR Racing 4",
   "ids": {
    "igdb": "nascar-racing-4",
+   "metacritic": "nascar-racing-4",
    "mobygames": "3378",
    "pcgamingwiki": "NASCAR_Racing_4"
   },
@@ -185,6 +192,9 @@
   "wikidata": "Q8069493"
  },
  {
+  "ids": {
+   "metacritic": "boku-no-kabuto-kuwagata"
+  },
   "label_en": "Boku no Kabuto - Kuwagata",
   "wikidata": "Q11279493"
  },
@@ -238,6 +248,7 @@
    "gog": "game/tales_from_the_borderlands",
    "howlongtobeat": "22804",
    "igdb": "tales-from-the-borderlands",
+   "metacritic": "tales-from-the-borderlands-a-telltale-game-series",
    "mobygames": "75359",
    "pcgamingwiki": "Tales_from_the_Borderlands",
    "steam": "330830"
@@ -270,6 +281,7 @@
   "ids": {
    "howlongtobeat": "63137",
    "igdb": "brawl-stars",
+   "metacritic": "brawl-stars",
    "mobygames": "119277"
   },
   "label_en": "Brawl Stars",
@@ -312,6 +324,7 @@
   "ids": {
    "howlongtobeat": "50427",
    "igdb": "crypt-of-the-serpent-king",
+   "metacritic": "crypt-of-the-serpent-king",
    "mobygames": "104228",
    "pcgamingwiki": "Crypt_of_the_Serpent_King",
    "steam": "528730"
@@ -343,6 +356,7 @@
   "enwiki": "Phineas and Ferb: Day of Doofenshmirtz",
   "ids": {
    "igdb": "phineas-and-ferb-day-of-doofenshmirtz",
+   "metacritic": "phineas-and-ferb-day-of-doofenshmirtz",
    "mobygames": "79557"
   },
   "label_en": "Phineas and Ferb: Day of Doofenshmirtz",
@@ -377,6 +391,7 @@
   "ids": {
    "howlongtobeat": "89983",
    "igdb": "room-to-grow",
+   "metacritic": "room-to-grow",
    "mobygames": "160256",
    "steam": "1471960"
   },
@@ -403,6 +418,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-3",
+   "metacritic": "vacation-adventures-park-ranger-3",
    "mobygames": "100385",
    "pcgamingwiki": "Vacation_Adventures:_Park_Ranger_3",
    "steam": "1104840"
@@ -414,6 +430,7 @@
   "ids": {
    "howlongtobeat": "89750",
    "igdb": "blind-drive",
+   "metacritic": "blind-drive",
    "mobygames": "160779",
    "pcgamingwiki": "Blind_Drive",
    "steam": "1300600"
@@ -434,6 +451,7 @@
   "ids": {
    "howlongtobeat": "34834",
    "igdb": "to-end-all-wars",
+   "metacritic": "to-end-all-wars",
    "mobygames": "83616",
    "pcgamingwiki": "To_End_All_Wars",
    "steam": "312360"
@@ -458,6 +476,7 @@
    "howlongtobeat": "9913",
    "igdb": "the-guild-2-renaissance",
    "mobygames": "49292",
+   "pcgamingwiki": "The_Guild_II:_Renaissance",
    "steam": "39680"
   },
   "label_en": "The Guild 2 Renaissance",
@@ -478,6 +497,7 @@
    "gog": "game/8bit_invaders",
    "howlongtobeat": "42825",
    "igdb": "8-bit-invaders",
+   "metacritic": "8-bit-invaders",
    "mobygames": "81950",
    "pcgamingwiki": "8-Bit_Invaders!",
    "steam": "531680"
@@ -1216,6 +1236,7 @@
  {
   "ids": {
    "igdb": "hentai-mizugi",
+   "pcgamingwiki": "Hentai_Mizugi",
    "steam": "1148940"
   },
   "label_en": "Hentai Mizugi",

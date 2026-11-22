@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "1542",
    "igdb": "carnival-games",
+   "metacritic": "carnival-games-2007",
    "mobygames": "31176",
    "pcgamingwiki": "Carnival_Games",
    "steam": "1249740"
@@ -44,6 +45,7 @@
   "enwiki": "Transformers: Dark of the Moon (video game)",
   "ids": {
    "igdb": "transformers-dark-of-the-moon",
+   "metacritic": "transformers-dark-of-the-moon",
    "mobygames": "71623"
   },
   "label_en": "Transformers: Dark of the Moon",
@@ -100,6 +102,7 @@
   "ids": {
    "howlongtobeat": "4080",
    "igdb": "grandia-xtreme",
+   "metacritic": "grandia-xtreme",
    "mobygames": "7412"
   },
   "label_en": "Grandia Xtreme",
@@ -117,6 +120,7 @@
   "ids": {
    "howlongtobeat": "14844",
    "igdb": "victorious-boxers-revolution",
+   "metacritic": "victorious-boxers-revolution",
    "mobygames": "32790"
   },
   "label_en": "Victorious Boxers: Revolution",
@@ -138,6 +142,7 @@
   "enwiki": "Mega Man Battle Chip Challenge",
   "ids": {
    "igdb": "mega-man-battle-chip-challenge",
+   "metacritic": "mega-man-battle-chip-challenge",
    "mobygames": "23348"
   },
   "label_en": "Mega Man Battle Chip Challenge",
@@ -158,6 +163,7 @@
   "ids": {
    "howlongtobeat": "51",
    "igdb": "1916-der-unbekannte-krieg",
+   "metacritic": "1916-der-unbekannte-krieg",
    "mobygames": "51158"
   },
   "label_en": "1916 - Der Unbekannte Krieg",
@@ -180,6 +186,7 @@
   "ids": {
    "howlongtobeat": "2898",
    "igdb": "drunken-robot-pornography",
+   "metacritic": "drunken-robot-pornography",
    "mobygames": "70558",
    "pcgamingwiki": "Drunken_Robot_Pornography",
    "steam": "209060"
@@ -202,6 +209,7 @@
    "gog": "game/witcher_adventure_game",
    "howlongtobeat": "20461",
    "igdb": "the-witcher-adventure-game",
+   "metacritic": "the-witcher-adventure-game",
    "mobygames": "69978",
    "pcgamingwiki": "The_Witcher_Adventure_Game",
    "steam": "303800"
@@ -241,7 +249,8 @@
  {
   "ids": {
    "howlongtobeat": "67660",
-   "igdb": "arc-of-alchemist"
+   "igdb": "arc-of-alchemist",
+   "metacritic": "arc-of-alchemist"
   },
   "label_en": "Arc of Alchemist",
   "wikidata": "Q60997430"
@@ -249,6 +258,7 @@
  {
   "enwiki": "Cube: 3D Puzzle Mayhem",
   "ids": {
+   "metacritic": "cube",
    "mobygames": "34809"
   },
   "label_en": "Cube: 3D Puzzle Mayhem",
@@ -269,6 +279,7 @@
    "gog": "game/wartile",
    "howlongtobeat": "36700",
    "igdb": "wartile",
+   "metacritic": "wartile",
    "mobygames": "101517",
    "pcgamingwiki": "Wartile",
    "steam": "404200"
@@ -389,6 +400,7 @@
    "epic": "mortal-kombat-1",
    "howlongtobeat": "128891",
    "igdb": "mortal-kombat-1--1",
+   "metacritic": "mortal-kombat-1",
    "mobygames": "208859",
    "pcgamingwiki": "Mortal_Kombat_1",
    "steam": "1971870"
@@ -1033,6 +1045,7 @@
   "ids": {
    "epic": "godbreakers-dbc2e9",
    "igdb": "godbreakers",
+   "pcgamingwiki": "Godbreakers",
    "steam": "2687400"
   },
   "label_en": "Godbreakers",
@@ -1041,7 +1054,8 @@
  {
   "ids": {
    "igdb": "caladrius-2-dark-element",
-   "steam": "4655000"
+   "pcgamingwiki": "Caladrius_2:_Dark_Element",
+   "steam": "5571930"
   },
   "label_en": "Caladrius 2/Dark Element",
   "wikidata": "Q140974430"

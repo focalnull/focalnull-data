@@ -46,6 +46,7 @@
   "enwiki": "Dragon Ball Z: Infinite World",
   "ids": {
    "igdb": "dragon-ball-z-infinite-world",
+   "metacritic": "dragon-ball-z-infinite-world",
    "mobygames": "109134"
   },
   "label_en": "Dragon Ball Z: Infinite World",
@@ -57,6 +58,7 @@
    "gog": "game/conflict_desert_storm",
    "howlongtobeat": "1886",
    "igdb": "conflict-desert-storm",
+   "metacritic": "conflict-desert-storm",
    "mobygames": "12570",
    "pcgamingwiki": "Conflict:_Desert_Storm",
    "steam": "211780"
@@ -68,6 +70,7 @@
   "enwiki": "Jeanne d'Arc (video game)",
   "ids": {
    "igdb": "jeanne-darc",
+   "metacritic": "jeanne-darc",
    "mobygames": "36099"
   },
   "label_en": "Jeanne d'Arc",
@@ -113,6 +116,7 @@
   "ids": {
    "howlongtobeat": "1304",
    "igdb": "brave-story-new-traveler",
+   "metacritic": "brave-story",
    "mobygames": "32818"
   },
   "label_en": "Brave Story: New Traveler",
@@ -130,6 +134,7 @@
   "enwiki": "Charlie's Angels (video game)",
   "ids": {
    "igdb": "charlies-angels",
+   "metacritic": "charlies-angels",
    "mobygames": "43058"
   },
   "label_en": "Charlie's Angels",
@@ -148,6 +153,7 @@
   "enwiki": "Robotech: The Macross Saga",
   "ids": {
    "igdb": "robotech-the-macross-saga",
+   "metacritic": "robotech-the-macross-saga",
    "mobygames": "8293"
   },
   "label_en": "Robotech: The Macross Saga",
@@ -197,6 +203,7 @@
   "ids": {
    "howlongtobeat": "28513",
    "igdb": "dragon-s-prophet",
+   "metacritic": "dragons-prophet",
    "pcgamingwiki": "Dragon's_Prophet",
    "steam": "259020"
   },
@@ -218,6 +225,7 @@
    "gog": "game/agatha_christie_the_abc_murders",
    "howlongtobeat": "33609",
    "igdb": "agatha-christie-the-abc-murders--1",
+   "metacritic": "agatha-christie-the-abc-murders",
    "mobygames": "79679",
    "pcgamingwiki": "Agatha_Christie:_The_ABC_Murders",
    "steam": "374900"
@@ -235,6 +243,7 @@
   "enwiki": "Farpoint (video game)",
   "ids": {
    "igdb": "farpoint",
+   "metacritic": "farpoint",
    "mobygames": "88715"
   },
   "label_en": "Farpoint",
@@ -249,6 +258,7 @@
   "ids": {
    "howlongtobeat": "57427",
    "igdb": "antigraviator",
+   "metacritic": "antigraviator",
    "mobygames": "109892",
    "pcgamingwiki": "Antigraviator",
    "steam": "621020"
@@ -337,6 +347,7 @@
   "ids": {
    "howlongtobeat": "110463",
    "igdb": "kirbys-dream-buffet",
+   "metacritic": "kirbys-dream-buffet",
    "mobygames": "189809"
   },
   "label_en": "Kirby's Dream Buffet",
@@ -355,6 +366,7 @@
  {
   "ids": {
    "igdb": "never-stop-sneakin",
+   "metacritic": "never-stop-sneakin",
    "mobygames": "99239",
    "pcgamingwiki": "Never_Stop_Sneakin'",
    "steam": "792880"
@@ -374,7 +386,9 @@
   "ids": {
    "howlongtobeat": "130447",
    "igdb": "umamusume-pretty-derby-party-dash",
+   "metacritic": "umamusume-pretty-derby-party-dash",
    "mobygames": "230510",
+   "pcgamingwiki": "Umamusume:_Pretty_Derby_-_Party_Dash",
    "steam": "2313020"
   },
   "label_en": "Uma Musume Pretty Derby: Party Dash",
@@ -652,6 +666,7 @@
   "ids": {
    "howlongtobeat": "140731",
    "igdb": "urban-myth-dissolution-center",
+   "metacritic": "urban-myth-dissolution-center",
    "mobygames": "237252",
    "pcgamingwiki": "Urban_Myth_Dissolution_Center",
    "steam": "2089600"
@@ -782,6 +797,7 @@
  {
   "ids": {
    "igdb": "code-has-price",
+   "metacritic": "code-has-price",
    "steam": "2665030"
   },
   "label_en": "Code Has Price",
@@ -828,7 +844,8 @@
  },
  {
   "ids": {
-   "igdb": "urban-survival-simulator-the-bums-journey"
+   "igdb": "urban-survival-simulator-the-bums-journey",
+   "metacritic": "urban-survival-simulator-the-bums-journey"
   },
   "label_en": "Urban Survival Simulator: The Bum's Journey",
   "wikidata": "Q131397400"

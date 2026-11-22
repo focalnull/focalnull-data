@@ -145,6 +145,7 @@
   "ids": {
    "howlongtobeat": "24030",
    "igdb": "criminal-girls-invite-only",
+   "metacritic": "criminal-girls-invite-only",
    "mobygames": "78943",
    "pcgamingwiki": "Criminal_Girls:_Invite_Only",
    "steam": "409850"
@@ -181,6 +182,7 @@
   "ids": {
    "howlongtobeat": "32153",
    "igdb": "paint-it-black",
+   "metacritic": "paint-it-black",
    "pcgamingwiki": "Paint_It_Black",
    "steam": "810630"
   },
@@ -190,6 +192,7 @@
  {
   "ids": {
    "igdb": "radiohammer",
+   "metacritic": "radiohammer",
    "mobygames": "99376"
   },
   "label_en": "Radiohammer",
@@ -210,6 +213,7 @@
   "ids": {
    "howlongtobeat": "71549",
    "igdb": "panzer-paladin",
+   "metacritic": "panzer-paladin",
    "mobygames": "148414",
    "pcgamingwiki": "Panzer_Paladin",
    "steam": "975510"
@@ -232,6 +236,7 @@
   "ids": {
    "howlongtobeat": "91653",
    "igdb": "the-idolmaster-starlit-season",
+   "metacritic": "the-idolmster-starlit-season",
    "mobygames": "213152",
    "pcgamingwiki": "The_Idolmaster:_Starlit_Season",
    "steam": "1046480"
@@ -253,6 +258,7 @@
   "ids": {
    "howlongtobeat": "71885",
    "igdb": "life-of-pixel",
+   "metacritic": "life-of-pixel",
    "mobygames": "90100",
    "pcgamingwiki": "Life_of_Pixel",
    "steam": "327260"
@@ -263,7 +269,8 @@
  {
   "enwiki": "Pokémon Home",
   "ids": {
-   "igdb": "pokemon-home"
+   "igdb": "pokemon-home",
+   "metacritic": "pokemon-home"
   },
   "label_en": "Pokémon Home",
   "wikidata": "Q93807404"
@@ -294,6 +301,7 @@
   "ids": {
    "howlongtobeat": "88760",
    "igdb": "neon-white",
+   "metacritic": "neon-white",
    "mobygames": "186311",
    "pcgamingwiki": "Neon_White",
    "steam": "1533420"
@@ -447,6 +455,7 @@
   "ids": {
    "howlongtobeat": "48262",
    "igdb": "brick-rigs",
+   "metacritic": "brick-rigs",
    "mobygames": "98939",
    "pcgamingwiki": "Brick_Rigs",
    "steam": "552100"
@@ -751,6 +760,7 @@
   "ids": {
    "howlongtobeat": "45120",
    "igdb": "guards",
+   "metacritic": "guards",
    "mobygames": "109108",
    "pcgamingwiki": "Guards",
    "steam": "460340"

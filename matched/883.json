@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1329",
    "igdb": "brink",
+   "metacritic": "brink",
    "mobygames": "52108",
    "pcgamingwiki": "Brink",
    "steam": "22350"
@@ -105,6 +106,7 @@
   "enwiki": "Super Trucks",
   "ids": {
    "igdb": "super-trucks-racing",
+   "metacritic": "super-trucks-racing",
    "mobygames": "35953"
   },
   "label_en": "Super Trucks Racing",
@@ -154,6 +156,7 @@
   "ids": {
    "howlongtobeat": "21323",
    "igdb": "monster-hunter-4-ultimate",
+   "metacritic": "monster-hunter-4-ultimate",
    "mobygames": "92997"
   },
   "label_en": "Monster Hunter 4 Ultimate",
@@ -164,6 +167,7 @@
   "ids": {
    "howlongtobeat": "66993",
    "igdb": "cold-iron-quick-draw-western-duels",
+   "metacritic": "cold-iron",
    "mobygames": "102366",
    "pcgamingwiki": "Cold_Iron",
    "steam": "543440"
@@ -185,6 +189,7 @@
   "ids": {
    "howlongtobeat": "67612",
    "igdb": "warcraft-iii-reforged",
+   "metacritic": "warcraft-iii-reforged",
    "mobygames": "141317",
    "pcgamingwiki": "Warcraft_III:_Reforged"
   },
@@ -203,6 +208,7 @@
   "ids": {
    "howlongtobeat": "40259",
    "igdb": "wuppo",
+   "metacritic": "wuppo",
    "mobygames": "83741",
    "pcgamingwiki": "Wuppo",
    "steam": "400630"
@@ -222,7 +228,9 @@
   "ids": {
    "howlongtobeat": "65577",
    "igdb": "erica",
+   "metacritic": "erica",
    "mobygames": "133456",
+   "pcgamingwiki": "Erica",
    "steam": "1514930"
   },
   "label_en": "Erica",
@@ -291,6 +299,7 @@
   "ids": {
    "howlongtobeat": "104782",
    "igdb": "gibbon-beyond-the-trees",
+   "metacritic": "gibbon-beyond-the-trees",
    "mobygames": "180810",
    "pcgamingwiki": "Gibbon:_Beyond_the_Trees",
    "steam": "1837330"
@@ -327,6 +336,7 @@
  {
   "ids": {
    "igdb": "chicscape",
+   "metacritic": "chicscape",
    "mobygames": "189394",
    "steam": "1647280"
   },
@@ -344,6 +354,7 @@
    "gog": "game/merchant_of_the_skies",
    "howlongtobeat": "72396",
    "igdb": "merchant-of-the-skies",
+   "metacritic": "merchant-of-the-skies",
    "mobygames": "132889",
    "pcgamingwiki": "Merchant_of_the_Skies",
    "steam": "1040070"
@@ -406,6 +417,7 @@
   "ids": {
    "howlongtobeat": "120603",
    "igdb": "sucker-for-love-date-to-die-for",
+   "metacritic": "sucker-for-love-date-to-die-for",
    "mobygames": "222611",
    "steam": "2240790"
   },
@@ -429,6 +441,7 @@
    "gog": "game/blind_fate_edo_no_yami",
    "howlongtobeat": "98467",
    "igdb": "blind-fate-edo-no-yami",
+   "metacritic": "blind-fate-edo-no-yami",
    "mobygames": "191740",
    "pcgamingwiki": "Blind_Fate:_Edo_no_Yami",
    "steam": "1294880"
@@ -881,6 +894,7 @@
   "ids": {
    "howlongtobeat": "50015",
    "igdb": "theseus",
+   "metacritic": "theseus",
    "pcgamingwiki": "Theseus",
    "steam": "677330"
   },
@@ -1264,6 +1278,7 @@
   "enwiki": "Tennis Titans",
   "ids": {
    "igdb": "tennis-titans",
+   "metacritic": "tennis-titans",
    "mobygames": "17020"
   },
   "label_en": "Tennis Titans",
@@ -1294,6 +1309,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Yu-Gi-Oh!_Tag_Force_GX",
    "steam": "4416300"
   },
   "label_en": "Yu-Gi-Oh! Tag Force GX",

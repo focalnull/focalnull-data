@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11159",
    "igdb": "wii-sports",
+   "metacritic": "wii-sports",
    "mobygames": "25099"
   },
   "label_en": "Wii Sports",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "2499",
    "igdb": "devil-may-cry-4",
+   "metacritic": "devil-may-cry-4",
    "mobygames": "32479",
    "pcgamingwiki": "Devil_May_Cry_4",
    "steam": "45700"
@@ -44,6 +46,7 @@
   "ids": {
    "howlongtobeat": "5439",
    "igdb": "lunar-knights",
+   "metacritic": "lunar-knights",
    "mobygames": "27607"
   },
   "label_en": "Lunar Knights",
@@ -74,6 +77,7 @@
    "gog": "game/alone_in_the_dark_the_new_nightmare",
    "howlongtobeat": "397",
    "igdb": "alone-in-the-dark-the-new-nightmare",
+   "metacritic": "alone-in-the-dark-the-new-nightmare",
    "mobygames": "4183",
    "pcgamingwiki": "Alone_in_the_Dark:_The_New_Nightmare",
    "steam": "259190"
@@ -86,6 +90,7 @@
   "ids": {
    "howlongtobeat": "23924",
    "igdb": "swingerz-golf",
+   "metacritic": "swingerz-golf",
    "mobygames": "11023"
   },
   "label_en": "Swingerz Golf",
@@ -96,6 +101,7 @@
   "ids": {
    "howlongtobeat": "2665",
    "igdb": "dokapon-kingdom-connect",
+   "metacritic": "dokapon-kingdom",
    "mobygames": "45456",
    "pcgamingwiki": "Dokapon_Kingdom:_Connect",
    "steam": "2338140"
@@ -115,6 +121,7 @@
   "enwiki": "Zombie Revenge",
   "ids": {
    "igdb": "zombie-revenge",
+   "metacritic": "zombie-revenge",
    "mobygames": "4412"
   },
   "label_en": "Zombie Revenge",
@@ -162,6 +169,7 @@
   "enwiki": "Tak: The Great Juju Challenge",
   "ids": {
    "igdb": "tak-the-great-juju-challenge",
+   "metacritic": "tak-the-great-juju-challenge",
    "mobygames": "21524"
   },
   "label_en": "Tak: The Great Juju Challenge",
@@ -255,6 +263,7 @@
   "ids": {
    "howlongtobeat": "77624",
    "igdb": "teardown",
+   "metacritic": "teardown",
    "mobygames": "152216",
    "pcgamingwiki": "Teardown",
    "steam": "1167630"
@@ -264,7 +273,8 @@
  },
  {
   "ids": {
-   "igdb": "corpse-party--2"
+   "igdb": "corpse-party--2",
+   "metacritic": "corpse-party"
   },
   "label_en": "Corpse Party: Blood Covered Repeated Fear",
   "wikidata": "Q84710936"
@@ -273,6 +283,7 @@
   "ids": {
    "howlongtobeat": "25035",
    "igdb": "clandestine",
+   "metacritic": "clandestine",
    "mobygames": "75783",
    "pcgamingwiki": "Clandestine",
    "steam": "290530"
@@ -336,6 +347,7 @@
    "epic": "we-were-here-forever",
    "howlongtobeat": "91902",
    "igdb": "we-were-here-forever",
+   "metacritic": "we-were-here-forever",
    "mobygames": "184036",
    "pcgamingwiki": "We_Were_Here_Forever",
    "steam": "1341290"
@@ -354,6 +366,7 @@
  {
   "ids": {
    "igdb": "captain-velvet-meteor-the-jump-plus-dimensions",
+   "metacritic": "captain-velvet-meteor-the-jump-plus-dimensions",
    "steam": "2222950"
   },
   "label_en": "Captain Velvet Meteor: The Jump+ Dimensions",
@@ -392,6 +405,7 @@
    "gog": "game/ashes_of_the_singularity_escalation",
    "howlongtobeat": "41257",
    "igdb": "ashes-of-the-singularity-escalation",
+   "metacritic": "ashes-of-the-singularity-escalation",
    "mobygames": "95114",
    "pcgamingwiki": "Ashes_of_the_Singularity:_Escalation",
    "steam": "507490"
@@ -758,6 +772,7 @@
   "ids": {
    "howlongtobeat": "51756",
    "igdb": "form",
+   "metacritic": "form",
    "mobygames": "89894",
    "pcgamingwiki": "Form",
    "steam": "408520"

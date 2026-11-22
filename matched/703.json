@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "5357",
    "igdb": "lollipop-chainsaw",
+   "metacritic": "lollipop-chainsaw",
    "mobygames": "56374"
   },
   "label_en": "Lollipop Chainsaw",
@@ -43,6 +44,7 @@
    "gog": "game/supreme_ruler_2020_gold_edition",
    "howlongtobeat": "9486",
    "igdb": "supreme-ruler-2020",
+   "metacritic": "supreme-ruler-2020",
    "mobygames": "36711",
    "pcgamingwiki": "Supreme_Ruler_2020",
    "steam": "25910"
@@ -64,6 +66,7 @@
   "ids": {
    "howlongtobeat": "1123",
    "igdb": "blades-of-steel",
+   "metacritic": "blades-of-steel",
    "mobygames": "7223",
    "pcgamingwiki": "Blades_of_Steel_(2010)"
   },
@@ -107,7 +110,8 @@
  },
  {
   "ids": {
-   "igdb": "mario-and-luigi-bowsers-inside-story-plus-bowser-jr-dot-s-journey"
+   "igdb": "mario-and-luigi-bowsers-inside-story-plus-bowser-jr-dot-s-journey",
+   "metacritic": "mario-luigi-bowsers-inside-story"
   },
   "label_en": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
   "wikidata": "Q3851703"
@@ -173,7 +177,8 @@
   "enwiki": "When Vikings Attack!",
   "ids": {
    "howlongtobeat": "11135",
-   "igdb": "when-vikings-attack"
+   "igdb": "when-vikings-attack",
+   "metacritic": "when-vikings-attack"
   },
   "label_en": "When Vikings Attack!",
   "wikidata": "Q16267703"
@@ -183,6 +188,7 @@
   "ids": {
    "howlongtobeat": "31583",
    "igdb": "cibele",
+   "metacritic": "cibele",
    "mobygames": "79855",
    "pcgamingwiki": "Cibele",
    "steam": "408120"
@@ -206,6 +212,7 @@
   "ids": {
    "howlongtobeat": "70178",
    "igdb": "super-kirby-clash",
+   "metacritic": "super-kirby-clash",
    "mobygames": "134266"
   },
   "label_en": "Super Kirby Clash",
@@ -220,7 +227,8 @@
   "enwiki": "Abandoned (video game)",
   "ids": {
    "howlongtobeat": "90812",
-   "igdb": "abandoned--1"
+   "igdb": "abandoned--1",
+   "metacritic": "abandoned"
   },
   "label_en": "Abandoned",
   "wikidata": "Q106418703"
@@ -243,6 +251,7 @@
   "ids": {
    "howlongtobeat": "46490",
    "igdb": "backyard-soccer-2004",
+   "metacritic": "backyard-soccer-2004",
    "mobygames": "63165"
   },
   "label_en": "Backyard Soccer 2004",
@@ -311,6 +320,7 @@
   "ids": {
    "howlongtobeat": "49525",
    "igdb": "trivia-vault-mini-mixed-trivia-4",
+   "metacritic": "trivia-vault-mini-mixed-trivia-4",
    "mobygames": "213825",
    "pcgamingwiki": "Trivia_Vault:_Mini_Mixed_Trivia_4",
    "steam": "710120"
@@ -703,6 +713,7 @@
   "ids": {
    "howlongtobeat": "39641",
    "igdb": "death-by-game-show",
+   "metacritic": "death-by-game-show",
    "mobygames": "150499",
    "pcgamingwiki": "Death_by_Game_Show",
    "steam": "409730"
@@ -725,6 +736,7 @@
   "ids": {
    "howlongtobeat": "50731",
    "igdb": "hollow",
+   "metacritic": "hollow-2017",
    "mobygames": "98380",
    "pcgamingwiki": "Hollow",
    "steam": "590970"
@@ -815,6 +827,9 @@
   "wikidata": "Q126697703"
  },
  {
+  "ids": {
+   "metacritic": "chickip-dancers-norinori-dance-de-kokoro-mo-odoru"
+  },
   "label_en": "Chickip Dancers: Norinori Dance de Kokoro mo Odoru",
   "wikidata": "Q131143703"
  },
@@ -1146,6 +1161,7 @@
   "enwiki": "Agreeee",
   "ids": {
    "igdb": "agreeee",
+   "pcgamingwiki": "Agreeee",
    "steam": "3757210"
   },
   "label_en": "Agreeee",

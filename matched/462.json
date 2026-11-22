@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "474",
    "igdb": "animal-crossing-new-leaf",
+   "metacritic": "animal-crossing-new-leaf",
    "mobygames": "58784"
   },
   "label_en": "Animal Crossing: New Leaf",
@@ -59,6 +60,7 @@
   "ids": {
    "howlongtobeat": "6922",
    "igdb": "parappa-the-rapper",
+   "metacritic": "parappa-the-rapper",
    "mobygames": "3525"
   },
   "label_en": "PaRappa the Rapper",
@@ -69,6 +71,7 @@
   "ids": {
    "howlongtobeat": "10071",
    "igdb": "the-lord-of-the-rings-war-in-the-north",
+   "metacritic": "the-lord-of-the-rings-war-in-the-north",
    "mobygames": "55745",
    "pcgamingwiki": "The_Lord_of_the_Rings:_War_in_the_North",
    "steam": "32800"
@@ -100,6 +103,7 @@
    "gog": "game/civcity_rome",
    "howlongtobeat": "1729",
    "igdb": "civcity-rome",
+   "metacritic": "civcity-rome",
    "mobygames": "25193",
    "pcgamingwiki": "CivCity:_Rome",
    "steam": "3980"
@@ -130,6 +134,7 @@
   "ids": {
    "howlongtobeat": "5849",
    "igdb": "mega-man-x6",
+   "metacritic": "mega-man-x6",
    "mobygames": "5447",
    "pcgamingwiki": "Mega_Man_X6"
   },
@@ -141,6 +146,7 @@
   "ids": {
    "howlongtobeat": "4101",
    "igdb": "greed-corp",
+   "metacritic": "greed-corp",
    "mobygames": "46229",
    "pcgamingwiki": "Greed_Corp",
    "steam": "48950"
@@ -152,6 +158,7 @@
   "enwiki": "80 Days (2005 video game)",
   "ids": {
    "igdb": "80-days--1",
+   "metacritic": "80-days-2005",
    "mobygames": "19715"
   },
   "label_en": "80 Days",
@@ -176,6 +183,7 @@
    "gog": "game/captain_blood",
    "howlongtobeat": "91645",
    "igdb": "captain-blood--2",
+   "metacritic": "captain-blood",
    "mobygames": "241612",
    "pcgamingwiki": "Captain_Blood_(Seawolf_Studio)",
    "steam": "3040220"
@@ -187,6 +195,7 @@
   "enwiki": "Moon Diver",
   "ids": {
    "igdb": "moon-diver",
+   "metacritic": "moon-diver",
    "mobygames": "87041"
   },
   "label_en": "Moon Diver",
@@ -197,6 +206,7 @@
   "ids": {
    "howlongtobeat": "6414",
    "igdb": "nascar-09",
+   "metacritic": "nascar-09",
    "mobygames": "36182"
   },
   "label_en": "NASCAR 09",
@@ -228,6 +238,7 @@
   "ids": {
    "howlongtobeat": "13560",
    "igdb": "rain",
+   "metacritic": "rain",
    "mobygames": "72915"
   },
   "label_en": "Rain",
@@ -238,6 +249,7 @@
   "ids": {
    "howlongtobeat": "9530",
    "igdb": "symphony",
+   "metacritic": "symphony",
    "mobygames": "66053",
    "pcgamingwiki": "Symphony",
    "steam": "207750"
@@ -279,6 +291,7 @@
   "ids": {
    "howlongtobeat": "21604",
    "igdb": "basement-crawl",
+   "metacritic": "basement-crawl",
    "mobygames": "64187"
   },
   "label_en": "Basement Crawl",
@@ -326,6 +339,7 @@
   "ids": {
    "howlongtobeat": "60834",
    "igdb": "razed",
+   "metacritic": "razed",
    "mobygames": "113630",
    "pcgamingwiki": "Razed",
    "steam": "726710"
@@ -347,6 +361,7 @@
    "gog": "game/bounty_train",
    "howlongtobeat": "33684",
    "igdb": "bounty-train",
+   "metacritic": "bounty-train",
    "mobygames": "88740",
    "pcgamingwiki": "Bounty_Train",
    "steam": "371520"
@@ -361,7 +376,8 @@
  {
   "ids": {
    "howlongtobeat": "126121",
-   "igdb": "kakenuke-forward-to-our-sparking-youth"
+   "igdb": "kakenuke-forward-to-our-sparking-youth",
+   "metacritic": "kakenuke-seishun-sparking"
   },
   "label_en": "Kakenuke★Seishun Sparking!",
   "wikidata": "Q109366462"
@@ -426,6 +442,7 @@
    "gog": "game/outbuddies",
    "howlongtobeat": "71320",
    "igdb": "outbuddies-dx",
+   "metacritic": "outbuddies",
    "mobygames": "138315",
    "pcgamingwiki": "Outbuddies",
    "steam": "1083310"
@@ -474,6 +491,7 @@
  {
   "ids": {
    "igdb": "fate-of-the-world-tipping-point",
+   "metacritic": "fate-of-the-world",
    "mobygames": "55657",
    "steam": "901776"
   },
@@ -562,6 +580,7 @@
   "ids": {
    "howlongtobeat": "74543",
    "igdb": "arcas-path",
+   "metacritic": "arcas-path-vr",
    "mobygames": "120454",
    "pcgamingwiki": "Arca's_Path_VR",
    "steam": "842120"
@@ -669,6 +688,7 @@
   "ids": {
    "howlongtobeat": "5582",
    "igdb": "major-mayhem",
+   "metacritic": "major-mayhem",
    "mobygames": "68783",
    "pcgamingwiki": "Major_Mayhem",
    "steam": "264340"
@@ -806,6 +826,7 @@
    "gog": "game/headquarters_world_war_ii",
    "howlongtobeat": "126814",
    "igdb": "headquarters-world-war-ii",
+   "metacritic": "headquarters-world-war-ii",
    "mobygames": "221681",
    "steam": "1840800"
   },
@@ -1170,5 +1191,8 @@
   },
   "label_en": "Hygrim",
   "wikidata": "Q141481462"
+ },
+ {
+  "wikidata": "Q142204462"
  }
 ]

@@ -42,6 +42,7 @@
   "ids": {
    "howlongtobeat": "3489",
    "igdb": "final-fantasy-crystal-chronicles-the-crystal-bearers",
+   "metacritic": "final-fantasy-crystal-chronicles-the-crystal-bear",
    "mobygames": "44602"
   },
   "label_en": "Final Fantasy Crystal Chronicles: The Crystal Bearers",
@@ -79,6 +80,7 @@
   "ids": {
    "howlongtobeat": "7390",
    "igdb": "punch-out--2",
+   "metacritic": "punch-out-2009",
    "mobygames": "41524"
   },
   "label_en": "Punch-Out!!",
@@ -140,6 +142,7 @@
   "ids": {
    "howlongtobeat": "1797",
    "igdb": "cold-winter",
+   "metacritic": "cold-winter",
    "mobygames": "17751"
   },
   "label_en": "Cold Winter",
@@ -219,6 +222,7 @@
   "ids": {
    "howlongtobeat": "19523",
    "igdb": "transformers-rise-of-the-dark-spark--1",
+   "metacritic": "transformers-rise-of-the-dark-spark",
    "mobygames": "71622",
    "pcgamingwiki": "Transformers:_Rise_of_the_Dark_Spark",
    "steam": "245760"
@@ -236,7 +240,8 @@
  },
  {
   "ids": {
-   "igdb": "my-baby-pet-hotel-3d"
+   "igdb": "my-baby-pet-hotel-3d",
+   "metacritic": "my-baby-pet-hotel-3d"
   },
   "label_en": "My Baby Pet Hotel 3D",
   "wikidata": "Q52153421"
@@ -247,6 +252,7 @@
    "gog": "game/reigns_game_of_thrones",
    "howlongtobeat": "61971",
    "igdb": "reigns-game-of-thrones",
+   "metacritic": "reigns-game-of-thrones",
    "mobygames": "116066",
    "pcgamingwiki": "Reigns:_Game_of_Thrones",
    "steam": "897820"
@@ -258,6 +264,7 @@
   "ids": {
    "howlongtobeat": "92862",
    "igdb": "the-wild-age",
+   "metacritic": "the-wild-age",
    "mobygames": "205904",
    "pcgamingwiki": "The_Wild_Age",
    "steam": "732160"
@@ -299,6 +306,7 @@
    "epic": "marvels-spider-man-remastered",
    "howlongtobeat": "70093",
    "igdb": "marvels-spider-man-remastered",
+   "metacritic": "marvels-spider-man-remastered",
    "mobygames": "136147",
    "pcgamingwiki": "Marvel's_Spider-Man_Remastered",
    "steam": "1817070"
@@ -343,6 +351,7 @@
    "gog": "game/relicta",
    "howlongtobeat": "75672",
    "igdb": "relicta",
+   "metacritic": "relicta",
    "mobygames": "148966",
    "pcgamingwiki": "Relicta",
    "steam": "941570"
@@ -359,6 +368,7 @@
   "ids": {
    "howlongtobeat": "99756",
    "igdb": "pikmin-bloom",
+   "metacritic": "pikmin-bloom",
    "mobygames": "174515"
   },
   "label_en": "Pikmin Bloom",
@@ -441,6 +451,7 @@
   "ids": {
    "howlongtobeat": "112914",
    "igdb": "the-fridge-is-red",
+   "metacritic": "the-fridge-is-red",
    "mobygames": "191893",
    "steam": "1532460"
   },
@@ -602,6 +613,7 @@
   "ids": {
    "howlongtobeat": "126717",
    "igdb": "river-tails-stronger-together",
+   "metacritic": "river-tails-stronger-together",
    "mobygames": "200601",
    "pcgamingwiki": "River_Tails:_Stronger_Together",
    "steam": "1851610"

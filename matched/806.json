@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4376",
    "igdb": "heavy-metal-fakk-2",
+   "metacritic": "heavy-metal-f-a-k-k-2",
    "mobygames": "2187",
    "pcgamingwiki": "Heavy_Metal:_F.A.K.K.²"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "7725",
    "igdb": "resident-evil-6",
+   "metacritic": "resident-evil-6",
    "mobygames": "58397",
    "pcgamingwiki": "Resident_Evil_6",
    "steam": "221040"
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "5009",
    "igdb": "king-arthur-the-role-playing-wargame",
+   "metacritic": "king-arthur-the-role-playing-wargame",
    "mobygames": "46725",
    "pcgamingwiki": "King_Arthur:_The_Role-Playing_Wargame",
    "steam": "24400"
@@ -48,6 +51,7 @@
   "ids": {
    "howlongtobeat": "9778",
    "igdb": "the-beatles-rock-band",
+   "metacritic": "the-beatles-rock-band",
    "mobygames": "42472"
   },
   "label_en": "The Beatles: Rock Band",
@@ -83,6 +87,7 @@
   "ids": {
    "howlongtobeat": "17121",
    "igdb": "n2o-nitrous-oxide",
+   "metacritic": "n2o-nitrous-oxide",
    "mobygames": "10050",
    "pcgamingwiki": "N2O:_Nitrous_Oxide",
    "steam": "364840"
@@ -96,6 +101,7 @@
    "gog": "game/soulbringer",
    "howlongtobeat": "8820",
    "igdb": "soulbringer",
+   "metacritic": "soulbringer",
    "mobygames": "3095",
    "pcgamingwiki": "Soulbringer",
    "steam": "283310"
@@ -120,6 +126,7 @@
   "ids": {
    "howlongtobeat": "3569",
    "igdb": "firefighter-f-dot-d-18",
+   "metacritic": "firefighter-f-d-18",
    "mobygames": "20204"
   },
   "label_en": "Firefighter F.D.18",
@@ -138,6 +145,7 @@
   "enwiki": "Monster Rancher 3",
   "ids": {
    "igdb": "monster-rancher-3",
+   "metacritic": "monster-rancher-3",
    "mobygames": "5159"
   },
   "label_en": "Monster Rancher 3",
@@ -148,6 +156,7 @@
   "ids": {
    "howlongtobeat": "23132",
    "igdb": "mystery-case-files-dire-grove",
+   "metacritic": "mystery-case-files-dire-grove",
    "mobygames": "44294"
   },
   "label_en": "Mystery Case Files: Dire Grove",
@@ -157,6 +166,7 @@
   "enwiki": "Rune Factory: Tides of Destiny",
   "ids": {
    "igdb": "rune-factory-tides-of-destiny",
+   "metacritic": "rune-factory-tides-of-destiny",
    "mobygames": "58164"
   },
   "label_en": "Rune Factory: Tides of Destiny",
@@ -202,6 +212,7 @@
    "gog": "game/space_hulk_deathwing_enhanced_edition",
    "howlongtobeat": "21722",
    "igdb": "space-hulk-deathwing",
+   "metacritic": "space-hulk-deathwing",
    "mobygames": "83375",
    "pcgamingwiki": "Space_Hulk:_Deathwing",
    "steam": "298900"
@@ -214,6 +225,7 @@
   "ids": {
    "howlongtobeat": "5225",
    "igdb": "legend-of-dungeon",
+   "metacritic": "legend-of-dungeon",
    "mobygames": "64998",
    "pcgamingwiki": "Legend_of_Dungeon",
    "steam": "238280"
@@ -226,6 +238,7 @@
   "ids": {
    "howlongtobeat": "39959",
    "igdb": "psycho-pass-mandatory-happiness",
+   "metacritic": "psycho-pass-mandatory-happiness",
    "mobygames": "87457",
    "pcgamingwiki": "Psycho-Pass:_Mandatory_Happiness",
    "steam": "522880"
@@ -261,6 +274,7 @@
    "gog": "game/deliver_us_the_moon",
    "howlongtobeat": "71372",
    "igdb": "deliver-us-the-moon",
+   "metacritic": "deliver-us-the-moon-fortuna",
    "mobygames": "119311",
    "pcgamingwiki": "Deliver_Us_The_Moon",
    "steam": "428660"
@@ -272,6 +286,7 @@
   "ids": {
    "howlongtobeat": "34783",
    "igdb": "slow-down-bull",
+   "metacritic": "slow-down-bull",
    "pcgamingwiki": "Slow_Down,_Bull",
    "steam": "333580"
   },
@@ -296,6 +311,7 @@
    "gog": "game/lovecrafts_untold_stories",
    "howlongtobeat": "59847",
    "igdb": "lovecrafts-untold-stories",
+   "metacritic": "lovecrafts-untold-stories",
    "mobygames": "126561",
    "pcgamingwiki": "Lovecraft's_Untold_Stories",
    "steam": "871420"
@@ -345,6 +361,7 @@
   "ids": {
    "howlongtobeat": "94235",
    "igdb": "potionomics",
+   "metacritic": "potionomics",
    "mobygames": "193528",
    "pcgamingwiki": "Potionomics",
    "steam": "1874490"
@@ -414,6 +431,9 @@
  },
  {
   "enwiki": "Paper Titans",
+  "ids": {
+   "metacritic": "paper-titans"
+  },
   "label_en": "Paper Titans",
   "wikidata": "Q119505806"
  },
@@ -731,6 +751,7 @@
   "ids": {
    "howlongtobeat": "27933",
    "igdb": "coconut-queen",
+   "metacritic": "coconut-queen",
    "mobygames": "42373",
    "pcgamingwiki": "Coconut_Queen",
    "steam": "38070"
@@ -1211,6 +1232,7 @@
    "epic": "brokenlore-dont-lie-a2c0a3",
    "howlongtobeat": "175189",
    "igdb": "brokenlore-dont-lie",
+   "metacritic": "brokenlore-dont-lie",
    "pcgamingwiki": "BrokenLore:_Don't_Lie",
    "steam": "3886200"
   },

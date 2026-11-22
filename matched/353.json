@@ -20,6 +20,7 @@
   "enwiki": "Lost in Shadow",
   "ids": {
    "igdb": "lost-in-shadow",
+   "metacritic": "lost-in-shadow",
    "mobygames": "48791"
   },
   "label_en": "Lost in Shadow",
@@ -30,6 +31,7 @@
   "ids": {
    "howlongtobeat": "12601",
    "igdb": "dracula-3-the-path-of-the-dragon",
+   "metacritic": "dracula-3-path-of-the-dragon",
    "mobygames": "34063",
    "pcgamingwiki": "Dracula_3:_The_Path_of_the_Dragon",
    "steam": "289840"
@@ -42,6 +44,7 @@
   "ids": {
    "howlongtobeat": "9925",
    "igdb": "the-hobbit",
+   "metacritic": "the-hobbit",
    "mobygames": "11289",
    "pcgamingwiki": "The_Hobbit_(2003)"
   },
@@ -54,6 +57,7 @@
    "gog": "game/mount_blade_warband",
    "howlongtobeat": "6240",
    "igdb": "mount-blade-warband",
+   "metacritic": "mount-blade-warband",
    "mobygames": "46152",
    "pcgamingwiki": "Mount_&_Blade:_Warband",
    "steam": "48700"
@@ -83,6 +87,7 @@
   "ids": {
    "howlongtobeat": "14674",
    "igdb": "nancy-drew-shadow-at-the-waters-edge",
+   "metacritic": "nancy-drew-shadow-at-the-waters-edge",
    "mobygames": "49300",
    "pcgamingwiki": "Nancy_Drew:_Shadow_at_the_Water's_Edge",
    "steam": "200080"
@@ -152,6 +157,7 @@
    "gog": "game/soma",
    "howlongtobeat": "22549",
    "igdb": "soma",
+   "metacritic": "soma",
    "mobygames": "75509",
    "pcgamingwiki": "SOMA",
    "steam": "282140"
@@ -220,6 +226,7 @@
   "ids": {
    "howlongtobeat": "21832",
    "igdb": "red-johnsons-chronicles",
+   "metacritic": "red-johnsons-chronicles",
    "mobygames": "57121"
   },
   "label_en": "Red Johnson's Chronicles",
@@ -231,6 +238,7 @@
    "gog": "game/eliza",
    "howlongtobeat": "58748",
    "igdb": "eliza",
+   "metacritic": "eliza",
    "mobygames": "131436",
    "pcgamingwiki": "Eliza",
    "steam": "716500"
@@ -251,6 +259,7 @@
    "epic": "unrailed-e19729",
    "howlongtobeat": "73803",
    "igdb": "unrailed",
+   "metacritic": "unrailed",
    "mobygames": "150532",
    "pcgamingwiki": "Unrailed!",
    "steam": "1016920"
@@ -301,6 +310,7 @@
   "ids": {
    "howlongtobeat": "95812",
    "igdb": "100-hidden-cats-2",
+   "metacritic": "100-hidden-cats-2",
    "mobygames": "168752",
    "steam": "1679320"
   },
@@ -311,6 +321,7 @@
   "ids": {
    "howlongtobeat": "129072",
    "igdb": "aladdin-hidden-objects-game",
+   "metacritic": "aladdin-hidden-objects-game",
    "steam": "1258480"
   },
   "label_en": "Aladdin",
@@ -370,6 +381,7 @@
   "ids": {
    "howlongtobeat": "121532",
    "igdb": "bring-it-on",
+   "metacritic": "bring-it-on",
    "steam": "2020460"
   },
   "label_en": "Bring It On!",
@@ -396,10 +408,16 @@
   "wikidata": "Q116038353"
  },
  {
+  "ids": {
+   "metacritic": "fly-together"
+  },
   "label_en": "Fly Together!",
   "wikidata": "Q116202353"
  },
  {
+  "ids": {
+   "metacritic": "rfs-real-flight-simulator"
+  },
   "label_en": "Real Flight Simulator",
   "wikidata": "Q117830353"
  },
@@ -549,6 +567,7 @@
    "epic": "trolley-problem-inc-c1f368",
    "howlongtobeat": "106989",
    "igdb": "trolley-problem-inc",
+   "metacritic": "trolley-problem-inc",
    "mobygames": "189337",
    "pcgamingwiki": "Trolley_Problem,_Inc.",
    "steam": "1582680"
@@ -599,6 +618,7 @@
   "ids": {
    "howlongtobeat": "27055",
    "igdb": "sky-force-reloaded",
+   "metacritic": "sky-force-reloaded",
    "mobygames": "93175",
    "pcgamingwiki": "Sky_Force_Reloaded",
    "steam": "667600"
@@ -888,6 +908,7 @@
   "ids": {
    "howlongtobeat": "144254",
    "igdb": "enatus-radi",
+   "metacritic": "enatus-radi",
    "mobygames": "204261",
    "steam": "1987220"
   },
@@ -1138,6 +1159,7 @@
  {
   "ids": {
    "igdb": "hentai-shooter-3d-christmas-party",
+   "pcgamingwiki": "Hentai_Shooter_3D:_Christmas_Party",
    "steam": "975240"
   },
   "label_en": "Hentai Shooter 3D: Christmas Party",

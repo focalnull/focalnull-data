@@ -17,6 +17,7 @@
   "ids": {
    "howlongtobeat": "1466",
    "igdb": "call-of-duty-2-big-red-one",
+   "metacritic": "call-of-duty-2-big-red-one",
    "mobygames": "21658"
   },
   "label_en": "Call of Duty 2: Big Red One",
@@ -28,6 +29,7 @@
    "gog": "game/the_legend_of_heroes_trails_in_the_sky",
    "howlongtobeat": "10011",
    "igdb": "the-legend-of-heroes-trails-in-the-sky",
+   "metacritic": "the-legend-of-heroes-trails-in-the-sky",
    "mobygames": "15950",
    "pcgamingwiki": "The_Legend_of_Heroes:_Trails_in_the_Sky",
    "steam": "251150"
@@ -40,6 +42,7 @@
   "ids": {
    "howlongtobeat": "9387",
    "igdb": "super-mario-world",
+   "metacritic": "super-mario-world",
    "mobygames": "6591",
    "pcgamingwiki": "Super_Mario_World"
   },
@@ -58,6 +61,7 @@
   "ids": {
    "howlongtobeat": "467",
    "igdb": "angry-birds-rio",
+   "metacritic": "angry-birds-rio",
    "mobygames": "53018",
    "pcgamingwiki": "Angry_Birds_Rio"
   },
@@ -86,6 +90,7 @@
   "enwiki": "World Series of Poker 2008: Battle for the Bracelets",
   "ids": {
    "igdb": "world-series-of-poker-2008-battle-for-the-bracelets",
+   "metacritic": "world-series-of-poker-2008-battle-for-the-bracele",
    "mobygames": "33313"
   },
   "label_en": "World Series of Poker 2008: Battle for the Bracelets",
@@ -113,6 +118,7 @@
   "enwiki": "Wipeout 64",
   "ids": {
    "igdb": "wipeout-64",
+   "metacritic": "wipeout-64",
    "mobygames": "9760"
   },
   "label_en": "Wipeout 64",
@@ -130,6 +136,7 @@
   "ids": {
    "howlongtobeat": "6396",
    "igdb": "naruto-clash-of-ninja-revolution",
+   "metacritic": "naruto-clash-of-ninja-revolution",
    "mobygames": "83038"
   },
   "label_en": "Naruto: Clash of Ninja Revolution",
@@ -139,6 +146,7 @@
   "enwiki": "Space Bust-a-Move",
   "ids": {
    "igdb": "space-bust-a-move",
+   "metacritic": "space-bust-a-move",
    "mobygames": "42919"
   },
   "label_en": "Space Bust-a-Move",
@@ -148,6 +156,7 @@
   "enwiki": "The Outfit (video game)",
   "ids": {
    "igdb": "the-outfit",
+   "metacritic": "the-outfit",
    "mobygames": "21650"
   },
   "label_en": "The Outfit",
@@ -197,6 +206,7 @@
   "enwiki": "Eco Shooter: Plant 530",
   "ids": {
    "igdb": "eco-shooter-plant-530",
+   "metacritic": "eco-shooter-plant-530",
    "mobygames": "90971"
   },
   "label_en": "Eco Shooter: Plant 530",
@@ -294,6 +304,7 @@
    "gog": "game/stardrive",
    "howlongtobeat": "9158",
    "igdb": "stardrive--1",
+   "metacritic": "stardrive",
    "mobygames": "65775",
    "pcgamingwiki": "StarDrive",
    "steam": "220660"
@@ -314,6 +325,7 @@
   "ids": {
    "howlongtobeat": "72903",
    "igdb": "steins-gate-my-darlings-embrace",
+   "metacritic": "steinsgate-my-darlings-embrace",
    "mobygames": "104036",
    "pcgamingwiki": "Steins;Gate:_My_Darling's_Embrace",
    "steam": "970560"
@@ -348,6 +360,7 @@
    "epic": "little-orpheus-bdd666",
    "howlongtobeat": "79845",
    "igdb": "little-orpheus",
+   "metacritic": "little-orpheus",
    "mobygames": "146724",
    "pcgamingwiki": "Little_Orpheus",
    "steam": "1558930"
@@ -359,6 +372,7 @@
   "ids": {
    "howlongtobeat": "52454",
    "igdb": "psychedelica-of-the-ashen-hawk",
+   "metacritic": "psychedelica-of-the-ashen-hawk",
    "mobygames": "110811",
    "pcgamingwiki": "Psychedelica_of_the_Ashen_Hawk",
    "steam": "865830"
@@ -383,6 +397,7 @@
   "ids": {
    "howlongtobeat": "90192",
    "igdb": "retromania-wrestling",
+   "metacritic": "retromania-wrestling",
    "mobygames": "159698",
    "pcgamingwiki": "RetroMania_Wrestling",
    "steam": "1252300"
@@ -396,6 +411,7 @@
    "epic": "totally-reliable-delivery-service",
    "howlongtobeat": "69333",
    "igdb": "totally-reliable-delivery-service",
+   "metacritic": "totally-reliable-delivery-service",
    "mobygames": "143969",
    "pcgamingwiki": "Totally_Reliable_Delivery_Service",
    "steam": "1011670"
@@ -423,6 +439,7 @@
   "ids": {
    "howlongtobeat": "91398",
    "igdb": "deiland-pocket-planet",
+   "metacritic": "deiland-pocket-planet-edition",
    "mobygames": "211512",
    "pcgamingwiki": "Deiland:_Pocket_Planet",
    "steam": "1623700"
@@ -434,6 +451,7 @@
   "ids": {
    "howlongtobeat": "57257",
    "igdb": "re-turn-one-way-trip",
+   "metacritic": "return-one-way-trip",
    "mobygames": "151506",
    "steam": "1195360"
   },
@@ -445,6 +463,7 @@
    "epic": "princess-farmer-bd4c4e",
    "howlongtobeat": "84031",
    "igdb": "princess-farmer",
+   "metacritic": "princess-farmer",
    "mobygames": "183148",
    "pcgamingwiki": "Princess_Farmer",
    "steam": "1320490"
@@ -527,6 +546,7 @@
    "gog": "game/trifox",
    "howlongtobeat": "95143",
    "igdb": "trifox",
+   "metacritic": "trifox",
    "mobygames": "193483",
    "pcgamingwiki": "Trifox",
    "steam": "1211240"
@@ -550,6 +570,7 @@
   "ids": {
    "howlongtobeat": "139631",
    "igdb": "ark-survival-ascended",
+   "metacritic": "ark-survival-ascended",
    "mobygames": "210888",
    "pcgamingwiki": "ARK:_Survival_Ascended",
    "steam": "2399830"
@@ -762,6 +783,7 @@
   "ids": {
    "howlongtobeat": "28845",
    "igdb": "football-genius-the-ultimate-quiz",
+   "metacritic": "football-genius-the-ultimate-quiz",
    "mobygames": "47643"
   },
   "label_en": "Football Genius: The Ultimate Quiz",
@@ -876,6 +898,7 @@
   "ids": {
    "howlongtobeat": "151312",
    "igdb": "alien-rogue-incursion",
+   "metacritic": "alien-rogue-incursion",
    "pcgamingwiki": "Alien:_Rogue_Incursion",
    "steam": "1850050"
   },
@@ -1239,6 +1262,7 @@
  {
   "ids": {
    "igdb": "a-demons-game-episode-1",
+   "pcgamingwiki": "A_Demon's_Game_-_Episode_1",
    "steam": "569430"
   },
   "label_en": "A Demon's Game - Episode 1",

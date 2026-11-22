@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "33168",
    "igdb": "dragon-saga",
+   "metacritic": "dragon-saga",
    "mobygames": "236121",
    "pcgamingwiki": "Dragon_Saga",
    "steam": "381990"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "3528",
    "igdb": "final-fantasy-xi-online",
+   "metacritic": "final-fantasy-xi-a-shantotto-ascension",
    "mobygames": "6663",
    "pcgamingwiki": "Final_Fantasy_XI",
    "steam": "230330"
@@ -48,6 +50,7 @@
    "gog": "game/thrillville_off_the_rails",
    "howlongtobeat": "10315",
    "igdb": "thrillville-off-the-rails",
+   "metacritic": "thrillville-off-the-rails",
    "mobygames": "31527",
    "pcgamingwiki": "Thrillville:_Off_the_Rails",
    "steam": "6080"
@@ -60,6 +63,7 @@
   "ids": {
    "howlongtobeat": "6150",
    "igdb": "monster-hunter-freedom-2",
+   "metacritic": "monster-hunter-freedom-2",
    "mobygames": "32291"
   },
   "label_en": "Monster Hunter Freedom 2",
@@ -80,7 +84,8 @@
   "enwiki": "Islands of Wakfu",
   "ids": {
    "howlongtobeat": "14830",
-   "igdb": "islands-of-wakfu"
+   "igdb": "islands-of-wakfu",
+   "metacritic": "islands-of-wakfu"
   },
   "label_en": "Islands of Wakfu",
   "wikidata": "Q3155394"
@@ -129,6 +134,7 @@
   "ids": {
    "howlongtobeat": "19590",
    "igdb": "wings-over-europe-cold-war-gone-hot",
+   "metacritic": "wings-over-europe-cold-war-gone-hot",
    "mobygames": "33293",
    "pcgamingwiki": "Wings_over_Europe",
    "steam": "281580"
@@ -177,6 +183,7 @@
   "enwiki": "Splashdown: Rides Gone Wild",
   "ids": {
    "igdb": "splashdown-rides-gone-wild",
+   "metacritic": "splashdown-rides-gone-wild",
    "mobygames": "37689"
   },
   "label_en": "Splashdown: Rides Gone Wild",
@@ -261,6 +268,7 @@
   "ids": {
    "howlongtobeat": "33180",
    "igdb": "aviary-attorney",
+   "metacritic": "aviary-attorney",
    "mobygames": "80698",
    "pcgamingwiki": "Aviary_Attorney",
    "steam": "384630"
@@ -309,6 +317,7 @@
   "ids": {
    "howlongtobeat": "68894",
    "igdb": "harry-potter-wizards-unite",
+   "metacritic": "harry-potter-wizards-unite",
    "mobygames": "128794"
   },
   "label_en": "Harry Potter: Wizards Unite",
@@ -354,6 +363,7 @@
   "ids": {
    "howlongtobeat": "92860",
    "igdb": "maskmaker",
+   "metacritic": "maskmaker",
    "mobygames": "175848",
    "pcgamingwiki": "Maskmaker",
    "steam": "1337530"
@@ -366,6 +376,7 @@
   "ids": {
    "howlongtobeat": "77730",
    "igdb": "gnosia",
+   "metacritic": "gnosia",
    "mobygames": "134716",
    "pcgamingwiki": "Gnosia",
    "steam": "1608290"
@@ -453,6 +464,7 @@
   "ids": {
    "howlongtobeat": "109853",
    "igdb": "pac-man-world-re-pac",
+   "metacritic": "pac-man-world-re-pac",
    "mobygames": "190373",
    "pcgamingwiki": "Pac-Man_World_Re-Pac",
    "steam": "1859470"
@@ -906,7 +918,8 @@
  },
  {
   "ids": {
-   "igdb": "shattered-skies"
+   "igdb": "shattered-skies",
+   "metacritic": "shattered-skies"
   },
   "label_en": "Shattered Skies",
   "wikidata": "Q130720394"
@@ -1272,6 +1285,7 @@
  {
   "ids": {
    "igdb": "back-from-the-other-world-i-missed-love",
+   "pcgamingwiki": "Back_From_The_Other_World,_I_Missed_Love.",
    "steam": "2998600"
   },
   "label_en": "Back from the other world, I missed love.",
@@ -1314,6 +1328,7 @@
  {
   "ids": {
    "igdb": "math-path",
+   "pcgamingwiki": "Math_Path",
    "steam": "1211490"
   },
   "label_en": "Math Path",

@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "5238",
    "igdb": "legendary",
+   "metacritic": "legendary",
    "mobygames": "37757",
    "pcgamingwiki": "Legendary",
    "steam": "16730"
@@ -40,6 +41,7 @@
   "ids": {
    "howlongtobeat": "6427",
    "igdb": "nba-2k10",
+   "metacritic": "nba-2k10",
    "mobygames": "46302",
    "pcgamingwiki": "NBA_2K10",
    "steam": "40920"
@@ -71,6 +73,7 @@
   "enwiki": "Yu-Gi-Oh! World Championship 2007",
   "ids": {
    "igdb": "yu-gi-oh-world-championship-2007",
+   "metacritic": "yu-gi-oh-world-championship-2007",
    "mobygames": "32034"
   },
   "label_en": "Yu-Gi-Oh! World Championship 2007",
@@ -100,6 +103,7 @@
    "gog": "game/helldorado",
    "howlongtobeat": "4398",
    "igdb": "helldorado",
+   "metacritic": "helldorado",
    "mobygames": "28427",
    "pcgamingwiki": "Helldorado",
    "steam": "18470"
@@ -132,7 +136,8 @@
  {
   "enwiki": "Soulcalibur: Lost Swords",
   "ids": {
-   "igdb": "soulcalibur-lost-swords"
+   "igdb": "soulcalibur-lost-swords",
+   "metacritic": "soulcalibur-lost-swords"
   },
   "label_en": "Soulcalibur: Lost Swords",
   "wikidata": "Q15379058"
@@ -171,6 +176,7 @@
   "ids": {
    "howlongtobeat": "26283",
    "igdb": "severed",
+   "metacritic": "severed",
    "mobygames": "84473"
   },
   "label_en": "Severed",
@@ -190,6 +196,7 @@
    "epic": "session-skate-sim",
    "howlongtobeat": "70726",
    "igdb": "session-skate-sim",
+   "metacritic": "session",
    "mobygames": "134843",
    "pcgamingwiki": "Session",
    "steam": "861650"
@@ -211,6 +218,7 @@
   "ids": {
    "howlongtobeat": "68753",
    "igdb": "rad",
+   "metacritic": "rad",
    "mobygames": "133284",
    "pcgamingwiki": "Rad",
    "steam": "722560"
@@ -222,6 +230,7 @@
   "ids": {
    "howlongtobeat": "56208",
    "igdb": "aqua-moto-racing-utopia",
+   "metacritic": "aqua-moto-racing-utopia",
    "mobygames": "84615",
    "pcgamingwiki": "Aqua_Moto_Racing_Utopia",
    "steam": "468100"
@@ -248,6 +257,7 @@
   "ids": {
    "howlongtobeat": "98207",
    "igdb": "nba-2k22",
+   "metacritic": "nba-2k22",
    "mobygames": "171673",
    "pcgamingwiki": "NBA_2K22",
    "steam": "1644960"
@@ -272,6 +282,7 @@
   "ids": {
    "howlongtobeat": "71176",
    "igdb": "freedom-finger",
+   "metacritic": "freedom-finger",
    "mobygames": "135056",
    "pcgamingwiki": "Freedom_Finger",
    "steam": "1005410"
@@ -303,6 +314,7 @@
  {
   "ids": {
    "igdb": "warlander",
+   "metacritic": "warlander",
    "mobygames": "198517",
    "pcgamingwiki": "Warlander",
    "steam": "1054040"
@@ -315,6 +327,7 @@
    "gog": "game/sylphy_and_the_sleepless_island",
    "igdb": "sylphy-and-the-sleepless-island",
    "mobygames": "173866",
+   "pcgamingwiki": "Sylphy_and_the_Sleepless_Island",
    "steam": "1342040"
   },
   "label_en": "Sylphy and the Sleepless Island",
@@ -592,6 +605,7 @@
   "ids": {
    "howlongtobeat": "141849",
    "igdb": "the-first-berserker-khazan",
+   "metacritic": "the-first-berserker-khazan",
    "pcgamingwiki": "The_First_Berserker:_Khazan",
    "steam": "2680010"
   },
@@ -676,6 +690,7 @@
   "ids": {
    "howlongtobeat": "122112",
    "igdb": "percys-predicament",
+   "metacritic": "percys-predicament",
    "mobygames": "80851"
   },
   "label_en": "Percy's Predicament",
@@ -1016,6 +1031,7 @@
   "ids": {
    "gog": "game/spongebob_squarepants_titans_of_the_tide",
    "igdb": "spongebob-squarepants-titans-of-the-tide",
+   "metacritic": "spongebob-squarepants-titans-of-the-tide",
    "pcgamingwiki": "SpongeBob_SquarePants:_Titans_of_the_Tide",
    "steam": "2479650"
   },
@@ -1028,6 +1044,7 @@
    "gog": "game/war_chess",
    "howlongtobeat": "85510",
    "igdb": "war-chess",
+   "metacritic": "war-chess",
    "mobygames": "31199",
    "pcgamingwiki": "War_Chess"
   },

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "19796",
    "igdb": "rise-of-nations",
+   "metacritic": "rise-of-nations",
    "mobygames": "9227",
    "pcgamingwiki": "Rise_of_Nations",
    "steam": "287450"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "6535",
    "igdb": "new-super-mario-bros-2",
+   "metacritic": "new-super-mario-bros-2",
    "mobygames": "59159"
   },
   "label_en": "New Super Mario Bros. 2",
@@ -39,6 +41,7 @@
   "ids": {
    "howlongtobeat": "9634",
    "igdb": "team-fortress-classic",
+   "metacritic": "team-fortress-classic",
    "mobygames": "1793",
    "pcgamingwiki": "Team_Fortress_Classic",
    "steam": "20"
@@ -51,7 +54,9 @@
   "ids": {
    "howlongtobeat": "134212",
    "igdb": "breakneck--1",
+   "metacritic": "nice-2",
    "mobygames": "493",
+   "pcgamingwiki": "N.I.C.E._2",
    "steam": "853330"
   },
   "label_en": "N.I.C.E. 2",
@@ -62,6 +67,7 @@
   "ids": {
    "howlongtobeat": "3488",
    "igdb": "final-fantasy-crystal-chronicles-ring-of-fates",
+   "metacritic": "final-fantasy-crystal-chronicles-ring-of-fates",
    "mobygames": "33831"
   },
   "label_en": "Final Fantasy Crystal Chronicles: Ring of Fates",
@@ -71,6 +77,7 @@
   "enwiki": "Fight Club (video game)",
   "ids": {
    "igdb": "fight-club",
+   "metacritic": "fight-club",
    "mobygames": "16303"
   },
   "label_en": "Fight Club",
@@ -80,6 +87,7 @@
   "enwiki": "Goblin Commander: Unleash the Horde",
   "ids": {
    "igdb": "goblin-commander-unleash-the-horde",
+   "metacritic": "goblin-commander-unleash-the-horde",
    "mobygames": "11019"
   },
   "label_en": "Goblin Commander: Unleash the Horde",
@@ -160,6 +168,7 @@
   "ids": {
    "howlongtobeat": "55890",
    "igdb": "kingdom-under-fire-ii",
+   "metacritic": "kingdom-under-fire-ii",
    "pcgamingwiki": "Kingdom_Under_Fire_2"
   },
   "label_en": "Kingdom Under Fire II",
@@ -200,6 +209,7 @@
  {
   "ids": {
    "igdb": "nebulous",
+   "metacritic": "nebulous",
    "mobygames": "87289",
    "pcgamingwiki": "Nebulous",
    "steam": "370140"
@@ -213,6 +223,7 @@
    "gog": "game/serial_cleaner",
    "howlongtobeat": "40473",
    "igdb": "serial-cleaner",
+   "metacritic": "serial-cleaner",
    "mobygames": "92421",
    "pcgamingwiki": "Serial_Cleaner",
    "steam": "522210"
@@ -223,6 +234,7 @@
  {
   "ids": {
    "igdb": "zoo-resort-3d",
+   "metacritic": "zoo-resort-3d",
    "mobygames": "99284"
   },
   "label_en": "Zoo Resort 3D",
@@ -235,7 +247,8 @@
  {
   "enwiki": "BTS World",
   "ids": {
-   "igdb": "bts-world"
+   "igdb": "bts-world",
+   "metacritic": "bts-world"
   },
   "label_en": "BTS World",
   "wikidata": "Q65040621"
@@ -252,6 +265,7 @@
   "ids": {
    "howlongtobeat": "22388",
    "igdb": "bladestorm-nightmare",
+   "metacritic": "bladestorm-nightmare",
    "mobygames": "85475",
    "pcgamingwiki": "Bladestorm:_Nightmare",
    "steam": "350310"
@@ -263,6 +277,7 @@
   "ids": {
    "howlongtobeat": "39570",
    "igdb": "totally-unbalanced",
+   "metacritic": "totally-unbalanced",
    "mobygames": "207793",
    "pcgamingwiki": "Totally_Unbalanced",
    "steam": "487330"
@@ -408,6 +423,7 @@
   "ids": {
    "howlongtobeat": "143247",
    "igdb": "the-farmer-was-replaced",
+   "metacritic": "the-farmer-was-replaced",
    "mobygames": "248959",
    "steam": "2060160"
   },
@@ -768,6 +784,7 @@
    "epic": "bloodstained-the-scarlet-engagement-996008",
    "howlongtobeat": "169139",
    "igdb": "bloodstained-the-scarlet-engagement",
+   "metacritic": "bloodstained-the-scarlet-engagement",
    "pcgamingwiki": "Bloodstained:_The_Scarlet_Engagement",
    "steam": "1883810"
   },

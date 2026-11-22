@@ -34,6 +34,7 @@
   "enwiki": "Whac-A-Mole",
   "ids": {
    "igdb": "whac-a-mole--1",
+   "metacritic": "whac-a-mole",
    "mobygames": "25840"
   },
   "label_en": "Whac-A-Mole",
@@ -71,6 +72,7 @@
   "ids": {
    "howlongtobeat": "20132",
    "igdb": "bloodline-champions",
+   "metacritic": "bloodline-champions",
    "mobygames": "51361",
    "pcgamingwiki": "Bloodline_Champions",
    "steam": "6370"
@@ -82,6 +84,7 @@
   "enwiki": "Driver 2",
   "ids": {
    "igdb": "driver-2-back-on-the-streets",
+   "metacritic": "driver-2",
    "mobygames": "3578",
    "pcgamingwiki": "REDRIVER_2"
   },
@@ -92,6 +95,7 @@
   "enwiki": "Dragon Ball Z: Harukanaru Densetsu",
   "ids": {
    "igdb": "dragon-ball-z-harukanaru-densetsu",
+   "metacritic": "dragon-ball-z-harukanaru-densetsu",
    "mobygames": "33394"
   },
   "label_en": "Dragon Ball Z: Harukanaru Densetsu",
@@ -102,6 +106,7 @@
   "ids": {
    "howlongtobeat": "4081",
    "igdb": "gratuitous-space-battles",
+   "metacritic": "gratuitous-space-battles",
    "mobygames": "43676",
    "pcgamingwiki": "Gratuitous_Space_Battles",
    "steam": "41800"
@@ -164,6 +169,7 @@
   "enwiki": "Woody Woodpecker: Escape from Buzz Buzzard Park",
   "ids": {
    "igdb": "woody-woodpecker-escape-from-buzz-buzzard-park",
+   "metacritic": "woody-woodpecker-escape-from-buzz-buzzard-park",
    "mobygames": "24451",
    "pcgamingwiki": "Woody_Woodpecker:_Escape_from_Buzz_Buzzard_Park"
   },
@@ -211,6 +217,7 @@
   "ids": {
    "howlongtobeat": "34946",
    "igdb": "lego-ninjago-shadow-of-ronin",
+   "metacritic": "lego-ninjago-shadow-of-ronin",
    "mobygames": "81248"
   },
   "label_en": "Lego Ninjago: Shadow of Ronin",
@@ -245,6 +252,7 @@
   "ids": {
    "howlongtobeat": "10378",
    "igdb": "titan-attacks--1",
+   "metacritic": "titan-attacks",
    "mobygames": "34404",
    "pcgamingwiki": "Titan_Attacks!",
    "steam": "203210"
@@ -256,6 +264,7 @@
   "ids": {
    "howlongtobeat": "77915",
    "igdb": "twin-blue-moons",
+   "metacritic": "twin-blue-moons",
    "mobygames": "224933",
    "pcgamingwiki": "Twin_Blue_Moons",
    "steam": "800930"
@@ -267,6 +276,7 @@
   "enwiki": "Disney Twisted-Wonderland",
   "ids": {
    "igdb": "disney-twisted-wonderland",
+   "metacritic": "disney-twisted-wonderland",
    "mobygames": "143672"
   },
   "label_en": "Disney: Twisted-Wonderland",
@@ -278,6 +288,7 @@
    "epic": "sniper-ghost-warrior-contracts-2-ae83b6",
    "howlongtobeat": "93163",
    "igdb": "sniper-ghost-warrior-contracts-2",
+   "metacritic": "sniper-ghost-warrior-contracts-2",
    "mobygames": "165665",
    "pcgamingwiki": "Sniper:_Ghost_Warrior_Contracts_2",
    "steam": "1338770"
@@ -296,6 +307,7 @@
  {
   "ids": {
    "howlongtobeat": "121354",
+   "metacritic": "railway-girl-railway-to-dream",
    "steam": "1294060"
   },
   "label_en": "Railway Girl: Railway To Dream",
@@ -305,6 +317,7 @@
   "ids": {
    "howlongtobeat": "19807",
    "igdb": "ice-cream-surfer",
+   "metacritic": "ice-cream-surfer",
    "mobygames": "86629",
    "pcgamingwiki": "Ice_Cream_Surfer",
    "steam": "361560"
@@ -370,6 +383,7 @@
   "ids": {
    "howlongtobeat": "111883",
    "igdb": "tsuki-ni-yorisou-otome-no-sahou",
+   "pcgamingwiki": "Tsuki_ni_yorisou_otome_no_sahou",
    "steam": "1776970"
   },
   "label_en": "Tsuki ni Yorisou Otome no Sahou",
@@ -575,6 +589,7 @@
   "ids": {
    "howlongtobeat": "66995",
    "igdb": "audica",
+   "metacritic": "audica",
    "mobygames": "125578",
    "pcgamingwiki": "Audica",
    "steam": "1020340"
@@ -722,6 +737,7 @@
   "ids": {
    "howlongtobeat": "45298",
    "igdb": "a-rose-in-the-twilight",
+   "metacritic": "a-rose-in-the-twilight",
    "mobygames": "86748",
    "pcgamingwiki": "A_Rose_in_the_Twilight",
    "steam": "548840"
@@ -844,6 +860,7 @@
   "ids": {
    "howlongtobeat": "73131",
    "igdb": "disney-classic-games-aladdin-and-the-lion-king",
+   "metacritic": "disney-classic-games-aladdin-and-the-lion-king",
    "mobygames": "136513",
    "pcgamingwiki": "Disney_Classic_Games:_Aladdin_and_The_Lion_King",
    "steam": "1126190"
@@ -1040,6 +1057,7 @@
  {
   "ids": {
    "igdb": "avabel-online",
+   "pcgamingwiki": "Avabel_Online",
    "steam": "1130700"
   },
   "label_en": "Avabel Online",

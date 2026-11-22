@@ -5,6 +5,7 @@
    "gog": "game/fear_platinum",
    "howlongtobeat": "3293",
    "igdb": "f-e-a-r",
+   "metacritic": "fear",
    "mobygames": "19787",
    "pcgamingwiki": "F.E.A.R.",
    "steam": "21090"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "2205",
    "igdb": "dark-cloud-2",
+   "metacritic": "dark-cloud-2",
    "mobygames": "9224"
   },
   "label_en": "Dark Chronicle",
@@ -38,6 +40,7 @@
   "ids": {
    "howlongtobeat": "5660",
    "igdb": "mario-vs-donkey-kong",
+   "metacritic": "mario-vs-donkey-kong-2004",
    "mobygames": "13829"
   },
   "label_en": "Mario vs. Donkey Kong",
@@ -48,6 +51,7 @@
   "ids": {
    "howlongtobeat": "14064",
    "igdb": "armored-core-last-raven",
+   "metacritic": "armored-core-last-raven",
    "mobygames": "68919"
   },
   "label_en": "Armored Core: Last Raven",
@@ -93,6 +97,7 @@
   "enwiki": "Tour de France (2011 video game)",
   "ids": {
    "igdb": "pro-cycling-manager-2011",
+   "metacritic": "pro-cycling-manager-tour-de-france-2011",
    "mobygames": "64859",
    "pcgamingwiki": "Pro_Cycling_Manager_Season_2011"
   },
@@ -102,6 +107,7 @@
  {
   "ids": {
    "igdb": "petz-fantasy-3d",
+   "metacritic": "petz-fantasy-3d",
    "mobygames": "92223"
   },
   "label_en": "Petz Fantasy 3D",
@@ -174,6 +180,7 @@
   "enwiki": "J.U.L.I.A.",
   "ids": {
    "igdb": "julia",
+   "metacritic": "julia",
    "mobygames": "55922"
   },
   "label_en": "J.U.L.I.A.",
@@ -197,6 +204,7 @@
   "ids": {
    "howlongtobeat": "26794",
    "igdb": "gears-of-war-ultimate-edition--1",
+   "metacritic": "gears-of-war",
    "mobygames": "77938",
    "pcgamingwiki": "Gears_of_War:_Ultimate_Edition"
   },
@@ -269,6 +277,7 @@
    "epic": "60-parsecs-0481c5",
    "howlongtobeat": "65900",
    "igdb": "60-parsecs",
+   "metacritic": "60-parsecs",
    "mobygames": "114032",
    "pcgamingwiki": "60_Parsecs!",
    "steam": "646270"
@@ -278,7 +287,8 @@
  },
  {
   "ids": {
-   "igdb": "grimvalor"
+   "igdb": "grimvalor",
+   "metacritic": "grimvalor"
   },
   "label_en": "Grimvalor",
   "wikidata": "Q60579163"
@@ -288,6 +298,7 @@
   "ids": {
    "howlongtobeat": "71182",
    "igdb": "doraemon-story-of-seasons",
+   "metacritic": "doraemon-story-of-seasons",
    "mobygames": "135478",
    "pcgamingwiki": "Doraemon:_Story_of_Seasons",
    "steam": "965230"
@@ -299,6 +310,7 @@
   "enwiki": "Top Gear Rally (2003 video game)",
   "ids": {
    "igdb": "top-gear-rally--2",
+   "metacritic": "top-gear-rally",
    "mobygames": "10810"
   },
   "label_en": "Top Gear Rally",
@@ -311,6 +323,7 @@
    "gog": "game/deep_sky_derelicts",
    "howlongtobeat": "53937",
    "igdb": "deep-sky-derelicts",
+   "metacritic": "deep-sky-derelicts",
    "mobygames": "114302",
    "pcgamingwiki": "Deep_Sky_Derelicts",
    "steam": "698640"
@@ -356,6 +369,7 @@
    "epic": "monkey-barrels",
    "howlongtobeat": "75178",
    "igdb": "monkey-barrels",
+   "pcgamingwiki": "Monkey_Barrels",
    "steam": "1831160"
   },
   "label_en": "Monkey Barrels",
@@ -459,6 +473,7 @@
   "ids": {
    "howlongtobeat": "75662",
    "igdb": "hypergalactic-psychic-table-tennis-3000",
+   "metacritic": "hypergalactic-psychic-table-tennis-3000",
    "mobygames": "142397",
    "steam": "1233690"
   },
@@ -493,6 +508,7 @@
   "ids": {
    "howlongtobeat": "126870",
    "igdb": "desktop-dungeons-rewind",
+   "metacritic": "desktop-dungeons-rewind",
    "mobygames": "201934",
    "pcgamingwiki": "Desktop_Dungeons_Rewind",
    "steam": "1976950"
@@ -725,6 +741,7 @@
   "ids": {
    "howlongtobeat": "54221",
    "igdb": "sprint-vector",
+   "metacritic": "sprint-vector",
    "mobygames": "102974",
    "pcgamingwiki": "Sprint_Vector",
    "steam": "590690"
@@ -805,6 +822,7 @@
   "ids": {
    "howlongtobeat": "36423",
    "igdb": "pixlcross",
+   "metacritic": "pixlcross",
    "mobygames": "101305"
   },
   "label_en": "PixlCross",

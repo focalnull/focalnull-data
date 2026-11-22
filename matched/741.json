@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "170",
    "igdb": "ace-combat-6-fires-of-liberation",
+   "metacritic": "ace-combat-6-fires-of-liberation",
    "mobygames": "33637"
   },
   "label_en": "Ace Combat 6: Fires of Liberation",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "5790",
    "igdb": "medal-of-honor-vanguard",
+   "metacritic": "medal-of-honor-vanguard",
    "mobygames": "28575"
   },
   "label_en": "Medal of Honor: Vanguard",
@@ -43,6 +45,7 @@
    "gog": "game/legacy_of_kain_soul_reaver_2",
    "howlongtobeat": "5216",
    "igdb": "legacy-of-kain-soul-reaver-2",
+   "metacritic": "legacy-of-kain-soul-reaver-2",
    "mobygames": "5563",
    "pcgamingwiki": "Legacy_of_Kain:_Soul_Reaver_2",
    "steam": "224940"
@@ -74,6 +77,7 @@
   "ids": {
    "howlongtobeat": "3485",
    "igdb": "final-fantasy-crystal-chronicles-echoes-of-time",
+   "metacritic": "final-fantasy-crystal-chronicles-echoes-of-time",
    "mobygames": "40317"
   },
   "label_en": "Final Fantasy Crystal Chronicles: Echoes of Time",
@@ -104,6 +108,7 @@
   "ids": {
    "howlongtobeat": "4296",
    "igdb": "hard-corps-uprising",
+   "metacritic": "hard-corps-uprising",
    "mobygames": "83711"
   },
   "label_en": "Hard Corps: Uprising",
@@ -142,6 +147,7 @@
   "enwiki": "Race Pro",
   "ids": {
    "igdb": "race-pro",
+   "metacritic": "race-pro",
    "mobygames": "45705"
   },
   "label_en": "Race Pro",
@@ -177,6 +183,7 @@
   "ids": {
    "howlongtobeat": "2543",
    "igdb": "digimon-world-championship",
+   "metacritic": "digimon-world-championship",
    "mobygames": "87834"
   },
   "label_en": "Digimon World Championship",
@@ -226,6 +233,7 @@
   "enwiki": "Scene It? Box Office Smash",
   "ids": {
    "igdb": "scene-it-box-office-smash",
+   "metacritic": "scene-it-box-office-smash",
    "mobygames": "39945"
   },
   "label_en": "Scene It? Box Office Smash!",
@@ -236,6 +244,7 @@
   "ids": {
    "howlongtobeat": "21974",
    "igdb": "state-of-emergency-2",
+   "metacritic": "state-of-emergency-2",
    "mobygames": "24005"
   },
   "label_en": "State of Emergency 2",
@@ -284,6 +293,7 @@
    "epic": "valiant-hearts",
    "howlongtobeat": "19503",
    "igdb": "valiant-hearts-the-great-war",
+   "metacritic": "valiant-hearts-the-great-war",
    "mobygames": "66601",
    "pcgamingwiki": "Valiant_Hearts:_The_Great_War",
    "steam": "260230"
@@ -295,6 +305,7 @@
   "enwiki": "Need for Speed (2015 video game)",
   "ids": {
    "igdb": "need-for-speed",
+   "metacritic": "need-for-speed",
    "mobygames": "75645",
    "pcgamingwiki": "Need_for_Speed_(2016)"
   },
@@ -308,6 +319,7 @@
    "gog": "game/monster_boy_and_the_cursed_kingdom",
    "howlongtobeat": "62946",
    "igdb": "monster-boy-and-the-cursed-kingdom",
+   "metacritic": "monster-boy-and-the-cursed-kingdom",
    "mobygames": "109978",
    "pcgamingwiki": "Monster_Boy_and_the_Cursed_Kingdom",
    "steam": "449610"
@@ -358,6 +370,7 @@
   "ids": {
    "howlongtobeat": "72114",
    "igdb": "forgiveness",
+   "metacritic": "forgiveness",
    "mobygames": "168856",
    "pcgamingwiki": "Forgiveness",
    "steam": "971120"
@@ -379,6 +392,7 @@
    "gog": "game/tohu",
    "howlongtobeat": "87694",
    "igdb": "tohu",
+   "metacritic": "tohu",
    "mobygames": "157639",
    "pcgamingwiki": "Tohu",
    "steam": "1075200"
@@ -401,6 +415,7 @@
   "ids": {
    "howlongtobeat": "121104",
    "igdb": "41-hours",
+   "metacritic": "41-hours",
    "mobygames": "193752",
    "steam": "1358020"
   },
@@ -417,6 +432,7 @@
    "gog": "game/alwas_legacy",
    "howlongtobeat": "77859",
    "igdb": "alwas-legacy",
+   "metacritic": "alwas-legacy",
    "mobygames": "146931",
    "pcgamingwiki": "Alwa's_Legacy",
    "steam": "1205900"
@@ -962,7 +978,8 @@
  },
  {
   "ids": {
-   "igdb": "p1-select"
+   "igdb": "p1-select",
+   "metacritic": "p1-select"
   },
   "label_en": "P1 Select",
   "wikidata": "Q133285741"
@@ -1250,6 +1267,7 @@
  {
   "ids": {
    "igdb": "skystrider",
+   "pcgamingwiki": "Skystrider",
    "steam": "2434450"
   },
   "label_en": "Skystrider",

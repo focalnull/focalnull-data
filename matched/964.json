@@ -51,6 +51,7 @@
   "ids": {
    "howlongtobeat": "3938",
    "igdb": "gish",
+   "metacritic": "gish",
    "mobygames": "13700",
    "pcgamingwiki": "Gish",
    "steam": "9500"
@@ -63,6 +64,7 @@
   "ids": {
    "howlongtobeat": "11947",
    "igdb": "aces-of-the-galaxy",
+   "metacritic": "aces-of-the-galaxy",
    "mobygames": "35409",
    "pcgamingwiki": "Aces_of_the_Galaxy",
    "steam": "10120"
@@ -112,6 +114,7 @@
   "ids": {
    "howlongtobeat": "14678",
    "igdb": "nancy-drew-warnings-at-waverly-academy",
+   "metacritic": "nancy-drew-warnings-at-waverly-academy",
    "mobygames": "45381",
    "pcgamingwiki": "Nancy_Drew:_Warnings_at_Waverly_Academy",
    "steam": "43600"
@@ -123,6 +126,7 @@
   "enwiki": "Salt Lake 2002 (video game)",
   "ids": {
    "igdb": "salt-lake-2002",
+   "metacritic": "salt-lake-2002",
    "mobygames": "5639",
    "pcgamingwiki": "Salt_Lake_2002"
   },
@@ -211,6 +215,7 @@
   "ids": {
    "howlongtobeat": "38019",
    "igdb": "the-legend-of-zelda-breath-of-the-wild",
+   "metacritic": "the-legend-of-zelda-breath-of-the-wild",
    "mobygames": "84595"
   },
   "label_en": "The Legend of Zelda: Breath of the Wild",
@@ -240,6 +245,7 @@
    "gog": "game/the_technomancer",
    "howlongtobeat": "38277",
    "igdb": "the-technomancer",
+   "metacritic": "the-technomancer",
    "mobygames": "83719",
    "pcgamingwiki": "The_Technomancer",
    "steam": "338390"
@@ -260,7 +266,8 @@
  {
   "enwiki": "EA Sports UFC 2",
   "ids": {
-   "igdb": "ea-sports-ufc-2"
+   "igdb": "ea-sports-ufc-2",
+   "metacritic": "ea-sports-ufc-2"
   },
   "label_en": "EA Sports UFC 2",
   "wikidata": "Q22074964"
@@ -318,7 +325,8 @@
   "enwiki": "Lego Legacy: Heroes Unboxed",
   "ids": {
    "howlongtobeat": "75973",
-   "igdb": "lego-legacy-heroes-unboxed"
+   "igdb": "lego-legacy-heroes-unboxed",
+   "metacritic": "lego-legacy-heroes-unboxed"
   },
   "label_en": "Lego Legacy: Heroes Unboxed",
   "wikidata": "Q102345964"
@@ -330,6 +338,7 @@
    "gog": "game/little_big_workshop",
    "howlongtobeat": "71462",
    "igdb": "little-big-workshop",
+   "metacritic": "little-big-workshop",
    "mobygames": "136155",
    "pcgamingwiki": "Little_Big_Workshop",
    "steam": "574720"
@@ -343,6 +352,7 @@
    "epic": "marvels-guardians-of-the-galaxy",
    "howlongtobeat": "72584",
    "igdb": "marvels-guardians-of-the-galaxy",
+   "metacritic": "marvels-guardians-of-the-galaxy",
    "mobygames": "166383",
    "pcgamingwiki": "Marvel's_Guardians_of_the_Galaxy",
    "steam": "1088850"
@@ -356,6 +366,7 @@
    "gog": "game/nobody_saves_the_world",
    "howlongtobeat": "90632",
    "igdb": "nobody-saves-the-world",
+   "metacritic": "nobody-saves-the-world",
    "mobygames": "178279",
    "pcgamingwiki": "Nobody_Saves_the_World",
    "steam": "1432050"
@@ -368,6 +379,7 @@
   "ids": {
    "howlongtobeat": "67770",
    "igdb": "a-quiet-place-the-road-ahead",
+   "metacritic": "a-quiet-place",
    "mobygames": "232037",
    "pcgamingwiki": "A_Quiet_Place:_The_Road_Ahead",
    "steam": "2233120"
@@ -721,6 +733,7 @@
  {
   "ids": {
    "igdb": "shelflife-art-school-detective",
+   "metacritic": "shelflife-art-school-detective",
    "steam": "2537020"
   },
   "label_en": "ShelfLife: Art School Detective",
@@ -1264,6 +1277,7 @@
    "howlongtobeat": "3060",
    "igdb": "edna-and-harvey-the-breakout-10th-anniversary-edition",
    "mobygames": "141678",
+   "pcgamingwiki": "Edna_&_Harvey:_The_Breakout_-_Anniversary_Edition",
    "steam": "959000"
   },
   "label_en": "Edna & Harvey: The Breakout - Anniversary Edition",

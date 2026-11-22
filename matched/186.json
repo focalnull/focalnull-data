@@ -5,6 +5,7 @@
    "gog": "game/doom_ii",
    "howlongtobeat": "2711",
    "igdb": "doom-ii-hell-on-earth",
+   "metacritic": "doom-ii",
    "mobygames": "299",
    "pcgamingwiki": "Doom_II:_Hell_on_Earth",
    "steam": "2300"
@@ -14,6 +15,7 @@
  },
  {
   "ids": {
+   "metacritic": "party-fun-pirate",
    "mobygames": "102727"
   },
   "label_en": "Pop-up Pirate",
@@ -31,6 +33,7 @@
   "ids": {
    "howlongtobeat": "2401",
    "igdb": "def-jam-icon",
+   "metacritic": "def-jam-icon",
    "mobygames": "29979"
   },
   "label_en": "Def Jam: Icon",
@@ -40,6 +43,7 @@
   "enwiki": "Dave Mirra Freestyle BMX 2",
   "ids": {
    "igdb": "dave-mirra-freestyle-bmx-2",
+   "metacritic": "dave-mirra-freestyle-bmx-2",
    "mobygames": "54797"
   },
   "label_en": "Dave Mirra Freestyle BMX 2",
@@ -59,6 +63,7 @@
   "enwiki": "Bratz: The Movie (video game)",
   "ids": {
    "igdb": "bratz-the-movie",
+   "metacritic": "bratz-the-movie",
    "mobygames": "88525"
   },
   "label_en": "Bratz: The Movie",
@@ -87,6 +92,7 @@
   "ids": {
    "howlongtobeat": "3440",
    "igdb": "fieldrunners-2",
+   "metacritic": "fieldrunners-2",
    "mobygames": "70314",
    "pcgamingwiki": "Fieldrunners_2",
    "steam": "215710"
@@ -112,6 +118,7 @@
    "gog": "game/grim_dawn",
    "howlongtobeat": "11847",
    "igdb": "grim-dawn",
+   "metacritic": "grim-dawn",
    "mobygames": "85448",
    "pcgamingwiki": "Grim_Dawn",
    "steam": "219990"
@@ -172,6 +179,7 @@
    "gog": "game/starpoint_gemini_warlords",
    "howlongtobeat": "41527",
    "igdb": "starpoint-gemini-warlords",
+   "metacritic": "starpoint-gemini-warlords",
    "mobygames": "89181",
    "pcgamingwiki": "Starpoint_Gemini_Warlords",
    "steam": "419480"
@@ -195,6 +203,7 @@
    "gog": "game/what_remains_of_edith_finch",
    "howlongtobeat": "45392",
    "igdb": "what-remains-of-edith-finch",
+   "metacritic": "what-remains-of-edith-finch",
    "mobygames": "87459",
    "pcgamingwiki": "What_Remains_of_Edith_Finch",
    "steam": "501300"
@@ -231,6 +240,7 @@
    "gog": "game/yono_and_the_celestial_elephants",
    "howlongtobeat": "49685",
    "igdb": "yono-and-the-celestial-elephants",
+   "metacritic": "yono-and-the-celestial-elephants",
    "mobygames": "97028",
    "pcgamingwiki": "Yono_and_the_Celestial_Elephants",
    "steam": "602430"
@@ -240,6 +250,7 @@
  },
  {
   "ids": {
+   "metacritic": "tomb-raider-legend",
    "mobygames": "35565"
   },
   "label_en": "Tomb Raider: Legend",
@@ -257,6 +268,7 @@
   "ids": {
    "howlongtobeat": "57161",
    "igdb": "smoke-and-sacrifice",
+   "metacritic": "smoke-and-sacrifice",
    "mobygames": "109353",
    "pcgamingwiki": "Smoke_and_Sacrifice",
    "steam": "695100"
@@ -269,6 +281,7 @@
   "ids": {
    "howlongtobeat": "84851",
    "igdb": "mass-effect-legendary-edition",
+   "metacritic": "mass-effect-legendary-edition",
    "mobygames": "164405",
    "pcgamingwiki": "Mass_Effect_Legendary_Edition",
    "steam": "1328670"
@@ -288,7 +301,8 @@
  {
   "ids": {
    "howlongtobeat": "27888",
-   "igdb": "god-of-war-iii-remastered"
+   "igdb": "god-of-war-iii-remastered",
+   "metacritic": "god-of-war-iii-remastered"
   },
   "label_en": "God of War III Remastered",
   "wikidata": "Q107424186"
@@ -448,6 +462,7 @@
  {
   "ids": {
    "igdb": "zacisa-defense-of-the-crayon-dimensions",
+   "metacritic": "zacisa-defense-of-the-crayon-dimension",
    "mobygames": "222903",
    "steam": "2462890"
   },
@@ -602,6 +617,7 @@
   "ids": {
    "howlongtobeat": "36842",
    "igdb": "is-defense",
+   "metacritic": "is-defense",
    "mobygames": "78267",
    "pcgamingwiki": "IS_Defense",
    "steam": "448370"
@@ -697,6 +713,7 @@
   "ids": {
    "howlongtobeat": "40095",
    "igdb": "raw-data",
+   "metacritic": "raw-data",
    "mobygames": "96846",
    "pcgamingwiki": "Raw_Data",
    "steam": "436320"
@@ -739,6 +756,7 @@
   "ids": {
    "howlongtobeat": "146388",
    "igdb": "endurance-motorsport-series",
+   "metacritic": "endurance-motorsport-series",
    "pcgamingwiki": "Endurance_Motorsport_Series",
    "steam": "2228250"
   },
@@ -1093,6 +1111,9 @@
   "wikidata": "Q135453186"
  },
  {
+  "ids": {
+   "metacritic": "ea-sports-active-more-workouts"
+  },
   "label_en": "EA Sports Active: More Workouts",
   "wikidata": "Q139780186"
  },

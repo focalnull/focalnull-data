@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "795",
    "igdb": "bad-piggies",
+   "metacritic": "bad-piggies",
    "mobygames": "58866",
    "pcgamingwiki": "Bad_Piggies"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "1313",
    "igdb": "breakdown",
+   "metacritic": "breakdown",
    "mobygames": "12675"
   },
   "label_en": "Breakdown",
@@ -70,6 +72,7 @@
   "ids": {
    "howlongtobeat": "14210",
    "igdb": "bomberman-party-edition",
+   "metacritic": "bomberman-party-edition",
    "mobygames": "4192"
   },
   "label_en": "Bomberman Party Edition",
@@ -120,6 +123,7 @@
   "ids": {
    "howlongtobeat": "12608",
    "igdb": "cloudberry-kingdom",
+   "metacritic": "cloudberry-kingdom",
    "mobygames": "63200",
    "pcgamingwiki": "Cloudberry_Kingdom",
    "steam": "210870"
@@ -133,6 +137,7 @@
    "gog": "game/crimzon_clover_world_ignition",
    "howlongtobeat": "2032",
    "igdb": "crimzon-clover-world-ignition",
+   "metacritic": "crimzon-clover-world-ignition",
    "mobygames": "72172",
    "pcgamingwiki": "Crimzon_Clover:_World_Ignition",
    "steam": "285440"
@@ -161,6 +166,7 @@
   "ids": {
    "howlongtobeat": "3901",
    "igdb": "gettysburg-armored-warfare",
+   "metacritic": "gettysburg-armored-warfare",
    "mobygames": "85572",
    "pcgamingwiki": "Gettysburg:_Armored_Warfare",
    "steam": "200630"
@@ -198,7 +204,8 @@
  {
   "enwiki": "We Rock: Drum King",
   "ids": {
-   "igdb": "we-rock-drum-king"
+   "igdb": "we-rock-drum-king",
+   "metacritic": "rolling-stone-drum-king"
   },
   "label_en": "We Rock: Drum King",
   "wikidata": "Q7977728"
@@ -228,6 +235,7 @@
   "ids": {
    "howlongtobeat": "24808",
    "igdb": "rush-a-disney-pixar-adventure",
+   "metacritic": "kinect-rush-a-disney-pixar-adventure",
    "mobygames": "58456",
    "pcgamingwiki": "Rush:_A_Disney_Pixar_Adventure",
    "steam": "579490"
@@ -256,6 +264,7 @@
   "ids": {
    "howlongtobeat": "21153",
    "igdb": "amazing-princess-sarah",
+   "metacritic": "amazing-princess-sarah",
    "mobygames": "91131",
    "pcgamingwiki": "Amazing_Princess_Sarah",
    "steam": "315850"
@@ -268,6 +277,7 @@
   "ids": {
    "howlongtobeat": "24233",
    "igdb": "lisa-the-painful",
+   "metacritic": "lisa",
    "mobygames": "76705",
    "pcgamingwiki": "Lisa"
   },
@@ -279,6 +289,7 @@
   "ids": {
    "howlongtobeat": "37945",
    "igdb": "summon-night-6-lost-borders",
+   "metacritic": "summon-night-6-lost-borders",
    "mobygames": "78151"
   },
   "label_en": "Summon Night 6",
@@ -288,6 +299,7 @@
   "ids": {
    "howlongtobeat": "301",
    "igdb": "airbuccaneers",
+   "metacritic": "airbuccaneers",
    "mobygames": "72280",
    "pcgamingwiki": "AirBuccaneers",
    "steam": "223630"
@@ -322,6 +334,7 @@
   "ids": {
    "howlongtobeat": "14500",
    "igdb": "back-to-bed",
+   "metacritic": "back-to-bed",
    "mobygames": "73913",
    "pcgamingwiki": "Back_to_Bed",
    "steam": "308040"
@@ -344,6 +357,7 @@
    "howlongtobeat": "89012",
    "igdb": "eqi",
    "mobygames": "159754",
+   "pcgamingwiki": "EQI",
    "steam": "1455920"
   },
   "label_en": "EQI",
@@ -368,6 +382,7 @@
    "epic": "hell-is-other-demons",
    "howlongtobeat": "54519",
    "igdb": "hell-is-other-demons",
+   "metacritic": "hell-is-other-demons",
    "mobygames": "125254",
    "pcgamingwiki": "Hell_is_Other_Demons",
    "steam": "595790"
@@ -415,6 +430,7 @@
    "gog": "game/starship_troopers_terran_command",
    "howlongtobeat": "109222",
    "igdb": "starship-troopers-terran-command",
+   "metacritic": "starship-troopers-terran-command",
    "mobygames": "185987",
    "pcgamingwiki": "Starship_Troopers:_Terran_Command",
    "steam": "1202130"
@@ -442,6 +458,7 @@
  {
   "ids": {
    "igdb": "ambitious-mission",
+   "metacritic": "ambitious-mission",
    "steam": "4391130"
   },
   "label_en": "Ambitious Mission",
@@ -813,6 +830,7 @@
   "ids": {
    "howlongtobeat": "24427",
    "igdb": "decay-the-mare",
+   "metacritic": "decay-the-mare",
    "mobygames": "97063",
    "pcgamingwiki": "Decay:_The_Mare",
    "steam": "323720"
@@ -986,6 +1004,7 @@
    "gog": "game/super_meat_boy_3d",
    "howlongtobeat": "169406",
    "igdb": "super-meat-boy-3d",
+   "metacritic": "super-meat-boy-3d",
    "mobygames": "258313",
    "pcgamingwiki": "Super_Meat_Boy_3D",
    "steam": "3288210"

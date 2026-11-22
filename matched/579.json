@@ -21,6 +21,7 @@
   "ids": {
    "howlongtobeat": "1408",
    "igdb": "burnout-legends",
+   "metacritic": "burnout-legends",
    "mobygames": "20580"
   },
   "label_en": "Burnout Legends",
@@ -31,6 +32,7 @@
   "ids": {
    "howlongtobeat": "9297",
    "igdb": "sudeki",
+   "metacritic": "sudeki",
    "mobygames": "14499",
    "pcgamingwiki": "Sudeki",
    "steam": "233350"
@@ -52,6 +54,7 @@
   "enwiki": "Vanguard Bandits",
   "ids": {
    "igdb": "vanguard-bandits",
+   "metacritic": "vanguard-bandits",
    "mobygames": "14170"
   },
   "label_en": "Vanguard Bandits",
@@ -61,6 +64,7 @@
   "enwiki": "Druuna: Morbus Gravis",
   "ids": {
    "igdb": "druuna-morbus-gravis",
+   "metacritic": "druuna-morbus-gravis",
    "mobygames": "5537",
    "pcgamingwiki": "Druuna:_Morbus_Gravis"
   },
@@ -84,6 +88,7 @@
   "ids": {
    "howlongtobeat": "15876",
    "igdb": "south-park-tenorman-s-revenge",
+   "metacritic": "south-park-tenormans-revenge",
    "mobygames": "92211"
   },
   "label_en": "South Park: Tenorman's Revenge",
@@ -94,6 +99,7 @@
   "ids": {
    "howlongtobeat": "18151",
    "igdb": "cops-2170-the-power-of-law",
+   "metacritic": "cops-2170-the-power-of-law",
    "mobygames": "26239",
    "pcgamingwiki": "Cops_2170:_The_Power_of_Law",
    "steam": "1913160"
@@ -114,6 +120,7 @@
   "enwiki": "Metal Arms: Glitch in the System",
   "ids": {
    "igdb": "metal-arms-glitch-in-the-system",
+   "metacritic": "metal-arms-glitch-in-the-system",
    "mobygames": "11590"
   },
   "label_en": "Metal Arms: Glitch in the System",
@@ -128,6 +135,7 @@
   "enwiki": "Schizoid (video game)",
   "ids": {
    "igdb": "schizoid",
+   "metacritic": "schizoid",
    "mobygames": "38798"
   },
   "label_en": "Schizoid",
@@ -145,6 +153,7 @@
   "enwiki": "Valhalla Knights 2",
   "ids": {
    "igdb": "valhalla-knights-2",
+   "metacritic": "valhalla-knights-2",
    "mobygames": "89550"
   },
   "label_en": "Valhalla Knights 2",
@@ -189,6 +198,7 @@
  },
  {
   "ids": {
+   "metacritic": "tom-clancys-rainbow-six-mission-pack-eagle-watch",
    "mobygames": "1908"
   },
   "label_en": "Tom Clancy’s Rainbow Six: Eagle Watch",
@@ -199,6 +209,7 @@
   "ids": {
    "howlongtobeat": "11813",
    "igdb": "mighty-switch-force-2",
+   "metacritic": "mighty-switch-force-2",
    "mobygames": "70274"
   },
   "label_en": "Mighty Switch Force! 2",
@@ -211,6 +222,7 @@
    "gog": "game/galactic_civilizations_iii",
    "howlongtobeat": "25173",
    "igdb": "galactic-civilizations-iii",
+   "metacritic": "galactic-civilizations-iii",
    "mobygames": "84571",
    "pcgamingwiki": "Galactic_Civilizations_III",
    "steam": "226860"
@@ -242,6 +254,7 @@
   "ids": {
    "howlongtobeat": "36262",
    "igdb": "pokemon-go",
+   "metacritic": "pokemon-go",
    "mobygames": "79246"
   },
   "label_en": "Pokémon Go",
@@ -254,6 +267,7 @@
    "gog": "game/xenonauts_2",
    "howlongtobeat": "69816",
    "igdb": "xenonauts-2",
+   "metacritic": "xenonauts-2",
    "mobygames": "205952",
    "pcgamingwiki": "Xenonauts_2",
    "steam": "538030"
@@ -266,6 +280,7 @@
   "ids": {
    "howlongtobeat": "49079",
    "igdb": "foxhole",
+   "metacritic": "foxhole",
    "mobygames": "93304",
    "pcgamingwiki": "Foxhole",
    "steam": "505460"
@@ -280,6 +295,7 @@
    "gog": "game/rtype_final_2",
    "howlongtobeat": "90855",
    "igdb": "r-type-final-2",
+   "metacritic": "r-type-final-2",
    "mobygames": "162594",
    "pcgamingwiki": "R-Type_Final_2",
    "steam": "1442820"
@@ -291,6 +307,7 @@
   "ids": {
    "howlongtobeat": "11454",
    "igdb": "you-have-to-win-the-game",
+   "metacritic": "you-have-to-win-the-game",
    "mobygames": "65518",
    "pcgamingwiki": "You_Have_to_Win_the_Game",
    "steam": "286100"
@@ -303,6 +320,7 @@
   "ids": {
    "howlongtobeat": "86000",
    "igdb": "open-roads",
+   "metacritic": "open-roads",
    "mobygames": "220684",
    "pcgamingwiki": "Open_Roads",
    "steam": "1497360"
@@ -313,6 +331,7 @@
  {
   "ids": {
    "igdb": "yo-kai-watch-2-fleshy-souls",
+   "metacritic": "yo-kai-watch-2-fleshy-souls",
    "mobygames": "84559"
   },
   "label_en": "Yo-kai Watch 2: Fleshy Souls",
@@ -325,6 +344,7 @@
    "gog": "game/carcassonne_tiles_tactics",
    "howlongtobeat": "52582",
    "igdb": "carcassonne--2",
+   "metacritic": "carcassonne-tiles-and-tactics",
    "mobygames": "120440",
    "pcgamingwiki": "Carcassonne",
    "steam": "598810"
@@ -382,6 +402,7 @@
   "ids": {
    "howlongtobeat": "77508",
    "igdb": "down-the-rabbit-hole",
+   "metacritic": "down-the-rabbit-hole",
    "mobygames": "143093",
    "steam": "1215270"
   },
@@ -404,6 +425,7 @@
   "ids": {
    "howlongtobeat": "51760",
    "igdb": "indygo",
+   "metacritic": "indygo",
    "mobygames": "97785",
    "pcgamingwiki": "Indygo",
    "steam": "702600"
@@ -1073,6 +1095,7 @@
   "ids": {
    "epic": "full-metal-schoolgirl-e7df87",
    "igdb": "full-metal-schoolgirl",
+   "pcgamingwiki": "Full_Metal_Schoolgirl",
    "steam": "3696410"
   },
   "label_en": "Full Metal Schoolgirl",
@@ -1107,6 +1130,7 @@
  {
   "ids": {
    "igdb": "this-game-will-end-in-205-clicks",
+   "pcgamingwiki": "This_Game_Will_End_in_205_Clicks",
    "steam": "3585630"
   },
   "label_en": "this game will end in 205 clicks.",

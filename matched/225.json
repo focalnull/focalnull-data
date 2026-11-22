@@ -5,6 +5,7 @@
    "gog": "game/star_wars_starfighter",
    "howlongtobeat": "9124",
    "igdb": "star-wars-starfighter",
+   "metacritic": "star-wars-starfighter",
    "mobygames": "3545",
    "pcgamingwiki": "Star_Wars:_Starfighter",
    "steam": "32350"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "1837",
    "igdb": "command-conquer-red-alert",
+   "metacritic": "command-conquer-red-alert",
    "mobygames": "485",
    "pcgamingwiki": "Command_&_Conquer:_Red_Alert",
    "steam": "2229840"
@@ -29,6 +31,7 @@
   "ids": {
    "howlongtobeat": "10644",
    "igdb": "tribes-2",
+   "metacritic": "tribes-2",
    "mobygames": "3566",
    "pcgamingwiki": "Tribes_2"
   },
@@ -100,6 +103,7 @@
   "ids": {
    "howlongtobeat": "26349",
    "igdb": "jett-rocket",
+   "metacritic": "jett-rocket",
    "mobygames": "91482"
   },
   "label_en": "Jett Rocket",
@@ -147,6 +151,7 @@
   "enwiki": "Hot Pixel",
   "ids": {
    "igdb": "hot-pixel",
+   "metacritic": "hot-pixel",
    "mobygames": "30115"
   },
   "label_en": "Hot Pixel",
@@ -156,6 +161,7 @@
   "enwiki": "PQ: Practical Intelligence Quotient",
   "ids": {
    "igdb": "pq-practical-intelligence-quotient",
+   "metacritic": "pq-practical-intelligence-quotient",
    "mobygames": "24515"
   },
   "label_en": "PQ: Practical Intelligence Quotient",
@@ -181,6 +187,7 @@
  },
  {
   "ids": {
+   "metacritic": "dynasty-tactics",
    "mobygames": "10684"
   },
   "label_en": "Dynasty Tactics",
@@ -190,6 +197,7 @@
   "enwiki": "Ravaged",
   "ids": {
    "igdb": "ravaged",
+   "metacritic": "ravaged",
    "mobygames": "59444"
   },
   "label_en": "Ravaged",
@@ -226,6 +234,7 @@
   "ids": {
    "howlongtobeat": "45662",
    "igdb": "birthdays-the-beginning",
+   "metacritic": "birthdays-the-beginning",
    "mobygames": "88298",
    "pcgamingwiki": "Birthdays_the_Beginning",
    "steam": "525700"
@@ -238,6 +247,7 @@
    "gog": "game/lethis_path_of_progress",
    "howlongtobeat": "28512",
    "igdb": "lethis-path-of-progress",
+   "metacritic": "lethis-path-of-progress",
    "mobygames": "100522",
    "pcgamingwiki": "Lethis:_Path_of_Progress",
    "steam": "359230"
@@ -273,6 +283,7 @@
   "ids": {
    "howlongtobeat": "14649",
    "igdb": "jett-rocket-ii-the-wrath-of-taikai",
+   "metacritic": "jett-rocket-ii-the-wrath-of-taikai",
    "mobygames": "92798"
   },
   "label_en": "Jett Rocket II: The Wrath of Taikai",
@@ -284,6 +295,7 @@
    "gog": "game/bee_simulator",
    "howlongtobeat": "68268",
    "igdb": "bee-simulator",
+   "metacritic": "bee-simulator",
    "mobygames": "137166",
    "pcgamingwiki": "Bee_Simulator",
    "steam": "914750"
@@ -306,7 +318,9 @@
   "ids": {
    "howlongtobeat": "64287",
    "igdb": "pocket-city",
+   "metacritic": "pocket-city",
    "mobygames": "127433",
+   "pcgamingwiki": "Pocket_City",
    "steam": "2004440"
   },
   "label_en": "Pocket City",
@@ -317,6 +331,7 @@
   "ids": {
    "howlongtobeat": "99733",
    "igdb": "dwarfheim",
+   "metacritic": "dwarfheim",
    "mobygames": "151423",
    "pcgamingwiki": "DwarfHeim",
    "steam": "977650"
@@ -447,6 +462,7 @@
   "ids": {
    "howlongtobeat": "8119",
    "igdb": "samantha-swift-and-the-hidden-roses-of-athena",
+   "metacritic": "samantha-swift-and-the-hidden-roses-of-athena",
    "mobygames": "36749",
    "pcgamingwiki": "Samantha_Swift_and_the_Hidden_Roses_of_Athena",
    "steam": "16020"
@@ -460,6 +476,7 @@
    "howlongtobeat": "136386",
    "igdb": "samurai-vandalism",
    "mobygames": "207775",
+   "pcgamingwiki": "Samurai_Vandalism",
    "steam": "1551670"
   },
   "label_en": "Samurai Vandalism",
@@ -505,6 +522,7 @@
   "ids": {
    "howlongtobeat": "58014",
    "igdb": "aggelos",
+   "metacritic": "aggelos",
    "mobygames": "110407",
    "pcgamingwiki": "Aggelos",
    "steam": "717310"
@@ -604,6 +622,7 @@
  {
   "ids": {
    "igdb": "trip-saber",
+   "metacritic": "trip-saber",
    "steam": "1737440"
   },
   "label_en": "Trip Saber",
@@ -735,6 +754,7 @@
   "ids": {
    "howlongtobeat": "29262",
    "igdb": "red-goddess-inner-world",
+   "metacritic": "red-goddess-inner-world",
    "mobygames": "86836",
    "pcgamingwiki": "Red_Goddess:_Inner_World",
    "steam": "322440"
@@ -795,6 +815,7 @@
   "ids": {
    "howlongtobeat": "13346",
    "igdb": "minesweeper-flags",
+   "metacritic": "minesweeper-flags",
    "mobygames": "47833"
   },
   "label_en": "Minesweeper Flags",

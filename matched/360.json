@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11402",
    "igdb": "xenogears",
+   "metacritic": "xenogears",
    "mobygames": "4154"
   },
   "label_en": "Xenogears",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "5778",
    "igdb": "medal-of-honor-allied-assault",
+   "metacritic": "medal-of-honor-allied-assault",
    "mobygames": "5616",
    "pcgamingwiki": "Medal_of_Honor:_Allied_Assault"
   },
@@ -35,6 +37,7 @@
    "gog": "game/thief_3",
    "howlongtobeat": "10299",
    "igdb": "thief-deadly-shadows",
+   "metacritic": "thief-deadly-shadows",
    "mobygames": "13460",
    "pcgamingwiki": "Thief:_Deadly_Shadows",
    "steam": "6980"
@@ -84,6 +87,7 @@
   "ids": {
    "howlongtobeat": "654",
    "igdb": "assassins-creed-ii-discovery",
+   "metacritic": "assassins-creed-ii-discovery",
    "mobygames": "58917"
   },
   "label_en": "Assassin's Creed II: Discovery",
@@ -102,6 +106,7 @@
    "gog": "game/capitalism_2",
    "howlongtobeat": "1510",
    "igdb": "capitalism-ii",
+   "metacritic": "capitalism-ii",
    "mobygames": "5578",
    "pcgamingwiki": "Capitalism_II",
    "steam": "638200"
@@ -114,6 +119,7 @@
   "ids": {
    "howlongtobeat": "4343",
    "igdb": "harvest-moon-tree-of-tranquility",
+   "metacritic": "harvest-moon-tree-of-tranquility",
    "mobygames": "37183"
   },
   "label_en": "Harvest Moon: Tree of Tranquility",
@@ -156,6 +162,7 @@
   "ids": {
    "howlongtobeat": "14972",
    "igdb": "cultures-2-the-gates-of-asgard",
+   "metacritic": "cultures-2-the-gates-of-asgard",
    "mobygames": "8677",
    "pcgamingwiki": "Cultures_2:_The_Gates_of_Asgard"
   },
@@ -175,6 +182,7 @@
   "enwiki": "SunAge",
   "ids": {
    "igdb": "sunage",
+   "metacritic": "sunage",
    "mobygames": "33563"
   },
   "label_en": "SunAge",
@@ -185,6 +193,7 @@
   "ids": {
    "howlongtobeat": "10024",
    "igdb": "the-legend-of-the-mystical-ninja",
+   "metacritic": "the-legend-of-the-mystical-ninja",
    "mobygames": "7795"
   },
   "label_en": "The Legend of the Mystical Ninja",
@@ -194,6 +203,7 @@
   "enwiki": "Dead Reefs",
   "ids": {
    "igdb": "dead-reefs",
+   "metacritic": "dead-reefs",
    "mobygames": "29299",
    "pcgamingwiki": "Dead_Reefs"
   },
@@ -246,6 +256,7 @@
   "ids": {
    "howlongtobeat": "2691",
    "igdb": "donkey-kong-country-tropical-freeze",
+   "metacritic": "donkey-kong-country-tropical-freeze",
    "mobygames": "66119"
   },
   "label_en": "Donkey Kong Country: Tropical Freeze",
@@ -263,7 +274,8 @@
  {
   "enwiki": "Rory McIlroy PGA Tour",
   "ids": {
-   "igdb": "rory-mcilroy-pga-tour"
+   "igdb": "rory-mcilroy-pga-tour",
+   "metacritic": "rory-mcilroy-pga-tour"
   },
   "label_en": "Rory McIlroy PGA Tour",
   "wikidata": "Q17182360"
@@ -274,6 +286,7 @@
    "epic": "assassins-creed-rogue",
    "howlongtobeat": "21246",
    "igdb": "assassins-creed-rogue",
+   "metacritic": "assassins-creed-rogue",
    "mobygames": "70071",
    "pcgamingwiki": "Assassin's_Creed_Rogue",
    "steam": "311560"
@@ -285,6 +298,7 @@
   "enwiki": "Rhythm Heaven Megamix",
   "ids": {
    "igdb": "rhythm-heaven-megamix",
+   "metacritic": "rhythm-heaven-megamix",
    "mobygames": "99327"
   },
   "label_en": "Rhythm Heaven Megamix",
@@ -294,6 +308,7 @@
   "enwiki": "The Muppets Movie Adventures",
   "ids": {
    "igdb": "the-muppets-movie-adventures",
+   "metacritic": "the-muppets-movie-adventures",
    "mobygames": "79558"
   },
   "label_en": "The Muppets Movie Adventures",
@@ -388,6 +403,7 @@
    "epic": "warhammer-40000-space-marine-2",
    "howlongtobeat": "101254",
    "igdb": "warhammer-40000-space-marine-ii",
+   "metacritic": "warhammer-40000-space-marine-ii",
    "mobygames": "230234",
    "pcgamingwiki": "Warhammer_40,000:_Space_Marine_II",
    "steam": "2183900"
@@ -399,6 +415,7 @@
   "ids": {
    "howlongtobeat": "102881",
    "igdb": "100-hidden-fish",
+   "metacritic": "100-hidden-fish",
    "mobygames": "187996",
    "steam": "1841390"
   },
@@ -412,7 +429,8 @@
  {
   "ids": {
    "epic": "3-out-of-10-season-2",
-   "igdb": "3-out-of-10-season-two"
+   "igdb": "3-out-of-10-season-two",
+   "metacritic": "3-out-of-10-season-two"
   },
   "label_en": "3 out of 10: Season Two",
   "wikidata": "Q113467360"
@@ -821,6 +839,7 @@
   "ids": {
    "howlongtobeat": "162020",
    "igdb": "goblin-camp",
+   "metacritic": "goblin-camp",
    "steam": "2431980"
   },
   "label_en": "Goblin Camp",
@@ -840,6 +859,7 @@
  {
   "ids": {
    "igdb": "journey-of-a-special-average-balloon",
+   "metacritic": "journey-of-a-special-average-balloon",
    "mobygames": "92255"
   },
   "label_en": "Journey of a Special Average Balloon",

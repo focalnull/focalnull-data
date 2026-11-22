@@ -6,6 +6,7 @@
    "gog": "game/costume_quest",
    "howlongtobeat": "1947",
    "igdb": "costume-quest",
+   "metacritic": "costume-quest",
    "mobygames": "48771",
    "pcgamingwiki": "Costume_Quest",
    "steam": "115100"
@@ -18,6 +19,7 @@
   "ids": {
    "howlongtobeat": "186",
    "igdb": "act-of-war-direct-action",
+   "metacritic": "act-of-war-direct-action",
    "mobygames": "17659",
    "pcgamingwiki": "Act_of_War:_Direct_Action",
    "steam": "2710"
@@ -66,6 +68,7 @@
   "ids": {
    "howlongtobeat": "1926",
    "igdb": "cooking-mama",
+   "metacritic": "cooking-mama",
    "mobygames": "22521"
   },
   "label_en": "Cooking Mama",
@@ -76,6 +79,7 @@
   "ids": {
    "howlongtobeat": "5243",
    "igdb": "legion-legend-of-excalibur",
+   "metacritic": "legion-the-legend-of-excalibur",
    "mobygames": "6778"
   },
   "label_en": "Legion: The Legend of Excalibur",
@@ -86,6 +90,7 @@
   "ids": {
    "howlongtobeat": "3736",
    "igdb": "fruit-ninja",
+   "metacritic": "fruit-ninja",
    "mobygames": "46651",
    "pcgamingwiki": "Fruit_Ninja"
   },
@@ -190,6 +195,7 @@
   "ids": {
    "howlongtobeat": "1096",
    "igdb": "black-knight-sword",
+   "metacritic": "black-knight-sword",
    "mobygames": "92662"
   },
   "label_en": "Black Knight Sword",
@@ -280,6 +286,7 @@
    "gog": "game/massive_chalice",
    "howlongtobeat": "21704",
    "igdb": "massive-chalice",
+   "metacritic": "massive-chalice",
    "mobygames": "78143",
    "pcgamingwiki": "Massive_Chalice",
    "steam": "246110"
@@ -299,6 +306,7 @@
  {
   "ids": {
    "igdb": "gabrielles-ghostly-groove-3d",
+   "metacritic": "gabrielles-ghostly-groove-3d",
    "mobygames": "95874"
   },
   "label_en": "Gabrielle's Ghostly Groove 3D",
@@ -315,6 +323,7 @@
  },
  {
   "ids": {
+   "metacritic": "rival-knights",
    "mobygames": "73968"
   },
   "wikidata": "Q18396120"
@@ -348,6 +357,7 @@
    "gog": "game/super_neptunia_rpg",
    "howlongtobeat": "68522",
    "igdb": "super-neptunia-rpg",
+   "metacritic": "super-neptunia-rpg",
    "mobygames": "128090",
    "pcgamingwiki": "Super_Neptunia_RPG",
    "steam": "1016960"
@@ -369,6 +379,7 @@
    "gog": "game/fahrenheit_indigo_prophecy_remastered",
    "howlongtobeat": "4672",
    "igdb": "fahrenheit-indigo-prophecy-remastered",
+   "metacritic": "fahrenheit-indigo-prophecy-remastered",
    "mobygames": "70848",
    "pcgamingwiki": "Fahrenheit:_Indigo_Prophecy_Remastered",
    "steam": "312840"
@@ -399,6 +410,7 @@
   "ids": {
    "howlongtobeat": "17316",
    "igdb": "hexodius",
+   "metacritic": "hexodius",
    "mobygames": "104113",
    "pcgamingwiki": "Hexodius",
    "steam": "236490"
@@ -409,6 +421,7 @@
  {
   "ids": {
    "igdb": "pacific-gunner",
+   "metacritic": "pacific-gunner",
    "mobygames": "36649"
   },
   "label_en": "Pacific Gunner",
@@ -499,6 +512,7 @@
    "gog": "game/steamworld_build",
    "howlongtobeat": "123622",
    "igdb": "steamworld-build",
+   "metacritic": "steamworld-build",
    "mobygames": "213100",
    "pcgamingwiki": "SteamWorld_Build",
    "steam": "2134770"
@@ -553,6 +567,7 @@
   "enwiki": "Microsoft Flight Simulator 2024",
   "ids": {
    "igdb": "microsoft-flight-simulator-2024",
+   "metacritic": "microsoft-flight-simulator-2024",
    "pcgamingwiki": "Microsoft_Flight_Simulator_2024",
    "steam": "2537590"
   },
@@ -605,6 +620,7 @@
    "gog": "game/stasis_bone_totem",
    "howlongtobeat": "86843",
    "igdb": "stasis-bone-totem",
+   "metacritic": "stasis-bone-totem",
    "mobygames": "203954",
    "pcgamingwiki": "Stasis:_Bone_Totem",
    "steam": "1426010"
@@ -1295,6 +1311,7 @@
  {
   "ids": {
    "igdb": "dragon-rage",
+   "pcgamingwiki": "Dragon_Rage",
    "steam": "498190"
   },
   "label_en": "Dragon Rage",
@@ -1305,6 +1322,7 @@
   "ids": {
    "howlongtobeat": "49878",
    "igdb": "cube-creator-3d",
+   "metacritic": "cube-creator-3d",
    "mobygames": "99028"
   },
   "label_en": "Cube Creator 3D",

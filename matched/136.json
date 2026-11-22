@@ -40,6 +40,7 @@
   "enwiki": "NBA 2K1",
   "ids": {
    "igdb": "nba-2k1",
+   "metacritic": "nba-2k1",
    "mobygames": "5852"
   },
   "label_en": "NBA 2K1",
@@ -74,6 +75,7 @@
    "gog": "game/patrician_3",
    "howlongtobeat": "6942",
    "igdb": "patrician-iii",
+   "metacritic": "patrician-iii-rise-of-the-hanse",
    "mobygames": "15367",
    "pcgamingwiki": "Patrician_III:_Rise_of_the_Hanse",
    "steam": "33570"
@@ -85,6 +87,7 @@
   "enwiki": "Skylanders: Giants",
   "ids": {
    "igdb": "skylanders-giants",
+   "metacritic": "skylanders-giants",
    "mobygames": "62850"
   },
   "label_en": "Skylanders: Giants",
@@ -106,6 +109,7 @@
   "ids": {
    "howlongtobeat": "7349",
    "igdb": "project-gotham-racing-2",
+   "metacritic": "project-gotham-racing-2",
    "mobygames": "11216"
   },
   "label_en": "Project Gotham Racing 2",
@@ -143,6 +147,7 @@
   "enwiki": "New International Track & Field",
   "ids": {
    "igdb": "new-international-track-and-field",
+   "metacritic": "new-international-track-and-field",
    "mobygames": "37427"
   },
   "label_en": "New International Track & Field",
@@ -153,6 +158,7 @@
   "ids": {
    "howlongtobeat": "1525",
    "igdb": "carcassonne",
+   "metacritic": "carcassonne",
    "mobygames": "29452"
   },
   "label_en": "Carcassonne",
@@ -162,6 +168,7 @@
   "enwiki": "Dungeon Maker: Hunting Ground",
   "ids": {
    "igdb": "dungeon-maker-hunting-ground",
+   "metacritic": "dungeon-maker-hunting-ground",
    "mobygames": "32789"
   },
   "label_en": "Dungeon Maker: Hunting Ground",
@@ -194,6 +201,7 @@
   "ids": {
    "howlongtobeat": "6820",
    "igdb": "otomedius-x",
+   "metacritic": "otomedius-excellent",
    "mobygames": "58168"
   },
   "label_en": "Otomedius Excellent",
@@ -248,6 +256,7 @@
   "enwiki": "Gradius III and IV",
   "ids": {
    "igdb": "gradius-iii-and-iv",
+   "metacritic": "gradius-iii-and-iv",
    "mobygames": "17595"
   },
   "label_en": "Gradius III and IV",
@@ -279,6 +288,7 @@
   "ids": {
    "howlongtobeat": "22471",
    "igdb": "kinect-sports-rivals",
+   "metacritic": "kinect-sports-rivals",
    "mobygames": "67915"
   },
   "label_en": "Kinect Sports Rivals",
@@ -324,6 +334,7 @@
   "ids": {
    "howlongtobeat": "61393",
    "igdb": "dakar-18",
+   "metacritic": "dakar-18",
    "mobygames": "114130",
    "pcgamingwiki": "Dakar_18",
    "steam": "767390"
@@ -360,6 +371,7 @@
    "epic": "sakuna-of-rice-and-ruin",
    "howlongtobeat": "68363",
    "igdb": "sakuna-of-rice-and-ruin",
+   "metacritic": "sakuna-of-rice-and-ruin",
    "mobygames": "153186",
    "pcgamingwiki": "Sakuna:_Of_Rice_and_Ruin",
    "steam": "1356670"
@@ -375,6 +387,7 @@
   "ids": {
    "howlongtobeat": "39055",
    "igdb": "lovely-planet-arcade",
+   "metacritic": "lovely-planet-arcade",
    "mobygames": "128764",
    "pcgamingwiki": "Lovely_Planet_Arcade",
    "steam": "436000"
@@ -421,6 +434,7 @@
   "ids": {
    "howlongtobeat": "57000",
    "igdb": "zup-x",
+   "metacritic": "zup-x",
    "mobygames": "109138",
    "pcgamingwiki": "Zup!_X",
    "steam": "508900"
@@ -442,6 +456,7 @@
   "ids": {
    "howlongtobeat": "112955",
    "igdb": "abermore",
+   "metacritic": "abermore",
    "mobygames": "182133",
    "pcgamingwiki": "Abermore",
    "steam": "1569220"
@@ -485,6 +500,7 @@
    "epic": "star-wars-jedi-survivor",
    "howlongtobeat": "108358",
    "igdb": "star-wars-jedi-survivor",
+   "metacritic": "star-wars-jedi-survivor",
    "mobygames": "201867",
    "pcgamingwiki": "Star_Wars_Jedi:_Survivor",
    "steam": "1774580"
@@ -505,6 +521,7 @@
   "ids": {
    "howlongtobeat": "97111",
    "igdb": "paw-patrol-the-movie-adventure-city-calls",
+   "metacritic": "paw-patrol-the-movie-adventure-city-calls",
    "mobygames": "169349",
    "pcgamingwiki": "Paw_Patrol_The_Movie:_Adventure_City_Calls",
    "steam": "1434310"
@@ -546,7 +563,8 @@
  {
   "enwiki": "Broken Sword: The Shadow of the Templars (2002 video game)",
   "ids": {
-   "igdb": "broken-sword-the-shadow-of-the-templars--1"
+   "igdb": "broken-sword-the-shadow-of-the-templars--1",
+   "metacritic": "broken-sword-the-shadow-of-the-templars"
   },
   "label_en": "Broken Sword: The Shadow of the Templars",
   "wikidata": "Q117818136"
@@ -620,6 +638,7 @@
   "ids": {
    "howlongtobeat": "120023",
    "igdb": "rusted-moss",
+   "metacritic": "rusted-moss",
    "mobygames": "201732",
    "pcgamingwiki": "Rusted_Moss",
    "steam": "1772830"
@@ -1234,6 +1253,7 @@
  {
   "ids": {
    "igdb": "backfire",
+   "pcgamingwiki": "Backfire",
    "steam": "548260"
   },
   "label_en": "Backfire",

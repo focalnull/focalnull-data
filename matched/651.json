@@ -3,6 +3,7 @@
   "enwiki": "Devastation (video game)",
   "ids": {
    "igdb": "devastation",
+   "metacritic": "devastation",
    "mobygames": "8823",
    "pcgamingwiki": "Devastation"
   },
@@ -43,6 +44,7 @@
   "ids": {
    "howlongtobeat": "7791",
    "igdb": "rhythm-heaven-fever",
+   "metacritic": "rhythm-heaven-fever",
    "mobygames": "54132"
   },
   "label_en": "Rhythm Heaven Fever",
@@ -89,6 +91,7 @@
   "ids": {
    "howlongtobeat": "7394",
    "igdb": "pure-chess",
+   "metacritic": "pure-chess",
    "mobygames": "55943",
    "pcgamingwiki": "Pure_Chess_Grandmaster_Edition",
    "steam": "300630"
@@ -123,6 +126,7 @@
   "ids": {
    "howlongtobeat": "3263",
    "igdb": "excitebots-trick-racing",
+   "metacritic": "excitebots-trick-racing",
    "mobygames": "51185"
   },
   "label_en": "ExciteBots: Trick Racing",
@@ -134,6 +138,7 @@
    "gog": "game/moonbase_commander",
    "howlongtobeat": "16313",
    "igdb": "moonbase-commander",
+   "metacritic": "moonbase-commander",
    "mobygames": "7171",
    "pcgamingwiki": "Moonbase_Commander",
    "steam": "254880"
@@ -173,6 +178,7 @@
   "enwiki": "The Wonderful 101",
   "ids": {
    "igdb": "the-wonderful-101",
+   "metacritic": "the-wonderful-101",
    "mobygames": "73612"
   },
   "label_en": "The Wonderful 101",
@@ -193,6 +199,7 @@
   "ids": {
    "howlongtobeat": "12653",
    "igdb": "madden-nfl-25",
+   "metacritic": "madden-nfl-25",
    "mobygames": "64882"
   },
   "label_en": "Madden NFL 25",
@@ -212,6 +219,7 @@
   "ids": {
    "howlongtobeat": "46076",
    "igdb": "pokemon-magikarp-jump",
+   "metacritic": "pokemon-magikarp-jump",
    "mobygames": "88941"
   },
   "label_en": "Magikarp Jump",
@@ -250,6 +258,7 @@
    "gog": "game/rezrog",
    "howlongtobeat": "51235",
    "igdb": "rezrog",
+   "metacritic": "rezrog",
    "mobygames": "89676",
    "pcgamingwiki": "Rezrog",
    "steam": "548370"
@@ -261,6 +270,7 @@
   "ids": {
    "howlongtobeat": "49066",
    "igdb": "doom-vfr",
+   "metacritic": "doom-vfr",
    "mobygames": "98860",
    "pcgamingwiki": "Doom_VFR",
    "steam": "650000"
@@ -272,6 +282,7 @@
   "ids": {
    "howlongtobeat": "1353",
    "igdb": "bubble-bobble-neo",
+   "metacritic": "bubble-bobble-neo",
    "mobygames": "47416"
   },
   "label_en": "Bubble Bobble Neo!",
@@ -299,6 +310,7 @@
  {
   "ids": {
    "igdb": "the-gem-collector",
+   "metacritic": "the-gem-collector",
    "mobygames": "92262"
   },
   "label_en": "The Gem Collector",
@@ -310,6 +322,7 @@
    "gog": "game/nanotale_typing_chronicles",
    "howlongtobeat": "71950",
    "igdb": "nanotale-typing-chronicles",
+   "metacritic": "nanotale-typing-chronicles",
    "mobygames": "136586",
    "pcgamingwiki": "Nanotale_-_Typing_Chronicles",
    "steam": "944920"
@@ -323,6 +336,7 @@
    "gog": "game/endzone_a_world_apart",
    "howlongtobeat": "78122",
    "igdb": "endzone-a-world-apart",
+   "metacritic": "endzone-a-world-apart",
    "mobygames": "142481",
    "pcgamingwiki": "Endzone_-_A_World_Apart",
    "steam": "933820"
@@ -332,7 +346,8 @@
  },
  {
   "ids": {
-   "howlongtobeat": "36641"
+   "howlongtobeat": "36641",
+   "metacritic": "jellies"
   },
   "label_en": "Jellies!",
   "wikidata": "Q105156651"
@@ -353,6 +368,7 @@
   "ids": {
    "howlongtobeat": "94410",
    "igdb": "legends-of-kingdom-rush",
+   "metacritic": "legends-of-kingdom-rush",
    "mobygames": "166449",
    "pcgamingwiki": "Legends_of_Kingdom_Rush",
    "steam": "1904860"
@@ -365,6 +381,7 @@
   "ids": {
    "howlongtobeat": "96762",
    "igdb": "car-mechanic-simulator-2021",
+   "metacritic": "car-mechanic-simulator-2021",
    "mobygames": "169255",
    "pcgamingwiki": "Car_Mechanic_Simulator_2021",
    "steam": "1190000"
@@ -559,6 +576,7 @@
    "howlongtobeat": "122320",
    "igdb": "riding-to-bounce-city",
    "mobygames": "212835",
+   "pcgamingwiki": "Riding_to_Bounce_City",
    "steam": "1892370"
   },
   "label_en": "Riding to Bounce City",
@@ -841,6 +859,7 @@
   "ids": {
    "howlongtobeat": "112000",
    "igdb": "dragon-island",
+   "metacritic": "dragon-island-visual-novel",
    "mobygames": "219284",
    "steam": "1554470"
   },
@@ -851,6 +870,7 @@
   "ids": {
    "howlongtobeat": "131630",
    "igdb": "tomba-special-edition",
+   "metacritic": "tomba-special-edition",
    "mobygames": "228568",
    "pcgamingwiki": "Tomba!_Special_Edition",
    "steam": "2851150"
@@ -1184,6 +1204,7 @@
  {
   "ids": {
    "igdb": "fado",
+   "pcgamingwiki": "Fadó:_Chapter_One",
    "steam": "1148200"
   },
   "label_en": "Fadó: Chapter One",

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4076",
    "igdb": "grand-theft-auto-vice-city-stories",
+   "metacritic": "grand-theft-auto-vice-city-stories",
    "mobygames": "25695"
   },
   "label_en": "Grand Theft Auto: Vice City Stories",
@@ -34,6 +35,7 @@
    "gog": "game/galactic_civilizations_i_ultimate_edition",
    "howlongtobeat": "27860",
    "igdb": "galactic-civilizations",
+   "metacritic": "galactic-civilizations",
    "mobygames": "9541",
    "pcgamingwiki": "Galactic_Civilizations",
    "steam": "214150"
@@ -45,6 +47,7 @@
   "enwiki": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
   "ids": {
    "igdb": "teenage-mutant-ninja-turtles-2-battle-nexus",
+   "metacritic": "teenage-mutant-ninja-turtles-2-battle-nexus",
    "mobygames": "16667",
    "pcgamingwiki": "Teenage_Mutant_Ninja_Turtles_2:_Battle_Nexus"
   },
@@ -74,6 +77,7 @@
   "enwiki": "WWF Raw (2002 video game)",
   "ids": {
    "igdb": "wwe-raw",
+   "metacritic": "wwf-raw",
    "mobygames": "6920",
    "pcgamingwiki": "WWF_Raw"
   },
@@ -94,6 +98,7 @@
   "ids": {
    "howlongtobeat": "1417",
    "igdb": "bust-a-move-2-arcade-edition--1",
+   "metacritic": "puzzle-bobble-2",
    "mobygames": "5864",
    "pcgamingwiki": "Puzzle_Bobble_2_(2019)"
   },
@@ -114,6 +119,7 @@
   "ids": {
    "howlongtobeat": "6830",
    "igdb": "outlaw-tennis",
+   "metacritic": "outlaw-tennis",
    "mobygames": "27042"
   },
   "label_en": "Outlaw Tennis",
@@ -208,6 +214,7 @@
   "ids": {
    "howlongtobeat": "10524",
    "igdb": "top-trumps-doctor-who",
+   "metacritic": "top-trumps-doctor-who",
    "mobygames": "53762"
   },
   "label_en": "Top Trumps: Doctor Who",
@@ -228,6 +235,7 @@
   "enwiki": "Henry Hatsworth in the Puzzling Adventure",
   "ids": {
    "igdb": "henry-hatsworth-in-the-puzzling-adventure",
+   "metacritic": "henry-hatsworth-in-the-puzzling-adventure",
    "mobygames": "40328"
   },
   "label_en": "Henry Hatsworth in the Puzzling Adventure",
@@ -255,6 +263,7 @@
   "enwiki": "Fire Emblem Heroes",
   "ids": {
    "igdb": "fire-emblem-heroes",
+   "metacritic": "fire-emblem-heroes",
    "mobygames": "83433"
   },
   "label_en": "Fire Emblem Heroes",
@@ -284,6 +293,7 @@
   "ids": {
    "howlongtobeat": "19441",
    "igdb": "cult-of-the-wind",
+   "metacritic": "cult-of-the-wind",
    "mobygames": "97961",
    "pcgamingwiki": "Cult_of_the_Wind",
    "steam": "293840"
@@ -294,6 +304,7 @@
  {
   "ids": {
    "igdb": "i-support-bcrf",
+   "metacritic": "i-support-breast-cancer-research",
    "pcgamingwiki": "I_Support_Breast_Cancer_Research",
    "steam": "1035640"
   },
@@ -328,6 +339,7 @@
   "enwiki": "NCAA Final Four 2002",
   "ids": {
    "igdb": "ncaa-final-four-2002",
+   "metacritic": "ncaa-final-four-2002",
    "mobygames": "39997"
   },
   "label_en": "NCAA Final Four 2002",
@@ -337,6 +349,7 @@
   "ids": {
    "howlongtobeat": "65933",
    "igdb": "dont-forget-our-esports-dream",
+   "metacritic": "dont-forget-our-esports-dream",
    "mobygames": "118277",
    "pcgamingwiki": "Don't_Forget_Our_Esports_Dream",
    "steam": "946560"
@@ -350,6 +363,7 @@
    "epic": "riders-republic",
    "howlongtobeat": "87196",
    "igdb": "riders-republic",
+   "metacritic": "riders-republic",
    "mobygames": "174340",
    "pcgamingwiki": "Riders_Republic",
    "steam": "2290180"
@@ -394,6 +408,7 @@
    "gog": "game/sparklite",
    "howlongtobeat": "69776",
    "igdb": "sparklite",
+   "metacritic": "sparklite",
    "mobygames": "121500",
    "pcgamingwiki": "Sparklite",
    "steam": "943140"
@@ -770,6 +785,7 @@
   "ids": {
    "howlongtobeat": "28665",
    "igdb": "16-bit-arena",
+   "metacritic": "16-bit-arena",
    "mobygames": "80486",
    "pcgamingwiki": "16_Bit_Arena"
   },
@@ -1111,6 +1127,7 @@
   "ids": {
    "epic": "escape-from-duckov-cn-637868",
    "igdb": "escape-from-duckov",
+   "metacritic": "escape-from-duckov",
    "mobygames": "249084",
    "pcgamingwiki": "Escape_From_Duckov",
    "steam": "3167020"
@@ -1203,6 +1220,13 @@
   },
   "label_en": "Morkull Ascend to the Gods",
   "wikidata": "Q136892640"
+ },
+ {
+  "ids": {
+   "mobygames": "113495"
+  },
+  "label_en": "Pyramid Patrol",
+  "wikidata": "Q139916640"
  },
  {
   "ids": {

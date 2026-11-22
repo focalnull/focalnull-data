@@ -3,6 +3,7 @@
   "enwiki": "Wings of War (video game)",
   "ids": {
    "igdb": "wings-of-war",
+   "metacritic": "wings-of-war",
    "mobygames": "26904",
    "pcgamingwiki": "Wings_of_War"
   },
@@ -15,6 +16,7 @@
    "gog": "game/the_secret_of_monkey_island_special_edition",
    "howlongtobeat": "10162",
    "igdb": "the-secret-of-monkey-island-special-edition",
+   "metacritic": "the-secret-of-monkey-island-special-edition",
    "mobygames": "41611",
    "pcgamingwiki": "The_Secret_of_Monkey_Island:_Special_Edition",
    "steam": "32360"
@@ -26,6 +28,7 @@
   "enwiki": "Emperor: Battle for Dune",
   "ids": {
    "igdb": "emperor-battle-for-dune",
+   "metacritic": "emperor-battle-for-dune",
    "mobygames": "3777",
    "pcgamingwiki": "Emperor:_Battle_for_Dune"
   },
@@ -37,6 +40,7 @@
   "ids": {
    "howlongtobeat": "8875",
    "igdb": "space-station-silicon-valley--1",
+   "metacritic": "space-station-silicon-valley",
    "mobygames": "8899"
   },
   "label_en": "Space Station Silicon Valley",
@@ -46,6 +50,7 @@
   "enwiki": "WWE Road to WrestleMania X8",
   "ids": {
    "igdb": "wwe-road-to-wrestlemania-x8",
+   "metacritic": "wwe-road-to-wrestlemania-x8",
    "mobygames": "8948"
   },
   "label_en": "WWE Road to WrestleMania X8",
@@ -55,6 +60,7 @@
   "enwiki": "Mega Man ZX Advent",
   "ids": {
    "igdb": "mega-man-zx-advent",
+   "metacritic": "mega-man-zx-advent",
    "mobygames": "31183"
   },
   "label_en": "Mega Man ZX Advent",
@@ -65,6 +71,7 @@
   "ids": {
    "howlongtobeat": "1490",
    "igdb": "calling",
+   "metacritic": "calling",
    "mobygames": "48788"
   },
   "label_en": "Calling",
@@ -75,6 +82,7 @@
   "ids": {
    "howlongtobeat": "4216",
    "igdb": "guns-of-icarus-online",
+   "metacritic": "guns-of-icarus-online",
    "mobygames": "63899",
    "pcgamingwiki": "Guns_of_Icarus_Online",
    "steam": "209080"
@@ -107,6 +115,7 @@
   "ids": {
    "howlongtobeat": "15941",
    "igdb": "castlevania-lords-of-shadow-2",
+   "metacritic": "castlevania-lords-of-shadow-2",
    "mobygames": "63959",
    "pcgamingwiki": "Castlevania:_Lords_of_Shadow_2",
    "steam": "239250"
@@ -119,6 +128,7 @@
   "ids": {
    "howlongtobeat": "14707",
    "igdb": "the-history-channel-battle-for-the-pacific",
+   "metacritic": "the-history-channel-battle-for-the-pacific",
    "mobygames": "34159",
    "pcgamingwiki": "The_History_Channel:_Battle_for_the_Pacific",
    "steam": "10040"
@@ -139,6 +149,7 @@
   "enwiki": "Disney Sports Football",
   "ids": {
    "igdb": "disney-sports-football",
+   "metacritic": "disney-sports-football",
    "mobygames": "34762"
   },
   "label_en": "Disney Sports Football",
@@ -183,6 +194,7 @@
   "enwiki": "Etrian Odyssey Untold: The Millennium Girl",
   "ids": {
    "igdb": "etrian-odyssey-untold-the-millennium-girl",
+   "metacritic": "etrian-odyssey-untold-the-millenium-girl",
    "mobygames": "76497"
   },
   "label_en": "Etrian Odyssey Untold: The Millennium Girl",
@@ -194,6 +206,7 @@
    "gog": "game/cyberia_2_resurrection",
    "howlongtobeat": "26718",
    "igdb": "cyberia-2-resurrection",
+   "metacritic": "cyberia-2-resurrection",
    "mobygames": "809",
    "pcgamingwiki": "Cyberia_2:_Resurrection",
    "steam": "717720"
@@ -205,6 +218,7 @@
   "enwiki": "JoJo's Bizarre Adventure: Eyes of Heaven",
   "ids": {
    "igdb": "jojos-bizarre-adventure-eyes-of-heaven",
+   "metacritic": "jojos-bizarre-adventure-eyes-of-heaven",
    "mobygames": "84078"
   },
   "label_en": "JoJo's Bizarre Adventure: Eyes of Heaven",
@@ -237,6 +251,7 @@
    "gog": "game/hob",
    "howlongtobeat": "37105",
    "igdb": "hob",
+   "metacritic": "hob",
    "mobygames": "96430",
    "pcgamingwiki": "Hob",
    "steam": "404680"
@@ -261,6 +276,7 @@
    "gog": "game/cat_quest",
    "howlongtobeat": "48142",
    "igdb": "cat-quest",
+   "metacritic": "cat-quest",
    "mobygames": "94182",
    "pcgamingwiki": "Cat_Quest",
    "steam": "593280"
@@ -276,6 +292,7 @@
   "ids": {
    "howlongtobeat": "44281",
    "igdb": "trump-simulator-2017",
+   "metacritic": "trump-simulator-2017",
    "pcgamingwiki": "Trump_Simulator_2017",
    "steam": "575910"
   },
@@ -286,6 +303,7 @@
   "ids": {
    "howlongtobeat": "63082",
    "igdb": "a-bloody-night",
+   "metacritic": "a-bloody-night",
    "pcgamingwiki": "A_Bloody_Night",
    "steam": "639720"
   },
@@ -305,6 +323,7 @@
    "gog": "game/knock_knock",
    "howlongtobeat": "13880",
    "igdb": "knock-knock",
+   "metacritic": "knock-knock",
    "mobygames": "62589",
    "pcgamingwiki": "Knock-Knock",
    "steam": "250380"
@@ -316,6 +335,7 @@
   "ids": {
    "howlongtobeat": "45023",
    "igdb": "blossom-tales-the-sleeping-king",
+   "metacritic": "blossom-tales-the-sleeping-king",
    "mobygames": "99717",
    "pcgamingwiki": "Blossom_Tales:_The_Sleeping_King",
    "steam": "446810"
@@ -339,6 +359,7 @@
    "epic": "bloodroots",
    "howlongtobeat": "68373",
    "igdb": "bloodroots",
+   "metacritic": "bloodroots",
    "mobygames": "143022",
    "pcgamingwiki": "Bloodroots",
    "steam": "820540"
@@ -375,6 +396,7 @@
    "gog": "game/before_your_eyes",
    "howlongtobeat": "90830",
    "igdb": "before-your-eyes",
+   "metacritic": "before-your-eyes",
    "mobygames": "161717",
    "pcgamingwiki": "Before_Your_Eyes",
    "steam": "1082430"
@@ -431,6 +453,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-13",
+   "metacritic": "vacation-adventures-park-ranger-13",
    "steam": "1944560"
   },
   "label_en": "Vacation Adventures: Park Ranger 13",

@@ -30,6 +30,7 @@
   "enwiki": "FIFA Street (2005 video game)",
   "ids": {
    "igdb": "fifa-street",
+   "metacritic": "fifa-street",
    "mobygames": "17347"
   },
   "label_en": "FIFA Street",
@@ -89,6 +90,7 @@
   "enwiki": "Robocalypse: Beaver Defense",
   "ids": {
    "igdb": "robocalypse-beaver-defense",
+   "metacritic": "robocalypse-beaver-defense",
    "mobygames": "85621"
   },
   "label_en": "Robocalypse: Beaver Defense",
@@ -103,6 +105,7 @@
   "ids": {
    "howlongtobeat": "20884",
    "igdb": "the-golf-club",
+   "metacritic": "the-golf-club",
    "mobygames": "68506",
    "pcgamingwiki": "The_Golf_Club",
    "steam": "269730"
@@ -115,6 +118,7 @@
   "ids": {
    "howlongtobeat": "3669",
    "igdb": "fotonica--1",
+   "metacritic": "fotonica",
    "mobygames": "50103",
    "pcgamingwiki": "Fotonica",
    "steam": "253290"
@@ -127,6 +131,7 @@
   "ids": {
    "howlongtobeat": "25275",
    "igdb": "ride",
+   "metacritic": "ride",
    "mobygames": "73786",
    "pcgamingwiki": "Ride",
    "steam": "345660"
@@ -159,6 +164,7 @@
   "ids": {
    "howlongtobeat": "60633",
    "igdb": "bigfoot--1",
+   "metacritic": "finding-bigfoot",
    "mobygames": "84605",
    "pcgamingwiki": "Finding_Bigfoot",
    "steam": "509980"
@@ -171,12 +177,16 @@
   "ids": {
    "howlongtobeat": "65200",
    "igdb": "marvel-ultimate-alliance-3-the-black-order",
+   "metacritic": "marvel-ultimate-alliance-3-the-black-order",
    "mobygames": "130148"
   },
   "label_en": "Marvel: Ultimate Alliance 3: The Black Order",
   "wikidata": "Q60761273"
  },
  {
+  "ids": {
+   "metacritic": "happy"
+  },
   "label_en": "Happy",
   "wikidata": "Q61977273"
  },
@@ -186,6 +196,7 @@
    "gog": "game/figment",
    "howlongtobeat": "48177",
    "igdb": "figment",
+   "metacritic": "figment",
    "mobygames": "96319",
    "pcgamingwiki": "Figment",
    "steam": "493540"
@@ -221,6 +232,7 @@
    "gog": "game/immortality",
    "howlongtobeat": "93973",
    "igdb": "immortality",
+   "metacritic": "immortality",
    "mobygames": "190202",
    "pcgamingwiki": "Immortality",
    "steam": "1350200"
@@ -232,6 +244,7 @@
   "enwiki": "Skydive: Proximity Flight",
   "ids": {
    "igdb": "skydive-proximity-flight",
+   "metacritic": "skydive-proximity-flight",
    "mobygames": "63582"
   },
   "label_en": "Skydive: Proximity Flight",
@@ -242,6 +255,7 @@
    "gog": "game/lacuna_a_scifi_noir_adventure",
    "howlongtobeat": "92555",
    "igdb": "lacuna",
+   "metacritic": "lacuna-a-sci-fi-noir-adventure",
    "mobygames": "164830",
    "pcgamingwiki": "Lacuna",
    "steam": "1364100"
@@ -266,6 +280,7 @@
    "gog": "game/the_life_and_suffering_of_sir_brante",
    "howlongtobeat": "89353",
    "igdb": "the-life-and-suffering-of-sir-brante",
+   "metacritic": "the-life-and-suffering-of-sir-brante",
    "mobygames": "160017",
    "pcgamingwiki": "The_Life_and_Suffering_of_Sir_Brante",
    "steam": "1272160"
@@ -337,6 +352,7 @@
   "ids": {
    "howlongtobeat": "33285",
    "igdb": "roche-fusion",
+   "metacritic": "roche-fusion",
    "mobygames": "135996",
    "pcgamingwiki": "Roche_Fusion",
    "steam": "334140"
@@ -360,6 +376,7 @@
    "gog": "game/spellforce_conquest_of_eo",
    "howlongtobeat": "110139",
    "igdb": "spellforce-conquest-of-eo",
+   "metacritic": "spellforce-conquest-of-eo",
    "mobygames": "198510",
    "pcgamingwiki": "SpellForce:_Conquest_of_Eo",
    "steam": "1581770"
@@ -483,6 +500,7 @@
   "ids": {
    "howlongtobeat": "87050",
    "igdb": "into-a-dream",
+   "metacritic": "into-a-dream",
    "mobygames": "159863",
    "steam": "1238360"
   },
@@ -567,6 +585,7 @@
  {
   "ids": {
    "igdb": "karagon",
+   "metacritic": "karagon",
    "mobygames": "201913",
    "pcgamingwiki": "Karagon",
    "steam": "1818610"
@@ -577,6 +596,7 @@
  {
   "ids": {
    "igdb": "bygg-hus-med-mulle-meck",
+   "metacritic": "bygg-hus-med-mulle-meck",
    "mobygames": "52441"
   },
   "label_en": "Bygg hus med Mulle Meck",
@@ -699,6 +719,7 @@
  {
   "ids": {
    "igdb": "wall-kickers",
+   "metacritic": "wall-kickers",
    "mobygames": "156522"
   },
   "label_en": "Wall Kickers",
@@ -1046,6 +1067,7 @@
  {
   "ids": {
    "igdb": "nya-nya-nya-girls",
+   "pcgamingwiki": "Nya_Nya_Nya_Girls_(ʻʻʻ)_(=^･ω･^=)_(ʻʻʻ)",
    "steam": "963330"
   },
   "label_en": "Nya Nya Nya Girls (ʻʻʻ)_(=^･ω･^=)_(ʻʻʻ)",
@@ -1053,6 +1075,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "DevilConnection",
    "steam": "3054820"
   },
   "label_en": "DevilConnection",

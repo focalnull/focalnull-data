@@ -3,6 +3,7 @@
   "enwiki": "Kinect Star Wars",
   "ids": {
    "igdb": "kinect-star-wars",
+   "metacritic": "kinect-star-wars",
    "mobygames": "55477"
   },
   "label_en": "Kinect Star Wars",
@@ -40,6 +41,7 @@
   "ids": {
    "howlongtobeat": "1060",
    "igdb": "bionic-commando-rearmed-2",
+   "metacritic": "bionic-commando-rearmed",
    "mobygames": "36081",
    "pcgamingwiki": "Bionic_Commando_Rearmed",
    "steam": "21680"
@@ -84,6 +86,7 @@
   "enwiki": "Choro Q HG 4",
   "ids": {
    "igdb": "choroq",
+   "metacritic": "choroq",
    "mobygames": "18973"
   },
   "label_en": "ChoroQ",
@@ -140,6 +143,7 @@
   "enwiki": "The Ward (2000 video game)",
   "ids": {
    "igdb": "the-ward",
+   "metacritic": "the-ward",
    "mobygames": "3255",
    "pcgamingwiki": "The_Ward"
   },
@@ -162,6 +166,7 @@
   "ids": {
    "howlongtobeat": "10597",
    "igdb": "trackmania-united-forever",
+   "metacritic": "trackmania-united",
    "mobygames": "41063",
    "pcgamingwiki": "TrackMania_United_Forever",
    "steam": "7200"
@@ -173,6 +178,7 @@
   "enwiki": "Mario Party 10",
   "ids": {
    "igdb": "mario-party-10",
+   "metacritic": "mario-party-10",
    "mobygames": "74612"
   },
   "label_en": "Mario Party 10",
@@ -186,6 +192,7 @@
   "ids": {
    "howlongtobeat": "19108",
    "igdb": "no-heroes-allowed-no-puzzles-either",
+   "metacritic": "no-heroes-allowed-no-puzzles-either",
    "mobygames": "86975"
   },
   "label_en": "No Heroes Allowed: No Puzzles Either!",
@@ -196,6 +203,7 @@
   "ids": {
    "howlongtobeat": "22487",
    "igdb": "lethal-league",
+   "metacritic": "lethal-league",
    "mobygames": "65370",
    "pcgamingwiki": "Lethal_League",
    "steam": "261180"
@@ -240,6 +248,7 @@
    "epic": "faeria",
    "howlongtobeat": "35873",
    "igdb": "faeria",
+   "metacritic": "faeria",
    "mobygames": "85277",
    "pcgamingwiki": "Faeria",
    "steam": "397060"
@@ -252,6 +261,7 @@
   "ids": {
    "howlongtobeat": "50834",
    "igdb": "super-blood-hockey",
+   "metacritic": "super-blood-hockey",
    "mobygames": "94641",
    "pcgamingwiki": "Super_Blood_Hockey",
    "steam": "532190"
@@ -281,6 +291,7 @@
    "gog": "game/arabian_nights",
    "howlongtobeat": "49159",
    "igdb": "arabian-nights--1",
+   "metacritic": "arabian-nights",
    "mobygames": "6290",
    "pcgamingwiki": "Arabian_Nights"
   },
@@ -298,6 +309,7 @@
   "ids": {
    "howlongtobeat": "28215",
    "igdb": "pro-cycling-manager-2015",
+   "metacritic": "pro-cycling-manager-season-2015",
    "mobygames": "85569",
    "pcgamingwiki": "Pro_Cycling_Manager_2015",
    "steam": "322850"
@@ -489,6 +501,7 @@
   "ids": {
    "howlongtobeat": "59794",
    "igdb": "flipping-death",
+   "metacritic": "flipping-death",
    "mobygames": "101190",
    "pcgamingwiki": "Flipping_Death",
    "steam": "626660"
@@ -764,6 +777,9 @@
   "wikidata": "Q126696196"
  },
  {
+  "ids": {
+   "metacritic": "ace-banana"
+  },
   "label_en": "Ace Banana",
   "wikidata": "Q127273196"
  },
@@ -1044,6 +1060,7 @@
  {
   "ids": {
    "igdb": "d1al-ogue",
+   "metacritic": "d1al-ogue",
    "steam": "4270390"
   },
   "label_en": "D1AL-ogue",

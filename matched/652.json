@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4617",
    "igdb": "il-2-sturmovik",
+   "metacritic": "il-2-sturmovik",
    "mobygames": "5410",
    "pcgamingwiki": "IL-2_Sturmovik"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "9413",
    "igdb": "super-puzzle-fighter-ii-turbo",
+   "metacritic": "super-puzzle-fighter-ii",
    "mobygames": "3102",
    "pcgamingwiki": "Super_Puzzle_Fighter_II_Turbo"
   },
@@ -74,6 +76,7 @@
   "enwiki": "NBA Ballers",
   "ids": {
    "igdb": "nba-ballers",
+   "metacritic": "nba-ballers",
    "mobygames": "14076"
   },
   "label_en": "NBA Ballers",
@@ -130,6 +133,7 @@
   "ids": {
    "howlongtobeat": "14442",
    "igdb": "the-mighty-quest-for-epic-loot",
+   "metacritic": "the-mighty-quest-for-epic-loot",
    "mobygames": "63777",
    "pcgamingwiki": "The_Mighty_Quest_for_Epic_Loot",
    "steam": "239220"
@@ -171,6 +175,7 @@
   "ids": {
    "howlongtobeat": "57138",
    "igdb": "just-shapes-and-beats",
+   "metacritic": "just-shapes-beats",
    "mobygames": "106051",
    "pcgamingwiki": "Just_Shapes_&_Beats",
    "steam": "531510"
@@ -193,6 +198,7 @@
    "gog": "game/encodya",
    "howlongtobeat": "87824",
    "igdb": "encodya",
+   "metacritic": "encodya",
    "mobygames": "159202",
    "pcgamingwiki": "Encodya",
    "steam": "1137450"
@@ -206,6 +212,7 @@
    "gog": "game/infested_planet",
    "howlongtobeat": "17476",
    "igdb": "infested-planet",
+   "metacritic": "infested-planet",
    "mobygames": "97235",
    "pcgamingwiki": "Infested_Planet",
    "steam": "204530"
@@ -229,6 +236,7 @@
    "gog": "game/the_beast_inside",
    "howlongtobeat": "71370",
    "igdb": "the-beast-inside",
+   "metacritic": "the-beast-inside",
    "mobygames": "136157",
    "pcgamingwiki": "The_Beast_Inside",
    "steam": "792300"
@@ -240,6 +248,7 @@
   "ids": {
    "howlongtobeat": "83528",
    "igdb": "pull-stay",
+   "metacritic": "pull-stay",
    "pcgamingwiki": "Pull_Stay",
    "steam": "1179890"
   },
@@ -349,6 +358,7 @@
    "gog": "game/phoenotopia_awakening",
    "howlongtobeat": "82795",
    "igdb": "phoenotopia-awakening",
+   "metacritic": "phoenotopia-awakening",
    "mobygames": "149370",
    "pcgamingwiki": "Phoenotopia:_Awakening",
    "steam": "1436590"
@@ -386,6 +396,7 @@
   "ids": {
    "howlongtobeat": "129877",
    "igdb": "en-garde",
+   "metacritic": "en-garde",
    "mobygames": "207333",
    "pcgamingwiki": "En_Garde!",
    "steam": "1654660"
@@ -640,6 +651,7 @@
    "gog": "game/in_stars_and_time",
    "howlongtobeat": "129901",
    "igdb": "in-stars-and-time",
+   "metacritic": "in-stars-and-time",
    "mobygames": "212380",
    "pcgamingwiki": "In_Stars_and_Time",
    "steam": "1677310"
@@ -1102,6 +1114,7 @@
  {
   "ids": {
    "igdb": "megastore-simulator--1",
+   "pcgamingwiki": "Megastore_Simulator",
    "steam": "3819640"
   },
   "label_en": "Megastore Simulator",

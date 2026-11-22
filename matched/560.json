@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3665",
    "igdb": "forza-motorsport-4",
+   "metacritic": "forza-motorsport-4",
    "mobygames": "54080"
   },
   "label_en": "Forza Motorsport 4",
@@ -63,6 +64,7 @@
   "ids": {
    "howlongtobeat": "827",
    "igdb": "band-hero",
+   "metacritic": "band-hero",
    "mobygames": "45559"
   },
   "label_en": "Band Hero",
@@ -82,6 +84,7 @@
   "ids": {
    "howlongtobeat": "953",
    "igdb": "battlestations-pacific",
+   "metacritic": "battlestations-pacific",
    "mobygames": "40747",
    "pcgamingwiki": "Battlestations:_Pacific",
    "steam": "8170"
@@ -94,6 +97,7 @@
   "ids": {
    "howlongtobeat": "11316",
    "igdb": "worms-ultimate-mayhem",
+   "metacritic": "worms-ultimate-mayhem",
    "mobygames": "56974",
    "pcgamingwiki": "Worms_Ultimate_Mayhem",
    "steam": "70600"
@@ -134,6 +138,7 @@
   "ids": {
    "howlongtobeat": "3614",
    "igdb": "flyn",
+   "metacritic": "flyn",
    "mobygames": "70976",
    "pcgamingwiki": "Fly'N",
    "steam": "223730"
@@ -146,6 +151,7 @@
   "ids": {
    "howlongtobeat": "8705",
    "igdb": "socom-ii-us-navy-seals",
+   "metacritic": "socom-ii-u-s-navy-seals",
    "mobygames": "13945"
   },
   "label_en": "SOCOM II U.S. Navy SEALs",
@@ -175,6 +181,7 @@
   "ids": {
    "howlongtobeat": "4294",
    "igdb": "happy-wars",
+   "metacritic": "happy-wars",
    "mobygames": "61031",
    "pcgamingwiki": "Happy_Wars",
    "steam": "246280"
@@ -202,6 +209,7 @@
   "enwiki": "Phantom Crash",
   "ids": {
    "igdb": "phantom-crash",
+   "metacritic": "phantom-crash",
    "mobygames": "20973"
   },
   "label_en": "Phantom Crash",
@@ -217,6 +225,7 @@
   "ids": {
    "howlongtobeat": "119268",
    "igdb": "war-world-tactical-combat",
+   "metacritic": "war-world-tactical-combat",
    "mobygames": "30648",
    "pcgamingwiki": "War_World:_Tactical_Combat"
   },
@@ -244,6 +253,7 @@
   "ids": {
    "howlongtobeat": "21063",
    "igdb": "et-interplanetary-mission",
+   "metacritic": "et-interplanetary-mission",
    "mobygames": "44449"
   },
   "label_en": "E.T.: Interplanetary Mission",
@@ -291,6 +301,7 @@
   "ids": {
    "howlongtobeat": "36166",
    "igdb": "casey-powell-lacrosse-16",
+   "metacritic": "casey-powell-lacrosse-16",
    "mobygames": "86970",
    "pcgamingwiki": "Casey_Powell_Lacrosse_16",
    "steam": "353890"
@@ -303,6 +314,7 @@
   "ids": {
    "howlongtobeat": "38001",
    "igdb": "battlefield-1",
+   "metacritic": "battlefield-1",
    "mobygames": "81219",
    "pcgamingwiki": "Battlefield_1",
    "steam": "1238840"
@@ -389,6 +401,7 @@
   "ids": {
    "howlongtobeat": "94885",
    "igdb": "griefhelm",
+   "metacritic": "griefhelm",
    "mobygames": "149506",
    "pcgamingwiki": "Griefhelm",
    "steam": "1125330"
@@ -411,6 +424,7 @@
    "epic": "my-friendly-neighborhood-339aed",
    "howlongtobeat": "104758",
    "igdb": "my-friendly-neighborhood",
+   "metacritic": "my-friendly-neighborhood",
    "mobygames": "205981",
    "pcgamingwiki": "My_Friendly_Neighborhood",
    "steam": "1574260"
@@ -868,6 +882,7 @@
   "ids": {
    "howlongtobeat": "169281",
    "igdb": "scott-pilgrim-ex",
+   "metacritic": "scott-pilgrim-ex",
    "pcgamingwiki": "Scott_Pilgrim_EX",
    "steam": "2640950"
   },
@@ -1170,6 +1185,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Mr._Records",
    "steam": "3053470"
   },
   "label_en": "Mr. Records",

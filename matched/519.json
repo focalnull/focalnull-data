@@ -39,6 +39,7 @@
   "enwiki": "R.U.S.E.",
   "ids": {
    "igdb": "ruse",
+   "metacritic": "r-u-s-e",
    "mobygames": "51984",
    "pcgamingwiki": "R.U.S.E.",
    "steam": "21970"
@@ -61,6 +62,7 @@
   "ids": {
    "howlongtobeat": "4941",
    "igdb": "katamari-damacy",
+   "metacritic": "katamari-damacy",
    "mobygames": "14970"
   },
   "label_en": "Katamari Damacy",
@@ -81,6 +83,7 @@
   "enwiki": "Siren (video game)",
   "ids": {
    "igdb": "siren",
+   "metacritic": "siren",
    "mobygames": "12395"
   },
   "label_en": "Siren",
@@ -106,6 +109,7 @@
   "ids": {
    "howlongtobeat": "7114",
    "igdb": "playstation-all-stars-battle-royale",
+   "metacritic": "playstation-all-stars-battle-royale",
    "mobygames": "59522"
   },
   "label_en": "PlayStation All-Stars Battle Royale",
@@ -115,6 +119,7 @@
   "enwiki": "Digimon Rumble Arena",
   "ids": {
    "igdb": "digimon-rumble-arena",
+   "metacritic": "digimon-rumble-arena",
    "mobygames": "7475"
   },
   "label_en": "Digimon Rumble Arena",
@@ -136,6 +141,7 @@
   "ids": {
    "howlongtobeat": "3705",
    "igdb": "frequency",
+   "metacritic": "frequency",
    "mobygames": "6087"
   },
   "label_en": "Frequency",
@@ -177,6 +183,7 @@
   "enwiki": "Dead to Rights: Reckoning",
   "ids": {
    "igdb": "dead-to-rights-reckoning",
+   "metacritic": "dead-to-rights-reckoning",
    "mobygames": "23529"
   },
   "label_en": "Dead to Rights: Reckoning",
@@ -195,6 +202,7 @@
   "enwiki": "Flash Focus: Vision Training in Minutes a Day",
   "ids": {
    "igdb": "flash-focus-vision-training-in-minutes-a-day",
+   "metacritic": "flash-focus-vision-training-in-minutes-a-day",
    "mobygames": "30647"
   },
   "label_en": "Flash Focus: Vision Training in Minutes a Day",
@@ -205,6 +213,7 @@
   "ids": {
    "howlongtobeat": "3898",
    "igdb": "geometry-wars-retro-evolved-2",
+   "metacritic": "geometry-wars-retro-evolved-2",
    "mobygames": "35421"
   },
   "label_en": "Geometry Wars: Retro Evolved 2",
@@ -257,6 +266,7 @@
   "ids": {
    "howlongtobeat": "17257",
    "igdb": "gas-guzzlers-extreme",
+   "metacritic": "gas-guzzlers-extreme",
    "mobygames": "83387",
    "pcgamingwiki": "Gas_Guzzlers_Extreme",
    "steam": "243800"
@@ -280,6 +290,7 @@
   "ids": {
    "howlongtobeat": "45403",
    "igdb": "dragon-quest-heroes-ii",
+   "metacritic": "dragon-quest-heroes-ii",
    "mobygames": "94841",
    "pcgamingwiki": "Dragon_Quest_Heroes_II",
    "steam": "574050"
@@ -299,6 +310,7 @@
    "epic": "thehunter-call-of-the-wild",
    "howlongtobeat": "43633",
    "igdb": "thehunter-call-of-the-wild",
+   "metacritic": "thehunter-call-of-the-wild",
    "mobygames": "85258",
    "pcgamingwiki": "The_Hunter:_Call_of_the_Wild",
    "steam": "518790"
@@ -312,6 +324,7 @@
    "gog": "game/else_heartbreak",
    "howlongtobeat": "30525",
    "igdb": "else-heart-dot-break",
+   "metacritic": "else-heartbreak",
    "mobygames": "80023",
    "pcgamingwiki": "Else_Heart.Break()",
    "steam": "400110"
@@ -323,6 +336,7 @@
   "ids": {
    "howlongtobeat": "57872",
    "igdb": "triggering-simulator",
+   "metacritic": "triggering-simulator",
    "pcgamingwiki": "Triggering_Simulator",
    "steam": "862620"
   },
@@ -341,6 +355,7 @@
    "gog": "game/milanoir",
    "howlongtobeat": "59417",
    "igdb": "milanoir",
+   "metacritic": "milanoir",
    "mobygames": "109635",
    "pcgamingwiki": "Milanoir",
    "steam": "642830"
@@ -362,6 +377,7 @@
   "ids": {
    "howlongtobeat": "11824",
    "igdb": "ball-breakers",
+   "metacritic": "ball-breakers",
    "pcgamingwiki": "Ball_Breakers"
   },
   "label_en": "Ball Breakers",
@@ -371,6 +387,7 @@
   "enwiki": "Gallop Racer 2001",
   "ids": {
    "igdb": "gallop-racer-2001",
+   "metacritic": "gallop-racer-2001",
    "mobygames": "39679"
   },
   "label_en": "Gallop Racer 2001",
@@ -387,6 +404,7 @@
  },
  {
   "ids": {
+   "metacritic": "snowcraft",
    "mobygames": "70753"
   },
   "label_en": "Snowcraft",
@@ -411,6 +429,7 @@
    "gog": "game/strange_horticulture",
    "howlongtobeat": "103015",
    "igdb": "strange-horticulture",
+   "metacritic": "strange-horticulture",
    "mobygames": "178430",
    "pcgamingwiki": "Strange_Horticulture",
    "steam": "1574580"
@@ -424,6 +443,7 @@
    "epic": "zenless-zone-zero-c7c151",
    "howlongtobeat": "109101",
    "igdb": "zenless-zone-zero",
+   "metacritic": "zenless-zone-zero",
    "mobygames": "227320",
    "pcgamingwiki": "Zenless_Zone_Zero",
    "steam": "4162040"
@@ -458,6 +478,7 @@
    "epic": "bramble-the-mountain-king-c0d1c6",
    "howlongtobeat": "93683",
    "igdb": "bramble-the-mountain-king",
+   "metacritic": "bramble-the-mountain-king",
    "mobygames": "199527",
    "pcgamingwiki": "Bramble:_The_Mountain_King",
    "steam": "1623940"
@@ -733,6 +754,7 @@
   "ids": {
    "howlongtobeat": "63148",
    "igdb": "cycle-28",
+   "metacritic": "cycle-28",
    "mobygames": "111150",
    "pcgamingwiki": "Cycle_28",
    "steam": "749560"
@@ -806,6 +828,7 @@
   "ids": {
    "howlongtobeat": "142367",
    "igdb": "soak-and-splash",
+   "metacritic": "soak-and-splash",
    "steam": "2051500"
   },
   "label_en": "Soak & Splash",
@@ -1168,6 +1191,7 @@
  {
   "ids": {
    "igdb": "leonwaan-minesweeper",
+   "pcgamingwiki": "LeonWaan_MineSweeper",
    "steam": "1022650"
   },
   "label_en": "LeonWaan MineSweeper",

@@ -27,6 +27,7 @@
    "gog": "game/cave_story",
    "howlongtobeat": "1616",
    "igdb": "cave-story",
+   "metacritic": "cave-story-plus",
    "mobygames": "16493",
    "pcgamingwiki": "Cave_Story",
    "steam": "200900"
@@ -39,6 +40,7 @@
   "ids": {
    "howlongtobeat": "3920",
    "igdb": "ghostbusters-the-video-game",
+   "metacritic": "ghostbusters-the-video-game",
    "mobygames": "41225",
    "pcgamingwiki": "Ghostbusters:_The_Video_Game",
    "steam": "9870"
@@ -51,6 +53,7 @@
   "ids": {
    "howlongtobeat": "10753",
    "igdb": "ufo-extraterrestrials",
+   "metacritic": "ufo-extraterrestrials",
    "mobygames": "28252",
    "pcgamingwiki": "UFO:_Extraterrestrials",
    "steam": "37030"
@@ -63,6 +66,7 @@
   "ids": {
    "howlongtobeat": "1580",
    "igdb": "castlevania-dawn-of-sorrow",
+   "metacritic": "castlevania-dawn-of-sorrow",
    "mobygames": "19412"
   },
   "label_en": "Castlevania: Dawn of Sorrow",
@@ -73,6 +77,7 @@
   "ids": {
    "howlongtobeat": "5998",
    "igdb": "midnight-club-ii",
+   "metacritic": "midnight-club-ii",
    "mobygames": "9232",
    "pcgamingwiki": "Midnight_Club_II",
    "steam": "12160"
@@ -84,6 +89,7 @@
   "enwiki": "RalliSport Challenge 2",
   "ids": {
    "igdb": "rallisport-challenge-2",
+   "metacritic": "rallisport-challenge-2",
    "mobygames": "15556"
   },
   "label_en": "Rallisport Challenge 2",
@@ -93,6 +99,7 @@
   "enwiki": "Naruto: Rise of a Ninja",
   "ids": {
    "igdb": "naruto-rise-of-a-ninja",
+   "metacritic": "naruto-rise-of-a-ninja",
    "mobygames": "32695"
   },
   "label_en": "Naruto: Rise of a Ninja",
@@ -104,6 +111,7 @@
    "gog": "game/bittrip_runner",
    "howlongtobeat": "1085",
    "igdb": "bit-dot-trip-runner",
+   "metacritic": "bit-trip-runner",
    "mobygames": "49732",
    "pcgamingwiki": "Bit.Trip_Runner",
    "steam": "63710"
@@ -143,6 +151,7 @@
   "ids": {
    "howlongtobeat": "3945",
    "igdb": "gladiator-sword-of-vengeance",
+   "metacritic": "gladiator-sword-of-vengeance",
    "mobygames": "14164",
    "pcgamingwiki": "Gladiator:_Sword_of_Vengeance",
    "steam": "577580"
@@ -215,6 +224,7 @@
   "ids": {
    "howlongtobeat": "15852",
    "igdb": "unearthed-trail-of-ibn-battuta",
+   "metacritic": "unearthed-trail-of-ibn-battuta",
    "mobygames": "101406",
    "pcgamingwiki": "Unearthed:_Trail_of_Ibn_Battuta_-_Episode_1",
    "steam": "263680"
@@ -243,7 +253,9 @@
   "ids": {
    "howlongtobeat": "20389",
    "igdb": "ultimate-beach-soccer",
-   "mobygames": "51592"
+   "metacritic": "ultimate-beach-soccer",
+   "mobygames": "51592",
+   "pcgamingwiki": "Ultimate_Beach_Soccer"
   },
   "label_en": "Ultimate Beach Soccer",
   "wikidata": "Q18928853"
@@ -276,6 +288,7 @@
    "gog": "game/the_lego_movie_2_videogame",
    "howlongtobeat": "65199",
    "igdb": "the-lego-movie-2-videogame",
+   "metacritic": "the-lego-movie-2-videogame",
    "mobygames": "122910",
    "pcgamingwiki": "The_Lego_Movie_2_Videogame",
    "steam": "881320"
@@ -288,6 +301,7 @@
   "ids": {
    "howlongtobeat": "72854",
    "igdb": "hellblade-ii-senuas-saga",
+   "metacritic": "senuas-saga-hellblade-ii",
    "mobygames": "224313",
    "pcgamingwiki": "Senua's_Saga:_Hellblade_II",
    "steam": "2461850"
@@ -300,6 +314,7 @@
   "ids": {
    "howlongtobeat": "68638",
    "igdb": "asgards-wrath",
+   "metacritic": "asgards-wrath",
    "mobygames": "136492",
    "pcgamingwiki": "Asgard's_Wrath"
   },
@@ -326,6 +341,7 @@
    "gog": "game/the_suicide_of_rachel_foster",
    "howlongtobeat": "72818",
    "igdb": "the-suicide-of-rachel-foster",
+   "metacritic": "the-suicide-of-rachel-foster",
    "mobygames": "142363",
    "pcgamingwiki": "The_Suicide_of_Rachel_Foster",
    "steam": "1057750"
@@ -339,6 +355,7 @@
    "epic": "disgaea-6-complete",
    "howlongtobeat": "110245",
    "igdb": "disgaea-6-complete",
+   "metacritic": "disgaea-6-defiance-of-destiny",
    "mobygames": "166894",
    "steam": "1749750"
   },
@@ -349,6 +366,7 @@
   "ids": {
    "howlongtobeat": "40608",
    "igdb": "polychromatic",
+   "metacritic": "polychromatic",
    "mobygames": "83774",
    "pcgamingwiki": "Polychromatic",
    "steam": "384590"
@@ -385,6 +403,7 @@
    "gog": "game/wintermoor_tactics_club",
    "howlongtobeat": "77840",
    "igdb": "wintermoor-tactics-club",
+   "metacritic": "wintermoor-tactics-club",
    "mobygames": "145338",
    "pcgamingwiki": "Wintermoor_Tactics_Club",
    "steam": "917840"
@@ -457,6 +476,7 @@
    "gog": "game/selfloss",
    "howlongtobeat": "93982",
    "igdb": "selfloss",
+   "metacritic": "selfloss",
    "pcgamingwiki": "Selfloss",
    "steam": "1086620"
   },
@@ -466,6 +486,7 @@
  {
   "ids": {
    "igdb": "profession-investigator",
+   "metacritic": "profession-investigator",
    "steam": "1844330"
   },
   "label_en": "Profession investigator",
@@ -513,6 +534,7 @@
    "epic": "crime-boss",
    "howlongtobeat": "118228",
    "igdb": "crime-boss-rockay-city",
+   "metacritic": "crime-boss-rockay-city",
    "mobygames": "201758",
    "pcgamingwiki": "Crime_Boss:_Rockay_City",
    "steam": "2933080"
@@ -524,6 +546,7 @@
   "ids": {
    "howlongtobeat": "6585",
    "igdb": "ni-no-kuni-wrath-of-the-white-witch-remastered",
+   "metacritic": "ni-no-kuni-wrath-of-the-white-witch-remastered",
    "mobygames": "134905",
    "pcgamingwiki": "Ni_no_Kuni:_Wrath_of_the_White_Witch_Remastered",
    "steam": "798460"
@@ -558,7 +581,8 @@
  {
   "enwiki": "Luigi's Mansion 2 HD",
   "ids": {
-   "igdb": "luigis-mansion-2-hd"
+   "igdb": "luigis-mansion-2-hd",
+   "metacritic": "luigis-mansion-2-hd"
   },
   "label_en": "Luigi's Mansion 2 HD",
   "wikidata": "Q121792853"
@@ -1003,6 +1027,7 @@
   "ids": {
    "howlongtobeat": "119110",
    "igdb": "nba-unrivaled",
+   "metacritic": "nba-unrivaled",
    "mobygames": "110360"
   },
   "label_en": "NBA Unrivaled",
@@ -1026,6 +1051,7 @@
   "ids": {
    "howlongtobeat": "149774",
    "igdb": "abiotic-factor",
+   "metacritic": "abiotic-factor",
    "mobygames": "223210",
    "pcgamingwiki": "Abiotic_Factor",
    "steam": "427410"
@@ -1361,6 +1387,7 @@
  {
   "ids": {
    "mobygames": "82758",
+   "pcgamingwiki": "Castles_(2015)",
    "steam": "384010"
   },
   "label_en": "Castles",

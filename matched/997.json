@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10030",
    "igdb": "the-legend-of-zelda-four-swords-adventures",
+   "metacritic": "the-legend-of-zelda-four-swords-adventures",
    "mobygames": "13986"
   },
   "label_en": "The Legend of Zelda: Four Swords Adventures",
@@ -15,6 +16,7 @@
    "gog": "game/wargame_european_escalation",
    "howlongtobeat": "11038",
    "igdb": "wargame-european-escalation",
+   "metacritic": "wargame-european-escalation",
    "mobygames": "57557",
    "pcgamingwiki": "Wargame:_European_Escalation",
    "steam": "58610"
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "10285",
    "igdb": "theatre-of-war",
+   "metacritic": "theatre-of-war",
    "mobygames": "28129",
    "pcgamingwiki": "Theatre_of_War_(2006)",
    "steam": "46290"
@@ -59,6 +62,7 @@
   "enwiki": "Robin Hood: Defender of the Crown",
   "ids": {
    "igdb": "robin-hood-defender-of-the-crown",
+   "metacritic": "robin-hood-defender-of-the-crown",
    "mobygames": "10628",
    "pcgamingwiki": "Robin_Hood:_Defender_of_the_Crown"
   },
@@ -81,6 +85,7 @@
   "ids": {
    "howlongtobeat": "21526",
    "igdb": "pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+   "metacritic": "pirates-of-the-caribbean-the-curse-of-the-black",
    "mobygames": "12432"
   },
   "label_en": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -173,7 +178,8 @@
  {
   "enwiki": "Tornado Outbreak",
   "ids": {
-   "igdb": "tornado-outbreak"
+   "igdb": "tornado-outbreak",
+   "metacritic": "tornado-outbreak"
   },
   "label_en": "Tornado Outbreak",
   "wikidata": "Q7825997"
@@ -221,6 +227,7 @@
    "gog": "game/primordia",
    "howlongtobeat": "7285",
    "igdb": "primordia",
+   "metacritic": "primordia",
    "mobygames": "59392",
    "pcgamingwiki": "Primordia",
    "steam": "227000"
@@ -261,6 +268,7 @@
  {
   "ids": {
    "igdb": "offensive",
+   "metacritic": "offensive",
    "mobygames": "30897"
   },
   "label_en": "Offensive",
@@ -271,6 +279,7 @@
   "ids": {
    "howlongtobeat": "44890",
    "igdb": "graceful-explosion-machine",
+   "metacritic": "graceful-explosion-machine",
    "mobygames": "86538",
    "pcgamingwiki": "Graceful_Explosion_Machine",
    "steam": "575450"
@@ -292,6 +301,7 @@
   "ids": {
    "howlongtobeat": "51082",
    "igdb": "bomber-crew",
+   "metacritic": "bomber-crew",
    "mobygames": "97319",
    "pcgamingwiki": "Bomber_Crew",
    "steam": "537800"
@@ -304,6 +314,7 @@
   "ids": {
    "howlongtobeat": "17978",
    "igdb": "sea-trader-rise-of-taipan",
+   "metacritic": "sea-trader-rise-of-taipan",
    "mobygames": "12490"
   },
   "label_en": "Sea Trader: Rise of Taipan",
@@ -323,6 +334,7 @@
   "ids": {
    "howlongtobeat": "76136",
    "igdb": "roundguard",
+   "metacritic": "roundguard",
    "mobygames": "143395",
    "pcgamingwiki": "Roundguard",
    "steam": "848030"
@@ -344,6 +356,7 @@
    "gog": "game/cornerstone_the_song_of_tyrim",
    "howlongtobeat": "34537",
    "igdb": "cornerstone-the-song-of-tyrim",
+   "metacritic": "cornerstone-the-song-of-tyrim",
    "mobygames": "81723",
    "pcgamingwiki": "Cornerstone:_The_Song_of_Tyrim",
    "steam": "284410"
@@ -357,6 +370,7 @@
    "gog": "game/the_shore",
    "howlongtobeat": "88792",
    "igdb": "the-shore",
+   "metacritic": "the-shore",
    "mobygames": "174339",
    "pcgamingwiki": "The_Shore",
    "steam": "1297300"
@@ -657,6 +671,7 @@
    "gog": "game/knights_of_honor_ii_sovereign",
    "howlongtobeat": "71748",
    "igdb": "knights-of-honor-ii-sovereign",
+   "metacritic": "knights-of-honor-ii-sovereign",
    "mobygames": "196128",
    "pcgamingwiki": "Knights_of_Honor_II:_Sovereign",
    "steam": "736820"
@@ -746,6 +761,7 @@
   "ids": {
    "howlongtobeat": "139188",
    "igdb": "outpath",
+   "metacritic": "outpath",
    "mobygames": "210291",
    "steam": "2237970"
   },
@@ -865,6 +881,7 @@
    "gog": "game/sumerian_six",
    "howlongtobeat": "152045",
    "igdb": "sumerian-six",
+   "metacritic": "sumerian-six",
    "mobygames": "229874",
    "pcgamingwiki": "Sumerian_Six",
    "steam": "1429850"
@@ -1232,6 +1249,8 @@
  },
  {
   "ids": {
+   "metacritic": "give-us-a-sign",
+   "pcgamingwiki": "Give_Us_A_Sign",
    "steam": "4119710"
   },
   "label_en": "Give Us A Sign",

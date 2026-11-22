@@ -5,6 +5,7 @@
    "gog": "game/the_book_of_unwritten_tales",
    "howlongtobeat": "9790",
    "igdb": "the-book-of-unwritten-tales",
+   "metacritic": "the-book-of-unwritten-tales",
    "mobygames": "40538",
    "pcgamingwiki": "The_Book_of_Unwritten_Tales",
    "steam": "215160"
@@ -18,6 +19,7 @@
    "epic": "watch-dogs",
    "howlongtobeat": "11101",
    "igdb": "watch-dogs",
+   "metacritic": "watch-dogs",
    "mobygames": "66948",
    "pcgamingwiki": "Watch_Dogs",
    "steam": "243470"
@@ -34,6 +36,7 @@
   "enwiki": "SpyToy",
   "ids": {
    "igdb": "eyetoy-operation-spy",
+   "metacritic": "eyetoy-operation-spy",
    "mobygames": "35778"
   },
   "label_en": "EyeToy: Operation Spy",
@@ -68,6 +71,7 @@
  {
   "ids": {
    "igdb": "dragon-booster",
+   "metacritic": "dragon-booster",
    "mobygames": "144044"
   },
   "label_en": "Dragon Booster",
@@ -78,6 +82,7 @@
   "ids": {
    "howlongtobeat": "15701",
    "igdb": "ridge-racer",
+   "metacritic": "ridge-racer",
    "mobygames": "106287"
   },
   "label_en": "Ridge Racer",
@@ -103,6 +108,7 @@
  },
  {
   "ids": {
+   "metacritic": "god-of-war-collection",
    "mobygames": "43390"
   },
   "label_en": "God of War Collection",
@@ -161,6 +167,7 @@
   "enwiki": "Tecmo Bowl Throwback",
   "ids": {
    "igdb": "tecmo-bowl-throwback",
+   "metacritic": "tecmo-bowl-throwback",
    "mobygames": "46319"
   },
   "label_en": "Tecmo Bowl Throwback",
@@ -179,6 +186,7 @@
   "ids": {
    "howlongtobeat": "59586",
    "igdb": "kidz-sports-ice-hockey",
+   "metacritic": "kidz-sports-ice-hockey",
    "mobygames": "91489"
   },
   "label_en": "Kidz Sports Ice Hockey",
@@ -194,6 +202,7 @@
   "ids": {
    "howlongtobeat": "19935",
    "igdb": "magic-the-gathering-duels-of-the-planeswalkers-2015",
+   "metacritic": "magic-duels-of-the-planeswalkers-2015",
    "mobygames": "71165",
    "pcgamingwiki": "Magic_2015_-_Duels_of_the_Planeswalkers",
    "steam": "255420"
@@ -243,6 +252,7 @@
    "gog": "game/last_federation_the",
    "howlongtobeat": "17985",
    "igdb": "the-last-federation",
+   "metacritic": "the-last-federation",
    "mobygames": "85635",
    "pcgamingwiki": "The_Last_Federation",
    "steam": "273070"
@@ -263,6 +273,7 @@
   "ids": {
    "howlongtobeat": "20968",
    "igdb": "assault-android-cactus",
+   "metacritic": "assault-android-cactus",
    "mobygames": "81167",
    "pcgamingwiki": "Assault_Android_Cactus",
    "steam": "250110"
@@ -274,6 +285,7 @@
   "ids": {
    "howlongtobeat": "6955",
    "igdb": "penguins-arena-sednas-world",
+   "metacritic": "penguins-arena",
    "mobygames": "37246",
    "pcgamingwiki": "Penguins_Arena:_Sedna's_World",
    "steam": "11280"
@@ -286,6 +298,7 @@
   "ids": {
    "howlongtobeat": "69320",
    "igdb": "exception",
+   "metacritic": "exception",
    "mobygames": "132173",
    "pcgamingwiki": "Exception_(Traxmaster_Software)",
    "steam": "456390"
@@ -300,6 +313,7 @@
    "gog": "game/the_pedestrian",
    "howlongtobeat": "74727",
    "igdb": "the-pedestrian",
+   "metacritic": "the-pedestrian",
    "mobygames": "140786",
    "pcgamingwiki": "The_Pedestrian",
    "steam": "466630"
@@ -314,6 +328,7 @@
    "gog": "game/creature_in_the_well",
    "howlongtobeat": "68145",
    "igdb": "creature-in-the-well",
+   "metacritic": "creature-in-the-well",
    "mobygames": "126017",
    "pcgamingwiki": "Creature_in_the_Well",
    "steam": "852300"
@@ -401,6 +416,7 @@
   "ids": {
    "howlongtobeat": "109480",
    "igdb": "horgihugh-and-friends",
+   "metacritic": "horgihugh-and-friends",
    "mobygames": "237511",
    "steam": "3125860"
   },
@@ -432,6 +448,7 @@
   "ids": {
    "howlongtobeat": "22839",
    "igdb": "anomaly-1729",
+   "metacritic": "anomaly-1729",
    "mobygames": "216356",
    "pcgamingwiki": "Anomaly_1729",
    "steam": "424320"

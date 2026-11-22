@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4271",
    "igdb": "halo-reach",
+   "metacritic": "halo-reach",
    "mobygames": "48291",
    "pcgamingwiki": "Halo:_Reach",
    "steam": "1064220"
@@ -171,6 +172,7 @@
   "enwiki": "Gardening Mama 2: Forest Friends",
   "ids": {
    "igdb": "gardening-mama-2-forest-friends",
+   "metacritic": "gardening-mama-2-forest-friends",
    "mobygames": "92469"
   },
   "label_en": "Gardening Mama 2: Forest Friends",
@@ -185,6 +187,7 @@
   "ids": {
    "howlongtobeat": "22612",
    "igdb": "five-nights-at-freddys-2",
+   "metacritic": "five-nights-at-freddys-2",
    "mobygames": "69709",
    "pcgamingwiki": "Five_Nights_at_Freddy's_2",
    "steam": "332800"
@@ -214,6 +217,7 @@
   "enwiki": "Grimms Notes",
   "ids": {
    "igdb": "grimms-notes-repage",
+   "metacritic": "grimms-notes",
    "mobygames": "147519"
   },
   "label_en": "Grimms Notes",
@@ -228,6 +232,7 @@
   "ids": {
    "howlongtobeat": "38752",
    "igdb": "riff-racer",
+   "metacritic": "riff-racer-race-your-music",
    "mobygames": "96069",
    "pcgamingwiki": "Riff_Racer",
    "steam": "351990"
@@ -241,6 +246,7 @@
    "gog": "game/bright_memory",
    "howlongtobeat": "64183",
    "igdb": "bright-memory",
+   "metacritic": "bright-memory",
    "mobygames": "120384",
    "pcgamingwiki": "Bright_Memory_-_Episode_1",
    "steam": "955050"
@@ -271,6 +277,7 @@
   "ids": {
    "howlongtobeat": "63110",
    "igdb": "call-of-duty-modern-warfare",
+   "metacritic": "call-of-duty-modern-warfare",
    "mobygames": "136496",
    "pcgamingwiki": "Call_of_Duty:_Modern_Warfare",
    "steam": "2000950"
@@ -284,6 +291,7 @@
    "gog": "game/fade_to_silence",
    "howlongtobeat": "53219",
    "igdb": "fade-to-silence--1",
+   "metacritic": "fade-to-silence",
    "mobygames": "99560",
    "pcgamingwiki": "Fade_to_Silence",
    "steam": "706020"
@@ -330,6 +338,7 @@
  {
   "ids": {
    "igdb": "dojo-corridor",
+   "metacritic": "dojo-corridor",
    "mobygames": "189386",
    "steam": "1623410"
   },

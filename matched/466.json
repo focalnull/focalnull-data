@@ -5,6 +5,7 @@
    "gog": "game/harvester",
    "howlongtobeat": "16577",
    "igdb": "harvester",
+   "metacritic": "harvester",
    "mobygames": "324",
    "pcgamingwiki": "Harvester",
    "steam": "287020"
@@ -16,6 +17,7 @@
   "enwiki": "Ninja Gaiden Sigma 2",
   "ids": {
    "igdb": "ninja-gaiden-sigma-2",
+   "metacritic": "ninja-gaide-sigma-2",
    "mobygames": "84021",
    "pcgamingwiki": "Ninja_Gaiden_Σ2",
    "steam": "1580790"
@@ -37,6 +39,7 @@
   "ids": {
    "howlongtobeat": "3121",
    "igdb": "enemy-territory-quake-wars",
+   "metacritic": "enemy-territory-quake-wars",
    "mobygames": "30407",
    "pcgamingwiki": "Enemy_Territory:_Quake_Wars",
    "steam": "10000"
@@ -50,6 +53,7 @@
    "gog": "game/sid_meiers_pirates",
    "howlongtobeat": "8516",
    "igdb": "sid-meier-s-pirates",
+   "metacritic": "sid-meiers-pirates",
    "mobygames": "15645",
    "pcgamingwiki": "Sid_Meier's_Pirates!_(2004)",
    "steam": "3920"
@@ -62,6 +66,7 @@
   "ids": {
    "howlongtobeat": "5629",
    "igdb": "mario-golf-advance-tour",
+   "metacritic": "mario-golf-advance-tour",
    "mobygames": "22074"
   },
   "label_en": "Mario Golf: Advance Tour",
@@ -84,6 +89,7 @@
   "ids": {
    "howlongtobeat": "6122",
    "igdb": "modnation-racers",
+   "metacritic": "modnation-racers",
    "mobygames": "46965"
   },
   "label_en": "ModNation Racers",
@@ -94,6 +100,7 @@
   "ids": {
    "howlongtobeat": "8739",
    "igdb": "sonic-all-stars-racing-transformed",
+   "metacritic": "sonic-all-stars-racing-transformed",
    "mobygames": "59554",
    "pcgamingwiki": "Sonic_&_All-Stars_Racing_Transformed",
    "steam": "212480"
@@ -106,6 +113,7 @@
   "ids": {
    "howlongtobeat": "4270",
    "igdb": "halo-combat-evolved-anniversary",
+   "metacritic": "halo-combat-evolved-anniversary",
    "mobygames": "53558",
    "pcgamingwiki": "Halo:_Combat_Evolved_Anniversary",
    "steam": "1064221"
@@ -118,6 +126,7 @@
   "ids": {
    "howlongtobeat": "27969",
    "igdb": "world-of-warplanes",
+   "metacritic": "world-of-warplanes",
    "mobygames": "66128",
    "pcgamingwiki": "World_of_Warplanes",
    "steam": "790710"
@@ -188,6 +197,7 @@
   "enwiki": "NASCAR 07",
   "ids": {
    "igdb": "nascar-07",
+   "metacritic": "nascar-2006",
    "mobygames": "28317"
   },
   "label_en": "NASCAR 07",
@@ -252,7 +262,8 @@
  },
  {
   "ids": {
-   "igdb": "singstar-celebration"
+   "igdb": "singstar-celebration",
+   "metacritic": "singstar-celebration"
   },
   "label_en": "SingStar Celebration",
   "wikidata": "Q56297466"
@@ -261,6 +272,7 @@
   "ids": {
    "howlongtobeat": "50945",
    "igdb": "fearful-symmetry-and-the-cursed-prince",
+   "metacritic": "fearful-symmetry-the-cursed-prince",
    "mobygames": "98785",
    "pcgamingwiki": "Fearful_Symmetry_&_The_Cursed_Prince",
    "steam": "725080"
@@ -468,6 +480,7 @@
   "ids": {
    "howlongtobeat": "65605",
    "igdb": "time-carnage",
+   "metacritic": "time-carnage",
    "mobygames": "106860",
    "pcgamingwiki": "Time_Carnage",
    "steam": "912650"
@@ -636,6 +649,7 @@
   "ids": {
    "howlongtobeat": "139880",
    "igdb": "sonic-dream-team",
+   "metacritic": "sonic-dream-team",
    "mobygames": "211187",
    "pcgamingwiki": "Sonic_Dream_Team"
   },
@@ -675,6 +689,7 @@
   "ids": {
    "howlongtobeat": "2095",
    "igdb": "cubetractor",
+   "metacritic": "cubetractor",
    "mobygames": "98133",
    "pcgamingwiki": "Cubetractor",
    "steam": "235720"

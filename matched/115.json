@@ -3,6 +3,7 @@
   "enwiki": "Sonic the Hedgehog (8-bit video game)",
   "ids": {
    "igdb": "sonic-the-hedgehog--2",
+   "metacritic": "sonic-the-hedgehog-master-system",
    "mobygames": "36523"
   },
   "label_en": "Sonic the Hedgehog",
@@ -32,6 +33,7 @@
   "enwiki": "Castlevania: Lament of Innocence",
   "ids": {
    "igdb": "castlevania-lament-of-innocence",
+   "metacritic": "castlevania-lament-of-innocence",
    "mobygames": "11515"
   },
   "label_en": "Castlevania: Lament of Innocence",
@@ -61,6 +63,7 @@
   "enwiki": "Spyro: Year of the Dragon",
   "ids": {
    "igdb": "spyro-year-of-the-dragon",
+   "metacritic": "spyro-year-of-the-dragon",
    "mobygames": "7669"
   },
   "label_en": "Spyro: Year of the Dragon",
@@ -92,6 +95,7 @@
   "ids": {
    "howlongtobeat": "7955",
    "igdb": "rollcage-stage-ii",
+   "metacritic": "rollcage-stage-ii",
    "mobygames": "3727",
    "pcgamingwiki": "Rollcage_Stage_II"
   },
@@ -125,6 +129,7 @@
   "enwiki": "Chulip",
   "ids": {
    "igdb": "chulip",
+   "metacritic": "chulip",
    "mobygames": "26767"
   },
   "label_en": "Chulip",
@@ -175,6 +180,7 @@
   "enwiki": "Samurai Western",
   "ids": {
    "igdb": "samurai-western",
+   "metacritic": "samurai-western",
    "mobygames": "18192"
   },
   "label_en": "Samurai Western",
@@ -202,6 +208,7 @@
   "ids": {
    "howlongtobeat": "6372",
    "igdb": "nano-assault-neo",
+   "metacritic": "nano-assault-neo",
    "mobygames": "86754"
   },
   "label_en": "Nano Assault Neo",
@@ -232,6 +239,7 @@
  {
   "ids": {
    "igdb": "demon-gaze-ii",
+   "metacritic": "demon-gaze-ii",
    "mobygames": "98204"
   },
   "label_en": "Demon Gaze II",
@@ -256,6 +264,7 @@
    "epic": "mtg-arena",
    "howlongtobeat": "61389",
    "igdb": "magic-the-gathering-arena",
+   "metacritic": "magic-the-gathering-arena",
    "mobygames": "140978",
    "pcgamingwiki": "Magic:_The_Gathering_Arena",
    "steam": "2141910"
@@ -267,6 +276,7 @@
   "ids": {
    "howlongtobeat": "56406",
    "igdb": "skirmish-line",
+   "metacritic": "skirmish-line",
    "mobygames": "114481",
    "pcgamingwiki": "Skirmish_Line",
    "steam": "666820"
@@ -309,6 +319,7 @@
   "ids": {
    "howlongtobeat": "28986",
    "igdb": "maximum-pool",
+   "metacritic": "maximum-pool",
    "mobygames": "3046"
   },
   "label_en": "Maximum Pool",
@@ -319,6 +330,7 @@
   "ids": {
    "howlongtobeat": "90780",
    "igdb": "pac-man-99",
+   "metacritic": "pac-man-99",
    "mobygames": "161880"
   },
   "label_en": "Pac-Man 99",
@@ -382,6 +394,7 @@
    "howlongtobeat": "149034",
    "igdb": "granny-remake",
    "mobygames": "208129",
+   "pcgamingwiki": "Granny_Remake",
    "steam": "2110820"
   },
   "label_en": "Granny Remake",
@@ -391,6 +404,7 @@
   "ids": {
    "howlongtobeat": "17576",
    "igdb": "spate",
+   "metacritic": "spate",
    "pcgamingwiki": "Spate",
    "steam": "269810"
   },
@@ -712,6 +726,7 @@
   "enwiki": "Majin Tensei: Blind Thinker",
   "ids": {
    "igdb": "majin-tensei-blind-thinker",
+   "metacritic": "majin-tensei-blind-thinker",
    "mobygames": "211927",
    "steam": "2541180"
   },
@@ -719,6 +734,9 @@
   "wikidata": "Q125014115"
  },
  {
+  "ids": {
+   "metacritic": "bishoujo-mangekyou-ibun-yuki-onna"
+  },
   "label_en": "Bishoujo Mangekyou Ibun - Yuki Onna",
   "wikidata": "Q125636115"
  },
@@ -1100,6 +1118,7 @@
  {
   "ids": {
    "igdb": "circuitous",
+   "pcgamingwiki": "Circuitous",
    "steam": "483490"
   },
   "label_en": "Circuitous ®",

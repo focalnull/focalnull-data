@@ -62,6 +62,7 @@
   "ids": {
    "howlongtobeat": "5783",
    "igdb": "medal-of-honor-frontline",
+   "metacritic": "medal-of-honor-frontline",
    "mobygames": "6826"
   },
   "label_en": "Medal of Honor: Frontline",
@@ -72,6 +73,7 @@
   "ids": {
    "howlongtobeat": "6332",
    "igdb": "myth-ii-soulblighter",
+   "metacritic": "myth-ii-soulblighter",
    "mobygames": "509",
    "pcgamingwiki": "Myth_II:_Soulblighter"
   },
@@ -107,6 +109,7 @@
   "ids": {
    "howlongtobeat": "7690",
    "igdb": "red-ninja-end-of-honor",
+   "metacritic": "red-ninja-end-of-honor",
    "mobygames": "17226"
   },
   "label_en": "Red Ninja: End of Honor",
@@ -152,6 +155,7 @@
   "enwiki": "MX vs. ATV Alive",
   "ids": {
    "igdb": "mx-vs-atv-alive",
+   "metacritic": "mx-vs-atv-alive",
    "mobygames": "71246"
   },
   "label_en": "MX vs. ATV Alive",
@@ -168,6 +172,7 @@
   "ids": {
    "howlongtobeat": "26976",
    "igdb": "cultures-northland",
+   "metacritic": "northland",
    "mobygames": "8938",
    "pcgamingwiki": "Northland",
    "steam": "351860"
@@ -231,6 +236,7 @@
   "ids": {
    "howlongtobeat": "11240",
    "igdb": "wizardry-tale-of-the-forsaken-land",
+   "metacritic": "wizardry-tale-of-the-forsaken-land",
    "mobygames": "6458"
   },
   "label_en": "Wizardry: Tale of the Forsaken Land",
@@ -258,6 +264,7 @@
   "enwiki": "Tokyo Twilight Ghost Hunters",
   "ids": {
    "igdb": "tokyo-twilight-ghost-hunters",
+   "metacritic": "tokyo-twilight-ghost-hunters",
    "mobygames": "95963"
   },
   "label_en": "Tokyo Twilight Ghosthunters",
@@ -267,6 +274,7 @@
   "enwiki": "Sonic Jump Fever",
   "ids": {
    "igdb": "sonic-jump-fever",
+   "metacritic": "sonic-jump-fever",
    "mobygames": "76126"
   },
   "label_en": "Sonic Jump Fever",
@@ -278,6 +286,7 @@
    "gog": "game/hellblade_senuas_sacrifice_pack",
    "howlongtobeat": "41638",
    "igdb": "hellblade-senuas-sacrifice",
+   "metacritic": "hellblade-senuas-sacrifice",
    "mobygames": "94033",
    "pcgamingwiki": "Hellblade:_Senua's_Sacrifice",
    "steam": "414340"
@@ -290,6 +299,7 @@
   "ids": {
    "howlongtobeat": "81847",
    "igdb": "gran-turismo-7",
+   "metacritic": "gran-turismo-7",
    "mobygames": "180080"
   },
   "label_en": "Gran Turismo 7",
@@ -299,6 +309,7 @@
   "enwiki": "IronFall: Invasion",
   "ids": {
    "igdb": "ironfall-invasion",
+   "metacritic": "ironfall",
    "mobygames": "100415"
   },
   "label_en": "IronFall: Invasion",
@@ -311,6 +322,7 @@
    "gog": "game/the_town_of_light",
    "howlongtobeat": "34947",
    "igdb": "the-town-of-light",
+   "metacritic": "the-town-of-light",
    "mobygames": "79526",
    "pcgamingwiki": "The_Town_of_Light",
    "steam": "433100"
@@ -363,6 +375,7 @@
   "enwiki": "League of Legends: Wild Rift",
   "ids": {
    "igdb": "league-of-legends-wild-rift",
+   "metacritic": "league-of-legends-wild-rift",
    "mobygames": "158850"
   },
   "label_en": "League of Legends: Wild Rift",
@@ -385,6 +398,7 @@
    "gog": "game/beautiful_desolation",
    "howlongtobeat": "74941",
    "igdb": "beautiful-desolation",
+   "metacritic": "beautiful-desolation",
    "mobygames": "141677",
    "pcgamingwiki": "Beautiful_Desolation",
    "steam": "912570"
@@ -397,6 +411,7 @@
    "epic": "monster-harvest-75f018",
    "howlongtobeat": "97552",
    "igdb": "monster-harvest",
+   "metacritic": "monster-harvest",
    "mobygames": "168819",
    "steam": "1363350"
   },
@@ -1289,6 +1304,7 @@
  {
   "ids": {
    "igdb": "magnetic-billiards-blueprint",
+   "metacritic": "magnetic-billiards-blueprint",
    "mobygames": "85722"
   },
   "label_en": "Magnetic Billiards: Blueprint",

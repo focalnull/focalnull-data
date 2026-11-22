@@ -32,6 +32,7 @@
   "enwiki": "Sonic Riders: Zero Gravity",
   "ids": {
    "igdb": "sonic-riders-zero-gravity",
+   "metacritic": "sonic-riders-zero-gravity",
    "mobygames": "34806"
   },
   "label_en": "Sonic Riders: Zero Gravity",
@@ -51,6 +52,7 @@
   "enwiki": "Secret Agent Clank",
   "ids": {
    "igdb": "secret-agent-clank",
+   "metacritic": "secret-agent-clank",
    "mobygames": "35352"
   },
   "label_en": "Secret Agent Clank",
@@ -62,6 +64,7 @@
    "gog": "game/the_first_templar",
    "howlongtobeat": "9877",
    "igdb": "the-first-templar",
+   "metacritic": "the-first-templar",
    "mobygames": "55504",
    "pcgamingwiki": "The_First_Templar",
    "steam": "57680"
@@ -74,6 +77,7 @@
   "ids": {
    "howlongtobeat": "6962",
    "igdb": "penumbra-black-plague",
+   "metacritic": "penumbra-black-plague",
    "mobygames": "32686",
    "pcgamingwiki": "Penumbra:_Black_Plague",
    "steam": "22120"
@@ -153,6 +157,7 @@
   "ids": {
    "howlongtobeat": "4827",
    "igdb": "jeremy-mcgrath-supercross-world",
+   "metacritic": "jeremy-mcgrath-supercross-world",
    "mobygames": "40368"
   },
   "label_en": "Jeremy McGrath Supercross World",
@@ -178,7 +183,8 @@
  },
  {
   "ids": {
-   "igdb": "niizuma-wa-mahou-shoujo"
+   "igdb": "niizuma-wa-mahou-shoujo",
+   "metacritic": "niidzuma-wa-mahou-shoujo"
   },
   "label_en": "Niizuma wa Mahou Shoujo",
   "wikidata": "Q11501685"
@@ -204,6 +210,7 @@
   "ids": {
    "howlongtobeat": "14559",
    "igdb": "sniper-elite-nazi-zombie-army-2",
+   "metacritic": "sniper-elite-nazi-zombie-army-2",
    "mobygames": "91175",
    "pcgamingwiki": "Sniper_Elite:_Nazi_Zombie_Army_2",
    "steam": "247910"
@@ -232,7 +239,8 @@
  {
   "enwiki": "Zodiac: Orcanon Odyssey",
   "ids": {
-   "igdb": "zodiac-orcanon-odyssey"
+   "igdb": "zodiac-orcanon-odyssey",
+   "metacritic": "zodiac-orcanon-odyssey"
   },
   "label_en": "Zodiac: Orcanon Odyssey",
   "wikidata": "Q20538685"
@@ -250,6 +258,7 @@
   "enwiki": "Master X Master",
   "ids": {
    "igdb": "master-x-master",
+   "metacritic": "master-x-master",
    "mobygames": "143437"
   },
   "label_en": "Master X Master",
@@ -296,6 +305,7 @@
   "ids": {
    "howlongtobeat": "28555",
    "igdb": "the-bug-butcher",
+   "metacritic": "the-bug-butcher",
    "mobygames": "87308",
    "pcgamingwiki": "The_Bug_Butcher",
    "steam": "350740"
@@ -309,6 +319,7 @@
    "epic": "boyfriend-dungeon",
    "howlongtobeat": "76606",
    "igdb": "boyfriend-dungeon",
+   "metacritic": "boyfriend-dungeon",
    "mobygames": "169246",
    "pcgamingwiki": "Boyfriend_Dungeon",
    "steam": "674930"
@@ -340,6 +351,7 @@
   "ids": {
    "howlongtobeat": "85367",
    "igdb": "cake-bash",
+   "metacritic": "cake-bash",
    "mobygames": "151100",
    "pcgamingwiki": "Cake_Bash",
    "steam": "971690"
@@ -350,6 +362,7 @@
  {
   "ids": {
    "howlongtobeat": "156339",
+   "metacritic": "chevrolet-camaro-wild-ride",
    "mobygames": "87695"
   },
   "label_en": "Chevrolet Camaro: Wild Ride",
@@ -362,6 +375,7 @@
    "gog": "game/card_shark",
    "howlongtobeat": "81948",
    "igdb": "card-shark",
+   "metacritic": "card-shark",
    "mobygames": "185214",
    "pcgamingwiki": "Card_Shark",
    "steam": "1371720"
@@ -456,6 +470,7 @@
   "ids": {
    "howlongtobeat": "48906",
    "igdb": "trivia-vault-classic-rock-trivia-2",
+   "metacritic": "trivia-vault-classic-rock-trivia-2",
    "pcgamingwiki": "Trivia_Vault:_Classic_Rock_Trivia_2",
    "steam": "693890"
   },
@@ -539,6 +554,7 @@
   "ids": {
    "howlongtobeat": "131852",
    "igdb": "breachers",
+   "metacritic": "breachers",
    "mobygames": "201784",
    "steam": "1922010"
   },
@@ -647,6 +663,7 @@
  {
   "ids": {
    "igdb": "archery-club",
+   "pcgamingwiki": "Archery_Club",
    "steam": "2278820"
   },
   "label_en": "Archery Club",
@@ -989,6 +1006,7 @@
   "ids": {
    "howlongtobeat": "169172",
    "igdb": "thief-vr-legacy-of-shadow",
+   "metacritic": "thief-vr-legacy-of-shadow",
    "mobygames": "243139",
    "pcgamingwiki": "Thief_VR:_Legacy_of_Shadow",
    "steam": "2800080"
@@ -1367,5 +1385,13 @@
   },
   "label_en": "100 Hidden ASCII Cats",
   "wikidata": "Q141481685"
+ },
+ {
+  "ids": {
+   "igdb": "brix-ii-deluxe",
+   "mobygames": "135804"
+  },
+  "label_en": "Brix 2 Deluxe",
+  "wikidata": "Q142209685"
  }
 ]

@@ -16,6 +16,7 @@
    "epic": "far-cry-3",
    "howlongtobeat": "3378",
    "igdb": "far-cry-3",
+   "metacritic": "far-cry-3",
    "mobygames": "59133",
    "pcgamingwiki": "Far_Cry_3",
    "steam": "220240"
@@ -39,6 +40,7 @@
   "enwiki": "El Tigre: The Adventures of Manny Rivera (video game)",
   "ids": {
    "igdb": "el-tigre-the-adventures-of-manny-rivera",
+   "metacritic": "el-tigre-the-adventures-of-manny-rivera",
    "mobygames": "34603"
   },
   "label_en": "El Tigre: The Adventures of Manny Rivera",
@@ -59,6 +61,7 @@
   "ids": {
    "howlongtobeat": "10671",
    "igdb": "tropico-2-pirate-cove",
+   "metacritic": "tropico-2-pirate-cove",
    "mobygames": "8985",
    "pcgamingwiki": "Tropico_2:_Pirate_Cove"
   },
@@ -85,6 +88,7 @@
   "enwiki": "Mega Man Battle Network 2",
   "ids": {
    "igdb": "mega-man-battle-network-2",
+   "metacritic": "mega-man-battle-network-2",
    "mobygames": "7104"
   },
   "label_en": "Mega Man Battle Network 2",
@@ -249,6 +253,7 @@
   "enwiki": "Angry Birds Go!",
   "ids": {
    "igdb": "angry-birds-go",
+   "metacritic": "angry-birds-go",
    "mobygames": "63388"
   },
   "label_en": "Angry Birds Go!",
@@ -269,6 +274,7 @@
    "gog": "game/baldurs_gate_2_enhanced_edition",
    "howlongtobeat": "809",
    "igdb": "baldur-s-gate-ii-enhanced-edition",
+   "metacritic": "baldurs-gate-iiee",
    "mobygames": "62585",
    "pcgamingwiki": "Baldur's_Gate_II:_Enhanced_Edition",
    "steam": "257350"
@@ -295,6 +301,7 @@
   "ids": {
    "howlongtobeat": "22577",
    "igdb": "senran-kagura-bon-appetit",
+   "metacritic": "senran-kagura-bon-appetit-full-course",
    "mobygames": "95772",
    "pcgamingwiki": "Senran_Kagura_Bon_Appétit!_-_Full_Course",
    "steam": "514310"
@@ -306,6 +313,7 @@
   "ids": {
    "howlongtobeat": "35461",
    "igdb": "the-legend-of-dark-witch-episode-2-the-price-of-desire--1",
+   "metacritic": "the-legend-of-dark-witch-2",
    "mobygames": "86529",
    "pcgamingwiki": "The_Legend_of_Dark_Witch_-_Episode_2:_The_Price_of_Desire",
    "steam": "555580"
@@ -318,6 +326,7 @@
   "ids": {
    "howlongtobeat": "40538",
    "igdb": "dangerous-golf",
+   "metacritic": "dangerous-golf",
    "mobygames": "83858",
    "pcgamingwiki": "Dangerous_Golf",
    "steam": "405500"
@@ -372,6 +381,7 @@
   "ids": {
    "howlongtobeat": "46292",
    "igdb": "need-for-speed-payback",
+   "metacritic": "need-for-speed-payback",
    "mobygames": "98129",
    "pcgamingwiki": "Need_for_Speed_Payback",
    "steam": "1262580"
@@ -415,6 +425,7 @@
    "gog": "game/jet_lancer",
    "howlongtobeat": "76727",
    "igdb": "jet-lancer",
+   "metacritic": "jet-lancer",
    "mobygames": "144561",
    "pcgamingwiki": "Jet_Lancer",
    "steam": "913060"
@@ -429,6 +440,7 @@
    "gog": "game/souldiers_digital_deluxe_edition",
    "howlongtobeat": "104457",
    "igdb": "souldiers",
+   "metacritic": "souldiers",
    "mobygames": "185303",
    "pcgamingwiki": "Souldiers",
    "steam": "1419160"
@@ -1263,6 +1275,7 @@
   "enwiki": "Creepshow (video game)",
   "ids": {
    "igdb": "creepshow",
+   "metacritic": "creepshow",
    "steam": "3462650"
   },
   "label_en": "Creepshow",

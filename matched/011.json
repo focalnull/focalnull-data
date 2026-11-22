@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3527",
    "igdb": "final-fantasy-x-2",
+   "metacritic": "final-fantasy-x-2",
    "mobygames": "8706"
   },
   "label_en": "Final Fantasy X-2",
@@ -50,6 +51,7 @@
    "gog": "game/ufo_aftershock",
    "howlongtobeat": "12213",
    "igdb": "ufo-aftershock",
+   "metacritic": "ufo-aftershock",
    "mobygames": "20131",
    "pcgamingwiki": "UFO:_Aftershock",
    "steam": "289500"
@@ -71,6 +73,7 @@
   "enwiki": "You Are Empty",
   "ids": {
    "igdb": "you-are-empty",
+   "metacritic": "you-are-empty",
    "mobygames": "28719",
    "pcgamingwiki": "You_Are_Empty",
    "steam": "4760480"
@@ -83,6 +86,7 @@
   "ids": {
    "howlongtobeat": "1257",
    "igdb": "bone-the-great-cow-race",
+   "metacritic": "bone-the-great-cow-race",
    "mobygames": "22205",
    "pcgamingwiki": "Bone:_The_Great_Cow_Race",
    "steam": "8320"
@@ -117,6 +121,7 @@
   "enwiki": "Art Academy (video game)",
   "ids": {
    "igdb": "art-academy",
+   "metacritic": "art-academy",
    "mobygames": "87261"
   },
   "label_en": "Art Academy",
@@ -143,6 +148,7 @@
   "enwiki": "Yourself!Fitness",
   "ids": {
    "igdb": "yourself-fitness",
+   "metacritic": "yourself-fitness",
    "mobygames": "76781"
   },
   "label_en": "Yourself!Fitness",
@@ -221,6 +227,7 @@
   "ids": {
    "howlongtobeat": "46043",
    "igdb": "days-of-war",
+   "metacritic": "days-of-war",
    "mobygames": "83179",
    "pcgamingwiki": "Days_of_War",
    "steam": "454350"
@@ -248,6 +255,7 @@
   "ids": {
    "howlongtobeat": "47780",
    "igdb": "solstice-chronicles-mia",
+   "metacritic": "solstice-chronicles-mia",
    "mobygames": "93468",
    "pcgamingwiki": "Solstice_Chronicles:_MIA",
    "steam": "528160"
@@ -266,6 +274,7 @@
   "ids": {
    "howlongtobeat": "32484",
    "igdb": "cube-escape-seasons",
+   "metacritic": "cube-escape-seasons",
    "mobygames": "152055"
   },
   "label_en": "Cube Escape: Seasons",
@@ -273,7 +282,8 @@
  },
  {
   "ids": {
-   "igdb": "sanatory-hallways"
+   "igdb": "sanatory-hallways",
+   "metacritic": "sanatory-hallways"
   },
   "label_en": "Sanatory Hallways",
   "wikidata": "Q62545011"
@@ -282,6 +292,7 @@
   "ids": {
    "howlongtobeat": "42764",
    "igdb": "dont-chat-with-strangers",
+   "metacritic": "dont-chat-with-strangers",
    "mobygames": "137643",
    "pcgamingwiki": "Don't_Chat_With_Strangers",
    "steam": "533170"
@@ -309,6 +320,7 @@
   "ids": {
    "howlongtobeat": "81981",
    "igdb": "first-snow",
+   "metacritic": "first-snow",
    "steam": "1259430"
   },
   "label_en": "First Snow",
@@ -320,6 +332,7 @@
    "gog": "game/shadow_empire",
    "howlongtobeat": "86542",
    "igdb": "shadow-empire",
+   "metacritic": "shadow-empire",
    "mobygames": "151658",
    "pcgamingwiki": "Shadow_Empire",
    "steam": "1154840"
@@ -348,6 +361,7 @@
   "ids": {
    "howlongtobeat": "108289",
    "igdb": "crimesight",
+   "metacritic": "crimesight",
    "mobygames": "182987",
    "pcgamingwiki": "CRIMESIGHT",
    "steam": "1491710"
@@ -361,6 +375,7 @@
    "gog": "game/valfaris",
    "howlongtobeat": "64699",
    "igdb": "valfaris",
+   "metacritic": "valfaris",
    "mobygames": "135783",
    "pcgamingwiki": "Valfaris",
    "steam": "600130"
@@ -401,6 +416,7 @@
   "ids": {
    "howlongtobeat": "56378",
    "igdb": "raging-justice",
+   "metacritic": "raging-justice",
    "mobygames": "107991",
    "pcgamingwiki": "Raging_Justice",
    "steam": "384200"
@@ -423,6 +439,7 @@
   "ids": {
    "howlongtobeat": "59050",
    "igdb": "silicon-dreams--1",
+   "metacritic": "silicon-dreams",
    "mobygames": "163273",
    "steam": "1272070"
   },
@@ -547,6 +564,7 @@
   "ids": {
    "howlongtobeat": "111977",
    "igdb": "robin-morningwood-adventure-a-gay-rpg",
+   "metacritic": "robin-morningwood-adventure",
    "mobygames": "208025",
    "steam": "1457220"
   },
@@ -706,6 +724,7 @@
    "gog": "game/the_elephant_collection",
    "howlongtobeat": "139773",
    "igdb": "the-elephant-collection",
+   "metacritic": "the-elephant-collection",
    "mobygames": "211478",
    "pcgamingwiki": "The_Elephant_Collection",
    "steam": "2274110"
@@ -847,6 +866,7 @@
   "ids": {
    "howlongtobeat": "152017",
    "igdb": "gears-of-war-e-day",
+   "metacritic": "gears-of-war-e-day",
    "pcgamingwiki": "Gears_of_War:_E-Day",
    "steam": "3010850"
   },
@@ -883,6 +903,7 @@
    "epic": "return-to-grace-92a75a",
    "howlongtobeat": "129514",
    "igdb": "return-to-grace",
+   "metacritic": "return-to-grace",
    "mobygames": "203874",
    "pcgamingwiki": "Return_to_Grace",
    "steam": "2243670"

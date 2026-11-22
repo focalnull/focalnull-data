@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1473",
    "igdb": "call-of-duty-black-ops-declassified",
+   "metacritic": "call-of-duty-black-ops-declassified",
    "mobygames": "69690"
   },
   "label_en": "Call of Duty: Black Ops: Declassified",
@@ -14,6 +15,7 @@
   "ids": {
    "howlongtobeat": "10523",
    "igdb": "top-spin-4",
+   "metacritic": "top-spin-4",
    "mobygames": "65583"
   },
   "label_en": "Top Spin 4",
@@ -26,6 +28,7 @@
    "gog": "game/puzzle_agent",
    "howlongtobeat": "7414",
    "igdb": "puzzle-agent",
+   "metacritic": "puzzle-agent",
    "mobygames": "47191",
    "pcgamingwiki": "Nelson_Tethers:_Puzzle_Agent",
    "steam": "31270"
@@ -39,6 +42,7 @@
    "gog": "game/sid_meiers_railroads",
    "howlongtobeat": "8517",
    "igdb": "sid-meiers-railroads",
+   "metacritic": "sid-meiers-railroads",
    "mobygames": "25727",
    "pcgamingwiki": "Sid_Meier's_Railroads!",
    "steam": "7600"
@@ -51,6 +55,7 @@
   "ids": {
    "howlongtobeat": "2923",
    "igdb": "duke-nukem-advance",
+   "metacritic": "duke-nukem-advance",
    "mobygames": "7199"
   },
   "label_en": "Duke Nukem Advance",
@@ -60,6 +65,7 @@
   "enwiki": "Dynasty Warriors 6",
   "ids": {
    "igdb": "dynasty-warriors-6",
+   "metacritic": "dynasty-warriors-6",
    "mobygames": "33663",
    "pcgamingwiki": "Dynasty_Warriors_6"
   },
@@ -131,6 +137,7 @@
    "gog": "game/echelon",
    "howlongtobeat": "15726",
    "igdb": "echelon",
+   "metacritic": "echelon",
    "mobygames": "8240",
    "pcgamingwiki": "Echelon_(2001)",
    "steam": "311080"
@@ -147,6 +154,7 @@
   "ids": {
    "howlongtobeat": "5198",
    "igdb": "law-and-order-legacies",
+   "metacritic": "law-order-legacies",
    "mobygames": "54667",
    "pcgamingwiki": "Law_&_Order:_Legacies",
    "steam": "205330"
@@ -158,6 +166,7 @@
   "enwiki": "Mad Dash Racing",
   "ids": {
    "igdb": "mad-dash-racing",
+   "metacritic": "mad-dash-racing",
    "mobygames": "6307"
   },
   "label_en": "Mad Dash Racing",
@@ -174,7 +183,8 @@
  {
   "enwiki": "Smart As...",
   "ids": {
-   "igdb": "smart-as-dot-dot-dot"
+   "igdb": "smart-as-dot-dot-dot",
+   "metacritic": "smart-as"
   },
   "label_en": "Smart As",
   "wikidata": "Q7543932"
@@ -200,6 +210,7 @@
   "enwiki": "Dragon Ball Z: Battle of Z",
   "ids": {
    "igdb": "dragon-ball-z-battle-of-z",
+   "metacritic": "dragon-ball-z-battle-of-z",
    "mobygames": "83509"
   },
   "label_en": "Dragon Ball Z: Battle of Z",
@@ -233,6 +244,7 @@
   "ids": {
    "howlongtobeat": "2038",
    "igdb": "critical-mass",
+   "metacritic": "critical-mass",
    "mobygames": "169132",
    "pcgamingwiki": "Critical_Mass",
    "steam": "105300"
@@ -252,6 +264,7 @@
   "ids": {
    "howlongtobeat": "57514",
    "igdb": "devil-may-cry-5",
+   "metacritic": "devil-may-cry-5",
    "mobygames": "121476",
    "pcgamingwiki": "Devil_May_Cry_5",
    "steam": "601150"
@@ -277,6 +290,7 @@
    "epic": "hell-let-loose-03f036",
    "howlongtobeat": "64501",
    "igdb": "hell-let-loose",
+   "metacritic": "hell-let-loose",
    "mobygames": "128079",
    "pcgamingwiki": "Hell_Let_Loose",
    "steam": "686810"
@@ -302,6 +316,7 @@
    "gog": "game/minoria",
    "howlongtobeat": "69971",
    "igdb": "minoria",
+   "metacritic": "minoria",
    "mobygames": "133798",
    "pcgamingwiki": "Minoria",
    "steam": "940910"
@@ -375,6 +390,7 @@
  {
   "ids": {
    "igdb": "yuso",
+   "metacritic": "yuso",
    "mobygames": "110467",
    "pcgamingwiki": "Yuso",
    "steam": "819220"
@@ -789,7 +805,8 @@
  },
  {
   "ids": {
-   "igdb": "campfire-cat-cafe"
+   "igdb": "campfire-cat-cafe",
+   "metacritic": "campfire-cat-cafe-cute-game"
   },
   "label_en": "Campfire Cat Cafe",
   "wikidata": "Q124176932"

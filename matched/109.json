@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "11623",
    "igdb": "legend-of-kay",
+   "metacritic": "legend-of-kay",
    "mobygames": "18735"
   },
   "label_en": "Legend of Kay",
@@ -31,6 +32,7 @@
   "enwiki": "Inuyasha: Feudal Combat",
   "ids": {
    "igdb": "inuyasha-feudal-combat",
+   "metacritic": "inuyasha-feudal-combat",
    "mobygames": "120158"
   },
   "label_en": "Inuyasha: Feudal Combat",
@@ -42,6 +44,7 @@
    "gog": "game/venetica",
    "howlongtobeat": "10911",
    "igdb": "venetica",
+   "metacritic": "venetica",
    "mobygames": "42334",
    "pcgamingwiki": "Venetica",
    "steam": "338140"
@@ -183,6 +186,7 @@
   "enwiki": "Rampage Puzzle Attack",
   "ids": {
    "igdb": "rampage-puzzle-attack",
+   "metacritic": "rampage-puzzle-attack",
    "mobygames": "8424"
   },
   "label_en": "Rampage Puzzle Attack",
@@ -227,6 +231,7 @@
   "ids": {
    "howlongtobeat": "6959",
    "igdb": "penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-one",
+   "metacritic": "penny-arcade-adventures-episode-one",
    "mobygames": "34221",
    "pcgamingwiki": "Penny_Arcade's_On_the_Rain-Slick_Precipice_of_Darkness:_Episode_One",
    "steam": "18000"
@@ -248,6 +253,7 @@
   "ids": {
    "howlongtobeat": "66305",
    "igdb": "luigis-mansion-3",
+   "metacritic": "luigis-mansion-3",
    "mobygames": "130053"
   },
   "label_en": "Luigi's Mansion 3",
@@ -290,6 +296,7 @@
   "ids": {
    "howlongtobeat": "24311",
    "igdb": "double-action-boogaloo",
+   "metacritic": "double-action-boogaloo",
    "mobygames": "130168",
    "pcgamingwiki": "Double_Action:_Boogaloo",
    "steam": "317360"
@@ -393,6 +400,7 @@
    "epic": "fuga-melodies-of-steel-2-a756d1",
    "howlongtobeat": "127711",
    "igdb": "fuga-melodies-of-steel-2",
+   "metacritic": "fuga-melodies-of-steel-2",
    "mobygames": "203010",
    "pcgamingwiki": "Fuga:_Melodies_of_Steel_2",
    "steam": "2001340"
@@ -403,6 +411,7 @@
  {
   "ids": {
    "igdb": "yago-the-coquerrestrial",
+   "metacritic": "yago-the-coquerrestrial",
    "pcgamingwiki": "Yago,_the_Coquerrestrial",
    "steam": "744390"
   },
@@ -413,6 +422,7 @@
   "ids": {
    "howlongtobeat": "115178",
    "igdb": "endoparasitic",
+   "metacritic": "endoparasitic",
    "mobygames": "193746",
    "pcgamingwiki": "Endoparasitic",
    "steam": "2124780"
@@ -500,6 +510,7 @@
   "ids": {
    "howlongtobeat": "75696",
    "igdb": "speaking-simulator",
+   "metacritic": "speaking-simulator",
    "mobygames": "141133",
    "pcgamingwiki": "Speaking_Simulator",
    "steam": "966400"
@@ -677,7 +688,8 @@
  {
   "enwiki": "Asgard's Wrath 2",
   "ids": {
-   "igdb": "asgards-wrath-ii"
+   "igdb": "asgards-wrath-ii",
+   "metacritic": "asgards-wrath-2"
   },
   "label_en": "Asgard's Wrath 2",
   "wikidata": "Q123699109"
@@ -787,6 +799,7 @@
  {
   "ids": {
    "igdb": "tailbound",
+   "metacritic": "tailbound",
    "mobygames": "209917",
    "steam": "2130000"
   },
@@ -842,6 +855,7 @@
   "ids": {
    "howlongtobeat": "152548",
    "igdb": "leap-year",
+   "metacritic": "leap-year",
    "mobygames": "230779",
    "steam": "2951770"
   },
@@ -852,6 +866,7 @@
   "ids": {
    "gog": "game/kathy_rain_2_soothsayer",
    "igdb": "kathy-rain-2-soothsayer",
+   "metacritic": "kathy-rain-2-soothsayer",
    "mobygames": "242316",
    "pcgamingwiki": "Kathy_Rain_2:_Soothsayer",
    "steam": "1466390"
@@ -1166,6 +1181,7 @@
  {
   "ids": {
    "igdb": "monster-bash-hd",
+   "pcgamingwiki": "Monster_Bash_HD",
    "steam": "459840"
   },
   "label_en": "Monster Bash HD",
@@ -1174,6 +1190,7 @@
  {
   "ids": {
    "igdb": "dont-even-think",
+   "metacritic": "dont-even-think",
    "mobygames": "129964"
   },
   "label_en": "Don't Even Think",

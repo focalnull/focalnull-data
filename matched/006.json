@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3524",
    "igdb": "final-fantasy-viii",
+   "metacritic": "final-fantasy-viii-remastered",
    "mobygames": "1149",
    "pcgamingwiki": "Final_Fantasy_VIII",
    "steam": "39150"
@@ -52,6 +53,7 @@
   "ids": {
    "howlongtobeat": "700",
    "igdb": "atelier-iris-2-the-azoth-of-destiny",
+   "metacritic": "atelier-iris-2-the-azoth-of-destiny",
    "mobygames": "23885"
   },
   "label_en": "Atelier Iris 2: The Azoth of Destiny",
@@ -63,6 +65,7 @@
    "gog": "game/pier_solar_and_the_great_architects",
    "howlongtobeat": "7040",
    "igdb": "pier-solar-and-the-great-architects",
+   "metacritic": "pier-solar-and-the-great-architects",
    "mobygames": "50598",
    "pcgamingwiki": "Pier_Solar_and_the_Great_Architects",
    "steam": "286220"
@@ -102,6 +105,7 @@
   "ids": {
    "howlongtobeat": "34824",
    "igdb": "ice-age-continental-drift-arctic-games",
+   "metacritic": "ice-age-continental-drift-arctic-games",
    "mobygames": "57025",
    "pcgamingwiki": "Ice_Age:_Continental_Drift_-_Arctic_Games",
    "steam": "224360"
@@ -123,6 +127,7 @@
   "ids": {
    "howlongtobeat": "23216",
    "igdb": "swat-target-liberty",
+   "metacritic": "swat-target-liberty",
    "mobygames": "34642"
   },
   "label_en": "SWAT: Target Liberty",
@@ -139,6 +144,7 @@
   "enwiki": "Attack on Pearl Harbor (video game)",
   "ids": {
    "igdb": "attack-on-pearl-harbor",
+   "metacritic": "attack-on-pearl-harbor",
    "mobygames": "44560",
    "pcgamingwiki": "Attack_on_Pearl_Harbor",
    "steam": "8620"
@@ -161,6 +167,7 @@
    "gog": "game/dramatical_murder",
    "howlongtobeat": "13408",
    "mobygames": "159798",
+   "pcgamingwiki": "DRAMAtical_Murder",
    "steam": "1481080"
   },
   "label_en": "Dramatical Murder",
@@ -170,6 +177,7 @@
   "enwiki": "Quantum Theory (video game)",
   "ids": {
    "igdb": "quantum-theory",
+   "metacritic": "quantum-theory",
    "mobygames": "53821"
   },
   "label_en": "Quantum Theory",
@@ -200,6 +208,7 @@
   "enwiki": "The Dark Spire",
   "ids": {
    "igdb": "the-dark-spire",
+   "metacritic": "the-dark-spire",
    "mobygames": "40649"
   },
   "label_en": "The Dark Spire",
@@ -249,6 +258,7 @@
   "ids": {
    "howlongtobeat": "34139",
    "igdb": "naruto-shippuden-ultimate-ninja-storm-4",
+   "metacritic": "naruto-shippuden-ultimate-ninja-storm-4",
    "mobygames": "83364",
    "pcgamingwiki": "Naruto_Shippuden:_Ultimate_Ninja_Storm_4",
    "steam": "349040"
@@ -261,6 +271,7 @@
    "epic": "assassins-creed-chronicles-china",
    "howlongtobeat": "25195",
    "igdb": "assassins-creed-chronicles-china--1",
+   "metacritic": "assassins-creed-chronicles-china",
    "mobygames": "72499",
    "pcgamingwiki": "Assassin's_Creed_Chronicles:_China",
    "steam": "354380"
@@ -299,6 +310,7 @@
    "gog": "game/neon_chrome",
    "howlongtobeat": "37563",
    "igdb": "neon-chrome",
+   "metacritic": "neon-chrome",
    "mobygames": "79064",
    "pcgamingwiki": "Neon_Chrome",
    "steam": "428750"
@@ -363,6 +375,7 @@
    "gog": "game/signs_of_the_sojourner",
    "howlongtobeat": "78240",
    "igdb": "signs-of-the-sojourner",
+   "metacritic": "signs-of-the-sojourner",
    "mobygames": "145524",
    "pcgamingwiki": "Signs_of_the_Sojourner",
    "steam": "1058690"
@@ -376,6 +389,7 @@
    "gog": "game/city_of_gangsters",
    "howlongtobeat": "96518",
    "igdb": "city-of-gangsters",
+   "metacritic": "city-of-gangsters",
    "mobygames": "168867",
    "pcgamingwiki": "City_of_Gangsters",
    "steam": "1386780"
@@ -411,6 +425,7 @@
    "howlongtobeat": "115302",
    "igdb": "outbreak-contagious-memories",
    "mobygames": "190598",
+   "pcgamingwiki": "Outbreak:_Contagious_Memories",
    "steam": "1772950"
   },
   "label_en": "Outbreak: Contagious Memories",
@@ -474,6 +489,7 @@
    "epic": "unspottable",
    "howlongtobeat": "94470",
    "igdb": "unspottable",
+   "metacritic": "unspottable",
    "mobygames": "152467",
    "pcgamingwiki": "Unspottable",
    "steam": "1243960"
@@ -495,6 +511,7 @@
  {
   "ids": {
    "igdb": "milkchoco",
+   "metacritic": "milkchoco",
    "pcgamingwiki": "Milkchoco",
    "steam": "871120"
   },
@@ -885,6 +902,7 @@
    "gog": "game/turok_3_shadow_of_oblivion_remastered",
    "howlongtobeat": "10706",
    "igdb": "turok-3-shadow-of-oblivion--2",
+   "metacritic": "turok-3-shadow-of-oblivion",
    "mobygames": "213059",
    "pcgamingwiki": "Turok_3:_Shadow_of_Oblivion_Remastered",
    "steam": "1996770"
@@ -1134,6 +1152,7 @@
   "ids": {
    "howlongtobeat": "162220",
    "igdb": "lonely-mountains-snow-riders",
+   "metacritic": "lonely-mountains-snow-riders",
    "mobygames": "236165",
    "pcgamingwiki": "Lonely_Mountains:_Snow_Riders",
    "steam": "2545360"

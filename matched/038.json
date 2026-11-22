@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "5109",
    "igdb": "knockout-kings-2002",
+   "metacritic": "knockout-kings-2002",
    "mobygames": "7267"
   },
   "label_en": "Knockout Kings 2002",
@@ -23,6 +24,7 @@
   "ids": {
    "howlongtobeat": "9018",
    "igdb": "ssx-3",
+   "metacritic": "ssx-3",
    "mobygames": "10751"
   },
   "label_en": "SSX 3",
@@ -66,6 +68,7 @@
   "enwiki": "NHL 2K9",
   "ids": {
    "igdb": "nhl-2k9",
+   "metacritic": "nhl-2k9",
    "mobygames": "36171"
   },
   "label_en": "NHL 2K9",
@@ -115,6 +118,7 @@
   "ids": {
    "howlongtobeat": "19169",
    "igdb": "wayward-souls-curse-of-shadow",
+   "metacritic": "wayward-souls",
    "mobygames": "127586",
    "pcgamingwiki": "Wayward_Souls",
    "steam": "559260"
@@ -165,6 +169,7 @@
   "ids": {
    "howlongtobeat": "73199",
    "igdb": "du-lac-and-fey-dance-of-death",
+   "metacritic": "dance-of-death-du-lac-and-fey",
    "mobygames": "124918",
    "pcgamingwiki": "Dance_of_Death:_Du_Lac_&_Fey",
    "steam": "976920"
@@ -176,6 +181,7 @@
   "ids": {
    "howlongtobeat": "46017",
    "igdb": "golf-it",
+   "metacritic": "golf-it",
    "mobygames": "101342",
    "pcgamingwiki": "Golf_It!",
    "steam": "571740"
@@ -198,6 +204,7 @@
   "ids": {
    "howlongtobeat": "69088",
    "igdb": "shadow-corridor",
+   "metacritic": "shadow-corridor",
    "mobygames": "132043",
    "pcgamingwiki": "Kageroh:_Shadow_Corridor",
    "steam": "1025250"
@@ -219,6 +226,7 @@
    "epic": "gotham-knights",
    "howlongtobeat": "82068",
    "igdb": "gotham-knights",
+   "metacritic": "gotham-knights",
    "mobygames": "193909",
    "pcgamingwiki": "Gotham_Knights",
    "steam": "1496790"
@@ -243,6 +251,7 @@
    "gog": "game/creepy_tale",
    "howlongtobeat": "75872",
    "igdb": "creepy-tale",
+   "metacritic": "creepy-tale",
    "mobygames": "142976",
    "pcgamingwiki": "Creepy_Tale",
    "steam": "1224020"
@@ -277,6 +286,7 @@
    "epic": "aeterna-noctis",
    "howlongtobeat": "95982",
    "igdb": "aeterna-noctis",
+   "metacritic": "aeterna-noctis",
    "mobygames": "176651",
    "pcgamingwiki": "Aeterna_Noctis",
    "steam": "1517970"
@@ -319,6 +329,7 @@
   "ids": {
    "howlongtobeat": "18077",
    "igdb": "bus-simulator-2012",
+   "metacritic": "bus-simulator-2012",
    "mobygames": "73673",
    "pcgamingwiki": "Bus_Simulator_2012",
    "steam": "253770"
@@ -338,7 +349,8 @@
  },
  {
   "ids": {
-   "igdb": "elden-bling"
+   "igdb": "elden-bling",
+   "metacritic": "elden-bling"
   },
   "label_en": "Elden Bling",
   "wikidata": "Q120197038"
@@ -371,6 +383,7 @@
   "ids": {
    "howlongtobeat": "99191",
    "igdb": "neogeo-pocket-color-selection-vol-dot-1-steam-edition",
+   "metacritic": "neo-geo-pocket-color-selection-vol-1",
    "mobygames": "177964",
    "pcgamingwiki": "NeoGeo_Pocket_Color_Selection_Vol._1_Steam_Edition",
    "steam": "1586350"
@@ -714,6 +727,9 @@
   "wikidata": "Q124076038"
  },
  {
+  "ids": {
+   "metacritic": "smuta-living-dead"
+  },
   "label_en": "Smuta: Living Dead",
   "wikidata": "Q124289038"
  },
@@ -757,6 +773,7 @@
   "ids": {
    "howlongtobeat": "87809",
    "igdb": "yupitergrad",
+   "metacritic": "yupitergrad",
    "steam": "1352020"
   },
   "label_en": "Yupitergrad",
@@ -765,6 +782,7 @@
  {
   "ids": {
    "igdb": "castle-of-heart",
+   "metacritic": "castle-of-heart",
    "mobygames": "103932"
   },
   "label_en": "Castle of Heart",

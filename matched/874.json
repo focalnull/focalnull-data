@@ -24,6 +24,7 @@
    "gog": "game/rollercoaster_tycoon_2",
    "howlongtobeat": "7959",
    "igdb": "rollercoaster-tycoon-2",
+   "metacritic": "rollercoaster-tycoon-2",
    "mobygames": "7491",
    "pcgamingwiki": "RollerCoaster_Tycoon_2",
    "steam": "285330"
@@ -38,6 +39,7 @@
    "gog": "game/fallout_tactics",
    "howlongtobeat": "3349",
    "igdb": "fallout-tactics-brotherhood-of-steel",
+   "metacritic": "fallout-tactics-brotherhood-of-steel",
    "mobygames": "3552",
    "pcgamingwiki": "Fallout_Tactics:_Brotherhood_of_Steel",
    "steam": "38420"
@@ -68,6 +70,7 @@
   "enwiki": "EOE: Eve of Extinction",
   "ids": {
    "igdb": "eoe-eve-of-extinction",
+   "metacritic": "eoe-eve-of-extinction",
    "mobygames": "5953"
   },
   "label_en": "EOE: Eve of Extinction",
@@ -105,6 +108,7 @@
   "ids": {
    "howlongtobeat": "11770",
    "igdb": "cannon-fodder-3",
+   "metacritic": "cannon-fodder-3",
    "mobygames": "75105",
    "pcgamingwiki": "Cannon_Fodder_3",
    "steam": "209750"
@@ -218,6 +222,7 @@
   "ids": {
    "howlongtobeat": "11429",
    "igdb": "year-walk",
+   "metacritic": "year-walk",
    "mobygames": "63773",
    "pcgamingwiki": "Year_Walk",
    "steam": "269050"
@@ -235,6 +240,7 @@
   "ids": {
    "howlongtobeat": "31231",
    "igdb": "fatal-frame-maiden-of-black-water",
+   "metacritic": "fatal-frame-maiden-of-black-water",
    "mobygames": "84814",
    "pcgamingwiki": "Fatal_Frame:_Maiden_of_Black_Water",
    "steam": "1732190"
@@ -250,6 +256,7 @@
   "enwiki": "Entwined (video game)",
   "ids": {
    "igdb": "entwined",
+   "metacritic": "entwined",
    "mobygames": "83024"
   },
   "label_en": "Entwined",
@@ -261,6 +268,7 @@
    "gog": "game/blackguards_2",
    "howlongtobeat": "23218",
    "igdb": "blackguards-2",
+   "metacritic": "blackguards-2",
    "mobygames": "80684",
    "pcgamingwiki": "Blackguards_2",
    "steam": "314830"
@@ -273,6 +281,7 @@
   "ids": {
    "howlongtobeat": "36545",
    "igdb": "job-simulator-the-2050-archives",
+   "metacritic": "job-simulator",
    "mobygames": "84010",
    "pcgamingwiki": "Job_Simulator",
    "steam": "448280"
@@ -327,6 +336,7 @@
   "ids": {
    "howlongtobeat": "3792",
    "igdb": "gal-star-gun-2",
+   "metacritic": "galgun-2",
    "mobygames": "105829",
    "pcgamingwiki": "Gal*Gun_2",
    "steam": "851890"
@@ -338,6 +348,7 @@
   "enwiki": "Pokémon Pearl",
   "ids": {
    "igdb": "pokemon-pearl-version",
+   "metacritic": "pokemon-pearl-version",
    "mobygames": "27755"
   },
   "label_en": "Pokémon Pearl",
@@ -365,6 +376,7 @@
    "gog": "game/pathologic_2",
    "howlongtobeat": "51105",
    "igdb": "pathologic-2",
+   "metacritic": "pathologic-2",
    "mobygames": "127461",
    "pcgamingwiki": "Pathologic_2",
    "steam": "505230"
@@ -377,6 +389,7 @@
   "ids": {
    "howlongtobeat": "65068",
    "igdb": "devotion",
+   "metacritic": "devotion",
    "mobygames": "122550",
    "pcgamingwiki": "Devotion",
    "steam": "1006510"
@@ -433,6 +446,7 @@
  {
   "ids": {
    "igdb": "blast-ensemble",
+   "metacritic": "blast-ensemble",
    "mobygames": "189383",
    "steam": "1617920"
   },
@@ -593,6 +607,7 @@
   "ids": {
    "igdb": "fortresscraft-chapter-1",
    "mobygames": "164504",
+   "pcgamingwiki": "FortressCraft_:_Chapter_1",
    "steam": "1558210"
   },
   "label_en": "FortressCraft : Chapter 1",
@@ -614,6 +629,7 @@
    "howlongtobeat": "121357",
    "igdb": "infinite-jump",
    "mobygames": "209187",
+   "pcgamingwiki": "Infinite_Jump",
    "steam": "1547160"
   },
   "label_en": "Infinite Jump",

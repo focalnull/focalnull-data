@@ -6,6 +6,7 @@
    "gog": "game/torchlight",
    "howlongtobeat": "10527",
    "igdb": "torchlight",
+   "metacritic": "torchlight",
    "mobygames": "43225",
    "pcgamingwiki": "Torchlight",
    "steam": "41500"
@@ -56,6 +57,7 @@
   "ids": {
    "howlongtobeat": "4056",
    "igdb": "grand-slam-tennis-2",
+   "metacritic": "grand-slam-tennis-2",
    "mobygames": "79785"
   },
   "label_en": "Grand Slam Tennis 2",
@@ -85,6 +87,7 @@
   "enwiki": "Seven Samurai 20XX",
   "ids": {
    "igdb": "seven-samurai-20xx",
+   "metacritic": "seven-samurai-20xx",
    "mobygames": "14159"
   },
   "label_en": "Seven Samurai 20XX",
@@ -166,7 +169,8 @@
  {
   "enwiki": "The Fight: Lights Out",
   "ids": {
-   "igdb": "the-fight-lights-out"
+   "igdb": "the-fight-lights-out",
+   "metacritic": "the-fight-lights-out"
   },
   "label_en": "The Fight: Lights Out",
   "wikidata": "Q7733792"
@@ -249,6 +253,7 @@
   "ids": {
    "howlongtobeat": "18847",
    "igdb": "the-incredible-adventures-of-van-helsing-ii",
+   "metacritic": "the-incredible-adventures-of-van-helsing-ii",
    "mobygames": "94517",
    "pcgamingwiki": "The_Incredible_Adventures_of_Van_Helsing_II",
    "steam": "272470"
@@ -271,6 +276,7 @@
    "epic": "rune-2",
    "howlongtobeat": "72972",
    "igdb": "rune-ii",
+   "metacritic": "rune",
    "mobygames": "137244",
    "pcgamingwiki": "Rune_II",
    "steam": "821290"
@@ -301,7 +307,8 @@
   "enwiki": "The Stretchers",
   "ids": {
    "howlongtobeat": "72075",
-   "igdb": "the-stretchers"
+   "igdb": "the-stretchers",
+   "metacritic": "the-stretchers"
   },
   "label_en": "The Stretchers",
   "wikidata": "Q76747792"
@@ -320,6 +327,7 @@
    "epic": "final-fantasy-xvi",
    "howlongtobeat": "83152",
    "igdb": "final-fantasy-xvi",
+   "metacritic": "final-fantasy-xvi",
    "mobygames": "204724",
    "pcgamingwiki": "Final_Fantasy_XVI",
    "steam": "2515020"
@@ -364,6 +372,7 @@
    "gog": "game/hammerting",
    "howlongtobeat": "71496",
    "igdb": "hammerting",
+   "metacritic": "hammerting",
    "mobygames": "152058",
    "pcgamingwiki": "Hammerting",
    "steam": "760650"
@@ -462,6 +471,7 @@
    "gog": "game/moonscars",
    "howlongtobeat": "105765",
    "igdb": "moonscars",
+   "metacritic": "moonscars",
    "mobygames": "191927",
    "pcgamingwiki": "Moonscars",
    "steam": "1374970"
@@ -906,7 +916,8 @@
  },
  {
   "ids": {
-   "igdb": "dont-touch-anything-red"
+   "igdb": "dont-touch-anything-red",
+   "metacritic": "dont-touch-anything-red"
   },
   "label_en": "Don't Touch Anything Red",
   "wikidata": "Q125323792"
@@ -970,6 +981,7 @@
  {
   "ids": {
    "igdb": "spirit-swap",
+   "metacritic": "spirit-swap",
    "steam": "2897510"
   },
   "label_en": "Spirit Swap",
@@ -1248,6 +1260,7 @@
  {
   "ids": {
    "howlongtobeat": "43356",
+   "metacritic": "sword-art-online-memory-defrag",
    "mobygames": "86267"
   },
   "label_en": "Sword Art Online: Memory Defrag",

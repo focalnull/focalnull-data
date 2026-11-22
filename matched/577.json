@@ -5,6 +5,7 @@
    "gog": "game/neverwinter_nights_2_complete",
    "howlongtobeat": "6516",
    "igdb": "neverwinter-nights-2-complete",
+   "metacritic": "neverwinter-nights-2",
    "mobygames": "24735",
    "pcgamingwiki": "Neverwinter_Nights_2",
    "steam": "2760"
@@ -16,6 +17,7 @@
   "enwiki": "Odin Sphere",
   "ids": {
    "igdb": "odin-sphere",
+   "metacritic": "odin-sphere",
    "mobygames": "28254"
   },
   "label_en": "Odin Sphere",
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "2478",
    "igdb": "destroy-all-humans-big-willy-unleashed",
+   "metacritic": "destroy-all-humans-big-willy-unleashed",
    "mobygames": "33881"
   },
   "label_en": "Destroy All Humans! Big Willy Unleashed",
@@ -93,6 +96,7 @@
   "ids": {
    "howlongtobeat": "10706",
    "igdb": "turok-3-shadow-of-oblivion",
+   "metacritic": "turok-3-shadow-of-oblivion",
    "mobygames": "3754"
   },
   "label_en": "Turok 3: Shadow of Oblivion",
@@ -102,6 +106,7 @@
   "enwiki": "Minority Report: Everybody Runs",
   "ids": {
    "igdb": "minority-report-everybody-runs",
+   "metacritic": "minority-report-everybody-runs",
    "mobygames": "12875"
   },
   "label_en": "Minority Report: Everybody Runs",
@@ -126,6 +131,7 @@
   "enwiki": "The Denpa Men: They Came By Wave",
   "ids": {
    "igdb": "the-denpa-men-they-came-by-wave",
+   "metacritic": "the-denpa-men-they-came-by-wave",
    "mobygames": "98891"
   },
   "label_en": "The Denpa Men: They Came By Wave",
@@ -134,6 +140,7 @@
  {
   "enwiki": "Vanguard II (video game)",
   "ids": {
+   "metacritic": "vanguard-ii",
    "mobygames": "53793"
   },
   "label_en": "Vanguard II",
@@ -167,6 +174,7 @@
   "ids": {
    "howlongtobeat": "526",
    "igdb": "naval-warfare",
+   "metacritic": "aqua",
    "mobygames": "47358",
    "pcgamingwiki": "Naval_Warfare",
    "steam": "98500"
@@ -235,6 +243,7 @@
   "ids": {
    "howlongtobeat": "17454",
    "igdb": "dungeon-of-the-endless",
+   "metacritic": "dungeon-of-the-endless",
    "mobygames": "76743",
    "pcgamingwiki": "Dungeon_of_the_Endless",
    "steam": "249050"
@@ -247,6 +256,7 @@
   "ids": {
    "howlongtobeat": "31804",
    "igdb": "adventure-time-finn-and-jake-investigations",
+   "metacritic": "adventure-time-finn-and-jake-investigations",
    "mobygames": "82855",
    "pcgamingwiki": "Adventure_Time:_Finn_and_Jake_Investigations",
    "steam": "369300"
@@ -267,6 +277,7 @@
    "gog": "game/thronebreaker_the_witcher_tales",
    "howlongtobeat": "61381",
    "igdb": "thronebreaker-the-witcher-tales",
+   "metacritic": "thronebreaker",
    "mobygames": "116547",
    "pcgamingwiki": "Thronebreaker:_The_Witcher_Tales",
    "steam": "973760"
@@ -289,6 +300,7 @@
    "gog": "game/x4_foundations",
    "howlongtobeat": "62872",
    "igdb": "x4-foundations",
+   "metacritic": "x4-foundations",
    "mobygames": "117975",
    "pcgamingwiki": "X4:_Foundations",
    "steam": "392160"
@@ -298,6 +310,7 @@
  },
  {
   "ids": {
+   "metacritic": "over-the-hedge-hammy-goes-nuts",
    "mobygames": "33755"
   },
   "label_en": "Over the Hedge: Hammy Goes Nuts!",
@@ -313,6 +326,7 @@
    "gog": "game/etherborn",
    "howlongtobeat": "69038",
    "igdb": "etherborn",
+   "metacritic": "etherborn",
    "mobygames": "130073",
    "pcgamingwiki": "Etherborn",
    "steam": "812160"
@@ -333,6 +347,7 @@
    "epic": "i-am-dead",
    "howlongtobeat": "80166",
    "igdb": "i-am-dead",
+   "metacritic": "i-am-dead",
    "mobygames": "151313",
    "pcgamingwiki": "I_Am_Dead",
    "steam": "951750"
@@ -348,6 +363,7 @@
   "ids": {
    "howlongtobeat": "89300",
    "igdb": "aliens-fireteam-elite",
+   "metacritic": "aliens-fireteam-elite",
    "mobygames": "170040",
    "pcgamingwiki": "Aliens:_Fireteam_Elite",
    "steam": "1549970"
@@ -413,6 +429,7 @@
    "gog": "game/world_end_economica_episode03",
    "howlongtobeat": "42403",
    "igdb": "world-end-economica-episode-dot-03",
+   "metacritic": "world-end-economica-episode03",
    "mobygames": "96929",
    "pcgamingwiki": "World_End_Economica_Episode.03",
    "steam": "527190"
@@ -457,6 +474,7 @@
    "howlongtobeat": "85806",
    "igdb": "wordle-2",
    "mobygames": "188638",
+   "pcgamingwiki": "Wordle_2",
    "steam": "1386730"
   },
   "label_en": "Wordle 2",
@@ -477,6 +495,7 @@
   "ids": {
    "howlongtobeat": "110552",
    "igdb": "krut-the-mythic-wings",
+   "metacritic": "krut-the-mythic-wings",
    "mobygames": "188018",
    "steam": "1649860"
   },
@@ -498,6 +517,7 @@
   "ids": {
    "howlongtobeat": "103820",
    "igdb": "7-days-to-end-with-you",
+   "metacritic": "7-days-to-end-with-you",
    "mobygames": "198281",
    "steam": "1859280"
   },
@@ -893,6 +913,7 @@
  {
   "ids": {
    "igdb": "rewindgirl",
+   "metacritic": "rewindgirl",
    "steam": "2952990"
   },
   "label_en": "RewindGirl",
@@ -949,7 +970,8 @@
  {
   "ids": {
    "howlongtobeat": "64833",
-   "igdb": "rto-2--1"
+   "igdb": "rto-2--1",
+   "metacritic": "rto-2"
   },
   "label_en": "RTO 2",
   "wikidata": "Q131741577"

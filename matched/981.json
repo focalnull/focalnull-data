@@ -3,6 +3,7 @@
   "enwiki": "Legends of Wrestling II",
   "ids": {
    "igdb": "legends-of-wrestling-ii",
+   "metacritic": "legends-of-wrestling-ii",
    "mobygames": "7819"
   },
   "label_en": "Legends of Wrestling II",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "5209",
    "igdb": "left-4-dead",
+   "metacritic": "left-4-dead",
    "mobygames": "38055",
    "pcgamingwiki": "Left_4_Dead",
    "steam": "500"
@@ -35,6 +37,7 @@
   "ids": {
    "howlongtobeat": "78781",
    "igdb": "utawarerumono",
+   "metacritic": "utawarerumono-prelude-to-the-fallen",
    "mobygames": "49983",
    "pcgamingwiki": "Utawarerumono:_Prelude_to_the_Fallen",
    "steam": "1151450"
@@ -47,6 +50,7 @@
   "ids": {
    "howlongtobeat": "9440",
    "igdb": "super-smash-bros",
+   "metacritic": "super-smash-bros",
    "mobygames": "3546"
   },
   "label_en": "Super Smash Bros.",
@@ -57,6 +61,7 @@
   "ids": {
    "howlongtobeat": "1156",
    "igdb": "bleach-dark-souls",
+   "metacritic": "bleach-dark-souls",
    "mobygames": "142920"
   },
   "label_en": "Bleach: Dark Souls",
@@ -67,6 +72,7 @@
   "ids": {
    "howlongtobeat": "3065",
    "igdb": "einhander",
+   "metacritic": "einhander",
    "mobygames": "3656"
   },
   "label_en": "Einhänder",
@@ -77,6 +83,7 @@
   "ids": {
    "howlongtobeat": "8395",
    "igdb": "shaun-white-snowboarding",
+   "metacritic": "shaun-white-snowboarding",
    "mobygames": "38111",
    "pcgamingwiki": "Shaun_White_Snowboarding",
    "steam": "19990"
@@ -173,6 +180,7 @@
   "enwiki": "NFL Street 2",
   "ids": {
    "igdb": "nfl-street-2",
+   "metacritic": "nfl-street-2",
    "mobygames": "26246"
   },
   "label_en": "NFL Street 2",
@@ -191,6 +199,7 @@
   "enwiki": "A Dark Room",
   "ids": {
    "igdb": "a-dark-room--1",
+   "metacritic": "a-dark-room",
    "mobygames": "65127",
    "steam": "2460660"
   },
@@ -235,6 +244,7 @@
   "ids": {
    "howlongtobeat": "58669",
    "igdb": "cubiques-2",
+   "metacritic": "cubiques-2",
    "pcgamingwiki": "Cubiques_2",
    "steam": "805340"
   },
@@ -286,6 +296,7 @@
   "ids": {
    "howlongtobeat": "32677",
    "igdb": "the-mean-greens-plastic-warfare",
+   "metacritic": "the-mean-greens-plastic-warfare",
    "mobygames": "129361",
    "pcgamingwiki": "The_Mean_Greens_-_Plastic_Warfare",
    "steam": "360940"
@@ -341,6 +352,7 @@
    "epic": "terror-of-hemasaurus-a08800",
    "howlongtobeat": "106980",
    "igdb": "terror-of-hemasaurus",
+   "metacritic": "terror-of-hemasaurus",
    "mobygames": "193529",
    "pcgamingwiki": "Terror_of_Hemasaurus",
    "steam": "1016180"
@@ -851,7 +863,8 @@
  {
   "ids": {
    "howlongtobeat": "91399",
-   "igdb": "solar-smash"
+   "igdb": "solar-smash",
+   "metacritic": "solar-smash"
   },
   "label_en": "Solar Smash",
   "wikidata": "Q125355981"

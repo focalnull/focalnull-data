@@ -3,6 +3,7 @@
   "enwiki": "Sly 3: Honor Among Thieves",
   "ids": {
    "igdb": "sly-3-honor-among-thieves",
+   "metacritic": "sly-3-honor-among-thieves",
    "mobygames": "20207"
   },
   "label_en": "Sly 3: Honor Among Thieves",
@@ -95,6 +96,7 @@
   "enwiki": "Freaky Flyers",
   "ids": {
    "igdb": "freaky-flyers",
+   "metacritic": "freaky-flyers",
    "mobygames": "10124"
   },
   "label_en": "Freaky Flyers",
@@ -148,6 +150,7 @@
   "enwiki": "Qix++",
   "ids": {
    "igdb": "qix-plus-plus",
+   "metacritic": "qix",
    "mobygames": "44626"
   },
   "label_en": "Qix++",
@@ -196,6 +199,7 @@
    "gog": "game/teslagrad",
    "howlongtobeat": "15472",
    "igdb": "teslagrad",
+   "metacritic": "teslagrad",
    "mobygames": "65875",
    "pcgamingwiki": "Teslagrad",
    "steam": "249590"
@@ -256,6 +260,7 @@
    "gog": "game/mothergunship",
    "howlongtobeat": "58623",
    "igdb": "mothergunship",
+   "metacritic": "mothergunship",
    "mobygames": "111372",
    "pcgamingwiki": "Mothergunship",
    "steam": "574090"
@@ -275,6 +280,7 @@
  {
   "ids": {
    "igdb": "word-wizard-3d",
+   "metacritic": "word-wizard-3d",
    "mobygames": "96728"
   },
   "label_en": "Word Wizard 3D",
@@ -283,6 +289,7 @@
  {
   "ids": {
    "igdb": "left-behind-3-rise-of-the-antichrist",
+   "metacritic": "left-behind-3-rise-of-the-antichrist",
    "pcgamingwiki": "Left_Behind_3:_Rise_of_the_Antichrist"
   },
   "label_en": "Left Behind 3: Rise of the Antichrist",
@@ -293,6 +300,7 @@
   "ids": {
    "howlongtobeat": "38841",
    "igdb": "persona-3-portable",
+   "metacritic": "shin-megami-tensei-persona-3-portable",
    "mobygames": "50461",
    "pcgamingwiki": "Persona_3_Portable",
    "steam": "1809700"
@@ -323,6 +331,7 @@
   "ids": {
    "howlongtobeat": "34920",
    "igdb": "reagan-gorbachev",
+   "metacritic": "reagan-gorbachev",
    "mobygames": "87723",
    "pcgamingwiki": "Reagan_Gorbachev",
    "steam": "364720"
@@ -336,6 +345,7 @@
    "gog": "game/evans_remains",
    "howlongtobeat": "79146",
    "igdb": "evans-remains",
+   "metacritic": "evans-remains",
    "mobygames": "146100",
    "pcgamingwiki": "Evan's_Remains",
    "steam": "1110050"
@@ -348,6 +358,7 @@
   "ids": {
    "howlongtobeat": "21931",
    "igdb": "aero-elite-combat-academy",
+   "metacritic": "aero-elite-combat-academy",
    "mobygames": "34835"
   },
   "label_en": "Aero Elite: Combat Academy",
@@ -368,6 +379,7 @@
  {
   "ids": {
    "igdb": "kemono-friends-picross",
+   "metacritic": "kemono-friends-picross",
    "mobygames": "114337"
   },
   "label_en": "Kemono Friends Picross",
@@ -390,6 +402,7 @@
    "gog": "game/svoboda_1945_liberation",
    "howlongtobeat": "96547",
    "igdb": "svoboda-1945-liberation",
+   "metacritic": "svoboda-1945",
    "mobygames": "171353",
    "pcgamingwiki": "Svoboda_1945:_Liberation",
    "steam": "1076620"
@@ -785,6 +798,7 @@
    "epic": "the-casting-of-frank-stone-09928b",
    "howlongtobeat": "141838",
    "igdb": "the-casting-of-frank-stone",
+   "metacritic": "the-casting-of-frank-stone",
    "mobygames": "230498",
    "pcgamingwiki": "The_Casting_of_Frank_Stone",
    "steam": "2223840"

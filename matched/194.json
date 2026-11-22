@@ -14,6 +14,7 @@
    "gog": "game/the_longest_journey",
    "howlongtobeat": "10053",
    "igdb": "the-longest-journey",
+   "metacritic": "the-longest-journey",
    "mobygames": "1439",
    "pcgamingwiki": "The_Longest_Journey",
    "steam": "6310"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "1777",
    "igdb": "code-lyoko-fall-of-xana",
+   "metacritic": "code-lyoko-fall-of-xana",
    "mobygames": "40121"
   },
   "label_en": "Code Lyoko: Fall of X.A.N.A.",
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "5549",
    "igdb": "magicka",
+   "metacritic": "magicka",
    "mobygames": "50235",
    "pcgamingwiki": "Magicka",
    "steam": "42910"
@@ -118,6 +121,7 @@
   "ids": {
    "howlongtobeat": "1159",
    "igdb": "bleach-shattered-blade",
+   "metacritic": "bleach-shattered-blade",
    "mobygames": "48799"
   },
   "label_en": "Bleach: Shattered Blade",
@@ -164,6 +168,7 @@
   "ids": {
    "howlongtobeat": "11447",
    "igdb": "yosumin",
+   "metacritic": "yosumin",
    "mobygames": "41096",
    "pcgamingwiki": "Yosumin!",
    "steam": "23300"
@@ -192,6 +197,7 @@
   "enwiki": "RC Revenge Pro",
   "ids": {
    "igdb": "rc-revenge-pro",
+   "metacritic": "rc-revenge-pro",
    "mobygames": "9732"
   },
   "label_en": "RC Revenge Pro",
@@ -201,6 +207,7 @@
   "enwiki": "Ultimate Fighting Championship (video game)",
   "ids": {
    "igdb": "ultimate-fighting-championship",
+   "metacritic": "ultimate-fighting-championship",
    "mobygames": "25410"
   },
   "label_en": "Ultimate Fighting Championship",
@@ -227,6 +234,7 @@
    "gog": "game/chaos_reborn",
    "howlongtobeat": "25211",
    "igdb": "chaos-reborn",
+   "metacritic": "chaos-reborn",
    "mobygames": "82365",
    "pcgamingwiki": "Chaos_Reborn",
    "steam": "319050"
@@ -238,6 +246,7 @@
   "enwiki": "M&M's Break' Em",
   "ids": {
    "igdb": "m-and-ms-break-em",
+   "metacritic": "mms-break-em",
    "mobygames": "31602"
   },
   "label_en": "M&M's Break' Em",
@@ -282,6 +291,7 @@
   "enwiki": "NCIS (video game)",
   "ids": {
    "igdb": "ncis",
+   "metacritic": "ncis",
    "mobygames": "56976",
    "pcgamingwiki": "NCIS"
   },
@@ -295,6 +305,7 @@
    "gog": "game/wilmots_warehouse",
    "howlongtobeat": "50395",
    "igdb": "wilmots-warehouse",
+   "metacritic": "wilmots-warehouse",
    "mobygames": "119380",
    "pcgamingwiki": "Wilmot's_Warehouse",
    "steam": "839870"
@@ -461,6 +472,7 @@
   "ids": {
    "howlongtobeat": "79553",
    "igdb": "risk-system",
+   "metacritic": "risk-system",
    "mobygames": "160055",
    "pcgamingwiki": "Risk_System",
    "steam": "833950"
@@ -684,6 +696,7 @@
    "epic": "steel-seed-cdc5d9",
    "howlongtobeat": "129898",
    "igdb": "steel-seed",
+   "metacritic": "steel-seed",
    "pcgamingwiki": "Steel_Seed",
    "steam": "458430"
   },

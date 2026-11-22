@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "61",
    "igdb": "24-the-game",
+   "metacritic": "24-the-game",
    "mobygames": "22084"
   },
   "label_en": "24: The Game",
@@ -64,6 +65,7 @@
   "ids": {
    "howlongtobeat": "11160",
    "igdb": "wii-sports-resort",
+   "metacritic": "wii-sports-resort",
    "mobygames": "41743"
   },
   "label_en": "Wii Sports Resort",
@@ -83,6 +85,7 @@
   "ids": {
    "howlongtobeat": "2153",
    "igdb": "dance-central",
+   "metacritic": "dance-central-2010",
    "mobygames": "49715"
   },
   "label_en": "Dance Central",
@@ -93,6 +96,7 @@
   "ids": {
    "howlongtobeat": "6566",
    "igdb": "nhl-2002",
+   "metacritic": "nhl-2002",
    "mobygames": "5541"
   },
   "label_en": "NHL 2002",
@@ -101,7 +105,8 @@
  {
   "enwiki": "James Pond in the Deathly Shallows",
   "ids": {
-   "igdb": "james-pond-in-the-deathly-shallows"
+   "igdb": "james-pond-in-the-deathly-shallows",
+   "metacritic": "james-pond-in-the-deathly-shallows"
   },
   "label_en": "James Pond in the Deathly Shallows",
   "wikidata": "Q2900241"
@@ -210,6 +215,7 @@
   "ids": {
    "howlongtobeat": "49055",
    "igdb": "espn-final-round-golf-2002",
+   "metacritic": "espn-final-round-golf-2002",
    "mobygames": "39692"
   },
   "label_en": "ESPN Final Round Golf 2002",
@@ -236,6 +242,7 @@
   "enwiki": "SX Superstar",
   "ids": {
    "igdb": "sx-superstar",
+   "metacritic": "sx-superstar",
    "mobygames": "9971"
   },
   "label_en": "SX Superstar",
@@ -279,6 +286,7 @@
   "ids": {
    "howlongtobeat": "13781",
    "igdb": "naruto-ultimate-ninja-heroes-2-the-phantom-fortress",
+   "metacritic": "naruto-ultimate-ninja-heroes-2-the-phantom-fortr",
    "mobygames": "46604"
   },
   "label_en": "Naruto: Ultimate Ninja Heroes 2: The Phantom Fortress",
@@ -310,6 +318,7 @@
   "enwiki": "ThunderCats (2012 video game)",
   "ids": {
    "igdb": "thundercats",
+   "metacritic": "thundercats-2012",
    "mobygames": "90452"
   },
   "label_en": "ThunderCats",
@@ -334,7 +343,8 @@
  {
   "ids": {
    "igdb": "ngt-next-generation-tennis",
-   "mobygames": "43815"
+   "mobygames": "43815",
+   "pcgamingwiki": "Roland_Garros_French_Open_2002"
   },
   "label_en": "Roland Garros 2002",
   "wikidata": "Q48350241"
@@ -357,6 +367,7 @@
   "ids": {
    "howlongtobeat": "71336",
    "igdb": "call-of-duty-mobile",
+   "metacritic": "call-of-duty-mobile",
    "mobygames": "135528",
    "pcgamingwiki": "Call_of_Duty:_Mobile"
   },
@@ -367,6 +378,7 @@
   "ids": {
    "howlongtobeat": "71135",
    "igdb": "conception-plus-maidens-of-the-twelve-stars",
+   "metacritic": "conception-plus-maidens-of-the-twelve-stars",
    "mobygames": "121811",
    "pcgamingwiki": "Conception_PLUS:_Maidens_of_the_Twelve_Stars",
    "steam": "906510"
@@ -427,6 +439,7 @@
    "gog": "game/hello_neighbor_2",
    "howlongtobeat": "87829",
    "igdb": "hello-neighbor-2",
+   "metacritic": "hello-neighbor-2",
    "mobygames": "196120",
    "pcgamingwiki": "Hello_Neighbor_2",
    "steam": "1321680"
@@ -458,6 +471,7 @@
   "ids": {
    "howlongtobeat": "104259",
    "igdb": "ambition-record",
+   "metacritic": "ambition-record",
    "mobygames": "179448",
    "steam": "1796930"
   },
@@ -477,6 +491,7 @@
  },
  {
   "ids": {
+   "metacritic": "goldeneye-007",
    "mobygames": "88197"
   },
   "label_en": "GoldenEye 007",
@@ -486,6 +501,7 @@
   "ids": {
    "howlongtobeat": "28672",
    "igdb": "galacide",
+   "metacritic": "galacide",
    "mobygames": "101413",
    "pcgamingwiki": "Galacide",
    "steam": "356790"
@@ -528,6 +544,7 @@
   "ids": {
    "howlongtobeat": "4591",
    "igdb": "ibomber-defense-pacific",
+   "metacritic": "ibomber-defense-pacific",
    "mobygames": "55560",
    "pcgamingwiki": "IBomber_Defense_Pacific",
    "steam": "206690"
@@ -794,6 +811,7 @@
   "ids": {
    "howlongtobeat": "42398",
    "igdb": "redie",
+   "metacritic": "redie",
    "mobygames": "126951",
    "pcgamingwiki": "Redie",
    "steam": "536990"
@@ -835,6 +853,7 @@
   "ids": {
    "howlongtobeat": "151854",
    "igdb": "blockbuster-inc",
+   "metacritic": "blockbuster-inc",
    "mobygames": "225328",
    "steam": "1793090"
   },
@@ -1256,6 +1275,8 @@
   "enwiki": "Casualties: Unknown",
   "ids": {
    "igdb": "casualties-unknown",
+   "metacritic": "casualties-unknown",
+   "pcgamingwiki": "Casualties:_Unknown",
    "steam": "4576490"
   },
   "label_en": "Casualties: Unknown",

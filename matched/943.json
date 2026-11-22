@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "10034",
    "igdb": "the-legend-of-zelda-majora-s-mask",
+   "metacritic": "the-legend-of-zelda-majoras-mask",
    "mobygames": "3550"
   },
   "label_en": "The Legend of Zelda: Majora's Mask",
@@ -46,6 +47,7 @@
   "enwiki": "Jurassic Park: Operation Genesis",
   "ids": {
    "igdb": "jurassic-park-operation-genesis",
+   "metacritic": "jurassic-park-operation-genesis",
    "mobygames": "8748",
    "pcgamingwiki": "Jurassic_Park:_Operation_Genesis"
   },
@@ -81,6 +83,7 @@
   "ids": {
    "howlongtobeat": "8120",
    "igdb": "samba-de-amigo--1",
+   "metacritic": "samba-de-amigo",
    "mobygames": "5328"
   },
   "label_en": "Samba de Amigo",
@@ -142,6 +145,7 @@
   "enwiki": "Blitz: The League",
   "ids": {
    "igdb": "blitz-the-league",
+   "metacritic": "blitz-the-league",
    "mobygames": "19552"
   },
   "label_en": "Blitz: The League",
@@ -151,6 +155,7 @@
   "enwiki": "Walk with me! Do you know your walking routine?",
   "ids": {
    "igdb": "personal-trainer-walking",
+   "metacritic": "personal-trainer-walking",
    "mobygames": "89640"
   },
   "label_en": "Personal Trainer: Walking",
@@ -192,6 +197,7 @@
   "ids": {
    "howlongtobeat": "26340",
    "igdb": "n-plus-plus",
+   "metacritic": "n-plus-plus",
    "mobygames": "80392",
    "pcgamingwiki": "N++",
    "steam": "230270"
@@ -247,6 +253,7 @@
   "ids": {
    "howlongtobeat": "59443",
    "igdb": "swim-out",
+   "metacritic": "swim-out",
    "mobygames": "94256",
    "pcgamingwiki": "Swim_Out",
    "steam": "662200"
@@ -259,6 +266,7 @@
   "ids": {
    "howlongtobeat": "75590",
    "igdb": "touhou-spell-bubble",
+   "metacritic": "touhou-spell-bubble",
    "mobygames": "142122"
   },
   "label_en": "Touhou Spell Bubble",
@@ -288,6 +296,7 @@
   "ids": {
    "howlongtobeat": "75151",
    "igdb": "spelunky-2",
+   "metacritic": "spelunky-2",
    "mobygames": "150492",
    "pcgamingwiki": "Spelunky_2",
    "steam": "418530"
@@ -584,6 +593,7 @@
   "ids": {
    "howlongtobeat": "74988",
    "igdb": "mindseize",
+   "metacritic": "mindseize",
    "mobygames": "143429",
    "pcgamingwiki": "MindSeize",
    "steam": "851280"
@@ -721,6 +731,7 @@
    "gog": "game/distraint_deluxe_edition",
    "howlongtobeat": "31586",
    "igdb": "distraint-deluxe-edition",
+   "metacritic": "distraint",
    "mobygames": "82269",
    "pcgamingwiki": "Distraint",
    "steam": "395170"
@@ -802,6 +813,7 @@
  {
   "ids": {
    "igdb": "153-hand-video-poker",
+   "metacritic": "153-hand-video-poker",
    "mobygames": "94161"
   },
   "label_en": "153 Hand Video Poker",
@@ -855,6 +867,7 @@
   "ids": {
    "howlongtobeat": "150803",
    "igdb": "dunnes-eis-das-spiel-zum-song",
+   "metacritic": "dunnes-eis-das-spiel-zum-song",
    "steam": "2961990"
   },
   "label_en": "Dunnes Eis - Das Spiel zum Song",
@@ -1157,6 +1170,7 @@
  {
   "ids": {
    "igdb": "amsterdam-taxi-madness",
+   "metacritic": "amsterdam-taxi-madness",
    "mobygames": "21055"
   },
   "label_en": "Amsterdam Taxi Madness",

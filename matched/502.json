@@ -54,6 +54,7 @@
   "ids": {
    "howlongtobeat": "12274",
    "igdb": "madden-nfl-2003",
+   "metacritic": "madden-nfl-2003",
    "mobygames": "7770"
   },
   "label_en": "Madden NFL 2003",
@@ -82,6 +83,7 @@
   "ids": {
    "howlongtobeat": "231",
    "igdb": "aedis-eclipse-generation-of-chaos",
+   "metacritic": "aedis-eclipse-generation-of-chaos",
    "mobygames": "36845"
   },
   "label_en": "Aedis Eclipse: Generation of Chaos",
@@ -104,6 +106,7 @@
   "enwiki": "NASCAR The Game: 2011",
   "ids": {
    "igdb": "nascar-2011-the-game",
+   "metacritic": "nascar-2011-the-game",
    "mobygames": "92010"
   },
   "label_en": "NASCAR The Game: 2011",
@@ -139,6 +142,7 @@
   "enwiki": "Top Gear: Dare Devil",
   "ids": {
    "igdb": "top-gear-dare-devil",
+   "metacritic": "top-gear-dare-devil",
    "mobygames": "8931"
   },
   "label_en": "Top Gear: Dare Devil",
@@ -158,6 +162,7 @@
   "ids": {
    "howlongtobeat": "11443",
    "igdb": "yoshi-s-new-island",
+   "metacritic": "yoshis-new-island",
    "mobygames": "66138"
   },
   "label_en": "Yoshi's New Island",
@@ -181,6 +186,7 @@
   "enwiki": "Pulse Racer",
   "ids": {
    "igdb": "pulse-racer",
+   "metacritic": "pulse-racer",
    "mobygames": "46680"
   },
   "label_en": "Pulse Racer",
@@ -208,6 +214,7 @@
   "ids": {
    "howlongtobeat": "61569",
    "igdb": "astro-bot-rescue-mission",
+   "metacritic": "astro-bot-rescue-mission",
    "mobygames": "115141"
   },
   "label_en": "Astro Bot Rescue Mission",
@@ -219,6 +226,7 @@
    "epic": "industries-of-titan",
    "howlongtobeat": "48566",
    "igdb": "industries-of-titan",
+   "metacritic": "industries-of-titan",
    "mobygames": "144512",
    "pcgamingwiki": "Industries_of_Titan",
    "steam": "427940"
@@ -230,6 +238,7 @@
   "enwiki": "Vader Immortal: A Star Wars VR Series",
   "ids": {
    "igdb": "vader-immortal-a-star-wars-vr-series",
+   "metacritic": "vader-immortal-a-star-wars-vr-series",
    "mobygames": "149942",
    "pcgamingwiki": "Vader_Immortal"
   },
@@ -269,6 +278,7 @@
    "gog": "game/caladrius_blaze",
    "howlongtobeat": "23092",
    "igdb": "caladrius-blaze",
+   "metacritic": "caladrius-blaze",
    "mobygames": "84979",
    "pcgamingwiki": "Caladrius_Blaze",
    "steam": "386770"
@@ -295,6 +305,7 @@
   "ids": {
    "howlongtobeat": "79769",
    "igdb": "marvels-spider-man-2",
+   "metacritic": "marvels-spider-man-2",
    "mobygames": "210733",
    "pcgamingwiki": "Marvel's_Spider-Man_2",
    "steam": "2651280"
@@ -732,6 +743,7 @@
  {
   "ids": {
    "igdb": "steel-lords",
+   "metacritic": "steel-lords",
    "mobygames": "101449"
   },
   "label_en": "Steel Lords",
@@ -789,7 +801,8 @@
  {
   "ids": {
    "howlongtobeat": "121963",
-   "igdb": "buddy-and-me"
+   "igdb": "buddy-and-me",
+   "metacritic": "buddy-and-me"
   },
   "label_en": "Buddy & Me",
   "wikidata": "Q128791502"
@@ -1075,6 +1088,7 @@
  {
   "ids": {
    "igdb": "tasty-shame-in-silver-soul",
+   "pcgamingwiki": "Tasty_Shame_in_Silver_Soul!",
    "steam": "923330"
   },
   "label_en": "Tasty Shame in Silver Soul!",
@@ -1083,6 +1097,7 @@
  {
   "ids": {
    "igdb": "creeper-world-ixe",
+   "pcgamingwiki": "Creeper_World_IXE",
    "steam": "2257010"
   },
   "label_en": "Creeper World IXE",
@@ -1099,6 +1114,7 @@
  {
   "ids": {
    "igdb": "he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction",
+   "metacritic": "he-man-and-the-masters-of-the-universe-dragon",
    "mobygames": "246789",
    "pcgamingwiki": "He-Man_and_the_Masters_of_the_Universe:_Dragon_Pearl_of_Destruction",
    "steam": "3749580"

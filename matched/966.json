@@ -32,6 +32,7 @@
   "ids": {
    "howlongtobeat": "6419",
    "igdb": "natural-selection-2",
+   "metacritic": "natural-selection-2",
    "mobygames": "61575",
    "pcgamingwiki": "Natural_Selection_2",
    "steam": "4920"
@@ -125,6 +126,7 @@
   "ids": {
    "howlongtobeat": "11418",
    "igdb": "xpand-rally",
+   "metacritic": "xpand-rally",
    "mobygames": "15390",
    "pcgamingwiki": "Xpand_Rally",
    "steam": "3010"
@@ -159,6 +161,7 @@
   "enwiki": "Teddy Together",
   "ids": {
    "igdb": "teddy-together",
+   "metacritic": "teddy-together",
    "mobygames": "145253"
   },
   "label_en": "Teddy Together",
@@ -230,6 +233,7 @@
    "gog": "game/la_mulana_2",
    "howlongtobeat": "26276",
    "igdb": "la-mulana-2",
+   "metacritic": "la-mulana-2",
    "mobygames": "111887",
    "pcgamingwiki": "La-Mulana_2",
    "steam": "835430"
@@ -242,6 +246,7 @@
    "gog": "game/bad_dream_coma",
    "howlongtobeat": "44405",
    "igdb": "bad-dream-coma",
+   "metacritic": "bad-dream-coma",
    "mobygames": "85133",
    "pcgamingwiki": "Bad_Dream:_Coma",
    "steam": "538070"
@@ -253,6 +258,7 @@
   "ids": {
    "howlongtobeat": "52571",
    "igdb": "time-recoil",
+   "metacritic": "time-recoil",
    "mobygames": "95884",
    "pcgamingwiki": "Time_Recoil",
    "steam": "625910"
@@ -325,6 +331,7 @@
   "ids": {
    "howlongtobeat": "82541",
    "igdb": "peaky-blinders-mastermind",
+   "metacritic": "peaky-blinders-mastermind",
    "mobygames": "149369",
    "pcgamingwiki": "Peaky_Blinders:_Mastermind",
    "steam": "1013310"
@@ -335,6 +342,7 @@
  {
   "ids": {
    "igdb": "silent-hill-ascension--4",
+   "metacritic": "silent-hill-ascension",
    "mobygames": "211166"
   },
   "label_en": "Silent Hill: Ascension",
@@ -487,6 +495,7 @@
   "ids": {
    "howlongtobeat": "93369",
    "igdb": "button-city",
+   "metacritic": "button-city",
    "mobygames": "169179",
    "steam": "1273750"
   },
@@ -619,6 +628,7 @@
   "ids": {
    "howlongtobeat": "139715",
    "igdb": "dont-scream",
+   "metacritic": "dont-scream",
    "steam": "2497900"
   },
   "label_en": "Don't Scream",
@@ -629,6 +639,7 @@
    "epic": "haunted-house-c5a71b",
    "howlongtobeat": "130855",
    "igdb": "haunted-house--6",
+   "metacritic": "haunted-house",
    "mobygames": "210237",
    "pcgamingwiki": "Haunted_House_(2023)",
    "steam": "1942330"
@@ -775,6 +786,7 @@
    "gog": "game/maid_of_the_dead",
    "howlongtobeat": "144457",
    "igdb": "maid-of-the-dead",
+   "metacritic": "maid-of-the-dead",
    "mobygames": "218541",
    "steam": "1868020"
   },
@@ -785,6 +797,7 @@
   "ids": {
    "howlongtobeat": "147418",
    "igdb": "cureocity",
+   "metacritic": "cureocity",
    "steam": "2612680"
   },
   "label_en": "Cureocity",

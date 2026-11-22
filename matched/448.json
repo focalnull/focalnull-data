@@ -6,6 +6,7 @@
    "gog": "game/the_elder_scrolls_iii_morrowind_goty_edition",
    "howlongtobeat": "9850",
    "igdb": "the-elder-scrolls-iii-morrowind",
+   "metacritic": "the-elder-scrolls-iii-morrowind",
    "mobygames": "6280",
    "pcgamingwiki": "The_Elder_Scrolls_III:_Morrowind",
    "steam": "22320"
@@ -18,6 +19,7 @@
   "ids": {
    "howlongtobeat": "4601",
    "igdb": "ico",
+   "metacritic": "ico",
    "mobygames": "5158"
   },
   "label_en": "Ico",
@@ -28,6 +30,7 @@
   "ids": {
    "howlongtobeat": "8411",
    "igdb": "sherlock-holmes-the-mystery-of-the-mummy",
+   "metacritic": "sherlock-holmes-the-mystery-of-the-mummy",
    "mobygames": "7910",
    "pcgamingwiki": "Sherlock_Holmes:_The_Mystery_of_the_Mummy",
    "steam": "11130"
@@ -41,6 +44,7 @@
    "gog": "game/praetorians",
    "howlongtobeat": "7268",
    "igdb": "praetorians",
+   "metacritic": "praetorians",
    "mobygames": "8549",
    "pcgamingwiki": "Praetorians",
    "steam": "277460"
@@ -61,6 +65,7 @@
   "enwiki": "Tekken 5: Dark Resurrection",
   "ids": {
    "igdb": "tekken-dark-resurrection",
+   "metacritic": "tekken-5-dark-resurrection",
    "mobygames": "23761"
   },
   "label_en": "Tekken 5: Dark Resurrection",
@@ -80,6 +85,7 @@
   "ids": {
    "howlongtobeat": "1435",
    "igdb": "core--1",
+   "metacritic": "c-o-r-e",
    "mobygames": "87668"
   },
   "label_en": "C.O.R.E.",
@@ -106,6 +112,7 @@
   "ids": {
    "howlongtobeat": "44328",
    "igdb": "mall-tycoon",
+   "metacritic": "mall-tycoon",
    "mobygames": "5783",
    "pcgamingwiki": "Mall_Tycoon"
   },
@@ -118,6 +125,7 @@
    "gog": "game/broken_sword_5_the_serpents_curse",
    "howlongtobeat": "24028",
    "igdb": "broken-sword-5-the-serpents-curse",
+   "metacritic": "broken-sword-5-the-serpents-curse",
    "mobygames": "62586",
    "pcgamingwiki": "Broken_Sword_5_-_The_Serpent's_Curse",
    "steam": "262940"
@@ -130,6 +138,7 @@
   "ids": {
    "howlongtobeat": "4151",
    "igdb": "guardians-of-middle-earth",
+   "metacritic": "guardians-of-middle-earth",
    "mobygames": "66062",
    "pcgamingwiki": "Guardians_of_Middle-earth",
    "steam": "111900"
@@ -141,6 +150,7 @@
   "enwiki": "Spider-Man: Battle for New York",
   "ids": {
    "igdb": "spider-man-battle-for-new-york",
+   "metacritic": "spider-man-battle-for-new-york",
    "mobygames": "159036"
   },
   "label_en": "Spider-Man: Battle for New York",
@@ -150,6 +160,7 @@
   "enwiki": "College Hoops 2K8",
   "ids": {
    "igdb": "ncaa-college-hoops-2k8",
+   "metacritic": "college-hoops-2k8",
    "mobygames": "34275"
   },
   "label_en": "College Hoops 2K8",
@@ -159,6 +170,7 @@
   "enwiki": "Disney Friends",
   "ids": {
    "igdb": "disney-friends",
+   "metacritic": "disney-friends",
    "mobygames": "32793"
   },
   "label_en": "Disney Friends",
@@ -176,7 +188,8 @@
  {
   "enwiki": "Steambot Chronicles: Battle Tournament",
   "ids": {
-   "igdb": "steambot-chronicles-battle-tournament"
+   "igdb": "steambot-chronicles-battle-tournament",
+   "metacritic": "steambot-chronicles-battle-tournament"
   },
   "label_en": "Steambot Chronicles: Battle Tournament",
   "wikidata": "Q7605448"
@@ -202,6 +215,7 @@
   "ids": {
    "howlongtobeat": "22621",
    "igdb": "halo-the-master-chief-collection",
+   "metacritic": "halo-the-master-chief-collection",
    "mobygames": "69673",
    "pcgamingwiki": "Halo:_The_Master_Chief_Collection",
    "steam": "976730"
@@ -214,6 +228,7 @@
   "ids": {
    "howlongtobeat": "21713",
    "igdb": "rivals-of-aether",
+   "metacritic": "rivals-of-aether",
    "mobygames": "86164",
    "pcgamingwiki": "Rivals_of_Aether",
    "steam": "383980"
@@ -243,7 +258,8 @@
  },
  {
   "ids": {
-   "igdb": "pac-man-monsters"
+   "igdb": "pac-man-monsters",
+   "metacritic": "pac-man-monsters"
   },
   "label_en": "Pac-Man Monsters",
   "wikidata": "Q62267448"
@@ -312,6 +328,7 @@
    "gog": "game/interrogation_you_will_be_deceived",
    "howlongtobeat": "72267",
    "igdb": "interrogation-you-will-be-deceived",
+   "metacritic": "interrogation-you-will-be-deceived",
    "mobygames": "137820",
    "pcgamingwiki": "Interrogation:_You_Will_Be_Deceived",
    "steam": "1016770"
@@ -324,7 +341,9 @@
   "ids": {
    "howlongtobeat": "97377",
    "igdb": "the-serpent-rogue",
+   "metacritic": "the-serpent-rogue",
    "mobygames": "195857",
+   "pcgamingwiki": "The_Serpent_Rogue",
    "steam": "1453790"
   },
   "label_en": "The Serpent Rogue",
@@ -401,7 +420,8 @@
  },
  {
   "ids": {
-   "igdb": "momotaro-dentetsu-world-chikyuu-ha-kibou-de-mawatteru"
+   "igdb": "momotaro-dentetsu-world-chikyuu-ha-kibou-de-mawatteru",
+   "metacritic": "momotaro-dentetsu-world-chikyuu-wa-kibou-de"
   },
   "label_en": "Momotaro Dentetsu World: Chikyuu wa Kibou de Mawatteru!",
   "wikidata": "Q120336448"
@@ -459,6 +479,7 @@
    "epic": "dust-and-neon-41b927",
    "howlongtobeat": "120012",
    "igdb": "dust-and-neon",
+   "metacritic": "dust-and-neon",
    "mobygames": "201840",
    "steam": "1296450"
   },
@@ -666,6 +687,7 @@
    "gog": "game/hell_is_us",
    "howlongtobeat": "106639",
    "igdb": "hell-is-us",
+   "metacritic": "hell-is-us",
    "pcgamingwiki": "Hell_is_Us",
    "steam": "1620730"
   },
@@ -692,6 +714,7 @@
   "ids": {
    "howlongtobeat": "17072",
    "igdb": "beatblasters-iii",
+   "metacritic": "beatblasters-iii",
    "mobygames": "75906",
    "pcgamingwiki": "BeatBlasters_III",
    "steam": "246800"

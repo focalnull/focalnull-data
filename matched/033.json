@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2512",
    "igdb": "diablo-ii",
+   "metacritic": "diablo-ii",
    "mobygames": "1878",
    "pcgamingwiki": "Diablo_II"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "191",
    "igdb": "actraiser",
+   "metacritic": "actraiser",
    "mobygames": "6704"
   },
   "label_en": "ActRaiser",
@@ -24,6 +26,7 @@
   "enwiki": "Tenchu Z",
   "ids": {
    "igdb": "tenchu-z",
+   "metacritic": "tenchu-z",
    "mobygames": "38884"
   },
   "label_en": "Tenchu Z",
@@ -43,6 +46,7 @@
   "ids": {
    "howlongtobeat": "8791",
    "igdb": "sonic-the-hedgehog-4-episode-i",
+   "metacritic": "sonic-the-hedgehog-4-episode-1",
    "mobygames": "48575",
    "pcgamingwiki": "Sonic_the_Hedgehog_4:_Episode_I",
    "steam": "202530"
@@ -117,6 +121,7 @@
   "enwiki": "Untold Legends: The Warrior's Code",
   "ids": {
    "igdb": "untold-legends-the-warriors-code",
+   "metacritic": "untold-legends-the-warriors-code",
    "mobygames": "23225"
   },
   "label_en": "Untold Legends: The Warrior's Code",
@@ -126,6 +131,7 @@
   "enwiki": "Class of Heroes",
   "ids": {
    "igdb": "class-of-heroes",
+   "metacritic": "class-of-heroes",
    "mobygames": "47205"
   },
   "label_en": "Class of Heroes",
@@ -138,6 +144,7 @@
   "enwiki": "Mage Knight: Destiny's Soldier",
   "ids": {
    "igdb": "mage-knight-destinys-soldier",
+   "metacritic": "mage-knight-destinys-soldier",
    "mobygames": "75511"
   },
   "label_en": "Mage Knight: Destiny's Soldier",
@@ -148,6 +155,7 @@
   "ids": {
    "howlongtobeat": "24897",
    "igdb": "panzer-tactics-ds",
+   "metacritic": "panzer-tactics-ds",
    "mobygames": "33015"
   },
   "label_en": "Panzer Tactics DS",
@@ -207,6 +215,7 @@
    "gog": "game/bloodstained_ritual_of_the_night",
    "howlongtobeat": "26266",
    "igdb": "bloodstained-ritual-of-the-night",
+   "metacritic": "bloodstained-ritual-of-the-night",
    "mobygames": "127450",
    "pcgamingwiki": "Bloodstained:_Ritual_of_the_Night",
    "steam": "692850"
@@ -219,6 +228,7 @@
    "gog": "game/life_is_feudal_your_own",
    "howlongtobeat": "25177",
    "igdb": "life-is-feudal-your-own",
+   "metacritic": "life-is-feudal-your-own",
    "mobygames": "84317",
    "pcgamingwiki": "Life_is_Feudal:_Your_Own",
    "steam": "290080"
@@ -231,6 +241,7 @@
   "ids": {
    "howlongtobeat": "20670",
    "igdb": "munin",
+   "metacritic": "munin",
    "mobygames": "107124",
    "pcgamingwiki": "Munin",
    "steam": "281750"
@@ -243,7 +254,8 @@
  },
  {
   "ids": {
-   "igdb": "final-fight-one"
+   "igdb": "final-fight-one",
+   "metacritic": "final-fight-one"
   },
   "label_en": "Final Fight One",
   "wikidata": "Q48889033"
@@ -262,6 +274,7 @@
    "gog": "game/kynseed",
    "howlongtobeat": "56557",
    "igdb": "kynseed",
+   "metacritic": "kynseed",
    "mobygames": "117027",
    "pcgamingwiki": "Kynseed",
    "steam": "758870"
@@ -276,6 +289,7 @@
    "gog": "game/othercide",
    "howlongtobeat": "67605",
    "igdb": "othercide",
+   "metacritic": "othercide",
    "mobygames": "148616",
    "pcgamingwiki": "Othercide",
    "steam": "798490"
@@ -290,6 +304,7 @@
  {
   "ids": {
    "igdb": "star-wars-knights-of-the-old-republic-remake",
+   "metacritic": "star-wars-knights-of-the-old-republic-remake",
    "pcgamingwiki": "Star_Wars:_Knights_of_the_Old_Republic_–_Remake"
   },
   "label_en": "Star Wars: Knights of the Old Republic Remake",
@@ -340,6 +355,7 @@
    "howlongtobeat": "83991",
    "igdb": "cats-organized-neatly",
    "mobygames": "168774",
+   "pcgamingwiki": "Cats_Organized_Neatly",
    "steam": "1369340"
   },
   "label_en": "Cats Organized Neatly",

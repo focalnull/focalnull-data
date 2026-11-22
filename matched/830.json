@@ -3,6 +3,7 @@
   "enwiki": "F355 Challenge",
   "ids": {
    "igdb": "f355-challenge",
+   "metacritic": "f355-challenge",
    "mobygames": "4593"
   },
   "label_en": "F355 Challenge",
@@ -13,6 +14,7 @@
   "ids": {
    "howlongtobeat": "4370",
    "igdb": "heavenly-sword",
+   "metacritic": "heavenly-sword",
    "mobygames": "30488"
   },
   "label_en": "Heavenly Sword",
@@ -42,6 +44,7 @@
  {
   "ids": {
    "igdb": "undercover-dual-motives",
+   "metacritic": "undercover-dual-motives",
    "mobygames": "34769"
   },
   "label_en": "Undercover: Dual Motives",
@@ -61,6 +64,7 @@
   "ids": {
    "howlongtobeat": "933",
    "igdb": "battlefield-1942-the-road-to-rome",
+   "metacritic": "battlefield-1942-the-road-to-rome",
    "mobygames": "8732"
   },
   "label_en": "Battlefield 1942: The Road to Rome",
@@ -71,6 +75,7 @@
   "ids": {
    "howlongtobeat": "2904",
    "igdb": "duck-dodgers-starring-daffy-duck",
+   "metacritic": "duck-dodgers-starring-daffy-duck",
    "mobygames": "14070"
   },
   "label_en": "Duck Dodgers Starring Daffy Duck",
@@ -102,6 +107,7 @@
   "ids": {
    "howlongtobeat": "7076",
    "igdb": "pitfall-the-lost-expedition",
+   "metacritic": "pitfall-the-lost-expedition",
    "mobygames": "15778",
    "pcgamingwiki": "Pitfall:_The_Lost_Expedition"
   },
@@ -148,6 +154,7 @@
   "enwiki": "Rapala Tournament Fishing",
   "ids": {
    "igdb": "rapala-tournament-fishing",
+   "metacritic": "rapala-tournament-fishing",
    "mobygames": "87200"
   },
   "label_en": "Rapala Tournament Fishing",
@@ -226,6 +233,7 @@
   "ids": {
    "howlongtobeat": "46489",
    "igdb": "mighty-gunvolt-burst",
+   "metacritic": "mighty-gunvolt-burst",
    "mobygames": "90625",
    "pcgamingwiki": "Mighty_Gunvolt_Burst",
    "steam": "774651"
@@ -238,6 +246,7 @@
   "ids": {
    "howlongtobeat": "46284",
    "igdb": "nidhogg-2",
+   "metacritic": "nidhogg-2",
    "mobygames": "94481",
    "pcgamingwiki": "Nidhogg_2",
    "steam": "535520"
@@ -250,6 +259,7 @@
    "gog": "game/megabyte_punch",
    "howlongtobeat": "5868",
    "igdb": "megabyte-punch",
+   "metacritic": "megabyte-punch",
    "mobygames": "64585",
    "pcgamingwiki": "Megabyte_Punch",
    "steam": "248550"
@@ -271,7 +281,8 @@
  {
   "enwiki": "Mad Rat Dead",
   "ids": {
-   "igdb": "mad-rat-dead"
+   "igdb": "mad-rat-dead",
+   "metacritic": "mad-rat-dead"
   },
   "label_en": "Mad Rat Dead",
   "wikidata": "Q102173830"
@@ -284,6 +295,7 @@
   "ids": {
    "howlongtobeat": "75538",
    "igdb": "banner-of-the-maid",
+   "metacritic": "banner-of-the-maid",
    "mobygames": "127983",
    "pcgamingwiki": "Banner_of_the_Maid",
    "steam": "994730"
@@ -369,6 +381,7 @@
    "gog": "game/neurodeck_psychological_deckbuilder",
    "howlongtobeat": "89945",
    "igdb": "neurodeck",
+   "metacritic": "neurodeck",
    "mobygames": "165383",
    "pcgamingwiki": "Neurodeck",
    "steam": "1253860"
@@ -773,6 +786,7 @@
  {
   "ids": {
    "igdb": "sylvio-black-waters",
+   "metacritic": "sylvio-black-waters",
    "steam": "2531300"
   },
   "label_en": "Sylvio: Black Waters",
@@ -912,7 +926,8 @@
  },
  {
   "ids": {
-   "igdb": "the-quintessential-quintuplets-five-promises-made-with-her"
+   "igdb": "the-quintessential-quintuplets-five-promises-made-with-her",
+   "metacritic": "the-quintessential-quintuplets-five-promises-made"
   },
   "label_en": "The Quintessential Quintuplets: Five Promises Made with Her",
   "wikidata": "Q124608830"
@@ -921,6 +936,7 @@
   "ids": {
    "howlongtobeat": "517",
    "igdb": "apb-reloaded",
+   "metacritic": "apb-reloaded",
    "mobygames": "54738",
    "pcgamingwiki": "APB_Reloaded",
    "steam": "113400"
@@ -1247,6 +1263,7 @@
  {
   "ids": {
    "igdb": "europe-heatwave-simulator",
+   "metacritic": "europe-heatwave-simulator",
    "steam": "4910780"
   },
   "label_en": "Europe Heatwave Simulator",

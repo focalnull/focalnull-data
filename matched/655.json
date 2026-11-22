@@ -85,6 +85,7 @@
   "ids": {
    "howlongtobeat": "928",
    "igdb": "battle-los-angeles",
+   "metacritic": "battle-los-angeles",
    "mobygames": "54240",
    "pcgamingwiki": "Battle:_Los_Angeles",
    "steam": "61220"
@@ -116,23 +117,17 @@
   "ids": {
    "howlongtobeat": "4308",
    "igdb": "harms-way",
+   "metacritic": "harms-way",
    "mobygames": "50003"
   },
   "label_en": "Harms Way",
   "wikidata": "Q5659655"
  },
  {
-  "enwiki": "Kita e",
-  "ids": {
-   "igdb": "kita-he-white-illumination"
-  },
-  "label_en": "Kita e",
-  "wikidata": "Q6417655"
- },
- {
   "enwiki": "Rainbow Islands: Towering Adventure!",
   "ids": {
    "igdb": "rainbow-islands-towering-adventure",
+   "metacritic": "rainbow-islands-towering-adventure",
    "mobygames": "92174"
   },
   "label_en": "Rainbow Islands: Towering Adventure!",
@@ -143,6 +138,7 @@
   "ids": {
    "howlongtobeat": "10661",
    "igdb": "trivial-pursuit-unhinged",
+   "metacritic": "trivial-pursuit-unhinged",
    "mobygames": "13630"
   },
   "label_en": "Trivial Pursuit: Unhinged",
@@ -152,6 +148,7 @@
   "enwiki": "Naruto: Ninja Destiny",
   "ids": {
    "igdb": "naruto-ninja-destiny",
+   "metacritic": "naruto-ninja-destiny",
    "mobygames": "47676"
   },
   "label_en": "Naruto: Ninja Destiny",
@@ -171,6 +168,7 @@
   "ids": {
    "howlongtobeat": "23199",
    "igdb": "heroes-of-the-storm",
+   "metacritic": "heroes-of-the-storm",
    "mobygames": "76462",
    "pcgamingwiki": "Heroes_of_the_Storm"
   },
@@ -182,6 +180,7 @@
   "ids": {
    "howlongtobeat": "8300",
    "igdb": "sengoku-basara-samurai-heroes",
+   "metacritic": "sengoku-basara-samurai-heroes",
    "mobygames": "50191"
   },
   "label_en": "Sengoku Basara: Samurai Heroes",
@@ -193,6 +192,7 @@
    "gog": "game/super_time_force_ultra",
    "howlongtobeat": "20813",
    "igdb": "super-time-force",
+   "metacritic": "super-time-force-ultra",
    "mobygames": "67208",
    "pcgamingwiki": "Super_Time_Force_Ultra",
    "steam": "250700"
@@ -211,6 +211,7 @@
  },
  {
   "ids": {
+   "metacritic": "namco-museum-megamix",
    "mobygames": "90172"
   },
   "label_en": "Namco Museum Megamix",
@@ -248,6 +249,7 @@
   "ids": {
    "howlongtobeat": "41516",
    "igdb": "dont-open-the-doors",
+   "metacritic": "dont-open-the-doors",
    "mobygames": "101888",
    "pcgamingwiki": "Don't_Open_the_Doors!",
    "steam": "533950"
@@ -281,6 +283,7 @@
    "epic": "control",
    "howlongtobeat": "57507",
    "igdb": "control",
+   "metacritic": "control",
    "mobygames": "129106",
    "pcgamingwiki": "Control",
    "steam": "870780"
@@ -292,6 +295,7 @@
   "ids": {
    "howlongtobeat": "50049",
    "igdb": "gal-star-gun-vr",
+   "metacritic": "galgun-vr",
    "mobygames": "94301",
    "pcgamingwiki": "Gal*Gun_VR",
    "steam": "678520"
@@ -303,6 +307,7 @@
   "ids": {
    "howlongtobeat": "24367",
    "igdb": "salt",
+   "metacritic": "salt",
    "mobygames": "97470",
    "pcgamingwiki": "Salt",
    "steam": "327860"
@@ -314,6 +319,7 @@
   "ids": {
    "howlongtobeat": "63308",
    "igdb": "mike-dies",
+   "metacritic": "mike-dies",
    "mobygames": "107683",
    "pcgamingwiki": "Mike_Dies",
    "steam": "696200"
@@ -339,6 +345,7 @@
  {
   "ids": {
    "igdb": "flow-urban-dance-uprising",
+   "metacritic": "flow-urban-dance-uprising",
    "mobygames": "30206"
   },
   "label_en": "Flow: Urban Dance Uprising",
@@ -348,6 +355,7 @@
   "ids": {
    "howlongtobeat": "23265",
    "igdb": "tango-fiesta",
+   "metacritic": "tango-fiesta",
    "mobygames": "97201",
    "pcgamingwiki": "Tango_Fiesta",
    "steam": "276730"
@@ -425,6 +433,7 @@
   "enwiki": "The Last Case of Benedict Fox",
   "ids": {
    "igdb": "the-last-case-of-benedict-fox",
+   "metacritic": "the-last-case-of-benedict-fox",
    "mobygames": "202315",
    "pcgamingwiki": "The_Last_Case_of_Benedict_Fox"
   },

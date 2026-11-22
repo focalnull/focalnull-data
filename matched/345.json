@@ -5,6 +5,7 @@
    "gog": "game/metal_gear_rising_revengeance",
    "howlongtobeat": "5905",
    "igdb": "metal-gear-rising-revengeance",
+   "metacritic": "metal-gear-rising-revengeance",
    "mobygames": "60443",
    "pcgamingwiki": "Metal_Gear_Rising:_Revengeance",
    "steam": "235460"
@@ -46,6 +47,7 @@
   "ids": {
    "howlongtobeat": "11217",
    "igdb": "wipeout-pulse",
+   "metacritic": "wipeout-pulse",
    "mobygames": "36384"
   },
   "label_en": "Wipeout Pulse",
@@ -65,6 +67,7 @@
  },
  {
   "ids": {
+   "metacritic": "midnight-club-la-remix",
    "mobygames": "37943"
   },
   "label_en": "Midnight Club: L.A. Remix",
@@ -217,6 +220,7 @@
   "ids": {
    "howlongtobeat": "21724",
    "igdb": "the-legend-of-korra",
+   "metacritic": "the-legend-of-korra",
    "mobygames": "75345",
    "pcgamingwiki": "The_Legend_of_Korra",
    "steam": "281690"
@@ -229,6 +233,7 @@
   "ids": {
    "howlongtobeat": "31881",
    "igdb": "football-manager-2016",
+   "metacritic": "football-manager-mobile-2016",
    "mobygames": "80184",
    "pcgamingwiki": "Football_Manager_2016",
    "steam": "378120"
@@ -254,6 +259,7 @@
    "gog": "game/fragments_of_him",
    "howlongtobeat": "37147",
    "igdb": "fragments-of-him",
+   "metacritic": "fragments-of-him",
    "mobygames": "91597",
    "pcgamingwiki": "Fragments_of_Him",
    "steam": "428540"
@@ -278,6 +284,7 @@
    "epic": "star-wars-jedi-fallen-order",
    "howlongtobeat": "60145",
    "igdb": "star-wars-jedi-fallen-order",
+   "metacritic": "star-wars-jedi-fallen-order",
    "mobygames": "137302",
    "pcgamingwiki": "Star_Wars_Jedi:_Fallen_Order",
    "steam": "1172380"
@@ -300,6 +307,7 @@
    "gog": "game/symmetry",
    "howlongtobeat": "63310",
    "igdb": "symmetry",
+   "metacritic": "symmetry",
    "mobygames": "103811",
    "pcgamingwiki": "Symmetry",
    "steam": "537520"
@@ -323,7 +331,8 @@
  },
  {
   "ids": {
-   "igdb": "mecho-wars-desert-ashes"
+   "igdb": "mecho-wars-desert-ashes",
+   "metacritic": "mecho-wars-desert-ashes"
   },
   "label_en": "Mecho Wars: Desert Ashes",
   "wikidata": "Q106355345"
@@ -360,6 +369,7 @@
   "ids": {
    "howlongtobeat": "85762",
    "igdb": "100-hidden-birds",
+   "metacritic": "100-hidden-birds",
    "mobygames": "156083",
    "steam": "1473050"
   },
@@ -460,6 +470,7 @@
   "ids": {
    "howlongtobeat": "71152",
    "igdb": "galaxy-champions-tv",
+   "metacritic": "galaxy-champions-tv",
    "mobygames": "135060",
    "pcgamingwiki": "Galaxy_Champions_TV",
    "steam": "842750"
@@ -470,6 +481,7 @@
  {
   "ids": {
    "igdb": "dance-paradise",
+   "metacritic": "dance-paradise",
    "mobygames": "50415"
   },
   "label_en": "Dance Paradise",
@@ -484,6 +496,7 @@
   "ids": {
    "howlongtobeat": "130451",
    "igdb": "warioware-move-it",
+   "metacritic": "warioware-move-it",
    "mobygames": "211305"
   },
   "label_en": "WarioWare: Move It!",
@@ -826,6 +839,7 @@
  {
   "ids": {
    "igdb": "adventure-party-cats-and-caverns",
+   "metacritic": "adventure-party-cats-and-caverns",
    "mobygames": "94227"
   },
   "label_en": "Adventure Party: Cats and Caverns",
@@ -874,6 +888,7 @@
   "ids": {
    "howlongtobeat": "111982",
    "igdb": "timemelters",
+   "metacritic": "timemelters",
    "mobygames": "193336",
    "pcgamingwiki": "Wicca",
    "steam": "1096140"
@@ -901,6 +916,7 @@
   "ids": {
    "gog": "game/easy_delivery_co",
    "igdb": "easy-delivery-co",
+   "metacritic": "easy-delivery-co",
    "mobygames": "248091",
    "pcgamingwiki": "Easy_Delivery_Co.",
    "steam": "3293010"
@@ -1210,6 +1226,7 @@
   "enwiki": "Garfield: Escape from Monday",
   "ids": {
    "igdb": "garfield-escape-from-monday",
+   "metacritic": "garfield-escape-from-monday",
    "mobygames": "269469",
    "pcgamingwiki": "Garfield:_Escape_From_Monday",
    "steam": "3932790"

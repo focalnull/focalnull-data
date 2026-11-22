@@ -5,6 +5,7 @@
    "gog": "game/mx_vs_atv_unleashed",
    "howlongtobeat": "20750",
    "igdb": "mx-vs-atv-unleashed",
+   "metacritic": "mx-vs-atv-unleashed",
    "mobygames": "17673",
    "pcgamingwiki": "MX_vs._ATV_Unleashed",
    "steam": "359220"
@@ -44,6 +45,7 @@
   "ids": {
    "howlongtobeat": "607",
    "igdb": "army-corps-of-hell",
+   "metacritic": "army-corps-of-hell",
    "mobygames": "60195"
   },
   "label_en": "Army Corps of Hell",
@@ -87,6 +89,7 @@
   "enwiki": "Screwjumper!",
   "ids": {
    "igdb": "screwjumper",
+   "metacritic": "screwjumper",
    "mobygames": "38389"
   },
   "label_en": "Screwjumper!",
@@ -155,6 +158,7 @@
   "ids": {
    "howlongtobeat": "59495",
    "igdb": "warp-shift",
+   "metacritic": "warp-shift",
    "mobygames": "94770"
   },
   "label_en": "Warp Shift",
@@ -942,6 +946,7 @@
  {
   "ids": {
    "igdb": "frost",
+   "pcgamingwiki": "Frost",
    "steam": "490950"
   },
   "label_en": "Frost",

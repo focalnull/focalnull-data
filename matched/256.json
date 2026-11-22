@@ -5,6 +5,7 @@
    "gog": "game/still_life",
    "howlongtobeat": "9211",
    "igdb": "still-life",
+   "metacritic": "still-life",
    "mobygames": "17411",
    "pcgamingwiki": "Still_Life",
    "steam": "46480"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "5451",
    "igdb": "luxor-2",
+   "metacritic": "luxor-2",
    "mobygames": "27430",
    "pcgamingwiki": "Luxor_2",
    "steam": "15920"
@@ -40,6 +42,7 @@
   "ids": {
    "howlongtobeat": "1798",
    "igdb": "colin-mcrae-rally",
+   "metacritic": "colin-mcrae-rally",
    "mobygames": "1686",
    "pcgamingwiki": "Colin_McRae_Rally"
   },
@@ -70,6 +73,7 @@
   "enwiki": "Conflict Zone",
   "ids": {
    "igdb": "conflict-zone",
+   "metacritic": "conflict-zone",
    "mobygames": "6198",
    "pcgamingwiki": "Conflict_Zone"
   },
@@ -81,6 +85,7 @@
   "ids": {
    "howlongtobeat": "3430",
    "igdb": "ferrari-challenge-trofeo-pirelli",
+   "metacritic": "ferrari-challenge-trofeo-pirelli",
    "mobygames": "37589"
   },
   "label_en": "Ferrari Challenge: Trofeo Pirelli",
@@ -179,6 +184,7 @@
   "enwiki": "NHL 07",
   "ids": {
    "igdb": "nhl-07",
+   "metacritic": "nhl-07",
    "mobygames": "32216"
   },
   "label_en": "NHL 07",
@@ -201,6 +207,7 @@
   "ids": {
    "howlongtobeat": "13314",
    "igdb": "killzone-mercenary",
+   "metacritic": "killzone-mercenary",
    "mobygames": "82545"
   },
   "label_en": "Killzone: Mercenary",
@@ -211,6 +218,7 @@
   "ids": {
    "howlongtobeat": "12373",
    "igdb": "stronghold-kingdoms",
+   "metacritic": "stronghold-kingdoms",
    "mobygames": "82811",
    "pcgamingwiki": "Stronghold_Kingdoms",
    "steam": "47410"
@@ -231,6 +239,7 @@
   "enwiki": "Frogger Advance: The Great Quest",
   "ids": {
    "igdb": "frogger-advance-the-great-quest",
+   "metacritic": "frogger-advance-the-great-quest",
    "mobygames": "12558"
   },
   "label_en": "Frogger Advance: The Great Quest",
@@ -267,6 +276,7 @@
   "enwiki": "Steal Princess",
   "ids": {
    "igdb": "steal-princess",
+   "metacritic": "steal-princess",
    "mobygames": "90338"
   },
   "label_en": "Steal Princess",
@@ -285,6 +295,7 @@
    "gog": "game/card_city_nights",
    "howlongtobeat": "17009",
    "igdb": "card-city-nights",
+   "metacritic": "card-city-nights",
    "mobygames": "95579",
    "pcgamingwiki": "Card_City_Nights",
    "steam": "271820"
@@ -297,6 +308,7 @@
   "ids": {
    "howlongtobeat": "46186",
    "igdb": "friday-the-13th-the-game",
+   "metacritic": "friday-the-13th-the-game",
    "mobygames": "89309",
    "pcgamingwiki": "Friday_the_13th:_The_Game",
    "steam": "438740"
@@ -309,6 +321,7 @@
   "ids": {
    "howlongtobeat": "52493",
    "igdb": "monster-hunter-world",
+   "metacritic": "monster-hunter-world",
    "mobygames": "101948",
    "pcgamingwiki": "Monster_Hunter:_World",
    "steam": "582010"
@@ -328,7 +341,8 @@
  },
  {
   "ids": {
-   "igdb": "fishing-sim-world-pro-tour"
+   "igdb": "fishing-sim-world-pro-tour",
+   "metacritic": "fishing-sim-world"
   },
   "label_en": "Fishing Sim World",
   "wikidata": "Q56692256"
@@ -359,6 +373,7 @@
    "gog": "game/heroes_of_the_monkey_tavern",
    "howlongtobeat": "40224",
    "igdb": "heroes-of-the-monkey-tavern",
+   "metacritic": "heroes-of-the-monkey-tavern",
    "mobygames": "86142",
    "pcgamingwiki": "Heroes_of_the_Monkey_Tavern",
    "steam": "492500"
@@ -384,6 +399,7 @@
    "gog": "game/neo_the_world_ends_with_you",
    "howlongtobeat": "85428",
    "igdb": "neo-the-world-ends-with-you",
+   "metacritic": "neo-the-world-ends-with-you",
    "mobygames": "168299",
    "pcgamingwiki": "NEO:_The_World_Ends_with_You",
    "steam": "1647550"
@@ -407,6 +423,7 @@
    "gog": "game/undermine",
    "howlongtobeat": "69349",
    "igdb": "undermine--1",
+   "metacritic": "undermine",
    "mobygames": "149035",
    "pcgamingwiki": "UnderMine",
    "steam": "656350"
@@ -425,6 +442,7 @@
   "ids": {
    "howlongtobeat": "65627",
    "igdb": "eternity-the-last-unicorn",
+   "metacritic": "eternity-the-last-unicorn",
    "mobygames": "124660",
    "pcgamingwiki": "Eternity:_The_Last_Unicorn",
    "steam": "714250"
@@ -488,6 +506,7 @@
   "ids": {
    "howlongtobeat": "72041",
    "igdb": "doctor-who-the-edge-of-time",
+   "metacritic": "doctor-who-the-edge-of-time",
    "mobygames": "137218",
    "pcgamingwiki": "Doctor_Who:_The_Edge_of_Time",
    "steam": "1075400"
@@ -763,6 +782,7 @@
   "ids": {
    "howlongtobeat": "52142",
    "igdb": "god-of-light-remastered",
+   "metacritic": "god-of-light-remastered",
    "mobygames": "130243",
    "pcgamingwiki": "God_of_Light:_Remastered",
    "steam": "711130"
@@ -1192,6 +1212,7 @@
  {
   "ids": {
    "igdb": "rainbow-high-runway-rush",
+   "pcgamingwiki": "Rainbow_High:_Runway_Rush",
    "steam": "2007520"
   },
   "label_en": "RAINBOW HIGH™: RUNWAY RUSH",
@@ -1210,6 +1231,9 @@
   "wikidata": "Q135689256"
  },
  {
+  "ids": {
+   "metacritic": "the-cruel-king-and-the-great-hero"
+  },
   "label_en": "The Cruel King and the Great Hero",
   "wikidata": "Q136377256"
  },
@@ -1228,5 +1252,9 @@
   },
   "label_en": "Filipino Dominatrixes Are the Best",
   "wikidata": "Q141481256"
+ },
+ {
+  "label_en": "Spatial Ops: Campaign Edition",
+  "wikidata": "Q142228256"
  }
 ]

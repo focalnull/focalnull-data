@@ -24,6 +24,7 @@
   "ids": {
    "howlongtobeat": "5796",
    "igdb": "medievil",
+   "metacritic": "medievil",
    "mobygames": "4680"
   },
   "label_en": "MediEvil",
@@ -61,6 +62,7 @@
   "ids": {
    "howlongtobeat": "5656",
    "igdb": "mario-superstar-baseball",
+   "metacritic": "mario-superstar-baseball",
    "mobygames": "19059"
   },
   "label_en": "Mario Superstar Baseball",
@@ -71,6 +73,7 @@
   "ids": {
    "howlongtobeat": "217",
    "igdb": "adventure-island-the-beginning",
+   "metacritic": "adventure-island-the-beginning",
    "mobygames": "88523"
   },
   "label_en": "Adventure Island: The Beginning",
@@ -166,6 +169,7 @@
  {
   "ids": {
    "igdb": "cold-zero-no-mercy",
+   "metacritic": "cold-zero-no-mercy",
    "mobygames": "10091",
    "pcgamingwiki": "Cold_Zero:_No_Mercy"
   },
@@ -179,6 +183,7 @@
  },
  {
   "ids": {
+   "metacritic": "guitar-hero-on-tour-modern-hits",
    "mobygames": "85885"
   },
   "label_en": "Guitar Hero On Tour: Modern Hits",
@@ -198,6 +203,7 @@
    "gog": "game/dyad",
    "howlongtobeat": "2986",
    "igdb": "dyad",
+   "metacritic": "dyad",
    "mobygames": "83593",
    "pcgamingwiki": "Dyad",
    "steam": "223450"
@@ -209,6 +215,7 @@
   "enwiki": "Farscape: The Game",
   "ids": {
    "igdb": "farscape-the-game",
+   "metacritic": "farscape-the-game",
    "mobygames": "11448"
   },
   "label_en": "Farscape: The Game",
@@ -259,6 +266,7 @@
   "enwiki": "Space Invaders Infinity Gene",
   "ids": {
    "igdb": "space-invaders-infinity-gene",
+   "metacritic": "space-invaders-infinity-gene",
    "mobygames": "42553"
   },
   "label_en": "Space Invaders Infinity Gene",
@@ -302,6 +310,7 @@
    "gog": "game/darkest_dungeon",
    "howlongtobeat": "22535",
    "igdb": "darkest-dungeon",
+   "metacritic": "darkest-dungeon",
    "mobygames": "75995",
    "pcgamingwiki": "Darkest_Dungeon",
    "steam": "262060"
@@ -331,6 +340,7 @@
   "enwiki": "Life in the Dorms",
   "ids": {
    "igdb": "life-in-the-dorms",
+   "metacritic": "life-in-the-dorms",
    "pcgamingwiki": "Life_in_the_Dorms",
    "steam": "385850"
   },
@@ -343,6 +353,7 @@
    "gog": "game/aquatic_adventure_of_the_last_human_the",
    "howlongtobeat": "33706",
    "igdb": "the-aquatic-adventure-of-the-last-human",
+   "metacritic": "the-aquatic-adventure-of-the-last-human",
    "mobygames": "101480",
    "pcgamingwiki": "The_Aquatic_Adventure_of_the_Last_Human",
    "steam": "401360"
@@ -360,6 +371,7 @@
    "epic": "jurassic-world-evolution",
    "howlongtobeat": "57068",
    "igdb": "jurassic-world-evolution",
+   "metacritic": "jurassic-world-evolution",
    "mobygames": "110015",
    "pcgamingwiki": "Jurassic_World_Evolution",
    "steam": "648350"
@@ -377,6 +389,7 @@
  },
  {
   "ids": {
+   "metacritic": "battlestar-galactica",
    "mobygames": "31954",
    "pcgamingwiki": "Battlestar_Galactica"
   },
@@ -395,6 +408,7 @@
   "ids": {
    "howlongtobeat": "28241",
    "igdb": "poly-bridge",
+   "metacritic": "poly-bridge",
    "mobygames": "84800",
    "pcgamingwiki": "Poly_Bridge",
    "steam": "367450"
@@ -433,6 +447,7 @@
   "ids": {
    "howlongtobeat": "66330",
    "igdb": "i-hate-this-game",
+   "metacritic": "i-hate-this-game",
    "pcgamingwiki": "I_hate_this_game",
    "steam": "976010"
   },
@@ -540,6 +555,7 @@
  },
  {
   "ids": {
+   "metacritic": "batman-beyond-return-of-the-joker",
    "mobygames": "77982"
   },
   "label_en": "Batman Beyond: Return of the Joker",
@@ -619,6 +635,7 @@
    "epic": "dungeons-of-hinterberg-854b1e",
    "howlongtobeat": "129961",
    "igdb": "dungeons-of-hinterberg",
+   "metacritic": "dungeons-of-hinterberg",
    "mobygames": "227960",
    "pcgamingwiki": "Dungeons_of_Hinterberg",
    "steam": "1983260"
@@ -630,6 +647,7 @@
   "enwiki": "Night of the Consumers",
   "ids": {
    "igdb": "night-of-the-consumers",
+   "pcgamingwiki": "Night_of_the_Consumers",
    "steam": "1815150"
   },
   "label_en": "Night Of The Consumers",
@@ -1343,6 +1361,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Derelikt",
    "steam": "3810510"
   },
   "label_en": "DERELIKT",

@@ -12,6 +12,7 @@
   "ids": {
    "howlongtobeat": "5146",
    "igdb": "l-a-noire",
+   "metacritic": "la-noire-the-complete-edition",
    "mobygames": "51693",
    "pcgamingwiki": "L.A._Noire",
    "steam": "110800"
@@ -42,6 +43,7 @@
   "ids": {
    "howlongtobeat": "10281",
    "igdb": "the-x-files-game--1",
+   "metacritic": "the-x-files-game",
    "mobygames": "1",
    "pcgamingwiki": "The_X-Files_Game"
   },
@@ -62,6 +64,7 @@
   "ids": {
    "howlongtobeat": "1588",
    "igdb": "castlevania-lords-of-shadow-mirror-of-fate",
+   "metacritic": "castlevania-lords-of-shadow-mirror-of-fate",
    "mobygames": "59851"
   },
   "label_en": "Castlevania: Lords of Shadow – Mirror of Fate",
@@ -90,6 +93,7 @@
   "ids": {
    "howlongtobeat": "1543",
    "igdb": "carnival-island",
+   "metacritic": "carnival-island",
    "mobygames": "62515"
   },
   "label_en": "Carnival Island",
@@ -124,6 +128,7 @@
    "gog": "game/neverending_nightmares",
    "howlongtobeat": "21234",
    "igdb": "neverending-nightmares",
+   "metacritic": "neverending-nightmares",
    "mobygames": "69459",
    "pcgamingwiki": "Neverending_Nightmares",
    "steam": "253330"
@@ -173,6 +178,7 @@
   "ids": {
    "howlongtobeat": "1037",
    "igdb": "big-sky-infinity",
+   "metacritic": "big-sky-infinity",
    "mobygames": "77860"
   },
   "label_en": "Big Sky Infinity",
@@ -183,6 +189,7 @@
    "gog": "game/sigma_theory_global_cold_war",
    "howlongtobeat": "67690",
    "igdb": "sigma-theory-global-cold-war--1",
+   "metacritic": "sigma-theory-global-cold-war",
    "mobygames": "124678",
    "pcgamingwiki": "Sigma_Theory",
    "steam": "716640"
@@ -276,6 +283,7 @@
    "epic": "football-manager-2023",
    "howlongtobeat": "113638",
    "igdb": "football-manager-2023",
+   "metacritic": "football-manager-2023",
    "mobygames": "194798",
    "pcgamingwiki": "Football_Manager_2023",
    "steam": "1904540"
@@ -298,6 +306,7 @@
   "ids": {
    "howlongtobeat": "95043",
    "igdb": "solas-128",
+   "metacritic": "solas-128",
    "mobygames": "157890",
    "pcgamingwiki": "Solas_128",
    "steam": "1257850"
@@ -570,6 +579,9 @@
   "wikidata": "Q122826094"
  },
  {
+  "ids": {
+   "metacritic": "eiga-sumikko-gurashi-tsugihagi-koujou-no-fushigi"
+  },
   "label_en": "Eiga Sumikko Gurashi Tsugihagi Kōjō no Fushigi-na Ko Game de Asobō! Eiga no Sekai",
   "wikidata": "Q123156094"
  },
@@ -630,6 +642,7 @@
   "ids": {
    "howlongtobeat": "61932",
    "igdb": "its-quiz-time",
+   "metacritic": "its-quiz-time",
    "mobygames": "98721",
    "pcgamingwiki": "It's_Quiz_Time",
    "steam": "648780"
@@ -695,6 +708,7 @@
   "ids": {
    "howlongtobeat": "146725",
    "igdb": "a-difficult-game-about-climbing",
+   "metacritic": "a-difficult-game-about-climbing",
    "mobygames": "219745",
    "pcgamingwiki": "A_Difficult_Game_About_Climbing",
    "steam": "2497920"
@@ -1164,7 +1178,9 @@
   "ids": {
    "epic": "sudden-strike-5-20a003",
    "igdb": "sudden-strike-5",
+   "metacritic": "sudden-strike-5",
    "mobygames": "245174",
+   "pcgamingwiki": "Sudden_Strike_5",
    "steam": "2808550"
   },
   "label_en": "Sudden Strike 5",

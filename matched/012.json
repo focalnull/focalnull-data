@@ -5,6 +5,7 @@
    "gog": "game/europa_universalis_iii_complete",
    "howlongtobeat": "3204",
    "igdb": "europa-universalis-iii",
+   "metacritic": "europa-universalis-iii",
    "mobygames": "26204",
    "pcgamingwiki": "Europa_Universalis_III",
    "steam": "25800"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "11337",
    "igdb": "wwe-smackdown-vs-raw-2007",
+   "metacritic": "wwe-smackdown-vs-raw-2007",
    "mobygames": "25577"
   },
   "label_en": "WWE SmackDown vs. Raw 2007",
@@ -32,6 +34,7 @@
    "gog": "game/oddworld_abes_exoddus",
    "howlongtobeat": "6700",
    "igdb": "oddworld-abe-s-exoddus",
+   "metacritic": "oddworld-abes-exoddus",
    "mobygames": "3077",
    "pcgamingwiki": "Oddworld:_Abe's_Exoddus",
    "steam": "15710"
@@ -97,6 +100,7 @@
   "enwiki": "Fossil Fighters (video game)",
   "ids": {
    "igdb": "fossil-fighters",
+   "metacritic": "fossil-fighters",
    "mobygames": "49706"
   },
   "label_en": "Fossil Fighters",
@@ -107,6 +111,7 @@
   "ids": {
    "howlongtobeat": "4794",
    "igdb": "jagged-alliance-back-in-action",
+   "metacritic": "jagged-alliance-back-in-action",
    "mobygames": "56983",
    "pcgamingwiki": "Jagged_Alliance:_Back_in_Action",
    "steam": "57740"
@@ -128,6 +133,7 @@
   "ids": {
    "howlongtobeat": "14670",
    "igdb": "nancy-drew-danger-on-deception-island",
+   "metacritic": "nancy-drew-danger-on-deception-island",
    "mobygames": "10557",
    "pcgamingwiki": "Nancy_Drew:_Danger_on_Deception_Island",
    "steam": "31840"
@@ -174,6 +180,7 @@
   "enwiki": "Jane's Attack Squadron",
   "ids": {
    "igdb": "janes-combat-simulations-attack-squadron",
+   "metacritic": "janes-attack-squadron",
    "pcgamingwiki": "Jane's_Attack_Squadron"
   },
   "label_en": "Jane's Attack Squadron",
@@ -184,6 +191,7 @@
   "ids": {
    "howlongtobeat": "12014",
    "igdb": "socom-us-navy-seals-fireteam-bravo",
+   "metacritic": "socom-u-s-navy-seals-fireteam-bravo",
    "mobygames": "22241"
   },
   "label_en": "SOCOM: U.S. Navy SEALs Fireteam Bravo",
@@ -201,6 +209,7 @@
   "enwiki": "Kingdom Hearts χ",
   "ids": {
    "igdb": "kingdom-hearts-union-x-cross",
+   "metacritic": "kingdom-hearts-unchained-x",
    "mobygames": "79473"
   },
   "label_en": "Kingdom Hearts χ",
@@ -220,6 +229,7 @@
    "gog": "game/grow_home",
    "howlongtobeat": "23760",
    "igdb": "grow-home",
+   "metacritic": "grow-home",
    "mobygames": "71214",
    "pcgamingwiki": "Grow_Home",
    "steam": "323320"
@@ -231,6 +241,7 @@
   "ids": {
    "howlongtobeat": "36775",
    "igdb": "the-gallery-episode-1-call-of-the-starseed",
+   "metacritic": "the-gallery-episode-1-call-of-the-starseed",
    "mobygames": "97927",
    "pcgamingwiki": "The_Gallery_-_Episode_1:_Call_of_the_Starseed",
    "steam": "270130"
@@ -243,6 +254,7 @@
    "gog": "game/1954_alcatraz",
    "howlongtobeat": "16342",
    "igdb": "1954-alcatraz",
+   "metacritic": "1954-alcatraz",
    "mobygames": "63814",
    "pcgamingwiki": "1954_Alcatraz",
    "steam": "255280"
@@ -254,7 +266,8 @@
   "enwiki": "Neptune's Pride",
   "ids": {
    "howlongtobeat": "19340",
-   "igdb": "neptunes-pride"
+   "igdb": "neptunes-pride",
+   "metacritic": "neptunes-pride"
   },
   "label_en": "Neptune's Pride",
   "wikidata": "Q25388012"
@@ -264,6 +277,7 @@
   "ids": {
    "howlongtobeat": "50941",
    "igdb": "horizon",
+   "metacritic": "horizon",
    "mobygames": "71869",
    "pcgamingwiki": "Horizon",
    "steam": "236130"
@@ -273,7 +287,8 @@
  },
  {
   "ids": {
-   "mobygames": "55418"
+   "mobygames": "55418",
+   "pcgamingwiki": "Riding_Star"
   },
   "label_en": "Riding Star",
   "wikidata": "Q53678012"
@@ -282,6 +297,7 @@
   "ids": {
    "howlongtobeat": "64420",
    "igdb": "the-blackout-club",
+   "metacritic": "the-blackout-club",
    "mobygames": "116423",
    "pcgamingwiki": "The_Blackout_Club",
    "steam": "599080"
@@ -304,6 +320,7 @@
   "ids": {
    "howlongtobeat": "15305",
    "igdb": "viscera-cleanup-detail-shadow-warrior",
+   "metacritic": "viscera-cleanup-detail-shadow-warrior",
    "pcgamingwiki": "Viscera_Cleanup_Detail:_Shadow_Warrior",
    "steam": "255520"
   },
@@ -360,6 +377,7 @@
   "ids": {
    "howlongtobeat": "54667",
    "igdb": "spellspire",
+   "metacritic": "spellspire",
    "mobygames": "89151",
    "pcgamingwiki": "Spellspire",
    "steam": "626580"
@@ -450,6 +468,7 @@
   "ids": {
    "howlongtobeat": "136643",
    "igdb": "doombringer",
+   "metacritic": "doombringer",
    "mobygames": "166011",
    "pcgamingwiki": "DOOMBRINGER",
    "steam": "1156120"
@@ -462,6 +481,7 @@
   "ids": {
    "howlongtobeat": "94126",
    "igdb": "dordogne",
+   "metacritic": "dordogne",
    "mobygames": "204357",
    "pcgamingwiki": "Dordogne",
    "steam": "1272840"
@@ -489,6 +509,7 @@
   "ids": {
    "howlongtobeat": "55923",
    "igdb": "super-mega-baseball-2",
+   "metacritic": "super-mega-baseball-2",
    "mobygames": "107974",
    "pcgamingwiki": "Super_Mega_Baseball_2",
    "steam": "414870"
@@ -500,6 +521,7 @@
   "ids": {
    "howlongtobeat": "59221",
    "igdb": "qlorb-2",
+   "metacritic": "qlorb-2",
    "pcgamingwiki": "QLORB_2",
    "steam": "804550"
   },
@@ -511,6 +533,7 @@
   "ids": {
    "howlongtobeat": "117032",
    "igdb": "ship-of-fools",
+   "metacritic": "ship-of-fools",
    "mobygames": "194013",
    "steam": "1286580"
   },
@@ -521,6 +544,7 @@
   "ids": {
    "howlongtobeat": "112518",
    "igdb": "green-hell-vr",
+   "metacritic": "green-hell-vr",
    "mobygames": "185700",
    "steam": "1782330"
   },
@@ -543,7 +567,9 @@
    "epic": "killer-frequency-98d436",
    "howlongtobeat": "88778",
    "igdb": "killer-frequency",
+   "metacritic": "killer-frequency",
    "mobygames": "203945",
+   "pcgamingwiki": "Killer_Frequency",
    "steam": "1903620"
   },
   "label_en": "Killer Frequency",
@@ -1309,6 +1335,7 @@
  {
   "ids": {
    "igdb": "e-racer",
+   "pcgamingwiki": "E-Racer",
    "steam": "3600700"
   },
   "label_en": "e-Racer",
@@ -1337,6 +1364,7 @@
    "howlongtobeat": "171669",
    "igdb": "five-hearts-under-one-roof-2",
    "mobygames": "250788",
+   "pcgamingwiki": "Five_Hearts_Under_One_Roof_Season_2",
    "steam": "3731020"
   },
   "label_en": "Five Hearts Under One Roof 2",

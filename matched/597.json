@@ -71,6 +71,7 @@
   "enwiki": "Warriors of Might and Magic",
   "ids": {
    "igdb": "warriors-of-might-and-magic",
+   "metacritic": "warriors-of-might-and-magic",
    "mobygames": "6461"
   },
   "label_en": "Warriors of Might and Magic",
@@ -80,6 +81,7 @@
   "enwiki": "Shadow Hearts (video game)",
   "ids": {
    "igdb": "shadow-hearts",
+   "metacritic": "shadow-hearts",
    "mobygames": "6225"
   },
   "label_en": "Shadow Hearts",
@@ -141,6 +143,7 @@
   "ids": {
    "howlongtobeat": "13534",
    "igdb": "switchball",
+   "metacritic": "switchball",
    "mobygames": "29051",
    "pcgamingwiki": "Switchball"
   },
@@ -210,6 +213,9 @@
  },
  {
   "enwiki": "Medabots: Metabee and Rokusho",
+  "ids": {
+   "mobygames": "13027"
+  },
   "label_en": "Medabots",
   "wikidata": "Q14545597"
  },
@@ -234,6 +240,7 @@
   "ids": {
    "howlongtobeat": "21480",
    "igdb": "roundabout",
+   "metacritic": "roundabout",
    "mobygames": "72736",
    "pcgamingwiki": "Roundabout",
    "steam": "303430"
@@ -275,6 +282,7 @@
   "enwiki": "TerraGenesis",
   "ids": {
    "igdb": "terragenesis-space-settlers",
+   "metacritic": "terragenesis",
    "mobygames": "158151"
   },
   "label_en": "TerraGenesis",
@@ -303,6 +311,7 @@
    "gog": "game/field_of_glory_empires",
    "howlongtobeat": "67599",
    "igdb": "field-of-glory-empires",
+   "metacritic": "field-of-glory-empires",
    "mobygames": "129692",
    "pcgamingwiki": "Field_of_Glory:_Empires",
    "steam": "1011390"
@@ -347,6 +356,7 @@
    "gog": "game/the_smurfs_mission_vileaf",
    "howlongtobeat": "95603",
    "igdb": "the-smurfs-mission-vileaf",
+   "metacritic": "the-smurfs-mission-vileaf",
    "mobygames": "174177",
    "pcgamingwiki": "The_Smurfs:_Mission_Vileaf",
    "steam": "1502560"
@@ -361,6 +371,7 @@
    "gog": "game/timelie",
    "howlongtobeat": "78623",
    "igdb": "timelie",
+   "metacritic": "timelie",
    "mobygames": "146026",
    "pcgamingwiki": "Timelie",
    "steam": "1150950"
@@ -389,6 +400,7 @@
   "ids": {
    "howlongtobeat": "59469",
    "igdb": "octahedron--1",
+   "metacritic": "octahedron",
    "mobygames": "105700",
    "pcgamingwiki": "Octahedron",
    "steam": "434660"
@@ -527,6 +539,7 @@
  {
   "ids": {
    "igdb": "daydream-mosaics-2-juliettes-tale",
+   "pcgamingwiki": "DayDream_Mosaics_2:_Juliette's_Tale",
    "steam": "1799820"
   },
   "label_en": "DayDream Mosaics 2: Juliette's Tale",
@@ -1056,6 +1069,7 @@
  {
   "ids": {
    "igdb": "konung-2-blood-of-titans",
+   "metacritic": "konung-2",
    "mobygames": "17376",
    "steam": "289360"
   },
@@ -1184,6 +1198,7 @@
  {
   "ids": {
    "igdb": "pc-futbol-stars",
+   "pcgamingwiki": "PC_Fútbol_Stars",
    "steam": "1036930"
   },
   "label_en": "PC Fútbol Stars",
@@ -1193,6 +1208,7 @@
   "ids": {
    "igdb": "trackmania-2-stadium",
    "mobygames": "65921",
+   "pcgamingwiki": "TrackMania_2:_Stadium",
    "steam": "232910"
   },
   "label_en": "TrackMania² Stadium",
@@ -1210,6 +1226,7 @@
   "ids": {
    "howlongtobeat": "82053",
    "igdb": "kandagawa-jet-girls",
+   "metacritic": "kandagawa-jet-girls",
    "mobygames": "145720",
    "pcgamingwiki": "Kandagawa_Jet_Girls",
    "steam": "1233800"

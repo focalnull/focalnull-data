@@ -25,6 +25,7 @@
    "gog": "game/spellforce_platinum",
    "howlongtobeat": "8928",
    "igdb": "spellforce-the-order-of-dawn",
+   "metacritic": "spellforce-the-order-of-dawn",
    "mobygames": "11742",
    "pcgamingwiki": "SpellForce:_The_Order_of_Dawn",
    "steam": "39540"
@@ -38,6 +39,7 @@
    "gog": "game/romancing_saga_2",
    "howlongtobeat": "12061",
    "igdb": "romancing-saga-2",
+   "metacritic": "romancing-saga-2",
    "mobygames": "9338",
    "pcgamingwiki": "Romancing_SaGa_2",
    "steam": "606370"
@@ -70,6 +72,7 @@
   "ids": {
    "howlongtobeat": "6933",
    "igdb": "patapon",
+   "metacritic": "patapon",
    "mobygames": "33072"
   },
   "label_en": "Patapon",
@@ -89,6 +92,7 @@
   "enwiki": "King Kong (2005 video game)",
   "ids": {
    "igdb": "peter-jackson-s-king-kong-the-official-game-of-the-movie",
+   "metacritic": "peter-jacksons-king-kong-the-official-game-of-th",
    "mobygames": "20441",
    "pcgamingwiki": "Peter_Jackson's_King_Kong"
   },
@@ -99,6 +103,7 @@
   "enwiki": "NASCAR 2001",
   "ids": {
    "igdb": "nascar-2001",
+   "metacritic": "nascar-2001",
    "mobygames": "4100"
   },
   "label_en": "NASCAR 2001",
@@ -127,6 +132,7 @@
    "gog": "game/black_mirror_3",
    "howlongtobeat": "1102",
    "igdb": "black-mirror-iii-final-fear",
+   "metacritic": "black-mirror-iii-final-fear",
    "mobygames": "50364",
    "pcgamingwiki": "Black_Mirror_3",
    "steam": "286480"
@@ -139,6 +145,7 @@
   "ids": {
    "howlongtobeat": "256",
    "igdb": "afterfall-insanity--1",
+   "metacritic": "afterfall-insanity",
    "mobygames": "53914",
    "pcgamingwiki": "Afterfall:_InSanity",
    "steam": "224420"
@@ -159,6 +166,7 @@
   "ids": {
    "howlongtobeat": "6567",
    "igdb": "nhl-2004",
+   "metacritic": "nhl-2004",
    "mobygames": "10425",
    "pcgamingwiki": "NHL_2004"
   },
@@ -175,7 +183,8 @@
  {
   "enwiki": "Kong: The 8th Wonder of the World",
   "ids": {
-   "igdb": "kong-the-8th-wonder-of-the-world"
+   "igdb": "kong-the-8th-wonder-of-the-world",
+   "metacritic": "kong-the-8th-wonder-of-the-world"
   },
   "label_en": "Kong: The 8th Wonder of the World",
   "wikidata": "Q3815419"
@@ -290,6 +299,7 @@
    "epic": "salt-and-sanctuary",
    "howlongtobeat": "25107",
    "igdb": "salt-and-sanctuary",
+   "metacritic": "salt-and-sanctuary",
    "mobygames": "79046",
    "pcgamingwiki": "Salt_and_Sanctuary",
    "steam": "283640"
@@ -318,6 +328,7 @@
   "ids": {
    "howlongtobeat": "20332",
    "igdb": "eidolon",
+   "metacritic": "eidolon",
    "mobygames": "136998",
    "pcgamingwiki": "Eidolon",
    "steam": "286140"
@@ -340,6 +351,7 @@
    "epic": "unravel-two-6bba8f",
    "howlongtobeat": "57358",
    "igdb": "unravel-two",
+   "metacritic": "unravel-two",
    "mobygames": "109963",
    "pcgamingwiki": "Unravel_Two",
    "steam": "1225570"
@@ -359,6 +371,7 @@
   "ids": {
    "howlongtobeat": "73694",
    "igdb": "world-war-party-game-of-trump",
+   "metacritic": "world-war-party-game-of-trump",
    "mobygames": "153091",
    "pcgamingwiki": "World_War_Party:_Game_of_Trump",
    "steam": "705410"
@@ -484,6 +497,7 @@
   "ids": {
    "howlongtobeat": "75536",
    "igdb": "willy-jetman-astromonkeys-revenge",
+   "metacritic": "willy-jetman-astromonkeys-revenge",
    "mobygames": "141138",
    "pcgamingwiki": "Willy_Jetman:_Astromonkey's_Revenge",
    "steam": "1007520"
@@ -612,6 +626,7 @@
    "epic": "quantum-recharged-6553fd",
    "howlongtobeat": "130854",
    "igdb": "quantum-recharged",
+   "metacritic": "quantum-recharged",
    "mobygames": "207455",
    "steam": "2460490"
   },
@@ -836,6 +851,7 @@
   "enwiki": "The Cube (video game)",
   "ids": {
    "igdb": "the-cube",
+   "metacritic": "the-cube-2012",
    "mobygames": "152110"
   },
   "label_en": "The Cube",

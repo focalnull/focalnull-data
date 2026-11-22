@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "16992",
    "igdb": "zanzarah-the-hidden-portal",
+   "metacritic": "zanzarah-the-hidden-portal",
    "mobygames": "7120",
    "pcgamingwiki": "ZanZarah:_The_Hidden_Portal",
    "steam": "384570"
@@ -15,6 +16,7 @@
   "enwiki": "The Conduit",
   "ids": {
    "igdb": "the-conduit",
+   "metacritic": "the-conduit",
    "mobygames": "45925"
   },
   "label_en": "The Conduit",
@@ -37,6 +39,7 @@
    "gog": "game/dead_space",
    "howlongtobeat": "2333",
    "igdb": "dead-space",
+   "metacritic": "dead-space",
    "mobygames": "37332",
    "pcgamingwiki": "Dead_Space",
    "steam": "17470"
@@ -66,6 +69,7 @@
   "enwiki": "Alexander (video game)",
   "ids": {
    "igdb": "alexander",
+   "metacritic": "alexander",
    "mobygames": "22387",
    "pcgamingwiki": "Alexander"
   },
@@ -77,6 +81,7 @@
   "ids": {
    "howlongtobeat": "6074",
    "igdb": "mini-ninjas",
+   "metacritic": "mini-ninjas",
    "mobygames": "89153",
    "pcgamingwiki": "Mini_Ninjas",
    "steam": "35000"
@@ -115,7 +120,8 @@
  {
   "enwiki": "Smuggler's Run: Warzones",
   "ids": {
-   "igdb": "smuggler-s-run-warzones"
+   "igdb": "smuggler-s-run-warzones",
+   "metacritic": "smugglers-run-warzones"
   },
   "label_en": "Smuggler's Run: Warzones",
   "wikidata": "Q3487074"
@@ -180,7 +186,8 @@
   "enwiki": "Dance Dance Revolution Disney Mix",
   "ids": {
    "howlongtobeat": "2167",
-   "igdb": "dance-dance-revolution-disney-mix"
+   "igdb": "dance-dance-revolution-disney-mix",
+   "metacritic": "dance-dance-revolution-disney-mix"
   },
   "label_en": "Dance Dance Revolution Disney Mix",
   "wikidata": "Q5215074"
@@ -226,7 +233,8 @@
  {
   "enwiki": "WTA Tour Tennis",
   "ids": {
-   "igdb": "wta-tour-tennis"
+   "igdb": "wta-tour-tennis",
+   "metacritic": "wta-tour-tennis"
   },
   "label_en": "WTA Tour Tennis",
   "wikidata": "Q7956074"
@@ -258,6 +266,9 @@
   "wikidata": "Q17223074"
  },
  {
+  "ids": {
+   "metacritic": "the-sims-2-pets"
+  },
   "label_en": "The Sims 2: Pets",
   "wikidata": "Q18281074"
  },
@@ -275,6 +286,7 @@
   "ids": {
    "howlongtobeat": "38232",
    "igdb": "aurion-legacy-of-the-kori-odan",
+   "metacritic": "aurion-legacy-of-the-kori-odan",
    "mobygames": "113753",
    "pcgamingwiki": "Aurion:_Legacy_of_the_Kori-Odan",
    "steam": "368080"
@@ -287,6 +299,7 @@
   "ids": {
    "howlongtobeat": "12260",
    "igdb": "your-shape-fitness-evolved-2012",
+   "metacritic": "your-shape-fitness-evolved-2012",
    "mobygames": "112003"
   },
   "label_en": "Your Shape: Fitness Evolved 2012",
@@ -296,6 +309,7 @@
   "enwiki": "Korea: Forgotten Conflict",
   "ids": {
    "igdb": "korea-forgotten-conflict",
+   "metacritic": "korea-forgotten-conflict",
    "mobygames": "11888",
    "pcgamingwiki": "Korea:_Forgotten_Conflict"
   },
@@ -305,6 +319,7 @@
  {
   "ids": {
    "igdb": "the-partners",
+   "metacritic": "the-partners",
    "mobygames": "9184",
    "pcgamingwiki": "The_Partners"
   },
@@ -313,7 +328,8 @@
  },
  {
   "ids": {
-   "igdb": "monster-life"
+   "igdb": "monster-life",
+   "metacritic": "monster-life"
   },
   "label_en": "Monster Life",
   "wikidata": "Q58327074"
@@ -334,6 +350,7 @@
   "ids": {
    "howlongtobeat": "29987",
    "igdb": "medieval-mercs",
+   "metacritic": "medieval-mercs",
    "pcgamingwiki": "Medieval_Mercs",
    "steam": "383030"
   },
@@ -367,6 +384,7 @@
   "ids": {
    "howlongtobeat": "21648",
    "igdb": "kirby-fighters-deluxe",
+   "metacritic": "kirby-fighters-deluxe",
    "mobygames": "100308"
   },
   "label_en": "Kirby Fighters Deluxe",
@@ -445,6 +463,7 @@
   "ids": {
    "howlongtobeat": "109237",
    "igdb": "pentiment",
+   "metacritic": "pentiment",
    "mobygames": "194426",
    "pcgamingwiki": "Pentiment",
    "steam": "1205520"
@@ -510,6 +529,7 @@
   "ids": {
    "howlongtobeat": "832",
    "igdb": "bangai-o-hd-missile-fury",
+   "metacritic": "bangai-o-hd-missile-fury",
    "mobygames": "93566"
   },
   "label_en": "Bangai-O HD: Missile Fury",
@@ -519,6 +539,7 @@
   "ids": {
    "howlongtobeat": "3656",
    "igdb": "fortix-2",
+   "metacritic": "fortix-2",
    "mobygames": "100399",
    "pcgamingwiki": "Fortix_2",
    "steam": "45450"
@@ -898,6 +919,7 @@
    "gog": "game/sorry_were_closed",
    "howlongtobeat": "125118",
    "igdb": "sorry-were-closed",
+   "metacritic": "sorry-were-closed",
    "mobygames": "233755",
    "pcgamingwiki": "Sorry_We're_Closed",
    "steam": "1796580"

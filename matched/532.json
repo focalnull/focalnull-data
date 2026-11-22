@@ -13,6 +13,7 @@
   "enwiki": "WWE SmackDown! vs. Raw 2006",
   "ids": {
    "igdb": "wwe-smackdown-vs-raw-2006",
+   "metacritic": "wwe-smackdown-vs-raw-2006",
    "mobygames": "24597"
   },
   "label_en": "WWE SmackDown! vs. Raw 2006",
@@ -44,6 +45,7 @@
   "ids": {
    "howlongtobeat": "1980",
    "igdb": "crash-of-the-titans",
+   "metacritic": "crash-of-the-titans",
    "mobygames": "36783"
   },
   "label_en": "Crash of the Titans",
@@ -53,6 +55,7 @@
   "enwiki": "Ultimate Ghosts 'n Goblins",
   "ids": {
    "igdb": "ultimate-ghosts-n-goblins",
+   "metacritic": "ultimate-ghosts-n-goblins",
    "mobygames": "23835"
   },
   "label_en": "Ultimate Ghosts 'n Goblins",
@@ -75,6 +78,7 @@
   "ids": {
    "howlongtobeat": "6964",
    "igdb": "penumbra-requiem",
+   "metacritic": "penumbra-requiem",
    "mobygames": "35924",
    "steam": "22140"
   },
@@ -101,6 +105,7 @@
   "enwiki": "Shadowbane",
   "ids": {
    "igdb": "shadowbane",
+   "metacritic": "shadowbane",
    "mobygames": "8796"
   },
   "label_en": "Shadowbane",
@@ -271,6 +276,7 @@
  {
   "ids": {
    "igdb": "the-lost-angelic-chronicles-of-frane-dragons-odyssey--1",
+   "metacritic": "lost-memory-of-angel-story-frane-3",
    "mobygames": "113309"
   },
   "label_en": "Lost Angelic Chronicles of Frane: Dragons Odyssey",
@@ -280,6 +286,7 @@
   "enwiki": "Fire Pro Wrestling (2001 video game)",
   "ids": {
    "igdb": "fire-pro-wrestling",
+   "metacritic": "fire-pro-wrestling-2001",
    "mobygames": "30379"
   },
   "label_en": "Fire Pro Wrestling",
@@ -298,6 +305,7 @@
    "epic": "celeste",
    "howlongtobeat": "42818",
    "igdb": "celeste",
+   "metacritic": "celeste",
    "mobygames": "101142",
    "pcgamingwiki": "Celeste",
    "steam": "504230"
@@ -310,6 +318,7 @@
   "ids": {
    "howlongtobeat": "45478",
    "igdb": "the-wardrobe",
+   "metacritic": "the-wardrobe",
    "mobygames": "83812",
    "pcgamingwiki": "The_Wardrobe",
    "steam": "497730"
@@ -321,6 +330,7 @@
   "ids": {
    "howlongtobeat": "7347",
    "igdb": "project-freedom",
+   "metacritic": "space-interceptor-project-freedom",
    "mobygames": "15157",
    "pcgamingwiki": "Project_Freedom",
    "steam": "34810"
@@ -332,6 +342,7 @@
   "enwiki": "Punch King",
   "ids": {
    "igdb": "punch-king",
+   "metacritic": "punch-king",
    "mobygames": "81321"
   },
   "label_en": "Punch King",
@@ -395,6 +406,7 @@
  {
   "ids": {
    "igdb": "zombie-cubes",
+   "metacritic": "zombie-cubes",
    "pcgamingwiki": "Zombie_Cubes",
    "steam": "959030"
   },
@@ -406,6 +418,7 @@
   "ids": {
    "howlongtobeat": "6552",
    "igdb": "nfl-gameday-2001",
+   "metacritic": "nfl-gameday-2001",
    "mobygames": "9657"
   },
   "label_en": "NFL GameDay 2001",
@@ -443,6 +456,7 @@
    "gog": "game/trash_sailors",
    "howlongtobeat": "96893",
    "igdb": "trash-sailors",
+   "metacritic": "trash-sailors",
    "mobygames": "177013",
    "pcgamingwiki": "Trash_Sailors",
    "steam": "1132030"
@@ -516,6 +530,7 @@
    "epic": "the-last-of-us-part-1--digital-deluxe-edition",
    "howlongtobeat": "109104",
    "igdb": "the-last-of-us-part-i",
+   "metacritic": "the-last-of-us-part-i",
    "mobygames": "190774",
    "pcgamingwiki": "The_Last_of_Us_Part_I",
    "steam": "1888930"
@@ -537,6 +552,7 @@
  {
   "ids": {
    "igdb": "dragon-quest-x-mezameshi-itsutsu-no-shuzoku-offline",
+   "metacritic": "dragon-quest-x-rise-of-the-five-tribes-offline",
    "pcgamingwiki": "Dragon_Quest_X_Offline",
    "steam": "1358750"
   },
@@ -587,7 +603,8 @@
  },
  {
   "ids": {
-   "igdb": "the-world-ends-with-you-final-remix"
+   "igdb": "the-world-ends-with-you-final-remix",
+   "metacritic": "the-world-ends-with-you-final-remix"
   },
   "label_en": "The World Ends with You: Final Remix",
   "wikidata": "Q120838532"
@@ -688,6 +705,7 @@
   "ids": {
    "howlongtobeat": "103675",
    "igdb": "bikini-armour-explorers",
+   "metacritic": "bikini-armour-explorers",
    "mobygames": "179332",
    "steam": "1738520"
   },
@@ -976,6 +994,7 @@
  {
   "ids": {
    "igdb": "stellar-code",
+   "metacritic": "stellar-code",
    "steam": "3411510"
   },
   "label_en": "Stellar Code",
@@ -1042,7 +1061,8 @@
   "enwiki": "Blood Message",
   "ids": {
    "howlongtobeat": "169907",
-   "igdb": "blood-message"
+   "igdb": "blood-message",
+   "metacritic": "blood-message"
   },
   "label_en": "Blood Message",
   "wikidata": "Q134986532"

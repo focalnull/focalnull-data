@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "8790",
    "igdb": "sonic-the-hedgehog-3",
+   "metacritic": "sonic-the-hedgehog-3",
    "mobygames": "6612"
   },
   "label_en": "Sonic the Hedgehog 3",
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "4818",
    "igdb": "jaws-unleashed",
+   "metacritic": "jaws-unleashed",
    "mobygames": "22611",
    "pcgamingwiki": "Jaws_Unleashed"
   },
@@ -44,6 +46,7 @@
   "ids": {
    "howlongtobeat": "1877",
    "igdb": "company-of-heroes-tales-of-valor",
+   "metacritic": "company-of-heroes-tales-of-valor",
    "mobygames": "40150",
    "pcgamingwiki": "Company_of_Heroes:_Tales_of_Valor",
    "steam": "20540"
@@ -100,6 +103,7 @@
   "enwiki": "Dead to Rights (video game)",
   "ids": {
    "igdb": "dead-to-rights",
+   "metacritic": "dead-to-rights",
    "mobygames": "7179",
    "pcgamingwiki": "Dead_to_Rights"
   },
@@ -133,6 +137,7 @@
   "enwiki": "Spare Parts (video game)",
   "ids": {
    "igdb": "spare-parts",
+   "metacritic": "spare-parts",
    "mobygames": "51655"
   },
   "label_en": "Spare Parts",
@@ -166,6 +171,7 @@
    "gog": "game/pony_island",
    "howlongtobeat": "33405",
    "igdb": "pony-island",
+   "metacritic": "pony-island",
    "mobygames": "76412",
    "pcgamingwiki": "Pony_Island",
    "steam": "405640"
@@ -179,6 +185,7 @@
    "gog": "game/vampire_the_masquerade_coteries_of_new_york",
    "howlongtobeat": "72916",
    "igdb": "vampire-the-masquerade-coteries-of-new-york",
+   "metacritic": "vampire-the-masquerade-coteries-of-new-york",
    "mobygames": "138353",
    "pcgamingwiki": "Vampire:_The_Masquerade_-_Coteries_of_New_York",
    "steam": "1096410"
@@ -192,6 +199,7 @@
    "epic": "double-cross-08a736",
    "howlongtobeat": "64059",
    "igdb": "double-cross",
+   "metacritic": "double-cross",
    "mobygames": "120452",
    "pcgamingwiki": "Double_Cross",
    "steam": "838010"
@@ -204,6 +212,7 @@
   "ids": {
    "howlongtobeat": "9173",
    "igdb": "starseed-pilgrim",
+   "metacritic": "starseed-pilgrim",
    "mobygames": "64918",
    "pcgamingwiki": "Starseed_Pilgrim",
    "steam": "230980"
@@ -241,6 +250,7 @@
    "gog": "game/arkham_horror_mothers_embrace",
    "howlongtobeat": "88836",
    "igdb": "arkham-horror-mothers-embrace--1",
+   "metacritic": "arkham-horror-mothers-embrace",
    "mobygames": "161058",
    "pcgamingwiki": "Arkham_Horror:_Mother's_Embrace",
    "steam": "840210"
@@ -253,6 +263,7 @@
   "ids": {
    "howlongtobeat": "78760",
    "igdb": "arrest-of-a-stone-buddha",
+   "metacritic": "arrest-of-a-stone-buddha",
    "mobygames": "145497",
    "pcgamingwiki": "Arrest_of_a_Stone_Buddha",
    "steam": "1151120"
@@ -303,6 +314,7 @@
   "ids": {
    "howlongtobeat": "80043",
    "igdb": "obey-me--1",
+   "metacritic": "obey-me",
    "mobygames": "144731",
    "pcgamingwiki": "Obey_Me",
    "steam": "1034890"
@@ -368,6 +380,7 @@
   "ids": {
    "howlongtobeat": "78097",
    "igdb": "cassette-beasts",
+   "metacritic": "cassette-beasts",
    "mobygames": "202271",
    "pcgamingwiki": "Cassette_Beasts",
    "steam": "1321440"
@@ -745,6 +758,7 @@
   "ids": {
    "howlongtobeat": "22770",
    "igdb": "dogz",
+   "metacritic": "dogz",
    "mobygames": "25407"
   },
   "label_en": "Dogz",
@@ -1072,5 +1086,9 @@
   },
   "label_en": "Gym Simulator 26",
   "wikidata": "Q141481562"
+ },
+ {
+  "label_en": "Runoff: Pipe League",
+  "wikidata": "Q142199562"
  }
 ]

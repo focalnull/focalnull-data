@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "10852",
    "igdb": "uru-ages-beyond-myst",
+   "metacritic": "uru-ages-beyond-myst",
    "mobygames": "22005",
    "pcgamingwiki": "Uru:_Ages_Beyond_Myst",
    "steam": "63650"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "14068",
    "igdb": "tribes-aerial-assault",
+   "metacritic": "tribes-aerial-assault",
    "mobygames": "13459"
   },
   "label_en": "Tribes: Aerial Assault",
@@ -99,6 +101,7 @@
   "ids": {
    "howlongtobeat": "11311",
    "igdb": "worms-battle-islands",
+   "metacritic": "worms-battle-islands",
    "mobygames": "90023"
   },
   "label_en": "Worms: Battle Islands",
@@ -107,7 +110,8 @@
  {
   "enwiki": "Fury (video game)",
   "ids": {
-   "igdb": "fury"
+   "igdb": "fury",
+   "metacritic": "fury-2007"
   },
   "label_en": "Fury",
   "wikidata": "Q3091073"
@@ -264,6 +268,7 @@
   "ids": {
    "howlongtobeat": "16793",
    "igdb": "naissancee",
+   "metacritic": "naissancee",
    "mobygames": "65275",
    "pcgamingwiki": "NaissanceE",
    "steam": "265690"
@@ -280,6 +285,7 @@
   "ids": {
    "howlongtobeat": "42495",
    "igdb": "meme-run",
+   "metacritic": "meme-run",
    "mobygames": "73386"
   },
   "label_en": "Meme Run",
@@ -299,6 +305,7 @@
   "ids": {
    "howlongtobeat": "39762",
    "igdb": "duelyst",
+   "metacritic": "duelyst",
    "mobygames": "86284",
    "pcgamingwiki": "Duelyst",
    "steam": "291410"
@@ -322,6 +329,7 @@
   "ids": {
    "howlongtobeat": "74817",
    "igdb": "torchlight-iii",
+   "metacritic": "torchlight-iii",
    "mobygames": "146778",
    "pcgamingwiki": "Torchlight_Frontiers",
    "steam": "1030210"
@@ -335,6 +343,7 @@
    "epic": "untitled-goose-game",
    "howlongtobeat": "66086",
    "igdb": "untitled-goose-game",
+   "metacritic": "untitled-goose-game",
    "mobygames": "134906",
    "pcgamingwiki": "Untitled_Goose_Game",
    "steam": "837470"
@@ -344,6 +353,7 @@
  },
  {
   "ids": {
+   "metacritic": "trivial-pursuit",
    "mobygames": "45704"
   },
   "label_en": "Trivial Pursuit",
@@ -357,6 +367,7 @@
  {
   "ids": {
    "igdb": "tales-of-monkey-island-chapter-4-the-trial-and-execution-of-guybrush-threepwood",
+   "metacritic": "tales-of-monkey-island-chapter-4-the-trial-and-execution-of-guybrush-threepwood",
    "mobygames": "43448",
    "steam": "31200"
   },
@@ -368,6 +379,7 @@
   "ids": {
    "howlongtobeat": "77921",
    "igdb": "scarlet-nexus",
+   "metacritic": "scarlet-nexus",
    "mobygames": "166686",
    "pcgamingwiki": "Scarlet_Nexus",
    "steam": "775500"
@@ -395,6 +407,9 @@
   "wikidata": "Q106522073"
  },
  {
+  "ids": {
+   "metacritic": "kamisama-no-shippo"
+  },
   "label_en": "Kamisama no Shippo ~Etogami-sama tachi no Ongaeshi~",
   "wikidata": "Q107210073"
  },
@@ -411,7 +426,9 @@
    "epic": "jitsu-squad-af3f2f",
    "howlongtobeat": "107134",
    "igdb": "jitsu-squad",
+   "metacritic": "jitsu-squad",
    "mobygames": "182096",
+   "pcgamingwiki": "Jitsu_Squad",
    "steam": "1522080"
   },
   "label_en": "Jitsu Squad",
@@ -448,6 +465,7 @@
   "ids": {
    "howlongtobeat": "87218",
    "igdb": "sunlight",
+   "metacritic": "sunlight",
    "mobygames": "159761",
    "steam": "1451120"
   },
@@ -528,6 +546,7 @@
    "gog": "game/mail_time",
    "howlongtobeat": "95986",
    "igdb": "mail-time",
+   "metacritic": "mail-time",
    "mobygames": "202317",
    "pcgamingwiki": "Mail_Time",
    "steam": "1607240"
@@ -876,6 +895,7 @@
  {
   "ids": {
    "igdb": "cutie-clash",
+   "metacritic": "cutie-clash",
    "mobygames": "101258"
   },
   "label_en": "Cutie Clash",
@@ -1023,6 +1043,7 @@
   "ids": {
    "howlongtobeat": "153254",
    "igdb": "uncover-the-smoking-gun",
+   "metacritic": "uncover-the-smoking-gun",
    "mobygames": "229360",
    "steam": "2492290"
   },
@@ -1206,6 +1227,7 @@
  {
   "ids": {
    "igdb": "the-nightshift-code",
+   "pcgamingwiki": "The_Nightshift_Code",
    "steam": "37320"
   },
   "label_en": "The Nightshift Code™",

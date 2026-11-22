@@ -5,6 +5,7 @@
    "gog": "game/legacy_of_kain_blood_omen_2",
    "howlongtobeat": "1183",
    "igdb": "blood-omen-2-legacy-of-kain",
+   "metacritic": "blood-omen-2",
    "mobygames": "6083",
    "pcgamingwiki": "Legacy_of_Kain:_Blood_Omen_2",
    "steam": "242960"
@@ -26,6 +27,7 @@
   "ids": {
    "howlongtobeat": "934",
    "igdb": "battlefield-1943",
+   "metacritic": "battlefield-1943",
    "mobygames": "41509"
   },
   "label_en": "Battlefield 1943",
@@ -77,6 +79,7 @@
   "ids": {
    "howlongtobeat": "701",
    "igdb": "atelier-iris-3-grand-phantasm",
+   "metacritic": "atelier-iris-3-grand-phantasm",
    "mobygames": "36234"
   },
   "label_en": "Atelier Iris 3: Grand Phantasm",
@@ -106,6 +109,7 @@
   "ids": {
    "howlongtobeat": "1197",
    "igdb": "bloody-roar-primal-fury",
+   "metacritic": "bloody-roar-primal-fury",
    "mobygames": "6017"
   },
   "label_en": "Bloody Roar Extreme",
@@ -124,6 +128,7 @@
   "ids": {
    "howlongtobeat": "64124",
    "igdb": "rocky-balboa",
+   "metacritic": "rocky-balboa",
    "mobygames": "49684"
   },
   "label_en": "Rocky Balboa",
@@ -146,6 +151,7 @@
    "gog": "game/silverfall_complete",
    "howlongtobeat": "8550",
    "igdb": "silverfall",
+   "metacritic": "silverfall",
    "mobygames": "27119",
    "pcgamingwiki": "Silverfall",
    "steam": "4420"
@@ -165,6 +171,7 @@
   "ids": {
    "howlongtobeat": "14672",
    "igdb": "nancy-drew-ransom-of-the-seven-ships",
+   "metacritic": "nancy-drew-the-ransom-of-the-seven-ships",
    "mobygames": "42006",
    "pcgamingwiki": "Nancy_Drew:_Ransom_of_the_Seven_Ships",
    "steam": "31980"
@@ -177,6 +184,7 @@
   "ids": {
    "howlongtobeat": "6365",
    "igdb": "nancy-drew-the-creature-of-kapu-cave",
+   "metacritic": "nancy-drew-the-creature-of-kapu-cave",
    "mobygames": "24485",
    "pcgamingwiki": "Nancy_Drew:_The_Creature_of_Kapu_Cave",
    "steam": "31900"
@@ -230,6 +238,7 @@
   "ids": {
    "howlongtobeat": "23123",
    "igdb": "candy-crush-saga",
+   "metacritic": "candy-crush-saga",
    "mobygames": "61070",
    "pcgamingwiki": "Candy_Crush_Saga"
   },
@@ -252,6 +261,7 @@
   "ids": {
    "howlongtobeat": "47454",
    "igdb": "the-golf-club-2",
+   "metacritic": "the-golf-club-2",
    "mobygames": "91454",
    "pcgamingwiki": "The_Golf_Club_2",
    "steam": "554510"
@@ -265,6 +275,7 @@
    "gog": "game/lilly_looking_through",
    "howlongtobeat": "14384",
    "igdb": "lilly-looking-through",
+   "metacritic": "lilly-looking-through",
    "mobygames": "68261",
    "pcgamingwiki": "Lilly_Looking_Through",
    "steam": "250030"
@@ -305,6 +316,7 @@
    "epic": "lost-soul-aside-685c12",
    "howlongtobeat": "66499",
    "igdb": "lost-soul-aside",
+   "metacritic": "lost-soul-aside",
    "pcgamingwiki": "Lost_Soul_Aside",
    "steam": "3378960"
   },
@@ -315,6 +327,7 @@
   "ids": {
    "howlongtobeat": "21282",
    "igdb": "planes",
+   "metacritic": "disney-planes",
    "mobygames": "98475",
    "pcgamingwiki": "Disney_Planes",
    "steam": "286880"
@@ -330,6 +343,7 @@
   "ids": {
    "howlongtobeat": "36178",
    "igdb": "gardenarium",
+   "metacritic": "gardenarium",
    "pcgamingwiki": "Gardenarium",
    "steam": "423750"
   },
@@ -342,6 +356,7 @@
    "gog": "game/monster_prom_2_monster_camp",
    "howlongtobeat": "84308",
    "igdb": "monster-prom-2-monster-camp",
+   "metacritic": "monster-prom-2-monster-camp",
    "mobygames": "151969",
    "pcgamingwiki": "Monster_Prom_2:_Monster_Camp",
    "steam": "1140270"
@@ -353,6 +368,7 @@
   "ids": {
    "howlongtobeat": "67511",
    "igdb": "12-labours-of-hercules-viii-how-i-met-megara",
+   "metacritic": "12-labours-of-hercules-viii-how-i-met-megara",
    "mobygames": "119912",
    "pcgamingwiki": "12_Labours_of_Hercules_VIII:_How_I_Met_Megara",
    "steam": "938310"
@@ -367,6 +383,7 @@
    "gog": "game/roki",
    "howlongtobeat": "75451",
    "igdb": "roki",
+   "metacritic": "roki",
    "mobygames": "148458",
    "pcgamingwiki": "Röki",
    "steam": "1067540"
@@ -405,6 +422,7 @@
   "ids": {
    "epic": "crysis-3-remastered",
    "igdb": "crysis-3-remastered",
+   "metacritic": "crysis-3-remastered",
    "mobygames": "173873",
    "pcgamingwiki": "Crysis_3_Remastered",
    "steam": "2096610"
@@ -423,6 +441,7 @@
   "ids": {
    "howlongtobeat": "46448",
    "igdb": "zup-5",
+   "metacritic": "zup-5",
    "mobygames": "90480",
    "pcgamingwiki": "Zup!_5",
    "steam": "645090"
@@ -471,6 +490,7 @@
   "ids": {
    "howlongtobeat": "124297",
    "igdb": "paranormasight-the-seven-mysteries-of-honjo",
+   "metacritic": "paranormasight-the-seven-mysteries-of-honjo",
    "mobygames": "199774",
    "pcgamingwiki": "PARANORMASIGHT:_The_Seven_Mysteries_of_Honjo",
    "steam": "2106840"
@@ -518,6 +538,7 @@
   "ids": {
    "howlongtobeat": "56275",
    "igdb": "the-padre",
+   "metacritic": "the-padre",
    "mobygames": "118806",
    "pcgamingwiki": "The_Padre",
    "steam": "747650"

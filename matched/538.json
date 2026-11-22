@@ -33,6 +33,7 @@
    "gog": "game/world_in_conflict_complete_edition",
    "howlongtobeat": "11281",
    "igdb": "world-in-conflict",
+   "metacritic": "world-in-conflict",
    "mobygames": "30129",
    "pcgamingwiki": "World_in_Conflict",
    "steam": "21760"
@@ -52,6 +53,7 @@
  {
   "ids": {
    "igdb": "1848",
+   "metacritic": "1848",
    "mobygames": "38441"
   },
   "label_en": "1848",
@@ -62,6 +64,7 @@
   "ids": {
    "howlongtobeat": "1916",
    "igdb": "contra-rebirth",
+   "metacritic": "contra-rebirth",
    "mobygames": "50159"
   },
   "label_en": "Contra ReBirth",
@@ -72,6 +75,7 @@
   "ids": {
    "howlongtobeat": "2154",
    "igdb": "dance-central-2",
+   "metacritic": "dance-central-2",
    "mobygames": "77246"
   },
   "label_en": "Dance Central 2",
@@ -107,6 +111,7 @@
   "enwiki": "A Kappa's Trail",
   "ids": {
    "igdb": "a-kappas-trail",
+   "metacritic": "a-kappas-trail",
    "mobygames": "87120"
   },
   "label_en": "A Kappa's Trail",
@@ -161,6 +166,9 @@
  {
   "label_en": "Oshiete Re:Maid",
   "wikidata": "Q11261538"
+ },
+ {
+  "wikidata": "Q11304538"
  },
  {
   "wikidata": "Q11329538"
@@ -235,6 +243,7 @@
  {
   "ids": {
    "igdb": "kingdom-hearts-re-chain-of-memories",
+   "metacritic": "kingdom-hearts-rechain-of-memories",
    "mobygames": "38031"
   },
   "label_en": "Kingdom Hearts Re: Chain of Memories",
@@ -295,6 +304,7 @@
   "ids": {
    "howlongtobeat": "23104",
    "igdb": "blockade-3d",
+   "metacritic": "blockade-3d",
    "mobygames": "107066",
    "pcgamingwiki": "Blockade_3D",
    "steam": "302830"
@@ -752,6 +762,7 @@
   "ids": {
    "howlongtobeat": "56512",
    "igdb": "pixel-gear",
+   "metacritic": "pixel-gear",
    "mobygames": "87349",
    "pcgamingwiki": "Pixel_Gear",
    "steam": "618650"

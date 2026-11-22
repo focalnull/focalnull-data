@@ -18,6 +18,7 @@
    "gog": "game/world_of_goo",
    "howlongtobeat": "11283",
    "igdb": "world-of-goo",
+   "metacritic": "world-of-goo",
    "mobygames": "36702",
    "pcgamingwiki": "World_of_Goo",
    "steam": "22000"
@@ -80,6 +81,7 @@
   "ids": {
    "howlongtobeat": "534",
    "igdb": "ar-tonelico-ii-melody-of-metafalica",
+   "metacritic": "ar-tonelico-ii-melody-of-metafalica",
    "mobygames": "55992"
   },
   "label_en": "Ar Tonelico 2",
@@ -112,6 +114,7 @@
    "gog": "game/sea_dogs_city_of_abandoned_ships",
    "howlongtobeat": "17677",
    "igdb": "sea-dogs-city-of-abandoned-ships",
+   "metacritic": "age-of-pirates-2-city-of-abandoned-ships",
    "mobygames": "45672",
    "pcgamingwiki": "Age_of_Pirates_2:_City_of_Abandoned_Ships",
    "steam": "937940"
@@ -124,6 +127,7 @@
   "ids": {
    "howlongtobeat": "71",
    "igdb": "3d-ultra-minigolf-adventures",
+   "metacritic": "3d-ultra-minigolf-adventures",
    "mobygames": "27662",
    "pcgamingwiki": "3D_Ultra_Minigolf_Adventures",
    "steam": "10140"
@@ -155,6 +159,7 @@
   "ids": {
    "howlongtobeat": "16211",
    "igdb": "mx-vs-atv-untamed",
+   "metacritic": "mx-vs-atv-untamed",
    "mobygames": "34355"
   },
   "label_en": "MX vs. ATV Untamed",
@@ -164,6 +169,7 @@
   "enwiki": "Ricochet Lost Worlds: Recharged",
   "ids": {
    "igdb": "ricochet-lost-worlds-recharged",
+   "metacritic": "ricochet-recharged",
    "mobygames": "211473",
    "pcgamingwiki": "Ricochet_Lost_Worlds:_Recharged"
   },
@@ -205,6 +211,7 @@
    "epic": "the-division",
    "howlongtobeat": "20073",
    "igdb": "tom-clancy-s-the-division",
+   "metacritic": "tom-clancys-the-division",
    "mobygames": "77526",
    "pcgamingwiki": "Tom_Clancy's_The_Division",
    "steam": "365590"
@@ -219,6 +226,7 @@
   "ids": {
    "howlongtobeat": "24704",
    "igdb": "the-awakened-fate-ultimatum",
+   "metacritic": "the-awakened-fate-ultimatum",
    "mobygames": "73329"
   },
   "label_en": "The Awakened Fate Ultimatum",
@@ -230,6 +238,7 @@
    "gog": "game/stellaris",
    "howlongtobeat": "37186",
    "igdb": "stellaris",
+   "metacritic": "stellaris",
    "mobygames": "78206",
    "pcgamingwiki": "Stellaris",
    "steam": "281990"
@@ -242,6 +251,7 @@
   "ids": {
    "howlongtobeat": "33204",
    "igdb": "emily-wants-to-play",
+   "metacritic": "emily-wants-to-play",
    "mobygames": "78889",
    "pcgamingwiki": "Emily_Wants_to_Play",
    "steam": "416590"
@@ -261,6 +271,7 @@
   "enwiki": "Déraciné",
   "ids": {
    "igdb": "deracine",
+   "metacritic": "deracine",
    "mobygames": "113470"
   },
   "label_en": "Déraciné",
@@ -286,6 +297,7 @@
    "gog": "game/beholder_2",
    "howlongtobeat": "59333",
    "igdb": "beholder-2",
+   "metacritic": "beholder-2",
    "mobygames": "118170",
    "pcgamingwiki": "Beholder_2",
    "steam": "761620"
@@ -308,6 +320,7 @@
    "gog": "game/daymare_1994_sandcastle",
    "howlongtobeat": "106736",
    "igdb": "daymare-1994-sandcastle",
+   "metacritic": "daymare-1994-sandcastle",
    "mobygames": "207968",
    "pcgamingwiki": "Daymare:_1994_Sandcastle",
    "steam": "1530470"
@@ -407,6 +420,7 @@
   "ids": {
    "howlongtobeat": "34291",
    "igdb": "disgaea-pc",
+   "metacritic": "disgaea-pc",
    "pcgamingwiki": "Disgaea_PC",
    "steam": "405900"
   },
@@ -445,6 +459,7 @@
    "gog": "game/bilkins_folly",
    "howlongtobeat": "95386",
    "igdb": "bilkins-folly",
+   "metacritic": "bilkins-folly",
    "mobygames": "209691",
    "steam": "1526370"
   },
@@ -485,7 +500,8 @@
  },
  {
   "ids": {
-   "igdb": "under-night-in-birth-exe-late-cl-r"
+   "igdb": "under-night-in-birth-exe-late-cl-r",
+   "metacritic": "under-night-in-birth-exelatecl-r"
   },
   "label_en": "Under Night In-Birth Exe:Late[cl-r]",
   "wikidata": "Q121037312"
@@ -706,6 +722,7 @@
   "ids": {
    "howlongtobeat": "29689",
    "igdb": "corpse-of-discovery",
+   "metacritic": "corpse-of-discovery",
    "mobygames": "209460",
    "pcgamingwiki": "Corpse_of_Discovery",
    "steam": "297720"
@@ -1162,6 +1179,9 @@
   "wikidata": "Q137394312"
  },
  {
+  "ids": {
+   "metacritic": "jambo-safari-animal-rescue"
+  },
   "label_en": "Jambo! Safari: Animal Rescue",
   "wikidata": "Q139791312"
  },

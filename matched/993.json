@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4307",
    "igdb": "harmoknight",
+   "metacritic": "harmoknight",
    "mobygames": "73848"
   },
   "label_en": "HarmoKnight",
@@ -53,6 +54,7 @@
   "ids": {
    "howlongtobeat": "5762",
    "igdb": "mechcommander-2",
+   "metacritic": "mechcommander-2",
    "mobygames": "4567",
    "pcgamingwiki": "MechCommander_2"
   },
@@ -80,6 +82,7 @@
   "ids": {
    "howlongtobeat": "7970",
    "igdb": "romance-of-the-three-kingdoms-iv-wall-of-fire",
+   "metacritic": "romance-of-the-three-kingdoms-iv-wall-of-fire",
    "mobygames": "3266",
    "pcgamingwiki": "Romance_of_the_Three_Kingdoms_IV",
    "steam": "521730"
@@ -104,6 +107,7 @@
   "ids": {
    "howlongtobeat": "11113",
    "igdb": "way-of-the-samurai-2",
+   "metacritic": "way-of-the-samurai-2",
    "mobygames": "18966"
   },
   "label_en": "Way of the Samurai 2",
@@ -169,6 +173,7 @@
   "ids": {
    "howlongtobeat": "14348",
    "igdb": "resogun",
+   "metacritic": "resogun",
    "mobygames": "64144"
   },
   "label_en": "Resogun",
@@ -200,6 +205,7 @@
   "ids": {
    "howlongtobeat": "28936",
    "igdb": "f1-2015",
+   "metacritic": "f1-2015",
    "mobygames": "76486",
    "pcgamingwiki": "F1_2015",
    "steam": "286570"
@@ -213,6 +219,7 @@
    "epic": "squad",
    "howlongtobeat": "33215",
    "igdb": "squad",
+   "metacritic": "squad",
    "mobygames": "101720",
    "pcgamingwiki": "Squad",
    "steam": "393380"
@@ -232,6 +239,7 @@
   "ids": {
    "howlongtobeat": "22962",
    "igdb": "primal-carnage-extinction",
+   "metacritic": "primal-carnage-extinction",
    "mobygames": "72136",
    "pcgamingwiki": "Primal_Carnage:_Extinction",
    "steam": "321360"
@@ -265,6 +273,7 @@
   "ids": {
    "howlongtobeat": "26443",
    "igdb": "the-incredible-adventures-of-van-helsing-iii",
+   "metacritic": "the-incredible-adventures-of-van-helsing-iii",
    "mobygames": "100340",
    "pcgamingwiki": "The_Incredible_Adventures_of_Van_Helsing_III",
    "steam": "359900"
@@ -276,6 +285,7 @@
   "ids": {
    "howlongtobeat": "65729",
    "igdb": "aggressors-ancient-rome",
+   "metacritic": "aggressors-ancient-rome",
    "mobygames": "112958",
    "pcgamingwiki": "Aggressors:_Ancient_Rome",
    "steam": "783210"
@@ -288,6 +298,7 @@
   "ids": {
    "epic": "dangerous-driving",
    "igdb": "dangerous-driving",
+   "metacritic": "dangerous-driving",
    "mobygames": "124668",
    "pcgamingwiki": "Dangerous_Driving"
   },
@@ -384,6 +395,7 @@
    "epic": "f1-22",
    "howlongtobeat": "107320",
    "igdb": "f1-22",
+   "metacritic": "f1-22",
    "mobygames": "187269",
    "pcgamingwiki": "F1_22",
    "steam": "1692250"
@@ -642,6 +654,7 @@
   "ids": {
    "howlongtobeat": "141513",
    "igdb": "obenseuer",
+   "metacritic": "obenseuer",
    "pcgamingwiki": "Open_Sewer",
    "steam": "951240"
   },
@@ -769,6 +782,7 @@
  {
   "ids": {
    "igdb": "arrow-time-u",
+   "metacritic": "arrow-time-u",
    "mobygames": "94231"
   },
   "label_en": "Arrow Time U",
@@ -820,6 +834,7 @@
   "ids": {
    "howlongtobeat": "157475",
    "igdb": "natsu-no-sagashimono-what-we-found-that-summer",
+   "metacritic": "natsu-no-sagashimono-what-we-found-that-summer",
    "steam": "2997980"
   },
   "label_en": "Natsu no Sagashimono",
@@ -952,6 +967,7 @@
   "ids": {
    "howlongtobeat": "155145",
    "igdb": "yarimono",
+   "metacritic": "yarimono",
    "mobygames": "229714",
    "steam": "2696050"
   },
@@ -1062,6 +1078,7 @@
   "ids": {
    "gog": "game/janosik_2",
    "igdb": "janosik-2",
+   "pcgamingwiki": "Janosik_2",
    "steam": "1640400"
   },
   "label_en": "Janosik 2",
@@ -1096,6 +1113,7 @@
   "ids": {
    "howlongtobeat": "67941",
    "igdb": "the-muppets-on-with-the-show",
+   "metacritic": "jim-hensons-the-muppets-on-with-the-show",
    "mobygames": "8933"
   },
   "label_en": "The Muppets: On With the Show!",

@@ -35,6 +35,7 @@
   "ids": {
    "howlongtobeat": "1474",
    "igdb": "call-of-duty-finest-hour",
+   "metacritic": "call-of-duty-finest-hour",
    "mobygames": "20289"
   },
   "label_en": "Call of Duty: Finest Hour",
@@ -54,6 +55,7 @@
    "epic": "scott-pilgrim-vs-the-world-the-game",
    "howlongtobeat": "87104",
    "igdb": "scott-pilgrim-vs-the-world-the-game-complete-edition",
+   "metacritic": "scott-pilgrim-vs-the-world-the-game",
    "mobygames": "47880",
    "pcgamingwiki": "Scott_Pilgrim_vs._The_World:_The_Game_-_Complete_Edition",
    "steam": "2215260"
@@ -69,6 +71,7 @@
   "enwiki": "Prinny: Can I Really Be the Hero?",
   "ids": {
    "igdb": "prinny-can-i-really-be-the-hero",
+   "metacritic": "prinny-can-i-really-be-the-hero",
    "mobygames": "42961"
   },
   "label_en": "Prinny: Can I Really Be the Hero?",
@@ -97,6 +100,7 @@
   "enwiki": "Syndicate (2012 video game)",
   "ids": {
    "igdb": "syndicate--3",
+   "metacritic": "syndicate-2012",
    "mobygames": "54907",
    "pcgamingwiki": "Syndicate_(2012)"
   },
@@ -107,6 +111,7 @@
   "enwiki": "Avatar: The Last Airbender – Into the Inferno",
   "ids": {
    "igdb": "avatar-the-last-airbender-into-the-inferno",
+   "metacritic": "avatar-the-last-airbender-into-the-inferno",
    "mobygames": "81586"
   },
   "label_en": "Avatar: The Last Airbender – Into the Inferno",
@@ -154,6 +159,7 @@
   "ids": {
    "howlongtobeat": "1306",
    "igdb": "brave-the-search-for-spirit-dancer",
+   "metacritic": "brave-the-search-for-spirit-dancer",
    "mobygames": "19018"
   },
   "label_en": "Brave: The Search for Spirit Dancer",
@@ -234,6 +240,7 @@
    "gog": "game/broforce",
    "howlongtobeat": "17638",
    "igdb": "broforce",
+   "metacritic": "broforce",
    "mobygames": "75761",
    "pcgamingwiki": "Broforce",
    "steam": "274190"
@@ -245,6 +252,7 @@
   "enwiki": "Buzz!: Brain Bender",
   "ids": {
    "igdb": "buzz-brain-bender",
+   "metacritic": "buzz-brain-bender",
    "mobygames": "93299"
   },
   "label_en": "Buzz!: Brain Bender",
@@ -275,6 +283,7 @@
   "ids": {
    "howlongtobeat": "25156",
    "igdb": "adventure-capitalist",
+   "metacritic": "adventure-capitalist",
    "mobygames": "74081",
    "pcgamingwiki": "AdVenture_Capitalist",
    "steam": "346900"
@@ -299,6 +308,7 @@
    "gog": "game/a_normal_lost_phone",
    "howlongtobeat": "39326",
    "igdb": "a-normal-lost-phone",
+   "metacritic": "a-normal-lost-phone",
    "mobygames": "83138",
    "pcgamingwiki": "A_Normal_Lost_Phone",
    "steam": "523210"
@@ -332,6 +342,7 @@
   "ids": {
    "howlongtobeat": "50171",
    "igdb": "stick-fight-the-game",
+   "metacritic": "stick-fight-the-game",
    "mobygames": "96643",
    "pcgamingwiki": "Stick_Fight:_The_Game",
    "steam": "674940"
@@ -345,6 +356,7 @@
    "gog": "game/planet_alpha",
    "howlongtobeat": "60334",
    "igdb": "planet-alpha",
+   "metacritic": "planet-alpha",
    "mobygames": "113142",
    "pcgamingwiki": "Planet_Alpha",
    "steam": "485030"
@@ -368,6 +380,7 @@
   "ids": {
    "howlongtobeat": "28668",
    "igdb": "divide-by-sheep",
+   "metacritic": "divide-by-sheep",
    "mobygames": "91313",
    "pcgamingwiki": "Divide_By_Sheep",
    "steam": "252130"
@@ -380,6 +393,7 @@
   "ids": {
    "howlongtobeat": "62564",
    "igdb": "katamari-damacy-reroll",
+   "metacritic": "katamari-damacy-reroll",
    "mobygames": "117604",
    "pcgamingwiki": "Katamari_Damacy_Reroll",
    "steam": "848350"
@@ -392,6 +406,7 @@
    "gog": "game/mary_skelter_2",
    "howlongtobeat": "66558",
    "igdb": "mary-skelter-2",
+   "metacritic": "mary-skelter-2",
    "mobygames": "135319",
    "pcgamingwiki": "Mary_Skelter_2",
    "steam": "1496250"
@@ -422,6 +437,7 @@
    "gog": "game/mina_the_hollower",
    "howlongtobeat": "103519",
    "igdb": "mina-the-hollower",
+   "metacritic": "mina-the-hollower",
    "mobygames": "261399",
    "pcgamingwiki": "Mina_the_Hollower",
    "steam": "1875580"
@@ -444,6 +460,7 @@
  {
   "ids": {
    "igdb": "johnny-dynamite",
+   "metacritic": "johnny-dynamite",
    "mobygames": "99384"
   },
   "label_en": "Johnny Dynamite",
@@ -636,6 +653,7 @@
   "ids": {
    "howlongtobeat": "110122",
    "igdb": "witch-strandings",
+   "metacritic": "witch-strandings",
    "mobygames": "187864",
    "steam": "1507790"
   },
@@ -800,6 +818,9 @@
   "wikidata": "Q124075333"
  },
  {
+  "ids": {
+   "metacritic": "paradigm-paradox"
+  },
   "label_en": "Paradigm Paradox",
   "wikidata": "Q124262333"
  },
@@ -808,6 +829,7 @@
   "ids": {
    "howlongtobeat": "141788",
    "igdb": "home-safety-hotline",
+   "metacritic": "home-safety-hotline",
    "mobygames": "215816",
    "steam": "2357910"
   },

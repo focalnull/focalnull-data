@@ -5,6 +5,7 @@
    "gog": "game/hitman_blood_money",
    "howlongtobeat": "4477",
    "igdb": "hitman-blood-money",
+   "metacritic": "hitman-blood-money",
    "mobygames": "22576",
    "pcgamingwiki": "Hitman:_Blood_Money",
    "steam": "6860"
@@ -16,6 +17,7 @@
   "enwiki": "The House of the Dead: Overkill",
   "ids": {
    "igdb": "the-house-of-the-dead-overkill",
+   "metacritic": "the-house-of-the-dead-overkill",
    "mobygames": "40939"
   },
   "label_en": "The House of the Dead: Overkill",
@@ -34,6 +36,7 @@
   "enwiki": "Dynasty Warriors 4",
   "ids": {
    "igdb": "dynasty-warriors-4",
+   "metacritic": "dynasty-warriors-4",
    "mobygames": "9580",
    "pcgamingwiki": "Dynasty_Warriors_4:_Hyper"
   },
@@ -45,6 +48,7 @@
   "ids": {
    "howlongtobeat": "2496",
    "igdb": "devil-may-cry",
+   "metacritic": "devil-may-cry",
    "mobygames": "5086"
   },
   "label_en": "Devil May Cry",
@@ -55,6 +59,7 @@
   "ids": {
    "howlongtobeat": "8440",
    "igdb": "persona-3",
+   "metacritic": "shin-megami-tensei-persona-3",
    "mobygames": "23178"
   },
   "label_en": "Persona 3",
@@ -65,6 +70,7 @@
   "ids": {
    "howlongtobeat": "394",
    "igdb": "alone-in-the-dark--2",
+   "metacritic": "alone-in-the-dark-2008",
    "mobygames": "34702",
    "pcgamingwiki": "Alone_in_the_Dark_(2008)",
    "steam": "259170"
@@ -97,6 +103,7 @@
   "enwiki": "Teenage Mutant Ninja Turtles (2003 video game)",
   "ids": {
    "igdb": "teenage-mutant-ninja-turtles--1",
+   "metacritic": "teenage-mutant-ninja-turtles-2003",
    "mobygames": "10839",
    "pcgamingwiki": "Teenage_Mutant_Ninja_Turtles_(2003)"
   },
@@ -110,6 +117,7 @@
    "gog": "game/time_commando",
    "howlongtobeat": "10340",
    "igdb": "time-commando",
+   "metacritic": "time-commando",
    "mobygames": "342",
    "pcgamingwiki": "Time_Commando",
    "steam": "1758910"
@@ -130,6 +138,7 @@
   "enwiki": "SpongeBob SquarePants: Lights, Camera, Pants!",
   "ids": {
    "igdb": "spongebob-squarepants-lights-camera-pants",
+   "metacritic": "spongebob-squarepants-lights-camera-pants",
    "mobygames": "24123",
    "pcgamingwiki": "SpongeBob_SquarePants:_Lights,_Camera,_Pants!"
   },
@@ -140,7 +149,8 @@
   "enwiki": "Pac 'n Roll",
   "ids": {
    "howlongtobeat": "14521",
-   "igdb": "pac-n-roll"
+   "igdb": "pac-n-roll",
+   "metacritic": "pac-n-roll"
   },
   "label_en": "Pac 'n Roll",
   "wikidata": "Q3141889"
@@ -272,6 +282,7 @@
    "epic": "mafia-iii-definitive-edition",
    "howlongtobeat": "34002",
    "igdb": "mafia-iii",
+   "metacritic": "mafia-iii",
    "mobygames": "81233",
    "pcgamingwiki": "Mafia_III",
    "steam": "360430"
@@ -296,6 +307,7 @@
   "ids": {
    "howlongtobeat": "42182",
    "igdb": "astroneer",
+   "metacritic": "astroneer",
    "mobygames": "84292",
    "pcgamingwiki": "Astroneer",
    "steam": "361420"
@@ -363,6 +375,7 @@
    "gog": "game/lords_and_villeins",
    "howlongtobeat": "102566",
    "igdb": "lords-and-villeins",
+   "metacritic": "lords-villeins",
    "mobygames": "173178",
    "pcgamingwiki": "Lords_and_Villeins",
    "steam": "1287530"
@@ -391,6 +404,7 @@
  {
   "ids": {
    "igdb": "lack-of-water",
+   "metacritic": "lack-of-water",
    "mobygames": "189396",
    "steam": "1769390"
   },
@@ -430,6 +444,7 @@
    "gog": "game/horace",
    "howlongtobeat": "69579",
    "igdb": "horace",
+   "metacritic": "horace",
    "mobygames": "130088",
    "pcgamingwiki": "Horace",
    "steam": "629090"
@@ -441,6 +456,7 @@
   "ids": {
    "howlongtobeat": "53271",
    "igdb": "unit-4",
+   "metacritic": "unit-4",
    "mobygames": "91268",
    "pcgamingwiki": "Unit_4",
    "steam": "633440"
@@ -454,6 +470,7 @@
    "gog": "game/the_knight_witch_deluxe_edition",
    "howlongtobeat": "107228",
    "igdb": "the-knight-witch",
+   "metacritic": "the-knight-witch",
    "mobygames": "195909",
    "pcgamingwiki": "The_Knight_Witch",
    "steam": "1872680"

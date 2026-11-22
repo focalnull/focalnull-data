@@ -22,6 +22,7 @@
   "ids": {
    "howlongtobeat": "6924",
    "igdb": "parasite-eve",
+   "metacritic": "parasite-eve",
    "mobygames": "3593"
   },
   "label_en": "Parasite Eve",
@@ -115,6 +116,7 @@
   "enwiki": "Showdown: Legends of Wrestling",
   "ids": {
    "igdb": "showdown-legends-of-wrestling",
+   "metacritic": "showdown-legends-of-wrestling",
    "mobygames": "14561"
   },
   "label_en": "Showdown: Legends of Wrestling",
@@ -125,6 +127,7 @@
   "ids": {
    "howlongtobeat": "5119",
    "igdb": "konami-classics-series-arcade-hits",
+   "metacritic": "konami-classics-series-arcade-hits",
    "mobygames": "30380"
   },
   "label_en": "Konami Classics Series: Arcade Hits",
@@ -185,6 +188,7 @@
   "ids": {
    "howlongtobeat": "15226",
    "igdb": "whats-cooking-jamie-oliver",
+   "metacritic": "whats-cooking-with-jamie-oliver",
    "mobygames": "38888"
   },
   "label_en": "What's Cooking? with Jamie Oliver",
@@ -222,6 +226,7 @@
    "gog": "game/vampyr",
    "howlongtobeat": "35857",
    "igdb": "vampyr",
+   "metacritic": "vampyr",
    "mobygames": "109755",
    "pcgamingwiki": "Vampyr",
    "steam": "427290"
@@ -244,7 +249,8 @@
  {
   "ids": {
    "howlongtobeat": "56125",
-   "igdb": "nova-legacy"
+   "igdb": "nova-legacy",
+   "metacritic": "nova-legacy"
   },
   "label_en": "N.O.V.A. Legacy",
   "wikidata": "Q47460750"
@@ -260,6 +266,7 @@
  {
   "ids": {
    "igdb": "wipeout-2",
+   "metacritic": "wipeout-2",
    "mobygames": "53313"
   },
   "label_en": "Wipeout 2",
@@ -318,6 +325,7 @@
   "ids": {
    "howlongtobeat": "39373",
    "igdb": "phantaruk",
+   "metacritic": "phantaruk",
    "mobygames": "85987",
    "pcgamingwiki": "Phantaruk",
    "steam": "468930"
@@ -337,6 +345,7 @@
   "enwiki": "Delbo",
   "ids": {
    "igdb": "delbo",
+   "metacritic": "delbo",
    "mobygames": "87828"
   },
   "label_en": "Delbo",
@@ -374,6 +383,7 @@
   "ids": {
    "howlongtobeat": "109239",
    "igdb": "cocoon",
+   "metacritic": "cocoon",
    "mobygames": "209564",
    "pcgamingwiki": "Cocoon",
    "steam": "1497440"
@@ -479,6 +489,7 @@
    "howlongtobeat": "116067",
    "igdb": "ringlorn-saga",
    "mobygames": "194029",
+   "pcgamingwiki": "Ringlorn_Saga",
    "steam": "2135990"
   },
   "label_en": "Ringlorn Saga",
@@ -755,6 +766,7 @@
   "ids": {
    "howlongtobeat": "144336",
    "igdb": "metropolis-1998",
+   "metacritic": "metropolis-1998",
    "pcgamingwiki": "Metropolis_1998",
    "steam": "2287430"
   },
@@ -910,6 +922,7 @@
   "ids": {
    "howlongtobeat": "138721",
    "igdb": "corpse-party-ii-darkness-distortion",
+   "metacritic": "corpse-party-ii-darkness-distortion",
    "steam": "3254990"
   },
   "label_en": "Corpse Party II: Darkness Distortion",
@@ -920,6 +933,7 @@
   "ids": {
    "howlongtobeat": "169407",
    "igdb": "beast-of-reincarnation",
+   "metacritic": "beast-of-reincarnation",
    "pcgamingwiki": "Beast_of_Reincarnation",
    "steam": "2001760"
   },
@@ -1234,6 +1248,7 @@
  {
   "ids": {
    "igdb": "d-dot-o-g-fight-for-your-life",
+   "metacritic": "d-o-g-fight-for-your-life",
    "mobygames": "10410"
   },
   "label_en": "D.O.G: Fight For Your Life",

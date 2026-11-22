@@ -5,6 +5,7 @@
    "gog": "game/army_men_rts",
    "howlongtobeat": "15643",
    "igdb": "army-men-rts",
+   "metacritic": "army-men-rts",
    "mobygames": "6420",
    "pcgamingwiki": "Army_Men:_RTS",
    "steam": "694500"
@@ -28,6 +29,7 @@
    "gog": "game/beyond_two_souls",
    "howlongtobeat": "1023",
    "igdb": "beyond-two-souls",
+   "metacritic": "beyond-two-souls",
    "mobygames": "62235",
    "pcgamingwiki": "Beyond:_Two_Souls",
    "steam": "960990"
@@ -41,6 +43,7 @@
    "gog": "game/overlord_ii",
    "howlongtobeat": "6850",
    "igdb": "overlord-ii",
+   "metacritic": "overlord-ii",
    "mobygames": "41294",
    "pcgamingwiki": "Overlord_II",
    "steam": "12810"
@@ -53,6 +56,7 @@
   "ids": {
    "howlongtobeat": "5910",
    "igdb": "metal-gear-solid-2-sons-of-liberty",
+   "metacritic": "metal-gear-solid-2-sons-of-liberty",
    "mobygames": "5211",
    "pcgamingwiki": "Metal_Gear_Solid_2:_Sons_of_Liberty_-_Master_Collection_Version"
   },
@@ -64,6 +68,7 @@
   "ids": {
    "howlongtobeat": "3499",
    "igdb": "final-fantasy-iv--1",
+   "metacritic": "final-fantasy-iv",
    "mobygames": "4572"
   },
   "label_en": "Final Fantasy IV",
@@ -74,6 +79,7 @@
   "ids": {
    "howlongtobeat": "5652",
    "igdb": "mario-pinball-land",
+   "metacritic": "mario-pinball-land",
    "mobygames": "15298"
   },
   "label_en": "Mario Pinball Land",
@@ -93,6 +99,7 @@
   "enwiki": "SSX (2000 video game)",
   "ids": {
    "igdb": "ssx",
+   "metacritic": "ssx",
    "mobygames": "3570"
   },
   "label_en": "SSX",
@@ -133,6 +140,7 @@
   "enwiki": "Okage: Shadow King",
   "ids": {
    "igdb": "okage-shadow-king",
+   "metacritic": "okage-shadow-king",
    "mobygames": "5116"
   },
   "label_en": "Okage: Shadow King",
@@ -180,6 +188,7 @@
   "ids": {
    "howlongtobeat": "11830",
    "igdb": "super-bubble-pop",
+   "metacritic": "super-bubble-pop",
    "mobygames": "10211",
    "pcgamingwiki": "Super_Bubble_Pop"
   },
@@ -226,6 +235,7 @@
   "ids": {
    "howlongtobeat": "19077",
    "igdb": "1001-spikes",
+   "metacritic": "1001-spikes",
    "mobygames": "67165",
    "pcgamingwiki": "1001_Spikes",
    "steam": "260790"
@@ -245,6 +255,7 @@
   "enwiki": "Angry Birds Fight!",
   "ids": {
    "igdb": "angry-birds-fight",
+   "metacritic": "angry-birds-fight",
    "mobygames": "73540"
   },
   "label_en": "Angry Birds Fight!",
@@ -275,6 +286,7 @@
    "gog": "game/medieval_lords_soldier_kings_of_europe",
    "igdb": "medieval-lords-soldier-kings-of-europe",
    "mobygames": "421",
+   "pcgamingwiki": "Medieval_Lords:_Soldier_Kings_of_Europe",
    "steam": "3014480"
   },
   "label_en": "Medieval Lords: Soldier Kings of Europe",
@@ -284,6 +296,7 @@
   "ids": {
    "howlongtobeat": "25422",
    "igdb": "forward-to-the-sky",
+   "metacritic": "forward-to-the-sky",
    "mobygames": "96856",
    "pcgamingwiki": "Forward_to_the_Sky",
    "steam": "333250"
@@ -294,6 +307,7 @@
  {
   "ids": {
    "igdb": "combat-medic-special-ops",
+   "metacritic": "combat-medic-special-ops",
    "mobygames": "19994",
    "pcgamingwiki": "Combat_Medic:_Special_Ops",
    "steam": "2418110"
@@ -318,6 +332,7 @@
    "gog": "game/world_of_horror",
    "howlongtobeat": "67201",
    "igdb": "world-of-horror",
+   "metacritic": "world-of-horror",
    "mobygames": "142749",
    "pcgamingwiki": "World_of_Horror",
    "steam": "913740"
@@ -363,6 +378,7 @@
  {
   "ids": {
    "igdb": "mission-humanity",
+   "metacritic": "mission-humanity",
    "mobygames": "6137"
   },
   "label_en": "Mission: Humanity",
@@ -373,6 +389,7 @@
   "ids": {
    "howlongtobeat": "87232",
    "igdb": "warhammer-40000-darktide",
+   "metacritic": "warhammer-40000-darktide",
    "mobygames": "195786",
    "pcgamingwiki": "Warhammer_40,000:_Darktide",
    "steam": "1361210"
@@ -385,6 +402,7 @@
   "ids": {
    "howlongtobeat": "31088",
    "igdb": "the-coma-cutting-class",
+   "metacritic": "the-coma-cutting-class",
    "mobygames": "83527",
    "pcgamingwiki": "The_Coma:_Cutting_Class",
    "steam": "402630"
@@ -409,6 +427,7 @@
    "gog": "game/tainted_grail",
    "howlongtobeat": "94250",
    "igdb": "tainted-grail-conquest",
+   "metacritic": "tainted-grail-conquest",
    "mobygames": "151371",
    "pcgamingwiki": "Tainted_Grail:_Conquest",
    "steam": "1199030"
@@ -432,6 +451,7 @@
    "epic": "aspire-inas-tale-f77a17",
    "howlongtobeat": "101585",
    "igdb": "aspire-inas-tale",
+   "metacritic": "aspire-inas-tale",
    "mobygames": "229285",
    "pcgamingwiki": "Aspire:_Ina's_Tale",
    "steam": "1720090"
@@ -453,6 +473,7 @@
   "ids": {
    "howlongtobeat": "96699",
    "igdb": "slide-stories-nekos-journey",
+   "metacritic": "slide-stories-nekos-journey",
    "mobygames": "181813",
    "steam": "1346250"
   },
@@ -463,6 +484,7 @@
   "ids": {
    "howlongtobeat": "127668",
    "igdb": "amanda-the-adventurer",
+   "metacritic": "amanda-the-adventurer",
    "mobygames": "201367",
    "pcgamingwiki": "Amanda_the_Adventurer",
    "steam": "2166060"
@@ -554,6 +576,7 @@
   "ids": {
    "howlongtobeat": "137803",
    "igdb": "princess-peach-showtime",
+   "metacritic": "princess-peach-showtime",
    "mobygames": "220051"
   },
   "label_en": "Princess Peach: Showtime!",
@@ -985,6 +1008,7 @@
    "gog": "game/formula_legends",
    "howlongtobeat": "167599",
    "igdb": "formula-legends",
+   "metacritic": "formula-legends",
    "mobygames": "248148",
    "pcgamingwiki": "Formula_Legends",
    "steam": "3194360"
@@ -1334,6 +1358,7 @@
  {
   "ids": {
    "igdb": "rise-the-vieneo-province",
+   "pcgamingwiki": "Rise:_The_Vieneo_Province",
    "steam": "795990"
   },
   "label_en": "Rise - The Vieneo Province",

@@ -15,6 +15,7 @@
   "ids": {
    "howlongtobeat": "1256",
    "igdb": "bone-out-from-boneville",
+   "metacritic": "bone-out-from-boneville",
    "mobygames": "19189",
    "pcgamingwiki": "Bone:_Out_From_Boneville",
    "steam": "8310"
@@ -36,6 +37,7 @@
   "ids": {
    "howlongtobeat": "9244",
    "igdb": "street-fighter-iv",
+   "metacritic": "street-fighter-iv",
    "mobygames": "39354",
    "pcgamingwiki": "Street_Fighter_IV",
    "steam": "21660"
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "8855",
    "igdb": "space-invaders-extreme",
+   "metacritic": "space-invaders-extreme",
    "mobygames": "34745",
    "pcgamingwiki": "Space_Invaders_Extreme",
    "steam": "744050"
@@ -59,6 +62,7 @@
   "enwiki": "Dino Stalker",
   "ids": {
    "igdb": "dino-stalker",
+   "metacritic": "dino-stalker",
    "mobygames": "23742"
   },
   "label_en": "Dino Stalker",
@@ -69,6 +73,7 @@
   "ids": {
    "howlongtobeat": "22864",
    "igdb": "athens-2004",
+   "metacritic": "athens-2004",
    "mobygames": "14607",
    "pcgamingwiki": "Athens_2004"
   },
@@ -108,6 +113,7 @@
   "enwiki": "Racing Evoluzione",
   "ids": {
    "igdb": "apex",
+   "metacritic": "apex-2003",
    "mobygames": "17839"
   },
   "label_en": "APEX",
@@ -173,6 +179,7 @@
   "ids": {
    "howlongtobeat": "6569",
    "igdb": "nhl-2k7",
+   "metacritic": "nhl-2k7",
    "mobygames": "46670"
   },
   "label_en": "NHL 2K7",
@@ -244,6 +251,7 @@
   "ids": {
    "howlongtobeat": "70656",
    "igdb": "utawarerumono-zan",
+   "metacritic": "utawarerumono-zan",
    "steam": "3074840"
   },
   "label_en": "Utawarerumono Zan",
@@ -251,7 +259,8 @@
  },
  {
   "ids": {
-   "igdb": "indoor-sports-world"
+   "igdb": "indoor-sports-world",
+   "metacritic": "indoor-sports-world"
   },
   "label_en": "Indoor Sports World",
   "wikidata": "Q61719286"
@@ -290,6 +299,7 @@
   "ids": {
    "howlongtobeat": "68731",
    "igdb": "serious-sam-tormental",
+   "metacritic": "serious-sam-tormental",
    "mobygames": "154631",
    "pcgamingwiki": "Serious_Sam:_Tormental",
    "steam": "640340"
@@ -394,6 +404,7 @@
   "ids": {
    "howlongtobeat": "34268",
    "igdb": "ceres",
+   "metacritic": "ceres",
    "mobygames": "82759",
    "pcgamingwiki": "Ceres",
    "steam": "351300"
@@ -487,6 +498,7 @@
   "ids": {
    "howlongtobeat": "97352",
    "igdb": "table-of-tales-the-crooked-crown",
+   "metacritic": "table-of-tales-the-crooked-crown",
    "steam": "1030310"
   },
   "label_en": "Table of Tales: The Crooked Crown",
@@ -569,6 +581,7 @@
    "gog": "game/inspector_schmidt_a_bavarian_tale",
    "howlongtobeat": "123862",
    "igdb": "inspector-schmidt-a-bavarian-tale",
+   "metacritic": "a-bavarian-tale-totgeschwiegen",
    "mobygames": "196576",
    "steam": "1694560"
   },
@@ -699,7 +712,8 @@
  },
  {
   "ids": {
-   "igdb": "dont-crash"
+   "igdb": "dont-crash",
+   "metacritic": "dont-crash"
   },
   "label_en": "Don't Crash",
   "wikidata": "Q125701286"
@@ -1105,6 +1119,7 @@
  {
   "ids": {
    "igdb": "piczle-lines-dx-plus-a",
+   "pcgamingwiki": "Piczle_Lines_DX+α",
    "steam": "998790"
   },
   "label_en": "Piczle Lines DX+α",
@@ -1125,6 +1140,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Iron_Bramble",
    "steam": "4328820"
   },
   "label_en": "Iron Bramble",

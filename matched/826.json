@@ -23,6 +23,7 @@
   "ids": {
    "howlongtobeat": "10899",
    "igdb": "vanquish",
+   "metacritic": "vanquish",
    "mobygames": "48763",
    "pcgamingwiki": "Vanquish",
    "steam": "460810"
@@ -36,6 +37,7 @@
    "gog": "game/gabriel_knight_2_the_beast_within",
    "howlongtobeat": "3782",
    "igdb": "the-beast-within-a-gabriel-knight-mystery",
+   "metacritic": "the-beast-within-a-gabriel-knight-mystery",
    "mobygames": "118",
    "pcgamingwiki": "The_Beast_Within:_A_Gabriel_Knight_Mystery",
    "steam": "496760"
@@ -77,6 +79,7 @@
   "enwiki": "Jekyll and Hyde (video game)",
   "ids": {
    "igdb": "jekyll-and-hyde",
+   "metacritic": "jekyll-and-hyde-2001",
    "mobygames": "5045"
   },
   "label_en": "Jekyll and Hyde",
@@ -103,6 +106,7 @@
  {
   "ids": {
    "igdb": "kawasaki-snowmobiles",
+   "metacritic": "kawasaki-snowmobiles",
    "mobygames": "30245"
   },
   "label_en": "Kawasaki Snowmobiles",
@@ -113,6 +117,7 @@
   "ids": {
    "howlongtobeat": "21960",
    "igdb": "m-and-ms-adventure",
+   "metacritic": "mms-adventure",
    "mobygames": "91575"
   },
   "label_en": "M&M's Adventure",
@@ -191,6 +196,7 @@
    "gog": "game/hyperdimension_neptunia_rebirth1",
    "howlongtobeat": "20807",
    "igdb": "hyperdimension-neptunia-re-birth1",
+   "metacritic": "hyperdimension-neptunia-rebirth1",
    "mobygames": "79632",
    "pcgamingwiki": "Hyperdimension_Neptunia_Re;Birth_1",
    "steam": "282900"
@@ -223,6 +229,7 @@
    "gog": "game/star_hammer_the_vanguard_prophecy",
    "howlongtobeat": "42072",
    "igdb": "star-hammer-the-vanguard-prophecy",
+   "metacritic": "star-hammer-the-vanguard-prophecy",
    "mobygames": "83794",
    "pcgamingwiki": "Star_Hammer:_The_Vanguard_Prophecy",
    "steam": "337680"
@@ -238,6 +245,7 @@
   "ids": {
    "howlongtobeat": "27891",
    "igdb": "kromaia",
+   "metacritic": "kromaia",
    "mobygames": "91573",
    "pcgamingwiki": "Kromaia",
    "steam": "285980"
@@ -300,6 +308,7 @@
    "epic": "remnant-2",
    "howlongtobeat": "118248",
    "igdb": "remnant-ii",
+   "metacritic": "remnant-ii",
    "mobygames": "206397",
    "pcgamingwiki": "Remnant_II",
    "steam": "1282100"
@@ -313,6 +322,7 @@
    "howlongtobeat": "123552",
    "igdb": "alice-escaped",
    "mobygames": "198648",
+   "pcgamingwiki": "Alice_Escaped!",
    "steam": "1489410"
   },
   "label_en": "Alice Escaped!",
@@ -324,7 +334,9 @@
    "gog": "game/the_smurfs_2_the_prisoner_of_the_green_stone",
    "howlongtobeat": "128830",
    "igdb": "the-smurfs-2-the-prisoner-of-the-green-stone",
+   "metacritic": "the-smurfs-2-the-prisoner-of-the-green-stone",
    "mobygames": "213311",
+   "pcgamingwiki": "The_Smurfs_2:_The_Prisoner_of_the_Green_Stone",
    "steam": "2397500"
   },
   "label_en": "The Smurfs 2: The Prisoner of the Green Stone",
@@ -603,6 +615,7 @@
    "gog": "game/astrea_sixsided_oracles",
    "howlongtobeat": "121206",
    "igdb": "astrea-six-sided-oracles",
+   "metacritic": "astrea-six-sided-oracles",
    "mobygames": "209043",
    "pcgamingwiki": "Astrea:_Six-Sided_Oracles",
    "steam": "1755830"
@@ -1141,6 +1154,7 @@
    "epic": "train-sim-world-7",
    "igdb": "train-sim-world-7",
    "mobygames": "268880",
+   "pcgamingwiki": "Train_Sim_World_7",
    "steam": "4678800"
   },
   "label_en": "Train Sim World 7",

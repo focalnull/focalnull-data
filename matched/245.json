@@ -2,6 +2,7 @@
  {
   "ids": {
    "igdb": "splash-fighters--1",
+   "metacritic": "getamped",
    "mobygames": "120577"
   },
   "label_en": "GetAmped",
@@ -55,6 +56,7 @@
   "ids": {
    "howlongtobeat": "1488",
    "igdb": "call-of-juarez-the-cartel",
+   "metacritic": "call-of-juarez-the-cartel",
    "mobygames": "53289",
    "pcgamingwiki": "Call_of_Juarez:_The_Cartel",
    "steam": "33420"
@@ -75,6 +77,7 @@
   "ids": {
    "howlongtobeat": "6263",
    "igdb": "muramasa-the-demon-blade",
+   "metacritic": "muramasa-the-demon-blade",
    "mobygames": "45323"
   },
   "label_en": "Muramasa: The Demon Blade",
@@ -107,6 +110,7 @@
   "ids": {
    "howlongtobeat": "17574",
    "igdb": "motogp-13",
+   "metacritic": "motogp-13",
    "mobygames": "65348",
    "pcgamingwiki": "MotoGP_13",
    "steam": "240600"
@@ -128,6 +132,7 @@
   "enwiki": "BCT Commander",
   "ids": {
    "igdb": "bct-commander",
+   "metacritic": "bct-commander",
    "mobygames": "69624"
   },
   "label_en": "BCT Commander",
@@ -138,6 +143,7 @@
   "ids": {
    "howlongtobeat": "36769",
    "igdb": "gangstar-miami-vindication",
+   "metacritic": "gangstar-miami-vindication",
    "mobygames": "93534"
   },
   "label_en": "Gangstar: Miami Vindication",
@@ -218,6 +224,7 @@
   "ids": {
    "howlongtobeat": "86115",
    "igdb": "summerland",
+   "metacritic": "summerland",
    "mobygames": "155040",
    "steam": "1444110"
   },
@@ -228,6 +235,7 @@
   "ids": {
    "howlongtobeat": "18251",
    "igdb": "frederic-resurrection-of-music",
+   "metacritic": "frederic-resurrection-of-music",
    "mobygames": "88147",
    "pcgamingwiki": "Frederic:_Resurrection_of_Music",
    "steam": "301190"
@@ -262,6 +270,7 @@
    "gog": "game/drake_hollow",
    "howlongtobeat": "82637",
    "igdb": "drake-hollow",
+   "metacritic": "drake-hollow",
    "mobygames": "149874",
    "pcgamingwiki": "Drake_Hollow",
    "steam": "739650"
@@ -274,6 +283,7 @@
   "ids": {
    "howlongtobeat": "97294",
    "igdb": "park-beyond",
+   "metacritic": "park-beyond",
    "pcgamingwiki": "Park_Beyond",
    "steam": "1368130"
   },
@@ -285,6 +295,7 @@
   "ids": {
    "howlongtobeat": "94132",
    "igdb": "endless-dungeon",
+   "metacritic": "endless-dungeon",
    "mobygames": "210387",
    "pcgamingwiki": "Endless_Dungeon",
    "steam": "1485590"
@@ -341,6 +352,7 @@
    "howlongtobeat": "110130",
    "igdb": "goodbye-world",
    "mobygames": "195349",
+   "pcgamingwiki": "Goodbye_World",
    "steam": "1833490"
   },
   "label_en": "Goodbye World",
@@ -571,7 +583,8 @@
  {
   "ids": {
    "howlongtobeat": "66498",
-   "igdb": "final-fantasy-crystal-chronicles-remastered-edition"
+   "igdb": "final-fantasy-crystal-chronicles-remastered-edition",
+   "metacritic": "final-fantasy-crystal-chronicles-remastered"
   },
   "label_en": "Final Fantasy Crystal Chronicles - Remastered Edition",
   "wikidata": "Q123342245"
@@ -620,6 +633,7 @@
   "ids": {
    "howlongtobeat": "35557",
    "igdb": "et-armies--1",
+   "metacritic": "et-armies",
    "mobygames": "82485",
    "pcgamingwiki": "E.T._Armies",
    "steam": "382420"
@@ -682,6 +696,7 @@
   "ids": {
    "howlongtobeat": "29438",
    "igdb": "traverser",
+   "metacritic": "traverser",
    "mobygames": "98936",
    "pcgamingwiki": "Traverser",
    "steam": "327520"
@@ -734,6 +749,7 @@
  {
   "ids": {
    "igdb": "kiteretsu-soudan-dial",
+   "metacritic": "kiteretsu-soudan-dial",
    "steam": "2901310"
   },
   "label_en": "Kiteretsu Soudan Dial",
@@ -1069,6 +1085,7 @@
  {
   "ids": {
    "igdb": "deja-vu",
+   "pcgamingwiki": "Déjà_Vu",
    "steam": "843710"
   },
   "label_en": "Déjà Vu",

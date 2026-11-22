@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "152",
    "igdb": "a-dot-r-e-dot-s-extinction-agenda",
+   "metacritic": "ares-extinction-agenda",
    "mobygames": "50358",
    "pcgamingwiki": "A.R.E.S.:_Extinction_Agenda",
    "steam": "92300"
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "10044",
    "igdb": "the-legend-of-zelda-the-minish-cap",
+   "metacritic": "the-legend-of-zelda-the-minish-cap",
    "mobygames": "16009"
   },
   "label_en": "The Legend of Zelda: The Minish Cap",
@@ -55,6 +57,7 @@
   "enwiki": "Aliens vs. Predator: Requiem (video game)",
   "ids": {
    "igdb": "aliens-vs-predator-requiem",
+   "metacritic": "aliens-vs-predator-requiem",
    "mobygames": "36757"
   },
   "label_en": "Aliens vs. Predator: Requiem",
@@ -126,6 +129,7 @@
   "enwiki": "Tetris Splash",
   "ids": {
    "igdb": "tetris-splash",
+   "metacritic": "tetris-splash",
    "mobygames": "48600"
   },
   "label_en": "Tetris Splash",
@@ -156,6 +160,7 @@
   "ids": {
    "howlongtobeat": "11246",
    "igdb": "wizorb",
+   "metacritic": "wizorb",
    "mobygames": "57770",
    "pcgamingwiki": "Wizorb",
    "steam": "207420"
@@ -195,6 +200,7 @@
   "ids": {
    "howlongtobeat": "14190",
    "igdb": "rocksmith-2014",
+   "metacritic": "rocksmith-2014-edition",
    "mobygames": "73144",
    "pcgamingwiki": "Rocksmith_2014",
    "steam": "221680"
@@ -207,6 +213,7 @@
   "ids": {
    "howlongtobeat": "17286",
    "igdb": "men-of-war-assault-squad-2",
+   "metacritic": "men-of-war-assault-squad-2",
    "mobygames": "73595",
    "pcgamingwiki": "Men_of_War:_Assault_Squad_2",
    "steam": "244450"
@@ -232,6 +239,7 @@
   "ids": {
    "howlongtobeat": "31994",
    "igdb": "typoman",
+   "metacritic": "typoman",
    "mobygames": "97874",
    "pcgamingwiki": "Typoman:_Revised",
    "steam": "336240"
@@ -244,6 +252,7 @@
   "ids": {
    "howlongtobeat": "51225",
    "igdb": "ghost-of-tsushima",
+   "metacritic": "ghost-of-tsushima",
    "mobygames": "146988"
   },
   "label_en": "Ghost of Tsushima",
@@ -256,6 +265,7 @@
   "enwiki": "Pokémon Alpha Sapphire",
   "ids": {
    "igdb": "pokemon-alpha-sapphire",
+   "metacritic": "pokemon-alpha-sapphire",
    "mobygames": "70943"
   },
   "label_en": "Pokémon Alpha Sapphire",
@@ -305,7 +315,8 @@
  },
  {
   "ids": {
-   "igdb": "aabs-animals"
+   "igdb": "aabs-animals",
+   "metacritic": "aabs-animals"
   },
   "label_en": "Aabs Animals",
   "wikidata": "Q110122798"
@@ -392,6 +403,7 @@
    "epic": "garten-of-banban-4-90cc4c",
    "howlongtobeat": "132422",
    "igdb": "garten-of-banban-4",
+   "metacritic": "garten-of-banban-4",
    "mobygames": "207149",
    "pcgamingwiki": "Garten_of_Banban_4",
    "steam": "2383120"
@@ -782,6 +794,7 @@
   "ids": {
    "howlongtobeat": "51198",
    "igdb": "fim-speedway-grand-prix-15",
+   "metacritic": "fim-speedway-grand-prix-15",
    "mobygames": "137919",
    "pcgamingwiki": "FIM_Speedway_Grand_Prix_15",
    "steam": "348820"
@@ -1251,6 +1264,7 @@
    "gog": "game/graveyard_keeper_2",
    "igdb": "graveyard-keeper-ii",
    "mobygames": "258952",
+   "pcgamingwiki": "Graveyard_Keeper_2",
    "steam": "4358690"
   },
   "label_en": "Graveyard Keeper 2",

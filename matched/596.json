@@ -11,6 +11,7 @@
   "enwiki": "Silent Hill: Downpour",
   "ids": {
    "igdb": "silent-hill-downpour",
+   "metacritic": "silent-hill-downpour",
    "mobygames": "55316"
   },
   "label_en": "Silent Hill: Downpour",
@@ -22,6 +23,7 @@
    "gog": "game/daikatana",
    "howlongtobeat": "2151",
    "igdb": "daikatana",
+   "metacritic": "john-romeros-daikatana",
    "mobygames": "1678",
    "pcgamingwiki": "Daikatana",
    "steam": "242980"
@@ -34,6 +36,7 @@
   "ids": {
    "howlongtobeat": "4182",
    "igdb": "guitar-hero-aerosmith",
+   "metacritic": "guitar-hero-aerosmith",
    "mobygames": "35214",
    "pcgamingwiki": "Guitar_Hero:_Aerosmith"
   },
@@ -64,6 +67,7 @@
   "ids": {
    "howlongtobeat": "3482",
    "igdb": "final-fantasy-anthology",
+   "metacritic": "final-fantasy-anthology",
    "mobygames": "5528"
   },
   "label_en": "Final Fantasy Anthology",
@@ -74,6 +78,7 @@
   "ids": {
    "howlongtobeat": "10848",
    "igdb": "urban-chaos-riot-response",
+   "metacritic": "urban-chaos-riot-response",
    "mobygames": "23537"
   },
   "label_en": "Urban Chaos: Riot Response",
@@ -189,6 +194,7 @@
   "ids": {
    "howlongtobeat": "510",
    "igdb": "antichamber",
+   "metacritic": "antichamber",
    "mobygames": "60167",
    "pcgamingwiki": "Antichamber",
    "steam": "219890"
@@ -200,6 +206,7 @@
   "enwiki": "Generation of Chaos",
   "ids": {
    "igdb": "generation-of-chaos",
+   "metacritic": "generation-of-chaos",
    "mobygames": "36061"
   },
   "label_en": "Generation of Chaos",
@@ -219,6 +226,7 @@
   "ids": {
    "howlongtobeat": "18593",
    "igdb": "making-history-ii-the-war-of-the-world",
+   "metacritic": "making-history-ii-the-war-of-the-world",
    "mobygames": "47190",
    "pcgamingwiki": "Making_History_II:_The_War_of_the_World",
    "steam": "46770"
@@ -292,6 +300,7 @@
   "ids": {
    "howlongtobeat": "3972",
    "igdb": "god-mode",
+   "metacritic": "god-mode",
    "mobygames": "64092",
    "pcgamingwiki": "God_Mode",
    "steam": "227480"
@@ -327,6 +336,7 @@
   "ids": {
    "howlongtobeat": "61653",
    "igdb": "wargroove",
+   "metacritic": "wargroove",
    "mobygames": "121177",
    "pcgamingwiki": "Wargroove",
    "steam": "607050"
@@ -339,6 +349,7 @@
    "gog": "game/enigmatis_the_ghosts_of_maple_creek",
    "howlongtobeat": "18240",
    "igdb": "enigmatis-the-ghosts-of-maple-creek",
+   "metacritic": "enigmatis-the-ghosts-of-maple-creek-collectors-edition",
    "mobygames": "79094",
    "pcgamingwiki": "Enigmatis:_The_Ghosts_of_Maple_Creek",
    "steam": "284750"
@@ -363,6 +374,7 @@
    "gog": "game/the_walking_dead_the_telltale_definitive_series",
    "howlongtobeat": "69341",
    "igdb": "the-walking-dead-the-telltale-definitive-series",
+   "metacritic": "the-walking-dead-the-telltale-definitive-series",
    "mobygames": "134661",
    "pcgamingwiki": "The_Walking_Dead:_The_Telltale_Definitive_Series",
    "steam": "1449690"
@@ -385,6 +397,7 @@
   "ids": {
    "howlongtobeat": "62977",
    "igdb": "the-bradwell-conspiracy",
+   "metacritic": "the-bradwell-conspiracy",
    "mobygames": "135701",
    "pcgamingwiki": "The_Bradwell_Conspiracy",
    "steam": "421790"
@@ -401,6 +414,7 @@
    "epic": "ghostwire-tokyo-prelude",
    "howlongtobeat": "104773",
    "igdb": "ghostwire-tokyo-prelude-the-corrupted-casefile",
+   "metacritic": "ghostwire-tokyo-prelude",
    "mobygames": "180646",
    "pcgamingwiki": "Ghostwire:_Tokyo_-_Prelude",
    "steam": "1817250"
@@ -434,7 +448,9 @@
   "enwiki": "Reverse: 1999",
   "ids": {
    "igdb": "reverse-1999",
+   "metacritic": "reverse-1999",
    "mobygames": "211298",
+   "pcgamingwiki": "Reverse:_1999",
    "steam": "3092660"
   },
   "label_en": "Reverse: 1999",
@@ -805,7 +821,8 @@
  },
  {
   "ids": {
-   "igdb": "now-i-know-my-abcs"
+   "igdb": "now-i-know-my-abcs",
+   "metacritic": "now-i-know-my-abcs"
   },
   "label_en": "Now I Know My ABCs",
   "wikidata": "Q125371596"
@@ -817,6 +834,7 @@
    "gog": "game/caravan_sandwitch",
    "howlongtobeat": "151283",
    "igdb": "caravan-sandwitch",
+   "metacritic": "caravan-sandwitch",
    "mobygames": "230447",
    "pcgamingwiki": "Caravan_SandWitch",
    "steam": "1582650"
@@ -1184,6 +1202,7 @@
  {
   "ids": {
    "igdb": "eurgava-tomb-of-senza",
+   "pcgamingwiki": "Eurgava_-_Tomb_of_Senza",
    "steam": "1035490"
   },
   "label_en": "EURGAVA™: Tomb of Senza",

@@ -33,6 +33,7 @@
    "gog": "game/star_trek_elite_force_ii",
    "howlongtobeat": "9058",
    "igdb": "star-trek-elite-force-ii",
+   "metacritic": "star-trek-elite-force-ii",
    "mobygames": "10170",
    "pcgamingwiki": "Star_Trek:_Elite_Force_II"
   },
@@ -43,6 +44,7 @@
   "enwiki": "From Russia with Love (video game)",
   "ids": {
    "igdb": "james-bond-007-from-russia-with-love",
+   "metacritic": "from-russia-with-love",
    "mobygames": "19879"
   },
   "label_en": "From Russia with Love",
@@ -53,6 +55,7 @@
   "ids": {
    "howlongtobeat": "3453",
    "igdb": "fifa-soccer-2003",
+   "metacritic": "fifa-soccer-2003",
    "mobygames": "8352",
    "pcgamingwiki": "FIFA_Football_2003"
   },
@@ -224,6 +227,7 @@
   "ids": {
    "howlongtobeat": "54235",
    "igdb": "castle-of-shikigami",
+   "metacritic": "castle-of-shikigami",
    "mobygames": "21312",
    "pcgamingwiki": "Castle_of_Shikigami",
    "steam": "582980"
@@ -240,6 +244,7 @@
   "ids": {
    "howlongtobeat": "37724",
    "igdb": "dead-island-retro-revenge",
+   "metacritic": "dead-island-retro-revenge",
    "mobygames": "79148",
    "pcgamingwiki": "Dead_Island:_Retro_Revenge",
    "steam": "337360"
@@ -254,6 +259,7 @@
    "gog": "game/creaks",
    "howlongtobeat": "80572",
    "igdb": "creaks",
+   "metacritic": "creaks",
    "mobygames": "147994",
    "pcgamingwiki": "Creaks",
    "steam": "956030"
@@ -273,6 +279,7 @@
   "ids": {
    "howlongtobeat": "72736",
    "igdb": "the-wanderer-frankensteins-creature",
+   "metacritic": "the-wanderer-frankensteins-creature",
    "mobygames": "147684",
    "pcgamingwiki": "The_Wanderer:_Frankenstein’s_Creature",
    "steam": "966670"
@@ -307,6 +314,7 @@
    "gog": "game/art_of_rally",
    "howlongtobeat": "83381",
    "igdb": "art-of-rally",
+   "metacritic": "art-of-rally",
    "mobygames": "150686",
    "pcgamingwiki": "Art_of_Rally",
    "steam": "550320"
@@ -328,6 +336,7 @@
    "gog": "game/dark_future_blood_red_states",
    "howlongtobeat": "71652",
    "igdb": "dark-future-blood-red-states",
+   "metacritic": "dark-future-blood-red-states",
    "mobygames": "127078",
    "pcgamingwiki": "Dark_Future:_Blood_Red_States",
    "steam": "370870"
@@ -342,6 +351,7 @@
    "gog": "game/tormented_souls",
    "howlongtobeat": "89133",
    "igdb": "tormented-souls",
+   "metacritic": "tormented-souls",
    "mobygames": "170474",
    "pcgamingwiki": "Tormented_Souls",
    "steam": "1367590"
@@ -355,6 +365,7 @@
    "gog": "game/white_shadows",
    "howlongtobeat": "82660",
    "igdb": "white-shadows",
+   "metacritic": "white-shadows",
    "mobygames": "176442",
    "pcgamingwiki": "White_Shadows",
    "steam": "1158890"
@@ -377,6 +388,7 @@
   "ids": {
    "howlongtobeat": "96282",
    "igdb": "a-memoir-blue",
+   "metacritic": "a-memoir-blue",
    "mobygames": "182749",
    "pcgamingwiki": "A_Memoir_Blue",
    "steam": "1497450"
@@ -387,6 +399,7 @@
  {
   "ids": {
    "igdb": "gazmatera-ii-americas-least-wanted",
+   "pcgamingwiki": "Gazmatera_2:_America's_Least_Wanted",
    "steam": "1749480"
   },
   "label_en": "Gazmatera 2 America's Least Wanted",
@@ -441,6 +454,7 @@
   "ids": {
    "howlongtobeat": "74905",
    "igdb": "football-tactics-and-glory",
+   "metacritic": "football-tactics-and-glory",
    "mobygames": "109684",
    "pcgamingwiki": "Football_Tactics",
    "steam": "375530"
@@ -719,7 +733,8 @@
  {
   "enwiki": "Diablo IV: Vessel of Hatred",
   "ids": {
-   "igdb": "diablo-iv-vessel-of-hatred"
+   "igdb": "diablo-iv-vessel-of-hatred",
+   "metacritic": "diablo-iv-vessel-of-hatred"
   },
   "label_en": "Diablo IV: Vessel of Hatred",
   "wikidata": "Q124062005"
@@ -844,6 +859,7 @@
  {
   "ids": {
    "igdb": "batman-arkham-city-armored-edition",
+   "metacritic": "batman-arkham-city-armored-edition",
    "mobygames": "59087"
   },
   "label_en": "Batman: Arkham City – Armored Edition",
@@ -899,6 +915,7 @@
  {
   "ids": {
    "igdb": "sengo-muramasa-dx-guren-no-kettou",
+   "metacritic": "sengo-muramasa-dx-guren-no-kettou",
    "mobygames": "253873"
   },
   "label_en": "Sengo Muramasa -Tsurugi no Gaika-",

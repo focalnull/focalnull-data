@@ -15,6 +15,7 @@
    "epic": "might-and-magic-heroes-6",
    "howlongtobeat": "6020",
    "igdb": "might-magic-heroes-vi",
+   "metacritic": "might-magic-heroes-vi",
    "mobygames": "53640",
    "pcgamingwiki": "Might_&_Magic_Heroes_VI",
    "steam": "48220"
@@ -35,6 +36,7 @@
   "ids": {
    "howlongtobeat": "9282",
    "igdb": "stronghold-legends",
+   "metacritic": "stronghold-legends",
    "mobygames": "27367",
    "pcgamingwiki": "Stronghold_Legends",
    "steam": "40980"
@@ -72,6 +74,7 @@
   "enwiki": "Star Wars: Lethal Alliance",
   "ids": {
    "igdb": "star-wars-lethal-alliance",
+   "metacritic": "star-wars-lethal-alliance",
    "mobygames": "26666"
   },
   "label_en": "Star Wars: Lethal Alliance",
@@ -81,6 +84,7 @@
   "enwiki": "Sonic and the Black Knight",
   "ids": {
    "igdb": "sonic-and-the-black-knight",
+   "metacritic": "sonic-and-the-black-knight",
    "mobygames": "48787"
   },
   "label_en": "Sonic and the Black Knight",
@@ -90,6 +94,7 @@
   "enwiki": "Asheron's Call 2: Fallen Kings",
   "ids": {
    "igdb": "asherons-call-2-fallen-kings",
+   "metacritic": "asherons-call-2-fallen-kings",
    "mobygames": "8011",
    "pcgamingwiki": "Asheron's_Call_2:_Fallen_Kings"
   },
@@ -118,6 +123,7 @@
   "enwiki": "Mobile Suit Gundam: Encounters in Space",
   "ids": {
    "igdb": "mobile-suit-gundam-encounters-in-space",
+   "metacritic": "mobile-suit-gundam-encounters-in-space",
    "mobygames": "47357"
   },
   "label_en": "Mobile Suit Gundam: Encounters in Space",
@@ -147,6 +153,7 @@
   "ids": {
    "howlongtobeat": "427",
    "igdb": "america-s-army-rise-of-a-soldier",
+   "metacritic": "americas-army-rise-of-a-soldier",
    "mobygames": "21333"
   },
   "label_en": "America's Army: Rise of a Soldier",
@@ -303,6 +310,7 @@
   "ids": {
    "howlongtobeat": "42127",
    "igdb": "i-expect-you-to-die",
+   "metacritic": "i-expect-you-to-die",
    "mobygames": "87557",
    "pcgamingwiki": "I_Expect_You_To_Die",
    "steam": "587430"
@@ -325,6 +333,7 @@
   "ids": {
    "howlongtobeat": "59868",
    "igdb": "the-persistence",
+   "metacritic": "the-persistence",
    "mobygames": "111662",
    "pcgamingwiki": "The_Persistence",
    "steam": "1140100"
@@ -396,6 +405,7 @@
  {
   "ids": {
    "igdb": "vacation-adventures-park-ranger-12",
+   "metacritic": "vacation-adventures-park-ranger-12",
    "steam": "1710970"
   },
   "label_en": "Vacation Adventures: Park Ranger 12",
@@ -424,6 +434,7 @@
   "ids": {
    "howlongtobeat": "129962",
    "igdb": "towerborne",
+   "metacritic": "towerborne",
    "mobygames": "231604",
    "pcgamingwiki": "Towerborne",
    "steam": "2458830"
@@ -514,6 +525,7 @@
   "ids": {
    "howlongtobeat": "68996",
    "igdb": "solseraph",
+   "metacritic": "solseraph",
    "mobygames": "129578",
    "pcgamingwiki": "SolSeraph",
    "steam": "834800"
@@ -853,6 +865,7 @@
  {
   "ids": {
    "igdb": "iron-roads",
+   "metacritic": "iron-roads",
    "steam": "2171550"
   },
   "label_en": "Iron Roads",

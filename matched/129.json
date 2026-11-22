@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2924",
    "igdb": "duke-nukem-forever",
+   "metacritic": "duke-nukem-forever",
    "mobygames": "51862",
    "pcgamingwiki": "Duke_Nukem_Forever",
    "steam": "57900"
@@ -17,6 +18,7 @@
    "gog": "game/call_of_juarez_bound_in_blood",
    "howlongtobeat": "1486",
    "igdb": "call-of-juarez-bound-in-blood",
+   "metacritic": "call-of-juarez-bound-in-blood",
    "mobygames": "41402",
    "pcgamingwiki": "Call_of_Juarez:_Bound_in_Blood",
    "steam": "21980"
@@ -28,6 +30,7 @@
   "enwiki": "The Simpsons Wrestling",
   "ids": {
    "igdb": "the-simpsons-wrestling",
+   "metacritic": "the-simpsons-wrestling",
    "mobygames": "3526"
   },
   "label_en": "The Simpsons Wrestling",
@@ -44,6 +47,7 @@
    "epic": "rignroll-522598",
    "howlongtobeat": "7817",
    "igdb": "rignroll",
+   "metacritic": "rignroll",
    "mobygames": "47078",
    "pcgamingwiki": "Rig_'n'_Roll",
    "steam": "46370"
@@ -66,6 +70,7 @@
   "ids": {
    "howlongtobeat": "9759",
    "igdb": "the-amazing-spider-man",
+   "metacritic": "the-amazing-spider-man",
    "mobygames": "62406",
    "pcgamingwiki": "The_Amazing_Spider-Man_(2012)",
    "steam": "212580"
@@ -96,6 +101,7 @@
   "ids": {
    "howlongtobeat": "4952",
    "igdb": "kengo-master-of-bushido",
+   "metacritic": "kengo-master-of-bushido",
    "mobygames": "37560"
   },
   "label_en": "Kengo: Master of Bushido",
@@ -169,6 +175,7 @@
   "enwiki": "Kidz Sports Crazy Mini Golf",
   "ids": {
    "igdb": "kidz-sports-crazy-golf",
+   "metacritic": "kidz-sports-crazy-golf",
    "mobygames": "91488"
   },
   "label_en": "Kidz Sports Crazy Mini Golf",
@@ -179,6 +186,7 @@
   "ids": {
    "howlongtobeat": "7927",
    "igdb": "rocket-riot",
+   "metacritic": "rocket-riot",
    "mobygames": "42688",
    "pcgamingwiki": "Rocket_Riot",
    "steam": "460190"
@@ -227,6 +235,7 @@
    "gog": "game/stories_untold",
    "howlongtobeat": "43847",
    "igdb": "stories-untold",
+   "metacritic": "stories-untold",
    "mobygames": "86608",
    "pcgamingwiki": "Stories_Untold",
    "steam": "558420"
@@ -243,6 +252,7 @@
   "ids": {
    "howlongtobeat": "64993",
    "igdb": "astral-chain",
+   "metacritic": "astral-chain",
    "mobygames": "122211"
   },
   "label_en": "Astral Chain",
@@ -263,6 +273,7 @@
   "ids": {
    "howlongtobeat": "103356",
    "igdb": "monkey-king-saga",
+   "metacritic": "monkey-king-saga",
    "mobygames": "209251",
    "pcgamingwiki": "Monkey_King_Saga",
    "steam": "417350"
@@ -279,6 +290,7 @@
   "ids": {
    "howlongtobeat": "110803",
    "igdb": "madden-nfl-23",
+   "metacritic": "madden-nfl-23",
    "mobygames": "189785",
    "pcgamingwiki": "Madden_NFL_23",
    "steam": "1760250"
@@ -332,6 +344,7 @@
    "epic": "fashion-police-squad",
    "howlongtobeat": "96587",
    "igdb": "fashion-police-squad",
+   "metacritic": "fashion-police-squad",
    "mobygames": "189545",
    "pcgamingwiki": "Fashion_Police_Squad",
    "steam": "1319460"
@@ -1066,6 +1079,7 @@
  {
   "ids": {
    "igdb": "reboot",
+   "pcgamingwiki": "ReBoot_(2016)",
    "steam": "533890"
   },
   "label_en": "ReBoot",
@@ -1082,6 +1096,7 @@
  {
   "ids": {
    "igdb": "koboldkare--1",
+   "pcgamingwiki": "KoboldKare",
    "steam": "1102930"
   },
   "label_en": "KoboldKare",

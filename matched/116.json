@@ -12,6 +12,7 @@
   "enwiki": "Desperate Housewives: The Game (2006 video game)",
   "ids": {
    "igdb": "desperate-housewives-the-game",
+   "metacritic": "desperate-housewives-the-game",
    "mobygames": "26540"
   },
   "label_en": "Desperate Housewives: The Game",
@@ -32,6 +33,7 @@
   "ids": {
    "howlongtobeat": "4050",
    "igdb": "grand-ages-rome",
+   "metacritic": "grand-ages-rome",
    "mobygames": "42208",
    "pcgamingwiki": "Grand_Ages:_Rome",
    "steam": "23450"
@@ -44,6 +46,7 @@
   "ids": {
    "howlongtobeat": "7427",
    "igdb": "puzzle-quest-challenge-of-the-warlords",
+   "metacritic": "puzzle-quest-challenge-of-the-warlords",
    "mobygames": "27422",
    "pcgamingwiki": "Puzzle_Quest:_Challenge_of_the_Warlords",
    "steam": "12500"
@@ -67,6 +70,7 @@
    "gog": "game/aquanox_2_revelation",
    "howlongtobeat": "531",
    "igdb": "aquanox-2-revelation",
+   "metacritic": "aquanox-2-revelation",
    "mobygames": "10008",
    "pcgamingwiki": "AquaNox_2:_Revelation",
    "steam": "39640"
@@ -113,6 +117,7 @@
   "enwiki": "Mysterious Journey II",
   "ids": {
    "igdb": "mysterious-journey-ii",
+   "metacritic": "mysterious-journey-ii",
    "mobygames": "11221",
    "pcgamingwiki": "Mysterious_Journey_II:_Chameleon"
   },
@@ -167,6 +172,7 @@
   "ids": {
    "howlongtobeat": "6308",
    "igdb": "myst",
+   "metacritic": "myst",
    "mobygames": "1223",
    "pcgamingwiki": "Myst"
   },
@@ -216,6 +222,7 @@
   "ids": {
    "howlongtobeat": "35284",
    "igdb": "nights-of-azure",
+   "metacritic": "nights-of-azure",
    "mobygames": "83407",
    "pcgamingwiki": "Nights_of_Azure",
    "steam": "527280"
@@ -284,6 +291,7 @@
   "enwiki": "Real World Golf",
   "ids": {
    "igdb": "real-world-golf",
+   "metacritic": "real-world-golf",
    "mobygames": "39329"
   },
   "label_en": "Real World Golf",
@@ -527,6 +535,7 @@
   "ids": {
    "howlongtobeat": "112853",
    "igdb": "ravenbound",
+   "metacritic": "ravenbound",
    "mobygames": "201128",
    "steam": "1307660"
   },
@@ -688,6 +697,7 @@
   "ids": {
    "howlongtobeat": "42639",
    "igdb": "the-collider-2",
+   "metacritic": "the-collider-2",
    "mobygames": "131962",
    "pcgamingwiki": "The_Collider_2",
    "steam": "357010"
@@ -709,6 +719,7 @@
  {
   "ids": {
    "igdb": "tall-twins-tower",
+   "metacritic": "tall-twins-tower",
    "mobygames": "35664"
   },
   "label_en": "Tall: Twins Tower",
@@ -1040,6 +1051,7 @@
  {
   "ids": {
    "igdb": "megapolis",
+   "pcgamingwiki": "Megapolis",
    "steam": "485080"
   },
   "label_en": "Megapolis",
@@ -1071,7 +1083,8 @@
  },
  {
   "ids": {
-   "igdb": "off-the-grid-bad-dream--1"
+   "igdb": "off-the-grid-bad-dream--1",
+   "metacritic": "off-the-grid-bad-dream"
   },
   "label_en": "Off The Grid: Bad Dream",
   "wikidata": "Q138755116"

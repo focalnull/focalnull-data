@@ -5,6 +5,7 @@
    "gog": "game/amnesia_memories",
    "howlongtobeat": "29333",
    "igdb": "amnesia",
+   "metacritic": "amnesia-memories",
    "mobygames": "75385",
    "pcgamingwiki": "Amnesia:_Memories",
    "steam": "359390"
@@ -18,6 +19,7 @@
    "gog": "game/de_blob",
    "howlongtobeat": "2295",
    "igdb": "de-blob",
+   "metacritic": "de-blob",
    "mobygames": "36804",
    "pcgamingwiki": "De_Blob",
    "steam": "532320"
@@ -51,6 +53,7 @@
   "ids": {
    "howlongtobeat": "4841",
    "igdb": "jfk-reloaded",
+   "metacritic": "jfk-reloaded",
    "mobygames": "15644",
    "pcgamingwiki": "JFK_Reloaded"
   },
@@ -63,6 +66,7 @@
    "gog": "game/fear_2_project_origin_reborn",
    "howlongtobeat": "3294",
    "igdb": "f-e-a-r-2-project-origin",
+   "metacritic": "f-e-a-r-2-project-origin",
    "mobygames": "39245",
    "pcgamingwiki": "F.E.A.R._2:_Project_Origin",
    "steam": "16450"
@@ -159,6 +163,7 @@
   "ids": {
    "howlongtobeat": "8375",
    "igdb": "shonen-jumps-shaman-king-master-of-spirits-2",
+   "metacritic": "shaman-king-master-of-spirits-2",
    "mobygames": "18794"
   },
   "label_en": "Shaman King: Master of Spirits 2",
@@ -199,6 +204,7 @@
  },
  {
   "ids": {
+   "metacritic": "bonus",
    "mobygames": "40537"
   },
   "label_en": "Bonus",
@@ -229,6 +235,7 @@
   "ids": {
    "howlongtobeat": "17993",
    "igdb": "tabletop-simulator",
+   "metacritic": "tabletop-simulator",
    "mobygames": "86214",
    "pcgamingwiki": "Tabletop_Simulator",
    "steam": "286160"
@@ -242,6 +249,7 @@
    "gog": "game/the_guild_3",
    "howlongtobeat": "51377",
    "igdb": "the-guild-3",
+   "metacritic": "the-guild-3",
    "mobygames": "96546",
    "pcgamingwiki": "The_Guild_3",
    "steam": "311260"
@@ -254,6 +262,7 @@
   "ids": {
    "howlongtobeat": "50824",
    "igdb": "atomega",
+   "metacritic": "atomega",
    "mobygames": "96121",
    "pcgamingwiki": "Atomega",
    "steam": "619880"
@@ -275,7 +284,9 @@
   "ids": {
    "howlongtobeat": "53142",
    "igdb": "final-fantasy-xv-pocket-edition",
-   "mobygames": "103013"
+   "metacritic": "final-fantasy-xv-pocket-edition",
+   "mobygames": "103013",
+   "pcgamingwiki": "Final_Fantasy_XV_Pocket_Edition"
   },
   "label_en": "Final Fantasy XV: Pocket Edition",
   "wikidata": "Q48734409"
@@ -288,6 +299,7 @@
   "ids": {
    "howlongtobeat": "73543",
    "igdb": "linx-battle-arena",
+   "metacritic": "linx-battle-arena",
    "mobygames": "96790",
    "pcgamingwiki": "Linx_Battle_Arena",
    "steam": "697370"
@@ -301,6 +313,7 @@
    "epic": "insurgency-sandstorm",
    "howlongtobeat": "59836",
    "igdb": "insurgency-sandstorm",
+   "metacritic": "insurgency-sandstorm",
    "mobygames": "118692",
    "pcgamingwiki": "Insurgency:_Sandstorm",
    "steam": "581320"
@@ -312,6 +325,7 @@
   "ids": {
    "howlongtobeat": "23869",
    "igdb": "nightmares-from-the-deep-3-davy-jones",
+   "metacritic": "nightmares-from-the-deep-3-davy-jones",
    "mobygames": "81131",
    "pcgamingwiki": "Nightmares_from_the_Deep_3:_Davy_Jones",
    "steam": "284810"
@@ -409,6 +423,7 @@
    "gog": "game/terraformers",
    "howlongtobeat": "100063",
    "igdb": "terraformers",
+   "metacritic": "terraformers",
    "mobygames": "183295",
    "pcgamingwiki": "Terraformers",
    "steam": "1244800"
@@ -472,6 +487,7 @@
   "ids": {
    "howlongtobeat": "53953",
    "igdb": "legendary-gary",
+   "metacritic": "legendary-gary",
    "mobygames": "154369",
    "pcgamingwiki": "Legendary_Gary",
    "steam": "688070"
@@ -484,6 +500,7 @@
   "ids": {
    "howlongtobeat": "4681",
    "igdb": "inferno-pool",
+   "metacritic": "inferno-pool",
    "mobygames": "152147"
   },
   "label_en": "Inferno Pool",
@@ -718,6 +735,7 @@
   "ids": {
    "howlongtobeat": "67680",
    "igdb": "ashes-of-creation-apocalypse",
+   "metacritic": "ashes-of-creation-apocalypse-2019",
    "mobygames": "196195",
    "pcgamingwiki": "Ashes_of_Creation_Apocalypse",
    "steam": "1133430"
@@ -1203,6 +1221,7 @@
  {
   "ids": {
    "igdb": "night-shift--1",
+   "pcgamingwiki": "Night_Shift_(2015)",
    "steam": "301050"
   },
   "label_en": "Night Shift",

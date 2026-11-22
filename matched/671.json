@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4075",
    "igdb": "grand-theft-auto-vice-city",
+   "metacritic": "grand-theft-auto-vice-city",
    "mobygames": "7626",
    "pcgamingwiki": "Grand_Theft_Auto:_Vice_City",
    "steam": "12110"
@@ -17,6 +18,7 @@
    "gog": "game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored",
    "howlongtobeat": "5275",
    "igdb": "leisure-suit-larry-magna-cum-laude",
+   "metacritic": "leisure-suit-larry-magna-cum-laude",
    "mobygames": "15118",
    "pcgamingwiki": "Leisure_Suit_Larry:_Magna_Cum_Laude",
    "steam": "765900"
@@ -29,6 +31,7 @@
   "ids": {
    "howlongtobeat": "3512",
    "igdb": "final-fantasy-tactics-a2-grimoire-of-the-rift",
+   "metacritic": "final-fantasy-tactics-a2-grimoire-of-the-rift",
    "mobygames": "34962"
   },
   "label_en": "Final Fantasy Tactics A2: Grimoire of the Rift",
@@ -39,6 +42,7 @@
   "ids": {
    "howlongtobeat": "1322",
    "igdb": "breath-of-fire-dragon-quarter",
+   "metacritic": "breath-of-fire-dragon-quarter",
    "mobygames": "8472"
   },
   "label_en": "Breath of Fire: Dragon Quarter",
@@ -67,6 +71,7 @@
   "ids": {
    "howlongtobeat": "7421",
    "igdb": "puzzle-kingdoms",
+   "metacritic": "puzzle-kingdoms",
    "mobygames": "41383",
    "pcgamingwiki": "Puzzle_Kingdoms",
    "steam": "23700"
@@ -90,6 +95,7 @@
    "gog": "game/bittrip_flux",
    "howlongtobeat": "1083",
    "igdb": "bit-dot-trip-flux",
+   "metacritic": "bit-trip-flux",
    "mobygames": "53031",
    "pcgamingwiki": "Bit.Trip_Flux",
    "steam": "205090"
@@ -134,6 +140,7 @@
   "ids": {
    "howlongtobeat": "12304",
    "igdb": "gemini-wars",
+   "metacritic": "gemini-wars",
    "mobygames": "56361",
    "pcgamingwiki": "Gemini_Wars",
    "steam": "216130"
@@ -206,6 +213,7 @@
   "ids": {
    "howlongtobeat": "16887",
    "igdb": "assetto-corsa",
+   "metacritic": "assetto-corsa",
    "mobygames": "70429",
    "pcgamingwiki": "Assetto_Corsa",
    "steam": "244210"
@@ -235,6 +243,7 @@
   "ids": {
    "howlongtobeat": "13406",
    "igdb": "electronic-super-joy",
+   "metacritic": "electronic-super-joy",
    "mobygames": "63816",
    "pcgamingwiki": "Electronic_Super_Joy",
    "steam": "244870"
@@ -247,6 +256,7 @@
   "ids": {
    "howlongtobeat": "10161",
    "igdb": "the-sea-will-claim-everything",
+   "metacritic": "the-sea-will-claim-everything",
    "mobygames": "60980",
    "pcgamingwiki": "The_Sea_Will_Claim_Everything",
    "steam": "337720"
@@ -260,6 +270,7 @@
    "gog": "game/the_inner_world",
    "howlongtobeat": "13782",
    "igdb": "the-inner-world",
+   "metacritic": "the-inner-world",
    "mobygames": "64584",
    "pcgamingwiki": "The_Inner_World",
    "steam": "251430"
@@ -273,6 +284,7 @@
    "gog": "game/freedom_planet",
    "howlongtobeat": "21672",
    "igdb": "freedom-planet",
+   "metacritic": "freedom-planet",
    "mobygames": "74215",
    "pcgamingwiki": "Freedom_Planet",
    "steam": "248310"
@@ -313,6 +325,7 @@
   "ids": {
    "howlongtobeat": "42833",
    "igdb": "super-mario-odyssey",
+   "metacritic": "super-mario-odyssey",
    "mobygames": "96127"
   },
   "label_en": "Super Mario Odyssey",
@@ -334,6 +347,7 @@
    "gog": "game/xiii_remake",
    "howlongtobeat": "84972",
    "igdb": "xiii--1",
+   "metacritic": "xiii-remake",
    "mobygames": "153167",
    "pcgamingwiki": "XIII_(2020)",
    "steam": "1154790"
@@ -392,6 +406,7 @@
    "gog": "game/new_super_luckys_tale",
    "howlongtobeat": "71552",
    "igdb": "new-super-luckys-tale",
+   "metacritic": "new-super-luckys-tale",
    "mobygames": "137007",
    "pcgamingwiki": "New_Super_Lucky's_Tale",
    "steam": "1038300"
@@ -414,7 +429,8 @@
   "enwiki": "WarioWare: Get It Together!",
   "ids": {
    "howlongtobeat": "94076",
-   "igdb": "warioware-get-it-together"
+   "igdb": "warioware-get-it-together",
+   "metacritic": "warioware-get-it-together"
   },
   "label_en": "WarioWare: Get It Together!",
   "wikidata": "Q107255671"
@@ -446,6 +462,7 @@
   "ids": {
    "howlongtobeat": "86619",
    "igdb": "ragnarock",
+   "metacritic": "ragnarock",
    "mobygames": "167758",
    "steam": "1345820"
   },
@@ -457,6 +474,7 @@
    "gog": "game/undead_darlings",
    "howlongtobeat": "83801",
    "igdb": "undead-darlings-no-cure-for-love",
+   "metacritic": "undead-darlings-no-cure-for-love",
    "mobygames": "150948",
    "pcgamingwiki": "Undead_Darlings:_No_Cure_for_Love",
    "steam": "1294970"
@@ -484,6 +502,7 @@
   "ids": {
    "howlongtobeat": "59381",
    "igdb": "trivia-vault-olympics-trivia",
+   "metacritic": "trivia-vault-olympics-trivia",
    "pcgamingwiki": "Trivia_Vault:_Olympics_Trivia",
    "steam": "805880"
   },
@@ -766,6 +785,7 @@
   "ids": {
    "howlongtobeat": "116795",
    "igdb": "kukoos-lost-pets",
+   "metacritic": "kukoos-lost-pets",
    "mobygames": "197435",
    "pcgamingwiki": "Kukoos:_Lost_Pets",
    "steam": "1468250"
@@ -1255,7 +1275,8 @@
  {
   "ids": {
    "howlongtobeat": "39706",
-   "igdb": "twelve-a-dozen"
+   "igdb": "twelve-a-dozen",
+   "metacritic": "twelve-a-dozen"
   },
   "label_en": "Twelve a Dozen",
   "wikidata": "Q136342671"

@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "11081",
    "igdb": "warlock-master-of-the-arcane",
+   "metacritic": "warlock-master-of-the-arcane",
    "mobygames": "57405",
    "pcgamingwiki": "Warlock:_Master_of_the_Arcane",
    "steam": "203630"
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "13896",
    "igdb": "mushihimesama",
+   "metacritic": "mushihimesama",
    "mobygames": "33504",
    "pcgamingwiki": "Mushihimesama",
    "steam": "377860"
@@ -66,6 +68,7 @@
   "ids": {
    "howlongtobeat": "6619",
    "igdb": "ninja-gaiden",
+   "metacritic": "ninja-gaiden",
    "mobygames": "16619"
   },
   "label_en": "Ninja Gaiden",
@@ -101,6 +104,7 @@
   "ids": {
    "howlongtobeat": "4361",
    "igdb": "headhunter",
+   "metacritic": "headhunter",
    "mobygames": "5351"
   },
   "label_en": "Headhunter",
@@ -147,6 +151,7 @@
   "enwiki": "Omega Five",
   "ids": {
    "igdb": "omega-five",
+   "metacritic": "omega-five",
    "mobygames": "34139"
   },
   "label_en": "Omega Five",
@@ -222,6 +227,7 @@
  {
   "enwiki": "Mario Golf (GBC video game)",
   "ids": {
+   "metacritic": "mario-golf",
    "mobygames": "21319"
   },
   "label_en": "Mario Golf",
@@ -234,6 +240,7 @@
   "enwiki": "Yo-kai Watch (video game)",
   "ids": {
    "igdb": "yo-kai-watch",
+   "metacritic": "yo-kai-watch",
    "mobygames": "84557"
   },
   "label_en": "Yo-kai Watch",
@@ -299,6 +306,7 @@
    "gog": "game/destroy_all_humans",
    "howlongtobeat": "68042",
    "igdb": "destroy-all-humans--1",
+   "metacritic": "destroy-all-humans",
    "mobygames": "146929",
    "pcgamingwiki": "Destroy_All_Humans!",
    "steam": "803330"
@@ -310,6 +318,7 @@
   "ids": {
    "howlongtobeat": "44235",
    "igdb": "forma-dot-8",
+   "metacritic": "forma8",
    "mobygames": "84984",
    "pcgamingwiki": "Forma.8",
    "steam": "510240"
@@ -321,6 +330,7 @@
   "ids": {
    "howlongtobeat": "36707",
    "igdb": "ace-of-seafood",
+   "metacritic": "ace-of-seafood",
    "mobygames": "97913",
    "pcgamingwiki": "Ace_of_Seafood",
    "steam": "450500"
@@ -438,6 +448,7 @@
    "gog": "game/trine_5",
    "howlongtobeat": "127562",
    "igdb": "trine-5-a-clockwork-conspiracy",
+   "metacritic": "trine-5-a-clockwork-conspiracy",
    "mobygames": "207994",
    "pcgamingwiki": "Trine_5:_A_Clockwork_Conspiracy",
    "steam": "1436700"
@@ -643,6 +654,7 @@
   "ids": {
    "howlongtobeat": "86234",
    "igdb": "depixtion",
+   "metacritic": "depixtion",
    "mobygames": "142310",
    "pcgamingwiki": "Depixtion",
    "steam": "1092780"
@@ -1215,7 +1227,9 @@
  {
   "ids": {
    "igdb": "librarian-tidy-up-the-arcane-library",
+   "metacritic": "librarian-tidy-up-the-arcane-library",
    "mobygames": "260312",
+   "pcgamingwiki": "Librarian:_Tidy_Up_the_Arcane_Library!",
    "steam": "4197610"
   },
   "label_en": "Librarian: Tidy Up the Arcane Library!",

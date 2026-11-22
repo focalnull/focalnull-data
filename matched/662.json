@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "10415",
    "igdb": "tokyo-jungle",
+   "metacritic": "tokyo-jungle",
    "mobygames": "80117"
   },
   "label_en": "Tokyo Jungle",
@@ -24,6 +25,7 @@
    "gog": "game/bastion",
    "howlongtobeat": "869",
    "igdb": "bastion",
+   "metacritic": "bastion",
    "mobygames": "53411",
    "pcgamingwiki": "Bastion",
    "steam": "107100"
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "381",
    "igdb": "aliens-vs-predator",
+   "metacritic": "aliens-vs-predator",
    "mobygames": "45560",
    "pcgamingwiki": "Aliens_vs._Predator_(2010)",
    "steam": "10680"
@@ -127,6 +130,7 @@
   "ids": {
    "howlongtobeat": "8169",
    "igdb": "scary-girl",
+   "metacritic": "scarygirl",
    "mobygames": "56409",
    "pcgamingwiki": "Scary_Girl",
    "steam": "202370"
@@ -140,6 +144,7 @@
    "gog": "game/rage_of_mages_ii_necromancer",
    "howlongtobeat": "15322",
    "igdb": "rage-of-mages-ii-necromancer",
+   "metacritic": "rage-of-mages-ii-necromancer",
    "mobygames": "6811",
    "pcgamingwiki": "Rage_of_Mages_2:_Necromancer"
   },
@@ -281,6 +286,7 @@
   "ids": {
    "howlongtobeat": "14120",
    "igdb": "eldritch",
+   "metacritic": "eldritch",
    "mobygames": "62252",
    "pcgamingwiki": "Eldritch",
    "steam": "252630"
@@ -303,6 +309,7 @@
   "ids": {
    "howlongtobeat": "32290",
    "igdb": "one-more-dungeon",
+   "metacritic": "one-more-dungeon",
    "mobygames": "97212",
    "pcgamingwiki": "One_More_Dungeon",
    "steam": "415030"
@@ -321,6 +328,7 @@
  },
  {
   "ids": {
+   "metacritic": "caterpillar",
    "mobygames": "51209",
    "pcgamingwiki": "Caterpillar"
   },
@@ -342,6 +350,7 @@
   "ids": {
    "howlongtobeat": "33593",
    "igdb": "chime-sharp",
+   "metacritic": "chime-sharp",
    "mobygames": "79677",
    "pcgamingwiki": "Chime_Sharp",
    "steam": "326520"
@@ -353,6 +362,7 @@
   "ids": {
    "howlongtobeat": "36401",
    "igdb": "nuts",
+   "metacritic": "nuts-2021",
    "mobygames": "157931",
    "pcgamingwiki": "Nuts",
    "steam": "768450"
@@ -372,6 +382,7 @@
   "ids": {
    "howlongtobeat": "107431",
    "igdb": "monster-energy-supercross-the-official-videogame-5",
+   "metacritic": "monster-energy-supercross-the-official-videogame-5",
    "mobygames": "181438",
    "steam": "1610460"
   },
@@ -439,6 +450,7 @@
   "ids": {
    "howlongtobeat": "49531",
    "igdb": "trivia-vault-super-heroes-trivia",
+   "metacritic": "trivia-vault-super-heroes-trivia",
    "pcgamingwiki": "Trivia_Vault:_Super_Heroes_Trivia",
    "steam": "687490"
   },
@@ -730,6 +742,7 @@
   "ids": {
    "howlongtobeat": "46327",
    "igdb": "bokida-heartfelt-reunion",
+   "metacritic": "bokida-heartfelt-reunion",
    "mobygames": "89047",
    "pcgamingwiki": "Bokida_-_Heartfelt_Reunion",
    "steam": "612740"
@@ -1081,6 +1094,7 @@
  {
   "ids": {
    "igdb": "widen",
+   "metacritic": "widen",
    "steam": "2759940"
   },
   "label_en": "WIDEN",
@@ -1194,6 +1208,7 @@
  {
   "ids": {
    "igdb": "fighting-moore",
+   "pcgamingwiki": "Fighting_Moore",
    "steam": "1166130"
   },
   "label_en": "Fighting Moore",
@@ -1230,5 +1245,12 @@
   },
   "label_en": "Iron Legacy",
   "wikidata": "Q141481662"
+ },
+ {
+  "ids": {
+   "igdb": "halfdrawn"
+  },
+  "label_en": "Halfdrawn",
+  "wikidata": "Q142212662"
  }
 ]

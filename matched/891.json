@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "6238",
    "igdb": "motorstorm-pacific-rift",
+   "metacritic": "motorstorm-pacific-rift",
    "mobygames": "40770"
   },
   "label_en": "MotorStorm: Pacific Rift",
@@ -32,6 +33,7 @@
   "ids": {
    "howlongtobeat": "10426",
    "igdb": "tom-clancy-s-ghost-recon-2",
+   "metacritic": "tom-clancys-ghost-recon-2",
    "mobygames": "20446"
   },
   "label_en": "Tom Clancy's Ghost Recon 2",
@@ -57,6 +59,7 @@
   "ids": {
    "howlongtobeat": "2241",
    "igdb": "darkness-within-in-pursuit-of-loath-nolder",
+   "metacritic": "darkness-within-in-pursuit-of-loath-nolder",
    "mobygames": "31118",
    "pcgamingwiki": "Darkness_Within:_In_Pursuit_of_Loath_Nolder",
    "steam": "298930"
@@ -163,6 +166,7 @@
   "ids": {
    "howlongtobeat": "2623",
    "igdb": "disneys-tarzan",
+   "metacritic": "disneys-tarzan",
    "mobygames": "1308",
    "pcgamingwiki": "Tarzan_(1999)"
   },
@@ -251,6 +255,7 @@
   "enwiki": "Monopoly Party",
   "ids": {
    "igdb": "monopoly-party",
+   "metacritic": "monopoly-party",
    "mobygames": "8587"
   },
   "label_en": "Monopoly Party!",
@@ -303,6 +308,7 @@
   "ids": {
    "howlongtobeat": "33549",
    "igdb": "that-dragon-cancer",
+   "metacritic": "that-dragon-cancer",
    "mobygames": "77156",
    "pcgamingwiki": "That_Dragon,_Cancer",
    "steam": "419460"
@@ -323,6 +329,7 @@
   "ids": {
    "howlongtobeat": "16851",
    "igdb": "girls-like-robots",
+   "metacritic": "girls-like-robots",
    "mobygames": "99361",
    "pcgamingwiki": "Girls_Like_Robots",
    "steam": "263460"
@@ -339,6 +346,7 @@
   "ids": {
    "howlongtobeat": "33860",
    "igdb": "lego-marvels-avengers",
+   "metacritic": "lego-marvels-avengers",
    "mobygames": "78851",
    "pcgamingwiki": "Lego_Marvel's_Avengers",
    "steam": "405310"
@@ -352,6 +360,7 @@
    "epic": "ironcast",
    "howlongtobeat": "25100",
    "igdb": "ironcast",
+   "metacritic": "ironcast",
    "mobygames": "86959",
    "pcgamingwiki": "Ironcast",
    "steam": "327670"
@@ -367,6 +376,7 @@
   "ids": {
    "howlongtobeat": "38799",
    "igdb": "brut-at-l",
+   "metacritic": "brutl",
    "mobygames": "87202",
    "pcgamingwiki": "Brut@l",
    "steam": "489260"
@@ -378,6 +388,7 @@
   "ids": {
    "howlongtobeat": "47793",
    "igdb": "lode-runner-legacy",
+   "metacritic": "lode-runner-legacy",
    "mobygames": "92555",
    "pcgamingwiki": "Lode_Runner_Legacy",
    "steam": "628660"
@@ -428,6 +439,7 @@
   "ids": {
    "howlongtobeat": "21134",
    "igdb": "enola",
+   "metacritic": "enola",
    "mobygames": "108093",
    "pcgamingwiki": "Enola",
    "steam": "263520"
@@ -459,6 +471,7 @@
   "ids": {
    "howlongtobeat": "21692",
    "igdb": "hover-revolt-of-gamers--1",
+   "metacritic": "hover",
    "mobygames": "89690",
    "pcgamingwiki": "Hover_(2017)",
    "steam": "280180"
@@ -537,6 +550,7 @@
  {
   "ids": {
    "igdb": "word-of-kitchen",
+   "metacritic": "word-of-kitchen",
    "mobygames": "189398",
    "steam": "1785280"
   },
@@ -586,6 +600,7 @@
    "gog": "game/inkulinati",
    "howlongtobeat": "93893",
    "igdb": "inkulinati",
+   "metacritic": "inkulinati",
    "mobygames": "198799",
    "pcgamingwiki": "Inkulinati",
    "steam": "957960"
@@ -1002,7 +1017,8 @@
  {
   "ids": {
    "howlongtobeat": "85828",
-   "igdb": "the-first-skunk-bundle"
+   "igdb": "the-first-skunk-bundle",
+   "metacritic": "the-first-skunk-bundle"
   },
   "label_en": "The First Skunk Bundle",
   "wikidata": "Q125372891"
@@ -1079,6 +1095,7 @@
  {
   "ids": {
    "igdb": "aurelia",
+   "metacritic": "aurelia",
    "mobygames": "208531",
    "pcgamingwiki": "Aurelia",
    "steam": "1231560"
@@ -1384,6 +1401,7 @@
    "gog": "game/the_alliance_alive_hd_remastered",
    "howlongtobeat": "51422",
    "igdb": "the-alliance-alive-hd-remastered",
+   "metacritic": "the-alliance-alive-hd-remastered",
    "mobygames": "135778",
    "steam": "1027250"
   },
@@ -1441,5 +1459,12 @@
   },
   "label_en": "Bakushō!! All Yoshimoto Quiz-ō Ketteisen",
   "wikidata": "Q142109891"
+ },
+ {
+  "ids": {
+   "igdb": "exit-path"
+  },
+  "label_en": "Exit Path",
+  "wikidata": "Q142209891"
  }
 ]

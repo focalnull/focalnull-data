@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3564",
    "igdb": "fire-emblem-the-sacred-stones",
+   "metacritic": "fire-emblem-the-sacred-stones",
    "mobygames": "17966"
   },
   "label_en": "Fire Emblem: The Sacred Stones",
@@ -15,6 +16,7 @@
    "gog": "game/carmageddon_max_pack",
    "howlongtobeat": "1534",
    "igdb": "carmageddon",
+   "metacritic": "carmageddon",
    "mobygames": "367",
    "pcgamingwiki": "Carmageddon",
    "steam": "282010"
@@ -47,6 +49,7 @@
   "ids": {
    "howlongtobeat": "10610",
    "igdb": "transformers-fall-of-cybertron",
+   "metacritic": "transformers-fall-of-cybertron",
    "mobygames": "81831",
    "pcgamingwiki": "Transformers:_Fall_of_Cybertron",
    "steam": "213120"
@@ -59,6 +62,7 @@
   "ids": {
    "howlongtobeat": "2203",
    "igdb": "dark-cloud",
+   "metacritic": "dark-cloud",
    "mobygames": "4530"
   },
   "label_en": "Dark Cloud",
@@ -69,6 +73,7 @@
   "ids": {
    "howlongtobeat": "4209",
    "igdb": "gunman-chronicles",
+   "metacritic": "gunman-chronicles",
    "mobygames": "2612",
    "pcgamingwiki": "Gunman_Chronicles"
   },
@@ -79,6 +84,7 @@
   "enwiki": "Nicktoons Racing",
   "ids": {
    "igdb": "nicktoons-racing",
+   "metacritic": "nicktoons-racing",
    "mobygames": "43073",
    "pcgamingwiki": "Nicktoons_Racing"
   },
@@ -99,6 +105,7 @@
   "enwiki": "Two Thrones",
   "ids": {
    "igdb": "two-thrones",
+   "metacritic": "two-thrones",
    "mobygames": "13600"
   },
   "label_en": "Two Thrones",
@@ -125,6 +132,7 @@
   "enwiki": "Fight Night Round 2",
   "ids": {
    "igdb": "fight-night-round-2",
+   "metacritic": "fight-night-round-2",
    "mobygames": "17084"
   },
   "label_en": "Fight Night Round 2",
@@ -162,6 +170,7 @@
   "ids": {
    "howlongtobeat": "9307",
    "igdb": "suikoden-v",
+   "metacritic": "suikoden-v",
    "mobygames": "21693"
   },
   "label_en": "Suikoden V",
@@ -171,6 +180,7 @@
   "enwiki": "Infected (video game)",
   "ids": {
    "igdb": "infected",
+   "metacritic": "infected-2005",
    "mobygames": "29907"
   },
   "label_en": "Infected",
@@ -188,6 +198,7 @@
   "enwiki": "The Lord of the Rings: The Third Age (GBA video game)",
   "ids": {
    "igdb": "the-lord-of-the-rings-the-third-age--1",
+   "metacritic": "the-lord-of-the-rings-the-third-age-2004",
    "mobygames": "15544"
   },
   "label_en": "The Lord of the Rings: The Third Age",
@@ -231,6 +242,7 @@
   "ids": {
    "howlongtobeat": "11293",
    "igdb": "world-series-baseball-2k3",
+   "metacritic": "world-series-baseball-2k3",
    "mobygames": "8726"
   },
   "label_en": "World Series Baseball 2K3",
@@ -250,6 +262,7 @@
   "ids": {
    "howlongtobeat": "15994",
    "igdb": "blade-symphony",
+   "metacritic": "blade-symphony",
    "mobygames": "87288",
    "pcgamingwiki": "Blade_Symphony",
    "steam": "225600"
@@ -262,6 +275,7 @@
   "ids": {
    "howlongtobeat": "16636",
    "igdb": "txk",
+   "metacritic": "txk",
    "mobygames": "89529"
   },
   "label_en": "TxK",
@@ -285,6 +299,7 @@
    "gog": "game/worms_wmd",
    "howlongtobeat": "39481",
    "igdb": "worms-wmd",
+   "metacritic": "worms-wmd",
    "mobygames": "80834",
    "pcgamingwiki": "Worms_W.M.D",
    "steam": "327030"
@@ -316,6 +331,7 @@
    "gog": "game/subject_13",
    "howlongtobeat": "26681",
    "igdb": "subject-13",
+   "metacritic": "subject-13",
    "mobygames": "84773",
    "pcgamingwiki": "Subject_13",
    "steam": "322970"
@@ -329,6 +345,7 @@
    "gog": "game/gateways",
    "howlongtobeat": "3852",
    "igdb": "gateways",
+   "metacritic": "gateways",
    "mobygames": "101767",
    "pcgamingwiki": "Gateways",
    "steam": "216290"
@@ -383,6 +400,7 @@
    "epic": "zombie-army-4-dead-war",
    "howlongtobeat": "74558",
    "igdb": "zombie-army-4-dead-war",
+   "metacritic": "zombie-army-4-dead-war",
    "mobygames": "141929",
    "pcgamingwiki": "Zombie_Army_4:_Dead_War",
    "steam": "694280"
@@ -395,6 +413,7 @@
    "gog": "game/quest_for_infamy",
    "howlongtobeat": "19780",
    "igdb": "quest-for-infamy",
+   "metacritic": "quest-for-infamy",
    "mobygames": "71208",
    "pcgamingwiki": "Quest_for_Infamy",
    "steam": "264560"
@@ -407,6 +426,7 @@
   "ids": {
    "howlongtobeat": "78208",
    "igdb": "stationflow",
+   "metacritic": "stationflow",
    "mobygames": "144509",
    "pcgamingwiki": "STATIONflow",
    "steam": "1122120"
@@ -444,6 +464,7 @@
   "ids": {
    "howlongtobeat": "86380",
    "igdb": "floor-13-deep-state",
+   "metacritic": "floor-13-deep-state",
    "mobygames": "152665",
    "pcgamingwiki": "Floor_13:_Deep_State",
    "steam": "1263990"
@@ -477,6 +498,7 @@
   "ids": {
    "howlongtobeat": "103012",
    "igdb": "needy-streamer-overload",
+   "metacritic": "needy-streamer-overload",
    "mobygames": "178503",
    "pcgamingwiki": "Needy_Streamer_Overload",
    "steam": "1451940"
@@ -512,6 +534,7 @@
    "gog": "game/goliath",
    "howlongtobeat": "33342",
    "igdb": "goliath",
+   "metacritic": "goliath",
    "mobygames": "107091",
    "pcgamingwiki": "Goliath",
    "steam": "363520"
@@ -906,6 +929,7 @@
   "ids": {
    "howlongtobeat": "144365",
    "igdb": "topspin-2k25",
+   "metacritic": "topspin-2k25",
    "mobygames": "222806",
    "pcgamingwiki": "TopSpin_2K25",
    "steam": "1785650"

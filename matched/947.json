@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "3221",
    "igdb": "everquest-ii",
+   "metacritic": "everquest-ii",
    "mobygames": "15581",
    "pcgamingwiki": "EverQuest_II",
    "steam": "201230"
@@ -106,6 +107,7 @@
   "enwiki": "ATV Offroad Fury Pro",
   "ids": {
    "igdb": "atv-offroad-fury-pro",
+   "metacritic": "atv-offroad-fury-pro",
    "mobygames": "69271"
   },
   "label_en": "ATV Offroad Fury Pro",
@@ -163,6 +165,7 @@
   "enwiki": "MotoGP 09/10",
   "ids": {
    "igdb": "motogp-09-10",
+   "metacritic": "motogp-09-10",
    "mobygames": "45913"
   },
   "label_en": "MotoGP 09/10",
@@ -225,6 +228,7 @@
   "ids": {
    "howlongtobeat": "9362",
    "igdb": "super-mario-3d-world",
+   "metacritic": "super-mario-3d-world",
    "mobygames": "62942"
   },
   "label_en": "Super Mario 3D World",
@@ -262,6 +266,7 @@
   "ids": {
    "howlongtobeat": "26798",
    "igdb": "star-ocean-integrity-and-faithlessness",
+   "metacritic": "star-ocean-integrity-and-faithlessness",
    "mobygames": "83500"
   },
   "label_en": "Star Ocean: Integrity and Faithlessness",
@@ -296,6 +301,7 @@
    "gog": "game/the_metronomicon",
    "howlongtobeat": "40258",
    "igdb": "the-metronomicon-slay-the-dance-floor--1",
+   "metacritic": "the-metronomicon",
    "mobygames": "95386",
    "pcgamingwiki": "The_Metronomicon",
    "steam": "416790"
@@ -332,6 +338,7 @@
    "epic": "the-outlast-trials",
    "howlongtobeat": "86515",
    "igdb": "the-outlast-trials",
+   "metacritic": "the-outlast-trials",
    "mobygames": "203583",
    "pcgamingwiki": "The_Outlast_Trials",
    "steam": "1304930"
@@ -355,6 +362,7 @@
    "gog": "game/18_wheels_of_steel_extreme_trucker_2",
    "howlongtobeat": "13473",
    "igdb": "18-wheels-of-steel-extreme-trucker-2",
+   "metacritic": "18-wheels-of-steel-extreme-trucker-2",
    "mobygames": "67598",
    "pcgamingwiki": "18_Wheels_of_Steel:_Extreme_Trucker_2",
    "steam": "362780"
@@ -379,6 +387,7 @@
    "epic": "returnal",
    "howlongtobeat": "80102",
    "igdb": "returnal",
+   "metacritic": "returnal",
    "mobygames": "163431",
    "pcgamingwiki": "Returnal",
    "steam": "1649240"
@@ -392,6 +401,7 @@
    "gog": "game/bpm_bullets_per_minute",
    "howlongtobeat": "77759",
    "igdb": "bpm-bullets-per-minute",
+   "metacritic": "bpm-bullets-per-minute",
    "mobygames": "150485",
    "pcgamingwiki": "BPM:_Bullets_per_Minute",
    "steam": "1286350"
@@ -403,6 +413,7 @@
   "ids": {
    "howlongtobeat": "131158",
    "igdb": "03-dot-04",
+   "metacritic": "0304",
    "mobygames": "139985",
    "pcgamingwiki": "03.04",
    "steam": "952950"
@@ -506,6 +517,7 @@
   "ids": {
    "howlongtobeat": "58566",
    "igdb": "danger-zone-2",
+   "metacritic": "danger-zone-2",
    "mobygames": "111240",
    "pcgamingwiki": "Danger_Zone_2",
    "steam": "513690"
@@ -530,6 +542,7 @@
    "howlongtobeat": "87151",
    "igdb": "easy-red-2",
    "mobygames": "178106",
+   "pcgamingwiki": "Easy_Red_2",
    "steam": "1324780"
   },
   "label_en": "Easy Red 2",
@@ -636,6 +649,7 @@
    "howlongtobeat": "125189",
    "igdb": "king-of-the-castle--2",
    "mobygames": "200058",
+   "pcgamingwiki": "King_Of_The_Castle",
    "steam": "1839880"
   },
   "label_en": "King Of The Castle",
@@ -1318,6 +1332,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "Spy_Drops_Gaiden",
    "steam": "4152490"
   },
   "label_en": "Spy Drops Gaiden",

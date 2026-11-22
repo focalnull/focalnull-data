@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "2497",
    "igdb": "devil-may-cry-2",
+   "metacritic": "devil-may-cry-2",
    "mobygames": "8485"
   },
   "label_en": "Devil May Cry 2",
@@ -82,6 +83,7 @@
   "ids": {
    "howlongtobeat": "3334",
    "igdb": "fallen-earth",
+   "metacritic": "fallen-earth-welcome-to-the-apocalypse",
    "mobygames": "45940",
    "pcgamingwiki": "Fallen_Earth",
    "steam": "113420"
@@ -188,6 +190,7 @@
   "enwiki": "WRC II Extreme",
   "ids": {
    "igdb": "wrc-ii-extreme",
+   "metacritic": "wrc-ii-extreme",
    "mobygames": "10519"
   },
   "label_en": "WRC II Extreme",
@@ -210,6 +213,7 @@
   "ids": {
    "howlongtobeat": "28170",
    "igdb": "magnets",
+   "metacritic": "magnets-fully-charged",
    "mobygames": "95137",
    "pcgamingwiki": "MagNets",
    "steam": "343020"
@@ -263,6 +267,7 @@
    "gog": "game/hero_of_the_kingdom",
    "howlongtobeat": "16351",
    "igdb": "hero-of-the-kingdom",
+   "metacritic": "hero-of-the-kingdom",
    "mobygames": "64472",
    "pcgamingwiki": "Hero_of_the_Kingdom",
    "steam": "259550"
@@ -702,6 +707,7 @@
    "epic": "the-preposterous-awesomeness-of-everything-420627",
    "howlongtobeat": "38388",
    "igdb": "the-preposterous-awesomeness-of-everything",
+   "metacritic": "the-preposterous-awesomeness-of-everything",
    "mobygames": "115548",
    "pcgamingwiki": "The_Preposterous_Awesomeness_of_Everything",
    "steam": "435840"
@@ -713,6 +719,7 @@
   "ids": {
    "howlongtobeat": "11110",
    "igdb": "waves",
+   "metacritic": "waves",
    "mobygames": "81481",
    "pcgamingwiki": "Waves",
    "steam": "107600"
@@ -1072,6 +1079,7 @@
  {
   "ids": {
    "igdb": "forklift-simulator--2",
+   "pcgamingwiki": "Forklift:_Simulator",
    "steam": "1051260"
   },
   "label_en": "Forklift: Simulator",

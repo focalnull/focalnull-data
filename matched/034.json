@@ -3,6 +3,7 @@
   "enwiki": "Tales of Symphonia: Dawn of the New World",
   "ids": {
    "igdb": "tales-of-symphonia-dawn-of-the-new-world",
+   "metacritic": "tales-of-symphonia-dawn-of-the-new-world",
    "mobygames": "41958"
   },
   "label_en": "Tales of Symphonia: Dawn of the New World",
@@ -14,6 +15,7 @@
    "gog": "game/carmageddon_2_carpocalypse_now",
    "howlongtobeat": "1535",
    "igdb": "carmageddon-ii-carpocalypse-now",
+   "metacritic": "carmageddon-2-carpocalypse-now",
    "mobygames": "1371",
    "pcgamingwiki": "Carmageddon_II:_Carpocalypse_Now",
    "steam": "282030"
@@ -26,6 +28,7 @@
   "ids": {
    "howlongtobeat": "1727",
    "igdb": "city-of-heroes",
+   "metacritic": "city-of-heroes",
    "mobygames": "13083",
    "steam": "29550"
   },
@@ -46,6 +49,7 @@
   "enwiki": "Animaniacs: The Great Edgar Hunt",
   "ids": {
    "igdb": "animaniacs-the-great-edgar-hunt",
+   "metacritic": "animaniacs-the-great-edgar-hunt",
    "mobygames": "20911"
   },
   "label_en": "Animaniacs: The Great Edgar Hunt",
@@ -70,6 +74,7 @@
   "enwiki": "Untold Legends: Brotherhood of the Blade",
   "ids": {
    "igdb": "untold-legends-brotherhood-of-the-blade",
+   "metacritic": "untold-legends-brotherhood-of-the-blade",
    "mobygames": "17318"
   },
   "label_en": "Untold Legends: Brotherhood of the Blade",
@@ -159,6 +164,7 @@
   "enwiki": "Tokyo Xtreme Racer: Zero",
   "ids": {
    "igdb": "tokyo-xtreme-racer-zero",
+   "metacritic": "tokyo-xtreme-racer-zero",
    "mobygames": "10200"
   },
   "label_en": "Tokyo Xtreme Racer: Zero",
@@ -176,6 +182,7 @@
   "ids": {
    "howlongtobeat": "7929",
    "igdb": "rocketbirds-hardboiled-chicken",
+   "metacritic": "rocketbirds-hardboiled-chicken",
    "mobygames": "53314",
    "pcgamingwiki": "Rocketbirds:_Hardboiled_Chicken",
    "steam": "215510"
@@ -187,6 +194,7 @@
   "enwiki": "NHL 15",
   "ids": {
    "igdb": "nhl-15",
+   "metacritic": "nhl-15",
    "mobygames": "80173"
   },
   "label_en": "NHL 15",
@@ -260,6 +268,7 @@
   "ids": {
    "howlongtobeat": "61794",
    "igdb": "bing-bong-xl",
+   "metacritic": "bing-bong-xl",
    "mobygames": "125508",
    "pcgamingwiki": "Bing_Bong_XL",
    "steam": "840930"
@@ -274,6 +283,7 @@
    "gog": "game/supraland",
    "howlongtobeat": "62224",
    "igdb": "supraland",
+   "metacritic": "supraland",
    "mobygames": "117272",
    "pcgamingwiki": "Supraland",
    "steam": "813630"
@@ -292,6 +302,7 @@
   "ids": {
    "howlongtobeat": "43406",
    "igdb": "husk",
+   "metacritic": "husk",
    "mobygames": "83199",
    "pcgamingwiki": "Husk",
    "steam": "553960"
@@ -306,6 +317,7 @@
    "gog": "game/serial_cleaners",
    "howlongtobeat": "95198",
    "igdb": "serial-cleaners",
+   "metacritic": "serial-cleaners",
    "mobygames": "191540",
    "pcgamingwiki": "Serial_Cleaners",
    "steam": "1337920"
@@ -391,7 +403,9 @@
    "gog": "game/please_be_happy",
    "howlongtobeat": "116865",
    "igdb": "please-be-happy",
+   "metacritic": "please-be-happy",
    "mobygames": "194758",
+   "pcgamingwiki": "Please_Be_Happy",
    "steam": "844670"
   },
   "label_en": "Please Be Happy",
@@ -819,6 +833,9 @@
   "wikidata": "Q126913034"
  },
  {
+  "ids": {
+   "metacritic": "kanken-smart-taisaku"
+  },
   "label_en": "Kanken Smart Taisaku",
   "wikidata": "Q131437034"
  },

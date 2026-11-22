@@ -12,6 +12,7 @@
   "enwiki": "Star Wars: Jedi Starfighter",
   "ids": {
    "igdb": "star-wars-jedi-starfighter",
+   "metacritic": "star-wars-jedi-starfighter",
    "mobygames": "6250"
   },
   "label_en": "Star Wars: Jedi Starfighter",
@@ -22,6 +23,7 @@
   "ids": {
    "howlongtobeat": "1100",
    "igdb": "black-mesa",
+   "metacritic": "black-mesa",
    "mobygames": "57824",
    "pcgamingwiki": "Black_Mesa",
    "steam": "362890"
@@ -33,6 +35,7 @@
   "enwiki": "NCAA Football 08",
   "ids": {
    "igdb": "ncaa-football-08",
+   "metacritic": "ncaa-football-08",
    "mobygames": "39589"
   },
   "label_en": "NCAA Football 08",
@@ -43,6 +46,7 @@
   "ids": {
    "howlongtobeat": "204",
    "igdb": "advance-wars",
+   "metacritic": "advance-wars",
    "mobygames": "4990"
   },
   "label_en": "Advance Wars",
@@ -65,6 +69,7 @@
    "gog": "game/trine_2_complete_story",
    "howlongtobeat": "10652",
    "igdb": "trine-2",
+   "metacritic": "trine-2",
    "mobygames": "55405",
    "pcgamingwiki": "Trine_2",
    "steam": "35720"
@@ -117,6 +122,7 @@
   "ids": {
    "howlongtobeat": "2388",
    "igdb": "deep-labyrinth",
+   "metacritic": "deep-labyrinth",
    "mobygames": "28615"
   },
   "label_en": "Deep Labyrinth",
@@ -126,6 +132,7 @@
   "enwiki": "Devil's Third",
   "ids": {
    "igdb": "devil-s-third",
+   "metacritic": "devils-third",
    "mobygames": "96032"
   },
   "label_en": "Devil's Third",
@@ -202,6 +209,7 @@
    "gog": "game/seasons_after_fall",
    "howlongtobeat": "30707",
    "igdb": "seasons-after-fall",
+   "metacritic": "seasons-after-fall",
    "mobygames": "88711",
    "pcgamingwiki": "Seasons_after_Fall",
    "steam": "366320"
@@ -214,6 +222,7 @@
   "ids": {
    "howlongtobeat": "5114",
    "igdb": "kohan-ii-kings-of-war",
+   "metacritic": "kohan-ii-kings-of-war",
    "mobygames": "15381",
    "pcgamingwiki": "Kohan_II:_Kings_of_War",
    "steam": "97130"
@@ -226,6 +235,7 @@
   "ids": {
    "howlongtobeat": "43741",
    "igdb": "splasher",
+   "metacritic": "splasher",
    "mobygames": "92868",
    "pcgamingwiki": "Splasher",
    "steam": "446840"
@@ -249,6 +259,7 @@
   "ids": {
    "howlongtobeat": "52615",
    "igdb": "darwin-project",
+   "metacritic": "darwin-project",
    "mobygames": "101693",
    "pcgamingwiki": "Darwin_Project",
    "steam": "544920"
@@ -293,6 +304,7 @@
    "gog": "game/valhalla_hills",
    "howlongtobeat": "31468",
    "igdb": "valhalla-hills",
+   "metacritic": "valhalla-hills",
    "mobygames": "77030",
    "pcgamingwiki": "Valhalla_Hills",
    "steam": "351910"
@@ -307,6 +319,7 @@
    "gog": "game/old_world",
    "howlongtobeat": "113973",
    "igdb": "old-world",
+   "metacritic": "old-world",
    "mobygames": "145481",
    "pcgamingwiki": "Old_World",
    "steam": "597180"
@@ -318,6 +331,7 @@
   "enwiki": "MLB 2002",
   "ids": {
    "igdb": "mlb-2002",
+   "metacritic": "mlb-2002",
    "mobygames": "39319"
   },
   "label_en": "MLB 2002",
@@ -439,6 +453,7 @@
   "ids": {
    "howlongtobeat": "1214",
    "igdb": "bob-came-in-pieces",
+   "metacritic": "bob-came-in-pieces",
    "mobygames": "44939",
    "pcgamingwiki": "Bob_Came_in_Pieces",
    "steam": "46000"
@@ -460,6 +475,7 @@
    "howlongtobeat": "98425",
    "igdb": "rhythm-of-the-universe-ionia",
    "mobygames": "172586",
+   "pcgamingwiki": "Rhythm_of_the_Universe:_Ionia",
    "steam": "1121140"
   },
   "label_en": "Ionia",
@@ -540,6 +556,7 @@
   "ids": {
    "howlongtobeat": "78691",
    "igdb": "old-gods-rising",
+   "metacritic": "old-gods-rising",
    "mobygames": "145870",
    "pcgamingwiki": "Old_Gods_Rising",
    "steam": "1084990"
@@ -1030,6 +1047,7 @@
  {
   "ids": {
    "igdb": "aliya",
+   "metacritic": "aliya",
    "mobygames": "222753",
    "steam": "2704110"
   },
@@ -1169,6 +1187,7 @@
  {
   "ids": {
    "igdb": "heretical",
+   "pcgamingwiki": "Heretical",
    "steam": "2877540"
   },
   "label_en": "Heretical",

@@ -16,6 +16,7 @@
   "ids": {
    "howlongtobeat": "4507",
    "igdb": "hospital-tycoon",
+   "metacritic": "hospital-tycoon",
    "mobygames": "28596",
    "pcgamingwiki": "Hospital_Tycoon",
    "steam": "11590"
@@ -28,6 +29,7 @@
   "ids": {
    "howlongtobeat": "1904",
    "igdb": "constantine",
+   "metacritic": "constantine-2005",
    "mobygames": "17039",
    "pcgamingwiki": "Constantine"
   },
@@ -50,6 +52,7 @@
    "gog": "game/bioshock_infinite",
    "howlongtobeat": "1068",
    "igdb": "bioshock-infinite",
+   "metacritic": "bioshock-infinite",
    "mobygames": "60152",
    "pcgamingwiki": "BioShock_Infinite",
    "steam": "8870"
@@ -106,6 +109,7 @@
   "ids": {
    "howlongtobeat": "22711",
    "igdb": "deer-hunt-legends",
+   "metacritic": "deer-drive-legends",
    "mobygames": "96573",
    "pcgamingwiki": "Deer_Hunt_Legends",
    "steam": "328670"
@@ -158,6 +162,7 @@
   "ids": {
    "howlongtobeat": "39393",
    "igdb": "dreadnought",
+   "metacritic": "dreadnought",
    "mobygames": "93713",
    "pcgamingwiki": "Dreadnought",
    "steam": "835860"
@@ -173,6 +178,7 @@
   "enwiki": "Haunted Hollow",
   "ids": {
    "igdb": "haunted-hollow",
+   "metacritic": "haunted-hollow",
    "mobygames": "70035"
   },
   "label_en": "Haunted Hollow",
@@ -193,6 +199,7 @@
   "ids": {
    "howlongtobeat": "16700",
    "igdb": "the-plan",
+   "metacritic": "the-plan",
    "mobygames": "63712",
    "pcgamingwiki": "The_Plan_(2013)",
    "steam": "250600"
@@ -242,6 +249,7 @@
   "ids": {
    "howlongtobeat": "109531",
    "igdb": "the-looker",
+   "metacritic": "the-looker",
    "mobygames": "186566",
    "pcgamingwiki": "The_Looker",
    "steam": "1985690"
@@ -500,6 +508,7 @@
   "ids": {
    "howlongtobeat": "24231",
    "igdb": "io",
+   "metacritic": "io",
    "mobygames": "84781",
    "pcgamingwiki": "IO",
    "steam": "324070"
@@ -614,6 +623,7 @@
   "ids": {
    "howlongtobeat": "49701",
    "igdb": "defcon-vr",
+   "metacritic": "defcon-everybody-dies",
    "mobygames": "188256",
    "pcgamingwiki": "DEFCON_VR",
    "steam": "579040"
@@ -698,6 +708,7 @@
  {
   "ids": {
    "igdb": "mini-games-madness-volume-number-1-hello-world",
+   "metacritic": "mini-games-madness-volume-1-hello-world",
    "mobygames": "101255"
   },
   "label_en": "Mini-Games Madness Volume: #1: Hello World!",
@@ -768,6 +779,7 @@
   "ids": {
    "howlongtobeat": "162208",
    "igdb": "pga-tour-2k25",
+   "metacritic": "pga-tour-2k25",
    "pcgamingwiki": "PGA_Tour_2K25",
    "steam": "2385530"
   },

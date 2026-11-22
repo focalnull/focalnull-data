@@ -5,6 +5,7 @@
    "gog": "game/monkey_island_2_special_edition_lechucks_revenge",
    "howlongtobeat": "6136",
    "igdb": "monkey-island-2-lechuck-s-revenge",
+   "metacritic": "monkey-island-2-special-edition-lechucks-revenge",
    "mobygames": "289",
    "pcgamingwiki": "Monkey_Island_2:_LeChuck's_Revenge"
   },
@@ -56,6 +57,7 @@
    "gog": "game/snk_vs_capcom_svc_chaos",
    "howlongtobeat": "8694",
    "igdb": "snk-vs-capcom-svc-chaos",
+   "metacritic": "svc-chaos-snk-vs-capcom",
    "mobygames": "18088",
    "pcgamingwiki": "SNK_vs._Capcom:_SVC_Chaos",
    "steam": "2442380"
@@ -99,6 +101,7 @@
   "enwiki": "Charlie and the Chocolate Factory (2005 video game)",
   "ids": {
    "igdb": "charlie-and-the-chocolate-factory",
+   "metacritic": "charlie-and-the-chocolate-factory",
    "mobygames": "18796",
    "pcgamingwiki": "Charlie_and_the_Chocolate_Factory_(2005)"
   },
@@ -143,6 +146,7 @@
   "ids": {
    "howlongtobeat": "14332",
    "igdb": "tearaway",
+   "metacritic": "tearaway",
    "mobygames": "75001"
   },
   "label_en": "Tearaway",
@@ -187,6 +191,7 @@
   "ids": {
    "howlongtobeat": "26360",
    "igdb": "dillons-rolling-western-the-last-ranger",
+   "metacritic": "dillons-rolling-western-the-last-ranger",
    "mobygames": "100320"
   },
   "label_en": "Dillon's Rolling Western: The Last Ranger",
@@ -206,6 +211,7 @@
   "ids": {
    "gog": "game/galactic_assault_prisoner_of_power",
    "igdb": "galactic-assault-prisoner-of-power",
+   "metacritic": "galactic-assault-prisoner-of-power",
    "mobygames": "38897",
    "pcgamingwiki": "Galactic_Assault:_Prisoner_of_Power"
   },
@@ -258,6 +264,7 @@
    "gog": "game/paradise_killer",
    "howlongtobeat": "82772",
    "igdb": "paradise-killer",
+   "metacritic": "paradise-killer",
    "mobygames": "150137",
    "pcgamingwiki": "Paradise_Killer",
    "steam": "1160220"
@@ -310,6 +317,7 @@
   "ids": {
    "howlongtobeat": "80215",
    "igdb": "wayward-strand",
+   "metacritic": "wayward-strand",
    "mobygames": "191023",
    "pcgamingwiki": "Wayward_Strand",
    "steam": "1080450"
@@ -331,6 +339,7 @@
   "ids": {
    "howlongtobeat": "54805",
    "igdb": "eternal-hope",
+   "metacritic": "eternal-hope",
    "mobygames": "154521",
    "steam": "1162280"
   },
@@ -382,7 +391,8 @@
  },
  {
   "ids": {
-   "igdb": "fragments-note-2"
+   "igdb": "fragments-note-2",
+   "metacritic": "fragments-note2-sideshizuku"
   },
   "label_en": "Fragment’s Note 2 Side: Shizuku",
   "wikidata": "Q119850755"
@@ -633,6 +643,7 @@
  {
   "ids": {
    "igdb": "terror-squid",
+   "metacritic": "terror-squid",
    "mobygames": "151609",
    "pcgamingwiki": "TERROR_SQUID",
    "steam": "1148550"
@@ -741,6 +752,7 @@
   "ids": {
    "howlongtobeat": "22927",
    "igdb": "majestic-nights",
+   "metacritic": "majestic-nights",
    "mobygames": "121190",
    "pcgamingwiki": "Majestic_Nights",
    "steam": "284140"

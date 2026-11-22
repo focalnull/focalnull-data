@@ -5,6 +5,7 @@
    "gog": "game/star_wars_knights_of_the_old_republic",
    "howlongtobeat": "9111",
    "igdb": "star-wars-knights-of-the-old-republic",
+   "metacritic": "star-wars-knights-of-the-old-republic",
    "mobygames": "9734",
    "pcgamingwiki": "Star_Wars:_Knights_of_the_Old_Republic",
    "steam": "32370"
@@ -18,6 +19,7 @@
    "gog": "game/the_whispered_world_special_edition",
    "howlongtobeat": "10263",
    "igdb": "the-whispered-world",
+   "metacritic": "the-whispered-world",
    "mobygames": "42211",
    "pcgamingwiki": "The_Whispered_World",
    "steam": "268540"
@@ -39,6 +41,7 @@
   "enwiki": "Disgaea 4",
   "ids": {
    "igdb": "disgaea-4-a-promise-revisited",
+   "metacritic": "disgaea-4-a-promise-unforgotten",
    "mobygames": "61540",
    "pcgamingwiki": "Disgaea_4_Complete+"
   },
@@ -127,6 +130,7 @@
   "ids": {
    "howlongtobeat": "26677",
    "igdb": "operation-abyss-new-tokyo-legacy",
+   "metacritic": "operation-abyss-new-tokyo-legacy",
    "mobygames": "86135",
    "pcgamingwiki": "Operation_Abyss:_New_Tokyo_Legacy",
    "steam": "541450"
@@ -149,6 +153,7 @@
   "ids": {
    "howlongtobeat": "10276",
    "igdb": "the-wonderful-end-of-the-world",
+   "metacritic": "the-wonderful-end-of-the-world",
    "mobygames": "32345",
    "pcgamingwiki": "The_Wonderful_End_of_the_World",
    "steam": "15500"
@@ -191,6 +196,7 @@
   "ids": {
    "howlongtobeat": "4168",
    "igdb": "guilty-gear-x2-number-reload",
+   "metacritic": "guilty-gear-xx-reload",
    "mobygames": "18556",
    "pcgamingwiki": "Guilty_Gear_X2_Reload",
    "steam": "314030"
@@ -222,6 +228,7 @@
   "ids": {
    "howlongtobeat": "23096",
    "igdb": "kreed",
+   "metacritic": "kreed",
    "mobygames": "22646",
    "pcgamingwiki": "Kreed"
   },
@@ -267,7 +274,8 @@
  {
   "enwiki": "Pokémon Shining Pearl",
   "ids": {
-   "igdb": "pokemon-shining-pearl"
+   "igdb": "pokemon-shining-pearl",
+   "metacritic": "pokemon-shining-pearl"
   },
   "label_en": "Pokémon Shining Pearl",
   "wikidata": "Q105690902"
@@ -276,6 +284,7 @@
   "ids": {
    "howlongtobeat": "40872",
    "igdb": "halloween-forever",
+   "metacritic": "halloween-forever",
    "mobygames": "116077",
    "pcgamingwiki": "Halloween_Forever",
    "steam": "425650"
@@ -342,6 +351,7 @@
  {
   "ids": {
    "igdb": "downroll",
+   "metacritic": "downroll",
    "mobygames": "189419",
    "steam": "1837870"
   },
@@ -361,6 +371,7 @@
   "ids": {
    "howlongtobeat": "89808",
    "igdb": "get-out--2",
+   "pcgamingwiki": "Get_Out!",
    "steam": "1548320"
   },
   "label_en": "GET OUT!",
@@ -818,6 +829,7 @@
  {
   "ids": {
    "igdb": "symphony-of-the-machine",
+   "metacritic": "symphony-of-the-machine",
    "mobygames": "87636",
    "pcgamingwiki": "Symphony_of_the_Machine",
    "steam": "540010"
@@ -905,13 +917,15 @@
  },
  {
   "ids": {
-   "igdb": "fitness-fables"
+   "igdb": "fitness-fables",
+   "metacritic": "fitness-fables"
   },
   "label_en": "Fitness Fables",
   "wikidata": "Q132496902"
  },
  {
   "ids": {
+   "metacritic": "deepica",
    "mobygames": "202832",
    "pcgamingwiki": "Deepica"
   },

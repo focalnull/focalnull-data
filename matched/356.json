@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "705",
    "igdb": "atelier-meruru-the-apprentice-of-arland",
+   "metacritic": "atelier-meruru-the-apprentice-of-arland",
    "mobygames": "69230"
   },
   "label_en": "Atelier Meruru: The Apprentice of Arland",
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "6626",
    "igdb": "ninja-gaiden-ii",
+   "metacritic": "ninja-gaide-ii",
    "mobygames": "34480"
   },
   "label_en": "Ninja Gaiden II",
@@ -104,6 +106,7 @@
   "ids": {
    "howlongtobeat": "24160",
    "igdb": "scooby-doo-and-the-spooky-swamp",
+   "metacritic": "scooby-doo-and-the-spooky-swamp",
    "mobygames": "101812"
   },
   "label_en": "Scooby-Doo! and the Spooky Swamp",
@@ -146,6 +149,7 @@
  },
  {
   "ids": {
+   "metacritic": "disneys-the-lion-king-ii-simbas-pride-active-play",
    "mobygames": "67707",
    "pcgamingwiki": "The_Lion_King_II:_Simba's_Pride_-_Active_Play"
   },
@@ -165,6 +169,7 @@
   "ids": {
    "howlongtobeat": "46441",
    "igdb": "yoshis-crafted-world",
+   "metacritic": "yoshis-crafted-world",
    "mobygames": "113643"
   },
   "label_en": "Yoshi’s Crafted World",
@@ -203,6 +208,7 @@
  {
   "ids": {
    "igdb": "abyss--5",
+   "metacritic": "abyss-2012",
    "steam": "2786120"
   },
   "label_en": "Abyss",
@@ -238,6 +244,7 @@
   "ids": {
    "howlongtobeat": "88752",
    "igdb": "rogue-heroes-ruins-of-tasos",
+   "metacritic": "rogue-heroes-ruins-of-tasos",
    "mobygames": "159492",
    "pcgamingwiki": "Rogue_Heroes:_Ruins_of_Tasos",
    "steam": "787810"
@@ -249,6 +256,7 @@
   "ids": {
    "howlongtobeat": "40873",
    "igdb": "hide-and-shriek",
+   "metacritic": "hide-and-shriek",
    "mobygames": "97391",
    "pcgamingwiki": "Hide_and_Shriek",
    "steam": "480430"
@@ -280,6 +288,7 @@
   "ids": {
    "howlongtobeat": "97988",
    "igdb": "100-hidden-cups",
+   "metacritic": "100-hidden-cups",
    "mobygames": "187847",
    "steam": "1740240"
   },
@@ -289,6 +298,7 @@
  {
   "ids": {
    "igdb": "time-trap-2-search-and-find-objects-game-hidden-pictures",
+   "metacritic": "time-trap-2-search-and-find-objects-game",
    "steam": "1467070"
   },
   "label_en": "Time Trap 2",
@@ -574,6 +584,7 @@
   "ids": {
    "howlongtobeat": "82446",
    "igdb": "the-walking-dead-onslaught",
+   "metacritic": "the-walking-dead-onslaught",
    "mobygames": "141164",
    "pcgamingwiki": "The_Walking_Dead_Onslaught",
    "steam": "1082680"

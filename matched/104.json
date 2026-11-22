@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "6482",
    "igdb": "need-for-speed-shift",
+   "metacritic": "need-for-speed-shift-for-ipad",
    "mobygames": "42529",
    "pcgamingwiki": "Need_for_Speed:_Shift",
    "steam": "24870"
@@ -36,6 +37,7 @@
   "ids": {
    "howlongtobeat": "169",
    "igdb": "ace-combat-5-the-unsung-war",
+   "metacritic": "ace-combat-5-the-unsung-war",
    "mobygames": "19548"
   },
   "label_en": "Ace Combat 5: The Unsung War",
@@ -46,6 +48,7 @@
   "ids": {
    "howlongtobeat": "2637",
    "igdb": "dj-hero",
+   "metacritic": "dj-hero",
    "mobygames": "45573"
   },
   "label_en": "DJ Hero",
@@ -84,7 +87,8 @@
  {
   "enwiki": "Asphalt 3D",
   "ids": {
-   "igdb": "asphalt-3d"
+   "igdb": "asphalt-3d",
+   "metacritic": "asphalt-3d"
   },
   "label_en": "Asphalt 3D",
   "wikidata": "Q2408104"
@@ -93,6 +97,7 @@
   "enwiki": "SimGolf",
   "ids": {
    "igdb": "simgolf",
+   "metacritic": "simgolf",
    "mobygames": "1246"
   },
   "label_en": "SimGolf",
@@ -113,6 +118,7 @@
    "gog": "game/metal_fatigue",
    "howlongtobeat": "5899",
    "igdb": "metal-fatigue",
+   "metacritic": "metal-fatigue",
    "mobygames": "2867",
    "pcgamingwiki": "Metal_Fatigue",
    "steam": "888040"
@@ -144,6 +150,7 @@
    "gog": "game/deadly_dozen",
    "howlongtobeat": "22639",
    "igdb": "deadly-dozen",
+   "metacritic": "deadly-dozen",
    "mobygames": "6359",
    "pcgamingwiki": "Deadly_Dozen",
    "steam": "514080"
@@ -234,6 +241,7 @@
   "ids": {
    "howlongtobeat": "1446",
    "igdb": "cabela-s-dangerous-hunts-2013",
+   "metacritic": "cabelas-dangerous-hunts-2013",
    "mobygames": "85087",
    "pcgamingwiki": "Cabela's_Dangerous_Hunts_2013",
    "steam": "218860"
@@ -265,6 +273,7 @@
  {
   "ids": {
    "igdb": "the-true-slime-king",
+   "metacritic": "the-true-slime-king",
    "pcgamingwiki": "The_True_Slime_King",
    "steam": "922170"
   },
@@ -275,6 +284,7 @@
   "ids": {
    "howlongtobeat": "35544",
    "igdb": "acorn-assault-rodent-revolution",
+   "metacritic": "acorn-assault-rodent-revolution",
    "mobygames": "107580",
    "pcgamingwiki": "Acorn_Assault:_Rodent_Revolution",
    "steam": "410290"
@@ -305,6 +315,7 @@
   "enwiki": "Retro Bowl",
   "ids": {
    "igdb": "retro-bowl",
+   "metacritic": "retro-bowl",
    "mobygames": "179494"
   },
   "label_en": "Retro Bowl",
@@ -321,7 +332,8 @@
  {
   "enwiki": "A Ride into the Mountains",
   "ids": {
-   "igdb": "a-ride-into-the-mountains"
+   "igdb": "a-ride-into-the-mountains",
+   "metacritic": "a-ride-into-the-mountains"
   },
   "label_en": "A Ride into the Mountains",
   "wikidata": "Q109544104"
@@ -388,6 +400,8 @@
   "enwiki": "Archangel (2017 video game)",
   "ids": {
    "igdb": "archangel--2",
+   "metacritic": "archangel-2017",
+   "pcgamingwiki": "Archangel_(Frogames)",
    "steam": "661520"
   },
   "label_en": "Archangel",
@@ -409,6 +423,7 @@
    "howlongtobeat": "114757",
    "igdb": "fresh-start",
    "mobygames": "193088",
+   "pcgamingwiki": "Fresh_Start_Cleaning_Simulator",
    "steam": "1856030"
   },
   "label_en": "Fresh Start Cleaning Simulator",
@@ -677,6 +692,7 @@
   "ids": {
    "howlongtobeat": "38914",
    "igdb": "verdict-guilty",
+   "metacritic": "verdict-guilty",
    "mobygames": "81308",
    "pcgamingwiki": "Verdict_Guilty",
    "steam": "449210"

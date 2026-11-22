@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "9184",
    "igdb": "state-of-decay",
+   "metacritic": "state-of-decay",
    "mobygames": "65793",
    "pcgamingwiki": "State_of_Decay",
    "steam": "241540"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "15884",
    "igdb": "injustice-gods-among-us",
+   "metacritic": "injustice-gods-among-us",
    "mobygames": "60565",
    "pcgamingwiki": "Injustice:_Gods_Among_Us",
    "steam": "242700"
@@ -38,6 +40,7 @@
   "ids": {
    "howlongtobeat": "1036",
    "igdb": "big-rigs-over-the-road-racing",
+   "metacritic": "big-rigs-over-the-road-racing",
    "mobygames": "23157",
    "pcgamingwiki": "Big_Rigs:_Over_the_Road_Racing",
    "steam": "3598130"
@@ -50,6 +53,7 @@
   "ids": {
    "howlongtobeat": "9781",
    "igdb": "the-binding-of-isaac",
+   "metacritic": "the-binding-of-isaac",
    "mobygames": "53072",
    "pcgamingwiki": "The_Binding_of_Isaac",
    "steam": "113200"
@@ -64,6 +68,7 @@
    "gog": "game/legend_of_grimrock",
    "howlongtobeat": "5227",
    "igdb": "legend-of-grimrock",
+   "metacritic": "legend-of-grimrock",
    "mobygames": "55563",
    "pcgamingwiki": "Legend_of_Grimrock",
    "steam": "207170"
@@ -76,6 +81,7 @@
   "ids": {
    "howlongtobeat": "3045",
    "igdb": "ecco-the-tides-of-time",
+   "metacritic": "ecco-the-tides-of-time",
    "mobygames": "6678",
    "pcgamingwiki": "Ecco:_The_Tides_of_Time",
    "steam": "34319"
@@ -192,6 +198,7 @@
   "ids": {
    "howlongtobeat": "21276",
    "igdb": "homefront-the-revolution",
+   "metacritic": "homefront-the-revolution",
    "mobygames": "79075",
    "pcgamingwiki": "Homefront:_The_Revolution",
    "steam": "223100"
@@ -221,6 +228,7 @@
   "enwiki": "World War II Combat: Iwo Jima",
   "ids": {
    "igdb": "world-war-ii-combat-iwo-jima",
+   "metacritic": "world-war-ii-combat-iwo-jima",
    "mobygames": "23487",
    "pcgamingwiki": "World_War_II_Combat:_Iwo_Jima"
   },
@@ -260,6 +268,7 @@
   "ids": {
    "howlongtobeat": "46464",
    "igdb": "mario-plus-rabbids-kingdom-battle",
+   "metacritic": "mario-plus-rabbids-kingdom-battle",
    "mobygames": "94557"
   },
   "label_en": "Mario + Rabbids Kingdom Battle",
@@ -305,6 +314,7 @@
    "gog": "game/198x",
    "howlongtobeat": "57338",
    "igdb": "198x",
+   "metacritic": "198x",
    "mobygames": "128647",
    "pcgamingwiki": "198X",
    "steam": "1086010"
@@ -336,7 +346,9 @@
    "gog": "game/dokyusei_bangin_summer",
    "howlongtobeat": "107620",
    "igdb": "dokyusei-bangin-summer",
+   "metacritic": "dokyusei-bangin-summer",
    "mobygames": "183127",
+   "pcgamingwiki": "Dōkyūsei:_Bangin'_Summer",
    "steam": "1689910"
   },
   "label_en": "Dōkyūsei: Bangin' Summer",
@@ -764,6 +776,7 @@
   "ids": {
    "howlongtobeat": "156176",
    "igdb": "guardians-of-eden",
+   "metacritic": "guardians-of-eden",
    "mobygames": "218997",
    "steam": "2672430"
   },
@@ -816,6 +829,7 @@
   "ids": {
    "howlongtobeat": "169614",
    "igdb": "kanade",
+   "metacritic": "kanade",
    "mobygames": "243519",
    "steam": "3104270"
   },
@@ -851,7 +865,8 @@
   "ids": {
    "epic": "out-of-words",
    "howlongtobeat": "169260",
-   "igdb": "out-of-words"
+   "igdb": "out-of-words",
+   "metacritic": "out-of-words"
   },
   "label_en": "Out of Words",
   "wikidata": "Q134723427"
@@ -1134,6 +1149,7 @@
  {
   "ids": {
    "igdb": "crushed-in-time",
+   "pcgamingwiki": "Crushed_In_Time",
    "steam": "3858650"
   },
   "label_en": "Crushed In Time",

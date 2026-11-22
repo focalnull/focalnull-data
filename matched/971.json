@@ -176,6 +176,7 @@
    "gog": "game/the_political_machine_2016",
    "howlongtobeat": "34138",
    "igdb": "the-political-machine-2016",
+   "metacritic": "the-political-machine-2016",
    "mobygames": "76747",
    "pcgamingwiki": "The_Political_Machine_2016",
    "steam": "404620"
@@ -187,6 +188,7 @@
   "ids": {
    "howlongtobeat": "16231",
    "igdb": "kami",
+   "metacritic": "kami",
    "mobygames": "66652",
    "pcgamingwiki": "Kami",
    "steam": "272040"
@@ -214,6 +216,7 @@
   "ids": {
    "howlongtobeat": "118581",
    "igdb": "chornobyl-liquidators--1",
+   "metacritic": "chernobyl-liquidators-simulator",
    "mobygames": "225292",
    "pcgamingwiki": "Chernobyl_Liquidators_Simulator",
    "steam": "1113010"
@@ -225,6 +228,7 @@
   "ids": {
    "howlongtobeat": "17249",
    "igdb": "gigantic-army",
+   "metacritic": "gigantic-army",
    "mobygames": "75090",
    "pcgamingwiki": "Gigantic_Army",
    "steam": "278930"
@@ -260,6 +264,7 @@
   "ids": {
    "howlongtobeat": "72583",
    "igdb": "harry-potter-magic-awakened",
+   "metacritic": "harry-potter-magic-awakened",
    "mobygames": "205857"
   },
   "label_en": "Harry Potter: Magic Awakened",
@@ -279,6 +284,7 @@
    "gog": "game/dredge",
    "howlongtobeat": "94128",
    "igdb": "dredge",
+   "metacritic": "dredge",
    "mobygames": "201121",
    "pcgamingwiki": "DREDGE",
    "steam": "1562430"
@@ -301,6 +307,7 @@
    "epic": "choochoo-charles-0eece5",
    "howlongtobeat": "98559",
    "igdb": "choo-choo-charles",
+   "metacritic": "choo-choo-charles",
    "mobygames": "195724",
    "pcgamingwiki": "Choo-Choo_Charles",
    "steam": "1766740"
@@ -479,6 +486,7 @@
  {
   "ids": {
    "igdb": "worm-jazz",
+   "metacritic": "worm-jazz",
    "mobygames": "150756",
    "steam": "1259370"
   },
@@ -613,6 +621,7 @@
   "ids": {
    "howlongtobeat": "30673",
    "igdb": "fray-reloaded-edition",
+   "metacritic": "fray",
    "mobygames": "101961",
    "pcgamingwiki": "Fray:_Reloaded_Edition",
    "steam": "210490"
@@ -685,7 +694,8 @@
  },
  {
   "ids": {
-   "igdb": "kuma-sushi-bar"
+   "igdb": "kuma-sushi-bar",
+   "metacritic": "kuma-sushi-bar"
   },
   "label_en": "Kuma Sushi Bar",
   "wikidata": "Q124247971"
@@ -696,6 +706,7 @@
    "epic": "enotria-the-last-song-enotria-the-last-song-standard-edition-984309",
    "howlongtobeat": "138103",
    "igdb": "enotria-the-last-song",
+   "metacritic": "enotria-the-last-song",
    "mobygames": "231051",
    "pcgamingwiki": "Enotria:_The_Last_Song",
    "steam": "2102450"
@@ -1052,6 +1063,7 @@
    "howlongtobeat": "67463",
    "igdb": "die-young-prologue",
    "mobygames": "128345",
+   "pcgamingwiki": "Die_Young:_Prologue",
    "steam": "973000"
   },
   "label_en": "Die Young: Prologue",
@@ -1094,6 +1106,7 @@
  {
   "ids": {
    "igdb": "momoka-wo-wasshoi",
+   "metacritic": "momoka-wasshoi",
    "steam": "3642370"
   },
   "label_en": "Momoka (wo) Wasshoi",

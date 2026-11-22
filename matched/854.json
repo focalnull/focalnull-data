@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "470",
    "igdb": "angry-birds-star-wars",
+   "metacritic": "angry-birds-star-wars",
    "mobygames": "59016",
    "pcgamingwiki": "Angry_Birds_Star_Wars"
   },
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "10590",
    "igdb": "toy-story-racer",
+   "metacritic": "toy-story-racer",
    "mobygames": "6486"
   },
   "label_en": "Toy Story Racer",
@@ -34,6 +36,7 @@
   "ids": {
    "howlongtobeat": "1884",
    "igdb": "confidential-mission",
+   "metacritic": "confidential-mission",
    "mobygames": "23416"
   },
   "label_en": "Confidential Mission",
@@ -63,6 +66,7 @@
   "enwiki": "RayStorm",
   "ids": {
    "igdb": "raystorm",
+   "metacritic": "raystorm-hd",
    "mobygames": "35031",
    "pcgamingwiki": "RayStorm"
   },
@@ -101,6 +105,7 @@
  {
   "ids": {
    "igdb": "fortune-street",
+   "metacritic": "fortune-street",
    "mobygames": "53828"
   },
   "label_en": "Fortune Street",
@@ -133,6 +138,7 @@
   "enwiki": "Pirates: Duels on the High Seas",
   "ids": {
    "igdb": "pirates-duels-on-the-high-seas",
+   "metacritic": "pirates-duels-on-the-high-seas",
    "mobygames": "86668"
   },
   "label_en": "Pirates: Duels on the High Seas",
@@ -142,6 +148,7 @@
   "enwiki": "SNK Gals' Fighters",
   "ids": {
    "igdb": "snk-gals-fighters",
+   "metacritic": "snk-gals-fighters",
    "mobygames": "20284"
   },
   "label_en": "SNK Gals' Fighters",
@@ -161,6 +168,7 @@
   "ids": {
    "howlongtobeat": "109872",
    "igdb": "zhp-unlosing-ranger-vs-darkdeath-evilman",
+   "metacritic": "z-h-p-unlosing-ranger-vs-darkdeath-evilman",
    "mobygames": "60198",
    "pcgamingwiki": "ZHP:_Unlosing_Ranger_vs._Darkdeath_Evilman",
    "steam": "1732070"
@@ -179,6 +187,7 @@
   "enwiki": "FIFA 14",
   "ids": {
    "igdb": "fifa-14",
+   "metacritic": "fifa-14",
    "mobygames": "63823",
    "pcgamingwiki": "FIFA_14"
   },
@@ -227,6 +236,7 @@
   "ids": {
    "howlongtobeat": "19692",
    "igdb": "squids-odyssey",
+   "metacritic": "squids-odyssey",
    "mobygames": "98049",
    "pcgamingwiki": "Squids_Odyssey",
    "steam": "822640"
@@ -246,6 +256,7 @@
   "ids": {
    "howlongtobeat": "68564",
    "igdb": "onirism",
+   "metacritic": "onirism",
    "mobygames": "201682",
    "pcgamingwiki": "Onirism",
    "steam": "1057640"
@@ -275,6 +286,7 @@
    "epic": "hogwarts-legacy",
    "howlongtobeat": "83145",
    "igdb": "hogwarts-legacy",
+   "metacritic": "hogwarts-legacy",
    "mobygames": "199531",
    "pcgamingwiki": "Hogwarts_Legacy",
    "steam": "990080"
@@ -286,6 +298,7 @@
   "ids": {
    "howlongtobeat": "49062",
    "igdb": "36-fragments-of-midnight",
+   "metacritic": "36-fragments-of-midnight",
    "mobygames": "96621",
    "pcgamingwiki": "36_Fragments_of_Midnight",
    "steam": "679930"
@@ -299,6 +312,7 @@
    "gog": "game/the_tenants",
    "howlongtobeat": "82704",
    "igdb": "the-tenants",
+   "metacritic": "the-tenants",
    "mobygames": "162595",
    "pcgamingwiki": "The_Tenants",
    "steam": "1009560"
@@ -962,6 +976,7 @@
   "ids": {
    "howlongtobeat": "169519",
    "igdb": "splatoon-raiders",
+   "metacritic": "splatoon-raiders",
    "mobygames": "264879"
   },
   "label_en": "Splatoon Raiders",
@@ -1274,6 +1289,7 @@
  {
   "ids": {
    "igdb": "culdcept-the-first-saturn-tribute",
+   "pcgamingwiki": "Culdcept_The_First",
    "steam": "3825600"
   },
   "label_en": "Culdcept The First",

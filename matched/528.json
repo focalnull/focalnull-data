@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3128",
    "igdb": "enter-the-matrix",
+   "metacritic": "enter-the-matrix",
    "mobygames": "9211",
    "pcgamingwiki": "Enter_the_Matrix"
   },
@@ -15,6 +16,7 @@
   "ids": {
    "howlongtobeat": "21092",
    "igdb": "quake-live",
+   "metacritic": "quake-live",
    "mobygames": "47703",
    "pcgamingwiki": "Quake_Live",
    "steam": "282440"
@@ -49,6 +51,7 @@
    "gog": "game/the_banner_saga",
    "howlongtobeat": "9769",
    "igdb": "the-banner-saga",
+   "metacritic": "the-banner-saga",
    "mobygames": "63343",
    "pcgamingwiki": "The_Banner_Saga",
    "steam": "237990"
@@ -59,6 +62,7 @@
  {
   "ids": {
    "igdb": "sea-monsters-a-prehistoric-adventure",
+   "metacritic": "sea-monsters-a-prehistoric-adventure",
    "mobygames": "31632"
   },
   "label_en": "Sea Monsters: A Prehistoric Adventure",
@@ -158,6 +162,7 @@
   "ids": {
    "howlongtobeat": "29062",
    "igdb": "beyond-eyes",
+   "metacritic": "beyond-eyes",
    "mobygames": "74097",
    "pcgamingwiki": "Beyond_Eyes",
    "steam": "356050"
@@ -171,6 +176,7 @@
    "epic": "horizon-zero-dawn-complete-edition",
    "howlongtobeat": "26784",
    "igdb": "horizon-zero-dawn",
+   "metacritic": "horizon-zero-dawn",
    "mobygames": "84338",
    "pcgamingwiki": "Horizon_Zero_Dawn"
   },
@@ -202,6 +208,7 @@
   "ids": {
    "howlongtobeat": "22649",
    "igdb": "shattered-planet",
+   "metacritic": "shattered-planet-rpg",
    "mobygames": "82987",
    "pcgamingwiki": "Shattered_Planet",
    "steam": "305640"
@@ -236,6 +243,7 @@
   "ids": {
    "howlongtobeat": "48311",
    "igdb": "subsurface-circular",
+   "metacritic": "subsurface-circular",
    "mobygames": "94632",
    "pcgamingwiki": "Subsurface_Circular",
    "steam": "676820"
@@ -246,6 +254,7 @@
  {
   "ids": {
    "igdb": "pokemon-ultra-sun",
+   "metacritic": "pokemon-ultra-sun",
    "mobygames": "97263"
   },
   "label_en": "Pokémon Ultra Sun",
@@ -257,6 +266,7 @@
    "epic": "just-cause-4",
    "howlongtobeat": "57525",
    "igdb": "just-cause-4",
+   "metacritic": "just-cause-4",
    "mobygames": "118167",
    "pcgamingwiki": "Just_Cause_4",
    "steam": "517630"
@@ -267,6 +277,7 @@
  {
   "ids": {
    "igdb": "corn-maze",
+   "metacritic": "corn-maze",
    "mobygames": "110145",
    "pcgamingwiki": "Corn_Maze"
   },
@@ -298,6 +309,7 @@
    "gog": "game/bright_memory_infinite",
    "howlongtobeat": "75383",
    "igdb": "bright-memory-infinite",
+   "metacritic": "bright-memory-infinite",
    "mobygames": "175312",
    "pcgamingwiki": "Bright_Memory:_Infinite",
    "steam": "1178830"
@@ -342,6 +354,7 @@
   "ids": {
    "howlongtobeat": "94166",
    "igdb": "danganronpa-s-ultimate-summer-camp",
+   "metacritic": "danganronpa-s-ultimate-summer-camp",
    "mobygames": "176386",
    "pcgamingwiki": "Danganronpa_S:_Ultimate_Summer_Camp",
    "steam": "1691970"
@@ -400,6 +413,7 @@
   "ids": {
    "howlongtobeat": "120813",
    "igdb": "car-dealership-simulator",
+   "pcgamingwiki": "Car_Dealership_Simulator",
    "steam": "2141690"
   },
   "label_en": "Car Dealership Simulator",
@@ -761,6 +775,7 @@
    "gog": "game/oaken",
    "howlongtobeat": "106986",
    "igdb": "oaken",
+   "metacritic": "oaken",
    "mobygames": "193121",
    "pcgamingwiki": "Oaken",
    "steam": "1348690"
@@ -819,6 +834,7 @@
   "ids": {
    "gog": "game/the_crimson_diamond",
    "igdb": "the-crimson-diamond",
+   "metacritic": "the-crimson-diamond",
    "mobygames": "229162",
    "pcgamingwiki": "The_Crimson_Diamond",
    "steam": "1098770"
@@ -829,6 +845,7 @@
  {
   "ids": {
    "igdb": "mark-of-the-ninja-remastered",
+   "metacritic": "mark-of-the-ninja-remastered",
    "mobygames": "114880",
    "pcgamingwiki": "Mark_of_the_Ninja:_Remastered",
    "steam": "860950"

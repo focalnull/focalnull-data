@@ -13,6 +13,7 @@
   "ids": {
    "howlongtobeat": "8581",
    "igdb": "sine-mora",
+   "metacritic": "sine-mora",
    "mobygames": "55877",
    "pcgamingwiki": "Sine_Mora",
    "steam": "207040"
@@ -46,6 +47,7 @@
    "gog": "game/rayman_2_the_great_escape",
    "howlongtobeat": "7610",
    "igdb": "rayman-2-revolution",
+   "metacritic": "rayman-3d",
    "mobygames": "2182",
    "pcgamingwiki": "Rayman_2:_The_Great_Escape",
    "steam": "15060"
@@ -65,6 +67,7 @@
   "ids": {
    "howlongtobeat": "1971",
    "igdb": "crash-bandicoot-2-n-tranced",
+   "metacritic": "crash-bandicoot-2-n-tranced",
    "mobygames": "8682"
   },
   "label_en": "Crash Bandicoot 2: N-Tranced",
@@ -74,6 +77,7 @@
   "enwiki": "WWF SmackDown! Just Bring It",
   "ids": {
    "igdb": "wwf-smackdown-just-bring-it",
+   "metacritic": "wwf-smackdown-just-bring-it",
    "mobygames": "5404"
   },
   "label_en": "WWF SmackDown! Just Bring It",
@@ -121,6 +125,7 @@
   "enwiki": "Marvel Super Hero Squad (video game)",
   "ids": {
    "igdb": "marvel-super-hero-squad",
+   "metacritic": "marvel-super-hero-squad",
    "mobygames": "48829"
   },
   "label_en": "Marvel Super Hero Squad",
@@ -132,6 +137,7 @@
    "gog": "game/18_wheels_of_steel_pedal_to_the_metal",
    "howlongtobeat": "36596",
    "igdb": "18-wheels-of-steel-pedal-to-the-metal",
+   "metacritic": "18-wheels-of-steel-pedal-to-the-metal",
    "mobygames": "14710",
    "pcgamingwiki": "18_Wheels_of_Steel:_Pedal_to_the_Metal",
    "steam": "337460"
@@ -157,6 +163,7 @@
   "ids": {
    "howlongtobeat": "1315",
    "igdb": "breakquest",
+   "metacritic": "breakquest",
    "mobygames": "16025",
    "pcgamingwiki": "BreakQuest"
   },
@@ -196,6 +203,7 @@
   "ids": {
    "howlongtobeat": "12654",
    "igdb": "final-fantasy-xiv-online-starter-edition",
+   "metacritic": "final-fantasy-xiv-online-a-realm-reborn",
    "mobygames": "61766",
    "pcgamingwiki": "Final_Fantasy_XIV:_A_Realm_Reborn",
    "steam": "39210"
@@ -206,7 +214,8 @@
  {
   "enwiki": "Hi Hi Puffy AmiYumi: The Genie and the Amp",
   "ids": {
-   "igdb": "hi-hi-puffy-amiyumi-the-genie-and-the-amp"
+   "igdb": "hi-hi-puffy-amiyumi-the-genie-and-the-amp",
+   "metacritic": "hi-hi-puffy-amiyumi-the-genie-and-the-amp"
   },
   "label_en": "Hi Hi Puffy AmiYumi: The Genie and the Amp",
   "wikidata": "Q5750393"
@@ -235,6 +244,7 @@
   "ids": {
    "howlongtobeat": "4331",
    "igdb": "harvest-moon-a-new-beginning",
+   "metacritic": "harvest-moon-3d-a-new-beginning",
    "mobygames": "63810"
   },
   "label_en": "Harvest Moon 3D: A New Beginning",
@@ -265,6 +275,7 @@
   "enwiki": "Gravity Falls: Legend of the Gnome Gemulets",
   "ids": {
    "igdb": "gravity-falls-legend-of-the-gnome-gemulets--1",
+   "metacritic": "gravity-falls-legend-of-the-gnome-gemulets",
    "mobygames": "99370"
   },
   "label_en": "Gravity Falls: Legend of the Gnome Gemulets",
@@ -340,6 +351,7 @@
   "ids": {
    "howlongtobeat": "66160",
    "igdb": "my-so-called-future-girlfriend",
+   "metacritic": "my-so-called-future-girlfriend",
    "mobygames": "178944",
    "pcgamingwiki": "My_So-Called_Future_Girlfriend",
    "steam": "976420"
@@ -368,6 +380,7 @@
  {
   "ids": {
    "igdb": "path-of-titans",
+   "metacritic": "path-of-titans",
    "mobygames": "236540"
   },
   "label_en": "Path of Titans",
@@ -377,6 +390,7 @@
   "ids": {
    "howlongtobeat": "16518",
    "igdb": "ultionus-a-tale-of-petty-revenge",
+   "metacritic": "ultionus-a-tale-of-petty-revenge",
    "mobygames": "74814",
    "pcgamingwiki": "Ultionus:_A_Tale_of_Petty_Revenge",
    "steam": "279160"
@@ -437,6 +451,7 @@
  {
   "ids": {
    "igdb": "urban-strife",
+   "pcgamingwiki": "Urban_Strife",
    "steam": "710230"
   },
   "label_en": "Urban Strife",
@@ -456,6 +471,7 @@
   "ids": {
    "howlongtobeat": "114145",
    "igdb": "the-finals",
+   "metacritic": "the-finals",
    "mobygames": "213673",
    "pcgamingwiki": "The_Finals",
    "steam": "2073850"
@@ -690,6 +706,7 @@
    "gog": "game/bandle_tale_a_league_of_legends_story",
    "howlongtobeat": "137788",
    "igdb": "bandle-tale-a-league-of-legends-story",
+   "metacritic": "bandle-tale-a-league-of-legends-story",
    "mobygames": "218143",
    "pcgamingwiki": "Bandle_Tale:_A_League_of_Legends_Story",
    "steam": "1759380"
@@ -889,6 +906,7 @@
   "ids": {
    "howlongtobeat": "109175",
    "igdb": "slopecrashers",
+   "metacritic": "slopecrashers",
    "steam": "1619580"
   },
   "label_en": "Slopecrashers",
@@ -898,6 +916,7 @@
   "ids": {
    "howlongtobeat": "32883",
    "igdb": "ace-combat-assault-horizon-legacy-plus",
+   "metacritic": "ace-combat-assault-horizon-legacy-plus",
    "mobygames": "96509"
   },
   "label_en": "Ace Combat: Assault Horizon Legacy+",

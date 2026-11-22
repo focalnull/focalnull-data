@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "10067",
    "igdb": "the-lord-of-the-rings-the-return-of-the-king--1",
+   "metacritic": "the-lord-of-the-rings-the-return-of-the-king",
    "mobygames": "10862",
    "pcgamingwiki": "The_Lord_of_the_Rings:_The_Return_of_the_King"
   },
@@ -14,6 +15,7 @@
   "enwiki": "Combat Mission: Shock Force",
   "ids": {
    "igdb": "combat-mission-shock-force",
+   "metacritic": "combat-mission-shock-force",
    "mobygames": "42225"
   },
   "label_en": "Combat Mission: Shock Force",
@@ -24,6 +26,7 @@
   "ids": {
    "howlongtobeat": "1833",
    "igdb": "command-conquer-3-tiberium-wars",
+   "metacritic": "command-conquer-3-tiberium-wars",
    "mobygames": "27484",
    "pcgamingwiki": "Command_&_Conquer_3:_Tiberium_Wars",
    "steam": "24790"
@@ -36,6 +39,7 @@
   "ids": {
    "howlongtobeat": "10703",
    "igdb": "turning-point-fall-of-liberty",
+   "metacritic": "turning-point-fall-of-liberty",
    "mobygames": "36243",
    "pcgamingwiki": "Turning_Point:_Fall_of_Liberty",
    "steam": "12720"
@@ -58,6 +62,7 @@
   "ids": {
    "howlongtobeat": "6146",
    "igdb": "monster-hunter",
+   "metacritic": "monster-hunter",
    "mobygames": "26011"
   },
   "label_en": "Monster Hunter",
@@ -78,6 +83,7 @@
   "enwiki": "Diner Dash",
   "ids": {
    "igdb": "diner-dash--1",
+   "metacritic": "diner-dash",
    "mobygames": "22237",
    "pcgamingwiki": "Diner_Dash"
   },
@@ -119,6 +125,7 @@
    "howlongtobeat": "63849",
    "igdb": "keep-the-balance--1",
    "mobygames": "20945",
+   "pcgamingwiki": "Keep_the_Balance!",
    "steam": "1260930"
   },
   "label_en": "Keep the Balance!",
@@ -141,6 +148,7 @@
   "enwiki": "Stranger (video game)",
   "ids": {
    "igdb": "stranger",
+   "metacritic": "stranger-2007",
    "mobygames": "44632",
    "pcgamingwiki": "Stranger"
   },
@@ -180,6 +188,7 @@
   "ids": {
    "howlongtobeat": "547",
    "igdb": "arc-the-lad-end-of-darkness",
+   "metacritic": "arc-the-lad-end-of-darkness",
    "mobygames": "15982"
   },
   "label_en": "Arc the Lad: End of Darkness",
@@ -189,6 +198,7 @@
   "enwiki": "Crayola Treasure Adventures",
   "ids": {
    "igdb": "crayola-treasure-adventures",
+   "metacritic": "crayola-treasure-adventures",
    "mobygames": "87802"
   },
   "label_en": "Crayola Treasure Adventures",
@@ -298,6 +308,7 @@
    "epic": "quest-of-dungeons-3064d5",
    "howlongtobeat": "18231",
    "igdb": "quest-of-dungeons",
+   "metacritic": "quest-of-dungeons",
    "mobygames": "64922",
    "pcgamingwiki": "Quest_of_Dungeons",
    "steam": "270050"
@@ -309,6 +320,7 @@
   "enwiki": "Tank Troopers",
   "ids": {
    "igdb": "tank-troopers",
+   "metacritic": "tank-troopers",
    "mobygames": "85057"
   },
   "label_en": "Tank Troopers",
@@ -318,6 +330,7 @@
   "ids": {
    "howlongtobeat": "16627",
    "igdb": "100-percent-orange-juice",
+   "metacritic": "100-orange-juice",
    "mobygames": "74922",
    "pcgamingwiki": "100%_Orange_Juice",
    "steam": "282800"
@@ -337,6 +350,7 @@
   "ids": {
    "howlongtobeat": "66164",
    "igdb": "mechstermination-force",
+   "metacritic": "mechstermination-force",
    "mobygames": "124247",
    "pcgamingwiki": "Mechstermination_Force",
    "steam": "1257310"
@@ -347,6 +361,7 @@
  {
   "enwiki": "Farming Simulator 20",
   "ids": {
+   "metacritic": "farming-simulator-20",
    "mobygames": "137907"
   },
   "label_en": "Farming Simulator 20",
@@ -442,6 +457,7 @@
   "ids": {
    "howlongtobeat": "131930",
    "igdb": "yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them",
+   "metacritic": "yeah-you-want-those-games-right-so-here-you-go-now",
    "mobygames": "206150",
    "steam": "2348100"
   },
@@ -585,6 +601,7 @@
   "ids": {
    "howlongtobeat": "75798",
    "igdb": "save-koch",
+   "metacritic": "save-koch",
    "mobygames": "125544",
    "pcgamingwiki": "Save_Koch",
    "steam": "1016720"

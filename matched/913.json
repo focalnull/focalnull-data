@@ -12,6 +12,7 @@
  {
   "ids": {
    "howlongtobeat": "5781",
+   "metacritic": "medal-of-honor-allied-assault-spearhead",
    "mobygames": "10311"
   },
   "label_en": "Medal of Honor: Allied Assault - Spearhead",
@@ -42,6 +43,7 @@
   "ids": {
    "howlongtobeat": "295",
    "igdb": "air-conflicts-secret-wars",
+   "metacritic": "air-conflicts-secret-wars",
    "mobygames": "59179",
    "pcgamingwiki": "Air_Conflicts:_Secret_Wars",
    "steam": "95900"
@@ -53,6 +55,7 @@
   "enwiki": "WWE SmackDown vs. Raw 2008",
   "ids": {
    "igdb": "wwe-smackdown-vs-raw-2008",
+   "metacritic": "wwe-smackdown-vs-raw-2008",
    "mobygames": "31659"
   },
   "label_en": "WWE SmackDown vs. Raw 2008",
@@ -167,6 +170,7 @@
  {
   "enwiki": "NCAA College Football 2K2: Road to the Rose Bowl",
   "ids": {
+   "metacritic": "ncaa-college-football-2k2-road-to-the-rose-bowl",
    "mobygames": "30670"
   },
   "label_en": "NCAA College Football 2K2: Road to the Rose Bowl",
@@ -221,6 +225,7 @@
   "ids": {
    "howlongtobeat": "6587",
    "igdb": "nickelodeon-party-blast",
+   "metacritic": "nickelodeon-party-blast",
    "mobygames": "92424",
    "pcgamingwiki": "Nickelodeon_Party_Blast"
   },
@@ -242,6 +247,7 @@
    "gog": "game/julia_among_the_stars",
    "howlongtobeat": "27408",
    "igdb": "j-dot-u-l-dot-i-a-dot-among-the-stars",
+   "metacritic": "julia-among-the-stars",
    "mobygames": "68940",
    "pcgamingwiki": "J.U.L.I.A._Among_the_Stars",
    "steam": "257690"
@@ -270,6 +276,7 @@
   "enwiki": "The Scorpion King: Sword of Osiris",
   "ids": {
    "igdb": "the-scorpion-king-sword-of-osiris",
+   "metacritic": "the-scorpion-king-sword-of-osiris",
    "mobygames": "6426"
   },
   "label_en": "The Scorpion King: Sword of Osiris",
@@ -312,6 +319,7 @@
    "gog": "game/8doors_arums_afterlife_adventure",
    "howlongtobeat": "90468",
    "igdb": "8doors-arums-afterlife-adventure",
+   "metacritic": "8doors-arums-afterlife-adventure",
    "mobygames": "166690",
    "pcgamingwiki": "8Doors:_Arum's_Afterlife_Adventure",
    "steam": "668550"
@@ -369,6 +377,7 @@
  {
   "ids": {
    "igdb": "rabbit-canyon",
+   "metacritic": "rabbit-canyon",
    "mobygames": "189375",
    "steam": "1860110"
   },
@@ -388,6 +397,7 @@
    "epic": "inertial-drift",
    "howlongtobeat": "82806",
    "igdb": "inertial-drift--1",
+   "metacritic": "inertial-drift",
    "mobygames": "150400",
    "pcgamingwiki": "Inertial_Drift",
    "steam": "1184480"
@@ -1260,5 +1270,12 @@
   },
   "label_en": "Acorn: Seed of Resistance",
   "wikidata": "Q141626913"
+ },
+ {
+  "ids": {
+   "steam": "4414620"
+  },
+  "label_en": "Book Nook",
+  "wikidata": "Q142207913"
  }
 ]

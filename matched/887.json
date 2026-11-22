@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "4983",
    "igdb": "killing-floor",
+   "metacritic": "killing-floor",
    "mobygames": "43237",
    "pcgamingwiki": "Killing_Floor",
    "steam": "1250"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "10966",
    "igdb": "virtua-tennis-4",
+   "metacritic": "virtua-tennis-4",
    "mobygames": "53014",
    "pcgamingwiki": "Virtua_Tennis_4",
    "steam": "71390"
@@ -36,6 +38,7 @@
   "enwiki": "Chariots of War",
   "ids": {
    "igdb": "chariots-of-war",
+   "metacritic": "chariots-of-war",
    "mobygames": "12019",
    "steam": "1284090"
   },
@@ -47,6 +50,7 @@
   "ids": {
    "howlongtobeat": "9562",
    "igdb": "tactics-ogre-the-knight-of-lodis",
+   "metacritic": "tactics-ogre-the-knight-of-lodis",
    "mobygames": "11880"
   },
   "label_en": "Tactics Ogre: The Knight of Lodis",
@@ -56,6 +60,7 @@
   "enwiki": "SpongeBob SquarePants: Creature from the Krusty Krab",
   "ids": {
    "igdb": "spongebob-squarepants-creature-from-the-krusty-krab",
+   "metacritic": "spongebob-squarepants-creature-from-the-krusty-kr",
    "mobygames": "25381"
   },
   "label_en": "SpongeBob SquarePants: Creature from the Krusty Krab",
@@ -109,6 +114,7 @@
   "ids": {
    "howlongtobeat": "10919",
    "igdb": "vessel",
+   "metacritic": "vessel",
    "mobygames": "55187",
    "pcgamingwiki": "Vessel",
    "steam": "108500"
@@ -187,6 +193,7 @@
   "ids": {
    "howlongtobeat": "24013",
    "igdb": "lego-jurassic-world",
+   "metacritic": "lego-jurassic-world",
    "mobygames": "73422",
    "pcgamingwiki": "Lego_Jurassic_World",
    "steam": "352400"
@@ -221,6 +228,7 @@
    "gog": "game/middleearth_shadow_of_war",
    "howlongtobeat": "44022",
    "igdb": "middle-earth-shadow-of-war",
+   "metacritic": "middle-earth-shadow-of-war",
    "mobygames": "96981",
    "pcgamingwiki": "Middle-earth:_Shadow_of_War",
    "steam": "356190"
@@ -235,6 +243,7 @@
    "gog": "game/kingdom_new_lands",
    "howlongtobeat": "39080",
    "igdb": "kingdom-new-lands",
+   "metacritic": "kingdom-new-lands",
    "mobygames": "95945",
    "pcgamingwiki": "Kingdom:_New_Lands",
    "steam": "496300"
@@ -267,6 +276,7 @@
    "gog": "game/hoa",
    "howlongtobeat": "90531",
    "igdb": "hoa",
+   "metacritic": "hoa",
    "mobygames": "169565",
    "pcgamingwiki": "Hoa",
    "steam": "1484900"
@@ -827,6 +837,7 @@
   "ids": {
    "howlongtobeat": "80734",
    "igdb": "zhust-the-illusion-soul",
+   "metacritic": "zhust-the-illusion-soul",
    "mobygames": "202877",
    "pcgamingwiki": "Zhust_-_The_Illusion_Soul",
    "steam": "649670"
@@ -1151,6 +1162,7 @@
  {
   "ids": {
    "igdb": "petz-horsez-2",
+   "pcgamingwiki": "Petz_Horsez_2_(2008)",
    "steam": "15160"
   },
   "label_en": "Petz® Horsez® 2",

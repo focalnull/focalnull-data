@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1467",
    "igdb": "call-of-duty-3",
+   "metacritic": "call-of-duty-3",
    "mobygames": "24923"
   },
   "label_en": "Call of Duty 3",
@@ -33,6 +34,7 @@
   "enwiki": "Driver 3",
   "ids": {
    "igdb": "driv3r",
+   "metacritic": "driv3r",
    "mobygames": "13723",
    "pcgamingwiki": "Driv3r"
   },
@@ -62,6 +64,7 @@
   "ids": {
    "howlongtobeat": "15791",
    "igdb": "world-war-ii-frontline-command",
+   "metacritic": "world-war-ii-frontline-command",
    "mobygames": "37989"
   },
   "label_en": "World War II: Frontline Command",
@@ -103,6 +106,7 @@
   "enwiki": "NCAA Football 12",
   "ids": {
    "igdb": "ncaa-football-12",
+   "metacritic": "ncaa-football-12",
    "mobygames": "93955"
   },
   "label_en": "NCAA Football 12",
@@ -161,6 +165,7 @@
   "ids": {
    "howlongtobeat": "15596",
    "igdb": "rust",
+   "metacritic": "rust",
    "mobygames": "63157",
    "pcgamingwiki": "Rust",
    "steam": "252490"
@@ -172,6 +177,7 @@
   "enwiki": "NCAA Football 14",
   "ids": {
    "igdb": "ncaa-football-14",
+   "metacritic": "ncaa-football-14",
    "mobygames": "67931"
   },
   "label_en": "NCAA Football 14",
@@ -182,6 +188,7 @@
   "ids": {
    "howlongtobeat": "63662",
    "igdb": "bit-boy-arcade",
+   "metacritic": "bit-boy-arcade",
    "mobygames": "97790"
   },
   "label_en": "Bit Boy!! Arcade",
@@ -206,7 +213,8 @@
  {
   "enwiki": "Funky Barn",
   "ids": {
-   "igdb": "funky-barn"
+   "igdb": "funky-barn",
+   "metacritic": "funky-barn"
   },
   "label_en": "Funky Barn",
   "wikidata": "Q20858961"
@@ -216,6 +224,7 @@
   "ids": {
    "howlongtobeat": "41916",
    "igdb": "monster-hunter-stories",
+   "metacritic": "monster-hunter-stories",
    "mobygames": "92903",
    "pcgamingwiki": "Monster_Hunter_Stories",
    "steam": "2356560"
@@ -239,6 +248,7 @@
   "ids": {
    "howlongtobeat": "85188",
    "igdb": "dead-link-pages-torn",
+   "metacritic": "dead-link-pages-torn",
    "mobygames": "98786",
    "pcgamingwiki": "Dead_Link:_Pages_Torn",
    "steam": "740070"
@@ -326,6 +336,7 @@
    "gog": "game/dread_templar",
    "howlongtobeat": "89589",
    "igdb": "dread-templar",
+   "metacritic": "dread-templar",
    "mobygames": "169449",
    "pcgamingwiki": "Dread_Templar",
    "steam": "1334730"
@@ -757,6 +768,7 @@
    "gog": "game/pathologic_3",
    "howlongtobeat": "157842",
    "igdb": "pathologic-3",
+   "metacritic": "pathologic-3",
    "pcgamingwiki": "Pathologic_3",
    "steam": "3199650"
   },

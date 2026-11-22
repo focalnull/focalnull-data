@@ -14,6 +14,7 @@
   "ids": {
    "howlongtobeat": "9378",
    "igdb": "super-mario-galaxy-2",
+   "metacritic": "super-mario-galaxy-2",
    "mobygames": "46697"
   },
   "label_en": "Super Mario Galaxy 2",
@@ -24,6 +25,7 @@
   "ids": {
    "howlongtobeat": "11155",
    "igdb": "wii-fit-plus",
+   "metacritic": "wii-fit-plus",
    "mobygames": "43212"
   },
   "label_en": "Wii Fit Plus",
@@ -45,6 +47,7 @@
   "ids": {
    "howlongtobeat": "7689",
    "igdb": "red-faction-guerrilla",
+   "metacritic": "red-faction-guerrilla",
    "mobygames": "41635",
    "pcgamingwiki": "Red_Faction:_Guerrilla",
    "steam": "20500"
@@ -102,6 +105,7 @@
   "ids": {
    "howlongtobeat": "6183",
    "igdb": "monsters-probably-stole-my-princess",
+   "metacritic": "monsters-probably-stole-my-princess",
    "mobygames": "50472"
   },
   "label_en": "Monsters (Probably) Stole My Princess",
@@ -111,6 +115,7 @@
   "enwiki": "Buzz! Junior: Dino Den",
   "ids": {
    "igdb": "buzz-junior-dino-den",
+   "metacritic": "buzz-junior-dino-den",
    "mobygames": "53265"
   },
   "label_en": "Buzz! Junior: Dino Den",
@@ -159,6 +164,7 @@
   "enwiki": "We Cheer",
   "ids": {
    "igdb": "we-cheer",
+   "metacritic": "we-cheer",
    "mobygames": "86023"
   },
   "label_en": "We Cheer",
@@ -172,6 +178,7 @@
   "ids": {
    "howlongtobeat": "12055",
    "igdb": "lords-of-football",
+   "metacritic": "lords-of-football",
    "mobygames": "94138",
    "pcgamingwiki": "Lords_of_Football",
    "steam": "230650"
@@ -183,6 +190,7 @@
   "ids": {
    "howlongtobeat": "18822",
    "igdb": "mugen-souls-z",
+   "metacritic": "mugen-souls-z",
    "mobygames": "83263",
    "pcgamingwiki": "Mugen_Souls_Z",
    "steam": "466920"
@@ -195,6 +203,7 @@
   "ids": {
    "howlongtobeat": "33272",
    "igdb": "hardware-rivals",
+   "metacritic": "hardware-rivals",
    "mobygames": "86902"
   },
   "label_en": "Hardware: Rivals",
@@ -240,6 +249,7 @@
    "gog": "game/hollow_knight_silksong",
    "howlongtobeat": "65945",
    "igdb": "hollow-knight-silksong",
+   "metacritic": "hollow-knight-silksong",
    "mobygames": "246839",
    "pcgamingwiki": "Hollow_Knight:_Silksong",
    "steam": "1030300"
@@ -280,6 +290,7 @@
   "ids": {
    "howlongtobeat": "41391",
    "igdb": "crazy-machines-3",
+   "metacritic": "crazy-machines-3",
    "mobygames": "81279",
    "pcgamingwiki": "Crazy_Machines_3",
    "steam": "351920"
@@ -303,6 +314,7 @@
   "ids": {
    "howlongtobeat": "7235",
    "igdb": "portal-still-alive",
+   "metacritic": "portal-still-alive",
    "mobygames": "37176"
   },
   "label_en": "Portal: Still Alive",
@@ -365,6 +377,7 @@
   "ids": {
    "howlongtobeat": "107701",
    "igdb": "another-crabs-treasure",
+   "metacritic": "another-crabs-treasure",
    "mobygames": "222844",
    "pcgamingwiki": "Another_Crab's_Treasure",
    "steam": "1887840"
@@ -405,6 +418,7 @@
    "howlongtobeat": "115533",
    "igdb": "edengate-the-edge-of-life",
    "mobygames": "195321",
+   "pcgamingwiki": "Edengate:_The_Edge_of_Life",
    "steam": "1414650"
   },
   "label_en": "Edengate: The Edge of Life",

@@ -49,6 +49,7 @@
   "enwiki": "Dynasty Warriors DS: Fighter's Battle",
   "ids": {
    "igdb": "dynasty-warriors-ds-fighters-battle",
+   "metacritic": "dynasty-warriors-ds-fighters-battle",
    "mobygames": "40364"
   },
   "label_en": "Dynasty Warriors DS: Fighter's Battle",
@@ -119,6 +120,7 @@
   "ids": {
    "howlongtobeat": "11922",
    "igdb": "breach--2",
+   "metacritic": "breach-2011",
    "mobygames": "50214",
    "pcgamingwiki": "Breach_(2011)",
    "steam": "72300"
@@ -129,7 +131,8 @@
  {
   "enwiki": "Evasive Space",
   "ids": {
-   "igdb": "evasive-space"
+   "igdb": "evasive-space",
+   "metacritic": "evasive-space"
   },
   "label_en": "Evasive Space",
   "wikidata": "Q5416098"
@@ -138,6 +141,7 @@
   "enwiki": "Pearl Harbor Trilogy – 1941: Red Sun Rising",
   "ids": {
    "igdb": "pearl-harbor-trilogy-1941-red-sun-rising",
+   "metacritic": "pearl-harbor-trilogy-1941-red-sun-rising",
    "mobygames": "55069"
   },
   "label_en": "Pearl Harbor Trilogy – 1941: Red Sun Rising",
@@ -171,6 +175,7 @@
   "ids": {
    "howlongtobeat": "23183",
    "igdb": "clash-of-clans",
+   "metacritic": "clash-of-clans",
    "mobygames": "59402"
   },
   "label_en": "Clash of Clans",
@@ -190,6 +195,7 @@
   "ids": {
    "howlongtobeat": "21992",
    "igdb": "nba-2k15",
+   "metacritic": "nba-2k15",
    "mobygames": "69476",
    "pcgamingwiki": "NBA_2K15",
    "steam": "282350"
@@ -201,6 +207,7 @@
   "ids": {
    "howlongtobeat": "39985",
    "igdb": "superdimension-neptune-vs-sega-hard-girls",
+   "metacritic": "superdimension-neptune-vs-sega-hard-girls",
    "mobygames": "81223",
    "pcgamingwiki": "Superdimension_Neptune_VS_Sega_Hard_Girls",
    "steam": "571530"
@@ -213,6 +220,7 @@
   "ids": {
    "howlongtobeat": "45284",
    "igdb": "warhammer-40000-dawn-of-war-iii",
+   "metacritic": "warhammer-40000-dawn-of-war-iii",
    "mobygames": "87108",
    "pcgamingwiki": "Warhammer_40,000:_Dawn_of_War_III",
    "steam": "285190"
@@ -278,6 +286,7 @@
    "gog": "game/roguebook",
    "howlongtobeat": "92088",
    "igdb": "roguebook",
+   "metacritic": "roguebook",
    "mobygames": "166396",
    "pcgamingwiki": "Roguebook",
    "steam": "1076200"
@@ -327,6 +336,7 @@
    "epic": "star-trek-prodigy-supernova-cdb770",
    "howlongtobeat": "110385",
    "igdb": "star-trek-prodigy-supernova",
+   "metacritic": "star-trek-prodigy-supernova",
    "mobygames": "192496",
    "pcgamingwiki": "Star_Trek_Prodigy:_Supernova",
    "steam": "1655220"
@@ -340,6 +350,7 @@
    "epic": "fireburst-3c29b4",
    "howlongtobeat": "3568",
    "igdb": "fireburst",
+   "metacritic": "fireburst",
    "mobygames": "104392",
    "pcgamingwiki": "Fireburst",
    "steam": "207190"
@@ -362,6 +373,7 @@
   "ids": {
    "howlongtobeat": "73785",
    "igdb": "ciel-fledge",
+   "metacritic": "ciel-fledge-a-daughter-raising-simulator",
    "mobygames": "142215",
    "pcgamingwiki": "Ciel_Fledge",
    "steam": "738270"
@@ -419,7 +431,9 @@
    "epic": "valiant-hearts-coming-home",
    "howlongtobeat": "118593",
    "igdb": "valiant-hearts-coming-home",
+   "metacritic": "valiant-hearts-coming-home",
    "mobygames": "201542",
+   "pcgamingwiki": "Valiant_Hearts:_Coming_Home",
    "steam": "2741360"
   },
   "label_en": "Valiant Hearts: Coming Home",
@@ -744,6 +758,7 @@
  },
  {
   "ids": {
+   "metacritic": "masque-solitaire-antics",
    "mobygames": "52515"
   },
   "label_en": "Solitaire Antics",
@@ -1122,6 +1137,7 @@
  {
   "ids": {
    "igdb": "the-last-nightmary-a-lenda-do-cabeca-de-cuia",
+   "pcgamingwiki": "The_Last_NightMary_-_A_Lenda_do_Cabeça_de_Cuia",
    "steam": "407300"
   },
   "label_en": "The Last NightMary - A Lenda do Cabeça de Cuia",

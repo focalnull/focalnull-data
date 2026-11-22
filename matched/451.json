@@ -5,6 +5,7 @@
    "gog": "game/secret_files_2_puritas_cordis",
    "howlongtobeat": "8208",
    "igdb": "secret-files-2-puritas-cordis",
+   "metacritic": "secret-files-2-puritas-cordis",
    "mobygames": "35899",
    "pcgamingwiki": "Secret_Files_2:_Puritas_Cordis",
    "steam": "40340"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "10471",
    "igdb": "tomb-raider-ii",
+   "metacritic": "tomb-raider-ii",
    "mobygames": "487",
    "pcgamingwiki": "Tomb_Raider_II",
    "steam": "225300"
@@ -67,6 +69,7 @@
   "ids": {
    "howlongtobeat": "11382",
    "igdb": "x-men-next-dimension",
+   "metacritic": "x-men-next-dimension",
    "mobygames": "7542"
   },
   "label_en": "X-Men: Next Dimension",
@@ -86,6 +89,7 @@
   "enwiki": "I-Ninja",
   "ids": {
    "igdb": "i-ninja",
+   "metacritic": "i-ninja",
    "mobygames": "11808",
    "pcgamingwiki": "I-Ninja"
   },
@@ -114,6 +118,7 @@
   "enwiki": "NCAA Football 06",
   "ids": {
    "igdb": "ncaa-football-06",
+   "metacritic": "ncaa-football-06",
    "mobygames": "31293"
   },
   "label_en": "NCAA Football 06",
@@ -141,6 +146,7 @@
   "enwiki": "Petz: Crazy Monkeyz",
   "ids": {
    "igdb": "petz-crazy-monkeyz",
+   "metacritic": "petz-crazy-monkeyz",
    "mobygames": "86148"
   },
   "label_en": "Petz: Crazy Monkeyz",
@@ -195,6 +201,7 @@
   "ids": {
    "howlongtobeat": "26570",
    "igdb": "lego-worlds",
+   "metacritic": "lego-worlds",
    "mobygames": "84887",
    "pcgamingwiki": "Lego_Worlds",
    "steam": "332310"
@@ -238,6 +245,7 @@
    "gog": "game/megaquarium",
    "howlongtobeat": "60719",
    "igdb": "megaquarium",
+   "metacritic": "megaquarium",
    "mobygames": "113559",
    "pcgamingwiki": "Megaquarium",
    "steam": "600480"
@@ -249,6 +257,7 @@
   "ids": {
    "howlongtobeat": "34367",
    "igdb": "lets-sing-2016",
+   "metacritic": "lets-sing-2016",
    "mobygames": "102145",
    "pcgamingwiki": "Let's_Sing_2016",
    "steam": "397820"
@@ -290,6 +299,7 @@
    "gog": "game/void_bastards",
    "howlongtobeat": "67475",
    "igdb": "void-bastards",
+   "metacritic": "void-bastards",
    "mobygames": "127670",
    "pcgamingwiki": "Void_Bastards",
    "steam": "857980"
@@ -423,6 +433,7 @@
   "ids": {
    "howlongtobeat": "124794",
    "igdb": "quadrata",
+   "pcgamingwiki": "Quadrata",
    "steam": "2066950"
   },
   "label_en": "Quadrata",

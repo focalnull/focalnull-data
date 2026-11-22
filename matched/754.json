@@ -30,6 +30,7 @@
   "enwiki": "Fallout: Brotherhood of Steel",
   "ids": {
    "igdb": "fallout-brotherhood-of-steel",
+   "metacritic": "fallout-brotherhood-of-steel",
    "mobygames": "13084"
   },
   "label_en": "Fallout: Brotherhood of Steel",
@@ -75,7 +76,8 @@
  {
   "enwiki": "Under Siege (2011 video game)",
   "ids": {
-   "igdb": "under-siege"
+   "igdb": "under-siege",
+   "metacritic": "under-siege-2011"
   },
   "label_en": "Under Siege",
   "wikidata": "Q3281754"
@@ -84,6 +86,7 @@
   "enwiki": "Crash Time: Autobahn Pursuit",
   "ids": {
    "igdb": "crash-time",
+   "metacritic": "crash-time",
    "mobygames": "44606"
   },
   "label_en": "Crash Time: Autobahn Pursuit",
@@ -109,6 +112,7 @@
   "ids": {
    "howlongtobeat": "7461",
    "igdb": "quake-iii-team-arena",
+   "metacritic": "quake-iii-team-arena",
    "mobygames": "2877",
    "steam": "2350"
   },
@@ -124,6 +128,7 @@
   "ids": {
    "howlongtobeat": "9242",
    "igdb": "street-fighter-iii-3rd-strike",
+   "metacritic": "street-fighter-iii-3rd-strike",
    "mobygames": "5051"
   },
   "label_en": "Street Fighter III: 3rd Strike",
@@ -154,6 +159,7 @@
   "enwiki": "Justice League Heroes: The Flash",
   "ids": {
    "igdb": "justice-league-heroes-the-flash",
+   "metacritic": "justice-league-heroes-the-flash",
    "mobygames": "25220"
   },
   "label_en": "Justice League Heroes: The Flash",
@@ -245,6 +251,7 @@
   "ids": {
    "howlongtobeat": "38775",
    "igdb": "10-second-ninja-x",
+   "metacritic": "10-second-ninja-x",
    "mobygames": "79860",
    "pcgamingwiki": "10_Second_Ninja_X",
    "steam": "435790"
@@ -257,6 +264,7 @@
   "ids": {
    "epic": "the-division-2",
    "igdb": "tom-clancys-the-division-2",
+   "metacritic": "tom-clancys-the-division-2",
    "mobygames": "123880",
    "pcgamingwiki": "Tom_Clancy's_The_Division_2",
    "steam": "2221490"
@@ -270,6 +278,7 @@
    "gog": "game/telling_lies",
    "howlongtobeat": "68273",
    "igdb": "telling-lies",
+   "metacritic": "telling-lies",
    "mobygames": "133460",
    "pcgamingwiki": "Telling_Lies",
    "steam": "762830"
@@ -284,6 +293,7 @@
    "gog": "game/ys_ix_monstrum_nox",
    "howlongtobeat": "70939",
    "igdb": "ys-ix-monstrum-nox",
+   "metacritic": "ys-ix-monstrum-nox",
    "mobygames": "142024",
    "pcgamingwiki": "Ys_IX:_Monstrum_Nox",
    "steam": "1351630"
@@ -314,6 +324,7 @@
   "ids": {
    "howlongtobeat": "84550",
    "igdb": "gi-joe-operation-blackout",
+   "metacritic": "gi-joe-operation-blackout",
    "mobygames": "150581",
    "pcgamingwiki": "G.I._Joe:_Operation_Blackout",
    "steam": "1432220"
@@ -336,6 +347,7 @@
   "ids": {
    "howlongtobeat": "5425",
    "igdb": "lume",
+   "metacritic": "lume",
    "mobygames": "51418",
    "pcgamingwiki": "Lume",
    "steam": "105100"
@@ -350,6 +362,7 @@
    "gog": "game/saint_kotar",
    "howlongtobeat": "99542",
    "igdb": "saint-kotar",
+   "metacritic": "saint-kotar",
    "mobygames": "174414",
    "pcgamingwiki": "Saint_Kotar",
    "steam": "1358530"
@@ -471,6 +484,7 @@
   "ids": {
    "howlongtobeat": "122664",
    "igdb": "ea-sports-pga-tour",
+   "metacritic": "ea-sports-pga-tour",
    "mobygames": "201328",
    "pcgamingwiki": "EA_Sports_PGA_Tour",
    "steam": "1677350"
@@ -936,6 +950,7 @@
   "ids": {
    "howlongtobeat": "147332",
    "igdb": "card-en-ciel",
+   "metacritic": "card-en-ciel",
    "mobygames": "232348",
    "steam": "2730540"
   },
@@ -996,6 +1011,7 @@
   "ids": {
    "howlongtobeat": "164871",
    "igdb": "tony-hawks-pro-skater-3-plus-4",
+   "metacritic": "tony-hawks-pro-skater-3-plus-4",
    "mobygames": "244433",
    "pcgamingwiki": "Tony_Hawk's_Pro_Skater_3_+_4",
    "steam": "2545710"
@@ -1113,6 +1129,7 @@
   "ids": {
    "howlongtobeat": "18078",
    "igdb": "speedball-2-hd",
+   "metacritic": "speedball-2-hd",
    "mobygames": "62939",
    "pcgamingwiki": "Speedball_2_HD",
    "steam": "251690"

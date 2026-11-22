@@ -5,6 +5,7 @@
    "gog": "game/final_fantasy_ix",
    "howlongtobeat": "3505",
    "igdb": "final-fantasy-ix",
+   "metacritic": "final-fantasy-ix",
    "mobygames": "3556",
    "pcgamingwiki": "Final_Fantasy_IX",
    "steam": "377840"
@@ -17,6 +18,7 @@
   "ids": {
    "howlongtobeat": "3629",
    "igdb": "football-manager-2011",
+   "metacritic": "football-manager-2011",
    "mobygames": "50844",
    "pcgamingwiki": "Football_Manager_2011",
    "steam": "34220"
@@ -36,6 +38,7 @@
   "ids": {
    "howlongtobeat": "17260",
    "igdb": "uncharted-fight-for-fortune",
+   "metacritic": "uncharted-fight-for-fortune",
    "mobygames": "77974"
   },
   "label_en": "Uncharted: Fight for Fortune",
@@ -75,6 +78,7 @@
   "ids": {
    "howlongtobeat": "1569",
    "igdb": "castlevania--2",
+   "metacritic": "castlevania-1998",
    "mobygames": "7237"
   },
   "label_en": "Castlevania",
@@ -93,6 +97,7 @@
   "enwiki": "Ninja Gaiden: Dragon Sword",
   "ids": {
    "igdb": "ninja-gaiden-dragon-sword",
+   "metacritic": "ninja-gaiden-dragon-sword",
    "mobygames": "34697"
   },
   "label_en": "Ninja Gaiden: Dragon Sword",
@@ -102,6 +107,7 @@
   "enwiki": "Disney Sing It",
   "ids": {
    "igdb": "disney-sing-it",
+   "metacritic": "disney-sing-it",
    "mobygames": "87377"
   },
   "label_en": "Disney Sing It",
@@ -111,6 +117,7 @@
   "enwiki": "SpongeBob SquarePants: Battle for Bikini Bottom",
   "ids": {
    "igdb": "spongebob-squarepants-battle-for-bikini-bottom--1",
+   "metacritic": "spongebob-squarepants-battle-for-bikini-bottom",
    "mobygames": "11358",
    "pcgamingwiki": "SpongeBob_SquarePants:_Battle_for_Bikini_Bottom"
   },
@@ -122,6 +129,7 @@
   "ids": {
    "gog": "game/wetrix",
    "igdb": "wetrix",
+   "metacritic": "wetrix",
    "mobygames": "3164",
    "pcgamingwiki": "Wetrix"
   },
@@ -179,7 +187,8 @@
  {
   "enwiki": "Deadliest Warrior: Legends",
   "ids": {
-   "igdb": "deadliest-warrior-legends"
+   "igdb": "deadliest-warrior-legends",
+   "metacritic": "deadliest-warrior-legends"
   },
   "label_en": "Deadliest Warrior: Legends",
   "wikidata": "Q5245573"
@@ -208,6 +217,7 @@
   "ids": {
    "howlongtobeat": "5487",
    "igdb": "madballs-in-babo-invasion",
+   "metacritic": "madballs-in-babo-invasion",
    "mobygames": "43619",
    "pcgamingwiki": "Madballs_in_Babo:_Invasion",
    "steam": "25700"
@@ -263,6 +273,7 @@
    "gog": "game/the_lego_movie_videogame",
    "howlongtobeat": "16585",
    "igdb": "the-lego-movie-videogame",
+   "metacritic": "the-lego-movie-videogame",
    "mobygames": "80462",
    "pcgamingwiki": "The_Lego_Movie_Videogame",
    "steam": "267530"
@@ -275,6 +286,7 @@
   "ids": {
    "howlongtobeat": "31729",
    "igdb": "motogp-14--1",
+   "metacritic": "motogp-14",
    "mobygames": "84412",
    "pcgamingwiki": "MotoGP_14",
    "steam": "256390"
@@ -303,6 +315,7 @@
   "enwiki": "Valkyria Revolution",
   "ids": {
    "igdb": "valkyria-revolution",
+   "metacritic": "valkyria-revolution",
    "mobygames": "91452"
   },
   "label_en": "Valkyria: Azure Revolution",
@@ -313,6 +326,7 @@
   "ids": {
    "howlongtobeat": "46213",
    "igdb": "the-franz-kafka-videogame",
+   "metacritic": "the-franz-kafka-videogame",
    "mobygames": "86556",
    "pcgamingwiki": "The_Franz_Kafka_Videogame",
    "steam": "392280"
@@ -324,6 +338,7 @@
   "ids": {
    "howlongtobeat": "23828",
    "igdb": "dont-starve-together",
+   "metacritic": "dont-starve-together",
    "mobygames": "83253",
    "pcgamingwiki": "Don't_Starve_Together",
    "steam": "322330"
@@ -344,6 +359,7 @@
    "gog": "game/the_red_strings_club",
    "howlongtobeat": "52548",
    "igdb": "the-red-strings-club",
+   "metacritic": "the-red-strings-club",
    "mobygames": "101765",
    "pcgamingwiki": "The_Red_Strings_Club",
    "steam": "589780"
@@ -366,6 +382,7 @@
    "gog": "game/timespinner",
    "howlongtobeat": "26279",
    "igdb": "timespinner",
+   "metacritic": "timespinner",
    "mobygames": "113693",
    "pcgamingwiki": "Timespinner",
    "steam": "368620"
@@ -379,6 +396,7 @@
    "gog": "game/trailblazers",
    "howlongtobeat": "56340",
    "igdb": "trailblazers",
+   "metacritic": "trailblazers",
    "mobygames": "108329",
    "pcgamingwiki": "Trailblazers",
    "steam": "621970"
@@ -453,6 +471,7 @@
    "gog": "game/world_end_economica_episode01",
    "howlongtobeat": "23331",
    "igdb": "world-end-economica-episode-dot-01",
+   "metacritic": "world-end-economica-episode01",
    "mobygames": "96927",
    "pcgamingwiki": "World_End_Economica_Episode.01",
    "steam": "269250"
@@ -492,6 +511,7 @@
   "ids": {
    "howlongtobeat": "27724",
    "igdb": "fort-defense",
+   "metacritic": "fort-defense",
    "mobygames": "96984",
    "pcgamingwiki": "Fort_Defense",
    "steam": "343930"
@@ -618,6 +638,7 @@
   "ids": {
    "howlongtobeat": "131021",
    "igdb": "lingo--1",
+   "pcgamingwiki": "Lingo",
    "steam": "1814170"
   },
   "label_en": "Lingo",
@@ -1247,6 +1268,7 @@
   "ids": {
    "howlongtobeat": "172954",
    "igdb": "valor-mortis",
+   "metacritic": "valor-mortis",
    "pcgamingwiki": "Valor_Mortis",
    "steam": "2828710"
   },

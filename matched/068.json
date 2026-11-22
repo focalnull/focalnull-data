@@ -15,6 +15,7 @@
   "enwiki": "Lips (video game)",
   "ids": {
    "igdb": "lips",
+   "metacritic": "lips",
    "mobygames": "42546"
   },
   "label_en": "Lips",
@@ -45,6 +46,7 @@
    "gog": "game/enclave",
    "howlongtobeat": "3114",
    "igdb": "enclave",
+   "metacritic": "enclave",
    "mobygames": "7181",
    "pcgamingwiki": "Enclave",
    "steam": "253980"
@@ -58,6 +60,7 @@
    "epic": "ikaruga-a200be",
    "howlongtobeat": "4616",
    "igdb": "ikaruga",
+   "metacritic": "ikaruga",
    "mobygames": "7738",
    "pcgamingwiki": "Ikaruga",
    "steam": "253750"
@@ -99,6 +102,7 @@
   "enwiki": "Yu-Gi-Oh! Reshef of Destruction",
   "ids": {
    "igdb": "yu-gi-oh-reshef-of-destruction",
+   "metacritic": "yu-gi-oh-reshef-of-destruction",
    "mobygames": "13882"
   },
   "label_en": "Yu-Gi-Oh! Reshef of Destruction",
@@ -108,6 +112,7 @@
   "enwiki": "Quantum Redshift",
   "ids": {
    "igdb": "quantum-redshift",
+   "metacritic": "quantum-redshift",
    "mobygames": "8060"
   },
   "label_en": "Quantum Redshift",
@@ -169,6 +174,7 @@
   "enwiki": "Euphoria (visual novel)",
   "ids": {
    "howlongtobeat": "39734",
+   "metacritic": "euphoria-2011",
    "mobygames": "195832"
   },
   "label_en": "Euphoria",
@@ -196,6 +202,7 @@
   "ids": {
    "howlongtobeat": "14322",
    "igdb": "call-of-duty-ghosts",
+   "metacritic": "call-of-duty-ghosts",
    "mobygames": "62336",
    "pcgamingwiki": "Call_of_Duty:_Ghosts",
    "steam": "209160"
@@ -207,6 +214,7 @@
   "enwiki": "Disney Magical World",
   "ids": {
    "igdb": "disney-magical-world",
+   "metacritic": "disney-magic-castle-my-happy-life",
    "mobygames": "86799"
   },
   "label_en": "Disney Magical World",
@@ -216,6 +224,7 @@
   "enwiki": "Style Savvy: Fashion Forward",
   "ids": {
    "igdb": "style-savvy-fashion-forward",
+   "metacritic": "style-savvy-fashion-forward",
    "mobygames": "91365"
   },
   "label_en": "Style Savvy: Fashion Forward",
@@ -228,6 +237,7 @@
   "ids": {
    "howlongtobeat": "62076",
    "igdb": "touhou-genso-wanderer-reloaded",
+   "metacritic": "touhou-genso-wanderer-reloaded",
    "mobygames": "110402",
    "pcgamingwiki": "Touhou_Genso_Wanderer_-Reloaded-_/_不可思议的幻想乡TOD_-RELOADED-_/_不思議の幻想郷TOD_-RELOADED-",
    "steam": "931500"
@@ -253,6 +263,7 @@
    "gog": "game/manor_lords",
    "howlongtobeat": "100045",
    "igdb": "manor-lords",
+   "metacritic": "manor-lords",
    "mobygames": "222766",
    "pcgamingwiki": "Manor_Lords",
    "steam": "1363080"
@@ -266,6 +277,7 @@
    "gog": "game/relegion",
    "howlongtobeat": "64683",
    "igdb": "re-legion",
+   "metacritic": "re-legion",
    "mobygames": "121494",
    "pcgamingwiki": "Re-Legion",
    "steam": "782140"
@@ -280,6 +292,7 @@
    "gog": "game/pumpkin_jack",
    "howlongtobeat": "75302",
    "igdb": "pumpkin-jack",
+   "metacritic": "pumpkin-jack",
    "mobygames": "151934",
    "pcgamingwiki": "Pumpkin_Jack",
    "steam": "1186640"
@@ -292,6 +305,7 @@
   "ids": {
    "howlongtobeat": "88918",
    "igdb": "jack-jeanne",
+   "metacritic": "jack-jeanne",
    "mobygames": "143125"
   },
   "label_en": "Jack Jeanne",
@@ -339,6 +353,7 @@
    "gog": "game/sunblaze",
    "howlongtobeat": "89849",
    "igdb": "sunblaze",
+   "metacritic": "sunblaze",
    "mobygames": "165881",
    "pcgamingwiki": "Sunblaze",
    "steam": "1525660"
@@ -350,6 +365,7 @@
   "ids": {
    "howlongtobeat": "46920",
    "igdb": "one-dog-story",
+   "metacritic": "one-dog-story",
    "mobygames": "99876",
    "pcgamingwiki": "One_Dog_Story",
    "steam": "588110"
@@ -405,6 +421,7 @@
    "gog": "game/star_trucker",
    "howlongtobeat": "129876",
    "igdb": "star-trucker",
+   "metacritic": "star-trucker",
    "mobygames": "229933",
    "pcgamingwiki": "Star_Trucker",
    "steam": "2380050"
@@ -417,6 +434,7 @@
   "ids": {
    "howlongtobeat": "17308",
    "igdb": "riptide-gp2",
+   "metacritic": "riptide-gp2",
    "mobygames": "71618",
    "pcgamingwiki": "Riptide_GP2",
    "steam": "257790"
@@ -821,6 +839,7 @@
   "ids": {
    "howlongtobeat": "19991",
    "igdb": "freefall-racers",
+   "metacritic": "freefall-racers",
    "mobygames": "165226"
   },
   "label_en": "Freefall Racers",

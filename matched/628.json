@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "1953",
    "igdb": "counter-strike",
+   "metacritic": "counter-strike",
    "mobygames": "165613",
    "pcgamingwiki": "Counter-Strike",
    "steam": "10"
@@ -16,6 +17,7 @@
   "ids": {
    "howlongtobeat": "17640",
    "igdb": "ragnarok-online",
+   "metacritic": "ragnarok-online",
    "mobygames": "13711",
    "pcgamingwiki": "Ragnarok_Online",
    "steam": "250740"
@@ -48,6 +50,7 @@
   "ids": {
    "howlongtobeat": "14135",
    "igdb": "mysims-kingdom",
+   "metacritic": "mysims-kingdom",
    "mobygames": "67525",
    "pcgamingwiki": "MySims_Kingdom",
    "steam": "3328910"
@@ -70,6 +73,7 @@
    "gog": "game/saints_row_2",
    "howlongtobeat": "8072",
    "igdb": "saints-row-2",
+   "metacritic": "saints-row-2",
    "mobygames": "38790",
    "pcgamingwiki": "Saints_Row_2",
    "steam": "9480"
@@ -109,6 +113,7 @@
   "ids": {
    "howlongtobeat": "9228",
    "igdb": "street-fighter-alpha-3",
+   "metacritic": "street-fighter-alpha-3",
    "mobygames": "3707",
    "steam": "1842988"
   },
@@ -120,6 +125,7 @@
   "ids": {
    "howlongtobeat": "6781",
    "igdb": "operation-flashpoint-red-river",
+   "metacritic": "operation-flashpoint-red-river",
    "mobygames": "51621",
    "pcgamingwiki": "Operation_Flashpoint:_Red_River",
    "steam": "44340"
@@ -154,6 +160,7 @@
   "enwiki": "Astro Boy: The Video Game",
   "ids": {
    "igdb": "astro-boy-the-video-game--1",
+   "metacritic": "astro-boy-the-video-game",
    "mobygames": "99344"
   },
   "label_en": "Astro Boy: The Video Game",
@@ -214,6 +221,7 @@
    "gog": "game/d4_dark_dreams_dont_die",
    "howlongtobeat": "21128",
    "igdb": "d4-dark-dreams-dont-die-season-1",
+   "metacritic": "d4-dark-dreams-dont-die",
    "mobygames": "69027",
    "pcgamingwiki": "D4:_Dark_Dreams_Don't_Die",
    "steam": "358090"
@@ -280,6 +288,7 @@
   "enwiki": "Disney's Lilo & Stitch (GBA video game)",
   "ids": {
    "igdb": "disneys-lilo-and-stitch",
+   "metacritic": "disneys-lilo-stitch",
    "mobygames": "27376"
   },
   "label_en": "Disney's Lilo & Stitch",
@@ -294,6 +303,7 @@
   "ids": {
    "howlongtobeat": "70631",
    "igdb": "supertrucks-offroad",
+   "metacritic": "supertrucks-offroad",
    "pcgamingwiki": "SuperTrucks_Offroad",
    "steam": "743830"
   },
@@ -305,6 +315,7 @@
   "ids": {
    "howlongtobeat": "1410",
    "igdb": "burnout-paradise-remastered",
+   "metacritic": "burnout-paradise-remastered",
    "mobygames": "105445",
    "pcgamingwiki": "Burnout_Paradise_Remastered",
    "steam": "1238080"
@@ -395,6 +406,7 @@
    "epic": "we-are-ofk",
    "howlongtobeat": "93906",
    "igdb": "we-are-ofk--1",
+   "metacritic": "we-are-ofk",
    "mobygames": "189782",
    "pcgamingwiki": "We_Are_OFK",
    "steam": "1490340"
@@ -671,6 +683,7 @@
   "ids": {
    "howlongtobeat": "102330",
    "igdb": "the-sapling",
+   "metacritic": "the-sapling",
    "pcgamingwiki": "The_Sapling",
    "steam": "997380"
   },
@@ -703,6 +716,7 @@
   "ids": {
    "howlongtobeat": "29747",
    "igdb": "lamia-must-die",
+   "metacritic": "lamia-must-die",
    "mobygames": "74486",
    "pcgamingwiki": "Lamia_Must_Die",
    "steam": "385260"
@@ -1181,6 +1195,7 @@
  {
   "enwiki": "Sled Shred featuring the Jamaican Bobsled Team",
   "ids": {
+   "metacritic": "sled-shred-featuring-the-jamaican-bobsled-team",
    "mobygames": "92366"
   },
   "label_en": "Sled Shred featuring the Jamaican Bobsled Team",

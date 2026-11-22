@@ -3,6 +3,7 @@
   "enwiki": "Sonic Chaos",
   "ids": {
    "igdb": "sonic-the-hedgehog-chaos",
+   "metacritic": "sonic-chaos",
    "mobygames": "10344"
   },
   "label_en": "Sonic Chaos",
@@ -48,6 +49,7 @@
   "enwiki": "Prison Break: The Conspiracy",
   "ids": {
    "igdb": "prison-break-the-conspiracy",
+   "metacritic": "prison-break-the-conspiracy",
    "mobygames": "45971",
    "pcgamingwiki": "Prison_Break:_The_Conspiracy"
   },
@@ -92,6 +94,7 @@
   "ids": {
    "howlongtobeat": "2414",
    "igdb": "defiance",
+   "metacritic": "defiance",
    "mobygames": "60771",
    "pcgamingwiki": "Defiance",
    "steam": "224600"
@@ -112,6 +115,7 @@
   "enwiki": "Go! Go! Hypergrind",
   "ids": {
    "igdb": "go-go-hypergrind",
+   "metacritic": "go-go-hypergrind",
    "mobygames": "12285"
   },
   "label_en": "Go! Go! Hypergrind",
@@ -131,6 +135,7 @@
   "ids": {
    "howlongtobeat": "5536",
    "igdb": "magic-the-gathering-duels-of-the-planeswalkers-2013",
+   "metacritic": "magic-the-gathering-duels-of-the-planeswalkers-2012",
    "mobygames": "61733",
    "pcgamingwiki": "Magic:_The_Gathering_-_Duels_of_the_Planeswalkers_2013",
    "steam": "97330"
@@ -187,6 +192,7 @@
   "ids": {
    "howlongtobeat": "27012",
    "igdb": "motogp-15",
+   "metacritic": "motogp-15",
    "mobygames": "84413",
    "pcgamingwiki": "MotoGP_15",
    "steam": "355130"
@@ -208,6 +214,7 @@
  },
  {
   "ids": {
+   "metacritic": "nfl-blitz-20-02",
    "mobygames": "31008"
   },
   "label_en": "NFL Blitz 20-02",
@@ -218,6 +225,7 @@
   "ids": {
    "howlongtobeat": "68136",
    "igdb": "madden-nfl-20",
+   "metacritic": "madden-nfl-20",
    "mobygames": "132969",
    "pcgamingwiki": "Madden_NFL_20"
   },
@@ -236,6 +244,7 @@
   "enwiki": "NFL 2K2",
   "ids": {
    "igdb": "nfl-2k2",
+   "metacritic": "nfl-2k2",
    "mobygames": "7747"
   },
   "label_en": "NFL 2K2",
@@ -255,6 +264,7 @@
   "ids": {
    "howlongtobeat": "81672",
    "igdb": "fast-and-furious-crossroads",
+   "metacritic": "fast-furious-crossroads",
    "mobygames": "149078",
    "pcgamingwiki": "Fast_&_Furious_Crossroads",
    "steam": "678030"
@@ -273,6 +283,7 @@
   "ids": {
    "howlongtobeat": "33936",
    "igdb": "eventide-slavic-fable",
+   "metacritic": "eventide-slavic-fable",
    "mobygames": "82039",
    "pcgamingwiki": "Eventide:_Slavic_Fable",
    "steam": "406870"
@@ -374,6 +385,7 @@
   "ids": {
    "howlongtobeat": "12953",
    "igdb": "dollar-dash",
+   "metacritic": "dollar-dash",
    "mobygames": "67859",
    "pcgamingwiki": "Dollar_Dash",
    "steam": "214320"
@@ -397,6 +409,7 @@
   "ids": {
    "howlongtobeat": "34843",
    "igdb": "fire-emblem-fates-birthright",
+   "metacritic": "fire-emblem-fates-birthright",
    "mobygames": "73726"
   },
   "label_en": "Fire Emblem Fates: Birthright",
@@ -670,6 +683,7 @@
    "epic": "the-jackbox-party-pack-10-c6f152",
    "howlongtobeat": "141634",
    "igdb": "the-jackbox-party-pack-10",
+   "metacritic": "the-jackbox-party-pack-10",
    "mobygames": "210425",
    "pcgamingwiki": "The_Jackbox_Party_Pack_10",
    "steam": "2216830"
@@ -841,6 +855,7 @@
    "epic": "tides-of-annihilation-27dbb7",
    "howlongtobeat": "163818",
    "igdb": "tides-of-annihilation",
+   "metacritic": "tides-of-annihilation",
    "mobygames": "250787",
    "pcgamingwiki": "Tides_of_Annihilation",
    "steam": "3292470"

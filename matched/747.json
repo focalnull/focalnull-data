@@ -3,6 +3,7 @@
   "enwiki": "Metal Slug 7",
   "ids": {
    "igdb": "metal-slug-7",
+   "metacritic": "metal-slug-7",
    "mobygames": "40655"
   },
   "label_en": "Metal Slug 7",
@@ -33,6 +34,7 @@
   "ids": {
    "howlongtobeat": "17857",
    "igdb": "blinx-2-masters-of-time-and-space",
+   "metacritic": "blinx-2-masters-of-time-space",
    "mobygames": "18075"
   },
   "label_en": "Blinx 2: Masters of Time and Space",
@@ -43,6 +45,7 @@
   "ids": {
    "howlongtobeat": "1412",
    "igdb": "bushido-blade",
+   "metacritic": "bushido-blade",
    "mobygames": "3699"
   },
   "label_en": "Bushido Blade",
@@ -120,6 +123,7 @@
   "enwiki": "Shin Megami Tensei: Devil Survivor 2",
   "ids": {
    "igdb": "shin-megami-tensei-devil-survivor-2",
+   "metacritic": "shin-megami-tensei-devil-survivor-2",
    "mobygames": "90258"
   },
   "label_en": "Shin Megami Tensei: Devil Survivor 2",
@@ -129,6 +133,7 @@
   "enwiki": "Belief & Betrayal",
   "ids": {
    "igdb": "belief-and-betrayal",
+   "metacritic": "belief-and-betrayal",
    "mobygames": "28527"
   },
   "label_en": "Belief & Betrayal",
@@ -156,6 +161,7 @@
   "enwiki": "Scene It? Lights, Camera, Action",
   "ids": {
    "igdb": "scene-it-lights-camera-action",
+   "metacritic": "scene-it-lights-camera-action",
    "mobygames": "32908"
   },
   "label_en": "Scene It? Lights, Camera, Action",
@@ -183,6 +189,7 @@
    "epic": "runbow-fc9fa4",
    "howlongtobeat": "29826",
    "igdb": "runbow",
+   "metacritic": "runbow",
    "mobygames": "86523",
    "pcgamingwiki": "Runbow",
    "steam": "464650"
@@ -196,6 +203,7 @@
    "epic": "ark",
    "howlongtobeat": "26629",
    "igdb": "ark-survival-evolved",
+   "metacritic": "ark-survival-evolved",
    "mobygames": "82671",
    "pcgamingwiki": "ARK:_Survival_Evolved",
    "steam": "346110"
@@ -218,6 +226,7 @@
   "enwiki": "RIGS: Mechanized Combat League",
   "ids": {
    "igdb": "rigs-mechanized-combat-league",
+   "metacritic": "rigs-mechanized-combat-league",
    "mobygames": "84009"
   },
   "label_en": "RIGS: Mechanized Combat League",
@@ -228,6 +237,7 @@
   "ids": {
    "howlongtobeat": "68301",
    "igdb": "school-girl-slash-zombie-hunter",
+   "metacritic": "sgzh-school-girl-zombie-hunter",
    "mobygames": "98321",
    "pcgamingwiki": "School_Girl/Zombie_Hunter",
    "steam": "682570"
@@ -240,6 +250,7 @@
   "ids": {
    "howlongtobeat": "36582",
    "igdb": "oneshot",
+   "metacritic": "oneshot",
    "mobygames": "82064",
    "pcgamingwiki": "OneShot",
    "steam": "420530"
@@ -253,6 +264,7 @@
    "gog": "game/songbringer",
    "howlongtobeat": "43358",
    "igdb": "songbringer",
+   "metacritic": "songbringer",
    "mobygames": "95550",
    "pcgamingwiki": "Songbringer",
    "steam": "367080"
@@ -273,6 +285,7 @@
  {
   "ids": {
    "igdb": "wipeout-the-game",
+   "metacritic": "wipeout-the-game",
    "mobygames": "88630"
   },
   "label_en": "Wipeout: The Game",
@@ -283,6 +296,7 @@
   "ids": {
    "howlongtobeat": "52746",
    "igdb": "world-end-syndrome",
+   "metacritic": "world-end-syndrome",
    "mobygames": "126246"
   },
   "label_en": "World End Syndrome",
@@ -310,6 +324,7 @@
   "ids": {
    "howlongtobeat": "43434",
    "igdb": "a-foretold-affair",
+   "metacritic": "a-foretold-affair",
    "mobygames": "153806",
    "pcgamingwiki": "A_Foretold_Affair",
    "steam": "586670"
@@ -347,6 +362,7 @@
   "ids": {
    "howlongtobeat": "99254",
    "igdb": "concernedapes-haunted-chocolatier",
+   "metacritic": "concernedapes-haunted-chocolatier",
    "pcgamingwiki": "Haunted_Chocolatier"
   },
   "label_en": "Haunted Chocolatier",
@@ -356,6 +372,7 @@
   "ids": {
    "howlongtobeat": "47144",
    "igdb": "carnival-games-vr",
+   "metacritic": "carnival-games-vr",
    "mobygames": "83101",
    "pcgamingwiki": "Carnival_Games_VR",
    "steam": "458920"
@@ -838,6 +855,7 @@
   "ids": {
    "gog": "game/cavern_of_dreams",
    "igdb": "cavern-of-dreams",
+   "metacritic": "cavern-of-dreams",
    "mobygames": "210446",
    "pcgamingwiki": "Cavern_of_Dreams",
    "steam": "2059660"
@@ -849,6 +867,7 @@
   "enwiki": "Passage: Path of Betrayal",
   "ids": {
    "igdb": "passage-path-of-betrayal",
+   "metacritic": "passage-path-of-betrayal",
    "mobygames": "5048"
   },
   "label_en": "Passage: Path of Betrayal",

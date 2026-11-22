@@ -6,6 +6,7 @@
    "gog": "game/lego_batman_the_videogame",
    "howlongtobeat": "5245",
    "igdb": "lego-batman-the-videogame",
+   "metacritic": "lego-batman-the-videogame",
    "mobygames": "36449",
    "pcgamingwiki": "Lego_Batman:_The_Videogame",
    "steam": "21000"
@@ -26,6 +27,7 @@
    "gog": "game/quake_iii_arena",
    "howlongtobeat": "7459",
    "igdb": "quake-iii-arena",
+   "metacritic": "quake-iii-arena",
    "mobygames": "649",
    "pcgamingwiki": "Quake_III_Arena",
    "steam": "2200"
@@ -38,6 +40,7 @@
   "ids": {
    "howlongtobeat": "10043",
    "igdb": "the-legend-of-zelda-spirit-tracks",
+   "metacritic": "the-legend-of-zelda-spirit-tracks",
    "mobygames": "44059"
   },
   "label_en": "The Legend of Zelda: Spirit Tracks",
@@ -50,6 +53,7 @@
    "gog": "game/kerbal_space_program",
    "howlongtobeat": "12079",
    "igdb": "kerbal-space-program",
+   "metacritic": "kerbal-space-program",
    "mobygames": "70681",
    "pcgamingwiki": "Kerbal_Space_Program",
    "steam": "220200"
@@ -61,6 +65,7 @@
   "ids": {
    "howlongtobeat": "21824",
    "igdb": "cossacks-back-to-war",
+   "metacritic": "cossacks-back-to-war",
    "mobygames": "13461",
    "pcgamingwiki": "Cossacks:_Back_to_War",
    "steam": "4850"
@@ -158,6 +163,7 @@
   "enwiki": "Go! Sudoku",
   "ids": {
    "igdb": "go-sudoku",
+   "metacritic": "go-sudoku",
    "mobygames": "22719"
   },
   "label_en": "Go! Sudoku",
@@ -223,6 +229,7 @@
    "gog": "game/kingdom_come_deliverance",
    "howlongtobeat": "21697",
    "igdb": "kingdom-come-deliverance",
+   "metacritic": "kingdom-come-deliverance",
    "mobygames": "103240",
    "pcgamingwiki": "Kingdom_Come:_Deliverance",
    "steam": "379430"
@@ -239,6 +246,7 @@
    "gog": "game/ronin",
    "howlongtobeat": "26167",
    "igdb": "ronin",
+   "metacritic": "ronin",
    "mobygames": "83646",
    "pcgamingwiki": "Ronin",
    "steam": "274230"
@@ -253,6 +261,7 @@
    "gog": "game/deponia_doomsday",
    "howlongtobeat": "35508",
    "igdb": "deponia-doomsday",
+   "metacritic": "deponia-doomsday",
    "mobygames": "87650",
    "pcgamingwiki": "Deponia_Doomsday",
    "steam": "421050"
@@ -264,6 +273,7 @@
   "enwiki": "Everybody's Golf (2017 video game)",
   "ids": {
    "igdb": "everybodys-golf--1",
+   "metacritic": "everybodys-golf",
    "mobygames": "95336"
   },
   "label_en": "Everybody's Golf",
@@ -285,6 +295,7 @@
   "ids": {
    "howlongtobeat": "60645",
    "igdb": "nba-2k19",
+   "metacritic": "nba-2k19",
    "mobygames": "113214",
    "pcgamingwiki": "NBA_2K19",
    "steam": "841370"
@@ -304,6 +315,7 @@
   "ids": {
    "howlongtobeat": "62709",
    "igdb": "frog-detective-1-the-haunted-island",
+   "metacritic": "the-haunted-island-a-frog-detective-game",
    "mobygames": "117653",
    "pcgamingwiki": "The_Haunted_Island,_a_Frog_Detective_Game",
    "steam": "963000"
@@ -315,6 +327,7 @@
   "ids": {
    "howlongtobeat": "56585",
    "igdb": "skyling-garden-defense",
+   "metacritic": "skyling-garden-defense",
    "mobygames": "189832",
    "pcgamingwiki": "Skyling:_Garden_Defense",
    "steam": "577160"
@@ -368,6 +381,7 @@
    "gog": "game/frogun",
    "howlongtobeat": "96283",
    "igdb": "frogun",
+   "metacritic": "frogun",
    "mobygames": "189023",
    "pcgamingwiki": "Frogun",
    "steam": "1575470"
@@ -379,6 +393,7 @@
   "ids": {
    "howlongtobeat": "84526",
    "igdb": "ogre-tale",
+   "metacritic": "ogre-tale",
    "mobygames": "154641",
    "pcgamingwiki": "Ogre_Tale",
    "steam": "1124050"
@@ -409,6 +424,7 @@
   "enwiki": "Braveheart (2010 video game)",
   "ids": {
    "igdb": "braveheart--1",
+   "metacritic": "braveheart",
    "mobygames": "51654"
   },
   "label_en": "Braveheart",
@@ -464,6 +480,7 @@
   "ids": {
    "howlongtobeat": "95521",
    "igdb": "runo",
+   "pcgamingwiki": "Runo",
    "steam": "1642130"
   },
   "label_en": "Runo",
@@ -685,6 +702,7 @@
  {
   "ids": {
    "igdb": "damage-inc-pacific-squadron-wwii",
+   "metacritic": "damage-inc-pacific-squadron-wwii",
    "pcgamingwiki": "Damage_Inc._Pacific_Squadron_WWII",
    "steam": "215390"
   },
@@ -1094,6 +1112,7 @@
  },
  {
   "ids": {
+   "pcgamingwiki": "The_Cat_in_the_Hat:_Rainy_Day_Mayhem",
    "steam": "3465710"
   },
   "label_en": "The Cat in the Hat: Rainy Day Mayhem",
@@ -1105,6 +1124,8 @@
    "epic": "warrior-cats-clans-of-the-forest-6e00fa",
    "howlongtobeat": "189502",
    "igdb": "warrior-cats-clans-of-the-forest",
+   "metacritic": "warrior-cats-clans-of-the-forest",
+   "pcgamingwiki": "Warrior_Cats:_Clans_of_the_Forest",
    "steam": "3960600"
   },
   "label_en": "Warrior Cats: Clans of the Forest",

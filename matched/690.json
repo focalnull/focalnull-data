@@ -15,6 +15,7 @@
   "enwiki": "The Simpsons: Hit & Run",
   "ids": {
    "igdb": "the-simpsons-hit-run",
+   "metacritic": "the-simpsons-hit-and-run",
    "mobygames": "10421",
    "pcgamingwiki": "The_Simpsons:_Hit_&_Run"
   },
@@ -25,13 +26,14 @@
   "enwiki": "Dance Dance Revolution SuperNova",
   "ids": {
    "igdb": "dance-dance-revolution-supernova",
+   "metacritic": "dance-dance-revolution-supernova",
    "mobygames": "32547"
   },
   "label_en": "Dance Dance Revolution SuperNova",
   "wikidata": "Q1975690"
  },
  {
-  "enwiki": "Utopia (1981 video game)",
+  "enwiki": "Utopia (1982 video game)",
   "ids": {
    "igdb": "utopia",
    "mobygames": "11545"
@@ -52,6 +54,7 @@
   "ids": {
    "howlongtobeat": "14618",
    "igdb": "total-war-shogun-2-fall-of-the-samurai",
+   "metacritic": "total-war-shogun-2-fall-of-the-samurai",
    "mobygames": "57573",
    "pcgamingwiki": "Total_War:_Shogun_2_-_Fall_of_the_Samurai",
    "steam": "201271"
@@ -87,6 +90,7 @@
   "enwiki": "DDRMAX Dance Dance Revolution",
   "ids": {
    "igdb": "ddrmax-dance-dance-revolution",
+   "metacritic": "ddrmax-dance-dance-revolution",
    "mobygames": "7496"
   },
   "label_en": "DDRMAX Dance Dance Revolution",
@@ -106,6 +110,7 @@
   "ids": {
    "howlongtobeat": "6281",
    "igdb": "mutant-storm-reloaded",
+   "metacritic": "mutant-storm-reloaded",
    "mobygames": "102061",
    "pcgamingwiki": "Mutant_Storm:_Reloaded",
    "steam": "110630"
@@ -143,6 +148,7 @@
   "enwiki": "Wrecked: Revenge Revisited",
   "ids": {
    "igdb": "wrecked-revenge-revisited",
+   "metacritic": "wrecked-revenge-revisited",
    "mobygames": "55545"
   },
   "label_en": "Wrecked: Revenge Revisited",
@@ -163,6 +169,7 @@
   "ids": {
    "howlongtobeat": "15264",
    "igdb": "r-dot-i-p-dot-d-the-game",
+   "metacritic": "r-i-p-d-the-game",
    "mobygames": "85327",
    "pcgamingwiki": "R.I.P.D.:_The_Game",
    "steam": "237590"
@@ -173,6 +180,7 @@
  {
   "ids": {
    "igdb": "harukuru-spring-has-come-true",
+   "metacritic": "harukuru-spring-has-come-true-",
    "mobygames": "237831",
    "steam": "3166220"
   },
@@ -184,6 +192,7 @@
   "ids": {
    "howlongtobeat": "41986",
    "igdb": "gigantic",
+   "metacritic": "gigantic",
    "mobygames": "92914",
    "pcgamingwiki": "Gigantic",
    "steam": "327690"
@@ -204,6 +213,7 @@
   "enwiki": "Etrian Odyssey 2 Untold: The Fafnir Knight",
   "ids": {
    "igdb": "etrian-odyssey-2-untold-the-fafnir-knight",
+   "metacritic": "etrian-odyssey-2-untold-the-fafnir-knight",
    "mobygames": "76952"
   },
   "label_en": "Etrian Odyssey 2 Untold: The Fafnir Knight",
@@ -232,6 +242,7 @@
   "ids": {
    "howlongtobeat": "61992",
    "igdb": "our-world-is-ended",
+   "metacritic": "our-world-is-ended",
    "mobygames": "124684",
    "pcgamingwiki": "Our_World_Is_Ended",
    "steam": "940650"
@@ -243,6 +254,7 @@
   "enwiki": "Style Savvy: Styling Star",
   "ids": {
    "igdb": "style-savvy-styling-star",
+   "metacritic": "style-savvy-styling-star",
    "mobygames": "98616"
   },
   "label_en": "Style Savvy: Styling Star",
@@ -251,6 +263,7 @@
  {
   "ids": {
    "igdb": "cranium-kabookii",
+   "metacritic": "cranium-kabookii",
    "mobygames": "34271"
   },
   "label_en": "Cranium Kabookii",
@@ -259,6 +272,7 @@
  {
   "ids": {
    "igdb": "prince-of-persia-revelations",
+   "metacritic": "prince-of-persia-revelations",
    "mobygames": "23743"
   },
   "label_en": "Prince of Persia: Revelations",
@@ -285,6 +299,7 @@
   "ids": {
    "howlongtobeat": "136855",
    "igdb": "one-piece-bounty-rush",
+   "pcgamingwiki": "One_Piece:_Bounty_Rush",
    "steam": "2918150"
   },
   "label_en": "One Piece Bounty Rush",
@@ -383,6 +398,7 @@
    "gog": "game/bahnsen_knights",
    "howlongtobeat": "136075",
    "igdb": "bahnsen-knights",
+   "metacritic": "bahnsen-knights",
    "mobygames": "213906",
    "steam": "1933190"
   },
@@ -431,7 +447,8 @@
  },
  {
   "ids": {
-   "igdb": "pocket-card-jockey-ride-on"
+   "igdb": "pocket-card-jockey-ride-on",
+   "metacritic": "pocket-card-jockey-ride-on"
   },
   "label_en": "Pocket Card Jockey: Ride On!",
   "wikidata": "Q116719690"
@@ -868,7 +885,8 @@
  },
  {
   "ids": {
-   "igdb": "wash-simulator-clean-garage-house-cars-business-tycoons"
+   "igdb": "wash-simulator-clean-garage-house-cars-business-tycoons",
+   "metacritic": "wash-simulator-clean-garage-house-cars-business"
   },
   "label_en": "Wash Simulator - Clean Garage, House, Cars Business Tycoons",
   "wikidata": "Q131405690"
@@ -1127,6 +1145,7 @@
   "ids": {
    "howlongtobeat": "175461",
    "igdb": "casey-noir-and-carved-pumpkins-latte",
+   "metacritic": "casey-noir-and-carved-pumpkins-latte",
    "steam": "3840970"
   },
   "label_en": "Casey Noir and Carved Pumpkin's Latte",

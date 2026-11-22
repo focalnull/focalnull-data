@@ -17,6 +17,7 @@
   "ids": {
    "howlongtobeat": "7727",
    "igdb": "resident-evil-code-veronica",
+   "metacritic": "resident-evil-code-veronica-x",
    "mobygames": "15183"
   },
   "label_en": "Resident Evil – Code: Veronica",
@@ -27,6 +28,7 @@
   "ids": {
    "howlongtobeat": "10556",
    "igdb": "touchmaster-ds",
+   "metacritic": "touchmaster",
    "mobygames": "80478"
   },
   "label_en": "TouchMaster",
@@ -37,6 +39,7 @@
   "ids": {
    "howlongtobeat": "1179",
    "igdb": "blood-bowl",
+   "metacritic": "blood-bowl-legendary-edition",
    "mobygames": "41305",
    "pcgamingwiki": "Blood_Bowl_(2009)",
    "steam": "58520"
@@ -84,6 +87,7 @@
   "enwiki": "Gardening Mama",
   "ids": {
    "igdb": "gardening-mama",
+   "metacritic": "gardening-mama",
    "mobygames": "85430"
   },
   "label_en": "Gardening Mama",
@@ -104,6 +108,7 @@
    "epic": "neverwinter",
    "howlongtobeat": "6514",
    "igdb": "neverwinter",
+   "metacritic": "neverwinter",
    "mobygames": "65197",
    "pcgamingwiki": "Neverwinter",
    "steam": "109600"
@@ -126,6 +131,7 @@
   "ids": {
    "howlongtobeat": "4775",
    "igdb": "izuna-legend-of-the-unemployed-ninja",
+   "metacritic": "izuna-legend-of-the-unemployed-ninja",
    "mobygames": "31213"
   },
   "label_en": "Izuna: Legend of the Unemployed Ninja",
@@ -162,6 +168,7 @@
   "ids": {
    "howlongtobeat": "58987",
    "igdb": "pajama-sam-in-no-need-to-hide-when-it-s-dark-outside",
+   "metacritic": "pajama-sam-no-need-to-hide-when-its-dark-outside",
    "mobygames": "1200",
    "pcgamingwiki": "Pajama_Sam:_No_Need_To_Hide_When_It's_Dark_Outside",
    "steam": "283960"
@@ -199,7 +206,8 @@
  {
   "enwiki": "Samurai Warriors Chronicles 3",
   "ids": {
-   "igdb": "samurai-warriors-chronicles-3"
+   "igdb": "samurai-warriors-chronicles-3",
+   "metacritic": "samurai-warriors-chronicles-3"
   },
   "label_en": "Samurai Warriors Chronicles 3",
   "wikidata": "Q17995284"
@@ -214,6 +222,7 @@
   "ids": {
    "howlongtobeat": "30592",
    "igdb": "the-legend-of-zelda-tri-force-heroes",
+   "metacritic": "the-legend-of-zelda-tri-force-heroes",
    "mobygames": "75907"
   },
   "label_en": "The Legend of Zelda: Tri Force Heroes",
@@ -236,6 +245,7 @@
   "ids": {
    "howlongtobeat": "51374",
    "igdb": "raid-world-war-ii",
+   "metacritic": "raid-world-war-ii",
    "mobygames": "96436",
    "pcgamingwiki": "RAID:_World_War_II",
    "steam": "414740"
@@ -276,6 +286,7 @@
    "epic": "oddworld-soulstorm",
    "howlongtobeat": "72620",
    "igdb": "oddworld-soulstorm",
+   "metacritic": "oddworld-soulstorm",
    "mobygames": "161906",
    "pcgamingwiki": "Oddworld:_Soulstorm",
    "steam": "619390"
@@ -296,6 +307,7 @@
    "gog": "game/gris",
    "howlongtobeat": "62257",
    "igdb": "gris",
+   "metacritic": "gris",
    "mobygames": "117263",
    "pcgamingwiki": "GRIS",
    "steam": "683320"
@@ -307,6 +319,7 @@
   "ids": {
    "howlongtobeat": "126017",
    "igdb": "scp-5k",
+   "metacritic": "scp-pandemic",
    "mobygames": "180353",
    "pcgamingwiki": "SCP:_Ascension",
    "steam": "872670"
@@ -319,6 +332,7 @@
   "ids": {
    "howlongtobeat": "92446",
    "igdb": "lost-judgment",
+   "metacritic": "lost-judgment",
    "mobygames": "172770",
    "pcgamingwiki": "Lost_Judgment",
    "steam": "2058190"
@@ -331,6 +345,7 @@
    "gog": "game/spellcaster_university",
    "howlongtobeat": "71427",
    "igdb": "spellcaster-university",
+   "metacritic": "spellcaster-university",
    "mobygames": "166407",
    "pcgamingwiki": "Spellcaster_University",
    "steam": "895620"
@@ -379,6 +394,7 @@
   "ids": {
    "howlongtobeat": "134553",
    "igdb": "little-nightmares-iii--1",
+   "metacritic": "little-nightmares-iii",
    "mobygames": "248958",
    "pcgamingwiki": "Little_Nightmares_III",
    "steam": "1392860"
@@ -722,6 +738,7 @@
   "ids": {
    "howlongtobeat": "124833",
    "igdb": "i-got-a-millenary-cat",
+   "metacritic": "i-got-a-millenary-cat",
    "mobygames": "194251",
    "steam": "1894080"
   },
@@ -730,7 +747,8 @@
  },
  {
   "ids": {
-   "igdb": "hold-your-fire-a-game-about-responsibility"
+   "igdb": "hold-your-fire-a-game-about-responsibility",
+   "metacritic": "hold-your-fire-a-game-about-responsibility"
   },
   "label_en": "Hold Your Fire: A Game About Responsibility",
   "wikidata": "Q127233284"
@@ -738,6 +756,7 @@
  {
   "ids": {
    "igdb": "super-destronaut-2-go-duck-yourself",
+   "metacritic": "super-destronaut-2-go-duck-yourself",
    "mobygames": "93075"
   },
   "label_en": "Super Destronaut 2: Go Duck Yourself",
@@ -756,6 +775,7 @@
    "gog": "game/merry_bunny_garden",
    "howlongtobeat": "174694",
    "igdb": "merry-bunny-garden",
+   "metacritic": "merry-bunny-garden",
    "mobygames": "260422",
    "steam": "3575730"
   },
@@ -1115,5 +1135,9 @@
   },
   "label_en": "Hentai Senpai: Kairaku No Maid Service",
   "wikidata": "Q141481284"
+ },
+ {
+  "label_en": "Kita e: Diamond Dust + Kiss is Beginning",
+  "wikidata": "Q142211284"
  }
 ]

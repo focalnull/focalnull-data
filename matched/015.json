@@ -13,6 +13,7 @@
   "enwiki": "NBA Street",
   "ids": {
    "igdb": "nba-street",
+   "metacritic": "nba-street",
    "mobygames": "4514"
   },
   "label_en": "NBA Street",
@@ -22,6 +23,7 @@
   "enwiki": "Super Robot Taisen: Original Generation",
   "ids": {
    "igdb": "super-robot-taisen-original-generation",
+   "metacritic": "super-robot-taisen-original-generation",
    "mobygames": "23503"
   },
   "label_en": "Super Robot Taisen: Original Generation",
@@ -33,6 +35,7 @@
    "gog": "game/ys_vi_the_ark_of_napishtim",
    "howlongtobeat": "11473",
    "igdb": "ys-vi-the-ark-of-napishtim",
+   "metacritic": "ys-the-ark-of-napishtim",
    "mobygames": "13589",
    "pcgamingwiki": "Ys_VI:_The_Ark_of_Napishtim",
    "steam": "312540"
@@ -54,6 +57,7 @@
   "ids": {
    "howlongtobeat": "5094",
    "igdb": "klonoa-door-to-phantomile",
+   "metacritic": "klonoa",
    "mobygames": "9158"
   },
   "label_en": "Klonoa: Door to Phantomile",
@@ -71,6 +75,7 @@
   "enwiki": "Mario Party 6",
   "ids": {
    "igdb": "mario-party-6",
+   "metacritic": "mario-party-6",
    "mobygames": "15812"
   },
   "label_en": "Mario Party 6",
@@ -101,6 +106,7 @@
    "gog": "game/runaway_3_a_twist_of_fate",
    "howlongtobeat": "8017",
    "igdb": "runaway-3-a-twist-of-fate",
+   "metacritic": "runaway-a-twist-of-fate",
    "mobygames": "43888",
    "pcgamingwiki": "Runaway:_A_Twist_of_Fate",
    "steam": "58560"
@@ -122,6 +128,7 @@
   "ids": {
    "howlongtobeat": "1192",
    "igdb": "bloody-good-time",
+   "metacritic": "bloody-good-time",
    "mobygames": "49169",
    "pcgamingwiki": "Bloody_Good_Time",
    "steam": "2450"
@@ -275,6 +282,7 @@
   "ids": {
    "howlongtobeat": "17325",
    "igdb": "kao-challengers",
+   "metacritic": "kao-challengers",
    "mobygames": "20424"
   },
   "label_en": "Kao Challengers",
@@ -312,6 +320,7 @@
   "ids": {
    "howlongtobeat": "43992",
    "igdb": "star-trek-bridge-crew",
+   "metacritic": "star-trek-bridge-crew",
    "mobygames": "89542",
    "pcgamingwiki": "Star_Trek:_Bridge_Crew",
    "steam": "527100"
@@ -333,7 +342,9 @@
  {
   "ids": {
    "igdb": "stuart-little-2--1",
-   "mobygames": "60741"
+   "metacritic": "stuart-little-2",
+   "mobygames": "60741",
+   "pcgamingwiki": "Stuart_Little_2"
   },
   "label_en": "Stuart Little 2",
   "wikidata": "Q48703015"
@@ -343,6 +354,7 @@
   "ids": {
    "howlongtobeat": "80101",
    "igdb": "pragmata",
+   "metacritic": "pragmata",
    "mobygames": "251832",
    "pcgamingwiki": "Pragmata",
    "steam": "3357650"
@@ -354,6 +366,7 @@
   "ids": {
    "howlongtobeat": "43884",
    "igdb": "12-labours-of-hercules-vi-race-for-olympus",
+   "metacritic": "12-labours-of-hercules-vi-race-for-olympus",
    "mobygames": "86924",
    "pcgamingwiki": "12_Labours_of_Hercules_VI:_Race_for_Olympus",
    "steam": "567800"
@@ -374,6 +387,7 @@
   "ids": {
    "howlongtobeat": "95570",
    "igdb": "company-of-heroes-3",
+   "metacritic": "company-of-heroes-3",
    "mobygames": "199646",
    "pcgamingwiki": "Company_of_Heroes_3",
    "steam": "1677280"
@@ -391,6 +405,7 @@
    "gog": "game/the_gunk",
    "howlongtobeat": "81125",
    "igdb": "the-gunk",
+   "metacritic": "the-gunk",
    "mobygames": "177025",
    "pcgamingwiki": "The_Gunk",
    "steam": "1087760"
@@ -409,6 +424,7 @@
   "ids": {
    "howlongtobeat": "42823",
    "igdb": "zup-3",
+   "metacritic": "zup-3",
    "mobygames": "87620",
    "pcgamingwiki": "Zup!_3",
    "steam": "575640"
@@ -461,6 +477,7 @@
   "ids": {
    "howlongtobeat": "13179",
    "igdb": "storm",
+   "metacritic": "storm",
    "mobygames": "72029",
    "pcgamingwiki": "Storm",
    "steam": "231020"
@@ -793,6 +810,7 @@
   "ids": {
    "howlongtobeat": "49515",
    "igdb": "insidia",
+   "metacritic": "insidia",
    "mobygames": "104205",
    "pcgamingwiki": "Insidia",
    "steam": "592890"

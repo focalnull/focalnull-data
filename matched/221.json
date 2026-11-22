@@ -38,6 +38,7 @@
   "ids": {
    "igdb": "jack-the-nipper--1",
    "mobygames": "19988",
+   "pcgamingwiki": "Jack_the_Nipper",
    "steam": "2072680"
   },
   "label_en": "Jack the Nipper",
@@ -57,6 +58,7 @@
   "ids": {
    "howlongtobeat": "758",
    "igdb": "axel-and-pixel",
+   "metacritic": "axel-and-pixel",
    "mobygames": "46020",
    "pcgamingwiki": "Axel_&_Pixel",
    "steam": "8970"
@@ -75,7 +77,8 @@
  {
   "enwiki": "Eureka Seven Vol. 2: The New Vision",
   "ids": {
-   "igdb": "eureka-seven-vol-2-the-new-vision"
+   "igdb": "eureka-seven-vol-2-the-new-vision",
+   "metacritic": "eureka-seven-vol-2-the-new-vision"
   },
   "label_en": "Eureka Seven Vol. 2: The New Vision",
   "wikidata": "Q5411221"
@@ -104,6 +107,7 @@
   "enwiki": "Marvel vs. Capcom Origins",
   "ids": {
    "igdb": "marvel-vs-capcom-origins",
+   "metacritic": "marvel-vs-capcom-origins",
    "mobygames": "76867"
   },
   "label_en": "Marvel vs. Capcom Origins",
@@ -112,7 +116,8 @@
  {
   "enwiki": "PQ2: Practical Intelligence Quotient 2",
   "ids": {
-   "igdb": "pq2-practical-intelligence-quotient-2"
+   "igdb": "pq2-practical-intelligence-quotient-2",
+   "metacritic": "pq2-practical-intelligence-quotient"
   },
   "label_en": "PQ2: Practical Intelligence Quotient 2",
   "wikidata": "Q7120221"
@@ -148,6 +153,7 @@
    "gog": "game/yookalaylee",
    "howlongtobeat": "26277",
    "igdb": "yooka-laylee",
+   "metacritic": "yooka-laylee",
    "mobygames": "86745",
    "pcgamingwiki": "Yooka-Laylee",
    "steam": "360830"
@@ -162,6 +168,7 @@
    "gog": "game/northgard",
    "howlongtobeat": "40006",
    "igdb": "northgard",
+   "metacritic": "northgard",
    "mobygames": "85161",
    "pcgamingwiki": "Northgard",
    "steam": "466560"
@@ -224,6 +231,7 @@
   "ids": {
    "howlongtobeat": "80731",
    "igdb": "wwe-2k-battlegrounds",
+   "metacritic": "wwe-2k-battlegrounds",
    "mobygames": "150480",
    "pcgamingwiki": "WWE_2K_Battlegrounds",
    "steam": "1142100"
@@ -245,7 +253,8 @@
  {
   "enwiki": "NHL 21",
   "ids": {
-   "igdb": "nhl-21"
+   "igdb": "nhl-21",
+   "metacritic": "nhl-21"
   },
   "label_en": "NHL 21",
   "wikidata": "Q98307221"
@@ -254,6 +263,7 @@
   "ids": {
    "howlongtobeat": "62286",
    "igdb": "touchmaster-2",
+   "metacritic": "touchmaster-2",
    "mobygames": "81148"
   },
   "label_en": "TouchMaster 2",
@@ -283,6 +293,7 @@
   "ids": {
    "howlongtobeat": "26002",
    "igdb": "son-of-nor",
+   "metacritic": "son-of-nor",
    "mobygames": "102062",
    "pcgamingwiki": "Son_of_Nor",
    "steam": "264000"
@@ -294,6 +305,7 @@
   "ids": {
    "howlongtobeat": "46516",
    "igdb": "tales-of-cosmos",
+   "metacritic": "tales-of-cosmos",
    "mobygames": "100733",
    "pcgamingwiki": "Tales_of_Cosmos",
    "steam": "350480"
@@ -305,6 +317,7 @@
   "ids": {
    "howlongtobeat": "104226",
    "igdb": "koa-and-the-five-pirates-of-mara",
+   "metacritic": "koa-and-the-five-pirates-of-mara",
    "mobygames": "206520",
    "pcgamingwiki": "Koa_and_the_Five_Pirates_of_Mara",
    "steam": "1819450"
@@ -602,6 +615,7 @@
   "ids": {
    "howlongtobeat": "28180",
    "igdb": "rymdresa",
+   "metacritic": "rymdresa",
    "mobygames": "109131",
    "pcgamingwiki": "RymdResa",
    "steam": "269690"
@@ -983,6 +997,7 @@
  {
   "ids": {
    "igdb": "brokenlore-ascend",
+   "pcgamingwiki": "BrokenLore:_Ascend",
    "steam": "4051470"
   },
   "label_en": "BrokenLore: Ascend",
@@ -998,6 +1013,7 @@
  {
   "ids": {
    "igdb": "elta-defy-all-gods",
+   "pcgamingwiki": "Elta:_Defy_All_Gods",
    "steam": "2659410"
   },
   "label_en": "Elta: Defy all Gods",

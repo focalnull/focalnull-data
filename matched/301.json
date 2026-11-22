@@ -4,6 +4,7 @@
   "ids": {
    "howlongtobeat": "3446",
    "igdb": "fifa-soccer-10",
+   "metacritic": "fifa-soccer-10",
    "mobygames": "43051",
    "pcgamingwiki": "FIFA_10"
   },
@@ -14,6 +15,7 @@
   "enwiki": "Deadliest Warrior: The Game",
   "ids": {
    "igdb": "deadliest-warrior-the-game",
+   "metacritic": "deadliest-warrior-the-game",
    "mobygames": "47440"
   },
   "label_en": "Deadliest Warrior: The Game",
@@ -25,6 +27,7 @@
    "gog": "game/tropico_4",
    "howlongtobeat": "10674",
    "igdb": "tropico-4",
+   "metacritic": "tropico-4",
    "mobygames": "53048",
    "pcgamingwiki": "Tropico_4",
    "steam": "57690"
@@ -62,6 +65,7 @@
   "enwiki": "Grand Prix Challenge",
   "ids": {
    "igdb": "grand-prix-challenge",
+   "metacritic": "grand-prix-challenge",
    "mobygames": "7828"
   },
   "label_en": "Grand Prix Challenge",
@@ -116,6 +120,7 @@
   "enwiki": "Lego Creator (video game)",
   "ids": {
    "igdb": "lego-creator",
+   "metacritic": "lego-creator",
    "mobygames": "36013",
    "pcgamingwiki": "Lego_Creator"
   },
@@ -153,6 +158,7 @@
   "enwiki": "The Cheetah Girls: Pop Star Sensations",
   "ids": {
    "igdb": "the-cheetah-girls-pop-star-sensations",
+   "metacritic": "the-cheetah-girls-pop-star-sensations",
    "mobygames": "48348"
   },
   "label_en": "The Cheetah Girls: Pop Star Sensations",
@@ -181,7 +187,8 @@
  {
   "enwiki": "Word Puzzle",
   "ids": {
-   "igdb": "word-puzzle"
+   "igdb": "word-puzzle",
+   "metacritic": "word-puzzle"
   },
   "label_en": "Word Puzzle",
   "wikidata": "Q8034301"
@@ -200,6 +207,7 @@
   "ids": {
    "howlongtobeat": "7186",
    "igdb": "poker-night-2",
+   "metacritic": "poker-night-2",
    "mobygames": "60714",
    "pcgamingwiki": "Poker_Night_2",
    "steam": "234710"
@@ -223,6 +231,7 @@
   "ids": {
    "howlongtobeat": "21258",
    "igdb": "resident-evil-revelations-2",
+   "metacritic": "resident-evil-revelations-2",
    "mobygames": "71735",
    "pcgamingwiki": "Resident_Evil:_Revelations_2",
    "steam": "287290"
@@ -254,6 +263,7 @@
   "ids": {
    "howlongtobeat": "44243",
    "igdb": "blaster-master-zero",
+   "metacritic": "blaster-master-zero",
    "mobygames": "85037",
    "pcgamingwiki": "Blaster_Master_Zero",
    "steam": "1034900"
@@ -278,6 +288,7 @@
    "gog": "game/enigmatis_2_the_mists_of_ravenwood",
    "howlongtobeat": "18404",
    "igdb": "enigmatis-2-the-mists-of-ravenwood",
+   "metacritic": "enigmatis-2-the-mists-of-ravenwood",
    "mobygames": "80538",
    "pcgamingwiki": "Enigmatis_2:_The_Mists_of_Ravenwood",
    "steam": "284770"
@@ -297,6 +308,7 @@
  {
   "ids": {
    "igdb": "the-dungeon-paradox",
+   "metacritic": "the-dungeon-paradox",
    "pcgamingwiki": "The_Dungeon_Paradox",
    "steam": "969340"
   },
@@ -307,6 +319,7 @@
   "ids": {
    "howlongtobeat": "15329",
    "igdb": "viscera-cleanup-detail-santa-s-rampage",
+   "metacritic": "viscera-cleanup-detail-santas-rampage",
    "mobygames": "62447",
    "pcgamingwiki": "Viscera_Cleanup_Detail:_Santa's_Rampage",
    "steam": "265210"
@@ -322,6 +335,7 @@
   "ids": {
    "howlongtobeat": "61011",
    "igdb": "detective-holmes-trap-for-the-hunter",
+   "metacritic": "sherlock-holmes-trap-for-the-hunter-hidden-objects",
    "mobygames": "105995",
    "pcgamingwiki": "Sherlock_Holmes:_Trap_for_the_Hunter",
    "steam": "809050"
@@ -385,6 +399,7 @@
    "gog": "game/adios",
    "howlongtobeat": "86459",
    "igdb": "adios",
+   "metacritic": "adios",
    "mobygames": "160751",
    "pcgamingwiki": "Adios",
    "steam": "1271400"
@@ -415,6 +430,7 @@
  {
   "ids": {
    "igdb": "deca-sports-3",
+   "metacritic": "deca-sports-3",
    "mobygames": "56522"
   },
   "label_en": "Deca Sports 3",
@@ -651,6 +667,7 @@
    "gog": "game/kona_ii_brume",
    "howlongtobeat": "138961",
    "igdb": "kona-ii-brume",
+   "metacritic": "kona-ii-brume",
    "mobygames": "210461",
    "pcgamingwiki": "Kona_II:_Brume",
    "steam": "1229020"
@@ -1188,6 +1205,8 @@
   "ids": {
    "epic": "loulan-the-cursed-sand-60d275",
    "igdb": "loulan-the-cursed-sand",
+   "metacritic": "loulan-the-cursed-sand",
+   "pcgamingwiki": "Loulan:_The_Cursed_Sand",
    "steam": "3833280"
   },
   "label_en": "Loulan: The Cursed Sand",

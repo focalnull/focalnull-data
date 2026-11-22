@@ -6,6 +6,7 @@
    "gog": "game/prince_of_persia_the_sands_of_time",
    "howlongtobeat": "7297",
    "igdb": "prince-of-persia-the-sands-of-time",
+   "metacritic": "prince-of-persia-the-sands-of-time",
    "mobygames": "11185",
    "pcgamingwiki": "Prince_of_Persia:_The_Sands_of_Time",
    "steam": "13600"
@@ -45,6 +46,7 @@
   "ids": {
    "howlongtobeat": "33331",
    "igdb": "disney-sing-it-pop-hits",
+   "metacritic": "disney-sing-it-pop-hits",
    "mobygames": "90956"
   },
   "label_en": "Disney Sing It: Pop Hits",
@@ -55,6 +57,7 @@
   "ids": {
    "howlongtobeat": "10163",
    "igdb": "the-secret-world",
+   "metacritic": "the-secret-world",
    "mobygames": "57787",
    "pcgamingwiki": "The_Secret_World",
    "steam": "215280"
@@ -87,6 +90,7 @@
    "gog": "game/the_bureau_xcom_declassified",
    "howlongtobeat": "12652",
    "igdb": "the-bureau-xcom-declassified",
+   "metacritic": "the-bureau-xcom-declassified",
    "mobygames": "61854",
    "pcgamingwiki": "The_Bureau:_XCOM_Declassified",
    "steam": "65930"
@@ -172,6 +176,7 @@
    "gog": "game/dying_light_the_following_enhanced_edition",
    "howlongtobeat": "21252",
    "igdb": "dying-light",
+   "metacritic": "dying-light",
    "mobygames": "77702",
    "pcgamingwiki": "Dying_Light",
    "steam": "239140"
@@ -183,6 +188,7 @@
   "enwiki": "Code Name: S.T.E.A.M.",
   "ids": {
    "igdb": "code-name-steam",
+   "metacritic": "code-name-steam",
    "mobygames": "85135"
   },
   "label_en": "Code Name: S.T.E.A.M.",
@@ -208,6 +214,7 @@
   "ids": {
    "howlongtobeat": "20600",
    "igdb": "qora",
+   "metacritic": "qora",
    "mobygames": "126286",
    "pcgamingwiki": "Qora",
    "steam": "304460"
@@ -233,6 +240,7 @@
    "epic": "need-for-speed-heat-ccbf8d",
    "howlongtobeat": "69695",
    "igdb": "need-for-speed-heat",
+   "metacritic": "need-for-speed-heat",
    "mobygames": "136553",
    "pcgamingwiki": "Need_for_Speed_Heat",
    "steam": "1222680"
@@ -246,6 +254,7 @@
    "epic": "nioh-2-the-complete-edition",
    "howlongtobeat": "60877",
    "igdb": "nioh-2",
+   "metacritic": "nioh-2",
    "mobygames": "158495",
    "pcgamingwiki": "Nioh_2:_The_Complete_Edition",
    "steam": "1325200"
@@ -258,6 +267,7 @@
    "gog": "game/bionic_dues",
    "howlongtobeat": "13957",
    "igdb": "bionic-dues",
+   "metacritic": "bionic-dues",
    "mobygames": "85634",
    "pcgamingwiki": "Bionic_Dues",
    "steam": "238910"
@@ -270,6 +280,7 @@
    "gog": "game/nethergate_resurrection",
    "howlongtobeat": "6507",
    "igdb": "nethergate-resurrection",
+   "metacritic": "nethergate-resurrection",
    "mobygames": "102175",
    "pcgamingwiki": "Nethergate:_Resurrection",
    "steam": "218020"
@@ -395,6 +406,7 @@
    "gog": "game/a_space_for_the_unbound",
    "howlongtobeat": "78881",
    "igdb": "a-space-for-the-unbound",
+   "metacritic": "a-space-for-the-unbound",
    "mobygames": "143045",
    "pcgamingwiki": "A_Space_for_the_Unbound",
    "steam": "1201270"
@@ -765,6 +777,7 @@
   "enwiki": "LumenTale: Memories of Trey",
   "ids": {
    "igdb": "lumentale-memories-of-trey",
+   "metacritic": "lumentale-memories-of-trey",
    "pcgamingwiki": "LumenTale:_Memories_of_Trey",
    "steam": "2261430"
   },
@@ -792,6 +805,7 @@
  {
   "ids": {
    "igdb": "spaceventure",
+   "metacritic": "spaceventure",
    "mobygames": "192353",
    "steam": "1374960"
   },
@@ -1078,6 +1092,7 @@
   "enwiki": "Turok: Evolution (GBA video game)",
   "ids": {
    "igdb": "turok-evolution--1",
+   "metacritic": "turok-evolution-2002",
    "mobygames": "30959"
   },
   "label_en": "Turok: Evolution",
@@ -1086,6 +1101,7 @@
  {
   "ids": {
    "igdb": "unfair-flips",
+   "metacritic": "unfair-flips",
    "steam": "3925760"
   },
   "label_en": "Unfair Flips",
@@ -1123,6 +1139,7 @@
  {
   "ids": {
    "igdb": "ells-tales-chairbound",
+   "pcgamingwiki": "Ells_Tales:_Chairbound",
    "steam": "3281410"
   },
   "label_en": "Ells Tales: Chairbound",
